@@ -1,0 +1,43 @@
+---
+entity_id: "release:vndb:r146985:work:vndb:work:v18685"
+type: "release"
+display_title: "Dies irae ~Interview with Kaziklu Bey~"
+release_date: "2026-03-30"
+is_all_ages: true
+platform: "win"
+edition_type: "partial"
+title_status: "needs_review"
+source_ids:
+  vndb: "r146985"
+source_urls:
+  vndb: "https://vndb.org/r146985"
+---
+
+# Dies irae ~Interview with Kaziklu Bey~
+
+## 会社与职责
+<!-- AUTO:BEGIN duty -->- [[Knox Translations]]（publisher）<!-- AUTO:END duty -->
+
+## 创作者
+<!-- AUTO:BEGIN role --><!-- AUTO:END role -->
+
+## 角色
+<!-- AUTO:BEGIN character --><!-- AUTO:END character -->
+
+## 声优
+<!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
+
+## 所属作品
+<!-- AUTO:BEGIN release -->- [[Dies irae ~Interview with Kaziklu Bey~]]<!-- AUTO:END release -->
+
+## 动画化
+<!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
+
+## 关联作品
+<!-- AUTO:BEGIN relation --><!-- AUTO:END relation -->
+
+## 标签
+<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+
+## 来源
+<!-- AUTO:BEGIN provenance -->vndb:r146985<!-- AUTO:END provenance -->

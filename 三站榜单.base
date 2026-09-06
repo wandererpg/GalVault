@@ -1,0 +1,75 @@
+filters:
+  and:
+  - file.inFolder("10-作品")
+  - type == "work"
+formulas: {}
+properties:
+  bangumi_rank:
+    displayName: Bangumi 排名
+  bangumi_score:
+    displayName: Bangumi 评分
+  bangumi_votes:
+    displayName: Bangumi 投票数
+  erogamescape_rank:
+    displayName: 批评空间排名
+  erogamescape_score:
+    displayName: 批评空间评分
+  erogamescape_votes:
+    displayName: 批评空间投票数
+  file.name:
+    displayName: 文件
+  title_ja:
+    displayName: 日文名
+  title_zh:
+    displayName: 中文标题
+  vndb_rank:
+    displayName: VNDB 排名
+  vndb_score:
+    displayName: VNDB 评分
+  vndb_votes:
+    displayName: VNDB 投票数
+views:
+- name: 三站评分排名
+  order:
+  - file.name
+  - title_zh
+  - vndb_score
+  - vndb_rank
+  - vndb_votes
+  - bangumi_score
+  - bangumi_rank
+  - bangumi_votes
+  - erogamescape_score
+  - erogamescape_rank
+  - erogamescape_votes
+  summaries:
+    bangumi_score: Average
+    erogamescape_score: Average
+    vndb_score: Average
+  type: table
+- filters:
+    and:
+    - vndb_rank != ""
+  groupBy:
+    direction: ASC
+    property: vndb_rank
+  name: VNDB 榜单
+  order:
+  - file.name
+  - title_zh
+  - vndb_rank
+  - vndb_score
+  type: table
+- filters:
+    and:
+    - bangumi_rank != ""
+  groupBy:
+    direction: ASC
+    property: bangumi_rank
+  name: Bangumi 榜单
+  order:
+  - file.name
+  - title_zh
+  - bangumi_rank
+  - bangumi_score
+  type: table

@@ -1,0 +1,56 @@
+---
+entity_id: "vndb:character:c6625"
+type: "character"
+display_title: "边古山佩子"
+title_zh: "边古山佩子"
+title_ja: "辺古山 ペコ"
+title_zh_quality: "converted_original"
+title_status: "machine_generated"
+aliases:
+  - "Pekoyama Peko"
+  - "辺古山 ペコ"
+  - "Ultimate Swordswoman"
+  - "超高校級の「剣道家」"
+  - "Super High School Level Kendo Practitioner"
+source_ids:
+  vndb: "c6625"
+source_urls:
+  vndb: "https://vndb.org/c6625"
+portrait_image: "assets/characters/c6625.webp"
+---
+
+# 边古山佩子
+
+## 角色画像
+<!-- AUTO:BEGIN image -->
+![[assets/characters/c6625.webp|250]]
+<!-- AUTO:END image -->
+
+## 会社与职责
+<!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->
+
+## 创作者
+<!-- AUTO:BEGIN role --><!-- AUTO:END role -->
+
+## 出场作品
+<!-- AUTO:BEGIN character -->- [[新枪弹辩驳V3 大家自相残杀的新学期]]（appears）
+- [[超级弹丸论破2 再见绝望学园]]（primary）<!-- AUTO:END character -->
+
+## 声优
+<!-- AUTO:BEGIN voice -->- [[Janice Kawaye]]（声优：Janice Kawaye）
+- [[Mitsuishi Kotono]]（声优：三石 琴乃）<!-- AUTO:END voice -->
+
+## 发行版
+<!-- AUTO:BEGIN release --><!-- AUTO:END release -->
+
+## 动画化
+<!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
+
+## 关系
+<!-- AUTO:BEGIN relation --><!-- AUTO:END relation -->
+
+## 标签
+<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+
+## 来源
+<!-- AUTO:BEGIN provenance -->vndb:c6625<!-- AUTO:END provenance -->

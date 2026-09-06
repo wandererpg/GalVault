@@ -1,0 +1,44 @@
+---
+entity_id: "vndb:character:c85078"
+type: "character"
+display_title: "中津先生"
+title_zh: "中津先生"
+title_ja: "中津先生"
+title_zh_quality: "converted_original"
+title_status: "machine_generated"
+aliases:
+  - "Nakatsu-sensei"
+source_ids:
+  vndb: "c85078"
+source_urls:
+  vndb: "https://vndb.org/c85078"
+---
+
+# 中津先生
+
+## 会社与职责
+<!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->
+
+## 创作者
+<!-- AUTO:BEGIN role --><!-- AUTO:END role -->
+
+## 出场作品
+<!-- AUTO:BEGIN character -->- [[プリンセスうぃっちぃず]]（appears）<!-- AUTO:END character -->
+
+## 声优
+<!-- AUTO:BEGIN voice -->- [[Sadaijin]]（声优：左大臣）<!-- AUTO:END voice -->
+
+## 发行版
+<!-- AUTO:BEGIN release --><!-- AUTO:END release -->
+
+## 动画化
+<!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
+
+## 关系
+<!-- AUTO:BEGIN relation --><!-- AUTO:END relation -->
+
+## 标签
+<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+
+## 来源
+<!-- AUTO:BEGIN provenance -->vndb:c85078<!-- AUTO:END provenance -->

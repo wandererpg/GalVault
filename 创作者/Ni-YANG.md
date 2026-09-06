@@ -1,0 +1,45 @@
+---
+entity_id: "vndb:person:s27723"
+type: "person"
+display_title: "Ni-YANG"
+source_ids:
+  vndb: "s27723"
+source_urls:
+  vndb: "https://vndb.org/s27723"
+---
+
+# Yasu Nieda
+
+## 会社与职责
+<!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->
+
+## 创作与出演
+<!-- AUTO:BEGIN role -->- [[FLOWERS -Le volume sur automne-]]（staff）
+- [[FLOWERS -Le volume sur été-]]（staff）
+- [[你和她和她的恋爱。]]（staff）
+- [[冻京NECRO]]（staff）
+- [[大正×对称爱丽丝]]（staff）
+- [[戏剧性谋杀]]（staff）
+- [[装甲恶鬼村正]]（staff）
+- [[认真和我谈恋爱！！]]（staff）<!-- AUTO:END role -->
+
+## 角色
+<!-- AUTO:BEGIN character --><!-- AUTO:END character -->
+
+## 声优
+<!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
+
+## 发行版
+<!-- AUTO:BEGIN release --><!-- AUTO:END release -->
+
+## 动画化
+<!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
+
+## 关系
+<!-- AUTO:BEGIN relation --><!-- AUTO:END relation -->
+
+## 标签
+<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+
+## 来源
+<!-- AUTO:BEGIN provenance -->vndb:s27723<!-- AUTO:END provenance -->

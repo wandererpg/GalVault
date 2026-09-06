@@ -1,0 +1,42 @@
+---
+entity_id: "release:vndb:r118680:work:vndb:work:v17102"
+type: "release"
+display_title: "STEINS;GATE 0 ELITE"
+is_all_ages: true
+edition_type: "complete"
+title_status: "needs_review"
+source_ids:
+  vndb: "r118680"
+source_urls:
+  vndb: "https://vndb.org/r118680"
+---
+
+# STEINS;GATE 0 ELITE
+
+## 会社与职责
+<!-- AUTO:BEGIN duty -->- [[MAGES]]（developer）
+- [[MAGES]]（publisher）<!-- AUTO:END duty -->
+
+## 创作者
+<!-- AUTO:BEGIN role --><!-- AUTO:END role -->
+
+## 角色
+<!-- AUTO:BEGIN character --><!-- AUTO:END character -->
+
+## 声优
+<!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
+
+## 所属作品
+<!-- AUTO:BEGIN release -->- [[命运石之门0]]<!-- AUTO:END release -->
+
+## 动画化
+<!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
+
+## 关联作品
+<!-- AUTO:BEGIN relation --><!-- AUTO:END relation -->
+
+## 标签
+<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+
+## 来源
+<!-- AUTO:BEGIN provenance -->vndb:r118680<!-- AUTO:END provenance -->

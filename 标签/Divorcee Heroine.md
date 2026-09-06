@@ -1,0 +1,42 @@
+---
+entity_id: tag:"Divorcee Heroine"
+type: tag
+title_zh: "Divorcee Heroine"
+---
+
+# Divorcee Heroine
+
+## 会社与职责
+<!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->
+
+## 创作者
+<!-- AUTO:BEGIN role --><!-- AUTO:END role -->
+
+## 角色
+<!-- AUTO:BEGIN character --><!-- AUTO:END character -->
+
+## 声优
+<!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
+
+## 发行版
+<!-- AUTO:BEGIN release --><!-- AUTO:END release -->
+
+## 动画化
+<!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
+
+## 关联作品
+<!-- AUTO:BEGIN relation --><!-- AUTO:END relation -->
+
+## 标签
+<!-- AUTO:BEGIN tag -->- [[Good Girl Gone Bad]]
+- [[Race of Life]]
+- [[いつまでもママといっしょ！～誘惑ママのおっぱいに甘えていっぱい射精したい！～]]
+- [[世界上最NG的恋爱]]
+- [[和妈妈来一场秘而不宣的性爱吧]]
+- [[妻管严]]
+- [[媚肉之香]]
+- [[教育ママと伯母と叔母]]
+- [[現実が見えてきたので少女を愛するのを辞めました。]]<!-- AUTO:END tag -->
+
+## 来源
+<!-- AUTO:BEGIN provenance --><!-- AUTO:END provenance -->

@@ -1,0 +1,45 @@
+---
+entity_id: "vndb:person:s1089"
+type: "person"
+display_title: "Asakura Azumi"
+title_status: "unresolved"
+source_ids:
+  vndb: "s1089"
+source_urls:
+  vndb: "https://vndb.org/s1089"
+---
+
+# Asakura Azumi
+
+## 会社与职责
+<!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->
+
+## 创作与出演
+<!-- AUTO:BEGIN role -->- [[苍之彼方的四重奏 EXTRA2]]（songs）
+- [[苍之彼方的四重奏]]（songs）<!-- AUTO:END role -->
+
+## 角色
+<!-- AUTO:BEGIN character --><!-- AUTO:END character -->
+
+## 声优
+<!-- AUTO:BEGIN voice -->- [[Ashikaga Futaba Yoshiaki]]（声优：江崎 クレア）
+- [[Cynthia／Adele／Martha]]（声优：浅倉 杏美）
+- [[Fujimiya Sakuya]]（声优：樫井 桜華）
+- [[Fujimiya Sakuya]]（声优：浅倉 杏美）
+- [[Tobisawa Misaki]]（声优：浅倉 杏美）
+- [[Tobisawa Misaki]]（声优：紺野 由梨）<!-- AUTO:END voice -->
+
+## 发行版
+<!-- AUTO:BEGIN release --><!-- AUTO:END release -->
+
+## 动画化
+<!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
+
+## 关系
+<!-- AUTO:BEGIN relation --><!-- AUTO:END relation -->
+
+## 标签
+<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+
+## 来源
+<!-- AUTO:BEGIN provenance -->vndb:s1089<!-- AUTO:END provenance -->

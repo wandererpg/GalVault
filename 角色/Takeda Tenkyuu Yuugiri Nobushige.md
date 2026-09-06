@@ -1,0 +1,55 @@
+---
+entity_id: "vndb:character:c20716"
+type: "character"
+display_title: "武田典厩夕雾信繁"
+title_zh: "武田典厩夕雾信繁"
+title_ja: "武田 典厩 夕霧 信繁"
+title_zh_quality: "converted_original"
+title_status: "machine_generated"
+aliases:
+  - "Takeda Tenkyuu Yuugiri Nobushige"
+  - "武田 典厩 夕霧 信繁"
+  - "夕霧"
+  - "Yuugiri"
+  - "武田 信繁"
+  - "Takeda Nobushige"
+source_ids:
+  vndb: "c20716"
+source_urls:
+  vndb: "https://vndb.org/c20716"
+portrait_image: "assets/characters/c20716.webp"
+---
+
+# 武田典厩夕雾信繁
+
+## 角色画像
+<!-- AUTO:BEGIN image -->
+![[assets/characters/c20716.webp|250]]
+<!-- AUTO:END image -->
+
+## 会社与职责
+<!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->
+
+## 创作者
+<!-- AUTO:BEGIN role --><!-- AUTO:END role -->
+
+## 出场作品
+<!-- AUTO:BEGIN character -->- [[戦国†恋姫～乙女絢爛☆戦国絵巻～]]（primary）<!-- AUTO:END character -->
+
+## 声优
+<!-- AUTO:BEGIN voice -->- [[Momose Poko]]（声优：百瀬 ぽこ）<!-- AUTO:END voice -->
+
+## 发行版
+<!-- AUTO:BEGIN release --><!-- AUTO:END release -->
+
+## 动画化
+<!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
+
+## 关系
+<!-- AUTO:BEGIN relation --><!-- AUTO:END relation -->
+
+## 标签
+<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+
+## 来源
+<!-- AUTO:BEGIN provenance -->vndb:c20716<!-- AUTO:END provenance -->

@@ -1,0 +1,51 @@
+---
+entity_id: "vndb:character:c46014"
+type: "character"
+display_title: "爱泽阿奥伊"
+title_zh: "爱泽阿奥伊"
+title_ja: "愛沢 あをい"
+title_zh_quality: "converted_original"
+title_status: "machine_generated"
+aliases:
+  - "Aizawa Aoi"
+  - "愛沢 あをい"
+source_ids:
+  vndb: "c46014"
+source_urls:
+  vndb: "https://vndb.org/c46014"
+portrait_image: "assets/characters/c46014.webp"
+---
+
+# 爱泽阿奥伊
+
+## 角色画像
+<!-- AUTO:BEGIN image -->
+![[assets/characters/c46014.webp|250]]
+<!-- AUTO:END image -->
+
+## 会社与职责
+<!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->
+
+## 创作者
+<!-- AUTO:BEGIN role --><!-- AUTO:END role -->
+
+## 出场作品
+<!-- AUTO:BEGIN character -->- [[絶望師]]（primary）<!-- AUTO:END character -->
+
+## 声优
+<!-- AUTO:BEGIN voice -->- [[Fukai Haruka]]（声优：ももぞの 薫）<!-- AUTO:END voice -->
+
+## 发行版
+<!-- AUTO:BEGIN release --><!-- AUTO:END release -->
+
+## 动画化
+<!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
+
+## 关系
+<!-- AUTO:BEGIN relation --><!-- AUTO:END relation -->
+
+## 标签
+<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+
+## 来源
+<!-- AUTO:BEGIN provenance -->vndb:c46014<!-- AUTO:END provenance -->

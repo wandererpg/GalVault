@@ -1,0 +1,51 @@
+---
+entity_id: "vndb:character:c33334"
+type: "character"
+display_title: "曹操"
+title_zh: "曹操"
+title_ja: "曹操"
+title_zh_quality: "converted_original"
+title_status: "machine_generated"
+aliases:
+  - "Sousou"
+  - "Cao Cao"
+source_ids:
+  vndb: "c33334"
+source_urls:
+  vndb: "https://vndb.org/c33334"
+portrait_image: "assets/characters/c33334.webp"
+---
+
+# 曹操
+
+## 角色画像
+<!-- AUTO:BEGIN image -->
+![[assets/characters/c33334.webp|250]]
+<!-- AUTO:END image -->
+
+## 会社与职责
+<!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->
+
+## 创作者
+<!-- AUTO:BEGIN role --><!-- AUTO:END role -->
+
+## 出场作品
+<!-- AUTO:BEGIN character -->- [[十三支演義 偃月三國傳]]（primary）<!-- AUTO:END character -->
+
+## 声优
+<!-- AUTO:BEGIN voice -->- [[Toriumi Kousuke]]（声优：鳥海 浩輔）<!-- AUTO:END voice -->
+
+## 发行版
+<!-- AUTO:BEGIN release --><!-- AUTO:END release -->
+
+## 动画化
+<!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
+
+## 关系
+<!-- AUTO:BEGIN relation --><!-- AUTO:END relation -->
+
+## 标签
+<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+
+## 来源
+<!-- AUTO:BEGIN provenance -->vndb:c33334<!-- AUTO:END provenance -->

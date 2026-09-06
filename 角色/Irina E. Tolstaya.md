@@ -1,0 +1,51 @@
+---
+entity_id: "vndb:character:c16039"
+type: "character"
+display_title: "伊莉伊奈惠斗露寿太雅"
+title_zh: "伊莉伊奈惠斗露寿太雅"
+title_ja: "イリーナ・E・トルスタヤ"
+title_zh_quality: "phonetic_transliteration"
+title_status: "machine_generated"
+aliases:
+  - "Irina E. Tolstaya"
+  - "イリーナ・E・トルスタヤ"
+source_ids:
+  vndb: "c16039"
+source_urls:
+  vndb: "https://vndb.org/c16039"
+portrait_image: "assets/characters/c16039.webp"
+---
+
+# 伊莉伊奈惠斗露寿太雅
+
+## 角色画像
+<!-- AUTO:BEGIN image -->
+![[assets/characters/c16039.webp|250]]
+<!-- AUTO:END image -->
+
+## 会社与职责
+<!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->
+
+## 创作者
+<!-- AUTO:BEGIN role --><!-- AUTO:END role -->
+
+## 出场作品
+<!-- AUTO:BEGIN character -->- [[死神のテスタメント ～menuet of epistula～]]（primary）<!-- AUTO:END character -->
+
+## 声优
+<!-- AUTO:BEGIN voice -->- [[Higashiboshi Kyouko]]（声优：桃井 穂美）<!-- AUTO:END voice -->
+
+## 发行版
+<!-- AUTO:BEGIN release --><!-- AUTO:END release -->
+
+## 动画化
+<!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
+
+## 关系
+<!-- AUTO:BEGIN relation --><!-- AUTO:END relation -->
+
+## 标签
+<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+
+## 来源
+<!-- AUTO:BEGIN provenance -->vndb:c16039<!-- AUTO:END provenance -->

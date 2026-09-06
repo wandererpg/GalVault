@@ -1,0 +1,65 @@
+filters:
+  or:
+    - file.inFolder("20-会社")
+    - file.inFolder("30-人物")
+properties:
+  artist:
+    displayName: 原画作品
+  character_designer:
+    displayName: 角色设计作品
+  composer:
+    displayName: 音乐作品
+  confidence:
+    displayName: 证据置信度
+  developer:
+    displayName: 开发/品牌作品
+  director:
+    displayName: 导演作品
+  file.name:
+    displayName: 文件
+  other_staff:
+    displayName: 其他工作人员作品
+  publisher:
+    displayName: 发行作品
+  scenario_writer:
+    displayName: 脚本作品
+  singer:
+    displayName: 演唱作品
+  source_ids:
+    displayName: 来源 ID
+  title_ja:
+    displayName: 日文名
+  title_zh:
+    displayName: 中文名
+  type:
+    displayName: 实体类型
+views:
+  - type: table
+    name: 会社
+    filters:
+      and:
+        - file.inFolder("20-会社")
+    order:
+      - file.name
+      - title_zh
+      - title_ja
+      - developer
+      - publisher
+      - confidence
+  - type: table
+    name: 创作者职责
+    filters:
+      and:
+        - file.inFolder("30-人物")
+    order:
+      - file.name
+      - title_zh
+      - title_ja
+      - scenario_writer
+      - artist
+      - character_designer
+      - director
+      - composer
+      - singer
+      - other_staff
+      - confidence

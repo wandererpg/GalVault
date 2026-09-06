@@ -1,0 +1,42 @@
+---
+entity_id: "vndb:person:s4225"
+type: "person"
+display_title: "Sagara Kokoro"
+title_status: "unresolved"
+source_ids:
+  vndb: "s4225"
+source_urls:
+  vndb: "https://vndb.org/s4225"
+---
+
+# Sagara Kokoro
+
+## 会社与职责
+<!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->
+
+## 创作与出演
+<!-- AUTO:BEGIN role -->- [[ここから夏のイノセンス！]]（staff）
+- [[プリズム◇リコレクション！]]（songs）
+- [[プリズム◇リコレクション！]]（staff）
+- [[戦国†恋姫EX弐～鬼の国、越前編～]]（staff）<!-- AUTO:END role -->
+
+## 角色
+<!-- AUTO:BEGIN character --><!-- AUTO:END character -->
+
+## 声优
+<!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
+
+## 发行版
+<!-- AUTO:BEGIN release --><!-- AUTO:END release -->
+
+## 动画化
+<!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
+
+## 关系
+<!-- AUTO:BEGIN relation --><!-- AUTO:END relation -->
+
+## 标签
+<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+
+## 来源
+<!-- AUTO:BEGIN provenance -->vndb:s4225<!-- AUTO:END provenance -->

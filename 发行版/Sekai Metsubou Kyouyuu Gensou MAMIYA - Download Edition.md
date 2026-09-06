@@ -1,0 +1,45 @@
+---
+entity_id: "release:vndb:r150657:work:vndb:work:v28576"
+type: "release"
+display_title: "Sekai Metsubou Kyouyuu Gensou MAMIYA - Download Edition"
+release_date: "2026-06-25"
+is_all_ages: true
+platform: "swi"
+edition_type: "complete"
+title_status: "needs_review"
+source_ids:
+  vndb: "r150657"
+source_urls:
+  vndb: "https://vndb.org/r150657"
+---
+
+# Sekai Metsubou Kyouyuu Gensou MAMIYA - Download Edition
+
+## 会社与职责
+<!-- AUTO:BEGIN duty -->- [[Dramatic Create]]（publisher）
+- [[HuneX]]（publisher）
+- [[Kenkou Land]]（developer）<!-- AUTO:END duty -->
+
+## 创作者
+<!-- AUTO:BEGIN role --><!-- AUTO:END role -->
+
+## 角色
+<!-- AUTO:BEGIN character --><!-- AUTO:END character -->
+
+## 声优
+<!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
+
+## 所属作品
+<!-- AUTO:BEGIN release -->- [[世界灭亡共有幻想MAMIYA]]<!-- AUTO:END release -->
+
+## 动画化
+<!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
+
+## 关联作品
+<!-- AUTO:BEGIN relation --><!-- AUTO:END relation -->
+
+## 标签
+<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+
+## 来源
+<!-- AUTO:BEGIN provenance -->vndb:r150657<!-- AUTO:END provenance -->

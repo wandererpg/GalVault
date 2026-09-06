@@ -1,0 +1,79 @@
+filters:
+  or:
+  - file.inFolder("10-作品")
+  - file.inFolder("11-发行版")
+  - file.inFolder("50-动画化")
+formulas: {}
+properties:
+  anime_adaptation:
+    displayName: 动画化
+  edition_type:
+    displayName: 发行版类型
+  file.name:
+    displayName: 文件
+  has_release:
+    displayName: 发行版
+  is_all_ages:
+    displayName: 全年龄
+  platform:
+    displayName: 平台
+  presentation_type:
+    displayName: 表现形式
+  release_date:
+    displayName: 发行日期
+  remake_of:
+    displayName: 重制自
+  reset_of:
+    displayName: 重置自
+  sequel_of:
+    displayName: 续作自
+  title_ja:
+    displayName: 日文名
+  title_zh:
+    displayName: 中文标题
+  type:
+    displayName: 实体类型
+  work_type:
+    displayName: 版本类型
+views:
+- filters:
+    and:
+    - file.inFolder("10-作品")
+  name: 系列与版本
+  order:
+  - file.name
+  - title_zh
+  - title_ja
+  - presentation_type
+  - work_type
+  - remake_of
+  - reset_of
+  - sequel_of
+  - anime_adaptation
+  type: table
+- filters:
+    and:
+    - file.inFolder("11-发行版")
+  groupBy:
+    direction: ASC
+    property: edition_type
+  name: 发行版
+  order:
+  - file.name
+  - title_zh
+  - title_ja
+  - edition_type
+  - release_date
+  - is_all_ages
+  - platform
+  type: table
+- filters:
+    and:
+    - file.inFolder("50-动画化")
+  name: 动画化作品
+  order:
+  - file.name
+  - title_zh
+  - title_ja
+  - type
+  type: table

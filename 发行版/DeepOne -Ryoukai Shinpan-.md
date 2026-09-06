@@ -1,0 +1,44 @@
+---
+entity_id: "release:vndb:r84631:work:vndb:work:v32797"
+type: "release"
+display_title: "DeepOne -Ryoukai Shinpan-"
+release_date: "2025-07-25"
+is_all_ages: false
+platform: "win"
+edition_type: "complete"
+title_status: "needs_review"
+source_ids:
+  vndb: "r84631"
+source_urls:
+  vndb: "https://vndb.org/r84631"
+---
+
+# DeepOne -Ryoukai Shinpan-
+
+## 会社与职责
+<!-- AUTO:BEGIN duty -->- [[Nameless]]（developer）
+- [[Nameless]]（publisher）<!-- AUTO:END duty -->
+
+## 创作者
+<!-- AUTO:BEGIN role --><!-- AUTO:END role -->
+
+## 角色
+<!-- AUTO:BEGIN character --><!-- AUTO:END character -->
+
+## 声优
+<!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
+
+## 所属作品
+<!-- AUTO:BEGIN release -->- [[DeepOne-領界侵犯-]]<!-- AUTO:END release -->
+
+## 动画化
+<!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
+
+## 关联作品
+<!-- AUTO:BEGIN relation --><!-- AUTO:END relation -->
+
+## 标签
+<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+
+## 来源
+<!-- AUTO:BEGIN provenance -->vndb:r84631<!-- AUTO:END provenance -->

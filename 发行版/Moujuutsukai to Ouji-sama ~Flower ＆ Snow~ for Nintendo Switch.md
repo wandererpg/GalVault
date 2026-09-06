@@ -1,0 +1,45 @@
+---
+entity_id: "release:vndb:r59483:work:vndb:work:v7815"
+type: "release"
+display_title: "Moujuutsukai to Ouji-sama ~Flower ＆ Snow~ for Nintendo Switch"
+release_date: "2019-05-30"
+is_all_ages: true
+platform: "swi"
+edition_type: "complete"
+title_status: "needs_review"
+source_ids:
+  vndb: "r59483"
+source_urls:
+  vndb: "https://vndb.org/r59483"
+---
+
+# Moujuutsukai to Ouji-sama ~Flower ＆ Snow~ for Nintendo Switch
+
+## 会社与职责
+<!-- AUTO:BEGIN duty -->- [[Design Factory Co., Ltd]]（publisher）
+- [[Idea Factory Co., Ltd]]（publisher）
+- [[Otomate]]（developer）<!-- AUTO:END duty -->
+
+## 创作者
+<!-- AUTO:BEGIN role --><!-- AUTO:END role -->
+
+## 角色
+<!-- AUTO:BEGIN character --><!-- AUTO:END character -->
+
+## 声优
+<!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
+
+## 所属作品
+<!-- AUTO:BEGIN release -->- [[猛獣使いと王子様 ～Snow Bride～]]<!-- AUTO:END release -->
+
+## 动画化
+<!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
+
+## 关联作品
+<!-- AUTO:BEGIN relation --><!-- AUTO:END relation -->
+
+## 标签
+<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+
+## 来源
+<!-- AUTO:BEGIN provenance -->vndb:r59483<!-- AUTO:END provenance -->

@@ -1,0 +1,50 @@
+filters:
+  or:
+    - file.inFolder("40-角色")
+    - file.inFolder("30-人物")
+properties:
+  confidence:
+    displayName: 证据置信度
+  credited_as:
+    displayName: 演出名/别名
+  file.name:
+    displayName: 文件
+  role:
+    displayName: 角色定位
+  scope_release:
+    displayName: 发行版范围
+  source_ids:
+    displayName: 来源 ID
+  title_ja:
+    displayName: 日文名
+  title_zh:
+    displayName: 中文名
+  type:
+    displayName: 实体类型
+  voice_actor:
+    displayName: 声优
+views:
+  - type: table
+    name: 角色表格
+    filters:
+      and:
+        - file.inFolder("40-角色")
+    order:
+      - file.name
+      - title_zh
+      - title_ja
+      - role
+      - voice_actor
+      - scope_release
+      - confidence
+  - type: table
+    name: 声优表格
+    filters:
+      and:
+        - file.inFolder("30-人物")
+    order:
+      - file.name
+      - title_zh
+      - title_ja
+      - credited_as
+      - confidence

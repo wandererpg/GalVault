@@ -1,0 +1,48 @@
+---
+entity_id: "vndb:person:s726"
+type: "person"
+display_title: "Fuchii Kabura"
+title_status: "unresolved"
+source_ids:
+  vndb: "s726"
+source_urls:
+  vndb: "https://vndb.org/s726"
+---
+
+# Fuchii Kabura
+
+## 会社与职责
+<!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->
+
+## 创作与出演
+<!-- AUTO:BEGIN role -->- [[DRAMAtical Murder re：connect]]（scenario）
+- [[DRAMAtical Murder re：connect]]（staff）
+- [[Lamento -BEYOND THE VOID-]]（scenario）
+- [[sweet pool]]（scenario）
+- [[sweet pool]]（staff）
+- [[スロウ・ダメージ]]（director）
+- [[スロウ・ダメージ]]（scenario）
+- [[スロウ・ダメージ]]（staff）
+- [[戏剧性谋杀]]（scenario）
+- [[戏剧性谋杀]]（staff）<!-- AUTO:END role -->
+
+## 角色
+<!-- AUTO:BEGIN character --><!-- AUTO:END character -->
+
+## 声优
+<!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
+
+## 发行版
+<!-- AUTO:BEGIN release --><!-- AUTO:END release -->
+
+## 动画化
+<!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
+
+## 关系
+<!-- AUTO:BEGIN relation --><!-- AUTO:END relation -->
+
+## 标签
+<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+
+## 来源
+<!-- AUTO:BEGIN provenance -->vndb:s726<!-- AUTO:END provenance -->

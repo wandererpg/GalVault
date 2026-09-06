@@ -1,0 +1,53 @@
+---
+entity_id: "vndb:character:c53"
+type: "character"
+display_title: "黑樱"
+title_zh: "黑樱"
+title_ja: "黒 桜"
+title_zh_quality: "converted_original"
+title_status: "machine_generated"
+aliases:
+  - "Dark Sakura"
+  - "黒 桜"
+  - "Kuro Sakura"
+source_ids:
+  vndb: "c53"
+source_urls:
+  vndb: "https://vndb.org/c53"
+portrait_image: "assets/characters/c53.webp"
+---
+
+# 黑樱
+
+## 角色画像
+<!-- AUTO:BEGIN image -->
+![[assets/characters/c53.webp|250]]
+<!-- AUTO:END image -->
+
+## 会社与职责
+<!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->
+
+## 创作者
+<!-- AUTO:BEGIN role --><!-- AUTO:END role -->
+
+## 出场作品
+<!-- AUTO:BEGIN character -->- [[Fate／hollow ataraxia]]（appears）
+- [[Fate／stay night]]（side）<!-- AUTO:END character -->
+
+## 声优
+<!-- AUTO:BEGIN voice -->- [[Miyakawa Yuuka]]（声优：下屋 則子）<!-- AUTO:END voice -->
+
+## 发行版
+<!-- AUTO:BEGIN release --><!-- AUTO:END release -->
+
+## 动画化
+<!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
+
+## 关系
+<!-- AUTO:BEGIN relation --><!-- AUTO:END relation -->
+
+## 标签
+<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+
+## 来源
+<!-- AUTO:BEGIN provenance -->vndb:c53<!-- AUTO:END provenance -->

@@ -1,0 +1,41 @@
+---
+entity_id: "vndb:person:s1284"
+type: "person"
+display_title: "Kitagawa Yasumasa"
+title_status: "unresolved"
+source_ids:
+  vndb: "s1284"
+source_urls:
+  vndb: "https://vndb.org/s1284"
+---
+
+# Kitagawa Yasumasa
+
+## 会社与职责
+<!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->
+
+## 创作与出演
+<!-- AUTO:BEGIN role -->- [[大逆转裁判 2 －成步堂龙之介的觉悟－]]（music）
+- [[大逆转裁判 －成步堂龙之介的冒险－]]（music）
+- [[被囚禁的掌心]]（music）<!-- AUTO:END role -->
+
+## 角色
+<!-- AUTO:BEGIN character --><!-- AUTO:END character -->
+
+## 声优
+<!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
+
+## 发行版
+<!-- AUTO:BEGIN release --><!-- AUTO:END release -->
+
+## 动画化
+<!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
+
+## 关系
+<!-- AUTO:BEGIN relation --><!-- AUTO:END relation -->
+
+## 标签
+<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+
+## 来源
+<!-- AUTO:BEGIN provenance -->vndb:s1284<!-- AUTO:END provenance -->

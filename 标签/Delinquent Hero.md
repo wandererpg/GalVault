@@ -1,0 +1,42 @@
+---
+entity_id: tag:"Delinquent Hero"
+type: tag
+title_zh: "Delinquent Hero"
+---
+
+# Delinquent Hero
+
+## 会社与职责
+<!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->
+
+## 创作者
+<!-- AUTO:BEGIN role --><!-- AUTO:END role -->
+
+## 角色
+<!-- AUTO:BEGIN character --><!-- AUTO:END character -->
+
+## 声优
+<!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
+
+## 发行版
+<!-- AUTO:BEGIN release --><!-- AUTO:END release -->
+
+## 动画化
+<!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
+
+## 关联作品
+<!-- AUTO:BEGIN relation --><!-- AUTO:END relation -->
+
+## 标签
+<!-- AUTO:BEGIN tag -->- [[Angel Beats! -1st beat-]]
+- [[CLOCK ZERO ～終焉之一秒～]]
+- [[sweet pool]]
+- [[ときめきメモリアル Girl's Side 3rd Story]]
+- [[喧嘩番長 乙女]]
+- [[弹丸论破 希望的学园与绝望的高中生]]
+- [[百日战纪 -最终防卫学园-]]
+- [[神学校-Noli me tangere-]]
+- [[絕對階級學園]]<!-- AUTO:END tag -->
+
+## 来源
+<!-- AUTO:BEGIN provenance --><!-- AUTO:END provenance -->

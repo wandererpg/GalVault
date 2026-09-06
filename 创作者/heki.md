@@ -1,0 +1,49 @@
+---
+entity_id: "vndb:person:s14765"
+type: "person"
+display_title: "heki."
+title_status: "unresolved"
+source_ids:
+  vndb: "s14765"
+source_urls:
+  vndb: "https://vndb.org/s14765"
+---
+
+# heki.
+
+## 会社与职责
+<!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->
+
+## 创作与出演
+<!-- AUTO:BEGIN role -->- [[创刻的动脉]]（staff）
+- [[天结城堡大师]]（staff）
+- [[幻燐の姫将軍II～導かれし魂の系譜～]]（director）
+- [[幻燐の姫将軍II～導かれし魂の系譜～]]（staff）
+- [[战女神VERITA]]（director）
+- [[战女神VERITA]]（staff）
+- [[战女神ZERO]]（director）
+- [[战女神ZERO]]（staff）
+- [[神采炼金名匠]]（director）
+- [[神采炼金名匠]]（staff）
+- [[魔导巧壳]]（staff）<!-- AUTO:END role -->
+
+## 角色
+<!-- AUTO:BEGIN character --><!-- AUTO:END character -->
+
+## 声优
+<!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
+
+## 发行版
+<!-- AUTO:BEGIN release --><!-- AUTO:END release -->
+
+## 动画化
+<!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
+
+## 关系
+<!-- AUTO:BEGIN relation --><!-- AUTO:END relation -->
+
+## 标签
+<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+
+## 来源
+<!-- AUTO:BEGIN provenance -->vndb:s14765<!-- AUTO:END provenance -->

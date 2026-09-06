@@ -1,0 +1,51 @@
+---
+entity_id: "vndb:character:c90415"
+type: "character"
+display_title: "喰惠岛蜜木"
+title_zh: "喰惠岛蜜木"
+title_ja: "喰ヶ島 蜜木"
+title_zh_quality: "converted_original"
+title_status: "machine_generated"
+aliases:
+  - "Kugajima Mitsuki"
+  - "喰ヶ島 蜜木"
+source_ids:
+  vndb: "c90415"
+source_urls:
+  vndb: "https://vndb.org/c90415"
+portrait_image: "assets/characters/c90415.webp"
+---
+
+# 喰惠岛蜜木
+
+## 角色画像
+<!-- AUTO:BEGIN image -->
+![[assets/characters/c90415.webp|250]]
+<!-- AUTO:END image -->
+
+## 会社与职责
+<!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->
+
+## 创作者
+<!-- AUTO:BEGIN role --><!-- AUTO:END role -->
+
+## 出场作品
+<!-- AUTO:BEGIN character -->- [[自杀同好会]]（primary）<!-- AUTO:END character -->
+
+## 声优
+<!-- AUTO:BEGIN voice -->- [[Kinoshita Alvin]]（声优：木下 アルヴィン）<!-- AUTO:END voice -->
+
+## 发行版
+<!-- AUTO:BEGIN release --><!-- AUTO:END release -->
+
+## 动画化
+<!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
+
+## 关系
+<!-- AUTO:BEGIN relation --><!-- AUTO:END relation -->
+
+## 标签
+<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+
+## 来源
+<!-- AUTO:BEGIN provenance -->vndb:c90415<!-- AUTO:END provenance -->

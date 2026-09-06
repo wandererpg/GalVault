@@ -1,0 +1,53 @@
+---
+entity_id: "vndb:character:c13726"
+type: "character"
+display_title: "惠V阿贝阿斗莉伊C惠"
+title_zh: "惠V阿贝阿斗莉伊C惠"
+title_ja: "エヴァ・ベアトリーチェ"
+title_zh_quality: "phonetic_transliteration"
+title_status: "machine_generated"
+aliases:
+  - "EVA-Beatrice"
+  - "エヴァ・ベアトリーチェ"
+source_ids:
+  vndb: "c13726"
+source_urls:
+  vndb: "https://vndb.org/c13726"
+portrait_image: "assets/characters/c13726.webp"
+---
+
+# 惠V阿贝阿斗莉伊C惠
+
+
+## 角色画像
+<!-- AUTO:BEGIN image -->
+![[assets/characters/c13726.webp|250]]
+<!-- AUTO:END image -->
+
+## 会社与职责
+<!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->
+
+## 创作者
+<!-- AUTO:BEGIN role --><!-- AUTO:END role -->
+
+## 出场作品
+<!-- AUTO:BEGIN character -->- [[Umineko no Naku Koro ni - Episode 3 - Banquet of the Golden Witch]]（primary）
+- [[海猫鸣泣之时散]]（side）<!-- AUTO:END character -->
+
+## 声优
+<!-- AUTO:BEGIN voice -->- [[Itou Miki（vndb：per）]]（声优：伊藤 美紀）<!-- AUTO:END voice -->
+
+## 发行版
+<!-- AUTO:BEGIN release --><!-- AUTO:END release -->
+
+## 动画化
+<!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
+
+## 关系
+<!-- AUTO:BEGIN relation --><!-- AUTO:END relation -->
+
+## 标签
+<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+
+## 来源
+<!-- AUTO:BEGIN provenance -->vndb:c13726<!-- AUTO:END provenance -->

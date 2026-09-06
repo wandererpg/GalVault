@@ -1,0 +1,52 @@
+---
+entity_id: "vndb:character:c41071"
+type: "character"
+display_title: "有马晴信"
+title_zh: "有马晴信"
+title_ja: "有馬 晴信"
+title_zh_quality: "converted_original"
+title_status: "machine_generated"
+aliases:
+  - "Arima Harunobu"
+  - "有馬 晴信"
+source_ids:
+  vndb: "c41071"
+source_urls:
+  vndb: "https://vndb.org/c41071"
+portrait_image: "assets/characters/c41071.webp"
+---
+
+# 有马晴信
+
+## 角色画像
+<!-- AUTO:BEGIN image -->
+![[assets/characters/c41071.webp|250]]
+<!-- AUTO:END image -->
+
+## 会社与职责
+<!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->
+
+## 创作者
+<!-- AUTO:BEGIN role --><!-- AUTO:END role -->
+
+## 出场作品
+<!-- AUTO:BEGIN character -->- [[戦極姫4～争覇百計、花守る誓い～]]（primary）
+- [[戦極姫５ ～戦禍断つ覇王の系譜～]]（primary）<!-- AUTO:END character -->
+
+## 声优
+<!-- AUTO:BEGIN voice -->- [[Natsumura Isuke]]（声优：夏村 伊介）<!-- AUTO:END voice -->
+
+## 发行版
+<!-- AUTO:BEGIN release --><!-- AUTO:END release -->
+
+## 动画化
+<!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
+
+## 关系
+<!-- AUTO:BEGIN relation --><!-- AUTO:END relation -->
+
+## 标签
+<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+
+## 来源
+<!-- AUTO:BEGIN provenance -->vndb:c41071<!-- AUTO:END provenance -->

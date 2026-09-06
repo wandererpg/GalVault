@@ -1,0 +1,394 @@
+---
+entity_id: "vndb:company:p6066"
+type: "company"
+display_title: "ENTERGRAM"
+source_ids:
+  vndb: "p6066"
+source_urls:
+  vndb: "https://vndb.org/p6066"
+---
+
+# ENTERGRAM
+
+## 相关作品与职责
+<!-- AUTO:BEGIN duty -->- [[9-nine- Download Edition（Palette・k：v23740）]]（publisher）
+- [[9-nine- Download Edition（Palette・k：v26523）]]（publisher）
+- [[9-nine- Download Edition（Palette・vndb：r83）]]（publisher）
+- [[AMBITIOUS MISSION + Kakenuke★Seishun Sparking! Set Edition]]（publisher）
+- [[AMBITIOUS MISSION - Download Edition]]（publisher）
+- [[AMBITIOUS MISSION - Download Edition（SAGA PLANETS）]]（publisher）
+- [[AMBITIOUS MISSION - Limited Edition]]（publisher）
+- [[AMBITIOUS MISSION - Limited Edition（SAGA PLANETS）]]（publisher）
+- [[AMBITIOUS MISSION - Regular Edition]]（publisher）
+- [[AMBITIOUS MISSION - Regular Edition（SAGA PLANETS）]]（publisher）
+- [[Aiyoku no Eustia - Download Edition]]（publisher）
+- [[Aiyoku no Eustia - Download Edition（ENTERGRAM）]]（publisher）
+- [[Aiyoku no Eustia - Limited Edition]]（publisher）
+- [[Aiyoku no Eustia - Limited Edition（ENTERGRAM）]]（publisher）
+- [[Aiyoku no Eustia - Regular Edition（ENTERGRAM・release：）]]（publisher）
+- [[Aiyoku no Eustia - Regular Edition（ENTERGRAM）]]（publisher）
+- [[Akatsuki Yureru Koi Akari - Download Edition（ENTERGRAM）]]（publisher）
+- [[Akatsuki Yureru Koi Akari - Limited Edition]]（publisher）
+- [[Akatsuki Yureru Koi Akari - Limited Edition（ENTERGRAM）]]（publisher）
+- [[Akatsuki Yureru Koi Akari - Regular Edition]]（publisher）
+- [[Akatsuki Yureru Koi Akari - Regular Edition（ENTERGRAM）]]（publisher）
+- [[Akatsuki Yureru Koi Akari - Trial Edition]]（publisher）
+- [[Akatsuki Yureru Koi Akari - Trial Edition（ENTERGRAM）]]（publisher）
+- [[Akatsuki Yureru Koi Akari Download Edition]]（publisher）
+- [[Chun'ai Kafeiting ～ Parfait Remake ～]]（developer）
+- [[D.C.4 ~Da Capo 4~ & D.C.4 ~Da Capo 4~ Fortunate Departures - Bundled Edition（ENTERGRAM・release：）]]（publisher）
+- [[D.C.4 ~Da Capo 4~ & D.C.4 ~Da Capo 4~ Fortunate Departures - Bundled Edition（ENTERGRAM）]]（publisher）
+- [[D.C.4 ~Da Capo 4~ Fortunate Departures - Download Edition（ENTERGRAM・release：）]]（publisher）
+- [[D.C.4 ~Da Capo 4~ Fortunate Departures - Download Edition（ENTERGRAM）]]（publisher）
+- [[D.C.4 ~Da Capo 4~ Fortunate Departures - Limited Edition]]（publisher）
+- [[D.C.4 ~Da Capo 4~ Fortunate Departures - Limited Edition（ENTERGRAM）]]（publisher）
+- [[D.C.4 ~Da Capo 4~ Fortunate Departures - Regular Edition]]（publisher）
+- [[D.C.4 ~Da Capo 4~ Fortunate Departures - Regular Edition（ENTERGRAM）]]（publisher）
+- [[D.C.5 ~Da Capo 5~ Download Edition（ENTERGRAM・release：）]]（publisher）
+- [[D.C.5 ~Da Capo 5~ Download Edition（ENTERGRAM）]]（publisher）
+- [[D.C.5 ~Da Capo 5~ Limited Edition]]（publisher）
+- [[D.C.5 ~Da Capo 5~ Limited Edition（ENTERGRAM）]]（publisher）
+- [[D.C.5 ~Da Capo 5~ Regular Edition]]（publisher）
+- [[D.C.5 ~Da Capo 5~ Regular Edition（ENTERGRAM）]]（publisher）
+- [[D.C.5 ~Da Capo 5~ Trial Edition（ENTERGRAM・release：）]]（publisher）
+- [[D.C.5 ~Da Capo 5~ Trial Edition（ENTERGRAM）]]（publisher）
+- [[Daitoshokan no Hitsujikai -Library Party- Download Edition]]（publisher）
+- [[Daitoshokan no Hitsujikai -Library Party- Download Edition（ARIA・release：）]]（publisher）
+- [[Daitoshokan no Hitsujikai -Library Party- Download Edition（ARIA・vndb：r14）]]（publisher）
+- [[Daitoshokan no Hitsujikai -Library Party- Download Edition（ARIA）]]（publisher）
+- [[Deep One - Limited Edition]]（publisher）
+- [[Deep One - Limited Edition（ENTERGRAM）]]（publisher）
+- [[Deep One - Regular Edition]]（publisher）
+- [[Deep One - Regular Edition（ENTERGRAM）]]（publisher）
+- [[DeepOne]]（publisher）
+- [[DeepOne（ENTERGRAM）]]（publisher）
+- [[Docchi no i ga Suki Desu ka？ + Omoide Kakaete Ai ni Koi!! Set]]（publisher）
+- [[Docchi no i ga Suki Desu ka？ + Omoide Kakaete Ai ni Koi!! Set（HOOKSOFT）]]（publisher）
+- [[Docchi no i ga Suki Desu ka？ - Download Edition]]（publisher）
+- [[Docchi no i ga Suki Desu ka？ - Download Edition（HOOKSOFT）]]（publisher）
+- [[Docchi no i ga Suki Desu ka？ - Limited Edition]]（publisher）
+- [[Docchi no i ga Suki Desu ka？ - Limited Edition（HOOKSOFT）]]（publisher）
+- [[Docchi no i ga Suki Desu ka？ - Regular Edition]]（publisher）
+- [[Docchi no i ga Suki Desu ka？ - Regular Edition（HOOKSOFT）]]（publisher）
+- [[Docchi no i ga Suki Desu ka？ - Trial Edition]]（publisher）
+- [[Docchi no i ga Suki Desu ka？ - Trial Edition（HOOKSOFT）]]（publisher）
+- [[Ever Maiden ~Daraku no Sono no Otome-tachi~ Download Edition]]（publisher）
+- [[Ever Maiden ~Daraku no Sono no Otome-tachi~ Download Edition（ENTERGRAM）]]（publisher）
+- [[Ever Maiden ~Daraku no Sono no Otome-tachi~ Limited Edition]]（publisher）
+- [[Ever Maiden ~Daraku no Sono no Otome-tachi~ Limited Edition（ENTERGRAM）]]（publisher）
+- [[Ever Maiden ~Daraku no Sono no Otome-tachi~ Regular Edition]]（publisher）
+- [[Ever Maiden ~Daraku no Sono no Otome-tachi~ Regular Edition（ENTERGRAM）]]（publisher）
+- [[Ever Maiden ~Daraku no Sono no Otome-tachi~ Trial Edition]]（publisher）
+- [[Ever Maiden ~Daraku no Sono no Otome-tachi~ Trial Edition（Liar-soft）]]（publisher）
+- [[Floral Flowlove - Download Edition（SAGA PLANETS・release：）]]（publisher）
+- [[Floral Flowlove - Download Edition（SAGA PLANETS）]]（publisher）
+- [[Floral Flowlove - Limited Edition]]（publisher）
+- [[Floral Flowlove - Limited Edition（SAGA PLANETS・release：）]]（publisher）
+- [[Floral Flowlove - Limited Edition（SAGA PLANETS）]]（publisher）
+- [[Floral Flowlove - Regular Edition]]（publisher）
+- [[Floral Flowlove - Regular Edition（SAGA PLANETS・release：）]]（publisher）
+- [[Floral Flowlove - Regular Edition（SAGA PLANETS）]]（publisher）
+- [[Floral Flowlove]]（publisher）
+- [[Hanasaki Work Spring! - Download Edition]]（publisher）
+- [[Hanasaki Work Spring! - Download Edition（SAGA PLANETS・release：）]]（publisher）
+- [[Hanasaki Work Spring! - Download Edition（SAGA PLANETS）]]（publisher）
+- [[Hanasaki Work Spring! - First Press Limited Edition]]（publisher）
+- [[Hanasaki Work Spring! - First Production Limited Edition]]（publisher）
+- [[Hanasaki Work Spring! - Limited Edition]]（publisher）
+- [[Hanasaki Work Spring! - Regular Edition]]（publisher）
+- [[Hanasaki Work Spring! - Regular Edition（SAGA PLANETS・release：）]]（publisher）
+- [[Hanasaki Work Spring! - Regular Edition（SAGA PLANETS）]]（publisher）
+- [[Hanasaki Work Spring! - Trial Edition]]（publisher）
+- [[Harvest OverRay + Ano Ko wa Ore kara Hanarenai - Download Edition]]（publisher）
+- [[Harvest OverRay + Ano Ko wa Ore kara Hanarenai - Download Edition（GIGA）]]（publisher）
+- [[Harvest OverRay + Ano Ko wa Ore kara Hanarenai - Limited Edition]]（publisher）
+- [[Harvest OverRay + Ano Ko wa Ore kara Hanarenai - Limited Edition（GIGA）]]（publisher）
+- [[Harvest OverRay + Ano Ko wa Ore kara Hanarenai - Regular Edition]]（publisher）
+- [[Harvest OverRay + Ano Ko wa Ore kara Hanarenai - Regular Edition（GIGA）]]（publisher）
+- [[Harvest OverRay - Download Edition]]（publisher）
+- [[Harvest OverRay - Download Edition（GIGA）]]（publisher）
+- [[Hatsuyuki Sakura - Download Edition（SAGA PLANETS・release：）]]（publisher）
+- [[Hatsuyuki Sakura - Download Edition（SAGA PLANETS）]]（publisher）
+- [[Hatsuyuki Sakura - Limited Edition]]（publisher）
+- [[Hatsuyuki Sakura - Limited Edition（SAGA PLANETS）]]（publisher）
+- [[Hatsuyuki Sakura - Regular Edition（SAGA PLANETS・release：）]]（publisher）
+- [[Hatsuyuki Sakura - Regular Edition（SAGA PLANETS）]]（publisher）
+- [[Hatsuyuki Sakura White Graduation - Download Edition]]（publisher）
+- [[Hatsuyuki Sakura White Graduation - Limited Edition]]（publisher）
+- [[Hatsuyuki Sakura White Graduation - Regular Edition]]（publisher）
+- [[Hatsuyuki Sakura White Graduation - Trial Edition]]（publisher）
+- [[Higurashi no Naku Koro ni Hou + Origin]]（publisher）
+- [[Higurashi no Naku Koro ni Hou + Origin（ENTERGRAM・release：）]]（publisher）
+- [[Higurashi no Naku Koro ni Hou + Origin（ENTERGRAM・vndb：r11）]]（publisher）
+- [[Higurashi no Naku Koro ni Hou + Origin（ENTERGRAM・work：v67）]]（publisher）
+- [[Higurashi no Naku Koro ni Hou + Origin（ENTERGRAM・work：v68）]]（publisher）
+- [[Higurashi no Naku Koro ni Hou + Origin（ENTERGRAM）]]（publisher）
+- [[Higurashi no Naku Koro ni Hou + Umineko no Naku Koro ni Saku - Twin Pack]]（publisher）
+- [[Higurashi no Naku Koro ni Hou + Umineko no Naku Koro ni Saku - Twin Pack（ENTERGRAM・release：）]]（publisher）
+- [[Higurashi no Naku Koro ni Hou + Umineko no Naku Koro ni Saku - Twin Pack（ENTERGRAM・vndb：r11）]]（publisher）
+- [[Higurashi no Naku Koro ni Hou + Umineko no Naku Koro ni Saku - Twin Pack（ENTERGRAM・work：v67）]]（publisher）
+- [[Higurashi no Naku Koro ni Hou + Umineko no Naku Koro ni Saku - Twin Pack（ENTERGRAM・work：v68）]]（publisher）
+- [[Higurashi no Naku Koro ni Hou + Umineko no Naku Koro ni Saku - Twin Pack（ENTERGRAM）]]（publisher）
+- [[Higurashi no Naku Koro ni Hou - Download Edition]]（publisher）
+- [[Higurashi no Naku Koro ni Hou - Download Edition（ENTERGRAM・release：）]]（publisher）
+- [[Higurashi no Naku Koro ni Hou - Download Edition（ENTERGRAM・vndb：r96）]]（publisher）
+- [[Higurashi no Naku Koro ni Hou - Download Edition（ENTERGRAM・work：v67）]]（publisher）
+- [[Higurashi no Naku Koro ni Hou - Download Edition（ENTERGRAM・work：v68）]]（publisher）
+- [[Higurashi no Naku Koro ni Hou - Download Edition（ENTERGRAM）]]（publisher）
+- [[Higurashi no Naku Koro ni Hou - Limited Edition]]（publisher）
+- [[Higurashi no Naku Koro ni Hou - Limited Edition（ENTERGRAM・release：）]]（publisher）
+- [[Higurashi no Naku Koro ni Hou - Limited Edition（ENTERGRAM・vndb：r11）]]（publisher）
+- [[Higurashi no Naku Koro ni Hou - Limited Edition（ENTERGRAM・work：v67）]]（publisher）
+- [[Higurashi no Naku Koro ni Hou - Limited Edition（ENTERGRAM・work：v68）]]（publisher）
+- [[Higurashi no Naku Koro ni Hou - Limited Edition（ENTERGRAM）]]（publisher）
+- [[Higurashi no Naku Koro ni Hou - Regular Edition]]（publisher）
+- [[Higurashi no Naku Koro ni Hou - Regular Edition（ENTERGRAM・release：）]]（publisher）
+- [[Higurashi no Naku Koro ni Hou - Regular Edition（ENTERGRAM・vndb：r59）]]（publisher）
+- [[Higurashi no Naku Koro ni Hou - Regular Edition（ENTERGRAM・work：v67）]]（publisher）
+- [[Higurashi no Naku Koro ni Hou - Regular Edition（ENTERGRAM・work：v68）]]（publisher）
+- [[Higurashi no Naku Koro ni Hou - Regular Edition（ENTERGRAM）]]（publisher）
+- [[Higurashi no Naku Koro ni Hou EG THE BEST]]（publisher）
+- [[Higurashi no Naku Koro ni Hou EG THE BEST（ENTERGRAM・release：）]]（publisher）
+- [[Higurashi no Naku Koro ni Hou EG THE BEST（ENTERGRAM・vndb：r11）]]（publisher）
+- [[Higurashi no Naku Koro ni Hou EG THE BEST（ENTERGRAM・work：v67）]]（publisher）
+- [[Higurashi no Naku Koro ni Hou EG THE BEST（ENTERGRAM・work：v68）]]（publisher）
+- [[Higurashi no Naku Koro ni Hou EG THE BEST（ENTERGRAM）]]（publisher）
+- [[Higurashi no Naku Koro ni Origin]]（publisher）
+- [[Higurashi no Naku Koro ni Origin（ENTERGRAM・release：）]]（publisher）
+- [[Higurashi no Naku Koro ni Origin（ENTERGRAM・vndb：r11）]]（publisher）
+- [[Higurashi no Naku Koro ni Origin（ENTERGRAM）]]（publisher）
+- [[Higurashi no Naku Koro ni Sui - Download Edition]]（publisher）
+- [[Higurashi no Naku Koro ni Sui - Download Edition（ENTERGRAM・release：）]]（publisher）
+- [[Higurashi no Naku Koro ni Sui - Download Edition（ENTERGRAM・vndb：r13）]]（publisher）
+- [[Higurashi no Naku Koro ni Sui - Download Edition（ENTERGRAM・work：v67）]]（publisher）
+- [[Higurashi no Naku Koro ni Sui - Download Edition（ENTERGRAM・work：v68）]]（publisher）
+- [[Higurashi no Naku Koro ni Sui - Download Edition（ENTERGRAM）]]（publisher）
+- [[Houkago Cinderella - 1 + 2 Set - Download Edition]]（publisher）
+- [[Houkago Cinderella - 1 + 2 Set - Download Edition（HOOKSOFT）]]（publisher）
+- [[Houkago Cinderella - 1 + 2 Set]]（publisher）
+- [[Houkago Cinderella 2 - Download Edition]]（publisher）
+- [[Houkago Cinderella 2 - Download Edition（HOOKSOFT）]]（publisher）
+- [[Houkago Cinderella 2 - Limited Edition]]（publisher）
+- [[Houkago Cinderella 2 - Limited Edition（HOOKSOFT）]]（publisher）
+- [[Houkago Cinderella 2 - Regular Edition]]（publisher）
+- [[Houkago Cinderella 2 - Regular Edition（HOOKSOFT）]]（publisher）
+- [[Houkago Cinderella 2 - Trial Edition]]（publisher）
+- [[Jewelry Hearts Academia + Sakura no Kumo ＊ Scarlet no Koi Double Pack]]（publisher）
+- [[Jewelry Hearts Academia + Sakura no Kumo ＊ Scarlet no Koi Double Pack（ENTERGRAM）]]（publisher）
+- [[Jewelry Hearts Academia -We will wing wonder world- Download Edition]]（publisher）
+- [[Jewelry Hearts Academia -We will wing wonder world- Download Edition（ENTERGRAM）]]（publisher）
+- [[Jewelry Hearts Academia -We will wing wonder world- Limited Edition]]（publisher）
+- [[Jewelry Hearts Academia -We will wing wonder world- Limited Edition（ENTERGRAM）]]（publisher）
+- [[Jewelry Hearts Academia -We will wing wonder world- Regular Edition]]（publisher）
+- [[Jewelry Hearts Academia -We will wing wonder world- Regular Edition（ENTERGRAM）]]（publisher）
+- [[Karumaruka ＊ Circle - Download Edition]]（publisher）
+- [[Karumaruka ＊ Circle - Download Edition（SAGA PLANETS・release：）]]（publisher）
+- [[Karumaruka ＊ Circle - Download Edition（SAGA PLANETS・vndb：r56）]]（publisher）
+- [[Karumaruka ＊ Circle - Limited Edition]]（publisher）
+- [[Karumaruka ＊ Circle - Limited Edition（SAGA PLANETS・release：）]]（publisher）
+- [[Karumaruka ＊ Circle - Limited Edition（SAGA PLANETS）]]（publisher）
+- [[Karumaruka ＊ Circle - Regular Edition]]（publisher）
+- [[Karumaruka ＊ Circle - Regular Edition（SAGA PLANETS・release：）]]（publisher）
+- [[Karumaruka ＊ Circle - Regular Edition（SAGA PLANETS）]]（publisher）
+- [[Kin'iro Loveriche + Kin'iro Loveriche -Golden Time- Golden Pack]]（publisher）
+- [[Kin'iro Loveriche + Kin'iro Loveriche -Golden Time- Golden Pack（SAGA PLANETS）]]（publisher）
+- [[Kin'iro Loveriche - Download Edition（SAGA PLANETS・release：）]]（publisher）
+- [[Kin'iro Loveriche - Download Edition（SAGA PLANETS）]]（publisher）
+- [[Kin'iro Loveriche - Limited Edition]]（publisher）
+- [[Kin'iro Loveriche - Limited Edition（SAGA PLANETS・release：）]]（publisher）
+- [[Kin'iro Loveriche - Limited Edition（SAGA PLANETS）]]（publisher）
+- [[Kin'iro Loveriche - Regular Edition]]（publisher）
+- [[Kin'iro Loveriche - Regular Edition（SAGA PLANETS・release：）]]（publisher）
+- [[Kin'iro Loveriche - Regular Edition（SAGA PLANETS）]]（publisher）
+- [[Kin'iro Loveriche -Golden Time- Limited Edition]]（publisher）
+- [[Kin'iro Loveriche -Golden Time- Limited Edition（SAGA PLANETS）]]（publisher）
+- [[Kin'iro Loveriche -Golden Time- Regular Edition]]（publisher）
+- [[Kin'iro Loveriche -Golden Time- Regular Edition（SAGA PLANETS）]]（publisher）
+- [[Kin'iro Loveriche -Golden Time-（SAGA PLANETS・release：）]]（publisher）
+- [[Kin'iro Loveriche -Golden Time-（SAGA PLANETS）]]（publisher）
+- [[Kin'iro Loveriche（SAGA PLANETS・release：）]]（publisher）
+- [[Koisuru Otome to Shugo no Tate - Re：boot The ＂SHIELD-9＂ - Limited Edition]]（publisher）
+- [[Koisuru Otome to Shugo no Tate - Re：boot The ＂SHIELD-9＂ - Limited Edition（ENTERGRAM）]]（publisher）
+- [[Koisuru Otome to Shugo no Tate - Re：boot The ＂SHIELD-9＂ - Regular Edition]]（publisher）
+- [[Koisuru Otome to Shugo no Tate - Re：boot The ＂SHIELD-9＂ - Regular Edition（ENTERGRAM）]]（publisher）
+- [[Kono Aozora ni Yakusoku o - Download Edition]]（publisher）
+- [[Kono Aozora ni Yakusoku o Refine - Download Edition]]（publisher）
+- [[Kono Aozora ni Yakusoku o Refine - Download Edition（ENTERGRAM・release：）]]（publisher）
+- [[Kono Aozora ni Yakusoku o Refine - Download Edition（ENTERGRAM）]]（publisher）
+- [[Kono Aozora ni Yakusoku o Refine - First Press Edition]]（publisher）
+- [[Kono Aozora ni Yakusoku o Refine - Limited Edition]]（publisher）
+- [[Kono Aozora ni Yakusoku o Refine - Limited Edition（ENTERGRAM・release：）]]（publisher）
+- [[Kono Aozora ni Yakusoku o Refine - Limited Edition（ENTERGRAM）]]（publisher）
+- [[Kono Aozora ni Yakusoku o Refine - Regular Edition]]（publisher）
+- [[Kono Aozora ni Yakusoku o Refine - Regular Edition（ENTERGRAM）]]（publisher）
+- [[Kono Aozora ni Yakusoku o Refine - Trial Edition]]（publisher）
+- [[MUSICUS! - Download Edition（OVERDRIVE・release：）]]（publisher）
+- [[MUSICUS! - Download Edition（OVERDRIVE・vndb：r97）]]（publisher）
+- [[MUSICUS! - Limited Edition]]（publisher）
+- [[MUSICUS! - Limited Edition（OVERDRIVE）]]（publisher）
+- [[MUSICUS! - Regular Edition]]（publisher）
+- [[MUSICUS! - Regular Edition（OVERDRIVE）]]（publisher）
+- [[MUSICUS! - Trial Edition]]（publisher）
+- [[MUSICUS! - Trial Edition（OVERDRIVE）]]（publisher）
+- [[Making ＊ Lovers - Limited Edition]]（publisher）
+- [[Making ＊ Lovers - Limited Edition（SMEE）]]（publisher）
+- [[Making ＊ Lovers - PS4 Download Edition]]（publisher）
+- [[Making ＊ Lovers - Regular Edition]]（publisher）
+- [[Making ＊ Lovers - Regular Edition（SMEE・release：）]]（publisher）
+- [[Meikei no Lupercalia - Download Edition]]（publisher）
+- [[Meikei no Lupercalia - Download Edition（Uguisu Kagura）]]（publisher）
+- [[Meikei no Lupercalia - Limited Edition]]（publisher）
+- [[Meikei no Lupercalia - Limited Edition（Uguisu Kagura）]]（publisher）
+- [[Meikei no Lupercalia - Regular Edition]]（publisher）
+- [[Meikei no Lupercalia - Regular Edition（Uguisu Kagura）]]（publisher）
+- [[Meikei no Lupercalia - Trial Edition]]（publisher）
+- [[Meikei no Lupercalia - Trial Edition（Uguisu Kagura）]]（publisher）
+- [[Omoide Kakaete Ai ni Koi!! - Download Edition]]（publisher）
+- [[Omoide Kakaete Ai ni Koi!! - Download Edition（HOOKSOFT）]]（publisher）
+- [[Omoide Kakaete Ai ni Koi!! - Limited Edition]]（publisher）
+- [[Omoide Kakaete Ai ni Koi!! - Limited Edition（HOOKSOFT）]]（publisher）
+- [[Omoide Kakaete Ai ni Koi!! - Regular Edition]]（publisher）
+- [[Omoide Kakaete Ai ni Koi!! - Regular Edition（HOOKSOFT）]]（publisher）
+- [[Omoide Kakaete Ai ni Koi!! - Trial Edition]]（publisher）
+- [[Omoide Kakaete Ai ni Koi!! - Trial Edition（HOOKSOFT）]]（publisher）
+- [[Owaru Sekai to Birthday - Download Edition（Cotton Soft）]]（publisher）
+- [[Owaru Sekai to Birthday - First Press Limited Edition]]（publisher）
+- [[Owaru Sekai to Birthday - Regular Edition（Cotton Soft）]]（publisher）
+- [[Parfait - Download Edition]]（publisher）
+- [[Parfait Remake - Download Edition]]（publisher）
+- [[Parfait Remake - Download Edition（GIGA）]]（publisher）
+- [[Parfait Remake - Limited Edition]]（publisher）
+- [[Parfait Remake - Limited Edition（GIGA）]]（publisher）
+- [[Parfait Remake - Standard Edition - Limited Edition]]（publisher）
+- [[Parfait Remake - Standard Edition - Regular Edition]]（publisher）
+- [[Parfait Remake（GIGA・release：）]]（publisher）
+- [[Parfait Remake（GIGA）]]（publisher）
+- [[SAGA PLANETS 4 Sakuhin Set]]（publisher）
+- [[SAGA PLANETS 4 Sakuhin Set（SAGA PLANETS・release：）]]（publisher）
+- [[SAGA PLANETS 4 Sakuhin Set（SAGA PLANETS・vndb：r11）]]（publisher）
+- [[SAGA PLANETS 4 Sakuhin Set（SAGA PLANETS）]]（publisher）
+- [[Sakura no Kumo ＊ Scarlet no Koi - Download Edition（ENTERGRAM・release：）]]（publisher）
+- [[Sakura no Kumo ＊ Scarlet no Koi - Download Edition（ENTERGRAM）]]（publisher）
+- [[Sakura no Kumo ＊ Scarlet no Koi - Limited Edition]]（publisher）
+- [[Sakura no Kumo ＊ Scarlet no Koi - Limited Edition（ENTERGRAM）]]（publisher）
+- [[Sakura no Kumo ＊ Scarlet no Koi - Regular Edition]]（publisher）
+- [[Sakura no Kumo ＊ Scarlet no Koi - Regular Edition（ENTERGRAM）]]（publisher）
+- [[Sakura, Moyu. -as the Night's, Reincarnation- Download Edition（ENTERGRAM・release：）]]（publisher）
+- [[Sakura, Moyu. -as the Night's, Reincarnation- Download Edition（ENTERGRAM）]]（publisher）
+- [[Sakura, Moyu. -as the Night's, Reincarnation- Limited Edition]]（publisher）
+- [[Sakura, Moyu. -as the Night's, Reincarnation- Limited Edition（ENTERGRAM）]]（publisher）
+- [[Sakura, Moyu. -as the Night's, Reincarnation- Regular Edition]]（publisher）
+- [[Sakura, Moyu. -as the Night's, Reincarnation- Regular Edition（ENTERGRAM）]]（publisher）
+- [[Sen no Hatou, Tsukisome no Kouki - Download Edition]]（publisher）
+- [[Sen no Hatou, Tsukisome no Kouki - Download Edition（ENTERGRAM）]]（publisher）
+- [[Sen no Hatou, Tsukisome no Kouki - Limited Edition]]（publisher）
+- [[Sen no Hatou, Tsukisome no Kouki - Regular Edition（ENTERGRAM）]]（publisher）
+- [[Sengoku † Koihime + Sengoku † Koihime X - Set Edition]]（publisher）
+- [[Sengoku † Koihime + X + EX Set Edition]]（publisher）
+- [[Sengoku † Koihime + X + EX Set Edition（ENTERGRAM）]]（publisher）
+- [[Sengoku † Koihime EX ~COLLECTION~ - Download Edition]]（publisher）
+- [[Sengoku † Koihime EX ~COLLECTION~ - Limited Edition]]（publisher）
+- [[Sengoku † Koihime EX ~COLLECTION~ - Regular Edition]]（publisher）
+- [[Sengoku † Koihime X ~Otome Kenran ☆ Sengoku Emaki~ Koujou Ke Souran Hen -  Download Edition]]（publisher）
+- [[Sengoku † Koihime X ~Otome Kenran ☆ Sengoku Emaki~ Koujou Ke Souran Hen -  Trial Edition]]（publisher）
+- [[Sengoku † Koihime X ~Otome Kenran ☆ Sengoku Emaki~ Koujou Ke Souran Hen - Limited Edition]]（publisher）
+- [[Sengoku † Koihime X ~Otome Kenran ☆ Sengoku Emaki~ Koujou Ke Souran Hen - Regular Edition]]（publisher）
+- [[Sengoku † Koihime ~Otome Kenran ☆ Sengoku Emaki~ Gouka Kenran Shutsujin Set]]（publisher）
+- [[Sengoku † Koihime ~Otome Kenran ☆ Sengoku Emaki~ Gouka Kenran Shutsujin Set（BaseSon）]]（publisher）
+- [[Sengoku † Koihime ~Otome Kenran ☆ Sengoku Emaki~ Regular Edition]]（publisher）
+- [[Sengoku † Koihime ~Otome Kenran ☆ Sengoku Emaki~ Regular Edition（BaseSon）]]（publisher）
+- [[Setsuna ni Kakeru Koi Hanabi + Akatsuki Yureru Koi Akari Set]]（publisher）
+- [[Sweet Cafe Collection ~Chocolat·Parfait·Sucre~ - Download Edition]]（publisher）
+- [[Sweet Cafe Collection ~Chocolat·Parfait·Sucre~ - Limited Edition]]（publisher）
+- [[Sweet Cafe Collection ~Chocolat·Parfait·Sucre~ - Regular Edition]]（publisher）
+- [[Tsuki no Kanata de Aimashou - Limited Edition]]（publisher）
+- [[Tsuki no Kanata de Aimashou - Limited Edition（tone work's）]]（publisher）
+- [[Tsuki no Kanata de Aimashou - Regular Edition]]（publisher）
+- [[Tsuki no Kanata de Aimashou - Regular Edition（tone work's）]]（publisher）
+- [[Umineko Saku + Higurashi Hou + origin Naku Koro ni - Special Set]]（publisher）
+- [[Umineko Saku + Higurashi Hou + origin Naku Koro ni - Special Set（ENTERGRAM・release：）]]（publisher）
+- [[Umineko Saku + Higurashi Hou + origin Naku Koro ni - Special Set（ENTERGRAM・vndb：r11）]]（publisher）
+- [[Umineko Saku + Higurashi Hou + origin Naku Koro ni - Special Set（ENTERGRAM・work：v67）]]（publisher）
+- [[Umineko Saku + Higurashi Hou + origin Naku Koro ni - Special Set（ENTERGRAM・work：v68）]]（publisher）
+- [[Umineko Saku + Higurashi Hou + origin Naku Koro ni - Special Set（ENTERGRAM）]]（publisher）
+- [[Umineko no Naku Koro ni Saku ~Nekobako to Musou no Koukyoukyoku~ EG THE BEST]]（publisher）
+- [[Umineko no Naku Koro ni Saku ~Nekobako to Musou no Koukyoukyoku~ EG THE BEST（ENTERGRAM・release：）]]（publisher）
+- [[Umineko no Naku Koro ni Saku ~Nekobako to Musou no Koukyoukyoku~ EG THE BEST（ENTERGRAM）]]（publisher）
+- [[Umineko no Naku Koro ni Saku ~Nekobako to Musou no Koukyoukyoku~ Limited Edition]]（publisher）
+- [[Umineko no Naku Koro ni Saku ~Nekobako to Musou no Koukyoukyoku~ Limited Edition（ENTERGRAM・k：v23407）]]（publisher）
+- [[Umineko no Naku Koro ni Saku ~Nekobako to Musou no Koukyoukyoku~ Limited Edition（ENTERGRAM・release：）]]（publisher）
+- [[Umineko no Naku Koro ni Saku ~Nekobako to Musou no Koukyoukyoku~ Limited Edition（ENTERGRAM・vndb：r74）]]（publisher）
+- [[Umineko no Naku Koro ni Saku ~Nekobako to Musou no Koukyoukyoku~ Limited Edition（ENTERGRAM・work：v24）]]（publisher）
+- [[Umineko no Naku Koro ni Saku ~Nekobako to Musou no Koukyoukyoku~ Limited Edition（ENTERGRAM）]]（publisher）
+- [[Umineko no Naku Koro ni Saku ~Nekobako to Musou no Koukyoukyoku~ Regular Edition]]（publisher）
+- [[Umineko no Naku Koro ni Saku ~Nekobako to Musou no Koukyoukyoku~ Regular Edition（ENTERGRAM・k：v23407）]]（publisher）
+- [[Umineko no Naku Koro ni Saku ~Nekobako to Musou no Koukyoukyoku~ Regular Edition（ENTERGRAM・release：）]]（publisher）
+- [[Umineko no Naku Koro ni Saku ~Nekobako to Musou no Koukyoukyoku~ Regular Edition（ENTERGRAM・vndb：r67）]]（publisher）
+- [[Umineko no Naku Koro ni Saku ~Nekobako to Musou no Koukyoukyoku~ Regular Edition（ENTERGRAM・work：v24）]]（publisher）
+- [[Umineko no Naku Koro ni Saku ~Nekobako to Musou no Koukyoukyoku~ Regular Edition（ENTERGRAM）]]（publisher）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki - First Volume]]（developer）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki - First Volume]]（publisher）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki - First Volume（ENTERGRAM）]]（developer）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki - First Volume（ENTERGRAM）]]（publisher）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki - Last Volume]]（developer）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki - Last Volume]]（publisher）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki - Last Volume（ENTERGRAM）]]（developer）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki - Last Volume（ENTERGRAM）]]（publisher）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.1]]（developer）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.1]]（publisher）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.1（ENTERGRAM）]]（developer）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.1（ENTERGRAM）]]（publisher）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.2]]（developer）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.2]]（publisher）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.2（ENTERGRAM）]]（developer）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.2（ENTERGRAM）]]（publisher）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.3]]（developer）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.3]]（publisher）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.3（ENTERGRAM）]]（developer）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.3（ENTERGRAM）]]（publisher）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.4]]（developer）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.4]]（publisher）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.4（ENTERGRAM）]]（developer）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.4（ENTERGRAM）]]（publisher）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.5]]（developer）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.5]]（publisher）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.5（ENTERGRAM）]]（developer）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.5（ENTERGRAM）]]（publisher）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.6]]（developer）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.6]]（publisher）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.6（ENTERGRAM）]]（developer）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.6（ENTERGRAM）]]（publisher）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.7]]（developer）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.7]]（publisher）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.7（ENTERGRAM）]]（developer）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.7（ENTERGRAM）]]（publisher）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.8]]（developer）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.8]]（publisher）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.8（ENTERGRAM）]]（developer）
+- [[Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.8（ENTERGRAM）]]（publisher）
+- [[女仆咖啡帕露菲]]（developer）
+- [[結城友奈は勇者である 花結いのきらめき]]（developer）<!-- AUTO:END duty -->
+
+## 创作者
+<!-- AUTO:BEGIN role --><!-- AUTO:END role -->
+
+## 角色
+<!-- AUTO:BEGIN character --><!-- AUTO:END character -->
+
+## 声优
+<!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
+
+## 发行版
+<!-- AUTO:BEGIN release --><!-- AUTO:END release -->
+
+## 动画化
+<!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
+
+## 关系
+<!-- AUTO:BEGIN relation --><!-- AUTO:END relation -->
+
+## 标签
+<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+
+## 来源
+<!-- AUTO:BEGIN provenance -->vndb:p6066<!-- AUTO:END provenance -->

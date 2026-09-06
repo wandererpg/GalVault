@@ -1,0 +1,2 @@
+opencc-python-reimplemented==0.1.7
+pykakasi==2.3.0

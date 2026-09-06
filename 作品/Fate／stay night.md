@@ -1,0 +1,627 @@
+---
+entity_id: "vndb:work:v11"
+type: "work"
+title_ja: "Fate/stay night"
+display_title: "Fate/stay night"
+presentation_type: "visual_novel"
+work_type: "visual_novel"
+version_type: "sequel"
+first_release_date: "2004-01-30"
+release_count: 65
+has_all_ages_release: true
+has_adult_release: true
+title_status: "unresolved"
+source_ids:
+  vndb: "v11"
+source_urls:
+  vndb: "https://vndb.org/v11"
+ratings:
+  vndb: 8.629999999999999
+ranks:
+  vndb: 29
+cover_image: "assets/covers/v11.webp"
+---
+
+# Fate/stay night
+
+## 封面
+<!-- AUTO:BEGIN image -->
+![[assets/covers/v11.webp|300]]
+<!-- AUTO:END image -->
+
+## 会社与职责
+<!-- AUTO:BEGIN duty -->- [[TYPE-MOON]]（developer）<!-- AUTO:END duty -->
+
+## 创作者
+<!-- AUTO:BEGIN role -->- [[Abigail Bing]]（qa）
+- [[Aikura Chihiro]]（art）
+- [[Albert Kao]]（staff）
+- [[Alex Valles]]（staff）
+- [[Alyinghood（vndb：per）]]（staff）
+- [[Animevod]]（translator）
+- [[Aniplex of America, Inc]]（translator）
+- [[Aniplex, Inc]]（staff）
+- [[Annonymous]]（staff）
+- [[Anonamous]]（staff）
+- [[Aotsuki Takao]]（staff）
+- [[Aramaki Youko]]（songs）
+- [[ArchDemon]]（qa）
+- [[ArchDemon]]（staff）
+- [[BLACK]]（art）
+- [[BLACK]]（staff）
+- [[Balcerzak]]（qa）
+- [[Belldandy100]]（staff）
+- [[Belm]]（qa）
+- [[Bohemian Waxwing]]（staff）
+- [[Capitan Nemo]]（editor）
+- [[Capitan Nemo]]（staff）
+- [[Carl Custodio]]（staff）
+- [[Chino]]（songs）
+- [[CoffeeKing]]（qa）
+- [[Commander Rase]]（qa）
+- [[Cortney Galanos]]（qa）
+- [[Cui Shengyue]]（qa）
+- [[Curtis Lam]]（staff）
+- [[Dallas Hickan]]（staff）
+- [[Danj]]（qa）
+- [[Delphy]]（staff）
+- [[Digital Hearts Co., Ltd]]（qa）
+- [[Digital Hearts Co., Ltd]]（translator）
+- [[EconomyAuto]]（qa）
+- [[Edward Keyes]]（qa）
+- [[Edward Keyes]]（staff）
+- [[FBates（vndb：per）]]（translator）
+- [[Fess]]（editor）
+- [[Fly]]（editor）
+- [[GameCreater32]]（staff）
+- [[Gu Wanling]]（qa）
+- [[HAV]]（editor）
+- [[HAV]]（translator）
+- [[Higashide Yuuichirou]]（scenario）
+- [[Himeros]]（staff）
+- [[Hintay]]（staff）
+- [[Hobusu]]（editor）
+- [[Holy Angel]]（translator）
+- [[Hoshizora Meteor]]（scenario）
+- [[Hoshizora Meteor]]（staff）
+- [[Hyarion]]（translator）
+- [[ImperialAssasin]]（staff）
+- [[Inuhanyou]]（qa）
+- [[Irene Savi]]（qa）
+- [[Ito Akiko]]（director）
+- [[Ivan Mezhenin]]（qa）
+- [[Jacktheinfinite101（vndb：per）]]（editor）
+- [[Jacktheinfinite101（vndb：per）]]（staff）
+- [[James Harris]]（music）
+- [[James Harris]]（staff）
+- [[Jeremy Engleman]]（staff）
+- [[Joe Ngyuyen]]（qa）
+- [[Joel Lee]]（qa）
+- [[KATE]]（music）
+- [[KATE]]（staff）
+- [[Kaihou Norimitsu]]（staff）
+- [[Kashitani Yoshiki]]（staff）
+- [[Kate Zhu]]（staff）
+- [[Kawai Eri]]（songs）
+- [[Kiyobee]]（staff）
+- [[Kotonoha（vndb：per）]]（editor）
+- [[Kotonoha（vndb：per）]]（staff）
+- [[Kotonoha（vndb：per）]]（translator）
+- [[Koyama Hirokazu]]（art）
+- [[Koyama Hirokazu]]（staff）
+- [[LI DUODUO]]（staff）
+- [[Lee Massi]]（qa）
+- [[Leeds Translation Co.Ltd]]（translator）
+- [[Leela McMullen]]（staff）
+- [[M.H]]（songs）
+- [[MORIYA]]（staff）
+- [[Marco Farinaccia]]（staff）
+- [[Marki Li Diaz]]（qa）
+- [[MeruP（vndb：per）]]（staff）
+- [[Message]]（staff）
+- [[Michael Casamento]]（staff）
+- [[Misuzu]]（staff）
+- [[Miwa Kiyomune]]（staff）
+- [[Miyaki Tetsuichiro]]（staff）
+- [[Monica Chin]]（staff）
+- [[Morii Shizuki]]（art）
+- [[NM64]]（qa）
+- [[NM64]]（staff）
+- [[Nabi]]（translator）
+- [[NamanikuATK]]（staff）
+- [[Narita Nobuya]]（staff）
+- [[Nasu Kinoko]]（director）
+- [[Nasu Kinoko]]（scenario）
+- [[Nasu Kinoko]]（staff）
+- [[Nisankatanso]]（staff）
+- [[Nozaki Masakazu]]（art）
+- [[Number 201]]（music）
+- [[OKSG]]（staff）
+- [[Oba Kosuke]]（music）
+- [[Ogino Keita]]（staff）
+- [[Omoefe Igbinovia]]（qa）
+- [[Ownsin]]（qa）
+- [[Peorth]]（qa）
+- [[Philipp Friedrïch Silcher]]（music）
+- [[Poki＃3]]（staff）
+- [[QuAZ]]（qa）
+- [[Quibi（vndb：per）]]（staff）
+- [[Rashad Samuels]]（qa）
+- [[Rico]]（staff）
+- [[Robert Kei Talbot]]（qa）
+- [[Ruka Nagashima]]（staff）
+- [[Ryuusoul]]（qa）
+- [[Saitou Shin'ya]]（music）
+- [[Sakai Nobukazu]]（staff）
+- [[Sakurai Hikaru]]（scenario）
+- [[Sardo]]（staff）
+- [[Sasaya Norio]]（staff）
+- [[Satanael]]（translator）
+- [[Sedel]]（qa）
+- [[Seung Park]]（qa）
+- [[Seung Park]]（staff）
+- [[Seung Park]]（translator）
+- [[Shimada Hiroki]]（staff）
+- [[Shimokoshi]]（staff）
+- [[Shoule]]（editor）
+- [[Shoule]]（staff）
+- [[SkitZoFrenic]]（qa）
+- [[SmilingWolf]]（staff）
+- [[Stingray Co.,Ltd]]（art）
+- [[Stranic]]（editor）
+- [[Stranic]]（qa）
+- [[Stranic]]（staff）
+- [[Stranic]]（translator）
+- [[Sugiyama Daniel Yuuki]]（music）
+- [[Sunagimo]]（staff）
+- [[TARDISintheblue]]（qa）
+- [[TG100]]（staff）
+- [[TakaJun]]（qa）
+- [[TakaJun]]（staff）
+- [[TakaJun]]（translator）
+- [[Takeuchi Tomotaka]]（art）
+- [[Takeuchi Tomotaka]]（chardesign）
+- [[Takeuchi Tomotaka]]（staff）
+- [[Tatsunoko Production]]（staff）
+- [[Terrafire]]（staff）
+- [[TheXev]]（staff）
+- [[Thryfe]]（qa）
+- [[Todaka Nokiwa]]（staff）
+- [[Tokisawa Nao]]（music）
+- [[Tsuji Santa]]（staff）
+- [[Tsukuri Monoji]]（staff）
+- [[UnlimitedBladeWorks]]（qa）
+- [[Urobuchi Gen]]（scenario）
+- [[Urobuchi Gen]]（staff）
+- [[Urushinohara]]（staff）
+- [[VeNoM397]]（editor）
+- [[VeNoM397]]（qa）
+- [[Victor Hudelot]]（qa）
+- [[Von Nanashi]]（staff）
+- [[WINFANWORKS]]（staff）
+- [[Waku Waku（vndb：per）]]（staff）
+- [[Wryn]]（qa）
+- [[Wu Haoning]]（staff）
+- [[Yang Chenghao]]（staff）
+- [[Yang Yueqi]]（qa）
+- [[Yang Yuju]]（qa）
+- [[Zalas]]（qa）
+- [[Zanoru]]（editor）
+- [[Zanoru]]（staff）
+- [[Zhu Yiruo]]（qa）
+- [[an4nas]]（qa）
+- [[anon__]]（staff）
+- [[anrp]]（staff）
+- [[ascold]]（qa）
+- [[ausmood]]（staff）
+- [[bishopcruz]]（staff）
+- [[ddxnte]]（qa）
+- [[dzugendoff]]（qa）
+- [[earthmind]]（songs）
+- [[furinkan]]（staff）
+- [[fuzz, Inc]]（staff）
+- [[guilhermee]]（qa）
+- [[hawthorneluke]]（staff）
+- [[hil]]（music）
+- [[insani]]（staff）
+- [[luny]]（qa）
+- [[mattYT3841]]（qa）
+- [[minori]]（art）
+- [[nikoljasja]]（qa）
+- [[paranopa]]（qa）
+- [[phiber]]（staff）
+- [[puKKa]]（staff）
+- [[replicated]]（qa）
+- [[replicated]]（staff）
+- [[rhu]]（songs）
+- [[rubberchicken]]（qa）
+- [[sebasdoes]]（qa）
+- [[sebasdoes]]（staff）
+- [[tjm]]（qa）
+- [[tjm]]（staff）
+- [[toxicghoul228]]（qa）
+- [[uVerin]]（qa）
+- [[ufotable]]（staff）
+- [[uyjulian]]（staff）
+- [[yoshiyuki]]（staff）<!-- AUTO:END role -->
+
+## 角色
+<!-- AUTO:BEGIN character -->- [[Archer（racter：c）]]（primary）
+- [[Assassin]]（side）
+- [[Berserker]]（side）
+- [[Caster（cter：c45）]]（side）
+- [[Dark Berserker]]（appears）
+- [[Dark Sakura]]（side）
+- [[Emiya Kiritsugu]]（appears）
+- [[Emiya Shirou]]（protagonist）
+- [[Fujimura Taiga（vndb：cha）]]（side）
+- [[Gilgamesh（vndb：cha）]]（side）
+- [[Himuro Kane]]（appears）
+- [[Hotaruzuka Otoko]]（appears）
+- [[Illyasviel von Einzbern]]（primary）
+- [[Kotomine Kirei]]（primary）
+- [[Kuzuki Souichirou]]（side）
+- [[Lancer（racter：c）]]（side）
+- [[Leysritt]]（appears）
+- [[Makidera Kaede]]（appears）
+- [[Matou Sakura]]（primary）
+- [[Matou Shinji（vndb：cha）]]（side）
+- [[Matou Zouken]]（side）
+- [[Mitsuzuri Ayako]]（appears）
+- [[Rider（vndb：cha）]]（side）
+- [[Ryuudou Issei]]（appears）
+- [[Saber Alter]]（side）
+- [[Saber]]（primary）
+- [[Saegusa Yukika]]（appears）
+- [[Sella]]（appears）
+- [[The Shadow]]（appears）
+- [[Toosaka Rin]]（primary）
+- [[True Assassin]]（side）<!-- AUTO:END character -->
+
+## 声优
+<!-- AUTO:BEGIN voice -->- [[Anzu Mitsu]]（門脇 舞以）
+- [[Inada Tetsu]]（稲田 徹）
+- [[Itou Miki（vndb：per）]]（伊藤 美紀）
+- [[Kamiya Hiroshi]]（神谷 浩史）
+- [[Kanna Nobutoshi]]（神奈 延年）
+- [[Kawasumi Ayako]]（川澄 綾子）
+- [[Koyama Rikiya]]（小山 力也）
+- [[Madono Mitsuaki]]（真殿 光昭）
+- [[Miki Shin'ichirou]]（三木 眞一郎）
+- [[Miyagawa Miho]]（宮川 美保）
+- [[Miyakawa Yuuka]]（下屋 則子）
+- [[Mizusawa Fumie]]（水沢 史絵）
+- [[Nakagawa Rie]]（中川 里江）
+- [[Nakao Eri]]（中尾 衣里）
+- [[Nakata Jouji]]（中田 譲治）
+- [[Nakata Kazuhiro]]（中多 和宏）
+- [[Niuchi Kiri]]（浅川 悠）
+- [[Noda Junko]]（野田 順子）
+- [[Noriyuki]]（杉山 紀彰）
+- [[Saizen Tadahisa]]（西前 忠久）
+- [[Seki Tomokazu]]（関 智一）
+- [[Suwabe Jun'ichi]]（諏訪部 順一）
+- [[Tanaka Atsuko]]（田中 敦子）
+- [[Terada Haruhi]]（七緒 はるひ）
+- [[Terada Haruhi]]（寺田 はるひ）
+- [[Tsukayama Masane]]（津嘉山 正種）
+- [[Ueda Kana]]（植田 佳奈）
+- [[Yuimoto Michiru]]（結下 みちる）<!-- AUTO:END voice -->
+
+## 发行版
+<!-- AUTO:BEGIN release -->- [[Fate／Stay Night + Fate／Hollow Ataraxia Set - Reprint Edition]]
+- [[Fate／Stay Night + Fate／Hollow Ataraxia Set]]
+- [[Fate／Stay Night - A New Translation]]
+- [[Fate／Stay Night - DVD Edition]]
+- [[Fate／Stay Night - First Press Limited Edition]]
+- [[Fate／Stay Night - Regular Edition]]
+- [[Fate／Stay Night - Route Fate]]
+- [[Fate／Stay Night - Trial Edition]]
+- [[Fate／Stay Night - Trial Edition（Gekkou ~Chiaro Di Luna~）]]
+- [[Fate／Stay Night - Trial Edition（insani）]]
+- [[Fate／Stay Night Trial Edition (Abridged for DS)]]
+- [[Fate／Stay Night for PSP]]
+- [[Fate／Stay Night ［Realta Nua］ (PlayStation2 the Best)]]
+- [[Fate／Stay Night ［Realta Nua］ (Playstation Vita the Best)]]
+- [[Fate／Stay Night ［Realta Nua］ - Conversion Patch]]
+- [[Fate／Stay Night ［Realta Nua］ - Extra Edition]]
+- [[Fate／Stay Night ［Realta Nua］ - Regular Edition]]
+- [[Fate／Stay Night ［Realta Nua］ - Ultimate Edition]]
+- [[Fate／Stay Night ［Realta Nua］ - Ultimate Edition（Team Ataraxia）]]
+- [[Fate／Stay Night ［Realta Nua］ -Fate-]]
+- [[Fate／Stay Night ［Realta Nua］ -Fate-（release：）]]
+- [[Fate／Stay Night ［Realta Nua］ -Heaven's Feel-]]
+- [[Fate／Stay Night ［Realta Nua］ -Heaven's Feel-（mirror moon）]]
+- [[Fate／Stay Night ［Realta Nua］ -Unlimited Blade Works-]]
+- [[Fate／Stay Night ［Realta Nua］ -Unlimited Blade Works-（release：）]]
+- [[Fate／Stay Night ［Realta Nua］ Fate]]
+- [[Fate／Stay Night ［Realta Nua］ PC SChinese Localization Patch (Alpha 3)]]
+- [[Fate／Stay Night ［Realta Nua］]]
+- [[Fate／Stay Night ［Realta Nua］（Meow Works）]]
+- [[Fate／Stay Night ［Realta Nua］（TYPE-MOON）]]
+- [[Fate／Stay Night ［Realta Nua］（mirror moon・release：）]]
+- [[Fate／Stay Night ［Realta Nua］（mirror moon）]]
+- [[Fate／Stay Night ［Realta Nua］（release：）]]
+- [[Fate／Stay Night ［Realta Nua］（vndb：r83）]]
+- [[Fate／Stay Night ［Versione Trial］]]
+- [[Fate／Stay Night]]
+- [[Fate／Stay Night（FaceOff）]]
+- [[Fate／Stay Night（Fate Project Translation）]]
+- [[Fate／Stay Night（Sonako-Hako・release：）]]
+- [[Fate／Stay Night（Sonako-Hako）]]
+- [[Fate／Stay Night（mirror moon）]]
+- [[Fate／Stay Night（vndb：r27）]]
+- [[Fate／Stay Night（vndb：r63）]]
+- [[Fate／Stay Night（vndb：r64）]]
+- [[Fate／Stay Night（vndb：r68）]]
+- [[Fate／Stay Night（vndb：r78）]]
+- [[Fate／stay night REMASTERED Original Music Restoration]]
+- [[Fate／stay night REMASTERED]]
+- [[Fate／stay night REMASTERED（Aniplex Inc）]]
+- [[Fate／stay night REMASTERED（Arc System Works Co., Ltd）]]
+- [[Fate／stay night REMASTERED（FSN-TRAD）]]
+- [[Fate／stay night REMASTERED（Unlimited Silly Works）]]
+- [[Fate／stay night REMASTERED（release：）]]
+- [[Fate／stay night REMASTERED（vndb：r14）]]
+- [[Fate／stay night REMASTERED（vndb：r15）]]
+- [[Fate／stay night REMASTERED（vndb：r16）]]
+- [[Fate／stay night ［Realta Nua］（TYPE-MOON・release：）]]
+- [[Fate／stay night ［Réalta Nua］ - Ultimate Edition]]
+- [[Fate／stay night（release：）]]
+- [[Fate／stay night（vndb：r13）]]
+- [[Fate／stay night（vndb：r22）]]
+- [[Sud'ba／Noch' Shvatki]]
+- [[Sud'ba／Noch' Shvatki（Rus'-moon）]]
+- [[Sud'ba／Noch' Shvatki（release：）]]
+- [[Sud'ba／Noch' Shvatki（vndb：r99）]]<!-- AUTO:END release -->
+
+## 动画化
+<!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
+
+## 关联作品
+<!-- AUTO:BEGIN relation -->- [[BADEND no Sonogo ni]]（char）
+- [[Bunsan Sei Minimum x Archer]]（char）
+- [[Camera]]（char）
+- [[DYSTOPIA -Fool on the City-]]（char）
+- [[FATE／COLUMNS NIGHT]]（char）
+- [[FEEL OF YOUR BODY]]（char）
+- [[Fake／ever since]]（seq）
+- [[Fate;Gate Epsilon]]（set）
+- [[Fate／Dear Night]]（char）
+- [[Fate／Dream Coalescence]]（fan）
+- [[Fate／EXTRA]]（set）
+- [[Fate／Empire of Dirt]]（ser）
+- [[Fate／IF Unlimited Card Works]]（char）
+- [[Fate／Install]]（ser）
+- [[Fate／Knight Rhapsody]]（side）
+- [[Fate／Otome]]（preq）
+- [[Fate／Side Moon]]（char）
+- [[Fate／Zero The Adventure]]（preq）
+- [[Fate／Zero the Visual Novel]]（preq）
+- [[Fate／Zero]]（preq）
+- [[Fate／hollow ataraxia]]（fan）
+- [[Fate／hollow ataraxia]]（orig）
+- [[Fate／parallele Welt]]（char）
+- [[Happiness]]（char）
+- [[Happy Valentine's Day]]（side）
+- [[Hate／sty night]]（fan）
+- [[Heroic Spirit Assassin]]（set）
+- [[I, Miku]]（char）
+- [[Just Story]]（char）
+- [[Krasnaja shapochka]]（char）
+- [[Luoye Dao - Xianxing Ban]]（char）
+- [[Maid／stay night]]（char）
+- [[Motto Sakura na Hibi]]（char）
+- [[My Pet Caster]]（char）
+- [[My Pet Illya]]（char）
+- [[My Pet Rider]]（char）
+- [[My Pet Rin]]（char）
+- [[My Pet Saber]]（char）
+- [[My Pet Sakura]]（char）
+- [[Nugi Fate Quiz de Datsui! 5]]（char）
+- [[Nyotai Mekuri - Fate Hen]]（char）
+- [[Ocha no Ma Eirei Gekijou -Parallel & At Home Comedy-]]（char）
+- [[Sakura ~Ryoujoku Seifuku Kikou~]]（char）
+- [[The Law of Contradiction]]（preq）
+- [[The Sacred Treasures／Fate]]（char）
+- [[Unchain the Night～Illyasuiel～]]（char）
+- [[月姫]]（set）
+- [[魔法使之夜]]（set）<!-- AUTO:END relation -->
+
+## 标签
+<!-- AUTO:BEGIN tag -->- [[100% Completion Bonus]]
+- [[2000s]]
+- [[ADV]]
+- [[Albino Heroine]]
+- [[Alternate Dimensions]]
+- [[Amnesia]]
+- [[Archery Club]]
+- [[Asian-style Manor]]
+- [[Attempted Rape]]
+- [[Bad Ending(s)]]
+- [[Bad Endings with Story]]
+- [[Battle Royale]]
+- [[Battle of Wits]]
+- [[Blowjob]]
+- [[Body Horror]]
+- [[Bonus Side Stories]]
+- [[Branching Plot]]
+- [[British Mythology]]
+- [[Built-in Encyclopedia]]
+- [[Built-in Walkthrough]]
+- [[Changeable Font]]
+- [[Character Profiles]]
+- [[Child Abuse]]
+- [[Christian Church]]
+- [[Church]]
+- [[Combat Archery]]
+- [[Combat Capable Friends]]
+- [[Combat with Exotic Weapons]]
+- [[Combat with Spears]]
+- [[Comedy]]
+- [[Contemporary Fantasy]]
+- [[Cowgirl]]
+- [[Cunnilingus]]
+- [[Date Display]]
+- [[Death of Heroine]]
+- [[Death of Protagonist]]
+- [[Defloration by Others]]
+- [[Defloration]]
+- [[Depression (obsolete)]]
+- [[Descriptions of Violence]]
+- [[Desperation]]
+- [[Determinant Antagonist]]
+- [[Doggy Style]]
+- [[Donkan Protagonist]]
+- [[Drastic Character Development (positive)]]
+- [[Duel]]
+- [[Early Branching Plot]]
+- [[Ending List]]
+- [[Energy Transfer via Sex]]
+- [[Enforced Playing Order]]
+- [[Ethnically Diverse Cast]]
+- [[Fantasy]]
+- [[Female Ejaculation]]
+- [[Female Protagonist for a Short Time]]
+- [[Fictional Modern Day Japanese Town]]
+- [[Fighting Protagonist]]
+- [[Flashback]]
+- [[Food Discussions]]
+- [[Forced Auto-Read Sections]]
+- [[Foreigner Heroine]]
+- [[Forest]]
+- [[Game Over]]
+- [[Genius Heroine]]
+- [[Graphic Violence]]
+- [[Greek Mythology]]
+- [[Grotesque Body Modification]]
+- [[Group Sex of One Male and Several Females]]
+- [[Has Window Transparency Setting]]
+- [[Heroine Based on Real Person]]
+- [[Heroine Based on a Mythological Character]]
+- [[Heroine with Ahoge]]
+- [[Heroine with Armor]]
+- [[Heroine with Big Breasts]]
+- [[Heroine with Sexual Experience]]
+- [[Heroine with Small Breasts (Non-Loli)]]
+- [[Heroine with Superpowered Side]]
+- [[Heroine with Zettai Ryouiki]]
+- [[High Amount of Bad Endings]]
+- [[High Amount of Special Effects]]
+- [[High School Student Heroine]]
+- [[High School]]
+- [[Hint Corner]]
+- [[Homemaker Protagonist]]
+- [[Homunculus Support Character]]
+- [[Hotblooded Protagonist]]
+- [[Identity Crisis]]
+- [[In Medias Res]]
+- [[In-game Sexual Content Toggle]]
+- [[Infodumping]]
+- [[Insert Songs]]
+- [[Interracial／interspecies Romance]]
+- [[Irish Mythology]]
+- [[Knife／Dagger Combat]]
+- [[Knight Heroine]]
+- [[Kuudere Heroine]]
+- [[Late Sexual Content]]
+- [[Lesbian Sex]]
+- [[Life and Death Drama]]
+- [[Loli Support Character]]
+- [[Long Sexual Scenes]]
+- [[Lots of Choices]]
+- [[Lots of Event CGs]]
+- [[Low Fantasy]]
+- [[Low Sexual Content]]
+- [[Mage Heroine]]
+- [[Mage Protagonist]]
+- [[Mages Association]]
+- [[Magic]]
+- [[Magic／ESP Combat]]
+- [[Major Antagonist]]
+- [[Male Protagonist]]
+- [[Masturbation]]
+- [[Mayadere Heroine]]
+- [[Meaningless Choices]]
+- [[Mentor Support Character]]
+- [[Mesopotamian Mythology]]
+- [[Missionary Position]]
+- [[Modern Tsundere Heroine]]
+- [[Multiple Endings]]
+- [[Multiple Opening Movies]]
+- [[Multiple Route Mystery]]
+- [[Multiple True Endings]]
+- [[Murder Mystery]]
+- [[Music Recollection]]
+- [[Mystery]]
+- [[NVL]]
+- [[Narrating Others' Thoughts]]
+- [[Non-Erotic Moral Corruption]]
+- [[Non-twin Heroine Sisters]]
+- [[Norse Mythology]]
+- [[Orphan Heroine]]
+- [[Orphan Protagonist]]
+- [[Other Perspectives]]
+- [[Parting Ending]]
+- [[Philosophy]]
+- [[Playtime Counter]]
+- [[Pretending Heroine]]
+- [[Priest Support Character]]
+- [[Proactive Protagonist]]
+- [[Protagonist with Psychological Problems]]
+- [[Protagonist with Voice Acting]]
+- [[Protagonist with a Face]]
+- [[Protagonist with a Sprite]]
+- [[Protagonist's Kouhai as a Heroine]]
+- [[Psychological Horror]]
+- [[Rape Victim Heroine]]
+- [[Redemption]]
+- [[Resurrection]]
+- [[Reverse Cowgirl]]
+- [[Romancing a Family]]
+- [[Royal Heroine]]
+- [[Sacred Treasure]]
+- [[School Sports Club Member Heroine]]
+- [[Secret Identity]]
+- [[Sex Under the Necessity]]
+- [[Sexual Content]]
+- [[Short Common Route]]
+- [[Single Blowjob]]
+- [[Skip Scenes]]
+- [[Slice of Life Comedy]]
+- [[Slice of Life]]
+- [[Spontaneous Power-ups]]
+- [[Student Heroine]]
+- [[Student Protagonist]]
+- [[Summoning]]
+- [[Superhero(ine) Protagonist]]
+- [[Superpowers]]
+- [[Sword Combat]]
+- [[Sword Wielding Heroine]]
+- [[Sword Wielding Protagonist]]
+- [[Temple]]
+- [[Threesome Ending]]
+- [[Threesome]]
+- [[Tsundere Heroine]]
+- [[Twin Tail Heroine]]
+- [[Unarmed Combat]]
+- [[Unavoidable Heroine Rape]]
+- [[Under the Same Roof]]
+- [[Unique Routes]]
+- [[Unlockable Bonus Content]]
+- [[Unlockable Choices]]
+- [[Unlockable Epilogue]]
+- [[Unlockable Event]]
+- [[Unlockable Gallery]]
+- [[Unlockable Hero(ine)]]
+- [[Unlockable Routes]]
+- [[Urban Fantasy]]
+- [[Varied Title Screens]]
+- [[Western-style Castle]]
+- [[Western-style Manor]]
+- [[Winter]]
+- [[Yandere Heroine]]
+- [[Yangire Heroine]]<!-- AUTO:END tag -->
+
+## 来源
+<!-- AUTO:BEGIN provenance -->vndb:v11<!-- AUTO:END provenance -->

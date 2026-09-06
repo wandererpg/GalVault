@@ -1,0 +1,177 @@
+---
+entity_id: tag:"Episodic Story"
+type: tag
+title_zh: "Episodic Story"
+---
+
+# Episodic Story
+
+## 会社与职责
+<!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->
+
+## 创作者
+<!-- AUTO:BEGIN role --><!-- AUTO:END role -->
+
+## 角色
+<!-- AUTO:BEGIN character --><!-- AUTO:END character -->
+
+## 声优
+<!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
+
+## 发行版
+<!-- AUTO:BEGIN release --><!-- AUTO:END release -->
+
+## 动画化
+<!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
+
+## 关联作品
+<!-- AUTO:BEGIN relation --><!-- AUTO:END relation -->
+
+## 标签
+<!-- AUTO:BEGIN tag -->- [[428 ～被封锁的涩谷～]]
+- [[7days-与你共度的七日间]]
+- [[AIR]]
+- [[Apollo Justice： Ace Attorney 4]]
+- [[BLACK SHEEP TOWN]]
+- [[BLAZBLUE CENTRALFICTION]]
+- [[BUSTAFELLOWS シーズン2]]
+- [[BUSTAFELLOWS]]
+- [[Being a DIK]]
+- [[CLOCK ZERO ～終焉之一秒～]]
+- [[Chasing Sunsets]]
+- [[DRACU-RIOT!]]
+- [[Electro Arms -Realize Digital Dimension-]]
+- [[FLOWERS -Le volume sur automne-]]
+- [[Geunyeoui Segye]]
+- [[G弦上的魔王]]
+- [[Heart Fragment]]
+- [[LOVESICK PUPPIES -我们为了恋爱而诞生-]]
+- [[Maple Colors 2]]
+- [[Missing-X-Link ～天のゆりかご、伽の花～]]
+- [[OBSCURA]]
+- [[Operation NOVEL： Season 1]]
+- [[Our Wonderland]]
+- [[ROBOTICS;NOTES]]
+- [[Ripples]]
+- [[Root Double]]
+- [[SeaBed]]
+- [[Sisterhood]]
+- [[Staffer Case - 异能缉凶]]
+- [[Super Danganronpa Another 2 ~Huimangui Dalgwa Jeolmangui Taeyang~]]
+- [[Suzerain]]
+- [[The Sekimeiya： Spun Glass]]
+- [[TrymenT ―献给渴望改变的你―]]
+- [[Tyrion Cuthbert： Attorney of the Arcane]]
+- [[Witches & Woodlands]]
+- [[Z.A.T.O. ／／ I Love the World and Everything In It]]
+- [[corru.observer]]
+- [[of the Devil]]
+- [[ひぐらしのなく頃に： Console Arcs]]
+- [[るいは智を呼ぶファンディスク ―明日のむこうに視える風―]]
+- [[アステリズム -Astraythem-]]
+- [[アルノサージュ ～生まれいずる星へ祈る詩～]]
+- [[アンラッキーリバース]]
+- [[アンラベル・トリガー]]
+- [[キコニアのなく頃に]]
+- [[サクラ大戦]]
+- [[シェルノサージュ〜失われた星へ捧ぐ詩〜]]
+- [[シュヴァルツェスマーケン]]
+- [[ネームレス ～思い出さなければならない、一つのこと～]]
+- [[マテリアルブレイブ イグニッション]]
+- [[マブラヴ オルタネイティヴ トータル・イクリプス]]
+- [[マブラヴ　オルタネイティヴ]]
+- [[ロンド・リーフレット]]
+- [[ローズガンズデイズ]]
+- [[世界上最NG的恋爱]]
+- [[世界灭亡共有幻想MAMIYA]]
+- [[五彩斑斓的世界]]
+- [[五彩斑斓的曙光]]
+- [[僵尸×道士]]
+- [[初雪樱]]
+- [[剑为君舞]]
+- [[千之刃涛，桃花染之皇姬]]
+- [[千恋＊万花]]
+- [[南十字星恋歌]]
+- [[变态监狱]]
+- [[可塑性记忆]]
+- [[命运石之门]]
+- [[和香様の座する世界]]
+- [[圣骑士莉卡物语 白翼与淫翼姐妹]]
+- [[夏娃年代记]]
+- [[多娜多娜 一起干坏事吧]]
+- [[大正×对称爱丽丝]]
+- [[大逆转裁判 2 －成步堂龙之介的觉悟－]]
+- [[大逆转裁判 －成步堂龙之介的冒险－]]
+- [[天津罪]]
+- [[太陽のプロミア]]
+- [[奇异恩典 -What color is your attribute？-]]
+- [[寒蝉鸣泣之时 出题篇]]
+- [[寒蝉鸣泣之时解]]
+- [[少女爱上姐姐2]]
+- [[巨乳ファンタジー3]]
+- [[幻創のイデア～Oratorio Phantasm Historia～]]
+- [[幽灵镇少女]]
+- [[弹丸论破 希望的学园与绝望的高中生]]
+- [[恋想リレーション]]
+- [[恋色空模样]]
+- [[戦国†恋姫～乙女絢爛☆戦国絵巻～]]
+- [[扉の伝説 ～風のつばさ～]]
+- [[新枪弹辩驳V3 大家自相残杀的新学期]]
+- [[时钟机关的Ley-line -朝雾中飘零之花-]]
+- [[时钟机关的Ley-line -残影之夜将明时-]]
+- [[星之终途]]
+- [[暗い日曜日－Sombre　Dimanche－]]
+- [[木洩れ陽のノスタルジーカ -Raggio di sole nostalgico-]]
+- [[梦灯花]]
+- [[樱之刻－漫步于樱花之森下－]]
+- [[樱之诗 −于樱之森上飞舞−]]
+- [[樱色之云＊绯色之恋]]
+- [[樱花大战3～巴黎在燃烧吗～]]
+- [[樱花大战II 望君多珍重]]
+- [[死神と少女]]
+- [[死神のテスタメント ～menuet of epistula～]]
+- [[水葬银货的Istria]]
+- [[泡沫冬景]]
+- [[流星ワールドアクター Gaslight Bullet]]
+- [[流星世界演绎者]]
+- [[海市蜃楼之馆]]
+- [[海市蜃楼之馆：纯真挽歌]]
+- [[海猫鸣泣之时]]
+- [[海猫鸣泣之时散]]
+- [[滅び朽ちる世界に追憶の花束を]]
+- [[潜伏之赤途]]
+- [[熠熠星光魔物娘]]
+- [[爱上火车]]
+- [[片轮少女]]
+- [[白詰草話 -EPISODE OF THE CLOVERS-]]
+- [[真・恋姫†無双～乙女繚乱☆三国志演義～]]
+- [[神咒神威神乐 曙光]]
+- [[神狱塔 断罪玛丽 2]]
+- [[神采炼金名匠]]
+- [[秽翼的尤斯蒂娅]]
+- [[紫影的索纳尼尔～何等美好的记忆～]]
+- [[結婚主義国家]]
+- [[红壳町博物志]]
+- [[纸上的魔法使]]
+- [[终之空Remake]]
+- [[美好的每一天～不连续存在～]]
+- [[苍之彼方的四重奏 EXTRA2]]
+- [[苍之彼方的四重奏]]
+- [[装甲恶鬼村正]]
+- [[赫炎的印加诺克]]
+- [[超级弹丸论破2 再见绝望学园]]
+- [[輝光翼戦記 天空のユミナFD -ForeverDreams-]]
+- [[车轮之国，向日葵的少女]]
+- [[近月少女的礼仪]]
+- [[这个家伙无罪]]
+- [[逆转检察官2]]
+- [[逆转裁判3]]
+- [[逆转裁判]]
+- [[银色事件25区]]
+- [[银色事件]]
+- [[阿特拉克=纳克亚]]
+- [[魔女的夜宴]]
+- [[魔法使之夜]]<!-- AUTO:END tag -->
+
+## 来源
+<!-- AUTO:BEGIN provenance --><!-- AUTO:END provenance -->

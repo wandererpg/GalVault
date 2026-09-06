@@ -1,0 +1,44 @@
+---
+entity_id: "release:vndb:r131443:work:vndb:work:v50416"
+type: "release"
+display_title: "Jewelry Nights Arcadia -The ends of the world- H Scene Trial Edition"
+release_date: "2024-12-13"
+is_all_ages: false
+platform: "win"
+edition_type: "trial"
+title_status: "needs_review"
+source_ids:
+  vndb: "r131443"
+source_urls:
+  vndb: "https://vndb.org/r131443"
+---
+
+# Jewelry Nights Arcadia -The ends of the world- H Scene Trial Edition
+
+## 会社与职责
+<!-- AUTO:BEGIN duty -->- [[Cabbage Soft]]（developer）
+- [[Cabbage Soft]]（publisher）<!-- AUTO:END duty -->
+
+## 创作者
+<!-- AUTO:BEGIN role --><!-- AUTO:END role -->
+
+## 角色
+<!-- AUTO:BEGIN character --><!-- AUTO:END character -->
+
+## 声优
+<!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
+
+## 所属作品
+<!-- AUTO:BEGIN release -->- [[月映宝石乡 -星沈碧落万物喑-]]<!-- AUTO:END release -->
+
+## 动画化
+<!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
+
+## 关联作品
+<!-- AUTO:BEGIN relation --><!-- AUTO:END relation -->
+
+## 标签
+<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+
+## 来源
+<!-- AUTO:BEGIN provenance -->vndb:r131443<!-- AUTO:END provenance -->

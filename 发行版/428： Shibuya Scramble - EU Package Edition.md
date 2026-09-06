@@ -1,0 +1,46 @@
+---
+entity_id: "release:vndb:r59355:work:vndb:work:v1299"
+type: "release"
+display_title: "428: Shibuya Scramble - EU Package Edition"
+release_date: "2018-09-21"
+is_all_ages: true
+platform: "ps4"
+edition_type: "complete"
+title_status: "needs_review"
+source_ids:
+  vndb: "r59355"
+source_urls:
+  vndb: "https://vndb.org/r59355"
+---
+
+# 428: Shibuya Scramble - EU Package Edition
+
+## 会社与职责
+<!-- AUTO:BEGIN duty -->- [[Chunsoft]]（developer）
+- [[Koch Media]]（publisher）
+- [[Spike Chunsoft]]（publisher）
+- [[TYPE-MOON]]（developer）<!-- AUTO:END duty -->
+
+## 创作者
+<!-- AUTO:BEGIN role --><!-- AUTO:END role -->
+
+## 角色
+<!-- AUTO:BEGIN character --><!-- AUTO:END character -->
+
+## 声优
+<!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
+
+## 所属作品
+<!-- AUTO:BEGIN release -->- [[428 ～被封锁的涩谷～]]<!-- AUTO:END release -->
+
+## 动画化
+<!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
+
+## 关联作品
+<!-- AUTO:BEGIN relation --><!-- AUTO:END relation -->
+
+## 标签
+<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+
+## 来源
+<!-- AUTO:BEGIN provenance -->vndb:r59355<!-- AUTO:END provenance -->

@@ -1,0 +1,51 @@
+---
+entity_id: "vndb:character:c99002"
+type: "character"
+display_title: "希恩古乔奥吉阿巴蕾惠"
+title_zh: "希恩古乔奥吉阿巴蕾惠"
+title_ja: "キングジョージ・アバレー"
+title_zh_quality: "phonetic_transliteration"
+title_status: "machine_generated"
+aliases:
+  - "Kinggeorge Violae"
+  - "キングジョージ・アバレー"
+source_ids:
+  vndb: "c99002"
+source_urls:
+  vndb: "https://vndb.org/c99002"
+portrait_image: "assets/characters/c99002.webp"
+---
+
+# 希恩古乔奥吉阿巴蕾惠
+
+## 角色画像
+<!-- AUTO:BEGIN image -->
+![[assets/characters/c99002.webp|250]]
+<!-- AUTO:END image -->
+
+## 会社与职责
+<!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->
+
+## 创作者
+<!-- AUTO:BEGIN role --><!-- AUTO:END role -->
+
+## 出场作品
+<!-- AUTO:BEGIN character -->- [[兰斯6 -赛斯崩坏-]]（side）<!-- AUTO:END character -->
+
+## 声优
+<!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
+
+## 发行版
+<!-- AUTO:BEGIN release --><!-- AUTO:END release -->
+
+## 动画化
+<!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
+
+## 关系
+<!-- AUTO:BEGIN relation --><!-- AUTO:END relation -->
+
+## 标签
+<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+
+## 来源
+<!-- AUTO:BEGIN provenance -->vndb:c99002<!-- AUTO:END provenance -->

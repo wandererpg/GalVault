@@ -1,0 +1,17 @@
+.obsidian/
+.baoyu-skills/
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.zip
+*.log
+*.db
+*.sqlite3
+*.pyd
+*.exe
+系统/工具/vendor/
+系统/工具/vendor_local/
+系统/工具/__pycache__/
+**/__pycache__/
+*.pyc

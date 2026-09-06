@@ -1,0 +1,80 @@
+filters:
+  and:
+  - file.inFolder("10-作品")
+  - type == "work"
+formulas:
+  source_count: if(vndb_score, 1, 0) + if(bangumi_score, 1, 0) + 
+    if(erogamescape_score, 1, 0)
+properties:
+  anime_adaptation:
+    displayName: 动画化
+  bangumi_rank:
+    displayName: Bangumi 排名
+  bangumi_score:
+    displayName: Bangumi 评分
+  cover:
+    displayName: 封面
+  display_title:
+    displayName: 显示标题
+  erogamescape_rank:
+    displayName: 批评空间排名
+  erogamescape_score:
+    displayName: 批评空间评分
+  file.name:
+    displayName: 文件
+  first_release_date:
+    displayName: 首发日期
+  is_all_ages:
+    displayName: 全年龄
+  presentation_type:
+    displayName: 表现形式
+  title_ja:
+    displayName: 日文名
+  title_zh:
+    displayName: 中文标题
+  vndb_rank:
+    displayName: VNDB 排名
+  vndb_score:
+    displayName: VNDB 评分
+  work_type:
+    displayName: 作品类型
+views:
+- name: 封面卡片
+  order:
+  - file.name
+  - cover
+  - title_zh
+  - title_ja
+  - work_type
+  - first_release_date
+  type: cards
+- name: 作品表格
+  order:
+  - file.name
+  - title_zh
+  - title_ja
+  - presentation_type
+  - work_type
+  - first_release_date
+  - is_all_ages
+  - vndb_score
+  - bangumi_score
+  - erogamescape_score
+  - vndb_rank
+  - bangumi_rank
+  - erogamescape_rank
+  - formula.source_count
+  summaries:
+    bangumi_score: Average
+    erogamescape_score: Average
+    vndb_score: Average
+  type: table
+- filters:
+    and:
+    - anime_adaptation != ""
+  name: 动画化
+  order:
+  - file.name
+  - title_zh
+  - anime_adaptation
+  type: table

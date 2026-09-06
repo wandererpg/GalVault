@@ -1,0 +1,431 @@
+---
+entity_id: "vndb:company:p146"
+type: "company"
+display_title: "MAGES."
+source_ids:
+  vndb: "p146"
+source_urls:
+  vndb: "https://vndb.org/p146"
+---
+
+# MAGES.
+
+## 相关作品与职责
+<!-- AUTO:BEGIN duty -->- [[Akatsuki no Goei Trinity - Limited Edition]]（publisher）
+- [[Akatsuki no Goei Trinity - Limited Edition（MAGES）]]（publisher）
+- [[Akatsuki no Goei Trinity]]（publisher）
+- [[Akatsuki no Goei Trinity（MAGES）]]（publisher）
+- [[CHAOS;CHILD（MAGES・vndb：r61）]]（developer）
+- [[CHAOS;CHILD（MAGES・vndb：r84）]]（developer）
+- [[CHAOS;CHILD（MAGES・vndb：r84）]]（publisher）
+- [[CHAOS;CHILD（MAGES・vndb：r97）]]（developer）
+- [[CHAOS;CHILD（MAGES・vndb：r97）]]（publisher）
+- [[CHAOS;HEAD Double Pack]]（developer）
+- [[CHAOS;HEAD Double Pack]]（publisher）
+- [[CHAOS;HEAD NOAH ／ CHAOS;CHILD DOUBLE PACK - Download Edition]]（developer）
+- [[CHAOS;HEAD NOAH ／ CHAOS;CHILD DOUBLE PACK - Download Edition（MAGES）]]（developer）
+- [[CHAOS;HEAD NOAH ／ CHAOS;CHILD DOUBLE PACK - SteelBook Launch Edition - EU Version]]（developer）
+- [[CHAOS;HEAD NOAH ／ CHAOS;CHILD DOUBLE PACK - SteelBook Launch Edition - EU Version（Numskull Games Ltd）]]（developer）
+- [[CHAOS;HEAD NOAH ／ CHAOS;CHILD DOUBLE PACK - SteelBook Launch Edition - NA Version]]（developer）
+- [[CHAOS;HEAD NOAH ／ CHAOS;CHILD DOUBLE PACK - SteelBook Launch Edition - NA Version（MAGES）]]（developer）
+- [[CHAOS;HEAD NOAH ／ CHAOS;CHILD DOUBLE PACK]]（developer）
+- [[CHAOS;HEAD NOAH ／ CHAOS;CHILD DOUBLE PACK]]（publisher）
+- [[CHAOS;HEAD NOAH ／ CHAOS;CHILD DOUBLE PACK（MAGES）]]（developer）
+- [[CHAOS;HEAD NOAH ／ CHAOS;CHILD DOUBLE PACK（MAGES）]]（publisher）
+- [[CHAOS;HEAD NOAH（MAGES・vndb：r84）]]（developer）
+- [[CHAOS;HEAD NOAH（MAGES・vndb：r84）]]（publisher）
+- [[CHAOS;HEAD NOAH（MAGES・vndb：r93）]]（developer）
+- [[CHAOS;HEAD NOAH（MAGES・vndb：r97）]]（developer）
+- [[Chaos;Child - Limited Edition（MAGES・k：v14018）]]（developer）
+- [[Chaos;Child - Limited Edition（MAGES・k：v14018）]]（publisher）
+- [[Chaos;Child - Limited Edition（MAGES・release：）]]（developer）
+- [[Chaos;Child - Limited Edition（MAGES・release：）]]（publisher）
+- [[Chaos;Child - Limited Edition（MAGES・vndb：r49）]]（developer）
+- [[Chaos;Child - Limited Edition（MAGES・vndb：r49）]]（publisher）
+- [[Chaos;Child - Limited Edition（MAGES）]]（developer）
+- [[Chaos;Child - Limited Edition（MAGES）]]（publisher）
+- [[Chaos;Child 404 not found]]（developer）
+- [[Chaos;Child 404 not found]]（publisher）
+- [[Chaos;Child for Windows PC - Download Edition]]（developer）
+- [[Chaos;Child for Windows PC - Package Edition]]（developer）
+- [[Chaos;Child（MAGES・k：v14018）]]（developer）
+- [[Chaos;Child（MAGES・k：v14018）]]（publisher）
+- [[Chaos;Child（MAGES・release：）]]（developer）
+- [[Chaos;Child（MAGES・release：）]]（publisher）
+- [[Chaos;Child（MAGES・vndb：r39）]]（developer）
+- [[Chaos;Child（MAGES・vndb：r39）]]（publisher）
+- [[Chaos;Child（MAGES・vndb：r51）]]（publisher）
+- [[Chaos;Child（MAGES）]]（developer）
+- [[Chaos;Child（MAGES）]]（publisher）
+- [[Chaos;Head Dual - Limited Edition]]（developer）
+- [[Chaos;Head Dual - Limited Edition]]（publisher）
+- [[Chaos;Head Dual - Regular Edition]]（developer）
+- [[Chaos;Head Dual - Regular Edition]]（publisher）
+- [[Chaos;Head Noah - Download Edition]]（developer）
+- [[Chaos;Head Noah - Download Edition]]（publisher）
+- [[Chaos;Head Noah - Download Edition（MAGES）]]（developer）
+- [[Chaos;Head Noah - Download Edition（MAGES）]]（publisher）
+- [[Chaos;Head Noah - First Press Limited Edition]]（developer）
+- [[Chaos;Head Noah - First Press Limited Edition]]（publisher）
+- [[Chaos;Head Noah - Limited Edition]]（developer）
+- [[Chaos;Head Noah - Limited Edition]]（publisher）
+- [[Chaos;Head Noah - Platinum Collection]]（developer）
+- [[Chaos;Head Noah - Platinum Collection]]（publisher）
+- [[Chaos;Head Noah - Regular Edition]]（developer）
+- [[Chaos;Head Noah - Regular Edition]]（publisher）
+- [[Chaos;Head Noah - Regular Edition（MAGES）]]（developer）
+- [[Chaos;Head Noah - Regular Edition（MAGES）]]（publisher）
+- [[Chaos;Head Noah（MAGES・release：）]]（developer）
+- [[Chaos;Head Noah（MAGES・release：）]]（publisher）
+- [[Chaos;Head Noah（MAGES）]]（developer）
+- [[Chaos;Head Noah（MAGES）]]（publisher）
+- [[Cross†Channel ~For All People~ Limited Edition]]（publisher）
+- [[Cross†Channel ~For All People~ Limited Edition（MAGES）]]（publisher）
+- [[Cross†Channel ~For All People~ Regular Edition]]（publisher）
+- [[Cross†Channel ~For All People~ Regular Edition（MAGES）]]（publisher）
+- [[Ever 17 - The Out of Infinity]]（developer）
+- [[Ever 17 - The Out of Infinity]]（publisher）
+- [[Ever 17 - The Out of Infinity（MAGES・release：）]]（developer）
+- [[Ever 17 - The Out of Infinity（MAGES）]]（developer）
+- [[Ever 17／Never 7 Double Pack - Limited Edition]]（developer）
+- [[Ever 17／Never 7 Double Pack - Limited Edition]]（publisher）
+- [[Ever 17／Never 7 Double Pack - Standard Edition]]（developer）
+- [[Ever 17／Never 7 Double Pack - Standard Edition]]（publisher）
+- [[Ever17 - First Press Limited Edition]]（developer）
+- [[Ever17 - First Press Limited Edition]]（publisher）
+- [[Ever17 - Regular Edition]]（developer）
+- [[Ever17 - Regular Edition]]（publisher）
+- [[Ever17 -The Out of Infinity- Download Edition（MAGES）]]（publisher）
+- [[Ever17]]（developer）
+- [[Ever17／Never7 Double Pack - Download Edition]]（developer）
+- [[Ever17／Never7 Double Pack - Download Edition]]（publisher）
+- [[Gaobie Huiyi Lidai Huiyilu Vol. 1 - Regular Edition]]（publisher）
+- [[Gaobie Huiyi Lidai Huiyilu Vol. 1 - Regular Edition（MAGES・k：v48916）]]（publisher）
+- [[Gaobie Huiyi Lidai Huiyilu Vol. 1 - Regular Edition（MAGES・release：）]]（publisher）
+- [[Gaobie Huiyi Lidai Huiyilu Vol. 1 - Regular Edition（MAGES・rk：v1171）]]（publisher）
+- [[Gaobie Huiyi Lidai Huiyilu Vol. 1 - Regular Edition（MAGES・vndb：r11）]]（publisher）
+- [[Gaobie Huiyi Lidai Huiyilu Vol. 1 - Regular Edition（MAGES）]]（publisher）
+- [[Hundun zhi Zi - Download Edition]]（developer）
+- [[Hundun zhi Zi - Download Edition（MAGES）]]（developer）
+- [[Hundun zhi Zi - Package Edition]]（developer）
+- [[Hundun zhi Zi - Package Edition（MAGES）]]（developer）
+- [[Kadenz Fermata／／Akkord：Fortissimo - Append Scenario Patch]]（developer）
+- [[Kadenz Fermata／／Akkord：Fortissimo - Battle Trial Edition]]（developer）
+- [[Kadenz Fermata／／Akkord：Fortissimo - Battle Trial Edition]]（publisher）
+- [[Kadenz Fermata／／Akkord：Fortissimo - Download Edition]]（developer）
+- [[Kadenz Fermata／／Akkord：Fortissimo - Download Edition]]（publisher）
+- [[Kadenz Fermata／／Akkord：Fortissimo - La'cryma 10th Anniversary Limited Edition]]（developer）
+- [[Kadenz Fermata／／Akkord：Fortissimo - Limited Edition]]（developer）
+- [[Kadenz Fermata／／Akkord：Fortissimo - Limited Edition]]（publisher）
+- [[Kadenz Fermata／／Akkord：Fortissimo - Regular Edition]]（developer）
+- [[Kadenz Fermata／／Akkord：Fortissimo - Regular Edition]]（publisher）
+- [[Kadenz Fermata／／Akkord：Fortissimo - Regular Edition（MAGES）]]（developer）
+- [[Kadenz Fermata／／Akkord：Fortissimo - Story Trial Edition]]（developer）
+- [[Kadenz Fermata／／Akkord：Fortissimo - Story Trial Edition]]（publisher）
+- [[Kadenz fermata／／Akkord：fortissimo]]（developer）
+- [[Kono Oozora ni, Tsubasa o Hirogete Cruise Sign - Limited Edition]]（publisher）
+- [[Kono Oozora ni, Tsubasa o Hirogete Cruise Sign - Limited Edition（MAGES・release：）]]（publisher）
+- [[Kono Oozora ni, Tsubasa o Hirogete Cruise Sign - Limited Edition（MAGES・vndb：r73）]]（publisher）
+- [[Kono Oozora ni, Tsubasa o Hirogete Cruise Sign - Limited Edition（MAGES）]]（publisher）
+- [[Kono Oozora ni, Tsubasa o Hirogete Cruise Sign - Regular Edition]]（publisher）
+- [[Kono Oozora ni, Tsubasa o Hirogete Cruise Sign - Regular Edition（MAGES・release：）]]（publisher）
+- [[Kono Oozora ni, Tsubasa o Hirogete Cruise Sign - Regular Edition（MAGES・vndb：r73）]]（publisher）
+- [[Kono Oozora ni, Tsubasa o Hirogete Cruise Sign - Regular Edition（MAGES）]]（publisher）
+- [[Kono Yo no Hate de Koi o Utau Shoujo YU-NO - Download Edition]]（publisher）
+- [[Kono Yo no Hate de Koi o Utau Shoujo YU-NO - Download Edition（MAGES）]]（publisher）
+- [[Kono Yo no Hate de Koi o Utau Shoujo YU-NO - Limited Edition（MAGES・release：）]]（publisher）
+- [[Kono Yo no Hate de Koi o Utau Shoujo YU-NO - Limited Edition（MAGES）]]（publisher）
+- [[Kono Yo no Hate de Koi o Utau Shoujo YU-NO - Regular Edition]]（publisher）
+- [[Kono Yo no Hate de Koi o Utau Shoujo YU-NO - Regular Edition（MAGES）]]（publisher）
+- [[Kono Yo no Hate de Koi o Utau Shoujo YU-NO（MAGES）]]（publisher）
+- [[LOVELY×CATION1&2 - Download Edition]]（publisher）
+- [[LOVELY×CATION1&2 - Limited Edition]]（publisher）
+- [[LOVELY×CATION1&2 - Regular Edition]]（publisher）
+- [[Memories Off 2nd - 2800 Renai Selection]]（publisher）
+- [[Memories Off 2nd - Download Edition]]（publisher）
+- [[Memories Off 2nd - Limited Edition]]（publisher）
+- [[Memories Off 2nd 〜雪蛍〜]]（developer）
+- [[Memories Off 2nd（MAGES）]]（publisher）
+- [[Memories Off Duet ~1st and 2nd Stories~]]（publisher）
+- [[Memories Off Historia - Limited Edition]]（developer）
+- [[Memories Off Historia - Limited Edition]]（publisher）
+- [[Memories Off Historia - Limited Edition（MAGES・k：v48916）]]（developer）
+- [[Memories Off Historia - Limited Edition（MAGES・k：v48916）]]（publisher）
+- [[Memories Off Historia - Limited Edition（MAGES・release：）]]（developer）
+- [[Memories Off Historia - Limited Edition（MAGES・release：）]]（publisher）
+- [[Memories Off Historia - Limited Edition（MAGES・rk：v1171）]]（developer）
+- [[Memories Off Historia - Limited Edition（MAGES・rk：v1171）]]（publisher）
+- [[Memories Off Historia - Limited Edition（MAGES・vndb：r75）]]（developer）
+- [[Memories Off Historia - Limited Edition（MAGES・vndb：r75）]]（publisher）
+- [[Memories Off Historia - Limited Edition（MAGES）]]（developer）
+- [[Memories Off Historia - Limited Edition（MAGES）]]（publisher）
+- [[Memories Off Historia - Super Limited Edition]]（developer）
+- [[Memories Off Historia - Super Limited Edition]]（publisher）
+- [[Memories Off Historia - Super Limited Edition（MAGES・k：v48916）]]（developer）
+- [[Memories Off Historia - Super Limited Edition（MAGES・k：v48916）]]（publisher）
+- [[Memories Off Historia - Super Limited Edition（MAGES・release：）]]（developer）
+- [[Memories Off Historia - Super Limited Edition（MAGES・release：）]]（publisher）
+- [[Memories Off Historia - Super Limited Edition（MAGES・rk：v1171）]]（developer）
+- [[Memories Off Historia - Super Limited Edition（MAGES・rk：v1171）]]（publisher）
+- [[Memories Off Historia - Super Limited Edition（MAGES・vndb：r11）]]（developer）
+- [[Memories Off Historia - Super Limited Edition（MAGES・vndb：r11）]]（publisher）
+- [[Memories Off Historia - Super Limited Edition（MAGES）]]（developer）
+- [[Memories Off Historia - Super Limited Edition（MAGES）]]（publisher）
+- [[Memories Off Historia Vol. 1 - Download Edition]]（publisher）
+- [[Memories Off Historia Vol. 1 - Download Edition（MAGES・k：v48916）]]（publisher）
+- [[Memories Off Historia Vol. 1 - Download Edition（MAGES・release：）]]（publisher）
+- [[Memories Off Historia Vol. 1 - Download Edition（MAGES・rk：v1171）]]（publisher）
+- [[Memories Off Historia Vol. 1 - Download Edition（MAGES・vndb：r11）]]（publisher）
+- [[Memories Off Historia Vol. 1 - Download Edition（MAGES）]]（publisher）
+- [[Memories Off Historia Vol. 1 - Regular Edition]]（publisher）
+- [[Memories Off Historia Vol. 1 - Regular Edition（MAGES・k：v48916）]]（publisher）
+- [[Memories Off Historia Vol. 1 - Regular Edition（MAGES・release：）]]（publisher）
+- [[Memories Off Historia Vol. 1 - Regular Edition（MAGES・rk：v1171）]]（publisher）
+- [[Memories Off Historia Vol. 1 - Regular Edition（MAGES・vndb：r75）]]（publisher）
+- [[Memories Off Historia Vol. 1 - Regular Edition（MAGES）]]（publisher）
+- [[Memories Off Historia Vol. 1]]（publisher）
+- [[Memories Off Historia Vol. 1（MAGES・release：）]]（publisher）
+- [[Memories Off Historia Vol. 1（MAGES）]]（publisher）
+- [[Memories Off ~Sorekara~ - Download Edition]]（publisher）
+- [[Memories Off ~Sorekara~ - Download Edition（MAGES）]]（publisher）
+- [[Memories Off ~Sorekara~ 2800 Renai Selection]]（publisher）
+- [[Memories Off ~Sorekara~ First Press Limited Edition]]（publisher）
+- [[Memories Off ~Sorekara~ Regular Edition（MAGES）]]（publisher）
+- [[Muv-Luv Alternative - Limited Edition]]（publisher）
+- [[Muv-Luv Alternative - Regular Edition]]（publisher）
+- [[Muv-Luv Alternative - Total Eclipse - Limited Edition]]（developer）
+- [[Muv-Luv Alternative - Total Eclipse - Limited Edition]]（publisher）
+- [[Muv-Luv Alternative - Total Eclipse - Limited Edition（MAGES）]]（developer）
+- [[Muv-Luv Alternative - Total Eclipse - Limited Edition（MAGES）]]（publisher）
+- [[Muv-Luv Alternative - Total Eclipse - Regular Edition]]（developer）
+- [[Muv-Luv Alternative - Total Eclipse - Regular Edition]]（publisher）
+- [[Muv-Luv Alternative - Total Eclipse - Regular Edition（MAGES）]]（developer）
+- [[Muv-Luv Alternative - Total Eclipse - Regular Edition（MAGES）]]（publisher）
+- [[Muv-Luv Alternative - Total Eclipse： Teito Moyu（MAGES）]]（publisher）
+- [[Muv-Luv Alternative（MAGES・release：）]]（publisher）
+- [[Muv-Luv Alternative（MAGES）]]（publisher）
+- [[Muv-Luv Double Pack]]（publisher）
+- [[Muv-Luv Photonflowers＊ - Download Edition]]（publisher）
+- [[Muv-Luv Photonflowers＊ - Limited Edition]]（publisher）
+- [[Muv-Luv Photonflowers＊ - Regular Edition]]（publisher）
+- [[Muv-Luv Twin Pack]]（publisher）
+- [[My Merry May with be - Download Edition]]（publisher）
+- [[My Merry May with be - Download Edition（MAGES）]]（publisher）
+- [[My Merry May with be - Limited Edition]]（publisher）
+- [[My Merry May with be - Regular Edition]]（publisher）
+- [[My Merry May with be（MAGES）]]（publisher）
+- [[Ore-tachi ni Tsubasa wa Nai - Download Edition]]（publisher）
+- [[Ore-tachi ni Tsubasa wa Nai - Limited Edition]]（publisher）
+- [[Ore-tachi ni Tsubasa wa Nai - Limited Edition（Navel）]]（publisher）
+- [[Ore-tachi ni Tsubasa wa Nai - Regular Edition]]（publisher）
+- [[Ore-tachi ni Tsubasa wa Nai - Regular Edition（Navel）]]（publisher）
+- [[Plastic Memories - Download Edition]]（developer）
+- [[Plastic Memories - Download Edition]]（publisher）
+- [[Plastic Memories - Limited Edition]]（developer）
+- [[Plastic Memories - Limited Edition]]（publisher）
+- [[Plastic Memories - Regular Edition]]（developer）
+- [[Plastic Memories - Regular Edition]]（publisher）
+- [[ROBOTICS;NOTES ELITE & DaSH Double Pack - EU Package Edition]]（developer）
+- [[ROBOTICS;NOTES ELITE & DaSH Double Pack - EU Package Edition（Numskull Games Ltd）]]（developer）
+- [[ROBOTICS;NOTES ELITE & DaSH Double Pack - NA Package Edition]]（developer）
+- [[ROBOTICS;NOTES ELITE & DaSH Double Pack - NA Package Edition（MAGES）]]（developer）
+- [[ROBOTICS;NOTES ELITE - Download Edition]]（developer）
+- [[ROBOTICS;NOTES ELITE - Download Edition（MAGES）]]（developer）
+- [[ROBOTICS;NOTES ELITE（MAGES・release：）]]（developer）
+- [[ROBOTICS;NOTES ELITE（MAGES・vndb：r57）]]（developer）
+- [[ROBOTICS;NOTES ELITE（MAGES・vndb：r57）]]（publisher）
+- [[ROBOTICS;NOTES]]（developer）
+- [[Remember11 -The Age of Infinity- Download Edition（MAGES）]]（publisher）
+- [[Robotics;Notes - First Press Limited Edition]]（developer）
+- [[Robotics;Notes - First Press Limited Edition]]（publisher）
+- [[Robotics;Notes - First Press Limited Edition（MAGES）]]（developer）
+- [[Robotics;Notes - First Press Limited Edition（MAGES）]]（publisher）
+- [[Robotics;Notes - Regular Edition]]（developer）
+- [[Robotics;Notes - Regular Edition]]（publisher）
+- [[Robotics;Notes - Regular Edition（MAGES）]]（developer）
+- [[Robotics;Notes - Regular Edition（MAGES）]]（publisher）
+- [[Robotics;Notes - Value Set]]（developer）
+- [[Robotics;Notes - Value Set]]（publisher）
+- [[Robotics;Notes - Value Set（MAGES）]]（developer）
+- [[Robotics;Notes - Value Set（MAGES）]]（publisher）
+- [[Robotics;Notes Elite - Limited Edition]]（developer）
+- [[Robotics;Notes Elite - Limited Edition]]（publisher）
+- [[Robotics;Notes Elite - Regular Edition]]（developer）
+- [[Robotics;Notes Elite - Regular Edition]]（publisher）
+- [[Robotics;Notes Elite（MAGES）]]（developer）
+- [[Rui wa Tomo o Yobu - Limited Edition]]（publisher）
+- [[Rui wa Tomo o Yobu - Limited Edition（MAGES・release：）]]（publisher）
+- [[Rui wa Tomo o Yobu - Limited Edition（MAGES・vndb：r30）]]（publisher）
+- [[Rui wa Tomo o Yobu - Limited Edition（MAGES）]]（publisher）
+- [[Rui wa Tomo o Yobu - Regular Edition]]（publisher）
+- [[Rui wa Tomo o Yobu - Regular Edition（MAGES・release：）]]（publisher）
+- [[Rui wa Tomo o Yobu - Regular Edition（MAGES・vndb：r30）]]（publisher）
+- [[Rui wa Tomo o Yobu - Regular Edition（MAGES）]]（publisher）
+- [[STEINS;GATE - 15th Anniversary Commemorative Double Pack]]（publisher）
+- [[STEINS;GATE - 15th Anniversary Commemorative Double Pack（MAGES）]]（publisher）
+- [[STEINS;GATE - Download Edition（MAGES・release：）]]（developer）
+- [[STEINS;GATE - Download Edition（MAGES・release：）]]（publisher）
+- [[STEINS;GATE - Download Edition（MAGES）]]（developer）
+- [[STEINS;GATE - Download Edition（MAGES）]]（publisher）
+- [[STEINS;GATE - Regular Edition（MAGES）]]（developer）
+- [[STEINS;GATE - Regular Edition（MAGES）]]（publisher）
+- [[STEINS;GATE 0 - 3D Crystal Set Ebiten Limited Edition]]（developer）
+- [[STEINS;GATE 0 - 3D Crystal Set Ebiten Limited Edition]]（publisher）
+- [[STEINS;GATE 0 - 3D Crystal Set Ebiten Limited Edition（MAGES・release：）]]（developer）
+- [[STEINS;GATE 0 - 3D Crystal Set Ebiten Limited Edition（MAGES・release：）]]（publisher）
+- [[STEINS;GATE 0 - 3D Crystal Set Ebiten Limited Edition（MAGES）]]（developer）
+- [[STEINS;GATE 0 - 3D Crystal Set Ebiten Limited Edition（MAGES）]]（publisher）
+- [[STEINS;GATE 0 - Package Edition]]（developer）
+- [[STEINS;GATE 0 - Package Edition]]（publisher）
+- [[STEINS;GATE 0 - Package Edition（MAGES・release：）]]（developer）
+- [[STEINS;GATE 0 - Package Edition（MAGES・release：）]]（publisher）
+- [[STEINS;GATE 0 - Package Edition（MAGES）]]（developer）
+- [[STEINS;GATE 0 - Package Edition（MAGES）]]（publisher）
+- [[STEINS;GATE 0 ELITE]]（developer）
+- [[STEINS;GATE 0 ELITE]]（publisher）
+- [[STEINS;GATE 0（MAGES・release：）]]（developer）
+- [[STEINS;GATE 0（MAGES・vndb：r67）]]（developer）
+- [[STEINS;GATE CN]]（publisher）
+- [[STEINS;GATE ELITE + Linear Bounded Phenogram]]（developer）
+- [[STEINS;GATE ELITE - Download Edition]]（developer）
+- [[STEINS;GATE ELITE - Download Edition]]（publisher）
+- [[STEINS;GATE ELITE - Download Edition（MAGES・vndb：r56）]]（developer）
+- [[STEINS;GATE ELITE - Download Edition（MAGES・vndb：r98）]]（developer）
+- [[STEINS;GATE ELITE - Good Value Edition]]（developer）
+- [[STEINS;GATE ELITE - Good Value Edition]]（publisher）
+- [[STEINS;GATE ELITE - NA Package Edition]]（developer）
+- [[STEINS;GATE ELITE]]（developer）
+- [[STEINS;GATE ELITE（MAGES・release：）]]（developer）
+- [[STEINS;GATE HD CN]]（publisher）
+- [[STEINS;GATE HD]]（publisher）
+- [[STEINS;GATE HD（MAGES）]]（developer）
+- [[STEINS;GATE HD（MAGES）]]（publisher）
+- [[STEINS;GATE RE：BOOT - Download Edition]]（developer）
+- [[STEINS;GATE RE：BOOT - Download Edition]]（publisher）
+- [[STEINS;GATE RE：BOOT - Download Edition（MAGES・release：）]]（developer）
+- [[STEINS;GATE RE：BOOT - Download Edition（MAGES・vndb：r15）]]（developer）
+- [[STEINS;GATE RE：BOOT - Download Edition（MAGES）]]（developer）
+- [[STEINS;GATE RE：BOOT - JP Download Edition]]（developer）
+- [[STEINS;GATE RE：BOOT - JP Download Edition]]（publisher）
+- [[STEINS;GATE RE：BOOT - JP Download Edition（MAGES）]]（developer）
+- [[STEINS;GATE RE：BOOT - JP Download Edition（MAGES）]]（publisher）
+- [[STEINS;GATE RE：BOOT - JP Regular Edition]]（developer）
+- [[STEINS;GATE RE：BOOT - JP Regular Edition]]（publisher）
+- [[STEINS;GATE RE：BOOT - JP Regular Edition（MAGES）]]（developer）
+- [[STEINS;GATE RE：BOOT - JP Regular Edition（MAGES）]]（publisher）
+- [[STEINS;GATE RE：BOOT - Limited Edition]]（developer）
+- [[STEINS;GATE RE：BOOT - Limited Edition]]（publisher）
+- [[STEINS;GATE RE：BOOT - Limited Edition（MAGES・release：）]]（developer）
+- [[STEINS;GATE RE：BOOT - Limited Edition（MAGES・release：）]]（publisher）
+- [[STEINS;GATE RE：BOOT - Limited Edition（MAGES）]]（developer）
+- [[STEINS;GATE RE：BOOT - Limited Edition（MAGES）]]（publisher）
+- [[STEINS;GATE RE：BOOT - Regular Edition]]（developer）
+- [[STEINS;GATE RE：BOOT - Regular Edition]]（publisher）
+- [[STEINS;GATE RE：BOOT - Regular Edition（MAGES・release：）]]（developer）
+- [[STEINS;GATE RE：BOOT - Regular Edition（MAGES・vndb：r15）]]（developer）
+- [[STEINS;GATE RE：BOOT - Regular Edition（MAGES）]]（developer）
+- [[STEINS;GATE RE：BOOT - SteelBook Edition]]（developer）
+- [[STEINS;GATE RE：BOOT - SteelBook Edition（MAGES・release：）]]（developer）
+- [[STEINS;GATE RE：BOOT - SteelBook Edition（MAGES）]]（developer）
+- [[STEINS;GATE RE：BOOT - Super Limited Edition]]（developer）
+- [[STEINS;GATE RE：BOOT - Super Limited Edition]]（publisher）
+- [[STEINS;GATE RE：BOOT - Super Limited Edition（MAGES・release：）]]（developer）
+- [[STEINS;GATE RE：BOOT - Super Limited Edition（MAGES・release：）]]（publisher）
+- [[STEINS;GATE RE：BOOT - Super Limited Edition（MAGES）]]（developer）
+- [[STEINS;GATE RE：BOOT - Super Limited Edition（MAGES）]]（publisher）
+- [[STEINS;GATE RE：BOOT]]（developer）
+- [[STEINS;GATE RE：BOOT（MAGES・release：）]]（developer）
+- [[STEINS;GATE RE：BOOT（MAGES）]]（developer）
+- [[STEINS;GATE RE：BOOT（MAGES）]]（publisher）
+- [[STEINS;GATE（MAGES・release：）]]（publisher）
+- [[STEINS;GATE： Divergencies Assort - Laboratory Report Edition]]（developer）
+- [[STEINS;GATE： Divergencies Assort - Laboratory Report Edition]]（publisher）
+- [[STEINS;GATE： Divergencies Assort - Regular Edition]]（developer）
+- [[STEINS;GATE： Divergencies Assort - Regular Edition]]（publisher）
+- [[Schwarzesmarken： Kouketsu no Monshou (Prologue)]]（publisher）
+- [[Sharin no Kuni, Himawari no Shoujo - Limited Edition]]（publisher）
+- [[Sharin no Kuni, Himawari no Shoujo - Limited Edition（MAGES・release：）]]（publisher）
+- [[Sharin no Kuni, Himawari no Shoujo - Limited Edition（MAGES）]]（publisher）
+- [[Sharin no Kuni, Himawari no Shoujo - Regular Edition（MAGES・release：）]]（publisher）
+- [[Sharin no Kuni, Himawari no Shoujo - Regular Edition（MAGES）]]（publisher）
+- [[Sharin no Kuni, Himawari no Shoujo（MAGES）]]（publisher）
+- [[Steins;Gate - Best Edition]]（developer）
+- [[Steins;Gate - Download Edition]]（developer）
+- [[Steins;Gate - First Press Limited Edition]]（developer）
+- [[Steins;Gate - First Press Limited Edition]]（publisher）
+- [[Steins;Gate - Limited Edition（JAST USA）]]（developer）
+- [[Steins;Gate - Regular Edition（MAGES・release：）]]（publisher）
+- [[Steins;Gate - Regular Edition（MAGES・vndb：r53）]]（developer）
+- [[Steins;Gate - Regular Edition（MAGES・vndb：r53）]]（publisher）
+- [[Steins;Gate - Standard Edition]]（developer）
+- [[Steins;Gate 0 - Download Edition]]（developer）
+- [[Steins;Gate 0 - Download Edition]]（publisher）
+- [[Steins;Gate 0 - Limited Deluxe Package Edition]]（developer）
+- [[Steins;Gate 0 - Limited Deluxe Package Edition]]（publisher）
+- [[Steins;Gate 0 - NA Download Edition]]（developer）
+- [[Steins;Gate 0 - Popular Edition]]（developer）
+- [[Steins;Gate 0 - Popular Edition]]（publisher）
+- [[Steins;Gate 0 - Regular Package Edition]]（developer）
+- [[Steins;Gate 0 - Regular Package Edition]]（publisher）
+- [[Steins;Gate 0（MAGES）]]（publisher）
+- [[Steins;Gate Double Pack]]（publisher）
+- [[Steins;Gate Double Pack（MAGES）]]（publisher）
+- [[Steins;Gate Elite - Download Edition（MAGES・release：）]]（developer）
+- [[Steins;Gate Elite - Download Edition（MAGES・release：）]]（publisher）
+- [[Steins;Gate Elite - Download Edition（MAGES）]]（developer）
+- [[Steins;Gate Elite - Download Edition（MAGES）]]（publisher）
+- [[Steins;Gate Elite - Limited Edition]]（developer）
+- [[Steins;Gate Elite - Limited Edition]]（publisher）
+- [[Steins;Gate Elite - Limited Edition（MAGES・release：）]]（developer）
+- [[Steins;Gate Elite - Limited Edition（MAGES・release：）]]（publisher）
+- [[Steins;Gate Elite - Limited Edition（MAGES）]]（developer）
+- [[Steins;Gate Elite - Limited Edition（MAGES）]]（publisher）
+- [[Steins;Gate Elite - Regular Edition]]（developer）
+- [[Steins;Gate Elite - Regular Edition]]（publisher）
+- [[Steins;Gate Elite - Regular Edition（MAGES・release：）]]（developer）
+- [[Steins;Gate Elite - Regular Edition（MAGES・release：）]]（publisher）
+- [[Steins;Gate Elite - Regular Edition（MAGES）]]（developer）
+- [[Steins;Gate Elite - Regular Edition（MAGES）]]（publisher）
+- [[Steins;Gate Elite（MAGES）]]（developer）
+- [[Steins;Gate Elite（MAGES）]]（publisher）
+- [[Steins;Gate Nitro The Best! Vol.5 - Download Edition]]（developer）
+- [[Steins;Gate Platinum collection]]（developer）
+- [[Steins;Gate Platinum collection]]（publisher）
+- [[Steins;Gate（MAGES・vndb：r76）]]（developer）
+- [[Steins;Gate（MAGES）]]（developer）
+- [[Tokyo Yamanote Boys Portable Dark Cherry Disc - Download Edition]]（publisher）
+- [[Tokyo Yamanote Boys Portable Dark Cherry Disc - Limited Quantity Edition]]（publisher）
+- [[Tokyo Yamanote Boys Portable Dark Cherry Disc - Regular Edition]]（publisher）
+- [[YU-NO PC-98 DLC (First Print Bonus)]]（publisher）
+- [[マブラヴ オルタネイティヴ トータル・イクリプス]]（developer）
+- [[可塑性记忆]]（developer）
+- [[命运石之门0]]（developer）
+- [[命运石之门]]（developer）
+- [[混沌之子]]（developer）
+- [[混沌之脑：诺亚]]（developer）
+- [[秋之回忆2]]（developer）
+- [[秋之回忆4 ～从今以后～]]（developer）<!-- AUTO:END duty -->
+
+## 创作者
+<!-- AUTO:BEGIN role --><!-- AUTO:END role -->
+
+## 角色
+<!-- AUTO:BEGIN character --><!-- AUTO:END character -->
+
+## 声优
+<!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
+
+## 发行版
+<!-- AUTO:BEGIN release --><!-- AUTO:END release -->
+
+## 动画化
+<!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
+
+## 关系
+<!-- AUTO:BEGIN relation --><!-- AUTO:END relation -->
+
+## 标签
+<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+
+## 来源
+<!-- AUTO:BEGIN provenance -->vndb:p146<!-- AUTO:END provenance -->

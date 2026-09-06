@@ -1,0 +1,53 @@
+---
+entity_id: "vndb:character:c30812"
+type: "character"
+display_title: "乌莉惠露"
+title_zh: "乌莉惠露"
+title_ja: "ウリエル"
+title_zh_quality: "phonetic_transliteration"
+title_status: "machine_generated"
+aliases:
+  - "Uriel"
+  - "ウリエル"
+  - "ウルル"
+  - "Ururu"
+source_ids:
+  vndb: "c30812"
+source_urls:
+  vndb: "https://vndb.org/c30812"
+portrait_image: "assets/characters/c30812.webp"
+---
+
+# 乌莉惠露
+
+## 角色画像
+<!-- AUTO:BEGIN image -->
+![[assets/characters/c30812.webp|250]]
+<!-- AUTO:END image -->
+
+## 会社与职责
+<!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->
+
+## 创作者
+<!-- AUTO:BEGIN role --><!-- AUTO:END role -->
+
+## 出场作品
+<!-- AUTO:BEGIN character -->- [[断罪のマリア　THE EXORCISM OF MARIA]]（primary）<!-- AUTO:END character -->
+
+## 声优
+<!-- AUTO:BEGIN voice -->- [[Hirai Tatsuya]]（声优：平川 大輔）<!-- AUTO:END voice -->
+
+## 发行版
+<!-- AUTO:BEGIN release --><!-- AUTO:END release -->
+
+## 动画化
+<!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
+
+## 关系
+<!-- AUTO:BEGIN relation --><!-- AUTO:END relation -->
+
+## 标签
+<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+
+## 来源
+<!-- AUTO:BEGIN provenance -->vndb:c30812<!-- AUTO:END provenance -->
