@@ -122,15 +122,18 @@ try {
         throw "The repository has unresolved merge conflicts; automatic upload stopped."
     }
 
-    $null = Invoke-GitChecked -Arguments @("fetch", "--prune", "origin", "main")
-    $localAhead = Assert-RemoteIsNotAhead
-
     $before = @(Invoke-GitChecked -Arguments @("status", "--porcelain=v1", "--untracked-files=all"))
+    $localAhead = Assert-RemoteIsNotAhead
     if ($before.Count -eq 0) {
         if ($localAhead -eq 0) {
             Write-Log "No changes to upload."
             exit 0
         }
+
+        # A previous push may have succeeded locally but failed over the
+        # network. Refresh the remote only when there is a pending commit.
+        $null = Invoke-GitChecked -Arguments @("fetch", "--prune", "origin", "main")
+        $localAhead = Assert-RemoteIsNotAhead
         if ($DryRun) {
             Write-Log ("Dry run; {0} local commit(s) are waiting to be uploaded." -f $localAhead)
             exit 0
@@ -140,6 +143,9 @@ try {
         Write-Log ("Uploaded pending commit {0}." -f (Get-GitValue -Arguments @("rev-parse", "--short", "HEAD")))
         exit 0
     }
+
+    $null = Invoke-GitChecked -Arguments @("fetch", "--prune", "origin", "main")
+    $localAhead = Assert-RemoteIsNotAhead
 
     if ($DryRun) {
         Write-Log ("Dry run; changes detected: {0}" -f $before.Count)
