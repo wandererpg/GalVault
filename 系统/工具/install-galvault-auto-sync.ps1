@@ -10,7 +10,9 @@ $ErrorActionPreference = "Stop"
 
 $taskName = "GalVault Auto Upload"
 $vaultRoot = (Resolve-Path -LiteralPath (Join-Path $PSScriptRoot "..\..")).Path
-$syncScript = Join-Path $vaultRoot "系统\工具\galvault-auto-sync.ps1"
+# Keep this path ASCII-only so Windows PowerShell 5.1 can read the script even
+# when the system code page is not UTF-8.
+$syncScript = Join-Path $PSScriptRoot "galvault-auto-sync.ps1"
 $userId = [System.Security.Principal.WindowsIdentity]::GetCurrent().Name
 
 if ($Uninstall) {
