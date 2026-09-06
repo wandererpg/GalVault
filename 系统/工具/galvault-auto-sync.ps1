@@ -10,6 +10,7 @@ $ErrorActionPreference = "Stop"
 
 $vaultRoot = (Resolve-Path -LiteralPath (Join-Path $PSScriptRoot "..\..")).Path
 $expectedRemote = "git@github.com:wandererpg/GalVault.git"
+$env:GIT_SSH_COMMAND = "ssh -o BatchMode=yes -o ConnectTimeout=15 -o ServerAliveInterval=15 -o ServerAliveCountMax=2"
 $logDirectory = Join-Path $env:LOCALAPPDATA "GalVault"
 $logPath = Join-Path $logDirectory "auto-sync.log"
 $mutex = New-Object System.Threading.Mutex($false, "Local\GalVaultAutoSync")
@@ -27,15 +28,39 @@ function Write-Log {
 function Invoke-GitChecked {
     param([Parameter(Mandatory)][string[]]$Arguments)
 
-    $output = & git -C $vaultRoot @Arguments 2>&1
-    if ($LASTEXITCODE -ne 0) {
-        $details = ($output | Out-String).Trim()
-        if ([string]::IsNullOrWhiteSpace($details)) {
-            $details = "git exited with code $LASTEXITCODE"
+    # Native Git writes normal progress messages to stderr on Windows. Keep
+    # stdout and stderr separate so a successful fetch/push or a line-ending
+    # warning cannot be mistaken for a command result.
+    $stderrPath = Join-Path ([IO.Path]::GetTempPath()) ("galvault-git-{0}.err" -f [guid]::NewGuid().ToString("N"))
+    $previousErrorActionPreference = $ErrorActionPreference
+    try {
+        # Windows PowerShell promotes native stderr to NativeCommandError when
+        # ErrorActionPreference is Stop, even if stderr is redirected.
+        $ErrorActionPreference = "Continue"
+        $output = & git -C $vaultRoot @Arguments 2> $stderrPath | ForEach-Object { [string]$_ }
+        $exitCode = $LASTEXITCODE
+        if ($exitCode -ne 0) {
+            $stdoutText = ($output | Out-String).Trim()
+            $stderrText = if (Test-Path -LiteralPath $stderrPath) {
+                (Get-Content -LiteralPath $stderrPath -Raw).Trim()
+            }
+            else {
+                ""
+            }
+            $details = (@($stdoutText, $stderrText) | Where-Object { -not [string]::IsNullOrWhiteSpace($_) }) -join "`n"
         }
-        throw "git $($Arguments -join ' ') failed: $details"
+        if ($exitCode -ne 0) {
+            if ([string]::IsNullOrWhiteSpace($details)) {
+                $details = "git exited with code $exitCode"
+            }
+            throw "git $($Arguments -join ' ') failed: $details"
+        }
+        return $output
     }
-    return $output
+    finally {
+        $ErrorActionPreference = $previousErrorActionPreference
+        Remove-Item -LiteralPath $stderrPath -Force -ErrorAction SilentlyContinue
+    }
 }
 
 function Get-GitValue {
@@ -88,7 +113,9 @@ try {
 
     Assert-RemoteIsSafe
 
-    $unmerged = @(Invoke-GitChecked -Arguments @("diff", "--name-only", "--diff-filter=U"))
+    # Query the index directly; unlike a working-tree diff this does not emit
+    # line-ending advice for files edited since the previous commit.
+    $unmerged = @(Invoke-GitChecked -Arguments @("ls-files", "--unmerged"))
     if ($unmerged.Count -gt 0) {
         throw "The repository has unresolved merge conflicts; automatic upload stopped."
     }
