@@ -80,7 +80,7 @@ function Assert-RemoteIsSafe {
 function Assert-RemoteIsNotAhead {
     $remoteRef = & git -C $vaultRoot rev-parse --verify --quiet "origin/main" 2>$null
     if ($LASTEXITCODE -ne 0) {
-        return
+        return 0
     }
 
     $counts = (Invoke-GitChecked -Arguments @("rev-list", "--left-right", "--count", "HEAD...origin/main") | Select-Object -First 1)
@@ -93,6 +93,8 @@ function Assert-RemoteIsNotAhead {
     if ($remoteOnly -gt 0) {
         throw "origin/main contains $remoteOnly commit(s) not present locally; reconcile them manually before automatic upload"
     }
+
+    return [int]$parts[0]
 }
 
 if (-not $mutex.WaitOne(0)) {
@@ -120,14 +122,24 @@ try {
         throw "The repository has unresolved merge conflicts; automatic upload stopped."
     }
 
+    $null = Invoke-GitChecked -Arguments @("fetch", "--prune", "origin", "main")
+    $localAhead = Assert-RemoteIsNotAhead
+
     $before = @(Invoke-GitChecked -Arguments @("status", "--porcelain=v1", "--untracked-files=all"))
     if ($before.Count -eq 0) {
-        Write-Log "No changes to upload."
+        if ($localAhead -eq 0) {
+            Write-Log "No changes to upload."
+            exit 0
+        }
+        if ($DryRun) {
+            Write-Log ("Dry run; {0} local commit(s) are waiting to be uploaded." -f $localAhead)
+            exit 0
+        }
+
+        $null = Invoke-GitChecked -Arguments @("push", "--set-upstream", "origin", "main")
+        Write-Log ("Uploaded pending commit {0}." -f (Get-GitValue -Arguments @("rev-parse", "--short", "HEAD")))
         exit 0
     }
-
-    $null = Invoke-GitChecked -Arguments @("fetch", "--prune", "origin", "main")
-    Assert-RemoteIsNotAhead
 
     if ($DryRun) {
         Write-Log ("Dry run; changes detected: {0}" -f $before.Count)
@@ -147,7 +159,7 @@ try {
 
     $null = Invoke-GitChecked -Arguments @("commit", "-m", $Message)
     $null = Invoke-GitChecked -Arguments @("fetch", "--prune", "origin", "main")
-    Assert-RemoteIsNotAhead
+    $null = Assert-RemoteIsNotAhead
     $null = Invoke-GitChecked -Arguments @("push", "--set-upstream", "origin", "main")
     Write-Log ("Uploaded commit {0} ({1} file(s))." -f (Get-GitValue -Arguments @("rev-parse", "--short", "HEAD")), $staged.Count)
 }
