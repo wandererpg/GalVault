@@ -1,16 +1,58 @@
 ---
-entity_id: "release:vndb:r46409:work:vndb:work:v20600"
-type: "release"
-display_title: "Maji de Watashi ni Koishinasai! A - Special Edition"
-release_date: "2016-12-22"
+entity_id: release:vndb:r46409:work:vndb:work:v20600
+type: release
+display_title: Maji de Watashi ni Koishinasai! A - Special Edition
+release_date: '2016-12-22'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r46409"
+  vndb: r46409
 source_urls:
-  vndb: "https://vndb.org/r46409"
+  vndb: https://vndb.org/r46409
+aliases:
+- Maji de Watashi ni Koishinasai! A - Package Edition（Maji Translations・release：）
+- Maji de Watashi ni Koishinasai! A Set（Minato Soft・release：）
+- Maji de Watashi ni Koishinasai! A-3
+- Maji de Watashi ni Koishinasai! A-3（Maji Translations）
+consolidated_releases:
+- id: r46409
+  title: Maji de Watashi ni Koishinasai! A - Special Edition
+  url: https://vndb.org/r46409
+  release_date: '2016-12-22'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r61021
+  title: Maji de Watashi ni Koishinasai! A Set
+  url: https://vndb.org/r61021
+  release_date: '2018-12-14'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r25328
+  title: Maji de Watashi ni Koishinasai! A-3
+  url: https://vndb.org/r25328
+  release_date: '2014-02-28'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r70795
+  title: Maji de Watashi ni Koishinasai! A - Package Edition
+  url: https://vndb.org/r70795
+  release_date: '2023-09-04'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r50287
+  title: Maji de Watashi ni Koishinasai! A-3
+  url: https://vndb.org/r50287
+  release_date: '2020-04-01'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Maji de Watashi ni Koishinasai! A - Special Edition

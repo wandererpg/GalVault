@@ -56,7 +56,7 @@ cover_image: "assets/covers/v55361.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Falling Undercover： Nox Syndicate v0.9]]
-- [[Padenie pod Prikrytiem： Sindikat Noks v0.09.1]]<!-- AUTO:END release -->
+- [[发行版/Falling Undercover： Nox Syndicate v0.9]]<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

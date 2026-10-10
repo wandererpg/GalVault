@@ -1,16 +1,50 @@
 ---
-entity_id: "release:vndb:r97466:work:vndb:work:v39145"
-type: "release"
-display_title: "Ichigokuruiza"
-release_date: "2022-10-02"
+entity_id: release:vndb:r97466:work:vndb:work:v39145
+type: release
+display_title: Ichigokuruiza
+release_date: '2022-10-02'
 is_all_ages: true
-platform: "win, web"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win, web
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r97466"
+  vndb: r97466
 source_urls:
-  vndb: "https://vndb.org/r97466"
+  vndb: https://vndb.org/r97466
+aliases:
+- Edinstvo
+- Edinstvo（release：）
+- Ichigokuruiza
+consolidated_releases:
+- id: r97466
+  title: Ichigokuruiza
+  url: https://vndb.org/r97466
+  release_date: '2022-10-02'
+  platform: win, web
+  edition_type: complete
+  is_all_ages: true
+- id: r145583
+  title: Edinstvo
+  url: https://vndb.org/r145583
+  release_date: '2025-09-14'
+  platform: web
+  edition_type: complete
+  is_all_ages: true
+- id: r153902
+  title: Edinstvo
+  url: https://vndb.org/r153902
+  release_date: '2026-04-20'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+- id: r130594
+  title: Ichigokuruiza
+  url: https://vndb.org/r130594
+  release_date: '2024-12-26'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Ichigokuruiza

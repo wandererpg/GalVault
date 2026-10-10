@@ -12,8 +12,8 @@ source_urls:
 # Mashedmonk
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[PASTA - Patch Air Saves and Title Anomaly]]（publisher）
-- [[planetarian HD（vndb：r85）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/AIR（Key）]]（publisher）
+- [[发行版/Planetarian ~The Reverie of a Little Planet~（release：）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

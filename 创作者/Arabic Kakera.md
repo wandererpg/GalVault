@@ -11,7 +11,7 @@ source_urls:
 # Arabic Kakera
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Hein Tanooh Alnawars]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Umineko no Naku Koro ni - Episode 4 - Alliance of the Golden Witch]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

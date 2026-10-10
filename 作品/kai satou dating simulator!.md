@@ -1,13 +1,24 @@
 ---
-entity_id: "vndb:work:v39672"
-type: "work"
-display_title: "kai satou dating simulator!"
-title_status: "unresolved"
+entity_id: vndb:work:v39672
+type: work
+display_title: kai satou dating simulator!
+title_status: unresolved
 source_ids:
-  vndb: "v39672"
+  vndb: v39672
 source_urls:
-  vndb: "https://vndb.org/v39672"
-cover_image: "assets/covers/v39672.webp"
+  vndb: https://vndb.org/v39672
+cover_image: assets/covers/v39672.webp
+vndb_title: kai satou dating simulator!
+vndb_content_updated: '2026-10-10'
+title_en: kai satou dating simulator!
+first_release_date: '2022-11-12'
+vndb_vote_count: 2
+vndb_length_minutes: 6
+vndb_languages:
+- en
+vndb_platforms:
+- web
+vndb_devstatus: 0
 ---
 
 # kai satou dating simulator!
@@ -18,7 +29,9 @@ cover_image: "assets/covers/v39672.webp"
 <!-- AUTO:END image -->
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->
+- [shawtygames](https://vndb.org/p16008)（developer）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
@@ -36,10 +49,27 @@ cover_image: "assets/covers/v39672.webp"
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
 
 ## 关联作品
-<!-- AUTO:BEGIN relation -->- [[キミガシネ　―多数決デスゲーム―]]（char）<!-- AUTO:END relation -->
+<!-- AUTO:BEGIN relation -->
+- [[キミガシネ　―多数決デスゲーム―]]（char）
+- [[作品/キミガシネ　―多数決デスゲーム―|Kimi ga Shine -Tasuuketsu Death Game-]]（char）
+<!-- AUTO:END relation -->
 
 ## 标签
-<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+<!-- AUTO:BEGIN tag -->
+- [Fan-fiction](https://vndb.org/g1056)
+<!-- AUTO:END tag -->
 
 ## 来源
 <!-- AUTO:BEGIN provenance -->vndb:v39672<!-- AUTO:END provenance -->
+
+
+## 简介（VNDB 原文）
+
+a game where you can date kai satou!
+
+[From [Itch.io](https://shawtygames.itch.io/kaisatoudatingsimulator)]
+
+
+## VNDB 资料来源
+
+[VNDB：v39672](https://vndb.org/v39672)，补全于 2026-10-10。

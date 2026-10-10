@@ -12,12 +12,9 @@ source_urls:
 # Yokaze
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[ghostpia - Season One - Demo]]（publisher）
-- [[ghostpia - Season One]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/ghostpia - Season One（Chou Suidou・release：）]]（publisher）
 - [[ghostpia - Season One（Chou Suidou・release：）]]（publisher）
-- [[ghostpia - Season One（Chou Suidou）]]（publisher）
-- [[ghostpia - Season Two]]（publisher）
-- [[ghostpia Season One]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

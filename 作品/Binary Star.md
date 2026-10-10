@@ -80,9 +80,8 @@ cover_image: "assets/covers/v14787.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Binary Star - Download Edition]]
-- [[Binary Star - Limited Edition]]
-- [[Binary Star - Regular Edition]]
-- [[Binary Star]]<!-- AUTO:END release -->
+- [[发行版/Binary Star - Download Edition]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

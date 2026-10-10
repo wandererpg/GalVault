@@ -1,16 +1,58 @@
 ---
-entity_id: "release:vndb:r2100:work:vndb:work:v1076"
-type: "release"
-display_title: "Laughter Land"
-release_date: "2006-10-27"
+entity_id: release:vndb:r2100:work:vndb:work:v1076
+type: release
+display_title: Laughter Land
+release_date: '2006-10-27'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r2100"
+  vndb: r2100
 source_urls:
-  vndb: "https://vndb.org/r2100"
+  vndb: https://vndb.org/r2100
+aliases:
+- Laughter Land - First Press Edition
+- Laughter Land - First Press Limited Edition
+- Laughter Land - Regular Edition
+- Laughter Land - Trial Edition
+consolidated_releases:
+- id: r2100
+  title: Laughter Land
+  url: https://vndb.org/r2100
+  release_date: '2006-10-27'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r40790
+  title: Laughter Land - First Press Limited Edition
+  url: https://vndb.org/r40790
+  release_date: 2008-02
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r7565
+  title: Laughter Land - First Press Edition
+  url: https://vndb.org/r7565
+  release_date: 2008-02
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r40791
+  title: Laughter Land - Regular Edition
+  url: https://vndb.org/r40791
+  release_date: 2008-02
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r45733
+  title: Laughter Land - Trial Edition
+  url: https://vndb.org/r45733
+  release_date: '2006-10-18'
+  platform: win
+  edition_type: trial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Laughter Land

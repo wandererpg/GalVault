@@ -12,8 +12,8 @@ source_urls:
 # Jiyuu VN
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Mahoutsukai no Yoru - Trial Edition（Jiyuu VN）]]（publisher）
-- [[Tsukihime（Jiyuu VN）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Mahoutsukai no Yoru]]（publisher）
+- [[发行版/Tsukihime（vndb：r50）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

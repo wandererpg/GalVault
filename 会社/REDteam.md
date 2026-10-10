@@ -12,7 +12,7 @@ source_urls:
 # REDteam
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Suzerain（REDteam）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Suzerain（Torpor Games・vndb：r89）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

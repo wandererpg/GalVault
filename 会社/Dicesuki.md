@@ -12,11 +12,11 @@ source_urls:
 # Dicesuki
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Cinderella Phenomenon - Demo]]（developer）
-- [[Cinderella Phenomenon - Demo]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Cinderella Phenomenon（Fantome Traducciones）]]（developer）
+- [[发行版/Cinderella Phenomenon（Fantome Traducciones）]]（publisher）
 - [[Cinderella Phenomenon]]（developer）
 - [[Cinderella Phenomenon]]（publisher）
-- [[Cinderella Phenomenon（Dicesuki）]]（developer）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

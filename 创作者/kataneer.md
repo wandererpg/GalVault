@@ -12,13 +12,13 @@ source_urls:
 # kataneer
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Farther Than the Blue Sky - Mosaic Restoration Patch]]（publisher）
-- [[Fureraba ~Friend to Lover~ - Mosaic Restoration Patch]]（publisher）
-- [[Hatsuyuki Sakura： White Graduation - Mosaic Restoration Patch]]（publisher）
-- [[Kinkoi： Golden Time - Mosaic Restoration Patch]]（publisher）
-- [[Making＊Lovers - Mosaic Restoration Patch]]（publisher）
-- [[Nanairo Reincarnation - Mosaic Restoration Patch]]（publisher）
-- [[The Most Forbidden Love in the World - Mosaic Restoration Patch]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Ano Harewataru Sora yori Takaku - Download Edition]]（publisher）
+- [[发行版/Friend to Lover ~Fureraba~ First Press Limited Edition]]（publisher）
+- [[发行版/Hatsuyuki Sakura White Graduation - Download Edition]]（publisher）
+- [[发行版/Kin'iro Loveriche + Kin'iro Loveriche -Golden Time- Golden Pack（SAGA PLANETS）]]（publisher）
+- [[发行版/Making ＊ Lovers - PS4 Download Edition]]（publisher）
+- [[发行版/Nanairo Reincarnation Akeiro Kaikitan Multi-pack]]（publisher）
+- [[发行版/Sekai de Ichiban Dame na Koi Full House - Regular Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

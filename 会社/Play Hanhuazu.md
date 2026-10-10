@@ -12,8 +12,8 @@ source_urls:
 # Play Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[428 ~Bei Fengsuo de Segu~]]（publisher）
-- [[Yinghua Dazhan 1 & 2（Play Hanhuazu）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/428： Shibuya Scramble - EU Package Edition]]（publisher）
+- [[发行版/Sakura Taisen]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,7 +12,7 @@ source_urls:
 # Sayuri Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[GUN-KATANA Gunkatana Non-Human-Killer Raison D'etre (Shengcun de Yiyi)]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Gun-Katana - Non-Human-Killer - Windows 8.1 Support Edition - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

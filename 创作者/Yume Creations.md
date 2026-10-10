@@ -12,8 +12,8 @@ source_urls:
 # Yume Creations
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Rewrite（release：）]]（publisher）
-- [[Tsukihime（vndb：r31）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Rewrite - Download Edition（Key）]]（publisher）
+- [[发行版/Tsukihime（vndb：r50）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

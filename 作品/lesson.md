@@ -66,11 +66,9 @@ cover_image: "assets/covers/v54472.webp"
 - [[Mari Totsuo]]（摩利凸男）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Lesson（MangaGamer）]]
-- [[lesson Super HD]]
+<!-- AUTO:BEGIN release -->- [[发行版/lesson]]
 - [[lesson]]
-- [[lesson（release：）]]
-- [[lesson（vndb：r15）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

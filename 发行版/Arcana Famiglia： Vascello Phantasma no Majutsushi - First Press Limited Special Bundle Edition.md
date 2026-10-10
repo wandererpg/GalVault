@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r20761:work:vndb:work:v10272"
-type: "release"
-display_title: "Arcana Famiglia: Vascello Phantasma no Majutsushi - First Press Limited Special Bundle Edition"
-release_date: "2012-06-21"
+entity_id: release:vndb:r20761:work:vndb:work:v10272
+type: release
+display_title: 'Arcana Famiglia: Vascello Phantasma no Majutsushi - First Press Limited Special Bundle Edition'
+release_date: '2012-06-21'
 is_all_ages: true
-platform: "psp"
-edition_type: "complete"
-title_status: "needs_review"
+platform: psp
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r20761"
+  vndb: r20761
 source_urls:
-  vndb: "https://vndb.org/r20761"
+  vndb: https://vndb.org/r20761
+aliases:
+- Arcana Famiglia -Vascello Phantasma no Majutsushi-
+- Arcana Famiglia： Vascello Phantasma no Majutsushi - Regular Edition
+consolidated_releases:
+- id: r20761
+  title: 'Arcana Famiglia: Vascello Phantasma no Majutsushi - First Press Limited Special Bundle Edition'
+  url: https://vndb.org/r20761
+  release_date: '2012-06-21'
+  platform: psp
+  edition_type: complete
+  is_all_ages: true
+- id: r21466
+  title: 'Arcana Famiglia: Vascello Phantasma no Majutsushi - Regular Edition'
+  url: https://vndb.org/r21466
+  release_date: '2012-06-21'
+  platform: psp
+  edition_type: complete
+  is_all_ages: true
+- id: r89444
+  title: Arcana Famiglia -Vascello Phantasma no Majutsushi-
+  url: https://vndb.org/r89444
+  release_date: '2021'
+  platform: web
+  edition_type: complete
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Arcana Famiglia: Vascello Phantasma no Majutsushi - First Press Limited Special Bundle Edition

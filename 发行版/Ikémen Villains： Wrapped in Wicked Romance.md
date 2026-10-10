@@ -1,16 +1,34 @@
 ---
-entity_id: "release:vndb:r119422:work:vndb:work:v39400"
-type: "release"
-display_title: "Ikémen Villains: Wrapped in Wicked Romance"
-release_date: "2024-03-28"
+entity_id: release:vndb:r119422:work:vndb:work:v39400
+type: release
+display_title: 'Ikémen Villains: Wrapped in Wicked Romance'
+release_date: '2024-03-28'
 is_all_ages: true
-platform: "ios, and"
-edition_type: "complete"
-title_status: "needs_review"
+platform: ios, and
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r119422"
+  vndb: r119422
 source_urls:
-  vndb: "https://vndb.org/r119422"
+  vndb: https://vndb.org/r119422
+aliases:
+- Ikemen Villains： Yamiyo ni Hiraku Aku no Koi
+consolidated_releases:
+- id: r119422
+  title: 'Ikémen Villains: Wrapped in Wicked Romance'
+  url: https://vndb.org/r119422
+  release_date: '2024-03-28'
+  platform: ios, and
+  edition_type: complete
+  is_all_ages: true
+- id: r97962
+  title: 'Ikemen Villains: Yamiyo ni Hiraku Aku no Koi'
+  url: https://vndb.org/r97962
+  release_date: '2023-03-28'
+  platform: ios, and
+  edition_type: complete
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Ikémen Villains: Wrapped in Wicked Romance

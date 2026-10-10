@@ -12,7 +12,7 @@ source_urls:
 # Amogus in Squid Game
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Dad's Thick Fingers Playing With My Wife's Private Parts]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/MM Netorare Pack ~Tsuma mo Kanojo mo Kizukanu Uchi ni Aitsu no Gokubuto Bou ni Muchuu ni Natte Modae Aegi Hakudaku o Motomeru Inran Onna ni Otosareteita~ Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

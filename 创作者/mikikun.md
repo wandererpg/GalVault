@@ -12,7 +12,7 @@ source_urls:
 # mikikun
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[anemoi - Trial Edition（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/anemoi - First Press Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

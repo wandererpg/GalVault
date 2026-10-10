@@ -12,12 +12,9 @@ source_urls:
 # AmuLit
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Neon Clash -Echoes of the Lost-]]（developer）
-- [[Neon Clash -Echoes of the Lost-（Voltage Inc）]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Nihong Sanguo -Echoes of the Lost- Regular Edition]]（developer）
 - [[even if TEMPEST 黃昏中魔女如是說]]（developer）
-- [[even if TEMPEST： Bouquet for My Girl - DLC Part 2]]（developer）
-- [[even if TEMPEST： Memories of Dusk - DLC Part 3]]（developer）
-- [[even if TEMPEST： Roses for my Love - DLC Part 1]]（developer）
+- [[发行版/even if TEMPEST Huanghun Zhong Monü Rushi Shuo DLC2：Bouquet for My Girl]]（developer）
 - [[sins of KALEIDO 塔巡りし因果の魔女]]（developer）
 - [[sins of KALEIDO： Tou Megurishi Inga no Majo]]（developer）
 - [[霓虹三國 -Echoes of the Lost-]]（developer）<!-- AUTO:END duty -->

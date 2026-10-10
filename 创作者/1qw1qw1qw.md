@@ -12,8 +12,8 @@ source_urls:
 # 1qw1qw1qw
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Dies irae～Acta est Fabul - Chinese Testing Patch Ver0.01]]（publisher）
-- [[Phantom Integration（vndb：r85）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Dies irae ~Amantes amentes~ For Nintendo Switch]]（publisher）
+- [[发行版/Phantom - Phantom of Inferno - Regular Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

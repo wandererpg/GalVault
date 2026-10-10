@@ -12,25 +12,13 @@ source_urls:
 # Kenkou Land
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Lemures Blue no Gozen 2 Ji Trial Edition]]（developer）
-- [[Lemures Blue no Gozen 2 Ji Trial Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Lemures Blue no Gozen 2 Ji]]（developer）
+- [[发行版/Lemures Blue no Gozen 2 Ji]]（publisher）
 - [[Lemures Blue no Gozen 2 Ji]]（developer）
 - [[Lemures Blue no Gozen 2 Ji]]（publisher）
-- [[MAMIYA - Complete Collection]]（developer）
-- [[MAMIYA - Dooms day Dreams - ［Beta］]]（developer）
-- [[MAMIYA - Dooms day Dreams - ［Beta］]]（publisher）
-- [[MAMIYA - DoomsDay Dreams-]]（developer）
-- [[MAMIYA - DoomsDay Dreams-（Fruitbat Factory）]]（developer）
+- [[发行版/Sekai Metsubou Kyouyuu Gensou MAMIYA - Download Edition]]（developer）
+- [[发行版/Sekai Metsubou Kyouyuu Gensou MAMIYA - Download Edition]]（publisher）
 - [[Sekai Metsubou Kyouyuu Gensou MAMIYA - Download Edition]]（developer）
-- [[Sekai Metsubou Kyouyuu Gensou MAMIYA - Limited Edition]]（developer）
-- [[Sekai Metsubou Kyouyuu Gensou MAMIYA - Regular Edition]]（developer）
-- [[Sekai Metsubou Kyouyuu Gensou MAMIYA - Trial Edition]]（developer）
-- [[Sekai Metsubou Kyouyuu Gensou ＂Mamiya＂ - Trial Edition]]（developer）
-- [[Sekai Metsubou Kyouyuu Gensou ＂Mamiya＂ - Trial Edition]]（publisher）
-- [[Sekai Metsubou Kyouyuu Gensou ＂Mamiya＂ -Downfall-]]（developer）
-- [[Sekai Metsubou Kyouyuu Gensou ＂Mamiya＂ -Downfall-]]（publisher）
-- [[Sekai Metsubou Kyouyuu Gensou ＂Mamiya＂ -FallDown-]]（developer）
-- [[Sekai Metsubou Kyouyuu Gensou ＂Mamiya＂ -FallDown-]]（publisher）
 - [[レムレスブルーの午前２時]]（developer）
 - [[世界灭亡共有幻想MAMIYA]]（developer）<!-- AUTO:END duty -->
 

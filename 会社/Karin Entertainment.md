@@ -14,29 +14,16 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Animamundi ~Owarinaki Yami no Butou~ Download Edition]]（developer）
 - [[Animamundi ~Owarinaki Yami no Butou~ Download Edition]]（publisher）
-- [[Animamundi ~Owarinaki Yami no Butou~ Package Edition]]（developer）
-- [[Animamundi ~Owarinaki Yami no Butou~ Package Edition]]（publisher）
-- [[Animamundi ~Owarinaki Yami no Butou~ Trial Edition]]（developer）
-- [[Animamundi ~Owarinaki Yami no Butou~ Trial Edition]]（publisher）
-- [[Animamundi ~Owarinaki Yami no Butou~ Web Trial Edition]]（developer）
-- [[Animamundi ~Owarinaki Yami no Butou~ Web Trial Edition]]（publisher）
+- [[发行版/Animamundi ~Owarinaki Yami no Butou~ Download Edition]]（developer）
+- [[发行版/Animamundi ~Owarinaki Yami no Butou~ Download Edition]]（publisher）
 - [[Danzai no Maria -The Exorcism of Maria- Complete Edition - Download Edition]]（developer）
 - [[Danzai no Maria -The Exorcism of Maria- Complete Edition - Download Edition]]（publisher）
-- [[Danzai no Maria -The Exorcism of Maria- Complete Edition]]（developer）
-- [[Danzai no Maria -The Exorcism of Maria- Complete Edition]]（publisher）
-- [[Danzai no Maria -The Exorcism of Maria- La Campanella - Limited Edition]]（developer）
-- [[Danzai no Maria -The Exorcism of Maria- La Campanella - Limited Edition]]（publisher）
-- [[Danzai no Maria -The Exorcism of Maria- La Campanella - Regular Edition]]（developer）
-- [[Danzai no Maria -The Exorcism of Maria- La Campanella - Regular Edition]]（publisher）
-- [[Danzai no Maria -The Exorcism of Maria-（Karin Entertainment）]]（developer）
-- [[Danzai no Maria -The Exorcism of Maria-（Karin Entertainment）]]（publisher）
-- [[Karin Best - Zettai Meikyuu Grimm ~Nanatsu no Kagi to Rakuen no Otome~]]（developer）
-- [[Karin Best - Zettai Meikyuu Grimm ~Nanatsu no Kagi to Rakuen no Otome~]]（publisher）
+- [[发行版/Danzai no Maria -The Exorcism of Maria- Complete Edition - Download Edition]]（developer）
+- [[发行版/Danzai no Maria -The Exorcism of Maria- Complete Edition - Download Edition]]（publisher）
+- [[发行版/Zettai Meikyuu Grimm Director's Cut ~Nanatsu no Kagi to Rakuen no Otome~ Download Edition]]（developer）
+- [[发行版/Zettai Meikyuu Grimm Director's Cut ~Nanatsu no Kagi to Rakuen no Otome~ Download Edition]]（publisher）
 - [[Zettai Meikyuu Grimm Director's Cut ~Nanatsu no Kagi to Rakuen no Otome~ Download Edition]]（developer）
 - [[Zettai Meikyuu Grimm Director's Cut ~Nanatsu no Kagi to Rakuen no Otome~ Download Edition]]（publisher）
-- [[Zettai Meikyuu Grimm Director's Cut ~Nanatsu no Kagi to Rakuen no Otome~]]（developer）
-- [[Zettai Meikyuu Grimm Director's Cut ~Nanatsu no Kagi to Rakuen no Otome~]]（publisher）
-- [[Zettai Meikyuu Grimm ~Nanatsu no Kagi to Rakuen no Otome~]]（publisher）
 - [[アニマムンディ ～終わりなき闇の舞踏～]]（developer）
 - [[断罪のマリア　THE EXORCISM OF MARIA]]（developer）
 - [[绝对迷宫格林童话 ～七把钥匙与乐园的少女～]]（developer）<!-- AUTO:END duty -->

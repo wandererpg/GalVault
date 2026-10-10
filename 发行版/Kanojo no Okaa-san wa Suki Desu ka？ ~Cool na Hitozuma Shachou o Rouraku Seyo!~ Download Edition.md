@@ -1,16 +1,50 @@
 ---
-entity_id: "release:vndb:r34626:work:vndb:work:v15458"
-type: "release"
-display_title: "Kanojo no Okaa-san wa Suki Desu ka? ~Cool na Hitozuma Shachou o Rouraku Seyo!~ Download Edition"
-release_date: "2014-08-17"
+entity_id: release:vndb:r34626:work:vndb:work:v15458
+type: release
+display_title: Kanojo no Okaa-san wa Suki Desu ka? ~Cool na Hitozuma Shachou o Rouraku Seyo!~ Download Edition
+release_date: '2014-08-17'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r34626"
+  vndb: r34626
 source_urls:
-  vndb: "https://vndb.org/r34626"
+  vndb: https://vndb.org/r34626
+aliases:
+- Do You Like Your Girlfriend's Mom？
+- Kanojo no Okaa-san wa Suki Desu ka？ ~Cool na Hitozuma Shachou o Rouraku Seyo!~ Package Edition
+- Kanojo no Okaa-san wa Suki Desu ka？ ~Cool na Hitozuma Shachou o Rouraku Seyo!~ Trial Edition
+consolidated_releases:
+- id: r34626
+  title: Kanojo no Okaa-san wa Suki Desu ka? ~Cool na Hitozuma Shachou o Rouraku Seyo!~ Download Edition
+  url: https://vndb.org/r34626
+  release_date: '2014-08-17'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r35726
+  title: Kanojo no Okaa-san wa Suki Desu ka? ~Cool na Hitozuma Shachou o Rouraku Seyo!~ Package Edition
+  url: https://vndb.org/r35726
+  release_date: '2014-08-17'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r133429
+  title: Do You Like Your Girlfriend's Mom?
+  url: https://vndb.org/r133429
+  release_date: '2024-12-12'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r135154
+  title: Kanojo no Okaa-san wa Suki Desu ka? ~Cool na Hitozuma Shachou o Rouraku Seyo!~ Trial Edition
+  url: https://vndb.org/r135154
+  release_date: '2014-08-10'
+  platform: win
+  edition_type: trial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Kanojo no Okaa-san wa Suki Desu ka? ~Cool na Hitozuma Shachou o Rouraku Seyo!~ Download Edition

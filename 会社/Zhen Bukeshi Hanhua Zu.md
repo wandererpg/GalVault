@@ -12,7 +12,7 @@ source_urls:
 # Zhen Bukeshi Hanhua Zu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Mama x Holic ~Miwaku no Mama to Ama Ama Kankei~（Zhen Bukeshi Hanhua Zu）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Mama x Holic ~Miwaku no Mama to Ama Ama Kankei~ Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

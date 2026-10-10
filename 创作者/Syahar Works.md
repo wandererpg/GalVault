@@ -12,8 +12,8 @@ source_urls:
 # Syahar Works
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Demi Dirimu, Akan Kuputar Waktu]]（publisher）
-- [[Panggung Sunyi Lupercalia]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Dekinai Watashi ga, Kurikaesu. - First Press Limited Edition]]（publisher）
+- [[发行版/Meikei no Lupercalia - Download Edition（Uguisu Kagura）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

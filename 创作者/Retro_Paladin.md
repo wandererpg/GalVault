@@ -12,9 +12,9 @@ source_urls:
 # Retro_Paladin
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Cross†Channel（vndb：r87）]]（publisher）
-- [[Fate／Stay Night（vndb：r63）]]（publisher）
-- [[Saya no Uta（vndb：r87）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Cross†Channel ~To All People~ Regular Edition]]（publisher）
+- [[发行版/Fate／Stay Night ［Realta Nua］ - Ultimate Edition]]（publisher）
+- [[发行版/Saya no Uta ~ The Song of Saya - Upgrade Patch]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

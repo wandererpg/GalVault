@@ -12,16 +12,10 @@ source_urls:
 # Marble Candy Soft
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Marble CandySoft ＊ Naisho no Obenkyou Set - Download Edition]]（publisher）
-- [[Marble CandySoft ＊ Naisho no Oyuugi Set - Download Edition]]（publisher）
-- [[Marble CandySoft ＊ Naisho no Oyuugi Set]]（developer）
-- [[Marble CandySoft ＊ Naisho no Oyuugi Set]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Tsuushinbo ~Mama ni mo Naisho no Jikanwari~ Download Edition]]（publisher）
+- [[发行版/Tsuushinbo ~Mama ni mo Naisho no Jikanwari~ Download Edition]]（developer）
 - [[Tsuushinbo ~Mama ni mo Naisho no Jikanwari~ Download Edition]]（developer）
 - [[Tsuushinbo ~Mama ni mo Naisho no Jikanwari~ Download Edition]]（publisher）
-- [[Tsuushinbo ~Mama ni mo Naisho no Jikanwari~ Package Edition]]（developer）
-- [[Tsuushinbo ~Mama ni mo Naisho no Jikanwari~ Package Edition]]（publisher）
-- [[Tsuushinbo ~Mama ni mo Naisho no Jikanwari~ Trial Edition]]（developer）
-- [[Tsuushinbo ~Mama ni mo Naisho no Jikanwari~ Trial Edition]]（publisher）
 - [[通心ぼ ～ママにもナイショの時間割～]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

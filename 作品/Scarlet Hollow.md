@@ -52,8 +52,8 @@ cover_image: "assets/covers/v29254.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Scarlet Hollow - Early Access]]
-- [[Scarlet Hollow - Episode One]]
-- [[Super Rare Mixtape Vol. 2]]<!-- AUTO:END release -->
+- [[发行版/Scarlet Hollow - Early Access]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

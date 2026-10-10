@@ -1,16 +1,50 @@
 ---
-entity_id: "release:vndb:r88673:work:vndb:work:v34090"
-type: "release"
-display_title: "Otokano ~Otouto no Kanojo ga Bunkei de Tsuyome!?~ Download Edition"
-release_date: "2022-05-27"
+entity_id: release:vndb:r88673:work:vndb:work:v34090
+type: release
+display_title: Otokano ~Otouto no Kanojo ga Bunkei de Tsuyome!?~ Download Edition
+release_date: '2022-05-27'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r88673"
+  vndb: r88673
 source_urls:
-  vndb: "https://vndb.org/r88673"
+  vndb: https://vndb.org/r88673
+aliases:
+- Otokano ~Otouto no Kanojo ga Bunkei de Tsuyome!？~
+- Otokano ~Otouto no Kanojo ga Bunkei de Tsuyome!？~ Package Edition
+- Otokano ~Otouto no Kanojo ga Bunkei de Tsuyome!？~（Nejro-perevody VN）
+consolidated_releases:
+- id: r88673
+  title: Otokano ~Otouto no Kanojo ga Bunkei de Tsuyome!?~ Download Edition
+  url: https://vndb.org/r88673
+  release_date: '2022-05-27'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r87710
+  title: Otokano ~Otouto no Kanojo ga Bunkei de Tsuyome!?~ Package Edition
+  url: https://vndb.org/r87710
+  release_date: '2022-05-27'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r143418
+  title: Otokano ~Otouto no Kanojo ga Bunkei de Tsuyome!?~
+  url: https://vndb.org/r143418
+  release_date: '2025-10-15'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r101868
+  title: Otokano ~Otouto no Kanojo ga Bunkei de Tsuyome!?~
+  url: https://vndb.org/r101868
+  release_date: '2023-01-06'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Otokano ~Otouto no Kanojo ga Bunkei de Tsuyome!?~ Download Edition

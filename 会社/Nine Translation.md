@@ -12,11 +12,11 @@ source_urls:
 # Nine Translation
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[9-nine Chương Hai]]（publisher）
-- [[ATRI -Những Hồi Ức Thân Thương Của Tôi-]]（publisher）
-- [[Hatsuyuki Sakura： White Graduation（Nine Translation）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/9-nine- Download Edition（Palette・vndb：r83）]]（publisher）
+- [[发行版/ATRI -My Dear Moments- Original Soundtrack - First Press Limited Edition]]（publisher）
+- [[发行版/Hatsuyuki Sakura White Graduation - Download Edition]]（publisher）
 - [[ISLAND]]（publisher）
-- [[Mashiroiro Symphony HD -Sana Edition-（Nine Translation）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Mashiro Iro Symphony： Sana Edition - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

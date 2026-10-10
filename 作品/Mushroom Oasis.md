@@ -40,12 +40,9 @@ cover_image: "assets/covers/v42870.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Mushroom Oasis v3.0]]
-- [[Mushroom Oasis v3.0（Deersphere Studios・release：）]]
-- [[Mushroom Oasis v3.0（Deersphere Studios・vndb：r13）]]
-- [[Mushroom Oasis v3.0（Deersphere Studios・vndb：r16）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Mushroom Oasis v3.0（Deersphere Studios）]]
 - [[Mushroom Oasis v3.0（Deersphere Studios）]]
-- [[Mushroom Oasis v3.0（VienDesu! Porting Team）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

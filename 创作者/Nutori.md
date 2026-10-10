@@ -12,8 +12,8 @@ source_urls:
 # Nutori
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Planetarian ~Ultimate Edition~]]（publisher）
-- [[Vys']]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Planetarian ~The Reverie of a Little Planet~（release：）]]（publisher）
+- [[发行版/AIR（Key）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

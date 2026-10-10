@@ -12,8 +12,8 @@ source_urls:
 # Kitami Rikka Fan Club
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Canglan Biduan de Sichongzou - Perfect Edition]]（publisher）
-- [[Cangse Tianqiong Shang de Four Rhythm Perfect Edition]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Ao no Kanata no Four Rhythm - Download Edition（sprite）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

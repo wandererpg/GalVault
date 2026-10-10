@@ -12,14 +12,11 @@ source_urls:
 # Wenti Shaonü Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ikura Jiemei♥Nianmo Youxi - Trial Edition]]（publisher）
-- [[Okayu Jiemei♥Nianmo Youxi - Trial Edition]]（publisher）
-- [[ROLEPLAYER： Xiaozhou Jiemei de Nianmo Youxi!]]（publisher）
-- [[ROLEPLAYER： Yamakake Jiemei de Nianmo Youxi ver2.0]]（publisher）
-- [[ROLEPLAYER： Yamakake Jiemei de Nianmo Youxi]]（publisher）
-- [[ShanGua JieMei De Nianmo Youxi! - Trial Edition]]（publisher）
-- [[Yan Yun Chao Gong Kou APP Xue Yuan]]（publisher）
-- [[Yanyun Yishijie Meimo Xueyuan]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Role player： Ikura Shimai no Nenmaku Portrait - Gurigucha LIVE! ［AI TL］]]（publisher）
+- [[发行版/Role player： Okayu Shimai no Nenmaku Portrait - Gurigucha LIVE! ［UI+Dialogue Translation］]]（publisher）
+- [[发行版/Role player： Tororo Shimai no Nenmaku Portrait - Gurigucha LIVE! - Append+ ［AI TL］]]（publisher）
+- [[发行版/Motto! Haramase! Honoo no Oppai Chou Ero ♡ Appli Gakuen! - Download Edition]]（publisher）
+- [[发行版/Motto! Haramase! Honoo no Oppai Isekai Chou Ero ♥ Succubus Gakuen!（Frontwing）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

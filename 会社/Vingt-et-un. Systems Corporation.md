@@ -12,12 +12,9 @@ source_urls:
 # Vingt-et-un. Systems Corporation
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Hanayaka Nari, Waga Ichizoku - Limited Edition]]（developer）
-- [[Hanayaka Nari, Waga Ichizoku - Regular Edition]]（developer）
-- [[Hanayaka Nari, Waga Ichizoku Kinema Mosaic - Limited Edition]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Hanayaka Nari, Waga Ichizoku Modern Nostalgie - Download Edition]]（developer）
+- [[发行版/Hanayaka Nari, Waga Ichizoku Kinema Mosaic - Regular Edition]]（developer）
 - [[Hanayaka Nari, Waga Ichizoku Kinema Mosaic - Regular Edition]]（developer）
-- [[Hanayaka Nari, Waga Ichizoku Twin Pack]]（developer）
-- [[Hanayaka Nari, Waga Ichizoku Twin Pack（Vingt-et-un. Systems Corporation）]]（developer）
 - [[華彩煌煌,吾之一族 燈影萬華鏡]]（developer）
 - [[華彩煌煌,吾之一族]]（developer）<!-- AUTO:END duty -->
 

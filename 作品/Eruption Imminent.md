@@ -73,10 +73,9 @@ cover_image: "assets/covers/v46657.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Eruption Imminent Season 1]]
-- [[Eruption Imminent v0.7.0 - Incest Patch]]
+<!-- AUTO:BEGIN release -->- [[发行版/Eruption Imminent v0.7.0]]
 - [[Eruption Imminent v0.7.0]]
-- [[Vspyshka Neminuema! v0.7.1]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

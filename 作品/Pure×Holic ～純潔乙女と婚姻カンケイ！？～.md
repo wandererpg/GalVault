@@ -79,10 +79,8 @@ cover_image: "assets/covers/v49143.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Pure×Holic ~Junketsu Otome to Kon'in Kankei!？~ Download Edition]]
-- [[Pure×Holic ~Junketsu Otome to Kon'in Kankei!？~ Package Edition]]
-- [[Pure×Holic ~Junketsu Otome to Kon'in Kankei!？~ Trial Edition]]
-- [[Pure×Holic ~Junketsu Otome to Kon'in Kankei!？~]]
-- [[Pure×Holic ~Yu Chunjie Shaonǔ de Hunyin Guanxi]]<!-- AUTO:END release -->
+- [[发行版/Pure×Holic ~Junketsu Otome to Kon'in Kankei!？~ Download Edition]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

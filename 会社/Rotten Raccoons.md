@@ -12,10 +12,8 @@ source_urls:
 # Rotten Raccoons
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[OBSCURA - Chapter One： The Descent]]（developer）
-- [[OBSCURA - Chapter One： The Descent]]（publisher）
-- [[OBSCURA - Early Access ［v2.5.1］]]（developer）
-- [[OBSCURA - Early Access ［v2.5.1］]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/OBSCURA]]（developer）
+- [[发行版/OBSCURA]]（publisher）
 - [[OBSCURA]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

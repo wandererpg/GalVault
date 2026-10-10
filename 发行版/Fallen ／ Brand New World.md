@@ -1,16 +1,34 @@
 ---
-entity_id: "release:vndb:r137844:work:vndb:work:v57358"
-type: "release"
-display_title: "Fallen / Brand New World"
-release_date: "2025-05-30"
+entity_id: release:vndb:r137844:work:vndb:work:v57358
+type: release
+display_title: Fallen / Brand New World
+release_date: '2025-05-30'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r137844"
+  vndb: r137844
 source_urls:
-  vndb: "https://vndb.org/r137844"
+  vndb: https://vndb.org/r137844
+aliases:
+- Fallen ／ Brand New World（Wand-erers Localization Team）
+consolidated_releases:
+- id: r137844
+  title: Fallen / Brand New World
+  url: https://vndb.org/r137844
+  release_date: '2025-05-30'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r160696
+  title: Fallen / Brand New World
+  url: https://vndb.org/r160696
+  release_date: '2026-07-03'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Fallen / Brand New World

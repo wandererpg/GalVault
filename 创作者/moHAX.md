@@ -14,7 +14,7 @@ source_urls:
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Ischeznovenie Sammer S1 + S1 Steam]]（publisher）
 - [[Nasha Krasnaja Nit' Ch. 1-13.3.5]]（publisher）
-- [[Paj-Devochka Poshla Vraznos v1.2(5／8)]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Good Girl Gone Bad]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

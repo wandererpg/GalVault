@@ -134,14 +134,9 @@ cover_image: "assets/covers/v768.webp"
 - [[Yukito Saori]]（雪都 さお梨）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Ikusa Megami Zero - Download Edition]]
-- [[Ikusa Megami Zero - Interface Patch]]
-- [[Ikusa Megami Zero - Package Edition]]
-- [[Ikusa Megami Zero Complete Guidebook Append Disc]]
-- [[Ikusa Megami Zero]]
-- [[Ikusa Megami Zero（Da Laopobing Hanhuazu）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Ikusa Megami Zero（nekoHen）]]
 - [[Ikusa Megami Zero（nekoHen）]]
-- [[Ikusa Megami Zero（release：）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

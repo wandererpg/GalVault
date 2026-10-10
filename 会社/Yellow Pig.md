@@ -12,7 +12,7 @@ source_urls:
 # Yellow Pig
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Kawarazaki-ke no Ichizoku 2 - DVDPG]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kawarazaki-ke no Ichizoku 2 - Complete Edition - Windows 10 Support]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

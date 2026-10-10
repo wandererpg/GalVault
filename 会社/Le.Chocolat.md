@@ -13,8 +13,8 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Swan Song - Download Edition]]（publisher）
-- [[Swan Song - Low Price Edition]]（publisher）
-- [[Swan Song]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Swan Song - Download Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

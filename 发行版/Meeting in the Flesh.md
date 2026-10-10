@@ -1,16 +1,34 @@
 ---
-entity_id: "release:vndb:r75965:work:vndb:work:v29689"
-type: "release"
-display_title: "Meeting in the Flesh"
-release_date: "2019-03-31"
+entity_id: release:vndb:r75965:work:vndb:work:v29689
+type: release
+display_title: Meeting in the Flesh
+release_date: '2019-03-31'
 is_all_ages: false
-platform: "win, mac"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win, mac
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r75965"
+  vndb: r75965
 source_urls:
-  vndb: "https://vndb.org/r75965"
+  vndb: https://vndb.org/r75965
+aliases:
+- Meeting in the Flesh - Demo
+consolidated_releases:
+- id: r75965
+  title: Meeting in the Flesh
+  url: https://vndb.org/r75965
+  release_date: '2019-03-31'
+  platform: win, mac
+  edition_type: complete
+  is_all_ages: false
+- id: r75964
+  title: Meeting in the Flesh - Demo
+  url: https://vndb.org/r75964
+  release_date: '2017-10-31'
+  platform: win, mac
+  edition_type: trial
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Meeting in the Flesh

@@ -12,8 +12,8 @@ source_urls:
 # Galletadeyomi
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Gin'iro, Haruka]]（publisher）
-- [[Hoshi Ori Yume Mirai（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Gin'iro, Haruka（Tsurezure Scans）]]（publisher）
+- [[发行版/Hoshi Ori Yume Mirai - Converted Edition（tone work's）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

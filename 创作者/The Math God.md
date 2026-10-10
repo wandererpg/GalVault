@@ -12,21 +12,12 @@ source_urls:
 # The Math God
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Grisaia no Kajitsu - UCG patch Remastered]]（publisher）
-- [[Grisaia no Kajitsu - UCG patch]]（publisher）
-- [[Grisaia no Meikyuu - UCG patch Remastered]]（publisher）
-- [[Grisaia no Meikyuu - UCG patch]]（publisher）
-- [[Grisaia no Rakuen - UCG patch Remastered]]（publisher）
-- [[Grisaia no Rakuen - UCG patch]]（publisher）
-- [[Hakuchuumu no Aojashin Restoration Patch]]（publisher）
-- [[Kinkoi Golden Time NekoNyan Append patch]]（publisher）
-- [[The Eden of Grisaia - HCG patch]]（publisher）
-- [[The Eden of Grisaia - UCG patch]]（publisher）
-- [[The Fruit of Grisaia - HCG patch]]（publisher）
-- [[The Fruit of Grisaia - Movie Patch]]（publisher）
-- [[The Fruit of Grisaia - UCG patch]]（publisher）
-- [[The Labyrinth of Grisaia - HCG patch]]（publisher）
-- [[The Labyrinth of Grisaia - UCG patch]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/The Grisaia Trilogy]]（publisher）
+- [[发行版/The Grisaia Trilogy（PROTOTYPE）]]（publisher）
+- [[发行版/The Grisaia Trilogy（PROTOTYPE・release：）]]（publisher）
+- [[发行版/Hakuchuumu no Aojashin - Censored Edition]]（publisher）
+- [[发行版/Kin'iro Loveriche + Kin'iro Loveriche -Golden Time- Golden Pack（SAGA PLANETS）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

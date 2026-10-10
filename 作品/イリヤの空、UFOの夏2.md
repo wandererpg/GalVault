@@ -45,7 +45,7 @@ cover_image: "assets/covers/v4696.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Iriya no Sora, UFO no Natsu I&II Complete Pack]]
-- [[Iriya no Sora, UFO no Natsu II]]<!-- AUTO:END release -->
+- [[发行版/Iriya no Sora, UFO no Natsu I&II Complete Pack]]<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

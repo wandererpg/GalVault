@@ -12,13 +12,10 @@ source_urls:
 # Higurashi Eternal
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Fata morgana no Yakata - Trial Edition（Higurashi Eternal）]]（publisher）
-- [[Higurashi no Naku Koro ni Hou - Cap.1 Onikakushi]]（publisher）
-- [[Higurashi no Naku Koro ni Hou - Cap.2 Watanagashi]]（publisher）
-- [[Higurashi no Naku Koro ni Hou - Cap.3 Tatarigoroshi]]（publisher）
-- [[Higurashi no Naku Koro ni Hou - Cap.4 Himatsubushi]]（publisher）
-- [[Higurashi no Naku Koro ni Hou - Cap.5 Meakashi]]（publisher）
-- [[Higurashi no Naku Koro ni Hou - Cap.6 Tsumihoroboshi]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Fata Morgana no Yakata -DREAMS OF THE REVENANTS EDITION- - Download Edition]]（publisher）
+- [[发行版/Himatsubushi Hen（07th Expansion）]]（publisher）
+- [[发行版/Matsuribayashi Hen（07th Expansion）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

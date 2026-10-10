@@ -12,7 +12,7 @@ source_urls:
 # Fachun Tonghaohui
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Gongjie Qingyuan de Jianwu Lianqu -Chun Lian'ge- Trial Version]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kizuna Kirameku Koi Iroha -Tsubaki Renka- Original Work Bundled Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

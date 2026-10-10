@@ -12,10 +12,10 @@ source_urls:
 # Traducciones Strawberry
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Double Score ~Cosmos × Camellia~]]（publisher）
-- [[Dynamic Chord feat. apple-polisher]]（publisher）
-- [[Gakuen Tokkyuu Hotokenser]]（publisher）
-- [[Starry☆Sky ~in Winter~（Traducciones Strawberry）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Double Score ~Marguerite × Tulip~ Regular Edition]]（publisher）
+- [[发行版/DYNAMIC CHORD feat.apple-polisher Remaster Edition - DL Edition]]（publisher）
+- [[发行版/Gakuen Tokkyuu Hotokenser - Regular Edition]]（publisher）
+- [[发行版/Starry☆Sky ~in Winter~]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

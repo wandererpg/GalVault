@@ -13,32 +13,14 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Akuma de Oshioki! Marukido Sadoshiki Hentai Oshioki Kouza - DVDPG]]（developer）
-- [[Akuma de Oshioki! Marukido Sadoshiki Hentai Oshioki Kouza - Download Edition]]（developer）
-- [[Akuma de Oshioki! Marukido Sadoshiki Hentai Oshioki Kouza - Download Edition]]（publisher）
-- [[Akuma de Oshioki! Marukido Sadoshiki Hentai Oshioki Kouza - Package Edition]]（developer）
-- [[Akuma de Oshioki! Marukido Sadoshiki Hentai Oshioki Kouza - Package Edition]]（publisher）
+- [[发行版/Akuma de Oshioki! Marukido Sadoshiki Hentai Oshioki Kouza - DVDPG]]（developer）
+- [[发行版/Akuma de Oshioki! Marukido Sadoshiki Hentai Oshioki Kouza - DVDPG]]（publisher）
 - [[Maou no Kuse ni Namaiki da! 2 ~Kondo wa Seisen da!~ DVDPG]]（developer）
-- [[Maou no Kuse ni Namaiki da! 2 ~Kondo wa Seisen da!~ Dosukebe Trial Edition]]（developer）
-- [[Maou no Kuse ni Namaiki da! 2 ~Kondo wa Seisen da!~ Dosukebe Trial Edition]]（publisher）
-- [[Maou no Kuse ni Namaiki da! 2 ~Kondo wa Seisen da!~ Download Edition]]（developer）
-- [[Maou no Kuse ni Namaiki da! 2 ~Kondo wa Seisen da!~ Download Edition]]（publisher）
-- [[Maou no Kuse ni Namaiki da! 2 ~Kondo wa Seisen da!~ Package Edition]]（developer）
-- [[Maou no Kuse ni Namaiki da! 2 ~Kondo wa Seisen da!~ Package Edition]]（publisher）
-- [[Maou no Kuse ni Namaiki da! 2 ~Kondo wa Seisen da!~ Twin Pack]]（developer）
-- [[Maou no Kuse ni Namaiki da! 2 ~Kondo wa Seisen da!~ Twin Pack]]（publisher）
-- [[Maou no Kuse ni Namaiki da! Manatsu no Gattai Box]]（developer）
-- [[Maou no Kuse ni Namaiki da! Manatsu no Gattai Box]]（publisher）
-- [[Maou no Kuse ni Namaiki da! Manatsu no Gattai Box（Luxury）]]（developer）
-- [[Maou no Kuse ni Namaiki da! Manatsu no Gattai Box（Luxury）]]（publisher）
-- [[Maou no Kuse ni Namaiki da! NEP Special Release Edition ～ Nepu Nepu ni Shite yan yo 1～4～]]（developer）
-- [[Maou no Kuse ni Namaiki da! NEP Special Release Edition ～ Nepu Nepu ni Shite yan yo 1～4～]]（publisher）
-- [[Maou no Kuse ni Namaiki da! Torotoro Tropical! - Chutoro Trial Edition]]（developer）
-- [[Maou no Kuse ni Namaiki da! Torotoro Tropical! - Chutoro Trial Edition]]（publisher）
+- [[发行版/Maou no Kuse ni Namaiki da! 2 ~Kondo wa Seisen da!~ DVDPG]]（developer）
+- [[发行版/Maou no Kuse ni Namaiki da! 2 ~Kondo wa Seisen da!~ DVDPG]]（publisher）
+- [[发行版/Maou no Kuse ni Namaiki da! Torotoro Tropical! - DVDPG]]（developer）
+- [[发行版/Maou no Kuse ni Namaiki da! Torotoro Tropical! - DVDPG]]（publisher）
 - [[Maou no Kuse ni Namaiki da! Torotoro Tropical! - DVDPG]]（developer）
-- [[Maou no Kuse ni Namaiki da! Torotoro Tropical! - Download Edition]]（developer）
-- [[Maou no Kuse ni Namaiki da! Torotoro Tropical! - Download Edition]]（publisher）
-- [[Maou no Kuse ni Namaiki da! Torotoro Tropical!]]（developer）
-- [[Maou no Kuse ni Namaiki da! Torotoro Tropical!]]（publisher）
 - [[アクマでオシオキっ！ 丸城戸サド式ヘンタイお仕置き講座]]（developer）
 - [[魔王のくせに生イキだっ！2 ～今度は性戦だ！～]]（developer）
 - [[魔王のくせに生イキだっ！とろとろトロピカル！]]（developer）<!-- AUTO:END duty -->

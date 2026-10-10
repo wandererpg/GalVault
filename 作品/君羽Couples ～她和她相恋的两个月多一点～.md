@@ -68,18 +68,9 @@ cover_image: "assets/covers/v20444.webp"
 - [[Yumezuki Yami]]（夢月 やみ）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Jun Yu Couples ~ Ta he Ta Xianglian de Liang Ge Yue Duo Yi Dian]]
-- [[Kimihane Couples ~Geunyeo wa Geunyeo ui Sarang haneun Igaewol Namjit~]]
-- [[Kimihane Couples ~Geunyeo wa Geunyeo ui Sarang haneun Igaewol gwa Jogeum Deo~]]
+<!-- AUTO:BEGIN release -->- [[发行版/Kimihane Couples ~Kanojo to Kanojo no Koi Suru Nikagetsu Chotto~ Download Edition]]
 - [[Kimihane Couples ~Kanojo to Kanojo no Koi Suru Nikagetsu Chotto~ Download Edition]]
-- [[Kimihane Couples ~Kanojo to Kanojo no Koi Suru Nikagetsu Chotto~ Package Edition]]
-- [[Kimihane Couples ~Kanojo to Kanojo no Koi Suru Nikagetsu Chotto~ Trial Edition]]
-- [[Kimihane Couples ~Kanojo to Kanojo no Koi Suru Nikagetsu Chotto~]]
-- [[Wanting Wings (MangaGamer version)]]
-- [[Wanting Wings - 18+ Patch]]
-- [[Wanting Wings - Censored Edition]]
-- [[Wanting Wings： Her and Her Romance!]]
-- [[Wanting Wings： Her and Her Romance!（MangaGamer）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -31,7 +31,7 @@ portrait_image: "assets/characters/c53705.webp"
 
 ## 出场作品
 <!-- AUTO:BEGIN character -->- [[Getsuei no Kusari -Kyouran Moratorium- First Press Limited Edition]]（primary）
-- [[Getsuei no Kusari -Kyouran Moratorium- Regular Edition]]（primary）<!-- AUTO:END character -->
+- [[发行版/Getsuei no Kusari -Kyouran Moratorium- First Press Limited Edition]]（primary）<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Kanna Nobutoshi]]（声优：神奈 延年）<!-- AUTO:END voice -->

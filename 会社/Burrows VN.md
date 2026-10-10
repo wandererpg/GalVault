@@ -12,8 +12,8 @@ source_urls:
 # Burrows VN
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Burrows v0.18.1]]（developer）
-- [[Burrows v0.18.1]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Shouxue v0.4]]（developer）
+- [[发行版/Shouxue v0.4]]（publisher）
 - [[Burrows]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

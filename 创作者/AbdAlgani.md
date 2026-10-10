@@ -11,9 +11,9 @@ source_urls:
 # AbdAlgani
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Kanon Steam Edition]]（publisher）
-- [[WHITE ALBUM2 EXTENDED EDITION]]（publisher）
-- [[WHITE ALBUM2 EXTENDED EDITION（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kanon（Key）]]（publisher）
+- [[发行版/WHITE ALBUM2 EXTENDED EDITION（Leaf）]]（publisher）
+- [[发行版/WHITE ALBUM2 EXTENDED EDITION（Leaf・release：）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

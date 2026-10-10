@@ -12,29 +12,29 @@ source_urls:
 # RealmOfMTL
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[ATRI -My Dear Moments-]]（publisher）
-- [[Akatsuki no Goei Trinity Complete Edition]]（publisher）
-- [[CHAOS;CHILD]]（publisher）
-- [[Cyanotype Daydream -The Girl Who Dreamed the World-（RealmOfMTL）]]（publisher）
-- [[Dracu-Riot!]]（publisher）
-- [[G-senjou no Maou - The Devil on G-String]]（publisher）
-- [[Hentai Prison]]（publisher）
-- [[Hoshi Ori Yume Mirai - Perfect Edition]]（publisher）
-- [[Maitetsu - Last Run!!（RealmOfMTL）]]（publisher）
-- [[NUKITASHI 2（RealmOfMTL）]]（publisher）
-- [[NUKITASHI（RealmOfMTL）]]（publisher）
-- [[OPPAI Ero App Academy Bigger, Better, Electric Boobaloo!]]（publisher）
-- [[Planetarian HD Edition]]（publisher）
-- [[Rance IX - The Helmanian Revolution]]（publisher）
-- [[Rance Quest Magnum]]（publisher）
-- [[Root Double -Before Crime After Days- Xtend Edition]]（publisher）
-- [[Sabbat of the Witch]]（publisher）
-- [[Senren ＊ Banka]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/ATRI -My Dear Moments- Original Soundtrack - First Press Limited Edition]]（publisher）
+- [[发行版/Akatsuki no Goei Trinity Complete Edition - First Press Limited Edition]]（publisher）
+- [[发行版/Hundun zhi Zi - Package Edition（MAGES）]]（publisher）
+- [[发行版/Hakuchuumu no Aojashin - Censored Edition]]（publisher）
+- [[发行版/DRACU-RIOT! - Censored Edition]]（publisher）
+- [[发行版/G-senjou no Maou（Aegis）]]（publisher）
+- [[发行版/Hentai Prison - First Press Limited Edition]]（publisher）
+- [[发行版/Hoshi Ori Yume Mirai - Converted Edition（tone work's）]]（publisher）
+- [[发行版/Maitetsu Complete Set（Lose）]]（publisher）
+- [[发行版/Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka？ 1 + 2 Remaster Pack - Download Edition（Qruppo）]]（publisher）
+- [[发行版/NUKITASHI]]（publisher）
+- [[发行版/Motto! Haramase! Honoo no Oppai Chou Ero ♡ Appli Gakuen! - Download Edition]]（publisher）
+- [[发行版/Planetarian ~The Reverie of a Little Planet~（release：）]]（publisher）
+- [[发行版/Rance IX - Helman Kakumei -]]（publisher）
+- [[发行版/Rance Quest Magnum - Package Edition]]（publisher）
+- [[发行版/Root Double -Before Crime ＊ After Days- Xtend Edition - Limited Edition]]（publisher）
+- [[发行版/Monü de Yeyan - FHD Edition]]（publisher）
+- [[发行版/Senren ＊ Banka - Package Edition]]（publisher）
 - [[Summer Pockets]]（publisher）
-- [[The Eden of Grisaia]]（publisher）
-- [[The Fruit of Grisaia]]（publisher）
-- [[The Labyrinth of Grisaia]]（publisher）
-- [[The Princess, the Stray Cat, and Matters of the Heart 2]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/The Grisaia Trilogy（PROTOTYPE・release：）]]（publisher）
+- [[发行版/The Grisaia Trilogy]]（publisher）
+- [[发行版/The Grisaia Trilogy（PROTOTYPE）]]（publisher）
+- [[发行版/The Princess, the Stray Cat, and Matters of the Heart 2（Fruitbat Factory）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

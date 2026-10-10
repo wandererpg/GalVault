@@ -12,7 +12,7 @@ source_urls:
 # K.K
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[I Sesang Kkeuteseo Sarangeul Noraehaneun Sonyeo YU-NO]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kono Yo no Hate de Koi o Utau Shoujo YU-NO - Windows 10 Support Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

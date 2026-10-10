@@ -13,7 +13,7 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Shaonv Bianzhi Ai de Huabu]]（publisher）
-- [[YU Ni Gong Zhi Ai de Huajuan]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Shaonv Bianzhi Ai de Huabu]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

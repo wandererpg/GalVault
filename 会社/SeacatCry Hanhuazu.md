@@ -12,7 +12,7 @@ source_urls:
 # SeacatCry Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Baiguan Mingqi Zhi Shi - Test Version]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Ciconia no Naku Koro ni - Phase 1： Kawari no Iru Kimi-tachi e]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

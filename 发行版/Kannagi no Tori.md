@@ -1,16 +1,34 @@
 ---
-entity_id: "release:vndb:r4888:work:vndb:work:v2506"
-type: "release"
-display_title: "Kannagi no Tori"
-release_date: "2002-11-29"
+entity_id: release:vndb:r4888:work:vndb:work:v2506
+type: release
+display_title: Kannagi no Tori
+release_date: '2002-11-29'
 is_all_ages: false
-platform: "win, mac"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win, mac
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r4888"
+  vndb: r4888
 source_urls:
-  vndb: "https://vndb.org/r4888"
+  vndb: https://vndb.org/r4888
+aliases:
+- Shenwu zhi Niao
+consolidated_releases:
+- id: r4888
+  title: Kannagi no Tori
+  url: https://vndb.org/r4888
+  release_date: '2002-11-29'
+  platform: win, mac
+  edition_type: complete
+  is_all_ages: false
+- id: r17418
+  title: Shenwu zhi Niao
+  url: https://vndb.org/r17418
+  release_date: '2011-09-09'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Kannagi no Tori

@@ -12,7 +12,7 @@ source_urls:
 # Imouto Works
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[The Fruit of Grisaia Steam Restoration Patch]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/The Grisaia Trilogy]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

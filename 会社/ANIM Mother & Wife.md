@@ -13,8 +13,7 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Itsu made mo Mama to Issho! ~Yuuwaku Mama no Oppai ni Amaete Ippai Shasei Shitai!~ Download Edition]]（developer）
-- [[Itsu made mo Mama to Issho! ~Yuuwaku Mama no Oppai ni Amaete Ippai Shasei Shitai!~ Package Edition]]（developer）
-- [[Itsu made mo Mama to Issho! ~Yuuwaku Mama no Oppai ni Amaete Ippai Shasei Shitai!~ Trial Edition]]（developer）
+- [[发行版/Itsu made mo Mama to Issho! ~Yuuwaku Mama no Oppai ni Amaete Ippai Shasei Shitai!~ Download Edition]]（developer）
 - [[いつまでもママといっしょ！～誘惑ママのおっぱいに甘えていっぱい射精したい！～]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

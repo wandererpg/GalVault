@@ -12,57 +12,19 @@ source_urls:
 # honeybee
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ayakashi Gohan - First Press Limited Edition]]（developer）
-- [[Ayakashi Gohan - First Press Limited Edition]]（publisher）
-- [[Ayakashi Gohan - Regular Edition]]（developer）
-- [[Ayakashi Gohan - Regular Edition]]（publisher）
-- [[Ayakashi Gohan - Trial Edition]]（developer）
-- [[Ayakashi Gohan - Trial Edition]]（publisher）
-- [[Ayakashi Gohan ~Okawari!~  for S DL Edition]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Ayakashi Gohan ~Oomori!~ for S Download Edition]]（developer）
+- [[发行版/Ayakashi Gohan ~Oomori!~ for S Download Edition]]（publisher）
+- [[发行版/Ayakashi Gohan ~Okawari!~  for S Regular edition]]（developer）
 - [[Ayakashi Gohan ~Okawari!~  for S Regular edition]]（developer）
-- [[Ayakashi Gohan ~Okawari!~ First Press Limited Edition]]（developer）
-- [[Ayakashi Gohan ~Okawari!~ First Press Limited Edition]]（publisher）
-- [[Ayakashi Gohan ~Okawari!~ Regular Edition]]（developer）
-- [[Ayakashi Gohan ~Okawari!~ Regular Edition]]（publisher）
-- [[Ayakashi Gohan ~Oomori!~ Download Edition]]（developer）
-- [[Ayakashi Gohan ~Oomori!~ Download Edition]]（publisher）
-- [[Ayakashi Gohan ~Oomori!~ First Press Limited Edition]]（developer）
-- [[Ayakashi Gohan ~Oomori!~ First Press Limited Edition]]（publisher）
-- [[Ayakashi Gohan ~Oomori!~ Regular Edition]]（developer）
-- [[Ayakashi Gohan ~Oomori!~ Regular Edition]]（publisher）
+- [[发行版/Ayakashi Gohan ~Okawari!~  for S Regular edition]]（publisher）
 - [[Ayakashi Gohan ~Oomori!~ for S Download Edition]]（developer）
-- [[Ayakashi Gohan ~Oomori!~ for S Special Edition]]（developer）
-- [[Ayakashi Gohan ~Oomori!~ for S]]（developer）
-- [[Starry☆Sky ~After Summer~ First Press Limited Edition]]（developer）
-- [[Starry☆Sky ~After Summer~ First Press Limited Edition]]（publisher）
-- [[Starry☆Sky ~After Summer~ Portable - First Press Limited Edition]]（publisher）
-- [[Starry☆Sky ~After Summer~ Portable - Regular Edition]]（publisher）
-- [[Starry☆Sky ~After Summer~ Regular Edition]]（developer）
-- [[Starry☆Sky ~After Summer~ Regular Edition]]（publisher）
+- [[发行版/Starry☆Sky ~After Summer~]]（developer）
+- [[发行版/Starry☆Sky ~After Summer~]]（publisher）
 - [[Starry☆Sky ~After Summer~]]（developer）
-- [[Starry☆Sky ~Summer Stories~ Download Edition]]（developer）
-- [[Starry☆Sky ~Summer Stories~ Download Edition]]（publisher）
-- [[Starry☆Sky ~Summer Stories~]]（developer）
-- [[Starry☆Sky ~Summer Stories~]]（publisher）
-- [[Starry☆Sky ~Summer~ Portable - Twin Pack]]（developer）
-- [[Starry☆Sky ~Summer~ Portable - Twin Pack]]（publisher）
-- [[Starry☆Sky ~Winter Stories~ Download Edition]]（developer）
-- [[Starry☆Sky ~Winter Stories~ Download Edition]]（publisher）
-- [[Starry☆Sky ~Winter Stories~]]（developer）
-- [[Starry☆Sky ~Winter Stories~]]（publisher）
-- [[Starry☆Sky ~Winter~ Portable - Twin Pack]]（developer）
-- [[Starry☆Sky ~Winter~ Portable - Twin Pack]]（publisher）
-- [[Starry☆Sky ~in Winter~ 3D - Limited Edition]]（developer）
-- [[Starry☆Sky ~in Winter~ 3D - Limited Edition]]（publisher）
-- [[Starry☆Sky ~in Winter~ 3D]]（developer）
-- [[Starry☆Sky ~in Winter~ 3D]]（publisher）
-- [[Starry☆Sky ~in Winter~ Portable - First Press Limited Edition]]（developer）
-- [[Starry☆Sky ~in Winter~ Portable - First Press Limited Edition]]（publisher）
-- [[Starry☆Sky ~in Winter~ Portable - Regular Edition]]（developer）
-- [[Starry☆Sky ~in Winter~ Portable - Regular Edition]]（publisher）
+- [[发行版/Starry☆Sky ~in Winter~]]（developer）
+- [[发行版/Starry☆Sky ~in Winter~]]（publisher）
 - [[Starry☆Sky ~in Winter~]]（developer）
 - [[Starry☆Sky ~in Winter~]]（publisher）
-- [[Starry☆Sky ~in Winter~（honeybee）]]（publisher）
 - [[あやかしごはん ～おかわりっ！～]]（developer）
 - [[妖怪米饭]]（developer）<!-- AUTO:END duty -->
 

@@ -14,12 +14,8 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Kyojin-tachi - Complete Edition I]]（developer）
 - [[Kyojin-tachi - Complete Edition I]]（publisher）
-- [[Kyojin-tachi - Complete Edition]]（developer）
-- [[Kyojin-tachi - Complete Edition]]（publisher）
-- [[Kyojin-tachi I -Jikkenteki Digital Novel-]]（developer）
-- [[Kyojin-tachi I -Jikkenteki Digital Novel-]]（publisher）
-- [[Kyojin-tachi II -Jikkenteki Digital Novel-]]（developer）
-- [[Kyojin-tachi II -Jikkenteki Digital Novel-]]（publisher）
+- [[发行版/Kyojin-tachi - Complete Edition I]]（developer）
+- [[发行版/Kyojin-tachi - Complete Edition I]]（publisher）
 - [[离开的人们]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

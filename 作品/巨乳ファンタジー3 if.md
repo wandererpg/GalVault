@@ -121,25 +121,9 @@ cover_image: "assets/covers/v21528.webp"
 - [[Yamamoto Kanehira]]（胸肩 腎）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Funbag Fantasy 3if]]
-- [[Funbag Fantasy 3if（MangaGamer）]]
-- [[Juru Huanxiang 3if HD Bundle Edition]]
-- [[Juru Huanxiang 3if]]
-- [[Kyonyuu Fantasy - 10th Anniversary Box（Waffle・k：v21528）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Kyonyuu Fantasy 3 - Digital Novel Edition - Limited Set - Download Card Edition（Waffle）]]
 - [[Kyonyuu Fantasy 3 - Digital Novel Edition - Limited Set - Download Card Edition（Waffle）]]
-- [[Kyonyuu Fantasy 3 - Digital Novel Edition - Limited Set - Package Edition（Waffle）]]
-- [[Kyonyuu Fantasy 3 -Julinas Hen- Full HD Bundle Edition - DL Card Edition（Waffle）]]
-- [[Kyonyuu Fantasy 3 -Julinas Hen- Full HD Bundle Edition - Download Edition（Waffle）]]
-- [[Kyonyuu Fantasy 3 -Julinas Hen- Full HD Bundle Edition - Package Edition（Waffle）]]
-- [[Kyonyuu Fantasy 3 if - Bonus content]]
-- [[Kyonyuu Fantasy 3 if - DVDPG]]
-- [[Kyonyuu Fantasy 3 if - Download Edition]]
-- [[Kyonyuu Fantasy 3 if - Package Edition]]
-- [[Kyonyuu Fantasy 3 if - Special Edition - Download Card Edition]]
-- [[Kyonyuu Fantasy 3 if - Special Edition - Download Edition]]
-- [[Kyonyuu Fantasy 3 if - Special Edition - Package Edition]]
-- [[Kyonyuu Fantasy 3 if - Trial Edition]]
-- [[Kyonyuu Fantasy 3 if]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

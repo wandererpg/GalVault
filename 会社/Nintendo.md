@@ -12,18 +12,14 @@ source_urls:
 # Nintendo
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Buddy Mission BOND Trial Edition]]（publisher）
-- [[Buddy Mission BOND Trial Edition（Koei Tecmo Holdings Co., Ltd）]]（publisher）
-- [[Buddy Mission BOND]]（publisher）
-- [[Dadang Renwu： Mimi Soucha Zu - Download Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Dadang Renwu： Mimi Soucha Zu - Package Edition]]（publisher）
 - [[Dadang Renwu： Mimi Soucha Zu - Package Edition]]（publisher）
-- [[Hotel Dusk-eui Bimil]]（publisher）
-- [[Hotel Dusk： Room 215 - EU Edition]]（publisher）
+- [[发行版/Hotel Dusk： Room 215 - NA Edition]]（publisher）
 - [[Hotel Dusk： Room 215 - NA Edition]]（publisher）
-- [[Last Window： Mayonaka no Yakusoku]]（publisher）
+- [[发行版/Last Window： The Secret of Cape West]]（publisher）
 - [[Last Window： The Secret of Cape West]]（publisher）
-- [[Phoenix Wright： Ace Attorney - AU Edition]]（publisher）
-- [[Wish Room： Tenshi no Kioku]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Gyakuten Saiban： Yomigaeru Gyakuten]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

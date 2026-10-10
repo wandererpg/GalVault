@@ -142,29 +142,9 @@ cover_image: "assets/covers/v5000.webp"
 - [[Yoshida Masumi]]（吉田 真澄）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Root Double -Before Crime After Days- Xtend Edition]]
-- [[Root Double -Before Crime ＊ After Days- First Press Limited Edition]]
-- [[Root Double -Before Crime ＊ After Days- Regular Edition]]
-- [[Root Double -Before Crime ＊ After Days- Smart Edition]]
-- [[Root Double -Before Crime ＊ After Days- Smart Edition（Regista Co.,Ltd）]]
-- [[Root Double -Before Crime ＊ After Days- Xtend Edition - Collector's Edition]]
-- [[Root Double -Before Crime ＊ After Days- Xtend Edition - Dakimakura Collector's Edition]]
-- [[Root Double -Before Crime ＊ After Days- Xtend Edition - Download Edition]]
-- [[Root Double -Before Crime ＊ After Days- Xtend Edition - EU Download Edition]]
-- [[Root Double -Before Crime ＊ After Days- Xtend Edition - Kickstarter Exclusive Physical Collector's Edition]]
-- [[Root Double -Before Crime ＊ After Days- Xtend Edition - Kickstarter Exclusive Physical Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Root Double -Before Crime ＊ After Days- Xtend Edition - Limited Edition]]
 - [[Root Double -Before Crime ＊ After Days- Xtend Edition - Limited Edition]]
-- [[Root Double -Before Crime ＊ After Days- Xtend Edition - NA Download Edition]]
-- [[Root Double -Before Crime ＊ After Days- Xtend Edition - SLG Partner Store Edition]]
-- [[Root Double -Before Crime ＊ After Days- Xtend Edition- First Press Limited Edition]]
-- [[Root Double -Before Crime ＊ After Days- Xtend Edition- Regular Edition]]
-- [[Root Double -Before Crime ＊ After Days- Xtend Edition]]
-- [[Root Double -Before Crime ＊ After Days- Xtend Edition（ININ Games）]]
-- [[Root Double -Before Crime ＊ After Days- Xtend Edition（Sekai Games）]]
-- [[Root Double -Before Crime ＊ After Days- Yeti Best]]
-- [[Root Double -Before Crime ＊ After Days-]]
-- [[Root Double -Before Crime ＊ After Days-（Regista Co.,Ltd）]]
-- [[Root Double]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

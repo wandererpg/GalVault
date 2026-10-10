@@ -145,23 +145,9 @@ cover_image: "assets/covers/v26154.webp"
 - [[Yotsuya Cider]]（興津 和幸）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[JACKJEANNE - Download Edition]]
-- [[JACKJEANNE - Limited Edition]]
-- [[JACKJEANNE - Regular Edition]]
-- [[JACKJEANNE - Trial Edition]]
-- [[Jack Jeanne - Download Edition]]
-- [[Jack Jeanne - Download Edition（BROCCOLI Co., Ltd）]]
-- [[Jack Jeanne - Limited Bronze Edition]]
-- [[Jack Jeanne - Limited Gold Edition]]
-- [[Jack Jeanne - Limited Silver Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Jack Jeanne - Limited Univeil Collection]]
 - [[Jack Jeanne - Limited Univeil Collection]]
-- [[Jack Jeanne - Regular Edition]]
-- [[Jack Jeanne - Standard Edition]]
-- [[Jack Jeanne - Trial Edition]]
-- [[Jack Jeanne]]
-- [[Jack Jeanne（BROCCOLI Co., Ltd）]]
-- [[Jack Jeanne（DAEWONMEDIA）]]
-- [[Jack Jeanne（release：）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

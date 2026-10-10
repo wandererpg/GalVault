@@ -12,7 +12,7 @@ source_urls:
 # Xingqiwu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Wujin de Anye zhi Wu]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Animamundi ~Owarinaki Yami no Butou~ Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

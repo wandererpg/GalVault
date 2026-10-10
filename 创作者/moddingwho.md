@@ -12,8 +12,8 @@ source_urls:
 # moddingwho
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Neowa Geunyeowa Geunyeoui Sarang]]（publisher）
-- [[Neowa Geunyeowa Geunyeoui Sarang（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Ty, ja i ona： Istorija ljubvi - Steam Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

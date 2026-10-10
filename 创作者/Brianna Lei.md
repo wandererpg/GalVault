@@ -12,14 +12,8 @@ source_urls:
 # Brianna Lei
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Butterfly Soup 2 v1.04]]（developer）
-- [[Butterfly Soup 2 v1.04]]（publisher）
-- [[Butterfly Soup 2 v1.06]]（developer）
-- [[Butterfly Soup 2 v1.06]]（publisher）
-- [[Butterfly Soup 2 v1.10]]（developer）
-- [[Butterfly Soup 2 v1.10]]（publisher）
-- [[Butterfly Soup 2 v1.14]]（developer）
-- [[Butterfly Soup 2 v1.14]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Butterfly Soup 2]]（developer）
+- [[发行版/Butterfly Soup 2]]（publisher）
 - [[Butterfly Soup 2]]（developer）
 - [[Butterfly Soup 2]]（publisher）<!-- AUTO:END duty -->
 

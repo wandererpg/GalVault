@@ -12,15 +12,9 @@ source_urls:
 # Orca Layout
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Huisu Yicun - Trial Edition]]（developer）
-- [[Huisu Yicun - Trial Edition]]（publisher）
-- [[Huisu Yicun]]（developer）
-- [[Huisu Yicun]]（publisher）
-- [[Huisu Yicun（Orca Layout・release：）]]（developer）
-- [[Huisu Yicun（Orca Layout・release：）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Huisu Yicun（Orca Layout・vndb：r94）]]（developer）
+- [[发行版/Huisu Yicun（Orca Layout・vndb：r94）]]（publisher）
 - [[Huisu Yicun（Orca Layout・vndb：r94）]]（developer）
-- [[Huisu Yicun（Orca Layout）]]（developer）
-- [[Huisu Yicun（Orca Layout）]]（publisher）
 - [[回溯依存]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

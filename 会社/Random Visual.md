@@ -12,8 +12,8 @@ source_urls:
 # Random Visual
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Monster Girl Quest - Parte 2]]（publisher）
-- [[Monster Girl Quest! - Parte 1]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Monmusu Quest! Chuushou ~Makereba Youjo ni Okasareru~]]（publisher）
+- [[发行版/Monmusu Quest! Origins -Assaulted by the Vamp-]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,7 +12,7 @@ source_urls:
 # Otome Prism
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Kenka Banchou Otome Double Pack（Otome Prism）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kenka Banchou Otome Double Pack - Download Version]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

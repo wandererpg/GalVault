@@ -12,9 +12,7 @@ source_urls:
 # Daidai Inc.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Parfait - Download Edition]]（developer）
-- [[Parfait - First Press Limited Edition]]（developer）
-- [[Parfait - Regular Edition]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Parfait ~Chocolat Second Style~ Limited Edition]]（developer）
 - [[女仆咖啡帕露菲]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

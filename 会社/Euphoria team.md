@@ -12,7 +12,7 @@ source_urls:
 # Euphoria team
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Slow Damage（Euphoria team）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Slow Damage - JAST]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

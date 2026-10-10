@@ -11,20 +11,13 @@ source_urls:
 # Kadokawa Shoten
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[D.C. I & II P.S.P. ~Da Capo I & II~ Plus Situation Portable - DX Pack]]（publisher）
-- [[D.C. I & II P.S.P. ~Da Capo I & II~ Plus Situation Portable - Regular Edition]]（publisher）
-- [[D.C. II P.S. ~Da Capo II~ Plus Situation - DX Pack]]（publisher）
-- [[D.C. II P.S. ~Da Capo II~ Plus Situation - Regular Edition]]（publisher）
-- [[Fate／Stay Night ［Realta Nua］ (PlayStation2 the Best)]]（publisher）
-- [[Fate／Stay Night ［Realta Nua］ - Extra Edition]]（publisher）
-- [[Fate／Stay Night ［Realta Nua］ - Regular Edition]]（publisher）
-- [[Fuukan no Grasesta Perfect Guidebook Append Disk]]（publisher）
-- [[Scarlett ~Nichijou no Kyoukaisen~ Deluxe Pack]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/D.C. II P.C. ~Da Capo II~ Plus Communication - Regular Edition]]（publisher）
+- [[发行版/Fate／Stay Night ［Realta Nua］ - Ultimate Edition]]（publisher）
+- [[发行版/Fuukan no Grasesta Densetsu ni Utawareshi Eiketsu Kakuchou Pack - Download Edition]]（publisher）
+- [[发行版/Scarlett ~Nichijou no Kyoukaisen~ Regular Edition]]（publisher）
 - [[Scarlett ~Nichijou no Kyoukaisen~ Regular Edition]]（publisher）
-- [[Steins;Gate - Download Edition（Kadokawa Shoten）]]（publisher）
-- [[Steins;Gate - Limited Edition]]（publisher）
-- [[Steins;Gate - Regular Edition]]（publisher）
-- [[Touka Gettan ~Koufuu no Ryouou~ Deluxe Pack]]（publisher）
+- [[发行版/STEINS;GATE - Download Edition（MAGES・release：）]]（publisher）
+- [[发行版/Touka Gettan ~Koufuu no Ryouou~ Regular Edition]]（publisher）
 - [[Touka Gettan ~Koufuu no Ryouou~ Regular Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

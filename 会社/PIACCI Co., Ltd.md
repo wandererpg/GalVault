@@ -13,17 +13,11 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Ao no Kanata no Four Rhythm - Download Edition（sprite）]]（publisher）
-- [[Ao no Kanata no Four Rhythm - First Press Limited Special Edition（sprite）]]（publisher）
-- [[Ao no Kanata no Four Rhythm - Premium Edition]]（publisher）
-- [[Ao no Kanata no Four Rhythm - Regular Edition]]（publisher）
-- [[Ao no Kanata no Four Rhythm - Standard Edition]]（publisher）
-- [[Ao no Kanata no Four Rhythm HD EDITION - Download Edition]]（publisher）
-- [[Ao no Kanata no Four Rhythm HD EDITION - First Press Limited Special Edition]]（publisher）
-- [[Ao no Kanata no Four Rhythm HD EDITION - Regular Edition]]（publisher）
-- [[Kanojo ＊ Step - Limited Edition]]（publisher）
+- [[发行版/Ao no Kanata no Four Rhythm - Download Edition（sprite）]]（publisher）
+- [[发行版/Kanojo ＊ Step - Regular Edition]]（publisher）
 - [[Kanojo ＊ Step - Regular Edition]]（publisher）
-- [[Kuon no Kizuna Sairinshou -Portable-]]（publisher）
-- [[Nora to Oujo to Noraneko Heart 2（HARUKAZE）]]（publisher）
+- [[发行版/Kuon no Kizuna]]（publisher）
+- [[发行版/The Princess, the Stray Cat, and Matters of the Heart 2（Fruitbat Factory）]]（publisher）
 - [[Suigetsu ~Portable~ Best Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

@@ -12,7 +12,7 @@ source_urls:
 # Meat Oasis
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Z.A.T.O. ／ Ja ljublju mir i vsjo, chto v njom est']]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Z.A.T.O. ／／ I Love the World and Everything In It]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

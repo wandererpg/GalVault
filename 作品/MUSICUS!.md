@@ -126,27 +126,9 @@ cover_image: "assets/covers/v22783.webp"
 - [[Takahashi Hidenori]]（高橋 英則）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[MUSICA! - Trial Alpha Edition]]
-- [[MUSICA! - Trial Alpha Edition（OVERDRIVE）]]
-- [[MUSICUS! - 18+ Edition]]
-- [[MUSICUS! - 18+ Patch]]
-- [[MUSICUS! - Download Edition]]
-- [[MUSICUS! - Download Edition（OVERDRIVE・release：）]]
+<!-- AUTO:BEGIN release -->- [[发行版/MUSICUS! - Download Edition（OVERDRIVE・vndb：r97）]]
 - [[MUSICUS! - Download Edition（OVERDRIVE・vndb：r97）]]
-- [[MUSICUS! - Download Edition（OVERDRIVE）]]
-- [[MUSICUS! - Limited Edition]]
-- [[MUSICUS! - Limited Edition（OVERDRIVE）]]
-- [[MUSICUS! - R15 Edition]]
-- [[MUSICUS! - R18 Edition]]
-- [[MUSICUS! - Regular Edition]]
-- [[MUSICUS! - Regular Edition（OVERDRIVE）]]
-- [[MUSICUS! - Steam Edition]]
-- [[MUSICUS! - Trial Beta Edition]]
-- [[MUSICUS! - Trial Edition]]
-- [[MUSICUS! - Trial Edition（OVERDRIVE）]]
-- [[MUSICUS!]]
-- [[MUSICUS!（OVERDRIVE）]]
-- [[Musicus!（Team Myskrpatch）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

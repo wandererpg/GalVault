@@ -12,8 +12,8 @@ source_urls:
 # Fudeba Software
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Snatcher（Fudeba Software・release：）]]（publisher）
-- [[Snatcher（Fudeba Software）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Lüeduozhe]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

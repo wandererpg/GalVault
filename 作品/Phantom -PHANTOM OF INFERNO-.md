@@ -161,38 +161,9 @@ cover_image: "assets/covers/v45.webp"
 - [[Watanabe Akeno]]（渡辺 明乃）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Huanling -Panghuang yu Wuxian Diyu-]]
-- [[Phantom - Phantom of Inferno - Limited Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Phantom - Phantom of Inferno - Regular Edition]]
 - [[Phantom - Phantom of Inferno - Regular Edition]]
-- [[Phantom -PHANTOM OF INFERNO- - DVDPG Anniversary Sale Box Edition]]
-- [[Phantom -PHANTOM OF INFERNO- - DVDPG Regular Edition]]
-- [[Phantom -PHANTOM OF INFERNO- Trial Edition]]
-- [[Phantom -PHANTOM OF INFERNO-]]
-- [[Phantom -PHANTOM OF INFERNO-（NITRO PLUS）]]
-- [[Phantom Double Pack]]
-- [[Phantom INTEGRATION - First Press Edition]]
-- [[Phantom INTEGRATION - Regular Edition]]
-- [[Phantom INTEGRATION - Trial Edition]]
-- [[Phantom INTEGRATION HD]]
-- [[Phantom INTEGRATION Nitro The Best! Vol.1]]
-- [[Phantom INTEGRATION Nitro The Best! Vol.1（NITRO PLUS）]]
-- [[Phantom INTEGRATION — Remake Patch]]
-- [[Phantom INTEGRATION（KikaChan Games）]]
-- [[Phantom INTEGRATION（Nasha Versija）]]
-- [[Phantom INTEGRATION（release：）]]
-- [[Phantom Integration (Hirameki ver.)]]
-- [[Phantom Integration AI MTL]]
-- [[Phantom Integration W10 Patch]]
-- [[Phantom Integration]]
-- [[Phantom Integration（vndb：r85）]]
-- [[Phantom PHANTOM OF INFERNO NITRO ARCHIVE]]
-- [[Phantom of Inferno - First Press Limited Edition]]
-- [[Phantom of Inferno - Low Price Edition]]
-- [[Phantom of Inferno - Medirin Supported Edition]]
-- [[Phantom of Inferno - New Package Edition]]
-- [[Phantom of Inferno - Regular Edition]]
-- [[Phantom of Inferno]]
-- [[Phantom of Inferno（Monosoft）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

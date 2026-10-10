@@ -12,20 +12,9 @@ source_urls:
 # Kuroneko-san Team
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Solfege ~La Finale~ Download Edition]]（developer）
-- [[Solfege ~La Finale~]]（developer）
-- [[Solfege ~Overture~]]（developer）
-- [[Solfege]]（developer）
-- [[Symphonic Rain - Asia Standard Edition]]（developer）
-- [[Symphonic Rain - CD-ROM Regular Edition]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Solfege ~Sweet Harmony~ Limited Edition]]（developer）
+- [[发行版/Symphonic Rain - DVD Edition - First Press Limited Edition]]（developer）
 - [[Symphonic Rain - DVD Edition - First Press Limited Edition]]（developer）
-- [[Symphonic Rain - DVD Edition - Regular Edition]]（developer）
-- [[Symphonic Rain - Download Edition]]（developer）
-- [[Symphonic Rain - Download Edition（Kogado Studio）]]（developer）
-- [[Symphonic Rain - Limited Edition]]（developer）
-- [[Symphonic Rain - Popular Edition]]（developer）
-- [[Symphonic Rain - Standard Edition]]（developer）
-- [[Symphonic Rain - Treasure Edition]]（developer）
 - [[ソルフェージュ]]（developer）
 - [[交响乐之雨]]（developer）<!-- AUTO:END duty -->
 

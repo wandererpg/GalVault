@@ -11,13 +11,12 @@ source_urls:
 # HanabiWorks
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Gin'iro, Haruka（AceStar Traduções）]]（publisher）
-- [[Hoshi Ori Yume Mirai - Perfect Edition（HanabiWorks・release：）]]（publisher）
-- [[Hoshi Ori Yume Mirai - Perfect Edition（HanabiWorks）]]（publisher）
-- [[Sanoba Witch]]（publisher）
-- [[Summer Pockets REFLECTION BLUE（HanabiWorks）]]（publisher）
-- [[Tsukihime -A Piece of Blue Glass Moon-（HanabiWorks）]]（publisher）
-- [[White Album 2（HanabiWorks）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Gin'iro, Haruka（Tsurezure Scans）]]（publisher）
+- [[发行版/Hoshi Ori Yume Mirai - Converted Edition（tone work's）]]（publisher）
+- [[发行版/Monü de Yeyan - FHD Edition]]（publisher）
+- [[发行版/Summer Pockets REFLECTION BLUE - First Press Limited Edition]]（publisher）
+- [[发行版/Tsukihime -A piece of blue glass moon- Digital Deluxe Edition]]（publisher）
+- [[发行版/WHITE ALBUM2 EXTENDED EDITION（Leaf・release：）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

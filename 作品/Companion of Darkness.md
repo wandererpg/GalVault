@@ -115,9 +115,7 @@ cover_image: "assets/covers/v45742.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Companion of Darkness Ch.1-12.5]]
-- [[Companion of Darkness Ch.7]]
-- [[Companion of Darkness： Season 1 Ch. 9]]
+<!-- AUTO:BEGIN release -->- [[发行版/Companion of Darkness： Season 2 Ch. 12.5]]
 - [[Companion of Darkness： Season 2 Ch. 12.5]]<!-- AUTO:END release -->
 
 ## 动画化

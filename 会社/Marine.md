@@ -13,7 +13,7 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Paizuri ♥ Fiancee ＂Bocchama, Kyou wa Dono Oppai o Meshiagarimasu ka？＂ - Download Edition]]（developer）
-- [[Paizuri ♥ Fiancee ＂Bocchama, Kyou wa Dono Oppai o Meshiagarimasu ka？＂ - Package Edition]]（developer）
+- [[发行版/Paizuri ♥ Fiancee ＂Bocchama, Kyou wa Dono Oppai o Meshiagarimasu ka？＂ - Download Edition]]（developer）
 - [[ぱいずり♥フィアンセ 「坊ちゃま、今日はどのおっぱいを召し上がりますか？」]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

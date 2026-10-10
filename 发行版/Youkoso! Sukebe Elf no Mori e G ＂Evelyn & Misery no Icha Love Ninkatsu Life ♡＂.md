@@ -1,16 +1,44 @@
 ---
-entity_id: "release:vndb:r159812:work:vndb:work:v60604"
-type: "release"
-display_title: "Youkoso! Sukebe Elf no Mori e G \"Evelyn & Misery no Icha Love Ninkatsu Life ♡\""
-release_date: "2026-06-30"
+entity_id: release:vndb:r159812:work:vndb:work:v60604
+type: release
+display_title: Youkoso! Sukebe Elf no Mori e G "Evelyn & Misery no Icha Love Ninkatsu Life ♡"
+release_date: '2026-06-30'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r159812"
+  vndb: r159812
 source_urls:
-  vndb: "https://vndb.org/r159812"
+  vndb: https://vndb.org/r159812
+aliases:
+- Youkoso! Sukebe Elf no Mori e G ＂Evelyn & Misery no Icha Love Ninkatsu Life ♡＂ Download Edition
+- Youkoso! Sukebe Elf no Mori e G ＂Evelyn & Misery no Icha Love Ninkatsu Life ♡＂ Limited Deluxe Edition w／ Dakimakura Cover
+  by Aoi Nagisa（Lune）
+consolidated_releases:
+- id: r159812
+  title: Youkoso! Sukebe Elf no Mori e G "Evelyn & Misery no Icha Love Ninkatsu Life ♡"
+  url: https://vndb.org/r159812
+  release_date: '2026-06-30'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r145061
+  title: Youkoso! Sukebe Elf no Mori e G "Evelyn & Misery no Icha Love Ninkatsu Life ♡" Limited Deluxe Edition w/ Dakimakura
+    Cover by Aoi Nagisa
+  url: https://vndb.org/r145061
+  release_date: '2026-03-27'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r147950
+  title: Youkoso! Sukebe Elf no Mori e G "Evelyn & Misery no Icha Love Ninkatsu Life ♡" Download Edition
+  url: https://vndb.org/r147950
+  release_date: '2026-03-27'
+  platform: win, web
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Youkoso! Sukebe Elf no Mori e G "Evelyn & Misery no Icha Love Ninkatsu Life ♡"

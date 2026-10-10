@@ -107,17 +107,9 @@ cover_image: "assets/covers/v432.webp"
 - [[Shimazaki Hiro]]（桜塚 瞬一）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Lamento -BEYOND THE VOID- CD-ROM First Press Limited Edition]]
-- [[Lamento -BEYOND THE VOID- DVD-ROM First Press Limited Edition]]
-- [[Lamento -BEYOND THE VOID- DVD-ROM Regular Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Lamento -BEYOND THE VOID- Windows 10 Support Edition - Download Edition]]
 - [[Lamento -BEYOND THE VOID- Windows 10 Support Edition - Download Edition]]
-- [[Lamento -BEYOND THE VOID- Windows 10 Support Edition]]
-- [[Lamento -BEYOND THE VOID-（vndb：r13）]]
-- [[Lamento -Beyond the Void-]]
-- [[Lamento -Beyond the Void-（Sukinime）]]
-- [[Lamento -Beyond the Void-（Tuidao meinan youxi hanhuazu）]]
-- [[Lamento -Beyond the Void-（release：）]]
-- [[Lamento win 10]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

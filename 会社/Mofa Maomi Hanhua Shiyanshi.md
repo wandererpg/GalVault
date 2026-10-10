@@ -12,8 +12,8 @@ source_urls:
 # Mofa Maomi Hanhua Shiyanshi
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Qiao Ke Tian Lian 3]]（publisher）
-- [[Yi Chu Ji Fa]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Amairo Chocolata 1, 2, 3 Complete Pack - Dakimakura Included Limited Edition]]（publisher）
+- [[发行版/Unravel trigger - Deluxe Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

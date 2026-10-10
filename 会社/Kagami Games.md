@@ -12,13 +12,10 @@ source_urls:
 # Kagami Games
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[HimaNatsu： Of Churches, Sunflowers, and Long Summers - Censored Edition]]（publisher）
-- [[HimaNatsu： Of Churches, Sunflowers, and Long Summers]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Himawari no Kyoukai to Nagai Natsuyasumi -extra vacation- First Press Limited Edition（Kero Makura）]]（publisher）
 - [[Inganock of the Raging Flame： What a Beautiful People - Censored Edition]]（publisher）
-- [[Inganock of the Raging Flame： What a Beautiful People]]（publisher）
-- [[Sakura, Moyu. -as the Night's, Reincarnation-（Kagami Games・release：）]]（publisher）
-- [[Sakura, Moyu. -as the Night's, Reincarnation-（Kagami Games）]]（publisher）
-- [[Yinghua, Mengfang. -as the Night's, Reincarnation-]]（publisher）
+- [[发行版/Inganock of the Raging Flame： What a Beautiful People - Censored Edition]]（publisher）
+- [[发行版/Yinghua, Mengfang. -as the Night's, Reincarnation-（Syawase Works）]]（publisher）
 - [[Yinghua, Mengfang. -as the Night's, Reincarnation-（Syawase Works）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

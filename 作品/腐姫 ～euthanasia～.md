@@ -82,13 +82,9 @@ cover_image: "assets/covers/v37.webp"
 - [[Takaoka Masato]]（高岡 政人）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Fuji ~Euthanasia~]]
+<!-- AUTO:BEGIN release -->- [[发行版/Kusarihime ~Euthanasia~ Download Edition]]
 - [[Kusarihime ~Euthanasia~ Download Edition]]
-- [[Kusarihime ~Euthanasia~]]
-- [[Kusarihime ~Euthanasia~（Liar-soft）]]
-- [[Liar-soft Selection 01 - Kusarihime ~Euthanasia~]]
-- [[Princessa porchi： Evtanazija (Demo)]]
-- [[The Rotting Princess ~Euthanasia~]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -12,14 +12,9 @@ source_urls:
 # iMel Inc.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[ATRI -My Dear Moments-（Makura・release：）]]（publisher）
-- [[ATRI -My Dear Moments-（Makura・vndb：r85）]]（publisher）
-- [[ATRI -My Dear Moments-（Makura）]]（publisher）
-- [[Hamidashi Creative - Limited  Edition]]（publisher）
-- [[Hamidashi Creative - Limited Edition]]（publisher）
-- [[Hamidashi Creative - Regular Edition]]（publisher）
-- [[Hamidashi Creative - Regular Edition（Madosoft）]]（publisher）
-- [[Tanetsumi no Uta - Demo]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/ATRI -My Dear Moments- Original Soundtrack - First Press Limited Edition]]（publisher）
+- [[发行版/Changgui Tuoli Creative - Censored Edition]]（publisher）
+- [[发行版/Tanetsumi no Uta]]（developer）
 - [[Tanetsumi no Uta]]（developer）
 - [[播种之谣]]（developer）<!-- AUTO:END duty -->
 

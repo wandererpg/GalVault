@@ -100,22 +100,9 @@ cover_image: "assets/covers/v1913.webp"
 - [[Zen]]（ZEN）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[BALDR MASTERPIECE CHRONICLE - Resale Edition（GIGA・vndb：r98）]]
-- [[BALDR MASTERPIECE CHRONICLE（GIGA・vndb：r53）]]
-- [[BALDR SKY Dive2 ＂RECORDARE＂]]
-- [[Baldr Sky 18+ Restoration Patch（Baldr Sky Hanhuazu・release：）]]
-- [[Baldr Sky 18+ Restoration Patch（Shadowwolf）]]
-- [[Baldr Sky Dive1+2 - Limited Edition（GIGA）]]
-- [[Baldr Sky Dive2 - Limited Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Baldr Sky Dive2 ＂Recordare＂ - First Press Edition]]
 - [[Baldr Sky Dive2 ＂Recordare＂ - First Press Edition]]
-- [[Baldr Sky Dive2 ＂Recordare＂ - Renewal Edition]]
-- [[Baldr Sky Re.price Dive1&2（GIGA）]]
-- [[Baldr Sky Re.price Dive2 ＂Recordare＂]]
-- [[Baldr Sky Re.price DiveDX（GIGA）]]
-- [[Baldr Sky（Baldr Sky Hanhuazu・release：）]]
-- [[Baldr Sky（Sekai Project・release：）]]
-- [[Baldr Sky（Team Myskrpatch・release：）]]
-- [[Baldr Sky（release：）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

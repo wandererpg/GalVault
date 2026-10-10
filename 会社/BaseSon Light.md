@@ -14,10 +14,8 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Kimihane Couples ~Kanojo to Kanojo no Koi Suru Nikagetsu Chotto~ Download Edition]]（developer）
 - [[Kimihane Couples ~Kanojo to Kanojo no Koi Suru Nikagetsu Chotto~ Download Edition]]（publisher）
-- [[Kimihane Couples ~Kanojo to Kanojo no Koi Suru Nikagetsu Chotto~ Package Edition]]（developer）
-- [[Kimihane Couples ~Kanojo to Kanojo no Koi Suru Nikagetsu Chotto~ Package Edition]]（publisher）
-- [[Kimihane Couples ~Kanojo to Kanojo no Koi Suru Nikagetsu Chotto~ Trial Edition]]（developer）
-- [[Kimihane Couples ~Kanojo to Kanojo no Koi Suru Nikagetsu Chotto~ Trial Edition]]（publisher）
+- [[发行版/Kimihane Couples ~Kanojo to Kanojo no Koi Suru Nikagetsu Chotto~ Download Edition]]（developer）
+- [[发行版/Kimihane Couples ~Kanojo to Kanojo no Koi Suru Nikagetsu Chotto~ Download Edition]]（publisher）
 - [[君羽Couples ～她和她相恋的两个月多一点～]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

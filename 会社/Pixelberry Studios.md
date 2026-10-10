@@ -12,10 +12,8 @@ source_urls:
 # Pixelberry Studios
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Endless Summer, Book 1]]（developer）
-- [[Endless Summer, Book 1]]（publisher）
-- [[Endless Summer, Book 2]]（developer）
-- [[Endless Summer, Book 2]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Endless Summer, Book 3]]（developer）
+- [[发行版/Endless Summer, Book 3]]（publisher）
 - [[Endless Summer, Book 3]]（developer）
 - [[Endless Summer, Book 3]]（publisher）
 - [[Endless Summer]]（developer）<!-- AUTO:END duty -->

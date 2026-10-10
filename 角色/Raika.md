@@ -30,14 +30,9 @@ portrait_image: "assets/characters/c111170.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Shinkyoku Soukai Polyphonica - Episode 1]]（side）
-- [[Shinkyoku Soukai Polyphonica - Episode 2]]（side）
-- [[Shinkyoku Soukai Polyphonica - Episodes 1 & 2 BOX]]（side）
-- [[Shinkyoku Soukai Polyphonica - Episodes 1 & 2 Taidou Hen]]（side）
-- [[Shinkyoku Soukai Polyphonica Episodes 0~4 Full Pack]]（side）
-- [[Shinkyoku Soukai Polyphonica Episodes 0~4 Full Pack（ocelot）]]（side）
+<!-- AUTO:BEGIN character -->- [[发行版/Shinkyoku Soukai Polyphonica First Chapter]]（side）
 - [[Shinkyoku Soukai Polyphonica First Chapter]]（side）
-- [[Shinkyoku Soukai Polyphonica]]（side）<!-- AUTO:END character -->
+<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Sasaki Akari]]（声优：佐々木 あかり）<!-- AUTO:END voice -->

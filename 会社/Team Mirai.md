@@ -12,8 +12,8 @@ source_urls:
 # Team Mirai
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Dangan Ronpa Kibou no Gakuen to Zetsubou no Koukousei]]（publisher）
-- [[Danganronpa 2： Goodbye Despair - Steam Edition]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Danganronpa Decadence - EU Package Edition（Numskull Games Ltd）]]（publisher）
+- [[发行版/Danganronpa Decadence - EU Package Edition（Numskull Games Ltd・release：）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

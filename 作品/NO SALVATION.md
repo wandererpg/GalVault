@@ -50,10 +50,8 @@ cover_image: "assets/covers/v34509.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[NO SALVATION]]
-- [[NO SALVATION（release：）]]
-- [[NO SALVATION（vndb：r13）]]
-- [[NO SALVATION（vndb：r14）]]
-- [[NO SALVATION（vndb：r88）]]<!-- AUTO:END release -->
+- [[发行版/NO SALVATION]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

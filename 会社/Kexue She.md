@@ -11,13 +11,11 @@ source_urls:
 # Kexue She
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Hundun zhi Nao： Nuoya]]（publisher）
-- [[Hundun zhi Nao： Nuoya（Kexue She）]]（publisher）
-- [[Hundun zhi Zi（Kexue She）]]（publisher）
-- [[Mingyun Shi zhi Men STEAM Complete Translation Patch]]（publisher）
-- [[Mingyunshi zhi Men 0 PC]]（publisher）
-- [[Mingyunshi zhi Men 0]]（publisher）
-- [[Mingyunshi zhi Men 0（Kexue She）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Chaos;Head Noah - Regular Edition]]（publisher）
+- [[发行版/Hundun zhi Zi - Package Edition（MAGES）]]（publisher）
+- [[发行版/STEINS;GATE - Download Edition（MAGES・release：）]]（publisher）
+- [[发行版/Steins;Gate 0 - Limited Deluxe Package Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

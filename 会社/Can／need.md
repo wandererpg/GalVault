@@ -12,9 +12,9 @@ source_urls:
 # Can/need
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ci Yuan Tu Po Lian Zhan Ji!!]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Dimension Totsu Lovers!! - Download Preorder Limited Deluxe Edition]]（publisher）
 - [[Ju Guang Ning Shui Sui Xiang Qu]]（publisher）
-- [[Tian Mi Nv You 3]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Amakano 3（Angkringan Visual Novel）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

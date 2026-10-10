@@ -14,10 +14,8 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Himawari Aqua After - The Day the Moon Stood Still（Blank Note）]]（developer）
 - [[Himawari Aqua After - The Day the Moon Stood Still（Blank Note）]]（publisher）
-- [[Himawari Aqua After]]（developer）
-- [[Himawari Aqua After]]（publisher）
-- [[Himawari Aqua After（Blank Note）]]（developer）
-- [[Himawari Aqua After（Blank Note）]]（publisher）
+- [[发行版/Himawari Aqua After - The Day the Moon Stood Still（Blank Note）]]（developer）
+- [[发行版/Himawari Aqua After - The Day the Moon Stood Still（Blank Note）]]（publisher）
 - [[向日葵 Aqua After]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

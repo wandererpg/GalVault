@@ -12,13 +12,9 @@ source_urls:
 # Jinsei Tsuukoudome
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Kotoneiro - Acrylic Figure Included]]（developer）
-- [[Kotoneiro - Acrylic Figure Included]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Kotoneiro - DVDPG]]（developer）
+- [[发行版/Kotoneiro - DVDPG]]（publisher）
 - [[Kotoneiro - DVDPG]]（developer）
-- [[Kotoneiro - Regular Edition]]（developer）
-- [[Kotoneiro - Regular Edition]]（publisher）
-- [[Kotoneiro（release：）]]（developer）
-- [[Kotoneiro（release：）]]（publisher）
 - [[コトネイロ]]（developer）<!-- AUTO:END duty -->
 
 ## 创作与出演

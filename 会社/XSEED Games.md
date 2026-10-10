@@ -12,10 +12,8 @@ source_urls:
 # XSEED Games
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[The Hundred Line -Last Defense Academy- - Digital Deluxe Edition]]（publisher）
-- [[The Hundred Line -Last Defense Academy- - Digital Standard Edition]]（publisher）
-- [[The Hundred Line -Last Defense Academy- - Standard Edition]]（publisher）
-- [[The Hundred Line -Last Defense Academy- Limited Edition]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Bairi Zhanji -Zuizhong Fangwei Xueyuan-]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

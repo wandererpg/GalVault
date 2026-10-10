@@ -12,7 +12,7 @@ source_urls:
 # Zehiro Translations
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Sanoba Witch（Zehiro Translations）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Monü de Yeyan - FHD Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

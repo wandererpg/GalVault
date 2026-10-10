@@ -12,18 +12,11 @@ source_urls:
 # Hora-Cherry& Akira's fist
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[DRAMAtical Murder - JAST USA]]（publisher）
-- [[DRAMAtical Murder - Popular Edition(Download)]]（publisher）
-- [[DRAMAtical Murder - Popular Edition(Package)]]（publisher）
-- [[DRAMAtical Murder - Steam]]（publisher）
-- [[LUCKYDOG1（Hora-Cherry& Akira's fist）]]（publisher）
-- [[Slow Damage (Jast)]]（publisher）
-- [[Slow Damage - Popular Edition - DL Edition（Hora-Cherry& Akira's fist）]]（publisher）
-- [[Slow Damage（Hora-Cherry& Akira's fist）]]（publisher）
-- [[sweet pool - Jast（Hora-Cherry& Akira's fist）]]（publisher）
-- [[sweet pool - Steam+JastDLC]]（publisher）
-- [[sweet pool - Steam（Hora-Cherry& Akira's fist）]]（publisher）
-- [[sweet pool Remaster（Hora-Cherry& Akira's fist）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/DRAMAtical Murder re：code - Regular Edition]]（publisher）
+- [[发行版/Luckydog1 - Download Edition（PROTOTYPE）]]（publisher）
+- [[发行版/Slow Damage - JAST]]（publisher）
+- [[发行版/sweet pool Remaster]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

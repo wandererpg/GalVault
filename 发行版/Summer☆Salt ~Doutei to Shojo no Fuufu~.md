@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r70216:work:vndb:work:v28123"
-type: "release"
-display_title: "Summer☆Salt ~Doutei to Shojo no Fuufu~"
-release_date: "2020-08-11"
+entity_id: release:vndb:r70216:work:vndb:work:v28123
+type: release
+display_title: Summer☆Salt ~Doutei to Shojo no Fuufu~
+release_date: '2020-08-11'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r70216"
+  vndb: r70216
 source_urls:
-  vndb: "https://vndb.org/r70216"
+  vndb: https://vndb.org/r70216
+aliases:
+- Summer☆Salt - Complete Edition
+- Summer☆Salt ~Doutei to Shojo no Fuufu~ Preliminary Edition
+consolidated_releases:
+- id: r70216
+  title: Summer☆Salt ~Doutei to Shojo no Fuufu~
+  url: https://vndb.org/r70216
+  release_date: '2020-08-11'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r73957
+  title: Summer☆Salt - Complete Edition
+  url: https://vndb.org/r73957
+  release_date: '2020-10-23'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r72915
+  title: Summer☆Salt ~Doutei to Shojo no Fuufu~ Preliminary Edition
+  url: https://vndb.org/r72915
+  release_date: '2020-07-04'
+  platform: win
+  edition_type: partial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Summer☆Salt ~Doutei to Shojo no Fuufu~

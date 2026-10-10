@@ -12,30 +12,13 @@ source_urls:
 # DojinOtome
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Amaenbo & Amaenbo+ Double Pack (Main Story + Append Edition)]]（developer）
-- [[Amaenbo & Amaenbo+ Double Pack (Main Story + Append Edition)]]（publisher）
-- [[Amaenbo - Android Edition]]（developer）
-- [[Amaenbo - Android Edition]]（publisher）
-- [[Amaenbo - Censored Steam Edition]]（developer）
-- [[Amaenbo - Trial Edition]]（developer）
-- [[Amaenbo - Trial Edition]]（publisher）
-- [[Amaenbo Fuyu - Android Edition]]（developer）
-- [[Amaenbo Fuyu - Android Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Amaenbo+ - Expansion DLC - Censored Steam Edition]]（developer）
+- [[发行版/Amaenbo+ - Expansion DLC - Censored Steam Edition]]（publisher）
+- [[发行版/Amaenbo Fuyu - Download Edition]]（developer）
+- [[发行版/Amaenbo Fuyu - Download Edition]]（publisher）
 - [[Amaenbo Fuyu - Download Edition]]（developer）
 - [[Amaenbo Fuyu - Download Edition]]（publisher）
-- [[Amaenbo Fuyu - Package Edition]]（developer）
-- [[Amaenbo Fuyu - Package Edition]]（publisher）
-- [[Amaenbo ~Sei o Osaekirenai Boku to Mushou no Oyako~]]（developer）
-- [[Amaenbo ~Sei o Osaekirenai Boku to Mushou no Oyako~]]（publisher）
-- [[Amaenbo+ (Append)]]（developer）
-- [[Amaenbo+ (Append)]]（publisher）
 - [[Amaenbo+ - Expansion DLC - Censored Steam Edition]]（developer）
-- [[Amaenbo+ Appended - Android／Smartphone Play Edition]]（developer）
-- [[Amaenbo+ Appended - Android／Smartphone Play Edition]]（publisher）
-- [[Summer Memories - Censored Deluxe Edition]]（developer）
-- [[Summer Memories Deluxe Edition - 18+ Patch]]（developer）
-- [[Summer Memories+ - Expansion DLC]]（developer）
-- [[Summer Memories]]（developer）
 - [[冬日狂想曲]]（developer）
 - [[夏日狂想曲：乡间的难忘回忆]]（developer）<!-- AUTO:END duty -->
 

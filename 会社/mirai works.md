@@ -12,14 +12,9 @@ source_urls:
 # mirai works
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Christmas Tina -Utakata Toukei- Trial Edition]]（publisher）
-- [[Christmas Tina -Utakata Toukei-]]（publisher）
-- [[Christmas Tina -Utakata Toukei-（mirai works・release：）]]（publisher）
-- [[Christmas Tina -Utakata Toukei-（mirai works・vndb：r81）]]（publisher）
-- [[Christmas Tina -Utakata Toukei-（mirai works）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Paomo Dong Jing： Heping Moshi Lu]]（publisher）
 - [[Paomo Dong Jing： Heping Moshi Lu]]（publisher）
-- [[Paomo Dong Jing： Ying-se Lingluo & Jingse Xiaoran]]（publisher）
-- [[Utakata Toukei ： Sakura Iro Reiraku & Keshiki Shouzen]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

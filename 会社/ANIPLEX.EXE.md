@@ -12,17 +12,13 @@ source_urls:
 # ANIPLEX.EXE
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[ATRI -My Dear Moments- Demo]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/ATRI -My Dear Moments- Original Soundtrack - First Press Limited Edition]]（publisher）
 - [[ATRI -My Dear Moments- Original Soundtrack - First Press Limited Edition]]（publisher）
-- [[ATRI -My Dear Moments-（ANIPLEX.EXE）]]（publisher）
-- [[Hirahira Hihiru - Trial Edition]]（publisher）
+- [[发行版/Hirahira Hihiru（ANIPLEX.EXE）]]（publisher）
 - [[Hirahira Hihiru（ANIPLEX.EXE）]]（publisher）
-- [[Tanetsumi no Uta - Demo]]（publisher）
-- [[Tanetsumi no Uta - Trial Version]]（publisher）
+- [[发行版/Tanetsumi no Uta]]（publisher）
 - [[Tanetsumi no Uta]]（publisher）
-- [[Tanetsumi no Uta（ANIPLEX.EXE・release：）]]（publisher）
-- [[Tanetsumi no Uta（ANIPLEX.EXE・vndb：r14）]]（publisher）
-- [[Tanetsumi no Uta（ANIPLEX.EXE）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

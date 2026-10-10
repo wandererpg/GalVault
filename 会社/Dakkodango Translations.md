@@ -12,11 +12,9 @@ source_urls:
 # Dakkodango Translations
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Aselia the Eternal - Download Edition]]（publisher）
-- [[Aselia the Eternal - Download Edition（JAST Densetsu）]]（publisher）
-- [[Aselia the Eternal - Package Edition]]（publisher）
-- [[Aselia the Eternal - Package Edition（JAST Densetsu）]]（publisher）
-- [[Aselia the Eternal ／ Eien no Aselia (CG Uncensorer)]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Eien no Aselia -The Spirit of Eternity Sword- Premium Special Edition + Seinarukana -The Spirit of Eternity Sword 2- Special Edition W Set]]（publisher）
+- [[发行版/Eien no Aselia Expansion -The Spirit of Eternity Sword- Download Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -41,9 +41,7 @@ cover_image: "assets/covers/v5633.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Phoenix Wright： Ace Attorney - The Contempt of Court： Chapter 1 - Turnabout Scapegoat]]
-- [[Phoenix Wright： Ace Attorney - The Contempt of Court： Chapter 2 - The Haunted Turnabout]]
-- [[Phoenix Wright： Ace Attorney - The Contempt of Court： Chapter 3 - Turnabout of the Snow]]
+<!-- AUTO:BEGIN release -->- [[发行版/Phoenix Wright： Ace Attorney - The Contempt of Court： Chapter 4 - The Ensnared Turnabout]]
 - [[Phoenix Wright： Ace Attorney - The Contempt of Court： Chapter 4 - The Ensnared Turnabout]]<!-- AUTO:END release -->
 
 ## 动画化

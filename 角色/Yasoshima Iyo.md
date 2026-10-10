@@ -30,11 +30,7 @@ portrait_image: "assets/characters/c47028.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Tsuki ni Yorisou Otome no Sahou - Append Disk - Download Edition]]（side）
-- [[Tsuki ni Yorisou Otome no Sahou - Append Disk]]（side）
-- [[Tsuki ni Yorisou Otome no Sahou - Complete Box]]（side）
-- [[Tsuki ni Yorisou Otome no Sahou -Full Voice Edition-]]（side）
-- [[Tsuki ni Yorisou Otome no Sahou -Limited Edition-]]（side）
+<!-- AUTO:BEGIN character -->- [[发行版/Tsuki ni Yorisou Otome no Sahou ~Hidamari no Hibi~ Smartphone Edition]]（side）
 - [[少女理论及其周边 -École de Paris-]]（side）
 - [[近月少女的礼仪2]]（side）<!-- AUTO:END character -->
 

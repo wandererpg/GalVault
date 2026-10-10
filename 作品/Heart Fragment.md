@@ -101,11 +101,9 @@ cover_image: "assets/covers/v27919.webp"
 - [[Yenni Ann]]（Yenni Ann）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Heart Fragment - Book 20XX： Finale]]
+<!-- AUTO:BEGIN release -->- [[发行版/Heart Fragment - Book One： Fantasy Fragments]]
 - [[Heart Fragment - Book One： Fantasy Fragments]]
-- [[Heart Fragment - Book Three： Despair Fragments]]
-- [[Heart Fragment - Book Two： Belief Fragments]]
-- [[Heart Fragment Demo]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

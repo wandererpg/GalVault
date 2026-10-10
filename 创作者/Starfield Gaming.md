@@ -12,16 +12,10 @@ source_urls:
 # Starfield Gaming
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Heart Fragment - Book 20XX： Finale]]（developer）
-- [[Heart Fragment - Book 20XX： Finale]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Heart Fragment - Book One： Fantasy Fragments]]（developer）
+- [[发行版/Heart Fragment - Book One： Fantasy Fragments]]（publisher）
 - [[Heart Fragment - Book One： Fantasy Fragments]]（developer）
 - [[Heart Fragment - Book One： Fantasy Fragments]]（publisher）
-- [[Heart Fragment - Book Three： Despair Fragments]]（developer）
-- [[Heart Fragment - Book Three： Despair Fragments]]（publisher）
-- [[Heart Fragment - Book Two： Belief Fragments]]（developer）
-- [[Heart Fragment - Book Two： Belief Fragments]]（publisher）
-- [[Heart Fragment Demo]]（developer）
-- [[Heart Fragment Demo]]（publisher）
 - [[Heart Fragment]]（developer）<!-- AUTO:END duty -->
 
 ## 创作与出演

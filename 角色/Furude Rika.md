@@ -32,8 +32,7 @@ portrait_image: "assets/characters/c3790.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Meakashi Hen（07th Expansion）]]（primary）
-- [[Tsumihoroboshi Hen（07th Expansion）]]（primary）
+<!-- AUTO:BEGIN character -->- [[发行版/Matsuribayashi Hen（07th Expansion）]]（primary）
 - [[ひぐらしのなく頃に： Console Arcs]]（protagonist）
 - [[寒蝉鸣泣之时 出题篇]]（primary）
 - [[寒蝉鸣泣之时解]]（protagonist）<!-- AUTO:END character -->

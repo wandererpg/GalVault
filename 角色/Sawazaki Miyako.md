@@ -32,9 +32,9 @@ portrait_image: "assets/characters/c10328.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Parfait ~Chocolat Second Brew~ Standard Edition]]（side）
+<!-- AUTO:BEGIN character -->- [[发行版/Parfait ~Chocolat Second Style~ Limited Edition]]（side）
 - [[Parfait ~Chocolat Second Style~ Limited Edition]]（side）
-- [[Parfait ~Chocolat Second Style~ Regular Edition]]（side）<!-- AUTO:END character -->
+<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Inoue Nana]]（声优：井ノ上 奈々）<!-- AUTO:END voice -->

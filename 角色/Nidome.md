@@ -31,7 +31,7 @@ portrait_image: "assets/characters/c157043.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[MAMIYA - DoomsDay Dreams-]]（side）<!-- AUTO:END character -->
+<!-- AUTO:BEGIN character -->- [[发行版/Sekai Metsubou Kyouyuu Gensou MAMIYA - Download Edition]]（side）<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Nakamura Kaiki]]（声优：中村 海暉）<!-- AUTO:END voice -->

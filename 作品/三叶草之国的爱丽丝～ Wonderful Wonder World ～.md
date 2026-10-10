@@ -71,15 +71,9 @@ cover_image: "assets/covers/v802.webp"
 - [[Noriyuki]]（杉山 紀彰）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Clover no Kuni no Alice ~Wonderful Wonder World~ Deluxe Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Clover no Kuni no Alice ~Wonderful Wonder World~]]
 - [[Clover no Kuni no Alice ~Wonderful Wonder World~]]
-- [[Clover no Kuni no Alice ~Wonderful Wonder World~（Märchen Translations）]]
-- [[Clover no Kuni no Alice ~Wonderful Wonder World~（QuinRose・release：）]]
-- [[Clover no Kuni no Alice ~Wonderful Wonder World~（QuinRose）]]
-- [[Sanyecao zhi Guo de Ailisi ~Wonderful Wonder World~]]
-- [[Shinsouban Clover no Kuni no Alice ~Wonderful Wonder World~ Deluxe Edition]]
-- [[Shinsouban Clover no Kuni no Alice ~Wonderful Wonder World~ Download Edition]]
-- [[Shinsouban Clover no Kuni no Alice ~Wonderful Wonder World~ Regular Edition]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

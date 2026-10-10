@@ -12,7 +12,7 @@ source_urls:
 # Studio Daoluong
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[White clover summer]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Shirotsume Souwa -Episode of the Clovers- First Press Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

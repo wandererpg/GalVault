@@ -12,8 +12,8 @@ source_urls:
 # RuDant
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Danzai no Maria -The Exorcism of Maria-]]（publisher）
-- [[Psihodelika chjornoj babochki]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Danzai no Maria -The Exorcism of Maria- Complete Edition - Download Edition]]（publisher）
+- [[发行版/Geomeun Nabiui Psychedelica（Idea Factory Co., Ltd）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

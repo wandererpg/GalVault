@@ -11,8 +11,8 @@ source_urls:
 # MMR Liuxuan Dao Diaochadui
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Haimao Mingqi zhi Shi San（MMR Liuxuan Dao Diaochadui）]]（publisher）
-- [[Haimao Mingqi zhi Shi]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Umineko no Naku Koro ni Chiru - Episode 8 - Twilight of the Golden Witch]]（publisher）
+- [[发行版/Umineko no Naku Koro ni - Episode 4 - Alliance of the Golden Witch]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,29 +12,9 @@ source_urls:
 # Chou Suidou
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[ghostpia - Episode 1 'Youkoso Koko e Kono Machi e']]（developer）
-- [[ghostpia - Episode 1 'Youkoso Koko e Kono Machi e']]（publisher）
-- [[ghostpia - Episode 1.33333 'Yukute no Tochuu no Michisugara']]（developer）
-- [[ghostpia - Episode 1.33333 'Yukute no Tochuu no Michisugara']]（publisher）
-- [[ghostpia - Episode 2 'Na mo Naki Nanashi no Otanjoubi']]（developer）
-- [[ghostpia - Episode 2 'Na mo Naki Nanashi no Otanjoubi']]（publisher）
-- [[ghostpia - Episode 2.3333 'Hataraku Shigoto ga Mitsukaranai']]（developer）
-- [[ghostpia - Episode 2.3333 'Hataraku Shigoto ga Mitsukaranai']]（publisher）
-- [[ghostpia - Episode 3 'Hataraku Shigoto o Mitsukeru Hi']]（developer）
-- [[ghostpia - Episode 3 'Hataraku Shigoto o Mitsukeru Hi']]（publisher）
-- [[ghostpia - Episode 4 'Ano Ko to Issho de Hitori no Hi']]（developer）
-- [[ghostpia - Episode 4 'Ano Ko to Issho de Hitori no Hi']]（publisher）
-- [[ghostpia - Season One - Demo]]（developer）
-- [[ghostpia - Season One]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/ghostpia - Season One（Chou Suidou・release：）]]（developer）
+- [[发行版/ghostpia - Season One（Chou Suidou・release：）]]（publisher）
 - [[ghostpia - Season One（Chou Suidou・release：）]]（developer）
-- [[ghostpia - Season One（Chou Suidou）]]（developer）
-- [[ghostpia - Season Two]]（developer）
-- [[ghostpia - Trial Edition]]（developer）
-- [[ghostpia - Trial Edition]]（publisher）
-- [[ghostpia Season One]]（developer）
-- [[ghostpia Season One（Chou Suidou）]]（developer）
-- [[ghostpia]]（developer）
-- [[ghostpia]]（publisher）
 - [[幽灵镇少女]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

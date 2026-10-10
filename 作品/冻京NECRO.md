@@ -150,23 +150,9 @@ cover_image: "assets/covers/v13666.webp"
 - [[Yuzuhara Miu]]（柚原 みう）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Tokyo NECRO - All Ages Edition]]
-- [[Tokyo NECRO - First Production Limited Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Tokyo NECRO - Popular Edition - Download Edition - All Ages Edition]]
 - [[Tokyo NECRO - Popular Edition - Download Edition - All Ages Edition]]
-- [[Tokyo NECRO - Popular Edition - Download Edition]]
-- [[Tokyo NECRO - Popular Edition - Package Edition]]
-- [[Tokyo NECRO - Regular Edition - Download Edition]]
-- [[Tokyo NECRO - Regular Edition - Package Edition]]
-- [[Tokyo NECRO - Trial Edition]]
-- [[Tokyo Necro - 18+ Patch]]
-- [[Tokyo Necro - Censored Edition]]
-- [[Tokyo Necro - Collector's Edition]]
-- [[Tokyo Necro - Mosaic Restoration Patch]]
-- [[Tokyo Necro - R15 Restoration Patch]]
-- [[Tokyo Necro]]
-- [[Tokyo Necro（JAST USA）]]
-- [[Tokyo Necro（Moshi Youxi Zhongwenhua Xingqu Xiaozu）]]
-- [[Tokyo Necro（release：）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

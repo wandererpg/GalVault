@@ -12,7 +12,7 @@ source_urls:
 # Mengyang Bayue Tonghaohui
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Datushuguan de Muyangren - Dreaming Sheep]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Daitoshokan no Hitsujikai -Library Party- Download Edition（ARIA・release：）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

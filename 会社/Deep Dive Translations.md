@@ -12,7 +12,7 @@ source_urls:
 # Deep Dive Translations
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Zero Escape： Virtue's Last Reward Demo（All-Ice Team）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kyokugen Dasshutsu ADV Zennin Shibou Desu - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

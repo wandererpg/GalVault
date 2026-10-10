@@ -12,8 +12,8 @@ source_urls:
 # The Policenauts Translation Project
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Policenauts]]（publisher）
-- [[Policenauts（The Policenauts Translation Project）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Policenauts： PSone Books]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

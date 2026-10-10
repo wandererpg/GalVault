@@ -95,15 +95,9 @@ cover_image: "assets/covers/v32797.webp"
 - [[Toki Shun'ichi]]（春 男児）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Deep One - Limited Edition]]
-- [[Deep One - Limited Edition（ENTERGRAM）]]
-- [[Deep One - Regular Edition]]
-- [[Deep One - Regular Edition（ENTERGRAM）]]
+<!-- AUTO:BEGIN release -->- [[发行版/DeepOne -Ryoukai Shinpan- Download Edition]]
 - [[DeepOne -Ryoukai Shinpan- Download Edition]]
-- [[DeepOne -Ryoukai Shinpan- Trial Edition]]
-- [[DeepOne -Ryoukai Shinpan-]]
-- [[DeepOne]]
-- [[DeepOne（ENTERGRAM）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

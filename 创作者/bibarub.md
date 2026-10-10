@@ -12,10 +12,8 @@ source_urls:
 # bibarub
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Ever17 -The Out of Infinity-（release：）]]（publisher）
-- [[Ever17 -the out of infinity- PREMIUM Edition]]（publisher）
-- [[Ever17 -the out of infinity- PREMIUM Edition（release：）]]（publisher）
-- [[beMSH - IZ BESKON. - PREMIALNOGO VYPUSKA]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Ever17 -The Out of Infinity- Download Edition（MAGES）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

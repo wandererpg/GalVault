@@ -12,7 +12,7 @@ source_urls:
 # Vlassik
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Changeling Tale v.0.7.7]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Changeling Tale]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,9 +12,8 @@ source_urls:
 # Arneth Myndraavn
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Joker no Kuni no Alice ~Wonderful Wonder World~ ~Maker Ver.~ Pre-order Bonus CD]]（publisher）
-- [[Joker no Kuni no Alice ~Wonderful Wonder World~ ~Shop Ver.~ Pre-order Bonus CD]]（publisher）
-- [[Shinsouban Heart no Kuni no Alice]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Joker no Kuni no Alice ~Wonderful Wonder World~ Deluxe Edition]]（publisher）
+- [[发行版/Heart no Kuni no Alice ~Wonderful Wonder World~（PROTOTYPE）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

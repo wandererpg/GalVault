@@ -12,19 +12,11 @@ source_urls:
 # TGL Planning Inc.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Harvest OverRay - Android Edition]]（publisher）
-- [[Harvest OverRay - Download Edition（GIGA）]]（publisher）
-- [[Harvest OverRay - First Press Limited Edition]]（publisher）
-- [[Harvest OverRay - Regular Edition]]（publisher）
-- [[Kono Aozora ni Yakusoku o - Download Edition]]（publisher）
-- [[Kono Aozora ni Yakusoku o - First Production Limited Edition]]（publisher）
-- [[Kono Aozora ni Yakusoku o - Regular Edition（GIGA）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Harvest OverRay Reconnection]]（publisher）
+- [[发行版/Kono Aozora ni Yakusoku o： Te no Hira No Rakuen - Deluxe Pack Edition]]（publisher）
 - [[Kono Aozora ni Yakusoku o： Te no Hira No Rakuen - Deluxe Pack Edition]]（publisher）
-- [[Kono Aozora ni Yakusoku o： Te no Hira No Rakuen - Regular Edition]]（publisher）
-- [[Parfait - Download Edition]]（publisher）
-- [[Parfait - First Press Limited Edition]]（publisher）
-- [[Parfait - Regular Edition]]（publisher）
-- [[Parfait ~Chocolat Second Brew~ Standard Edition]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Parfait ~Chocolat Second Style~ Limited Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

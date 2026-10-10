@@ -137,21 +137,9 @@ cover_image: "assets/covers/v12246.webp"
 - [[Ui]]（大橋 歩夕）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Otome Riron to Sono Shuuhen -Bon Voyage- Limited Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Otome Riron to Sono Shuuhen -Bon Voyage- Regular Edition]]
 - [[Otome Riron to Sono Shuuhen -Bon Voyage- Regular Edition]]
-- [[Otome Riron to Sono Shuuhen -Ecole de Paris- -FullVoice Edition- Download Edition]]
-- [[Otome Riron to Sono Shuuhen -Ecole de Paris- -FullVoice Edition-]]
-- [[Otome Riron to Sono Shuuhen -Ecole de Paris- 18+ Patch]]
-- [[Otome Riron to Sono Shuuhen -Ecole de Paris- Download Edition]]
-- [[Otome Riron to Sono Shuuhen -Ecole de Paris- Limited Edition]]
-- [[Otome Riron to Sono Shuuhen -Ecole de Paris- Standard Edition]]
-- [[Otome Riron to Sono Shuuhen -Ecole de Paris- Trial Edition]]
-- [[Otome Riron to Sono Shuuhen -Ecole de Paris-]]
-- [[Otome Riron to Sono Shuuhen -Ecole de Paris-（release：）]]
-- [[Shaonü Lilun Jiqi Zhoubian]]
-- [[Tsuki ni Yorisou Otome no Sahou - 10th Anniversary Box（Navel）]]
-- [[Tsuki ni Yorisou Otome no Sahou - 10th GAME COMPLETE BOX（Navel）]]
-- [[Tsuki ni Yorisou Otome no Sahou - Complete Box（Navel）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

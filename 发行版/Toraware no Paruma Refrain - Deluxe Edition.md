@@ -1,16 +1,50 @@
 ---
-entity_id: "release:vndb:r69443:work:vndb:work:v24644"
-type: "release"
-display_title: "Toraware no Paruma Refrain - Deluxe Edition"
-release_date: "2020-03-12"
+entity_id: release:vndb:r69443:work:vndb:work:v24644
+type: release
+display_title: Toraware no Paruma Refrain - Deluxe Edition
+release_date: '2020-03-12'
 is_all_ages: true
-platform: "swi"
-edition_type: "complete"
-title_status: "needs_review"
+platform: swi
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r69443"
+  vndb: r69443
 source_urls:
-  vndb: "https://vndb.org/r69443"
+  vndb: https://vndb.org/r69443
+aliases:
+- Bei Qiujin de Zhangxin Refrain
+- Toraware no Paruma Refrain
+- Toraware no Paruma Refrain（CAPCOM Co., Ltd）
+consolidated_releases:
+- id: r69443
+  title: Toraware no Paruma Refrain - Deluxe Edition
+  url: https://vndb.org/r69443
+  release_date: '2020-03-12'
+  platform: swi
+  edition_type: complete
+  is_all_ages: true
+- id: r118143
+  title: Bei Qiujin de Zhangxin Refrain
+  url: https://vndb.org/r118143
+  release_date: '2018-12-18'
+  platform: ios, and
+  edition_type: complete
+  is_all_ages: true
+- id: r60513
+  title: Toraware no Paruma Refrain
+  url: https://vndb.org/r60513
+  release_date: '2018-12-18'
+  platform: ios, and
+  edition_type: complete
+  is_all_ages: true
+- id: r126351
+  title: Toraware no Paruma Refrain
+  url: https://vndb.org/r126351
+  release_date: '2020-03-12'
+  platform: swi
+  edition_type: complete
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Toraware no Paruma Refrain - Deluxe Edition

@@ -63,18 +63,9 @@ cover_image: "assets/covers/v26960.webp"
 - [[Nekoyashiki Mai]]（猫屋敷 舞）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Koisuru Otome to Shugo no Tate - Re：boot Plus]]
-- [[Koisuru Otome to Shugo no Tate - Re：boot The ＂SHIELD-9＂ - First Press Limited Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Koisuru Otome to Shugo no Tate - Re：boot The ＂SHIELD-9＂ - First Production Limited Edition]]
 - [[Koisuru Otome to Shugo no Tate - Re：boot The ＂SHIELD-9＂ - First Production Limited Edition]]
-- [[Koisuru Otome to Shugo no Tate - Re：boot The ＂SHIELD-9＂ - Limited Edition]]
-- [[Koisuru Otome to Shugo no Tate - Re：boot The ＂SHIELD-9＂ - Limited Edition（ENTERGRAM）]]
-- [[Koisuru Otome to Shugo no Tate - Re：boot The ＂SHIELD-9＂ - Regular Edition]]
-- [[Koisuru Otome to Shugo no Tate - Re：boot The ＂SHIELD-9＂ - Regular Edition（ENTERGRAM）]]
-- [[Koisuru Otome to Shugo no Tate - Re：boot The ＂SHIELD-9＂ - Trial Edition]]
-- [[Koisuru Otome to Shugo no Tate - Re：boot The ＂SHIELD-9＂ Plus]]
-- [[Koisuru Otome to Shugo no Tate - Re：boot The ＂SHIELD-9＂]]
-- [[Koisuru Otome to Shugo no Tate - Re：boot The ＂SHIELD-9＂（Sengoku Trans）]]
-- [[Koisuru Otome to Shugo no Tate - Re：boot The ＂SHIELD-9＂（release：）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

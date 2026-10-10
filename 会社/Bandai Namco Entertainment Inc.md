@@ -15,10 +15,8 @@ source_urls:
 <!-- AUTO:BEGIN duty -->- [[Ar Tonelico II： Sekai ni Hibiku Shoujo-tachi no Metafalica (PlayStation 2 the Best)]]（publisher）
 - [[IDOLiSH7]]（developer）
 - [[IDOLiSH7]]（publisher）
-- [[Suzumiya Haruhi no Tsuisou - Nagato Yuki no Otoshimono Box]]（publisher）
+- [[发行版/Suzumiya Haruhi no Tsuisou - Nagato Yuki no Otoshimono Box（guyzware Inc）]]（publisher）
 - [[Suzumiya Haruhi no Tsuisou - Nagato Yuki no Otoshimono Box（guyzware Inc）]]（publisher）
-- [[Suzumiya Haruhi no Tsuisou - Regular Edition]]（publisher）
-- [[Suzumiya Haruhi no Tsuisou - Regular Edition（guyzware Inc）]]（publisher）
 - [[アイドリッシュセブン]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

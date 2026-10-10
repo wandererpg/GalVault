@@ -12,10 +12,8 @@ source_urls:
 # Unknown Translators Team
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Pervoklassnyj Prokuror： Majlz Edzhvort - Rassledovanija v0.6.0]]（publisher）
-- [[Pervoklassnyj Prokuror： Majlz Edzhvort - Rassledovanija]]（publisher）
-- [[Pervoklassnyj Prokuror： Rasslesovanija 2 - Put' prokurora - case 1]]（publisher）
-- [[Pervoklassnyj Prokuror： Rasslesovanija 2 - Put' prokurora - case 1（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Gyakuten Kenji 1&2 Mitsurugi Selection]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

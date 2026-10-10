@@ -12,8 +12,8 @@ source_urls:
 # Lajiao Fangzhou
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Jinse Qinxian 3： Qingse Lianqu]]（publisher）
-- [[Jinse Qinxian 3： Qingse Lianqu（Lajiao Fangzhou）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kin'iro no Corda 3： Full Voice Special - Download Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

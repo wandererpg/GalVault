@@ -1,16 +1,65 @@
 ---
-entity_id: "release:vndb:r68863:work:vndb:work:v27653"
-type: "release"
-display_title: "pieces / Yurikago no Canaria - Download Edition"
-release_date: "2020-05-29"
+entity_id: release:vndb:r68863:work:vndb:work:v27653
+type: release
+display_title: pieces / Yurikago no Canaria - Download Edition
+release_date: '2020-05-29'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r68863"
+  vndb: r68863
 source_urls:
-  vndb: "https://vndb.org/r68863"
+  vndb: https://vndb.org/r68863
+aliases:
+- pieces ／ Wataridori & Yurikago Set Pack
+- Pieces ／ Yurikago no Canaria
+- pieces ／ Yurikago no Canaria - Package Edition
+- pieces ／ Yurikago no Canaria - Trial Edition
+- Whirlpool Kako Saku Game Zenbu Iri Set
+consolidated_releases:
+- id: r68863
+  title: pieces / Yurikago no Canaria - Download Edition
+  url: https://vndb.org/r68863
+  release_date: '2020-05-29'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r91836
+  title: pieces / Yurikago no Canaria - Package Edition
+  url: https://vndb.org/r91836
+  release_date: '2020-05-29'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r153838
+  title: Whirlpool Kako Saku Game Zenbu Iri Set
+  url: https://vndb.org/r153838
+  release_date: '2026-04-24'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r70338
+  title: pieces / Wataridori & Yurikago Set Pack
+  url: https://vndb.org/r70338
+  release_date: '2020-05-29'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r89428
+  title: Pieces / Yurikago no Canaria
+  url: https://vndb.org/r89428
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r70298
+  title: pieces / Yurikago no Canaria - Trial Edition
+  url: https://vndb.org/r70298
+  release_date: '2020-03-19'
+  platform: win
+  edition_type: trial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # pieces / Yurikago no Canaria - Download Edition

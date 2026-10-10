@@ -67,12 +67,8 @@ cover_image: "assets/covers/v27492.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Shihai no Kyoudan 2 - Download Edition]]
-- [[Shihai no Kyoudan 2 - Package Edition]]
-- [[Shihai no Kyoudan 2 - Trial Edition]]
-- [[Shihai no Kyoudan 2]]
-- [[Shihai no Kyoudan 2（release：）]]
-- [[Shihai no Kyoudan 2（vndb：r13）]]
-- [[Shihai no Kyoudan 2（vndb：r84）]]<!-- AUTO:END release -->
+- [[发行版/Shihai no Kyoudan 2 - Download Edition]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -12,13 +12,9 @@ source_urls:
 # Kawa-Soft
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Katawa Shoujo - Collector's Edition]]（publisher）
-- [[Katawa Shoujo - Package Edition]]（publisher）
-- [[Katawa Shoujo 1.1]]（publisher）
-- [[Katawa Shoujo 1.2]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Katawa Shoujo 1.3J]]（publisher）
 - [[Katawa Shoujo 1.3J]]（publisher）
-- [[Katawa Shoujo 1.3]]（publisher）
-- [[Katawa Shoujo Act 1 v4]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,12 +12,11 @@ source_urls:
 # Visual Art's Motto
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Air（Visual Art's Motto・release：）]]（publisher）
-- [[Air（Visual Art's Motto）]]（publisher）
-- [[Clannad（Visual Art's Motto）]]（publisher）
-- [[Kanon（Visual Art's Motto）]]（publisher）
-- [[Planetarian ~Chiisana Hoshi no Yume~（Visual Art's Motto）]]（publisher）
-- [[SNOW（Visual Art's Motto）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/AIR（Key）]]（publisher）
+- [[发行版/CLANNAD（Hikarizaka Gaoxiao Zhongwen Bu）]]（publisher）
+- [[发行版/Kanon（Key）]]（publisher）
+- [[发行版/Planetarian ~The Reverie of a Little Planet~（release：）]]（publisher）
+- [[发行版/Snow ~Portable~ Download Edition]]（publisher）
 - [[Shinkyoku Soukai Polyphonica First Chapter]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

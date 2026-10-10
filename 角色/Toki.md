@@ -29,7 +29,7 @@ portrait_image: "assets/characters/c77034.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Hanakisou Plus+ Disc]]（side）
+<!-- AUTO:BEGIN character -->- [[发行版/Hanakisou（HaccaWorks＊・release：）]]（side）
 - [[Hanakisou（HaccaWorks＊・release：）]]（side）<!-- AUTO:END character -->
 
 ## 声优

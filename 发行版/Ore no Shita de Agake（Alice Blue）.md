@@ -1,16 +1,41 @@
 ---
-entity_id: "release:vndb:r2762:work:vndb:work:v1395"
-type: "release"
-display_title: "Ore no Shita de Agake"
-release_date: "2007-06-21"
+entity_id: release:vndb:r2762:work:vndb:work:v1395
+type: release
+display_title: Ore no Shita de Agake
+release_date: '2007-06-21'
 is_all_ages: true
-platform: "ps2"
-edition_type: "complete"
-title_status: "needs_review"
+platform: ps2
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r2762"
+  vndb: r2762
 source_urls:
-  vndb: "https://vndb.org/r2762"
+  vndb: https://vndb.org/r2762
+aliases:
+- Ore no Shita de Agake
+- Writhe Under Me
+consolidated_releases:
+- id: r2762
+  title: Ore no Shita de Agake
+  url: https://vndb.org/r2762
+  release_date: '2007-06-21'
+  platform: ps2
+  edition_type: complete
+  is_all_ages: true
+- id: r2731
+  title: Ore no Shita de Agake
+  url: https://vndb.org/r2731
+  release_date: '2002-11-29'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r158663
+  title: Writhe Under Me
+  url: https://vndb.org/r158663
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Ore no Shita de Agake

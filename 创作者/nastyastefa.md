@@ -12,7 +12,7 @@ source_urls:
 # nastyastefa
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Vspyshka Neminuema! v0.7.1]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Eruption Imminent v0.7.0]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

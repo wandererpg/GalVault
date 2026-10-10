@@ -12,23 +12,9 @@ source_urls:
 # Tinkle Position
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Hajimete ＂Oni Gyu＂ Pack - Download Edition]]（developer）
-- [[Hajimete ＂Oni Gyu＂ Pack - Download Edition]]（publisher）
-- [[Hajimete ＂Oni Gyu＂ Pack]]（developer）
-- [[Hajimete ＂Oni Gyu＂ Pack]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Onii-chan, Asa made Zutto Gyutte Shite! Yoru Made Motto Ecchi Shite! - DVD-PG]]（developer）
+- [[发行版/Onii-chan, Asa made Zutto Gyutte Shite! Yoru Made Motto Ecchi Shite! - DVD-PG]]（publisher）
 - [[Onii-chan, Asa made Zutto Gyutte Shite! Yoru Made Motto Ecchi Shite! - DVD-PG]]（developer）
-- [[Onii-chan, Asa made Zutto Gyutte Shite! Yoru Made Motto Ecchi Shite! - Download Edition]]（developer）
-- [[Onii-chan, Asa made Zutto Gyutte Shite! Yoru Made Motto Ecchi Shite! - Download Edition]]（publisher）
-- [[Onii-chan, Asa made Zutto Gyutte Shite! Yoru Made Motto Ecchi Shite! - Hug Click Berochuu Mode Trial Edition]]（developer）
-- [[Onii-chan, Asa made Zutto Gyutte Shite! Yoru Made Motto Ecchi Shite! - Hug Click Berochuu Mode Trial Edition]]（publisher）
-- [[Onii-chan, Asa made Zutto Gyutte Shite! Yoru Made Motto Ecchi Shite! - Limited Edition]]（developer）
-- [[Onii-chan, Asa made Zutto Gyutte Shite! Yoru Made Motto Ecchi Shite! - Limited Edition]]（publisher）
-- [[Onii-chan, Asa made Zutto Gyutte Shite! Yoru Made Motto Ecchi Shite! - Trial Edition]]（developer）
-- [[Onii-chan, Asa made Zutto Gyutte Shite! Yoru Made Motto Ecchi Shite! - Trial Edition]]（publisher）
-- [[Onii-chan, Asa made Zutto Gyutte Shite! Yoru Made Motto Ecchi Shite!（Tinkle Position・release：）]]（developer）
-- [[Onii-chan, Asa made Zutto Gyutte Shite! Yoru Made Motto Ecchi Shite!（Tinkle Position・release：）]]（publisher）
-- [[Onii-chan, Asa made Zutto Gyutte Shite! Yoru Made Motto Ecchi Shite!（Tinkle Position）]]（developer）
-- [[Onii-chan, Asa made Zutto Gyutte Shite! Yoru Made Motto Ecchi Shite!（Tinkle Position）]]（publisher）
 - [[哥哥，早上起床之前都要抱紧我哦！晚上睡觉之前做更多色色的事吧！]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

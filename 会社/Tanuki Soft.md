@@ -14,12 +14,8 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Nukicolle vol.33 - Shoujo Ramune]]（developer）
 - [[Nukicolle vol.33 - Shoujo Ramune]]（publisher）
-- [[Shoujo Ramune - Download Edition]]（developer）
-- [[Shoujo Ramune - Download Edition]]（publisher）
-- [[Shoujo Ramune - Trial Edition]]（developer）
-- [[Shoujo Ramune - Trial Edition]]（publisher）
-- [[Shoujo Ramune]]（developer）
-- [[Shoujo Ramune]]（publisher）
+- [[发行版/Nukicolle vol.33 - Shoujo Ramune]]（developer）
+- [[发行版/Nukicolle vol.33 - Shoujo Ramune]]（publisher）
 - [[小女ラムネ]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

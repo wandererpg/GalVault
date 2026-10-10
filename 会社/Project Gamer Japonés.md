@@ -11,9 +11,8 @@ source_urls:
 # Project Gamer Japonés
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Muv-Luv Alternative Chronicles Vol.1（Project Gamer Japonés）]]（publisher）
-- [[Muv-Luv Alternative Chronicles Vol.2（Project Gamer Japonés）]]（publisher）
-- [[Muv-Luv Alternative（Project Gamer Japonés）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/age Memorial Bundle（aNTIQ・vndb：r13）]]（publisher）
+- [[发行版/Muv-Luv Alternative - Steam Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -11,13 +11,10 @@ source_urls:
 # Universo When They Cry
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Higurashi No Naku Koro Ni Hou Ch.1 Onikakushi 07th-Mod]]（publisher）
-- [[Higurashi No Naku Koro Ni Hou Ch.2 Watanagashi 07th-Mod]]（publisher）
-- [[Higurashi No Naku Koro Ni Hou Ch.3 Tatarigoroshi 07th-Mod]]（publisher）
-- [[Higurashi No Naku Koro Ni Hou Ch.4 Himatsubushi 07th-Mod]]（publisher）
-- [[Little Busters! Spanish Edition]]（publisher）
-- [[Umineko No Naku Koro Ni - Nocturno de la Verdad y las Ilusiones -]]（publisher）
-- [[Umineko No Naku Koro Ni - Rondó de la Bruja y el Razonamiento -]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Himatsubushi Hen（07th Expansion）]]（publisher）
+- [[发行版/Little Busters! English Edition（Key）]]（publisher）
+- [[发行版/Umineko no Naku Koro ni Chiru - Episode 8 - Twilight of the Golden Witch]]（publisher）
+- [[发行版/Umineko no Naku Koro ni - Episode 4 - Alliance of the Golden Witch]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,7 +12,7 @@ source_urls:
 # WoweMain Company
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Phoenix Wright： Ace Attorney - joke translation v0.0.1]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Gyakuten Saiban： Yomigaeru Gyakuten]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

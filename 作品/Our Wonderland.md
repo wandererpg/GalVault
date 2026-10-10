@@ -45,10 +45,9 @@ cover_image: "assets/covers/v33368.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Our Wonderland Remastered - Alpha Build]]
+<!-- AUTO:BEGIN release -->- [[发行版/Our Wonderland Remastered]]
 - [[Our Wonderland Remastered]]
-- [[Our Wonderland]]
-- [[Our Wonderland（release：）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

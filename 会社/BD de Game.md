@@ -12,8 +12,8 @@ source_urls:
 # BD de Game
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[D.C. I & II ~Da Capo I & II~ Blu-ray Disc Special Edition W Pack]]（publisher）
-- [[D.C. II ~Da Capo II~ Blu-ray Disc Special Edition]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/D.C. II P.C. ~Da Capo II~ Plus Communication - Regular Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

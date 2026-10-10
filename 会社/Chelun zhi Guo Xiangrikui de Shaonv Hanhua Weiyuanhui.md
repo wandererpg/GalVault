@@ -12,7 +12,7 @@ source_urls:
 # Chelun zhi Guo Xiangrikui de Shaonv Hanhua Weiyuanhui
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Chelun zhi Guo, Xiangrikui de Shaonü（Chelun zhi Guo Xiangrikui de Shaonv Hanhua Weiyuanhui）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Sharin no Kuni, Himawari no Shoujo（Doitsugo Trans）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

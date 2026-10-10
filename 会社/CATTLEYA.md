@@ -13,10 +13,8 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Kyouiku Mama to Oba to Oba - DVDPG]]（developer）
-- [[Kyouiku Mama to Oba to Oba - Download Edition]]（developer）
-- [[Kyouiku Mama to Oba to Oba - Download Edition]]（publisher）
-- [[Kyouiku Mama to Oba to Oba - First Press Limited Edition]]（developer）
-- [[Kyouiku Mama to Oba to Oba - First Press Limited Edition]]（publisher）
+- [[发行版/Kyouiku Mama to Oba to Oba - DVDPG]]（developer）
+- [[发行版/Kyouiku Mama to Oba to Oba - DVDPG]]（publisher）
 - [[教育ママと伯母と叔母]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

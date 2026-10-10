@@ -12,10 +12,9 @@ source_urls:
 # Remai Youxi
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Far Away - Kickstarter Demo]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Haisha Fengyun - Far Away]]（publisher）
 - [[Haisha Fengyun - Far Away]]（publisher）
-- [[Haisha Fengyun]]（publisher）
-- [[Haisha Fengyun（Yi Mei Gongzuoshi）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

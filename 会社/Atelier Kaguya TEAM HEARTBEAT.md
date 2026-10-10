@@ -13,9 +13,7 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Saishuu Chikan Densha 3 - Download Edition]]（developer）
-- [[Saishuu Chikan Densha 3 - Package Edition]]（developer）
-- [[Saishuu Chikan Densha 3 DVDPG]]（developer）
-- [[Saishuu Chikan Densha Complete Pack]]（developer）
+- [[发行版/Saishuu Chikan Densha 3 - Download Edition]]（developer）
 - [[最终痴汉电车3]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

@@ -1,16 +1,50 @@
 ---
-entity_id: "release:vndb:r83189:work:vndb:work:v32281"
-type: "release"
-display_title: "Haruki no Saidai no Teki wa Risei."
-release_date: "2021-09-13"
+entity_id: release:vndb:r83189:work:vndb:work:v32281
+type: release
+display_title: Haruki no Saidai no Teki wa Risei.
+release_date: '2021-09-13'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r83189"
+  vndb: r83189
 source_urls:
-  vndb: "https://vndb.org/r83189"
+  vndb: https://vndb.org/r83189
+aliases:
+- Two Beasts or Not To Beast!
+- Two Beasts or Not To Beast! - Censored Edition
+- Two Beasts or Not To Beast! - Decensor Patch
+consolidated_releases:
+- id: r83189
+  title: Haruki no Saidai no Teki wa Risei.
+  url: https://vndb.org/r83189
+  release_date: '2021-09-13'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r114723
+  title: Two Beasts or Not To Beast! - Censored Edition
+  url: https://vndb.org/r114723
+  release_date: '2026-03-20'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r151415
+  title: Two Beasts or Not To Beast! - Decensor Patch
+  url: https://vndb.org/r151415
+  release_date: '2026-03-20'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r141662
+  title: Two Beasts or Not To Beast!
+  url: https://vndb.org/r141662
+  release_date: '2025-11-07'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Haruki no Saidai no Teki wa Risei.

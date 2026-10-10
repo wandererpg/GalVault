@@ -12,7 +12,7 @@ source_urls:
 # Jasm Games
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Utawarerumono： Mask of Deception（Jasm Games）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Chingsongbadneun Ja： Geojis-ui Gamyeon - Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

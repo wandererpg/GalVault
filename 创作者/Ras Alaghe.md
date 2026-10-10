@@ -12,7 +12,7 @@ source_urls:
 # Ras Alaghe
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Oyako Rankan - Prologue Patch]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Muniang Luanguan]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

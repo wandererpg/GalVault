@@ -12,10 +12,10 @@ source_urls:
 # Sengoku Trans
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Koisuru Otome to Shugo no Tate - Re：boot The ＂SHIELD-9＂（Sengoku Trans）]]（publisher）
-- [[Kvest Monstrodev! ~Proigrav, budesh' iznasilovan~]]（publisher）
-- [[Kvest Monstrodev! ~Proigrav, budesh' iznasilovan~（Sengoku Trans・release：）]]（publisher）
-- [[Kvest Monstrodev! ~Proigrav, budesh' iznasilovan~（Sengoku Trans）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Koisuru Otome to Shugo no Tate - Re：boot The ＂SHIELD-9＂ - First Production Limited Edition]]（publisher）
+- [[发行版/Monmusu Quest! Shuushou ~Makereba Youjo ni Okasareru~]]（publisher）
+- [[发行版/Monmusu Quest! Chuushou ~Makereba Youjo ni Okasareru~]]（publisher）
+- [[发行版/Monmusu Quest! Origins -Assaulted by the Vamp-]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

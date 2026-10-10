@@ -69,19 +69,9 @@ cover_image: "assets/covers/v13072.webp"
 - [[Satou Akemi]]（佐藤 朱）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Kin'iro no Corda 3 Ano Natsu no Boku-tachi no Subete BOX（Koei Tecmo Holdings Co., Ltd）]]
-- [[Kin'iro no Corda 3 AnotherSky feat. Amane Gakuen - Download Edition]]
-- [[Kin'iro no Corda 3 AnotherSky feat. Amane Gakuen - Regular Edition]]
-- [[Kin'iro no Corda 3 AnotherSky feat. Amane Gakuen - Treasure Box]]
-- [[Kin'iro no Corda 3 AnotherSky feat. Jinnan - Download Edition]]
-- [[Kin'iro no Corda 3 AnotherSky feat. Jinnan - Treasure Box]]
-- [[Kin'iro no Corda 3 AnotherSky feat. Jinnan／Shiseikan／Amane Gakuen - Download Edition]]
-- [[Kin'iro no Corda 3 AnotherSky feat. Jinnan／Shiseikan／Amane Gakuen - Treasure Box]]
-- [[Kin'iro no Corda 3 AnotherSky feat. Jinnan／Shiseikan／Amane Gakuen]]
-- [[Kin'iro no Corda 3 AnotherSky feat. Shiseikan - Download Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Kin'iro no Corda 3 AnotherSky feat. Shiseikan - Regular Edition]]
 - [[Kin'iro no Corda 3 AnotherSky feat. Shiseikan - Regular Edition]]
-- [[Kin'iro no Corda 3 AnotherSky feat. Shiseikan - Treasure Box]]
-- [[Kin’iro no Corda 3 AnotherSky feat. Jinnan - Regular Edition]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

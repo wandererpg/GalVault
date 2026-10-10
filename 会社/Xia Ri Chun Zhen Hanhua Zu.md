@@ -12,9 +12,8 @@ source_urls:
 # Xia Ri Chun Zhen Hanhua Zu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Summer Pockets Reflection Blue（Xia Ri Chun Zhen Hanhua Zu・release：）]]（publisher）
-- [[Summer Pockets Reflection Blue（Xia Ri Chun Zhen Hanhua Zu）]]（publisher）
-- [[Summer Pockets（Xia Ri Chun Zhen Hanhua Zu）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Summer Pockets REFLECTION BLUE - First Press Limited Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

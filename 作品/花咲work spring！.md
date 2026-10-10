@@ -109,26 +109,9 @@ cover_image: "assets/covers/v16070.webp"
 - [[Yotsuya Cider]]（梅咲 チャーリー）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[BugBug 2015 07 250 Anniversary DVD Append H Disk Part 2（release：）]]
-- [[Hanasaki Work Spring! - Download Edition]]
-- [[Hanasaki Work Spring! - Download Edition（SAGA PLANETS・release：）]]
-- [[Hanasaki Work Spring! - Download Edition（SAGA PLANETS・vndb：r65）]]
-- [[Hanasaki Work Spring! - Download Edition（SAGA PLANETS）]]
-- [[Hanasaki Work Spring! - First Press Limited Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Hanasaki Work Spring! - First Production Limited Edition]]
 - [[Hanasaki Work Spring! - First Production Limited Edition]]
-- [[Hanasaki Work Spring! - Limited Edition]]
-- [[Hanasaki Work Spring! - Regular Edition]]
-- [[Hanasaki Work Spring! - Regular Edition（SAGA PLANETS・release：）]]
-- [[Hanasaki Work Spring! - Regular Edition（SAGA PLANETS）]]
-- [[Hanasaki Work Spring! - Trial Edition]]
-- [[Hanasaki Work Spring! - Trial Edition（SAGA PLANETS）]]
-- [[Hanasaki Work Spring!]]
-- [[Hanasaki Work Spring!（Moe App）]]
-- [[Hanasaki Work Spring!（SAGA PLANETS・release：）]]
-- [[Hanasaki Work Spring!（SAGA PLANETS）]]
-- [[Hanasaki Work Spring!（release：）]]
-- [[Hua Xiao work spring!]]
-- [[SAGA PLANETS 4 Sakuhin Set（SAGA PLANETS）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -97,34 +97,9 @@ cover_image: "assets/covers/v1474.webp"
 - [[Yuimoto Michiru]]（佐本 二厘）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Byeolhaneurui Memoria HD]]
-- [[Hoshizora no Memoria - Prologue Trial Edition]]
-- [[Hoshizora no Memoria - Prologue Trial Edition（Hoshi Translation）]]
-- [[Hoshizora no Memoria -Wish upon a Shooting Star- 18+ DLC]]
-- [[Hoshizora no Memoria -Wish upon a Shooting Star- Censored Edition]]
-- [[Hoshizora no Memoria -Wish upon a Shooting Star- Censored Edition（Sekai Project）]]
-- [[Hoshizora no Memoria -Wish upon a Shooting Star- Complete Box]]
-- [[Hoshizora no Memoria -Wish upon a Shooting Star- Deluxe Box Set]]
-- [[Hoshizora no Memoria -Wish upon a Shooting Star- Download Edition]]
-- [[Hoshizora no Memoria -Wish upon a Shooting Star- HD - 18+ DLC]]
-- [[Hoshizora no Memoria -Wish upon a Shooting Star- HD - Readability Patch]]
-- [[Hoshizora no Memoria -Wish upon a Shooting Star- HD Censored Edition]]
-- [[Hoshizora no Memoria -Wish upon a Shooting Star- HD Censored Edition（Sekai Project）]]
-- [[Hoshizora no Memoria -Wish upon a Shooting Star- HD Download Edition]]
-- [[Hoshizora no Memoria -Wish upon a Shooting Star- HD]]
-- [[Hoshizora no Memoria -Wish upon a Shooting Star- Kickstarter Beta Edition]]
-- [[Hoshizora no Memoria -Wish upon a Shooting Star-（Hoshi Translation）]]
-- [[Hoshizora no Memoria -Wish upon a Shooting Star-（Sharin-Sub）]]
-- [[Hoshizora no Memoria -Wish upon a shooting star- 10th Anniversary Episode of Asuho 2009ver]]
-- [[Hoshizora no Memoria -Wish upon a shooting star- Download Edition（FAVORITE）]]
-- [[Hoshizora no Memoria -Wish upon a shooting star-]]
-- [[Hoshizora no Memoria -Wish upon a shooting star-（Staircase Subs）]]
-- [[Hoshizora no Memoria Complete]]
+<!-- AUTO:BEGIN release -->- [[发行版/Hoshizora no Memoria HD -Shooting Star & Eternal Heart Anniversary BOX- Download Edition]]
 - [[Hoshizora no Memoria HD -Shooting Star & Eternal Heart Anniversary BOX- Download Edition]]
-- [[Hoshizora no Memoria HD -Shooting Star & Eternal Heart Anniversary BOX-]]
-- [[Hoshizora no Memoria HD -Wish upon a Shooting Star-]]
-- [[Hoshizora no Memoria HD]]
-- [[Xingkong de Jiyi -Wish upon a Shooting Star-]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

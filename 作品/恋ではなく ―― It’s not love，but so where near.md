@@ -75,10 +75,9 @@ cover_image: "assets/covers/v5746.webp"
 - [[Yamamoto Ayano]]（山本 彩乃）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Koi de wa Naku - It's not Love, but so Where Near. - Download Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Koi de wa Naku - It's not Love, but so Where Near. - First Press Limited Edition]]
 - [[Koi de wa Naku - It's not Love, but so Where Near. - First Press Limited Edition]]
-- [[Koi de wa Naku - It's not Love, but so Where Near. - Trial Edition Ver 1.02]]
-- [[Koi de wa Naku - It's not Love, but so Where Near. - Trial Edition]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

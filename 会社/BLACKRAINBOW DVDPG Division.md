@@ -12,8 +12,8 @@ source_urls:
 # BLACKRAINBOW DVDPG Division
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[BLACKRAINBOW Box H Super Remix DVDPG Vol.1]]（publisher）
-- [[BLACKRAINBOW Box H Super Remix Vol.1 - 2-jigen Outlet DVDPG]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Saiminjutsu 2 - UMD-PG Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,8 +12,8 @@ source_urls:
 # Staircase Subs
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Dracu-Riot!（Staircase Subs）]]（publisher）
-- [[Hoshizora no Memoria -Wish upon a shooting star-（Staircase Subs）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/DRACU-RIOT! - Censored Edition]]（publisher）
+- [[发行版/Hoshizora no Memoria HD -Shooting Star & Eternal Heart Anniversary BOX- Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,7 +12,7 @@ source_urls:
 # BLACKDiabolik
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Saya no Uta]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Saya no Uta ~ The Song of Saya - Upgrade Patch]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

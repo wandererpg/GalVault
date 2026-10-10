@@ -13,16 +13,12 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Arterii Istoka]]（publisher）
-- [[Arterii Istoka（Visual Novel Reader's）]]（publisher）
-- [[Boginja bitvy： Vospominanija]]（publisher）
-- [[Boginja bitvy： Vospominanija（Visual Novel Reader's）]]（publisher）
-- [[Fuukan no Grasesta - Interface Patch（Visual Novel Reader's）]]（publisher）
-- [[Misticheskie kukly v1.5.2]]（publisher）
-- [[Misticheskie kukly]]（publisher）
-- [[Nebesnyj Pravitel' Kreposti - Demo]]（publisher）
-- [[Nebesnyj Pravitel' Kreposti]]（publisher）
-- [[Plen Gracesty v1.2]]（publisher）
-- [[Plen Gracesty]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Arterii Istoka]]（publisher）
+- [[发行版/Tenbin no La DEA. ~Ikusa Megami MEMORIA~ Perfect Guidebook Append Disk]]（publisher）
+- [[发行版/Fuukan no Grasesta Densetsu ni Utawareshi Eiketsu Kakuchou Pack - Download Edition]]（publisher）
+- [[发行版/Modao Qiaoke（ZODGAME Hanhuazu）]]（publisher）
+- [[发行版/Amayui Castle Meister - Guarakuuna Jousai Expansion Disc - Package Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

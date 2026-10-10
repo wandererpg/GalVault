@@ -12,7 +12,7 @@ source_urls:
 # ravqs
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Sakura no Uta -Sakura no Mori no Ue o Mau- 10th Anniversary Edition（vndb：r15）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Sakura no Uta -Sakura no Mori no Ue o Mau- 10th Anniversary Edition（Taikutsu Translations）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

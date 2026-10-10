@@ -70,8 +70,8 @@ cover_image: "assets/covers/v38287.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Goddesses' Whim v0.4.5]]
-- [[Goddesses' Whim v0.4.6]]
-- [[Prihot' Bogin' v0.4.6]]<!-- AUTO:END release -->
+- [[发行版/Goddesses' Whim v0.4.5]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

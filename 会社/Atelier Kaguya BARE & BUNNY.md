@@ -13,56 +13,30 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Baku Ane 2 ~Otouto, Ippai Shibocchau zo!~ Download Edition]]（developer）
-- [[Baku Ane 2 ~Otouto, Ippai Shibocchau zo!~ Package Edition]]（developer）
-- [[Baku Ane 2 ~Otouto, Ippai Shibocchau zo!~ Trial Edition]]（developer）
-- [[Baku Ane ~Otouto Shibocchau zo!~ Blu-ray Game - Gentei Best Price Version]]（developer）
-- [[Baku Ane ~Otouto Shibocchau zo!~ Blu-ray Game]]（developer）
-- [[Baku Ane ~Otouto Shibocchau zo!~ DVDPG]]（developer）
-- [[Baku Ane ~Otouto Shibocchau zo!~ Download Edition]]（developer）
-- [[Baku Ane ~Otouto Shibocchau zo!~ Package Edition]]（developer）
-- [[Baku Ane ~Otouto Shibocchau zo!~ Trial Edition]]（developer）
+- [[发行版/Baku Ane 2 ~Otouto, Ippai Shibocchau zo!~ Download Edition]]（developer）
+- [[发行版/Baku Ane ~Otouto Shibocchau zo!~]]（developer）
 - [[Bunny's Mama Daikou Service - Download Edition]]（developer）
-- [[Bunny's Mama Daikou Service - Package Edition]]（developer）
-- [[Bunny's Mama Daikou Service - Trial Edition]]（developer）
+- [[发行版/Bunny's Mama Daikou Service - Download Edition]]（developer）
 - [[Bunny's ママ代行サービス]]（developer）
-- [[Double Holic Pack - Download Edition]]（developer）
-- [[Double Holic Pack - Download Edition（Atelier Kaguya）]]（developer）
-- [[Double Holic Pack - Package Edition]]（developer）
-- [[Double Holic Pack - Package Edition（Atelier Kaguya）]]（developer）
+- [[发行版/Love×Holic ~Miwaku no Otome to Hakudaku Kankei~]]（developer）
+- [[发行版/Mama x Holic ~Miwaku no Mama to Ama Ama Kankei~ Download Edition]]（developer）
 - [[Hakoniwa - Download Edition]]（developer）
-- [[Hakoniwa - Package Edition]]（developer）
-- [[Hakoniwa - Trial Edition]]（developer）
+- [[发行版/Hakoniwa - Download Edition]]（developer）
 - [[Hakoniwa -ハコニワ-]]（developer）
-- [[Love x Holic ~Miwaku no Otome to Hakudaku Kankei~ DVDPG]]（developer）
-- [[Love x Holic ~Miwaku no Otome to Hakudaku Kankei~ Download Edition]]（developer）
-- [[Love x Holic ~Miwaku no Otome to Hakudaku Kankei~ Package Edition]]（developer）
-- [[Love x Holic ~Miwaku no Otome to Hakudaku Kankei~ Trial Edition]]（developer）
 - [[Love×Holic ～迷人的少女与白浊的关系～]]（developer）
-- [[Mama x Holic - Renewal Package Edition DVDPG]]（developer）
-- [[Mama x Holic ~Miwaku no Mama to Ama Ama Kankei~ DVDPG]]（developer）
 - [[Mama x Holic ~Miwaku no Mama to Ama Ama Kankei~ Download Edition]]（developer）
-- [[Mama x Holic ~Miwaku no Mama to Ama Ama Kankei~ Package Edition]]（developer）
-- [[Mama x Holic ~Miwaku no Mama to Ama Ama Kankei~ Trial Edition]]（developer）
-- [[Mamagoto ~Mama to Naisho no Ecchi Shimasho~ Download Edition]]（developer）
-- [[Mamagoto ~Mama to Naisho no Ecchi Shimasho~ Package Edition]]（developer）
-- [[Mamagoto ~Mama to Naisho no Ecchi Shimasho~ Trial Edition]]（developer）
-- [[Mamatomo - DL Edition]]（developer）
-- [[Mamatomo - Package Edition]]（developer）
-- [[Mamatomo - Trial Edition]]（developer）
+- [[发行版/Mamagoto ~Mama to Naisho no Ecchi Shimasho~]]（developer）
+- [[发行版/Mamatomo ［AI TL］]]（developer）
 - [[Mama×Holic ～魅惑的妈妈与甜蜜的榨取～]]（developer）
 - [[Nee Nee Nee - Download Edition]]（developer）
-- [[Nee Nee Nee - Package Edition]]（developer）
-- [[Nee Nee Nee - Trial Edition]]（developer）
+- [[发行版/Nee Nee Nee - Download Edition]]（developer）
 - [[Nee-chan no Susume ~Onee-chan no Itazura Seiseikatsu~ Download Edition]]（developer）
-- [[Nee-chan no Susume ~Onee-chan no Itazura Seiseikatsu~ Package Edition]]（developer）
-- [[Nee-chan no Susume ~Onee-chan no Itazura Seiseikatsu~ Trial Edition]]（developer）
+- [[发行版/Nee-chan no Susume ~Onee-chan no Itazura Seiseikatsu~ Download Edition]]（developer）
 - [[Pure×Holic ~Junketsu Otome to Kon'in Kankei!？~ Download Edition]]（developer）
-- [[Pure×Holic ~Junketsu Otome to Kon'in Kankei!？~ Package Edition]]（developer）
-- [[Pure×Holic ~Junketsu Otome to Kon'in Kankei!？~ Trial Edition]]（developer）
+- [[发行版/Pure×Holic ~Junketsu Otome to Kon'in Kankei!？~ Download Edition]]（developer）
 - [[Pure×Holic ～純潔乙女と婚姻カンケイ！？～]]（developer）
 - [[Shigokare ~Ecchi na Joshi Daisei to Doki x2 Love Lesson!!~ Download Edition]]（developer）
-- [[Shigokare ~Ecchi na Joshi Daisei to Doki x2 Love Lesson!!~ Package Edition]]（developer）
-- [[Shigokare ~Ecchi na Joshi Daisei to Doki x2 Love Lesson!!~ Trial Edition]]（developer）
+- [[发行版/Shigokare ~Ecchi na Joshi Daisei to Doki x2 Love Lesson!!~ Download Edition]]（developer）
 - [[しごカレ ～エッチな女子大生とドキ×２ラブレッスン！！～]]（developer）
 - [[ねぇねぇ姉]]（developer）
 - [[ばくあね ～弟しぼっちゃうぞ！～]]（developer）

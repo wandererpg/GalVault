@@ -107,20 +107,9 @@ cover_image: "assets/covers/v1023.webp"
 - [[Touno Ran]]（籐野 らん）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[NekoNeko 20th anniversary box]]
-- [[NekoNeko Complete Box - Download Edition]]
-- [[NekoNeko Complete Box]]
-- [[Nekoneko Premium Box 3 - Price Revised Edition]]
-- [[Nekoneko Premium Box 3]]
-- [[Scarlett - Download Edition]]
-- [[Scarlett - First Press Edition]]
-- [[Scarlett - Regular Edition]]
-- [[Scarlett - Simple Trial Edition 2]]
-- [[Scarlett - Simple Trial Edition 2（Nasha Versija）]]
-- [[Scarlett - Simple Trial Edition]]
-- [[Scarlett ~Nichijou no Kyoukaisen~ Deluxe Pack]]
+<!-- AUTO:BEGIN release -->- [[发行版/Scarlett ~Nichijou no Kyoukaisen~ Regular Edition]]
 - [[Scarlett ~Nichijou no Kyoukaisen~ Regular Edition]]
-- [[Scarlett]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

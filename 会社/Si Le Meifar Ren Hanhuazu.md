@@ -12,7 +12,7 @@ source_urls:
 # Si Le Meifar Ren Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Angel Beats! -1st beat-（Si Le Meifar Ren Hanhuazu）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Angel Beats! -1st beat-]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

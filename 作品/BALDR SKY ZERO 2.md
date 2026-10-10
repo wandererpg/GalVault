@@ -90,13 +90,9 @@ cover_image: "assets/covers/v14000.webp"
 - [[Yuina（vndb：per）]]（結衣菜）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[BALDR MASTERPIECE CHRONICLE - Resale Edition（GIGA）]]
-- [[BALDR MASTERPIECE CHRONICLE（GIGA）]]
-- [[Baldr Sky ＂Zero＂ 2 - Common Route Trial Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Baldr Sky ＂Zero＂ 2 - First Press Limited Edition]]
 - [[Baldr Sky ＂Zero＂ 2 - First Press Limited Edition]]
-- [[Baldr Sky ＂Zero＂ 2 - Marelle Route Trial Edition]]
-- [[Baldr Sky ＂Zero＂ 2 - Mission Mode Trial Edition]]
-- [[Baldr Sky ＂Zero＂ 2]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

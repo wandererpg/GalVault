@@ -14,8 +14,8 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Mahoutsukai no Yakusoku]]（developer）
 - [[Mahoutsukai no Yakusoku]]（publisher）
-- [[Mofashi de Yueding]]（developer）
-- [[Mofashi de Yueding]]（publisher）
+- [[发行版/Mahoutsukai no Yakusoku]]（developer）
+- [[发行版/Mahoutsukai no Yakusoku]]（publisher）
 - [[魔法使的约定]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

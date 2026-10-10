@@ -12,8 +12,8 @@ source_urls:
 # Xun Lu Jihua
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Bu Cunzai de Huangyan]]（publisher）
-- [[Bu Cunzai de Huangyan（Xun Lu Jihua）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Lian'ai Qitan ~Bu Cunzai de Zhenxiang~（Cyberisle）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,8 +12,8 @@ source_urls:
 # Akella
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Vojny Sakury 2]]（publisher）
-- [[Vojny Sakury]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Yinghua Langman He]]（publisher）
+- [[发行版/Sakura Taisen]]（publisher）
 <!-- AUTO:END duty -->
 
 ## 创作者

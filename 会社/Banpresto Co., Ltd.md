@@ -12,12 +12,12 @@ source_urls:
 # Banpresto Co., Ltd.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ar Tonelico II： Sekai ni Hibiku Shoujo-tachi no Metafalica]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Ar Tonelico II： Sekai ni Hibiku Shoujo-tachi no Metafalica (PlayStation 2 the Best)]]（publisher）
 - [[Ar Tonelico ~Sekai no Owari de Utai Tsuzukeru Shoujo~ (PlayStation 2 the Best)]]（publisher）
-- [[Ar Tonelico ~Sekai no Owari de Utai Tsuzukeru Shoujo~]]（publisher）
+- [[发行版/Ar Tonelico ~Sekai no Owari de Utai Tsuzukeru Shoujo~ (PlayStation 2 the Best)]]（publisher）
 - [[Doukyuusei 2 - Extra Box]]（publisher）
-- [[Doukyuusei 2（elf・rk：v2337）]]（publisher）
-- [[Doukyuusei 2（elf）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Doukyuusei 2 - Extra Box]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

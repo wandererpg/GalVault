@@ -12,9 +12,9 @@ source_urls:
 # White Novels
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[9 -Nine- Haruiro Harukoi Harunokaze（White Novels）]]（publisher）
-- [[9 -Nine- Sorairo Sorauta Soranooto]]（publisher）
-- [[Swan Song（White Novels）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/9-nine- Download Edition（Palette・k：v23740）]]（publisher）
+- [[发行版/9-nine- Download Edition（Palette・vndb：r83）]]（publisher）
+- [[发行版/Swan Song - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

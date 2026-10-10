@@ -12,12 +12,9 @@ source_urls:
 # LivingFLCL
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Lunnaja Princessa]]（publisher）
-- [[Lunnaja Princessa（LivingFLCL）]]（publisher）
-- [[Mahoutsukai no Yoru - Trial Edition（Jiyuu VN）]]（publisher）
-- [[Mahoutsukai no Yoru（LivingFLCL）]]（publisher）
-- [[Noch' Volshebstva／Ved'ma Svjatoj nochi]]（publisher）
-- [[Ved'ma Svjatoj nochi]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Tsukihime -A piece of blue glass moon- Digital Deluxe Edition]]（publisher）
+- [[发行版/Mahoutsukai no Yoru]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

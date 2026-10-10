@@ -12,8 +12,8 @@ source_urls:
 # Ceylon Entertainment
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Bewitching Sinners - Demo]]（developer）
-- [[Bewitching Sinners - Demo]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Bewitching Sinners]]（developer）
+- [[发行版/Bewitching Sinners]]（publisher）
 - [[Bewitching Sinners]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

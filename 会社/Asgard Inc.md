@@ -12,7 +12,7 @@ source_urls:
 # Asgard Inc.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[I／O revision II]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/I／O - First Press Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

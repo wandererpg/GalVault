@@ -14,8 +14,8 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Injuu Kangoku： RE - Download Edition]]（developer）
 - [[Injuu Kangoku： RE - Download Edition]]（publisher）
-- [[Injuu Kangoku： RE - Package Edition]]（developer）
-- [[Injuu Kangoku： RE - Package Edition]]（publisher）
+- [[发行版/Injuu Kangoku： RE - Download Edition]]（developer）
+- [[发行版/Injuu Kangoku： RE - Download Edition]]（publisher）
 - [[淫獣艦獄：RE]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

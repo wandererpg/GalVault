@@ -72,9 +72,8 @@ cover_image: "assets/covers/v28362.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Blednye Gvozdiki Ch.1-4 Up.1-6]]
-- [[Pale Carnations Ch.2 Up.1]]
-- [[Pale Carnations： Chapter 3 Update 3]]
-- [[Pale Carnations： Chapter 4 Update 7]]<!-- AUTO:END release -->
+- [[发行版/Blednye Gvozdiki Ch.1-4 Up.1-6]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

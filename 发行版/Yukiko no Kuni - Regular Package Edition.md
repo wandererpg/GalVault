@@ -1,16 +1,50 @@
 ---
-entity_id: "release:vndb:r84239:work:vndb:work:v25767"
-type: "release"
-display_title: "Yukiko no Kuni - Regular Package Edition"
-release_date: "2017-08-11"
+entity_id: release:vndb:r84239:work:vndb:work:v25767
+type: release
+display_title: Yukiko no Kuni - Regular Package Edition
+release_date: '2017-08-11'
 is_all_ages: true
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r84239"
+  vndb: r84239
 source_urls:
-  vndb: "https://vndb.org/r84239"
+  vndb: https://vndb.org/r84239
+aliases:
+- Yukiko no Kuni - Download Edition
+- Yukiko no Kuni - First Package Edition
+- Yukiko no Kuni - Trial Edition
+consolidated_releases:
+- id: r84239
+  title: Yukiko no Kuni - Regular Package Edition
+  url: https://vndb.org/r84239
+  release_date: '2017-08-11'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+- id: r84238
+  title: Yukiko no Kuni - First Package Edition
+  url: https://vndb.org/r84238
+  release_date: '2017-08-11'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+- id: r63678
+  title: Yukiko no Kuni - Download Edition
+  url: https://vndb.org/r63678
+  release_date: '2017-09-15'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+- id: r84255
+  title: Yukiko no Kuni - Trial Edition
+  url: https://vndb.org/r84255
+  release_date: '2017-07-20'
+  platform: win
+  edition_type: trial
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Yukiko no Kuni - Regular Package Edition

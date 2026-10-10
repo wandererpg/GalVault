@@ -12,7 +12,7 @@ source_urls:
 # Koraku
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Christmas Tina -Utakata Toukei-（mirai works・vndb：r81）]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Paomo Dong Jing： Heping Moshi Lu]]（developer）
 - [[泡沫冬景]]（developer）<!-- AUTO:END duty -->
 
 ## 创作与出演

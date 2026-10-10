@@ -12,14 +12,10 @@ source_urls:
 # Black Lilith
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ochiru Hitozuma - Download Edition]]（developer）
-- [[Ochiru Hitozuma - Download Edition]]（publisher）
-- [[Ochiru Hitozuma - Package Edition]]（developer）
-- [[Ochiru Hitozuma - Package Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Ochiru Hitozuma ~Animation~ Download Edition]]（developer）
+- [[发行版/Ochiru Hitozuma ~Animation~ Download Edition]]（publisher）
 - [[Ochiru Hitozuma ~Animation~ Download Edition]]（developer）
 - [[Ochiru Hitozuma ~Animation~ Download Edition]]（publisher）
-- [[Ochiru Hitozuma ~Animation~ Package Edition]]（developer）
-- [[Ochiru Hitozuma ~Animation~ Package Edition]]（publisher）
 - [[堕ちる人妻]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

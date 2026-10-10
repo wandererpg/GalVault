@@ -14,45 +14,29 @@ source_urls:
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Hirusagari no Boro Apart to Hitozuma-tachi ~Heisa Kuukan de Kurui Ochiteiku~ + Bonus CG Collection]]（developer）
 - [[Hirusagari no Boro Apart to Hitozuma-tachi ~Heisa Kuukan de Kurui Ochiteiku~ + Bonus CG Collection]]（publisher）
-- [[Hirusagari no Boro Apart to Hitozuma-tachi ~Heisa Kuukan de Kurui Ochiteiku~]]（developer）
-- [[Hirusagari no Boro Apart to Hitozuma-tachi ~Heisa Kuukan de Kurui Ochiteiku~]]（publisher）
-- [[Hirusagari no Boro Apart to Hitozuma-tachi ~Heisa Kuukan de Kurui Ochiteiku~（release：）]]（developer）
-- [[Hirusagari no Boro Apart to Hitozuma-tachi ~Heisa Kuukan de Kurui Ochiteiku~（release：）]]（publisher）
+- [[发行版/Hirusagari no Boro Apart to Hitozuma-tachi ~Heisa Kuukan de Kurui Ochiteiku~ + Bonus CG Collection]]（developer）
+- [[发行版/Hirusagari no Boro Apart to Hitozuma-tachi ~Heisa Kuukan de Kurui Ochiteiku~ + Bonus CG Collection]]（publisher）
 - [[Kouman Tsuma Kanraku!!! ~Ii Onna Dakedo Ya na Onna~ Download Edition]]（developer）
 - [[Kouman Tsuma Kanraku!!! ~Ii Onna Dakedo Ya na Onna~ Download Edition]]（publisher）
-- [[Kouman Tsuma Kanraku!!! ~Ii Onna Dakedo Ya na Onna~ Package Edition]]（developer）
-- [[Kouman Tsuma Kanraku!!! ~Ii Onna Dakedo Ya na Onna~ Package Edition]]（publisher）
-- [[Kouman Tsuma Kanraku!!! ~Ii Onna Dakedo Ya na Onna~ Trial Edition]]（developer）
-- [[Kouman Tsuma Kanraku!!! ~Ii Onna Dakedo Ya na Onna~ Trial Edition]]（publisher）
+- [[发行版/Kouman Tsuma Kanraku!!! ~Ii Onna Dakedo Ya na Onna~ Download Edition]]（developer）
+- [[发行版/Kouman Tsuma Kanraku!!! ~Ii Onna Dakedo Ya na Onna~ Download Edition]]（publisher）
 - [[Oba Netori ~Otto no Shiranai Midara na Kankei~ DVDPG]]（developer）
-- [[Oba Netori ~Otto no Shiranai Midara na Kankei~ Download Edition]]（developer）
-- [[Oba Netori ~Otto no Shiranai Midara na Kankei~ Download Edition]]（publisher）
-- [[Oba Netori ~Otto no Shiranai Midara na Kankei~ Package Edition]]（developer）
-- [[Oba Netori ~Otto no Shiranai Midara na Kankei~ Package Edition]]（publisher）
-- [[Oba Netori ~Otto no Shiranai Midara na Kankei~ Trial Edition]]（developer）
-- [[Oba Netori ~Otto no Shiranai Midara na Kankei~ Trial Edition]]（publisher）
-- [[Oba-san Janai, Onna Datta. ~Tonari no Yaoya no Oku-san to Koete wa Ikenai Natsu~ - Trial Edition]]（developer）
-- [[Oba-san Janai, Onna Datta. ~Tonari no Yaoya no Oku-san to Koete wa Ikenai Natsu~ - Trial Edition]]（publisher）
+- [[发行版/Oba Netori ~Otto no Shiranai Midara na Kankei~ DVDPG]]（developer）
+- [[发行版/Oba Netori ~Otto no Shiranai Midara na Kankei~ DVDPG]]（publisher）
+- [[发行版/Oba-san Janai, Onna Datta. ~Tonari no Yaoya no Oku-san to Koete wa Ikenai Natsu~]]（developer）
+- [[发行版/Oba-san Janai, Onna Datta. ~Tonari no Yaoya no Oku-san to Koete wa Ikenai Natsu~]]（publisher）
 - [[Oba-san Janai, Onna Datta. ~Tonari no Yaoya no Oku-san to Koete wa Ikenai Natsu~]]（developer）
 - [[Oba-san Janai, Onna Datta. ~Tonari no Yaoya no Oku-san to Koete wa Ikenai Natsu~]]（publisher）
 - [[Ochiru Part Tsuma - Toshishita Otoko to no Jouji ni Oboreta Hate ni... - Download Edition]]（developer）
 - [[Ochiru Part Tsuma - Toshishita Otoko to no Jouji ni Oboreta Hate ni... - Download Edition]]（publisher）
-- [[Ochiru Part Tsuma - Toshishita Otoko to no Jouji ni Oboreta Hate ni... - Package Edition]]（developer）
-- [[Ochiru Part Tsuma - Toshishita Otoko to no Jouji ni Oboreta Hate ni... - Package Edition]]（publisher）
+- [[发行版/Ochiru Part Tsuma - Toshishita Otoko to no Jouji ni Oboreta Hate ni... - Download Edition]]（developer）
+- [[发行版/Ochiru Part Tsuma - Toshishita Otoko to no Jouji ni Oboreta Hate ni... - Download Edition]]（publisher）
 - [[Part Tsuma no Jouji ~Doutei Arbeit to Supa de Furin SEX~ DVDPG]]（developer）
-- [[Part Tsuma no Jouji ~Jukushita Tsuya to Torokeru Toiki~ Download Edition]]（developer）
-- [[Part Tsuma no Jouji ~Jukushita Tsuya to Torokeru Toiki~ Download Edition]]（publisher）
-- [[Part Tsuma no Jouji ~Jukushita Tsuya to Torokeru Toiki~ Package Edition]]（developer）
-- [[Part Tsuma no Jouji ~Jukushita Tsuya to Torokeru Toiki~ Package Edition]]（publisher）
-- [[Part Tsuma no Jouji ~Jukushita Tsuya to Torokeru Toiki~ Trial Edition]]（developer）
-- [[Part Tsuma no Jouji ~Jukushita Tsuya to Torokeru Toiki~ Trial Edition]]（publisher）
+- [[发行版/Part Tsuma no Jouji ~Doutei Arbeit to Supa de Furin SEX~ DVDPG]]（developer）
+- [[发行版/Part Tsuma no Jouji ~Doutei Arbeit to Supa de Furin SEX~ DVDPG]]（publisher）
 - [[Yukemuri Hitozuma Bojou Tabi ~Yukizuri no Kankei o Musubu Onna-tachi~ DVDPG]]（developer）
-- [[Yukemuri Hitozuma Bojou Tabi ~Yukizuri no Kankei o Musubu Onna-tachi~ Download Edition]]（developer）
-- [[Yukemuri Hitozuma Bojou Tabi ~Yukizuri no Kankei o Musubu Onna-tachi~ Download Edition]]（publisher）
-- [[Yukemuri Hitozuma Bojou Tabi ~Yukizuri no Kankei o Musubu Onna-tachi~ Package Edition]]（developer）
-- [[Yukemuri Hitozuma Bojou Tabi ~Yukizuri no Kankei o Musubu Onna-tachi~ Package Edition]]（publisher）
-- [[Yukemuri Hitozuma Bojou Tabi ~Yukizuri no Kankei o Musubu Onna-tachi~ Trial Edition]]（developer）
-- [[Yukemuri Hitozuma Bojou Tabi ~Yukizuri no Kankei o Musubu Onna-tachi~ Trial Edition]]（publisher）
+- [[发行版/Yukemuri Hitozuma Bojou Tabi ~Yukizuri no Kankei o Musubu Onna-tachi~ DVDPG]]（developer）
+- [[发行版/Yukemuri Hitozuma Bojou Tabi ~Yukizuri no Kankei o Musubu Onna-tachi~ DVDPG]]（publisher）
 - [[おばさんじゃない、女だった。〜隣の八百屋の奥さんと越えてはいけない夏〜]]（developer）
 - [[パート妻の情事 ～熟した艶と蕩ける吐息～]]（developer）
 - [[叔母寝取り ～夫の知らない淫らな関係～]]（developer）

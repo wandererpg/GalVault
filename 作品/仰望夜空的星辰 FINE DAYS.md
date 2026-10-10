@@ -107,17 +107,9 @@ cover_image: "assets/covers/v18907.webp"
 - [[Yuuki Serika]]（優希 芹果）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[A Sky Full of Stars： Fine Days]]
-- [[Miagete Goran, Yozora no Hoshi o - Complete Set（PULLTOP）]]
-- [[Miagete Goran, Yozora no Hoshi o： Fine Days - Download Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Miagete Goran, Yozora no Hoshi o： Fine Days - Hinamin √Append Patch]]
 - [[Miagete Goran, Yozora no Hoshi o： Fine Days - Hinamin √Append Patch]]
-- [[Miagete Goran, Yozora no Hoshi o： Fine Days - Original Game Bundled Edition（PULLTOP）]]
-- [[Miagete Goran, Yozora no Hoshi o： Fine Days]]
-- [[Miagete Goran, Yozora no Hoshi o： Fine Days（Moshi Youxi Zhongwenhua Xingqu Xiaozu）]]
-- [[Pulltop 15th Anniversary x 15 Title Memorial Pack（PULLTOP・release：）]]
-- [[Pulltop 15th x 15 Titles Premium Anniversary Pack（PULLTOP・release：）]]
-- [[Taitou Kankanba, Kanna Tianshang De Fanxing FINE DAYS Yangnannan √APPEND]]
-- [[Yang Lan Yekong Fanxing FINE DAYS]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

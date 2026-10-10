@@ -12,8 +12,8 @@ source_urls:
 # NovelPark
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Kinkoi： Golden Time]]（publisher）
-- [[Seven Days： Anata to Sugosu Nanokakan（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kin'iro Loveriche + Kin'iro Loveriche -Golden Time- Golden Pack（SAGA PLANETS）]]（publisher）
+- [[发行版/Seven Days： Anata to Sugosu Nanokakan - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

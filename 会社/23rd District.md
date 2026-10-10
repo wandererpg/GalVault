@@ -12,8 +12,8 @@ source_urls:
 # 23rd District
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Rose Guns Days - Season 1（23rd District）]]（publisher）
-- [[Rose Guns Days - Season 2（23rd District）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Rose Guns Days - The Best]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

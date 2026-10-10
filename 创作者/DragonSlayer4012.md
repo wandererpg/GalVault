@@ -12,7 +12,7 @@ source_urls:
 # DragonSlayer4012
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Purgatory Of the Golden Witch]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Purgatory of the Golden Witch（release：）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -117,15 +117,8 @@ cover_image: "assets/covers/v18157.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Echo (1 Year Anniversary Version)]]
-- [[Echo 1.0.0]]
-- [[Echo v0.12]]
-- [[Echo v0.51]]
-- [[Echo]]
-- [[Echo（Echo Project）]]
-- [[Echo（ExGames）]]
-- [[Echo（k：v18157）]]
-- [[Echo（release：）]]
-- [[Echo（vndb：r15）]]<!-- AUTO:END release -->
+- [[发行版/Echo (1 Year Anniversary Version)]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

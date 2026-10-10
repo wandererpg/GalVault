@@ -12,8 +12,8 @@ source_urls:
 # Kirameki! Project.
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Irotoridori no Hikari]]（publisher）
-- [[The World Reflected in Crimson Eyes]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Irotoridori no Sekai World's End -Re：Birth- Download Edition]]（publisher）
+- [[发行版/Akai Hitomi ni Utsuru Sekai Zu~tto Shinku to Issho! - Plush Bundled Deluxe Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

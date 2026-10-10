@@ -11,10 +11,8 @@ source_urls:
 # Ravenscourt
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[STEINS;GATE ELITE - EU Limited Edition]]（publisher）
-- [[STEINS;GATE ELITE - EU Limited Edition（Ravenscourt）]]（publisher）
-- [[STEINS;GATE ELITE - EU Package Edition]]（publisher）
-- [[STEINS;GATE ELITE - EU Package Edition（Ravenscourt）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/STEINS;GATE - Download Edition（MAGES・release：）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

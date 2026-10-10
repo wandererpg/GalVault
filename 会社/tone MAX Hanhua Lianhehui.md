@@ -13,8 +13,8 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Shaonv Bianzhi Ai de Huabu]]（publisher）
-- [[Xiangfeng zai Mingyue Yingzhao de Bi'an - Translation preview edition]]（publisher）
-- [[Xing Zhi Meng Weilai - Chinese Localization Test Patch]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Tsuki no Kanata de Aimashou - Regular Edition（tone work's）]]（publisher）
+- [[发行版/Hoshi Ori Yume Mirai - Converted Edition（tone work's）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

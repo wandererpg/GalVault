@@ -79,18 +79,9 @@ cover_image: "assets/covers/v19545.webp"
 - [[Suzaki Aya]]（洲崎 綾）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[FLOWERS -Gyeoul Pyeon-]]
-- [[FLOWERS -Le volume sur hiver-]]
-- [[Flowers - Shiki - Download Edition（PROTOTYPE・k：v19545）]]
-- [[Flowers - Shiki - Download Edition（PROTOTYPE・release：）]]
-- [[Flowers - Shiki - Package Edition（PROTOTYPE・k：v19545）]]
-- [[Flowers - Shiki - Package Edition（PROTOTYPE・release：）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Flowers -Le Volume sur Hiver- Download Edition]]
 - [[Flowers -Le Volume sur Hiver- Download Edition]]
-- [[Flowers -Le Volume sur Hiver- Download Edition（JAST USA）]]
-- [[Flowers -Le Volume sur Hiver- First Press Limited Edition]]
-- [[Flowers -Le Volume sur Hiver- Limited Edition]]
-- [[Flowers -Le Volume sur Hiver- Package Edition]]
-- [[Flowers Dong]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -12,8 +12,8 @@ source_urls:
 # Virgin in shell
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ke zhi Shaonü - Trial Edition]]（publisher）
-- [[Ke zhi Shaonü]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Innocent Grey Mystery Collection ~Kara no Shoujo & Pianissimo & Cartagra~]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -13,8 +13,8 @@ source_urls:
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Once in a Lifetime]]（publisher）
-- [[Yi Sheng Yi Ci]]（publisher）
-- [[Yong Heng Shi Jie v0.9.5]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Odin raz v zhizni]]（publisher）
+- [[发行版/Vechnost' v0.8]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

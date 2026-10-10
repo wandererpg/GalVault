@@ -12,7 +12,7 @@ source_urls:
 # Wolfgame LLC
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[VA-11 HALL-A - NA Download Edition]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/VA-11 Hall-A： Cyberpunk Bartender Action（Sukeban Games）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,52 +12,16 @@ source_urls:
 # KOEI Co., Ltd.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Harukanaru Toki no Naka de 2 & 3 Twinpack]]（developer）
-- [[Harukanaru Toki no Naka de 2 & 3 Twinpack]]（publisher）
-- [[Harukanaru Toki no Naka de 3 & Harukanaru Toki no Naka de 3 Izayoiki Twin Pack]]（developer）
-- [[Harukanaru Toki no Naka de 3 & Harukanaru Toki no Naka de 3 Izayoiki Twin Pack]]（publisher）
-- [[Harukanaru Toki no Naka de 3 - Premium Box]]（developer）
-- [[Harukanaru Toki no Naka de 3 - Premium Box]]（publisher）
-- [[Harukanaru Toki no Naka de 3 with Izayoiki - Collector's Edition - Premium Box]]（developer）
-- [[Harukanaru Toki no Naka de 3 with Izayoiki - Collector's Edition - Premium Box]]（publisher）
-- [[Harukanaru Toki no Naka de 3 with Izayoiki - Collector's Edition - Premium Box（KOEI Co., Ltd）]]（developer）
-- [[Harukanaru Toki no Naka de 3 with Izayoiki - Collector's Edition - Premium Box（KOEI Co., Ltd）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Harukanaru Toki no Naka de 3 with Izayoiki Collector's Edition]]（developer）
+- [[发行版/Harukanaru Toki no Naka de 3 with Izayoiki Collector's Edition]]（publisher）
+- [[发行版/Koei Tecmo the Best Harukanaru Toki no Naka de 3 with Izayoiki - Collector's Edition（KOEI Co., Ltd）]]（developer）
+- [[发行版/Koei Tecmo the Best Harukanaru Toki no Naka de 3 with Izayoiki - Collector's Edition（KOEI Co., Ltd）]]（publisher）
 - [[Harukanaru Toki no Naka de 3 with Izayoiki Collector's Edition]]（developer）
 - [[Harukanaru Toki no Naka de 3 with Izayoiki Collector's Edition]]（publisher）
-- [[Harukanaru Toki no Naka de 3 with Izayoiki Collector's Edition（KOEI Co., Ltd）]]（developer）
-- [[Harukanaru Toki no Naka de 3 with Izayoiki Collector's Edition（KOEI Co., Ltd）]]（publisher）
-- [[Harukanaru Toki no Naka de 3]]（developer）
-- [[Harukanaru Toki no Naka de 3]]（publisher）
-- [[Harukanaru Toki no Naka de 3： Izayoiki - Premium Box]]（developer）
-- [[Harukanaru Toki no Naka de 3： Izayoiki - Premium Box]]（publisher）
-- [[Harukanaru Toki no Naka de 3： Izayoiki]]（developer）
-- [[Harukanaru Toki no Naka de 3： Izayoiki]]（publisher）
-- [[Harukanaru Toki no Naka de 4]]（developer）
-- [[Harukanaru Toki no Naka de 4]]（publisher）
-- [[Harukanaru Toki no Naka de 4（KOEI Co., Ltd）]]（developer）
-- [[Harukanaru Toki no Naka de 4（KOEI Co., Ltd）]]（publisher）
-- [[Harukanaru Toki no Naka de： History]]（developer）
-- [[Harukanaru Toki no Naka de： History]]（publisher）
-- [[KOEI The Best Harukanaru Toki no Naka de 3]]（developer）
-- [[KOEI The Best Harukanaru Toki no Naka de 3]]（publisher）
-- [[KOEI The Best Harukanaru Toki no Naka de 3： Izayoiki]]（developer）
-- [[KOEI The Best Harukanaru Toki no Naka de 3： Izayoiki]]（publisher）
-- [[Kin'iro no Corda 2 & Encore Twin Pack]]（developer）
-- [[Kin'iro no Corda 2 & Encore Twin Pack]]（publisher）
-- [[Kin'iro no Corda 2 - Premium Box]]（developer）
-- [[Kin'iro no Corda 2 - Premium Box]]（publisher）
-- [[Kin'iro no Corda 2 KOEI the Best]]（developer）
-- [[Kin'iro no Corda 2 KOEI the Best]]（publisher）
-- [[Kin'iro no Corda 2]]（developer）
-- [[Kin'iro no Corda 2]]（publisher）
-- [[Kin'iro no Corda 2f - Premium Box]]（developer）
-- [[Kin'iro no Corda 2f - Premium Box]]（publisher）
-- [[Kin'iro no Corda 2f - Treasure Box]]（developer）
-- [[Kin'iro no Corda 2f - Treasure Box]]（publisher）
-- [[Kin'iro no Corda 2f]]（developer）
-- [[Kin'iro no Corda 2f]]（publisher）
-- [[Koei Tecmo the Best Harukanaru Toki no Naka de 3 with Izayoiki - Collector's Edition]]（developer）
-- [[Koei Tecmo the Best Harukanaru Toki no Naka de 3 with Izayoiki - Collector's Edition]]（publisher）
+- [[发行版/Harukanaru Toki no Naka de 4 - Collector's Edition Treasure Box]]（developer）
+- [[发行版/Harukanaru Toki no Naka de 4 - Collector's Edition Treasure Box]]（publisher）
+- [[发行版/Kin'iro no Corda 2 ff]]（developer）
+- [[发行版/Kin'iro no Corda 2 ff]]（publisher）
 - [[Koei Tecmo the Best Harukanaru Toki no Naka de 3 with Izayoiki - Collector's Edition（KOEI Co., Ltd）]]（developer）
 - [[Koei Tecmo the Best Harukanaru Toki no Naka de 3 with Izayoiki - Collector's Edition（KOEI Co., Ltd）]]（publisher）
 - [[遙かなる時空の中で3 十六夜記]]（developer）

@@ -12,8 +12,8 @@ source_urls:
 # Shadowwolf
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Baldr Sky 18+ Restoration Patch]]（publisher）
-- [[Baldr Sky 18+ Restoration Patch（Shadowwolf）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Baldr Sky Dive1 ＂Lost Memory＂ - First Press Edition]]（publisher）
+- [[发行版/Baldr Sky Dive2 ＂Recordare＂ - First Press Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -125,27 +125,9 @@ cover_image: "assets/covers/v24717.webp"
 - [[Yuuhi]]（ゆうひ）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[BugBug 300 Anniversary DVD Append H Disk Shuu Part 2（Sukora Magazine）]]
-- [[Jinse Loveriche -Golden Time-]]
+<!-- AUTO:BEGIN release -->- [[发行版/Kin'iro Loveriche + Kin'iro Loveriche -Golden Time- Golden Pack（SAGA PLANETS）]]
 - [[Kin'iro Loveriche + Kin'iro Loveriche -Golden Time- Golden Pack（SAGA PLANETS）]]
-- [[Kin'iro Loveriche -Golden Time- Censored Edition]]
-- [[Kin'iro Loveriche -Golden Time- Download Edition]]
-- [[Kin'iro Loveriche -Golden Time- First Press Limited Edition]]
-- [[Kin'iro Loveriche -Golden Time- Limited Edition]]
-- [[Kin'iro Loveriche -Golden Time- Limited Edition（SAGA PLANETS）]]
-- [[Kin'iro Loveriche -Golden Time- Regular Edition]]
-- [[Kin'iro Loveriche -Golden Time- Regular Edition（SAGA PLANETS）]]
-- [[Kin'iro Loveriche -Golden Time- Steam Patch]]
-- [[Kin'iro Loveriche -Golden Time- Trial Edition]]
-- [[Kin'iro Loveriche -Golden Time-]]
-- [[Kin'iro Loveriche -Golden Time-（HIKARI FIELD）]]
-- [[Kin'iro Loveriche -Golden Time-（SAGA PLANETS・release：）]]
-- [[Kin'iro Loveriche -Golden Time-（SAGA PLANETS）]]
-- [[Kin'iro Loveriche -Golden Time-（Team Myskrpatch）]]
-- [[Kinkoi Golden Time NekoNyan Append patch]]
-- [[Kinkoi： Golden Time - BugBug Append - AI Translated]]
-- [[Kinkoi： Golden Time - Mosaic Restoration Patch]]
-- [[Kinkoi： Golden Time]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -30,12 +30,9 @@ portrait_image: "assets/characters/c62706.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Hakuoki： Kyoto Winds - EU Edition]]（side）
-- [[Hakuoki： Kyoto Winds - NA Edition]]（side）
+<!-- AUTO:BEGIN character -->- [[发行版/Hakuouki Shinkai Fuukaden]]（side）
 - [[Hakuouki Shinkai Fuukaden]]（side）
-- [[Hakuouki Shinkai Hana no Shou - Regular Edition]]（side）
-- [[Hakuouki Shinkai Kaze no Shou - Regular Edition]]（side）
-- [[Hakuouki Shinkai Kaze no Shou]]（side）<!-- AUTO:END character -->
+<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Ooishi Keizou]]（声优：近藤 隆）<!-- AUTO:END voice -->

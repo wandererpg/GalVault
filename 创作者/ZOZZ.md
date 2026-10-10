@@ -12,7 +12,7 @@ source_urls:
 # ZOZZ
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Yinghua Dazhan 3]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Sakura Daejeon 3 ~ Palineun Bultago Issneunga ~]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

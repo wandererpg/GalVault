@@ -67,13 +67,9 @@ cover_image: "assets/covers/v19912.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Cinderella Phenomenon - Demo]]
-- [[Cinderella Phenomenon]]
-- [[Cinderella Phenomenon（Dicesuki）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Cinderella Phenomenon（Fantome Traducciones）]]
 - [[Cinderella Phenomenon（Fantome Traducciones）]]
-- [[Cinderella Phenomenon（release：）]]
-- [[Fenomen Zolushki]]
-- [[Huiguniang Xianxiang]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

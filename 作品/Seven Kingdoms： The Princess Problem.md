@@ -59,9 +59,9 @@ cover_image: "assets/covers/v18322.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Seven Kingdoms： The Princess Problem - Demo]]
+<!-- AUTO:BEGIN release -->- [[发行版/Seven Kingdoms： The Princess Problem - Extended Demo]]
 - [[Seven Kingdoms： The Princess Problem - Extended Demo]]
-- [[Seven Kingdoms： The Princess Problem v1.12]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

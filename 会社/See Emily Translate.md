@@ -12,9 +12,9 @@ source_urls:
 # See Emily Translate
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Kara no Shoujo I - La ragazza nel guscio]]（publisher）
-- [[Kara no Shoujo II]]（publisher）
-- [[You and Me and Her： A Love Story（See Emily Translate）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Innocent Grey Mystery Collection ~Kara no Shoujo & Pianissimo & Cartagra~]]（publisher）
+- [[发行版/Kara no Shoujo - NEW CAST REMASTER EDITION - Download Edition]]（publisher）
+- [[发行版/Ty, ja i ona： Istorija ljubvi - Steam Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

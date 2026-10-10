@@ -12,8 +12,8 @@ source_urls:
 # SuTODx
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Hitozuma Lovely Moment]]（publisher）
-- [[Sevun Deizu： Mishiranu JK to Misshitsu Seikatsu]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Hitozuma Lovely Moment - Package Edition]]（publisher）
+- [[发行版/Seven Days： Mishiranu JK to Misshitsu Seikatsu（release：）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

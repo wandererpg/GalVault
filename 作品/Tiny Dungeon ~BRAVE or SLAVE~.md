@@ -86,14 +86,9 @@ cover_image: "assets/covers/v9754.webp"
 - [[Toono Soyogi]]（遠野 そよぎ）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Tiny Dungeon BoS (Final Volume)]]
-- [[Tiny Dungeon Collection BOX]]
-- [[Tiny Dungeon Harem Set]]
-- [[Tiny Dungeon ~BRAVE or SLAVE~ Trial Edition]]
-- [[Tiny Dungeon ~BRAVE or SLAVE~]]
-- [[Tiny Dungeon ~BRAVE or SLAVE~（Moe App）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Tiny Dungeon ~BoS (Final Volume)~]]
 - [[Tiny Dungeon ~BoS (Final Volume)~]]
-- [[Tiny Dungeon ~Brave or Slave~（Zhen Chun'ai Tonghao Hui）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -12,21 +12,16 @@ source_urls:
 # AKABEiSOFT3
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Akatsuki no Goei Trinity Complete Edition - Download Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Akatsuki no Goei Trinity Complete Edition - First Press Limited Edition]]（publisher）
 - [[Akatsuki no Goei Trinity Complete Edition - First Press Limited Edition]]（publisher）
-- [[Akatsuki no Goei Trinity Complete Edition - Regular Edition]]（publisher）
-- [[Dekinai Watashi ga, Kurikaesu.  - Download Edition]]（developer）
-- [[Dekinai Watashi ga, Kurikaesu.  - Download Edition]]（publisher）
+- [[发行版/Dekinai Watashi ga, Kurikaesu. - First Press Limited Edition]]（developer）
+- [[发行版/Dekinai Watashi ga, Kurikaesu. - First Press Limited Edition]]（publisher）
 - [[Dekinai Watashi ga, Kurikaesu. - First Press Limited Edition]]（developer）
 - [[Dekinai Watashi ga, Kurikaesu. - First Press Limited Edition]]（publisher）
-- [[Dekinai Watashi ga, Kurikaesu. - Trial Edition]]（developer）
-- [[Dekinai Watashi ga, Kurikaesu. - Trial Edition]]（publisher）
 - [[Hataraku Otona no Ren'ai Jijou 2 - Download Edition]]（developer）
 - [[Hataraku Otona no Ren'ai Jijou 2 - Download Edition]]（publisher）
-- [[Hataraku Otona no Ren'ai Jijou 2 - Trial Edition]]（developer）
-- [[Hataraku Otona no Ren'ai Jijou 2 - Trial Edition]]（publisher）
-- [[Hataraku Otona no Ren'ai Jijou 2]]（developer）
-- [[Hataraku Otona no Ren'ai Jijou 2]]（publisher）
+- [[发行版/Hataraku Otona no Ren'ai Jijou 2 - Download Edition]]（developer）
+- [[发行版/Hataraku Otona no Ren'ai Jijou 2 - Download Edition]]（publisher）
 - [[働くオトナの恋愛事情２]]（developer）
 - [[若能与你再次相见]]（developer）<!-- AUTO:END duty -->
 

@@ -1,16 +1,74 @@
 ---
-entity_id: "release:vndb:r62432:work:vndb:work:v1981"
-type: "release"
-display_title: "Bikyaku Seido Kaichou Ai \"Ko, Kono Hentai! Watashi no Tights ni Nante Koto o...!\" - Low Price Edition DVDPG"
-release_date: "2019-02-21"
+entity_id: release:vndb:r62432:work:vndb:work:v1981
+type: release
+display_title: Bikyaku Seido Kaichou Ai "Ko, Kono Hentai! Watashi no Tights ni Nante Koto o...!" - Low Price Edition DVDPG
+release_date: '2019-02-21'
 is_all_ages: false
-platform: "dvd"
-edition_type: "complete"
-title_status: "needs_review"
+platform: dvd
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r62432"
+  vndb: r62432
 source_urls:
-  vndb: "https://vndb.org/r62432"
+  vndb: https://vndb.org/r62432
+aliases:
+- Bikyaku Seido Kaichou Ai ＂Ko, Kono Hentai! Watashi no Tights ni Nante Koto o...!＂ - Download Edition
+- Bikyaku Seido Kaichou Ai ＂Ko, Kono Hentai! Watashi no Tights ni Nante Koto o...!＂ - DVDPG
+- Bikyaku Seido Kaichou Ai ＂Ko, Kono Hentai! Watashi no Tights ni Nante Koto o...!＂ - Low Price Edition
+- Bikyaku Seido Kaichou Ai ＂Ko, Kono Hentai! Watashi no Tights ni Nante Koto o...!＂ Limited Edition
+- Overdose Collection Pack - Download Edition（Overdose）
+- Overdose Collection Pack（Overdose）
+consolidated_releases:
+- id: r62432
+  title: Bikyaku Seido Kaichou Ai "Ko, Kono Hentai! Watashi no Tights ni Nante Koto o...!" - Low Price Edition DVDPG
+  url: https://vndb.org/r62432
+  release_date: '2019-02-21'
+  platform: dvd
+  edition_type: complete
+  is_all_ages: false
+- id: r41250
+  title: Bikyaku Seido Kaichou Ai "Ko, Kono Hentai! Watashi no Tights ni Nante Koto o...!" - Low Price Edition
+  url: https://vndb.org/r41250
+  release_date: '2015-10-30'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r43902
+  title: Bikyaku Seido Kaichou Ai "Ko, Kono Hentai! Watashi no Tights ni Nante Koto o...!" - Download Edition
+  url: https://vndb.org/r43902
+  release_date: '2015-10-30'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r3887
+  title: Bikyaku Seido Kaichou Ai "Ko, Kono Hentai! Watashi no Tights ni Nante Koto o...!" Limited Edition
+  url: https://vndb.org/r3887
+  release_date: '2008-10-31'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r158446
+  title: Bikyaku Seido Kaichou Ai "Ko, Kono Hentai! Watashi no Tights ni Nante Koto o...!" - DVDPG
+  url: https://vndb.org/r158446
+  release_date: '2016-05-19'
+  platform: dvd
+  edition_type: complete
+  is_all_ages: false
+- id: r158444
+  title: Overdose Collection Pack - Download Edition
+  url: https://vndb.org/r158444
+  release_date: '2017-03-31'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r50678
+  title: Overdose Collection Pack
+  url: https://vndb.org/r50678
+  release_date: '2017-02-24'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Bikyaku Seido Kaichou Ai "Ko, Kono Hentai! Watashi no Tights ni Nante Koto o...!" - Low Price Edition DVDPG

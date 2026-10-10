@@ -12,10 +12,9 @@ source_urls:
 # HIKARI PULSE
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Chun'ai Kafeiting ～ Parfait Remake ～ Extended Patch]]（publisher）
-- [[Chun'ai Kafeiting ～ Parfait Remake ～]]（publisher）
-- [[Qingkongxia de Yueding― Refine Extended Patch]]（publisher）
-- [[Qingkongxia de Yueding― Refine]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Parfait ~Chocolat Second Style~ Limited Edition]]（publisher）
+- [[发行版/Kono Aozora ni Yakusoku o： Te no Hira No Rakuen - Deluxe Pack Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,11 +12,11 @@ source_urls:
 # Smilegate
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Cheonyeonmanhwa]]（publisher）
-- [[Dangsingwa Geunyeowa Geunyeoui Sarang]]（publisher）
-- [[FLOWERS -Gaeul Pyeon-]]（publisher）
-- [[FLOWERS -Gyeoul Pyeon-]]（publisher）
-- [[FLOWERS -Yeoreum Pyeon-]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Senren ＊ Banka - Package Edition]]（publisher）
+- [[发行版/Ty, ja i ona： Istorija ljubvi - Steam Edition]]（publisher）
+- [[发行版/Flowers -Le Volume sur Automne- Download Edition]]（publisher）
+- [[发行版/Flowers -Le Volume sur Hiver- Download Edition]]（publisher）
+- [[发行版/Flowers -Le Volume sur Été- Download Edition（PROTOTYPE）]]（publisher）
 - [[Huisu Yicun（Orca Layout・vndb：r94）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

@@ -12,7 +12,7 @@ source_urls:
 # Surferdude Production
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Rance VI - Collapse of Zeth -（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Lansi 6]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

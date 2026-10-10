@@ -12,8 +12,8 @@ source_urls:
 # Shouyeren Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Lianxiang Relation]]（publisher）
-- [[Yuanran Ciye,Huazuo Lianhong]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Rensou Relation - First Press Limited Edition]]（publisher）
+- [[发行版/Yorite Konoha wa Kurenai ni - First Press Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

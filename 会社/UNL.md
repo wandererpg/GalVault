@@ -12,7 +12,7 @@ source_urls:
 # UNL
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Planetarian ~Jageun Byeorui Kkum~]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Planetarian ~The Reverie of a Little Planet~（release：）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

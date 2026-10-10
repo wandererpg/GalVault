@@ -1,16 +1,41 @@
 ---
-entity_id: "release:vndb:r92855:work:vndb:work:v36681"
-type: "release"
-display_title: "My Pig Princess v0.10.0"
-release_date: "2026-04-04"
+entity_id: release:vndb:r92855:work:vndb:work:v36681
+type: release
+display_title: My Pig Princess v0.10.0
+release_date: '2026-04-04'
 is_all_ages: false
-platform: "win, lin, mac, and"
-edition_type: "partial"
-title_status: "needs_review"
+platform: win, lin, mac, and
+edition_type: partial
+title_status: needs_review
 source_ids:
-  vndb: "r92855"
+  vndb: r92855
 source_urls:
-  vndb: "https://vndb.org/r92855"
+  vndb: https://vndb.org/r92855
+aliases:
+- Moja Hrjushka Princessa v0.10.0
+consolidated_releases:
+- id: r92855
+  title: My Pig Princess v0.10.0
+  url: https://vndb.org/r92855
+  release_date: '2026-04-04'
+  platform: win, lin, mac, and
+  edition_type: partial
+  is_all_ages: false
+- id: r98861
+  title: My Pig Princess
+  url: https://vndb.org/r98861
+  release_date: '2023-01-01'
+  platform: win, lin, mac, and
+  edition_type: trial
+  is_all_ages: false
+- id: r124286
+  title: Moja Hrjushka Princessa v0.10.0
+  url: https://vndb.org/r124286
+  release_date: '2026-05-11'
+  platform: win, lin, and
+  edition_type: partial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # My Pig Princess v0.10.0

@@ -12,29 +12,10 @@ source_urls:
 # NanaWind
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[ALIA's CARNIVAL! - W Package - Deluxe First Press Limited Edition]]（developer）
-- [[ALIA's CARNIVAL! - W Package - Deluxe First Press Limited Edition]]（publisher）
-- [[ALIA's CARNIVAL! - W Package - Download Edition]]（developer）
-- [[ALIA's CARNIVAL! - W Package - Download Edition]]（publisher）
-- [[ALIA's CARNIVAL! - W Package - First Press Limited Edition]]（developer）
-- [[ALIA's CARNIVAL! - W Package - First Press Limited Edition]]（publisher）
-- [[ALIA's CARNIVAL! Flowering Sky - Yoyaku Tokuten ＂Hadaka Knee Socks Patch＂]]（developer）
-- [[ALIA's CARNIVAL! Flowering Sky - Yoyaku Tokuten ＂Hadaka Knee Socks Patch＂]]（publisher）
-- [[ALIA's CARNIVAL! Sacrament Plus - Download Edition]]（developer）
-- [[ALIA's CARNIVAL! Sacrament Plus - Limited Edition]]（developer）
-- [[ALIA's CARNIVAL! Sacrament Plus - Package Edition]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Alia's Carnival! Flowering Sky - 18+ Edition]]（developer）
+- [[发行版/Alia's Carnival! Flowering Sky - 18+ Edition]]（publisher）
 - [[Alia's Carnival! Flowering Sky - 18+ Edition]]（developer）
 - [[Alia's Carnival! Flowering Sky - 18+ Edition]]（publisher）
-- [[Alia's Carnival! Flowering Sky - After Story Append Patch ~Karin no Ecchi na Gohoushi Kanbyou♪~]]（developer）
-- [[Alia's Carnival! Flowering Sky - After Story Append Patch ~Karin no Ecchi na Gohoushi Kanbyou♪~]]（publisher）
-- [[Alia's Carnival! Flowering Sky - Download Edition]]（developer）
-- [[Alia's Carnival! Flowering Sky - Download Edition]]（publisher）
-- [[Alia's Carnival! Flowering Sky - First Press Limited Edition]]（developer）
-- [[Alia's Carnival! Flowering Sky - First Press Limited Edition]]（publisher）
-- [[Alia's Carnival! Flowering Sky - Trial Edition]]（developer）
-- [[Alia's Carnival! Flowering Sky - Trial Edition]]（publisher）
-- [[Alia's Carnival! Flowering Sky]]（developer）
-- [[Alia's Carnival! Flowering Sky（NanaWind）]]（developer）
 - [[爱丽娅的明日盛典！Flowering Sky]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

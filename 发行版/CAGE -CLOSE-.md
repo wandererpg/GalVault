@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r21795:work:vndb:work:v10730"
-type: "release"
-display_title: "CAGE -CLOSE-"
-release_date: "2012-08-10"
+entity_id: release:vndb:r21795:work:vndb:work:v10730
+type: release
+display_title: CAGE -CLOSE-
+release_date: '2012-08-10'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r21795"
+  vndb: r21795
 source_urls:
-  vndb: "https://vndb.org/r21795"
+  vndb: https://vndb.org/r21795
+aliases:
+- CAGE -CLOSE- Trial
+- CAGE -OPEN- & -CLOSE-（LOVE&DESTROY）
+consolidated_releases:
+- id: r21795
+  title: CAGE -CLOSE-
+  url: https://vndb.org/r21795
+  release_date: '2012-08-10'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r34408
+  title: CAGE -OPEN- & -CLOSE-
+  url: https://vndb.org/r34408
+  release_date: '2014-05-04'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r76566
+  title: CAGE -CLOSE- Trial
+  url: https://vndb.org/r76566
+  release_date: '2019-12-18'
+  platform: win
+  edition_type: trial
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # CAGE -CLOSE-

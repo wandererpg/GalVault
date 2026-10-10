@@ -12,10 +12,10 @@ source_urls:
 # Kuihai Jihua
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Higurashi no Naku Koro ni Hou - Onikakushi Hen]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Himatsubushi Hen（07th Expansion）]]（publisher）
 - [[Root Double]]（publisher）
-- [[Youjiu zhi Yi - the latter tale]]（publisher）
-- [[ef - the first tale]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

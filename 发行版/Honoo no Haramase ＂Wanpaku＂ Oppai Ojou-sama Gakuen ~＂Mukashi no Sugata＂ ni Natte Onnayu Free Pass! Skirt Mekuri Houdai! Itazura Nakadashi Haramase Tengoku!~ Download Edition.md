@@ -1,16 +1,38 @@
 ---
-entity_id: "release:vndb:r52813:work:vndb:work:v12232"
-type: "release"
-display_title: "Honoo no Haramase \"Wanpaku\" Oppai Ojou-sama Gakuen ~\"Mukashi no Sugata\" ni Natte Onnayu Free Pass! Skirt Mekuri Houdai! Itazura Nakadashi Haramase Tengoku!~ Download Edition"
-release_date: "2016-04-28"
+entity_id: release:vndb:r52813:work:vndb:work:v12232
+type: release
+display_title: Honoo no Haramase "Wanpaku" Oppai Ojou-sama Gakuen ~"Mukashi no Sugata" ni Natte Onnayu Free Pass! Skirt Mekuri
+  Houdai! Itazura Nakadashi Haramase Tengoku!~ Download Edition
+release_date: '2016-04-28'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r52813"
+  vndb: r52813
 source_urls:
-  vndb: "https://vndb.org/r52813"
+  vndb: https://vndb.org/r52813
+aliases:
+- Honoo no Haramase ＂Wanpaku＂ Oppai Ojou-sama Gakuen ~＂Mukashi no Sugata＂ ni Natte Onnayu Free Pass! Skirt Mekuri Houdai!
+  Itazura Nakadashi Haramase Tengoku!~
+consolidated_releases:
+- id: r52813
+  title: Honoo no Haramase "Wanpaku" Oppai Ojou-sama Gakuen ~"Mukashi no Sugata" ni Natte Onnayu Free Pass! Skirt Mekuri Houdai!
+    Itazura Nakadashi Haramase Tengoku!~ Download Edition
+  url: https://vndb.org/r52813
+  release_date: '2016-04-28'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r25896
+  title: Honoo no Haramase "Wanpaku" Oppai Ojou-sama Gakuen ~"Mukashi no Sugata" ni Natte Onnayu Free Pass! Skirt Mekuri Houdai!
+    Itazura Nakadashi Haramase Tengoku!~
+  url: https://vndb.org/r25896
+  release_date: '2013-05-24'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Honoo no Haramase "Wanpaku" Oppai Ojou-sama Gakuen ~"Mukashi no Sugata" ni Natte Onnayu Free Pass! Skirt Mekuri Houdai! Itazura Nakadashi Haramase Tengoku!~ Download Edition

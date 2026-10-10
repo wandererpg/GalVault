@@ -12,7 +12,7 @@ source_urls:
 # Sakurada Di
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Lucky Dog 1]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Luckydog1 - Download Edition（PROTOTYPE）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

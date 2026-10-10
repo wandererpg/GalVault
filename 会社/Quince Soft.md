@@ -12,14 +12,10 @@ source_urls:
 # Quince Soft
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Mono no Aware wa Sai no Koro. - Download Edition]]（developer）
-- [[Mono no Aware wa Sai no Koro. - Download Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Mono no Aware wa Sai no Koro. - First Press Limited Edition]]（developer）
+- [[发行版/Mono no Aware wa Sai no Koro. - First Press Limited Edition]]（publisher）
 - [[Mono no Aware wa Sai no Koro. - First Press Limited Edition]]（developer）
 - [[Mono no Aware wa Sai no Koro. - First Press Limited Edition]]（publisher）
-- [[Mono no Aware wa Sai no Koro. - Popular Edition]]（developer）
-- [[Mono no Aware wa Sai no Koro. - Popular Edition]]（publisher）
-- [[Mono no Aware wa Sai no Koro. - Web Trial Edition]]（developer）
-- [[Mono no Aware wa Sai no Koro. - Web Trial Edition]]（publisher）
 - [[もののあはれは彩の頃。]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

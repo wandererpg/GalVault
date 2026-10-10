@@ -12,8 +12,8 @@ source_urls:
 # Hardended
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Letnie Vospominanija Deluxe Edition]]（publisher）
-- [[Winter Memories]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Amaenbo+ - Expansion DLC - Censored Steam Edition]]（publisher）
+- [[发行版/Amaenbo Fuyu - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

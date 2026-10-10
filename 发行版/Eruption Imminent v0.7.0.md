@@ -1,16 +1,50 @@
 ---
-entity_id: "release:vndb:r111861:work:vndb:work:v46657"
-type: "release"
-display_title: "Eruption Imminent v0.7.0"
-release_date: "2026-04-30"
+entity_id: release:vndb:r111861:work:vndb:work:v46657
+type: release
+display_title: Eruption Imminent v0.7.0
+release_date: '2026-04-30'
 is_all_ages: false
-platform: "win, lin, mac"
-edition_type: "partial"
-title_status: "needs_review"
+platform: win, lin, mac
+edition_type: partial
+title_status: needs_review
 source_ids:
-  vndb: "r111861"
+  vndb: r111861
 source_urls:
-  vndb: "https://vndb.org/r111861"
+  vndb: https://vndb.org/r111861
+aliases:
+- Eruption Imminent Season 1
+- Eruption Imminent v0.7.0 - Incest Patch
+- Vspyshka Neminuema! v0.7.1
+consolidated_releases:
+- id: r111861
+  title: Eruption Imminent v0.7.0
+  url: https://vndb.org/r111861
+  release_date: '2026-04-30'
+  platform: win, lin, mac
+  edition_type: partial
+  is_all_ages: false
+- id: r156988
+  title: Eruption Imminent Season 1
+  url: https://vndb.org/r156988
+  release_date: '2026-08-25'
+  platform: win
+  edition_type: partial
+  is_all_ages: false
+- id: r111862
+  title: Eruption Imminent v0.7.0 - Incest Patch
+  url: https://vndb.org/r111862
+  release_date: '2026-05-13'
+  platform: win, lin, mac
+  edition_type: partial
+  is_all_ages: false
+- id: r111902
+  title: Vspyshka Neminuema! v0.7.1
+  url: https://vndb.org/r111902
+  release_date: '2025-03-15'
+  platform: win, lin, and
+  edition_type: partial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Eruption Imminent v0.7.0

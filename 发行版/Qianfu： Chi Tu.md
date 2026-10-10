@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r94747:work:vndb:work:v37713"
-type: "release"
-display_title: "Qianfu: Chi Tu"
-release_date: "2014-12-11"
+entity_id: release:vndb:r94747:work:vndb:work:v37713
+type: release
+display_title: 'Qianfu: Chi Tu'
+release_date: '2014-12-11'
 is_all_ages: true
-platform: "win, ios, and, web"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win, ios, and, web
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r94747"
+  vndb: r94747
 source_urls:
-  vndb: "https://vndb.org/r94747"
+  vndb: https://vndb.org/r94747
+aliases:
+- Undercover： The Red Path
+- Undercover： The Red Path（release：）
+consolidated_releases:
+- id: r94747
+  title: 'Qianfu: Chi Tu'
+  url: https://vndb.org/r94747
+  release_date: '2014-12-11'
+  platform: win, ios, and, web
+  edition_type: complete
+  is_all_ages: true
+- id: r161504
+  title: 'Undercover: The Red Path'
+  url: https://vndb.org/r161504
+  release_date: '2026-07-21'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+- id: r161411
+  title: 'Undercover: The Red Path'
+  url: https://vndb.org/r161411
+  release_date: '2026-07-21'
+  platform: web
+  edition_type: complete
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Qianfu: Chi Tu

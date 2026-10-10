@@ -12,20 +12,14 @@ source_urls:
 # CUBE
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Natsu no Ame - Download Edition]]（developer）
-- [[Natsu no Ame - Download Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Natsu no Ame - First Press Limited Edition]]（developer）
+- [[发行版/Natsu no Ame - First Press Limited Edition]]（publisher）
 - [[Natsu no Ame - First Press Limited Edition]]（developer）
 - [[Natsu no Ame - First Press Limited Edition]]（publisher）
-- [[Natsu no Ame - Trial Edition]]（developer）
-- [[Natsu no Ame - Trial Edition]]（publisher）
-- [[Same to Ikiru Nanokakan - Download Edition]]（developer）
-- [[Same to Ikiru Nanokakan - Download Edition]]（publisher）
-- [[Same to Ikiru Nanokakan - First Press Edition]]（developer）
-- [[Same to Ikiru Nanokakan - First Press Edition]]（publisher）
+- [[发行版/Same to Ikiru Nanokakan - Special Limited Edition]]（developer）
+- [[发行版/Same to Ikiru Nanokakan - Special Limited Edition]]（publisher）
 - [[Same to Ikiru Nanokakan - Special Limited Edition]]（developer）
 - [[Same to Ikiru Nanokakan - Special Limited Edition]]（publisher）
-- [[Same to Ikiru Nanokakan - Trial Edition]]（developer）
-- [[Same to Ikiru Nanokakan - Trial Edition]]（publisher）
 - [[与鲨鱼共度的七日间]]（developer）
 - [[夏之雨]]（developer）<!-- AUTO:END duty -->
 

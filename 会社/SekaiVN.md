@@ -12,11 +12,11 @@ source_urls:
 # SekaiVN
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[ATRI -My Dear Moments-（SekaiVN）]]（publisher）
-- [[Dias Extraordinários - Existência descontínua]]（publisher）
-- [[Kara no Shoujo（SekaiVN）]]（publisher）
-- [[Tsui no Stella（SekaiVN）]]（publisher）
-- [[ef - a fairy tale of the two]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/ATRI -My Dear Moments- Original Soundtrack - First Press Limited Edition]]（publisher）
+- [[发行版/Meihao de Meiyitian（Lingxue Hanhuazu）]]（publisher）
+- [[发行版/Innocent Grey Mystery Collection ~Kara no Shoujo & Pianissimo & Cartagra~]]（publisher）
+- [[发行版/Tsui no Stella]]（publisher）
+- [[发行版/ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

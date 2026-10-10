@@ -83,8 +83,8 @@ cover_image: "assets/covers/v55175.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Kyokugen Chikan Tokuiten NEO - Download Edition - Wallpaper and Browser Included Edition]]
-- [[Kyokugen Chikan Tokuiten NEO - Download Edition]]
-- [[Kyokugen Chikan Tokuiten NEO - Package Edition]]<!-- AUTO:END release -->
+- [[发行版/Kyokugen Chikan Tokuiten NEO - Download Edition - Wallpaper and Browser Included Edition]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

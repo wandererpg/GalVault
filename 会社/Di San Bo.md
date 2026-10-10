@@ -12,7 +12,7 @@ source_urls:
 # Di San Bo
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Yinghua Dazhan 3 ~Paris Zai Ranshao ma~]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Sakura Daejeon 3 ~ Palineun Bultago Issneunga ~]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

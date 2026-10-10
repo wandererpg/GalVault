@@ -13,19 +13,12 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Ebikore+ Amagami - Download Edition]]（publisher）
-- [[Ebikore+ Amagami - Limited Edition]]（publisher）
-- [[Ebikore+ Amagami - Limited Edition（Enterbrain!）]]（publisher）
-- [[Ebikore+ Amagami - PS Vita Edition]]（publisher）
-- [[Ebikore+ Amagami - Regular Edition]]（publisher）
-- [[Ebikore+ Amagami - Regular Edition（Enterbrain!）]]（publisher）
-- [[Fate／Hollow Ataraxia - Limited Edition]]（publisher）
-- [[Fate／Hollow Ataraxia - PlayStation Vita the Best]]（publisher）
-- [[Fate／Hollow Ataraxia - Regular Edition]]（publisher）
-- [[Fate／Stay Night ［Realta Nua］ (Playstation Vita the Best)]]（publisher）
-- [[Fate／Stay Night ［Realta Nua］（TYPE-MOON）]]（publisher）
+- [[发行版/Ebikore+ Amagami - Download Edition]]（publisher）
+- [[发行版/Fate／Hollow Ataraxia - Voice Patch]]（publisher）
+- [[发行版/Fate／Stay Night ［Realta Nua］ - Ultimate Edition]]（publisher）
 - [[Rou-Kyuu-Bu! - Download Edition]]（publisher）
-- [[Rou-Kyuu-Bu! - Limited Edition]]（publisher）
-- [[Rou-Kyuu-Bu! - Regular Edition]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Rou-Kyuu-Bu! - Download Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

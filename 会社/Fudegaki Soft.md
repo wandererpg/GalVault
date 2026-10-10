@@ -14,10 +14,8 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Wizard Links - Download Edition]]（developer）
 - [[Wizard Links - Download Edition]]（publisher）
-- [[Wizard Links - Package Edition]]（developer）
-- [[Wizard Links - Package Edition]]（publisher）
-- [[Wizard Links - Trial Edition]]（developer）
-- [[Wizard Links - Trial Edition]]（publisher）
+- [[发行版/Wizard Links - Download Edition]]（developer）
+- [[发行版/Wizard Links - Download Edition]]（publisher）
 - [[ウィザードリンクス]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

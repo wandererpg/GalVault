@@ -101,21 +101,9 @@ cover_image: "assets/covers/v42561.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Lingyi Shijie FILE23： Bensuo Qi Da Bukesiyi]]
-- [[Lingyi Shijie FILE23： Honjo Qi Da Bukesiyi]]
-- [[Lingyi Shijie FILE23： Honjo Qi Da Bukesiyi（XXGame Hanhuazu）]]
-- [[PARANORMASIGHT DOSSIER 23： Les sept mystères de Honjo]]
-- [[PARANORMASIGHT FILE23： Honjo Nanafushigi]]
-- [[PARANORMASIGHT FILE23： Honjo Nanafushigi（SQUARE ENIX・27ce16f9）]]
-- [[PARANORMASIGHT FILE23： Honjo Nanafushigi（SQUARE ENIX・570b3fa6）]]
-- [[PARANORMASIGHT FILE23： Honjo Nanafushigi（SQUARE ENIX・k：v42561）]]
-- [[PARANORMASIGHT FILE23： Honjo Nanafushigi（SQUARE ENIX・release：）]]
-- [[PARANORMASIGHT FILE23： Honjo Nanafushigi（SQUARE ENIX・vndb：r10）]]
-- [[PARANORMASIGHT FILE23： Honjo Nanafushigi（SQUARE ENIX・vndb：r12）]]
+<!-- AUTO:BEGIN release -->- [[发行版/PARANORMASIGHT FILE23： Honjo Nanafushigi（SQUARE ENIX）]]
 - [[PARANORMASIGHT FILE23： Honjo Nanafushigi（SQUARE ENIX）]]
-- [[PARANORMASIGHT FILE23： Honjo Nanafushigi（release：）]]
-- [[PARANORMASIGHT： los siete misterios de Honjo]]
-- [[Palanomasaiteu： Honjo 7dae Bulgasaui]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

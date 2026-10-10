@@ -1,16 +1,34 @@
 ---
-entity_id: "release:vndb:r57006:work:vndb:work:v30957"
-type: "release"
-display_title: "ZENGAKU! Sana Append"
-release_date: "2018-05-18"
+entity_id: release:vndb:r57006:work:vndb:work:v30957
+type: release
+display_title: ZENGAKU! Sana Append
+release_date: '2018-05-18'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r57006"
+  vndb: r57006
 source_urls:
-  vndb: "https://vndb.org/r57006"
+  vndb: https://vndb.org/r57006
+aliases:
+- Zengaku! Sana Append
+consolidated_releases:
+- id: r57006
+  title: ZENGAKU! Sana Append
+  url: https://vndb.org/r57006
+  release_date: '2018-05-18'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r153999
+  title: Zengaku! Sana Append
+  url: https://vndb.org/r153999
+  release_date: '2026-04-25'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # ZENGAKU! Sana Append

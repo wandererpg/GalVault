@@ -12,8 +12,8 @@ source_urls:
 # inkEthic
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Meeting in the Flesh - Demo]]（developer）
-- [[Meeting in the Flesh - Demo]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Meeting in the Flesh]]（developer）
+- [[发行版/Meeting in the Flesh]]（publisher）
 - [[Meeting in the Flesh]]（developer）
 - [[Meeting in the Flesh]]（publisher）<!-- AUTO:END duty -->
 

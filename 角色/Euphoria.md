@@ -31,20 +31,9 @@ portrait_image: "assets/characters/c141538.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Aselia the Eternal - Download Edition]]（appears）
-- [[Aselia the Eternal - Package Edition]]（appears）
-- [[Eien no Aselia - Download Edition]]（appears）
-- [[Eien no Aselia - Premium Special Edition - Download Edition]]（appears）
-- [[Eien no Aselia - Premium Special Edition]]（appears）
-- [[Eien no Aselia - Special Edition]]（appears）
-- [[Eien no Aselia -Kono Daichi no Hate De- First Press Limited Edition]]（appears）
-- [[Eien no Aselia -Kono Daichi no Hate De- First Press Limited Edition（Nippon Ichi Software, Inc）]]（appears）
-- [[Eien no Aselia -Kono Daichi no Hate De- Regular Edition]]（appears）
-- [[Eien no Aselia -Kono Daichi no Hate De- Regular Edition（Nippon Ichi Software, Inc）]]（appears）
-- [[Eien no Aselia -The Spirit of Eternity Sword- DVD Edition]]（appears）
+<!-- AUTO:BEGIN character -->- [[发行版/Eien no Aselia -The Spirit of Eternity Sword- Premium Special Edition + Seinarukana -The Spirit of Eternity Sword 2- Special Edition W Set]]（appears）
 - [[Eien no Aselia -The Spirit of Eternity Sword- Premium Special Edition + Seinarukana -The Spirit of Eternity Sword 2- Special Edition W Set]]（appears）
-- [[Eien no Aselia -The Spirit of Eternity Sword-（Xuse）]]（appears）
-- [[Seinarukana -The Spirit of Eternity Sword 2- SPECIAL PACKAGE]]（appears）<!-- AUTO:END character -->
+<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->

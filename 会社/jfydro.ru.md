@@ -12,8 +12,8 @@ source_urls:
 # jfydro.ru
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Atri： moi dorogie vospomonaniya]]（publisher）
-- [[NUKITASHI（jfydro.ru）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/ATRI -My Dear Moments- Original Soundtrack - First Press Limited Edition]]（publisher）
+- [[发行版/NUKITASHI]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

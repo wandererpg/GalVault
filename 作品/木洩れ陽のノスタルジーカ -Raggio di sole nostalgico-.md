@@ -80,10 +80,9 @@ cover_image: "assets/covers/v10958.webp"
 - [[Yukito Saori]]（雪都 さお梨）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Komorebi no Nostalgica - Download Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Komorebi no Nostalgica - First Press Limited Edition]]
 - [[Komorebi no Nostalgica - First Press Limited Edition]]
-- [[Komorebi no Nostalgica - Trial Edition]]
-- [[Yejian Chanchan Xiangchou]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

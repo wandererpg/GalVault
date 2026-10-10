@@ -12,7 +12,7 @@ source_urls:
 # Otogelib
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Black Wolves Saga -Weiβ und Schwarz-（Otogelib）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/BLACK WOLVES SAGA -Weiβ und Schwarz- for Nintendo Switch Special Edition（Rejet Co., Ltd）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

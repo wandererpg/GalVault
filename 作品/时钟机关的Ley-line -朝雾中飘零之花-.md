@@ -108,25 +108,9 @@ cover_image: "assets/covers/v16212.webp"
 - [[shizuku（vndb：per）]]（shizuku）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[A Clockwork Ley-Line Limited Box Set（Sekai Project）]]
-- [[A Clockwork Ley-Line： Flowers Falling in the Morning Mist - Censored Edition]]
-- [[A Clockwork Ley-Line： Flowers Falling in the Morning Mist – 18+ DLC]]
-- [[A Clockwork Ley-Line： Flowers Falling in the Morning Mist]]
-- [[Shizhong Jiguan de Ley-line -Zhaowu zhong Piaoling zhi Hua-]]
-- [[Tokeijikake no Ley Line - 3 Games Pack & Drama CD Bundled Ver（Unison Shift： Blossom）]]
-- [[Tokeijikake no Ley Line - 3 Games Pack（Unison Shift： Blossom）]]
-- [[Tokeijikake no Ley Line - Limited Trilogy Box（Unison Shift： Blossom）]]
-- [[Tokeijikake no Ley Line - Special Memorial Edition（Unison Shift： Blossom）]]
-- [[Tokeijikake no Ley Line -Asagiri ni Chiru Hana- Download Edition]]
-- [[Tokeijikake no Ley Line -Asagiri ni Chiru Hana- First Press Edition]]
-- [[Tokeijikake no Ley Line -Asagiri ni Chiru Hana- Trial Edition]]
-- [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Download Edition（Unison Shift： Blossom・vndb：r10）]]
-- [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Download Edition（Unison Shift： Blossom）]]
-- [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Package Edition（Unison Shift： Blossom・vndb：r76）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Package Edition（Unison Shift： Blossom）]]
 - [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Package Edition（Unison Shift： Blossom）]]
-- [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Trial Edition（Unison Shift： Blossom・vndb：r78）]]
-- [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Trial Edition（Unison Shift： Blossom）]]
-- [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo-（release：）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

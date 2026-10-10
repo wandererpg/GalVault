@@ -12,7 +12,7 @@ source_urls:
 # Taisho Romanization
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Sakura Wars 3]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Sakura Daejeon 3 ~ Palineun Bultago Issneunga ~]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,8 +12,8 @@ source_urls:
 # jjjewel
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Tokimeki Memorial Girl's Side Premium ~3rd Story~]]（publisher）
-- [[Tokimeki Memorial Girl's Side： 3rd Story]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Tokimeki Memorial Girl's Side Premium ~3rd Story~ First Press Limited Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

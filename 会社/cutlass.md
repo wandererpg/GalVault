@@ -12,15 +12,11 @@ source_urls:
 # cutlass
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[NOeSIS -Uso o Tsuita Kioku no Monogatari-]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/NOeSIS -Uso o Tsuita Kioku no Monogatari-（cutlass）]]（developer）
 - [[NOeSIS -Uso o Tsuita Kioku no Monogatari-（cutlass）]]（developer）
 - [[NOeSIS 嘘を吐いた記憶の物語]]（developer）
-- [[NOeSIS02 -Uka-]]（developer）
-- [[NOeSIS02 -Uka-]]（publisher）
-- [[NOeSIS02 -Uka-（cutlass・release：）]]（developer）
-- [[NOeSIS02 -Uka-（cutlass・release：）]]（publisher）
-- [[NOeSIS02 -Uka-（cutlass）]]（developer）
-- [[NOeSIS02 -Uka-（cutlass）]]（publisher）
+- [[发行版/NOeSIS02_Uka]]（developer）
+- [[发行版/NOeSIS02_Uka]]（publisher）
 - [[NOeSIS02_羽化]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

@@ -12,7 +12,7 @@ source_urls:
 # AkaAka Translation Project
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Akaya Akashiya Ayakashino (Complete Edition)]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Akaya Akashiya Ayakashino - Regular Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

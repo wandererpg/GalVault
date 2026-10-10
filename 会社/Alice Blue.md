@@ -12,8 +12,8 @@ source_urls:
 # Alice Blue
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ore no Shita de Agake]]（developer）
-- [[Ore no Shita de Agake]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Ore no Shita de Agake（Alice Blue）]]（developer）
+- [[发行版/Ore no Shita de Agake（Alice Blue）]]（publisher）
 - [[Ore no Shita de Agake（Alice Blue）]]（developer）
 - [[俺の下であがけ]]（developer）<!-- AUTO:END duty -->
 

@@ -12,9 +12,8 @@ source_urls:
 # TraduSquare
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[AI： The Somnium Files（TraduSquare・release：）]]（publisher）
-- [[AI： The Somnium Files（TraduSquare）]]（publisher）
-- [[Sengoku Rance]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/AI： The Somnium Files - EU Special Agent Edition（Numskull Games Ltd）]]（publisher）
+- [[发行版/Dai Sengoku Rance（vndb：r12）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

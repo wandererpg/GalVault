@@ -12,7 +12,7 @@ source_urls:
 # BOOST ON
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Sekai de Ichiban Dame na Koi Full House - First Press Limited Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Sekai de Ichiban Dame na Koi Full House - Regular Edition]]（publisher）
 - [[Sekai de Ichiban Dame na Koi Full House - Regular Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

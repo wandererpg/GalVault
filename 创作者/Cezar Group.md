@@ -12,7 +12,7 @@ source_urls:
 # Cezar Group
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[H'entay T'ur'ma]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Hentai Prison - First Press Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

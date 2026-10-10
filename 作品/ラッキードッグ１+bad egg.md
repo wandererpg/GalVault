@@ -89,13 +89,9 @@ cover_image: "assets/covers/v4918.webp"
 - [[Yusa Kouji]]（浅野 要二）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Lucky dog1+badegg]]
-- [[Luckydog1+bad egg - Trial Edition]]
-- [[Luckydog1+bad egg Trial Version]]
-- [[Luckydog1+bad egg ~ Download Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Luckydog1+bad egg]]
 - [[Luckydog1+bad egg]]
-- [[Luckydog1+bad egg（Tennenouji・release：）]]
-- [[Luckydog1+bad egg（Tennenouji）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

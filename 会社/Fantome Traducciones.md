@@ -13,7 +13,7 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Cinderella Phenomenon（Fantome Traducciones）]]（publisher）
-- [[Hakuoki： Demon of the Fleeting Blossom]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Hakuouki Shinkai Fuukaden]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

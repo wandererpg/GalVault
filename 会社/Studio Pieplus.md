@@ -12,28 +12,10 @@ source_urls:
 # Studio Pieplus
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Beyond Eden - Demo]]（developer）
-- [[Beyond Eden - Demo]]（publisher）
-- [[Beyond Eden - Demo（Studio Pieplus・release：）]]（developer）
-- [[Beyond Eden - Demo（Studio Pieplus・release：）]]（publisher）
-- [[Beyond Eden - Demo（Studio Pieplus・vndb：r51）]]（developer）
-- [[Beyond Eden - Demo（Studio Pieplus・vndb：r51）]]（publisher）
-- [[Beyond Eden - Demo（Studio Pieplus）]]（developer）
-- [[Beyond Eden - Demo（Studio Pieplus）]]（publisher）
-- [[Beyond Eden]]（developer）
-- [[Beyond Eden]]（publisher）
-- [[Beyond Eden（Studio Pieplus・release：）]]（developer）
-- [[Beyond Eden（Studio Pieplus・release：）]]（publisher）
-- [[Beyond Eden（Studio Pieplus・vndb：r87）]]（developer）
-- [[Beyond Eden（Studio Pieplus・vndb：r87）]]（publisher）
-- [[Beyond Eden（Studio Pieplus）]]（developer）
-- [[Beyond Eden（Studio Pieplus）]]（publisher）
-- [[Eden-ui Neomeo - DVD Package Edition]]（developer）
-- [[Eden-ui Neomeo - DVD Package Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Eden-ui Neomeo - Steam Korean Edition]]（developer）
+- [[发行版/Eden-ui Neomeo - Steam Korean Edition]]（publisher）
 - [[Eden-ui Neomeo - Steam Korean Edition]]（developer）
 - [[Eden-ui Neomeo - Steam Korean Edition]]（publisher）
-- [[Eden-ui Neomeo - Trial Edition]]（developer）
-- [[Eden-ui Neomeo - Trial Edition]]（publisher）
 - [[Eden-ui Neomeo]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

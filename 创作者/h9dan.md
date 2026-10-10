@@ -12,9 +12,9 @@ source_urls:
 # h9dan
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[［07-th mod］ Kogda plachut cikady]]（publisher）
-- [[［07-th mod］ Kogda plachut cikady（release：）]]（publisher）
-- [[［07-th mod］ Kogda plachut cikady（vndb：r80）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Higurashi no Naku Koro ni Hou + Umineko no Naku Koro ni Saku - Twin Pack（ENTERGRAM・vndb：r11）]]（publisher）
+- [[发行版/Himatsubushi Hen（07th Expansion）]]（publisher）
+- [[发行版/Matsuribayashi Hen（07th Expansion）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

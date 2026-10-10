@@ -13,8 +13,8 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Hitozuma Lovely Moment - Package Edition]]（developer）
-- [[Hitozuma Lovely Moment（stick）]]（developer）
-- [[Hitozuma Lovely Moment（stick）]]（publisher）
+- [[发行版/Hitozuma Lovely Moment - Package Edition]]（developer）
+- [[发行版/Hitozuma Lovely Moment - Package Edition]]（publisher）
 - [[人妻LovelyMoment]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

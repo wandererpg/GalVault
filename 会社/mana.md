@@ -14,10 +14,8 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Yumeiro Alouette! - Download Edition]]（developer）
 - [[Yumeiro Alouette! - Download Edition]]（publisher）
-- [[Yumeiro Alouette! - Package Edition]]（developer）
-- [[Yumeiro Alouette! - Package Edition]]（publisher）
-- [[Yumeiro Alouette! - Trial Edition]]（developer）
-- [[Yumeiro Alouette! - Trial Edition]]（publisher）
+- [[发行版/Yumeiro Alouette! - Download Edition]]（developer）
+- [[发行版/Yumeiro Alouette! - Download Edition]]（publisher）
 - [[ゆめいろアルエット！]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

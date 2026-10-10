@@ -126,40 +126,9 @@ cover_image: "assets/covers/v211.webp"
 - [[Murasakibana Sumire]]（紫華 すみれ）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Az Ördög a G-húron]]
-- [[Diabeł na strunie G]]
-- [[G-Seonsangui Mawang]]
-- [[G-senjou no Maou - Download Edition]]
-- [[G-senjou no Maou - First Press Limited Edition]]
-- [[G-senjou no Maou - Quality Package Edition 1000 Series - B2 Tapestry included]]
-- [[G-senjou no Maou - Quality Package Edition 1000 Series - Regular Edition]]
-- [[G-senjou no Maou - Regular Edition]]
-- [[G-senjou no Maou - Second Trial Edition]]
-- [[G-senjou no Maou - The Devil on G-String - Unrated Edition]]
-- [[G-senjou no Maou - The Devil on G-String - Unrated Patch]]
-- [[G-senjou no Maou - The Devil on G-String - Voiced Edition]]
-- [[G-senjou no Maou - The Devil on G-String - Voiceless Edition]]
-- [[G-senjou no Maou - The Devil on G-String]]
-- [[G-senjou no Maou - The Devil on G-String（Saito Team）]]
-- [[G-senjou no Maou - The Devil on G-String（Tour-Team）]]
-- [[G-senjou no Maou - The Devil on G-String（release：）]]
-- [[G-senjou no Maou - Trial Edition]]
-- [[G-senjou no Maou Chapter 2]]
-- [[G-senjou no Maou]]
+<!-- AUTO:BEGIN release -->- [[发行版/G-senjou no Maou（Aegis）]]
 - [[G-senjou no Maou（Aegis）]]
-- [[G-senjou no Maou（New Dawn Project）]]
-- [[G-senjou no Maou（Sharin-Sub）]]
-- [[G-senjou no Maou（Team Myskrpatch）]]
-- [[G-senjou no Maou（release：）]]
-- [[G-xian Shang de Mowang]]
-- [[G-xian Shang de Mowang（ork：v211）]]
-- [[G-xian Shang de Mowang（release：）]]
-- [[G-xian Shang de Mowang（vndb：r18）]]
-- [[Giai điệu Quỷ vương trên dây Sol - HD Edition]]
-- [[Mao na strune Sol']]
-- [[Mao na strune Sol'（Innocence Translations）]]
-- [[O Diabo na Corda Sol]]
-- [[Tayutama -Kiss on my Deity- TECH GIAN July 2008 Issue]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

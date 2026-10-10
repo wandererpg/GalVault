@@ -1,16 +1,114 @@
 ---
-entity_id: "release:vndb:r49783:work:vndb:work:v20524"
-type: "release"
-display_title: "Wagamama High Spec OC - First Press Edition"
-release_date: "2017-08-25"
+entity_id: release:vndb:r49783:work:vndb:work:v20524
+type: release
+display_title: Wagamama High Spec OC - First Press Edition
+release_date: '2017-08-25'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r49783"
+  vndb: r49783
 source_urls:
-  vndb: "https://vndb.org/r49783"
+  vndb: https://vndb.org/r49783
+aliases:
+- Jianman Renxing HIGH SPEC OC - Censored Edition
+- Jiaoman Renxing HIGH SPEC OC - 18+ DLC
+- Renxing HighSpec OC
+- Wagahai+OC set
+- Wagamama High Spec & OC - W Pack
+- WAGAMAMA HIGH SPEC OC
+- Wagamama High Spec OC - 18+ DLC
+- WAGAMAMA HIGH SPEC OC - Censored Edition
+- Wagamama High Spec OC - Download Edition
+- Wagamama High Spec OC（release：）
+- Wagamama High Spec OC（vndb：r98）
+consolidated_releases:
+- id: r49783
+  title: Wagamama High Spec OC - First Press Edition
+  url: https://vndb.org/r49783
+  release_date: '2017-08-25'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r54567
+  title: Wagamama High Spec OC - Download Edition
+  url: https://vndb.org/r54567
+  release_date: '2017-10-13'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r93863
+  title: Wagamama High Spec & OC - W Pack
+  url: https://vndb.org/r93863
+  release_date: '2022-08-26'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r66882
+  title: Wagahai+OC set
+  url: https://vndb.org/r66882
+  release_date: '2017-12-22'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r123215
+  title: Jianman Renxing HIGH SPEC OC - Censored Edition
+  url: https://vndb.org/r123215
+  release_date: '2025-12-16'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+- id: r145149
+  title: WAGAMAMA HIGH SPEC OC - Censored Edition
+  url: https://vndb.org/r145149
+  release_date: '2026-02-13'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+- id: r146039
+  title: Jiaoman Renxing HIGH SPEC OC - 18+ DLC
+  url: https://vndb.org/r146039
+  release_date: '2025-12-16'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r148815
+  title: Wagamama High Spec OC - 18+ DLC
+  url: https://vndb.org/r148815
+  release_date: '2026-02-13'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r115051
+  title: Renxing HighSpec OC
+  url: https://vndb.org/r115051
+  release_date: '2023-11-11'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r148816
+  title: WAGAMAMA HIGH SPEC OC
+  url: https://vndb.org/r148816
+  release_date: '2026-02-13'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r98353
+  title: Wagamama High Spec OC
+  url: https://vndb.org/r98353
+  release_date: '2022-11-10'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r84059
+  title: Wagamama High Spec OC
+  url: https://vndb.org/r84059
+  release_date: '2021-05-10'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Wagamama High Spec OC - First Press Edition

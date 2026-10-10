@@ -11,7 +11,7 @@ source_urls:
 # aloneunix
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Steins;Gate v1.0.5 (beta)]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/STEINS;GATE - Download Edition（MAGES・release：）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

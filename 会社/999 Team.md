@@ -12,7 +12,7 @@ source_urls:
 # 999 Team
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[999： Nueve Horas, Nueve Personas, Nueve Puertas]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kyokugen Dasshutsu 9-Jikan 9-Nin 9 no Tobira - Chun Selection]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

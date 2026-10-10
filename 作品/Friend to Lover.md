@@ -108,28 +108,9 @@ cover_image: "assets/covers/v11856.webp"
 - [[Suzune Kagetsu]]（鈴音 華月）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Friend to Lover ~Fureraba~ Download Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Friend to Lover ~Fureraba~ First Press Limited Edition]]
 - [[Friend to Lover ~Fureraba~ First Press Limited Edition]]
-- [[Friend to Lover ~Fureraba~ Regular Edition]]
-- [[Friend to Lover ~Fureraba~ Trial Edition]]
-- [[Fureraba ~Friend to Lover~ - Mosaic Restoration Patch]]
-- [[Fureraba ~Friend to Lover~ 18+ Steam Patch]]
-- [[Fureraba ~Friend to Lover~ Censored Edition]]
-- [[Fureraba ~Friend to Lover~ Complete Edition]]
-- [[Fureraba ~Friend to Lover~ Complete Edition（NekoNyan）]]
-- [[Fureraba ~Friend to Lover~ Deluxe Edition]]
-- [[Fureraba ~Friend to Lover~ Download Edition]]
-- [[Fureraba ~Friend to Lover~ First Press Edition]]
-- [[Fureraba ~Friend to Lover~ HD Renewal Edition]]
-- [[Fureraba ~Friend to Lover~ HD Renewal Edition（SMEE）]]
-- [[Fureraba ~Friend to Lover~ HD Renewal Edition（Team Myskrpatch）]]
-- [[Fureraba ~Friend to Lover~ Regular Edition]]
-- [[Fureraba ~Friend to Lover~ Standard Edition]]
-- [[Fureraba ~Friend to Lover~ Trial Edition]]
-- [[Fureraba ~Friend to Lover~]]
-- [[Fureraba ~Friend to Lover~（Chengcai Xueyuan Hanhuazu）]]
-- [[Fureraba ~Friend to Lover~（Gei Diaosi Dailai Chuntian Hanhua Weiyuanhui）]]
-- [[SMEE 15th Anniversary Box 2009-2020]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -12,7 +12,7 @@ source_urls:
 # GekkaHima Team
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Dreamin' Her -Tôi mơ thấy em.-]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Dreamin' Her -Boku wa, Kanojo no Yume o Miru.-]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

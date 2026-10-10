@@ -28,7 +28,7 @@ portrait_image: "assets/characters/c118583.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Hush Hush - Peanut DLC]]（primary）
+<!-- AUTO:BEGIN character -->- [[发行版/Hush Hush： Only Your Love Can Save Them]]（primary）
 - [[Hush Hush： Only Your Love Can Save Them]]（appears）<!-- AUTO:END character -->
 
 ## 声优

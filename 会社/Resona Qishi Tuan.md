@@ -12,8 +12,8 @@ source_urls:
 # Resona Qishi Tuan
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Xin Qi Lovely Cation - Chinese Trial Edition]]（publisher）
-- [[Xingfu Emeng -Fragmentation Dream-]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Niizuma Lovely x Cation - First Press Limited Edition]]（publisher）
+- [[发行版/Hapymaher -Fragmentation Dream- Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

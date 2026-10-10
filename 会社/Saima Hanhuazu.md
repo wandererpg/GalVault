@@ -12,7 +12,7 @@ source_urls:
 # Saima Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Huaichuai Sinian tong Wo Zaihui!!]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Docchi no i ga Suki Desu ka？ + Omoide Kakaete Ai ni Koi!! Set（HOOKSOFT）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

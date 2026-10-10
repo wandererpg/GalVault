@@ -1,16 +1,57 @@
 ---
-entity_id: "release:vndb:r56801:work:vndb:work:v21192"
-type: "release"
-display_title: "D.C. III ~Da Capo III~ Dream Days - Download Edition"
-release_date: "2017-11-10"
+entity_id: release:vndb:r56801:work:vndb:work:v21192
+type: release
+display_title: D.C. III ~Da Capo III~ Dream Days - Download Edition
+release_date: '2017-11-10'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r56801"
+  vndb: r56801
 source_urls:
-  vndb: "https://vndb.org/r56801"
+  vndb: https://vndb.org/r56801
+aliases:
+- D.C. III ~Da Capo III~ Dream Days
+- D.C. III ~Da Capo III~ Dream Days（CIRCUS）
+- D.C. III ~Da Capo III~ Dream Days（Sakura Symphony Re;Translation）
+- D.C. ~Da Capo~ Archives - SAKURA Edition（CIRCUS・vndb：r59）
+consolidated_releases:
+- id: r56801
+  title: D.C. III ~Da Capo III~ Dream Days - Download Edition
+  url: https://vndb.org/r56801
+  release_date: '2017-11-10'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r59743
+  title: D.C. ~Da Capo~ Archives - SAKURA Edition
+  url: https://vndb.org/r59743
+  release_date: '2019-01-25'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r51519
+  title: D.C. III ~Da Capo III~ Dream Days
+  url: https://vndb.org/r51519
+  release_date: '2017-09-29'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r155965
+  title: D.C. III ~Da Capo III~ Dream Days
+  url: https://vndb.org/r155965
+  release_date: '2026-05-16'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+- id: r120220
+  title: D.C. III ~Da Capo III~ Dream Days
+  url: https://vndb.org/r120220
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # D.C. III ~Da Capo III~ Dream Days - Download Edition

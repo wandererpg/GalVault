@@ -32,10 +32,10 @@ portrait_image: "assets/characters/c1592.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[ef - a fairy tale of the two. - First Press Limited Edition]]（primary）
+<!-- AUTO:BEGIN character -->- [[发行版/ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（primary）
 - [[ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（protagonist）
-- [[ef - the first tale（minori）]]（protagonist）
-- [[ef - the latter tale（minori）]]（appears）<!-- AUTO:END character -->
+- [[发行版/ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（protagonist）
+- [[发行版/ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（appears）<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Kawana You]]（声优：小満 皐）<!-- AUTO:END voice -->

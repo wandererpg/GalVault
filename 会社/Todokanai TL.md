@@ -11,8 +11,8 @@ source_urls:
 # Todokanai TL
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[White Album 2 - Mini-After Story（Todokanai TL）]]（publisher）
-- [[White Album 2（Todokanai TL）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/WHITE ALBUM2 EXTENDED EDITION（Leaf）]]（publisher）
+- [[发行版/WHITE ALBUM2 EXTENDED EDITION（Leaf・release：）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

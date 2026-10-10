@@ -12,7 +12,7 @@ source_urls:
 # Suntendy
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Qiu zhi Huiyi 2（Suntendy）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Memories Off Historia - Super Limited Edition（MAGES・vndb：r11）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

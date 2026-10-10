@@ -85,15 +85,9 @@ cover_image: "assets/covers/v1398.webp"
 - [[Yuimoto Michiru]]（佐本 二厘）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Gengsheng Limingqian de Liulise -Moonlight Cradle-]]
-- [[Yoake Mae yori Ruri Iro na - Complete Pack - 15th Anniversary Package]]
-- [[Yoake Mae yori Ruri Iro na - Complete Pack - Basic Package]]
-- [[Yoake Mae yori Ruri Iro na - Complete Pack - Download Edition]]
-- [[Yoake Mae yori Ruri Iro na -Moonlight Cradle- Download Edition]]
-- [[Yoake Mae yori Ruri Iro na -Moonlight Cradle- First Press Premium Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Yoake Mae yori Ruri Iro na -Moonlight Cradle- First Press Standard Edition]]
 - [[Yoake Mae yori Ruri Iro na -Moonlight Cradle- First Press Standard Edition]]
-- [[Yoake Mae yori Ruri Iro na -Moonlight Cradle- Regular Edition]]
-- [[Yoake Mae yori Ruri Iro na -Moonlight Cradle- Windows 7 Support Edition]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

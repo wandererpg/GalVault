@@ -30,10 +30,9 @@ portrait_image: "assets/characters/c55911.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Solfege ~La Finale~ Download Edition]]（primary）
-- [[Solfege ~La Finale~]]（primary）
+<!-- AUTO:BEGIN character -->- [[发行版/Solfege ~Sweet Harmony~ Limited Edition]]（primary）
 - [[Solfege ~Sweet Harmony~ Limited Edition]]（primary）
-- [[Solfege ~Sweet Harmony~ Regular Edition]]（primary）<!-- AUTO:END character -->
+<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Kono Kanami]]（声优：加藤 雅美）<!-- AUTO:END voice -->

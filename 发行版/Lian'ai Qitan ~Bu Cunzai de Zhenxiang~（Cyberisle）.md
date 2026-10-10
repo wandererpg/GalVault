@@ -1,16 +1,66 @@
 ---
-entity_id: "release:vndb:r124677:work:vndb:work:v36674"
-type: "release"
-display_title: "Lian'ai Qitan ~Bu Cunzai de Zhenxiang~"
-release_date: "2025-05-29"
+entity_id: release:vndb:r124677:work:vndb:work:v36674
+type: release
+display_title: Lian'ai Qitan ~Bu Cunzai de Zhenxiang~
+release_date: '2025-05-29'
 is_all_ages: true
-platform: "swi"
-edition_type: "complete"
-title_status: "needs_review"
+platform: swi
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r124677"
+  vndb: r124677
 source_urls:
-  vndb: "https://vndb.org/r124677"
+  vndb: https://vndb.org/r124677
+aliases:
+- Bu Cunzai de Huangyan
+- Bu Cunzai de Huangyan（Xun Lu Jihua）
+- Lian'ai Qitan ~Bu Cunzai de Zhenxiang~
+- Lian'ai Qitan ~Bu Cunzai de Zhenxiang~ Demo
+- Lian'ai Qitan ~Bu Cunzai de Zhenxiang~（Never Knows Best）
+consolidated_releases:
+- id: r124677
+  title: Lian'ai Qitan ~Bu Cunzai de Zhenxiang~
+  url: https://vndb.org/r124677
+  release_date: '2025-05-29'
+  platform: swi
+  edition_type: complete
+  is_all_ages: true
+- id: r109466
+  title: Bu Cunzai de Huangyan
+  url: https://vndb.org/r109466
+  release_date: '2023-06-21'
+  platform: ios
+  edition_type: complete
+  is_all_ages: true
+- id: r97239
+  title: Bu Cunzai de Huangyan
+  url: https://vndb.org/r97239
+  release_date: '2023-06-21'
+  platform: and
+  edition_type: complete
+  is_all_ages: true
+- id: r123160
+  title: Lian'ai Qitan ~Bu Cunzai de Zhenxiang~
+  url: https://vndb.org/r123160
+  release_date: '2024-05-23'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+- id: r92845
+  title: Lian'ai Qitan ~Bu Cunzai de Zhenxiang~
+  url: https://vndb.org/r92845
+  release_date: '2022-10-28'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+- id: r97620
+  title: Lian'ai Qitan ~Bu Cunzai de Zhenxiang~ Demo
+  url: https://vndb.org/r97620
+  release_date: '2022-03-23'
+  platform: win
+  edition_type: trial
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Lian'ai Qitan ~Bu Cunzai de Zhenxiang~

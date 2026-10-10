@@ -12,7 +12,7 @@ source_urls:
 # Mirazy
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Hageupsaeng（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kakyuusei Remake]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

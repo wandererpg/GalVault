@@ -11,8 +11,8 @@ source_urls:
 # Les Traducteurs Aurifiques
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Le Sanglot des Goélands - Cycle de l'Effondrement]]（publisher）
-- [[Le Sanglot des Goélands - Cycle des Cabales]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Umineko no Naku Koro ni Chiru - Episode 8 - Twilight of the Golden Witch]]（publisher）
+- [[发行版/Umineko no Naku Koro ni - Episode 4 - Alliance of the Golden Witch]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

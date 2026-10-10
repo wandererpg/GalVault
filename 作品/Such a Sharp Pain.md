@@ -50,13 +50,9 @@ cover_image: "assets/covers/v34968.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Such a Sharp Pain v0.1.18R]]
-- [[Such a Sharp Pain v0.1.18R（release：）]]
-- [[Such a Sharp Pain v0.1.18R（vndb：r91）]]
-- [[Such a Sharp Pain v0.11.7R]]
-- [[Such a Sharp Pain v0.4.14R]]
+<!-- AUTO:BEGIN release -->- [[发行版/Such a Sharp Pain ［v0.11.7R］]]
 - [[Such a Sharp Pain ［v0.11.7R］]]
-- [[Takaja ostraja bol' v0.11.7R]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

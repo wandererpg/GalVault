@@ -13,8 +13,8 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Higurashi Project]]（publisher）
-- [[Higurashi Project（Orden Eris・release：）]]（publisher）
-- [[Higurashi Project（Orden Eris）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Matsuribayashi Hen（07th Expansion）]]（publisher）
+- [[发行版/Himatsubushi Hen（07th Expansion）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

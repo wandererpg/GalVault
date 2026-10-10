@@ -12,7 +12,7 @@ source_urls:
 # Tufão
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Z.A.T.O. ／／ Eu Amo o Mundo e Tudo o que há Nele]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Z.A.T.O. ／／ I Love the World and Everything In It]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

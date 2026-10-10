@@ -12,11 +12,10 @@ source_urls:
 # West Vision
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Nyuuki Taisai - DVDPG]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Nyuuki Taisai - Download Edition]]（publisher）
 - [[Nyuuki Taisai - Download Edition]]（developer）
 - [[Nyuuki Taisai - Download Edition]]（publisher）
-- [[Nyuuki Taisai]]（developer）
-- [[Nyuuki Taisai]]（publisher）
+- [[发行版/Nyuuki Taisai - Download Edition]]（developer）
 - [[乳姫大祭]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

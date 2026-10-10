@@ -99,25 +99,9 @@ cover_image: "assets/covers/v1306.webp"
 - [[Zen]]（ZEN）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[BALDR MASTERPIECE CHRONICLE - Resale Edition]]
-- [[BALDR MASTERPIECE CHRONICLE]]
-- [[BALDR SKY Dive1 ＂Lost Memory＂]]
-- [[Baldr Sky 18+ Restoration Patch]]
-- [[Baldr Sky 18+ Restoration Patch（Baldr Sky Hanhuazu）]]
-- [[Baldr Sky Demo]]
-- [[Baldr Sky Dive1 - Limited Edition]]
-- [[Baldr Sky Dive1 “Lost Memory” - Regular Edition]]
-- [[Baldr Sky Dive1 “Lost Memory”]]
+<!-- AUTO:BEGIN release -->- [[发行版/Baldr Sky Dive1 ＂Lost Memory＂ - First Press Edition]]
 - [[Baldr Sky Dive1 ＂Lost Memory＂ - First Press Edition]]
-- [[Baldr Sky Dive1 ＂Lost Memory＂ - Renewal Edition]]
-- [[Baldr Sky Dive1+2 - Limited Edition]]
-- [[Baldr Sky Re.price Dive1 ＂Lost Memory＂]]
-- [[Baldr Sky Re.price Dive1&2]]
-- [[Baldr Sky Re.price DiveDX]]
-- [[Baldr Sky]]
-- [[Baldr Sky（Baldr Sky Hanhuazu）]]
-- [[Baldr Sky（Sekai Project）]]
-- [[Baldr Sky（Team Myskrpatch）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

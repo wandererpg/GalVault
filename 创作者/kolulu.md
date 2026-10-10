@@ -12,14 +12,10 @@ source_urls:
 # kolulu
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Operation Eventide - Censored Edition]]（developer）
-- [[Operation Eventide - Censored Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Operation Eventide - Definitive Edition]]（developer）
+- [[发行版/Operation Eventide - Definitive Edition]]（publisher）
 - [[Operation Eventide - Definitive Edition]]（developer）
 - [[Operation Eventide - Definitive Edition]]（publisher）
-- [[Operation Eventide - Demo]]（developer）
-- [[Operation Eventide - Demo]]（publisher）
-- [[Operation Eventide 2.0]]（developer）
-- [[Operation Eventide 2.0]]（publisher）
 - [[Operation Eventide]]（developer）<!-- AUTO:END duty -->
 
 ## 创作与出演

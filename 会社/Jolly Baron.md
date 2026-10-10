@@ -12,7 +12,7 @@ source_urls:
 # Jolly Baron
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Shoujo Ramune (Jolly Baron AI patch)]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Nukicolle vol.33 - Shoujo Ramune]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

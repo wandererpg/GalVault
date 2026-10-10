@@ -12,8 +12,8 @@ source_urls:
 # SubTL
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Meteor World Actor： Gaslight Bullet ［Full UI + Dialogues］]]（publisher）
-- [[Unravel Trigger（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Ryuusei World Actor： Gaslight Bullet - Dai Nana Kyouwakoku Shukkoku Pack]]（publisher）
+- [[发行版/Unravel trigger - Deluxe Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -70,10 +70,7 @@ cover_image: "assets/covers/v1076.webp"
 - [[Toriumi Kousuke]]（鳥海 浩輔）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Laughter Land - First Press Edition]]
-- [[Laughter Land - First Press Limited Edition]]
-- [[Laughter Land - Regular Edition]]
-- [[Laughter Land - Trial Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Laughter Land]]
 - [[Laughter Land]]<!-- AUTO:END release -->
 
 ## 动画化

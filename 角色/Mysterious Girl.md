@@ -30,11 +30,9 @@ portrait_image: "assets/characters/c56479.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[SNOW ~Plus Edition~]]（primary）
-- [[SNOW（Studio Mebius）]]（primary）
+<!-- AUTO:BEGIN character -->- [[发行版/Snow ~Portable~ Download Edition]]（primary）
 - [[Snow ~Portable~ Download Edition]]（primary）
-- [[Snow ~Portable~]]（primary）
-- [[Snow ~Standard Edition~]]（primary）<!-- AUTO:END character -->
+<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Gogyou Nazuna]]（声优：小野 涼子）

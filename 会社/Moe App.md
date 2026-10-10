@@ -12,37 +12,30 @@ source_urls:
 # Moe App
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Alia's Carnival! Flowering Sky]]（publisher）
-- [[Alia's Carnival! Flowering Sky（NanaWind）]]（publisher）
-- [[D.C. II ~Da Capo II~（Moe App・release：）]]（publisher）
-- [[D.C. II ~Da Capo II~（Moe App）]]（publisher）
-- [[Floral Flowlove（Moe App・release：）]]（publisher）
-- [[Floral Flowlove（Moe App）]]（publisher）
-- [[Gensou no Idea ~Oratorio Phantasm Historia~（3rdEye・release：）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Alia's Carnival! Flowering Sky - 18+ Edition]]（publisher）
+- [[发行版/D.C. II P.C. ~Da Capo II~ Plus Communication - Regular Edition]]（publisher）
+- [[发行版/Floral Flowlove - Regular Edition]]（publisher）
+- [[发行版/Gensou no Idea ~Oratorio Phantasm Historia~（3rdEye）]]（publisher）
 - [[Gensou no Idea ~Oratorio Phantasm Historia~（3rdEye）]]（publisher）
-- [[Hanasaki Work Spring!（Moe App）]]（publisher）
-- [[Hatsuyuki Sakura（Moe App・release：）]]（publisher）
-- [[Hatsuyuki Sakura（Moe App）]]（publisher）
-- [[Hikoukigumo no Mukougawa（FLAT）]]（publisher）
-- [[Karumaruka ＊ Circle（Moe App）]]（publisher）
+- [[发行版/Hanasaki Work Spring! - First Production Limited Edition]]（publisher）
+- [[发行版/Hatsuyuki Sakura White Graduation - Download Edition]]（publisher）
+- [[发行版/Hangjiyun de Bifang]]（publisher）
+- [[发行版/Karumaruka ＊ Circle - Download Edition]]（publisher）
 - [[Kimi no Tonari de Koishiteru! ~The Respective Happiness~]]（publisher）
-- [[Kimi no Tonari de Koishiteru! ~The Respective Happiness~（ALcot Honey Comb）]]（publisher）
-- [[Kin'iro Loveriche（Moe App・release：）]]（publisher）
-- [[Kin'iro Loveriche（Moe App）]]（publisher）
-- [[Monobeno（Lose・release：）]]（publisher）
-- [[Monobeno（Lose）]]（publisher）
-- [[Owaru Sekai to Birthday]]（publisher）
-- [[Owaru Sekai to Birthday（Moe App）]]（publisher）
-- [[Root Double -Before Crime ＊ After Days- Smart Edition（Regista Co.,Ltd）]]（publisher）
-- [[Shinigami no Testament ~menuet of epistula~（3rdEye・release：）]]（publisher）
+- [[发行版/Kimi no Tonari de Koishiteru! ~The Respective Happiness~]]（publisher）
+- [[发行版/Kin'iro Loveriche + Kin'iro Loveriche -Golden Time- Golden Pack]]（publisher）
+- [[发行版/Monobeno -Happy End-（Lose・vndb：r65）]]（publisher）
+- [[发行版/Owaru Sekai to Birthday - Download Edition（Cotton Soft）]]（publisher）
+- [[发行版/Root Double -Before Crime ＊ After Days- Xtend Edition - Limited Edition]]（publisher）
+- [[发行版/Shinigami no Testament ~menuet of epistula~（3rdEye）]]（publisher）
 - [[Shinigami no Testament ~menuet of epistula~（3rdEye）]]（publisher）
-- [[Taiyou no Promia]]（publisher）
+- [[发行版/Taiyou no Promia（Seven Wonder）]]（publisher）
 - [[Taiyou no Promia（Seven Wonder）]]（publisher）
-- [[Tasogare no Sinsemilla for Android]]（publisher）
-- [[Tiny Dungeon ~BRAVE or SLAVE~（Moe App）]]（publisher）
+- [[发行版/Tasogare no Sinsemilla Portable - Regular Edition]]（publisher）
+- [[发行版/Tiny Dungeon ~BoS (Final Volume)~]]（publisher）
 - [[Tiny Dungeon ~BoS (Final Volume)~]]（publisher）
 - [[Tsuki ni Yorisou Otome no Sahou ~Hidamari no Hibi~ Smartphone Edition]]（publisher）
-- [[Tsuki ni Yorisou Otome no Sahou ~Hidamari no Hibi~（Navel・release：）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Tsuki ni Yorisou Otome no Sahou ~Hidamari no Hibi~ Smartphone Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

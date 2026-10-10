@@ -12,13 +12,13 @@ source_urls:
 # nekoHen
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Arterial of Origins]]（publisher）
-- [[Battle Goddess Verita]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Arterii Istoka]]（publisher）
+- [[发行版/Ikusa Megami Verita Complete Guidebook Privilege Appendix Disc]]（publisher）
 - [[Ikusa Megami Zero（nekoHen）]]（publisher）
-- [[La DEA of Libra ~MEMORIA~]]（publisher）
-- [[Madou Koukaku ~Yami no Tsuki Megami wa Doukoku de Utau~]]（publisher）
-- [[Princess General 2 - Interface Patch]]（publisher）
-- [[Princess Hunter Dungeon Meister]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Tenbin no La DEA. ~Ikusa Megami MEMORIA~ Perfect Guidebook Append Disk]]（publisher）
+- [[发行版/Modao Qiaoke（ZODGAME Hanhuazu）]]（publisher）
+- [[发行版/Huanlin de Jijiangjun 2]]（publisher）
+- [[发行版/Himegari Dungeon Meister - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

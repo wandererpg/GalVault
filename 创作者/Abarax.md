@@ -12,7 +12,7 @@ source_urls:
 # Abarax
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[TrymenT -Ima o Kaetai to Negau Anata e- Trial Edition（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/TrymenT -Ima o Kaetai to Negau Anata e- Trial Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

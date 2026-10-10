@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r30628:work:vndb:work:v13987"
-type: "release"
-display_title: "Princess Sacrifice ~Kugi Hime Feena no Bouken~"
-release_date: "2013-11-09"
+entity_id: release:vndb:r30628:work:vndb:work:v13987
+type: release
+display_title: Princess Sacrifice ~Kugi Hime Feena no Bouken~
+release_date: '2013-11-09'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r30628"
+  vndb: r30628
 source_urls:
-  vndb: "https://vndb.org/r30628"
+  vndb: https://vndb.org/r30628
+aliases:
+- Gongxi Ji Feina de Maoxian Lvcheng
+- Princess Sacrifice ~Kugi Hime Feena no Bouken~（release：）
+consolidated_releases:
+- id: r30628
+  title: Princess Sacrifice ~Kugi Hime Feena no Bouken~
+  url: https://vndb.org/r30628
+  release_date: '2013-11-09'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r57779
+  title: Princess Sacrifice ~Kugi Hime Feena no Bouken~
+  url: https://vndb.org/r57779
+  release_date: '2024-11-03'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r46104
+  title: Gongxi Ji Feina de Maoxian Lvcheng
+  url: https://vndb.org/r46104
+  release_date: '2015-09-27'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Princess Sacrifice ~Kugi Hime Feena no Bouken~

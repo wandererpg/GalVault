@@ -12,7 +12,7 @@ source_urls:
 # DecVN
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Onii-chan, Asa made Zutto Gyutte Shite! Yoru Made Motto Ecchi Shite!]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Onii-chan, Asa made Zutto Gyutte Shite! Yoru Made Motto Ecchi Shite! - DVD-PG]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -34,10 +34,8 @@ portrait_image: "assets/characters/c115.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Kimi ga Nozomu Eien ~Enhanced Edition R~ - Download Edition]]（appears）
+<!-- AUTO:BEGIN character -->- [[发行版/Kimi ga Nozomu Eien ~Enhanced Edition~ Download Edition]]（appears）
 - [[Kimi ga Nozomu Eien ~Enhanced Edition~ Download Edition]]（appears）
-- [[Kimi ga Nozomu Eien ~Latest Edition~ Download Edition]]（appears）
-- [[Kimi ga Nozomu Eien ~Latest Edition~（age）]]（appears）
 - [[マブラヴ　オルタネイティヴ]]（appears）<!-- AUTO:END character -->
 
 ## 声优

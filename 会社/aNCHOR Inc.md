@@ -11,36 +11,19 @@ source_urls:
 # aNCHOR Inc.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Kimi ga Nozomu Eien - DVD-ROM Edition]]（publisher）
-- [[Kimi ga Nozomu Eien ~Enhanced Edition~ Demo]]（developer）
-- [[Kimi ga Nozomu Eien ~Enhanced Edition~ Demo]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Kimi ga Nozomu Eien ~Enhanced Edition~ Download Edition]]（publisher）
+- [[发行版/Kimi ga Nozomu Eien ~Enhanced Edition~ Download Edition]]（developer）
 - [[Kimi ga Nozomu Eien ~Enhanced Edition~ Download Edition]]（developer）
 - [[Kimi ga Nozomu Eien ~Enhanced Edition~ Download Edition]]（publisher）
-- [[Kimi ga Nozomu Eien ~Enhanced Edition~ Hotaru Route Support Ver]]（developer）
-- [[Kimi ga Nozomu Eien ~Enhanced Edition~ Hotaru Route Support Ver]]（publisher）
-- [[Muv-Luv 20th Odyssey Box]]（publisher）
-- [[Muv-Luv 20th Odyssey Box（aNCHOR Inc）]]（publisher）
+- [[发行版/age Memorial Bundle（aNTIQ・vndb：r13）]]（publisher）
+- [[发行版/Muv-Luv Alternative - Steam Edition]]（publisher）
 - [[Muv-Luv Alternative - Steam Edition]]（publisher）
-- [[Muv-Luv Alternative - Total Eclipse： Teito Moyu]]（developer）
-- [[Muv-Luv Alternative - Total Eclipse： Teito Moyu]]（publisher）
-- [[Muv-Luv Alternative REMASTERED]]（publisher）
-- [[Muv-Luv Alternative REMASTERED（aNCHOR Inc・release：）]]（publisher）
-- [[Muv-Luv Alternative REMASTERED（aNCHOR Inc）]]（developer）
-- [[Muv-Luv Alternative REMASTERED（aNCHOR Inc）]]（publisher）
-- [[Muv-Luv Alternative Total Eclipse Remastered（aNCHOR Inc）]]（developer）
-- [[Muv-Luv Alternative Total Eclipse Remastered（aNCHOR Inc）]]（publisher）
-- [[Muv-Luv Muv-Luv Alternative REMASTERED Double Pack - Download Edition]]（publisher）
-- [[Muv-Luv Muv-Luv Alternative REMASTERED Double Pack - Package Edition]]（publisher）
-- [[Muv-Luv Photonflowers＊（aNCHOR Inc）]]（publisher）
-- [[Muv-Luv Unlimited： THE DAY AFTER - Episode 00 REMASTERED]]（publisher）
-- [[Muv-Luv Unlimited： THE DAY AFTER - Episode 00 REMASTERED（aNCHOR Inc）]]（publisher）
-- [[Muv-Luv Unlimited： THE DAY AFTER - Episode 01 REMASTERED]]（publisher）
-- [[Muv-Luv Unlimited： THE DAY AFTER - Episode 01 REMASTERED（aNCHOR Inc）]]（publisher）
-- [[Muv-Luv Unlimited： THE DAY AFTER - Episode 02 REMASTERED]]（publisher）
-- [[Muv-Luv Unlimited： THE DAY AFTER - Episode 02 REMASTERED（aNCHOR Inc）]]（publisher）
-- [[Muv-Luv Unlimited： THE DAY AFTER - Episode 03 REMASTERED]]（publisher）
-- [[Muv-Luv Unlimited： THE DAY AFTER - Episode 03 REMASTERED（aNCHOR Inc）]]（publisher）
-- [[Muv-Luv Unlimited： The Day After ー ULTIMATE COLLECTION]]（publisher）
+- [[发行版/Muv-Luv Alternative - Total Eclipse： Teito Moyu（MAGES）]]（developer）
+- [[发行版/Muv-Luv Alternative - Total Eclipse： Teito Moyu（MAGES）]]（publisher）
+- [[发行版/Muv-Luv Alternative - Steam Edition]]（developer）
+- [[发行版/Muv-Luv Alternative - Total Eclipse - Regular Edition（MAGES）]]（developer）
+- [[发行版/Muv-Luv Alternative - Total Eclipse - Regular Edition（MAGES）]]（publisher）
+- [[发行版/Kimi ga Ita Kisetsu - Download Edition]]（publisher）
 - [[マブラヴ オルタネイティヴ トータル・イクリプス 帝都燃ゆ]]（developer）
 - [[マブラヴ オルタネイティヴ トータル・イクリプス]]（developer）
 - [[マブラヴ　オルタネイティヴ]]（developer）

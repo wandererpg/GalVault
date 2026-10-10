@@ -12,8 +12,8 @@ source_urls:
 # SOAR Tuan
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Jun zhi Yuying Jingjing de Yaoye Zhe Retranslation]]（publisher）
-- [[Jun zhi Yuying Jingjing de Yaoye Zhe]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kimi no Nagori wa Shizuka ni Yurete - Limited Noicolle Pack Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

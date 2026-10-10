@@ -12,8 +12,8 @@ source_urls:
 # Bestia Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Liming Hechang v0.27.4]]（publisher）
-- [[Liming Hechang v0.27.4（Bestia Hanhuazu）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Dawn Chorus v0.56]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

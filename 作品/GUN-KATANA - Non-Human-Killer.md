@@ -106,16 +106,9 @@ cover_image: "assets/covers/v300.webp"
 - [[Tsukiguro Tooya]]（月黒 斗夜）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[FULL METAL BOX - Windows 7 Support Edition]]
-- [[FULL METAL BOX mini Plus - Windows 8.1 Support Edition]]
-- [[FULL METAL BOX mini]]
-- [[FULL METAL BOX]]
-- [[GUN-KATANA Gunkatana Non-Human-Killer Raison D'etre (Shengcun de Yiyi)]]
-- [[Gun-Katana - Non-Human-Killer - Price Revised Edition]]
-- [[Gun-Katana - Non-Human-Killer - Regular Edition]]
-- [[Gun-Katana - Non-Human-Killer - Special Collection]]
+<!-- AUTO:BEGIN release -->- [[发行版/Gun-Katana - Non-Human-Killer - Windows 8.1 Support Edition - Download Edition]]
 - [[Gun-Katana - Non-Human-Killer - Windows 8.1 Support Edition - Download Edition]]
-- [[Gun-Katana - Non-Human-Killer - Windows 8.1 Support Edition]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

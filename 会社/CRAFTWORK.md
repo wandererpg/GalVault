@@ -12,13 +12,9 @@ source_urls:
 # CRAFTWORK
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Sayonara o Oshiete ~Comment te Dire Adieu~ Android Edition]]（developer）
-- [[Sayonara o Oshiete ~Comment te Dire Adieu~ Android Edition]]（publisher）
-- [[Sayonara o Oshiete ~Comment te Dire Adieu~ Download Edition]]（developer）
-- [[Sayonara o Oshiete ~Comment te Dire Adieu~ Download Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Sayonara o Oshiete ~Comment te Dire Adieu~ ~AsoBD~]]（developer）
+- [[发行版/Sayonara o Oshiete ~Comment te Dire Adieu~ ~AsoBD~]]（publisher）
 - [[Sayonara o Oshiete ~Comment te Dire Adieu~ ~AsoBD~]]（developer）
-- [[Sayonara o Oshiete ~Comment te Dire Adieu~（CRAFTWORK）]]（developer）
-- [[Sayonara o Oshiete ~Comment te Dire Adieu~（CRAFTWORK）]]（publisher）
 - [[对你说再见～comment te dire adieu～]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

@@ -12,7 +12,7 @@ source_urls:
 # Ciel Traduction
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Tsukihime -a piece of blue glass moon-（Ciel Traduction）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Tsukihime -A piece of blue glass moon- Digital Deluxe Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,9 +12,9 @@ source_urls:
 # vngames.ru
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Nasha zhizn'： Nachalo i vechnost']]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Our Life： Beginnings & Always - Voiced Name Expansion]]（publisher）
 - [[The Sekimeiya： Spun Glass]]（publisher）
-- [[Ubit' princessu]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Slay the Princess - The Pristine Cut]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

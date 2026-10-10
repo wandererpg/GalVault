@@ -12,7 +12,7 @@ source_urls:
 # gokusaishiki
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Tokimeki Memorial Girl's Side： 2nd Kiss]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Tokimeki Memorial Girl's Side： 2nd Season]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

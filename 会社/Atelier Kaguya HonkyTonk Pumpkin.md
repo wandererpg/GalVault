@@ -12,18 +12,15 @@ source_urls:
 # Atelier Kaguya HonkyTonk Pumpkin
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[JD Onsen. Eroero Dynamite Joshi Daisei to no Onsen Seikatsu. - Download Edition]]（developer）
-- [[JD Onsen. Eroero Dynamite Joshi Daisei to no Onsen Seikatsu. - Package Edition]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/JD Onsen. Eroero Dynamite Joshi Daisei to no Onsen Seikatsu. - Renewal Package Edition DVDPG]]（developer）
 - [[JD Onsen. Eroero Dynamite Joshi Daisei to no Onsen Seikatsu. - Renewal Package Edition DVDPG]]（developer）
 - [[JD温泉。 エロエロダイナマイト女子大生との温泉生活。]]（developer）
-- [[Kajuu 100% - DVDPG]]（developer）
+- [[发行版/Kajuu 100% - Download Edition]]（developer）
 - [[Kajuu 100% - Download Edition]]（developer）
-- [[Kajuu 100% - Package Edition]]（developer）
 - [[Kono mama da to Otouto ga Techno Break de Shinjau kara Kozukuri! - Download Edition]]（developer）
-- [[Kono mama da to Otouto ga Techno Break de Shinjau kara Kozukuri! - Package Edition]]（developer）
+- [[发行版/Kono mama da to Otouto ga Techno Break de Shinjau kara Kozukuri! - Download Edition]]（developer）
 - [[LOVE Tore ~Ecchi na Ren'ai Training~ Download Edition]]（developer）
-- [[LOVE Tore ~Ecchi na Ren'ai Training~ Package Edition]]（developer）
-- [[LOVE Tore ~Ecchi na Ren'ai Training~ Trial Edition]]（developer）
+- [[发行版/LOVE Tore ~Ecchi na Ren'ai Training~ Download Edition]]（developer）
 - [[LOVE トレ ～エッチな恋愛トレーニング～]]（developer）
 - [[このままだと弟がテクノブレイクで死んじゃうから子作り！]]（developer）
 - [[夏汁100％]]（developer）<!-- AUTO:END duty -->

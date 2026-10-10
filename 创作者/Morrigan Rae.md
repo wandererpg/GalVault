@@ -12,9 +12,8 @@ source_urls:
 # Morrigan Rae
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Eruption Imminent Season 1]]（developer）
-- [[Eruption Imminent Season 1]]（publisher）
-- [[Eruption Imminent v0.7.0 - Incest Patch]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Eruption Imminent v0.7.0]]（developer）
+- [[发行版/Eruption Imminent v0.7.0]]（publisher）
 - [[Eruption Imminent v0.7.0]]（developer）
 - [[Eruption Imminent v0.7.0]]（publisher）
 - [[Eruption Imminent]]（developer）<!-- AUTO:END duty -->

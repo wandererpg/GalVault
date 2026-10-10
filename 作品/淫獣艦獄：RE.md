@@ -85,8 +85,8 @@ cover_image: "assets/covers/v60525.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Injuu Kangoku： RE - Download Edition]]
-- [[Injuu Kangoku： RE - Package Edition]]
-- [[Injuu Kangoku： RE]]<!-- AUTO:END release -->
+- [[发行版/Injuu Kangoku： RE - Download Edition]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

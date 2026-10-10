@@ -32,7 +32,7 @@ portrait_image: "assets/characters/c3846.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Tsumihoroboshi Hen（07th Expansion）]]（side）
+<!-- AUTO:BEGIN character -->- [[发行版/Matsuribayashi Hen（07th Expansion）]]（side）
 - [[ひぐらしのなく頃に： Console Arcs]]（appears）
 - [[寒蝉鸣泣之时解]]（appears）<!-- AUTO:END character -->
 

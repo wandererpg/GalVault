@@ -12,8 +12,8 @@ source_urls:
 # ASCII Corporation
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Silver Jiken ［ASCII Casual Collection］]]（publisher）
-- [[Silver Jiken]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/The Silver Case - Limited Package Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

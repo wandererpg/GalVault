@@ -83,9 +83,7 @@ cover_image: "assets/covers/v38429.webp"
 - [[Yamamoto Kanehira]]（山本 兼平）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Hira Hira Hihiru]]
-- [[Hirahira Hihiru - Trial Edition]]
-- [[Hirahira Hihiru]]
+<!-- AUTO:BEGIN release -->- [[发行版/Hirahira Hihiru（ANIPLEX.EXE）]]
 - [[Hirahira Hihiru（ANIPLEX.EXE）]]<!-- AUTO:END release -->
 
 ## 动画化

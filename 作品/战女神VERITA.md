@@ -149,20 +149,9 @@ cover_image: "assets/covers/v2836.webp"
 - [[Yuria]]（ユリア）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Battle Goddess Verita]]
-- [[BugBug 200 Anniversary DVD MiniMini AVG Collection Part 1]]
-- [[Ikusa Megami Verita - Download Edition]]
-- [[Ikusa Megami Verita - Interface Patch]]
-- [[Ikusa Megami Verita - Interface Patch（ZAP）]]
-- [[Ikusa Megami Verita - Package Edition]]
-- [[Ikusa Megami Verita - Trial Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Ikusa Megami Verita Complete Guidebook Privilege Appendix Disc]]
 - [[Ikusa Megami Verita Complete Guidebook Privilege Appendix Disc]]
-- [[Ikusa Megami Verita]]
-- [[Jeonyeosin Verita]]
-- [[Zhan Nvshen Verita]]
-- [[Zhan Nüshen VERITA - Trial Edition]]
-- [[Zhannushen Verita]]
-- [[Zhannushen Verita（release：）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

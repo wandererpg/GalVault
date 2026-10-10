@@ -12,17 +12,11 @@ source_urls:
 # BA-KU
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[BLACK SHEEP TOWN  Demo]]（developer）
-- [[BLACK SHEEP TOWN  Demo]]（publisher）
-- [[BLACK SHEEP TOWN - Trial Edition]]（developer）
-- [[BLACK SHEEP TOWN - Trial Edition]]（publisher）
-- [[BLACK SHEEP TOWN DVD-ROM Version]]（developer）
-- [[BLACK SHEEP TOWN DVD-ROM Version]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/BLACK SHEEP TOWN]]（developer）
+- [[发行版/BLACK SHEEP TOWN]]（publisher）
 - [[BLACK SHEEP TOWN]]（developer）
-- [[BLACK SHEEP TOWN（BA-KU）]]（developer）
-- [[BLACK SHEEP TOWN（BA-KU）]]（publisher）
 - [[Hira Hira Hihiru]]（developer）
-- [[Hirahira Hihiru - Trial Edition]]（developer）
+- [[发行版/Hirahira Hihiru（ANIPLEX.EXE）]]（developer）
 - [[Hirahira Hihiru（ANIPLEX.EXE）]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

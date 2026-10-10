@@ -61,13 +61,7 @@ cover_image: "assets/covers/v37866.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Emo zhi Zui]]
-- [[Mogui zhi Si - Ep.01]]
-- [[of the Devil - Demo]]
-- [[of the Devil - Episode 0]]
-- [[of the Devil - Episode 1]]
-- [[of the Devil - Episode 2]]
-- [[of the Devil - Episode 3]]
+<!-- AUTO:BEGIN release -->- [[发行版/of the Devil]]
 - [[of the Devil]]<!-- AUTO:END release -->
 
 ## 动画化

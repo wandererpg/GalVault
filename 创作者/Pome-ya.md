@@ -12,8 +12,8 @@ source_urls:
 # Pome-ya
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Seven Days： Mishiranu JK to Misshitsu Seikatsu]]（developer）
-- [[Seven Days： Mishiranu JK to Misshitsu Seikatsu]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Seven Days： Mishiranu JK to Misshitsu Seikatsu（release：）]]（developer）
+- [[发行版/Seven Days： Mishiranu JK to Misshitsu Seikatsu（release：）]]（publisher）
 - [[Seven Days： Mishiranu JK to Misshitsu Seikatsu（release：）]]（developer）
 - [[Seven Days： Mishiranu JK to Misshitsu Seikatsu（release：）]]（publisher）
 - [[セヴンデイズ 見知らぬJKと密室生活]]（developer）<!-- AUTO:END duty -->

@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r161577:work:vndb:work:v54840"
-type: "release"
-display_title: "Ma o Haramu Kunoichi"
-release_date: "2025-10-18"
+entity_id: release:vndb:r161577:work:vndb:work:v54840
+type: release
+display_title: Ma o Haramu Kunoichi
+release_date: '2025-10-18'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r161577"
+  vndb: r161577
 source_urls:
-  vndb: "https://vndb.org/r161577"
+  vndb: https://vndb.org/r161577
+aliases:
+- Ma o Haramu Kunoichi
+- Ma o Haramu Kunoichi（release：）
+consolidated_releases:
+- id: r161577
+  title: Ma o Haramu Kunoichi
+  url: https://vndb.org/r161577
+  release_date: '2025-10-18'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r132163
+  title: Ma o Haramu Kunoichi
+  url: https://vndb.org/r132163
+  release_date: '2025-03-14'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r133222
+  title: Ma o Haramu Kunoichi
+  url: https://vndb.org/r133222
+  release_date: '2025-03-21'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Ma o Haramu Kunoichi

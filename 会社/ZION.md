@@ -12,16 +12,10 @@ source_urls:
 # ZION
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Miko Hime Inma Den - Ichi no Hashira Shokushu - Mushiki Hen]]（developer）
-- [[Miko Hime Inma Den - Ichi no Hashira Shokushu - Mushiki Hen]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Miko Hime Inma Den - Ishu Shokushu ＊ Ikenie Naedoko - Download Edition]]（developer）
+- [[发行版/Miko Hime Inma Den - Ishu Shokushu ＊ Ikenie Naedoko - Download Edition]]（publisher）
 - [[Miko Hime Inma Den - Ishu Shokushu ＊ Ikenie Naedoko - Download Edition]]（developer）
 - [[Miko Hime Inma Den - Ishu Shokushu ＊ Ikenie Naedoko - Download Edition]]（publisher）
-- [[Miko Hime Inma Den - Ishu Shokushu ＊ Ikenie Naedoko - Package Edition]]（developer）
-- [[Miko Hime Inma Den - Ishu Shokushu ＊ Ikenie Naedoko - Package Edition]]（publisher）
-- [[Miko Hime Inma Den - Ni no Hashira Kaii - Mononoke Hen]]（developer）
-- [[Miko Hime Inma Den - Ni no Hashira Kaii - Mononoke Hen]]（publisher）
-- [[Miko Hime Inma Den - San no Hashira Yuuki - Juuki Hen & Last Boss Kiou Saishuusen Hen]]（developer）
-- [[Miko Hime Inma Den - San no Hashira Yuuki - Juuki Hen & Last Boss Kiou Saishuusen Hen]]（publisher）
 - [[巫女姫淫魔伝 異種触手・生贄苗床]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

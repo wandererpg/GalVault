@@ -30,8 +30,7 @@ portrait_image: "assets/characters/c27685.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Bara no Ki ni Bara no Hanasaku - Deluxe Edition]]（primary）
-- [[Bara no Ki ni Bara no Hanasaku - Regular Edition]]（primary）
+<!-- AUTO:BEGIN character -->- [[发行版/Bara no Ki ni Bara no Hanasaku -Das Versprechen-]]（primary）
 - [[Bara no Ki ni Bara no Hanasaku -Das Versprechen-]]（primary）<!-- AUTO:END character -->
 
 ## 声优

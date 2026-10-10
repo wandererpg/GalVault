@@ -12,7 +12,7 @@ source_urls:
 # YBM Sisa
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Sakura Daejeon ~ Tteugeoun Yeoljeong-eulo ~]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Sakura Taisen]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

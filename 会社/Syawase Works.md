@@ -13,11 +13,9 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Changgui Tuoli Creative - Censored Edition]]（publisher）
-- [[Changgui Tuoli Creative 18+ DLC]]（publisher）
-- [[Changgui Tuoli Creative decoded patch]]（publisher）
+- [[发行版/Changgui Tuoli Creative - Censored Edition]]（publisher）
 - [[Hakuchuumu no Aojashin - Censored Edition]]（publisher）
-- [[Xingkong Lieche yu Bai de Lüxing patch]]（publisher）
-- [[Xingkong Lieche yu Bai de Lüxing]]（publisher）
+- [[发行版/Hoshizora Tetsudou to Shiro no Tabi - Download Edition]]（publisher）
 - [[Yinghua, Mengfang. -as the Night's, Reincarnation-（Syawase Works）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

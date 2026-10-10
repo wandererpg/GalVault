@@ -12,9 +12,9 @@ source_urls:
 # Calabi Yau Project
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Jad babochki, Cvetochnye okovy（Calabi Yau Project）]]（publisher）
-- [[Tajsjo. Lenta Mjobiusa]]（publisher）
-- [[Talsjo. Lenta Mjobiusa. Stolichnye Zapiski]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Chou no Doku Hana no Kusari ~Taishou Tsuya Koi Ibun~ Download Edition]]（publisher）
+- [[发行版/Taishou Mebiusline Vitable - Download Edition]]（publisher）
+- [[发行版/Taishou Mebiusline Teito Bibouroku Hare - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

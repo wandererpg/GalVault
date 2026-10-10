@@ -12,8 +12,8 @@ source_urls:
 # tyranomaid
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[NO SALVATION（release：）]]（publisher）
-- [[Pesn' Saji]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/NO SALVATION]]（publisher）
+- [[发行版/Saya no Uta ~ The Song of Saya - Upgrade Patch]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -62,9 +62,8 @@ cover_image: "assets/covers/v4209.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Humanity - Download Edition]]
-- [[Humanity - Package Edition]]
-- [[Humanity - Unbranching Edition]]
-- [[Humanity]]<!-- AUTO:END release -->
+- [[发行版/Humanity - Download Edition]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

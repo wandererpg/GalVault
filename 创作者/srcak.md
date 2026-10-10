@@ -12,7 +12,7 @@ source_urls:
 # srcak
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[AstralAir no Shiroki Towa]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/AstralAir no Shiroki Towa -White Eternity- Package Edtition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

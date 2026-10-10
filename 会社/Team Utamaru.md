@@ -11,11 +11,11 @@ source_urls:
 # Team Utamaru
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Adeughi Ureoreobon, Areumdaun]]（publisher）
-- [[D.C. II ~Da Capo II~（Team Utamaru）]]（publisher）
-- [[I Pureun Haneure Yaksogeul]]（publisher）
-- [[Parfait ~Chocolat Second Brew~]]（publisher）
-- [[White Album 2 ~Introductory Chapter~（Team Utamaru）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Haruka ni Aogi, Uruwashi no - BDPG]]（publisher）
+- [[发行版/D.C. II P.C. ~Da Capo II~ Plus Communication - Regular Edition]]（publisher）
+- [[发行版/Kono Aozora ni Yakusoku o： Te no Hira No Rakuen - Deluxe Pack Edition]]（publisher）
+- [[发行版/Parfait ~Chocolat Second Style~ Limited Edition]]（publisher）
+- [[发行版/WHITE ALBUM2 EXTENDED EDITION（Leaf・release：）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

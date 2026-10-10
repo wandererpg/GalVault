@@ -12,15 +12,10 @@ source_urls:
 # TomoToro
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Amneja28： dve vechnosti - Demo]]（developer）
-- [[Amneja28： dve vechnosti - Demo]]（publisher）
-- [[Amneja28： dve vechnosti - Demo（TomoToro）]]（developer）
-- [[Amneja28： dve vechnosti - Demo（TomoToro）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Amneja28： dve vechnosti]]（developer）
+- [[发行版/Amneja28： dve vechnosti]]（publisher）
 - [[Amneja28： dve vechnosti]]（developer）
-- [[Amneja28： dve vechnosti（TomoToro・release：）]]（developer）
-- [[Amneja28： dve vechnosti（TomoToro・release：）]]（publisher）
-- [[Amneja28： dve vechnosti（TomoToro）]]（developer）
-- [[Amneja28： dve vechnosti（TomoToro）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

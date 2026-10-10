@@ -30,9 +30,8 @@ portrait_image: "assets/characters/c93436.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Paomo Dong Jing： Ying-se Lingluo & Jingse Xiaoran]]（primary）
-- [[Paomo Dong Jing： Ying-se Lingluo & Jingse Xiaoran（Lüren Jihua）]]（primary）
-- [[Utakata Toukei ： Sakura Iro Reiraku & Keshiki Shouzen]]（primary）<!-- AUTO:END character -->
+<!-- AUTO:BEGIN character -->- [[发行版/Paomo Dong Jing： Heping Moshi Lu]]（primary）
+<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->

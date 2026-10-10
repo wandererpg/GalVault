@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r51039:work:vndb:work:v20515"
-type: "release"
-display_title: "Niizuma Koyomi - First Press Limited Deluxe Edition"
-release_date: "2017-07-28"
+entity_id: release:vndb:r51039:work:vndb:work:v20515
+type: release
+display_title: Niizuma Koyomi - First Press Limited Deluxe Edition
+release_date: '2017-07-28'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r51039"
+  vndb: r51039
 source_urls:
-  vndb: "https://vndb.org/r51039"
+  vndb: https://vndb.org/r51039
+aliases:
+- Niizuma Koyomi - Download Edition
+- Niizuma Koyomi - Regular Edition
+consolidated_releases:
+- id: r51039
+  title: Niizuma Koyomi - First Press Limited Deluxe Edition
+  url: https://vndb.org/r51039
+  release_date: '2017-07-28'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r54932
+  title: Niizuma Koyomi - Download Edition
+  url: https://vndb.org/r54932
+  release_date: '2017-08-18'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r49752
+  title: Niizuma Koyomi - Regular Edition
+  url: https://vndb.org/r49752
+  release_date: '2017-07-28'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Niizuma Koyomi - First Press Limited Deluxe Edition

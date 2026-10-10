@@ -12,7 +12,7 @@ source_urls:
 # Capu Translations
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[ItsuMasho]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Itsu made mo Mama to Issho! ~Yuuwaku Mama no Oppai ni Amaete Ippai Shasei Shitai!~ Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

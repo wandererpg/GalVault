@@ -12,13 +12,9 @@ source_urls:
 # Scarlet Study
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[The Great Ace Attorney - The Adventure of Ryūnosuke Naruhodō Demo]]（publisher）
-- [[The Great Ace Attorney -The Adventures of Ryuunosuke Naruhodou-]]（publisher）
-- [[The Great Ace Attorney -The Adventures of Ryuunosuke Naruhodou-（Scarlet Study）]]（publisher）
-- [[The Great Ace Attorney 2 - The Resolve of Ryuunosuke Naruhodou Demo]]（publisher）
-- [[The Great Ace Attorney 2 - The Resolve of Ryuunosuke Naruhodou Episode 1-3]]（publisher）
-- [[The Great Ace Attorney Chronicles Script Restoration Mod]]（publisher）
-- [[The Great Ace Attorney Chronicles Script Restoration Mod（Scarlet Study）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Dai Gyakuten Saiban 1&2 Limited Edition -Naruhodou Ryuunosuke no Bouken to Kakugo-]]（publisher）
+- [[发行版/Dai Gyakuten Saiban 2 -Naruhodou Ryuunosuke no Kakugo-]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

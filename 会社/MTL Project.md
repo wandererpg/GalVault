@@ -12,8 +12,8 @@ source_urls:
 # MTL Project
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Morenatsu. - JuuS r2 (beta)]]（publisher）
-- [[Morenatsu（MTL Project）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Morenatsu. -Tatsuki - Kounsuke Chapter]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

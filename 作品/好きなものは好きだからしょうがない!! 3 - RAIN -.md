@@ -83,10 +83,7 @@ cover_image: "assets/covers/v7543.webp"
 - [[Yuuki Hiro]]（結城 比呂）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Suki na Mono wa Suki Dakara Shouganai!! - FAN DISK -]]
-- [[Suki na Mono wa Suki Dakara Shouganai!! 3 - RAIN - Download Edition]]
-- [[Suki na Mono wa Suki Dakara Shouganai!! 3 - RAIN - Memorial Edition]]
-- [[Suki na Mono wa Suki Dakara Shouganai!! 3 - RAIN -]]
+<!-- AUTO:BEGIN release -->- [[发行版/Suki na Mono wa Suki Dakara Shouganai!!- RAIN - Sukisyo! Episode ＃3]]
 - [[Suki na Mono wa Suki Dakara Shouganai!!- RAIN - Sukisyo! Episode ＃3]]<!-- AUTO:END release -->
 
 ## 动画化

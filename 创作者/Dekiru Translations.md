@@ -12,7 +12,7 @@ source_urls:
 # Dekiru Translations
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Sansha Mendan ~Rensa Suru Chijoku Choukyou no Gakuen~]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Sansha Mendan ~Rensa Suru Chijoku Choukyou no Gakuen~ DVDPG]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

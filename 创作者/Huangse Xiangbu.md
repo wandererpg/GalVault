@@ -12,7 +12,7 @@ source_urls:
 # Huangse Xiangbu
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Renxing HighSpec OC]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Wagamama High Spec OC - First Press Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

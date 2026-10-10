@@ -75,16 +75,9 @@ cover_image: "assets/covers/v89.webp"
 - [[Torii Kanon]]（鳥居 花音）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[HOOKSOFT 20th Anniversary Royal Box 2002-2017（HOOKSOFT）]]
-- [[HOOKSOFT 25th Discovery Box 2002-2022（HOOKSOFT・work：v89）]]
-- [[Hooksoft Rakko The Premium Box Plus α]]
-- [[_summer - Renewal Edition - Download Edition]]
-- [[_summer - Renewal Edition for Win10]]
-- [[_summer - Renewal Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/_summer]]
 - [[_summer]]
-- [[_summer＃＃ Underbar Summer Double Sharp - Best Edition]]
-- [[_summer＃＃ Underbar Summer Double Sharp - First Press Limited Edition]]
-- [[_summer＃＃ Underbar Summer Double Sharp - Regular Edition]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

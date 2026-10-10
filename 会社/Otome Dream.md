@@ -12,24 +12,24 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Bloody Call]]（publisher）
-- [[DRAMAtical Murder re：connect（Otome Dream）]]（publisher）
-- [[DRAMAtical Murder（Otome Dream）]]（publisher）
-- [[Die zhi Du Hua zhi Suo Huanxiang Yehua]]（publisher）
-- [[Die zhi Du Hua zhi Suo]]（publisher）
-- [[Feihong Diguo]]（publisher）
-- [[Guichu Yanjing R]]（publisher）
-- [[Hei lang chuan shuo xue se meng yan]]（publisher）
-- [[Hua Guizang PLUS+DISC]]（publisher）
-- [[Jinianri zhi Guo de Ailisi]]（publisher）
-- [[Jinse de Qinxian 2F]]（publisher）
-- [[Lamento win 10]]（publisher）
-- [[Sanguo Lianzhanji ~Shaonv de Bingfa!~]]（publisher）
-- [[Shenwu zhi Niao]]（publisher）
-- [[Slow Damage／Manxing Shanghai]]（publisher）
+- [[发行版/DRAMAtical Murder re：connect]]（publisher）
+- [[发行版/DRAMAtical Murder re：code - Regular Edition]]（publisher）
+- [[发行版/Chou no Doku Hana no Kusari ~Gensou Yawa~ First Press Limited Edition]]（publisher）
+- [[发行版/Chou no Doku Hana no Kusari ~Taishou Tsuya Koi Ibun~ Download Edition]]（publisher）
+- [[发行版/Shinsouban Crimson Empire ~Circumstances to Serve a Noble~ Download Edition]]（publisher）
+- [[发行版/Kichiku Megane R Kichiku Megane Fan Disc - First Press Limited Edition]]（publisher）
+- [[发行版/BLACK WOLVES SAGA -Weiβ und Schwarz- for Nintendo Switch Special Edition（Rejet Co., Ltd）]]（publisher）
+- [[发行版/Hanakisou（HaccaWorks＊・release：）]]（publisher）
+- [[发行版/Heart no Kuni no Alice ~Wonderful Wonder World~（PROTOTYPE）]]（publisher）
+- [[发行版/Kin'iro no Corda 2 ff]]（publisher）
+- [[发行版/Lamento -BEYOND THE VOID- Windows 10 Support Edition - Download Edition]]（publisher）
+- [[发行版/Sanguo Lian Zhanji ~Shaonü de Bingfa!~ Regular Edition]]（publisher）
+- [[发行版/Kannagi no Tori]]（publisher）
+- [[发行版/Slow Damage - JAST]]（publisher）
 - [[Starry☆Sky ~After Summer~]]（publisher）
-- [[Xiaochou zhi Guo de Ailisi]]（publisher）
-- [[Yaoguai Mifan]]（publisher）
-- [[Zhuangjia Egui Cunzheng]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Joker no Kuni no Alice ~Wonderful Wonder World~ Deluxe Edition]]（publisher）
+- [[发行版/Ayakashi Gohan ~Oomori!~ for S Download Edition]]（publisher）
+- [[发行版/Soukou Akki Muramasa - Windows 10 Support Edition - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

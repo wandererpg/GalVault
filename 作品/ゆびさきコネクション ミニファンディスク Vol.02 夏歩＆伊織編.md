@@ -50,12 +50,9 @@ cover_image: "assets/covers/v33545.webp"
 - [[Usui Motoe]]（佐夢来 ジェニ）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[HOOKSOFT 25th Discovery Box 2002-2022（HOOKSOFT・vndb：r13）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Yubisaki Connection Mini Fandisk Vol. 02 - Natsuho & Iori Hen - Deluxe Limited Edition]]
 - [[Yubisaki Connection Mini Fandisk Vol. 02 - Natsuho & Iori Hen - Deluxe Limited Edition]]
-- [[Yubisaki Connection Mini Fandisk Vol. 02 - Natsuho & Iori Hen - Download Edition]]
-- [[Yubisaki Connection Mini Fandisk Vol. 02 - Natsuho & Iori Hen - Regular Edition]]
-- [[Yubisaki Connection Mini Fandisk Vol. 02 - Natsuho & Iori Hen]]
-- [[Zhijian Lianjie（release：）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -31,7 +31,7 @@ portrait_image: "assets/characters/c3808.webp"
 
 ## 出场作品
 <!-- AUTO:BEGIN character -->- [[Twinkle ☆ Crusaders -Passion Star Stream- Deluxe Edition]]（primary）
-- [[Twinkle ☆ Crusaders Go Go - Regular Edition]]（primary）
+- [[发行版/Twinkle ☆ Crusaders Go Go - Deluxe (Best Edition)]]（primary）
 - [[閃耀☆十字軍]]（side）<!-- AUTO:END character -->
 
 ## 声优

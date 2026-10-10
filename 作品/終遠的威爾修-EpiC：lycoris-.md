@@ -78,14 +78,9 @@ cover_image: "assets/covers/v38067.webp"
 - [[Yotsuya Cider]]（興津 和幸）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Shuuen no Virche -EpiC：lycoris- DL Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Shuuen no Virche -EpiC：lycoris- Otomate Sweet BOX]]
 - [[Shuuen no Virche -EpiC：lycoris- Otomate Sweet BOX]]
-- [[Shuuen no Virche -EpiC：lycoris- Regular Edition]]
-- [[Shuuen no Virche -EpiC：lycoris- Special Edition]]
-- [[Virche Evermore -EpiC： Lycoris- - Download Edition]]
-- [[Virche Evermore -EpiC： Lycoris- - Online Exclusive Edition]]
-- [[Virche Evermore -EpiC： Lycoris- - Standard Edition]]
-- [[Zhongyuan de Virche -EpiC：lycoris-]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

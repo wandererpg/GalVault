@@ -12,7 +12,7 @@ source_urls:
 # TomoriNao-shirone
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Xiangei Zui Buxing de Zai'e zhi Ren]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Saiaku Naru Saiyaku Ningen ni Sasagu - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

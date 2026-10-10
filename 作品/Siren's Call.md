@@ -47,10 +47,9 @@ cover_image: "assets/covers/v34778.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Siren's Call - Demo]]
+<!-- AUTO:BEGIN release -->- [[发行版/Siren's Call]]
 - [[Siren's Call]]
-- [[Siren's Call： Escape Velocity - Prologue]]
-- [[Siren's Call： Escape Velocity]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

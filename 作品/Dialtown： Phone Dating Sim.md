@@ -48,10 +48,9 @@ cover_image: "assets/covers/v30546.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Dialtown： Olandy Route DLC]]
-- [[Dialtown： Phone Dating Sim - Demo]]
+<!-- AUTO:BEGIN release -->- [[发行版/Dialtown： Phone Dating Sim]]
 - [[Dialtown： Phone Dating Sim]]
-- [[Dialtown： Roger's Route DLC]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -1,16 +1,57 @@
 ---
-entity_id: "release:vndb:r150109:work:vndb:work:v58103"
-type: "release"
-display_title: "Schrödinger's Call"
-release_date: "2026-05-28"
+entity_id: release:vndb:r150109:work:vndb:work:v58103
+type: release
+display_title: Schrödinger's Call
+release_date: '2026-05-28'
 is_all_ages: true
-platform: "swi"
-edition_type: "complete"
-title_status: "needs_review"
+platform: swi
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r150109"
+  vndb: r150109
 source_urls:
-  vndb: "https://vndb.org/r150109"
+  vndb: https://vndb.org/r150109
+aliases:
+- Schrödinger's Call
+- Schrödinger's Call Episode 1 Demo
+- Schrödinger's Call Episode 1 Demo（Nocteye Localization）
+- Schrödinger’s Call
+consolidated_releases:
+- id: r150109
+  title: Schrödinger's Call
+  url: https://vndb.org/r150109
+  release_date: '2026-05-28'
+  platform: swi
+  edition_type: complete
+  is_all_ages: true
+- id: r139197
+  title: Schrödinger's Call
+  url: https://vndb.org/r139197
+  release_date: '2026-05-27'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+- id: r161053
+  title: Schrödinger’s Call
+  url: https://vndb.org/r161053
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+- id: r139198
+  title: Schrödinger's Call Episode 1 Demo
+  url: https://vndb.org/r139198
+  release_date: '2025-04-23'
+  platform: win
+  edition_type: trial
+  is_all_ages: true
+- id: r161049
+  title: Schrödinger's Call Episode 1 Demo
+  url: https://vndb.org/r161049
+  release_date: '2026-05-04'
+  platform: win
+  edition_type: trial
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Schrödinger's Call

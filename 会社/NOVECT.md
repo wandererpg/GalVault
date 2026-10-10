@@ -12,41 +12,12 @@ source_urls:
 # NOVECT
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Fata Morgana no Yakata - COLLECTED EDITION -]]（developer）
-- [[Fata Morgana no Yakata - COLLECTED EDITION -（NOVECT）]]（developer）
-- [[Fata Morgana no Yakata - Download Edition（NOVECT）]]（developer）
-- [[Fata Morgana no Yakata - Download Edition（NOVECT）]]（publisher）
-- [[Fata Morgana no Yakata - First Edition]]（developer）
-- [[Fata Morgana no Yakata - First Edition]]（publisher）
-- [[Fata Morgana no Yakata - Novectacle Collection]]（developer）
-- [[Fata Morgana no Yakata - Novectacle Collection]]（publisher）
-- [[Fata Morgana no Yakata - Novectacle Collection（NOVECT）]]（developer）
-- [[Fata Morgana no Yakata - Novectacle Collection（NOVECT）]]（publisher）
-- [[Fata Morgana no Yakata - Remastered]]（developer）
-- [[Fata Morgana no Yakata - Remastered]]（publisher）
-- [[Fata Morgana no Yakata - Second Edition]]（developer）
-- [[Fata Morgana no Yakata - Second Edition]]（publisher）
-- [[Fata Morgana no Yakata - Trial Edition]]（developer）
-- [[Fata Morgana no Yakata - Trial Edition]]（publisher）
-- [[Fata Morgana no Yakata -A Requiem for Innocence- Remastered]]（developer）
-- [[Fata Morgana no Yakata -A Requiem for Innocence- Remastered]]（publisher）
-- [[Fata Morgana no Yakata -Another Episodes- Download Edition]]（developer）
-- [[Fata Morgana no Yakata -Another Episodes- Download Edition]]（publisher）
-- [[Fata Morgana no Yakata -Another Episodes- Package Edition]]（developer）
-- [[Fata Morgana no Yakata -Another Episodes- Package Edition]]（publisher）
-- [[Fata Morgana no Yakata -Another Episodes- Trial Edition]]（developer）
-- [[Fata Morgana no Yakata -Another Episodes- Trial Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Fata Morgana no Yakata -DREAMS OF THE REVENANTS EDITION- - Download Edition]]（developer）
+- [[发行版/Fata Morgana no Yakata -DREAMS OF THE REVENANTS EDITION- - Download Edition（NOVECT）]]（developer）
+- [[发行版/Fata Morgana no Yakata -DREAMS OF THE REVENANTS EDITION- - Download Edition]]（publisher）
+- [[发行版/Fata Morgana no Yakata -DREAMS OF THE REVENANTS EDITION- - Download Edition（NOVECT）]]（publisher）
 - [[Fata Morgana no Yakata -DREAMS OF THE REVENANTS EDITION- - Download Edition]]（developer）
 - [[Fata Morgana no Yakata -DREAMS OF THE REVENANTS EDITION- - Download Edition（NOVECT）]]（developer）
-- [[Fata Morgana no Yakata -DREAMS OF THE REVENANTS EDITION- Download Edition]]（developer）
-- [[Fata Morgana no Yakata -DREAMS OF THE REVENANTS EDITION- Download Edition（NOVECT）]]（developer）
-- [[Fata Morgana no Yakata -DREAMS OF THE REVENANTS EDITION- Package Edition]]（developer）
-- [[Fata Morgana no Yakata -DREAMS OF THE REVENANTS EDITION- Package Edition（NOVECT）]]（developer）
-- [[Fata Morgana no Yakata -DREAMS OF THE REVENANTS EDITION-]]（developer）
-- [[Fata Morgana no Yakata -DREAMS OF THE REVENANTS EDITION-（NOVECT）]]（developer）
-- [[Fata Morgana no Yakata（FuRyu Corporation）]]（developer）
-- [[The House in Fatamorgana - BitSummit Trial Edition]]（developer）
-- [[The House in Fatamorgana - BitSummit Trial Edition]]（publisher）
 - [[海市蜃楼之馆]]（developer）
 - [[海市蜃楼之馆：纯真挽歌]]（developer）<!-- AUTO:END duty -->
 

@@ -13,18 +13,7 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Bairi Zhanji -Zuizhong Fangwei Xueyuan-]]（developer）
-- [[HUNDRED LINE -Saishuu Bouei Gakuen- - Digital Deluxe Edition]]（developer）
-- [[HUNDRED LINE -Saishuu Bouei Gakuen- - Download Edition]]（developer）
-- [[HUNDRED LINE -Saishuu Bouei Gakuen- - Number Limited Edition]]（developer）
-- [[HUNDRED LINE -Saishuu Bouei Gakuen- - Standard Edition]]（developer）
-- [[HUNDRED LINE -Saishuu Bouei Gakuen- Demo Ver]]（developer）
-- [[HUNDRED LINE -Saishuu Bouei Gakuen- Demo Ver（Too Kyo Games, Inc）]]（developer）
-- [[HUNDRED LINE -Saishuu Bouei Gakuen-]]（developer）
-- [[HUNDRED LINE -Saishuu Bouei Gakuen-（Too Kyo Games, Inc）]]（developer）
-- [[The Hundred Line -Last Defense Academy- - Digital Deluxe Edition]]（developer）
-- [[The Hundred Line -Last Defense Academy- - Digital Standard Edition]]（developer）
-- [[The Hundred Line -Last Defense Academy- - Standard Edition]]（developer）
-- [[The Hundred Line -Last Defense Academy- Limited Edition]]（developer）
+- [[发行版/Bairi Zhanji -Zuizhong Fangwei Xueyuan-]]（developer）
 - [[百日战纪 -最终防卫学园-]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

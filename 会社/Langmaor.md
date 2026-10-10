@@ -12,8 +12,8 @@ source_urls:
 # Langmaor
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Laughter Land - Trial Edition]]（developer）
-- [[Laughter Land - Trial Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Laughter Land]]（developer）
+- [[发行版/Laughter Land]]（publisher）
 - [[Laughter Land]]（developer）
 - [[Laughter Land]]（publisher）<!-- AUTO:END duty -->
 

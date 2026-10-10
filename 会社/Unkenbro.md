@@ -12,7 +12,7 @@ source_urls:
 # Unkenbro
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[OSTROV]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/ISLAND - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

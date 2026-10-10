@@ -74,7 +74,7 @@ cover_image: "assets/covers/v30994.webp"
 - [[snowysnowwish]]（snowysnowwish）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Project： Eden's Garden： Chapter 0]]
+<!-- AUTO:BEGIN release -->- [[发行版/Project： Eden's Garden： Chapters 0-1]]
 - [[Project： Eden's Garden： Chapters 0-1]]<!-- AUTO:END release -->
 
 ## 动画化

@@ -13,11 +13,9 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Olympia Soiree - Download Edition]]（developer）
-- [[Olympia Soiree - Limited Edition]]（developer）
-- [[Olympia Soiree - Regular Edition]]（developer）
+- [[发行版/Olympia Soiree - Download Edition]]（developer）
 - [[Shuuen no Virche -ErroR：salvation- Download Edition]]（developer）
-- [[Shuuen no Virche -ErroR：salvation- Limited Edition]]（developer）
-- [[Shuuen no Virche -ErroR：salvation- Regular Edition]]（developer）
+- [[发行版/Shuuen no Virche -ErroR：salvation- Download Edition]]（developer）
 - [[奧林匹亞的晚宴]]（developer）
 - [[終遠的威爾修 -ErroR：salvation-]]（developer）<!-- AUTO:END duty -->
 

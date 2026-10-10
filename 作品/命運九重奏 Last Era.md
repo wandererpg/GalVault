@@ -94,19 +94,9 @@ cover_image: "assets/covers/v14415.webp"
 - [[Yusa Kouji]]（遊佐 浩二）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Mingyun Jiuchongzou -NORN9 LOFN- Download Edition]]
-- [[Mingyun Jiuchongzou -NORN9 LOFN- Limited Edition]]
-- [[Mingyun Jiuchongzou -NORN9 LOFN- Regular Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Norn9 ~Norn + Nonette~ LOFN for Nintendo Switch - Download Edition]]
 - [[Norn9 ~Norn + Nonette~ LOFN for Nintendo Switch - Download Edition]]
-- [[Norn9 ~Norn + Nonette~ LOFN for Nintendo Switch - Limited Edition]]
-- [[Norn9 ~Norn + Nonette~ LOFN for Nintendo Switch]]
-- [[Norn9 ~Norn + Nonette~ Last Era - Download Edition]]
-- [[Norn9 ~Norn + Nonette~ Last Era - Limited Edition]]
-- [[Norn9 ~Norn + Nonette~ Last Era - Regular Edition]]
-- [[Norn9 ~Norn + Nonette~ Last Era for iOS & Android]]
-- [[Norn9： Last Era - Download Edition]]
-- [[Norn9： Last Era - Limited Edition]]
-- [[Norn9： Last Era - Standard Edition]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -13,32 +13,14 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[BLAZBLUE CENTRALFICTION]]（developer）
-- [[BlazBlue Centralfiction]]（developer）
-- [[BlazBlue： Centralfiction - Limited Box Famitsu DX Pack 3D Crystal Set]]（developer）
-- [[BlazBlue： Centralfiction - Limited Box Famitsu DX Pack 3D Crystal Set]]（publisher）
-- [[BlazBlue： Centralfiction - Limited Box Famitsu DX Pack 3D Crystal Set（Arc System Works Co., Ltd）]]（developer）
-- [[BlazBlue： Centralfiction - Limited Box Famitsu DX Pack 3D Crystal Set（Arc System Works Co., Ltd）]]（publisher）
-- [[BlazBlue： Centralfiction - Limited Box Famitsu DX Pack]]（developer）
-- [[BlazBlue： Centralfiction - Limited Box Famitsu DX Pack]]（publisher）
-- [[BlazBlue： Centralfiction - Limited Box Famitsu DX Pack（Arc System Works Co., Ltd）]]（developer）
-- [[BlazBlue： Centralfiction - Limited Box Famitsu DX Pack（Arc System Works Co., Ltd）]]（publisher）
-- [[BlazBlue： Centralfiction - Limited Edition]]（developer）
-- [[BlazBlue： Centralfiction - Limited Edition]]（publisher）
-- [[BlazBlue： Centralfiction - Limited Edition（Arc System Works Co., Ltd）]]（developer）
-- [[BlazBlue： Centralfiction - Limited Edition（Arc System Works Co., Ltd）]]（publisher）
-- [[BlazBlue： Centralfiction Special Edition - JP Edition]]（developer）
-- [[BlazBlue： Centralfiction Special Edition - JP Edition]]（publisher）
-- [[BlazBlue： Centralfiction Special Edition - NA Download Edition]]（publisher）
-- [[BlazBlue： Centralfiction]]（developer）
-- [[BlazBlue： Centralfiction]]（publisher）
-- [[BlazBlue： Centralfiction（Arc System Works Co., Ltd）]]（developer）
-- [[BlazBlue： Centralfiction（Arc System Works Co., Ltd）]]（publisher）
+- [[发行版/Blazblue Central Fiction Special Edition - NA Physical Release]]（developer）
+- [[发行版/Blazblue Central Fiction Special Edition - NA Physical Release]]（publisher）
 - [[Blazblue Central Fiction Special Edition - NA Physical Release]]（developer）
 - [[Blazblue Central Fiction Special Edition - NA Physical Release]]（publisher）
-- [[Fate／hollow ataraxia REMASTERED（Arc System Works Co., Ltd）]]（publisher）
-- [[Fate／stay night REMASTERED（Arc System Works Co., Ltd）]]（publisher）
-- [[Mabeopsa'ui Bam]]（publisher）
-- [[Wolhui -A piece of blue glass moon-]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Fate／Hollow Ataraxia - Voice Patch]]（publisher）
+- [[发行版/Fate／Stay Night ［Realta Nua］ - Ultimate Edition]]（publisher）
+- [[发行版/Mahoutsukai no Yoru]]（publisher）
+- [[发行版/Tsukihime -A piece of blue glass moon- Digital Deluxe Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

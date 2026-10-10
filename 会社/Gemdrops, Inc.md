@@ -12,10 +12,7 @@ source_urls:
 # Gemdrops, Inc
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Danganronpa 2x2 - Psycho Tropical Vacation Package]]（developer）
-- [[Danganronpa 2x2 - Psycho Tropical Vacation Package（Gemdrops, Inc・release：）]]（developer）
-- [[Danganronpa 2x2 - Psycho Tropical Vacation Package（Gemdrops, Inc・vndb：r15）]]（developer）
-- [[Danganronpa 2x2 - Psycho Tropical Vacation Package（Gemdrops, Inc）]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Danganronpa Decadence - EU Package Edition（Numskull Games Ltd・release：）]]（developer）
 - [[Super Dangan Ronpa 2x2]]（developer）
 - [[超级弹丸论破2 再见绝望学园]]（developer）<!-- AUTO:END duty -->
 

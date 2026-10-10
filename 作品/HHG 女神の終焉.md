@@ -77,13 +77,9 @@ cover_image: "assets/covers/v12795.webp"
 - [[Sawada Natsu]]（澤田 なつ）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[HHG - Anniversary Pack - Download Edition]]
-- [[HHG - Anniversary Pack]]
-- [[HHG Double Pack]]
+<!-- AUTO:BEGIN release -->- [[发行版/HHG Megami no Shuuen - First Press Limited Edition]]
 - [[HHG Megami no Shuuen - First Press Limited Edition]]
-- [[HHG Megami no Shuuen - First Press Limited Edition（Windmill）]]
-- [[HHG Megami no Shuuen - Package Edition]]
-- [[HHG Megami no Shuuen - Trial Edition]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

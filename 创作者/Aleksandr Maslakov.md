@@ -12,7 +12,7 @@ source_urls:
 # Aleksandr Maslakov
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Project： Eden's Garden： Chapter 0]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Project： Eden's Garden： Chapters 0-1]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

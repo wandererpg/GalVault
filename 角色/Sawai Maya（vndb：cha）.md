@@ -31,7 +31,7 @@ portrait_image: "assets/characters/c5961.webp"
 
 ## 出场作品
 <!-- AUTO:BEGIN character -->- [[D.C. II P.C. ~Da Capo II~ Plus Communication - Regular Edition]]（primary）
-- [[D.C. II P.S. ~Da Capo II~ Plus Situation - Regular Edition]]（primary）<!-- AUTO:END character -->
+- [[发行版/D.C. II P.C. ~Da Capo II~ Plus Communication - Regular Edition]]（primary）<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Kureno Mia]]（声优：七星 友里子）<!-- AUTO:END voice -->

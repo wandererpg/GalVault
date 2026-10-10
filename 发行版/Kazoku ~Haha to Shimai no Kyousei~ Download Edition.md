@@ -1,16 +1,58 @@
 ---
-entity_id: "release:vndb:r65193:work:vndb:work:v26206"
-type: "release"
-display_title: "Kazoku ~Haha to Shimai no Kyousei~ Download Edition"
-release_date: "2019-09-27"
+entity_id: release:vndb:r65193:work:vndb:work:v26206
+type: release
+display_title: Kazoku ~Haha to Shimai no Kyousei~ Download Edition
+release_date: '2019-09-27'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r65193"
+  vndb: r65193
 source_urls:
-  vndb: "https://vndb.org/r65193"
+  vndb: https://vndb.org/r65193
+aliases:
+- Kazoku ~Haha to Shimai no Kyousei~
+- Kazoku ~Haha to Shimai no Kyousei~ Package Edition
+- Kazoku ~Haha to Shimai no Kyousei~ Trial Edition
+- Kazoku ~Haha to Shimai no Kyousei~（release：）
+consolidated_releases:
+- id: r65193
+  title: Kazoku ~Haha to Shimai no Kyousei~ Download Edition
+  url: https://vndb.org/r65193
+  release_date: '2019-09-27'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r65138
+  title: Kazoku ~Haha to Shimai no Kyousei~ Package Edition
+  url: https://vndb.org/r65138
+  release_date: '2019-09-27'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r98634
+  title: Kazoku ~Haha to Shimai no Kyousei~
+  url: https://vndb.org/r98634
+  release_date: '2022-11-17'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r107814
+  title: Kazoku ~Haha to Shimai no Kyousei~
+  url: https://vndb.org/r107814
+  release_date: '2023-05-24'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r141860
+  title: Kazoku ~Haha to Shimai no Kyousei~ Trial Edition
+  url: https://vndb.org/r141860
+  release_date: '2019-09-12'
+  platform: win
+  edition_type: trial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Kazoku ~Haha to Shimai no Kyousei~ Download Edition

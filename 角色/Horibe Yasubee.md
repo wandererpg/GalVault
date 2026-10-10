@@ -31,7 +31,7 @@ portrait_image: "assets/characters/c15721.webp"
 
 ## 出场作品
 <!-- AUTO:BEGIN character -->- [[Baldr Heart EXE - First Press Limited Edition]]（appears）
-- [[Baldr Heart EXE - Regular Edition]]（appears）
+- [[发行版/Baldr Heart EXE - First Press Limited Edition]]（appears）
 - [[ChuSinGura 46+1]]（primary）
 - [[ChuSingura 46+1 武士の鼓動]]（primary）<!-- AUTO:END character -->
 

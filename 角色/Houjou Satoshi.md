@@ -32,7 +32,7 @@ portrait_image: "assets/characters/c3849.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Meakashi Hen（07th Expansion）]]（side）
+<!-- AUTO:BEGIN character -->- [[发行版/Matsuribayashi Hen（07th Expansion）]]（side）
 - [[ひぐらしのなく頃に： Console Arcs]]（appears）<!-- AUTO:END character -->
 
 ## 声优

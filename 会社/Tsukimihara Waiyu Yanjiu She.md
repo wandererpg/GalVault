@@ -12,7 +12,7 @@ source_urls:
 # Tsukimihara Waiyu Yanjiu She
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Fate／Extra CCC（Tsukimihara Waiyu Yanjiu She）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Fate／Extra CCC - Limited Edition - Type-Moon Virgin White Box]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

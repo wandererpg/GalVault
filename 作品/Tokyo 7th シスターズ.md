@@ -50,7 +50,7 @@ cover_image: "assets/covers/v52711.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Tokyo 7th Sisters]]
+<!-- AUTO:BEGIN release -->- [[发行版/Tokyo 7th Sisters（DONUTS Co. Ltd）]]
 - [[Tokyo 7th Sisters（DONUTS Co. Ltd）]]<!-- AUTO:END release -->
 
 ## 动画化

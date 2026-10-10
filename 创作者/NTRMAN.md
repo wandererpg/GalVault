@@ -12,12 +12,8 @@ source_urls:
 # NTRMAN
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Adelaide： The Crossroads Inn]]（developer）
-- [[Adelaide： The Crossroads Inn]]（publisher）
-- [[Adelaide： The Crossroads Inn（release：）]]（developer）
-- [[Adelaide： The Crossroads Inn（release：）]]（publisher）
-- [[The Adelaide Inn]]（developer）
-- [[The Adelaide Inn]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Gostinica Adelaida Remake]]（developer）
+- [[发行版/Gostinica Adelaida Remake]]（publisher）
 - [[アデレードホテル]]（developer）<!-- AUTO:END duty -->
 
 ## 创作与出演

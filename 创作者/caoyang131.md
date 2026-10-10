@@ -11,8 +11,8 @@ source_urls:
 # caoyang131
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Chuansong zhi Wu 3： Er-ren de Baihuang]]（publisher）
-- [[Mingyunshi zhi Men Ling]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Chingsongbadneun Ja： Du Myeong-ui Baeghwang - Limited Edition]]（publisher）
+- [[发行版/Steins;Gate 0 - Limited Deluxe Package Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

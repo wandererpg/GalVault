@@ -12,8 +12,8 @@ source_urls:
 # Zhongxiayehui Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Hua zhi Tianshi de Xiari Lian Ge]]（publisher）
-- [[Jinse Loveriche]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Floral Flowlove - Regular Edition]]（publisher）
+- [[发行版/Kin'iro Loveriche + Kin'iro Loveriche -Golden Time- Golden Pack]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

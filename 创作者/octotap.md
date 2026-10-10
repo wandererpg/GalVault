@@ -12,7 +12,7 @@ source_urls:
 # octotap
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Rondo Duo -Yoake no Fortissimo- Punyu Puri ff]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Lunwuqu Duo]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

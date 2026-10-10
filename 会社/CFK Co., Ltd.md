@@ -12,10 +12,8 @@ source_urls:
 # CFK Co., Ltd.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Shenyuta Duanzuimali 2 - Limited Edition]]（publisher）
-- [[Shenyuta Duanzuimali 2]]（publisher）
-- [[Sin-ogtab Mary Skelter 2]]（publisher）
-- [[Sin-ogtab Mary Skelter 2（CFK Co., Ltd）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Mary Skelter 2（Ghostlight Ltd）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

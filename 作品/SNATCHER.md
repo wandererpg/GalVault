@@ -87,24 +87,8 @@ cover_image: "assets/covers/v1305.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Lüeduozhe]]
-- [[PC Engine CoreGrafx mini]]
-- [[PC Engine mini]]
-- [[Snatcher (beta)]]
-- [[Snatcher - EU Edition]]
-- [[Snatcher - NA Edition]]
-- [[Snatcher CD-ROMantic Pilot Disk]]
-- [[Snatcher CD-ROMantic]]
-- [[Snatcher Pilot DS]]
-- [[Snatcher]]
-- [[Snatcher（Fudeba Software・release：）]]
-- [[Snatcher（Fudeba Software）]]
-- [[Snatcher（KCET）]]
-- [[Snatcher（KONAMI・release：）]]
-- [[Snatcher（KONAMI・vndb：r29）]]
-- [[Snatcher（KONAMI）]]
-- [[Snatcher（release：）]]
-- [[Snatcher（vndb：r76）]]
-- [[TurboGrafx-16 mini]]<!-- AUTO:END release -->
+- [[发行版/Lüeduozhe]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

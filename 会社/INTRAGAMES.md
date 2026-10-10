@@ -12,10 +12,9 @@ source_urls:
 # INTRAGAMES
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Geomeun Nabiui Psychedelica]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Geomeun Nabiui Psychedelica（Idea Factory Co., Ltd）]]（publisher）
 - [[Geomeun Nabiui Psychedelica（Idea Factory Co., Ltd）]]（publisher）
-- [[Hui Ying Huanjing]]（publisher）
-- [[Jaetbit Maeui Psychedelica]]（publisher）
+- [[发行版/Jaetbit Maeui Psychedelica（Idea Factory Co., Ltd）]]（publisher）
 - [[Jaetbit Maeui Psychedelica（Idea Factory Co., Ltd）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

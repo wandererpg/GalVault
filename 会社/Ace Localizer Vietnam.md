@@ -12,12 +12,10 @@ source_urls:
 # Ace Localizer Vietnam
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Cuộc Phiêu Lưu Của Luật Sư Đại Tài]]（publisher）
-- [[Luật Sư Tài Ba Trần Vân Phượng - Bộ Ba Truyện]]（publisher）
-- [[Luật Sư Tài Ba Trần Vân Phượng - Bộ Ba Truyện（Ace Localizer Vietnam）]]（publisher）
-- [[Luật Sư Tài Ba Trần Vân Phượng 3： Phiên tòa thử thách]]（publisher）
-- [[Luật Sư Tài Ba Trần Vân Phượng]]（publisher）
-- [[Tuyển Tập Luật Sư Đại Tài]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Dai Gyakuten Saiban 1&2 Limited Edition -Naruhodou Ryuunosuke no Bouken to Kakugo-]]（publisher）
+- [[发行版/Gyakuten Saiban： Yomigaeru Gyakuten]]（publisher）
+- [[发行版/Gyakuten Saiban 3 PC Download Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

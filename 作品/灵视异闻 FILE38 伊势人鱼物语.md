@@ -79,11 +79,9 @@ cover_image: "assets/covers/v62152.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[PARANORMASIGHT FILE38： Ise Ningyo Monogatari]]
-- [[PARANORMASIGHT FILE38： Ise Ningyo Monogatari（SQUARE ENIX・release：）]]
-- [[PARANORMASIGHT FILE38： Ise Ningyo Monogatari（SQUARE ENIX・vndb：r14）]]
+<!-- AUTO:BEGIN release -->- [[发行版/PARANORMASIGHT FILE38： Ise Ningyo Monogatari（SQUARE ENIX）]]
 - [[PARANORMASIGHT FILE38： Ise Ningyo Monogatari（SQUARE ENIX）]]
-- [[PARANORMASIGHT FILE38： Ise Ningyo Monogatari（release：）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

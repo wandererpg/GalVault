@@ -12,7 +12,7 @@ source_urls:
 # Nikita1990
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Holding Hands v1.0.11]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Otetetsunaide]]（publisher）
 <!-- AUTO:END duty -->
 
 ## 创作与出演

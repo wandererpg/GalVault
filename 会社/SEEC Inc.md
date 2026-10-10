@@ -12,33 +12,9 @@ source_urls:
 # SEEC Inc.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Huanghun Lüdian Re：newal]]（developer）
-- [[Huanghun Lüdian Re：newal]]（publisher）
-- [[Huanghun Lüdian Re：newal（SEEC Inc）]]（developer）
-- [[Huanghun Lüdian Re：newal（SEEC Inc）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Huanghun Lüdian]]（developer）
+- [[发行版/Huanghun Lüdian]]（publisher）
 - [[Huanghun Lüdian]]（developer）
-- [[Hwanghon Hotel Re：newal]]（developer）
-- [[Hwanghon Hotel Re：newal]]（publisher）
-- [[Hwanghon Hotel Re：newal（SEEC Inc）]]（developer）
-- [[Hwanghon Hotel Re：newal（SEEC Inc）]]（publisher）
-- [[Hwanghon Hotel]]（developer）
-- [[Hwanghon Hotel]]（publisher）
-- [[Talchul Adventure Novel Hwanghon Hotel]]（developer）
-- [[Talchul Adventure Novel Hwanghon Hotel]]（publisher）
-- [[Tasokare Hotel Re：newal]]（developer）
-- [[Tasokare Hotel Re：newal]]（publisher）
-- [[Tasokare Hotel Re：newal（SEEC Inc・release：）]]（developer）
-- [[Tasokare Hotel Re：newal（SEEC Inc・release：）]]（publisher）
-- [[Tasokare Hotel Re：newal（SEEC Inc）]]（developer）
-- [[Tasokare Hotel Re：newal（SEEC Inc）]]（publisher）
-- [[Tasokare Hotel]]（developer）
-- [[Tasokare Hotel]]（publisher）
-- [[Tasokare Hotel（SEEC Inc・release：）]]（developer）
-- [[Tasokare Hotel（SEEC Inc・release：）]]（publisher）
-- [[Tasokare Hotel（SEEC Inc・vndb：r63）]]（developer）
-- [[Tasokare Hotel（SEEC Inc・vndb：r63）]]（publisher）
-- [[Tasokare Hotel（SEEC Inc）]]（developer）
-- [[Tasokare Hotel（SEEC Inc）]]（publisher）
 - [[黃昏旅店]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

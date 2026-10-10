@@ -50,11 +50,9 @@ cover_image: "assets/covers/v30992.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Arches v0.8.1]]
+<!-- AUTO:BEGIN release -->- [[发行版/Arches]]
 - [[Arches]]
-- [[Arches（Beijiguang Hanhuazu）]]
-- [[Arches（Echo Project）]]
-- [[Arches（ExGames）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

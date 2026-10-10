@@ -12,9 +12,9 @@ source_urls:
 # Yinghua Feiwu de Jijie...
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[AIR（Yinghua Feiwu de Jijie）]]（publisher）
-- [[Xiajisheng]]（publisher）
-- [[YUNO ~ Zai Shijie Jintou Gechang Lianqu de Shaonv]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/AIR（Key）]]（publisher）
+- [[发行版/Kakyuusei Remake]]（publisher）
+- [[发行版/Kono Yo no Hate de Koi o Utau Shoujo YU-NO - Windows 10 Support Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

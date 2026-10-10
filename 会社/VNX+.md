@@ -11,14 +11,13 @@ source_urls:
 # VNX+
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Chaos;Child（VNX+）]]（publisher）
-- [[Chaos;Head NoAH（VNX+）]]（publisher）
-- [[EU e ELA e ELA： Um Amor Eterno]]（publisher）
-- [[Katawa Shoujo - 1.3J]]（publisher）
-- [[Katawa Shoujo Act 1 - 1.3J]]（publisher）
-- [[Steins;Gate - Steam Edition]]（publisher）
-- [[Steins;Gate 0（VNX+）]]（publisher）
-- [[Steins;Gate（VNX+）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Hundun zhi Zi - Package Edition（MAGES）]]（publisher）
+- [[发行版/Chaos;Head Noah - Regular Edition]]（publisher）
+- [[发行版/Ty, ja i ona： Istorija ljubvi - Steam Edition]]（publisher）
+- [[发行版/Katawa Shoujo 1.3J]]（publisher）
+- [[发行版/STEINS;GATE - Download Edition（MAGES・release：）]]（publisher）
+- [[发行版/Steins;Gate 0 - Limited Deluxe Package Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

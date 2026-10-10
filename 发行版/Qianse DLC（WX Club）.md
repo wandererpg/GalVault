@@ -1,16 +1,58 @@
 ---
-entity_id: "release:vndb:r132603:work:vndb:work:v50574"
-type: "release"
-display_title: "Qianse DLC"
-release_date: "2025-03-01"
+entity_id: release:vndb:r132603:work:vndb:work:v50574
+type: release
+display_title: Qianse DLC
+release_date: '2025-03-01'
 is_all_ages: true
-platform: "win, lin"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win, lin
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r132603"
+  vndb: r132603
 source_urls:
-  vndb: "https://vndb.org/r132603"
+  vndb: https://vndb.org/r132603
+aliases:
+- Qianse
+- Qianse Demo
+- Qianse DLC
+- Qianse（WX Club）
+consolidated_releases:
+- id: r132603
+  title: Qianse DLC
+  url: https://vndb.org/r132603
+  release_date: '2025-03-01'
+  platform: win, lin
+  edition_type: complete
+  is_all_ages: true
+- id: r130789
+  title: Qianse DLC
+  url: https://vndb.org/r130789
+  release_date: '2025-01-28'
+  platform: win, lin
+  edition_type: complete
+  is_all_ages: true
+- id: r130953
+  title: Qianse
+  url: https://vndb.org/r130953
+  release_date: '2024-12-25'
+  platform: win, lin
+  edition_type: complete
+  is_all_ages: true
+- id: r122289
+  title: Qianse
+  url: https://vndb.org/r122289
+  release_date: '2024-09-13'
+  platform: win, lin
+  edition_type: complete
+  is_all_ages: true
+- id: r122731
+  title: Qianse Demo
+  url: https://vndb.org/r122731
+  release_date: '2024-05-04'
+  platform: win
+  edition_type: trial
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Qianse DLC

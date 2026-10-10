@@ -12,12 +12,10 @@ source_urls:
 # Failing Forward
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Pervoklassnyj advokat Feniks Rajt： trilogija]]（publisher）
-- [[Pervoklassnyj advokat Feniks Rajt： trilogija（Failing Forward・release：）]]（publisher）
-- [[Pervoklassnyj advokat Feniks Rajt： trilogija（Failing Forward・vndb：r12）]]（publisher）
-- [[Pervoklassnyj advokat Feniks Rajt： trilogija（Failing Forward）]]（publisher）
-- [[The Great Ace Attorney Chronicles 1 glava]]（publisher）
-- [[The Great Ace Attorney Chronicles 1 glava（Failing Forward）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Gyakuten Saiban： Yomigaeru Gyakuten]]（publisher）
+- [[发行版/Gyakuten Saiban 3 PC Download Edition]]（publisher）
+- [[发行版/Dai Gyakuten Saiban 1&2 Limited Edition -Naruhodou Ryuunosuke no Bouken to Kakugo-]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -34,19 +34,8 @@ portrait_image: "assets/characters/c87866.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Silver 2425 - Regular Edition]]（appears）
-- [[Silver 2425]]（appears）
-- [[Silver Jiken - Download Edition]]（appears）
-- [[Silver Jiken - Download Edition（PLAYISM・release：）]]（appears）
-- [[Silver Jiken - Download Edition（PLAYISM）]]（appears）
-- [[The Silver Case - EU Download Edition]]（appears）
-- [[The Silver Case - EU Limited Package Edition]]（appears）
-- [[The Silver Case - EU Standard Package Edition]]（appears）
+<!-- AUTO:BEGIN character -->- [[发行版/The Silver Case - Limited Package Edition]]（appears）
 - [[The Silver Case - Limited Package Edition]]（appears）
-- [[The Silver Case - NA Download Edition]]（appears）
-- [[The Silver Case - NA Standard Package Edition]]（appears）
-- [[The Silver Case 2425 - NA Deluxe Edition]]（appears）
-- [[The Silver Case（release：）]]（appears）
 - [[银色事件25区]]（protagonist）<!-- AUTO:END character -->
 
 ## 声优

@@ -125,10 +125,8 @@ cover_image: "assets/covers/v21192.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[D.C. III ~Da Capo III~ Dream Days - Download Edition]]
-- [[D.C. III ~Da Capo III~ Dream Days]]
-- [[D.C. III ~Da Capo III~ Dream Days（CIRCUS）]]
-- [[D.C. III ~Da Capo III~ Dream Days（Sakura Symphony Re;Translation）]]
-- [[D.C. ~Da Capo~ Archives - SAKURA Edition（CIRCUS・vndb：r59）]]<!-- AUTO:END release -->
+- [[发行版/D.C. III ~Da Capo III~ Dream Days - Download Edition]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

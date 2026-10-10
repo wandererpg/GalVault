@@ -109,23 +109,9 @@ cover_image: "assets/covers/v16483.webp"
 - [[Yuzuhara Miu]]（柚原 みう）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[ALIA's CARNIVAL! - W Package - Deluxe First Press Limited Edition]]
-- [[ALIA's CARNIVAL! - W Package - Download Edition]]
-- [[ALIA's CARNIVAL! - W Package - First Press Limited Edition]]
-- [[ALIA's CARNIVAL! Flowering Sky - Yoyaku Tokuten ＂Hadaka Knee Socks Patch＂]]
-- [[ALIA's CARNIVAL! Flowering Sky R-18 patch]]
-- [[ALIA's CARNIVAL! Flowering Sky（HIKARI FIELD）]]
-- [[ALIA's CARNIVAL! Sacrament Plus - Download Edition]]
-- [[ALIA's CARNIVAL! Sacrament Plus - Limited Edition]]
-- [[ALIA's CARNIVAL! Sacrament Plus - Package Edition]]
-- [[Ailiya Jianianhua FD - Hua Zhan Qingkong]]
+<!-- AUTO:BEGIN release -->- [[发行版/Alia's Carnival! Flowering Sky - 18+ Edition]]
 - [[Alia's Carnival! Flowering Sky - 18+ Edition]]
-- [[Alia's Carnival! Flowering Sky - After Story Append Patch ~Karin no Ecchi na Gohoushi Kanbyou♪~]]
-- [[Alia's Carnival! Flowering Sky - Download Edition]]
-- [[Alia's Carnival! Flowering Sky - First Press Limited Edition]]
-- [[Alia's Carnival! Flowering Sky - Trial Edition]]
-- [[Alia's Carnival! Flowering Sky]]
-- [[Alia's Carnival! Flowering Sky（NanaWind）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

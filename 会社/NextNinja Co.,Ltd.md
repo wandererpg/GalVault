@@ -11,12 +11,10 @@ source_urls:
 # NextNinja Co.,Ltd.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[ChuSinGura 46+1 S - Chapter 1]]（publisher）
-- [[ChuSinGura 46+1 S - Chapter 2 & 3]]（publisher）
-- [[ChuSinGura 46+1 S - Chapter 4 & 5]]（publisher）
-- [[Muv-Luv Dimensions]]（publisher）
-- [[Muv-Luv Dimensions（NextNinja Co.,Ltd・release：）]]（publisher）
-- [[Muv-Luv Dimensions（NextNinja Co.,Ltd）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/ChuSinGura 46+1 V - Download Edition]]（publisher）
+- [[发行版/Muv-Luv Alternative - Total Eclipse： Teito Moyu（MAGES）]]（publisher）
+- [[发行版/Kimi ga Nozomu Eien ~Enhanced Edition~ Download Edition]]（publisher）
+- [[发行版/Muv-Luv Alternative - Steam Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

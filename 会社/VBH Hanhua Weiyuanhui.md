@@ -12,7 +12,7 @@ source_urls:
 # VBH Hanhua Weiyuanhui
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[VenusBlood -HYPNO-（VBH Hanhua Weiyuanhui）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/VenusBlood HOLLOW International - Steam Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

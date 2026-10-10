@@ -12,7 +12,7 @@ source_urls:
 # Hanbing Hanhua She
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Hanchan Mingqi zhi Shi Chuti Pian]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Himatsubushi Hen（07th Expansion）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

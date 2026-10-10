@@ -78,20 +78,9 @@ cover_image: "assets/covers/v18152.webp"
 - [[Suzaki Aya]]（洲崎 綾）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[FLOWERS -Gaeul Pyeon-]]
-- [[FLOWERS -Le volume sur automne-]]
-- [[Flowers - Shiki - Download Edition（PROTOTYPE・k：v18152）]]
-- [[Flowers - Shiki - Download Edition（PROTOTYPE）]]
-- [[Flowers - Shiki - Package Edition（PROTOTYPE・k：v18152）]]
-- [[Flowers - Shiki - Package Edition（PROTOTYPE）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Flowers -Le Volume sur Automne- Download Edition]]
 - [[Flowers -Le Volume sur Automne- Download Edition]]
-- [[Flowers -Le Volume sur Automne- Download Edition（JAST USA）]]
-- [[Flowers -Le Volume sur Automne- First Press Limited Edition]]
-- [[Flowers -Le Volume sur Automne- Limited Edition]]
-- [[Flowers -Le Volume sur Automne- Package Edition]]
-- [[Flowers -Le Volume sur Automne- Regular Edition]]
-- [[Flowers -Qiu Pian-]]
-- [[Flowers Qiu]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

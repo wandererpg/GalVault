@@ -42,10 +42,9 @@ cover_image: "assets/covers/v47036.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Katawa Shoujo HD + Letters to Venus]]
-- [[Letters to Venus]]
+<!-- AUTO:BEGIN release -->- [[发行版/Letters to Venus（Chainsaw Team）]]
 - [[Letters to Venus（Chainsaw Team）]]
-- [[Letters to Venus（release：）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -62,22 +62,9 @@ cover_image: "assets/covers/v15605.webp"
 - [[Sawashiro Rizu]]（沢代 りず）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Funbag Fantasy 2IF (Gemini 3 Pro and Humanly rewritten)]]
-- [[Juru Huanxiang 2 if Full HD Bundle Edition]]
-- [[Kyonyuu Fantasy - 10th Anniversary Box（Waffle・release：）]]
-- [[Kyonyuu Fantasy 2 -Ruin Hen- Full HD Bundle Edition - DL Card Edition（release：）]]
-- [[Kyonyuu Fantasy 2 -Ruin Hen- Full HD Bundle Edition - Download Edition（release：）]]
-- [[Kyonyuu Fantasy 2 -Ruin Hen- Full HD Bundle Edition - Package Edition（Waffle）]]
-- [[Kyonyuu Fantasy 2 if - Additional DLC]]
+<!-- AUTO:BEGIN release -->- [[发行版/Kyonyuu Fantasy 2 if - Blu-ray Game]]
 - [[Kyonyuu Fantasy 2 if - Blu-ray Game]]
-- [[Kyonyuu Fantasy 2 if - DVDPG]]
-- [[Kyonyuu Fantasy 2 if - Download Edition]]
-- [[Kyonyuu Fantasy 2 if - Official Mail Order Privilege Pack]]
-- [[Kyonyuu Fantasy 2 if - Package Edition]]
-- [[Kyonyuu Fantasy 2 if - Special Edition]]
-- [[Kyonyuu Fantasy 2 if - Trial Edition]]
-- [[Kyonyuu Fantasy 2 if]]
-- [[Kyonyuu Fantasy 6 Games Collection Set（Waffle・release：）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

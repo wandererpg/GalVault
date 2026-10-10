@@ -12,8 +12,8 @@ source_urls:
 # Kirarinsenpai
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Ayakashi Gohan - Trial Edition（release：）]]（publisher）
-- [[Ayakashi Gohan（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Ayakashi Gohan ~Oomori!~ for S Download Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

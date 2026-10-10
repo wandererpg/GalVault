@@ -115,15 +115,7 @@ cover_image: "assets/covers/v45489.webp"
 - [[Zoe Sanders]]（Zoe Sanders）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Aoshu Lyushi]]
-- [[Attorney of the Arcane - Demo]]
-- [[Attorney of the Arcane Lite]]
-- [[Attorney of the Arcane]]
-- [[Attorney of the Arcane（Diamondhenge Entertainment）]]
-- [[Tirion Katbert： Advokat Arcany]]
-- [[Tyrion Cuthbert： Attorney of the Arcane - Demo]]
-- [[Tyrion Cuthbert： Attorney of the Arcane - Remake]]
-- [[Tyrion Cuthbert： Attorney of the Arcane - Remake（Diamondhenge Entertainment）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Tyrion Cuthbert： Attorney of the Arcane]]
 - [[Tyrion Cuthbert： Attorney of the Arcane]]<!-- AUTO:END release -->
 
 ## 动画化

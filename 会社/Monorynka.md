@@ -12,8 +12,8 @@ source_urls:
 # Monorynka
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Danganronpa 2： Goodbye Despair（Monorynka）]]（publisher）
-- [[Danganronpa： Trigger Happy Havoc（Monorynka）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Danganronpa Decadence - EU Package Edition（Numskull Games Ltd・release：）]]（publisher）
+- [[发行版/Danganronpa Decadence - EU Package Edition（Numskull Games Ltd）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

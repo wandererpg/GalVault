@@ -12,21 +12,11 @@ source_urls:
 # MoeNovel
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[A Sky Full of Stars（MoeNovel・release：）]]（publisher）
-- [[A Sky Full of Stars（MoeNovel）]]（publisher）
-- [[CROSS†CHANNEL： Steam Edition]]（publisher）
-- [[If My Heart Had Wings - Demo]]（publisher）
-- [[If My Heart Had Wings - Download Edition]]（publisher）
-- [[If My Heart Had Wings - Limited Edition]]（publisher）
-- [[If My Heart Had Wings - Package Edition]]（publisher）
-- [[If My Heart Had Wings - Physical Edition]]（publisher）
-- [[If My Heart Had Wings -Flight Diary- - New Wings： Akari]]（publisher）
-- [[If My Heart Had Wings -Flight Diary-（MoeNovel）]]（publisher）
-- [[If My Heart Had Wings]]（publisher）
-- [[If My Heart Had Wings（MoeNovel）]]（publisher）
-- [[Kono Oozora ni, Tsubasa o Hirogete]]（publisher）
-- [[Kono Oozora ni, Tsubasa o Hirogete（MoeNovel）]]（publisher）
-- [[＂Zai Zhe Cangqiong Zhanchi＂ - Zhongwen Jianti Ban]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Miagete Goran, Yozora no Hoshi o DVDPG]]（publisher）
+- [[发行版/Cross†Channel ~To All People~ Regular Edition]]（publisher）
+- [[发行版/Kono Oozora ni, Tsubasa o Hirogete Cruise Sign - Regular Edition（MAGES）]]（publisher）
+- [[发行版/Kono Oozora ni, Tsubasa o Hirogete Cruise Sign - Regular Edition（MAGES・release：）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,8 +12,8 @@ source_urls:
 # HiragiHOUX
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Lemures Blue's 2 A.M. Demo]]（publisher）
-- [[Lemures Blue's 2 A.M（HiragiHOUX）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Lemures Blue no Gozen 2 Ji]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

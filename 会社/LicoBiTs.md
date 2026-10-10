@@ -12,23 +12,12 @@ source_urls:
 # LicoBiTs
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Li Meng Paoying zhi Shi Wai Fucheng Deluxe Edition]]（developer）
-- [[Li Meng Paoying zhi Shi Wai Fucheng Limited Edition]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Li Meng Paoying zhi Shi Wai Fucheng Regular Edition]]（developer）
 - [[Li Meng Paoying zhi Shi Wai Fucheng Regular Edition]]（developer）
-- [[Li Meng Paoying zhi Shi Wai Fucheng]]（developer）
-- [[UN：LOGICAL DLC - After Episode Collection Vol.1]]（developer）
+- [[发行版/UN：LOGICAL DLC - After Episode Collection Vol.2]]（developer）
 - [[UN：LOGICAL DLC - After Episode Collection Vol.2]]（developer）
-- [[UN：LOGICAL Limited Revelation BOX]]（developer）
-- [[UN：LOGICAL Standard Edition]]（developer）
-- [[UN：LOGICAL Trial Edition]]（developer）
 - [[UN：LOGICAL]]（developer）
-- [[Utakata no Uchronia - Download Edition]]（developer）
-- [[Utakata no Uchronia - Limited Edition]]（developer）
-- [[Utakata no Uchronia - Standard Edition]]（developer）
-- [[Utakata no Uchronia - Trial Edition]]（developer）
-- [[Utakata no Uchronia - Trial Edition]]（publisher）
-- [[Utakata no Uchronia DLC - After Story Set 1]]（developer）
-- [[Utakata no Uchronia DLC - After Story Set 2]]（developer）
+- [[发行版/Li Meng Paoying zhi Shi Wai Fucheng Regular Edition]]（publisher）
 - [[璃夢泡影之世外浮城]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

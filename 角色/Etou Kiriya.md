@@ -30,7 +30,7 @@ portrait_image: "assets/characters/c47457.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Kin'iro no Corda 2f]]（primary）
+<!-- AUTO:BEGIN character -->- [[发行版/Kin'iro no Corda 2 ff]]（primary）
 - [[金色のコルダ3]]（appears）<!-- AUTO:END character -->
 
 ## 声优

@@ -11,12 +11,12 @@ source_urls:
 # Knox Translations
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Dies irae ~Amantes amentes~]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Dies irae ~Amantes amentes~ For Nintendo Switch]]（publisher）
 - [[Dies irae ~Interview with Kaziklu Bey~]]（publisher）
-- [[Kajiri Kamui Kagura Akebono no Hikari]]（publisher）
-- [[Umineko no Naku Koro ni Chiru ~Noturno da Verdade e Ilusões~]]（publisher）
-- [[Umineko no Naku Koro ni Saku（Knox Translations）]]（publisher）
-- [[Umineko no Naku Koro ni ~Rondó da Bruxa e Investigação~]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Shenzhou Shenwei Shenle Shuguang]]（publisher）
+- [[发行版/Umineko no Naku Koro ni Chiru - Episode 8 - Twilight of the Golden Witch]]（publisher）
+- [[发行版/Umineko no Naku Koro ni Saku ~Nekobako to Musou no Koukyoukyoku~ Limited Edition（ENTERGRAM）]]（publisher）
+- [[发行版/Umineko no Naku Koro ni - Episode 4 - Alliance of the Golden Witch]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

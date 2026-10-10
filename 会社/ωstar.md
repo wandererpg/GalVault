@@ -14,20 +14,10 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Bishoujo Mangekyou -Kami ga Tsukuritamouta Shoujo-tachi- Download Edition]]（developer）
 - [[Bishoujo Mangekyou -Kami ga Tsukuritamouta Shoujo-tachi- Download Edition]]（publisher）
-- [[Bishoujo Mangekyou -Kami ga Tsukuritamouta Shoujo-tachi- Package Edition]]（developer）
-- [[Bishoujo Mangekyou -Kami ga Tsukuritamouta Shoujo-tachi- Package Edition]]（publisher）
-- [[Bishoujo Mangekyou -Kami ga Tsukuritamouta Shoujo-tachi]]（developer）
-- [[Bishoujo Mangekyou -Kami ga Tsukuritamouta Shoujo-tachi]]（publisher）
-- [[Bishoujo Mangekyou -Kotowari to Meikyuu no Shoujo- Download Edition]]（developer）
-- [[Bishoujo Mangekyou -Kotowari to Meikyuu no Shoujo- Download Edition]]（publisher）
-- [[Bishoujo Mangekyou -Kotowari to Meikyuu no Shoujo- Package Edition]]（developer）
-- [[Bishoujo Mangekyou -Kotowari to Meikyuu no Shoujo- Package Edition]]（publisher）
-- [[Bishoujo Mangekyou -Kotowari to Meikyuu no Shoujo- update patch ver 1.1]]（developer）
-- [[Bishoujo Mangekyou -Kotowari to Meikyuu no Shoujo- update patch ver 1.1]]（publisher）
-- [[Bishoujo Mangekyou： Complete Collection -15th Anniversary Edition-]]（developer）
-- [[Bishoujo Mangekyou： Complete Collection -15th Anniversary Edition-]]（publisher）
-- [[Bishoujo Mangekyou： Complete Collection -15th Anniversary Edition-（ωstar）]]（developer）
-- [[Bishoujo Mangekyou： Complete Collection -15th Anniversary Edition-（ωstar）]]（publisher）
+- [[发行版/Bishoujo Mangekyou -Kami ga Tsukuritamouta Shoujo-tachi- Download Edition]]（developer）
+- [[发行版/Bishoujo Mangekyou -Kami ga Tsukuritamouta Shoujo-tachi- Download Edition]]（publisher）
+- [[发行版/Meishaonv Wanhuajing -Tiandao yu Migong de Shaonv-]]（developer）
+- [[发行版/Meishaonv Wanhuajing -Tiandao yu Migong de Shaonv-]]（publisher）
 - [[美少女万华镜 -理与迷宫的少女-]]（developer）
 - [[美少女万华镜 -神明所创造的少女们-]]（developer）<!-- AUTO:END duty -->
 

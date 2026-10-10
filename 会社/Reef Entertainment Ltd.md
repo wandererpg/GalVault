@@ -12,8 +12,7 @@ source_urls:
 # Reef Entertainment Ltd.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[9 R.I.P. - EU Aroma Edition]]（publisher）
-- [[9 R.I.P. - EU Day One Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/9 R.I.P. - Download Edition]]（publisher）
 - [[Birushana： Rising Flower of Genpei - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

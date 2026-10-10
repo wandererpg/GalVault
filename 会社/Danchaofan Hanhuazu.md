@@ -12,8 +12,8 @@ source_urls:
 # Danchaofan Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Xu Zhi Shaonü TG - Trial Edition]]（publisher）
-- [[Xu zhi Shaonü]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kara no Shoujo - NEW CAST REMASTER EDITION - Download Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

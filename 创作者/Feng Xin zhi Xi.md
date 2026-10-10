@@ -12,9 +12,9 @@ source_urls:
 # Feng Xin zhi Xi
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Aoi Tori - Demosaic Patch]]（publisher）
-- [[Meishaonü Wanhuajing 3 - Demosaic Patch]]（publisher）
-- [[Meishaonü Wanhuajing 5 - Demosaic Patch]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Amatsutsumi + Aoi Tori - Amatsukago no Tori BOX（Purple software）]]（publisher）
+- [[发行版/Bishoujo Mangekyou -Kami ga Tsukuritamouta Shoujo-tachi- Download Edition]]（publisher）
+- [[发行版/Meishaonv Wanhuajing -Tiandao yu Migong de Shaonv-]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

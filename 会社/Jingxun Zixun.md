@@ -12,12 +12,8 @@ source_urls:
 # Jingxun Zixun
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Meishaonv Meng Gongchang 4 - Bonus Edition]]（publisher）
-- [[Meishaonv Meng Gongchang 4 - First Press Edition]]（publisher）
-- [[Meishaonv Meng Gongchang 4 - Regular Edition]]（publisher）
-- [[Meishaonü Meng Gongchang 4 - DVD Edition]]（publisher）
-- [[Meishaonü Meng Gongchang 4 - DVD-Vista Edition]]（publisher）
-- [[Meishaonü Meng Gongchang 4 - Upgrade DVD]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Princess Maker 4 - Special Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

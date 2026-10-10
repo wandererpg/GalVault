@@ -79,12 +79,9 @@ cover_image: "assets/covers/v28118.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Lessons In Love FR v0.27]]
-- [[Lessons in Love 0.23.0 Part 2]]
+<!-- AUTO:BEGIN release -->- [[发行版/Lessons in Love v0.23.0 Part 1 - Censored Edition]]
 - [[Lessons in Love v0.23.0 Part 1 - Censored Edition]]
-- [[Lessons in Love v0.25.0 Part 2]]
-- [[Lessons in Love v0.60.0]]
-- [[Uroki Ljubvi v0.59.0]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

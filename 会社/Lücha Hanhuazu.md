@@ -12,25 +12,23 @@ source_urls:
 # Lücha Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Chunbai Jiaoxiangqu Remake for FHD]]（publisher）
-- [[Chunbai Jiaoxiangqu SANA EDITION（Lücha Hanhuazu）]]（publisher）
-- [[Dreamin' Her -Wo Mengjianle Ta. -]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Mashiro Iro Symphony ＊mutsu-no-hana]]（publisher）
+- [[发行版/Mashiro Iro Symphony： Sana Edition - Download Edition]]（publisher）
+- [[发行版/Dreamin' Her -Boku wa, Kanojo no Yume o Miru.-]]（publisher）
 - [[Hangjiyun de Bifang]]（publisher）
-- [[Hei Zhi Xuangao Xuehong Wenzhang]]（publisher）
-- [[Hei Zhi Xuangao Xunjiaozhemen]]（publisher）
-- [[Lianse kong Muyang]]（publisher）
-- [[Missing-X-Link ~Shengtang Yaolan, Shi zhi Hua~]]（publisher）
-- [[Monkeys!¡（Lücha Hanhuazu）]]（publisher）
-- [[Nan-shizi Xing Liange]]（publisher）
-- [[Tianjin Zui（Lücha Hanhuazu）]]（publisher）
-- [[Tsui no Stella - Trial Edition（Lücha Hanhuazu）]]（publisher）
-- [[Wei Wode Nüwang Xianshang Rongguan]]（publisher）
-- [[Xing zhi Zhongtu]]（publisher）
-- [[Yeliang yu Huangnü yu Liulangmao zhi Xin 2（Lücha Hanhuazu）]]（publisher）
-- [[Ying zhi Ke -Manbu yu Yinghua zhi Sen Xia-]]（publisher）
-- [[Ying zhi Shi - Qiwu yu Yinghua zhi Sen Shang-]]（publisher）
-- [[Ying-se zhi Yun ＊ Feise zhi Lian]]（publisher）
-- [[Zai Yue zhi Bi'an Xiehou]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/age Memorial Bundle]]（publisher）
+- [[发行版/Koiiro Soramoyou - First Press Edition]]（publisher）
+- [[发行版/DiGination Collection - Missing-X-Link ~Ten no Yurikago, Togi no Hana~]]（publisher）
+- [[发行版/Monkeys!¡ - Download Edition]]（publisher）
+- [[发行版/Minamijuujisei Renka]]（publisher）
+- [[发行版/Amatsutsumi - Download Edition]]（publisher）
+- [[发行版/Tsui no Stella]]（publisher）
+- [[发行版/Waga Himegimi ni Eikan o - Download Edition]]（publisher）
+- [[发行版/The Princess, the Stray Cat, and Matters of the Heart 2（Fruitbat Factory）]]（publisher）
+- [[发行版/Sakura no Toki -Sakura no Mori no Shita o Ayumu- First Press Limited Edition]]（publisher）
+- [[发行版/Sakura no Uta -Sakura no Mori no Ue o Mau- 10th Anniversary Edition（Taikutsu Translations）]]（publisher）
+- [[发行版/Sakura no Kumo ＊ Scarlet no Koi - Download Edition（ENTERGRAM）]]（publisher）
+- [[发行版/Tsuki no Kanata de Aimashou - Regular Edition（tone work's）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -161,16 +161,9 @@ cover_image: "assets/covers/v858.webp"
 - [[Yukana]]（ゆかな）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Tokimeki Memorial Girl's Side Double Pack]]
-- [[Tokimeki Memorial Girl's Side Triple Pack（KONAMI）]]
-- [[Tokimeki Memorial Girl's Side： 2nd Kiss - First Press Edition]]
-- [[Tokimeki Memorial Girl's Side： 2nd Kiss - Regular Edition]]
-- [[Tokimeki Memorial Girl's Side： 2nd Kiss - Special Edition]]
-- [[Tokimeki Memorial Girl's Side： 2nd Kiss]]
-- [[Tokimeki Memorial Girl's Side： 2nd Season for Nintendo Switch]]
-- [[Tokimeki Memorial Girl's Side： 2nd Season for Nintendo Switch（release：）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Tokimeki Memorial Girl's Side： 2nd Season]]
 - [[Tokimeki Memorial Girl's Side： 2nd Season]]
-- [[Xintiao Huiyi Girl's Side： 2nd Season]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

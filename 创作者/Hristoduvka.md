@@ -12,7 +12,7 @@ source_urls:
 # Hristoduvka
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Hero Party Must Fall v0.5.4]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Otrjad Geroja Dolzhen Past' v0.6.1]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

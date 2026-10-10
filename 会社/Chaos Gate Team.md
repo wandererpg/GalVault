@@ -12,12 +12,12 @@ source_urls:
 # Chaos Gate Team
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[A Summer's End — Hong Kong, 1986（Chaos Gate Team）]]（publisher）
-- [[Chaos;Child（Chaos Gate Team）]]（publisher）
-- [[Chaos;Head Noah（Chaos Gate Team）]]（publisher）
-- [[Kimi to Kanojo to Kanojo no Koi（Chaos Gate Team）]]（publisher）
-- [[Sayonara o Oshiete ~Comment te Dire Adieu~（Chaos Gate Team）]]（publisher）
-- [[Tsui no Sora Remake（Chaos Gate Team）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/A Summer's End - Hong Kong 1986 - Adult Patch]]（publisher）
+- [[发行版/Hundun zhi Zi - Package Edition（MAGES）]]（publisher）
+- [[发行版/Chaos;Head Noah - Regular Edition]]（publisher）
+- [[发行版/Ty, ja i ona： Istorija ljubvi - Steam Edition]]（publisher）
+- [[发行版/Sayonara o Oshiete ~Comment te Dire Adieu~ ~AsoBD~]]（publisher）
+- [[发行版/Subarashiki Hibi ~Furenzoku Sonzai~ 10th Anniversary Special Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

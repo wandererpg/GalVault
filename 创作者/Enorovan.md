@@ -12,7 +12,7 @@ source_urls:
 # Enorovan
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[STEINS;GATE： Divergencies Assort English Patch]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Steins;Gate 0 - Limited Deluxe Package Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

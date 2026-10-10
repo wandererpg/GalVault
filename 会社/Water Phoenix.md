@@ -12,27 +12,13 @@ source_urls:
 # Water Phoenix
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Kekkon Shugi Kokka - Dokushin Kangoku]]（developer）
-- [[Kekkon Shugi Kokka - Dokushin Kangoku]]（publisher）
-- [[Kekkon Shugi Kokka 1]]（developer）
-- [[Kekkon Shugi Kokka 1]]（publisher）
-- [[Kekkon Shugi Kokka 2]]（developer）
-- [[Kekkon Shugi Kokka 2]]（publisher）
-- [[Kekkon Shugi Kokka 3]]（developer）
-- [[Kekkon Shugi Kokka 3]]（publisher）
-- [[Kekkon Shugi Kokka 4]]（developer）
-- [[Kekkon Shugi Kokka 4]]（publisher）
-- [[Kekkon Shugi Kokka Short Story]]（developer）
-- [[Kekkon Shugi Kokka Short Story]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Kekkon Shugi Kokka]]（developer）
+- [[发行版/Kekkon Shugi Kokka]]（publisher）
 - [[Kekkon Shugi Kokka]]（developer）
 - [[Kekkon Shugi Kokka]]（publisher）
 - [[Saiaku Naru Saiyaku Ningen ni Sasagu - Download Edition]]（developer）
-- [[Saiaku Naru Saiyaku Ningen ni Sasagu]]（developer）
-- [[Saiaku Naru Saiyaku Ningen ni Sasagu]]（publisher）
-- [[Saiaku Naru Saiyaku Ningen ni Sasagu（Water Phoenix・k：v23077）]]（developer）
-- [[Saiaku Naru Saiyaku Ningen ni Sasagu（Water Phoenix・release：）]]（developer）
-- [[Saiaku Naru Saiyaku Ningen ni Sasagu（Water Phoenix・vndb：r61）]]（developer）
-- [[Saiaku Naru Saiyaku Ningen ni Sasagu（Water Phoenix）]]（developer）
+- [[发行版/Saiaku Naru Saiyaku Ningen ni Sasagu - Download Edition]]（developer）
+- [[发行版/Saiaku Naru Saiyaku Ningen ni Sasagu - Download Edition]]（publisher）
 - [[最悪なる災厄人間に捧ぐ]]（developer）
 - [[結婚主義国家]]（developer）<!-- AUTO:END duty -->
 

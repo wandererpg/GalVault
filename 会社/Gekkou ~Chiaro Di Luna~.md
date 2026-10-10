@@ -12,10 +12,8 @@ source_urls:
 # Gekkou ~Chiaro Di Luna~
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Fate／Stay Night - Route Fate]]（publisher）
-- [[Fate／Stay Night - Trial Edition（Gekkou ~Chiaro Di Luna~）]]（publisher）
-- [[Fate／Stay Night ［Versione Trial］]]（publisher）
-- [[Mahoutsukai no Yoru ［Versione Trial］]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Fate／Stay Night ［Realta Nua］ - Ultimate Edition]]（publisher）
+- [[发行版/Mahoutsukai no Yoru]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

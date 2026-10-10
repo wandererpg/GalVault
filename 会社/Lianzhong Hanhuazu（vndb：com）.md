@@ -12,9 +12,9 @@ source_urls:
 # Lianzhong Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Gege, Zaoshang Qichuang zhiqian Douyao Baojin Wo o! Wanshang Shuijiao Zhiqian Zuogengduo SeSe De Shiqing Ba!]]（publisher）
-- [[Maoshen -happy end-]]（publisher）
-- [[Meishaonü Wanhuajing - Shenming suo Chuangzao de Shaonümen]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Onii-chan, Asa made Zutto Gyutte Shite! Yoru Made Motto Ecchi Shite! - DVD-PG]]（publisher）
+- [[发行版/Monobeno -Pure Smile- Regular Edition]]（publisher）
+- [[发行版/Bishoujo Mangekyou -Kami ga Tsukuritamouta Shoujo-tachi- Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

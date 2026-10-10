@@ -12,12 +12,10 @@ source_urls:
 # Ta&Ta❀Xinjianjin Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Huaichuai Sinian tong Wo Zaihui!!]]（publisher）
-- [[Linggan Manyi de Tianmi Chuangxiang Tu]]（publisher）
-- [[Making ＊ Lovers HD]]（publisher）
-- [[Making ＊ Lovers HD（Ta&Ta❀Xinjianjin Hanhuazu）]]（publisher）
-- [[Making ＊ Lovers（Ta&Ta❀Xinjianjin Hanhuazu）]]（publisher）
-- [[Yu Ta＊Xin Jian Jin]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Docchi no i ga Suki Desu ka？ + Omoide Kakaete Ai ni Koi!! Set（HOOKSOFT）]]（publisher）
+- [[发行版/Changgui Tuoli Creative Tu]]（publisher）
+- [[发行版/Making ＊ Lovers - PS4 Download Edition]]（publisher）
+- [[发行版/Kanojo ＊ Step - Regular Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

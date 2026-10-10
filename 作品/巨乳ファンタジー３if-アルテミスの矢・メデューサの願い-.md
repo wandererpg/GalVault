@@ -88,18 +88,9 @@ cover_image: "assets/covers/v22581.webp"
 - [[Yoshida Mimi]]（烏丸そら）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Juru Huanxiang 3if -Artemis zhi Shi - Medusa zhi Yuan HD Bundle Edition]]
-- [[Kyonyuu Fantasy - 10th Anniversary Box（Waffle・k：v22581）]]
-- [[Kyonyuu Fantasy 3 -Julinas Hen- Full HD Bundle Edition - DL Card Edition（Waffle・release：）]]
-- [[Kyonyuu Fantasy 3 -Julinas Hen- Full HD Bundle Edition - Download Edition（Waffle・release：）]]
-- [[Kyonyuu Fantasy 3 -Julinas Hen- Full HD Bundle Edition - Package Edition（Waffle・release：）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Kyonyuu Fantasy 3 if -Artemis no Ya - Medusa no Negai- DVDPG]]
 - [[Kyonyuu Fantasy 3 if -Artemis no Ya - Medusa no Negai- DVDPG]]
-- [[Kyonyuu Fantasy 3 if -Artemis no Ya - Medusa no Negai- Download Edition]]
-- [[Kyonyuu Fantasy 3 if -Artemis no Ya - Medusa no Negai- Package Edition]]
-- [[Kyonyuu Fantasy 3 if -Artemis no Ya - Medusa no Negai- Special Edition - Download Card Edition]]
-- [[Kyonyuu Fantasy 3 if -Artemis no Ya - Medusa no Negai- Special Edition - Download Edition]]
-- [[Kyonyuu Fantasy 3 if -Artemis no Ya - Medusa no Negai- Special Edition - Package Edition]]
-- [[Kyonyuu Fantasy 3 if -Artemis no Ya - Medusa no Negai-]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

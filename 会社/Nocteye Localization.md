@@ -12,8 +12,8 @@ source_urls:
 # Nocteye Localization
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Schrödinger's Call Episode 1 Demo（Nocteye Localization）]]（publisher）
-- [[Schrödinger’s Call]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Schrödinger's Call（SHUEISHA Games）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

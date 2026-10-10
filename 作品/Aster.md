@@ -102,12 +102,7 @@ cover_image: "assets/covers/v1445.webp"
 - [[Yamaguchi Kappei]]（山口 勝平）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Aster - Download Edition]]
-- [[Aster - Popular Edition]]
-- [[Aster - Special Edition]]
-- [[Aster - Trial Edition (Enshutsu Kyouka ver.)]]
-- [[Aster - Trial Edition (Saishuu ver.)]]
-- [[Aster - Trial Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Aster]]
 - [[Aster]]<!-- AUTO:END release -->
 
 ## 动画化

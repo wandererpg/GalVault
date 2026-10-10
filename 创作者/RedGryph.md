@@ -13,8 +13,8 @@ source_urls:
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Wind & Flame]]（developer）
-- [[Wind & Flame（release：）]]（developer）
-- [[Wind & Flame（release：）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Wind & Flame]]（developer）
+- [[发行版/Wind & Flame]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

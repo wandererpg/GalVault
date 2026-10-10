@@ -12,8 +12,8 @@ source_urls:
 # Fuyuhiko Kuzuryuu
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Danganronpa 2： Goodbye Despair（release：）]]（publisher）
-- [[Danganronpa： Trigger Happy Havoc（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Danganronpa Decadence - EU Package Edition（Numskull Games Ltd・release：）]]（publisher）
+- [[发行版/Danganronpa Decadence - EU Package Edition（Numskull Games Ltd）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

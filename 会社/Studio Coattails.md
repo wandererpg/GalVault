@@ -12,9 +12,8 @@ source_urls:
 # Studio Coattails
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Twofold - Demo]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Twofold： The Perfect Circle Collection]]（developer）
 - [[Twofold]]（developer）
-- [[Twofold（Bellhouse）]]（developer）
 - [[Twofold： The Perfect Circle Collection]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

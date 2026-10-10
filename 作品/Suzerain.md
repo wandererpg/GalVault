@@ -40,15 +40,9 @@ cover_image: "assets/covers/v34788.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Suzerain + I am Your President]]
-- [[Suzerain]]
-- [[Suzerain（REDteam）]]
-- [[Suzerain（Torpor Games・2d0a53a0）]]
-- [[Suzerain（Torpor Games・k：v34788）]]
-- [[Suzerain（Torpor Games・release：）]]
-- [[Suzerain（Torpor Games・vndb：r14）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Suzerain（Torpor Games・vndb：r89）]]
 - [[Suzerain（Torpor Games・vndb：r89）]]
-- [[Suzerain（Torpor Games）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

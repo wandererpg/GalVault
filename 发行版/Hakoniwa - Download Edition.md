@@ -1,16 +1,58 @@
 ---
-entity_id: "release:vndb:r142444:work:vndb:work:v58547"
-type: "release"
-display_title: "Hakoniwa - Download Edition"
-release_date: "2025-11-28"
+entity_id: release:vndb:r142444:work:vndb:work:v58547
+type: release
+display_title: Hakoniwa - Download Edition
+release_date: '2025-11-28'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r142444"
+  vndb: r142444
 source_urls:
-  vndb: "https://vndb.org/r142444"
+  vndb: https://vndb.org/r142444
+aliases:
+- Hakoniwa
+- Hakoniwa - Package Edition
+- Hakoniwa - Trial Edition
+- Hakoniwa DVDPG
+consolidated_releases:
+- id: r142444
+  title: Hakoniwa - Download Edition
+  url: https://vndb.org/r142444
+  release_date: '2025-11-28'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r140078
+  title: Hakoniwa - Package Edition
+  url: https://vndb.org/r140078
+  release_date: '2025-11-28'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r148916
+  title: Hakoniwa DVDPG
+  url: https://vndb.org/r148916
+  release_date: '2026-03-26'
+  platform: dvd
+  edition_type: complete
+  is_all_ages: false
+- id: r145888
+  title: Hakoniwa
+  url: https://vndb.org/r145888
+  release_date: '2025-12-11'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r144806
+  title: Hakoniwa - Trial Edition
+  url: https://vndb.org/r144806
+  release_date: '2025-11-11'
+  platform: win
+  edition_type: trial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Hakoniwa - Download Edition

@@ -12,10 +12,8 @@ source_urls:
 # guyzware Inc.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Suzumiya Haruhi no Tsuisou - Nagato Yuki no Otoshimono Box]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Suzumiya Haruhi no Tsuisou - Nagato Yuki no Otoshimono Box（guyzware Inc）]]（developer）
 - [[Suzumiya Haruhi no Tsuisou - Nagato Yuki no Otoshimono Box（guyzware Inc）]]（developer）
-- [[Suzumiya Haruhi no Tsuisou - Regular Edition]]（developer）
-- [[Suzumiya Haruhi no Tsuisou - Regular Edition（guyzware Inc）]]（developer）
 - [[涼宮ハルヒの追想]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

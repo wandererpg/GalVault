@@ -70,14 +70,9 @@ cover_image: "assets/covers/v29144.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Sekimeiya - Putaran kaca]]
-- [[The Sekimeiya： Spun Glass - Beta Version]]
+<!-- AUTO:BEGIN release -->- [[发行版/The Sekimeiya： Spun Glass]]
 - [[The Sekimeiya： Spun Glass]]
-- [[The Sekimeiya： Spun Glass（Trinitite Team・k：v29144）]]
-- [[The Sekimeiya： Spun Glass（Trinitite Team・release：）]]
-- [[The Sekimeiya： Spun Glass（Trinitite Team・vndb：r80）]]
-- [[The Sekimeiya： Spun Glass（Trinitite Team）]]
-- [[The Sekimeiya： Spun Glass（release：）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

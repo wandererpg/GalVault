@@ -67,9 +67,8 @@ cover_image: "assets/covers/v10575.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[J.Q.V Jinrui Kyuusai-bu ~With Love from Isotope~ Download Edition]]
-- [[J.Q.V Jinrui Kyuusai-bu ~With Love from Isotope~ Package Edition]]
-- [[J.Q.V Renlei Jiuji-bu - 0.8 Beta Patch]]
-- [[J.Q.V Renlei Jiuji-bu - Trial Edition]]<!-- AUTO:END release -->
+- [[发行版/J.Q.V Jinrui Kyuusai-bu ~With Love from Isotope~ Download Edition]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

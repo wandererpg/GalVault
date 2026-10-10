@@ -12,8 +12,8 @@ source_urls:
 # HO4TA
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Hanakisou For PSP]]（publisher）
-- [[Sweet Pool For PSP]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Hanakisou（HaccaWorks＊・release：）]]（publisher）
+- [[发行版/sweet pool Remaster]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

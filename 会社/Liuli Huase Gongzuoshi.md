@@ -14,9 +14,9 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[AIR]]（publisher）
 - [[Kanon]]（publisher）
-- [[Stella of The End]]（publisher）
-- [[Summer Pockets REFLECTION BLUE（Liuli Huase Gongzuoshi）]]（publisher）
-- [[planetarian HD（Liuli Huase Gongzuoshi）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Tsui no Stella]]（publisher）
+- [[发行版/Summer Pockets REFLECTION BLUE - First Press Limited Edition]]（publisher）
+- [[发行版/Planetarian ~The Reverie of a Little Planet~（release：）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

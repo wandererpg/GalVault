@@ -12,13 +12,10 @@ source_urls:
 # Baijingmu Xueyuan Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ailiya Jianianhua FD - Hua Zhan Qingkong]]（publisher）
-- [[Linggan Manyi de Tianmi Chuangxiang - Trial Edition]]（publisher）
-- [[Linggan Manyi de Tianmi Chuangxiang Tu Trial Edition]]（publisher）
-- [[Linggan Manyi de Tianmi Chuangxiang Tu]]（publisher）
-- [[Linggan Manyi de Tianmi Chuangxiang]]（publisher）
-- [[Linggan Manyi de Tianmi Chuangxiang（Baijingmu Xueyuan Hanhuazu）]]（publisher）
-- [[Xingjian Chuanshuo - Trial Edition]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Alia's Carnival! Flowering Sky - 18+ Edition]]（publisher）
+- [[发行版/Changgui Tuoli Creative - Censored Edition]]（publisher）
+- [[发行版/Changgui Tuoli Creative Tu]]（publisher）
+- [[发行版/AMBITIOUS MISSION + Kakenuke★Seishun Sparking! Set Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

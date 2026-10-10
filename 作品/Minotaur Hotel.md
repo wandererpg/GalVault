@@ -43,9 +43,7 @@ cover_image: "assets/covers/v26488.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Minotaur Hotel - Build 14]]
-- [[Minotaur Hotel： Non-Binary Version v0.6.2]]
-- [[Minotaur Hotel： OG Kota Mod]]
+<!-- AUTO:BEGIN release -->- [[发行版/Minotaur Hotel： SFW Mode v0.7]]
 - [[Minotaur Hotel： SFW Mode v0.7]]<!-- AUTO:END release -->
 
 ## 动画化

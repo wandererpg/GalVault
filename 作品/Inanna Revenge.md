@@ -123,7 +123,7 @@ cover_image: "assets/covers/v60468.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Inanna Revenge v0.3.3]]
+<!-- AUTO:BEGIN release -->- [[发行版/Inanna Revenge v0.4]]
 - [[Inanna Revenge v0.4]]<!-- AUTO:END release -->
 
 ## 动画化

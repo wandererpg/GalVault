@@ -14,10 +14,9 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[LIKE×LOVE ～十津川 光～]]（developer）
 - [[Like x Love ~Totsukawa Hikaru~ DVDPG]]（developer）
-- [[Like x Love ~Totsukawa Hikaru~ Download Edition]]（developer）
-- [[Like x Love ~Totsukawa Hikaru~ Download Edition]]（publisher）
-- [[Like x Love ~Totsukawa Hikaru~ Package Edition]]（developer）
-- [[Like x Love ~Totsukawa Hikaru~ Package Edition]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Like x Love ~Totsukawa Hikaru~ DVDPG]]（developer）
+- [[发行版/Like x Love ~Totsukawa Hikaru~ DVDPG]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

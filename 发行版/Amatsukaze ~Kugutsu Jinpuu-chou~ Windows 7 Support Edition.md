@@ -1,16 +1,58 @@
 ---
-entity_id: "release:vndb:r9557:work:vndb:work:v1046"
-type: "release"
-display_title: "Amatsukaze ~Kugutsu Jinpuu-chou~ Windows 7 Support Edition"
-release_date: "2010-08-27"
+entity_id: release:vndb:r9557:work:vndb:work:v1046
+type: release
+display_title: Amatsukaze ~Kugutsu Jinpuu-chou~ Windows 7 Support Edition
+release_date: '2010-08-27'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r9557"
+  vndb: r9557
 source_urls:
-  vndb: "https://vndb.org/r9557"
+  vndb: https://vndb.org/r9557
+aliases:
+- Amatsukaze ~Kugutsu Jinpuu-chou~ Download Edition
+- Amatsukaze ~Kugutsu Jinpuu-chou~ First Press Edition
+- Ninetail Anniversary Pack
+- Tian Jin Feng～ Kuilei Zhenfeng Tie～
+consolidated_releases:
+- id: r9557
+  title: Amatsukaze ~Kugutsu Jinpuu-chou~ Windows 7 Support Edition
+  url: https://vndb.org/r9557
+  release_date: '2010-08-27'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r2053
+  title: Amatsukaze ~Kugutsu Jinpuu-chou~ First Press Edition
+  url: https://vndb.org/r2053
+  release_date: '2008-08-29'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r71282
+  title: Amatsukaze ~Kugutsu Jinpuu-chou~ Download Edition
+  url: https://vndb.org/r71282
+  release_date: '2009-08-28'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r41207
+  title: Ninetail Anniversary Pack
+  url: https://vndb.org/r41207
+  release_date: '2015-09-18'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r56941
+  title: Tian Jin Feng～ Kuilei Zhenfeng Tie～
+  url: https://vndb.org/r56941
+  release_date: '2015-01-11'
+  platform: win
+  edition_type: partial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Amatsukaze ~Kugutsu Jinpuu-chou~ Windows 7 Support Edition

@@ -12,21 +12,9 @@ source_urls:
 # Caramel BOX
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Caramel Box Collection - Otome wa Boku ni Koishiteru 1 & 2 Pack - Popular Edition]]（developer）
-- [[Caramel Box Collection - Otome wa Boku ni Koishiteru 1 & 2 Pack - Popular Edition]]（publisher）
-- [[Caramel Box Collection - Otome wa Boku ni Koishiteru 1 & 2 Pack]]（developer）
-- [[Caramel Box Collection - Otome wa Boku ni Koishiteru 1 & 2 Pack]]（publisher）
-- [[Otome wa Boku ni Koishiteru ~Futari no Elder~ Download Edition]]（developer）
-- [[Otome wa Boku ni Koishiteru ~Futari no Elder~ Download Edition]]（publisher）
-- [[Otome wa Boku ni Koishiteru ~Futari no Elder~ First Press Limited Edition]]（developer）
-- [[Otome wa Boku ni Koishiteru ~Futari no Elder~ First Press Limited Edition]]（publisher）
-- [[Otome wa Boku ni Koishiteru ~Futari no Elder~ Popular Edition]]（developer）
-- [[Otome wa Boku ni Koishiteru ~Futari no Elder~ Popular Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Otome wa Boku ni Koishiteru ~Futari no Elder~ Portable]]（developer）
+- [[发行版/Otome wa Boku ni Koishiteru ~Futari no Elder~ Portable]]（publisher）
 - [[Otome wa Boku ni Koishiteru ~Futari no Elder~ Portable]]（developer）
-- [[Otome wa Boku ni Koishiteru ~Futari no Elder~ Regular Edition]]（developer）
-- [[Otome wa Boku ni Koishiteru ~Futari no Elder~ Regular Edition]]（publisher）
-- [[Otome wa Boku ni Koishiteru ~Futari no Elder~ Trial Edition]]（developer）
-- [[Otome wa Boku ni Koishiteru ~Futari no Elder~ Trial Edition]]（publisher）
 - [[少女爱上姐姐2]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

@@ -99,9 +99,8 @@ cover_image: "assets/covers/v44096.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[even if TEMPEST： Lianzhui zhi Shi de Fuxiao - Download Edition]]
-- [[even if TEMPEST： Lianzhui zhi Shi de Fuxiao - Limited Edition]]
-- [[even if TEMPEST： Lianzhui zhi Shi de Fuxiao]]
-- [[even if TEMPEST： Tsuranaru Toki no Akatsuki]]<!-- AUTO:END release -->
+- [[发行版/even if TEMPEST： Lianzhui zhi Shi de Fuxiao - Download Edition]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

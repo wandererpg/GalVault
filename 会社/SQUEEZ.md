@@ -14,24 +14,22 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Honoo no Haramase Motto! Hatsuiku! Shintai Sokutei 2 - Download Edition]]（developer）
 - [[Honoo no Haramase Motto! Hatsuiku! Shintai Sokutei 2 - Download Edition]]（publisher）
-- [[Honoo no Haramase Motto! Hatsuiku! Shintai Sokutei 2（SQUEEZ）]]（developer）
-- [[Honoo no Haramase Motto! Hatsuiku! Shintai Sokutei 2（SQUEEZ）]]（publisher）
+- [[发行版/Honoo no Haramase Motto! Hatsuiku! Shintai Sokutei 2 - Download Edition]]（developer）
+- [[发行版/Honoo no Haramase Motto! Hatsuiku! Shintai Sokutei 2 - Download Edition]]（publisher）
 - [[Honoo no Haramase Oppai Nyuu Doukyuusei ~Oppai mo Haramase! New Class Zen'in Harama-sensation!~ - Download Edition]]（developer）
 - [[Honoo no Haramase Oppai Nyuu Doukyuusei ~Oppai mo Haramase! New Class Zen'in Harama-sensation!~ - Download Edition]]（publisher）
-- [[Honoo no Haramase Oppai Nyuu Doukyuusei ~Oppai mo Haramase! New Class Zen'in Harama-sensation!~（SQUEEZ）]]（developer）
-- [[Honoo no Haramase Oppai Nyuu Doukyuusei ~Oppai mo Haramase! New Class Zen'in Harama-sensation!~（SQUEEZ）]]（publisher）
-- [[Honoo no Haramase Oppai ★ Ero Appli Gakuen - Download Edition]]（developer）
-- [[Honoo no Haramase Oppai ★ Ero Appli Gakuen - Download Edition]]（publisher）
-- [[Honoo no Haramase Oppai ★ Ero Appli Gakuen（SQUEEZ）]]（developer）
-- [[Honoo no Haramase Oppai ★ Ero Appli Gakuen（SQUEEZ）]]（publisher）
-- [[Honoo no Haramase Paidol My ★ Star Gakuen Z - Download Edition]]（developer）
-- [[Honoo no Haramase Paidol My ★ Star Gakuen Z - Download Edition]]（publisher）
+- [[发行版/Honoo no Haramase Oppai Nyuu Doukyuusei ~Oppai mo Haramase! New Class Zen'in Harama-sensation!~ - Download Edition]]（developer）
+- [[发行版/Honoo no Haramase Oppai Nyuu Doukyuusei ~Oppai mo Haramase! New Class Zen'in Harama-sensation!~ - Download Edition]]（publisher）
+- [[发行版/Honoo no Haramase Oppai ★ Ero Appli Gakuen ［AI TL］]]（developer）
+- [[发行版/Honoo no Haramase Oppai ★ Ero Appli Gakuen ［AI TL］]]（publisher）
+- [[发行版/Honoo no Haramase Paidol My ★ Star Gakuen Z - First Press Limited Edition]]（developer）
+- [[发行版/Honoo no Haramase Paidol My ★ Star Gakuen Z - First Press Limited Edition]]（publisher）
 - [[Honoo no Haramase Paidol My ★ Star Gakuen Z - First Press Limited Edition]]（developer）
 - [[Honoo no Haramase Paidol My ★ Star Gakuen Z - First Press Limited Edition]]（publisher）
 - [[Honoo no Haramase ＂Wanpaku＂ Oppai Ojou-sama Gakuen ~＂Mukashi no Sugata＂ ni Natte Onnayu Free Pass! Skirt Mekuri Houdai! Itazura Nakadashi Haramase Tengoku!~ Download Edition]]（developer）
 - [[Honoo no Haramase ＂Wanpaku＂ Oppai Ojou-sama Gakuen ~＂Mukashi no Sugata＂ ni Natte Onnayu Free Pass! Skirt Mekuri Houdai! Itazura Nakadashi Haramase Tengoku!~ Download Edition]]（publisher）
-- [[Honoo no Haramase ＂Wanpaku＂ Oppai Ojou-sama Gakuen ~＂Mukashi no Sugata＂ ni Natte Onnayu Free Pass! Skirt Mekuri Houdai! Itazura Nakadashi Haramase Tengoku!~]]（developer）
-- [[Honoo no Haramase ＂Wanpaku＂ Oppai Ojou-sama Gakuen ~＂Mukashi no Sugata＂ ni Natte Onnayu Free Pass! Skirt Mekuri Houdai! Itazura Nakadashi Haramase Tengoku!~]]（publisher）
+- [[发行版/Honoo no Haramase ＂Wanpaku＂ Oppai Ojou-sama Gakuen ~＂Mukashi no Sugata＂ ni Natte Onnayu Free Pass! Skirt Mekuri Houdai! Itazura Nakadashi Haramase Tengoku!~ Download Edition]]（developer）
+- [[发行版/Honoo no Haramase ＂Wanpaku＂ Oppai Ojou-sama Gakuen ~＂Mukashi no Sugata＂ ni Natte Onnayu Free Pass! Skirt Mekuri Houdai! Itazura Nakadashi Haramase Tengoku!~ Download Edition]]（publisher）
 - [[炎の孕ませ“わんぱく”おっぱいお嬢さま学園～「昔の姿」になって女湯フリーパス！スカートめくり放題！いたずら中出し・孕ませ天国！～]]（developer）
 - [[炎の孕ませおっぱい★エロアプリ学園]]（developer）
 - [[炎の孕ませおっぱい乳同級生]]（developer）

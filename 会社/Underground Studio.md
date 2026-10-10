@@ -12,11 +12,10 @@ source_urls:
 # Underground Studio
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Race of Life - Act 1]]（developer）
-- [[Race of Life - Act 1]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Gonka Zhizni： Act 1-2 Ep 1-4 Fix 4]]（developer）
+- [[发行版/Gonka Zhizni： Act 1-2 Ep 1-4 Fix 4]]（publisher）
 - [[Race of Life]]（developer）
-- [[Race of Life： Episode 4]]（developer）
-- [[Race of Life： Episode 4]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

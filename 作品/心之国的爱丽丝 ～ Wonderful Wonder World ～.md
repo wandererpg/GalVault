@@ -124,30 +124,9 @@ cover_image: "assets/covers/v801.webp"
 - [[Samugami Yuuto]]（子安 武人）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Alice in the Heart ~Wonderful Wonder World~]]
-- [[Alice in the Heart]]
-- [[Anniversary no Kuni no Alice ~Wonderful Wonder World~]]
-- [[Anniversary no Kuni no Alice ~Wonderful Wonder World~（Märchen Translations）]]
-- [[Anniversary no Kuni no Alice ~Wonderful Wonder World~（QuinRose）]]
-- [[Heart no Kuni no Alice ~Wonderful Wonder & Twin World~ Twin Pack]]
-- [[Heart no Kuni no Alice ~Wonderful Wonder World~ Deluxe Edition]]
-- [[Heart no Kuni no Alice ~Wonderful Wonder World~]]
-- [[Heart no Kuni no Alice ~Wonderful Wonder World~（Nasha Versija）]]
-- [[Heart no Kuni no Alice ~Wonderful Wonder World~（Otome Land VN）]]
-- [[Heart no Kuni no Alice ~Wonderful Wonder World~（PROTOTYPE・release：）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Heart no Kuni no Alice ~Wonderful Wonder World~（PROTOTYPE）]]
 - [[Heart no Kuni no Alice ~Wonderful Wonder World~（PROTOTYPE）]]
-- [[Heart no Kuni no Alice ~Wonderful Wonder World~（QuinRose・release：）]]
-- [[Heart no Kuni no Alice ~Wonderful Wonder World~（QuinRose・vndb：r48）]]
-- [[Heart no Kuni no Alice ~Wonderful Wonder World~（QuinRose）]]
-- [[Jinianri zhi Guo de Ailisi]]
-- [[Shinsouban Heart no Kuni no Alice ~Wonderful Wonder World~ Deluxe Edition]]
-- [[Shinsouban Heart no Kuni no Alice ~Wonderful Wonder World~ Deluxe Edition（QuinRose）]]
-- [[Shinsouban Heart no Kuni no Alice ~Wonderful Wonder World~ Download Edition]]
-- [[Shinsouban Heart no Kuni no Alice ~Wonderful Wonder World~ Download Edition（QuinRose）]]
-- [[Shinsouban Heart no Kuni no Alice ~Wonderful Wonder World~ Regular Edition]]
-- [[Shinsouban Heart no Kuni no Alice ~Wonderful Wonder World~]]
-- [[Shinsouban Heart no Kuni no Alice ~Wonderful Wonder World~（QuinRose）]]
-- [[Shinsouban Heart no Kuni no Alice]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -11,7 +11,7 @@ source_urls:
 # _tekFoundry
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Muv-Luv Alternative（_tekFoundry）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Muv-Luv Alternative - Steam Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

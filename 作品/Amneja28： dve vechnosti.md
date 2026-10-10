@@ -53,12 +53,9 @@ cover_image: "assets/covers/v30804.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Amneja28： dve vechnosti - Demo]]
-- [[Amneja28： dve vechnosti - Demo（TomoToro）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Amneja28： dve vechnosti]]
 - [[Amneja28： dve vechnosti]]
-- [[Amneja28： dve vechnosti（TomoToro・release：）]]
-- [[Amneja28： dve vechnosti（TomoToro）]]
-- [[Amneja28： dve vechnosti（VienDesu! Porting Team）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

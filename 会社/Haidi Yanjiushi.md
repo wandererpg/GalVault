@@ -12,8 +12,8 @@ source_urls:
 # Haidi Yanjiushi
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Haidi - Translation Demo]]（publisher）
-- [[Haidi]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/SeaBed - Physical Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

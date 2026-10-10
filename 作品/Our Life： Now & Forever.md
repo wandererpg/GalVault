@@ -45,13 +45,9 @@ cover_image: "assets/covers/v31360.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Our Life： Now & Forever - Early Access]]
-- [[Our Life： Now & Forever - Expanded Demo]]
-- [[Our Life： Now & Forever - Expanded Demo（GB Patch Games）]]
-- [[Our Life： Now & Forever - Mini Demo]]
-- [[Our Life： Now & Forever - Mini Demo（GB Patch Games）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Our Life： Now & Forever]]
 - [[Our Life： Now & Forever]]
-- [[Women de Shenghuo： Xianzai he Yongyuan - Demo]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

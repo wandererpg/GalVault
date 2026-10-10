@@ -80,16 +80,7 @@ cover_image: "assets/covers/v47013.webp"
 - [[Tokudome Shinnosuke]]（徳留慎乃佑）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Aoziguo Anhunqu]]
-- [[OVER REQUIEMZ - Download Edition]]
-- [[OVER REQUIEMZ - Download Edition（Aksys Games）]]
-- [[OVER REQUIEMZ - EU Online Exclusive Edition]]
-- [[OVER REQUIEMZ - EU Standard Edition]]
-- [[OVER REQUIEMZ - NA Online Exclusive Edition]]
-- [[OVER REQUIEMZ - NA Standard Edition]]
-- [[OVER REQUIEMZ - Regular Edition]]
-- [[OVER REQUIEMZ - Special Edition]]
-- [[OVER REQUIEMZ Aozi Guo Anhun Qu Limited Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/OVER REQUIEMZ Aozi Guo Anhun Qu Regular Edition]]
 - [[OVER REQUIEMZ Aozi Guo Anhun Qu Regular Edition]]<!-- AUTO:END release -->
 
 ## 动画化

@@ -30,8 +30,8 @@ portrait_image: "assets/characters/c102530.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Hana Awase ~Mizuchi Hen~]]（side）
-- [[Hana Awase： Mizuchi Hen]]（side）<!-- AUTO:END character -->
+<!-- AUTO:BEGIN character -->- [[发行版/Hana Awase Saku - Complete Set]]（side）
+<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Toriumi Kousuke]]（声优：鳥海 浩輔）<!-- AUTO:END voice -->

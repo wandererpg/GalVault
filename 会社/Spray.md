@@ -14,8 +14,8 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Kichiku Megane R Kichiku Megane Fan Disc - First Press Limited Edition]]（developer）
 - [[Kichiku Megane R Kichiku Megane Fan Disc - First Press Limited Edition]]（publisher）
-- [[Kichiku Megane R Kichiku Megane Fan Disc - Regular Edition]]（developer）
-- [[Kichiku Megane R Kichiku Megane Fan Disc - Regular Edition]]（publisher）
+- [[发行版/Kichiku Megane R Kichiku Megane Fan Disc - First Press Limited Edition]]（developer）
+- [[发行版/Kichiku Megane R Kichiku Megane Fan Disc - First Press Limited Edition]]（publisher）
 - [[鬼畜眼鏡R 鬼畜眼鏡ファンディス]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

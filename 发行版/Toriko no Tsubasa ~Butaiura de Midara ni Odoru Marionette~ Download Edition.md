@@ -1,16 +1,74 @@
 ---
-entity_id: "release:vndb:r137378:work:vndb:work:v34544"
-type: "release"
-display_title: "Toriko no Tsubasa ~Butaiura de Midara ni Odoru Marionette~ Download Edition"
-release_date: "2023-04-01"
+entity_id: release:vndb:r137378:work:vndb:work:v34544
+type: release
+display_title: Toriko no Tsubasa ~Butaiura de Midara ni Odoru Marionette~ Download Edition
+release_date: '2023-04-01'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r137378"
+  vndb: r137378
 source_urls:
-  vndb: "https://vndb.org/r137378"
+  vndb: https://vndb.org/r137378
+aliases:
+- Toriko no Tsubasa - DVDPG
+- Toriko no Tsubasa ~Butaiura de Midara ni Odoru Marionette~ Bundle Edition
+- Toriko no Tsubasa ~Butaiura de Midara ni Odoru Marionette~ Deluxe Edition
+- Toriko no Tsubasa ~Butaiura de Midara ni Odoru Marionette~ DVDPG
+- Toriko no Tsubasa ~Butaiura de Midara ni Odoru Marionette~ Regular Edition
+- Toriko no Tsubasa ~Butaiura de Midara ni Odoru Marionette~ Trial Edition
+consolidated_releases:
+- id: r137378
+  title: Toriko no Tsubasa ~Butaiura de Midara ni Odoru Marionette~ Download Edition
+  url: https://vndb.org/r137378
+  release_date: '2023-04-01'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r88650
+  title: Toriko no Tsubasa ~Butaiura de Midara ni Odoru Marionette~ Regular Edition
+  url: https://vndb.org/r88650
+  release_date: '2022-06-24'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r89374
+  title: Toriko no Tsubasa ~Butaiura de Midara ni Odoru Marionette~ Deluxe Edition
+  url: https://vndb.org/r89374
+  release_date: '2022-06-24'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r89375
+  title: Toriko no Tsubasa ~Butaiura de Midara ni Odoru Marionette~ Bundle Edition
+  url: https://vndb.org/r89375
+  release_date: '2022-06-24'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r121956
+  title: Toriko no Tsubasa ~Butaiura de Midara ni Odoru Marionette~ DVDPG
+  url: https://vndb.org/r121956
+  release_date: '2024-02-22'
+  platform: dvd
+  edition_type: complete
+  is_all_ages: false
+- id: r151070
+  title: Toriko no Tsubasa - DVDPG
+  url: https://vndb.org/r151070
+  release_date: '2024-02-22'
+  platform: dvd
+  edition_type: complete
+  is_all_ages: false
+- id: r148679
+  title: Toriko no Tsubasa ~Butaiura de Midara ni Odoru Marionette~ Trial Edition
+  url: https://vndb.org/r148679
+  release_date: '2022-06-17'
+  platform: win
+  edition_type: trial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Toriko no Tsubasa ~Butaiura de Midara ni Odoru Marionette~ Download Edition

@@ -11,7 +11,7 @@ source_urls:
 # Quezuxee
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Soukou Akki Muramasa Prologue]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Soukou Akki Muramasa - Windows 10 Support Edition - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

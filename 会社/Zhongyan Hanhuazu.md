@@ -12,8 +12,8 @@ source_urls:
 # Zhongyan Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Baojianshi de Laoshi yu Chenmi Chuipaopao de Zhushou]]（publisher）
-- [[Zhanguo Lianji]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Hokenshitsu no Sensei to Shabondama Chuudoku no Joshu - Dakimakura Cover Included Limited Edition]]（publisher）
+- [[发行版/Sengoku † Koihime X ~Otome Kenran ☆ Sengoku Emaki~（BaseSon）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

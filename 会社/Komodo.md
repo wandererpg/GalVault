@@ -12,12 +12,9 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Muv-Luv Alternative - Steam Edition]]（publisher）
-- [[Muv-Luv Alternative Director's Cut 18+ DLC]]（publisher）
-- [[Symphonic Rain]]（publisher）
-- [[Symphonic Rain（Komodo・release：）]]（publisher）
-- [[Symphonic Rain（Komodo・vndb：r65）]]（publisher）
-- [[Symphonic Rain（Komodo・work：v38）]]（publisher）
-- [[Symphonic Rain（Komodo）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Muv-Luv Alternative - Steam Edition]]（publisher）
+- [[发行版/Symphonic Rain - DVD Edition - First Press Limited Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

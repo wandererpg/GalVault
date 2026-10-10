@@ -83,8 +83,8 @@ cover_image: "assets/covers/v29267.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Chasing Sunsets]]
-- [[Chasing Sunsets（Stone Fox Studios）]]
-- [[Pogonja za Zakatami]]<!-- AUTO:END release -->
+- [[发行版/Chasing Sunsets]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -78,10 +78,7 @@ cover_image: "assets/covers/v24239.webp"
 - [[pickle131]]（pickle131）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Hush Hush - 18+ Uncensored DLC]]
-- [[Hush Hush - Peanut DLC]]
-- [[Hush Hush]]
-- [[Hush Hush： Only Your Love Can Save Them - Demo]]
+<!-- AUTO:BEGIN release -->- [[发行版/Hush Hush： Only Your Love Can Save Them]]
 - [[Hush Hush： Only Your Love Can Save Them]]<!-- AUTO:END release -->
 
 ## 动画化

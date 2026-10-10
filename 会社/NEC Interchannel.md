@@ -12,15 +12,12 @@ source_urls:
 # NEC Interchannel
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Air（Key・7f159d3b）]]（publisher）
-- [[Air（Key・d7f6d485）]]（publisher）
-- [[Doukyuusei 2（elf・13b5bf3b）]]（publisher）
-- [[Kanon（Key・vndb：r27）]]（publisher）
-- [[Kanon（Key・work：v33）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/AIR（Key）]]（publisher）
+- [[发行版/Doukyuusei 2 - Extra Box]]（publisher）
+- [[发行版/Kanon（Key）]]（publisher）
 - [[Shirotsume Souwa -Episode of the Clovers- First Press Limited Edition]]（publisher）
-- [[Shirotsume Souwa -Episode of the Clovers- Regular Edition（NEC Interchannel）]]（publisher）
-- [[Snow - First Press Limited Edition]]（publisher）
-- [[Snow - Regular Edition]]（publisher）
+- [[发行版/Shirotsume Souwa -Episode of the Clovers- First Press Limited Edition]]（publisher）
+- [[发行版/Snow ~Portable~ Download Edition]]（publisher）
 - [[Snow]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

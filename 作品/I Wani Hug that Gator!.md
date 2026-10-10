@@ -40,22 +40,9 @@ cover_image: "assets/covers/v36845.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[I Wani Hug that Gator! - Demo v1.6.0]]
-- [[I Wani Hug that Gator! - Demo v1.6.0（Cavemanon）]]
-- [[I Wani Hug that Gator! - Demo v1.7.0]]
-- [[I Wani Hug that Gator! - Demo v1.7.0（Cavemanon）]]
-- [[I Wani Hug that Gator! - Demo v1.8.0]]
-- [[I Wani Hug that Gator! - Demo]]
-- [[I Wani Hug that Gator! - Demo（Cavemanon）]]
-- [[I Wani Hug that Gator! v1.2.1 - Demo]]
-- [[I Wani Hug that Gator! v1.2.1]]
-- [[I Wani Hug that Gator! v1.6.0]]
-- [[I Wani Hug that Gator! v1.7.0]]
-- [[I Wani Hug that Gator! v1.8.0]]
-- [[I Wani Hug that Gator!]]
-- [[I Wani Hug that Gator!（Cavemanon）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Ja hotju obnjat' etogo alligatora!]]
 - [[Ja hotju obnjat' etogo alligatora!]]
-- [[Ja hotju obnjat' etogo alligatora!（VienDesu! Porting Team）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -12,11 +12,11 @@ source_urls:
 # Mei nai Meng Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Chunbai Jiaoxiangqu]]（publisher）
-- [[Cong Qinglang de Zhaose Fanqi zhi Ji Kaishi]]（publisher）
-- [[Huanghun de Jinji zhi Yao]]（publisher）
-- [[Irotoridori no Sekai（CK-GAL）]]（publisher）
-- [[Ke zhi Shaonü]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Mashiro Iro Symphony ＊mutsu-no-hana]]（publisher）
+- [[发行版/Kitto, Sumiwataru Asairo Yori mo, - BDPG Edition]]（publisher）
+- [[发行版/Tasogare no Sinsemilla Portable - Regular Edition]]（publisher）
+- [[发行版/Irotoridori no Sekai World's End -Re：Birth- Download Edition（Dramatic Create）]]（publisher）
+- [[发行版/Innocent Grey Mystery Collection ~Kara no Shoujo & Pianissimo & Cartagra~]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,8 +12,8 @@ source_urls:
 # Keiichi’s Hideout
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ao no Kanata no Four Rhythm（Keiichi’s Hideout）]]（publisher）
-- [[Kin'iro Loveriche（Keiichi’s Hideout）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Ao no Kanata no Four Rhythm - Download Edition（sprite）]]（publisher）
+- [[发行版/Kin'iro Loveriche + Kin'iro Loveriche -Golden Time- Golden Pack]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

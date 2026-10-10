@@ -14,8 +14,8 @@ source_urls:
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Lessons in Love v0.23.0 Part 1 - Censored Edition]]（developer）
 - [[Lessons in Love v0.23.0 Part 1 - Censored Edition]]（publisher）
-- [[Lessons in Love v0.60.0]]（developer）
-- [[Lessons in Love v0.60.0]]（publisher）
+- [[发行版/Lessons in Love v0.23.0 Part 1 - Censored Edition]]（developer）
+- [[发行版/Lessons in Love v0.23.0 Part 1 - Censored Edition]]（publisher）
 - [[Lessons in Love]]（developer）<!-- AUTO:END duty -->
 
 ## 创作与出演

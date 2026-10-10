@@ -74,7 +74,7 @@ cover_image: "assets/covers/v57718.webp"
 - [[Yahiro Mami]]（間宮 菜南子）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Putrika 2-y akt： Vo imya izyskannogo odeyaniya]]
+<!-- AUTO:BEGIN release -->- [[发行版/Putrika 2nd.cut：For the Exquisite Attire]]
 - [[Putrika 2nd.cut：For the Exquisite Attire]]<!-- AUTO:END release -->
 
 ## 动画化

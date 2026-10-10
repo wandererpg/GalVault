@@ -67,16 +67,9 @@ cover_image: "assets/covers/v30771.webp"
 - [[Aono Musubi]]（蒼乃 むすび）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Okayu Jiemei♥Nianmo Youxi - Trial Edition]]
-- [[ROLEPLAYER： Xiaozhou Jiemei de Nianmo Youxi!]]
-- [[Role Player： Okayu Shimai no Nenmaku Portrait - Gurigucha Live! Append+]]
-- [[Role Player： Okayu Shimai no Nenmaku Portrait - Gurigucha Live!（release：）]]
-- [[Role player： Okayu Shimai no Nenmaku Portrait - Gurigucha LIVE! - Download Edition]]
-- [[Role player： Okayu Shimai no Nenmaku Portrait - Gurigucha LIVE! APPEND+ Edition]]
-- [[Role player： Okayu Shimai no Nenmaku Portrait - Gurigucha LIVE! Append+（AKABEiSOFT2）]]
-- [[Role player： Okayu Shimai no Nenmaku Portrait - Gurigucha LIVE! Trial Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Role player： Okayu Shimai no Nenmaku Portrait - Gurigucha LIVE! ［UI+Dialogue Translation］]]
 - [[Role player： Okayu Shimai no Nenmaku Portrait - Gurigucha LIVE! ［UI+Dialogue Translation］]]
-- [[Role player： Okayu Shimai no Nenmaku Portrait - Gurigucha LIVE!]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -12,14 +12,14 @@ source_urls:
 # masagrator
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[AIR（vndb：r83）]]（publisher）
-- [[Cyanotype Daydream -The Girl Who Dreamed the World-]]（publisher）
-- [[Dies irae ~Amantes amentes~ For Nintendo Switch（release：）]]（publisher）
-- [[Higurashi no Naku Koro ni Hou（release：）]]（publisher）
-- [[Higurashi no Naku Koro ni Hou（vndb：r80）]]（publisher）
-- [[Higurashi no Naku Koro ni Hou（work：v68）]]（publisher）
-- [[Summer Pockets REFLECTION BLUE（vndb：r95）]]（publisher）
-- [[Symphonic Rain（vndb：r86）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/AIR（Key）]]（publisher）
+- [[发行版/Hakuchuumu no Aojashin - Censored Edition]]（publisher）
+- [[发行版/Dies irae ~Amantes amentes~ For Nintendo Switch]]（publisher）
+- [[发行版/Higurashi no Naku Koro ni Hou + Umineko no Naku Koro ni Saku - Twin Pack（ENTERGRAM・vndb：r11）]]（publisher）
+- [[发行版/Himatsubushi Hen（07th Expansion）]]（publisher）
+- [[发行版/Matsuribayashi Hen（07th Expansion）]]（publisher）
+- [[发行版/Summer Pockets REFLECTION BLUE - First Press Limited Edition]]（publisher）
+- [[发行版/Symphonic Rain - DVD Edition - First Press Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

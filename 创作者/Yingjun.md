@@ -12,8 +12,8 @@ source_urls:
 # Yingjun
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[AMBITIOUS MISSION - Tsubame Route]]（publisher）
-- [[Yu Shayu Gongdu de Qiri Jian]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/AMBITIOUS MISSION + Kakenuke★Seishun Sparking! Set Edition]]（publisher）
+- [[发行版/Same to Ikiru Nanokakan - Special Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

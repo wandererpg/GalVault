@@ -68,9 +68,7 @@ cover_image: "assets/covers/v37868.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[I Was a Teenage Exocolonist]]
-- [[I Was a Teenage Exocolonist（Finji・release：）]]
-- [[I Was a Teenage Exocolonist（Finji・vndb：r95）]]
+<!-- AUTO:BEGIN release -->- [[发行版/I Was a Teenage Exocolonist（Finji）]]
 - [[I Was a Teenage Exocolonist（Finji）]]<!-- AUTO:END release -->
 
 ## 动画化

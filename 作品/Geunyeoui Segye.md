@@ -65,7 +65,7 @@ cover_image: "assets/covers/v39613.webp"
 - [[Lee Eun-jo]]（이 은조）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Geunyeo-ui Segye]]
+<!-- AUTO:BEGIN release -->- [[发行版/Geunyeo-ui Segye（TALESSHOP）]]
 - [[Geunyeo-ui Segye（TALESSHOP）]]<!-- AUTO:END release -->
 
 ## 动画化

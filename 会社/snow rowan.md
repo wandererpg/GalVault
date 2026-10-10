@@ -12,19 +12,14 @@ source_urls:
 # snow rowan
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[DRAMAtical Murder（Blue Penguin）]]（publisher）
-- [[Hakuoki Edo Blossoms - Demo]]（publisher）
-- [[Hakuoki： demony prizrachno-rozovoj sakury. Veter Kioto - Demo]]（publisher）
-- [[Hakuouki ~Shinsengumi Kitan~（snow rowan）]]（publisher）
-- [[Hasihime starogo knizhnogo kvartala]]（publisher）
-- [[Hasihime starogo knizhnogo kvartala（snow rowan）]]（publisher）
-- [[Moujuutsukai to Ouji-sama ~Snow Bride~（snow rowan）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/DRAMAtical Murder re：code - Regular Edition]]（publisher）
+- [[发行版/Hakuouki Shinkai Fuukaden]]（publisher）
+- [[发行版/Koshotengai no Hashihime NOMA - Download Edition]]（publisher）
+- [[发行版/Moujuutsukai to Ouji-sama ~Flower ＆ Snow~ for Nintendo Switch - Download Edition]]（publisher）
 - [[OBSCURA]]（publisher）
-- [[Psihodelika chjornoj babochki]]（publisher）
-- [[Taisho x Alice Epilogue]]（publisher）
-- [[Taisho x Alice Episode III]]（publisher）
-- [[Taisho x Alice Episode II]]（publisher）
-- [[Taisho x Alice Episode I]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Geomeun Nabiui Psychedelica（Idea Factory Co., Ltd）]]（publisher）
+- [[发行版/Dazheng × Duichen Alice  all in one Regular Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -14,14 +14,10 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[CAGE -CLOSE-]]（developer）
 - [[CAGE -CLOSE-]]（publisher）
-- [[CAGE -OPEN- & -CLOSE-]]（developer）
-- [[CAGE -OPEN- & -CLOSE-]]（publisher）
-- [[CAGE -OPEN- & -CLOSE-（LOVE&DESTROY）]]（developer）
-- [[CAGE -OPEN- & -CLOSE-（LOVE&DESTROY）]]（publisher）
-- [[CAGE -OPEN- Download Edition]]（developer）
-- [[CAGE -OPEN- Download Edition]]（publisher）
-- [[CAGE -OPEN- Trial Edition]]（developer）
-- [[CAGE -OPEN- Trial Edition]]（publisher）
+- [[发行版/CAGE -OPEN-]]（developer）
+- [[发行版/CAGE -OPEN-]]（publisher）
+- [[发行版/CAGE -CLOSE-]]（developer）
+- [[发行版/CAGE -CLOSE-]]（publisher）
 - [[CAGE -OPEN-]]（developer）
 - [[CAGE -OPEN-]]（publisher）<!-- AUTO:END duty -->
 

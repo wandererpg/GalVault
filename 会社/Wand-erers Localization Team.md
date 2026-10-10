@@ -12,9 +12,9 @@ source_urls:
 # Wand-erers Localization Team
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Fallen ／ Brand New World（Wand-erers Localization Team）]]（publisher）
-- [[Magical Princess（Wand-erers Localization Team）]]（publisher）
-- [[Summer Clover（Wand-erers Localization Team）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Fallen ／ Brand New World]]（publisher）
+- [[发行版/Magical Princess]]（publisher）
+- [[发行版/Xiase Siyecao]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

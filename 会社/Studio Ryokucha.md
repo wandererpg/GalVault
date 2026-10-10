@@ -12,20 +12,12 @@ source_urls:
 # Studio Ryokucha
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Koiiro Soramoyou - Download Edition]]（developer）
-- [[Koiiro Soramoyou - Download Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Koiiro Soramoyou - First Press Edition]]（developer）
+- [[发行版/Koiiro Soramoyou - First Press Edition]]（publisher）
 - [[Koiiro Soramoyou - First Press Edition]]（developer）
 - [[Koiiro Soramoyou - First Press Edition]]（publisher）
-- [[Koiiro Soramoyou - Regular Edition]]（developer）
-- [[Koiiro Soramoyou - Regular Edition]]（publisher）
-- [[Koiiro Soramoyou - TG version]]（developer）
-- [[Koiiro Soramoyou - TG version]]（publisher）
-- [[Koiiro Soramoyou - Trial Edition]]（developer）
-- [[Koiiro Soramoyou - Trial Edition]]（publisher）
-- [[Minamijuujisei Renka - H-scene Trial Edition]]（developer）
-- [[Minamijuujisei Renka - H-scene Trial Edition]]（publisher）
-- [[Minamijuujisei Renka - Trial Edition]]（developer）
-- [[Minamijuujisei Renka - Trial Edition]]（publisher）
+- [[发行版/Minamijuujisei Renka]]（developer）
+- [[发行版/Minamijuujisei Renka]]（publisher）
 - [[Minamijuujisei Renka]]（developer）
 - [[Minamijuujisei Renka]]（publisher）
 - [[南十字星恋歌]]（developer）

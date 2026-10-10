@@ -12,7 +12,7 @@ source_urls:
 # Xuexia Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Fangxue hou de Huiguniang 2]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Houkago Cinderella - 1 + 2 Set - Download Edition（HOOKSOFT）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

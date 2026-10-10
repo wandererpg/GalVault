@@ -42,8 +42,7 @@ cover_image: "assets/covers/v32669.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Decide 4 God Patreon Demo]]
-- [[Decide 4 God Steam Demo]]
+<!-- AUTO:BEGIN release -->- [[发行版/Decide 4 God]]
 - [[Decide 4 God]]<!-- AUTO:END release -->
 
 ## 动画化

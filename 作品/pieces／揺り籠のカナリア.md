@@ -73,12 +73,9 @@ cover_image: "assets/covers/v27653.webp"
 - [[Suzuya Maya]]（鈴谷 まや）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Pieces ／ Yurikago no Canaria]]
-- [[Whirlpool Kako Saku Game Zenbu Iri Set]]
-- [[pieces ／ Wataridori & Yurikago Set Pack]]
+<!-- AUTO:BEGIN release -->- [[发行版/pieces ／ Yurikago no Canaria - Download Edition]]
 - [[pieces ／ Yurikago no Canaria - Download Edition]]
-- [[pieces ／ Yurikago no Canaria - Package Edition]]
-- [[pieces ／ Yurikago no Canaria - Trial Edition]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

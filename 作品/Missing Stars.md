@@ -54,9 +54,9 @@ cover_image: "assets/covers/v11854.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Missing Stars - Demo]]
+<!-- AUTO:BEGIN release -->- [[发行版/Missing Stars - Early Access]]
 - [[Missing Stars - Early Access]]
-- [[Missing Stars： Act One]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -12,7 +12,7 @@ source_urls:
 # The Oxford Comma is Superior Subs
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Dracu-Riot!（Staircase Subs）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/DRACU-RIOT! - Censored Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

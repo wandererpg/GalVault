@@ -87,15 +87,8 @@ cover_image: "assets/covers/v19012.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Youjiu de Gangren LieQi for Nintendo Switch Tongchang Ban]]
-- [[Youjiu de Gangren LieQi for Nintendo Switch Xianding Ban]]
-- [[Youjiu de Gangren LieQi for Nintendo Switch]]
-- [[Youjiu zhi Tierblade]]
-- [[Yuukyuu no Tierblade -Lost Chronicle- Download Edition]]
-- [[Yuukyuu no Tierblade -Lost Chronicle- Limited Edition]]
-- [[Yuukyuu no Tierblade -Lost Chronicle- Regular Edition]]
-- [[Yuukyuu no Tierblade for Nintendo Switch - DL Edition]]
-- [[Yuukyuu no Tierblade for Nintendo Switch - Special Edition]]
-- [[Yuukyuu no Tierblade for Nintendo Switch Regular Edition]]<!-- AUTO:END release -->
+- [[发行版/Youjiu de Gangren LieQi for Nintendo Switch Tongchang Ban]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

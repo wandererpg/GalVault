@@ -12,19 +12,9 @@ source_urls:
 # Gamecom
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Gyakuten Saiban 123 Naruhodou Selection（release：）]]（publisher）
-- [[Gyakuten Saiban 123 Naruhodou Selection（vndb：r51）]]（publisher）
-- [[Gyakuten Saiban 3（vndb：r72）]]（publisher）
-- [[Gyakuten Saiban（release：）]]（publisher）
-- [[Sudebnyj povorot 3]]（publisher）
-- [[Sudebnyj povorot]]（publisher）
-- [[Sudebnyj povorot（release：）]]（publisher）
-- [[Sudebnyj povorot： Trilogija]]（publisher）
-- [[Sudebnyj povorot： Trilogija（ork：v716）]]（publisher）
-- [[Sudebnyj povorot： Trilogija（release：）]]（publisher）
-- [[Sudebnyj povorot： Trilogija（vndb：r70）]]（publisher）
-- [[Sudebnyj povorot： Trilogija／Gjakuten Sajban 123]]（publisher）
-- [[Sudebnyj povorot： Trilogija／Gjakuten Sajban 123（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Gyakuten Saiban： Yomigaeru Gyakuten]]（publisher）
+- [[发行版/Gyakuten Saiban 3 PC Download Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

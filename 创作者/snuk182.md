@@ -12,7 +12,7 @@ source_urls:
 # snuk182
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Ever17 - Vtecha z neskinchennosti]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Ever17 -The Out of Infinity- Download Edition（MAGES）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

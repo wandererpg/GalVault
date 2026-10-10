@@ -64,24 +64,9 @@ cover_image: "assets/covers/v48916.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Gaobie Huiyi Lidai Huiyilu Vol. 1 - Regular Edition（MAGES・k：v48916）]]
-- [[Gaobie Huiyi Lidai Huiyilu Vol. 1 - Regular Edition（MAGES・release：）]]
-- [[Memories Off 2nd ~Yukihota~]]
-- [[Memories Off 2nd（SDR Project）]]
-- [[Memories Off Duet ~1st & 2nd stories~（Electronic Arts）]]
-- [[Memories Off Duet（T-Time）]]
-- [[Memories Off Duet（Yule Tong・release：）]]
-- [[Memories Off Historia - Limited Edition（MAGES・k：v48916）]]
-- [[Memories Off Historia - Limited Edition（MAGES・release：）]]
-- [[Memories Off Historia - Super Limited Edition（MAGES・k：v48916）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Memories Off Historia - Super Limited Edition（MAGES・release：）]]
 - [[Memories Off Historia - Super Limited Edition（MAGES・release：）]]
-- [[Memories Off Historia Vol. 1 - Download Edition（MAGES・k：v48916）]]
-- [[Memories Off Historia Vol. 1 - Download Edition（MAGES・release：）]]
-- [[Memories Off Historia Vol. 1 - Regular Edition（MAGES・k：v48916）]]
-- [[Memories Off Historia Vol. 1 - Regular Edition（MAGES・release：）]]
-- [[Memories Off Historia Vol. 1（MAGES・release：）]]
-- [[Memories Off History（CYBERFRONT・release：）]]
-- [[Ren'ai Game Selection - Memories Off Duet（CYBERFRONT）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

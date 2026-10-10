@@ -1,13 +1,26 @@
 ---
-entity_id: "vndb:work:v31461"
-type: "work"
-display_title: "TS Mahou Shoujo Nao! 2nd!! -Lapis Omnibus-"
-title_status: "unresolved"
+entity_id: vndb:work:v31461
+type: work
+display_title: TS Mahou Shoujo Nao! 2nd!! -Lapis Omnibus-
+title_status: unresolved
 source_ids:
-  vndb: "v31461"
+  vndb: v31461
 source_urls:
-  vndb: "https://vndb.org/v31461"
-cover_image: "assets/covers/v31461.webp"
+  vndb: https://vndb.org/v31461
+cover_image: assets/covers/v31461.webp
+vndb_title: TS Mahou Shoujo Nao! 2nd!! -Lapis Omnibus-
+vndb_content_updated: '2026-10-10'
+title_ja: TS魔法少女なお!2nd!!-ラピスオムニバス-
+first_release_date: '2021-07-02'
+ratings:
+  vndb: 6.48
+vndb_vote_count: 15
+vndb_length: 1
+vndb_languages:
+- ja
+vndb_platforms:
+- win
+vndb_devstatus: 0
 ---
 
 # TS Mahou Shoujo Nao! 2nd!! -Lapis Omnibus-
@@ -18,10 +31,15 @@ cover_image: "assets/covers/v31461.webp"
 <!-- AUTO:END image -->
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->
+- [Crooked Navel](https://vndb.org/p4362)（developer）
+<!-- AUTO:END duty -->
 
 ## 创作者
-<!-- AUTO:BEGIN role --><!-- AUTO:END role -->
+<!-- AUTO:BEGIN role -->
+- [[创作者/Sanada Kuro|真田 クロ]]（scenario）
+- [波多](https://vndb.org/s24945)（art）
+<!-- AUTO:END role -->
 
 ## 角色
 <!-- AUTO:BEGIN character --><!-- AUTO:END character -->
@@ -36,10 +54,20 @@ cover_image: "assets/covers/v31461.webp"
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
 
 ## 关联作品
-<!-- AUTO:BEGIN relation -->- [[TS魔法少女なお!2nd!!]]（side）<!-- AUTO:END relation -->
+<!-- AUTO:BEGIN relation -->
+- [[TS魔法少女なお!2nd!!]]（side）
+- [[作品/TS魔法少女なお!2nd!!|TS Mahou Shoujo Nao! 2nd!!]]（par）
+<!-- AUTO:END relation -->
 
 ## 标签
-<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+<!-- AUTO:BEGIN tag -->
+- [Sexual Content](https://vndb.org/g23)
+<!-- AUTO:END tag -->
 
 ## 来源
 <!-- AUTO:BEGIN provenance -->vndb:v31461<!-- AUTO:END provenance -->
+
+
+## VNDB 资料来源
+
+[VNDB：v31461](https://vndb.org/v31461)，补全于 2026-10-10。

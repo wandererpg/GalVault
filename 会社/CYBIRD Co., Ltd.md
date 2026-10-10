@@ -12,9 +12,9 @@ source_urls:
 # CYBIRD Co., Ltd.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[A3!（Liber Entertainment Inc）]]（publisher）
-- [[Ikemen Villains： Yamiyo ni Hiraku Aku no Koi]]（developer）
-- [[Ikemen Villains： Yamiyo ni Hiraku Aku no Koi]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/A3!]]（publisher）
+- [[发行版/Ikémen Villains： Wrapped in Wicked Romance]]（developer）
+- [[发行版/Ikémen Villains： Wrapped in Wicked Romance]]（publisher）
 - [[Ikémen Villains： Wrapped in Wicked Romance]]（developer）
 - [[Ikémen Villains： Wrapped in Wicked Romance]]（publisher）
 - [[イケメンヴィラン 闇夜にひらく悪の恋]]（developer）<!-- AUTO:END duty -->

@@ -1,16 +1,50 @@
 ---
-entity_id: "release:vndb:r138322:work:vndb:work:v31433"
-type: "release"
-display_title: "Shi Kong Zhong de Hui Luren"
-release_date: "2023-10-20"
+entity_id: release:vndb:r138322:work:vndb:work:v31433
+type: release
+display_title: Shi Kong Zhong de Hui Luren
+release_date: '2023-10-20'
 is_all_ages: true
-platform: "ios"
-edition_type: "complete"
-title_status: "needs_review"
+platform: ios
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r138322"
+  vndb: r138322
 source_urls:
-  vndb: "https://vndb.org/r138322"
+  vndb: https://vndb.org/r138322
+aliases:
+- Dasi Geulineun Sigan
+- Shi Kong Zhong de Hui Luren
+- Shi Kong Zhong de Hui Luren（NetEase Games・release：）
+consolidated_releases:
+- id: r138322
+  title: Shi Kong Zhong de Hui Luren
+  url: https://vndb.org/r138322
+  release_date: '2023-10-20'
+  platform: ios
+  edition_type: complete
+  is_all_ages: true
+- id: r101371
+  title: Shi Kong Zhong de Hui Luren
+  url: https://vndb.org/r101371
+  release_date: '2023-10-20'
+  platform: and
+  edition_type: complete
+  is_all_ages: true
+- id: r80713
+  title: Shi Kong Zhong de Hui Luren
+  url: https://vndb.org/r80713
+  release_date: '2020-10-23'
+  platform: ios, and
+  edition_type: complete
+  is_all_ages: true
+- id: r121784
+  title: Dasi Geulineun Sigan
+  url: https://vndb.org/r121784
+  release_date: '2021-11-10'
+  platform: ios, and
+  edition_type: complete
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Shi Kong Zhong de Hui Luren

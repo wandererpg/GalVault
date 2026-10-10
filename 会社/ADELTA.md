@@ -12,25 +12,17 @@ source_urls:
 # ADELTA
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Koshotengai no Hashihime - Download Edition]]（developer）
-- [[Koshotengai no Hashihime - Download Edition]]（publisher）
-- [[Koshotengai no Hashihime - Package Edition]]（developer）
-- [[Koshotengai no Hashihime - Package Edition]]（publisher）
-- [[Koshotengai no Hashihime - Trial Edition]]（developer）
-- [[Koshotengai no Hashihime - Trial Edition]]（publisher）
-- [[Koshotengai no Hashihime - fullscreen]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Koshotengai no Hashihime NOMA - Download Edition]]（developer）
+- [[发行版/Koshotengai no Hashihime NOMA - Download Edition]]（publisher）
 - [[Koshotengai no Hashihime NOMA - Download Edition]]（developer）
-- [[Koshotengai no Hashihime NOMA - Package Edition]]（developer）
-- [[Koshotengai no Hashihime NOMA - Trial Edition]]（developer）
-- [[Koshotengai no Hashihime NOMA]]（developer）
-- [[Ooe - Trial Edition]]（developer）
-- [[Ooe - Trial Edition]]（publisher）
+- [[发行版/Ooe -Complete Edition-]]（developer）
+- [[发行版/Ooe -Complete Edition-]]（publisher）
 - [[Ooe -Complete Edition-]]（developer）
 - [[Ooe -Complete Edition-]]（publisher）
 - [[Uuultra C - Download Edition]]（developer）
 - [[Uuultra C - Download Edition]]（publisher）
-- [[Uuultra C（ADELTA）]]（developer）
-- [[Uuultra C（ADELTA）]]（publisher）
+- [[发行版/Uuultra C - Download Edition]]（developer）
+- [[发行版/Uuultra C - Download Edition]]（publisher）
 - [[ウウウルトラC]]（developer）
 - [[大穢]]（developer）
 - [[旧书店街的桥姬]]（developer）<!-- AUTO:END duty -->

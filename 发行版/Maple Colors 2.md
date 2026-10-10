@@ -1,16 +1,50 @@
 ---
-entity_id: "release:vndb:r2460:work:vndb:work:v1285"
-type: "release"
-display_title: "Maple Colors 2"
-release_date: "2008-12-26"
+entity_id: release:vndb:r2460:work:vndb:work:v1285
+type: release
+display_title: Maple Colors 2
+release_date: '2008-12-26'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r2460"
+  vndb: r2460
 source_urls:
-  vndb: "https://vndb.org/r2460"
+  vndb: https://vndb.org/r2460
+aliases:
+- Maple Colors 2 - Download Edition
+- Maple Colors 2 - Trial Edition
+- Maple Colors HHH Class Zen'in Ore no Yome! - Deluxe Limited Edition
+consolidated_releases:
+- id: r2460
+  title: Maple Colors 2
+  url: https://vndb.org/r2460
+  release_date: '2008-12-26'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r66215
+  title: Maple Colors 2 - Download Edition
+  url: https://vndb.org/r66215
+  release_date: '2013-01-25'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r38287
+  title: Maple Colors HHH Class Zen'in Ore no Yome! - Deluxe Limited Edition
+  url: https://vndb.org/r38287
+  release_date: '2015-06-26'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r24334
+  title: Maple Colors 2 - Trial Edition
+  url: https://vndb.org/r24334
+  release_date: '2008-11-25'
+  platform: win
+  edition_type: trial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Maple Colors 2

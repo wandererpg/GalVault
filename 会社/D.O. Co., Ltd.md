@@ -12,9 +12,8 @@ source_urls:
 # D.O. Co., Ltd.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Premium Archives Yamada Hajime Download Edition]]（developer）
-- [[Premium Archives Yamada Hajime Download Edition]]（publisher）
-- [[Premium Archives Yamada Hajime]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Kazoku Keikaku ~Soshite Mata Kazoku Keikaku o~ Download Edition]]（developer）
+- [[发行版/Kazoku Keikaku ~Soshite Mata Kazoku Keikaku o~ Download Edition]]（publisher）
 - [[家族計画 〜そしてまた家族計画を〜]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

@@ -12,9 +12,9 @@ source_urls:
 # Reader Mishok
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Akaya Akashiya Ayakashino - Demo]]（publisher）
-- [[Scarlet Fate 2： Seasons of Love]]（publisher）
-- [[Scarlet Fate： Fragments of the Past]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Akaya Akashiya Ayakashino - Regular Edition]]（publisher）
+- [[发行版/Shirahana no Ori ~Hiiro no Kakera 4~ Shiki no Uta - Regular Edition]]（publisher）
+- [[发行版/Shirahana no Ori ~Hiiro no Kakera 4~ Shiki no Uta - Twin Pack]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

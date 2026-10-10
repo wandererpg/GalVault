@@ -12,10 +12,10 @@ source_urls:
 # dwing
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[AIR - Simplified Chinese Improvement Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/AIR（Key）]]（publisher）
 - [[CLANNAD（Hikarizaka Gaoxiao Zhongwen Bu）]]（publisher）
-- [[Ever17 - Simplified Chinese DRM-free & Translation Modified Patch]]（publisher）
-- [[Kanon - Simplified Chinese Improvement Patch]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Ever17 -The Out of Infinity- Download Edition（MAGES）]]（publisher）
+- [[发行版/Kanon（Key）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,11 +12,11 @@ source_urls:
 # Dazed Translations
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Mako Ver. ［v1.3a］]]（publisher）
-- [[Monster Park 2 ~Kamigami o Yadoshita Otome~ Final Edition]]（publisher）
-- [[Oyako Rankan（release：）]]（publisher）
-- [[Shihai no Kyoudan 2（vndb：r13）]]（publisher）
-- [[Tsumamigui 3（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kouen Itazura Simulator ver. Mako - Download Edition 1.3 type-A]]（publisher）
+- [[发行版/Monster Park 2 ~Kamigami o Yadoshita Otome~ Blu-ray Game]]（publisher）
+- [[发行版/Muniang Luanguan]]（publisher）
+- [[发行版/Shihai no Kyoudan 2 - Download Edition]]（publisher）
+- [[发行版/Tsumamigui 3 - Download Edition（Alice Soft）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

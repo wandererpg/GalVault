@@ -12,8 +12,8 @@ source_urls:
 # Shiritsu Sakuranbo Nyuugakkou
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Youmuin：The Nightmaretaker ~Akuma ni Tsukareta Otoko~]]（developer）
-- [[Youmuin：The Nightmaretaker ~Akuma ni Tsukareta Otoko~]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Youmuin：The Nightmaretaker ~Akuma ni Tsukareta Otoko~（Shiritsu Sakuranbo Nyuugakkou）]]（developer）
+- [[发行版/Youmuin：The Nightmaretaker ~Akuma ni Tsukareta Otoko~（Shiritsu Sakuranbo Nyuugakkou）]]（publisher）
 - [[Youmuin：The Nightmaretaker ~Akuma ni Tsukareta Otoko~（Shiritsu Sakuranbo Nyuugakkou）]]（developer）
 - [[Youmuin：The Nightmaretaker ~Akuma ni Tsukareta Otoko~（Shiritsu Sakuranbo Nyuugakkou）]]（publisher）
 - [[妖夢員：The Nightmaretaker ～悪魔に憑かれた男～]]（developer）<!-- AUTO:END duty -->

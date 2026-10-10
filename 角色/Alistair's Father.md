@@ -22,7 +22,7 @@ source_urls:
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Taishou x Alice Epilogue - Regular Edition]]（appears）<!-- AUTO:END character -->
+<!-- AUTO:BEGIN character -->- [[发行版/Dazheng × Duichen Alice  all in one Regular Edition]]（appears）<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->

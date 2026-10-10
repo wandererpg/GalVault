@@ -12,9 +12,8 @@ source_urls:
 # CROSS†CHANNEL
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[CROSS†CHANNEL -FINAL COMPLETE- Download Edition]]（publisher）
-- [[Cross†Channel - Reprint Edition（CROSS†CHANNEL）]]（publisher）
-- [[Cross†Channel -Final Complete- Limited Quantity Edition]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Cross†Channel ~To All People~ Regular Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,8 +12,8 @@ source_urls:
 # Selen
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Rensa Byoutou - Download Edition]]（developer）
-- [[Rensa Byoutou - Download Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Rensa Byoutou - First Press Limited Edition]]（developer）
+- [[发行版/Rensa Byoutou - First Press Limited Edition]]（publisher）
 - [[Rensa Byoutou - First Press Limited Edition]]（developer）
 - [[Rensa Byoutou - First Press Limited Edition]]（publisher）
 - [[連鎖病棟]]（developer）<!-- AUTO:END duty -->

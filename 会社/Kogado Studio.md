@@ -12,26 +12,14 @@ source_urls:
 # Kogado Studio
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[OVER REQUIEMZ Aozi Guo Anhun Qu Limited Edition]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/OVER REQUIEMZ Aozi Guo Anhun Qu Regular Edition]]（developer）
 - [[OVER REQUIEMZ Aozi Guo Anhun Qu Regular Edition]]（developer）
 - [[OVER REQUIEMZ]]（developer）
-- [[Solfege ~La Finale~ Download Edition]]（publisher）
-- [[Solfege ~La Finale~]]（publisher）
-- [[Solfege ~Overture~]]（publisher）
+- [[发行版/Solfege ~Sweet Harmony~ Limited Edition]]（publisher）
 - [[Solfege ~Sweet Harmony~ Limited Edition]]（publisher）
-- [[Solfege ~Sweet Harmony~ Regular Edition]]（publisher）
-- [[Solfege]]（publisher）
-- [[Symphonic Rain - Asia Standard Edition]]（publisher）
-- [[Symphonic Rain - CD-ROM Regular Edition]]（publisher）
+- [[发行版/Symphonic Rain - DVD Edition - First Press Limited Edition]]（publisher）
 - [[Symphonic Rain - DVD Edition - First Press Limited Edition]]（publisher）
-- [[Symphonic Rain - DVD Edition - Regular Edition]]（publisher）
-- [[Symphonic Rain - Download Edition]]（publisher）
-- [[Symphonic Rain - Download Edition（Kogado Studio）]]（publisher）
-- [[Symphonic Rain - Limited Edition]]（publisher）
-- [[Symphonic Rain - Popular Edition]]（publisher）
-- [[Symphonic Rain - Standard Edition]]（publisher）
-- [[Symphonic Rain - Treasure Edition]]（publisher）
-- [[Symphonic Rain（Kogado Studio）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

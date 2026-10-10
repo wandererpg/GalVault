@@ -12,10 +12,9 @@ source_urls:
 # Pretender
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Neslomlennyj v0.81]]（publisher）
-- [[Perepletjonnye v0.15.4]]（publisher）
-- [[Perepletjonnye v0.15.4（release：）]]（publisher）
-- [[Vechnost' v0.9.2]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Neslomlennyj - Book 1 + Book 2 R8]]（publisher）
+- [[发行版/Perepletjonnye v0.14.1]]（publisher）
+- [[发行版/Vechnost' v0.8]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

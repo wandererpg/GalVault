@@ -97,37 +97,9 @@ cover_image: "assets/covers/v14908.webp"
 - [[Wada Michiru]]（和田 みちる）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Code： Realize Twin Pack]]
-- [[Code： Realize ~Bouquet of Rainbows~ EU Download Edition]]
-- [[Code： Realize ~Bouquet of Rainbows~ EU Regular Edition]]
-- [[Code： Realize ~Bouquet of Rainbows~ NA Download Edition]]
-- [[Code： Realize ~Bouquet of Rainbows~ NA Limited Edition]]
-- [[Code： Realize ~Bouquet of Rainbows~ NA Regular Edition]]
-- [[Code： Realize ~Chuangshi de Gongzhu~ Download Edition]]
-- [[Code： Realize ~Chuangshi de Gongzhu~ Limited Edition]]
-- [[Code： Realize ~Chuangshi de Gongzhu~ Regular Edition]]
-- [[Code： Realize ~Chuangshi de Gongzhu~]]
-- [[Code： Realize ~Guardian of Rebirth~ Collector's Edition]]
-- [[Code： Realize ~Guardian of Rebirth~ Download Edition]]
-- [[Code： Realize ~Guardian of Rebirth~ EU Download Edition]]
-- [[Code： Realize ~Guardian of Rebirth~ NA Download Edition]]
-- [[Code： Realize ~Guardian of Rebirth~ NA Regular Edition]]
-- [[Code： Realize ~Guardian of Rebirth~ Standard Edition]]
-- [[Code： Realize ~Saikou no Hanataba~ Limited Edition]]
-- [[Code： Realize ~Saikou no Hanataba~ Regular Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Code： Realize ~Saikou no Hanataba~ for Nintendo Switch - Download Edition]]
 - [[Code： Realize ~Saikou no Hanataba~ for Nintendo Switch - Download Edition]]
-- [[Code： Realize ~Saikou no Hanataba~ for Nintendo Switch - Limited Edition]]
-- [[Code： Realize ~Saikou no Hanataba~ for Nintendo Switch]]
-- [[Code： Realize ~Shukufuku no Mirai~ Download Edition（Design Factory Co., Ltd）]]
-- [[Code： Realize ~Sousei no Himegimi~ Download Edition]]
-- [[Code： Realize ~Sousei no Himegimi~ Limited Edition]]
-- [[Code： Realize ~Sousei no Himegimi~ Regular Edition]]
-- [[Code： Realize ~Sousei no Himegimi~]]
-- [[Code： Realize ~Sousei no Himegimi~（Design Factory Co., Ltd）]]
-- [[Code： Realize ~Sousei no Himegimi~（Otomevn）]]
-- [[Kod： Osoznanie - Strazh pererozhdenija-]]
-- [[Kod： Osoznanie - Strazh pererozhdenija-（Bredni sivyh otomeshnic）]]
-- [[Kod： Osoznanie]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

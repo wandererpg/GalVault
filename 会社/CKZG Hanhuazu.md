@@ -12,8 +12,8 @@ source_urls:
 # CKZG Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[D.C. III P.P. ~Da Capo III Platinum Partner~（CKZG Hanhuazu）]]（publisher）
-- [[D.C. III ~Da Capo III~ Dream Days]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/D.C. III P.P. ~Da Capo III Platinum Partner~ First Press Limited Edition]]（publisher）
+- [[发行版/D.C. III ~Da Capo III~ Dream Days - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

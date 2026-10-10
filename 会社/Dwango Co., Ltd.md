@@ -12,13 +12,10 @@ source_urls:
 # Dwango Co., Ltd.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Machi - i Appli]]（publisher）
-- [[Rei-Jin-G-Lu-P - Download Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Machi ~Unmei no Kousaten~ Tokubetsu Hen - Download Edition]]（publisher）
+- [[发行版/Rei-Jin-G-Lu-P - Package Edition]]（publisher）
 - [[Rei-Jin-G-Lu-P - Package Edition]]（publisher）
-- [[Rei-Jin-G-Lu-P - Package Edition（Dwango Co., Ltd）]]（publisher）
-- [[Rei-Jin-G-Lu-P（Dwango Co., Ltd・release：）]]（publisher）
-- [[Rei-Jin-G-Lu-P（Dwango Co., Ltd・vndb：r52）]]（publisher）
-- [[Rei-Jin-G-Lu-P（Dwango Co., Ltd）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

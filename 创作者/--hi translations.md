@@ -12,7 +12,7 @@ source_urls:
 # --hi translations
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Part-time Wife's Affair - Ripe Femininity and Passionate Moans -]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Part Tsuma no Jouji ~Doutei Arbeit to Supa de Furin SEX~ DVDPG]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

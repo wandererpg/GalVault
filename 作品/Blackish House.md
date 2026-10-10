@@ -76,21 +76,9 @@ cover_image: "assets/covers/v17853.webp"
 - [[Tsuda Takuya]]（津田 拓也）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Blackish House Side A→ - First Press Limited Edition]]
-- [[Blackish House Side A→ - Regular Edition]]
-- [[Blackish House Side A→]]
-- [[Blackish House sideA→ -Retour- Download Edition]]
-- [[Blackish House sideA→ -Retour- Special Edition]]
-- [[Blackish House sideA→ -Retour-]]
+<!-- AUTO:BEGIN release -->- [[发行版/Blackish House sideA→ -Retour-（Justdan）]]
 - [[Blackish House sideA→ -Retour-（Justdan）]]
-- [[Blackish House sideA→]]
-- [[Blackish House ←sideZ - First Press Limited Edition]]
-- [[Blackish House ←sideZ - Regular Edition]]
-- [[Blackish House ←sideZ -Retour- Download Edition]]
-- [[Blackish House ←sideZ -Retour- Special Edition]]
-- [[Blackish House ←sideZ -Retour-]]
-- [[Blackish House ←sideZ]]
-- [[Blackish House ←sideZ（Heiyao Qu Weiyuanhui）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

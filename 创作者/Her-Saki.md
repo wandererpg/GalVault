@@ -12,7 +12,7 @@ source_urls:
 # Her-Saki
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Tsukihime（vndb：r11）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Tsukihime（vndb：r50）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

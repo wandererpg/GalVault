@@ -1,16 +1,34 @@
 ---
-entity_id: "release:vndb:r115313:work:vndb:work:v30919"
-type: "release"
-display_title: "Sverhchelovek v0.9999b"
-release_date: "2025-08-06"
+entity_id: release:vndb:r115313:work:vndb:work:v30919
+type: release
+display_title: Sverhchelovek v0.9999b
+release_date: '2025-08-06'
 is_all_ages: false
-platform: "win, lin, and"
-edition_type: "partial"
-title_status: "needs_review"
+platform: win, lin, and
+edition_type: partial
+title_status: needs_review
 source_ids:
-  vndb: "r115313"
+  vndb: r115313
 source_urls:
-  vndb: "https://vndb.org/r115313"
+  vndb: https://vndb.org/r115313
+aliases:
+- Superhuman v0.999999 part1
+consolidated_releases:
+- id: r115313
+  title: Sverhchelovek v0.9999b
+  url: https://vndb.org/r115313
+  release_date: '2025-08-06'
+  platform: win, lin, and
+  edition_type: partial
+  is_all_ages: false
+- id: r79203
+  title: Superhuman v0.999999 part1
+  url: https://vndb.org/r79203
+  release_date: '2026-08-18'
+  platform: win, lin, mac
+  edition_type: partial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Sverhchelovek v0.9999b

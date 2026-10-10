@@ -12,8 +12,8 @@ source_urls:
 # Tvoj Batja
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Rans 03 - Padenie Lizasa]]（publisher）
-- [[Rans VI - Krah Zesa -]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Rance 03 -The Fall of Leazas- Limited Edition]]（publisher）
+- [[发行版/Lansi 6]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

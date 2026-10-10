@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r32177:work:vndb:work:v11855"
-type: "release"
-display_title: "Natsukumo Yururu - Download Edition"
-release_date: "2014-01-31"
+entity_id: release:vndb:r32177:work:vndb:work:v11855
+type: release
+display_title: Natsukumo Yururu - Download Edition
+release_date: '2014-01-31'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r32177"
+  vndb: r32177
 source_urls:
-  vndb: "https://vndb.org/r32177"
+  vndb: https://vndb.org/r32177
+aliases:
+- Natsukumo Yururu - Package Edition
+- Natsukumo Yururu - Trial Edition
+consolidated_releases:
+- id: r32177
+  title: Natsukumo Yururu - Download Edition
+  url: https://vndb.org/r32177
+  release_date: '2014-01-31'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r24644
+  title: Natsukumo Yururu - Package Edition
+  url: https://vndb.org/r24644
+  release_date: '2013-06-28'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r26953
+  title: Natsukumo Yururu - Trial Edition
+  url: https://vndb.org/r26953
+  release_date: '2013-05-22'
+  platform: win
+  edition_type: trial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Natsukumo Yururu - Download Edition

@@ -12,8 +12,8 @@ source_urls:
 # Kohaku Translations
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[A Clockwork Ley-Line Limited Box Set]]（publisher）
-- [[A Clockwork Ley-Line Limited Box Set（Sekai Project）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Package Edition（Unison Shift： Blossom・release：）]]（publisher）
+- [[发行版/Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Package Edition（Unison Shift： Blossom）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

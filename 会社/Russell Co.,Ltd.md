@@ -13,8 +13,8 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Itsuka, Todoku, Ano Sora ni. ~You no Michi to Hi no Tasogare to~ Limited Edition]]（publisher）
-- [[Itsuka, Todoku, Ano Sora ni. ~You no Michi to Hi no Tasogare to~ Regular Edition]]（publisher）
-- [[Itsuka, Todoku, Ano Sora ni. ~You no Michi to Hi no Tasogare to~ Russell Games Best]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Itsuka, Todoku, Ano Sora ni. ~You no Michi to Hi no Tasogare to~ Limited Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

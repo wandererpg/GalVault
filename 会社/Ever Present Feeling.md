@@ -12,8 +12,8 @@ source_urls:
 # Ever Present Feeling
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[La canción de Saya - Versión HD Steam]]（publisher）
-- [[YOU and ME and HER ： una historia de amor]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Saya no Uta ~ The Song of Saya - Upgrade Patch]]（publisher）
+- [[发行版/Ty, ja i ona： Istorija ljubvi - Steam Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -1,16 +1,50 @@
 ---
-entity_id: "release:vndb:r84535:work:vndb:work:v32745"
-type: "release"
-display_title: "Tsuma no Haha ~Gouman Onna Shachou to Doukyo no Hibi~ Download Edition"
-release_date: "2022-01-22"
+entity_id: release:vndb:r84535:work:vndb:work:v32745
+type: release
+display_title: Tsuma no Haha ~Gouman Onna Shachou to Doukyo no Hibi~ Download Edition
+release_date: '2022-01-22'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r84535"
+  vndb: r84535
 source_urls:
-  vndb: "https://vndb.org/r84535"
+  vndb: https://vndb.org/r84535
+aliases:
+- Tsuma no Haha ~Gouman Onna Shachou to Doukyo no Hibi~
+- Tsuma no Haha ~Gouman Onna Shachou to Doukyo no Hibi~ Package Edition
+- Tsuma no Haha ~Gouman Onna Shachou to Doukyo no Hibi~ Trial Edition
+consolidated_releases:
+- id: r84535
+  title: Tsuma no Haha ~Gouman Onna Shachou to Doukyo no Hibi~ Download Edition
+  url: https://vndb.org/r84535
+  release_date: '2022-01-22'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r84534
+  title: Tsuma no Haha ~Gouman Onna Shachou to Doukyo no Hibi~ Package Edition
+  url: https://vndb.org/r84534
+  release_date: '2022-01-16'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r116338
+  title: Tsuma no Haha ~Gouman Onna Shachou to Doukyo no Hibi~
+  url: https://vndb.org/r116338
+  release_date: '2022'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r84533
+  title: Tsuma no Haha ~Gouman Onna Shachou to Doukyo no Hibi~ Trial Edition
+  url: https://vndb.org/r84533
+  release_date: '2021-12-21'
+  platform: win
+  edition_type: trial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Tsuma no Haha ~Gouman Onna Shachou to Doukyo no Hibi~ Download Edition

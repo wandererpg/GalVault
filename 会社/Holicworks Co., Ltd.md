@@ -12,19 +12,15 @@ source_urls:
 # Holicworks Co., Ltd.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Taishou Mebiusline Taizen]]（developer）
-- [[Taishou Mebiusline Taizen（Dramatic Create）]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Taishou Mebiusline Teito Bibouroku Hare - Download Edition]]（developer）
+- [[发行版/Taishou Mebiusline Vitable - Download Edition]]（developer）
 - [[Tokyo 24-ku - Download Edition]]（publisher）
-- [[Tokyo 24-ku - Trial Edition]]（publisher）
-- [[Tokyo 24-ku -inoru-]]（developer）
-- [[Tokyo 24-ku –inoru– - Trial Edition]]（developer）
-- [[Tokyo 24-ku（Holicworks Co., Ltd）]]（publisher）
+- [[发行版/Tokyo 24-ku - Download Edition]]（publisher）
+- [[发行版/Tokyo 24-ku - Download Edition]]（developer）
 - [[Tokyo Satsujinki Gakkou no Kaidan - Download Edition]]（developer）
 - [[Tokyo Satsujinki Gakkou no Kaidan - Download Edition]]（publisher）
-- [[Tokyo Satsujinki Gakkou no Kaidan - Trial Edition]]（developer）
-- [[Tokyo Satsujinki Gakkou no Kaidan - Trial Edition]]（publisher）
-- [[Tokyo Satsujinki Gakkou no Kaidan]]（developer）
-- [[Tokyo Satsujinki Gakkou no Kaidan]]（publisher）
+- [[发行版/Tokyo Satsujinki Gakkou no Kaidan - Download Edition]]（developer）
+- [[发行版/Tokyo Satsujinki Gakkou no Kaidan - Download Edition]]（publisher）
 - [[大正メビウスライン 帝都備忘録]]（developer）
 - [[大正メビウスライン]]（developer）
 - [[東京殺人鬼 学校の怪談]]（developer）

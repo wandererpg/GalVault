@@ -130,14 +130,9 @@ cover_image: "assets/covers/v507.webp"
 - [[Togashi Kei]]（富樫 ケイ）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Genrin no Kishougun 2 Ver2.0 Appendix Disc]]
-- [[Genrin no Kishougun 2 ~Michibikareshi Tamashii no Keifu~ Append Disc - Download Edition]]
-- [[Genrin no Kishougun 2 ~Michibikareshi Tamashii no Keifu~ Append Disc]]
-- [[Genrin no Kishougun 2 ~Michibikareshi Tamashii no Keifu~ CD-ROM Edition]]
-- [[Genrin no Kishougun 2 ~Michibikareshi Tamashii no Keifu~ DVD-ROM Edition]]
-- [[Genrin no Kishougun 2 ~Michibikareshi Tamashii no Keifu~ Download Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Huanlin de Jijiangjun 2]]
 - [[Huanlin de Jijiangjun 2]]
-- [[Princess General 2 - Interface Patch]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

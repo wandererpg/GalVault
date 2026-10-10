@@ -1,13 +1,23 @@
 ---
-entity_id: "vndb:work:v59389"
-type: "work"
-display_title: "Kasora"
-title_status: "unresolved"
+entity_id: vndb:work:v59389
+type: work
+display_title: Kasora
+title_status: unresolved
 source_ids:
-  vndb: "v59389"
+  vndb: v59389
 source_urls:
-  vndb: "https://vndb.org/v59389"
-cover_image: "assets/covers/v59389.webp"
+  vndb: https://vndb.org/v59389
+cover_image: assets/covers/v59389.webp
+vndb_title: Kasora
+vndb_content_updated: '2026-10-10'
+title_ja: 華空
+first_release_date: '2001-08-12'
+vndb_vote_count: 0
+vndb_languages:
+- ja
+vndb_platforms:
+- win
+vndb_devstatus: 0
 ---
 
 # Kasora
@@ -18,7 +28,9 @@ cover_image: "assets/covers/v59389.webp"
 <!-- AUTO:END image -->
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->
+- [時の調律](https://vndb.org/p26237)（developer）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
@@ -36,10 +48,20 @@ cover_image: "assets/covers/v59389.webp"
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
 
 ## 关联作品
-<!-- AUTO:BEGIN relation -->- [[AIR]]（par）<!-- AUTO:END relation -->
+<!-- AUTO:BEGIN relation -->
+- [[AIR]]（par）
+- [[作品/AIR|AIR]]（side）
+<!-- AUTO:END relation -->
 
 ## 标签
-<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+<!-- AUTO:BEGIN tag -->
+- [Fan-fiction](https://vndb.org/g1056)
+<!-- AUTO:END tag -->
 
 ## 来源
 <!-- AUTO:BEGIN provenance -->vndb:v59389<!-- AUTO:END provenance -->
+
+
+## VNDB 资料来源
+
+[VNDB：v59389](https://vndb.org/v59389)，补全于 2026-10-10。

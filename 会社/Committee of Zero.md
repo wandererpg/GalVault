@@ -11,16 +11,12 @@ source_urls:
 # Committee of Zero
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[CHAOS;CHILD Improvement Patch (DMM)]]（publisher）
-- [[CHAOS;CHILD Improvement Patch (Steam, GOG, Switch)]]（publisher）
-- [[CHAOS;HEAD NOAH Overhaul Patch (Steam, Steam Deck, and GOG)]]（publisher）
-- [[CHAOS;HEAD NOAH Overhaul Patch (Switch)]]（publisher）
-- [[CHAOS;HEAD NOAH（Committee of Zero）]]（publisher）
-- [[ROBOTICS;NOTES ELITE Steam Improvement Patch]]（publisher）
-- [[STEINS;GATE 0 Improvement Patch (DMM)]]（publisher）
-- [[STEINS;GATE 0 Improvement Patch (Steam)]]（publisher）
-- [[STEINS;GATE ELITE Steam Improvement Patch]]（publisher）
-- [[STEINS;GATE Steam Improvement Patch]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Hundun zhi Zi - Package Edition（MAGES）]]（publisher）
+- [[发行版/Chaos;Head Noah - Regular Edition]]（publisher）
+- [[发行版/ROBOTICS;NOTES ELITE（MAGES・release：）]]（publisher）
+- [[发行版/Steins;Gate 0 - Limited Deluxe Package Edition]]（publisher）
+- [[发行版/STEINS;GATE - Download Edition（MAGES・release：）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

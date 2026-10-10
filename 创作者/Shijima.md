@@ -12,8 +12,8 @@ source_urls:
 # Shijima
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Aoishiro Demo]]（publisher）
-- [[Aoishiro（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Akai Ito & Aoishiro HD REMASTER - Special Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -13,7 +13,7 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Custom Order Maid 3D 2 It's a Night Magic - Steam Edition]]（publisher）
-- [[Custom Order Maid 3D 2 It's a Night Magic]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Custom Order Maid 3D 2 It's a Night Magic - Steam Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

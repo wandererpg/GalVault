@@ -12,7 +12,7 @@ source_urls:
 # HobiColleD
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Itsu made mo Mama to Issho! ~Yuuwaku Mama no Oppai ni Amaete Ippai Shasei Shitai!~ DVDPG]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Itsu made mo Mama to Issho! ~Yuuwaku Mama no Oppai ni Amaete Ippai Shasei Shitai!~ Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

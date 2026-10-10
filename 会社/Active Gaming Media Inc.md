@@ -13,8 +13,7 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Silver Jiken 25 Ku]]（developer）
-- [[The Silver Case - EU Limited Package Edition]]（publisher）
-- [[The Silver Case - EU Standard Package Edition]]（publisher）
+- [[发行版/The Silver Case - Limited Package Edition]]（publisher）
 - [[The Silver Case - Limited Package Edition]]（publisher）
 - [[银色事件25区]]（developer）<!-- AUTO:END duty -->
 

@@ -12,8 +12,8 @@ source_urls:
 # New Dawn Project
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[G-senjou no Maou（New Dawn Project）]]（publisher）
-- [[Saya no Uta（New Dawn Project）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/G-senjou no Maou（Aegis）]]（publisher）
+- [[发行版/Saya no Uta ~ The Song of Saya - Upgrade Patch]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

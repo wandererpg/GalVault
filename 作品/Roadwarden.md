@@ -40,11 +40,9 @@ cover_image: "assets/covers/v36551.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Roadwarden - Demo]]
-- [[Roadwarden]]
+<!-- AUTO:BEGIN release -->- [[发行版/Roadwarden（Assemble Entertainment・release：）]]
 - [[Roadwarden（Assemble Entertainment・release：）]]
-- [[Roadwarden（Assemble Entertainment）]]
-- [[Roadwarden（release：）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

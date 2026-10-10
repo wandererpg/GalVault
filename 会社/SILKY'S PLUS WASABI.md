@@ -12,16 +12,10 @@ source_urls:
 # SILKY'S PLUS WASABI
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Akeiro Kaikitan - Download Edition]]（developer）
-- [[Akeiro Kaikitan - Package Edition]]（developer）
-- [[Akeiro Kaikitan Trial Version]]（developer）
-- [[Nanairo Reincarnation - Download Edition]]（developer）
-- [[Nanairo Reincarnation - Package Edition]]（developer）
-- [[Nanairo Reincarnation - Trial Edition 2]]（developer）
-- [[Nanairo Reincarnation - Trial Edition]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Nanairo Reincarnation Akeiro Kaikitan Multi-pack（SILKY'S PLUS）]]（developer）
+- [[发行版/Nanairo Reincarnation Akeiro Kaikitan Multi-pack]]（developer）
 - [[Nanairo Reincarnation Akeiro Kaikitan Multi-pack]]（developer）
 - [[Nanairo Reincarnation Akeiro Kaikitan Multi-pack（SILKY'S PLUS）]]（developer）
-- [[Nanairo Reincarnation（SILKY'S PLUS）]]（developer）
 - [[あけいろ怪奇譚]]（developer）
 - [[七色轮回]]（developer）<!-- AUTO:END duty -->
 

@@ -1,16 +1,34 @@
 ---
-entity_id: "release:vndb:r44083:work:vndb:work:v966"
-type: "release"
-display_title: "Maho☆Tama Series: Mimikko Hen - Download Edition"
-release_date: "2011-06-17"
+entity_id: release:vndb:r44083:work:vndb:work:v966
+type: release
+display_title: 'Maho☆Tama Series: Mimikko Hen - Download Edition'
+release_date: '2011-06-17'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r44083"
+  vndb: r44083
 source_urls:
-  vndb: "https://vndb.org/r44083"
+  vndb: https://vndb.org/r44083
+aliases:
+- Maho☆Tama Series： Mimikko Hen
+consolidated_releases:
+- id: r44083
+  title: 'Maho☆Tama Series: Mimikko Hen - Download Edition'
+  url: https://vndb.org/r44083
+  release_date: '2011-06-17'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r1921
+  title: 'Maho☆Tama Series: Mimikko Hen'
+  url: https://vndb.org/r1921
+  release_date: '2006-07-28'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Maho☆Tama Series: Mimikko Hen - Download Edition

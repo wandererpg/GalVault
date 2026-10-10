@@ -12,20 +12,9 @@ source_urls:
 # Yatagarasu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Furuiro Meikyuu Rondo ~HISTOIRE DE DESTIN~ Download Edition]]（developer）
-- [[Furuiro Meikyuu Rondo ~HISTOIRE DE DESTIN~ Download Edition]]（publisher）
-- [[Furuiro Meikyuu Rondo ~HISTOIRE DE DESTIN~ Trial Edition Version 2.00]]（developer）
-- [[Furuiro Meikyuu Rondo ~HISTOIRE DE DESTIN~ Trial Edition Version 2.00]]（publisher）
-- [[Furuiro Meikyuu Rondo ~HISTOIRE DE DESTIN~ Trial Edition]]（developer）
-- [[Furuiro Meikyuu Rondo ~HISTOIRE DE DESTIN~ Trial Edition]]（publisher）
-- [[Furuiro Meikyuu Rondo ~HISTOIRE DE DESTIN~]]（developer）
-- [[Furuiro Meikyuu Rondo ~HISTOIRE DE DESTIN~]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Furuiro Meikyuu Rondo ~La Roue de fortune~ Download Edition]]（developer）
+- [[发行版/Furuiro Meikyuu Rondo ~La Roue de fortune~ Download Edition]]（publisher）
 - [[Furuiro Meikyuu Rondo ~La Roue de fortune~ Download Edition]]（developer）
-- [[Furuiro Meikyuu Rondo ~La Roue de fortune~ Limited Edition]]（developer）
-- [[Furuiro Meikyuu Rondo ~La Roue de fortune~ Regular Edition]]（developer）
-- [[Yatagarasu Full Swing 4 in 1 Pack]]（developer）
-- [[Yatagarasu Full Swing 4 in 1 Pack]]（publisher）
-- [[Yeti Best Furuiro Meikyuu Rondo ~La Roue de fortune~]]（developer）
 - [[古色迷宫轮舞曲]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

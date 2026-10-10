@@ -12,7 +12,7 @@ source_urls:
 # AcCidental
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Xiao zhi Huwei ~Zuinie Shenzhong de Moshilun]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Akatsuki no Goei Trinity Complete Edition - First Press Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

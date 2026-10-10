@@ -118,20 +118,9 @@ cover_image: "assets/covers/v8213.webp"
 - [[Takaido Shizuku]]（高井戸 雫）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[DRACU-RIOT! - 18+ Patch]]
+<!-- AUTO:BEGIN release -->- [[发行版/DRACU-RIOT! - Censored Edition]]
 - [[DRACU-RIOT! - Censored Edition]]
-- [[DRACU-RIOT!（HIKARI FIELD）]]
-- [[DRACU-RIOT!（release：）]]
-- [[DRACU-RIOT!（vndb：r88）]]
-- [[Dracu-Riot! - Download Edition]]
-- [[Dracu-Riot! - Package Edition]]
-- [[Dracu-Riot! - Trial Edition]]
-- [[Dracu-Riot!]]
-- [[Dracu-Riot!（NekoNyan）]]
-- [[Dracu-Riot!（Staircase Subs）]]
-- [[Dracu-Riot!（Team Myskrpatch）]]
-- [[Dracu-Riot!（vndb：r64）]]
-- [[Dracu-riot!（Meng Kong Hanhuazu）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

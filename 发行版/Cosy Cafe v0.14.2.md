@@ -1,16 +1,34 @@
 ---
-entity_id: "release:vndb:r123576:work:vndb:work:v51048"
-type: "release"
-display_title: "Cosy Cafe v0.14.2"
-release_date: "2026-06-12"
+entity_id: release:vndb:r123576:work:vndb:work:v51048
+type: release
+display_title: Cosy Cafe v0.14.2
+release_date: '2026-06-12'
 is_all_ages: false
-platform: "win, lin, mac, and"
-edition_type: "partial"
-title_status: "needs_review"
+platform: win, lin, mac, and
+edition_type: partial
+title_status: needs_review
 source_ids:
-  vndb: "r123576"
+  vndb: r123576
 source_urls:
-  vndb: "https://vndb.org/r123576"
+  vndb: https://vndb.org/r123576
+aliases:
+- Ujutnoe Kafe v0.14.1
+consolidated_releases:
+- id: r123576
+  title: Cosy Cafe v0.14.2
+  url: https://vndb.org/r123576
+  release_date: '2026-06-12'
+  platform: win, lin, mac, and
+  edition_type: partial
+  is_all_ages: false
+- id: r124001
+  title: Ujutnoe Kafe v0.14.1
+  url: https://vndb.org/r124001
+  release_date: '2026-06-07'
+  platform: win, lin, and
+  edition_type: partial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Cosy Cafe v0.14.2

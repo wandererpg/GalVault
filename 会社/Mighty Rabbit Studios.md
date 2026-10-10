@@ -12,10 +12,9 @@ source_urls:
 # Mighty Rabbit Studios
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[The House in Fata Morgana - Dreams of the Revenants - NA Download Edition]]（publisher）
-- [[The House in Fata Morgana - Dreams of the Revenants - NA Download Edition（Mighty Rabbit Studios・release：）]]（publisher）
-- [[The House in Fata Morgana - Dreams of the Revenants - NA Download Edition（Mighty Rabbit Studios・vndb：r63）]]（publisher）
-- [[The House in Fata Morgana - Dreams of the Revenants - NA Download Edition（Mighty Rabbit Studios）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Fata Morgana no Yakata -DREAMS OF THE REVENANTS EDITION- - Download Edition]]（publisher）
+- [[发行版/Fata Morgana no Yakata -DREAMS OF THE REVENANTS EDITION- - Download Edition（NOVECT）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

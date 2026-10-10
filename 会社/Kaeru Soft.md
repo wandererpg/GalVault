@@ -12,16 +12,8 @@ source_urls:
 # Kaeru Soft
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Genjitsu ga Mietekita node Lolicon Yamemashita. - Download Edition]]（developer）
-- [[Genjitsu ga Mietekita node Lolicon Yamemashita. - Download Edition]]（publisher）
-- [[Genjitsu ga Mietekita node Lolicon Yamemashita. - H Trial Edition]]（developer）
-- [[Genjitsu ga Mietekita node Lolicon Yamemashita. - H Trial Edition]]（publisher）
-- [[Genjitsu ga Mietekita node Lolicon Yamemashita. - Package Edition]]（developer）
-- [[Genjitsu ga Mietekita node Lolicon Yamemashita. - Package Edition]]（publisher）
-- [[Genjitsu ga Mietekita node Lolicon Yamemashita. - Second Trial Edition]]（developer）
-- [[Genjitsu ga Mietekita node Lolicon Yamemashita. - Second Trial Edition]]（publisher）
-- [[Genjitsu ga Mietekita node Lolicon Yamemashita. - Trial Edition]]（developer）
-- [[Genjitsu ga Mietekita node Lolicon Yamemashita. - Trial Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Nukicolle vol.43 - Genjitsu ga Mietekita node Lolicon Yamemashita. - Kitsukitsu Manamusume Hole Tsuki]]（developer）
+- [[发行版/Nukicolle vol.43 - Genjitsu ga Mietekita node Lolicon Yamemashita. - Kitsukitsu Manamusume Hole Tsuki]]（publisher）
 - [[Nukicolle vol.43 - Genjitsu ga Mietekita node Lolicon Yamemashita. - Kitsukitsu Manamusume Hole Tsuki]]（developer）
 - [[Nukicolle vol.43 - Genjitsu ga Mietekita node Lolicon Yamemashita. - Kitsukitsu Manamusume Hole Tsuki]]（publisher）
 - [[現実が見えてきたので少女を愛するのを辞めました。]]（developer）<!-- AUTO:END duty -->

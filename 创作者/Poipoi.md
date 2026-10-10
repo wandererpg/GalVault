@@ -12,7 +12,7 @@ source_urls:
 # Poipoi
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[My girlfriend is a blue-collar worker／What she did, what was done to me／A plan to capture the voluptuous wife／My wife was stolen by that bastard]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Boku no Kanojo wa Gatenkei／Kanojo ga Shita Koto, Boku ga Sareta Koto／Kyonyuu Tsuma Kanzen Hokaku Keikaku／Boku no Tsuma ga Aitsu ni Netoraremashita. - Windows 10 Support]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

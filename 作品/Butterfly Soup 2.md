@@ -78,10 +78,7 @@ cover_image: "assets/covers/v38324.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Butterfly Soup 2 v1.04]]
-- [[Butterfly Soup 2 v1.06]]
-- [[Butterfly Soup 2 v1.10]]
-- [[Butterfly Soup 2 v1.14]]
+<!-- AUTO:BEGIN release -->- [[发行版/Butterfly Soup 2]]
 - [[Butterfly Soup 2]]<!-- AUTO:END release -->
 
 ## 动画化

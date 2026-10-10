@@ -12,10 +12,9 @@ source_urls:
 # Strictly Limited Games
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Akai Ito & Aoi Shiro HD Remaster - Limited Edition]]（publisher）
-- [[Akai Ito & Aoi Shiro HD Remaster - Limited Edition（Strictly Limited Games）]]（publisher）
-- [[Akai Ito & Aoi Shiro HD Remaster - Special Limited Edition]]（publisher）
-- [[Akai Ito & Aoi Shiro HD Remaster - Special Limited Edition（Strictly Limited Games）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Akai Ito & Aoishiro HD REMASTER - Special Edition]]（publisher）
+- [[发行版/Akai Ito（HAMSTER Corporation）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

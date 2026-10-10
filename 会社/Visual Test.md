@@ -11,7 +11,7 @@ source_urls:
 # Visual Test
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Umineko no Naku Koro ni - Episode 1 - Legend of the Golden Witch - Trial Edition（Visual Test）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Umineko no Naku Koro ni - Episode 4 - Alliance of the Golden Witch]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

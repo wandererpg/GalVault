@@ -12,11 +12,11 @@ source_urls:
 # Poppin'Party Seisan Kousha
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[D.C.5 ~Da Capo 5~ Future Link]]（publisher）
-- [[D.C.5 ~Da Capo 5~]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/D.C.5 ~Da Capo 5~ Future Link - Deluxe Limited Edition]]（publisher）
+- [[发行版/D.C.5 ~Da Capo 5~ Download Edition（ENTERGRAM）]]（publisher）
 - [[Ju Guang Ning Shui Sui Xiang Qu]]（publisher）
-- [[Xia Liu Baoshi Xin -Zhuangzhi Lingyun Zhen Huanyu-]]（publisher）
-- [[Yue Ying Baoshi Xiang -Xing Chen Biluo Wanwu Yin-]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Jewelry Hearts Academia -We will wing wonder world- Dakimakura Cover Included Limited Edition]]（publisher）
+- [[发行版/Jewelry Nights Arcadia -The ends of the world- Limited Edition with Body Pillow Cover]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

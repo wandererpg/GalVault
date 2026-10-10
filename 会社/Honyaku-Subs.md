@@ -11,10 +11,10 @@ source_urls:
 # Honyaku-Subs
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Kogda plachut chajki]]（publisher）
-- [[Planetarian -Malen'kaja mechta o zvjozdah-]]（publisher）
-- [[Solnechnaja Promija]]（publisher）
-- [[Sud'ba／Noch' Shvatki（Rus'-moon）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Umineko no Naku Koro ni - Episode 4 - Alliance of the Golden Witch]]（publisher）
+- [[发行版/Planetarian ~The Reverie of a Little Planet~（release：）]]（publisher）
+- [[发行版/Taiyou no Promia（Seven Wonder）]]（publisher）
+- [[发行版/Fate／Stay Night ［Realta Nua］ - Ultimate Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

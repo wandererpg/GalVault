@@ -80,15 +80,9 @@ cover_image: "assets/covers/v3660.webp"
 - [[Yamanaka Masahiro]]（河村 眞人）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Shenxuexiao -Noli me tangere-]]
+<!-- AUTO:BEGIN release -->- [[发行版/Shingakkou -Noli me tangere- First Press Limited Edition]]
 - [[Shingakkou -Noli me tangere- First Press Limited Edition]]
-- [[Shingakkou -Noli me tangere- No Voice Download Edition]]
-- [[Shingakkou -Noli me tangere- Regular Edition]]
-- [[Shingakkou -Noli me tangere- Trial Edition]]
-- [[Shingakkou -Noli me tangere- Trial Edition（release：）]]
-- [[Shingakkou -Noli me tangere-]]
-- [[Shingakkou Twin Pack popular edition]]
-- [[Shingakkou Twin Pack]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

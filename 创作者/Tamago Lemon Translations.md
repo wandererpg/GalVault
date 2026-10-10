@@ -12,12 +12,12 @@ source_urls:
 # Tamago Lemon Translations
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Kyonyuu Fantasy 3 if - Bonus content]]（publisher）
-- [[Kyonyuu Fantasy 4 - Bonus content]]（publisher）
-- [[Kyonyuu Fantasy Gaiden - Bonus content]]（publisher）
-- [[Kyonyuu Fantasy Gaiden 2 - Bonus content]]（publisher）
-- [[Kyonyuu Majo（release：）]]（publisher）
-- [[The Flames of Impregnation, Big Boobied Classmates]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kyonyuu Fantasy 3 - Digital Novel Edition - Limited Set - Download Card Edition（Waffle）]]（publisher）
+- [[发行版/Kyonyuu Fantasy 4 -Shuudoushi Astor- Download Card Edition]]（publisher）
+- [[发行版/Kyonyuu Fantasy Gaiden - DVDPG]]（publisher）
+- [[发行版/Kyonyuu Fantasy Gaiden 2 - DVDPG]]（publisher）
+- [[发行版/Kyonyuu Majo - DVDPG]]（publisher）
+- [[发行版/Honoo no Haramase Oppai Nyuu Doukyuusei ~Oppai mo Haramase! New Class Zen'in Harama-sensation!~ - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

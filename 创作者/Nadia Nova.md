@@ -14,14 +14,14 @@ source_urls:
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[DIVINE DESPAIR DEVIANCE]]（developer）
 - [[DIVINE DESPAIR DEVIANCE]]（publisher）
-- [[HOPELESS JUNCTION： cuppy dog barf girl and co]]（developer）
-- [[HOPELESS JUNCTION： cuppy dog barf girl and co]]（publisher）
+- [[发行版/hopeless junction]]（developer）
+- [[发行版/hopeless junction]]（publisher）
 - [[hopeless junction]]（developer）
 - [[hopeless junction]]（publisher）
 - [[malcatras' maiden]]（developer）
 - [[malcatras' maiden]]（publisher）
-- [[malcatras' maiden（release：）]]（developer）
-- [[malcatras' maiden（release：）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/malcatras' maiden]]（developer）
+- [[发行版/malcatras' maiden]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

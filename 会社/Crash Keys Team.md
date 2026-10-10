@@ -12,9 +12,9 @@ source_urls:
 # Crash Keys Team
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[AI： The Somnium Files]]（publisher）
-- [[Zero Escape： The Nonary Games - Virtue's Last Reward]]（publisher）
-- [[Zero Escape： Virtue's Last Reward]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/AI： The Somnium Files - EU Special Agent Edition（Numskull Games Ltd）]]（publisher）
+- [[发行版/Kyokugen Dasshutsu ADV Zennin Shibou Desu - Download Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

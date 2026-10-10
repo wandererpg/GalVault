@@ -12,7 +12,7 @@ source_urls:
 # Luoying Tonghaohui
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Rongxin Huixiang ~Yuyu Youxiang~]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Re CATION ~Melty Healing~（HTranslations）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

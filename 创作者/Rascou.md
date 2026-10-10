@@ -16,16 +16,16 @@ source_urls:
 - [[Toaru Fuufu no Hensai Keikaku]]（publisher）
 - [[Toaru Hahaoya no Ayamachi ~Yukari Sono Kouhen~ ver1.51f]]（developer）
 - [[Toaru Hahaoya no Ayamachi ~Yukari Sono Kouhen~ ver1.51f]]（publisher）
-- [[Toaru Hahaoya no Ayamachi ~Yukari Sono Kouhen~]]（developer）
-- [[Toaru Hahaoya no Ayamachi ~Yukari Sono Kouhen~]]（publisher）
+- [[发行版/Toaru Hahaoya no Ayamachi ~Yukari Sono Kouhen~ ver1.51f]]（developer）
+- [[发行版/Toaru Hahaoya no Ayamachi ~Yukari Sono Kouhen~ ver1.51f]]（publisher）
 - [[Toaru Hitozuma no Netorare Jijou - Package Edition]]（developer）
 - [[Toaru Hitozuma no Netorare Jijou - Package Edition]]（publisher）
 - [[Toaru Hitozuma no Netorare Jijou 2 - Package Edition]]（developer）
 - [[Toaru Hitozuma no Netorare Jijou 2 - Package Edition]]（publisher）
-- [[Toaru Hitozuma no Netorare Jijou 2]]（developer）
-- [[Toaru Hitozuma no Netorare Jijou 2]]（publisher）
-- [[Toaru Hitozuma no Netorare Jijou]]（developer）
-- [[Toaru Hitozuma no Netorare Jijou]]（publisher）
+- [[发行版/Toaru Hitozuma no Netorare Jijou 2 - Package Edition]]（developer）
+- [[发行版/Toaru Hitozuma no Netorare Jijou 2 - Package Edition]]（publisher）
+- [[发行版/Toaru Hitozuma no Netorare Jijou - Package Edition]]（developer）
+- [[发行版/Toaru Hitozuma no Netorare Jijou - Package Edition]]（publisher）
 - [[とある人妻のネトラレ事情 2]]（developer）
 - [[とある人妻のネトラレ事情]]（developer）
 - [[とある夫婦の返済計画]]（developer）

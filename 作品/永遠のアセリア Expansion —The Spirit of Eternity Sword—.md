@@ -45,14 +45,9 @@ cover_image: "assets/covers/v76.webp"
 - [[Yamamoto Naoko]]（山本 直子）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Aselia the Eternal - Download Edition（JAST Densetsu）]]
-- [[Aselia the Eternal - Package Edition（JAST Densetsu）]]
-- [[Eien no Aselia - Premium Special Edition - Download Edition（Xuse）]]
-- [[Eien no Aselia - Premium Special Edition（Xuse）]]
-- [[Eien no Aselia - Special Edition（Xuse）]]
-- [[Eien no Aselia Expansion -The Spirit of Eternity Sword- Comiket Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Eien no Aselia Expansion -The Spirit of Eternity Sword- Download Edition]]
 - [[Eien no Aselia Expansion -The Spirit of Eternity Sword- Download Edition]]
-- [[Eien no Aselia Expansion -The Spirit of Eternity Sword-]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

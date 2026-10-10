@@ -154,17 +154,9 @@ cover_image: "assets/covers/v47937.webp"
 - [[Yorita Natsu]]（依田 菜津）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[anemoi (Gemini-3.1-pro)]]
-- [[anemoi (leaked) (gemini-3.1-pro)]]
-- [[anemoi - (GPT-5.6 Sol)]]
-- [[anemoi - Download Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/anemoi - First Press Limited Edition]]
 - [[anemoi - First Press Limited Edition]]
-- [[anemoi - Trial Edition (Gemini 3 Flash Preview)]]
-- [[anemoi - Trial Edition]]
-- [[anemoi - Trial Edition（release：）]]
-- [[anemoi]]
-- [[anemoj - Trial Edition]]
-- [[anemoy]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

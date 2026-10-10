@@ -25,9 +25,8 @@ source_urls:
 
 ## 出场作品
 <!-- AUTO:BEGIN character -->- [[Machi ~Unmei no Kousaten~ Tokubetsu Hen - Download Edition]]（protagonist）
-- [[Machi ~Unmei no Kousaten~ Tokubetsu Hen]]（protagonist）
-- [[SEGA THE BEST - Machi ~Unmei no Kousaten~ Tokubetsu Hen]]（protagonist）
-- [[Yinxiang Xiaoshuo Xilie Di San Bu： Jie ~Mingyun de Jiaochadian~]]（protagonist）<!-- AUTO:END character -->
+- [[发行版/Machi ~Unmei no Kousaten~ Tokubetsu Hen - Download Edition]]（protagonist）
+<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->

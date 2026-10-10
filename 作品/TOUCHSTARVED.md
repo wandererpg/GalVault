@@ -57,8 +57,7 @@ cover_image: "assets/covers/v43288.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[TOUCHSTARVED - Demo 2.0]]
-- [[TOUCHSTARVED - Demo]]
+<!-- AUTO:BEGIN release -->- [[发行版/TOUCHSTARVED]]
 - [[TOUCHSTARVED]]<!-- AUTO:END release -->
 
 ## 动画化

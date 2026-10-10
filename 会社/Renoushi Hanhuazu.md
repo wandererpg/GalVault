@@ -12,7 +12,7 @@ source_urls:
 # Renoushi Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Wuming： Ni Bixu Huixiang zhi Shiqing]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Bezymjannyj. Edinstvennaja vesch', kotoruju ty dolzhna vspomnit']]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

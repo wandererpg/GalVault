@@ -48,10 +48,9 @@ cover_image: "assets/covers/v19662.webp"
 - [[Oukawa Mio]]（楠田 兎）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[JD Onsen. Eroero Dynamite Joshi Daisei to no Onsen Seikatsu. - Download Edition]]
-- [[JD Onsen. Eroero Dynamite Joshi Daisei to no Onsen Seikatsu. - Package Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/JD Onsen. Eroero Dynamite Joshi Daisei to no Onsen Seikatsu. - Renewal Package Edition DVDPG]]
 - [[JD Onsen. Eroero Dynamite Joshi Daisei to no Onsen Seikatsu. - Renewal Package Edition DVDPG]]
-- [[JD Onsen. Eroero Dynamite Joshi Daisei to no Onsen Seikatsu]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

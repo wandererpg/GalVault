@@ -13,8 +13,8 @@ source_urls:
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Fate／Stay Night ［Realta Nua］ - Ultimate Edition]]（publisher）
-- [[Fate／Stay Night ［Realta Nua］（mirror moon・release：）]]（publisher）
-- [[Fate／Stay Night ［Realta Nua］（mirror moon）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Fate／Stay Night ［Realta Nua］ - Ultimate Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

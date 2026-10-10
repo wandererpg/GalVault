@@ -12,13 +12,12 @@ source_urls:
 # Tianzu Xingren
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Juru Huanxiang 2 if Full HD Bundle Edition]]（publisher）
-- [[Juru Huanxiang 3if -Artemis zhi Shi - Medusa zhi Yuan HD Bundle Edition]]（publisher）
-- [[Juru Huanxiang 3if HD Bundle Edition]]（publisher）
-- [[Juru Huanxiang 3if]]（publisher）
-- [[Juru Huanxiang Waizhuan2]]（publisher）
-- [[Juru Huanxiang Waizhuan]]（publisher）
-- [[Kyonyuu Elf Oyako Saimin]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kyonyuu Fantasy 2 if - Blu-ray Game]]（publisher）
+- [[发行版/Kyonyuu Fantasy 3 if -Artemis no Ya - Medusa no Negai- DVDPG]]（publisher）
+- [[发行版/Kyonyuu Fantasy 3 - Digital Novel Edition - Limited Set - Download Card Edition（Waffle）]]（publisher）
+- [[发行版/Kyonyuu Fantasy Gaiden 2 - DVDPG]]（publisher）
+- [[发行版/Kyonyuu Fantasy Gaiden - DVDPG]]（publisher）
+- [[发行版/Kyonyuu Elf Oyako Saimin ＂Hai...... Ningen-sama no Ochi＊po o Oyako de Shabusarete Itadakimasu......＂ - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

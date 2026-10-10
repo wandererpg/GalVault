@@ -13,13 +13,11 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[I／O - First Press Limited Edition]]（publisher）
-- [[I／O - Regular Edition]]（publisher）
+- [[发行版/I／O - First Press Limited Edition]]（publisher）
 - [[Suigetsu ~Portable~ Best Edition]]（publisher）
-- [[Suigetsu ~Portable~ Limited Edition]]（publisher）
-- [[Suigetsu ~Portable~ Regular Edition]]（publisher）
-- [[_summer＃＃ Underbar Summer Double Sharp - Best Edition]]（publisher）
-- [[_summer＃＃ Underbar Summer Double Sharp - First Press Limited Edition]]（publisher）
-- [[_summer＃＃ Underbar Summer Double Sharp - Regular Edition]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Suigetsu ~Portable~ Best Edition]]（publisher）
+- [[发行版/_summer]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

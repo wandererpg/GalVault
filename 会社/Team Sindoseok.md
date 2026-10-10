@@ -12,9 +12,8 @@ source_urls:
 # Team Sindoseok
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Summer Pockets REFLECTION BLUE（Team Sindoseok）]]（publisher）
-- [[Summer Pockets（Team Sindoseok・release：）]]（publisher）
-- [[Summer Pockets（Team Sindoseok）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Summer Pockets REFLECTION BLUE - First Press Limited Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

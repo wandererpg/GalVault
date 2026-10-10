@@ -12,7 +12,7 @@ source_urls:
 # Makino House
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Hundun zhi Zi（Makino House）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Hundun zhi Zi - Package Edition（MAGES）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

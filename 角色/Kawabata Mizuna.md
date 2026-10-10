@@ -30,9 +30,8 @@ portrait_image: "assets/characters/c10322.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Parfait ~Chocolat Second Brew~ Standard Edition]]（primary）
+<!-- AUTO:BEGIN character -->- [[发行版/Parfait ~Chocolat Second Style~ Limited Edition]]（primary）
 - [[Parfait ~Chocolat Second Style~ Limited Edition]]（primary）
-- [[Parfait ~Chocolat Second Style~ Regular Edition]]（primary）
 - [[女仆咖啡帕露菲]]（side）<!-- AUTO:END character -->
 
 ## 声优

@@ -12,13 +12,9 @@ source_urls:
 # ycx Studios Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Hanchan Mingqi zhi Shi： Gui Yin Pian]]（publisher）
-- [[Hanchan Mingqi zhi Shi： Jie Sha Pian]]（publisher）
-- [[Hanchan Mingqi zhi Shi： Mian Liu Pian]]（publisher）
-- [[Hanchan Mingqi zhi Shi： Mu Ming Pian]]（publisher）
-- [[Hanchan Mingqi zhi Shi： Suisha Pian]]（publisher）
-- [[Hanchan Mingqi zhi Shi： Xiakui Pian]]（publisher）
-- [[Hanchan Mingqi zhi Shi： Zui Mie Pian]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Himatsubushi Hen（07th Expansion）]]（publisher）
+- [[发行版/Matsuribayashi Hen（07th Expansion）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

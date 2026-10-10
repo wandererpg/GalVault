@@ -12,8 +12,8 @@ source_urls:
 # Kalar Baohu Xiehui
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Da E Si（Kalar Baohu Xiehui）]]（publisher）
-- [[Guichu Wang Rance（Kalar Baohu Xiehui）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Daiakuji - Download Edition]]（publisher）
+- [[发行版/Kichikuou Rance - New Package Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

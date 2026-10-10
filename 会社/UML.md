@@ -13,7 +13,7 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Miyugui Hyanggi]]（publisher）
-- [[Neoui Heunjeogeun Janjanhi Heundeulligo]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Kimi no Nagori wa Shizuka ni Yurete - Limited Noicolle Pack Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -13,17 +13,10 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[BugBug 200 Anniversary DVD MiniMini AVG Collection Part 1（Minato Soft）]]（developer）
-- [[Maji de Watashi ni Koishinasai! - 10th Anniversary Trial]]（developer）
-- [[Maji de Watashi ni Koishinasai! - 10th Anniversary Trial]]（publisher）
-- [[Maji de Watashi ni Koishinasai! - DMM Exclusive Edition]]（developer）
-- [[Maji de Watashi ni Koishinasai! - DMM Exclusive Edition]]（publisher）
-- [[Maji de Watashi ni Koishinasai! - First Press Edition]]（developer）
-- [[Maji de Watashi ni Koishinasai! - First Press Edition]]（publisher）
-- [[Maji de Watashi ni Koishinasai! - Regular Edition]]（developer）
-- [[Maji de Watashi ni Koishinasai! - Regular Edition]]（publisher）
-- [[Maji de Watashi ni Koishinasai! - Trial Edition]]（publisher）
-- [[Maji de Watashi ni Koishinasai! A - Special Edition]]（developer）
-- [[Maji de Watashi ni Koishinasai! A - Special Edition]]（publisher）
+- [[发行版/BugBug 200 Anniversary DVD MiniMini AVG Collection Part 1（Minato Soft）]]（developer）
+- [[发行版/BugBug 200 Anniversary DVD MiniMini AVG Collection Part 1（Minato Soft）]]（publisher）
+- [[发行版/Maji de Watashi ni Koishinasai! A-1（Wairu Translations）]]（developer）
+- [[发行版/Maji de Watashi ni Koishinasai! A-1（Wairu Translations）]]（publisher）
 - [[Maji de Watashi ni Koishinasai! A - Special Edition（Minato Soft・k：v20602）]]（developer）
 - [[Maji de Watashi ni Koishinasai! A - Special Edition（Minato Soft・k：v20602）]]（publisher）
 - [[Maji de Watashi ni Koishinasai! A - Special Edition（Minato Soft・k：v20604）]]（developer）
@@ -34,44 +27,20 @@ source_urls:
 - [[Maji de Watashi ni Koishinasai! A - Special Edition（Minato Soft・vndb：r46）]]（publisher）
 - [[Maji de Watashi ni Koishinasai! A - Special Edition（Minato Soft）]]（developer）
 - [[Maji de Watashi ni Koishinasai! A - Special Edition（Minato Soft）]]（publisher）
-- [[Maji de Watashi ni Koishinasai! A Set]]（developer）
-- [[Maji de Watashi ni Koishinasai! A Set]]（publisher）
-- [[Maji de Watashi ni Koishinasai! A Set（Minato Soft・k：v20602）]]（developer）
-- [[Maji de Watashi ni Koishinasai! A Set（Minato Soft・k：v20602）]]（publisher）
-- [[Maji de Watashi ni Koishinasai! A Set（Minato Soft・release：）]]（developer）
-- [[Maji de Watashi ni Koishinasai! A Set（Minato Soft・release：）]]（publisher）
-- [[Maji de Watashi ni Koishinasai! A Set（Minato Soft・vndb：r61）]]（developer）
-- [[Maji de Watashi ni Koishinasai! A Set（Minato Soft・vndb：r61）]]（publisher）
-- [[Maji de Watashi ni Koishinasai! A Set（Minato Soft）]]（developer）
-- [[Maji de Watashi ni Koishinasai! A Set（Minato Soft）]]（publisher）
-- [[Maji de Watashi ni Koishinasai! A-1（Minato Soft）]]（developer）
-- [[Maji de Watashi ni Koishinasai! A-1（Minato Soft）]]（publisher）
-- [[Maji de Watashi ni Koishinasai! A-2（Minato Soft）]]（developer）
-- [[Maji de Watashi ni Koishinasai! A-2（Minato Soft）]]（publisher）
-- [[Maji de Watashi ni Koishinasai! A-3]]（developer）
-- [[Maji de Watashi ni Koishinasai! A-3]]（publisher）
-- [[Maji de Watashi ni Koishinasai! A-4]]（developer）
-- [[Maji de Watashi ni Koishinasai! A-4]]（publisher）
-- [[Maji de Watashi ni Koishinasai! A-5]]（developer）
-- [[Maji de Watashi ni Koishinasai! A-5]]（publisher）
-- [[Maji de Watashi ni Koishinasai! R]]（developer）
-- [[Maji de Watashi ni Koishinasai! S - Download Edition]]（developer）
-- [[Maji de Watashi ni Koishinasai! S - Download Edition]]（publisher）
-- [[Maji de Watashi ni Koishinasai! S - First Press Edition]]（developer）
-- [[Maji de Watashi ni Koishinasai! S - First Press Edition]]（publisher）
-- [[Maji de Watashi ni Koishinasai! S - Regular Edition]]（developer）
-- [[Maji de Watashi ni Koishinasai! S - Regular Edition]]（publisher）
-- [[Maji de Watashi ni Koishinasai! S - Trial Edition]]（developer）
-- [[Maji de Watashi ni Koishinasai! S - Trial Edition]]（publisher）
-- [[Majikoi! Love Me Seriously! Demo]]（developer）
+- [[发行版/Maji de Watashi ni Koishinasai! A - Special Edition（Minato Soft・k：v20602）]]（developer）
+- [[发行版/Maji de Watashi ni Koishinasai! A - Special Edition（Minato Soft・k：v20602）]]（publisher）
+- [[发行版/Maji de Watashi ni Koishinasai! A - Special Edition（Minato Soft・release：）]]（developer）
+- [[发行版/Maji de Watashi ni Koishinasai! A - Special Edition（Minato Soft・release：）]]（publisher）
+- [[发行版/Maji de Watashi ni Koishinasai! A - Special Edition（Minato Soft・vndb：r46）]]（developer）
+- [[发行版/Maji de Watashi ni Koishinasai! A - Special Edition（Minato Soft・vndb：r46）]]（publisher）
+- [[发行版/Maji de Watashi ni Koishinasai! A - Special Edition（Minato Soft）]]（developer）
+- [[发行版/Maji de Watashi ni Koishinasai! A - Special Edition（Minato Soft）]]（publisher）
+- [[发行版/Maji de Watashi ni Koishinasai! S]]（developer）
+- [[发行版/Maji de Watashi ni Koishinasai! S]]（publisher）
 - [[Waga Himegimi ni Eikan o - Download Edition]]（developer）
 - [[Waga Himegimi ni Eikan o - Download Edition]]（publisher）
-- [[Waga Himegimi ni Eikan o - Trial Edition 2]]（developer）
-- [[Waga Himegimi ni Eikan o - Trial Edition 2]]（publisher）
-- [[Waga Himegimi ni Eikan o - Trial Edition]]（developer）
-- [[Waga Himegimi ni Eikan o - Trial Edition]]（publisher）
-- [[Waga Himegimi ni Eikan o（Minato Soft）]]（developer）
-- [[Waga Himegimi ni Eikan o（Minato Soft）]]（publisher）
+- [[发行版/Waga Himegimi ni Eikan o - Download Edition]]（developer）
+- [[发行版/Waga Himegimi ni Eikan o - Download Edition]]（publisher）
 - [[我が姫君に栄冠を]]（developer）
 - [[真剣で私に恋しなさい！A-1]]（developer）
 - [[真剣で私に恋しなさい！A-2]]（developer）

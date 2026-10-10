@@ -1,16 +1,34 @@
 ---
-entity_id: "release:vndb:r99376:work:vndb:work:v39613"
-type: "release"
-display_title: "Geunyeo-ui Segye"
-release_date: "2022-11-23"
+entity_id: release:vndb:r99376:work:vndb:work:v39613
+type: release
+display_title: Geunyeo-ui Segye
+release_date: '2022-11-23'
 is_all_ages: true
-platform: "ios, and"
-edition_type: "complete"
-title_status: "needs_review"
+platform: ios, and
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r99376"
+  vndb: r99376
 source_urls:
-  vndb: "https://vndb.org/r99376"
+  vndb: https://vndb.org/r99376
+aliases:
+- Geunyeo-ui Segye
+consolidated_releases:
+- id: r99376
+  title: Geunyeo-ui Segye
+  url: https://vndb.org/r99376
+  release_date: '2022-11-23'
+  platform: ios, and
+  edition_type: complete
+  is_all_ages: true
+- id: r98290
+  title: Geunyeo-ui Segye
+  url: https://vndb.org/r98290
+  release_date: '2022-10-06'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Geunyeo-ui Segye

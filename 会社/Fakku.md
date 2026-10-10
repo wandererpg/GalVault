@@ -12,9 +12,8 @@ source_urls:
 # Fakku
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Two Beasts or Not To Beast! - Censored Edition]]（publisher）
-- [[Two Beasts or Not To Beast! - Decensor Patch]]（publisher）
-- [[Two Beasts or Not To Beast!]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Haruki no Saidai no Teki wa Risei]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

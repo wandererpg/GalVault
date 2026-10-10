@@ -11,35 +11,34 @@ source_urls:
 # Innocence Translations
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[25-y Okrug： Serebryanoye delo]]（publisher）
-- [[Aokana -Chetyre ritma skvoz' sinevu-]]（publisher）
-- [[Boyevaya akademiya Senshinkan： Stroy vosmi sudeb]]（publisher）
-- [[Dies irae ~Den' gneva~]]（publisher）
-- [[Dies irae ~Interv'ju s Kazikli Beem~]]（publisher）
-- [[Imouto to Kanojo - Sorezore no Sentaku -]]（publisher）
-- [[Imouto to Kanojo -Sorezore no Sentaku-]]（publisher）
-- [[Izmereniye vlyublennykh!!]]（publisher）
-- [[Luperkalija Tjomnogo Zaveta]]（publisher）
-- [[Mao na strune Sol'（Innocence Translations）]]（publisher）
-- [[Meteor Mirovoj Aktjor： Gazosvetnaja Pulja]]（publisher）
-- [[Nebo Konca： Remake ［2025］]]（publisher）
-- [[Obezyany]]（publisher）
-- [[Proklyaty tanets bogov： Svet rassveta]]（publisher）
-- [[Putrika 2-y akt： Vo imya izyskannogo odeyaniya]]（publisher）
-- [[Rans 10： Ishod]]（publisher）
-- [[Sajoshi ~Nauchi menja proschat'sja~]]（publisher）
-- [[Sakura, Moyu. - kak Nochi, Reinkarnatsiya -]]（publisher）
-- [[Schastlivy koshmar： Oskolki snov]]（publisher）
-- [[Skazanie o pogrebjonnom serebre]]（publisher）
-- [[Strazhi Rassveta： Troitsa]]（publisher）
-- [[Sud nad Devochkoj-Volshebnicej]]（publisher）
-- [[Sumerechnaja Sinsemil'ja]]（publisher）
-- [[Volshebstvo Knizhnyh Stranic]]（publisher）
-- [[Vremja Sakury -Stupaja pod lesom sakury-]]（publisher）
-- [[Vykhodyashcheye za ramki tvorchestvo]]（publisher）
-- [[Vykhodyashcheye za ramki tvorchestvo： Totsu]]（publisher）
-- [[anemoj - Trial Edition]]（publisher）
-- [[anemoy]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Silver Jiken 25 Ku]]（publisher）
+- [[发行版/Ao no Kanata no Four Rhythm - Download Edition（sprite）]]（publisher）
+- [[发行版/Soushuu Senshinkan Gakuen： Hachimyoujin -Ten no Toki- First Press Limited Edition]]（publisher）
+- [[发行版/Dies irae ~Amantes amentes~ For Nintendo Switch]]（publisher）
+- [[发行版/Dies irae ~Interview with Kaziklu Bey~ Download Edition]]（publisher）
+- [[发行版/Imouto to Kanojo - Washizaki Kyoudai-hen - Renewal Package Edition DVDPG]]（publisher）
+- [[发行版/Dimension Totsu Lovers!! - Download Preorder Limited Deluxe Edition]]（publisher）
+- [[发行版/Meikei no Lupercalia - Download Edition（Uguisu Kagura）]]（publisher）
+- [[发行版/G-senjou no Maou（Aegis）]]（publisher）
+- [[发行版/Ryuusei World Actor： Gaslight Bullet - Dai Nana Kyouwakoku Shukkoku Pack]]（publisher）
+- [[发行版/Subarashiki Hibi ~Furenzoku Sonzai~ 10th Anniversary Special Edition]]（publisher）
+- [[发行版/Monkeys!¡ - Download Edition]]（publisher）
+- [[发行版/Shenzhou Shenwei Shenle Shuguang]]（publisher）
+- [[发行版/Putrika 2nd.cut：For the Exquisite Attire]]（publisher）
+- [[发行版/Rance 10 - Package Edition]]（publisher）
+- [[发行版/Sayonara o Oshiete ~Comment te Dire Adieu~ ~AsoBD~]]（publisher）
+- [[发行版/Yinghua, Mengfang. -as the Night's, Reincarnation-（Syawase Works）]]（publisher）
+- [[发行版/Hapymaher -Fragmentation Dream- Download Edition]]（publisher）
+- [[发行版/Suisou Ginka no Istoria - Download Edition]]（publisher）
+- [[发行版/Akatsuki no Goei Trinity Complete Edition - First Press Limited Edition]]（publisher）
+- [[发行版/Mahou Shoujo no Majo Saiban]]（publisher）
+- [[发行版/Tasogare no Sinsemilla Portable - Regular Edition]]（publisher）
+- [[发行版/Kami no Ue no Mahoutsukai - Download Edition]]（publisher）
+- [[发行版/Sakura no Toki -Sakura no Mori no Shita o Ayumu- First Press Limited Edition]]（publisher）
+- [[发行版/Changgui Tuoli Creative - Censored Edition]]（publisher）
+- [[发行版/Changgui Tuoli Creative Tu]]（publisher）
+- [[发行版/anemoi - First Press Limited Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -11,7 +11,7 @@ source_urls:
 # klesun
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Rance X - Showdown - AI translation]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Rance 10 - Package Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

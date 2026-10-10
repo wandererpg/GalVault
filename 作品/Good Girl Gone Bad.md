@@ -71,14 +71,9 @@ cover_image: "assets/covers/v21177.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Good Girl Gone Bad - Demo]]
-- [[Good Girl Gone Bad - JDMOD]]
-- [[Good Girl Gone Bad v1.1]]
-- [[Good Girl Gone Bad v1.2]]
-- [[Good Girl Gone Bad v1.2（release：）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Good Girl Gone Bad]]
 - [[Good Girl Gone Bad]]
-- [[Horoshaja Devochka Stala Plohoj v1.0]]
-- [[Paj-Devochka Poshla Vraznos v1.2(5／8)]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

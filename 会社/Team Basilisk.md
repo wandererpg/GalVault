@@ -12,7 +12,7 @@ source_urls:
 # Team Basilisk
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Sayaui Norae（Team Basilisk）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Saya no Uta ~ The Song of Saya - Upgrade Patch]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

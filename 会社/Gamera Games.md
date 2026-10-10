@@ -12,9 +12,8 @@ source_urls:
 # Gamera Games
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Huoshan De Nü'er]]（publisher）
-- [[Huoshan De Nü'er（Yang Dan Ren Gongzuoshi）]]（publisher）
-- [[Mojibake]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Huoshan De Nü'er： Zaidu Chongfeng]]（publisher）
+- [[发行版/Mojibake - Package Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

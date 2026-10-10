@@ -12,38 +12,14 @@ source_urls:
 # honeybee black
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Blackish House Side A→ - First Press Limited Edition]]（developer）
-- [[Blackish House Side A→ - First Press Limited Edition]]（publisher）
-- [[Blackish House Side A→ - Regular Edition]]（developer）
-- [[Blackish House Side A→ - Regular Edition]]（publisher）
-- [[Blackish House sideA→ -Retour- Download Edition]]（developer）
-- [[Blackish House sideA→ -Retour- Special Edition]]（developer）
-- [[Blackish House sideA→ -Retour-]]（developer）
-- [[Blackish House ←sideZ - First Press Limited Edition]]（developer）
-- [[Blackish House ←sideZ - First Press Limited Edition]]（publisher）
-- [[Blackish House ←sideZ - Regular Edition]]（developer）
-- [[Blackish House ←sideZ - Regular Edition]]（publisher）
-- [[Blackish House ←sideZ -Retour- Download Edition]]（developer）
-- [[Blackish House ←sideZ -Retour- Special Edition]]（developer）
-- [[Blackish House ←sideZ -Retour-]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Blackish House sideA→ -Retour-（Justdan）]]（developer）
+- [[发行版/Blackish House sideA→ -Retour-（Justdan）]]（publisher）
 - [[Blackish House]]（developer）
 - [[DYNAMIC CHORD feat.apple-polisher Remaster Edition - DL Edition]]（developer）
-- [[DYNAMIC CHORD feat.apple-polisher Remaster Edition]]（developer）
+- [[发行版/DYNAMIC CHORD feat.apple-polisher Remaster Edition - DL Edition]]（developer）
 - [[DYNAMIC CHORD feat.apple-polisher]]（developer）
-- [[Dynamic Chord feat. apple-polisher - First Press Limited Edition Disc A]]（developer）
-- [[Dynamic Chord feat. apple-polisher - First Press Limited Edition Disc A]]（publisher）
-- [[Dynamic Chord feat. apple-polisher - First Press Limited Edition Disc B]]（developer）
-- [[Dynamic Chord feat. apple-polisher - First Press Limited Edition Disc B]]（publisher）
-- [[Dynamic Chord feat. apple-polisher - Regular Edition]]（developer）
-- [[Dynamic Chord feat. apple-polisher - Regular Edition]]（publisher）
-- [[Dynamic Chord feat. apple-polisher - Trial Edition]]（developer）
-- [[Dynamic Chord feat. apple-polisher - Trial Edition]]（publisher）
-- [[Dynamic Chord feat. apple-polisher V edition - Download Edition]]（developer）
-- [[Dynamic Chord feat. apple-polisher V edition - Download Edition]]（publisher）
-- [[Dynamic Chord feat. apple-polisher V edition - Limited Edition]]（developer）
-- [[Dynamic Chord feat. apple-polisher V edition - Limited Edition]]（publisher）
-- [[Dynamic Chord feat. apple-polisher V edition]]（developer）
-- [[Dynamic Chord feat. apple-polisher V edition]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/DYNAMIC CHORD feat.apple-polisher Remaster Edition - DL Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

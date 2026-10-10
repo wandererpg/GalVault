@@ -12,8 +12,8 @@ source_urls:
 # OTS
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[The Hundred Line -Last Defense Academy-（k：v54897）]]（publisher）
-- [[The Hundred Line -Last Defense Academy-（vndb：r14）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Bairi Zhanji -Zuizhong Fangwei Xueyuan-]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

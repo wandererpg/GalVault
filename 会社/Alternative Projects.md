@@ -12,8 +12,8 @@ source_urls:
 # Alternative Projects
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Muv-Luv Alternative Chronicles Vol.1]]（publisher）
-- [[Muv-Luv Alternative Chronicles Vol.2]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/age Memorial Bundle（aNTIQ・vndb：r13）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

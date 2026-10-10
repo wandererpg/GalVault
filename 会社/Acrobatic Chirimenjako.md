@@ -12,8 +12,7 @@ source_urls:
 # Acrobatic Chirimenjako
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Schrödinger's Call Episode 1 Demo]]（developer）
-- [[Schrödinger's Call]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Schrödinger's Call（SHUEISHA Games）]]（developer）
 - [[Schrödinger's Call（SHUEISHA Games）]]（developer）
 - [[薛定谔的电话]]（developer）<!-- AUTO:END duty -->
 

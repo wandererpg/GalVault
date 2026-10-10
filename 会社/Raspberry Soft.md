@@ -12,7 +12,7 @@ source_urls:
 # Raspberry Soft
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Indecent Wife Hana ［Midara na Hitozuma Hana］ - DLsite Edition]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Indecent Wife Hana ［v0.8.14］]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

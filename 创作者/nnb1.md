@@ -12,7 +12,7 @@ source_urls:
 # nnb1
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[ef - the first tale（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

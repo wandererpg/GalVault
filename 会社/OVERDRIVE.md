@@ -12,32 +12,12 @@ source_urls:
 # OVERDRIVE
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[MUSICA! - Trial Alpha Edition]]（developer）
-- [[MUSICA! - Trial Alpha Edition]]（publisher）
-- [[MUSICA! - Trial Alpha Edition（OVERDRIVE）]]（developer）
-- [[MUSICA! - Trial Alpha Edition（OVERDRIVE）]]（publisher）
-- [[MUSICUS! - Download Edition]]（developer）
-- [[MUSICUS! - Download Edition]]（publisher）
-- [[MUSICUS! - Download Edition（OVERDRIVE・release：）]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/MUSICUS! - Download Edition（OVERDRIVE・vndb：r97）]]（developer）
+- [[发行版/MUSICUS! - Download Edition（OVERDRIVE・vndb：r97）]]（publisher）
 - [[MUSICUS! - Download Edition（OVERDRIVE・vndb：r97）]]（developer）
-- [[MUSICUS! - Download Edition（OVERDRIVE）]]（developer）
-- [[MUSICUS! - Download Edition（OVERDRIVE）]]（publisher）
-- [[MUSICUS! - Limited Edition]]（developer）
-- [[MUSICUS! - Limited Edition（OVERDRIVE）]]（developer）
-- [[MUSICUS! - R15 Edition]]（developer）
-- [[MUSICUS! - R15 Edition]]（publisher）
-- [[MUSICUS! - R18 Edition]]（developer）
-- [[MUSICUS! - R18 Edition]]（publisher）
-- [[MUSICUS! - Regular Edition]]（developer）
-- [[MUSICUS! - Regular Edition（OVERDRIVE）]]（developer）
-- [[MUSICUS! - Trial Beta Edition]]（developer）
-- [[MUSICUS! - Trial Beta Edition]]（publisher）
-- [[MUSICUS! - Trial Edition]]（developer）
-- [[MUSICUS! - Trial Edition（OVERDRIVE）]]（developer）
 - [[MUSICUS!]]（developer）
 - [[MUSICUS!]]（publisher）
-- [[MUSICUS!（OVERDRIVE）]]（developer）
-- [[MUSICUS!（OVERDRIVE）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

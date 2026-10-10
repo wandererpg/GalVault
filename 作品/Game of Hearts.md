@@ -49,8 +49,8 @@ cover_image: "assets/covers/v46087.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Game of Hearts]]
-- [[Game of Hearts（release：）]]
-- [[Igra Serdec]]<!-- AUTO:END release -->
+- [[发行版/Game of Hearts]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

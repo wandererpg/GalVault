@@ -12,18 +12,10 @@ source_urls:
 # metalogiq
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Mahou Shoujo Shoumou Sensen - Power Up Kit]]（developer）
-- [[Mahou Shoujo Shoumou Sensen - Power Up Kit]]（publisher）
-- [[Mahou Shoujo Shoumou Sensen -Cathedral Edition- Download Edition]]（developer）
-- [[Mahou Shoujo Shoumou Sensen -Cathedral Edition- Download Edition]]（publisher）
-- [[Mahou Shoujo Shoumou Sensen -Cathedral Edition- Full Voice Version]]（developer）
-- [[Mahou Shoujo Shoumou Sensen -Cathedral Edition- Full Voice Version]]（publisher）
-- [[Mahou Shoujo Shoumou Sensen -Cathedral Edition- Package Edition]]（developer）
-- [[Mahou Shoujo Shoumou Sensen -Cathedral Edition- Package Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Mahou Shoujo Shoumou Sensen another record -Chiisaki Mono-tachi no Yume- Download Edition]]（developer）
+- [[发行版/Mahou Shoujo Shoumou Sensen another record -Chiisaki Mono-tachi no Yume- Download Edition]]（publisher）
 - [[Mahou Shoujo Shoumou Sensen another record -Chiisaki Mono-tachi no Yume- Download Edition]]（developer）
 - [[Mahou Shoujo Shoumou Sensen another record -Chiisaki Mono-tachi no Yume- Download Edition]]（publisher）
-- [[Mahou Shoujo Shoumou Sensen another record -Chiisaki Mono-tachi no Yume- Package Edition]]（developer）
-- [[Mahou Shoujo Shoumou Sensen another record -Chiisaki Mono-tachi no Yume- Package Edition]]（publisher）
 - [[魔法少女消耗戦線 another record -ちいさきものたちのゆめ-]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

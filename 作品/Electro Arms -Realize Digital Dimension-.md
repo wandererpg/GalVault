@@ -88,13 +88,9 @@ cover_image: "assets/covers/v12487.webp"
 - [[Yuzuki Kaname]]（柚木 かなめ）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Electro Arms -Realize Digital Dimension- Download Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Electro Arms -Realize Digital Dimension- First Press Edition]]
 - [[Electro Arms -Realize Digital Dimension- First Press Edition]]
-- [[Electro Arms -Realize Digital Dimension- H-scene Trial Edition]]
-- [[Electro Arms -Realize Digital Dimension- Regular Edition]]
-- [[Electro Arms -Realize Digital Dimension- Trial Edition ver.1]]
-- [[Electro Arms -Realize Digital Dimension- Trial Edition ver.2]]
-- [[Electro Arms -Realize Digital Dimension- Trial Edition ver.3]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

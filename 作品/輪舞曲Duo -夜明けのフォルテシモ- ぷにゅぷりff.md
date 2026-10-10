@@ -66,12 +66,8 @@ cover_image: "assets/covers/v16266.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Lunwuqu Duo]]
-- [[Rondo Duo -Baile al Amanecer-]]
-- [[Rondo Duo -Yoake no Fortissimo- Punyu Puri ff - Download Edition]]
-- [[Rondo Duo -Yoake no Fortissimo- Punyu Puri ff - Package Edition]]
-- [[Rondo Duo -Yoake no Fortissimo- Punyu Puri ff - Toranoana Edition]]
-- [[Rondo Duo -Yoake no Fortissimo- Punyu Puri ff - Trial Edition]]
-- [[Rondo Duo -Yoake no Fortissimo- Punyu Puri ff]]<!-- AUTO:END release -->
+- [[发行版/Lunwuqu Duo]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

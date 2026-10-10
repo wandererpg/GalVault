@@ -12,9 +12,8 @@ source_urls:
 # NetEase Games
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Shi Kong Zhong de Hui Luren]]（developer）
-- [[Shi Kong Zhong de Hui Luren]]（publisher）
-- [[Shi Kong Zhong de Hui Luren（NetEase Games・release：）]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Shi Kong Zhong de Hui Luren（NetEase Games）]]（developer）
+- [[发行版/Shi Kong Zhong de Hui Luren（NetEase Games）]]（publisher）
 - [[Shi Kong Zhong de Hui Luren（NetEase Games）]]（developer）
 - [[Shi Kong Zhong de Hui Luren（NetEase Games）]]（publisher）
 - [[时空中的绘旅人]]（developer）<!-- AUTO:END duty -->

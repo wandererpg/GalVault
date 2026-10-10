@@ -12,7 +12,7 @@ source_urls:
 # Heiyao Qu Weiyuanhui
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Blackish House ←sideZ（Heiyao Qu Weiyuanhui）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Blackish House sideA→ -Retour-（Justdan）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

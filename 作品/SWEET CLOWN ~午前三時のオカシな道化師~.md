@@ -83,10 +83,8 @@ cover_image: "assets/covers/v16460.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[SWEET CLOWN ~Gozen San-ji no Okashi na Doukeshi~ Download Edition]]
-- [[SWEET CLOWN ~Gozen San-ji no Okashi na Doukeshi~（Takuyo Co., Ltd）]]
-- [[SWEET CLOWN ～Wuye Sandian de Quqi Daohuashi～]]
-- [[Sweet Clown ~Gozen San-ji no Okashi na Doukeshi~ Download Edition（Takuyo Co., Ltd）]]
-- [[Sweet Clown ~Gozen San-ji no Okashi na Doukeshi~]]<!-- AUTO:END release -->
+- [[发行版/SWEET CLOWN ~Gozen San-ji no Okashi na Doukeshi~ Download Edition]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

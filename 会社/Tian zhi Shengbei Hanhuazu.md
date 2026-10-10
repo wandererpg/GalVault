@@ -12,18 +12,14 @@ source_urls:
 # Tian zhi Shengbei Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Dongtian de Huangyan -Snow World End-]]（publisher）
-- [[Gongjie Qingyuan de Jianwu Lianqu -Chun Lian'ge- Trial Version]]（publisher）
-- [[Gongjie Qingyuan de Jianwu Lianqu -Chun Lian'ge-]]（publisher）
-- [[Jingqing Angshou Kan Na Mantian Fanxing Interstellar Focus]]（publisher）
-- [[Liuxing·Shijie Yanyi Zhe  V0.99 All route trial Version]]（publisher）
-- [[Liuxing·Shijie Yanyi Zhe]]（publisher）
-- [[Qingniao -Chinese Translation Patch for Steam version]]（publisher）
-- [[Qingniao]]（publisher）
-- [[Qingniao（Tian zhi Shengbei Hanhuazu）]]（publisher）
-- [[Qiyi Endian： Shengye de Xiaozhen]]（publisher）
-- [[Wei Wo de Gongzhu Xianshang Rongguan - Trial Version]]（publisher）
-- [[Yu Ni Xin Xianglian]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Fuyu Uso -Snow World End- Dakimakura Cover Included Deluxe Limited Edition]]（publisher）
+- [[发行版/Kizuna Kirameku Koi Iroha -Tsubaki Renka- Original Work Bundled Edition]]（publisher）
+- [[发行版/Miagete Goran, Yozora no Hoshi o： Interstellar Focus - Download Edition]]（publisher）
+- [[发行版/Ryuusei World Actor - Dai Nana Kyouwakoku Boumei Pack]]（publisher）
+- [[发行版/Amatsutsumi + Aoi Tori - Amatsukago no Tori BOX（Purple software）]]（publisher）
+- [[发行版/Amazing Grace -What color is your attribute？- Package Edition]]（publisher）
+- [[发行版/Waga Himegimi ni Eikan o - Download Edition]]（publisher）
+- [[发行版/Pure x Connect - First Press Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

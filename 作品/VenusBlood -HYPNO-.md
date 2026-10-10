@@ -133,31 +133,9 @@ cover_image: "assets/covers/v15641.webp"
 - [[Togashi Kei]]（富樫 ケイ）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[VenusBlood -HYPNO- AVG Trial Edition]]
-- [[VenusBlood -HYPNO- Download Edition]]
-- [[VenusBlood -HYPNO- SLG Trial Edition]]
-- [[VenusBlood -HYPNO-]]
-- [[VenusBlood -HYPNO-（VBH Hanhua Weiyuanhui）]]
-- [[VenusBlood -HYPNO-（dualtail）]]
-- [[VenusBlood -HYPNO-（release：）]]
-- [[VenusBlood Anniversary Pack]]
-- [[VenusBlood HOLLOW International - 18+ DLsite Edition]]
-- [[VenusBlood HOLLOW International - 18+ Edition]]
-- [[VenusBlood HOLLOW International - 18+ Edition（dualtail）]]
-- [[VenusBlood HOLLOW International - 18+ Patch]]
-- [[VenusBlood HOLLOW International - 18+]]
-- [[VenusBlood HOLLOW International - All-ages Edition]]
-- [[VenusBlood HOLLOW International - All-ages Edition（dualtail）]]
-- [[VenusBlood HOLLOW International - Package Edition]]
-- [[VenusBlood HOLLOW International - R18 Patch for DL Edition]]
-- [[VenusBlood HOLLOW International - R18 Patch for DL Edition（Kagura Games）]]
-- [[VenusBlood HOLLOW International - R18 Patch for DVD Package]]
-- [[VenusBlood HOLLOW International - SRPG Trial Edition ENG Ver]]
-- [[VenusBlood HOLLOW International - SRPG Trial Edition]]
-- [[VenusBlood HOLLOW International - SRPG Trial Edition（dualtail）]]
+<!-- AUTO:BEGIN release -->- [[发行版/VenusBlood HOLLOW International - Steam Edition]]
 - [[VenusBlood HOLLOW International - Steam Edition]]
-- [[ninetail - Integral Pack - Last Sales Edition]]
-- [[ninetail - Integral Pack]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

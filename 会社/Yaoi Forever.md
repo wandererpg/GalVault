@@ -12,10 +12,10 @@ source_urls:
 # Yaoi Forever
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[DRAMAtical Murder re：connect（Yaoi Forever）]]（publisher）
-- [[DRAMAtical Murder（Yaoi Forever）]]（publisher）
-- [[Lamento -Beyond the Void-]]（publisher）
-- [[Sweet Pool]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/DRAMAtical Murder re：connect]]（publisher）
+- [[发行版/DRAMAtical Murder re：code - Regular Edition]]（publisher）
+- [[发行版/Lamento -BEYOND THE VOID- Windows 10 Support Edition - Download Edition]]（publisher）
+- [[发行版/sweet pool Remaster]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

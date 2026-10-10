@@ -12,9 +12,9 @@ source_urls:
 # Dysin Information Corp.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Yinghua Dazhan 2 ~Yuan Jun Ping'an~]]（publisher）
-- [[Yinghua Dazhan 3 ~Paris zai Ranshao ma~（Dysin Information Corp）]]（publisher）
-- [[Yinghua Dazhan（Dysin Information Corp）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Yinghua Langman He]]（publisher）
+- [[发行版/Sakura Daejeon 3 ~ Palineun Bultago Issneunga ~]]（publisher）
+- [[发行版/Sakura Taisen]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

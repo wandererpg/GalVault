@@ -12,8 +12,8 @@ source_urls:
 # Soulhunter no Fansub
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[DRACU-RIOT!（release：）]]（publisher）
-- [[Winter Memories（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/DRACU-RIOT! - Censored Edition]]（publisher）
+- [[发行版/Amaenbo Fuyu - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

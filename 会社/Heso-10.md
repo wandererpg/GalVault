@@ -12,8 +12,8 @@ source_urls:
 # Heso-10
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Management - Trial Ver02]]（developer）
-- [[Management - Trial Ver02]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Management]]（developer）
+- [[发行版/Management]]（publisher）
 - [[Management]]（developer）
 - [[Management]]（publisher）
 - [[マネジメント]]（developer）<!-- AUTO:END duty -->

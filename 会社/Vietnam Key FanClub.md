@@ -12,17 +12,13 @@ source_urls:
 # Vietnam Key FanClub
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[AIR - Standard Edition]]（publisher）
-- [[Angel Beats! -1st beat-（Vietnam Key FanClub）]]（publisher）
-- [[Clannad - Steam Edition（Vietnam Key FanClub）]]（publisher）
-- [[Clannad ~tease patch~]]（publisher）
-- [[Clannad（Sonako-Hako）]]（publisher）
-- [[Kanon - Regular Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/AIR（Key）]]（publisher）
+- [[发行版/Angel Beats! -1st beat-]]（publisher）
+- [[发行版/CLANNAD（Hikarizaka Gaoxiao Zhongwen Bu）]]（publisher）
+- [[发行版/Kanon（Key）]]（publisher）
 - [[Little Busters!]]（publisher）
-- [[Rewrite+ Steam Edition]]（publisher）
-- [[Rewrite（Vietnam Key FanClub・release：）]]（publisher）
-- [[Rewrite（Vietnam Key FanClub）]]（publisher）
-- [[Stella Mạt Thế]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Rewrite - Download Edition（Key）]]（publisher）
+- [[发行版/Tsui no Stella]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

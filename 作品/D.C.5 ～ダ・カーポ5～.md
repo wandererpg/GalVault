@@ -111,25 +111,9 @@ cover_image: "assets/covers/v36687.webp"
 - [[Tsukino Kiiro]]（月野 きいろ）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Chuyin Dao 5]]
-- [[D.C.5 ~Da Capo 5~ Deluxe Limited Edition]]
-- [[D.C.5 ~Da Capo 5~ Download Edition]]
-- [[D.C.5 ~Da Capo 5~ Download Edition（ENTERGRAM・release：）]]
+<!-- AUTO:BEGIN release -->- [[发行版/D.C.5 ~Da Capo 5~ Download Edition（ENTERGRAM）]]
 - [[D.C.5 ~Da Capo 5~ Download Edition（ENTERGRAM）]]
-- [[D.C.5 ~Da Capo 5~ First Press Edition]]
-- [[D.C.5 ~Da Capo 5~ Limited Edition]]
-- [[D.C.5 ~Da Capo 5~ Limited Edition（ENTERGRAM）]]
-- [[D.C.5 ~Da Capo 5~ Plus Happiness (Kimi-K2-Instruct)]]
-- [[D.C.5 ~Da Capo 5~ Plus Happiness - Deluxe Limited Edition]]
-- [[D.C.5 ~Da Capo 5~ Plus Happiness - Download Edition]]
-- [[D.C.5 ~Da Capo 5~ Plus Happiness - First Press Edition]]
-- [[D.C.5 ~Da Capo 5~ Plus Happiness]]
-- [[D.C.5 ~Da Capo 5~ Regular Edition]]
-- [[D.C.5 ~Da Capo 5~ Regular Edition（ENTERGRAM）]]
-- [[D.C.5 ~Da Capo 5~ Trial Edition]]
-- [[D.C.5 ~Da Capo 5~ Trial Edition（ENTERGRAM・release：）]]
-- [[D.C.5 ~Da Capo 5~ Trial Edition（ENTERGRAM）]]
-- [[D.C.5 ~Da Capo 5~]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

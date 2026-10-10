@@ -12,7 +12,7 @@ source_urls:
 # Laimer_
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Ej, ljubi menja vser'joz!]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/BugBug 200 Anniversary DVD MiniMini AVG Collection Part 1（Minato Soft）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

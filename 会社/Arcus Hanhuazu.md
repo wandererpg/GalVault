@@ -12,7 +12,7 @@ source_urls:
 # Arcus Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Shizhong Jiguan de Ley-line -Canying zhi Ye jiang Ming shi-]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Package Edition（Unison Shift： Blossom・release：）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

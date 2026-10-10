@@ -15,3 +15,5 @@ Thumbs.db
 系统/工具/__pycache__/
 **/__pycache__/
 *.pyc
+系统/内容清理/vndb-empty-work-records.json
+系统/内容清理/manifest.json

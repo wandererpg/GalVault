@@ -30,7 +30,7 @@ portrait_image: "assets/characters/c48122.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Kin’iro no Corda 3 AnotherSky feat. Jinnan - Regular Edition]]（side）<!-- AUTO:END character -->
+<!-- AUTO:BEGIN character -->- [[发行版/Kin'iro no Corda 3 AnotherSky feat. Shiseikan - Regular Edition]]（side）<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Kuwashima Houko]]（声优：桑島 法子）<!-- AUTO:END voice -->

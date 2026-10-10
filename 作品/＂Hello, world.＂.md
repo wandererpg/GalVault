@@ -118,13 +118,9 @@ cover_image: "assets/covers/v431.webp"
 - [[Watanabe Misa]]（七瀬 舞）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[HelloWorld4ons]]
-- [[＂Hello, world.＂ - CSA Edition]]
-- [[＂Hello, world.＂ - DVD Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/＂Hello, world.＂ - First Press Limited Edition]]
 - [[＂Hello, world.＂ - First Press Limited Edition]]
-- [[＂Hello, world.＂ - Regular Edition]]
-- [[＂Hello, world.＂]]
-- [[＂Hello, world.＂（release：）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

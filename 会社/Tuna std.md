@@ -12,7 +12,7 @@ source_urls:
 # Tuna std.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Remember11 -The Age of Infinity- RC1]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Remember11 -The Age of Infinity- Download Edition（MAGES）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

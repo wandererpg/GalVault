@@ -126,24 +126,9 @@ cover_image: "assets/covers/v893.webp"
 - [[Watanabe Naoko]]（渡辺菜生子）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[SNOW - PS2 Voices Mod Demo]]
-- [[SNOW Special CD-ROM]]
-- [[SNOW Xiedai Ban]]
-- [[SNOW ~Plus Edition~]]
-- [[SNOW（Studio Mebius）]]
-- [[SNOW（Visual Art's Motto）]]
-- [[Snow - CD Edition]]
-- [[Snow - DVD Edition]]
-- [[Snow - First Press Limited Edition]]
-- [[Snow - Regular Edition]]
-- [[Snow ~Full Voice Version~]]
-- [[Snow ~Plus Edition~（Snowy Ryujin TL）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Snow ~Portable~ Download Edition]]
 - [[Snow ~Portable~ Download Edition]]
-- [[Snow ~Portable~]]
-- [[Snow ~Standard Edition~]]
-- [[SnowPE]]
-- [[SnowSE]]
-- [[Snow]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

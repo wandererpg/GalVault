@@ -12,12 +12,11 @@ source_urls:
 # A·T·Field
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Mofashi zhi Ye]]（publisher）
-- [[Rewrite+（A·T·Field）]]（publisher）
-- [[Rewrite（A·T·Field）]]（publisher）
-- [[Shaonü Aishang Jiejie 2]]（publisher）
-- [[Shizhong Jiguan de Ley-line -Canying zhi Ye jiang Ming shi-]]（publisher）
-- [[Shizhong Jiguan de Ley-line -Zhaowu zhong Piaoling zhi Hua-]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Mahoutsukai no Yoru]]（publisher）
+- [[发行版/Rewrite - Download Edition（Key）]]（publisher）
+- [[发行版/Otome wa Boku ni Koishiteru ~Futari no Elder~ Portable]]（publisher）
+- [[发行版/Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Package Edition（Unison Shift： Blossom・release：）]]（publisher）
+- [[发行版/Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Package Edition（Unison Shift： Blossom）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

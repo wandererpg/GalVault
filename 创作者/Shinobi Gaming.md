@@ -12,8 +12,8 @@ source_urls:
 # Shinobi Gaming
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Being a DIK v0.8.2（release：）]]（publisher）
-- [[Summer's Gone： Chapter 4.5]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Being a DIK Season 1-3 Ep. 1-11 v.0.11.1]]（publisher）
+- [[发行版/Ischeznovenie Sammer S1 + S1 Steam]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

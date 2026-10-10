@@ -53,10 +53,8 @@ cover_image: "assets/covers/v2567.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Kurai Nichiyoubi - Sombre Dimanche - Download Edition]]
-- [[Kurai Nichiyoubi - Sombre Dimanche - Trial Edition]]
-- [[Kurai Nichiyoubi - Sombre Dimanche -]]
-- [[Kurai Nichiyoubi - Sombre Dimanche]]
-- [[Kurai Nichiyoubi -Sombre Dimanche- Package Edition]]<!-- AUTO:END release -->
+- [[发行版/Kurai Nichiyoubi - Sombre Dimanche - Download Edition]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

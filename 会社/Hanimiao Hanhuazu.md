@@ -12,16 +12,16 @@ source_urls:
 # Hanimiao Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Bunny Black 2（Hanimiao Hanhuazu）]]（publisher）
-- [[Bunny Black 3 Regular Chinese Patch]]（publisher）
-- [[Chuangke de Dongmai（Hanimiao Hanhuazu）]]（publisher）
-- [[Galzoo Chinese Edition]]（publisher）
-- [[Lansi 03]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/BUNNYBLACK2]]（publisher）
+- [[发行版/BUNNYBLACK3]]（publisher）
+- [[发行版/Arterii Istoka]]（publisher）
+- [[发行版/Galzoo Island - Low Price Edition]]（publisher）
+- [[发行版/Rance 03 -The Fall of Leazas- Limited Edition]]（publisher）
 - [[Lansi 6]]（publisher）
-- [[Lansi 8]]（publisher）
+- [[发行版/Rance Quest Magnum - Package Edition]]（publisher）
 - [[Lunwuqu Duo]]（publisher）
-- [[Qizhongmi 3 V0.8]]（publisher）
-- [[Xiawa Niandaiji]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Tsumamigui 3 - Download Edition（Alice Soft）]]（publisher）
+- [[发行版/Evenicle - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

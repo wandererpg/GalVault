@@ -31,8 +31,8 @@ portrait_image: "assets/characters/c4057.webp"
 
 ## 出场作品
 <!-- AUTO:BEGIN character -->- [[D.C. II P.C. ~Da Capo II~ Plus Communication - Regular Edition]]（primary）
-- [[D.C. II P.S. ~Da Capo II~ Plus Situation - Regular Edition]]（primary）
-- [[D.C. II ~Da Capo II~ Regular Edition]]（side）<!-- AUTO:END character -->
+- [[发行版/D.C. II P.C. ~Da Capo II~ Plus Communication - Regular Edition]]（primary）
+- [[发行版/D.C. II P.C. ~Da Capo II~ Plus Communication - Regular Edition]]（side）<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Maki Izumi]]（声优：まき いづみ）<!-- AUTO:END voice -->

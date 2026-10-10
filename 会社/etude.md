@@ -12,18 +12,10 @@ source_urls:
 # etude
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Etude 10th Anniversary Collector’s Edition - Download Edition]]（developer）
-- [[Etude 10th Anniversary Collector’s Edition - Download Edition]]（publisher）
-- [[Etude 10th Anniversary Collector’s Edition]]（developer）
-- [[Etude 10th Anniversary Collector’s Edition]]（publisher）
-- [[Nanatsu no Fushigi no Owaru Toki - Download Edition]]（developer）
-- [[Nanatsu no Fushigi no Owaru Toki - Download Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Nanatsu no Fushigi no Owaru Toki - First Press Limited Edition]]（developer）
+- [[发行版/Nanatsu no Fushigi no Owaru Toki - First Press Limited Edition]]（publisher）
 - [[Nanatsu no Fushigi no Owaru Toki - First Press Limited Edition]]（developer）
 - [[Nanatsu no Fushigi no Owaru Toki - First Press Limited Edition]]（publisher）
-- [[Nanatsu no Fushigi no Owaru Toki - Trial Edition 01]]（developer）
-- [[Nanatsu no Fushigi no Owaru Toki - Trial Edition 01]]（publisher）
-- [[Nanatsu no Fushigi no Owaru Toki - Trial Edition 02]]（developer）
-- [[Nanatsu no Fushigi no Owaru Toki - Trial Edition 02]]（publisher）
 - [[七之不思議終結之時]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

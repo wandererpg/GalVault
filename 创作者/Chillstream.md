@@ -12,8 +12,8 @@ source_urls:
 # Chillstream
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Far Away]]（publisher）
-- [[Noctuary]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Haisha Fengyun - Far Away]]（publisher）
+- [[发行版/Meng Deng Hua - Download Edition（Yi Mei Gongzuoshi）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

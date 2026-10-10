@@ -12,12 +12,12 @@ source_urls:
 # LarkyLabs
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Oathbreaker Season 1]]（developer）
-- [[Oathbreaker Season 1]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Oathbreaker]]（developer）
+- [[发行版/Oathbreaker]]（publisher）
 - [[Oathbreaker]]（developer）
 - [[Oathbreaker]]（publisher）
-- [[Oathbreaker： Season 2 - SFW Edition]]（developer）
-- [[Oathbreaker： Season 2 - SFW Edition]]（publisher）
+- [[发行版/Oathbreaker： Season 2]]（developer）
+- [[发行版/Oathbreaker： Season 2]]（publisher）
 - [[Oathbreaker： Season 2]]（developer）
 - [[Oathbreaker： Season 2]]（publisher）<!-- AUTO:END duty -->
 

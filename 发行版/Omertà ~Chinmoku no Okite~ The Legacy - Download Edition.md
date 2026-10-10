@@ -1,16 +1,96 @@
 ---
-entity_id: "release:vndb:r38229:work:vndb:work:v5243"
-type: "release"
-display_title: "Omertà ~Chinmoku no Okite~ The Legacy - Download Edition"
-release_date: "2014-11-20"
+entity_id: release:vndb:r38229:work:vndb:work:v5243
+type: release
+display_title: Omertà ~Chinmoku no Okite~ The Legacy - Download Edition
+release_date: '2014-11-20'
 is_all_ages: true
-platform: "psp"
-edition_type: "complete"
-title_status: "needs_review"
+platform: psp
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r38229"
+  vndb: r38229
 source_urls:
-  vndb: "https://vndb.org/r38229"
+  vndb: https://vndb.org/r38229
+aliases:
+- Omerta ~Chimmuk ui Gyuyul ~
+- Omerta～Chenmo de Faze
+- Omertà ~Chinmoku no Okite~
+- Omertà ~Chinmoku no Okite~ Download Edition
+- Omertà ~Chinmoku no Okite~ First Press Deluxe Edition
+- Omertà ~Chinmoku no Okite~ Regular Edition
+- Omertà ~Chinmoku no Okite~ The Legacy - Deluxe Edition
+- Omertà ~Chinmoku no Okite~ The Legacy - Regular Edition
+- Omertá ~Codeks molchaniya~
+consolidated_releases:
+- id: r38229
+  title: Omertà ~Chinmoku no Okite~ The Legacy - Download Edition
+  url: https://vndb.org/r38229
+  release_date: '2014-11-20'
+  platform: psp
+  edition_type: complete
+  is_all_ages: true
+- id: r34482
+  title: Omertà ~Chinmoku no Okite~ The Legacy - Regular Edition
+  url: https://vndb.org/r34482
+  release_date: '2014-11-20'
+  platform: psp
+  edition_type: complete
+  is_all_ages: true
+- id: r35974
+  title: Omertà ~Chinmoku no Okite~ The Legacy - Deluxe Edition
+  url: https://vndb.org/r35974
+  release_date: '2014-11-20'
+  platform: psp
+  edition_type: complete
+  is_all_ages: true
+- id: r10027
+  title: Omertà ~Chinmoku no Okite~ First Press Deluxe Edition
+  url: https://vndb.org/r10027
+  release_date: '2011-04-22'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r84603
+  title: Omertà ~Chinmoku no Okite~ Download Edition
+  url: https://vndb.org/r84603
+  release_date: '2017-02-24'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r16018
+  title: Omertà ~Chinmoku no Okite~ Regular Edition
+  url: https://vndb.org/r16018
+  release_date: '2011-10-14'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r133442
+  title: Omerta～Chenmo de Faze
+  url: https://vndb.org/r133442
+  release_date: '2018-08-06'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+- id: r153512
+  title: Omertá ~Codeks molchaniya~
+  url: https://vndb.org/r153512
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r98405
+  title: Omerta ~Chimmuk ui Gyuyul ~
+  url: https://vndb.org/r98405
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r52001
+  title: Omertà ~Chinmoku no Okite~
+  url: https://vndb.org/r52001
+  release_date: '2018-10-18'
+  platform: win
+  edition_type: partial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Omertà ~Chinmoku no Okite~ The Legacy - Download Edition

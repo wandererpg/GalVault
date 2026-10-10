@@ -12,7 +12,7 @@ source_urls:
 # IACG Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Shaonü Aishang Jiejie 2]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Otome wa Boku ni Koishiteru ~Futari no Elder~ Portable]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

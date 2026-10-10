@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r67160:work:vndb:work:v24870"
-type: "release"
-display_title: "Waka-sama no Zasuru Sekai - Download Edition"
-release_date: "2019-11-15"
+entity_id: release:vndb:r67160:work:vndb:work:v24870
+type: release
+display_title: Waka-sama no Zasuru Sekai - Download Edition
+release_date: '2019-11-15'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r67160"
+  vndb: r67160
 source_urls:
-  vndb: "https://vndb.org/r67160"
+  vndb: https://vndb.org/r67160
+aliases:
+- Waka-sama no Zasuru Sekai
+- Waka-sama no Zasuru Sekai - Trial
+consolidated_releases:
+- id: r67160
+  title: Waka-sama no Zasuru Sekai - Download Edition
+  url: https://vndb.org/r67160
+  release_date: '2019-11-15'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r60998
+  title: Waka-sama no Zasuru Sekai
+  url: https://vndb.org/r60998
+  release_date: '2019-04-26'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r60997
+  title: Waka-sama no Zasuru Sekai - Trial
+  url: https://vndb.org/r60997
+  release_date: '2018-12-14'
+  platform: win
+  edition_type: trial
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Waka-sama no Zasuru Sekai - Download Edition

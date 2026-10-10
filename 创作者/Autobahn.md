@@ -14,8 +14,8 @@ source_urls:
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[LOVEMILF2 - Download Edition]]（developer）
 - [[LOVEMILF2 - Download Edition]]（publisher）
-- [[LOVEMILF2 - Package Edition]]（developer）
-- [[LOVEMILF2 - Package Edition]]（publisher）
+- [[发行版/LOVEMILF2 - Download Edition]]（developer）
+- [[发行版/LOVEMILF2 - Download Edition]]（publisher）
 - [[LOVEMILF2]]（developer）<!-- AUTO:END duty -->
 
 ## 创作与出演

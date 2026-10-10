@@ -14,14 +14,8 @@ source_urls:
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Melancholic Dreamtower - Download Edition]]（developer）
 - [[Melancholic Dreamtower - Download Edition]]（publisher）
-- [[Melancholic Dreamtower - Free Edition]]（developer）
-- [[Melancholic Dreamtower - Free Edition]]（publisher）
-- [[Melancholic Dreamtower - Package Edition]]（developer）
-- [[Melancholic Dreamtower - Package Edition]]（publisher）
-- [[Melancholic Dreamtower - Trial Edition]]（developer）
-- [[Melancholic Dreamtower - Trial Edition]]（publisher）
-- [[Melancholic Dreamtower]]（developer）
-- [[Melancholic Dreamtower]]（publisher）
+- [[发行版/Melancholic Dreamtower - Download Edition]]（developer）
+- [[发行版/Melancholic Dreamtower - Download Edition]]（publisher）
 - [[メランコリック・ドリィムタワー]]（developer）<!-- AUTO:END duty -->
 
 ## 创作与出演

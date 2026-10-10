@@ -63,23 +63,9 @@ cover_image: "assets/covers/v20406.webp"
 - [[Nakamura Asami]]（橘 まお）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[ALL×CATION（hibiki works・release：）]]
-- [[BugBug 2017 07 ＂Niizuma Lovely x Cation＂ Append Life]]
-- [[BugBug 2018 01 25 Years Anniversary DVD Append H Disk Part 3]]
-- [[Niizuma Lovely x Cation - Append Life Vol.1]]
-- [[Niizuma Lovely x Cation - Append Life Vol.2]]
-- [[Niizuma Lovely x Cation - Append Life Vol.3]]
-- [[Niizuma Lovely x Cation - Append Life Vol.4]]
-- [[Niizuma Lovely x Cation - Append Life Vol.5]]
-- [[Niizuma Lovely x Cation - Append Life Vol.6]]
-- [[Niizuma Lovely x Cation - Download Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Niizuma Lovely x Cation - First Press Limited Edition]]
 - [[Niizuma Lovely x Cation - First Press Limited Edition]]
-- [[Niizuma Lovely x Cation - Trial Edition]]
-- [[Niizuma Lovely x Cation]]
-- [[Niizuma Lovely x Cation（Xinyuanwu Hanhuazu）]]
-- [[Niizuma Lovely x Cation（release：）]]
-- [[Xin Qi Lovely Cation - Chinese Trial Edition]]
-- [[Xin Qi Lovely Cation]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

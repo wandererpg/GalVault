@@ -12,7 +12,7 @@ source_urls:
 # LatinBros
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Demon Deals - v0.1]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Demon Deals - v0.07.25]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

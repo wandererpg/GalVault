@@ -12,12 +12,11 @@ source_urls:
 # devseed
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[AIR Waizhuan Chukong Zhi Zhang]]（publisher）
-- [[AIR（vndb：r12）]]（publisher）
-- [[Flowers Dong]]（publisher）
-- [[Flowers Qiu]]（publisher）
-- [[Flowers Xia]]（publisher）
-- [[Qiu zhi Huiyi 4 ONS]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/AIR（Key）]]（publisher）
+- [[发行版/Flowers -Le Volume sur Hiver- Download Edition]]（publisher）
+- [[发行版/Flowers -Le Volume sur Automne- Download Edition]]（publisher）
+- [[发行版/Flowers -Le Volume sur Été- Download Edition（PROTOTYPE）]]（publisher）
+- [[发行版/Memories Off Historia - Super Limited Edition（MAGES）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

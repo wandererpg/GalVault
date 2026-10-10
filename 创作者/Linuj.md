@@ -12,8 +12,8 @@ source_urls:
 # Linuj
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Super Danganronpa Another 2 ~Huimangui Dalgwa Jeolmangui Taeyang~ Complete Edition]]（developer）
-- [[Super Danganronpa Another 2 ~Huimangui Dalgwa Jeolmangui Taeyang~ Complete Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Super Danganronpa Another 2 ~Huimangui Dalgwa Jeolmangui Taeyang~]]（developer）
+- [[发行版/Super Danganronpa Another 2 ~Huimangui Dalgwa Jeolmangui Taeyang~]]（publisher）
 - [[Super Danganronpa Another 2 ~Huimangui Dalgwa Jeolmangui Taeyang~]]（developer）
 - [[Super Danganronpa Another 2 ~Huimangui Dalgwa Jeolmangui Taeyang~]]（publisher）<!-- AUTO:END duty -->
 

@@ -12,8 +12,8 @@ source_urls:
 # Liang-ge Ren Hanhua
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Mingqi de Mushenjie v1.0]]（publisher）
-- [[Mingqi de Mushenjie]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Meikei no Lupercalia - Download Edition（Uguisu Kagura）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

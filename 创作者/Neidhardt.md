@@ -12,17 +12,12 @@ source_urls:
 # Neidhardt
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[CHAOS;HEAD NOAH]]（publisher）
-- [[DRAMAtical Murder - JAST USA（release：）]]（publisher）
-- [[DRAMAtical Murder - Popular Edition(Download)（release：）]]（publisher）
-- [[DRAMAtical Murder - Popular Edition(Package)（release：）]]（publisher）
-- [[DRAMAtical Murder - Steam（release：）]]（publisher）
-- [[Lucky Dog 1（release：）]]（publisher）
-- [[Lucky Dog 1（vndb：r14）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Chaos;Head Noah - Regular Edition]]（publisher）
+- [[发行版/DRAMAtical Murder re：code - Regular Edition]]（publisher）
+- [[发行版/Luckydog1 - Download Edition（PROTOTYPE）]]（publisher）
 - [[Slow Damage - JAST]]（publisher）
-- [[Slow Damage（vndb：r86）]]（publisher）
-- [[sweet pool - JAST（release：）]]（publisher）
-- [[sweet pool - Steam]]（publisher）
+- [[发行版/Slow Damage - JAST]]（publisher）
+- [[发行版/sweet pool Remaster]]（publisher）
 - [[sweet pool Remaster]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演

@@ -32,11 +32,9 @@ portrait_image: "assets/characters/c1875.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Key 10th Memorial BOX（Key・：work：v5）]]（primary）
-- [[Little Busters! Ecstasy - First Press Limited Edition]]（primary）
-- [[Little Busters! Ecstasy - Regular Edition]]（primary）
+<!-- AUTO:BEGIN character -->- [[发行版/Little Busters! English Edition（Key）]]（primary）
 - [[Little Busters! English Edition（Key）]]（primary）
-- [[Little Busters! Perfect Edition - TV Anime Commemorative Edition]]（primary）<!-- AUTO:END character -->
+<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Minami Rio]]（声优：風音）<!-- AUTO:END voice -->

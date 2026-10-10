@@ -58,10 +58,9 @@ cover_image: "assets/covers/v26008.webp"
 - [[Warabi Keiichi]]（蕨 圭市）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[LIKE×LOVE ~Totsukawa Hikaru~ the BEST DVDPG]]
+<!-- AUTO:BEGIN release -->- [[发行版/Like x Love ~Totsukawa Hikaru~ DVDPG]]
 - [[Like x Love ~Totsukawa Hikaru~ DVDPG]]
-- [[Like x Love ~Totsukawa Hikaru~ Download Edition]]
-- [[Like x Love ~Totsukawa Hikaru~ Package Edition]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

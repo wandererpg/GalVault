@@ -14,8 +14,8 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[BALDR SKY Dive1 ＂Lost Memory＂]]（publisher）
 - [[BALDR SKY Dive2 ＂RECORDARE＂]]（publisher）
-- [[Baldr Sky Demo]]（publisher）
-- [[Utawarerumono： Mask of Deception]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Baldr Sky Dive1 ＂Lost Memory＂ - First Press Edition]]（publisher）
+- [[发行版/Chingsongbadneun Ja： Geojis-ui Gamyeon - Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

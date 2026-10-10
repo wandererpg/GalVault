@@ -1,16 +1,58 @@
 ---
-entity_id: "release:vndb:r22899:work:vndb:work:v11194"
-type: "release"
-display_title: "LOVESICK PUPPIES -Bokura wa Koi Suru Tame ni Umaretekita- First Press Limited Edition"
-release_date: "2013-03-22"
+entity_id: release:vndb:r22899:work:vndb:work:v11194
+type: release
+display_title: LOVESICK PUPPIES -Bokura wa Koi Suru Tame ni Umaretekita- First Press Limited Edition
+release_date: '2013-03-22'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r22899"
+  vndb: r22899
 source_urls:
-  vndb: "https://vndb.org/r22899"
+  vndb: https://vndb.org/r22899
+aliases:
+- Lovesick Puppies -Bokura wa Koi Suru Tame ni Umaretekita-
+- LOVESICK PUPPIES -Bokura wa Koi Suru Tame ni Umaretekita- Download Edition
+- LOVESICK PUPPIES -Bokura wa Koi Suru Tame ni Umaretekita- Trial Edition
+- Lovesick Puppies -Women weile Lian'ai er Dansheng-
+consolidated_releases:
+- id: r22899
+  title: LOVESICK PUPPIES -Bokura wa Koi Suru Tame ni Umaretekita- First Press Limited Edition
+  url: https://vndb.org/r22899
+  release_date: '2013-03-22'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r30196
+  title: LOVESICK PUPPIES -Bokura wa Koi Suru Tame ni Umaretekita- Download Edition
+  url: https://vndb.org/r30196
+  release_date: '2013-10-25'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r45924
+  title: Lovesick Puppies -Women weile Lian'ai er Dansheng-
+  url: https://vndb.org/r45924
+  release_date: '2016-04-17'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r76052
+  title: Lovesick Puppies -Bokura wa Koi Suru Tame ni Umaretekita-
+  url: https://vndb.org/r76052
+  release_date: '2013-04-14'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r23425
+  title: LOVESICK PUPPIES -Bokura wa Koi Suru Tame ni Umaretekita- Trial Edition
+  url: https://vndb.org/r23425
+  release_date: '2012-10-24'
+  platform: win
+  edition_type: trial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # LOVESICK PUPPIES -Bokura wa Koi Suru Tame ni Umaretekita- First Press Limited Edition

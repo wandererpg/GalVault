@@ -103,9 +103,7 @@ cover_image: "assets/covers/v47769.webp"
 - [[Yotsuya Cider]]（興津 和幸）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Neon Clash -Echoes of the Lost-]]
-- [[Neon Clash -Echoes of the Lost-（Voltage Inc）]]
-- [[Nihong Sanguo -Echoes of the Lost- Limited Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Nihong Sanguo -Echoes of the Lost- Regular Edition]]
 - [[Nihong Sanguo -Echoes of the Lost- Regular Edition]]<!-- AUTO:END release -->
 
 ## 动画化

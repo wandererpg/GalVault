@@ -1,16 +1,34 @@
 ---
-entity_id: "release:vndb:r79374:work:vndb:work:v30994"
-type: "release"
-display_title: "Project: Eden's Garden: Chapters 0-1"
-release_date: "2024-12-20"
+entity_id: release:vndb:r79374:work:vndb:work:v30994
+type: release
+display_title: 'Project: Eden''s Garden: Chapters 0-1'
+release_date: '2024-12-20'
 is_all_ages: true
-platform: "win"
-edition_type: "partial"
-title_status: "needs_review"
+platform: win
+edition_type: partial
+title_status: needs_review
 source_ids:
-  vndb: "r79374"
+  vndb: r79374
 source_urls:
-  vndb: "https://vndb.org/r79374"
+  vndb: https://vndb.org/r79374
+aliases:
+- Project： Eden's Garden： Chapter 0
+consolidated_releases:
+- id: r79374
+  title: 'Project: Eden''s Garden: Chapters 0-1'
+  url: https://vndb.org/r79374
+  release_date: '2024-12-20'
+  platform: win
+  edition_type: partial
+  is_all_ages: true
+- id: r106313
+  title: 'Project: Eden''s Garden: Chapter 0'
+  url: https://vndb.org/r106313
+  release_date: '2023-01-25'
+  platform: win
+  edition_type: partial
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Project: Eden's Garden: Chapters 0-1

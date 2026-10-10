@@ -31,7 +31,7 @@ portrait_image: "assets/characters/c96929.webp"
 
 ## 出场作品
 <!-- AUTO:BEGIN character -->- [[Doukyuusei 2 - Extra Box]]（primary）
-- [[Doukyuusei 2（elf・rk：v2337）]]（primary）<!-- AUTO:END character -->
+- [[发行版/Doukyuusei 2 - Extra Box]]（primary）<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Fujino Kaoru]]（声优：藤野 かほる）<!-- AUTO:END voice -->

@@ -13,13 +13,9 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Chaos;Head Noah - Regular Edition]]（developer）
-- [[Hundun zhi Zi - Download Edition]]（publisher）
-- [[Hundun zhi Zi - Download Edition（MAGES）]]（publisher）
-- [[Hundun zhi Zi - Package Edition]]（publisher）
+- [[发行版/Hundun zhi Zi - Package Edition（MAGES）]]（publisher）
 - [[Hundun zhi Zi - Package Edition（MAGES）]]（publisher）
-- [[Nanairo Reincarnation - Download Edition（SILKY'S PLUS ALPHA）]]（publisher）
-- [[Nanairo Reincarnation - Limited Edition]]（publisher）
-- [[Nanairo Reincarnation - Regular Edition]]（publisher）
+- [[发行版/Nanairo Reincarnation Akeiro Kaikitan Multi-pack]]（publisher）
 - [[混沌之脑：诺亚]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

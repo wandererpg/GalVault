@@ -172,28 +172,9 @@ cover_image: "assets/covers/v25635.webp"
 - [[Yukito Saori]]（雪都 さお梨）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Ai Shang Huoche - Last Run!! - R18 Patch]]
-- [[Maitetsu - Last Run!! - Download Edition]]
-- [[Maitetsu - Last Run!! - Trial Edition]]
-- [[Maitetsu - Last Run!! Male-free CG Patch]]
-- [[Maitetsu - Last Run!! Restoration + Nude Filter Patch]]
-- [[Maitetsu - Last Run!! Shinka Suru Complete Pack ［DLsite Gentei Tokuten Tsuki］（Lose）]]
-- [[Maitetsu - Last Run!! additional scenario patch]]
-- [[Maitetsu - Last Run!!]]
-- [[Maitetsu - Last Run!!（A／M Workshop）]]
-- [[Maitetsu - Last Run!!（Lose）]]
-- [[Maitetsu - Last Run!!（RealmOfMTL）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Maitetsu Complete Set（Lose）]]
 - [[Maitetsu Complete Set（Lose）]]
-- [[Maitetsu Last Run!!]]
-- [[Rail Romanesque Origin - Download Edition（RaRo）]]
-- [[Rail Romanesque origin - Deluxe Edition]]
-- [[Rail Romanesque origin - Deluxe Edition（RaRo）]]
-- [[Rail Romanesque origin - Download Edition]]
-- [[Rail Romanesque origin - Download Edition（RaRo・release：）]]
-- [[Rail Romanesque origin - Regular Edition]]
-- [[Rail Romanesque origin - Regular Edition（RaRo・release：）]]
-- [[Rail Romanesque origin - Regular Edition（RaRo）]]
-- [[Rail Romanesque origin]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

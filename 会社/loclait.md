@@ -12,7 +12,7 @@ source_urls:
 # loclait
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[The House in Fata Morgana]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Fata Morgana no Yakata -DREAMS OF THE REVENANTS EDITION- - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

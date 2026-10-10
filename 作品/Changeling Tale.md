@@ -47,12 +47,9 @@ cover_image: "assets/covers/v21616.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Changeling Tale - Demo Version 1.8.0d]]
-- [[Changeling Tale - Demo Version 1.8.0d（Helmet Fox Productions）]]
-- [[Changeling Tale v.0.7.7]]
+<!-- AUTO:BEGIN release -->- [[发行版/Changeling Tale]]
 - [[Changeling Tale]]
-- [[Changeling Tale（Helmet Fox Productions）]]
-- [[ChangelingTale Português Brasil translator]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

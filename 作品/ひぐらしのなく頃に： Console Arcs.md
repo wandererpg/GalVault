@@ -146,44 +146,9 @@ cover_image: "assets/covers/v31157.webp"
 - [[Yusa Kouji]]（遊佐 浩二）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Hanchan Mingqi zhi Shi Feng]]
-- [[Higurashi Project]]
-- [[Higurashi When They Cry - Kizuna]]
-- [[Higurashi no Naku Koro ni - Console Arcs Patch]]
-- [[Higurashi no Naku Koro ni - Console Arcs Patch（07th-Mod）]]
-- [[Higurashi no Naku Koro ni - Console Arcs Patch（Eiserne Jungfrau）]]
-- [[Higurashi no Naku Koro ni Hou + Origin]]
-- [[Higurashi no Naku Koro ni Hou + Origin（ENTERGRAM・vndb：r11）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Higurashi no Naku Koro ni Hou + Umineko no Naku Koro ni Saku - Twin Pack（ENTERGRAM・vndb：r11）]]
 - [[Higurashi no Naku Koro ni Hou + Umineko no Naku Koro ni Saku - Twin Pack（ENTERGRAM・vndb：r11）]]
-- [[Higurashi no Naku Koro ni Hou - Download Edition]]
-- [[Higurashi no Naku Koro ni Hou - Download Edition（ENTERGRAM・vndb：r96）]]
-- [[Higurashi no Naku Koro ni Hou - Limited Edition]]
-- [[Higurashi no Naku Koro ni Hou - Limited Edition（ENTERGRAM・vndb：r11）]]
-- [[Higurashi no Naku Koro ni Hou - Regular Edition]]
-- [[Higurashi no Naku Koro ni Hou - Regular Edition（ENTERGRAM・vndb：r59）]]
-- [[Higurashi no Naku Koro ni Hou - Rei 07th-Mod]]
-- [[Higurashi no Naku Koro ni Hou EG THE BEST]]
-- [[Higurashi no Naku Koro ni Hou EG THE BEST（ENTERGRAM・vndb：r11）]]
-- [[Higurashi no Naku Koro ni Hou（release：）]]
-- [[Higurashi no Naku Koro ni Kizuna Vol.1 & 2]]
-- [[Higurashi no Naku Koro ni Kizuna Vol.1 -Tatari- Limited Edition]]
-- [[Higurashi no Naku Koro ni Kizuna Vol.1 -Tatari- Regular Edition]]
-- [[Higurashi no Naku Koro ni Kizuna Vol.2 -Sou- Angel Mort Omochikaeri Box]]
-- [[Higurashi no Naku Koro ni Kizuna Vol.2 -Sou- Regular Edition]]
-- [[Higurashi no Naku Koro ni Kizuna Vol.3 -Rasen- Limited Edition Box]]
-- [[Higurashi no Naku Koro ni Kizuna Vol.3 -Rasen- Regular Edition]]
-- [[Higurashi no Naku Koro ni Kizuna Vol.4 -Kizuna- Limited Edition Box]]
-- [[Higurashi no Naku Koro ni Kizuna Vol.4 -Kizuna- Regular Edition]]
-- [[Higurashi no Naku Koro ni Matsuri - Omochikaeri~ Set]]
-- [[Higurashi no Naku Koro ni Matsuri - Regular Edition]]
-- [[Higurashi no Naku Koro ni Matsuri： Kakera Asobi (Append Version)]]
-- [[Higurashi no Naku Koro ni Matsuri： Kakera Asobi]]
-- [[Higurashi no Naku Koro ni Sui - Download Edition]]
-- [[Higurashi no Naku Koro ni Sui - Download Edition（ENTERGRAM・vndb：r13）]]
-- [[Higurashi no Naku Koro ni Sui]]
-- [[Higurashi no Naku Koro ni Sui（KAGA CREATE・vndb：r80）]]
-- [[Umineko Saku + Higurashi Hou + origin Naku Koro ni - Special Set（ENTERGRAM・vndb：r11）]]
-- [[［07-th mod］ Kogda plachut cikady]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

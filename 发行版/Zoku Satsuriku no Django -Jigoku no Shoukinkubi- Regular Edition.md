@@ -1,16 +1,58 @@
 ---
-entity_id: "release:vndb:r929:work:vndb:work:v428"
-type: "release"
-display_title: "Zoku Satsuriku no Django -Jigoku no Shoukinkubi- Regular Edition"
-release_date: "2007-07-27"
+entity_id: release:vndb:r929:work:vndb:work:v428
+type: release
+display_title: Zoku Satsuriku no Django -Jigoku no Shoukinkubi- Regular Edition
+release_date: '2007-07-27'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r929"
+  vndb: r929
 source_urls:
-  vndb: "https://vndb.org/r929"
+  vndb: https://vndb.org/r929
+aliases:
+- Xu Shalu zhi Django -Diyu Tongjifan-
+- Zoku Satsuriku no Django -Jigoku no Shoukinkubi
+- Zoku Satsuriku no Django -Jigoku no Shoukinkubi-
+- Zoku Satsuriku no Django -Jigoku no Shoukinkubi- Massacre Pack
+consolidated_releases:
+- id: r929
+  title: Zoku Satsuriku no Django -Jigoku no Shoukinkubi- Regular Edition
+  url: https://vndb.org/r929
+  release_date: '2007-07-27'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r930
+  title: Zoku Satsuriku no Django -Jigoku no Shoukinkubi- Massacre Pack
+  url: https://vndb.org/r930
+  release_date: '2007-07-27'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r145744
+  title: Zoku Satsuriku no Django -Jigoku no Shoukinkubi
+  url: https://vndb.org/r145744
+  release_date: '2025-12-09'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r78061
+  title: Zoku Satsuriku no Django -Jigoku no Shoukinkubi-
+  url: https://vndb.org/r78061
+  release_date: '2014-12-02'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r46998
+  title: Xu Shalu zhi Django -Diyu Tongjifan-
+  url: https://vndb.org/r46998
+  release_date: '2016-06-29'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Zoku Satsuriku no Django -Jigoku no Shoukinkubi- Regular Edition

@@ -88,28 +88,9 @@ cover_image: "assets/covers/v23740.webp"
 - [[Yamaoka Yuri]]（渚 しろな）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[9 -Nine- Chun Se Chun Lian Chunxi Feng]]
-- [[9 -Nine- Haruiro Harukoi Harunokaze]]
-- [[9 -Nine- Haruiro Harukoi Harunokaze（White Novels）]]
-- [[9-nine- Deluxe Edition（Palette）]]
+<!-- AUTO:BEGIN release -->- [[发行版/9-nine- Download Edition（Palette・k：v23740）]]
 - [[9-nine- Download Edition（Palette・k：v23740）]]
-- [[9-nine- Download Edition（Palette）]]
-- [[9-nine- Epizod. 3 Kosaka Haruka - 18+ DLC]]
-- [[9-nine- Epizod. 3 Kosaka Haruka]]
-- [[9-nine- Haruiro Harukoi Harunokaze - Censored Edition]]
-- [[9-nine- Haruiro Harukoi Harunokaze - Download Edition]]
-- [[9-nine- Haruiro Harukoi Harunokaze - Package Edition]]
-- [[9-nine- Haruiro Harukoi Harunokaze]]
-- [[9-nine- Haruiro Harukoi Harunokaze（Denpasoft）]]
-- [[9-nine- Regular Edition（Palette・d666bbff）]]
-- [[9-nine- Regular Edition（Palette・k：v23740）]]
-- [[9-nine- Regular Edition（Palette）]]
-- [[9-nine- Shinshou R18 patch（release：）]]
-- [[9-nine-（Team Myskrpatch）]]
-- [[9-nine-：Episode 3 - 18+ DLC]]
-- [[9-nine-：Episode 3 - Broski Removal Patch]]
-- [[9-nine-：Episode 3]]
-- [[9-nine： episódio 3]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

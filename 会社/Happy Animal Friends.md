@@ -12,7 +12,7 @@ source_urls:
 # Happy Animal Friends
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Wo de Nvyou shi Lanling／Ta de Zuowei, Wo de Zaoyu／Juru Qi Wanquan Buhuo Jihua／Wo Laopo bei Najiahuo Shuile]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Boku no Kanojo wa Gatenkei／Kanojo ga Shita Koto, Boku ga Sareta Koto／Kyonyuu Tsuma Kanzen Hokaku Keikaku／Boku no Tsuma ga Aitsu ni Netoraremashita. - Windows 10 Support]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

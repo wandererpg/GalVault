@@ -30,11 +30,10 @@ portrait_image: "assets/characters/c59654.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[ef - a fairy tale of the two. (ef Lite)]]（side）
-- [[ef - a fairy tale of the two. - First Press Limited Edition]]（side）
+<!-- AUTO:BEGIN character -->- [[发行版/ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（side）
 - [[ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（side）
-- [[ef - the first tale（minori）]]（appears）
-- [[ef - the latter tale（minori）]]（side）<!-- AUTO:END character -->
+- [[发行版/ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（appears）
+<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Misaki Rina]]（声优：三咲 里奈）<!-- AUTO:END voice -->

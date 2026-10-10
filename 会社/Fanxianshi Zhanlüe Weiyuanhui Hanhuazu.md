@@ -12,7 +12,7 @@ source_urls:
 # Fanxianshi Zhanlüe Weiyuanhui Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Chao Ci Yuan Lian Ren!!]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Dimension Totsu Lovers!! - Download Preorder Limited Deluxe Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

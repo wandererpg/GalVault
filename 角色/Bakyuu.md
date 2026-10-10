@@ -33,7 +33,7 @@ portrait_image: "assets/characters/c32020.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Shin Koihime † Musou - Premium Package - Gi（BaseSon）]]（side）
+<!-- AUTO:BEGIN character -->- [[发行版/Shin Koihime † Musou -Kakumei- Souten no Haou - Package Edition - DVD-ROM Edition]]（side）
 - [[真・恋姫†夢想-革命- 劉旗の大望]]（primary）
 - [[真・恋姫†夢想-革命- 孫呉の血脈]]（side）
 - [[真・恋姫†英雄譚]]（primary）<!-- AUTO:END character -->

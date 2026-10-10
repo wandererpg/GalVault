@@ -110,11 +110,8 @@ cover_image: "assets/covers/v16261.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[D.C. II ~Da Capo II~ Dearest Marriage - Mail Order Limited Edition]]
-- [[D.C. II ~Da Capo II~ Dearest Marriage Download Edition]]
-- [[D.C. II ~Da Capo II~ Dearest Marriage Windows 10 Supported Edition]]
-- [[D.C. II ~Da Capo II~ Dearest Marriage]]
-- [[D.C. II ~Da Capo II~ Dearest Marriage（CIRCUS）]]
-- [[D.C. ~Da Capo~ Archives - SAKURA Edition（CIRCUS）]]<!-- AUTO:END release -->
+- [[发行版/D.C. II ~Da Capo II~ Dearest Marriage - Mail Order Limited Edition]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

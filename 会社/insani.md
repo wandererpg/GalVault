@@ -12,13 +12,10 @@ source_urls:
 # insani
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Fate／Stay Night - Trial Edition（insani）]]（publisher）
-- [[Planetarian ~the reverie of a little planet~ Steam Edition]]（publisher）
-- [[Planetarian ~the reverie of a little planet~ Trial Edition]]（publisher）
-- [[Planetarian ~the reverie of a little planet~]]（publisher）
-- [[Polyphonica： Il Mondo in Commedia Maggiore e Minore - Demo]]（publisher）
-- [[planetarian ~the reverie of a little planet~ Comiket Special English Edition]]（publisher）
-- [[planetarian ~the reverie of a little planet~ Package Edition]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Fate／Stay Night ［Realta Nua］ - Ultimate Edition]]（publisher）
+- [[发行版/Planetarian ~The Reverie of a Little Planet~（release：）]]（publisher）
+- [[发行版/Shinkyoku Soukai Polyphonica First Chapter]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

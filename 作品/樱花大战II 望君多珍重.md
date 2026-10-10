@@ -195,23 +195,7 @@ cover_image: "assets/covers/v1358.webp"
 - [[Yokoyama Chisa]]（横山 智佐）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[SEGA THE BEST - Sakura Taisen 1 & 2]]
-- [[Sakura Taisen - Premium Edition]]
-- [[Sakura Taisen 1 & 2]]
-- [[Sakura Taisen 2 - XP Support Pack+]]
-- [[Sakura Taisen 2 ~Kimi, Shinitamou koto Nakare~ 95／98／Me]]
-- [[Sakura Taisen 2 ~Kimi, Shinitamou koto Nakare~ DVD-ROM Edition]]
-- [[Sakura Taisen 2 ~Kimi, Shinitamou koto Nakare~ First Press Limited Edition]]
-- [[Sakura Taisen 2 ~Kimi, Shinitamou koto Nakare~ Memorial pack]]
-- [[Sakura Taisen 2 ~Kimi, Shinitamou koto Nakare~ Regular edition]]
-- [[Sakura Taisen 2 ~Kimi, Shinitamou koto Nakare~]]
-- [[Sakura Taisen Complete Box]]
-- [[Sakura Wars 2 - Special Demo English Patch]]
-- [[Sakura Wars 2]]
-- [[Sakura Wars 2（release：）]]
-- [[Vojny Sakury 2]]
-- [[Yinghua Dazhan 2 Wang Jun Duo Zhenzhong]]
-- [[Yinghua Dazhan 2 ~Yuan Jun Ping'an~]]
+<!-- AUTO:BEGIN release -->- [[发行版/Yinghua Langman He]]
 - [[Yinghua Langman He]]<!-- AUTO:END release -->
 
 ## 动画化

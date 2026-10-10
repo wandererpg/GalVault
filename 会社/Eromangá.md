@@ -12,10 +12,10 @@ source_urls:
 # Eromangá
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[9 Nine Episódio 4]]（publisher）
-- [[9-nine- Sorairo Sorauta Soranooto（Eromangá）]]（publisher）
-- [[9-nine： episódio 3]]（publisher）
-- [[Kouman Tsuma Kanraku!!! ~Ii Onna Dakedo Ya na Onna~（Eromangá）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/9-nine- Download Edition（Palette・k：v26523）]]（publisher）
+- [[发行版/9-nine- Download Edition（Palette・vndb：r83）]]（publisher）
+- [[发行版/9-nine- Download Edition（Palette・k：v23740）]]（publisher）
+- [[发行版/Kouman Tsuma Kanraku!!! ~Ii Onna Dakedo Ya na Onna~ Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

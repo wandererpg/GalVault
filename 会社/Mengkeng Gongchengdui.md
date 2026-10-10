@@ -12,7 +12,7 @@ source_urls:
 # Mengkeng Gongchengdui
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Yueji for iPhone]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Tsukihime（vndb：r50）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

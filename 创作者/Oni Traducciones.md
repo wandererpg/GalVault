@@ -12,8 +12,8 @@ source_urls:
 # Oni Traducciones
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Summer Memories Plus]]（publisher）
-- [[Summer Memories Plus（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Amaenbo+ - Expansion DLC - Censored Steam Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

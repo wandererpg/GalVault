@@ -12,7 +12,7 @@ source_urls:
 # Aitarra&Dan
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[DRAMAtical Murder re：connect（Aitarra&Dan）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/DRAMAtical Murder re：connect]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

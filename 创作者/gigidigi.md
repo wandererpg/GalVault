@@ -12,8 +12,8 @@ source_urls:
 # gigidigi
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Soul of Sovereignty - Demo]]（developer）
-- [[Soul of Sovereignty - Demo]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Soul of Sovereignty - Prelude]]（developer）
+- [[发行版/Soul of Sovereignty - Prelude]]（publisher）
 - [[Soul of Sovereignty - Prelude]]（developer）
 - [[Soul of Sovereignty - Prelude]]（publisher）
 - [[Soul of Sovereignty]]（developer）<!-- AUTO:END duty -->

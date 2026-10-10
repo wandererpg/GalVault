@@ -12,7 +12,7 @@ source_urls:
 # Re: LieF TranslatioN
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ao no Kanata no Four Rhythm - EXTRA1（Re： LieF TranslatioN）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Ao no Kanata no Four Rhythm - EXTRA1S - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

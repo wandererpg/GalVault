@@ -13,8 +13,7 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[I Was a Teenage Exocolonist]]（developer）
-- [[I Was a Teenage Exocolonist（Finji・release：）]]（developer）
-- [[I Was a Teenage Exocolonist（Finji・vndb：r95）]]（developer）
+- [[发行版/I Was a Teenage Exocolonist（Finji）]]（developer）
 - [[I Was a Teenage Exocolonist（Finji）]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

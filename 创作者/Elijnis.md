@@ -12,7 +12,7 @@ source_urls:
 # Elijnis
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Princess Sacrifice ~Kugi Hime Feena no Bouken~（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Princess Sacrifice ~Kugi Hime Feena no Bouken~]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

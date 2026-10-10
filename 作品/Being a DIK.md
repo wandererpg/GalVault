@@ -134,18 +134,8 @@ cover_image: "assets/covers/v25288.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Being a DIK Season 1-3 Ep. 1-11 v.0.11.1]]
-- [[Being a DIK v.0.11.1]]
-- [[Being a DIK v.0.8.3]]
-- [[Being a DIK v0.11.1]]
-- [[Being a DIK v0.8.2]]
-- [[Being a DIK v0.8.2（release：）]]
-- [[Being a DIK： Interlude - Riding the Waves]]
-- [[Being a DIK： Season 1 - Demo]]
-- [[Being a DIK： Season 1]]
-- [[Being a DIK： Season 2]]
-- [[Being a DIK： Season 3 v0.12.0]]
-- [[Being a DIK： Season 4]]
-- [[Being a DIK： Seasons 1 & 2]]<!-- AUTO:END release -->
+- [[发行版/Being a DIK Season 1-3 Ep. 1-11 v.0.11.1]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

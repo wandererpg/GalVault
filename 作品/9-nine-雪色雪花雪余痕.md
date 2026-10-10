@@ -113,27 +113,9 @@ cover_image: "assets/covers/v26523.webp"
 - [[Yamaoka Yuri]]（渚 しろな）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[9 -Nine- Xue Se Xue Hua Xueyu Hen]]
-- [[9 -Nine- Yukiiro Yukihana Yukinoato]]
-- [[9 -Nine- Yukiiro Yukihana Yukinoato（release：）]]
-- [[9 Nine Episódio 4]]
-- [[9-nine- Deluxe Edition（Palette・release：）]]
+<!-- AUTO:BEGIN release -->- [[发行版/9-nine- Download Edition（Palette・k：v26523）]]
 - [[9-nine- Download Edition（Palette・k：v26523）]]
-- [[9-nine- Download Edition（Palette・release：）]]
-- [[9-nine- Epizod. 4 Juki Noa - 18+ DLC]]
-- [[9-nine- Epizod. 4 Juki Noa]]
-- [[9-nine- Regular Edition（Palette・0781bb1e）]]
-- [[9-nine- Regular Edition（Palette・k：v26523）]]
-- [[9-nine- Regular Edition（Palette・release：）]]
-- [[9-nine- Shinshou R18 patch（vndb：r13）]]
-- [[9-nine- Yukiiro Yukihana Yukinoato - Censored Edition]]
-- [[9-nine- Yukiiro Yukihana Yukinoato - Download Edition]]
-- [[9-nine- Yukiiro Yukihana Yukinoato - Package Edition]]
-- [[9-nine- Yukiiro Yukihana Yukinoato]]
-- [[9-nine-（Team Myskrpatch・release：）]]
-- [[9-nine-：Episode 4 - 18+ DLC]]
-- [[9-nine-：Episode 4 - Broski Removal Patch]]
-- [[9-nine-：Episode 4]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

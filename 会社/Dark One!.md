@@ -12,12 +12,8 @@ source_urls:
 # Dark One!
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Saimin Seishidou -Secret Lesson- Download Edition]]（developer）
-- [[Saimin Seishidou -Secret Lesson- Download Edition]]（publisher）
-- [[Saimin Seishidou -Secret Lesson- Package Edition]]（developer）
-- [[Saimin Seishidou -Secret Lesson- Package Edition]]（publisher）
-- [[Saimin Seishidou -Secret Lesson- Trial Edition]]（developer）
-- [[Saimin Seishidou -Secret Lesson- Trial Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Saimin Seishidou -Secret Lesson- ［AI TL］]]（developer）
+- [[发行版/Saimin Seishidou -Secret Lesson- ［AI TL］]]（publisher）
 - [[催眠性指導 -Secret Lesson-]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

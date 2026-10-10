@@ -12,20 +12,8 @@ source_urls:
 # Diamondhenge Entertainment
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Attorney of the Arcane - Demo]]（developer）
-- [[Attorney of the Arcane - Demo]]（publisher）
-- [[Attorney of the Arcane Lite]]（developer）
-- [[Attorney of the Arcane Lite]]（publisher）
-- [[Attorney of the Arcane]]（developer）
-- [[Attorney of the Arcane]]（publisher）
-- [[Attorney of the Arcane（Diamondhenge Entertainment）]]（developer）
-- [[Attorney of the Arcane（Diamondhenge Entertainment）]]（publisher）
-- [[Tyrion Cuthbert： Attorney of the Arcane - Demo]]（developer）
-- [[Tyrion Cuthbert： Attorney of the Arcane - Demo]]（publisher）
-- [[Tyrion Cuthbert： Attorney of the Arcane - Remake]]（developer）
-- [[Tyrion Cuthbert： Attorney of the Arcane - Remake]]（publisher）
-- [[Tyrion Cuthbert： Attorney of the Arcane - Remake（Diamondhenge Entertainment）]]（developer）
-- [[Tyrion Cuthbert： Attorney of the Arcane - Remake（Diamondhenge Entertainment）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Tyrion Cuthbert： Attorney of the Arcane]]（developer）
+- [[发行版/Tyrion Cuthbert： Attorney of the Arcane]]（publisher）
 - [[Tyrion Cuthbert： Attorney of the Arcane]]（developer）
 - [[Tyrion Cuthbert： Attorney of the Arcane]]（publisher）<!-- AUTO:END duty -->
 

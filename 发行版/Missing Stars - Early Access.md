@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r113099:work:vndb:work:v11854"
-type: "release"
-display_title: "Missing Stars - Early Access"
-release_date: "2023-11-12"
+entity_id: release:vndb:r113099:work:vndb:work:v11854
+type: release
+display_title: Missing Stars - Early Access
+release_date: '2023-11-12'
 is_all_ages: true
-platform: "win, lin, mac"
-edition_type: "partial"
-title_status: "needs_review"
+platform: win, lin, mac
+edition_type: partial
+title_status: needs_review
 source_ids:
-  vndb: "r113099"
+  vndb: r113099
 source_urls:
-  vndb: "https://vndb.org/r113099"
+  vndb: https://vndb.org/r113099
+aliases:
+- Missing Stars - Demo
+- Missing Stars： Act One
+consolidated_releases:
+- id: r113099
+  title: Missing Stars - Early Access
+  url: https://vndb.org/r113099
+  release_date: '2023-11-12'
+  platform: win, lin, mac
+  edition_type: partial
+  is_all_ages: true
+- id: r24643
+  title: 'Missing Stars: Act One'
+  url: https://vndb.org/r24643
+  release_date: '2019-12-30'
+  platform: win, lin, mac
+  edition_type: partial
+  is_all_ages: true
+- id: r55126
+  title: Missing Stars - Demo
+  url: https://vndb.org/r55126
+  release_date: '2018-01-06'
+  platform: win, lin, mac
+  edition_type: trial
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Missing Stars - Early Access

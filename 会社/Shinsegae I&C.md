@@ -12,10 +12,9 @@ source_urls:
 # Shinsegae I&C
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Staffer Case： Choneungnyeok Churi Adventure - Deluxe Edition]]（publisher）
-- [[Staffer Case： Choneungnyeok Churi Adventure - Download Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Staffer Case： Choneungnyeok Churi Adventure - JP Package Edition]]（publisher）
 - [[Staffer Case： Choneungnyeok Churi Adventure - JP Package Edition]]（publisher）
-- [[Staffer Case： Choneungnyeok Churi Adventure - Regular Edition]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

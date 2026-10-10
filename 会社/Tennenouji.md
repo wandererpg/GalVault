@@ -12,25 +12,12 @@ source_urls:
 # Tennenouji
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Luckydog1 - Download Edition]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Luckydog1 - Download Edition（PROTOTYPE）]]（developer）
 - [[Luckydog1 - Download Edition（PROTOTYPE）]]（developer）
-- [[Luckydog1 - Download Edition（Tennenouji）]]（developer）
-- [[Luckydog1 - Download Edition（Tennenouji）]]（publisher）
-- [[Luckydog1 - Package Edition]]（developer）
-- [[Luckydog1 - Package Edition（PROTOTYPE）]]（developer）
-- [[Luckydog1 - Trial Edition]]（developer）
-- [[Luckydog1 - Trial Edition]]（publisher）
-- [[Luckydog1+bad egg Trial Version]]（developer）
-- [[Luckydog1+bad egg Trial Version]]（publisher）
+- [[发行版/Luckydog1 - Download Edition（PROTOTYPE）]]（publisher）
+- [[发行版/Luckydog1+bad egg]]（developer）
+- [[发行版/Luckydog1+bad egg]]（publisher）
 - [[Luckydog1+bad egg]]（developer）
-- [[Luckydog1+bad egg（Tennenouji・release：）]]（developer）
-- [[Luckydog1+bad egg（Tennenouji・release：）]]（publisher）
-- [[Luckydog1+bad egg（Tennenouji）]]（developer）
-- [[Luckydog1（Tennenouji・release：）]]（developer）
-- [[Luckydog1（Tennenouji・release：）]]（publisher）
-- [[Luckydog1（Tennenouji）]]（developer）
-- [[Luckydog1（Tennenouji）]]（publisher）
-- [[Luckydog1（WoGa Co., Ltd）]]（developer）
 - [[ラッキードッグ１+bad egg]]（developer）
 - [[ラッキードッグ１]]（developer）<!-- AUTO:END duty -->
 

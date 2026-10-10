@@ -13,11 +13,11 @@ source_urls:
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[I Was a Teenage Exocolonist]]（publisher）
-- [[Magical Princess（k：v64442）]]（publisher）
-- [[Noctuary（release：）]]（publisher）
-- [[OPUS： Echo of Starsong]]（publisher）
-- [[Suzerain + I am Your President]]（publisher）
-- [[Volcano Princess（release：）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Magical Princess]]（publisher）
+- [[发行版/Meng Deng Hua - Download Edition（Yi Mei Gongzuoshi）]]（publisher）
+- [[发行版/OPUS： Echo of Starsong - Full Bloom Edition ［Collector's Edition］]]（publisher）
+- [[发行版/Suzerain（Torpor Games・vndb：r89）]]（publisher）
+- [[发行版/Huoshan De Nü'er： Zaidu Chongfeng]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

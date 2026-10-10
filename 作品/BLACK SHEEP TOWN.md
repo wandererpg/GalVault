@@ -118,12 +118,9 @@ cover_image: "assets/covers/v21069.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[BLACK SHEEP TOWN  Demo]]
-- [[BLACK SHEEP TOWN - Trial Edition]]
-- [[BLACK SHEEP TOWN DVD-ROM Version]]
+<!-- AUTO:BEGIN release -->- [[发行版/BLACK SHEEP TOWN]]
 - [[BLACK SHEEP TOWN]]
-- [[BLACK SHEEP TOWN（BA-KU）]]
-- [[BLACK SHEEP TOWN（release：）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

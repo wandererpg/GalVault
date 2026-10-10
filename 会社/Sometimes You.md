@@ -12,9 +12,8 @@ source_urls:
 # Sometimes You
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Please Be Happy]]（publisher）
-- [[Please Be Happy（Sometimes You・release：）]]（publisher）
-- [[Please Be Happy（Sometimes You）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Please Be Happy（Sekai Project）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

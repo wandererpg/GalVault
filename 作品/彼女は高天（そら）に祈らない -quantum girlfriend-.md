@@ -80,8 +80,8 @@ cover_image: "assets/covers/v7067.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Kanojo wa Sora ni Inoranai -quantum girlfriend- Download Edition]]
-- [[Kanojo wa Sora ni Inoranai -quantum girlfriend- Package Edition]]
-- [[Kanojo wa Sora ni Inoranai -quantum girlfriend- Trial Edition]]<!-- AUTO:END release -->
+- [[发行版/Kanojo wa Sora ni Inoranai -quantum girlfriend- Download Edition]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

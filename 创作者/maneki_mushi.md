@@ -12,8 +12,8 @@ source_urls:
 # maneki_mushi
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[The Hero's Journey - NSFW Edition]]（developer）
-- [[The Hero's Journey - NSFW Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/The Hero's Journey]]（developer）
+- [[发行版/The Hero's Journey]]（publisher）
 - [[The Hero's Journey]]（developer）
 - [[The Hero's Journey]]（publisher）<!-- AUTO:END duty -->
 

@@ -11,8 +11,8 @@ source_urls:
 # Lexix
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Steins;Gate 0（release：）]]（publisher）
-- [[Steins;Gate（rk：v2002）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Steins;Gate 0 - Limited Deluxe Package Edition]]（publisher）
+- [[发行版/STEINS;GATE - Download Edition（MAGES・release：）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

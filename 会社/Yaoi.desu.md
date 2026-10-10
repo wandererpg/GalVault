@@ -12,11 +12,11 @@ source_urls:
 # Yaoi.desu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Gekkou no Carnevale -Carnevale della luce della luna- Trial Edition]]（publisher）
-- [[Hikari no Valusia ~What a Beautiful Hopes~ Chapter 1-10]]（publisher）
-- [[Princess Maker 4（Yaoi.desu）]]（publisher）
-- [[Sladkij Omut]]（publisher）
-- [[Valjusija, Sijajuschaja beliznoj  ~Kaka Prekrasny Nadezhdy~]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Gekkou no Carnevale（NITRO PLUS）]]（publisher）
+- [[发行版/Liar-soft Selection 20 - Hikari no Valusia ~What a beautiful hopes~]]（publisher）
+- [[发行版/Princess Maker 4 - Special Edition]]（publisher）
+- [[发行版/sweet pool Remaster]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

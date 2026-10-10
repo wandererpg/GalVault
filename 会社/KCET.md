@@ -13,7 +13,7 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[SNATCHER]]（developer）
-- [[Snatcher（KCET）]]（developer）
+- [[发行版/Lüeduozhe]]（developer）
 - [[Tokimeki Memorial 2 - Konami The Best]]（developer）
 - [[ときめきメモリアル2]]（developer）<!-- AUTO:END duty -->
 

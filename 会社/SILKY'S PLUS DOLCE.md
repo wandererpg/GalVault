@@ -13,12 +13,7 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Hikari no Umi no Apeiria & Hikari no Umi no Apeiria ~Casablanca no Kishi~ Pack Edition]]（developer）
-- [[Hikari no Umi no Apeiria - Complete Pack - Popular Edition]]（developer）
-- [[Hikari no Umi no Apeiria - Download Edition]]（developer）
-- [[Hikari no Umi no Apeiria - Trial Edition Part 1]]（developer）
-- [[Hikari no Umi no Apeiria - Trial Edition Part 2]]（developer）
-- [[Hikari no Umi no Apeiria FD ~Casablanca no Kishi~ + Hikari no Umi no Apeiria Original]]（developer）
-- [[Hikari no Umi no Apeiria]]（developer）
+- [[发行版/Hikari no Umi no Apeiria & Hikari no Umi no Apeiria ~Casablanca no Kishi~ Pack Edition]]（developer）
 - [[景之海的艾佩莉娅]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

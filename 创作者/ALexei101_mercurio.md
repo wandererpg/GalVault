@@ -12,8 +12,8 @@ source_urls:
 # ALexei101_mercurio
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Chudesnye Dni： Punktirnaja Zhizn']]（publisher）
-- [[Cross†Channel（vndb：r32）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Meihao de Meiyitian（Lingxue Hanhuazu）]]（publisher）
+- [[发行版/Cross†Channel ~To All People~ Regular Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

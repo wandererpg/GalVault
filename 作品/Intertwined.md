@@ -93,10 +93,9 @@ cover_image: "assets/covers/v29353.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Intertwined ［v0.15.4］]]
+<!-- AUTO:BEGIN release -->- [[发行版/Perepletjonnye v0.14.1]]
 - [[Perepletjonnye v0.14.1]]
-- [[Perepletjonnye v0.15.4]]
-- [[Perepletjonnye v0.15.4（release：）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

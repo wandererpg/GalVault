@@ -167,43 +167,9 @@ cover_image: "assets/covers/v1377.webp"
 - [[Yamamoto Ayano]]（山本 彩乃）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Elf Classics]]
-- [[Elf Otona no Kanzume]]
-- [[I Sesang Kkeuteseo Sarangeul Noraehaneun Sonyeo YU-NO]]
-- [[I Sesang Kkeuteseo Sarangeul Noraehaneun Sonyeo YU-NO（Digital Touch）]]
-- [[I Sesang Kkeuteseo Sarangeul Noraehaneun Sonyeo YU-NO（release：）]]
-- [[I Sesang Kkeuteseo Sarangeul Noraehaneun Sonyeo YU-NO（vndb：r99）]]
-- [[Kono Yo no Hate de Koi o Utau Shoujo YU-NO - CD-ROM Edition]]
-- [[Kono Yo no Hate de Koi o Utau Shoujo YU-NO - Download Edition]]
-- [[Kono Yo no Hate de Koi o Utau Shoujo YU-NO - Download Edition（MAGES）]]
-- [[Kono Yo no Hate de Koi o Utau Shoujo YU-NO - Limited Edition]]
-- [[Kono Yo no Hate de Koi o Utau Shoujo YU-NO - Limited Edition（MAGES・release：）]]
-- [[Kono Yo no Hate de Koi o Utau Shoujo YU-NO - Limited Edition（MAGES）]]
-- [[Kono Yo no Hate de Koi o Utau Shoujo YU-NO - Regular Edition]]
-- [[Kono Yo no Hate de Koi o Utau Shoujo YU-NO - Regular Edition（MAGES）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Kono Yo no Hate de Koi o Utau Shoujo YU-NO - Windows 10 Support Edition]]
 - [[Kono Yo no Hate de Koi o Utau Shoujo YU-NO - Windows 10 Support Edition]]
-- [[Kono Yo no Hate de Koi o Utau Shoujo YU-NO]]
-- [[Kono Yo no Hate de Koi o Utau Shoujo YU-NO（MAGES）]]
-- [[Kono Yo no Hate de Koi o Utau Shoujo YU-NO（Spike Chunsoft）]]
-- [[Kono Yo no Hate de Koi o Utau Shoujo YU-NO（elf）]]
-- [[YU-NO - A Girl that Chants Love at the Bound of this World PC-98 DLC]]
-- [[YU-NO - The Girl that Chants Love at the Edge of the World - Adjusted Audio Patch]]
-- [[YU-NO - The Girl that Chants Love at the Edge of the World]]
-- [[YU-NO - The Girl that Chants Love at the Edge of the World（TLWiki）]]
-- [[YU-NO - The Girl that Chants Love at the Edge of the World（release：）]]
-- [[YU-NO PC-98 DLC (First Print Bonus)]]
-- [[YU-NO Zai Shijie Jintou Gechang lianqu de Shaonü]]
-- [[YU-NO： A Girl Who Chants Love at the Bound of this World - Download Edition]]
-- [[YU-NO： A Girl Who Chants Love at the Bound of this World - Download Edition（Spike Chunsoft）]]
-- [[YU-NO： A Girl Who Chants Love at the Bound of this World - EU Day One Edition]]
-- [[YU-NO： A Girl Who Chants Love at the Bound of this World - EU Day One Edition（Numskull Games Ltd）]]
-- [[YU-NO： A Girl Who Chants Love at the Bound of this World - Limited Edition]]
-- [[YU-NO： A Girl Who Chants Love at the Bound of this World - Limited Edition（Spike Chunsoft）]]
-- [[YU-NO： A Girl Who Chants Love at the Bound of this World - NA Day One Edition]]
-- [[YU-NO： A Girl Who Chants Love at the Bound of this World - NA Day One Edition（Spike Chunsoft）]]
-- [[YU-NO： A Girl Who Chants Love at the Bound of this World]]
-- [[YUNO ~ Zai Shijie Jintou Gechang Lianqu de Shaonv]]
-- [[Zai Shijie Jintou Yongchang Liange de Shaonv YU-NO]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

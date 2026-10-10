@@ -14,14 +14,8 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Reminiscence - Collector's Edition]]（developer）
 - [[Reminiscence - Collector's Edition]]（publisher）
-- [[Reminiscence - Download Edition]]（developer）
-- [[Reminiscence - Download Edition]]（publisher）
-- [[Reminiscence - First Press Limited Edition]]（developer）
-- [[Reminiscence - First Press Limited Edition]]（publisher）
-- [[Reminiscence - Trial Edition]]（developer）
-- [[Reminiscence - Trial Edition]]（publisher）
-- [[Reminiscence Append Disk]]（developer）
-- [[Reminiscence Append Disk]]（publisher）
+- [[发行版/Reminiscence - Collector's Edition]]（developer）
+- [[发行版/Reminiscence - Collector's Edition]]（publisher）
 - [[レミニセンス]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

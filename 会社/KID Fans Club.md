@@ -12,11 +12,11 @@ source_urls:
 # KID Fans Club
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Jin Yue Shaonv de Liyi 2]]（publisher）
-- [[Jin Yue Shaonü de Liyi]]（publisher）
-- [[Qingkongwanli Yi Lingyun]]（publisher）
-- [[Shaonv Lilun Ji Qi Zhihou de Zhoubian]]（publisher）
-- [[Shaonü Lilun Jiqi Zhoubian]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Tsuki ni Yorisou Otome no Sahou 2 - R18 patch]]（publisher）
+- [[发行版/Tsuki ni Yorisou Otome no Sahou ~Hidamari no Hibi~ Smartphone Edition]]（publisher）
+- [[发行版/Ano Harewataru Sora yori Takaku - Download Edition]]（publisher）
+- [[发行版/Otome Riron to Sono go no Shuuhen -Belle Époque- Download Edition]]（publisher）
+- [[发行版/Otome Riron to Sono Shuuhen -Bon Voyage- Regular Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

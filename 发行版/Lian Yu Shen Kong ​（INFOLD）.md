@@ -1,16 +1,50 @@
 ---
-entity_id: "release:vndb:r118598:work:vndb:work:v49218"
-type: "release"
-display_title: "Lian Yu Shen Kong ​"
-release_date: "2024-01-18"
+entity_id: release:vndb:r118598:work:vndb:work:v49218
+type: release
+display_title: Lian Yu Shen Kong ​
+release_date: '2024-01-18'
 is_all_ages: true
-platform: "and"
-edition_type: "complete"
-title_status: "needs_review"
+platform: and
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r118598"
+  vndb: r118598
 source_urls:
-  vndb: "https://vndb.org/r118598"
+  vndb: https://vndb.org/r118598
+aliases:
+- Lian Yu Shen Kong ​
+- Lian Yu Shen Kong ​（PaperGames・release：）
+- Lian Yu Shen Kong ​（PaperGames）
+consolidated_releases:
+- id: r118598
+  title: Lian Yu Shen Kong ​
+  url: https://vndb.org/r118598
+  release_date: '2024-01-18'
+  platform: and
+  edition_type: complete
+  is_all_ages: true
+- id: r118478
+  title: Lian Yu Shen Kong ​
+  url: https://vndb.org/r118478
+  release_date: '2024-01-18'
+  platform: ios
+  edition_type: complete
+  is_all_ages: true
+- id: r118479
+  title: Lian Yu Shen Kong ​
+  url: https://vndb.org/r118479
+  release_date: '2023-10-23'
+  platform: and
+  edition_type: complete
+  is_all_ages: true
+- id: r118597
+  title: Lian Yu Shen Kong ​
+  url: https://vndb.org/r118597
+  release_date: '2023-10-23'
+  platform: ios
+  edition_type: complete
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Lian Yu Shen Kong ​

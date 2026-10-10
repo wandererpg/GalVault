@@ -42,9 +42,8 @@ cover_image: "assets/covers/v30194.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Chronicles of Tal'Dun： The Remainder]]
-- [[Chronicles of Taldun： The Remainder - Expanded Edition]]
-- [[The Remainder - Act 1]]
-- [[The Remainder - Demo]]<!-- AUTO:END release -->
+- [[发行版/Chronicles of Tal'Dun： The Remainder]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

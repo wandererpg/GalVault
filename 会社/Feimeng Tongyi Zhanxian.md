@@ -12,7 +12,7 @@ source_urls:
 # Feimeng Tongyi Zhanxian
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Modao Qiaoke]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Modao Qiaoke（ZODGAME Hanhuazu）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

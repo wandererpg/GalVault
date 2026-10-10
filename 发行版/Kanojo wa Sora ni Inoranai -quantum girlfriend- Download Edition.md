@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r30068:work:vndb:work:v7067"
-type: "release"
-display_title: "Kanojo wa Sora ni Inoranai -quantum girlfriend- Download Edition"
-release_date: "2013-10-18"
+entity_id: release:vndb:r30068:work:vndb:work:v7067
+type: release
+display_title: Kanojo wa Sora ni Inoranai -quantum girlfriend- Download Edition
+release_date: '2013-10-18'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r30068"
+  vndb: r30068
 source_urls:
-  vndb: "https://vndb.org/r30068"
+  vndb: https://vndb.org/r30068
+aliases:
+- Kanojo wa Sora ni Inoranai -quantum girlfriend- Package Edition
+- Kanojo wa Sora ni Inoranai -quantum girlfriend- Trial Edition
+consolidated_releases:
+- id: r30068
+  title: Kanojo wa Sora ni Inoranai -quantum girlfriend- Download Edition
+  url: https://vndb.org/r30068
+  release_date: '2013-10-18'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r13990
+  title: Kanojo wa Sora ni Inoranai -quantum girlfriend- Package Edition
+  url: https://vndb.org/r13990
+  release_date: '2011-11-25'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r16530
+  title: Kanojo wa Sora ni Inoranai -quantum girlfriend- Trial Edition
+  url: https://vndb.org/r16530
+  release_date: '2011-10-19'
+  platform: win
+  edition_type: trial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Kanojo wa Sora ni Inoranai -quantum girlfriend- Download Edition

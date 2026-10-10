@@ -12,8 +12,8 @@ source_urls:
 # h3rmit
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Gyakuten Saiban 1]]（publisher）
-- [[Gyakuten Saiban 3（vndb：r71）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Gyakuten Saiban： Yomigaeru Gyakuten]]（publisher）
+- [[发行版/Gyakuten Saiban 3 PC Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

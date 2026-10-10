@@ -1,13 +1,26 @@
 ---
-entity_id: "vndb:work:v62498"
-type: "work"
-display_title: "OfflineTV DanganRonpa"
-title_status: "unresolved"
+entity_id: vndb:work:v62498
+type: work
+display_title: OfflineTV DanganRonpa
+title_status: unresolved
 source_ids:
-  vndb: "v62498"
+  vndb: v62498
 source_urls:
-  vndb: "https://vndb.org/v62498"
-cover_image: "assets/covers/v62498.webp"
+  vndb: https://vndb.org/v62498
+cover_image: assets/covers/v62498.webp
+vndb_title: OfflineTV DanganRonpa
+vndb_content_updated: '2026-10-10'
+title_en: OfflineTV DanganRonpa
+first_release_date: '2018-09-29'
+vndb_vote_count: 0
+vndb_length: 1
+vndb_languages:
+- en
+vndb_platforms:
+- win
+- lin
+- mac
+vndb_devstatus: 0
 ---
 
 # OfflineTV DanganRonpa
@@ -36,10 +49,30 @@ cover_image: "assets/covers/v62498.webp"
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
 
 ## 关联作品
-<!-- AUTO:BEGIN relation -->- [[弹丸论破 希望的学园与绝望的高中生]]（ser）<!-- AUTO:END relation -->
+<!-- AUTO:BEGIN relation -->
+- [[弹丸论破 希望的学园与绝望的高中生]]（ser）
+- [[作品/弹丸论破 希望的学园与绝望的高中生|Dangan Ronpa: Kibou no Gakuen to Zetsubou no Koukousei]]（ser）
+<!-- AUTO:END relation -->
 
 ## 标签
-<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+<!-- AUTO:BEGIN tag -->
+- [Parody](https://vndb.org/g356)
+- [Battle Royale](https://vndb.org/g664)
+- [Online Streamer Protagonist](https://vndb.org/g3892)
+- [ADV](https://vndb.org/g32)
+<!-- AUTO:END tag -->
 
 ## 来源
 <!-- AUTO:BEGIN provenance -->vndb:v62498<!-- AUTO:END provenance -->
+
+
+## 简介（VNDB 原文）
+
+DanganRonpa parody featuring OfflineTV members and more.
+
+[From [itch.io](https://offlinetv.itch.io/offlinetv-danganronpa)]
+
+
+## VNDB 资料来源
+
+[VNDB：v62498](https://vndb.org/v62498)，补全于 2026-10-10。

@@ -1,16 +1,65 @@
 ---
-entity_id: "release:vndb:r23960:work:vndb:work:v5390"
-type: "release"
-display_title: "Tokimeki Memorial 2 - Konami The Best"
-release_date: "2001-01-08"
+entity_id: release:vndb:r23960:work:vndb:work:v5390
+type: release
+display_title: Tokimeki Memorial 2 - Konami The Best
+release_date: '2001-01-08'
 is_all_ages: true
-platform: "ps1"
-edition_type: "complete"
-title_status: "needs_review"
+platform: ps1
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r23960"
+  vndb: r23960
 source_urls:
-  vndb: "https://vndb.org/r23960"
+  vndb: https://vndb.org/r23960
+aliases:
+- Tokimeki Memorial 2
+- Tokimeki Memorial 2 - Limited Edition
+- Tokimeki Memorial 2（KONAMI・release：）
+- Tokimeki Memorial 2（KONAMI）
+- Tokimeki Memorial 2（xyz）
+consolidated_releases:
+- id: r23960
+  title: Tokimeki Memorial 2 - Konami The Best
+  url: https://vndb.org/r23960
+  release_date: '2001-01-08'
+  platform: ps1
+  edition_type: complete
+  is_all_ages: true
+- id: r23959
+  title: Tokimeki Memorial 2 - Limited Edition
+  url: https://vndb.org/r23959
+  release_date: '1999-11-25'
+  platform: ps1
+  edition_type: complete
+  is_all_ages: true
+- id: r31242
+  title: Tokimeki Memorial 2
+  url: https://vndb.org/r31242
+  release_date: '2009-11-25'
+  platform: psp, ps3, psv
+  edition_type: complete
+  is_all_ages: true
+- id: r10370
+  title: Tokimeki Memorial 2
+  url: https://vndb.org/r10370
+  release_date: '2007-09-19'
+  platform: mob
+  edition_type: complete
+  is_all_ages: true
+- id: r10369
+  title: Tokimeki Memorial 2
+  url: https://vndb.org/r10369
+  release_date: '1999-11-25'
+  platform: ps1
+  edition_type: complete
+  is_all_ages: true
+- id: r105121
+  title: Tokimeki Memorial 2
+  url: https://vndb.org/r105121
+  platform: ps1
+  edition_type: complete
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Tokimeki Memorial 2 - Konami The Best

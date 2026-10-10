@@ -12,25 +12,12 @@ source_urls:
 # Enterbrain!
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Amagami]]（developer）
-- [[Amagami]]（publisher）
-- [[Amayui Castle Meister Perfect Guidebook Append Disk]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Ebikore+ Amagami - Download Edition]]（developer）
+- [[发行版/Ebikore+ Amagami - Download Edition]]（publisher）
+- [[发行版/Amayui Castle Meister - Guarakuuna Jousai Expansion Disc - Package Edition]]（publisher）
 - [[Ebikore+ Amagami - Download Edition]]（developer）
-- [[Ebikore+ Amagami - Limited Edition]]（developer）
-- [[Ebikore+ Amagami - Limited Edition（Enterbrain!）]]（developer）
-- [[Ebikore+ Amagami - PS Vita Edition]]（developer）
-- [[Ebikore+ Amagami - Regular Edition]]（developer）
-- [[Ebikore+ Amagami - Regular Edition（Enterbrain!）]]（developer）
-- [[Hana Awase Zensho]]（developer）
-- [[Hana Awase ~Himeutsugi Hen~]]（developer）
-- [[Hana Awase ~Iroha Hen~]]（developer）
-- [[Hana Awase ~Karakurenai／Utsutsu Hen~]]（developer）
-- [[Hana Awase ~Mizuchi Hen~]]（developer）
-- [[Hana Awase： Himeutsugi Hen]]（developer）
-- [[Hana Awase： Iroha Hen]]（developer）
-- [[Hana Awase： Karakurenai／Utsutsu Hen]]（developer）
-- [[Hana Awase： Mizuchi Hen]]（developer）
-- [[TECH GIAN Super Prelude ＂Daitoshokan no Hitsujikai＂]]（publisher）
+- [[发行版/Hana Awase Saku - Complete Set]]（developer）
+- [[发行版/Daitoshokan no Hitsujikai -Library Party- Package Edition（ARIA）]]（publisher）
 - [[Tenbin no La DEA. ~Ikusa Megami MEMORIA~ Perfect Guidebook Append Disk]]（publisher）
 - [[圣诞之吻]]（developer）
 - [[花合]]（developer）<!-- AUTO:END duty -->

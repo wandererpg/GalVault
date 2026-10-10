@@ -1,16 +1,74 @@
 ---
-entity_id: "release:vndb:r134568:work:vndb:work:v3263"
-type: "release"
-display_title: "Harukanaru Toki no Naka de 4 - Collector's Edition Treasure Box"
-release_date: "2010-12-22"
+entity_id: release:vndb:r134568:work:vndb:work:v3263
+type: release
+display_title: Harukanaru Toki no Naka de 4 - Collector's Edition Treasure Box
+release_date: '2010-12-22'
 is_all_ages: true
-platform: "psp"
-edition_type: "complete"
-title_status: "needs_review"
+platform: psp
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r134568"
+  vndb: r134568
 source_urls:
-  vndb: "https://vndb.org/r134568"
+  vndb: https://vndb.org/r134568
+aliases:
+- Harukanaru Toki no Naka de 4
+- Harukanaru Toki no Naka de 4 - Collector's Edition
+- Harukanaru Toki no Naka de 4 - Koei Tecmo the Best
+- Harukanaru Toki no Naka de 4 - Premium Box
+- Harukanaru Toki no Naka de 4 - Treasure Box
+- Harukanaru Toki no Naka de 4（KOEI Co., Ltd）
+consolidated_releases:
+- id: r134568
+  title: Harukanaru Toki no Naka de 4 - Collector's Edition Treasure Box
+  url: https://vndb.org/r134568
+  release_date: '2010-12-22'
+  platform: psp
+  edition_type: complete
+  is_all_ages: true
+- id: r17189
+  title: Harukanaru Toki no Naka de 4 - Koei Tecmo the Best
+  url: https://vndb.org/r17189
+  release_date: '2011-09-29'
+  platform: ps2
+  edition_type: complete
+  is_all_ages: true
+- id: r21536
+  title: Harukanaru Toki no Naka de 4 - Collector's Edition
+  url: https://vndb.org/r21536
+  release_date: '2010-12-22'
+  platform: psp
+  edition_type: complete
+  is_all_ages: true
+- id: r6375
+  title: Harukanaru Toki no Naka de 4
+  url: https://vndb.org/r6375
+  release_date: '2008-06-19'
+  platform: wii
+  edition_type: complete
+  is_all_ages: true
+- id: r6374
+  title: Harukanaru Toki no Naka de 4
+  url: https://vndb.org/r6374
+  release_date: '2008-06-19'
+  platform: ps2
+  edition_type: complete
+  is_all_ages: true
+- id: r83766
+  title: Harukanaru Toki no Naka de 4 - Treasure Box
+  url: https://vndb.org/r83766
+  release_date: '2008-06-19'
+  platform: ps2
+  edition_type: complete
+  is_all_ages: true
+- id: r83765
+  title: Harukanaru Toki no Naka de 4 - Premium Box
+  url: https://vndb.org/r83765
+  release_date: '2008-06-19'
+  platform: ps2
+  edition_type: complete
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Harukanaru Toki no Naka de 4 - Collector's Edition Treasure Box

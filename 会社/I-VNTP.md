@@ -11,9 +11,9 @@ source_urls:
 # I-VNTP
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Chaos;Head Noah（I-VNTP）]]（publisher）
-- [[Steins;Gate v1.0.5 (beta)]]（publisher）
-- [[Steins;Gate（I-VNTP）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Chaos;Head Noah - Regular Edition]]（publisher）
+- [[发行版/STEINS;GATE - Download Edition（MAGES・release：）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

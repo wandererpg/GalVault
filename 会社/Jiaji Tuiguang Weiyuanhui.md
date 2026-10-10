@@ -12,7 +12,7 @@ source_urls:
 # Jiaji Tuiguang Weiyuanhui
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Jiazu Jihua ~Zaikai~]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kazoku Keikaku ~Soshite Mata Kazoku Keikaku o~ Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

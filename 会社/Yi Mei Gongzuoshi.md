@@ -14,14 +14,10 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Haisha Fengyun - Far Away]]（developer）
 - [[Haisha Fengyun - Far Away]]（publisher）
-- [[Haisha Fengyun]]（developer）
-- [[Haisha Fengyun（Yi Mei Gongzuoshi）]]（developer）
+- [[发行版/Haisha Fengyun - Far Away]]（developer）
 - [[Meng Deng Hua - Download Edition（Yi Mei Gongzuoshi）]]（developer）
-- [[Meng Deng Hua DLC： Huahai Fengyun]]（developer）
-- [[Meng Deng Hua DLC： Huahai Fengyun]]（publisher）
-- [[Meng Deng Hua]]（developer）
-- [[Meng Deng Hua（Yi Mei Gongzuoshi）]]（developer）
-- [[Meng Deng Hua（Yi Mei Gongzuoshi）]]（publisher）
+- [[发行版/Meng Deng Hua - Download Edition（Yi Mei Gongzuoshi）]]（developer）
+- [[发行版/Meng Deng Hua - Download Edition（Yi Mei Gongzuoshi）]]（publisher）
 - [[梦灯花]]（developer）
 - [[海沙风云]]（developer）<!-- AUTO:END duty -->
 

@@ -68,12 +68,9 @@ cover_image: "assets/covers/v61834.webp"
 - [[Yukito Saori]]（上原 あおい）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Relirium - Iseki to Deai to Bouken to - Download Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Relirium - Iseki to Deai to Bouken to - Memorial Special Edition]]
 - [[Relirium - Iseki to Deai to Bouken to - Memorial Special Edition]]
-- [[Relirium - Iseki to Deai to Bouken to - Regular Edition]]
-- [[Relirium - Iseki to Deai to Bouken to - Trial Edition]]
-- [[Relirium - Iseki to Deai to Bouken to]]
-- [[Relirium - Iseki to Deai to Bouken to（release：）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

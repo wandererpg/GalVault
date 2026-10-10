@@ -1,16 +1,49 @@
 ---
-entity_id: "release:vndb:r83297:work:vndb:work:v31448"
-type: "release"
-display_title: "Odin raz v zhizni"
-release_date: "2021-07-15"
+entity_id: release:vndb:r83297:work:vndb:work:v31448
+type: release
+display_title: Odin raz v zhizni
+release_date: '2021-07-15'
 is_all_ages: false
-platform: "win, mac, and"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win, mac, and
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r83297"
+  vndb: r83297
 source_urls:
-  vndb: "https://vndb.org/r83297"
+  vndb: https://vndb.org/r83297
+aliases:
+- Once in a Lifetime（release：）
+- Yi Sheng Yi Ci
+consolidated_releases:
+- id: r83297
+  title: Odin raz v zhizni
+  url: https://vndb.org/r83297
+  release_date: '2021-07-15'
+  platform: win, mac, and
+  edition_type: complete
+  is_all_ages: false
+- id: r145316
+  title: Once in a Lifetime
+  url: https://vndb.org/r145316
+  release_date: '2023-10-08'
+  platform: win, lin
+  edition_type: complete
+  is_all_ages: false
+- id: r80773
+  title: Once in a Lifetime
+  url: https://vndb.org/r80773
+  release_date: '2021-06-19'
+  platform: win, lin, mac, and
+  edition_type: complete
+  is_all_ages: false
+- id: r124942
+  title: Yi Sheng Yi Ci
+  url: https://vndb.org/r124942
+  release_date: '2023-10-08'
+  platform: win, lin, and
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Odin raz v zhizni

@@ -99,22 +99,9 @@ cover_image: "assets/covers/v415.webp"
 - [[Yoshino Hiroyuki]]（先割れチョップスティック）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Sekai de Ichiban Dame na Koi - First Press Limited Edition]]
-- [[Sekai de Ichiban Dame na Koi - Low Price Edition]]
-- [[Sekai de Ichiban Dame na Koi - Regular Edition]]
-- [[Sekai de Ichiban Dame na Koi - Trial Edition]]
-- [[Sekai de Ichiban Dame na Koi - Uncensor Patch]]
-- [[Sekai de Ichiban Dame na Koi Full House - First Press Limited Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Sekai de Ichiban Dame na Koi Full House - Regular Edition]]
 - [[Sekai de Ichiban Dame na Koi Full House - Regular Edition]]
-- [[Sekai de Ichiban Dame na Koi ~Happiness Motion~ Download Edition]]
-- [[Sekai de Ichiban Dame na Koi ~Happiness Motion~]]
-- [[Sekai de Ichiban Dame na Koi]]
-- [[Sesangeseo Gajang NG-in Sarang]]
-- [[Shijie Shang Zui NG de Lian'ai Full House]]
-- [[Shijieshang zui NG de Lian'ai]]
-- [[The Most Forbidden Love in the World - Mosaic Restoration Patch]]
-- [[The Most Forbidden Love in the World]]
-- [[The Most Forbidden Love in the World（MangaGamer）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

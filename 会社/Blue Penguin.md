@@ -12,7 +12,7 @@ source_urls:
 # Blue Penguin
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[DRAMAtical Murder（Blue Penguin）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/DRAMAtical Murder re：code - Regular Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

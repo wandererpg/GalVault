@@ -12,40 +12,26 @@ source_urls:
 # Clochette
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Haruru Minamo ni! - Download Edition]]（developer）
-- [[Haruru Minamo ni! - Download Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Haruru Minamo ni! - First Press Limited Edition]]（developer）
+- [[发行版/Haruru Minamo ni! - First Press Limited Edition]]（publisher）
 - [[Haruru Minamo ni! - First Press Limited Edition]]（developer）
 - [[Haruru Minamo ni! - First Press Limited Edition]]（publisher）
-- [[Haruru Minamo ni! - Trial Edition]]（developer）
-- [[Haruru Minamo ni! - Trial Edition]]（publisher）
-- [[Kamikaze ☆ Explorer! - Download Edition]]（developer）
-- [[Kamikaze ☆ Explorer! - Download Edition]]（publisher）
+- [[发行版/Kamikaze ☆ Explorer! - First Press Limited Edition]]（developer）
+- [[发行版/Kamikaze ☆ Explorer! - First Press Limited Edition]]（publisher）
 - [[Kamikaze ☆ Explorer! - First Press Limited Edition]]（developer）
 - [[Kamikaze ☆ Explorer! - First Press Limited Edition]]（publisher）
-- [[Kamikaze ☆ Explorer! - Regular Edition]]（developer）
-- [[Kamikaze ☆ Explorer! - Regular Edition]]（publisher）
-- [[Kamikaze ☆ Explorer! - Trial Edition]]（developer）
-- [[Kamikaze ☆ Explorer! - Trial Edition]]（publisher）
-- [[Koko kara Natsu no Innocence! - Download Edition]]（developer）
-- [[Koko kara Natsu no Innocence! - Download Edition]]（publisher）
+- [[发行版/Koko kara Natsu no Innocence! - First Press Limited Edition]]（developer）
+- [[发行版/Koko kara Natsu no Innocence! - First Press Limited Edition]]（publisher）
 - [[Koko kara Natsu no Innocence! - First Press Limited Edition]]（developer）
 - [[Koko kara Natsu no Innocence! - First Press Limited Edition]]（publisher）
-- [[Koko kara Natsu no Innocence! - Trial Edition]]（developer）
-- [[Koko kara Natsu no Innocence! - Trial Edition]]（publisher）
-- [[Prism ◇ Recollection! - Download Edition]]（developer）
-- [[Prism ◇ Recollection! - Download Edition]]（publisher）
+- [[发行版/Prism ◇ Recollection! - First Press Limited Edition]]（developer）
+- [[发行版/Prism ◇ Recollection! - First Press Limited Edition]]（publisher）
 - [[Prism ◇ Recollection! - First Press Limited Edition]]（developer）
 - [[Prism ◇ Recollection! - First Press Limited Edition]]（publisher）
-- [[Prism ◇ Recollection! - Trial Edition]]（developer）
-- [[Prism ◇ Recollection! - Trial Edition]]（publisher）
-- [[Sakigake ⇒ Generation! - Download Edition]]（developer）
-- [[Sakigake ⇒ Generation! - Download Edition]]（publisher）
-- [[Sakigake ⇒ Generation! - First Press Edition]]（developer）
-- [[Sakigake ⇒ Generation! - First Press Edition]]（publisher）
+- [[发行版/Sakigake ⇒ Generation! - Including Early Reservation CP Exclusive For Time Limited Mail Order]]（developer）
+- [[发行版/Sakigake ⇒ Generation! - Including Early Reservation CP Exclusive For Time Limited Mail Order]]（publisher）
 - [[Sakigake ⇒ Generation! - Including Early Reservation CP Exclusive For Time Limited Mail Order]]（developer）
 - [[Sakigake ⇒ Generation! - Including Early Reservation CP Exclusive For Time Limited Mail Order]]（publisher）
-- [[Sakigake ⇒ Generation! - Trial Edition]]（developer）
-- [[Sakigake ⇒ Generation! - Trial Edition]]（publisher）
 - [[ここから夏のイノセンス！]]（developer）
 - [[カミカゼ☆エクスプローラー！]]（developer）
 - [[サキガケ⇒ジェネレーション！]]（developer）

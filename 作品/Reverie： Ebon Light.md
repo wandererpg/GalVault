@@ -64,8 +64,7 @@ cover_image: "assets/covers/v19471.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Chjornyj svet]]
-- [[Reverie： Ebon Light - Demo]]
+<!-- AUTO:BEGIN release -->- [[发行版/Reverie： Ebon Light]]
 - [[Reverie： Ebon Light]]<!-- AUTO:END release -->
 
 ## 动画化

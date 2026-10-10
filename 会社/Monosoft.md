@@ -12,7 +12,7 @@ source_urls:
 # Monosoft
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Phantom of Inferno（Monosoft）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Phantom - Phantom of Inferno - Regular Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

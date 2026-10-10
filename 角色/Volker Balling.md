@@ -30,7 +30,7 @@ portrait_image: "assets/characters/c34715.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Dies irae ~Amantes amentes~ Regular Edition（light）]]（appears）<!-- AUTO:END character -->
+<!-- AUTO:BEGIN character -->- [[发行版/Dies irae ~Amantes amentes~ For Nintendo Switch]]（appears）<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Prof. Shiryuu]]（声优：山崎 たくみ）<!-- AUTO:END voice -->

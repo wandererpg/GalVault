@@ -12,88 +12,22 @@ source_urls:
 # NIS America
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ar Tonelico： Melody of Elemia - NA Edition]]（publisher）
-- [[Ar Tonelico： Melody of Elemia - NA Limited Edition]]（publisher）
-- [[Ar tonelico II： Melody of Metafalica - DE／AT／CH Edition]]（publisher）
-- [[Ar tonelico II： Melody of Metafalica - ES Edition]]（publisher）
-- [[Ar tonelico II： Melody of Metafalica - IT Edition]]（publisher）
-- [[Ar tonelico II： Melody of Metafalica - NA Edition]]（publisher）
-- [[Ar tonelico II： Melody of Metafalica - UK Edition]]（publisher）
-- [[Danganronpa 2： Goodbye Despair - DE Package Edition]]（publisher）
-- [[Danganronpa 2： Goodbye Despair - EU Download Edition]]（publisher）
-- [[Danganronpa 2： Goodbye Despair - EU Limited Package Edition]]（publisher）
-- [[Danganronpa 2： Goodbye Despair - EU Package Edition]]（publisher）
-- [[Danganronpa 2： Goodbye Despair - NA Download Edition]]（publisher）
-- [[Danganronpa 2： Goodbye Despair - NA Limited Package Edition]]（publisher）
-- [[Danganronpa 2： Goodbye Despair - NA Package Edition]]（publisher）
-- [[Danganronpa V3： Killing Harmony - Demo Version AU／NZ Edition]]（publisher）
-- [[Danganronpa V3： Killing Harmony - Demo Version EU Edition]]（publisher）
-- [[Danganronpa V3： Killing Harmony - Demo Version EU Edition（NIS America）]]（publisher）
-- [[Danganronpa V3： Killing Harmony - Demo Version NA Edition]]（publisher）
-- [[Danganronpa V3： Killing Harmony - Demo Version UK／Ireland Edition]]（publisher）
-- [[Danganronpa V3： Killing Harmony - EU Edition]]（publisher）
-- [[Danganronpa V3： Killing Harmony - EU Edition（NIS America）]]（publisher）
-- [[Danganronpa V3： Killing Harmony - EU Limited Edition]]（publisher）
-- [[Danganronpa V3： Killing Harmony - EU Limited Edition（NIS America）]]（publisher）
-- [[Danganronpa V3： Killing Harmony - NA Edition]]（publisher）
-- [[Danganronpa V3： Killing Harmony - NA Edition（NIS America）]]（publisher）
-- [[Danganronpa V3： Killing Harmony - NA Limited Edition]]（publisher）
-- [[Danganronpa V3： Killing Harmony - NA Limited Edition（NIS America）]]（publisher）
-- [[Danganronpa： Trigger Happy Havoc - AU Package Edition]]（publisher）
-- [[Danganronpa： Trigger Happy Havoc - DE Package Edition]]（publisher）
-- [[Danganronpa： Trigger Happy Havoc - EU Download Edition]]（publisher）
-- [[Danganronpa： Trigger Happy Havoc - EU Package Edition]]（publisher）
-- [[Danganronpa： Trigger Happy Havoc - NA Download Edition]]（publisher）
-- [[Danganronpa： Trigger Happy Havoc - NA Limited Package Edition]]（publisher）
-- [[Danganronpa： Trigger Happy Havoc - NA Package Edition]]（publisher）
-- [[Galleria no Chika Meikyuu to Majo no Ryodan（NIS America）]]（publisher）
-- [[Labyrinth of Galleria： The Moon Society - Digital edition]]（publisher）
-- [[Labyrinth of Galleria： The Moon Society - Digital edition（NIS America）]]（publisher）
-- [[Labyrinth of Galleria： The Moon Society - Download edition]]（publisher）
-- [[Labyrinth of Galleria： The Moon Society - EU Physical edition]]（publisher）
-- [[Labyrinth of Galleria： The Moon Society - EU Physical edition（NIS America・release：）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Ar Tonelico ~Sekai no Owari de Utai Tsuzukeru Shoujo~ (PlayStation 2 the Best)]]（publisher）
+- [[发行版/Ar Tonelico II： Sekai ni Hibiku Shoujo-tachi no Metafalica (PlayStation 2 the Best)]]（publisher）
+- [[发行版/Danganronpa Decadence - EU Package Edition（Numskull Games Ltd・release：）]]（publisher）
+- [[发行版/Danganronpa Decadence - EU Package Edition]]（publisher）
+- [[发行版/Danganronpa Decadence - EU Package Edition（Numskull Games Ltd）]]（publisher）
+- [[发行版/Labyrinth of Galleria： The Moon Society - EU Physical edition（NIS America）]]（publisher）
 - [[Labyrinth of Galleria： The Moon Society - EU Physical edition（NIS America）]]（publisher）
-- [[Labyrinth of Galleria： The Moon Society - NA Physical edition]]（publisher）
-- [[Labyrinth of Galleria： The Moon Society - NA Physical edition（NIS America・release：）]]（publisher）
-- [[Labyrinth of Galleria： The Moon Society - NA Physical edition（NIS America）]]（publisher）
-- [[Labyrinth of Refrain： Coven of Dusk - Download Edition]]（publisher）
-- [[Labyrinth of Refrain： Coven of Dusk - Package Edition]]（publisher）
-- [[Refrain no Chika Meikyuu to Majo no Ryodan - Collector's Edition]]（publisher）
+- [[发行版/Refrain no Chika Meikyuu to Majo no Ryodan - Collector's Edition（NIS America）]]（publisher）
 - [[Refrain no Chika Meikyuu to Majo no Ryodan - Collector's Edition（NIS America）]]（publisher）
-- [[Refrain no Chika Meikyuu to Majo no Ryodan - Download Edition]]（publisher）
-- [[Refrain no Chika Meikyuu to Majo no Ryodan - Package Edition]]（publisher）
-- [[Refrain no Chika Meikyuu to Majo no Ryodan（NIS America）]]（publisher）
 - [[Silver Jiken 25 Ku]]（publisher）
-- [[Tears to Tiara II： Heir of the Overlord - AU Edition]]（publisher）
+- [[发行版/Tears to Tiara II： Heir of the Overlord - EU Download Edition]]（publisher）
 - [[Tears to Tiara II： Heir of the Overlord - EU Download Edition]]（publisher）
-- [[Tears to Tiara II： Heir of the Overlord - EU Edition]]（publisher）
-- [[The 25th Ward： The Silver Case - Limited Edition]]（publisher）
-- [[The 25th Ward： The Silver Case（NIS America）]]（publisher）
-- [[The Silver Case - EU Download Edition]]（publisher）
-- [[The Silver Case - EU Limited Package Edition]]（publisher）
-- [[The Silver Case - EU Standard Package Edition]]（publisher）
-- [[The Silver Case - NA Download Edition]]（publisher）
-- [[The Silver Case - NA Limited Package Edition]]（publisher）
-- [[The Silver Case - NA Standard Package Edition]]（publisher）
-- [[The Silver Case 2425 - Download Edition]]（publisher）
-- [[The Silver Case 2425 - Download Edition（NIS America）]]（publisher）
-- [[The Silver Case 2425 - EU Deluxe Edition]]（publisher）
-- [[The Silver Case 2425 - EU Deluxe Edition（NIS America）]]（publisher）
-- [[The Silver Case 2425 - EU Limited Edition]]（publisher）
-- [[The Silver Case 2425 - EU Limited Edition（NIS America）]]（publisher）
-- [[The Silver Case 2425 - NA Deluxe Edition]]（publisher）
-- [[The Silver Case 2425 - NA Deluxe Edition（NIS America）]]（publisher）
-- [[The Silver Case 2425 - NA Limited Edition]]（publisher）
-- [[The Silver Case 2425 - NA Limited Edition（NIS America）]]（publisher）
-- [[Utawarerumono： Prelude to the Fallen - EU Download Edition]]（publisher）
-- [[Utawarerumono： Prelude to the Fallen - EU Download Edition（NIS America）]]（publisher）
-- [[Utawarerumono： Prelude to the Fallen - EU Limited Edition]]（publisher）
-- [[Utawarerumono： Prelude to the Fallen - EU Origins Edition]]（publisher）
-- [[Utawarerumono： Prelude to the Fallen - NA Download Edition]]（publisher）
-- [[Utawarerumono： Prelude to the Fallen - NA Download Edition（NIS America）]]（publisher）
-- [[Utawarerumono： Prelude to the Fallen - NA Limited Edition]]（publisher）
-- [[Utawarerumono： Prelude to the Fallen - NA Origins Edition]]（publisher）
-- [[YU-NO： A Girl Who Chants Love at the Bound of this World - Limited Edition]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Silver Jiken 25 Ku]]（publisher）
+- [[发行版/The Silver Case - Limited Package Edition]]（publisher）
+- [[发行版/Utawarerumono： Chiriyuku Mono e no Komoriuta（Leaf）]]（publisher）
+- [[发行版/Kono Yo no Hate de Koi o Utau Shoujo YU-NO - Windows 10 Support Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,9 +12,9 @@ source_urls:
 # Bjuro portov i perevodov "Kotone"
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Danganronpa 2： Goodbye Despair（Media Cats）]]（publisher）
-- [[Danganronpa V3： Killing Harmony Chapters 1-3]]（publisher）
-- [[Danganronpa： Trigger Happy Havoc（Bjuro portov i perevodov ＂Kotone＂）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Danganronpa Decadence - EU Package Edition（Numskull Games Ltd・release：）]]（publisher）
+- [[发行版/Danganronpa Decadence - EU Package Edition]]（publisher）
+- [[发行版/Danganronpa Decadence - EU Package Edition（Numskull Games Ltd）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

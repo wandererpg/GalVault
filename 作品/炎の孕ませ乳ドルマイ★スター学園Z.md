@@ -71,10 +71,9 @@ cover_image: "assets/covers/v13962.webp"
 - [[Suzune Kagetsu]]（鈴音 華月）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Honoo no Haramase Paidol My ★ Star Gakuen Z - Download Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Honoo no Haramase Paidol My ★ Star Gakuen Z - First Press Limited Edition]]
 - [[Honoo no Haramase Paidol My ★ Star Gakuen Z - First Press Limited Edition]]
-- [[Honoo no Haramase Paidol My ★ Star Gakuen Z]]
-- [[Yanzhiyun Wode Oupai ★ Ouxiang Xueyuan Z]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

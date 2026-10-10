@@ -14,8 +14,8 @@ source_urls:
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Summer's Gone： Season 1]]（developer）
 - [[Summer's Gone： Season 1]]（publisher）
-- [[Summer's Gone： Season 1（release：）]]（developer）
-- [[Summer's Gone： Season 1（release：）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Ischeznovenie Sammer S1 + S1 Steam]]（developer）
+- [[发行版/Ischeznovenie Sammer S1 + S1 Steam]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

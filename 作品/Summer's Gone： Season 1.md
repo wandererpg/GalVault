@@ -111,15 +111,8 @@ cover_image: "assets/covers/v27557.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Ischeznovenie Sammer S1 + S1 Steam]]
-- [[Ischeznovenie Sammer S1 Steam]]
-- [[Summer's Gone - ［Demo］]]
-- [[Summer's Gone Season 1]]
-- [[Summer's Gone： Chapter 4.5]]
-- [[Summer's Gone： Chapter 5 - Incest Patch]]
-- [[Summer's Gone： Season 1 - Censored Edition]]
-- [[Summer's Gone： Season 1 Taboo Uncut patch V2.03 for 18+ steam／gog release]]
-- [[Summer's Gone： Season 1]]
-- [[Summer's Gone： Season 1（release：）]]<!-- AUTO:END release -->
+- [[发行版/Ischeznovenie Sammer S1 + S1 Steam]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

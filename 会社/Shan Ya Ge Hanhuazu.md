@@ -12,7 +12,7 @@ source_urls:
 # Shan Ya Ge Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Zhu zai Xiati Shengji Dao shang de Pinru gai Ruhe shi Hao？]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/NUKITASHI]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,14 +12,9 @@ source_urls:
 # Differencia Inc.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[LOVELY×CATION2 Love Love Birthday Collection vol.1 -Yoshinoya Seine-]]（publisher）
-- [[LOVELY×CATION2 Love Love Birthday Collection vol.1 -Yoshinoya Seine-（hibiki works）]]（publisher）
-- [[LOVELY×CATION2 Love Love Birthday Collection vol.2 -Izumi Wakoto-]]（publisher）
-- [[LOVELY×CATION2 Love Love Birthday Collection vol.2 -Izumi Wakoto-（hibiki works）]]（publisher）
-- [[LOVELY×CATION2 Love Love Birthday Collection vol.3 -Narukawa Hime-]]（publisher）
-- [[LOVELY×CATION2 Love Love Birthday Collection vol.3 -Narukawa Hime-（hibiki works）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/LOVELY×CATION2 Love Love Birthday Collection vol.4  -Nirasaki Hinata-]]（publisher）
 - [[LOVELY×CATION2 Love Love Birthday Collection vol.4  -Nirasaki Hinata-]]（publisher）
-- [[LOVELY×CATION2 Love Love Birthday Collection vol.4  -Nirasaki Hinata-（hibiki works）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -1,16 +1,34 @@
 ---
-entity_id: "release:vndb:r138413:work:vndb:work:v57718"
-type: "release"
-display_title: "Putrika 2nd.cut:For the Exquisite Attire"
-release_date: "2026-06-05"
+entity_id: release:vndb:r138413:work:vndb:work:v57718
+type: release
+display_title: Putrika 2nd.cut:For the Exquisite Attire
+release_date: '2026-06-05'
 is_all_ages: true
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r138413"
+  vndb: r138413
 source_urls:
-  vndb: "https://vndb.org/r138413"
+  vndb: https://vndb.org/r138413
+aliases:
+- Putrika 2-y akt： Vo imya izyskannogo odeyaniya
+consolidated_releases:
+- id: r138413
+  title: Putrika 2nd.cut:For the Exquisite Attire
+  url: https://vndb.org/r138413
+  release_date: '2026-06-05'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+- id: r160766
+  title: 'Putrika 2-y akt: Vo imya izyskannogo odeyaniya'
+  url: https://vndb.org/r160766
+  release_date: '2026-07-13'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Putrika 2nd.cut:For the Exquisite Attire

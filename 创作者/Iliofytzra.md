@@ -12,7 +12,7 @@ source_urls:
 # Iliofytzra
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Dies irae - Acta est Fabula HD (Demo)]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Dies irae ~Amantes amentes~ For Nintendo Switch]]（publisher）
 - [[Dies irae ~Acta est Fabula~]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演

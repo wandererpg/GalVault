@@ -12,8 +12,8 @@ source_urls:
 # ZetanDS
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Desert Stalker ［v0.21.4］]]（developer）
-- [[Desert Stalker ［v0.21.4］]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Desert Stalker ［v0.21.4］（ZetanDS）]]（developer）
+- [[发行版/Desert Stalker ［v0.21.4］（ZetanDS）]]（publisher）
 - [[Desert Stalker ［v0.21.4］（ZetanDS）]]（developer）
 - [[Desert Stalker ［v0.21.4］（ZetanDS）]]（publisher）
 - [[Desert Stalker]]（developer）<!-- AUTO:END duty -->

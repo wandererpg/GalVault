@@ -12,8 +12,8 @@ source_urls:
 # Pamplemousse
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Collar x Malice (DEMO)（Pamplemousse）]]（publisher）
-- [[Demony blednoi sakury - Demo]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Collar x Malice for Nintendo Switch - Download Edition]]（publisher）
+- [[发行版/Hakuouki Shinkai Fuukaden]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

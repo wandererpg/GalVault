@@ -1,16 +1,49 @@
 ---
-entity_id: "release:vndb:r148767:work:vndb:work:v33368"
-type: "release"
-display_title: "Our Wonderland Remastered"
-release_date: "2026-07-09"
+entity_id: release:vndb:r148767:work:vndb:work:v33368
+type: release
+display_title: Our Wonderland Remastered
+release_date: '2026-07-09'
 is_all_ages: true
-platform: "win, lin, mac"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win, lin, mac
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r148767"
+  vndb: r148767
 source_urls:
-  vndb: "https://vndb.org/r148767"
+  vndb: https://vndb.org/r148767
+aliases:
+- Our Wonderland Remastered - Alpha Build
+- Our Wonderland（release：）
+consolidated_releases:
+- id: r148767
+  title: Our Wonderland Remastered
+  url: https://vndb.org/r148767
+  release_date: '2026-07-09'
+  platform: win, lin, mac
+  edition_type: complete
+  is_all_ages: true
+- id: r130110
+  title: Our Wonderland
+  url: https://vndb.org/r130110
+  release_date: '2024-12-12'
+  platform: and
+  edition_type: complete
+  is_all_ages: true
+- id: r86171
+  title: Our Wonderland
+  url: https://vndb.org/r86171
+  release_date: '2024-04-05'
+  platform: win, lin, mac
+  edition_type: complete
+  is_all_ages: true
+- id: r126655
+  title: Our Wonderland Remastered - Alpha Build
+  url: https://vndb.org/r126655
+  release_date: '2025-05-31'
+  platform: win, lin, mac
+  edition_type: partial
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Our Wonderland Remastered

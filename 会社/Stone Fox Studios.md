@@ -13,8 +13,8 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Chasing Sunsets]]（developer）
-- [[Chasing Sunsets（Stone Fox Studios）]]（developer）
-- [[Chasing Sunsets（Stone Fox Studios）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Chasing Sunsets]]（developer）
+- [[发行版/Chasing Sunsets]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

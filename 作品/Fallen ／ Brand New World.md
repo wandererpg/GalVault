@@ -52,7 +52,7 @@ cover_image: "assets/covers/v57358.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Fallen ／ Brand New World]]
-- [[Fallen ／ Brand New World（Wand-erers Localization Team）]]<!-- AUTO:END release -->
+- [[发行版/Fallen ／ Brand New World]]<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -12,17 +12,9 @@ source_urls:
 # Whisp
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[A Sex-obsessed Older Brother in the Country, and his Traditional, Sickly Little Sister]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Chiqing Gege yu Bingruo Meimei de Xiangjian Shenghuo]]（publisher）
 - [[Chiqing Gege yu Bingruo Meimei de Xiangjian Shenghuo]]（publisher）
-- [[Ecchi de Ichizu na Doinaka Nii-sama to - Append Complete Set]]（publisher）
-- [[Ecchi de Ichizu na Doinaka Nii-sama to, Koshikiyukashii Byoujaku Imouto Append.01 Asumi-chan no Sailor Fuku]]（publisher）
-- [[Ecchi de Ichizu na Doinaka Nii-sama to, Koshikiyukashii Byoujaku Imouto Append.02 Asumi-chan to Katei no Igaku]]（publisher）
-- [[Ecchi de Ichizu na Doinaka Nii-sama to, Koshikiyukashii Byoujaku Imouto Append.03 Asumi-chan to Seiso na Yuuwaku]]（publisher）
-- [[Ecchi de Ichizu na Doinaka Nii-sama to, Koshikiyukashii Byoujaku Imouto Append.04 Asumi-chan no Kenzen Yuuryou Seikatsu]]（publisher）
-- [[Ecchi de Ichizu na Doinaka Nii-sama to, Koshikiyukashii Byoujaku Imouto Append.05 Asumi-chan no Seichou Monogatari]]（publisher）
-- [[Ecchi de Ichizu na Doinaka Nii-sama to, Koshikiyukashii Byoujaku Imouto]]（publisher）
-- [[Eumhyunghago Hangyeolgat-eun Kkangchon Olabeoniwa, Yeseuleobgo Byeong-yaghan Yeodongsaeng]]（publisher）
-- [[Maitetsu Complete Set]]（publisher）
+- [[发行版/Maitetsu Remaster]]（publisher）
 - [[Maitetsu Complete Set（Lose）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

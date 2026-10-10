@@ -30,14 +30,9 @@ portrait_image: "assets/characters/c109789.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Shinkyoku Soukai Polyphonica - Episode 1]]（primary）
-- [[Shinkyoku Soukai Polyphonica - Episode 2]]（primary）
-- [[Shinkyoku Soukai Polyphonica - Episodes 1 & 2 BOX]]（primary）
-- [[Shinkyoku Soukai Polyphonica - Episodes 1 & 2 Taidou Hen]]（primary）
-- [[Shinkyoku Soukai Polyphonica Episodes 0~4 Full Pack]]（primary）
-- [[Shinkyoku Soukai Polyphonica Episodes 0~4 Full Pack（ocelot）]]（primary）
+<!-- AUTO:BEGIN character -->- [[发行版/Shinkyoku Soukai Polyphonica First Chapter]]（primary）
 - [[Shinkyoku Soukai Polyphonica First Chapter]]（primary）
-- [[Shinkyoku Soukai Polyphonica]]（primary）<!-- AUTO:END character -->
+<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Suzumori Chisato]]（声优：すずき けいこ）<!-- AUTO:END voice -->

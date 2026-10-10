@@ -23,7 +23,7 @@ source_urls:
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Doukyuusei 2（elf）]]（side）<!-- AUTO:END character -->
+<!-- AUTO:BEGIN character -->- [[发行版/Doukyuusei 2 - Extra Box]]（side）<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->

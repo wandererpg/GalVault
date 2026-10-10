@@ -12,13 +12,11 @@ source_urls:
 # 2P Games
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Epiao： Ming Mo Qianli Xing]]（publisher）
-- [[Epiao： Ming Mo Qianli Xing（2P Games・release：）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Epiao： Ming Mo Qianli Xing（2P Games）]]（publisher）
 - [[Epiao： Ming Mo Qianli Xing（2P Games）]]（publisher）
-- [[Huisu Yicun]]（publisher）
-- [[Huisu Yicun（Orca Layout・release：）]]（publisher）
+- [[发行版/Huisu Yicun（Orca Layout・vndb：r94）]]（publisher）
 - [[Huisu Yicun（Orca Layout・vndb：r94）]]（publisher）
-- [[Huisu Yicun（Orca Layout）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

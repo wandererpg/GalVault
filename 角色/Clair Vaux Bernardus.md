@@ -34,7 +34,7 @@ portrait_image: "assets/characters/c22450.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Umineko no Naku Koro ni Chiru - Episode 7 - Requiem of the Golden Witch（07th Expansion）]]（primary）<!-- AUTO:END character -->
+<!-- AUTO:BEGIN character -->- [[发行版/Umineko no Naku Koro ni Chiru - Episode 8 - Twilight of the Golden Witch]]（primary）<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Oohara Sayaka]]（声优：大原 さやか）<!-- AUTO:END voice -->

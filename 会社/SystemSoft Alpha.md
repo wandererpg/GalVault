@@ -12,37 +12,12 @@ source_urls:
 # SystemSoft Alpha
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Sangoku Hime 2 ~Kouki Houkou, Mezameshi Taiga~ Deluxe Limited Edition]]（publisher）
-- [[Sangoku Hime 2 ~Kouki Houkou, Mezameshi Taiga~ Regular Edition]]（publisher）
-- [[Sangoku Hime 2 ~Tenka Hatou, Shishi no Keishousha~ Deluxe Limited Edition]]（publisher）
-- [[Sangoku Hime 2 ~Tenka Hatou, Shishi no Keishousha~ Regular Edition]]（publisher）
-- [[Sangoku Hime 2 ~Tenka Hatou, Shishi no Keishousha~ Regular Edition（SystemSoft Alpha）]]（publisher）
-- [[Sengoku Hime 3 ~Tenka o Kirisaku Hikari to Kage~ (Systemsoft Selection)]]（publisher）
-- [[Sengoku Hime 3 ~Tenka o Kirisaku Hikari to Kage~ (Systemsoft Selection)（SystemSoft Alpha）]]（publisher）
-- [[Sengoku Hime 3 ~Tenka o Kirisaku Hikari to Kage~ Deluxe Limited Edition]]（publisher）
-- [[Sengoku Hime 3 ~Tenka o Kirisaku Hikari to Kage~ Deluxe Limited Edition（SystemSoft Alpha・release：）]]（publisher）
-- [[Sengoku Hime 3 ~Tenka o Kirisaku Hikari to Kage~ Deluxe Limited Edition（SystemSoft Alpha）]]（publisher）
-- [[Sengoku Hime 3 ~Tenka o Kirisaku Hikari to Kage~ Regular Edition]]（publisher）
-- [[Sengoku Hime 3 ~Tenka o Kirisaku Hikari to Kage~ Regular Edition（SystemSoft Alpha・release：）]]（publisher）
-- [[Sengoku Hime 3 ~Tenka o Kirisaku Hikari to Kage~ Regular Edition（SystemSoft Alpha）]]（publisher）
-- [[Sengoku Hime 4 ~Souha Hyakkei, Hana Mamoru Chikai~ Deluxe Limited Edition]]（publisher）
-- [[Sengoku Hime 4 ~Souha Hyakkei, Hana Mamoru Chikai~ Deluxe Limited Edition（SystemSoft Alpha・release：）]]（publisher）
-- [[Sengoku Hime 4 ~Souha Hyakkei, Hana Mamoru Chikai~ Deluxe Limited Edition（SystemSoft Alpha）]]（publisher）
-- [[Sengoku Hime 4 ~Souha Hyakkei, Hana Mamoru Chikai~ Regular Edition]]（publisher）
-- [[Sengoku Hime 4 ~Souha Hyakkei, Hana Mamoru Chikai~ Regular Edition（SystemSoft Alpha・release：）]]（publisher）
-- [[Sengoku Hime 4 ~Souha Hyakkei, Hana Mamoru Chikai~ Regular Edition（SystemSoft Alpha）]]（publisher）
-- [[Sengoku Hime 4 ~Souha Hyakkei, Hana Mamoru Chikai~]]（publisher）
-- [[Sengoku Hime 4 ~Souha Hyakkei, Hana Mamoru Chikai~（SystemSoft Alpha）]]（publisher）
-- [[Sengoku Hime 5 ~Senka Tatsu Haou no Keifu~  Limited Edition]]（publisher）
-- [[Sengoku Hime 5 ~Senka Tatsu Haou no Keifu~  Regular Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Sangoku Hime 2 ~Tenchi Tairan Ransei ni Kirameku Arata na Haryuu~ Game Enhancement Edition Two - Download Edition]]（publisher）
+- [[发行版/Sengoku Hime 3 ~Tenka o Kirisaku Hikari to Kage~ Yuugi Kyouka Hen -Ichi no Maki- Download Edition]]（publisher）
+- [[发行版/Sengoku Hime 4 ~Souha Hyakkei, Hana Mamoru Chikai~ Yuugi Kyouka Ban -Ichi no Maki- Download Edition]]（publisher）
+- [[发行版/Sengoku Hime 5 ~Senka Tatsu Haou no Keifu~ - Download Edition]]（publisher）
 - [[Sengoku Hime 5 ~Senka Tatsu Haou no Keifu~ - Download Edition]]（publisher）
-- [[Sengoku Hime 5 ~Senka Tatsu Haou no Keifu~ - Limited Edition]]（publisher）
-- [[Sengoku Hime 5 ~Senka Tatsu Haou no Keifu~ Deluxe Limited Edition（SystemSoft Alpha）]]（publisher）
-- [[Sengoku Hime 5 ~Senka Tatsu Haou no Keifu~ Regular Edition（SystemSoft Alpha）]]（publisher）
-- [[Sengoku Hime 5 ~Senka Tatsu Haou no Keifu~]]（publisher）
-- [[Sengoku Hime Hana ~Shinroku Tenka o Kirisaku Hikari to Kage~ Deluxe Limited Edition]]（publisher）
-- [[Sengoku Hime Hana ~Shinroku Tenka o Kirisaku Hikari to Kage~ Download Edition]]（publisher）
-- [[Sengoku Hime Hana ~Shinroku Tenka o Kirisaku Hikari to Kage~ Regular Edition]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

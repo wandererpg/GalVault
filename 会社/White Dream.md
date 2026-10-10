@@ -12,8 +12,8 @@ source_urls:
 # White Dream
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Kanon - Standard Edition（White Dream）]]（publisher）
-- [[Planetarian ~La Chimère d'une Petite Étoile~]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kanon（Key）]]（publisher）
+- [[发行版/Planetarian ~The Reverie of a Little Planet~（release：）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

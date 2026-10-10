@@ -13,43 +13,23 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Bairi Zhanji -Zuizhong Fangwei Xueyuan-]]（publisher）
-- [[Birushana Zhanji ~Genpei Feihua Mengxiang~ Download Edition]]（publisher）
-- [[Birushana Zhanji ~Genpei Feihua Mengxiang~ Limited Edition]]（publisher）
-- [[Birushana Zhanji ~Genpei Feihua Mengxiang~ Regular Edition]]（publisher）
-- [[Birushana Zhanji ~Yi-shu zhi Feng~ Download Edition]]（publisher）
-- [[Birushana Zhanji ~Yi-shu zhi Feng~]]（publisher）
+- [[发行版/Birushana： Rising Flower of Genpei - Download Edition]]（publisher）
+- [[发行版/Birushana Senki ~Ichijuu no Kaze~ Download Edition]]（publisher）
 - [[Blackish House sideA→ -Retour-（Justdan）]]（publisher）
-- [[Boyinggui Zhen Gai： Liming Lu - Download Edition]]（publisher）
-- [[Boyinggui Zhen Gai： Liming Lu - Limited Edition]]（publisher）
-- [[Boyinggui Zhen Gai： Liming Lu - Regular Edition]]（publisher）
-- [[CLOCK ZERO ～Zhongyān Zhi Yi Miao～ Devote]]（publisher）
-- [[Code： Realize ~Baiyin de Qiji~ Download Edition]]（publisher）
-- [[Code： Realize ~Baiyin de Qiji~ First Press Special Edition]]（publisher）
-- [[Code： Realize ~Chuangshi de Gongzhu~ Download Edition]]（publisher）
-- [[Code： Realize ~Chuangshi de Gongzhu~ Limited Edition]]（publisher）
-- [[Code： Realize ~Chuangshi de Gongzhu~ Regular Edition]]（publisher）
-- [[Code： Realize ~Zhufu de Weilai~ Download Edition]]（publisher）
-- [[Code： Realize ~Zhufu de Weilai~ Limited Edition]]（publisher）
-- [[Code： Realize ~Zhufu de Weilai~ Regular Edition]]（publisher）
-- [[Collar x Malice - Download Edition（Justdan）]]（publisher）
-- [[Collar x Malice - Limited Edition（Justdan）]]（publisher）
-- [[Collar x Malice - Regular Edition（Justdan）]]（publisher）
-- [[Collar x Malice -Unlimited- Download Edition（Justdan）]]（publisher）
-- [[Collar x Malice -Unlimited- Limited Edition（Justdan）]]（publisher）
-- [[Collar x Malice -Unlimited- Regular Edition]]（publisher）
-- [[Glass Heart Princess for Nintendo Switch]]（publisher）
-- [[Glass Heart Princess for Nintendo Switch（Justdan）]]（publisher）
+- [[发行版/Hakuouki Shinkai Reimeiroku - Normal Edition]]（publisher）
+- [[发行版/Clock Zero ~Shuuen no Ichibyou~ ExTime - Regular Edition]]（publisher）
+- [[发行版/Code： Realize ~Shirogane no Kiseki~ for Nintendo Switch - Download Edition]]（publisher）
+- [[发行版/Code： Realize ~Saikou no Hanataba~ for Nintendo Switch - Download Edition]]（publisher）
+- [[发行版/Code： Realize ~Saikou no Hanataba~ for Nintendo Switch - Download Edition（Design Factory Co., Ltd）]]（publisher）
+- [[发行版/Collar x Malice for Nintendo Switch - Download Edition]]（publisher）
+- [[发行版/Collar x Malice for Nintendo Switch - Download Edition（Design Factory Co., Ltd）]]（publisher）
+- [[发行版/Glass Heart Princess for Nintendo Switch Special Edition]]（publisher）
+- [[发行版/Glass Heart Princess for Nintendo Switch Special Edition（Design Factory Co., Ltd）]]（publisher）
 - [[Kenka Banchou Otome Double Pack - Download Version]]（publisher）
-- [[Kenka Banchou Otome Double Pack]]（publisher）
-- [[Mofa Qi Yu ~You Kuzhong de Shaonü Wei Yingqu Weilai Qianwang Yiguo Mofa Xuexiao Liuxue~]]（publisher）
-- [[TSUKIHIME -A piece of blue glass moon- Asia Regular Edition]]（publisher）
-- [[TSUKIHIME -A piece of blue glass moon- Asia Regular Edition（Aniplex Inc）]]（publisher）
-- [[TSUKIHIME -A piece of blue glass moon- Regular Edition]]（publisher）
-- [[TSUKIHIME -A piece of blue glass moon- Regular Edition（Aniplex Inc）]]（publisher）
-- [[Xuanhua Fanzhang Yinü Double Pack - Download Edition]]（publisher）
-- [[Xuanhua Fanzhang Yinü Double Pack - Limited Edition]]（publisher）
-- [[Xuanhua Fanzhang Yinü Double Pack]]（publisher）
-- [[Yaoguai Fan～Da Wan Kai Dong！～ for S]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Kenka Banchou Otome Double Pack - Download Version]]（publisher）
+- [[发行版/Trouble Magia ~Wakeari Shoujo wa Mirai o Kachitoru Tame ni Ikoku no Mahou Gakkou e Ryuugaku Shimasu~ Special Edition]]（publisher）
+- [[发行版/Tsukihime -A piece of blue glass moon- Digital Deluxe Edition]]（publisher）
+- [[发行版/Ayakashi Gohan ~Oomori!~ for S Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

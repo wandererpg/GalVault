@@ -42,11 +42,8 @@ cover_image: "assets/covers/v30856.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Hitozuma Lovely Moment - Package Edition]]
-- [[Hitozuma Lovely Moment]]
-- [[Hitozuma Lovely Moment（Angkringan Visual Novel）]]
-- [[Hitozuma Lovely Moment（release：）]]
-- [[Hitozuma Lovely Moment（stick）]]
-- [[Lovely Moment with a Married Woman]]<!-- AUTO:END release -->
+- [[发行版/Hitozuma Lovely Moment - Package Edition]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -12,26 +12,10 @@ source_urls:
 # Liquid
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Saint Dorei Gakuen 2 - Download Edition]]（developer）
-- [[Saint Dorei Gakuen 2 - Download Edition]]（publisher）
-- [[Saint Dorei Gakuen 2 - Package Edition]]（developer）
-- [[Saint Dorei Gakuen 2 - Package Edition]]（publisher）
-- [[Saint Dorei Gakuen 2 - Toa no Choukyou Nikki ~Goshujin-sama to no Omohide~]]（developer）
-- [[Saint Dorei Gakuen 2 - Toa no Choukyou Nikki ~Goshujin-sama to no Omohide~]]（publisher）
-- [[Saint Dorei Gakuen 2 - Trial Edition]]（developer）
-- [[Saint Dorei Gakuen 2 - Trial Edition]]（publisher）
-- [[Saint Dorei Gakuen 2 ~Kanzen Choukyou Ban~]]（developer）
-- [[Saint Dorei Gakuen 2 ~Kanzen Choukyou Ban~]]（publisher）
-- [[Saint Dorei Gakuen 2 ~Kanzen Choukyouka Patch~]]（developer）
-- [[Saint Dorei Gakuen 2 ~Kanzen Choukyouka Patch~]]（publisher）
-- [[Saint Dorei Gakuen 3 - Download Edition]]（developer）
-- [[Saint Dorei Gakuen 3 - Download Edition]]（publisher）
-- [[Saint Dorei Gakuen 3 - Early Purchase Bonus ＂Depraved Outfits＂ Patch]]（developer）
-- [[Saint Dorei Gakuen 3 - Early Purchase Bonus ＂Depraved Outfits＂ Patch]]（publisher）
-- [[Saint Dorei Gakuen 3 - Package Edition]]（developer）
-- [[Saint Dorei Gakuen 3 - Package Edition]]（publisher）
-- [[Saint Dorei Gakuen 3 - Trial Edition]]（developer）
-- [[Saint Dorei Gakuen 3 - Trial Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Saint Dorei Gakuen 2（HTranslations）]]（developer）
+- [[发行版/Saint Dorei Gakuen 2（HTranslations）]]（publisher）
+- [[发行版/Saint Dorei Gakuen 3]]（developer）
+- [[发行版/Saint Dorei Gakuen 3]]（publisher）
 - [[聖奴隷学園2]]（developer）
 - [[聖奴隷学園3]]（developer）<!-- AUTO:END duty -->
 

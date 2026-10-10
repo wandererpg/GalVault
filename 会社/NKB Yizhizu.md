@@ -12,8 +12,8 @@ source_urls:
 # NKB Yizhizu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Meihao de Meiyitian]]（publisher）
-- [[Ying zhi Shi（NKB Yizhizu）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Meihao de Meiyitian（Lingxue Hanhuazu）]]（publisher）
+- [[发行版/Sakura no Uta -Sakura no Mori no Ue o Mau- 10th Anniversary Edition（Taikutsu Translations）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

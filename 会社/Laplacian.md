@@ -14,20 +14,8 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Hakuchuumu no Aojashin - Censored Edition]]（developer）
 - [[Hakuchuumu no Aojashin - Censored Edition]]（publisher）
-- [[Hakuchuumu no Aojashin - Collector's Box]]（developer）
-- [[Hakuchuumu no Aojashin - Collector's Box]]（publisher）
-- [[Hakuchuumu no Aojashin - Download Edition]]（developer）
-- [[Hakuchuumu no Aojashin - Download Edition]]（publisher）
-- [[Hakuchuumu no Aojashin - Download Edition（Laplacian・release：）]]（developer）
-- [[Hakuchuumu no Aojashin - Download Edition（Laplacian・release：）]]（publisher）
-- [[Hakuchuumu no Aojashin - Download Edition（Laplacian）]]（developer）
-- [[Hakuchuumu no Aojashin - Download Edition（Laplacian）]]（publisher）
-- [[Hakuchuumu no Aojashin - First Press Edition]]（developer）
-- [[Hakuchuumu no Aojashin - First Press Edition]]（publisher）
-- [[Hakuchuumu no Aojashin - Regular Edition]]（developer）
-- [[Hakuchuumu no Aojashin - Regular Edition]]（publisher）
-- [[Hakuchuumu no Aojashin - Trial Edition]]（developer）
-- [[Hakuchuumu no Aojashin - Trial Edition]]（publisher）
+- [[发行版/Hakuchuumu no Aojashin - Censored Edition]]（developer）
+- [[发行版/Hakuchuumu no Aojashin - Censored Edition]]（publisher）
 - [[白日梦的构想图]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

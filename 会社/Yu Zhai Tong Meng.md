@@ -12,7 +12,7 @@ source_urls:
 # Yu Zhai Tong Meng
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Shuizang Yin Huo De Istria]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Suisou Ginka no Istoria - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

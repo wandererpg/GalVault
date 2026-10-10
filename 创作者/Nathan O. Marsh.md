@@ -14,8 +14,8 @@ source_urls:
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[South Scrimshaw, Part One]]（developer）
 - [[South Scrimshaw, Part One]]（publisher）
-- [[South Scrimshaw, Part Two]]（developer）
-- [[South Scrimshaw, Part Two]]（publisher）
+- [[发行版/South Scrimshaw, Part One]]（developer）
+- [[发行版/South Scrimshaw, Part One]]（publisher）
 - [[South Scrimshaw]]（developer）<!-- AUTO:END duty -->
 
 ## 创作与出演

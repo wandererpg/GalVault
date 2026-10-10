@@ -12,8 +12,8 @@ source_urls:
 # Arunaru
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Kichikuou Rance（release：）]]（publisher）
-- [[Toushin Toshi 2（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kichikuou Rance - New Package Edition]]（publisher）
+- [[发行版/Toushin Toshi 2 - PC-9821 CD Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

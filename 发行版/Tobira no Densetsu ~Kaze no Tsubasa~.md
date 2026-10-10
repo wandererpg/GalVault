@@ -1,16 +1,34 @@
 ---
-entity_id: "release:vndb:r57144:work:vndb:work:v23097"
-type: "release"
-display_title: "Tobira no Densetsu ~Kaze no Tsubasa~"
-release_date: "2007-07-03"
+entity_id: release:vndb:r57144:work:vndb:work:v23097
+type: release
+display_title: Tobira no Densetsu ~Kaze no Tsubasa~
+release_date: '2007-07-03'
 is_all_ages: true
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r57144"
+  vndb: r57144
 source_urls:
-  vndb: "https://vndb.org/r57144"
+  vndb: https://vndb.org/r57144
+aliases:
+- Legend of Door ~Gale Wings~
+consolidated_releases:
+- id: r57144
+  title: Tobira no Densetsu ~Kaze no Tsubasa~
+  url: https://vndb.org/r57144
+  release_date: '2007-07-03'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+- id: r133543
+  title: Legend of Door ~Gale Wings~
+  url: https://vndb.org/r133543
+  release_date: '2025-12-13'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Tobira no Densetsu ~Kaze no Tsubasa~

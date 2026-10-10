@@ -12,10 +12,8 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[428： Shibuya Scramble - EU Package Edition]]（publisher）
-- [[Utawarerumono： Mask of Truth - AU Package Edition]]（publisher）
-- [[Utawarerumono： Mask of Truth - EU Download Edition]]（publisher）
-- [[Utawarerumono： Mask of Truth - EU Download Edition（ATLUS）]]（publisher）
-- [[Utawarerumono： Mask of Truth - EU Package Edition]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Chingsongbadneun Ja： Du Myeong-ui Baeghwang - Limited Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

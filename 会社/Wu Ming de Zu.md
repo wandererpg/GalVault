@@ -12,7 +12,7 @@ source_urls:
 # Wu Ming de Zu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Zhan Nvshen MEMORIA]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Tenbin no La DEA. ~Ikusa Megami MEMORIA~ Perfect Guidebook Append Disk]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

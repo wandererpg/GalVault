@@ -12,10 +12,10 @@ source_urls:
 # ZODGAME Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Chuangke de Dongmai]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Arterii Istoka]]（publisher）
 - [[Huanlin de Jijiangjun 2]]（publisher）
 - [[Modao Qiaoke（ZODGAME Hanhuazu）]]（publisher）
-- [[Zhan Nvshen Verita]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Ikusa Megami Verita Complete Guidebook Privilege Appendix Disc]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

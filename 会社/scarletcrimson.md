@@ -12,9 +12,9 @@ source_urls:
 # scarletcrimson
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Danganronpa 2： Goodbye Despair（scarletcrimson）]]（publisher）
-- [[Danganronpa V3： Killing Harmony（scarletcrimson）]]（publisher）
-- [[Danganronpa： Trigger Happy Havoc（scarletcrimson）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Danganronpa Decadence - EU Package Edition（Numskull Games Ltd・release：）]]（publisher）
+- [[发行版/Danganronpa Decadence - EU Package Edition]]（publisher）
+- [[发行版/Danganronpa Decadence - EU Package Edition（Numskull Games Ltd）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

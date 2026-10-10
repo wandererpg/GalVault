@@ -12,24 +12,21 @@ source_urls:
 # N43 Project
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Amae Haha Nozomi ＂Dame yo, Sonna ni Okaa-san o Motomenaide...＂ - DVDPG]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Amae Haha Nozomi ＂Dame yo, Sonna ni Okaa-san o Motomenaide...＂ - Low Price Edition DVDPG]]（publisher）
 - [[Amae Haha Nozomi ＂Dame yo, Sonna ni Okaa-san o Motomenaide...＂ - Low Price Edition DVDPG]]（publisher）
 - [[Aneimo Neo+ ~Second Sisters~ DVDPG]]（publisher）
-- [[Ano Harewataru Sora yori Takaku (Part 1) - DVDPG]]（publisher）
-- [[Ano Harewataru Sora yori Takaku (Part 2) - DVDPG]]（publisher）
-- [[Bikyaku Seido Kaichou Ai ＂Ko, Kono Hentai! Watashi no Tights ni Nante Koto o...!＂ - DVDPG]]（publisher）
+- [[发行版/Ano Harewataru Sora yori Takaku - Download Edition]]（publisher）
+- [[发行版/Bikyaku Seido Kaichou Ai ＂Ko, Kono Hentai! Watashi no Tights ni Nante Koto o...!＂ - Low Price Edition DVDPG]]（publisher）
 - [[Bikyaku Seido Kaichou Ai ＂Ko, Kono Hentai! Watashi no Tights ni Nante Koto o...!＂ - Low Price Edition DVDPG]]（publisher）
 - [[Extravaganza ~Mushi Mederu Shoujo~ DVDPG Edition]]（publisher）
 - [[Hahamusu Gaiden ~Suishou no Joou Delfina~ DVDPG]]（publisher）
-- [[Hahamusu ~Ochibure Kizoku no Haha to Musume~ - DVDPG]]（publisher）
-- [[Hahamusu ~Ochibure Kizoku no Haha to Musume~ - Low Price Edition DVDPG]]（publisher）
+- [[发行版/Hahamusu ~Ochibure Kizoku no Haha to Musume~ Download Edition]]（publisher）
 - [[Kotoneiro - DVDPG]]（publisher）
 - [[Mama Sis ~Okaa-san to Watashi, Docchi ga Ii no？~ DVDPG]]（publisher）
 - [[Mama-Haha 2 - DVDPG]]（publisher）
-- [[MinDeaD BlooD ~Shihaisha no Tame no Kyoushikyoku~ DVDPG]]（publisher）
-- [[MinDeaD BlooD ~Shihaisha no Tame no Kyoushikyoku~ Low Price Edition DVDPG]]（publisher）
+- [[发行版/MinDeaD BlooD Complete Edition]]（publisher）
 - [[Mitsu Ane - DVDPG]]（publisher）
-- [[Ouka Sengoku! ~Nobunaga-chan no Koishite Yabou!？~ DVDPG]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Ouka Sengoku! Portable - Regular Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

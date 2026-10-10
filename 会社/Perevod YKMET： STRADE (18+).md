@@ -12,9 +12,8 @@ source_urls:
 # Perevod YKMET: STRADE (18+)
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Vnov' prol'jotsja krov'： Strejd]]（publisher）
-- [[Vnov' prol'jotsja krov'： Strejd（Perevod YKMET： STRADE (18+)・release：）]]（publisher）
-- [[Vnov' prol'jotsja krov'： Strejd（Perevod YKMET： STRADE (18+)）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/YKMET： Strade]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

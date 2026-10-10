@@ -12,7 +12,7 @@ source_urls:
 # sad.nighthawk
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Chudesnye Dni： Punktirnaja Zhizn' HD]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Meihao de Meiyitian（Lingxue Hanhuazu）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,10 +12,8 @@ source_urls:
 # Mao Long Youxi
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Wuzui zhi Ting Demo]]（developer）
-- [[Wuzui zhi Ting Demo]]（publisher）
-- [[Wuzui zhi Ting]]（developer）
-- [[Wuzui zhi Ting]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Zhege Jiahuo Wuzui]]（developer）
+- [[发行版/Zhege Jiahuo Wuzui]]（publisher）
 - [[这个家伙无罪]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

@@ -75,11 +75,8 @@ cover_image: "assets/covers/v6678.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Maikaze no Melt -Where Leads to Feeling Destination- Download Edition]]
-- [[Maikaze no Melt -Where Leads to Feeling Destination- Trial Edition]]
-- [[Maikaze no Melt -Where Leads to Feeling Destination-]]
-- [[Suzukaze no Melt & Maikaze no Melt W-Pack - Download Edition]]
-- [[Suzukaze no Melt W-Pack]]
-- [[Whirlpool Kako Saku Game Zenbu Iri Set（Whirlpool）]]<!-- AUTO:END release -->
+- [[发行版/Maikaze no Melt -Where Leads to Feeling Destination- Download Edition]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

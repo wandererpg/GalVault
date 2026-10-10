@@ -12,22 +12,8 @@ source_urls:
 # Cyc Rosé
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Bara no Ki ni Bara no Hanasaku - Collector's Edition]]（developer）
-- [[Bara no Ki ni Bara no Hanasaku - Collector's Edition]]（publisher）
-- [[Bara no Ki ni Bara no Hanasaku - Deluxe Edition]]（developer）
-- [[Bara no Ki ni Bara no Hanasaku - First Press Edition]]（developer）
-- [[Bara no Ki ni Bara no Hanasaku - First Press Edition]]（publisher）
-- [[Bara no Ki ni Bara no Hanasaku - Regular Edition]]（developer）
-- [[Bara no Ki ni Bara no Hanasaku - Regular Edition（Cyc Rosé）]]（developer）
-- [[Bara no Ki ni Bara no Hanasaku - Regular Edition（Cyc Rosé）]]（publisher）
-- [[Bara no Ki ni Bara no Hanasaku - Reprint Edition - First Press Special Edition - Download Edition]]（developer）
-- [[Bara no Ki ni Bara no Hanasaku - Reprint Edition - First Press Special Edition - Download Edition]]（publisher）
-- [[Bara no Ki ni Bara no Hanasaku - Reprint Edition - First Press Special Edition - Package Edition]]（developer）
-- [[Bara no Ki ni Bara no Hanasaku - Reprint Edition - First Press Special Edition - Package Edition]]（publisher）
-- [[Bara no Ki ni Bara no Hanasaku - Reprint Edition - Regular Edition - Download Edition]]（developer）
-- [[Bara no Ki ni Bara no Hanasaku - Reprint Edition - Regular Edition - Download Edition]]（publisher）
-- [[Bara no Ki ni Bara no Hanasaku - Reprint Edition - Regular Edition - Package Edition]]（developer）
-- [[Bara no Ki ni Bara no Hanasaku - Reprint Edition - Regular Edition - Package Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Bara no Ki ni Bara no Hanasaku -Das Versprechen-]]（developer）
+- [[发行版/Bara no Ki ni Bara no Hanasaku -Das Versprechen-]]（publisher）
 - [[Bara no Ki ni Bara no Hanasaku -Das Versprechen-]]（developer）
 - [[薔薇ノ木ニ薔薇ノ花咲ク]]（developer）<!-- AUTO:END duty -->
 

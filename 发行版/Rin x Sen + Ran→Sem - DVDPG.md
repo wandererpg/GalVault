@@ -1,16 +1,50 @@
 ---
-entity_id: "release:vndb:r23115:work:vndb:work:v2611"
-type: "release"
-display_title: "Rin x Sen + Ran→Sem - DVDPG"
-release_date: "2012-01-19"
+entity_id: release:vndb:r23115:work:vndb:work:v2611
+type: release
+display_title: Rin x Sen + Ran→Sem - DVDPG
+release_date: '2012-01-19'
 is_all_ages: false
-platform: "dvd"
-edition_type: "complete"
-title_status: "needs_review"
+platform: dvd
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r23115"
+  vndb: r23115
 source_urls:
-  vndb: "https://vndb.org/r23115"
+  vndb: https://vndb.org/r23115
+aliases:
+- Rin x Sen ~Hakudaku Onna Kyoushi to Yaroudomo~
+- Rin x Sen ~Hakudaku Onna Kyoushi to Yaroudomo~ Download Edition
+- Rin x Sen ~Hakudaku Onna Kyoushi to Yaroudomo~ Package Edition
+consolidated_releases:
+- id: r23115
+  title: Rin x Sen + Ran→Sem - DVDPG
+  url: https://vndb.org/r23115
+  release_date: '2012-01-19'
+  platform: dvd
+  edition_type: complete
+  is_all_ages: false
+- id: r55878
+  title: Rin x Sen ~Hakudaku Onna Kyoushi to Yaroudomo~ Download Edition
+  url: https://vndb.org/r55878
+  release_date: '2009-09-25'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r5121
+  title: Rin x Sen ~Hakudaku Onna Kyoushi to Yaroudomo~ Package Edition
+  url: https://vndb.org/r5121
+  release_date: '2009-09-25'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r137198
+  title: Rin x Sen ~Hakudaku Onna Kyoushi to Yaroudomo~
+  url: https://vndb.org/r137198
+  release_date: 2025-03
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Rin x Sen + Ran→Sem - DVDPG

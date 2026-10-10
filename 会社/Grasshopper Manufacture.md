@@ -12,27 +12,10 @@ source_urls:
 # Grasshopper Manufacture
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Silver 2425 - Download Edition]]（developer）
-- [[Silver 2425 - Download Edition（PLAYISM）]]（developer）
-- [[Silver 2425 - Limited Edition]]（developer）
-- [[Silver 2425 - Limited Edition（Grasshopper Manufacture）]]（developer）
-- [[Silver 2425 - Regular Edition]]（developer）
-- [[Silver 2425 - Regular Edition（Grasshopper Manufacture）]]（developer）
-- [[Silver 2425]]（developer）
-- [[Silver 2425（PLAYISM）]]（developer）
-- [[Silver Jiken - Download Edition]]（developer）
-- [[Silver Jiken - Download Edition]]（publisher）
-- [[Silver Jiken - Download Edition（PLAYISM・release：）]]（developer）
-- [[Silver Jiken - Download Edition（PLAYISM・release：）]]（publisher）
-- [[Silver Jiken - Download Edition（PLAYISM）]]（developer）
-- [[Silver Jiken - Download Edition（PLAYISM）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/The Silver Case - Limited Package Edition]]（developer）
+- [[发行版/Silver Jiken 25 Ku]]（developer）
+- [[发行版/The Silver Case - Limited Package Edition]]（publisher）
 - [[Silver Jiken 25 Ku]]（developer）
-- [[Silver Jiken ［ASCII Casual Collection］]]（developer）
-- [[Silver Jiken]]（developer）
-- [[The Silver Case - Demo]]（developer）
-- [[The Silver Case - Demo]]（publisher）
-- [[The Silver Case - EU Limited Package Edition]]（developer）
-- [[The Silver Case - EU Standard Package Edition]]（developer）
 - [[The Silver Case - Limited Package Edition]]（developer）
 - [[The Silver Case - Limited Package Edition]]（publisher）
 - [[银色事件25区]]（developer）

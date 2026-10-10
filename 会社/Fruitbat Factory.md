@@ -12,27 +12,12 @@ source_urls:
 # Fruitbat Factory
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Jiangshi x Daoshi： Episode 3 - Lady Hexers (Steam Edition)]]（publisher）
-- [[Jiangshi x Daoshi： Episodes 1-2 Steam Edition]]（publisher）
-- [[Jiangshi x Daoshi： Episodes 1-3 Steam Content Restoration Patch]]（publisher）
-- [[Jiangshi x Daoshi： Episodes 1-3 Uncut Edition]]（publisher）
-- [[MAMIYA - A Shared Illusion of the World's End - Demo]]（publisher）
-- [[MAMIYA - A Shared Illusion of the World's End - Demo（Fruitbat Factory）]]（publisher）
-- [[MAMIYA - Complete Collection]]（publisher）
-- [[MAMIYA - DoomsDay Dreams-]]（publisher）
-- [[MAMIYA - DoomsDay Dreams-（Fruitbat Factory）]]（publisher）
-- [[SeaBed - Download Edition（Fruitbat Factory・release：）]]（publisher）
-- [[SeaBed - Download Edition（Fruitbat Factory）]]（publisher）
-- [[SeaBed Complete Collection]]（publisher）
-- [[SeaBed Demo]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Jiangshi x Taoshi]]（publisher）
+- [[发行版/Sekai Metsubou Kyouyuu Gensou MAMIYA - Download Edition]]（publisher）
+- [[发行版/SeaBed - Physical Edition]]（publisher）
 - [[SeaBed]]（publisher）
-- [[Sekai Metsubou Kyouyuu Gensou Mamiya]]（publisher）
-- [[Sekai Metsubou Kyouyuu Gensou Mamiya（Fruitbat Factory）]]（publisher）
-- [[Seven Days - Collector's Edition]]（publisher）
-- [[Seven Days - Special Edition]]（publisher）
-- [[Seven Days： Anata to Sugosu Nanokakan]]（publisher）
-- [[Seven Days： Anata to Sugosu Nanokakan（Fruitbat Factory）]]（publisher）
-- [[The Princess, the Stray Cat, and Matters of the Heart 2 Demo]]（publisher）
+- [[发行版/Seven Days： Anata to Sugosu Nanokakan - Download Edition]]（publisher）
+- [[发行版/The Princess, the Stray Cat, and Matters of the Heart 2（Fruitbat Factory）]]（publisher）
 - [[The Princess, the Stray Cat, and Matters of the Heart 2（Fruitbat Factory）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

@@ -12,9 +12,9 @@ source_urls:
 # Chengcai Xueyuan Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Fureraba ~Friend to Lover~（Chengcai Xueyuan Hanhuazu）]]（publisher）
-- [[Hua Xiao work spring!]]（publisher）
-- [[Qianlian ＊ Wanhua（Chengcai Xueyuan Hanhuazu）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Friend to Lover ~Fureraba~ First Press Limited Edition]]（publisher）
+- [[发行版/Hanasaki Work Spring! - First Production Limited Edition]]（publisher）
+- [[发行版/Senren ＊ Banka - Package Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,15 +12,13 @@ source_urls:
 # Sakura Symphony Re;Translation
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[D.C. II P.C. ~Da Capo II~ Plus Communication]]（publisher）
-- [[D.C. II ~Da Capo II~ Dearest Marriage]]（publisher）
-- [[D.C. II ~Da Capo II~ To You - Side Episodes]]（publisher）
-- [[D.C. II ~Da Capo II~]]（publisher）
-- [[D.C. III P.P. ~Da Capo III Platinum Partner~]]（publisher）
-- [[D.C. III ~Da Capo III~ Dream Days（Sakura Symphony Re;Translation）]]（publisher）
-- [[D.C.4 ~Da Capo 4~ Fortunate Departures]]（publisher）
-- [[D.C.4 ~Da Capo 4~ Fortunate Departures（Sakura Symphony Re;Translation）]]（publisher）
-- [[D.C.5 ~Da Capo 5~ Plus Happiness]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/D.C. II P.C. ~Da Capo II~ Plus Communication - Regular Edition]]（publisher）
+- [[发行版/D.C. II ~Da Capo II~ Dearest Marriage - Mail Order Limited Edition]]（publisher）
+- [[发行版/D.C. 10th Anniversary Arigatou Pack ~D.C.II P.C.E & To You~]]（publisher）
+- [[发行版/D.C. III P.P. ~Da Capo III Platinum Partner~ First Press Limited Edition]]（publisher）
+- [[发行版/D.C. III ~Da Capo III~ Dream Days - Download Edition]]（publisher）
+- [[发行版/D.C.4 ~Da Capo 4~ & D.C.4 ~Da Capo 4~ Fortunate Departures - Bundled Edition（ENTERGRAM）]]（publisher）
+- [[发行版/D.C.5 ~Da Capo 5~ Download Edition（ENTERGRAM）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

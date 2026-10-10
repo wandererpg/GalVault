@@ -30,7 +30,7 @@ portrait_image: "assets/characters/c15866.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[DRAMAtical Murder - Regular Edition]]（side）
+<!-- AUTO:BEGIN character -->- [[发行版/DRAMAtical Murder re：code - Regular Edition]]（side）
 - [[DRAMAtical Murder re：code - Regular Edition]]（primary）
 - [[DRAMAtical Murder re：connect]]（side）<!-- AUTO:END character -->
 

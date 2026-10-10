@@ -1,13 +1,26 @@
 ---
-entity_id: "vndb:work:v62459"
-type: "work"
-display_title: "Danganronpa: CHECKMATE"
-title_status: "unresolved"
+entity_id: vndb:work:v62459
+type: work
+display_title: 'Danganronpa: CHECKMATE'
+title_status: unresolved
 source_ids:
-  vndb: "v62459"
+  vndb: v62459
 source_urls:
-  vndb: "https://vndb.org/v62459"
-cover_image: "assets/covers/v62459.webp"
+  vndb: https://vndb.org/v62459
+cover_image: assets/covers/v62459.webp
+vndb_title: 'Danganronpa: CHECKMATE'
+vndb_content_updated: '2026-10-10'
+title_en: 'Danganronpa: CHECKMATE'
+first_release_date: '2021-11-21'
+vndb_vote_count: 0
+vndb_length: 1
+vndb_languages:
+- en
+vndb_platforms:
+- win
+- lin
+- mac
+vndb_devstatus: 0
 ---
 
 # Danganronpa: CHECKMATE
@@ -36,10 +49,23 @@ cover_image: "assets/covers/v62459.webp"
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
 
 ## 关联作品
-<!-- AUTO:BEGIN relation -->- [[弹丸论破 希望的学园与绝望的高中生]]（ser）<!-- AUTO:END relation -->
+<!-- AUTO:BEGIN relation -->
+- [[弹丸论破 希望的学园与绝望的高中生]]（ser）
+- [[作品/弹丸论破 希望的学园与绝望的高中生|Dangan Ronpa: Kibou no Gakuen to Zetsubou no Koukousei]]（ser）
+<!-- AUTO:END relation -->
 
 ## 标签
-<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+<!-- AUTO:BEGIN tag -->
+- [Kinetic Novel](https://vndb.org/g709)
+- [ADV](https://vndb.org/g32)
+- [Open Ending(s)](https://vndb.org/g1059)
+- [Game Jam](https://vndb.org/g1947)
+<!-- AUTO:END tag -->
 
 ## 来源
 <!-- AUTO:BEGIN provenance -->vndb:v62459<!-- AUTO:END provenance -->
+
+
+## VNDB 资料来源
+
+[VNDB：v62459](https://vndb.org/v62459)，补全于 2026-10-10。

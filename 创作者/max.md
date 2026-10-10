@@ -12,7 +12,7 @@ source_urls:
 # max
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Minotaur Hotel： Non-Binary Version v0.6.2]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Minotaur Hotel： SFW Mode v0.7]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

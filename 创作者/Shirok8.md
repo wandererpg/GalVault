@@ -15,7 +15,7 @@ source_urls:
 <!-- AUTO:BEGIN duty -->- [[Baku Ane ~Otouto Shibocchau zo!~]]（publisher）
 - [[Honoo no Haramase Oppai ★ Ero Appli Gakuen ［AI TL］]]（publisher）
 - [[Love×Holic ~Miwaku no Otome to Hakudaku Kankei~]]（publisher）
-- [[Soredemo Tsuma o Ai Shiteru（HTranslations）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Soredemo Tsuma o Ai Shiteru 2 - Gouka Premium Pack]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

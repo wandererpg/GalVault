@@ -52,16 +52,9 @@ cover_image: "assets/covers/v41944.webp"
 - [[Haruna Ren]]（榛名 れん）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Bunny's Mama Daikou Service - DVDPG]]
+<!-- AUTO:BEGIN release -->- [[发行版/Bunny's Mama Daikou Service - Download Edition]]
 - [[Bunny's Mama Daikou Service - Download Edition]]
-- [[Bunny's Mama Daikou Service - Package Edition]]
-- [[Bunny's Mama Daikou Service - Renewal Package Edition DVDPG]]
-- [[Bunny's Mama Daikou Service - Trial Edition]]
-- [[Bunny's Mama Daikou Service]]
-- [[Bunny's Mama Daikou Service（release：）]]
-- [[Bunny’s Rent-a-Mom Agency - 18+ DLC]]
-- [[Bunny’s Rent-a-Mom Agency - Censored Edition]]
-- [[Bunny’s Rent-a-Mom Agency]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -12,7 +12,7 @@ source_urls:
 # Team Waldo
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Jangae Sonyeo（Team Waldo）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Katawa Shoujo 1.3J]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

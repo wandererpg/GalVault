@@ -13,8 +13,8 @@ source_urls:
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Companion of Darkness]]（developer）
-- [[Companion of Darkness： Season 1 Ch. 9]]（developer）
-- [[Companion of Darkness： Season 1 Ch. 9]]（publisher）
+- [[发行版/Companion of Darkness： Season 2 Ch. 12.5]]（developer）
+- [[发行版/Companion of Darkness： Season 2 Ch. 12.5]]（publisher）
 - [[Companion of Darkness： Season 2 Ch. 12.5]]（developer）
 - [[Companion of Darkness： Season 2 Ch. 12.5]]（publisher）<!-- AUTO:END duty -->
 

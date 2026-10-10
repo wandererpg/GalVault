@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r79848:work:vndb:work:v19786"
-type: "release"
-display_title: "NOeSIS -Uso o Tsuita Kioku no Monogatari-"
-release_date: "2016-07-27"
+entity_id: release:vndb:r79848:work:vndb:work:v19786
+type: release
+display_title: NOeSIS -Uso o Tsuita Kioku no Monogatari-
+release_date: '2016-07-27'
 is_all_ages: true
-platform: "ios"
-edition_type: "complete"
-title_status: "needs_review"
+platform: ios
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r79848"
+  vndb: r79848
 source_urls:
-  vndb: "https://vndb.org/r79848"
+  vndb: https://vndb.org/r79848
+aliases:
+- NOeSIS -Uso o Tsuita Kioku no Monogatari-
+- NOeSIS -Uso o Tsuita Kioku no Monogatari-（FuRyu Corporation）
+consolidated_releases:
+- id: r79848
+  title: NOeSIS -Uso o Tsuita Kioku no Monogatari-
+  url: https://vndb.org/r79848
+  release_date: '2016-07-27'
+  platform: ios
+  edition_type: complete
+  is_all_ages: true
+- id: r47369
+  title: NOeSIS -Uso o Tsuita Kioku no Monogatari-
+  url: https://vndb.org/r47369
+  release_date: '2016-06-22'
+  platform: and
+  edition_type: complete
+  is_all_ages: true
+- id: r49847
+  title: NOeSIS -Uso o Tsuita Kioku no Monogatari-
+  url: https://vndb.org/r49847
+  release_date: '2016-11-30'
+  platform: n3d
+  edition_type: complete
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # NOeSIS -Uso o Tsuita Kioku no Monogatari-

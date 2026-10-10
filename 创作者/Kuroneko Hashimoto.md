@@ -12,36 +12,34 @@ source_urls:
 # Kuroneko Hashimoto
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Amatsutsumi（vndb：r13）]]（publisher）
-- [[Ano Harewataru Sora yori Takaku]]（publisher）
-- [[Bishoujo Mangekyou -Kotowari to Meikyuu no Shoujo-（release：）]]（publisher）
-- [[Ecchi de Ichizu na Doinaka Nii-sama to, Koshikiyukashii Byoujaku Imouto - Decensor Patch]]（publisher）
-- [[Evenicle（release：）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Amatsutsumi - Download Edition]]（publisher）
+- [[发行版/Ano Harewataru Sora yori Takaku - Download Edition]]（publisher）
+- [[发行版/Meishaonv Wanhuajing -Tiandao yu Migong de Shaonv-]]（publisher）
+- [[发行版/Chiqing Gege yu Bingruo Meimei de Xiangjian Shenghuo]]（publisher）
+- [[发行版/Evenicle - Download Edition]]（publisher）
 - [[Fate／hollow ataraxia]]（publisher）
-- [[Fate／stay night（vndb：r13）]]（publisher）
-- [[Fureraba ~Friend to Lover~ HD Renewal Edition]]（publisher）
-- [[Fureraba ~Friend to Lover~]]（publisher）
-- [[Hatsuyuki Sakura]]（publisher）
-- [[Kara no Shoujo - FULL VOICE HD SIZE EDITION]]（publisher）
-- [[Kara no Shoujo - The Second Episode]]（publisher）
-- [[Kara no Shoujo]]（publisher）
-- [[Kimi to Kanojo to Kanojo no Koi]]（publisher）
-- [[Kimihane Couples ~Kanojo to Kanojo no Koi Suru Nikagetsu Chotto~]]（publisher）
-- [[Kin'iro Loveriche -Golden Time-]]（publisher）
-- [[Kin'iro Loveriche（release：）]]（publisher）
-- [[Kono Oozora ni, Tsubasa o Hirogete： FLIGHT DIARY]]（publisher）
-- [[Kyonyuu Fantasy 2 - Uncensored Patch]]（publisher）
-- [[Kyonyuu Fantasy 3 if]]（publisher）
-- [[Kyonyuu Fantasy Gaiden 2]]（publisher）
-- [[Kyonyuu Fantasy Gaiden（release：）]]（publisher）
-- [[Lamento -BEYOND THE VOID-（vndb：r13）]]（publisher）
-- [[Maitetsu - Decensor Patch]]（publisher）
-- [[Maji de Watashi ni Koi Shinasai!]]（publisher）
-- [[Making ＊ Lovers（release：）]]（publisher）
-- [[Saya no Uta（vndb：r13）]]（publisher）
-- [[Sekai de Ichiban Dame na Koi]]（publisher）
-- [[Subarashiki Hibi ~Furenzoku Sonzai~ Full Voice HD Edition]]（publisher）
-- [[doHna：doHna -Issho ni Warui Koto o Shiyou-（release：）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Fate／Stay Night ［Realta Nua］ - Ultimate Edition]]（publisher）
+- [[发行版/Friend to Lover ~Fureraba~ First Press Limited Edition]]（publisher）
+- [[发行版/Hatsuyuki Sakura White Graduation - Download Edition]]（publisher）
+- [[发行版/Innocent Grey Mystery Collection ~Kara no Shoujo & Pianissimo & Cartagra~]]（publisher）
+- [[发行版/Kara no Shoujo - NEW CAST REMASTER EDITION - Download Edition]]（publisher）
+- [[发行版/Ty, ja i ona： Istorija ljubvi - Steam Edition]]（publisher）
+- [[发行版/Kimihane Couples ~Kanojo to Kanojo no Koi Suru Nikagetsu Chotto~ Download Edition]]（publisher）
+- [[发行版/Kin'iro Loveriche + Kin'iro Loveriche -Golden Time- Golden Pack（SAGA PLANETS）]]（publisher）
+- [[发行版/Kin'iro Loveriche + Kin'iro Loveriche -Golden Time- Golden Pack]]（publisher）
+- [[发行版/Kono Oozora ni, Tsubasa o Hirogete Cruise Sign - Regular Edition（MAGES・release：）]]（publisher）
+- [[发行版/Kyonyuu Fantasy 2 - DVDPG]]（publisher）
+- [[发行版/Kyonyuu Fantasy 3 - Digital Novel Edition - Limited Set - Download Card Edition（Waffle）]]（publisher）
+- [[发行版/Kyonyuu Fantasy Gaiden 2 - DVDPG]]（publisher）
+- [[发行版/Kyonyuu Fantasy Gaiden - DVDPG]]（publisher）
+- [[发行版/Lamento -BEYOND THE VOID- Windows 10 Support Edition - Download Edition]]（publisher）
+- [[发行版/Maitetsu Remaster]]（publisher）
+- [[发行版/BugBug 200 Anniversary DVD MiniMini AVG Collection Part 1（Minato Soft）]]（publisher）
+- [[发行版/Making ＊ Lovers - PS4 Download Edition]]（publisher）
+- [[发行版/Saya no Uta ~ The Song of Saya - Upgrade Patch]]（publisher）
+- [[发行版/Sekai de Ichiban Dame na Koi Full House - Regular Edition]]（publisher）
+- [[发行版/Meihao de Meiyitian（Lingxue Hanhuazu）]]（publisher）
+- [[发行版/doHna：doHna -Issho ni Warui Koto o Shiyou- Deluxe Edition with body pillow cover]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

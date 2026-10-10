@@ -96,9 +96,8 @@ cover_image: "assets/covers/v27505.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Nasha Krasnaja Nit' Ch. 1-13.3.5]]
-- [[Our Red String - Demo]]
-- [[Our Red String v0.15.1.3]]
-- [[Our Red String v0.15.1.3（release：）]]<!-- AUTO:END release -->
+- [[发行版/Nasha Krasnaja Nit' Ch. 1-13.3.5]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

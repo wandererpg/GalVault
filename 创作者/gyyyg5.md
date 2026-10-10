@@ -12,7 +12,7 @@ source_urls:
 # gyyyg5
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Ichigokuruiza]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Ichigokuruiza（release：）]]（publisher）
 - [[NO SALVATION]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演

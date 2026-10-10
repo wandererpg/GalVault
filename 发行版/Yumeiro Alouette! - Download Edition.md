@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r29979:work:vndb:work:v9127"
-type: "release"
-display_title: "Yumeiro Alouette! - Download Edition"
-release_date: "2013-10-11"
+entity_id: release:vndb:r29979:work:vndb:work:v9127
+type: release
+display_title: Yumeiro Alouette! - Download Edition
+release_date: '2013-10-11'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r29979"
+  vndb: r29979
 source_urls:
-  vndb: "https://vndb.org/r29979"
+  vndb: https://vndb.org/r29979
+aliases:
+- Yumeiro Alouette! - Package Edition
+- Yumeiro Alouette! - Trial Edition
+consolidated_releases:
+- id: r29979
+  title: Yumeiro Alouette! - Download Edition
+  url: https://vndb.org/r29979
+  release_date: '2013-10-11'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r18308
+  title: Yumeiro Alouette! - Package Edition
+  url: https://vndb.org/r18308
+  release_date: '2013-04-26'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r25275
+  title: Yumeiro Alouette! - Trial Edition
+  url: https://vndb.org/r25275
+  release_date: '2013-01-18'
+  platform: win
+  edition_type: trial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Yumeiro Alouette! - Download Edition

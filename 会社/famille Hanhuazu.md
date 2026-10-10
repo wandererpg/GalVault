@@ -12,9 +12,9 @@ source_urls:
 # famille Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Nüpu Kafei Parfait SE]]（publisher）
-- [[Shijie Shang Zui NG de Lian'ai Full House]]（publisher）
-- [[Shijieshang zui NG de Lian'ai]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Parfait ~Chocolat Second Style~ Limited Edition]]（publisher）
+- [[发行版/Sekai de Ichiban Dame na Koi Full House - Regular Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

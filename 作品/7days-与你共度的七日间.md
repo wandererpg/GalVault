@@ -79,24 +79,9 @@ cover_image: "assets/covers/v19654.webp"
 - [[Urata Wataru]]（浦田 わたる）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[7days-Yu Ni Gongdu De Qirijian]]
-- [[7days-Yu Ni Gongdu De Qirijian（Moshi Youxi Zhongwenhua Xingqu Xiaozu・release：）]]
-- [[7days-Yu Ni Gongdu De Qirijian（Moshi Youxi Zhongwenhua Xingqu Xiaozu）]]
-- [[Seven Days - Collector's Edition]]
-- [[Seven Days - Special Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Seven Days： Anata to Sugosu Nanokakan - Download Edition]]
 - [[Seven Days： Anata to Sugosu Nanokakan - Download Edition]]
-- [[Seven Days： Anata to Sugosu Nanokakan - Download Edition（PROTOTYPE）]]
-- [[Seven Days： Anata to Sugosu Nanokakan - First Press Limited Deluxe Edition]]
-- [[Seven Days： Anata to Sugosu Nanokakan - Limited Edition]]
-- [[Seven Days： Anata to Sugosu Nanokakan - Package Edition]]
-- [[Seven Days： Anata to Sugosu Nanokakan - Refine Version (tentative title)]]
-- [[Seven Days： Anata to Sugosu Nanokakan - Regular Edition]]
-- [[Seven Days： Anata to Sugosu Nanokakan - Visual Book Included First Press Limited Edition]]
-- [[Seven Days： Anata to Sugosu Nanokakan -Prologue Only Trial Edition-]]
-- [[Seven Days： Anata to Sugosu Nanokakan]]
-- [[Seven Days： Anata to Sugosu Nanokakan（Fruitbat Factory）]]
-- [[Seven Days： Anata to Sugosu Nanokakan（release：）]]
-- [[Seven Days： Murasaki Iro no Fuutou Hen - Windows Edition]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

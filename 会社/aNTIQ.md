@@ -12,20 +12,13 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Kimi ga Ita Kisetsu - Download Edition]]（publisher）
-- [[Kimi ga Nozomu Eien ~Enhanced Edition R~ - Download Edition]]（publisher）
-- [[Kimi ga Nozomu Eien ~Enhanced Edition R~ - First Press Deluxe Limited Edition - Hayase Mitsuki Ver]]（publisher）
-- [[Kimi ga Nozomu Eien ~Enhanced Edition R~ - First Press Deluxe Limited Edition - Suzumiya Akane Ver]]（publisher）
-- [[Kimi ga Nozomu Eien ~Enhanced Edition R~ - First Press Deluxe Limited Edition - Suzumiya Haruka Ver]]（publisher）
-- [[Kimi ga Nozomu Eien ~Enhanced Edition R~ - First Press Limited Edition]]（publisher）
-- [[Kimi ga Nozomu Eien ~Enhanced Edition R~ - Trial Edition]]（publisher）
-- [[Muv-Luv Altered Fable - Download Edition]]（publisher）
-- [[Muv-Luv Alternative - Download Edition]]（publisher）
+- [[发行版/Kimi ga Nozomu Eien ~Enhanced Edition~ Download Edition]]（publisher）
+- [[发行版/Muv-Luv Alternative - Total Eclipse - Regular Edition（MAGES）]]（publisher）
+- [[发行版/Muv-Luv Alternative - Steam Edition]]（publisher）
 - [[age Memorial Bundle]]（publisher）
-- [[age Memorial Bundle（aNTIQ・k：v47936）]]（publisher）
-- [[age Memorial Bundle（aNTIQ・release：）]]（publisher）
-- [[age Memorial Bundle（aNTIQ・rk：v7052）]]（publisher）
+- [[发行版/Muv-Luv Alternative - Total Eclipse： Teito Moyu（MAGES）]]（publisher）
+- [[发行版/Kimi ga Ita Kisetsu - Download Edition]]（publisher）
 - [[age Memorial Bundle（aNTIQ・vndb：r13）]]（publisher）
-- [[age Memorial Bundle（aNTIQ・work：v92）]]（publisher）
 - [[age Memorial Bundle（aNTIQ）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

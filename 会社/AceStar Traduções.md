@@ -12,7 +12,7 @@ source_urls:
 # AceStar Traduções
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Gin'iro, Haruka（AceStar Traduções）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Gin'iro, Haruka（Tsurezure Scans）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

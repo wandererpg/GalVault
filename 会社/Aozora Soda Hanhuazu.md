@@ -12,7 +12,7 @@ source_urls:
 # Aozora Soda Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Qingkongwanli Yi Lingyun ／ Chongpo Wanli Qingkong Zhi Shang]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Ano Harewataru Sora yori Takaku - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

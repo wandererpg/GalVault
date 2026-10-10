@@ -12,7 +12,7 @@ source_urls:
 # Huangquan Hanhua zhi Yan
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Renlang Cun zhi Mi（Huangquan Hanhua zhi Yan）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Rei-Jin-G-Lu-P - Package Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

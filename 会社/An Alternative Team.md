@@ -12,7 +12,7 @@ source_urls:
 # An Alternative Team
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Your Turn To Die - Redemption Given by Fate - Demo]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Your Turn To Die - Redemption Given by Fate - Demo（release：）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

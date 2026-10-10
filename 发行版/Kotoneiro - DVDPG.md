@@ -1,16 +1,58 @@
 ---
-entity_id: "release:vndb:r153643:work:vndb:work:v22625"
-type: "release"
-display_title: "Kotoneiro - DVDPG"
-release_date: "2026-06-18"
+entity_id: release:vndb:r153643:work:vndb:work:v22625
+type: release
+display_title: Kotoneiro - DVDPG
+release_date: '2026-06-18'
 is_all_ages: false
-platform: "dvd"
-edition_type: "complete"
-title_status: "needs_review"
+platform: dvd
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r153643"
+  vndb: r153643
 source_urls:
-  vndb: "https://vndb.org/r153643"
+  vndb: https://vndb.org/r153643
+aliases:
+- Kotoneiro
+- Kotoneiro - Acrylic Figure Included
+- Kotoneiro - Regular Edition
+- Kotoneiro（release：）
+consolidated_releases:
+- id: r153643
+  title: Kotoneiro - DVDPG
+  url: https://vndb.org/r153643
+  release_date: '2026-06-18'
+  platform: dvd
+  edition_type: complete
+  is_all_ages: false
+- id: r158067
+  title: Kotoneiro - Acrylic Figure Included
+  url: https://vndb.org/r158067
+  release_date: '2026-05-29'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r158066
+  title: Kotoneiro - Regular Edition
+  url: https://vndb.org/r158066
+  release_date: '2026-05-29'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r55819
+  title: Kotoneiro
+  url: https://vndb.org/r55819
+  release_date: '2026-03-13'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r152887
+  title: Kotoneiro
+  url: https://vndb.org/r152887
+  release_date: '2026-04-08'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Kotoneiro - DVDPG

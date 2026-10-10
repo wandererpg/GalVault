@@ -90,22 +90,9 @@ cover_image: "assets/covers/v5909.webp"
 - [[Yuuki Serika]]（小町多 すずえ）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[HHG - Anniversary Pack - Download Edition（Windmill）]]
-- [[HHG - Anniversary Pack（Windmill）]]
-- [[HHG Double Pack（Windmill）]]
-- [[Hyper→Highspeed→Genius - Download Edition]]
-- [[Hyper→Highspeed→Genius - First Press Limited Edition]]
-- [[Hyper→Highspeed→Genius - Genius Pack - Download Edition]]
-- [[Hyper→Highspeed→Genius - Genius Pack]]
-- [[Hyper→Highspeed→Genius - Limited Edition]]
-- [[Hyper→Highspeed→Genius - Regular Edition]]
-- [[Hyper→Highspeed→Genius - Trial Edition - Genius Ikusei Kikan ＂Hazuki Gakuen Taiken Nyuugaku＂ Hen]]
-- [[Hyper→Highspeed→Genius - Trial Edition - Hatsubai Chokuzen no Otanoshimi ＂Ecchi na Taiken＂ Hen]]
-- [[Hyper→Highspeed→Genius - Trial Edition - Kaichou Kouho ＂Hazuki Suina to Satsuki Gakuen＂ Hen - Modified Version]]
-- [[Hyper→Highspeed→Genius - Trial Edition - Kaichou Kouho ＂Sakura Windsor to Sei July Gakuen＂ Hen - Modified Version]]
-- [[Hyper→Highspeed→Genius - Trial Edition - Kaichou Kouho ＂Shiguresato Himeno to Minazuki Gakuen＂ Hen - Modified Version]]
+<!-- AUTO:BEGIN release -->- [[发行版/Hyper→Highspeed→Genius]]
 - [[Hyper→Highspeed→Genius]]
-- [[Hyper→Highspeed→Genius（release：）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

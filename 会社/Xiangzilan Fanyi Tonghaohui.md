@@ -12,7 +12,7 @@ source_urls:
 # Xiangzilan Fanyi Tonghaohui
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Taitou Kankanba, Kanna Tianshang De Fanxing FINE DAYS Yangnannan √APPEND]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Miagete Goran, Yozora no Hoshi o： Fine Days - Hinamin √Append Patch]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

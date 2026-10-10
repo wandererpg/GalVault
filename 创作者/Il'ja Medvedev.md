@@ -12,7 +12,7 @@ source_urls:
 # Il'ja Medvedev
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Kara no Shoujo - The Second Episode（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kara no Shoujo - NEW CAST REMASTER EDITION - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

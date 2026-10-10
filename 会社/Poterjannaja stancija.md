@@ -12,9 +12,9 @@ source_urls:
 # Poterjannaja stancija
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Kvest monstrodev!（Poterjannaja stancija・release：）]]（publisher）
-- [[Kvest monstrodev!（Poterjannaja stancija・vndb：r63）]]（publisher）
-- [[Kvest monstrodev!（Poterjannaja stancija）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Monmusu Quest! Origins -Assaulted by the Vamp-]]（publisher）
+- [[发行版/Monmusu Quest! Chuushou ~Makereba Youjo ni Okasareru~]]（publisher）
+- [[发行版/Monmusu Quest! Shuushou ~Makereba Youjo ni Okasareru~]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

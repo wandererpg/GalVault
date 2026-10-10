@@ -12,7 +12,7 @@ source_urls:
 # Depravity
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Amayui Castle Meister（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Amayui Castle Meister - Guarakuuna Jousai Expansion Disc - Package Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

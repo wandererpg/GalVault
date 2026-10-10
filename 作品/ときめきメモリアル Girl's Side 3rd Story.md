@@ -110,16 +110,9 @@ cover_image: "assets/covers/v2956.webp"
 - [[Tachibana Shinnosuke]]（立花 慎之介）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[GS3 Xintiao Huiyi]]
-- [[Tokimeki Memorial Girl's Side Premium ~3rd Story~ Download Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Tokimeki Memorial Girl's Side Premium ~3rd Story~ First Press Limited Edition]]
 - [[Tokimeki Memorial Girl's Side Premium ~3rd Story~ First Press Limited Edition]]
-- [[Tokimeki Memorial Girl's Side Premium ~3rd Story~]]
-- [[Tokimeki Memorial Girl's Side Premium ~3rd Story~（KONAMI）]]
-- [[Tokimeki Memorial Girl's Side Triple Pack]]
-- [[Tokimeki Memorial Girl's Side： 3rd Story for Nintendo Switch]]
-- [[Tokimeki Memorial Girl's Side： 3rd Story for Nintendo Switch（release：）]]
-- [[Tokimeki Memorial Girl's Side： 3rd Story]]
-- [[Tokimeki Memorial Girl's Side： 3rd Story（KONAMI）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

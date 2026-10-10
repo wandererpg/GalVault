@@ -12,7 +12,7 @@ source_urls:
 # chen_xin_ming
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Qiu zhi Huiyi 2（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Memories Off Historia - Super Limited Edition（MAGES・vndb：r11）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

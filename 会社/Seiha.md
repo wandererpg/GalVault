@@ -12,10 +12,10 @@ source_urls:
 # Seiha
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Bunny Black 2]]（publisher）
-- [[Bunny Black 3]]（publisher）
-- [[GALAXY ANGEL Eternal Lovers]]（publisher）
-- [[Kamidori Alchemy Meister]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/BUNNYBLACK2]]（publisher）
+- [[发行版/BUNNYBLACK3]]（publisher）
+- [[发行版/GALAXY ANGEL Eternal Lovers - Special Package DVD-ROM Edition]]（publisher）
+- [[发行版/Kamidori Alchemy Meister Append Disk - Hanna-san no Junrei Ryokouki - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

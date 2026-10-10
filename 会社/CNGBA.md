@@ -12,8 +12,8 @@ source_urls:
 # CNGBA
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[CLANNAD（CNGBA）]]（publisher）
-- [[Qiu zhi Huiyi 4： Congjin Yihou]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/CLANNAD（Hikarizaka Gaoxiao Zhongwen Bu）]]（publisher）
+- [[发行版/Memories Off Historia - Super Limited Edition（MAGES）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

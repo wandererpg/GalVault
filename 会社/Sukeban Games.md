@@ -12,26 +12,9 @@ source_urls:
 # Sukeban Games
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[VA-11 HALL-A - Download Edition]]（developer）
-- [[VA-11 HALL-A - Download Edition（Sukeban Games）]]（developer）
-- [[VA-11 HALL-A - EU Download Edition]]（developer）
-- [[VA-11 HALL-A - JP Edition]]（developer）
-- [[VA-11 HALL-A - JP Package Edition]]（developer）
-- [[VA-11 HALL-A - JP Package Edition（Sukeban Games）]]（developer）
-- [[VA-11 HALL-A - NA Download Edition]]（developer）
-- [[VA-11 HALL-A - NA Download Edition（Sukeban Games）]]（developer）
-- [[VA-11 HALL-A - Package Edition]]（developer）
-- [[VA-11 HALL-A - Prologue]]（developer）
-- [[VA-11 HALL-A - Prologue]]（publisher）
-- [[VA-11 HALL-A - Prototype（Sukeban Games）]]（developer）
-- [[VA-11 HALL-A - Prototype（Sukeban Games）]]（publisher）
-- [[VA-11 HALL-A - Special Demo Version]]（developer）
-- [[VA-11 HALL-A v1.2.1]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/VA-11 Hall-A： Cyberpunk Bartender Action（Sukeban Games）]]（developer）
+- [[发行版/VA-11 Hall-A： Cyberpunk Bartender Action（Sukeban Games）]]（publisher）
 - [[VA-11 HALL-A]]（developer）
-- [[VA-11 HALL-A（Sukeban Games・release：）]]（developer）
-- [[VA-11 HALL-A（Sukeban Games・vndb：r64）]]（developer）
-- [[VA-11 HALL-A（Sukeban Games）]]（developer）
-- [[VA-11 Hall-A： Cyberpunk Bartender Action]]（developer）
 - [[VA-11 Hall-A： Cyberpunk Bartender Action（Sukeban Games）]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

@@ -12,11 +12,11 @@ source_urls:
 # ACG Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Da Nizhuan Caipan 2： Naruhodou Ryuunosuke de Juewu]]（publisher）
-- [[Da Nizhuan Caipan： Naruhodou Ryuunosuke de Maoxian]]（publisher）
-- [[Jixian Tuochu ADV Shanren Siwang]]（publisher）
-- [[Jixian Tuochu： 9-Xiaoshi 9-Ren 9 Shan Men]]（publisher）
-- [[Xing zhi Meng]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Dai Gyakuten Saiban 2 -Naruhodou Ryuunosuke no Kakugo-]]（publisher）
+- [[发行版/Dai Gyakuten Saiban 1&2 Limited Edition -Naruhodou Ryuunosuke no Bouken to Kakugo-]]（publisher）
+- [[发行版/Kyokugen Dasshutsu ADV Zennin Shibou Desu - Download Edition]]（publisher）
+- [[发行版/Kyokugen Dasshutsu 9-Jikan 9-Nin 9 no Tobira - Chun Selection]]（publisher）
+- [[发行版/Planetarian ~The Reverie of a Little Planet~（release：）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

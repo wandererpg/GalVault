@@ -44,9 +44,7 @@ cover_image: "assets/covers/v57944.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Vnov' prol'jotsja krov'： Strejd]]
-- [[Vnov' prol'jotsja krov'： Strejd（Perevod YKMET： STRADE (18+)・release：）]]
-- [[Vnov' prol'jotsja krov'： Strejd（Perevod YKMET： STRADE (18+)）]]
+<!-- AUTO:BEGIN release -->- [[发行版/YKMET： Strade]]
 - [[YKMET： Strade]]<!-- AUTO:END release -->
 
 ## 动画化

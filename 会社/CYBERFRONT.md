@@ -12,59 +12,21 @@ source_urls:
 # CYBERFRONT
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[BEST HIT Selection CROSS†CHANNEL ~To all people~]]（publisher）
-- [[Cross†Channel ~In Memory of All People~ Limited Edition]]（publisher）
-- [[Cross†Channel ~In Memory of All People~ Regular Edition]]（publisher）
-- [[Cross†Channel ~To All People~ Limited Edition]]（publisher）
-- [[Cross†Channel ~To All People~ Regular Edition（CYBERFRONT）]]（publisher）
-- [[Eien no Aselia -Kono Daichi no Hate De- First Press Limited Edition]]（publisher）
-- [[Eien no Aselia -Kono Daichi no Hate De- Regular Edition]]（publisher）
-- [[Ever17 - First Press Limited Edition]]（developer）
-- [[Ever17 - First Press Limited Edition]]（publisher）
-- [[Ever17 - Regular Edition]]（developer）
-- [[Ever17 - Regular Edition]]（publisher）
-- [[Ever17 -The Out of Infinity- (Ren'ai Game Selection)]]（publisher）
-- [[Ever17 -The Out of Infinity- Download Edition]]（publisher）
-- [[Ever17 -The Out of Infinity- Premium Edition - Best Edition]]（publisher）
-- [[Ever17 -The Out of Infinity- Premium Edition - Limited Edition]]（publisher）
-- [[Ever17 -The Out of Infinity- Premium Edition - Regular Edition]]（publisher）
-- [[Ever17 -The Out of Infinity-（CYBERFRONT・release：）]]（publisher）
-- [[Ever17 -The Out of Infinity-（CYBERFRONT）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Cross†Channel ~To All People~ Regular Edition]]（publisher）
+- [[发行版/Eien no Aselia -The Spirit of Eternity Sword- Premium Special Edition + Seinarukana -The Spirit of Eternity Sword 2- Special Edition W Set]]（publisher）
+- [[发行版/Ever17／Never7 Double Pack - Download Edition]]（developer）
+- [[发行版/Ever17／Never7 Double Pack - Download Edition]]（publisher）
+- [[发行版/Ever17 -The Out of Infinity- Download Edition（MAGES）]]（publisher）
 - [[Ever17]]（developer）
-- [[Infinity Plus Portable]]（publisher）
-- [[Infinity Plus Portable（CYBERFRONT）]]（publisher）
-- [[Infinity Plus]]（publisher）
-- [[Infinity Plus（CYBERFRONT・release：）]]（publisher）
-- [[Infinity Plus（CYBERFRONT・vndb：r62）]]（publisher）
-- [[Infinity Plus（CYBERFRONT）]]（publisher）
-- [[Infinity Selection - Download Edition]]（publisher）
-- [[Infinity Selection]]（publisher）
-- [[Memories Off History]]（publisher）
-- [[Memories Off History（CYBERFRONT・release：）]]（publisher）
-- [[Memories Off History（CYBERFRONT）]]（publisher）
-- [[My Merry May with be (Best Hit Selection)]]（publisher）
-- [[My Merry May with be - Limited Edition（CYBERFRONT）]]（publisher）
-- [[My Merry May with be - Regular Edition（CYBERFRONT）]]（publisher）
+- [[发行版/Remember11 -The Age of Infinity- Download Edition（MAGES）]]（publisher）
+- [[发行版/Memories Off Historia - Super Limited Edition（MAGES・vndb：r11）]]（publisher）
+- [[发行版/Memories Off Historia - Super Limited Edition（MAGES・release：）]]（publisher）
+- [[发行版/Memories Off Historia - Super Limited Edition（MAGES）]]（publisher）
+- [[发行版/My Merry Maybe]]（publisher）
 - [[Princess Maker 4 - Special Edition]]（publisher）
-- [[Princess Maker 4 DS Special Edition]]（publisher）
-- [[Princess Maker 4 Portable - Best Hit Selection]]（publisher）
-- [[Princess Maker 4 Portable]]（publisher）
-- [[Princess Maker Portable Pack]]（publisher）
-- [[Remember11 -The Age of Infinity- (Ren'ai Game Selection)]]（publisher）
-- [[Remember11 -The Age of Infinity- Best Hit Selection]]（publisher）
-- [[Remember11 -The Age of Infinity- Download Edition]]（publisher）
-- [[Remember11 -The Age of Infinity- Limited Edition（CYBERFRONT）]]（publisher）
-- [[Remember11 -The Age of Infinity- Regular Edition]]（publisher）
-- [[Remember11 -The Age of Infinity-（CYBERFRONT・release：）]]（publisher）
-- [[Remember11 -The Age of Infinity-（CYBERFRONT）]]（publisher）
-- [[Ren'ai Game Selection - Ever17 ~The Out of Infinity~ Premium Edition]]（publisher）
-- [[Ren'ai Game Selection - Memories Off Duet]]（publisher）
-- [[Ren'ai Game Selection - Memories Off Duet（CYBERFRONT）]]（publisher）
-- [[Ren'ai Game Selection - Remember11 ~The Age of Infinity~]]（publisher）
-- [[Saihate no Ima PORTABLE - DL Edition]]（publisher）
-- [[Saihate no Ima PORTABLE - Limited Edition]]（publisher）
-- [[Saihate no Ima PORTABLE - Regular Edition]]（publisher）
-- [[Tasogare no Sinsemilla Portable - Limited Edition]]（publisher）
+- [[发行版/Princess Maker 4 - Special Edition]]（publisher）
+- [[发行版/Saihate no Ima - Full Voice Download Edition]]（publisher）
+- [[发行版/Tasogare no Sinsemilla Portable - Regular Edition]]（publisher）
 - [[Tasogare no Sinsemilla Portable - Regular Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

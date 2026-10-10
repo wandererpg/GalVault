@@ -12,12 +12,10 @@ source_urls:
 # Senbonzakura
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Danganronpa： O Colégio da Esperança e os Estudantes do Desespero - Versão Demo]]（publisher）
-- [[Danganronpa： O Colégio da Esperança e os Estudantes do Desespero]]（publisher）
-- [[Danganronpa： O Colégio da Esperança e os Estudantes do Desespero（Senbonzakura）]]（publisher）
-- [[Kanon - Standard Edition（Senbonzakura）]]（publisher）
-- [[Super Danganronpa 2： Adeus Colégio do Desespero]]（publisher）
-- [[Super Danganronpa 2： Adeus Colégio do Desespero（Senbonzakura）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Danganronpa Decadence - EU Package Edition（Numskull Games Ltd）]]（publisher）
+- [[发行版/Kanon（Key）]]（publisher）
+- [[发行版/Danganronpa Decadence - EU Package Edition（Numskull Games Ltd・release：）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

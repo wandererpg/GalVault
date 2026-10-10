@@ -12,18 +12,17 @@ source_urls:
 # TLWiki
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Daiteikoku（TLWiki）]]（publisher）
-- [[Fate／Hollow Ataraxia（Beast's Lair ／ Lunacy）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Dadiguo（Dadiguoba Hanhuazu）]]（publisher）
+- [[发行版/Fate／Hollow Ataraxia - Voice Patch]]（publisher）
 - [[G-senjou no Maou（Aegis）]]（publisher）
-- [[Grisaia no Kajitsu - Le Fruit de la Grisaia (English Demo)]]（publisher）
-- [[Grisaia no Kajitsu - Le Fruit de la Grisaia]]（publisher）
-- [[Remember11 -The Age of Infinity-（TLWiki）]]（publisher）
-- [[Saya no Uta（TLWiki）]]（publisher）
-- [[Sharin no Kuni, Himawari no Shoujo（TLWiki）]]（publisher）
-- [[Sumaga（TLWiki）]]（publisher）
-- [[Symphonic Rain（TLWiki）]]（publisher）
-- [[Wonderful Everyday - Discontinuous Existence]]（publisher）
-- [[YU-NO - The Girl that Chants Love at the Edge of the World（TLWiki）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/The Grisaia Trilogy]]（publisher）
+- [[发行版/Remember11 -The Age of Infinity- Download Edition（MAGES）]]（publisher）
+- [[发行版/Saya no Uta ~ The Song of Saya - Upgrade Patch]]（publisher）
+- [[发行版/Sharin no Kuni, Himawari no Shoujo（Doitsugo Trans）]]（publisher）
+- [[发行版/Sumaga - Special Limited Edition]]（publisher）
+- [[发行版/Symphonic Rain - DVD Edition - First Press Limited Edition]]（publisher）
+- [[发行版/Meihao de Meiyitian（Lingxue Hanhuazu）]]（publisher）
+- [[发行版/Kono Yo no Hate de Koi o Utau Shoujo YU-NO - Windows 10 Support Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,18 +12,10 @@ source_urls:
 # Aniplex of America Inc.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Mahoutsukai no Yoru - Demo Edition]]（publisher）
-- [[Mahoutsukai no Yoru - Demo Edition（Aniplex of America Inc）]]（publisher）
-- [[Mahoutsukai no Yoru - Digital Deluxe Edition（Aniplex of America Inc）]]（publisher）
-- [[Mahoutsukai no Yoru - Download Edition（Aniplex of America Inc・release：）]]（publisher）
-- [[Mahoutsukai no Yoru - Download Edition（Aniplex of America Inc）]]（publisher）
-- [[Mahoutsukai no Yoru - Limited Edition]]（publisher）
-- [[Mahoutsukai no Yoru - Limited Edition（Aniplex of America Inc）]]（publisher）
-- [[TSUKIHIME -A piece of blue glass moon- NA Limited Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Mahoutsukai no Yoru]]（publisher）
+- [[发行版/Tsukihime -A piece of blue glass moon- Digital Deluxe Edition]]（publisher）
 - [[Tsukihime -A piece of blue glass moon- Digital Deluxe Edition]]（publisher）
-- [[Tsukihime -A piece of blue glass moon- Download Edition]]（publisher）
-- [[Tsukihime -A piece of blue glass moon- Download Edition（Aniplex Inc）]]（publisher）
-- [[Tsukihime -A piece of blue glass moon- NA Limited Edition（Aniplex of America Inc）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

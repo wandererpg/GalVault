@@ -1,16 +1,50 @@
 ---
-entity_id: "release:vndb:r24030:work:vndb:work:v7639"
-type: "release"
-display_title: "Desert Kingdom Portable - Regular Edition"
-release_date: "2013-02-21"
+entity_id: release:vndb:r24030:work:vndb:work:v7639
+type: release
+display_title: Desert Kingdom Portable - Regular Edition
+release_date: '2013-02-21'
 is_all_ages: true
-platform: "psp"
-edition_type: "complete"
-title_status: "needs_review"
+platform: psp
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r24030"
+  vndb: r24030
 source_urls:
-  vndb: "https://vndb.org/r24030"
+  vndb: https://vndb.org/r24030
+aliases:
+- Desert Kingdom - Limited Edition
+- Desert Kingdom - Regular Edition
+- Desert Kingdom Portable - Limited Edition
+consolidated_releases:
+- id: r24030
+  title: Desert Kingdom Portable - Regular Edition
+  url: https://vndb.org/r24030
+  release_date: '2013-02-21'
+  platform: psp
+  edition_type: complete
+  is_all_ages: true
+- id: r25034
+  title: Desert Kingdom Portable - Limited Edition
+  url: https://vndb.org/r25034
+  release_date: '2013-02-21'
+  platform: psp
+  edition_type: complete
+  is_all_ages: true
+- id: r15334
+  title: Desert Kingdom - Regular Edition
+  url: https://vndb.org/r15334
+  release_date: '2010-05-27'
+  platform: ps2
+  edition_type: complete
+  is_all_ages: true
+- id: r84262
+  title: Desert Kingdom - Limited Edition
+  url: https://vndb.org/r84262
+  release_date: '2010-05-27'
+  platform: ps2
+  edition_type: complete
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Desert Kingdom Portable - Regular Edition

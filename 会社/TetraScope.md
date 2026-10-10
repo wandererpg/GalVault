@@ -12,10 +12,8 @@ source_urls:
 # TetraScope
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Watashi no Real wa Juujitsu Shisugiteiru - Free Download Edition]]（developer）
-- [[Watashi no Real wa Juujitsu Shisugiteiru - Free Download Edition]]（publisher）
-- [[Watashi no Real wa Juujitsu Shisugiteiru - Package Edition]]（developer）
-- [[Watashi no Real wa Juujitsu Shisugiteiru - Package Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Watashi no Real wa Juujitsu Shisugiteiru - Fully Voiced Edition]]（developer）
+- [[发行版/Watashi no Real wa Juujitsu Shisugiteiru - Fully Voiced Edition]]（publisher）
 - [[我的超级现充生活]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

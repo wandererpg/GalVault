@@ -12,10 +12,10 @@ source_urls:
 # Bailu Yuanyi Yizhizu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Choco Tian Lian 3]]（publisher）
-- [[Tianjin Zui（Bailu Yuanyi Yizhizu）]]（publisher）
-- [[Tianmi Nvyou 2+（Bailu Yuanyi Yizhizu）]]（publisher）
-- [[Tianmi Nüyou 2]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Amairo Chocolata 1, 2, 3 Complete Pack - Dakimakura Included Limited Edition]]（publisher）
+- [[发行版/Amatsutsumi - Download Edition]]（publisher）
+- [[发行版/Amakano 2+ (GPT 5.6 SOL High)]]（publisher）
+- [[发行版/Amakano 2 - Renewal Package Edition - DVDPG]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

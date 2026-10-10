@@ -100,11 +100,8 @@ cover_image: "assets/covers/v46116.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[D.C.5 ~Da Capo 5~ Future Link - Deluxe Limited Edition]]
-- [[D.C.5 ~Da Capo 5~ Future Link - Download Edition]]
-- [[D.C.5 ~Da Capo 5~ Future Link - First Press Edition]]
-- [[D.C.5 ~Da Capo 5~ Future Link]]
-- [[D.C.5 ~Da Capo 5~ Sweet Happiness (Kimi-K2-Instruct)]]
-- [[D.C.5 ~Da Capo 5~ Sweet Happiness]]<!-- AUTO:END release -->
+- [[发行版/D.C.5 ~Da Capo 5~ Future Link - Deluxe Limited Edition]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

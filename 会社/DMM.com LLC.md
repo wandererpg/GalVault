@@ -11,13 +11,12 @@ source_urls:
 # DMM.com LLC
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Chaos;Child for Windows PC - Download Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Hundun zhi Zi - Package Edition（MAGES）]]（publisher）
 - [[Ever17 -The Out of Infinity- Download Edition（MAGES）]]（publisher）
-- [[Kakyuusei - Original Reprint Edition - Windows 10 Support]]（publisher）
-- [[Kakyuusei 1 & 2 Complete Pack - Windows 10 Support]]（publisher）
+- [[发行版/Kakyuusei Remake]]（publisher）
 - [[Remember11 -The Age of Infinity- Download Edition（MAGES）]]（publisher）
-- [[STEINS;GATE ELITE（MAGES・release：）]]（publisher）
-- [[Steins;Gate 0 - Download Edition]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/STEINS;GATE - Download Edition（MAGES・release：）]]（publisher）
+- [[发行版/Steins;Gate 0 - Limited Deluxe Package Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

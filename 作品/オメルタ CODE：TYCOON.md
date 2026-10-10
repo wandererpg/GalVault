@@ -88,15 +88,9 @@ cover_image: "assets/covers/v10279.webp"
 - [[Yotsuya Cider]]（四ツ谷 サイダー）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Chenmo de Faze CODE：TYCOON]]
-- [[Omerta CODE：TYCOON]]
-- [[Omertà Code：Tycoon - Download Edition]]
-- [[Omertà Code：Tycoon - First Press Deluxe Edition]]
-- [[Omertà Code：Tycoon - Regular Edition]]
-- [[Omertà Code：Tycoon - Trial Edition]]
-- [[Omertà Code：Tycoon Kai Download Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Omertà Code：Tycoon Kai First Press Deluxe Edition]]
 - [[Omertà Code：Tycoon Kai First Press Deluxe Edition]]
-- [[Omertà Code：Tycoon Kai Regular Edition]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

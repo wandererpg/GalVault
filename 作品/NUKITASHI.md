@@ -123,35 +123,9 @@ cover_image: "assets/covers/v22899.webp"
 - [[Toda Megumi]]（柳 ひとみ）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[NUKITASHI - 18+ DLC]]
-- [[NUKITASHI - Censored Edition]]
-- [[NUKITASHI - Demo]]
-- [[NUKITASHI - Improvement Patch]]
-- [[NUKITASHI - JP restoration patch with dual language display]]
+<!-- AUTO:BEGIN release -->- [[发行版/NUKITASHI]]
 - [[NUKITASHI]]
-- [[NUKITASHI（RealmOfMTL）]]
-- [[NUKITASHI（jfydro.ru）]]
-- [[Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka？ - Download Edition]]
-- [[Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka？ - First Press Limited Edition]]
-- [[Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka？ - Regular Edition]]
-- [[Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka？ - Trial Edition]]
-- [[Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka？ 1 + 2 Pack - Download Edition]]
-- [[Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka？ 1 + 2 Pack - First Press Limited Edition]]
-- [[Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka？ 1 + 2 Remaster Pack - Download Edition]]
-- [[Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka？ 1 + 2 Remaster Pack - Package Edition]]
-- [[Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka？ 1 + 2 Remaster Pack - Trial Edition]]
-- [[Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka？ Remaster - Download Edition]]
-- [[Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka？ Remaster - Trial Edition]]
-- [[Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka？ Remaster]]
-- [[Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka？ Remaster（Qruppo）]]
-- [[Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka？]]
-- [[Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka？（Tarja Preta Games）]]
-- [[Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka？（Team Myskrpatch）]]
-- [[Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka？（release：）]]
-- [[Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka？（vndb：r97）]]
-- [[Nukitashi（Red Star）]]
-- [[Nukitashi（Visual Novel Reboot）]]
-- [[Zhu zai Xiati Shengji Dao shang de Pinru gai Ruhe shi Hao？]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

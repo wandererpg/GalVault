@@ -12,8 +12,7 @@ source_urls:
 # HotchPotch Co., Ltd.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Watashi no Real wa Juujitsu Shisugiteiru - App Edition]]（publisher）
-- [[Watashi no Real wa Juujitsu Shisugiteiru - App Edition（HotchPotch Co., Ltd）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Watashi no Real wa Juujitsu Shisugiteiru - Fully Voiced Edition]]（publisher）
 - [[Watashi no Real wa Juujitsu Shisugiteiru - Fully Voiced Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

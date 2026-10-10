@@ -11,12 +11,9 @@ source_urls:
 # VaYurik
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Ever17 -The Out of Infinity-（vndb：r41）]]（publisher）
-- [[Ever17 -The Out of Infinity-（vndb：r85）]]（publisher）
-- [[Katawa Shoujo Act 1（release：）]]（publisher）
-- [[Katawa Shoujo Alpha]]（publisher）
-- [[Kogda plachut  chajki（release：）]]（publisher）
-- [[Kogda plachut chajki（release：）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Ever17 -The Out of Infinity- Download Edition（MAGES）]]（publisher）
+- [[发行版/Katawa Shoujo 1.3J]]（publisher）
+- [[发行版/Umineko no Naku Koro ni - Episode 4 - Alliance of the Golden Witch]]（publisher）
 - [[Tsukihime（vndb：r50）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演

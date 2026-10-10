@@ -12,12 +12,8 @@ source_urls:
 # Shinjita Baka ga Ore Datta
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Mahou Shoujo]]（developer）
-- [[Mahou Shoujo]]（publisher）
-- [[Shinsetsu Mahou Shoujo +]]（developer）
-- [[Shinsetsu Mahou Shoujo +]]（publisher）
-- [[Shinsetsu Mahou Shoujo（vndb：r55）]]（developer）
-- [[Shinsetsu Mahou Shoujo（vndb：r55）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Shinsetsu Mahou Shoujo（release：）]]（developer）
+- [[发行版/Shinsetsu Mahou Shoujo（release：）]]（publisher）
 - [[Yaminabe Kikaku]]（developer）
 - [[Yaminabe Kikaku]]（publisher）
 - [[闇鍋企画]]（developer）

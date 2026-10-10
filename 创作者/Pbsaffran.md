@@ -12,12 +12,9 @@ source_urls:
 # Pbsaffran
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Le sanglot des cigales - Démo]]（publisher）
-- [[Le sanglot des cigales - Tomes 1 et 2]]（publisher）
-- [[Le sanglot des cigales R - Tomes 5 et 6]]（publisher）
-- [[Le sanglot des cigales R ~cycle des résolutions~（release：）]]（publisher）
-- [[Le sanglot des cigales ~cycle des énigmes~（release：）]]（publisher）
-- [[Le sanglot des cigales Épisode1]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Himatsubushi Hen（07th Expansion）]]（publisher）
+- [[发行版/Matsuribayashi Hen（07th Expansion）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

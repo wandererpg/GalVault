@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r128459:work:vndb:work:v53153"
-type: "release"
-display_title: "Dikie Koshki v0.3"
-release_date: "2025-11-30"
+entity_id: release:vndb:r128459:work:vndb:work:v53153
+type: release
+display_title: Dikie Koshki v0.3
+release_date: '2025-11-30'
 is_all_ages: false
-platform: "win, lin, and"
-edition_type: "partial"
-title_status: "needs_review"
+platform: win, lin, and
+edition_type: partial
+title_status: needs_review
 source_ids:
-  vndb: "r128459"
+  vndb: r128459
 source_urls:
-  vndb: "https://vndb.org/r128459"
+  vndb: https://vndb.org/r128459
+aliases:
+- Wild Cats v0.3
+- Wild Cats ［v0.3］
+consolidated_releases:
+- id: r128459
+  title: Dikie Koshki v0.3
+  url: https://vndb.org/r128459
+  release_date: '2025-11-30'
+  platform: win, lin, and
+  edition_type: partial
+  is_all_ages: false
+- id: r152185
+  title: Wild Cats [v0.3]
+  url: https://vndb.org/r152185
+  release_date: '2025-11-24'
+  platform: win, lin, mac, and
+  edition_type: partial
+  is_all_ages: false
+- id: r128248
+  title: Wild Cats v0.3
+  url: https://vndb.org/r128248
+  release_date: '2025-11-24'
+  platform: win, lin, mac, and
+  edition_type: partial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Dikie Koshki v0.3

@@ -41,7 +41,7 @@ cover_image: "assets/covers/v45122.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Gomi x Chou ~Trash x TALK~]]
+<!-- AUTO:BEGIN release -->- [[发行版/Gomi x Chou ~Trash x TALK~（release：）]]
 - [[Gomi x Chou ~Trash x TALK~（release：）]]<!-- AUTO:END release -->
 
 ## 动画化

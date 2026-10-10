@@ -14,20 +14,11 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[MONSTER PARK 2～神々を宿した乙女～]]（developer）
 - [[Monster Hazard - DVDPG]]（developer）
-- [[Monster Hazard ~Bakemono-tachi no Kyouen~ Download Edition]]（developer）
-- [[Monster Hazard ~Bakemono-tachi no Kyouen~ Download Edition]]（publisher）
-- [[Monster Hazard ~Bakemono-tachi no Kyouen~ Trial Edition]]（developer）
-- [[Monster Hazard ~Bakemono-tachi no Kyouen~ Trial Edition]]（publisher）
-- [[Monster Hazard ~Bakemono-tachi no Kyouen~]]（developer）
-- [[Monster Hazard ~Bakemono-tachi no Kyouen~]]（publisher）
+- [[发行版/Monster Hazard - DVDPG]]（developer）
+- [[发行版/Monster Hazard - DVDPG]]（publisher）
 - [[Monster Park 2 ~Kamigami o Yadoshita Otome~ Blu-ray Game]]（developer）
-- [[Monster Park 2 ~Kamigami o Yadoshita Otome~ DVDPG]]（developer）
-- [[Monster Park 2 ~Kamigami o Yadoshita Otome~ Final Edition（Trois）]]（developer）
-- [[Monster Park 2 ~Kamigami o Yadoshita Otome~ Final Edition（Trois）]]（publisher）
-- [[Monster Park 2 ~Kamigami o Yadoshita Otome~ Update Pack]]（developer）
-- [[Monster Park 2 ~Kamigami o Yadoshita Otome~ Update Pack]]（publisher）
-- [[Monster Park 2 ~Kamigami o Yadoshita Otome~]]（developer）
-- [[Monster Park 2 ~Kamigami o Yadoshita Otome~]]（publisher）
+- [[发行版/Monster Park 2 ~Kamigami o Yadoshita Otome~ Blu-ray Game]]（developer）
+- [[发行版/Monster Park 2 ~Kamigami o Yadoshita Otome~ Blu-ray Game]]（publisher）
 - [[モンスター・ハザード～化け物たちの狂宴～]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

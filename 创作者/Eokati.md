@@ -12,7 +12,7 @@ source_urls:
 # Eokati
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Warring States † Love Princess X ～Gorgeous Maidens ☆ Illustrated Scrolls of Warring States～]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Sengoku † Koihime X ~Otome Kenran ☆ Sengoku Emaki~（BaseSon）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

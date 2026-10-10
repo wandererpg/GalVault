@@ -11,7 +11,7 @@ source_urls:
 # Dmitry Volk
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Monster Girl Quest! Paradox RPG - Part 3（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Monmusu Quest! Paradox RPG Shuushou]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

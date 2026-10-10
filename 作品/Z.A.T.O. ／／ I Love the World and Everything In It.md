@@ -46,22 +46,9 @@ cover_image: "assets/covers/v58641.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Z. A. T. O. ／／ I Love the World and Everything In It]]
-- [[Z. A. T. O. ／／ I Love the World and Everything In It（release：）]]
-- [[Z.A.T.O ／／ Tôi Yêu Thế Giới Này Và Mọi Thứ Thuộc Về Nó]]
-- [[Z.A.T.O. ／ Ja ljublju mir i vsjo, chto v njom est']]
-- [[Z.A.T.O. ／／ Amo el Mundo y Todo lo que hay en Él]]
-- [[Z.A.T.O. ／／ Eu Amo o Mundo e Tudo o que há Nele]]
+<!-- AUTO:BEGIN release -->- [[发行版/Z.A.T.O. ／／ I Love the World and Everything In It]]
 - [[Z.A.T.O. ／／ I Love the World and Everything In It]]
-- [[Z.A.T.O. ／／ I Love the World and Everything In It（52fbe09a）]]
-- [[Z.A.T.O. ／／ I Love the World and Everything In It（80811cdf）]]
-- [[Z.A.T.O. ／／ I Love the World and Everything In It（94a24a1f）]]
-- [[Z.A.T.O. ／／ I Love the World and Everything In It（k：v58641）]]
-- [[Z.A.T.O. ／／ I Love the World and Everything In It（release：）]]
-- [[Z.A.T.O. ／／ I Love the World and Everything In It（vndb：r14）]]
-- [[Z.A.T.O. ／／ I Love the World and Everything In It（vndb：r15）]]
-- [[Z.A.T.O]]
-- [[Z.A.T.O（Youling Gongzuoshi）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

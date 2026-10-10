@@ -12,8 +12,8 @@ source_urls:
 # EN Sky
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Tsui no Sora Remake ［2025 ver］]]（publisher）
-- [[Tsui no Sora Remake]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Subarashiki Hibi ~Furenzoku Sonzai~ 10th Anniversary Special Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

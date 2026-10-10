@@ -13,7 +13,7 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Lansi 6]]（publisher）
-- [[Zhanguo Lansi（Ailisi Hanhuazu）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Dai Sengoku Rance（vndb：r12）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

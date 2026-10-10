@@ -12,17 +12,10 @@ source_urls:
 # Astronauts: Spica
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Aozora Stripe - Blu-ray Game]]（developer）
-- [[Aozora Stripe - DVDPG]]（developer）
-- [[Aozora Stripe - Download Edition]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Aozora Stripe - First Press Limited Premium Edition]]（developer）
 - [[Aozora Stripe - First Press Limited Premium Edition]]（developer）
-- [[Aozora Stripe - Regular Edition]]（developer）
-- [[Aozora Stripe - Trial Edition]]（developer）
-- [[Erect! - DVDPG]]（developer）
-- [[Erect! - Download Edition]]（developer）
+- [[发行版/Erect! - First Press Limited Premium Edition]]（developer）
 - [[Erect! - First Press Limited Premium Edition]]（developer）
-- [[Erect! - Regular Edition]]（developer）
-- [[Erect! - Trial Edition]]（developer）
 - [[あおぞらストライプ]]（developer）
 - [[えれくと！]]（developer）<!-- AUTO:END duty -->
 

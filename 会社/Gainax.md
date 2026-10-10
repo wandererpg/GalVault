@@ -12,20 +12,9 @@ source_urls:
 # Gainax
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Princess Maker 4 - Best Hit Selection]]（developer）
-- [[Princess Maker 4 - Best Hit Selection]]（publisher）
-- [[Princess Maker 4 - Collector's Edition]]（developer）
-- [[Princess Maker 4 - Collector's Edition]]（publisher）
-- [[Princess Maker 4 - Regular Edition]]（developer）
-- [[Princess Maker 4 - Regular Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Princess Maker 4 - Special Edition]]（developer）
+- [[发行版/Princess Maker 4 - Special Edition]]（publisher）
 - [[Princess Maker 4 - Special Edition]]（developer）
-- [[Princess Maker 4 DS Special Edition]]（developer）
-- [[Princess Maker 4 Portable（Gainax）]]（developer）
-- [[Princess Maker 4 Portable（Gainax）]]（publisher）
-- [[Princess Maker 4（Gainax・release：）]]（developer）
-- [[Princess Maker 4（Gainax・release：）]]（publisher）
-- [[Princess Maker 4（Gainax）]]（developer）
-- [[Princess Maker 4（Gainax）]]（publisher）
 - [[美少女梦工厂4]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

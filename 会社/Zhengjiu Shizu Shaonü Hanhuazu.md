@@ -12,10 +12,10 @@ source_urls:
 # Zhengjiu Shizu Shaonü Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Chujian Yi Shi Chongfeng]]（publisher）
-- [[Tianmi Nvyou 2+]]（publisher）
-- [[Tianmi Nüyou 2 ~Perfect Edition~（Zhengjiu Shizu Shaonü Hanhuazu）]]（publisher）
-- [[Tianmi Nüyou 3 - Trial Edition]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Nandome ka no Hajimemashite - Deluxe Edition ［Quaere Verum Set］]]（publisher）
+- [[发行版/Amakano 2+ (GPT 5.6 SOL High)]]（publisher）
+- [[发行版/Amakano 2 - Renewal Package Edition - DVDPG]]（publisher）
+- [[发行版/Amakano 3（Angkringan Visual Novel）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

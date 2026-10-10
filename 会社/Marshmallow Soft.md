@@ -12,18 +12,10 @@ source_urls:
 # Marshmallow Soft
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ama Mama Holic - Android Edition]]（developer）
-- [[Ama Mama Holic - Android Edition]]（publisher）
-- [[Ama Mama Holic - Download Edition]]（developer）
-- [[Ama Mama Holic - Download Edition]]（publisher）
-- [[Ama Mama Holic - Package Edition]]（developer）
-- [[Ama Mama Holic - Package Edition]]（publisher）
-- [[Ama Mama Holic - Trial Edition]]（developer）
-- [[Ama Mama Holic - Trial Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Ama Mama Holic Download Contents - Android Edition]]（developer）
+- [[发行版/Ama Mama Holic Download Contents - Android Edition]]（publisher）
 - [[Ama Mama Holic Download Contents - Android Edition]]（developer）
 - [[Ama Mama Holic Download Contents - Android Edition]]（publisher）
-- [[Ama Mama Holic H-Scene Scenario DLC]]（developer）
-- [[Ama Mama Holic H-Scene Scenario DLC]]（publisher）
 - [[あまママほりっく]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

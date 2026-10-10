@@ -12,22 +12,20 @@ source_urls:
 # VienDesu! Porting Team
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Amneja28： dve vechnosti（VienDesu! Porting Team）]]（publisher）
-- [[Blooming Panic： Full Bloom Edition（VienDesu! Porting Team）]]（publisher）
-- [[Homicipher]]（publisher）
-- [[Homicipher（VienDesu! Porting Team）]]（publisher）
-- [[Ja hotju obnjat' etogo alligatora!（VienDesu! Porting Team）]]（publisher）
-- [[Klub samoubijc - Polnaja versija]]（publisher）
-- [[Kod： Osoznanie - Strazh pererozhdenija-]]（publisher）
-- [[Kogda plachut Cikady 2]]（publisher）
-- [[Kogda plachut cikady PS3 version]]（publisher）
-- [[Kogda plachut cikady]]（publisher）
-- [[Kvest monstrodev!]]（publisher）
-- [[Kvest monstrodev!（VienDesu! Porting Team・release：）]]（publisher）
-- [[Kvest monstrodev!（VienDesu! Porting Team）]]（publisher）
-- [[Mushroom Oasis v3.0（VienDesu! Porting Team）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Amneja28： dve vechnosti]]（publisher）
+- [[发行版/Blooming Panic]]（publisher）
+- [[发行版/Mojibake - Package Edition]]（publisher）
+- [[发行版/Ja hotju obnjat' etogo alligatora!]]（publisher）
+- [[发行版/Club Suicide - Complete Edition（MORPATH）]]（publisher）
+- [[发行版/Code： Realize ~Saikou no Hanataba~ for Nintendo Switch - Download Edition]]（publisher）
+- [[发行版/Matsuribayashi Hen（07th Expansion）]]（publisher）
+- [[发行版/Himatsubushi Hen（07th Expansion）]]（publisher）
+- [[发行版/Monmusu Quest! Shuushou ~Makereba Youjo ni Okasareru~]]（publisher）
+- [[发行版/Monmusu Quest! Chuushou ~Makereba Youjo ni Okasareru~]]（publisher）
+- [[发行版/Monmusu Quest! Origins -Assaulted by the Vamp-]]（publisher）
+- [[发行版/Mushroom Oasis v3.0（Deersphere Studios）]]（publisher）
 - [[Our Wonderland]]（publisher）
-- [[Slay the Princess]]（publisher）
+- [[发行版/Slay the Princess - The Pristine Cut]]（publisher）
 - [[Wind & Flame]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

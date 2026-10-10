@@ -11,17 +11,16 @@ source_urls:
 # BakaYume Çeviri Ekibi
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ay Prensesi]]（publisher）
-- [[Büyücü Kızların Cadı Mahkemesi]]（publisher）
-- [[Harikulade Günler ~Süreksiz Varoluş~]]（publisher）
-- [[KLANAD]]（publisher）
-- [[Kabuktaki Kız]]（publisher）
-- [[Küçük Kahramanlar]]（publisher）
-- [[Planetarian ~küçük bir gezegenin hülyası~]]（publisher）
-- [[Planetarian ~küçük bir gezegenin hülyası~（BakaYume Çeviri Ekibi）]]（publisher）
-- [[Saya’nın Şarkısı]]（publisher）
-- [[Steins;Gate（BakaYume Çeviri Ekibi）]]（publisher）
-- [[gökevli YÇ]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Tsukihime（vndb：r50）]]（publisher）
+- [[发行版/Mahou Shoujo no Majo Saiban]]（publisher）
+- [[发行版/Meihao de Meiyitian（Lingxue Hanhuazu）]]（publisher）
+- [[发行版/CLANNAD（Hikarizaka Gaoxiao Zhongwen Bu）]]（publisher）
+- [[发行版/Innocent Grey Mystery Collection ~Kara no Shoujo & Pianissimo & Cartagra~]]（publisher）
+- [[发行版/Little Busters! English Edition（Key）]]（publisher）
+- [[发行版/Planetarian ~The Reverie of a Little Planet~（release：）]]（publisher）
+- [[发行版/Saya no Uta ~ The Song of Saya - Upgrade Patch]]（publisher）
+- [[发行版/STEINS;GATE - Download Edition（MAGES・release：）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

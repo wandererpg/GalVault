@@ -12,25 +12,13 @@ source_urls:
 # ApRicoT
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Maple Colors 2 - Download Edition]]（developer）
-- [[Maple Colors 2 - Download Edition]]（publisher）
-- [[Maple Colors 2 - Trial Edition]]（developer）
-- [[Maple Colors 2 - Trial Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Maple Colors 2]]（developer）
+- [[发行版/Maple Colors 2]]（publisher）
 - [[Maple Colors 2]]（developer）
 - [[Maple Colors 2]]（publisher）
-- [[Maple Colors HHH Class Zen'in Ore no Yome! - Deluxe Limited Edition]]（developer）
-- [[Maple Colors HHH Class Zen'in Ore no Yome! - Deluxe Limited Edition]]（publisher）
-- [[Ouka Sengoku! Portable - Limited Edition]]（developer）
+- [[发行版/Ouka Sengoku! Portable - Regular Edition]]（developer）
 - [[Ouka Sengoku! Portable - Regular Edition]]（developer）
-- [[Ouka Sengoku! ~Nobunaga-chan no Koishite Yabou!？~ DVDPG]]（developer）
-- [[Ouka Sengoku! ~Nobunaga-chan no Koishite Yabou!？~ Download Edition]]（developer）
-- [[Ouka Sengoku! ~Nobunaga-chan no Koishite Yabou!？~ Download Edition]]（publisher）
-- [[Ouka Sengoku! ~Nobunaga-chan no Koishite Yabou!？~ Trial Edition 1st]]（developer）
-- [[Ouka Sengoku! ~Nobunaga-chan no Koishite Yabou!？~ Trial Edition 1st]]（publisher）
-- [[Ouka Sengoku! ~Nobunaga-chan no Koishite Yabou!？~ Trial Edition 2nd]]（developer）
-- [[Ouka Sengoku! ~Nobunaga-chan no Koishite Yabou!？~ Trial Edition 2nd]]（publisher）
-- [[Ouka Sengoku! ~Nobunaga-chan no Koishite Yabou!？~]]（developer）
-- [[Ouka Sengoku! ~Nobunaga-chan no Koishite Yabou!？~]]（publisher）
+- [[发行版/Ouka Sengoku! Portable - Regular Edition]]（publisher）
 - [[桜花センゴク!～信長ちゃんの恋して野望!？～]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

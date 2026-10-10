@@ -13,11 +13,7 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Club Suicide - Complete Edition（MORPATH）]]（developer）
-- [[Club Suicide - Trial Edition]]（developer）
-- [[Club Suicide Complete Edition (Android Ver.)]]（developer）
-- [[Club Suicide]]（developer）
-- [[Club Suicide（MORPATH）]]（developer）
-- [[Zisha Tonghaohui]]（developer）
+- [[发行版/Club Suicide - Complete Edition（MORPATH）]]（developer）
 - [[自杀同好会]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

@@ -12,10 +12,8 @@ source_urls:
 # Kirakira Monstars
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Kirakira Monstars Season 01 - Download Edition]]（developer）
-- [[Kirakira Monstars Season 01 - Download Edition]]（publisher）
-- [[Kirakira Monstars Season 01 - Package Edition]]（developer）
-- [[Kirakira Monstars Season 01 - Package Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Kirakira Monstars]]（developer）
+- [[发行版/Kirakira Monstars]]（publisher）
 - [[Kirakira Monstars]]（developer）
 - [[熠熠星光魔物娘]]（developer）<!-- AUTO:END duty -->
 

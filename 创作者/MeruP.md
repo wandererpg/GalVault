@@ -12,14 +12,9 @@ source_urls:
 # MeruP
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Fate／Stay Night ［Realta Nua］ -Fate-（release：）]]（publisher）
-- [[Fate／Stay Night ［Realta Nua］ -Heaven's Feel-（mirror moon）]]（publisher）
-- [[Fate／Stay Night ［Realta Nua］ -Unlimited Blade Works-（release：）]]（publisher）
-- [[Fate／Stay Night ［Realta Nua］（mirror moon・release：）]]（publisher）
-- [[Fate／Stay Night ［Realta Nua］（mirror moon）]]（publisher）
-- [[If My Heart Had Wings - Retranslation Patch]]（publisher）
-- [[Kono Oozora ni, Tsubasa o Hirogete - Translation patch]]（publisher）
-- [[Kono Oozora ni, Tsubasa o Hirogete（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Fate／Stay Night ［Realta Nua］ - Ultimate Edition]]（publisher）
+- [[发行版/Kono Oozora ni, Tsubasa o Hirogete Cruise Sign - Regular Edition（MAGES）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

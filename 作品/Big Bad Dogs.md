@@ -42,7 +42,7 @@ cover_image: "assets/covers/v59896.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Big Bad Dogs ［SHIFT 2］]]
+<!-- AUTO:BEGIN release -->- [[发行版/Big Bad Dogs ［SHIFT 3］]]
 - [[Big Bad Dogs ［SHIFT 3］]]<!-- AUTO:END release -->
 
 ## 动画化

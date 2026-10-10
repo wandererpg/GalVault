@@ -15,17 +15,17 @@ source_urls:
 <!-- AUTO:BEGIN duty -->- [[Ai Shimai IV Kuyashikute Kimochi Yokatta Nante Ienai（HTranslations）]]（publisher）
 - [[Baku Ane ~Otouto Shibocchau zo!~]]（publisher）
 - [[Honoo no Haramase Oppai ★ Ero Appli Gakuen ［AI TL］]]（publisher）
-- [[Kanojo ＊ Step]]（publisher）
-- [[Kono mama da to Otouto ga Techno Break de Shinjau kara Kozukuri!（HTranslations）]]（publisher）
+- [[发行版/Kanojo ＊ Step - Regular Edition]]（publisher）
+- [[发行版/Kono mama da to Otouto ga Techno Break de Shinjau kara Kozukuri! - Download Edition]]（publisher）
 - [[Love×Holic ~Miwaku no Otome to Hakudaku Kankei~]]（publisher）
 - [[Mamagoto ~Mama to Naisho no Ecchi Shimasho~]]（publisher）
 - [[Mamatomo ［AI TL］]]（publisher）
-- [[Meteor World Actor： Gaslight Bullet]]（publisher）
+- [[发行版/Ryuusei World Actor： Gaslight Bullet - Dai Nana Kyouwakoku Shukkoku Pack]]（publisher）
 - [[Motto! Haramase! Honoo no Oppai Isekai Oppai Bunny Gakuen! ［AI TL］]]（publisher）
 - [[Motto! Haramase! Honoo no Oppai Isekai Oppai Maid Gakuen!（HTranslations）]]（publisher）
 - [[Motto! Haramase! Honoo no Oppai Isekai Oppai Spy Gakuen! ［AI TL］]]（publisher）
-- [[Nee Nee Nee（HTranslations）]]（publisher）
-- [[Nee-chan no Susume ~Onee-chan no Itazura Seiseikatsu~]]（publisher）
+- [[发行版/Nee Nee Nee - Download Edition]]（publisher）
+- [[发行版/Nee-chan no Susume ~Onee-chan no Itazura Seiseikatsu~ Download Edition]]（publisher）
 - [[Re CATION ~Melty Healing~（HTranslations）]]（publisher）
 - [[Role player： Ikura Shimai no Nenmaku Portrait - Gurigucha LIVE! ［AI TL］]]（publisher）
 - [[Role player： Okayu Shimai no Nenmaku Portrait - Gurigucha LIVE! ［UI+Dialogue Translation］]]（publisher）
@@ -33,7 +33,7 @@ source_urls:
 - [[Saimin Seishidou -Secret Lesson- ［AI TL］]]（publisher）
 - [[Saint Dorei Gakuen 2（HTranslations）]]（publisher）
 - [[Saint Dorei Gakuen 3]]（publisher）
-- [[Shigokare ~Ecchi na Joshi Daisei to Doki x2 Love Lesson!!~]]（publisher）
+- [[发行版/Shigokare ~Ecchi na Joshi Daisei to Doki x2 Love Lesson!!~ Download Edition]]（publisher）
 - [[Youkoso! Sukebe Elf no Mori e G ＂Evelyn & Misery no Icha Love Ninkatsu Life ♡＂]]（publisher）
 - [[Youkoso! Sukebe Elf no Mori e ［AI TL］]]（publisher）<!-- AUTO:END duty -->
 

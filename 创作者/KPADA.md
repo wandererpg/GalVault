@@ -11,7 +11,7 @@ source_urls:
 # KPADA
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Umineko no Naku Koro ni Chiru（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Umineko no Naku Koro ni Chiru - Episode 8 - Twilight of the Golden Witch]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

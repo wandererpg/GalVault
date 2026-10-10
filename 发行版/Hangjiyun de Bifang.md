@@ -1,16 +1,74 @@
 ---
-entity_id: "release:vndb:r117552:work:vndb:work:v13711"
-type: "release"
-display_title: "Hangjiyun de Bifang"
-release_date: "2025-12-09"
+entity_id: release:vndb:r117552:work:vndb:work:v13711
+type: release
+display_title: Hangjiyun de Bifang
+release_date: '2025-12-09'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r117552"
+  vndb: r117552
 source_urls:
-  vndb: "https://vndb.org/r117552"
+  vndb: https://vndb.org/r117552
+aliases:
+- Hangjiyun de Bifang（Hangjiyun Hanhuazu）
+- Hikoukigumo no Mukougawa
+- Hikoukigumo no Mukougawa - Download Edition
+- Hikoukigumo no Mukougawa - Trial Edition
+- Hikoukigumo no Mukougawa（FLAT）
+- Hikoukigumo no Mukougawa（Team Myskrpatch）
+consolidated_releases:
+- id: r117552
+  title: Hangjiyun de Bifang
+  url: https://vndb.org/r117552
+  release_date: '2025-12-09'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r49401
+  title: Hikoukigumo no Mukougawa
+  url: https://vndb.org/r49401
+  release_date: '2016-06-10'
+  platform: ios, and
+  edition_type: complete
+  is_all_ages: true
+- id: r38590
+  title: Hikoukigumo no Mukougawa - Download Edition
+  url: https://vndb.org/r38590
+  release_date: '2015-02-13'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r29658
+  title: Hikoukigumo no Mukougawa
+  url: https://vndb.org/r29658
+  release_date: '2014-03-28'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r83557
+  title: Hikoukigumo no Mukougawa
+  url: https://vndb.org/r83557
+  release_date: '2021-04-27'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r32658
+  title: Hikoukigumo no Mukougawa - Trial Edition
+  url: https://vndb.org/r32658
+  release_date: '2014-02-25'
+  platform: win
+  edition_type: trial
+  is_all_ages: false
+- id: r41079
+  title: Hangjiyun de Bifang
+  url: https://vndb.org/r41079
+  release_date: '2015-06-13'
+  platform: win
+  edition_type: partial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Hangjiyun de Bifang

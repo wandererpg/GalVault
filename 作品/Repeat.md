@@ -45,9 +45,7 @@ cover_image: "assets/covers/v20147.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Repeat v0.6.4]]
-- [[Repeat v0.7]]
-- [[Repeat v0.8.1.3]]
+<!-- AUTO:BEGIN release -->- [[发行版/Repeat v0.8.1.3（release：）]]
 - [[Repeat v0.8.1.3（release：）]]<!-- AUTO:END release -->
 
 ## 动画化

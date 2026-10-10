@@ -12,28 +12,11 @@ source_urls:
 # Serenity Forge
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Meng Deng Hua - Asia Limited Edition]]（publisher）
-- [[Meng Deng Hua - Asia Standard Edition]]（publisher）
-- [[Meng Deng Hua - Asia Standard Edition（Serenity Forge）]]（publisher）
-- [[Meng Deng Hua - Download Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Meng Deng Hua - Download Edition（Yi Mei Gongzuoshi）]]（publisher）
 - [[Meng Deng Hua - Download Edition（Yi Mei Gongzuoshi）]]（publisher）
-- [[Meng Deng Hua - JP Limited Edition]]（publisher）
-- [[Meng Deng Hua - JP Limited Edition（Serenity Forge）]]（publisher）
-- [[Meng Deng Hua - JP Standard Edition]]（publisher）
-- [[Meng Deng Hua - JP Standard Edition（Serenity Forge）]]（publisher）
-- [[Meng Deng Hua]]（publisher）
-- [[Slay the Princess - The Pristine Cut - Collector's Edition]]（publisher）
-- [[Slay the Princess - The Pristine Cut - Collector's Edition（Serenity Forge）]]（publisher）
-- [[Slay the Princess - The Pristine Cut - Digital Edition]]（publisher）
-- [[Slay the Princess - The Pristine Cut - Digital Edition（Serenity Forge）]]（publisher）
-- [[Slay the Princess - The Pristine Cut - EU Special Edition]]（publisher）
-- [[Slay the Princess - The Pristine Cut - EU Special Edition（Tesura Games）]]（publisher）
-- [[Slay the Princess - The Pristine Cut - Europe Standard Edition]]（publisher）
-- [[Slay the Princess - The Pristine Cut - Europe Standard Edition（Tesura Games）]]（publisher）
-- [[Slay the Princess - The Pristine Cut - Premium Physical Edition]]（publisher）
-- [[Slay the Princess - The Pristine Cut - Premium Physical Edition（Serenity Forge）]]（publisher）
+- [[发行版/Slay the Princess - The Pristine Cut]]（publisher）
 - [[Slay the Princess - The Pristine Cut]]（publisher）
-- [[Slay the Princess - The Pristine Cut（Serenity Forge）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

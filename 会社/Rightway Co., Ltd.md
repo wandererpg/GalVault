@@ -13,12 +13,10 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Ao no Kanata no Four Rhythm - Download Edition（sprite）]]（publisher）
-- [[Ao no Kanata no Four Rhythm - EXTRA1+2S - Package Edition]]（publisher）
-- [[Ao no Kanata no Four Rhythm - EXTRA1+2S - Package Edition（sprite）]]（publisher）
+- [[发行版/Ao no Kanata no Four Rhythm - EXTRA1S - Download Edition]]（publisher）
+- [[发行版/Aokana - Four Rhythms Across the Blue - EXTRA2 18+ Steam Patch]]（publisher）
 - [[Ao no Kanata no Four Rhythm - EXTRA1S - Download Edition]]（publisher）
-- [[Ao no Kanata no Four Rhythm - EXTRA1S - Package Edition]]（publisher）
-- [[Ao no Kanata no Four Rhythm - EXTRA2S - Download Edition]]（publisher）
-- [[Ao no Kanata no Four Rhythm - EXTRA2S - Package Edition]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

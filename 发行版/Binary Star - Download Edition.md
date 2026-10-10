@@ -1,16 +1,49 @@
 ---
-entity_id: "release:vndb:r33986:work:vndb:work:v14787"
-type: "release"
-display_title: "Binary Star - Download Edition"
-release_date: "2014-09-04"
+entity_id: release:vndb:r33986:work:vndb:work:v14787
+type: release
+display_title: Binary Star - Download Edition
+release_date: '2014-09-04'
 is_all_ages: true
-platform: "psv"
-edition_type: "complete"
-title_status: "needs_review"
+platform: psv
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r33986"
+  vndb: r33986
 source_urls:
-  vndb: "https://vndb.org/r33986"
+  vndb: https://vndb.org/r33986
+aliases:
+- Binary Star - Limited Edition
+- Binary Star - Regular Edition
+consolidated_releases:
+- id: r33986
+  title: Binary Star - Download Edition
+  url: https://vndb.org/r33986
+  release_date: '2014-09-04'
+  platform: psv
+  edition_type: complete
+  is_all_ages: true
+- id: r32637
+  title: Binary Star - Regular Edition
+  url: https://vndb.org/r32637
+  release_date: '2014-09-04'
+  platform: psv
+  edition_type: complete
+  is_all_ages: true
+- id: r33248
+  title: Binary Star - Limited Edition
+  url: https://vndb.org/r33248
+  release_date: '2014-09-04'
+  platform: psv
+  edition_type: complete
+  is_all_ages: true
+- id: r156174
+  title: Binary Star
+  url: https://vndb.org/r156174
+  release_date: '2026-04-13'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Binary Star - Download Edition

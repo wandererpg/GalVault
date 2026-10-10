@@ -159,12 +159,9 @@ cover_image: "assets/covers/v18953.webp"
 - [[Yukito Saori]]（上原 あおい）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Bakumatsu Jinchuu Houkoku Resshiden Miburo - Download Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Bakumatsu Jinchuu Houkoku Resshiden Miburo - First Press Edition]]
 - [[Bakumatsu Jinchuu Houkoku Resshiden Miburo - First Press Edition]]
-- [[Bakumatsu Jinchuu Houkoku Resshiden Miburo - Regular Edition]]
-- [[Bakumatsu Jinchuu Houkoku Resshiden Miburo - Trial Edition]]
-- [[Inre 10th Complete Pack - Limited Time Edition（inre・release：）]]
-- [[Inre 10th Complete Pack（inre・release：）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -12,7 +12,7 @@ source_urls:
 # Suikyou na Megami
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Slow Damage - Versión de Prueba]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Slow Damage - JAST]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

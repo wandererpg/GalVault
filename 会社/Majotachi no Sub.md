@@ -11,9 +11,9 @@ source_urls:
 # Majotachi no Sub
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Umineko no Naku Koro ni - Ars Magica Porting on Umineko Project]]（publisher）
-- [[Umineko no Naku Koro ni - Ars Magica Porting on Umineko Project（Majotachi no Sub）]]（publisher）
-- [[Umineko no Naku Koro ni - Quando i gabbiani piangeranno]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Umineko no Naku Koro ni Chiru - Episode 8 - Twilight of the Golden Witch]]（publisher）
+- [[发行版/Umineko no Naku Koro ni - Episode 4 - Alliance of the Golden Witch]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

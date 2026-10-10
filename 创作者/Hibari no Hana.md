@@ -12,10 +12,9 @@ source_urls:
 # Hibari no Hana
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Koshotengai no Hashihime - Trial Edition（release：）]]（publisher）
-- [[La Hashihime del Distrito del Libro Antiguo]]（publisher）
-- [[Uuultra C]]（publisher）
-- [[sweet pool - JAST]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Koshotengai no Hashihime NOMA - Download Edition]]（publisher）
+- [[发行版/Uuultra C - Download Edition]]（publisher）
+- [[发行版/sweet pool Remaster]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

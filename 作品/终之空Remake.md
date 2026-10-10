@@ -130,22 +130,9 @@ cover_image: "assets/covers/v28806.webp"
 - [[Yajima Noboru]]（やじま のぼる）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Nebo Konca： Remake ［2025］]]
+<!-- AUTO:BEGIN release -->- [[发行版/Subarashiki Hibi ~Furenzoku Sonzai~ 10th Anniversary Special Edition]]
 - [[Subarashiki Hibi ~Furenzoku Sonzai~ 10th Anniversary Special Edition]]
-- [[Subarashiki Hibi ~Furenzoku Sonzai~ 15th Anniversary Edition]]
-- [[Tsui no Sora Remake Mosaic Correction Patch]]
-- [[Tsui no Sora Remake for PS Vita]]
-- [[Tsui no Sora Remake ［2025 ver］]]
-- [[Tsui no Sora Remake]]
-- [[Tsui no Sora Remake（Chaos Gate Team）]]
-- [[Tsui no Sora Remake（Maid-Mania）]]
-- [[Tsui no Sora Remake（Taikutsu Translations）]]
-- [[Tsui no Sora Remake（Team Myskrpatch）]]
-- [[Tsui no Sora Remake（k：v28806）]]
-- [[Tsui no Sora Remake（release：）]]
-- [[Tsui no Sora Remake（vndb：r14）]]
-- [[Zhong Zhi Kong Remake]]
-- [[Zhong zhi Kong Remake（Yayoitsuki Hanhuazu）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

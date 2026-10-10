@@ -55,11 +55,7 @@ cover_image: "assets/covers/v14826.webp"
 - [[Kono Kanami]]（中野 志乃）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Ai Jiemei IV Fei Zhai Meimeng]]
-- [[Ai Shimai IV Kuyashikute Kimochi Yokatta Nante Ienai - Download Edition]]
-- [[Ai Shimai IV Kuyashikute Kimochi Yokatta Nante Ienai - Package Edition]]
-- [[Ai Shimai IV Kuyashikute Kimochi Yokatta Nante Ienai - Trial Edition]]
-- [[Ai Shimai IV Kuyashikute Kimochi Yokatta Nante Ienai]]
+<!-- AUTO:BEGIN release -->- [[发行版/Ai Shimai IV Kuyashikute Kimochi Yokatta Nante Ienai（HTranslations）]]
 - [[Ai Shimai IV Kuyashikute Kimochi Yokatta Nante Ienai（HTranslations）]]<!-- AUTO:END release -->
 
 ## 动画化

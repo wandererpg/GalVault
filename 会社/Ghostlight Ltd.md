@@ -12,7 +12,7 @@ source_urls:
 # Ghostlight Ltd
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Mary Skelter 2 - Minigame Restoration Patch]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Mary Skelter 2（Ghostlight Ltd）]]（publisher）
 - [[Mary Skelter 2（Ghostlight Ltd）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

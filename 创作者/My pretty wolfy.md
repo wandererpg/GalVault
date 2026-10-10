@@ -12,7 +12,7 @@ source_urls:
 # My pretty wolfy
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Pogonja za Zakatami]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Chasing Sunsets]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

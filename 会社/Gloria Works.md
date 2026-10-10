@@ -12,9 +12,9 @@ source_urls:
 # Gloria Works
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[ISLAND - Deluxe edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/ISLAND - Download Edition]]（publisher）
 - [[ISLAND - Download Edition]]（publisher）
-- [[ISLAND - Regular edition]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

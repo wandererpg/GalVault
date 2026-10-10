@@ -13,9 +13,8 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Gin'iro, Haruka（Tsurezure Scans）]]（publisher）
-- [[Hoshi Ori Yume Mirai - Full Patch 2.0]]（publisher）
-- [[Hoshi Ori Yume Mirai]]（publisher）
-- [[Tsujidou-san no Jun'ai Road]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Hoshi Ori Yume Mirai - Converted Edition（tone work's）]]（publisher）
+- [[发行版/Tsujidou-san no Jun'ai Road - First Press Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

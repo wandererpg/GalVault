@@ -31,7 +31,7 @@ portrait_image: "assets/characters/c1285.webp"
 
 ## 出场作品
 <!-- AUTO:BEGIN character -->- [[Tokimeki Memorial Girl's Side： 2nd Season]]（primary）
-- [[Xintiao Huiyi Girl's Side： 2nd Season]]（primary）<!-- AUTO:END character -->
+- [[发行版/Tokimeki Memorial Girl's Side： 2nd Season]]（primary）<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Taniyama Kishou]]（声优：谷山 紀章）<!-- AUTO:END voice -->

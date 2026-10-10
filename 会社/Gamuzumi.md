@@ -13,7 +13,7 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Sable's Grimoire： A Dragon's Treasure]]（publisher）
-- [[Sable's Grimoire： A Dragon's Treasure（Gamuzumi）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Sable's Grimoire： A Dragon's Treasure]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -112,16 +112,9 @@ cover_image: "assets/covers/v10983.webp"
 - [[Yuuki Serika]]（沢村 かすみ）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Shaonv Qishi Wuyu More&More]]
-- [[Shaonv Qishi Wuyu More&More（release：）]]
-- [[Walkure Romanze More&More (Gemini 2.5)]]
-- [[Walkure Romanze More&More - Download Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Walkure Romanze More&More - First Press Limited Edition (Deluxe Edition)]]
 - [[Walkure Romanze More&More - First Press Limited Edition (Deluxe Edition)]]
-- [[Walkure Romanze More&More - First Press Limited Edition]]
-- [[Walkure Romanze More&More - Regular Edition]]
-- [[Walkure Romanze More&More - Web Trial Edition]]
-- [[Walkure Romanze More&More]]
-- [[＂Walkure Romanze＂ Series 4 Set - Limited Edition]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

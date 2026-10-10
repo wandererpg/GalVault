@@ -118,16 +118,9 @@ cover_image: "assets/covers/v889.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Doushen Dushi II]]
-- [[Kichikuou on Web（release：）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Toushin Toshi 2 - PC-9821 CD Edition]]
 - [[Toushin Toshi 2 - PC-9821 CD Edition]]
-- [[Toushin Toshi 2 Fan-patch]]
-- [[Toushin Toshi 2]]
-- [[Toushin Toshi 2（Alice Soft・release：）]]
-- [[Toushin Toshi 2（Alice Soft・vndb：r33）]]
-- [[Toushin Toshi 2（Alice Soft）]]
-- [[Toushin Toshi 2（release：）]]
-- [[Toushin Toshi II]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

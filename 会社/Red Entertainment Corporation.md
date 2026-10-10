@@ -12,28 +12,14 @@ source_urls:
 # Red Entertainment Corporation
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Birushana Senki ~Genpei Hika Musou~ Download Edition]]（developer）
-- [[Birushana Senki ~Genpei Hika Musou~ Limited Edition]]（developer）
-- [[Birushana Senki ~Genpei Hika Musou~ Regular Edition]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Birushana： Rising Flower of Genpei - Download Edition]]（developer）
 - [[Birushana Senki ~Ichijuu no Kaze~ Download Edition]]（developer）
-- [[Birushana Senki ~Ichijuu no Kaze~ Limited Edition]]（developer）
-- [[Birushana Senki ~Ichijuu no Kaze~ Regular Edition]]（developer）
-- [[Birushana： Rising Flower of Genpei - Day One Edition]]（developer）
+- [[发行版/Birushana Senki ~Ichijuu no Kaze~ Download Edition]]（developer）
 - [[Birushana： Rising Flower of Genpei - Download Edition]]（developer）
-- [[Birushana： Rising Flower of Genpei - Limited Edition]]（developer）
-- [[Birushana： Rising Flower of Genpei - Standard Edition]]（developer）
-- [[Juuzaengi ~Engetsu Sangokuden~ 1+2 - Download Edition]]（developer）
-- [[Juuzaengi ~Engetsu Sangokuden~ 1+2 - Package Edition]]（developer）
+- [[发行版/Juuzaengi ~Engetsu Sangokuden~ 1・2 for Nintendo Switch - Download Edition]]（developer）
 - [[Juuzaengi ~Engetsu Sangokuden~ 1・2 for Nintendo Switch - Download Edition]]（developer）
-- [[Juuzaengi ~Engetsu Sangokuden~ 1・2 for Nintendo Switch - Regular Edition]]（developer）
-- [[Juuzaengi ~Engetsu Sangokuden~ 1・2 for Nintendo Switch - Special Edition]]（developer）
-- [[Juuzaengi ~Engetsu Sangokuden~ 2 - Twin Pack]]（developer）
-- [[Juuzaengi ~Engetsu Sangokuden~ Limited Edition]]（developer）
-- [[Juuzaengi ~Engetsu Sangokuden~ Regular Edition]]（developer）
-- [[Kenka Banchou Otome - Download Edition]]（developer）
-- [[Kenka Banchou Otome - Regular Edition]]（developer）
+- [[发行版/Kenka Banchou Otome Double Pack - Download Version]]（developer）
 - [[Kenka Banchou Otome Double Pack - Download Version]]（developer）
-- [[Kenka Banchou Otome Double Pack]]（developer）
 - [[Sakura Taisen]]（developer）
 - [[サクラ大戦]]（developer）
 - [[十三支演義 偃月三國傳]]（developer）

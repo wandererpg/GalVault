@@ -69,7 +69,7 @@ cover_image: "assets/covers/v26578.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Gilded Shadows - Demo]]
+<!-- AUTO:BEGIN release -->- [[发行版/Gilded Shadows]]
 - [[Gilded Shadows]]<!-- AUTO:END release -->
 
 ## 动画化

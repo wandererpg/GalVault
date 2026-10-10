@@ -12,15 +12,8 @@ source_urls:
 # Re,AER LLC.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Magical Girl Witch Trials]]（developer）
-- [[Magical Girl Witch Trials]]（publisher）
-- [[Magical Girl Witch Trials（Re,AER LLC）]]（developer）
-- [[Magical Girl Witch Trials（Re,AER LLC）]]（publisher）
-- [[Mahou Shoujo no Majo Saiban - Download Edition]]（publisher）
-- [[Mahou Shoujo no Majo Saiban - Famitsu DX Pack]]（publisher）
-- [[Mahou Shoujo no Majo Saiban - Package Edition]]（publisher）
-- [[Mahou Shoujo no Majo Saiban Demo： First-victim Edition]]（developer）
-- [[Mahou Shoujo no Majo Saiban Demo： First-victim Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Mahou Shoujo no Majo Saiban]]（developer）
+- [[发行版/Mahou Shoujo no Majo Saiban]]（publisher）
 - [[Mahou Shoujo no Majo Saiban]]（developer）
 - [[Mahou Shoujo no Majo Saiban]]（publisher）
 - [[魔法少女的魔女审判]]（developer）<!-- AUTO:END duty -->

@@ -12,15 +12,9 @@ source_urls:
 # CTH Translations
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Higurashi no Naku Koro Ni - Matsuribayashi-hen]]（publisher）
-- [[Higurashi no Naku Koro Ni - Minagoroshi-hen]]（publisher）
-- [[Higurashi no Naku Koro ni - Himatsubushi-hen]]（publisher）
-- [[Higurashi no Naku Koro ni - Onikakushi-hen]]（publisher）
-- [[Higurashi no Naku Koro ni - Tatarigoroshi-hen]]（publisher）
-- [[Higurashi no Naku Koro ni - Tsumihoroboshi-hen]]（publisher）
-- [[Higurashi no Naku Koro ni - Watanagashi-hen]]（publisher）
-- [[Higurashi no Naku Koro ni Kai - Meakashi-hen]]（publisher）
-- [[Rewrite（CTH Translations）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Matsuribayashi Hen（07th Expansion）]]（publisher）
+- [[发行版/Himatsubushi Hen（07th Expansion）]]（publisher）
+- [[发行版/Rewrite - Download Edition（Key）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

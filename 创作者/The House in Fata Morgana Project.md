@@ -12,14 +12,9 @@ source_urls:
 # The House in Fata Morgana Project
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Fata Morgana no Yakata Remaster]]（publisher）
-- [[Fata Morgana no Yakata Remaster（52e39d57）]]（publisher）
-- [[Fata Morgana no Yakata Remaster（9d663b14）]]（publisher）
-- [[Fata Morgana no Yakata Remaster（a43cb303）]]（publisher）
-- [[Fata Morgana no Yakata Remaster（k：v12402）]]（publisher）
-- [[Fata Morgana no Yakata Remaster（k：v18397）]]（publisher）
-- [[Fata Morgana no Yakata Remaster（release：）]]（publisher）
-- [[Fata Morgana no Yakata Remaster（vndb：r95）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Fata Morgana no Yakata -DREAMS OF THE REVENANTS EDITION- - Download Edition]]（publisher）
+- [[发行版/Fata Morgana no Yakata -DREAMS OF THE REVENANTS EDITION- - Download Edition（NOVECT）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

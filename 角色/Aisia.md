@@ -31,8 +31,7 @@ portrait_image: "assets/characters/c4058.webp"
 
 ## 出场作品
 <!-- AUTO:BEGIN character -->- [[D.C. II P.C. ~Da Capo II~ Plus Communication - Regular Edition]]（primary）
-- [[D.C. II P.S. ~Da Capo II~ Plus Situation - DX Pack]]（primary）
-- [[D.C. II P.S. ~Da Capo II~ Plus Situation - Regular Edition]]（primary）
+- [[发行版/D.C. II P.C. ~Da Capo II~ Plus Communication - Regular Edition]]（primary）
 - [[D.C.5 Future Link ～ダ・カーポ5～ フューチャーリンク]]（appears）
 - [[D.C.5 ～ダ・カーポ5～]]（appears）
 - [[D.C.Ⅲ DreamDays～ダ・カーポⅢ～ドリームデイズ]]（side）<!-- AUTO:END character -->

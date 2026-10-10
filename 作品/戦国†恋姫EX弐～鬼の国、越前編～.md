@@ -96,23 +96,9 @@ cover_image: "assets/covers/v31819.webp"
 - [[Yuuki Serika]]（波奈束 風景）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Sengoku † Koihime + X + EX Set Edition（ENTERGRAM）]]
-- [[Sengoku † Koihime EX 2 ~Oni no Kuni, Echizen Hen~  Chapter 1： Kikan no Wazawai - Club Nexton Edition]]
-- [[Sengoku † Koihime EX 2 ~Oni no Kuni, Echizen Hen~  Chapter 2： Kiki Shinzen - Club Nexton Edition]]
-- [[Sengoku † Koihime EX 2 ~Oni no Kuni, Echizen Hen~  Chapter 3： Kikoku Shuushuu - Club Nexton Edition]]
-- [[Sengoku † Koihime EX 2 ~Oni no Kuni, Echizen Hen~ Download Edition with Voice Privilege]]
-- [[Sengoku † Koihime EX 2 ~Oni no Kuni, Echizen Hen~ Download Regular Edition]]
-- [[Sengoku † Koihime EX 2 ~Oni no Kuni, Echizen Hen~ Package Deluxe Edition]]
-- [[Sengoku † Koihime EX 2 ~Oni no Kuni, Echizen Hen~ Package Edition]]
-- [[Sengoku † Koihime EX 2 ~Oni no Kuni, Echizen Hen~ Trial Edition]]
-- [[Sengoku † Koihime EX Complete Edition - DVDPG]]
-- [[Sengoku † Koihime EX Complete Edition - Download Edition]]
-- [[Sengoku † Koihime EX Complete Edition - Package Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Sengoku † Koihime EX Complete Edition - Renewal Package Edition DVDPG]]
 - [[Sengoku † Koihime EX Complete Edition - Renewal Package Edition DVDPG]]
-- [[Sengoku † Koihime EX ~COLLECTION~ - Download Edition]]
-- [[Sengoku † Koihime EX ~COLLECTION~ - Limited Edition]]
-- [[Sengoku † Koihime EX ~COLLECTION~ - Regular Edition]]
-- [[Zhan Guo † Lian Ji EX Er ~Gui Guo, Yue Qian Bian~]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

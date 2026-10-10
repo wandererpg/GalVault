@@ -129,15 +129,9 @@ cover_image: "assets/covers/v13999.webp"
 - [[Yuuki Serika]]（波奈束 風景）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Boginja bitvy： Vospominanija]]
-- [[Boginja bitvy： Vospominanija（Visual Novel Reader's）]]
-- [[La DEA of Libra ~MEMORIA~]]
-- [[Tenbin no La DEA. ~Ikusa Megami MEMORIA~ Download Edition]]
-- [[Tenbin no La DEA. ~Ikusa Megami MEMORIA~ Package Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Tenbin no La DEA. ~Ikusa Megami MEMORIA~ Perfect Guidebook Append Disk]]
 - [[Tenbin no La DEA. ~Ikusa Megami MEMORIA~ Perfect Guidebook Append Disk]]
-- [[Tenbin no La DEA. ~Ikusa Megami MEMORIA~ Trial Edition]]
-- [[Tenbin no La DEA. ~Ikusa Megami MEMORIA~]]
-- [[Zhan Nvshen MEMORIA]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

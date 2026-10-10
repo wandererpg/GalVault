@@ -12,12 +12,12 @@ source_urls:
 # E-ne!
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[LIKE×LOVE ~Totsukawa Hikaru~ the BEST DVDPG]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Like x Love ~Totsukawa Hikaru~ DVDPG]]（publisher）
 - [[Like x Love ~Totsukawa Hikaru~ DVDPG]]（publisher）
 - [[Monster Hazard - DVDPG]]（publisher）
-- [[Nekoneko Premium Box 3 - Price Revised Edition]]（publisher）
+- [[发行版/Scarlett ~Nichijou no Kyoukaisen~ Regular Edition]]（publisher）
 - [[Onii-chan, Asa made Zutto Gyutte Shite! Yoru Made Motto Ecchi Shite! - DVD-PG]]（publisher）
-- [[Onii-chan, Asa made Zutto Gyutte Shite! Yoru Made Motto Ecchi Shite! DVD-PG Edition the BEST]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Onii-chan, Asa made Zutto Gyutte Shite! Yoru Made Motto Ecchi Shite! - DVD-PG]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

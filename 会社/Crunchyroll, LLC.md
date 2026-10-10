@@ -11,14 +11,11 @@ source_urls:
 # Crunchyroll, LLC
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Grisaia： Phantom Trigger Vol.8]]（publisher）
-- [[Grisaia： Phantom Trigger Vol.8（Crunchyroll, LLC）]]（publisher）
-- [[Raging Loop - Crunchyroll Ver]]（publisher）
-- [[Raging Loop - Crunchyroll Ver（Crunchyroll, LLC）]]（publisher）
-- [[STEINS;GATE]]（publisher）
-- [[STEINS;GATE（Crunchyroll, LLC）]]（publisher）
-- [[The House in Fata Morgana（Crunchyroll, LLC・release：）]]（publisher）
-- [[The House in Fata Morgana（Crunchyroll, LLC）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Grisaia： Phantom Trigger 5.5 to 08 - Download Edition]]（publisher）
+- [[发行版/Rei-Jin-G-Lu-P - Package Edition]]（publisher）
+- [[发行版/STEINS;GATE - Download Edition（MAGES・release：）]]（publisher）
+- [[发行版/Fata Morgana no Yakata -DREAMS OF THE REVENANTS EDITION- - Download Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

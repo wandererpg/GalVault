@@ -101,11 +101,9 @@ cover_image: "assets/covers/v5937.webp"
 - [[Ui]]（卯衣）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Twinkle ☆ Crusaders -Passion Star Stream- Battle Trial Edition]]
-- [[Twinkle ☆ Crusaders -Passion Star Stream- Battle Trial Final Mix]]
+<!-- AUTO:BEGIN release -->- [[发行版/Twinkle ☆ Crusaders -Passion Star Stream- Deluxe Edition]]
 - [[Twinkle ☆ Crusaders -Passion Star Stream- Deluxe Edition]]
-- [[Twinkle ☆ Crusaders -Passion Star Stream- Download Edition]]
-- [[Twinkle ☆ Crusaders -Passion Star Stream- H Scene Trial Edition]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

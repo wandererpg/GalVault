@@ -12,8 +12,8 @@ source_urls:
 # Shenghuixinglan Xueyuan
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Flowers -Qiu Pian-]]（publisher）
-- [[Flowers -Xia Pian-]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Flowers -Le Volume sur Automne- Download Edition]]（publisher）
+- [[发行版/Flowers -Le Volume sur Été- Download Edition（PROTOTYPE）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

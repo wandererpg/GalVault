@@ -128,19 +128,9 @@ cover_image: "assets/covers/v7719.webp"
 - [[Yahagi Sayuri]]（矢作 紗友里）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Tears To Tiara II： Haou No Matsuei - AS Edition]]
-- [[Tears To Tiara II： Haou No Matsuei - AS Limited Edition]]
-- [[Tears to Tiara II： Haou no Matsuei - Download Edition]]
-- [[Tears to Tiara II： Haou no Matsuei - Limited Quantity Edition]]
-- [[Tears to Tiara II： Haou no Matsuei - Regular Edition]]
-- [[Tears to Tiara II： Haou no Matsuei - Trial Edition]]
-- [[Tears to Tiara II： Haou no Matsuei AQUAPRICE 2800]]
-- [[Tears to Tiara II： Heir of the Overlord - AU Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Tears to Tiara II： Heir of the Overlord - EU Download Edition]]
 - [[Tears to Tiara II： Heir of the Overlord - EU Download Edition]]
-- [[Tears to Tiara II： Heir of the Overlord - EU Edition]]
-- [[Tears to Tiara II： Heir of the Overlord - NA Edition]]
-- [[Tears to Tiara II： Heir of the Overlord - US Download Edition]]
-- [[Tears to Tiara II： Heir of the Overlord - US Edition]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

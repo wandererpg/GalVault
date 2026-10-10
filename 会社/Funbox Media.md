@@ -12,8 +12,8 @@ source_urls:
 # Funbox Media
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Please Be Happy - Physical Edition]]（publisher）
-- [[Please Be Happy - Physical Edition（Funbox Media）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Please Be Happy（Sekai Project）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

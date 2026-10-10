@@ -30,7 +30,7 @@ portrait_image: "assets/characters/c48123.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Kin’iro no Corda 3 AnotherSky feat. Jinnan - Regular Edition]]（side）<!-- AUTO:END character -->
+<!-- AUTO:BEGIN character -->- [[发行版/Kin'iro no Corda 3 AnotherSky feat. Shiseikan - Regular Edition]]（side）<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Ginga Banjou]]（声优：銀河 万丈）<!-- AUTO:END voice -->

@@ -14,10 +14,8 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Kazoku Keikaku ~Soshite Mata Kazoku Keikaku o~ Download Edition]]（developer）
 - [[Kazoku Keikaku ~Soshite Mata Kazoku Keikaku o~ Download Edition]]（publisher）
-- [[Kazoku Keikaku ~Soshite Mata Kazoku Keikaku o~ Okaeshi Disc]]（developer）
-- [[Kazoku Keikaku ~Soshite Mata Kazoku Keikaku o~ Okaeshi Disc]]（publisher）
-- [[Kazoku Keikaku ~Soshite Mata Kazoku Keikaku o~]]（developer）
-- [[Kazoku Keikaku ~Soshite Mata Kazoku Keikaku o~]]（publisher）
+- [[发行版/Kazoku Keikaku ~Soshite Mata Kazoku Keikaku o~ Download Edition]]（developer）
+- [[发行版/Kazoku Keikaku ~Soshite Mata Kazoku Keikaku o~ Download Edition]]（publisher）
 - [[家族計画 〜そしてまた家族計画を〜]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

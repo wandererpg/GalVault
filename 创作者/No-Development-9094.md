@@ -12,7 +12,7 @@ source_urls:
 # No-Development-9094
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Your Turn To Die -La Mort au Bout du Vote-]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Your Turn To Die -Jeu Mortel Démocratique-]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

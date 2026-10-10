@@ -12,7 +12,7 @@ source_urls:
 # Neotro Inc.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Magical Princess - Demo]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Magical Princess]]（developer）
 - [[Magical Princess]]（developer）
 - [[まじかる☆プリンセス]]（developer）<!-- AUTO:END duty -->
 

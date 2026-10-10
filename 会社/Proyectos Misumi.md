@@ -12,9 +12,9 @@ source_urls:
 # Proyectos Misumi
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ever17 -The Out of Infinity-（07th Inquisition）]]（publisher）
-- [[Maji de Watashi ni Koishinasai! A-1]]（publisher）
-- [[Maji de Watashi ni Koishinasai! A-2]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Ever17 -The Out of Infinity- Download Edition（MAGES）]]（publisher）
+- [[发行版/Maji de Watashi ni Koishinasai! A-1（Wairu Translations）]]（publisher）
+- [[发行版/Maji de Watashi ni Koishinasai! A - Special Edition（Minato Soft）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

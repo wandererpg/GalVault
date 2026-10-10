@@ -42,11 +42,9 @@ cover_image: "assets/covers/v28737.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Temptation's Ballad v0.2.5.3]]
-- [[Temptation's Ballad v0.2.7]]
-- [[Temptation's Ballad v0.2.8]]
+<!-- AUTO:BEGIN release -->- [[发行版/Temptation's Ballad v0.2.9]]
 - [[Temptation's Ballad v0.2.9]]
-- [[Youhuo zhi Shi]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

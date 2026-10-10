@@ -11,11 +11,10 @@ source_urls:
 # Media Cats
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Danganronpa 2： Goodbye Despair（Media Cats）]]（publisher）
-- [[Danganronpa 2： Proschaj, Otchajanie]]（publisher）
-- [[Danganronpa： Trigger Happy Havoc Anniversary Edition]]（publisher）
-- [[The Hundred Line -Last Defense Academy-]]（publisher）
-- [[Vrata Shtejna V0.0.3]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Danganronpa Decadence - EU Package Edition（Numskull Games Ltd・release：）]]（publisher）
+- [[发行版/Danganronpa Decadence - EU Package Edition（Numskull Games Ltd）]]（publisher）
+- [[发行版/Bairi Zhanji -Zuizhong Fangwei Xueyuan-]]（publisher）
+- [[发行版/STEINS;GATE - Download Edition（MAGES・release：）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

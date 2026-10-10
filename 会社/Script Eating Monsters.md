@@ -12,7 +12,7 @@ source_urls:
 # Script Eating Monsters
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ken ga Kimi： The Name of the Sword]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Ken ga Kimi： Momoyo Tsuzuri - Twinpack]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

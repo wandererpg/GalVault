@@ -1,16 +1,50 @@
 ---
-entity_id: "release:vndb:r129069:work:vndb:work:v44096"
-type: "release"
-display_title: "even if TEMPEST: Lianzhui zhi Shi de Fuxiao - Download Edition"
-release_date: "2025-01-16"
+entity_id: release:vndb:r129069:work:vndb:work:v44096
+type: release
+display_title: 'even if TEMPEST: Lianzhui zhi Shi de Fuxiao - Download Edition'
+release_date: '2025-01-16'
 is_all_ages: true
-platform: "swi"
-edition_type: "complete"
-title_status: "needs_review"
+platform: swi
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r129069"
+  vndb: r129069
 source_urls:
-  vndb: "https://vndb.org/r129069"
+  vndb: https://vndb.org/r129069
+aliases:
+- even if TEMPEST： Lianzhui zhi Shi de Fuxiao
+- even if TEMPEST： Lianzhui zhi Shi de Fuxiao - Limited Edition
+- even if TEMPEST： Tsuranaru Toki no Akatsuki
+consolidated_releases:
+- id: r129069
+  title: 'even if TEMPEST: Lianzhui zhi Shi de Fuxiao - Download Edition'
+  url: https://vndb.org/r129069
+  release_date: '2025-01-16'
+  platform: swi
+  edition_type: complete
+  is_all_ages: true
+- id: r130538
+  title: 'even if TEMPEST: Lianzhui zhi Shi de Fuxiao - Limited Edition'
+  url: https://vndb.org/r130538
+  release_date: '2025-01-16'
+  platform: swi
+  edition_type: complete
+  is_all_ages: true
+- id: r106355
+  title: 'even if TEMPEST: Tsuranaru Toki no Akatsuki'
+  url: https://vndb.org/r106355
+  release_date: '2023-10-26'
+  platform: swi
+  edition_type: complete
+  is_all_ages: true
+- id: r130537
+  title: 'even if TEMPEST: Lianzhui zhi Shi de Fuxiao'
+  url: https://vndb.org/r130537
+  release_date: '2025-01-26'
+  platform: swi
+  edition_type: complete
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # even if TEMPEST: Lianzhui zhi Shi de Fuxiao - Download Edition

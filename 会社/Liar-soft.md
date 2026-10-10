@@ -12,90 +12,32 @@ source_urls:
 # Liar-soft
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ever Maiden ~Daraku no Sono no Otome-tachi~ Append Scenario ＂Akumu to Kyuusai＂]]（developer）
-- [[Ever Maiden ~Daraku no Sono no Otome-tachi~ Append Scenario ＂Akumu to Kyuusai＂]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Ever Maiden ~Daraku no Sono no Otome-tachi~ Download Edition（Liar-soft）]]（developer）
+- [[发行版/Ever Maiden ~Daraku no Sono no Otome-tachi~ Download Edition（Liar-soft）]]（publisher）
 - [[Ever Maiden ~Daraku no Sono no Otome-tachi~ Download Edition（Liar-soft）]]（developer）
 - [[Ever Maiden ~Daraku no Sono no Otome-tachi~ Download Edition（Liar-soft）]]（publisher）
-- [[Ever Maiden ~Daraku no Sono no Otome-tachi~ Package Edition]]（developer）
-- [[Ever Maiden ~Daraku no Sono no Otome-tachi~ Package Edition]]（publisher）
-- [[Ever Maiden ~Daraku no Sono no Otome-tachi~ Second Trial Edition]]（developer）
-- [[Ever Maiden ~Daraku no Sono no Otome-tachi~ Second Trial Edition]]（publisher）
-- [[Ever Maiden ~Daraku no Sono no Otome-tachi~ Trial Edition]]（developer）
-- [[Ever Maiden ~Daraku no Sono no Otome-tachi~ Trial Edition（Liar-soft・release：）]]（developer）
-- [[Ever Maiden ~Daraku no Sono no Otome-tachi~ Trial Edition（Liar-soft・release：）]]（publisher）
-- [[Ever Maiden ~Daraku no Sono no Otome-tachi~ Trial Edition（Liar-soft）]]（developer）
-- [[Fairytale Requiem - Download Edition]]（developer）
-- [[Fairytale Requiem - Trial Edition]]（developer）
-- [[Fairytale Requiem - ＂Kindan no Mokushiroku＂ Scenario Append Disc]]（developer）
-- [[Fairytale Requiem - ＂Kindan no Mokushiroku＂ Scenario Append Disc]]（publisher）
-- [[Fairytale Requiem]]（developer）
+- [[发行版/Fairytale Symphony]]（developer）
+- [[发行版/Fairytale Symphony]]（publisher）
 - [[Fairytale Symphony]]（developer）
-- [[Hikari no Valusia ~What a beautiful hopes~ Download Edition]]（developer）
-- [[Hikari no Valusia ~What a beautiful hopes~ Download Edition]]（publisher）
-- [[Hikari no Valusia ~What a beautiful hopes~]]（developer）
-- [[Hikari no Valusia ~What a beautiful hopes~]]（publisher）
+- [[发行版/Liar-soft Selection 20 - Hikari no Valusia ~What a beautiful hopes~]]（developer）
+- [[发行版/Liar-soft Selection 20 - Hikari no Valusia ~What a beautiful hopes~]]（publisher）
 - [[Inganock of the Raging Flame： What a Beautiful People - Censored Edition]]（developer）
-- [[Inganock of the Raging Flame： What a Beautiful People]]（developer）
+- [[发行版/Inganock of the Raging Flame： What a Beautiful People - Censored Edition]]（developer）
 - [[Kusarihime ~Euthanasia~ Download Edition]]（developer）
-- [[Kusarihime ~Euthanasia~]]（developer）
-- [[Kusarihime ~Euthanasia~]]（publisher）
-- [[Kusarihime ~Euthanasia~（Liar-soft）]]（developer）
-- [[Kusarihime ~Euthanasia~（Liar-soft）]]（publisher）
-- [[Liar-soft Selection 01 - Kusarihime ~Euthanasia~]]（developer）
-- [[Liar-soft Selection 01 - Kusarihime ~Euthanasia~]]（publisher）
-- [[Liar-soft Selection 18 - Sekien no Inganock ~What a Beautiful People~ Fullvoice ReBORN]]（developer）
-- [[Liar-soft Selection 18 - Sekien no Inganock ~What a Beautiful People~ Fullvoice ReBORN]]（publisher）
+- [[发行版/Kusarihime ~Euthanasia~ Download Edition]]（developer）
+- [[发行版/Kusarihime ~Euthanasia~ Download Edition]]（publisher）
+- [[发行版/Inganock of the Raging Flame： What a Beautiful People - Censored Edition]]（publisher）
 - [[Liar-soft Selection 20 - Hikari no Valusia ~What a beautiful hopes~]]（developer）
 - [[Liar-soft Selection 20 - Hikari no Valusia ~What a beautiful hopes~]]（publisher）
 - [[Liar-soft Selection 21 - Shiei no Sona-Nyl -What a Beautiful Memories-]]（developer）
 - [[Liar-soft Selection 21 - Shiei no Sona-Nyl -What a Beautiful Memories-]]（publisher）
-- [[Liar-soft Selection 25 - Okujou no Yurirei-san]]（developer）
-- [[Liar-soft Selection 25 - Okujou no Yurirei-san]]（publisher）
-- [[Okujou no Yurirei-san - Download Edition]]（developer）
-- [[Okujou no Yurirei-san - Download Edition]]（publisher）
-- [[Okujou no Yurirei-san - Popular Edition]]（developer）
-- [[Okujou no Yurirei-san - Popular Edition]]（publisher）
-- [[Okujou no Yurirei-san - Trial Edition]]（developer）
-- [[Okujou no Yurirei-san - Trial Edition]]（publisher）
-- [[Okujou no Yurirei-san ~Full Chorus~ Download Edition]]（developer）
-- [[Okujou no Yurirei-san ~Full Chorus~ Download Edition]]（publisher）
-- [[Okujou no Yurirei-san ~Full Chorus~ Package Edition]]（developer）
-- [[Okujou no Yurirei-san ~Full Chorus~ Package Edition]]（publisher）
-- [[Okujou no Yurirei-san]]（developer）
-- [[Okujou no Yurirei-san]]（publisher）
-- [[Okujou no Yurirei-san（Liar-soft）]]（developer）
-- [[Okujou no Yurirei-san（Liar-soft）]]（publisher）
+- [[发行版/Wushang de Baiheling ~Full Chorus~]]（developer）
+- [[发行版/Wushang de Baiheling ~Full Chorus~]]（publisher）
 - [[Ourai no Gahkthun： Shining Night - DVDPG]]（developer）
-- [[Ourai no Gahkthun： Shining Night - Download Edition]]（developer）
-- [[Ourai no Gahkthun： Shining Night - Download Edition]]（publisher）
-- [[Ourai no Gahkthun： Shining Night - Popular Edition]]（developer）
-- [[Ourai no Gahkthun： Shining Night - Popular Edition]]（publisher）
-- [[Ourai no Gahkthun： Shining Night]]（developer）
-- [[Ourai no Gahkthun： Shining Night]]（publisher）
-- [[Sekien no Inganock -What a Beautiful People- Download Edition]]（developer）
-- [[Sekien no Inganock -What a Beautiful People- Download Edition]]（publisher）
-- [[Sekien no Inganock -What a Beautiful People- Fullvoice ReBORN - Download Edition]]（developer）
-- [[Sekien no Inganock -What a Beautiful People- Fullvoice ReBORN - Download Edition]]（publisher）
-- [[Sekien no Inganock -What a Beautiful People- Fullvoice ReBORN Edition]]（developer）
-- [[Sekien no Inganock -What a Beautiful People- Fullvoice ReBORN Edition]]（publisher）
-- [[Sekien no Inganock -What a Beautiful People-]]（developer）
-- [[Sekien no Inganock -What a Beautiful People-]]（publisher）
-- [[Sekien no Inganock -What a Beautiful People-（Liar-soft）]]（developer）
-- [[Sekien no Inganock -What a Beautiful People-（Liar-soft）]]（publisher）
-- [[Shiei no Sona-Nyl -What a Beautiful Memories- Download Edition]]（developer）
-- [[Shiei no Sona-Nyl -What a Beautiful Memories- Download Edition]]（publisher）
-- [[Shiei no Sona-Nyl Refrain]]（developer）
-- [[Shiei no Sona-Nyl Refrain]]（publisher）
-- [[Shiei no Sona-Nyl Refrain（Liar-soft）]]（developer）
-- [[Shiei no Sona-Nyl Refrain（Liar-soft）]]（publisher）
-- [[Shiei no Sona-Nyl ~What a beautiful memories~ Trial Edition]]（developer）
-- [[Shiei no Sona-Nyl ~What a beautiful memories~ Trial Edition]]（publisher）
-- [[Shiei no Sona-Nyl ~What a beautiful memories~]]（developer）
-- [[Shiei no Sona-Nyl ~What a beautiful memories~]]（publisher）
-- [[Steampunk Fullvoice ReBORN Set ＂Mega Engine Box＂ - Download Edition]]（developer）
-- [[Steampunk Fullvoice ReBORN Set ＂Mega Engine Box＂ - Download Edition]]（publisher）
-- [[Steampunk Fullvoice ReBORN Set ＂Mega Engine Box＂]]（developer）
-- [[Steampunk Fullvoice ReBORN Set ＂Mega Engine Box＂]]（publisher）
+- [[发行版/Ourai no Gahkthun： Shining Night - DVDPG]]（developer）
+- [[发行版/Ourai no Gahkthun： Shining Night - DVDPG]]（publisher）
+- [[发行版/Liar-soft Selection 21 - Shiei no Sona-Nyl -What a Beautiful Memories-]]（developer）
+- [[发行版/Liar-soft Selection 21 - Shiei no Sona-Nyl -What a Beautiful Memories-]]（publisher）
 - [[天台上的百合灵]]（developer）
 - [[永恒少女～堕落庭园的少女们～]]（developer）
 - [[白光的伐鲁希亚]]（developer）

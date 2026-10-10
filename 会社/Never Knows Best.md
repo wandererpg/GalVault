@@ -12,15 +12,9 @@ source_urls:
 # Never Knows Best
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Bu Cunzai de Huangyan]]（developer）
-- [[Bu Cunzai de Huangyan（Xun Lu Jihua）]]（developer）
-- [[Lian'ai Qitan ~Bu Cunzai de Zhenxiang~ Demo]]（developer）
-- [[Lian'ai Qitan ~Bu Cunzai de Zhenxiang~ Demo]]（publisher）
-- [[Lian'ai Qitan ~Bu Cunzai de Zhenxiang~]]（developer）
-- [[Lian'ai Qitan ~Bu Cunzai de Zhenxiang~]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Lian'ai Qitan ~Bu Cunzai de Zhenxiang~（Cyberisle）]]（developer）
+- [[发行版/Lian'ai Qitan ~Bu Cunzai de Zhenxiang~（Cyberisle）]]（publisher）
 - [[Lian'ai Qitan ~Bu Cunzai de Zhenxiang~（Cyberisle）]]（developer）
-- [[Lian'ai Qitan ~Bu Cunzai de Zhenxiang~（Never Knows Best）]]（developer）
-- [[Lian'ai Qitan ~Bu Cunzai de Zhenxiang~（Never Knows Best）]]（publisher）
 - [[恋爱绮谭~不存在的真相~]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

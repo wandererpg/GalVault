@@ -12,7 +12,7 @@ source_urls:
 # Fleeting Heartbeat Studios
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Katawa Shoujo - Re-Engineered]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Katawa Shoujo 1.3J]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

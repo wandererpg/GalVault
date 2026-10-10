@@ -12,7 +12,7 @@ source_urls:
 # KabedonUdon
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Club Suicide（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Club Suicide - Complete Edition（MORPATH）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

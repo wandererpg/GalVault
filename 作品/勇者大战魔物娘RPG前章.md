@@ -47,15 +47,9 @@ cover_image: "assets/covers/v17046.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Monmusu Quest! Paradox RPG Trial Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Monmusu Quest! Paradox RPG Zenshou - Package Edition]]
 - [[Monmusu Quest! Paradox RPG Zenshou - Package Edition]]
-- [[Monmusu Quest! Paradox RPG Zenshou]]
-- [[Monmusu Quest! Paradox RPG Zenshou（Cuarentena Translations）]]
-- [[Monmusu Quest! Paradox RPG Zenshou（release：）]]
-- [[Monmusu Quest! Paradox]]
-- [[Monster Girl Quest! Paradox RPG - Part 1]]
-- [[Yongzhe Dazhan Mowuniang RPG - Trial Edition]]
-- [[Yongzhe Dazhan Mowuniang RPG Qianzhang]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

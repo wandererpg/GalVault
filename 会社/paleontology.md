@@ -12,15 +12,8 @@ source_urls:
 # paleontology
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[SeaBed - Demo]]（developer）
-- [[SeaBed - Demo]]（publisher）
-- [[SeaBed - Download Edition]]（developer）
-- [[SeaBed - Download Edition]]（publisher）
-- [[SeaBed - Download Edition（Fruitbat Factory・release：）]]（developer）
-- [[SeaBed - Download Edition（Fruitbat Factory）]]（developer）
-- [[SeaBed - Limited Edition]]（developer）
-- [[SeaBed - Package Edition]]（developer）
-- [[SeaBed - Package Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/SeaBed - Physical Edition]]（developer）
+- [[发行版/SeaBed - Physical Edition]]（publisher）
 - [[SeaBed - Physical Edition]]（developer）
 - [[SeaBed]]（developer）<!-- AUTO:END duty -->
 

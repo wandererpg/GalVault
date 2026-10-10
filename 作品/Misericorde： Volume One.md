@@ -52,8 +52,7 @@ cover_image: "assets/covers/v31805.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Misericorde Juan Yi]]
-- [[Misericorde： Volume One - Demo]]
+<!-- AUTO:BEGIN release -->- [[发行版/Misericorde： Volume One]]
 - [[Misericorde： Volume One]]<!-- AUTO:END release -->
 
 ## 动画化

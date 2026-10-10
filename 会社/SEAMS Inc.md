@@ -12,23 +12,9 @@ source_urls:
 # SEAMS Inc.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Higurashi When They Cry (Ep1) - Onikakushi]]（publisher）
-- [[Higurashi When They Cry (Ep1) - Onikakushi（SEAMS Inc）]]（publisher）
-- [[Higurashi When They Cry (Ep2) - Watanagashi]]（publisher）
-- [[Higurashi When They Cry (Ep3) - Tatarigoroshi]]（publisher）
-- [[Higurashi When They Cry (Ep4) - Himatsubushi]]（publisher）
-- [[Higurashi When They Cry Kai (Ep5) - Meakashi]]（publisher）
-- [[Higurashi no Naku Koro ni（SEAMS Inc・release：）]]（publisher）
-- [[Higurashi no Naku Koro ni（SEAMS Inc）]]（publisher）
-- [[Himatsubushi Hen]]（publisher）
-- [[Le sanglot des cigales Épisode1]]（publisher）
-- [[Matsuribayashi Hen]]（publisher）
-- [[Meakashi Hen]]（publisher）
-- [[Minagoroshi Hen]]（publisher）
-- [[Onikakushi Hen]]（publisher）
-- [[Tatarigoroshi Hen]]（publisher）
-- [[Tsumihoroboshi Hen]]（publisher）
-- [[Watanagashi Hen]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Himatsubushi Hen（07th Expansion）]]（publisher）
+- [[发行版/Matsuribayashi Hen（07th Expansion）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

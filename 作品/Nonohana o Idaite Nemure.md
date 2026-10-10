@@ -1,13 +1,23 @@
 ---
-entity_id: "vndb:work:v32466"
-type: "work"
-display_title: "Nonohana o Idaite Nemure"
-title_status: "unresolved"
+entity_id: vndb:work:v32466
+type: work
+display_title: Nonohana o Idaite Nemure
+title_status: unresolved
 source_ids:
-  vndb: "v32466"
+  vndb: v32466
 source_urls:
-  vndb: "https://vndb.org/v32466"
-cover_image: "assets/covers/v32466.webp"
+  vndb: https://vndb.org/v32466
+cover_image: assets/covers/v32466.webp
+vndb_title: Nonohana o Idaite Nemure
+vndb_content_updated: '2026-10-10'
+title_ja: 野の花を抱いて眠れ
+first_release_date: '2006-08-11'
+vndb_vote_count: 0
+vndb_languages:
+- ja
+vndb_platforms:
+- win
+vndb_devstatus: 0
 ---
 
 # Nonohana o Idaite Nemure
@@ -18,7 +28,9 @@ cover_image: "assets/covers/v32466.webp"
 <!-- AUTO:END image -->
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->
+- [Happy*Wednesday31](https://vndb.org/p12490)（developer）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
@@ -36,10 +48,21 @@ cover_image: "assets/covers/v32466.webp"
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
 
 ## 关联作品
-<!-- AUTO:BEGIN relation -->- [[遙かなる時空の中で3]]（char）<!-- AUTO:END relation -->
+<!-- AUTO:BEGIN relation -->
+- [[遙かなる時空の中で3]]（char）
+- [[作品/遙かなる時空の中で3|Harukanaru Toki no Naka de 3]]（char）
+<!-- AUTO:END relation -->
 
 ## 标签
-<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+<!-- AUTO:BEGIN tag -->
+- [Otome Game](https://vndb.org/g542)
+- [Fan-fiction](https://vndb.org/g1056)
+<!-- AUTO:END tag -->
 
 ## 来源
 <!-- AUTO:BEGIN provenance -->vndb:v32466<!-- AUTO:END provenance -->
+
+
+## VNDB 资料来源
+
+[VNDB：v32466](https://vndb.org/v32466)，补全于 2026-10-10。

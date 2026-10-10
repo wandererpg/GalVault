@@ -12,16 +12,14 @@ source_urls:
 # Maji Translations
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Maji de Watashi ni Koishinasai! A - Package Edition]]（publisher）
-- [[Maji de Watashi ni Koishinasai! A - Package Edition（Maji Translations・k：v20602）]]（publisher）
-- [[Maji de Watashi ni Koishinasai! A - Package Edition（Maji Translations・release：）]]（publisher）
-- [[Maji de Watashi ni Koishinasai! A - Package Edition（Maji Translations・vndb：r70）]]（publisher）
-- [[Maji de Watashi ni Koishinasai! A - Package Edition（Maji Translations）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Maji de Watashi ni Koishinasai! A-1（Wairu Translations）]]（publisher）
+- [[发行版/Maji de Watashi ni Koishinasai! A - Special Edition（Minato Soft・k：v20602）]]（publisher）
+- [[发行版/Maji de Watashi ni Koishinasai! A - Special Edition（Minato Soft・release：）]]（publisher）
+- [[发行版/Maji de Watashi ni Koishinasai! A - Special Edition（Minato Soft・vndb：r46）]]（publisher）
+- [[发行版/Maji de Watashi ni Koishinasai! A - Special Edition（Minato Soft）]]（publisher）
 - [[Maji de Watashi ni Koishinasai! A-1（Wairu Translations）]]（publisher）
-- [[Maji de Watashi ni Koishinasai! A-2（Maji Translations）]]（publisher）
-- [[Maji de Watashi ni Koishinasai! A-3（Maji Translations）]]（publisher）
 - [[Maji de Watashi ni Koishinasai! S]]（publisher）
-- [[Maji de Watashi ni Koishinasai!（Maji Translations）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/BugBug 200 Anniversary DVD MiniMini AVG Collection Part 1（Minato Soft）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

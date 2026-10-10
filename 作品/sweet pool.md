@@ -113,36 +113,9 @@ cover_image: "assets/covers/v1399.webp"
 - [[Yusa Kouji]]（浅野 要二）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Sladkij Omut]]
-- [[Sweet Pool For PSP]]
-- [[Sweet Pool]]
-- [[Sweet Pool（Sukinime）]]
-- [[Sweet Pool（Tuidao meinan youxi hanhuazu）]]
-- [[sweet pool - 18+ Patch]]
-- [[sweet pool - Censored Edition]]
-- [[sweet pool - Demo]]
-- [[sweet pool - Download Edition]]
-- [[sweet pool - Download Edition（JAST Blue）]]
-- [[sweet pool - First Press Edition]]
-- [[sweet pool - JAST]]
-- [[sweet pool - JAST（release：）]]
-- [[sweet pool - Jast（Hora-Cherry& Akira's fist）]]
-- [[sweet pool - Limited Edition]]
-- [[sweet pool - Package Edition]]
-- [[sweet pool - Regular Edition]]
-- [[sweet pool - Remaster Edition]]
-- [[sweet pool - Steam+JastDLC]]
-- [[sweet pool - Steam]]
-- [[sweet pool - Steam（Hora-Cherry& Akira's fist）]]
-- [[sweet pool - Steam／GOG + DLC]]
-- [[sweet pool - Trial Version]]
-- [[sweet pool - Uncut Demo]]
-- [[sweet pool - Windows 10 Support Edition]]
-- [[sweet pool Remaster - Download Edition]]
-- [[sweet pool Remaster - Package Edition]]
-- [[sweet pool Remaster - Trial Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/sweet pool Remaster]]
 - [[sweet pool Remaster]]
-- [[sweet pool Remaster（Hora-Cherry& Akira's fist）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

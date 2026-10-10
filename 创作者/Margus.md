@@ -11,16 +11,10 @@ source_urls:
 # Margus
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Gdy zapłaczą cykady - Himatsubushi]]（publisher）
-- [[Gdy zapłaczą cykady - Matsuribayashi]]（publisher）
-- [[Gdy zapłaczą cykady - Meakashi]]（publisher）
-- [[Gdy zapłaczą cykady - Minagoroshi]]（publisher）
-- [[Gdy zapłaczą cykady - Onikakushi]]（publisher）
-- [[Gdy zapłaczą cykady - Tatarigoroshi]]（publisher）
-- [[Gdy zapłaczą cykady - Tsumihoroboshi]]（publisher）
-- [[Gdy zapłaczą cykady - Watanagashi]]（publisher）
-- [[Gdy zapłaczą mewy - Rozdziały Pytań]]（publisher）
-- [[planetarian HD（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Himatsubushi Hen（07th Expansion）]]（publisher）
+- [[发行版/Matsuribayashi Hen（07th Expansion）]]（publisher）
+- [[发行版/Umineko no Naku Koro ni - Episode 4 - Alliance of the Golden Witch]]（publisher）
+- [[发行版/Planetarian ~The Reverie of a Little Planet~（release：）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

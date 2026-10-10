@@ -12,8 +12,7 @@ source_urls:
 # Yang Dan Ren Gongzuoshi
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Huoshan De Nü'er]]（developer）
-- [[Huoshan De Nü'er（Yang Dan Ren Gongzuoshi）]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Huoshan De Nü'er： Zaidu Chongfeng]]（developer）
 - [[Huoshan De Nü'er： Zaidu Chongfeng]]（developer）
 - [[火山的女儿]]（developer）<!-- AUTO:END duty -->
 

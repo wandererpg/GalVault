@@ -12,8 +12,8 @@ source_urls:
 # Mottome Translations
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Collar x Malice（Mottome Translations）]]（publisher）
-- [[Shinsouban Heart no Kuni no Alice ~Wonderful Wonder World~]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Collar x Malice for Nintendo Switch - Download Edition]]（publisher）
+- [[发行版/Heart no Kuni no Alice ~Wonderful Wonder World~（PROTOTYPE）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

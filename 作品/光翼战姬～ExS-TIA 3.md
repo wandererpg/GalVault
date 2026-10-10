@@ -69,16 +69,9 @@ cover_image: "assets/covers/v27170.webp"
 - [[Tezuka Ryouko]]（手塚 りょうこ）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Guangyi Zhanji ExS-Tia 3]]
-- [[Holy Valkyrie ExS-TIA 3 - Censored Edition]]
-- [[Holy Valkyrie ExS-TIA 3]]
-- [[Kouyoku Senki ExS-Tia - 3 Renewal Package Edition DVDPG]]
-- [[Kouyoku Senki ExS-Tia - Complete Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Kouyoku Senki ExS-Tia 10th anniversary  ~Bright Feather BOX~]]
 - [[Kouyoku Senki ExS-Tia 10th anniversary  ~Bright Feather BOX~]]
-- [[Kouyoku Senki ExS-Tia 3 - Download Edition]]
-- [[Kouyoku Senki ExS-Tia 3 - Package Edition]]
-- [[Kouyoku Senki ExS-Tia 3 DVDPG]]
-- [[Kouyoku Senki ExS-Tia 3]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

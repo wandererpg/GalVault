@@ -12,11 +12,8 @@ source_urls:
 # Waku Waku
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Fate／Stay Night ［Realta Nua］ - Conversion Patch]]（publisher）
-- [[Fate／Stay Night ［Realta Nua］ -Fate-（release：）]]（publisher）
-- [[Fate／Stay Night ［Realta Nua］ -Unlimited Blade Works-（release：）]]（publisher）
-- [[Fate／Stay Night ［Realta Nua］（mirror moon・release：）]]（publisher）
-- [[Fate／Stay Night ［Realta Nua］（mirror moon）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Fate／Stay Night ［Realta Nua］ - Ultimate Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,10 +12,8 @@ source_urls:
 # BerndSoft
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Bernd und das Rätsel um Unteralterbach Version 2.0]]（developer）
-- [[Bernd und das Rätsel um Unteralterbach Version 2.0]]（publisher）
-- [[Bernd und das Rätsel um Unteralterbach Version 2.5]]（developer）
-- [[Bernd und das Rätsel um Unteralterbach Version 2.5]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Bernd und das Rätsel um Unteralterbach]]（developer）
+- [[发行版/Bernd und das Rätsel um Unteralterbach]]（publisher）
 - [[Bernd und das Rätsel um Unteralterbach]]（developer）
 - [[Bernd und das Rätsel um Unteralterbach]]（publisher）<!-- AUTO:END duty -->
 

@@ -30,11 +30,10 @@ portrait_image: "assets/characters/c8672.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[ef - a fairy tale of the two. (ef Lite)]]（protagonist）
-- [[ef - a fairy tale of the two. - First Press Limited Edition]]（protagonist）
+<!-- AUTO:BEGIN character -->- [[发行版/ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（protagonist）
 - [[ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（protagonist）
-- [[ef - the first tale（minori）]]（appears）
-- [[ef - the latter tale（minori）]]（protagonist）<!-- AUTO:END character -->
+- [[发行版/ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（appears）
+<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Mibu Chuujou]]（声优：壬生 中将）<!-- AUTO:END voice -->

@@ -1,16 +1,34 @@
 ---
-entity_id: "release:vndb:r54703:work:vndb:work:v16486"
-type: "release"
-display_title: "Toaru Hitozuma no Netorare Jijou 2 - Package Edition"
-release_date: "2017-09-15"
+entity_id: release:vndb:r54703:work:vndb:work:v16486
+type: release
+display_title: Toaru Hitozuma no Netorare Jijou 2 - Package Edition
+release_date: '2017-09-15'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r54703"
+  vndb: r54703
 source_urls:
-  vndb: "https://vndb.org/r54703"
+  vndb: https://vndb.org/r54703
+aliases:
+- Toaru Hitozuma no Netorare Jijou 2
+consolidated_releases:
+- id: r54703
+  title: Toaru Hitozuma no Netorare Jijou 2 - Package Edition
+  url: https://vndb.org/r54703
+  release_date: '2017-09-15'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r37788
+  title: Toaru Hitozuma no Netorare Jijou 2
+  url: https://vndb.org/r37788
+  release_date: '2014-12-05'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Toaru Hitozuma no Netorare Jijou 2 - Package Edition

@@ -11,20 +11,16 @@ source_urls:
 # 07th Inquisition
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[DRAMAtical Murder（07th Inquisition）]]（publisher）
-- [[Días maravillosos ~Existencia discontinua~]]（publisher）
-- [[Ever17 -The Out of Infinity-（07th Inquisition）]]（publisher）
-- [[La casa en fata morgana]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/DRAMAtical Murder re：code - Regular Edition]]（publisher）
+- [[发行版/Meihao de Meiyitian（Lingxue Hanhuazu）]]（publisher）
+- [[发行版/Ever17 -The Out of Infinity- Download Edition（MAGES）]]（publisher）
+- [[发行版/Fata Morgana no Yakata -DREAMS OF THE REVENANTS EDITION- - Download Edition]]（publisher）
 - [[Sakura no Uta -Sakura no Mori no Ue o Mau- 10th Anniversary Edition（Taikutsu Translations）]]（publisher）
-- [[Sakura no Uta -Sakura no Mori no Ue o Mau-（Taikutsu Translations）]]（publisher）
-- [[Saya no Uta（07th Inquisition）]]（publisher）
-- [[Subarashiki Hibi ~Furenzoku Sonzai~ Trial Edition]]（publisher）
-- [[The House in Fata Morgana： A Requiem for Innocence]]（publisher）
-- [[Umineko no Naku Koro ni Chiru - Episode 5 - End of the Golden Witch（07th Inquisition）]]（publisher）
-- [[Umineko no Naku Koro ni Chiru - Episode 6 - Dawn of the Golden Witch]]（publisher）
-- [[Umineko no Naku Koro ni Chiru - Episode 7 - Requiem of the Golden Witch]]（publisher）
-- [[Umineko no Naku Koro ni Chiru - Episode 8 - Twilight of the Golden Witch（07th Inquisition）]]（publisher）
-- [[Umineko no Naku Koro ni（07th Inquisition）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Sakura no Uta -Sakura no Mori no Ue o Mau- 10th Anniversary Edition（Taikutsu Translations）]]（publisher）
+- [[发行版/Saya no Uta ~ The Song of Saya - Upgrade Patch]]（publisher）
+- [[发行版/Fata Morgana no Yakata -DREAMS OF THE REVENANTS EDITION- - Download Edition（NOVECT）]]（publisher）
+- [[发行版/Umineko no Naku Koro ni Chiru - Episode 8 - Twilight of the Golden Witch]]（publisher）
+- [[发行版/Umineko no Naku Koro ni - Episode 4 - Alliance of the Golden Witch]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

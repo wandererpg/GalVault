@@ -12,9 +12,9 @@ source_urls:
 # Flowers ESP
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[FLOWERS - Le volume sur été -]]（publisher）
-- [[Kindred Spirits on the Roof ~Full Chorus~（Flowers ESP）]]（publisher）
-- [[Kindred Spirits on the Roof]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Flowers -Le Volume sur Été- Download Edition（PROTOTYPE）]]（publisher）
+- [[发行版/Wushang de Baiheling ~Full Chorus~]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

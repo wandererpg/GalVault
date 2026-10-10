@@ -86,18 +86,9 @@ cover_image: "assets/covers/v862.webp"
 - [[Yasumura Makoto]]（保村 真）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[GALAXY ANGEL Eternal Lovers - Regular Edition]]
-- [[GALAXY ANGEL Eternal Lovers - Special Package CD-ROM Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/GALAXY ANGEL Eternal Lovers - Special Package DVD-ROM Edition]]
 - [[GALAXY ANGEL Eternal Lovers - Special Package DVD-ROM Edition]]
-- [[GALAXY ANGEL Eternal Lovers]]
-- [[Galaxy Angel - Eternal Package]]
-- [[Galaxy Angel Anime Commemoration Rune BOX]]
-- [[Galaxy Angel Eternal Lovers - Broccoli Best Quality]]
-- [[Galaxy Angel Eternal Lovers - Download Edition]]
-- [[Galaxy Angel Eternal Lovers - Special Package]]
-- [[Galaxy Angel Eternal Lovers - Standard Package]]
-- [[Galaxy Angel Eternal Lovers - Trial Edition]]
-- [[Yinhe Tianshi： Yongheng de Qingren]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

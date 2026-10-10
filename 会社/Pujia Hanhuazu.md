@@ -11,13 +11,11 @@ source_urls:
 # Pujia Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[428 ~Bei Fengsuo de Segu~]]（publisher）
-- [[428 ~Bei Fengsuo de Segu~（Pujia Hanhuazu・release：）]]（publisher）
-- [[428 ~Bei Fengsuo de Segu~（Pujia Hanhuazu）]]（publisher）
-- [[Chaoji Danwan Lunpo 2 Zaijian Juewang Xueyuan]]（publisher）
-- [[Danwan Lunpo Xiwang de Xueyuan yu Juewang de Gaozhongsheng]]（publisher）
-- [[Mingyun Shi zhi Men HD]]（publisher）
-- [[Mingyun Shi zhi Men]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/428： Shibuya Scramble - EU Package Edition]]（publisher）
+- [[发行版/Danganronpa Decadence - EU Package Edition（Numskull Games Ltd・release：）]]（publisher）
+- [[发行版/Danganronpa Decadence - EU Package Edition（Numskull Games Ltd）]]（publisher）
+- [[发行版/STEINS;GATE - Download Edition（MAGES・release：）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

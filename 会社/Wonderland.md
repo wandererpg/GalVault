@@ -12,7 +12,7 @@ source_urls:
 # Wonderland
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Aiyoku no Eustia（Nasha Versija・release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Aiyoku no Eustia： Angel's Blessing - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

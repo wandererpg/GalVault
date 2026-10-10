@@ -13,16 +13,16 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Adastra]]（developer）
-- [[Adastra（Echo Project）]]（developer）
-- [[Adastra（Echo Project）]]（publisher）
+- [[发行版/Adastra]]（developer）
+- [[发行版/Adastra]]（publisher）
 - [[Arches]]（developer）
-- [[Arches（Echo Project）]]（developer）
-- [[Arches（Echo Project）]]（publisher）
+- [[发行版/Arches]]（developer）
+- [[发行版/Arches]]（publisher）
 - [[Echo (1 Year Anniversary Version)]]（developer）
 - [[Echo (1 Year Anniversary Version)]]（publisher）
 - [[Echo]]（developer）
-- [[Echo（Echo Project）]]（developer）
-- [[Echo（Echo Project）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Echo (1 Year Anniversary Version)]]（developer）
+- [[发行版/Echo (1 Year Anniversary Version)]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,19 +12,17 @@ source_urls:
 # Qianmo
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[ATRI -My Dear Moments-（release：）]]（publisher）
-- [[Ke zhi Shaonü for psvita]]（publisher）
-- [[Mofashi zhi Ye  for psvita]]（publisher）
-- [[Stella of The End（release：）]]（publisher）
-- [[Xing zhi Meng he Pianlun Shaonv]]（publisher）
-- [[Xing zhi Zhongtu for psvita]]（publisher）
-- [[Xu zhi Shaonü for psvita]]（publisher）
-- [[Ying zhi Ke -Manbu yu Yinghua zhi Sen Xia- for psvita]]（publisher）
-- [[Ying zhi Shi - Zai Yinghua zhi Sen Shang Feiwu - for psvita]]（publisher）
-- [[Yueji for psvita]]（publisher）
-- [[Zhishang Mofashi for psvita]]（publisher）
-- [[Zhishang Mofashi for switch]]（publisher）
-- [[Zhong Zhi Kong Remake]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/ATRI -My Dear Moments- Original Soundtrack - First Press Limited Edition]]（publisher）
+- [[发行版/Innocent Grey Mystery Collection ~Kara no Shoujo & Pianissimo & Cartagra~]]（publisher）
+- [[发行版/Mahoutsukai no Yoru]]（publisher）
+- [[发行版/Tsui no Stella]]（publisher）
+- [[发行版/Planetarian ~The Reverie of a Little Planet~（release：）]]（publisher）
+- [[发行版/Kara no Shoujo - NEW CAST REMASTER EDITION - Download Edition]]（publisher）
+- [[发行版/Sakura no Toki -Sakura no Mori no Shita o Ayumu- First Press Limited Edition]]（publisher）
+- [[发行版/Sakura no Uta -Sakura no Mori no Ue o Mau- 10th Anniversary Edition（Taikutsu Translations）]]（publisher）
+- [[发行版/Tsukihime（vndb：r50）]]（publisher）
+- [[发行版/Kami no Ue no Mahoutsukai - Download Edition]]（publisher）
+- [[发行版/Subarashiki Hibi ~Furenzoku Sonzai~ 10th Anniversary Special Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

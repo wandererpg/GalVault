@@ -12,9 +12,9 @@ source_urls:
 # Red Star
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Letnij klever]]（publisher）
-- [[Nukitashi 2（Red Star）]]（publisher）
-- [[Nukitashi（Red Star）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Xiase Siyecao]]（publisher）
+- [[发行版/Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka？ 1 + 2 Remaster Pack - Download Edition（Qruppo）]]（publisher）
+- [[发行版/NUKITASHI]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

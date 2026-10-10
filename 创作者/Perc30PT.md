@@ -12,9 +12,9 @@ source_urls:
 # Perc30PT
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[AstralAir no Shiroki Towa FHD Re：Eternity（release：）]]（publisher）
-- [[Sakura no Uta -Sakura no Mori no Ue o Mau- 10th Anniversary Edition（release：）]]（publisher）
-- [[Sakura, Moyu. -as the Night's, Reincarnation-（vndb：r14）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/AstralAir no Shiroki Towa -White Eternity- Package Edtition]]（publisher）
+- [[发行版/Sakura no Uta -Sakura no Mori no Ue o Mau- 10th Anniversary Edition（Taikutsu Translations）]]（publisher）
+- [[发行版/Yinghua, Mengfang. -as the Night's, Reincarnation-（Syawase Works）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

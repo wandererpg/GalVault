@@ -13,20 +13,9 @@ source_urls:
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Being a DIK]]（developer）
-- [[Being a DIK： Interlude - Riding the Waves]]（developer）
-- [[Being a DIK： Interlude - Riding the Waves]]（publisher）
-- [[Being a DIK： Season 1 - Demo]]（developer）
-- [[Being a DIK： Season 1 - Demo]]（publisher）
-- [[Being a DIK： Season 1]]（developer）
-- [[Being a DIK： Season 1]]（publisher）
-- [[Being a DIK： Season 2]]（developer）
-- [[Being a DIK： Season 2]]（publisher）
-- [[Being a DIK： Season 3 v0.12.0]]（developer）
-- [[Being a DIK： Season 3 v0.12.0]]（publisher）
-- [[Being a DIK： Season 4]]（developer）
-- [[Being a DIK： Season 4]]（publisher）
-- [[Being a DIK： Seasons 1 & 2]]（developer）
-- [[Being a DIK： Seasons 1 & 2]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Being a DIK Season 1-3 Ep. 1-11 v.0.11.1]]（developer）
+- [[发行版/Being a DIK Season 1-3 Ep. 1-11 v.0.11.1]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -65,8 +65,7 @@ cover_image: "assets/covers/v30755.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Artemida v0.7.1]]
-- [[Artemis v0.7]]
+<!-- AUTO:BEGIN release -->- [[发行版/Artemis： Book One]]
 - [[Artemis： Book One]]<!-- AUTO:END release -->
 
 ## 动画化

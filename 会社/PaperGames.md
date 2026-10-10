@@ -12,12 +12,9 @@ source_urls:
 # PaperGames
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Lian Yu Shen Kong ​]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Lian Yu Shen Kong ​（INFOLD）]]（developer）
 - [[Lian Yu Shen Kong ​（INFOLD）]]（developer）
-- [[Lian Yu Shen Kong ​（PaperGames・release：）]]（developer）
-- [[Lian Yu Shen Kong ​（PaperGames・release：）]]（publisher）
-- [[Lian Yu Shen Kong ​（PaperGames）]]（developer）
-- [[Lian Yu Shen Kong ​（PaperGames）]]（publisher）
+- [[发行版/Lian Yu Shen Kong ​（INFOLD）]]（publisher）
 - [[恋与深空]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

@@ -12,26 +12,14 @@ source_urls:
 # ETERNAL
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Daitenkuu Pack]]（developer）
-- [[Daitenkuu Pack]]（publisher）
-- [[Gin no Toki no Corona Web Pre-Trial]]（developer）
-- [[Gin no Toki no Corona Web Pre-Trial]]（publisher）
-- [[Gin no Toki no Corona Web Trial Plus]]（developer）
-- [[Gin no Toki no Corona Web Trial Plus]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Kikouyoku Senki Series Complete Pack -Limit Break Edition-]]（developer）
+- [[发行版/Kikouyoku Senki Series Complete Pack -Limit Break Edition-]]（publisher）
+- [[发行版/Kikouyoku Senki  Gin no Toki no Corona - First Press Limited Edition]]（developer）
+- [[发行版/Kikouyoku Senki  Gin no Toki no Corona - First Press Limited Edition]]（publisher）
 - [[Kikouyoku Senki  Gin no Toki no Corona - First Press Limited Edition]]（developer）
 - [[Kikouyoku Senki  Gin no Toki no Corona - First Press Limited Edition]]（publisher）
-- [[Kikouyoku Senki Gin no Toki no Corona - Download Edition]]（developer）
-- [[Kikouyoku Senki Gin no Toki no Corona - Download Edition]]（publisher）
-- [[Kikouyoku Senki Gin no Toki no Corona -Fortune Dragon’s- Original Work Bundled Edition]]（developer）
-- [[Kikouyoku Senki Gin no Toki no Corona -Fortune Dragon’s- Original Work Bundled Edition]]（publisher）
 - [[Kikouyoku Senki Series Complete Pack -Limit Break Edition-]]（developer）
 - [[Kikouyoku Senki Series Complete Pack -Limit Break Edition-]]（publisher）
-- [[Kikouyoku Senki Series Complete Pack -Limit Break Edition-（ETERNAL）]]（developer）
-- [[Kikouyoku Senki Series Complete Pack -Limit Break Edition-（ETERNAL）]]（publisher）
-- [[Kikouyoku Senki Tenkuu no Yumina FD  -ForeverDreams- Trial Edition]]（developer）
-- [[Kikouyoku Senki Tenkuu no Yumina FD  -ForeverDreams- Trial Edition]]（publisher）
-- [[Kikouyoku Senki Tenkuu no Yumina FD  -ForeverDreams-]]（developer）
-- [[Kikouyoku Senki Tenkuu no Yumina FD  -ForeverDreams-]]（publisher）
 - [[輝光翼戦記 天空のユミナFD -ForeverDreams-]]（developer）
 - [[輝光翼戦記 銀の刻のコロナ]]（developer）<!-- AUTO:END duty -->
 

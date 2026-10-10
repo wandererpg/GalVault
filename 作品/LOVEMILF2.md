@@ -51,7 +51,7 @@ cover_image: "assets/covers/v15802.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[LOVEMILF2 - Download Edition]]
-- [[LOVEMILF2 - Package Edition]]<!-- AUTO:END release -->
+- [[发行版/LOVEMILF2 - Download Edition]]<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -12,8 +12,8 @@ source_urls:
 # BreadMan
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Demon Deals ［v0.07.25］]]（developer）
-- [[Demon Deals ［v0.07.25］]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Demon Deals - v0.07.25]]（developer）
+- [[发行版/Demon Deals - v0.07.25]]（publisher）
 - [[Demon Deals]]（developer）<!-- AUTO:END duty -->
 
 ## 创作与出演

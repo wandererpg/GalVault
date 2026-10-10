@@ -12,19 +12,8 @@ source_urls:
 # Seven Wonder
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Taiyou no Promia - Download Edition]]（developer）
-- [[Taiyou no Promia - Download Edition]]（publisher）
-- [[Taiyou no Promia - First Press Limited Edition]]（developer）
-- [[Taiyou no Promia - First Press Limited Edition]]（publisher）
-- [[Taiyou no Promia - Trial Edition Amari Route]]（developer）
-- [[Taiyou no Promia - Trial Edition Amari Route]]（publisher）
-- [[Taiyou no Promia - Trial Edition]]（developer）
-- [[Taiyou no Promia - Trial Edition]]（publisher）
-- [[Taiyou no Promia FD Plus! - Download Edition]]（developer）
-- [[Taiyou no Promia FD Plus! - Download Edition]]（publisher）
-- [[Taiyou no Promia FD Plus!]]（developer）
-- [[Taiyou no Promia FD Plus!]]（publisher）
-- [[Taiyou no Promia]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Taiyou no Promia（Seven Wonder）]]（developer）
+- [[发行版/Taiyou no Promia（Seven Wonder）]]（publisher）
 - [[Taiyou no Promia（Seven Wonder）]]（developer）
 - [[太陽のプロミア]]（developer）<!-- AUTO:END duty -->
 

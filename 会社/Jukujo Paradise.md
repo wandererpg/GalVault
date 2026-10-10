@@ -13,14 +13,14 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Jukujo Kyoushi ga Ninshin! Bonyuu Funshutsu! Himejima Gakuen Shimaikou - DVDPG]]（publisher）
-- [[Jukujo Paradise - Premium Collection]]（publisher）
-- [[Jukujo Paradise - Premium Collection（Jukujo Paradise）]]（publisher）
-- [[Kabe no Mukou no Tsuma no Koe 2 ~Tonari de Hageshiku Koshi o Furu Asedaku no Tsuma wa, Zecchou no Hate ni Hakudakujiru o Sosogare Midara na Ikigao o Joushi ni Miseru~  DVDPG]]（publisher）
-- [[Kouman de Pride no Takai Hitozuma wo Mechakucha ni Okashite Fukujuu Saseru!! - DVDPG]]（publisher）
+- [[发行版/Oba Netori ~Otto no Shiranai Midara na Kankei~ DVDPG]]（publisher）
+- [[发行版/Yukemuri Hitozuma Bojou Tabi ~Yukizuri no Kankei o Musubu Onna-tachi~ DVDPG]]（publisher）
+- [[发行版/Kabe no Mukou no Tsuma no Koe 2 ~Tonari de Hageshiku Koshi o Furu Asedaku no Tsuma wa, Zecchou no Hate ni Hakudakujiru o Sosogare Midara na Ikigao o Joushi ni Miseru~ Download Edition]]（publisher）
+- [[发行版/Kouman Tsuma Kanraku!!! ~Ii Onna Dakedo Ya na Onna~ Download Edition]]（publisher）
 - [[Oba Netori ~Otto no Shiranai Midara na Kankei~ DVDPG]]（publisher）
 - [[Part Tsuma no Jouji ~Doutei Arbeit to Supa de Furin SEX~ DVDPG]]（publisher）
-- [[Tsuma no Biniku o Masaguru Chichi no Futoi Yubi ~Shiranu Ma ni Chichi no Mono ni Natteita Tsuma wa, Yorokobi no Aegi to Tomoni Koshi o Uneraseteita~ DVDPG]]（publisher）
-- [[Tsuma no Niku Ana ni Homestay Suru Macho Ryuugakusei 2-Kenme - DVDPG]]（publisher）
+- [[发行版/MM Netorare Pack ~Tsuma mo Kanojo mo Kizukanu Uchi ni Aitsu no Gokubuto Bou ni Muchuu ni Natte Modae Aegi Hakudaku o Motomeru Inran Onna ni Otosareteita~ Download Edition]]（publisher）
+- [[发行版/Tsuma no Niku Ana ni Homestay Suru Macho Ryuugakusei 2-Kenme ~Moto Kyonyuu Guradoru no Tsuma wa, Danny's Boot Camp de Shirudaku Mesu Bukuro ni Kaihatsu Sareteita~ First Press Limited Edition With B2 Tapestry]]（publisher）
 - [[Yukemuri Hitozuma Bojou Tabi ~Yukizuri no Kankei o Musubu Onna-tachi~ DVDPG]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

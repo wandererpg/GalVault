@@ -12,8 +12,8 @@ source_urls:
 # V3ducciones
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Danganronpa V3： Killing Harmony - Demo Version]]（publisher）
-- [[Danganronpa V3： Killing Harmony（V3ducciones）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Danganronpa Decadence - EU Package Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,7 +12,7 @@ source_urls:
 # Shinku Translations
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Irotoridori no Sekai（Shinku Translations）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Irotoridori no Sekai World's End -Re：Birth- Download Edition（Dramatic Create）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

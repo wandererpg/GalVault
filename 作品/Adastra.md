@@ -51,11 +51,8 @@ cover_image: "assets/covers/v28157.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Adastra]]
-- [[Adastra（Beijiguang Hanhuazu・release：）]]
-- [[Adastra（Beijiguang Hanhuazu）]]
-- [[Adastra（Echo Project）]]
-- [[Adastra（ExGames）]]
-- [[Adastra（release：）]]<!-- AUTO:END release -->
+- [[发行版/Adastra]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

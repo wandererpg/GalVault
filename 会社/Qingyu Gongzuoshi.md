@@ -12,10 +12,9 @@ source_urls:
 # Qingyu Gongzuoshi
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Haishishenlou zhi Guan -Youhun Gui Meng-]]（publisher）
-- [[Haishishenlou zhi Guan -Youhun Gui Meng-（Qingyu Gongzuoshi・release：）]]（publisher）
-- [[Haishishenlou zhi Guan -Youhun Gui Meng-（Qingyu Gongzuoshi・vndb：r99）]]（publisher）
-- [[Haishishenlou zhi Guan -Youhun Gui Meng-（Qingyu Gongzuoshi）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Fata Morgana no Yakata -DREAMS OF THE REVENANTS EDITION- - Download Edition]]（publisher）
+- [[发行版/Fata Morgana no Yakata -DREAMS OF THE REVENANTS EDITION- - Download Edition（NOVECT）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

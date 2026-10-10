@@ -90,12 +90,9 @@ cover_image: "assets/covers/v11881.webp"
 - [[Yamamoto Kanehira]]（胸肩 腎）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Gensou no Idea ~Oratorio Phantasm Historia~ Download Edition]]
-- [[Gensou no Idea ~Oratorio Phantasm Historia~ Trial Edition]]
-- [[Gensou no Idea ~Oratorio Phantasm Historia~]]
-- [[Gensou no Idea ~Oratorio Phantasm Historia~（3rdEye・release：）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Gensou no Idea ~Oratorio Phantasm Historia~（3rdEye）]]
 - [[Gensou no Idea ~Oratorio Phantasm Historia~（3rdEye）]]
-- [[Huanchuang de Huanren]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r42988:work:vndb:work:v18164"
-type: "release"
-display_title: "Bara ni Kakusareshi Verite - Download Edition"
-release_date: "2016-09-01"
+entity_id: release:vndb:r42988:work:vndb:work:v18164
+type: release
+display_title: Bara ni Kakusareshi Verite - Download Edition
+release_date: '2016-09-01'
 is_all_ages: true
-platform: "psv"
-edition_type: "complete"
-title_status: "needs_review"
+platform: psv
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r42988"
+  vndb: r42988
 source_urls:
-  vndb: "https://vndb.org/r42988"
+  vndb: https://vndb.org/r42988
+aliases:
+- Bara ni Kakusareshi Verite - Limited Edition
+- Bara ni Kakusareshi Verite - Regular Edition
+consolidated_releases:
+- id: r42988
+  title: Bara ni Kakusareshi Verite - Download Edition
+  url: https://vndb.org/r42988
+  release_date: '2016-09-01'
+  platform: psv
+  edition_type: complete
+  is_all_ages: true
+- id: r42135
+  title: Bara ni Kakusareshi Verite - Regular Edition
+  url: https://vndb.org/r42135
+  release_date: '2016-09-01'
+  platform: psv
+  edition_type: complete
+  is_all_ages: true
+- id: r42987
+  title: Bara ni Kakusareshi Verite - Limited Edition
+  url: https://vndb.org/r42987
+  release_date: '2016-09-01'
+  platform: psv
+  edition_type: complete
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Bara ni Kakusareshi Verite - Download Edition

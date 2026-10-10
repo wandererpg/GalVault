@@ -12,13 +12,10 @@ source_urls:
 # Eastasiasoft Limited
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Hakuoki： Chronicles of Wind and Blossom - Download Edition]]（publisher）
-- [[Hakuoki： Chronicles of Wind and Blossom - Limited Edition]]（publisher）
-- [[Hakuoki： Chronicles of Wind and Blossom - Standard Edition]]（publisher）
-- [[If My Heart Had Wings - Limited Edition]]（publisher）
-- [[If My Heart Had Wings - Physical Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Hakuouki Shinkai Fuukaden]]（publisher）
+- [[发行版/Kono Oozora ni, Tsubasa o Hirogete Cruise Sign - Regular Edition（MAGES）]]（publisher）
 - [[Root Double -Before Crime ＊ After Days- Xtend Edition - Limited Edition]]（publisher）
-- [[SeaBed - Limited Edition]]（publisher）
+- [[发行版/SeaBed - Physical Edition]]（publisher）
 - [[SeaBed - Physical Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

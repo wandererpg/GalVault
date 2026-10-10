@@ -1,16 +1,50 @@
 ---
-entity_id: "release:vndb:r54752:work:vndb:work:v22214"
-type: "release"
-display_title: "ZENGAKU! ~Zenra Toukou Shuukan Tokubetsu Taisaku Gasshuku~ Download Edition"
-release_date: "2017-09-03"
+entity_id: release:vndb:r54752:work:vndb:work:v22214
+type: release
+display_title: ZENGAKU! ~Zenra Toukou Shuukan Tokubetsu Taisaku Gasshuku~ Download Edition
+release_date: '2017-09-03'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r54752"
+  vndb: r54752
 source_urls:
-  vndb: "https://vndb.org/r54752"
+  vndb: https://vndb.org/r54752
+aliases:
+- Zengaku! ~Zenra Toukou Shuukan Tokubetsu Taisaku Gasshuku~
+- ZENGAKU! ~Zenra Toukou Shuukan Tokubetsu Taisaku Gasshuku~ Package Edition
+- ZENGAKU! ~Zenra Toukou Shuukan Tokubetsu Taisaku Gasshuku~ Trial Edition
+consolidated_releases:
+- id: r54752
+  title: ZENGAKU! ~Zenra Toukou Shuukan Tokubetsu Taisaku Gasshuku~ Download Edition
+  url: https://vndb.org/r54752
+  release_date: '2017-09-03'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r55132
+  title: ZENGAKU! ~Zenra Toukou Shuukan Tokubetsu Taisaku Gasshuku~ Package Edition
+  url: https://vndb.org/r55132
+  release_date: '2017-10-13'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r153997
+  title: Zengaku! ~Zenra Toukou Shuukan Tokubetsu Taisaku Gasshuku~
+  url: https://vndb.org/r153997
+  release_date: '2026-04-25'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+- id: r55133
+  title: ZENGAKU! ~Zenra Toukou Shuukan Tokubetsu Taisaku Gasshuku~ Trial Edition
+  url: https://vndb.org/r55133
+  release_date: '2017-08-12'
+  platform: win
+  edition_type: trial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # ZENGAKU! ~Zenra Toukou Shuukan Tokubetsu Taisaku Gasshuku~ Download Edition

@@ -93,32 +93,9 @@ cover_image: "assets/covers/v18314.webp"
 - [[Yamazaki Haruka]]（山崎 はるか）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Code： Realize Twin Pack（Design Factory Co., Ltd）]]
-- [[Code： Realize ~Bouquet of Rainbows~ EU Download Edition（Aksys Games）]]
-- [[Code： Realize ~Bouquet of Rainbows~ EU Regular Edition（Aksys Games）]]
-- [[Code： Realize ~Bouquet of Rainbows~ NA Download Edition（Aksys Games）]]
-- [[Code： Realize ~Bouquet of Rainbows~ NA Limited Edition（Aksys Games）]]
-- [[Code： Realize ~Bouquet of Rainbows~ NA Regular Edition（Aksys Games）]]
-- [[Code： Realize ~Future Blessings~ Day One Edition]]
-- [[Code： Realize ~Future Blessings~ Download Edition]]
-- [[Code： Realize ~Future Blessings~ EU Download Edition]]
-- [[Code： Realize ~Future Blessings~ EU Regular Edition]]
-- [[Code： Realize ~Future Blessings~ NA Download Edition]]
-- [[Code： Realize ~Future Blessings~ NA Limited Edition]]
-- [[Code： Realize ~Future Blessings~ NA Regular Edition]]
-- [[Code： Realize ~Future Blessings~ Standard Edition]]
-- [[Code： Realize ~Saikou no Hanataba~ Limited Edition（Design Factory Co., Ltd）]]
-- [[Code： Realize ~Saikou no Hanataba~ Regular Edition（Design Factory Co., Ltd）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Code： Realize ~Saikou no Hanataba~ for Nintendo Switch - Download Edition（Design Factory Co., Ltd）]]
 - [[Code： Realize ~Saikou no Hanataba~ for Nintendo Switch - Download Edition（Design Factory Co., Ltd）]]
-- [[Code： Realize ~Saikou no Hanataba~ for Nintendo Switch - Limited Edition（Design Factory Co., Ltd）]]
-- [[Code： Realize ~Saikou no Hanataba~ for Nintendo Switch（Design Factory Co., Ltd）]]
-- [[Code： Realize ~Shukufuku no Mirai~ Download Edition]]
-- [[Code： Realize ~Shukufuku no Mirai~ Download Edition（Design Factory Co., Ltd・release：）]]
-- [[Code： Realize ~Shukufuku no Mirai~ Limited Edition]]
-- [[Code： Realize ~Shukufuku no Mirai~ Regular Edition]]
-- [[Code： Realize ~Zhufu de Weilai~ Download Edition]]
-- [[Code： Realize ~Zhufu de Weilai~ Limited Edition]]
-- [[Code： Realize ~Zhufu de Weilai~ Regular Edition]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

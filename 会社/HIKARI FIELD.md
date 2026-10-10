@@ -12,70 +12,37 @@ source_urls:
 # HIKARI FIELD
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[ALIA's CARNIVAL! Flowering Sky R-18 patch]]（publisher）
-- [[ALIA's CARNIVAL! Flowering Sky（HIKARI FIELD）]]（publisher）
-- [[Ai Shang Huoche - Last Run!! - R18 Patch]]（publisher）
-- [[Ai Shang Huoche -Pure Station- Trial Edition]]（publisher）
-- [[Ao no Kanata no Four Rhythm - 18+ Patch]]（publisher）
-- [[Ao no Kanata no Four Rhythm - Censored Edition]]（publisher）
-- [[Ao no Kanata no Four Rhythm - EXTRA1 - 18+ Steam Patch]]（publisher）
-- [[Ao no Kanata no Four Rhythm - EXTRA1（HIKARI FIELD）]]（publisher）
-- [[Ao no Kanata no Four Rhythm - EXTRA2 - 18+ Edition]]（publisher）
-- [[Ao no Kanata no Four Rhythm - EXTRA2 - Censored Edition]]（publisher）
-- [[Ao no Kanata no Four Rhythm - Perfect Edition 18+ Patch]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Alia's Carnival! Flowering Sky - 18+ Edition]]（publisher）
+- [[发行版/Maitetsu Complete Set（Lose）]]（publisher）
+- [[发行版/Maitetsu Remaster]]（publisher）
+- [[发行版/Ao no Kanata no Four Rhythm - Download Edition（sprite）]]（publisher）
+- [[发行版/Ao no Kanata no Four Rhythm - EXTRA1S - Download Edition]]（publisher）
+- [[发行版/Aokana - Four Rhythms Across the Blue - EXTRA2 18+ Steam Patch]]（publisher）
 - [[Aokana - Four Rhythms Across the Blue - EXTRA2 18+ Steam Patch]]（publisher）
-- [[Cheonyeonmanhwa]]（publisher）
-- [[DRACU-RIOT! - 18+ Patch]]（publisher）
+- [[发行版/Senren ＊ Banka - Package Edition]]（publisher）
+- [[发行版/DRACU-RIOT! - Censored Edition]]（publisher）
 - [[DRACU-RIOT! - Censored Edition]]（publisher）
-- [[DRACU-RIOT!（HIKARI FIELD）]]（publisher）
-- [[Doinaka Kyoudai]]（publisher）
-- [[Floral Flowlove - Censored Edition]]（publisher）
-- [[Hana no No ni Saku Utakata no（HIKARI FIELD）]]（publisher）
-- [[Hatsuyuki Sakura - Censored Edition]]（publisher）
-- [[Hatsuyuki Sakura - Japan 18+ Patch]]（publisher）
-- [[Jin Yue Shaonü de Liyi - Trial Edition]]（publisher）
-- [[Kin'iro Loveriche - 1440p Steam patch]]（publisher）
-- [[Kin'iro Loveriche - 1440p patch]]（publisher）
-- [[Kin'iro Loveriche - 18+ Steam Patch]]（publisher）
-- [[Kin'iro Loveriche - Censored Edition]]（publisher）
-- [[Kin'iro Loveriche -Golden Time- Censored Edition]]（publisher）
-- [[Kin'iro Loveriche -Golden Time- Steam Patch]]（publisher）
-- [[Kin'iro Loveriche -Golden Time-（HIKARI FIELD）]]（publisher）
-- [[Kin'iro Loveriche（HIKARI FIELD）]]（publisher）
-- [[Kinkoi： Golden Loveriche Demo]]（publisher）
-- [[Kinkoi： Golden Loveriche]]（publisher）
-- [[Maitetsu -Pure Station-（Lose）]]（publisher）
-- [[Maitetsu Last Run!!]]（publisher）
-- [[Making ＊ Lovers FHD Deluxe Edition]]（publisher）
-- [[Making＊Lovers FHD Deluxe Edition R-18 patch]]（publisher）
-- [[Maoshen Qitan -Happy End- 18+ Patch]]（publisher）
-- [[Maoshen Qitan -Happy End- Zhongwen Tiyan Ban]]（publisher）
-- [[Maoshenqitan -Monobeno- 18+ Patch]]（publisher）
-- [[Maoshenqitan -Monobeno- Demo]]（publisher）
-- [[Monobeno -Happy End-（Lose・release：）]]（publisher）
+- [[发行版/Chiqing Gege yu Bingruo Meimei de Xiangjian Shenghuo]]（publisher）
+- [[发行版/Floral Flowlove - Regular Edition]]（publisher）
+- [[发行版/HIGH LEVEL COMPLETE SET 2014-2018]]（publisher）
+- [[发行版/Hatsuyuki Sakura White Graduation - Download Edition]]（publisher）
+- [[发行版/Tsuki ni Yorisou Otome no Sahou ~Hidamari no Hibi~ Smartphone Edition]]（publisher）
+- [[发行版/Kin'iro Loveriche + Kin'iro Loveriche -Golden Time- Golden Pack]]（publisher）
+- [[发行版/Kin'iro Loveriche + Kin'iro Loveriche -Golden Time- Golden Pack（SAGA PLANETS）]]（publisher）
+- [[发行版/Making ＊ Lovers - PS4 Download Edition]]（publisher）
+- [[发行版/Monobeno -Pure Smile- Regular Edition]]（publisher）
+- [[发行版/Monobeno -Happy End-（Lose・vndb：r65）]]（publisher）
 - [[Monobeno -Happy End-（Lose・vndb：r65）]]（publisher）
-- [[Monobeno -Happy End-（Lose）]]（publisher）
-- [[Monobeno（HIKARI FIELD）]]（publisher）
 - [[Monü de Yeyan - FHD Edition]]（publisher）
-- [[Otome Riron to Sono Shuuhen -Ecole de Paris- 18+ Patch]]（publisher）
-- [[Otome Riron to Sono Shuuhen -Ecole de Paris-]]（publisher）
-- [[Rail Romanesque origin]]（publisher）
-- [[Sanoba Witch - FHD Edition]]（publisher）
-- [[Sanoba Witch FHD Edition R-18 patch]]（publisher）
-- [[Senren ＊ Banka - 18+ Patch]]（publisher）
+- [[发行版/Otome Riron to Sono Shuuhen -Bon Voyage- Regular Edition]]（publisher）
+- [[发行版/Monü de Yeyan - FHD Edition]]（publisher）
 - [[Senren ＊ Banka - Package Edition]]（publisher）
-- [[Senren ＊ Banka - Trial Edition（HIKARI FIELD）]]（publisher）
-- [[Senren ＊ Banka（HIKARI FIELD）]]（publisher）
-- [[Senren＊Banka - Korean 18+ Patch]]（publisher）
 - [[The Princess, the Stray Cat, and Matters of the Heart 2（Fruitbat Factory）]]（publisher）
-- [[TrymenT -Ima o Kaetai to Negau Anata e- AlphA Hen]]（publisher）
+- [[发行版/TrymenT -Ima o Kaetai to Negau Anata e- Trial Edition]]（publisher）
 - [[TrymenT -Ima o Kaetai to Negau Anata e- Trial Edition]]（publisher）
-- [[Tsuki ni Yorisou Otome no Sahou - R18 patch]]（publisher）
-- [[Tsuki ni Yorisou Otome no Sahou - Steam Edition]]（publisher）
-- [[Tsuki ni Yorisou Otome no Sahou 2 - Censored Edition]]（publisher）
+- [[发行版/Tsuki ni Yorisou Otome no Sahou 2 - R18 patch]]（publisher）
 - [[Tsuki ni Yorisou Otome no Sahou 2 - R18 patch]]（publisher）
-- [[Wuse Fuying Zhanfang yu Hua zhi Haiyang - Deluxe Edition]]（publisher）
-- [[Wuse Fuying Zhanfang yu Hua zhi Haiyang 18+ Patch]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,14 +12,8 @@ source_urls:
 # Acacia
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Magical Girl Witch Trials]]（developer）
-- [[Magical Girl Witch Trials（Re,AER LLC）]]（developer）
-- [[Mahou Shoujo no Majo Saiban - Download Edition]]（developer）
-- [[Mahou Shoujo no Majo Saiban - Famitsu DX Pack]]（developer）
-- [[Mahou Shoujo no Majo Saiban - Package Edition]]（developer）
-- [[Mahou Shoujo no Majo Saiban Demo： First-victim Edition]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Mahou Shoujo no Majo Saiban]]（developer）
 - [[Mahou Shoujo no Majo Saiban]]（developer）
-- [[Mofa Shaonü De Monü Shenpan]]（developer）
 - [[魔法少女的魔女审判]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

@@ -12,18 +12,8 @@ source_urls:
 # El Dia
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[EVE ghost enemies - Download Edition]]（developer）
-- [[EVE ghost enemies - Download Edition]]（publisher）
-- [[EVE ghost enemies - Download Edition（El Dia）]]（developer）
-- [[EVE ghost enemies - Download Edition（El Dia）]]（publisher）
-- [[EVE ghost enemies - First Press Limited Edition]]（developer）
-- [[EVE ghost enemies - First Press Limited Edition]]（publisher）
-- [[EVE ghost enemies - First Press Limited Edition（El Dia）]]（developer）
-- [[EVE ghost enemies - First Press Limited Edition（El Dia）]]（publisher）
-- [[EVE ghost enemies - Regular Edition]]（developer）
-- [[EVE ghost enemies - Regular Edition]]（publisher）
-- [[EVE ghost enemies - Regular Edition（El Dia）]]（developer）
-- [[EVE ghost enemies - Regular Edition（El Dia）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/EVE ghost enemies]]（developer）
+- [[发行版/EVE ghost enemies]]（publisher）
 - [[EVE ghost enemies]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

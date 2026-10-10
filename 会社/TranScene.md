@@ -12,12 +12,10 @@ source_urls:
 # TranScene
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Danganronpa 2： Goodbye Despair（TranScene）]]（publisher）
-- [[Danganronpa： Trigger Happy Havoc - Demo Version]]（publisher）
-- [[Danganronpa： Trigger Happy Havoc（TranScene・release：）]]（publisher）
-- [[Danganronpa： Trigger Happy Havoc（TranScene）]]（publisher）
-- [[PARANORMASIGHT： los siete misterios de Honjo]]（publisher）
-- [[Virtue's Last Reward]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Danganronpa Decadence - EU Package Edition（Numskull Games Ltd・release：）]]（publisher）
+- [[发行版/Danganronpa Decadence - EU Package Edition（Numskull Games Ltd）]]（publisher）
+- [[发行版/PARANORMASIGHT FILE23： Honjo Nanafushigi（SQUARE ENIX）]]（publisher）
+- [[发行版/Kyokugen Dasshutsu ADV Zennin Shibou Desu - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

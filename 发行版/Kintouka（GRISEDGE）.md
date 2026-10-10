@@ -1,16 +1,49 @@
 ---
-entity_id: "release:vndb:r30280:work:vndb:work:v13882"
-type: "release"
-display_title: "Kintouka"
-release_date: "2017-03-17"
+entity_id: release:vndb:r30280:work:vndb:work:v13882
+type: release
+display_title: Kintouka
+release_date: '2017-03-17'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r30280"
+  vndb: r30280
 source_urls:
-  vndb: "https://vndb.org/r30280"
+  vndb: https://vndb.org/r30280
+aliases:
+- Jin Deng Hua
+- Kintouka
+- Kintouka（release：）
+consolidated_releases:
+- id: r30280
+  title: Kintouka
+  url: https://vndb.org/r30280
+  release_date: '2017-03-17'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r138573
+  title: Jin Deng Hua
+  url: https://vndb.org/r138573
+  release_date: '2025-07-13'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r96989
+  title: Kintouka
+  url: https://vndb.org/r96989
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r129591
+  title: Kintouka
+  url: https://vndb.org/r129591
+  release_date: '2024-11-25'
+  platform: win
+  edition_type: partial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Kintouka

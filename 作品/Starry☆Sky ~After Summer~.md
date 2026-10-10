@@ -115,15 +115,9 @@ cover_image: "assets/covers/v5854.webp"
 - [[Yoshino Hiroyuki]]（吉野 裕行）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Starry☆Sky ~After Summer~ First Press Limited Edition]]
-- [[Starry☆Sky ~After Summer~ Portable - First Press Limited Edition]]
-- [[Starry☆Sky ~After Summer~ Portable - Regular Edition]]
-- [[Starry☆Sky ~After Summer~ Regular Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Starry☆Sky ~After Summer~]]
 - [[Starry☆Sky ~After Summer~]]
-- [[Starry☆Sky ~Summer Stories~ Download Edition]]
-- [[Starry☆Sky ~Summer Stories~]]
-- [[Starry☆Sky ~Summer~ Portable - Twin Pack]]
-- [[Starry☆Sky ～Summer Stories～]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

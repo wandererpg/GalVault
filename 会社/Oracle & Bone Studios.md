@@ -14,12 +14,8 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[A Summer's End - Hong Kong 1986 - Adult Patch]]（developer）
 - [[A Summer's End - Hong Kong 1986 - Adult Patch]]（publisher）
-- [[A Summer's End - Hong Kong 1986（Oracle & Bone Studios・release：）]]（developer）
-- [[A Summer's End - Hong Kong 1986（Oracle & Bone Studios・release：）]]（publisher）
-- [[A Summer's End - Hong Kong 1986（Oracle & Bone Studios・vndb：r79）]]（developer）
-- [[A Summer's End - Hong Kong 1986（Oracle & Bone Studios・vndb：r79）]]（publisher）
-- [[A Summer's End - Hong Kong 1986（Oracle & Bone Studios）]]（developer）
-- [[A Summer's End - Hong Kong 1986（Oracle & Bone Studios）]]（publisher）
+- [[发行版/A Summer's End - Hong Kong 1986 - Adult Patch]]（developer）
+- [[发行版/A Summer's End - Hong Kong 1986 - Adult Patch]]（publisher）
 - [[夏天的一天 — 香港 1986]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

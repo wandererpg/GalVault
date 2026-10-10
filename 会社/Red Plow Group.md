@@ -12,9 +12,8 @@ source_urls:
 # Red Plow Group
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ej, ljubi menja vser'joz! S]]（publisher）
-- [[Ej, ljubi menja vser'joz! S（Red Plow Group）]]（publisher）
-- [[Ej, ljubi menja vser'joz!（Red Plow Group）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Maji de Watashi ni Koishinasai! S]]（publisher）
+- [[发行版/BugBug 200 Anniversary DVD MiniMini AVG Collection Part 1（Minato Soft）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

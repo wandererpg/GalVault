@@ -70,18 +70,8 @@ cover_image: "assets/covers/v31262.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Monkeys!¡ - Download Edition]]
-- [[Monkeys!¡ - Trial Edition]]
-- [[Monkeys!¡ Demo]]
-- [[Monkeys!¡]]
-- [[Monkeys!¡（HARUKAZE）]]
-- [[Monkeys!¡（Lücha Hanhuazu）]]
-- [[Monkeys!¡（Shiravune・release：）]]
-- [[Monkeys!¡（Shiravune）]]
-- [[Monkeys!¡（Xinmi Riwen Jiaoliu Xuexi Xiaozu）]]
-- [[Monkeys!¡（k：v31262）]]
-- [[Monkeys!¡（release：）]]
-- [[Monkeys!¡（vndb：r84）]]
-- [[Obezyany]]<!-- AUTO:END release -->
+- [[发行版/Monkeys!¡ - Download Edition]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

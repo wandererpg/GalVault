@@ -12,7 +12,7 @@ source_urls:
 # Muyin Chinese Localization Group
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Jun yu Binv yu Binv zhi Lian]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Ty, ja i ona： Istorija ljubvi - Steam Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

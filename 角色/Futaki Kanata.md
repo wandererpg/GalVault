@@ -34,10 +34,10 @@ portrait_image: "assets/characters/c1868.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Little Busters! - First Press Limited Edition]]（side）
-- [[Little Busters! Ecstasy - First Press Limited Edition]]（primary）
+<!-- AUTO:BEGIN character -->- [[发行版/Little Busters! English Edition（Key）]]（side）
+- [[发行版/Little Busters! English Edition（Key）]]（primary）
 - [[Little Busters! English Edition（Key）]]（primary）
-- [[Little Busters! Perfect Edition - TV Anime Commemorative Edition]]（primary）<!-- AUTO:END character -->
+<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Suzumori Chisato]]（声优：すずき けいこ）<!-- AUTO:END voice -->

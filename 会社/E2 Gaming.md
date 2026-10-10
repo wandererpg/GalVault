@@ -12,7 +12,7 @@ source_urls:
 # E2 Gaming
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[TAISHO ALICE Volume I]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Dazheng × Duichen Alice  all in one Regular Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

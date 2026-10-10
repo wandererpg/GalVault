@@ -12,12 +12,11 @@ source_urls:
 # Carrot Patch Games
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Our Wonderland Remastered - Alpha Build]]（developer）
-- [[Our Wonderland Remastered - Alpha Build]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Our Wonderland Remastered]]（developer）
+- [[发行版/Our Wonderland Remastered]]（publisher）
 - [[Our Wonderland Remastered]]（developer）
 - [[Our Wonderland]]（developer）
-- [[Our Wonderland（release：）]]（developer）
-- [[Our Wonderland（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

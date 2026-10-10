@@ -12,8 +12,8 @@ source_urls:
 # CYBERFRONT Korea
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Bagaenggwi Baramui Jang]]（publisher）
-- [[Bagaenggwi Kkochui Jang]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Hakuouki Shinkai Fuukaden]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

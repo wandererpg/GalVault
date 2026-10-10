@@ -35,8 +35,8 @@ portrait_image: "assets/characters/c3814.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Meakashi Hen（07th Expansion）]]（protagonist）
-- [[Watanagashi Hen（07th Expansion）]]（primary）
+<!-- AUTO:BEGIN character -->- [[发行版/Matsuribayashi Hen（07th Expansion）]]（protagonist）
+- [[发行版/Himatsubushi Hen（07th Expansion）]]（primary）
 - [[ひぐらしのなく頃に： Console Arcs]]（primary）
 - [[寒蝉鸣泣之时 出题篇]]（side）
 - [[寒蝉鸣泣之时解]]（primary）<!-- AUTO:END character -->

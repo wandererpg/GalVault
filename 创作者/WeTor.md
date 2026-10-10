@@ -11,9 +11,9 @@ source_urls:
 # WeTor
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Baise Xiangbu 2~Xingfu de Duimian]]（publisher）
-- [[Mingyunshi zhi Men： Jingying]]（publisher）
-- [[Summer Pockets（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/WHITE ALBUM2 EXTENDED EDITION（Leaf・release：）]]（publisher）
+- [[发行版/STEINS;GATE - Download Edition（MAGES・release：）]]（publisher）
+- [[发行版/Summer Pockets REFLECTION BLUE - First Press Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

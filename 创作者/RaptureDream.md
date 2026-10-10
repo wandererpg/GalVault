@@ -12,7 +12,7 @@ source_urls:
 # RaptureDream
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Slay the princess（vndb：r12）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Slay the Princess - The Pristine Cut]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

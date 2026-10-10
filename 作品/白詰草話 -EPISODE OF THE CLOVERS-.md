@@ -98,17 +98,9 @@ cover_image: "assets/covers/v572.webp"
 - [[Touma Yumi]]（冬馬 由美）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Baijie Caohua]]
-- [[Shirotsume Souwa - Chapter 1]]
-- [[Shirotsume Souwa -Episode of the Clovers- Download Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Shirotsume Souwa -Episode of the Clovers- First Press Limited Edition]]
 - [[Shirotsume Souwa -Episode of the Clovers- First Press Limited Edition]]
-- [[Shirotsume Souwa -Episode of the Clovers- Limited Edition]]
-- [[Shirotsume Souwa -Episode of the Clovers- Regular Edition]]
-- [[Shirotsume Souwa -Episode of the Clovers- Regular Edition（NEC Interchannel）]]
-- [[Shirotsume Souwa -Episode of the Clovers- Standard Edition ［DVD］]]
-- [[Shirotsume Souwa -Episode of the Clovers- Trial Edition]]
-- [[Shirotsume Souwa -Episode of the Clovers- Voice Patch]]
-- [[White clover summer]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

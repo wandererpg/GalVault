@@ -12,8 +12,8 @@ source_urls:
 # No Name Losers
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[ef - a fairy tale of the two. (ef Lite)]]（publisher）
-- [[ef Supah Preview]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

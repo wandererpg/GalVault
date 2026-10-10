@@ -12,8 +12,7 @@ source_urls:
 # Bellhouse
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Twofold - Demo]]（publisher）
-- [[Twofold（Bellhouse）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Twofold： The Perfect Circle Collection]]（publisher）
 - [[Twofold： The Perfect Circle Collection]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

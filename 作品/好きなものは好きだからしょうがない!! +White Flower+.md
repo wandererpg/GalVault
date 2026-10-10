@@ -84,10 +84,9 @@ cover_image: "assets/covers/v7544.webp"
 - [[Yuuki Hiro]]（結城 比呂）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Suki na Mono wa Suki Dakara Shouganai!! + White Flower + Download Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Suki na Mono wa Suki Dakara Shouganai!! + White Flower + Limited BOX Edition]]
 - [[Suki na Mono wa Suki Dakara Shouganai!! + White Flower + Limited BOX Edition]]
-- [[Suki na Mono wa Suki Dakara Shouganai!! + White Flower + Memorial Edition]]
-- [[Suki na Mono wa Suki Dakara Shouganai!! + White Flower + Regular Edition]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

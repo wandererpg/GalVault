@@ -22,6 +22,7 @@ cover_image: "assets/covers/v16493.webp"
 
 # WHITE ALBUM2 Mini After Story
 
+
 ## 封面
 <!-- AUTO:BEGIN image -->
 ![[assets/covers/v16493.webp|300]]
@@ -70,28 +71,9 @@ cover_image: "assets/covers/v16493.webp"
 - [[Uehara Mariko]]（夏樹 リオ）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Baise Xiangbu 2 - Mini-After Story]]
-- [[Baise Xiangbu 2 Subtitle Patch]]
-- [[WHITE ALBUM EXTENDED EDITION Special Contents]]
-- [[WHITE ALBUM2 -Shiawase no Mukougawa- Premium Edition]]
-- [[WHITE ALBUM2 -Shiawase no Mukougawa- Regular Edition]]
-- [[WHITE ALBUM2 -Shiawase no Mukougawa- Regular Edition（STING・release：）]]
-- [[WHITE ALBUM2 EXTENDED EDITION]]
+<!-- AUTO:BEGIN release -->- [[发行版/WHITE ALBUM2 EXTENDED EDITION（Leaf）]]
 - [[WHITE ALBUM2 EXTENDED EDITION（Leaf）]]
-- [[WHITE ALBUM2 Mini After Story]]
-- [[White Album 2 - Mini-After Story]]
-- [[White Album 2 - Mini-After Story（Todokanai TL）]]
-- [[White Album 2 - Mini-After Story（release：）]]
-- [[White Album 2 - Mini-After Story（vndb：r64）]]
-- [[White Album 2 - Special Contents]]
-- [[White Album 2 -Shiawase no Mukougawa- AQUAPRICE2800]]
-- [[White Album 2 -Shiawase no Mukougawa- AQUAPRICE2800（STING・release：）]]
-- [[White Album 2 -Shiawase no Mukougawa- AS Edition]]
-- [[White Album 2 -Shiawase no Mukougawa- AS Limited Edition]]
-- [[White Album 2 -Shiawase no Mukougawa- Bundled Pack]]
-- [[White Album 2 -Shiawase no Mukougawa- Download Edition]]
-- [[White Album 2 -Shiawase no Mukougawa- Download Edition（STING・release：）]]
-- [[White Album 2 Mini After Story]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -12,10 +12,8 @@ source_urls:
 # sonnet009
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Aloners (Redux)]]（developer）
-- [[Aloners (Redux)]]（publisher）
-- [[Aloners Demo]]（developer）
-- [[Aloners Demo]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Aloners]]（developer）
+- [[发行版/Aloners]]（publisher）
 - [[Aloners]]（developer）
 - [[Aloners]]（publisher）<!-- AUTO:END duty -->
 

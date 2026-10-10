@@ -12,8 +12,8 @@ source_urls:
 # Popocatepetl Ponpon'yama
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Gomi x Chou ~Trash x TALK~]]（developer）
-- [[Gomi x Chou ~Trash x TALK~]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Gomi x Chou ~Trash x TALK~（release：）]]（developer）
+- [[发行版/Gomi x Chou ~Trash x TALK~（release：）]]（publisher）
 - [[Gomi x Chou ~Trash x TALK~（release：）]]（developer）
 - [[Gomi x Chou ~Trash x TALK~（release：）]]（publisher）
 - [[埖×喋 ～Trash×TALK～]]（developer）<!-- AUTO:END duty -->

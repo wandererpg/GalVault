@@ -80,10 +80,9 @@ cover_image: "assets/covers/v2886.webp"
 - [[Tomosato Anzu]]（伏羅 りん）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Daitenkuu Pack]]
+<!-- AUTO:BEGIN release -->- [[发行版/Kikouyoku Senki Series Complete Pack -Limit Break Edition-]]
 - [[Kikouyoku Senki Series Complete Pack -Limit Break Edition-]]
-- [[Kikouyoku Senki Tenkuu no Yumina FD  -ForeverDreams- Trial Edition]]
-- [[Kikouyoku Senki Tenkuu no Yumina FD  -ForeverDreams-]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

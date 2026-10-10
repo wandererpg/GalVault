@@ -13,7 +13,7 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Ty, ja i ona： Istorija ljubvi - Steam Edition]]（publisher）
-- [[Ty, ja i ona： Istorija ljubvi]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Ty, ja i ona： Istorija ljubvi - Steam Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

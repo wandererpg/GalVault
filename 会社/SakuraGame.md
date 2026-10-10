@@ -12,8 +12,8 @@ source_urls:
 # SakuraGame
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Fortissimo FA INTL Ver]]（publisher）
-- [[Fortissimo FA]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Fortissimo EXS／／Akkord：Nachsten Phase (Bundled with Nendoroid Petit Satomura Momiji)]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

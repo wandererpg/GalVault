@@ -12,28 +12,15 @@ source_urls:
 # Extend
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[BUSTAFELLOWS - Deluxe Edition]]（developer）
-- [[BUSTAFELLOWS - Deluxe Edition]]（publisher）
-- [[BUSTAFELLOWS - Download Edition（Extend）]]（developer）
-- [[BUSTAFELLOWS - Download Edition（Extend）]]（publisher）
-- [[BUSTAFELLOWS - Regular Edition]]（developer）
-- [[BUSTAFELLOWS - Regular Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/BUSTAFELLOWS]]（developer）
+- [[发行版/BUSTAFELLOWS]]（publisher）
 - [[BUSTAFELLOWS シーズン2]]（developer）
 - [[BUSTAFELLOWS]]（developer）
-- [[BUSTAFELLOWS（Extend・release：）]]（developer）
-- [[BUSTAFELLOWS（Extend・release：）]]（publisher）
-- [[BUSTAFELLOWS（Extend）]]（developer）
-- [[BUSTAFELLOWS（Extend）]]（publisher）
-- [[Bustafellows Season 2 - Deluxe Edition]]（developer）
-- [[Bustafellows Season 2 - Deluxe Edition]]（publisher）
+- [[发行版/Bustafellows Season 2 - Download Edition（Extend）]]（developer）
+- [[发行版/Bustafellows Season 2 - Download Edition（Extend）]]（publisher）
 - [[Bustafellows Season 2 - Download Edition（Extend）]]（developer）
 - [[Bustafellows Season 2 - Download Edition（Extend）]]（publisher）
-- [[Bustafellows Season 2 - Regular Edition]]（developer）
-- [[Bustafellows Season 2 - Regular Edition]]（publisher）
-- [[Bustafellows Season 2（Extend・release：）]]（developer）
-- [[Bustafellows Season 2（Extend・release：）]]（publisher）
-- [[Bustafellows Season 2（Extend）]]（developer）
-- [[Bustafellows Season 2（Extend）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

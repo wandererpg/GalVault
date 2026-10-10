@@ -12,7 +12,7 @@ source_urls:
 # sammy6
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Echo（vndb：r15）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Echo (1 Year Anniversary Version)]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -13,28 +13,17 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Angel Beats! -1st beat-]]（publisher）
-- [[Angel Beats! -1st beat-（Entuziasty Team）]]（publisher）
-- [[Clannad - Steam Edition（Entuziasty Team）]]（publisher）
-- [[Clannad Full Voice（Entuziasty Team）]]（publisher）
-- [[Clannad（Entuziasty Team）]]（publisher）
-- [[Hatsuyuki Sakura（Entuziasty Team）]]（publisher）
-- [[Kanon（Entuziasty Team・release：）]]（publisher）
-- [[Kanon（Entuziasty Team）]]（publisher）
-- [[Lebedinaya pesn']]（publisher）
-- [[Lebedinaya pesn'（Entuziasty Team）]]（publisher）
-- [[Little Busters! Converted Edition（Entuziasty Team）]]（publisher）
-- [[Malen'kie prokazniki! English Edition]]（publisher）
-- [[Malen'kie prokazniki!]]（publisher）
-- [[Malen'kie prokazniki!（Entuziasty Team）]]（publisher）
-- [[Morskoe dno]]（publisher）
-- [[Perezapis']]（publisher）
-- [[Perezapis'（Entuziasty Team）]]（publisher）
-- [[Rewrite+（Entuziasty Team）]]（publisher）
-- [[Sharin no Kuni, Himawari no Shoujo Demo]]（publisher）
-- [[Strana Kolyos, Devochka-Podsolnuh]]（publisher）
-- [[Vys'（Entuziasty Team・release：）]]（publisher）
-- [[Vys'（Entuziasty Team・vndb：r55）]]（publisher）
-- [[Vys'（Entuziasty Team）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Angel Beats! -1st beat-]]（publisher）
+- [[发行版/CLANNAD（Hikarizaka Gaoxiao Zhongwen Bu）]]（publisher）
+- [[发行版/Hatsuyuki Sakura White Graduation - Download Edition]]（publisher）
+- [[发行版/Kanon（Key）]]（publisher）
+- [[发行版/Swan Song - Download Edition]]（publisher）
+- [[发行版/Little Busters! English Edition（Key）]]（publisher）
+- [[发行版/SeaBed - Physical Edition]]（publisher）
+- [[发行版/Rewrite - Download Edition（Key）]]（publisher）
+- [[发行版/Sharin no Kuni, Himawari no Shoujo（Doitsugo Trans）]]（publisher）
+- [[发行版/AIR（Key）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

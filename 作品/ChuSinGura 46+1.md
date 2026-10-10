@@ -180,21 +180,9 @@ cover_image: "assets/covers/v12260.webp"
 - [[Yukito Saori]]（雪都 さお梨）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[ChuSinGura 46+1 - Download Edition（inre・release：）]]
-- [[ChuSinGura 46+1 - First Press Edition（inre・release：）]]
-- [[ChuSinGura 46+1 - Low-Price Edition]]
-- [[ChuSinGura 46+1 - Regular Edition（inre・release：）]]
-- [[ChuSinGura 46+1 - Trial Edition]]
-- [[ChuSinGura 46+1 Re-translation： Act 1 Partial Patch - ver. 0.2.5]]
-- [[ChuSinGura 46+1 S - Chapter 1]]
-- [[ChuSinGura 46+1 S - Chapter 2 & 3]]
-- [[ChuSinGura 46+1 S - Chapter 4 & 5]]
+<!-- AUTO:BEGIN release -->- [[发行版/ChuSinGura 46+1 V - Download Edition]]
 - [[ChuSinGura 46+1 V - Download Edition]]
-- [[ChuSinGura 46+1 V - Package Edition]]
-- [[ChuSinGura 46+1]]
-- [[ChuSingura46+1    -Zhongchenzang46+1- gpt4o Fanyi Buding]]
-- [[Inre 10th Complete Pack - Limited Time Edition]]
-- [[Inre 10th Complete Pack]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

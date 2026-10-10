@@ -65,9 +65,8 @@ cover_image: "assets/covers/v31448.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Odin raz v zhizni]]
-- [[Once in a Lifetime]]
-- [[Once in a Lifetime（release：）]]
-- [[Yi Sheng Yi Ci]]<!-- AUTO:END release -->
+- [[发行版/Odin raz v zhizni]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

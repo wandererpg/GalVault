@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r87813:work:vndb:work:v34148"
-type: "release"
-display_title: "Proud Father v0.13.5"
-release_date: "2023-05-29"
+entity_id: release:vndb:r87813:work:vndb:work:v34148
+type: release
+display_title: Proud Father v0.13.5
+release_date: '2023-05-29'
 is_all_ages: false
-platform: "win, mac, and"
-edition_type: "partial"
-title_status: "needs_review"
+platform: win, mac, and
+edition_type: partial
+title_status: needs_review
 source_ids:
-  vndb: "r87813"
+  vndb: r87813
 source_urls:
-  vndb: "https://vndb.org/r87813"
+  vndb: https://vndb.org/r87813
+aliases:
+- Pjostryj Kurjatnik v0.13.5
+- Proud Father v0.13.5
+consolidated_releases:
+- id: r87813
+  title: Proud Father v0.13.5
+  url: https://vndb.org/r87813
+  release_date: '2023-05-29'
+  platform: win, mac, and
+  edition_type: partial
+  is_all_ages: false
+- id: r105122
+  title: Pjostryj Kurjatnik v0.13.5
+  url: https://vndb.org/r105122
+  release_date: '2023-08-19'
+  platform: win, lin, and
+  edition_type: partial
+  is_all_ages: false
+- id: r132016
+  title: Proud Father v0.13.5
+  url: https://vndb.org/r132016
+  release_date: '2022-08-28'
+  platform: win, and
+  edition_type: partial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Proud Father v0.13.5

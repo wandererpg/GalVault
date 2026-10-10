@@ -83,13 +83,9 @@ cover_image: "assets/covers/v33721.webp"
 - [[Waou Kirika]]（柏木 逢花）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[DeadΩAegis - Another Record]]
-- [[Mahou Shoujo Shoumou Sensen - Power Up Kit]]
-- [[Mahou Shoujo Shoumou Sensen -Cathedral Edition- Download Edition]]
-- [[Mahou Shoujo Shoumou Sensen -Cathedral Edition- Full Voice Version]]
-- [[Mahou Shoujo Shoumou Sensen -Cathedral Edition- Package Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Mahou Shoujo Shoumou Sensen another record -Chiisaki Mono-tachi no Yume- Download Edition]]
 - [[Mahou Shoujo Shoumou Sensen another record -Chiisaki Mono-tachi no Yume- Download Edition]]
-- [[Mahou Shoujo Shoumou Sensen another record -Chiisaki Mono-tachi no Yume- Package Edition]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

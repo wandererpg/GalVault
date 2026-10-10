@@ -11,14 +11,13 @@ source_urls:
 # DMM GAMES
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Boku no Kanojo wa Gatenkei／Kanojo ga Shita Koto, Boku ga Sareta Koto／Kyonyuu Tsuma Kanzen Hokaku Keikaku／Boku no Tsuma ga Aitsu ni Netoraremashita. - Windows 10 Support Package Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Boku no Kanojo wa Gatenkei／Kanojo ga Shita Koto, Boku ga Sareta Koto／Kyonyuu Tsuma Kanzen Hokaku Keikaku／Boku no Tsuma ga Aitsu ni Netoraremashita. - Windows 10 Support]]（publisher）
 - [[EVE ghost enemies]]（publisher）
-- [[Kawarazaki-ke no Ichizoku 2 - Complete Edition - Windows 10 Support Download Card Edition]]（publisher）
-- [[Ryuusei World Actor - Lite]]（publisher）
-- [[Ryuusei World Actor - Trial Edition]]（publisher）
+- [[发行版/Kawarazaki-ke no Ichizoku 2 - Complete Edition - Windows 10 Support]]（publisher）
+- [[发行版/Ryuusei World Actor - Dai Nana Kyouwakoku Boumei Pack]]（publisher）
 - [[Utawarerumono： Chiriyuku Mono e no Komoriuta（Leaf）]]（publisher）
-- [[Utawarerumono： Futari no Hakuoro]]（publisher）
-- [[Utawarerumono： Itsuwari no Kamen]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Chingsongbadneun Ja： Du Myeong-ui Baeghwang - Limited Edition]]（publisher）
+- [[发行版/Chingsongbadneun Ja： Geojis-ui Gamyeon - Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

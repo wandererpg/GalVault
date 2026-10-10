@@ -12,9 +12,9 @@ source_urls:
 # Eushully Tu Shu Guan
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ikusa Megami Zero]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Ikusa Megami Zero（nekoHen）]]（publisher）
 - [[Shenzhou Shenwei Shenle Shuguang]]（publisher）
-- [[Zhannushen Verita]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Ikusa Megami Verita Complete Guidebook Privilege Appendix Disc]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

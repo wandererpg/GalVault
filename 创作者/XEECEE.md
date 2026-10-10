@@ -14,8 +14,8 @@ source_urls:
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Misericorde Volume Two： White Wool & Snow]]（developer）
 - [[Misericorde Volume Two： White Wool & Snow]]（publisher）
-- [[Misericorde： Volume One - Demo]]（developer）
-- [[Misericorde： Volume One - Demo]]（publisher）
+- [[发行版/Misericorde： Volume One]]（developer）
+- [[发行版/Misericorde： Volume One]]（publisher）
 - [[Misericorde： Volume One]]（developer）
 - [[Misericorde： Volume One]]（publisher）<!-- AUTO:END duty -->
 

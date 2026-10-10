@@ -12,10 +12,10 @@ source_urls:
 # Dongdong
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[428： Bei Fengsuo de Segu]]（publisher）
-- [[Jixian Tuochu： 9-xiaoshi 9-ren 9-shan Men]]（publisher）
-- [[Jixian Tuochu： Shanren Siwang]]（publisher）
-- [[Lingyi Shijie FILE23： Bensuo Qi Da Bukesiyi]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/428： Shibuya Scramble - EU Package Edition]]（publisher）
+- [[发行版/Kyokugen Dasshutsu 9-Jikan 9-Nin 9 no Tobira - Chun Selection]]（publisher）
+- [[发行版/Kyokugen Dasshutsu ADV Zennin Shibou Desu - Download Edition]]（publisher）
+- [[发行版/PARANORMASIGHT FILE23： Honjo Nanafushigi（SQUARE ENIX）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

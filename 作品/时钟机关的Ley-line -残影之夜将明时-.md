@@ -121,27 +121,9 @@ cover_image: "assets/covers/v11093.webp"
 - [[shizuku（vndb：per）]]（shizuku）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[A Clockwork Ley-Line Limited Box Set]]
-- [[A Clockwork Ley-Line： Daybreak of Remnants Shadow  - 18+ DLC]]
-- [[A Clockwork Ley-Line： Daybreak of Remnants Shadow - Censored Edition]]
-- [[A Clockwork Ley-Line： Daybreak of Remnants Shadow]]
-- [[Shizhong Jiguan de Ley-line -Canying zhi Ye jiang Ming shi-]]
-- [[Sigye Jangchiui Ley Line 2]]
-- [[Tokeijikake no Ley Line - 3 Games Pack & Drama CD Bundled Ver]]
-- [[Tokeijikake no Ley Line - 3 Games Pack]]
-- [[Tokeijikake no Ley Line - Limited Trilogy Box]]
-- [[Tokeijikake no Ley Line - Special Memorial Edition]]
-- [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Download Edition]]
-- [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Download Edition（Unison Shift： Blossom・release：）]]
-- [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Package Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Package Edition（Unison Shift： Blossom・release：）]]
 - [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Package Edition（Unison Shift： Blossom・release：）]]
-- [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Trial Edition]]
-- [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Trial Edition（Unison Shift： Blossom・release：）]]
-- [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo-]]
-- [[Tokeijikake no Ley Line -Zan'ei no Yoru ga Akeru Toki- Download Edition]]
-- [[Tokeijikake no Ley Line -Zan'ei no Yoru ga Akeru Toki- First Press Edition]]
-- [[Tokeijikake no Ley Line -Zan'ei no Yoru ga Akeru Toki- Regular Edition]]
-- [[Tokeijikake no Ley Line -Zan'ei no Yoru ga Akeru Toki- Trial Edition]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

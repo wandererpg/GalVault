@@ -12,7 +12,7 @@ source_urls:
 # Hades
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[The Fruit of Grisaia Mod Merge + Reshade]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/The Grisaia Trilogy]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

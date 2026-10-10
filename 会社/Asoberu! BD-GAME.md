@@ -12,10 +12,9 @@ source_urls:
 # Asoberu! BD-GAME
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Aso-BD Dokidoki Taikenban!]]（developer）
-- [[Aso-BD Dokidoki Taikenban!]]（publisher）
-- [[Kanon ~Aso BD~]]（publisher）
-- [[Saya no Uta ~Aso BD~]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Saya no Uta ~ The Song of Saya - Upgrade Patch]]（developer）
+- [[发行版/Saya no Uta ~ The Song of Saya - Upgrade Patch]]（publisher）
+- [[发行版/Kanon（Key）]]（publisher）
 - [[Sayonara o Oshiete ~Comment te Dire Adieu~ ~AsoBD~]]（publisher）
 - [[沙耶之歌]]（developer）<!-- AUTO:END duty -->
 

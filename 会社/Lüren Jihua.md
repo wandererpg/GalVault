@@ -12,9 +12,8 @@ source_urls:
 # Lüren Jihua
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Paomo Dong Jing]]（publisher）
-- [[Paomo Dong Jing（Lüren Jihua）]]（publisher）
-- [[Paomo Dong Jing： Ying-se Lingluo & Jingse Xiaoran（Lüren Jihua）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Paomo Dong Jing： Heping Moshi Lu]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

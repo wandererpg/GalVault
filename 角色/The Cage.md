@@ -29,7 +29,7 @@ portrait_image: "assets/characters/c143875.webp"
 
 ## 出场作品
 <!-- AUTO:BEGIN character -->- [[Slay the Princess - The Pristine Cut]]（primary）
-- [[Slay the Princess - The Pristine Cut（Serenity Forge）]]（primary）<!-- AUTO:END character -->
+- [[发行版/Slay the Princess - The Pristine Cut]]（primary）<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->

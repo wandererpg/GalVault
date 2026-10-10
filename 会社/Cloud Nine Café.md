@@ -12,8 +12,8 @@ source_urls:
 # Cloud Nine Café
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Aokana - Four Rhythms Across the Blue - EXTRA2]]（publisher）
-- [[Pure x Connect - Prólogo]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Aokana - Four Rhythms Across the Blue - EXTRA2 18+ Steam Patch]]（publisher）
+- [[发行版/Pure x Connect - First Press Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

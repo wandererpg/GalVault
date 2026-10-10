@@ -12,11 +12,11 @@ source_urls:
 # Tuidao meinan youxi hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Lamento -Beyond the Void-（Tuidao meinan youxi hanhuazu）]]（publisher）
-- [[Sanyecao zhi Guo de Ailisi ~Wonderful Wonder World~]]（publisher）
-- [[Sweet Pool（Tuidao meinan youxi hanhuazu）]]（publisher）
-- [[Xintiao Huiyi Girl's Side： 2nd Season]]（publisher）
-- [[sweet pool - Remaster Edition]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Lamento -BEYOND THE VOID- Windows 10 Support Edition - Download Edition]]（publisher）
+- [[发行版/Clover no Kuni no Alice ~Wonderful Wonder World~]]（publisher）
+- [[发行版/sweet pool Remaster]]（publisher）
+- [[发行版/Tokimeki Memorial Girl's Side： 2nd Season]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

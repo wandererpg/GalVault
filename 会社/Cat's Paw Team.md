@@ -12,9 +12,8 @@ source_urls:
 # Cat's Paw Team
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Cat's Paw Act 1]]（publisher）
-- [[Cat's Paw Act 1（Cat's Paw Team・release：）]]（publisher）
-- [[Cat's Paw Act 1（Cat's Paw Team）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Katawa Shoujo 1.3J]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

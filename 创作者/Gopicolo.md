@@ -12,8 +12,8 @@ source_urls:
 # Gopicolo
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Sakura Wars 2（release：）]]（publisher）
-- [[Sakura Wars]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Yinghua Langman He]]（publisher）
+- [[发行版/Sakura Taisen]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

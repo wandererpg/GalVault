@@ -13,24 +13,15 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Amakano & Amakano ~Second Season~ Double Pack]]（publisher）
-- [[Amakano & Amakano ~Second Season~ Double Pack（Azarashi Soft）]]（publisher）
-- [[Amakano - Download Edition（Azarashi Soft）]]（publisher）
-- [[Amakano - Regular Edition]]（publisher）
-- [[Amakano 2 - Download Edition]]（publisher）
-- [[Amakano 2 - Regular Edition]]（publisher）
-- [[Amakano ~Second Season~ - Download Edition]]（publisher）
-- [[Amakano ~Second Season~ - Regular Edition]]（publisher）
-- [[HHG Double Pack]]（publisher）
-- [[HHG Double Pack（Windmill）]]（publisher）
+- [[发行版/Amakano ~Second Season~ Blu-ray Game - Renewal Package Edition]]（publisher）
+- [[发行版/Amakano & Amakano ~Second Season~ Double Pack]]（publisher）
+- [[发行版/Amakano 2 - Renewal Package Edition - DVDPG]]（publisher）
+- [[发行版/HHG Megami no Shuuen - First Press Limited Edition]]（publisher）
+- [[发行版/Hyper→Highspeed→Genius]]（publisher）
 - [[HHG Megami no Shuuen - First Press Limited Edition]]（publisher）
-- [[HHG Megami no Shuuen - Package Edition]]（publisher）
-- [[Hyper→Highspeed→Genius - Download Edition]]（publisher）
-- [[Hyper→Highspeed→Genius - Limited Edition]]（publisher）
 - [[Hyper→Highspeed→Genius]]（publisher）
-- [[Kyokkou no Marriage： episode LIA - Download Edition]]（publisher）
-- [[Kyokkou no Marriage： episode LIA - Royal Edition]]（publisher）
+- [[发行版/Kyokkou no Marriage： episode LIA - Standard Edition]]（publisher）
 - [[Kyokkou no Marriage： episode LIA - Standard Edition]]（publisher）
-- [[Kyokkou no Marriage： episode LIA - Trial Edition]]（publisher）
 - [[Silverio Ragnarok -  15+ Download Edition]]（publisher）
 - [[Silverio Trinity -Beyond the Horizon-]]（publisher）
 - [[Silverio Vendetta -Verse of Orpheus-（light）]]（publisher）<!-- AUTO:END duty -->

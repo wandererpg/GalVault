@@ -12,9 +12,9 @@ source_urls:
 # Sheva707
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Katawa Shoujo（vndb：r45）]]（publisher）
-- [[Lunnaja princessa（release：）]]（publisher）
-- [[Pesn' Saji（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Katawa Shoujo 1.3J]]（publisher）
+- [[发行版/Tsukihime（vndb：r50）]]（publisher）
+- [[发行版/Saya no Uta ~ The Song of Saya - Upgrade Patch]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

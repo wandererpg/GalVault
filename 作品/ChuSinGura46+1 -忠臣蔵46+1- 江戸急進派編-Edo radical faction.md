@@ -45,9 +45,7 @@ cover_image: "assets/covers/v11157.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[ChuSinGura 46+1 - Download Edition（inre）]]
-- [[ChuSinGura 46+1 - First Press Edition（inre）]]
-- [[ChuSinGura 46+1 - Regular Edition（inre）]]
+<!-- AUTO:BEGIN release -->- [[发行版/ChuSinGura 46+1 Edo Kyuushin-ha Hen]]
 - [[ChuSinGura 46+1 Edo Kyuushin-ha Hen]]<!-- AUTO:END release -->
 
 ## 动画化

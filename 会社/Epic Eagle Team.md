@@ -12,13 +12,13 @@ source_urls:
 # Epic Eagle Team
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Aiyoku no Eustia（Epic Eagle Team）]]（publisher）
-- [[Hoshizora no Memoria HD -Wish upon a Shooting Star-]]（publisher）
-- [[Schwarzesmarken： Kouketsu no Monshou（Epic Eagle Team）]]（publisher）
-- [[Senren ＊ Banka - Trial Edition（Epic Eagle Team）]]（publisher）
-- [[Stella of The End（Snowy Ryujin TL）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Aiyoku no Eustia： Angel's Blessing - Download Edition]]（publisher）
+- [[发行版/Hoshizora no Memoria HD -Shooting Star & Eternal Heart Anniversary BOX- Download Edition]]（publisher）
+- [[发行版/age Memorial Bundle]]（publisher）
+- [[发行版/Senren ＊ Banka - Package Edition]]（publisher）
+- [[发行版/Tsui no Stella]]（publisher）
 - [[Ty, ja i ona： Istorija ljubvi - Steam Edition]]（publisher）
-- [[Ty, ja i ona： Istorija ljubvi]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Ty, ja i ona： Istorija ljubvi - Steam Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

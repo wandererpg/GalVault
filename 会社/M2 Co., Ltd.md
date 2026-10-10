@@ -12,7 +12,7 @@ source_urls:
 # M2 Co., Ltd.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Steins;Gate 0（MAGES）]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Steins;Gate 0 - Limited Deluxe Package Edition]]（developer）
 - [[命运石之门0]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

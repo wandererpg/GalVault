@@ -12,8 +12,8 @@ source_urls:
 # G-MODE
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[CROSS†CHANNEL ～For all people～ Limited Edition]]（publisher）
-- [[CROSS†CHANNEL ～For all people～ Regular Edition]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Cross†Channel ~To All People~ Regular Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

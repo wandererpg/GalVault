@@ -12,8 +12,8 @@ source_urls:
 # Vovka Kanon
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Amagami SS]]（publisher）
-- [[Amagami SS（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Ebikore+ Amagami - Download Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

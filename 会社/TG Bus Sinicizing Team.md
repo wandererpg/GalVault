@@ -12,8 +12,8 @@ source_urls:
 # TG Bus Sinicizing Team
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Niao zhi Shi]]（publisher）
-- [[Xue zhi Shaonü]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/AIR（Key）]]（publisher）
+- [[发行版/Kanon（Key）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

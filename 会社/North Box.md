@@ -14,8 +14,8 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Otokano ~Otouto no Kanojo ga Bunkei de Tsuyome!？~ Download Edition]]（developer）
 - [[Otokano ~Otouto no Kanojo ga Bunkei de Tsuyome!？~ Download Edition]]（publisher）
-- [[Otokano ~Otouto no Kanojo ga Bunkei de Tsuyome!？~ Package Edition]]（developer）
-- [[Otokano ~Otouto no Kanojo ga Bunkei de Tsuyome!？~ Package Edition]]（publisher）
+- [[发行版/Otokano ~Otouto no Kanojo ga Bunkei de Tsuyome!？~ Download Edition]]（developer）
+- [[发行版/Otokano ~Otouto no Kanojo ga Bunkei de Tsuyome!？~ Download Edition]]（publisher）
 - [[オトカノ ～おとうとの彼女が文系で強め!？～]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

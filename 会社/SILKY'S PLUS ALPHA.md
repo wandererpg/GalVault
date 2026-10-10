@@ -12,9 +12,7 @@ source_urls:
 # SILKY'S PLUS ALPHA
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Nanairo Reincarnation - Download Edition（SILKY'S PLUS ALPHA）]]（developer）
-- [[Nanairo Reincarnation - Limited Edition]]（developer）
-- [[Nanairo Reincarnation - Regular Edition]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Nanairo Reincarnation Akeiro Kaikitan Multi-pack]]（developer）
 - [[七色轮回]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

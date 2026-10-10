@@ -12,20 +12,11 @@ source_urls:
 # Studio Mebius
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[SNOW Special CD-ROM]]（publisher）
-- [[SNOW ~Plus Edition~]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Snow ~Portable~ Download Edition]]（publisher）
 - [[SNOW]]（developer）
-- [[SNOW（Studio Mebius）]]（developer）
-- [[SNOW（Studio Mebius）]]（publisher）
-- [[SNOW（Visual Art's Motto）]]（developer）
-- [[Snow - CD Edition]]（publisher）
-- [[Snow - DVD Edition]]（publisher）
-- [[Snow - First Press Limited Edition]]（developer）
-- [[Snow - Regular Edition]]（developer）
-- [[Snow ~Full Voice Version~]]（publisher）
+- [[发行版/Snow ~Portable~ Download Edition]]（developer）
 - [[Snow ~Portable~ Download Edition]]（publisher）
-- [[Snow ~Portable~]]（developer）
-- [[Snow ~Standard Edition~]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

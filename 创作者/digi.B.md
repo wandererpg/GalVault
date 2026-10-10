@@ -12,8 +12,8 @@ source_urls:
 # digi.B
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Artemis v0.7]]（developer）
-- [[Artemis v0.7]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Artemis： Book One]]（developer）
+- [[发行版/Artemis： Book One]]（publisher）
 - [[Artemis]]（developer）
 - [[Artemis： Book One]]（developer）
 - [[Artemis： Book One]]（publisher）<!-- AUTO:END duty -->

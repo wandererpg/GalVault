@@ -12,7 +12,7 @@ source_urls:
 # Winter_Mute
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[The Shell Part I： Inferno（vndb：r15）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Innocent Grey Mystery Collection ~Kara no Shoujo & Pianissimo & Cartagra~]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -253,15 +253,9 @@ cover_image: "assets/covers/v6245.webp"
 - [[Yuzuki Kaname]]（柚木 かなめ）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Ej, ljubi menja vser'joz! S]]
-- [[Ej, ljubi menja vser'joz! S（Red Plow Group）]]
-- [[Maji de Watashi ni Koishinasai! S - Download Edition]]
-- [[Maji de Watashi ni Koishinasai! S - First Press Edition]]
-- [[Maji de Watashi ni Koishinasai! S - Regular Edition]]
-- [[Maji de Watashi ni Koishinasai! S - Trial Edition]]
-- [[Maji de Watashi ni Koishinasai! S - Trial Edition（Wairu Translations）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Maji de Watashi ni Koishinasai! S]]
 - [[Maji de Watashi ni Koishinasai! S]]
-- [[Maji de Watashi ni Koishinasai! S（Sharin-Sub）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

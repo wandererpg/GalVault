@@ -112,20 +112,9 @@ cover_image: "assets/covers/v1060.webp"
 - [[Yuki-Lin]]（Yuki-Lin）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Hinakin BOX ~Hajimete nan desu Kokuhaku suru no~]]
-- [[MinDeaD BlooD Complete Edition - Download Edition]]
-- [[MinDeaD BlooD Complete Edition - Price Revised Edition]]
-- [[MinDeaD BlooD Complete Edition - Windows 8.1 Support Edition - Download Edition]]
-- [[MinDeaD BlooD Complete Edition - Windows 8.1 Support Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/MinDeaD BlooD Complete Edition]]
 - [[MinDeaD BlooD Complete Edition]]
-- [[MinDeaD BlooD ~Shihaisha no Tame no Kyoushikyoku~ Complete Edition - Windows 7 Support Edition]]
-- [[MinDeaD BlooD ~Shihaisha no Tame no Kyoushikyoku~ DVD Special Edition - Vista Support Edition]]
-- [[MinDeaD BlooD ~Shihaisha no Tame no Kyoushikyoku~ DVD Special Edition]]
-- [[MinDeaD BlooD ~Shihaisha no Tame no Kyoushikyoku~ DVDPG]]
-- [[MinDeaD BlooD ~Shihaisha no Tame no Kyoushikyoku~ First Press Edition]]
-- [[MinDeaD BlooD ~Shihaisha no Tame no Kyoushikyoku~ Low Price Edition DVDPG]]
-- [[MinDeaD BlooD ~Shihaisha no Tame no Kyoushikyoku~ Regular Edition]]
-- [[MinDeaD BlooD ~Xiangei Zhipeizhe de Kuangxiangqu~]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

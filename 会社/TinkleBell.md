@@ -12,14 +12,8 @@ source_urls:
 # TinkleBell
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Rondo Duo -Yoake no Fortissimo- Punyu Puri ff - Download Edition]]（developer）
-- [[Rondo Duo -Yoake no Fortissimo- Punyu Puri ff - Download Edition]]（publisher）
-- [[Rondo Duo -Yoake no Fortissimo- Punyu Puri ff - Package Edition]]（developer）
-- [[Rondo Duo -Yoake no Fortissimo- Punyu Puri ff - Package Edition]]（publisher）
-- [[Rondo Duo -Yoake no Fortissimo- Punyu Puri ff - Toranoana Edition]]（developer）
-- [[Rondo Duo -Yoake no Fortissimo- Punyu Puri ff - Toranoana Edition]]（publisher）
-- [[Rondo Duo -Yoake no Fortissimo- Punyu Puri ff - Trial Edition]]（developer）
-- [[Rondo Duo -Yoake no Fortissimo- Punyu Puri ff - Trial Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Lunwuqu Duo]]（developer）
+- [[发行版/Lunwuqu Duo]]（publisher）
 - [[輪舞曲Duo -夜明けのフォルテシモ- ぷにゅぷりff]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

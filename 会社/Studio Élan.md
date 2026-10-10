@@ -12,18 +12,10 @@ source_urls:
 # Studio Élan
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Please Be Happy - Classic Physical Edition]]（developer）
-- [[Please Be Happy - Classic Physical Edition]]（publisher）
-- [[Please Be Happy - Demo]]（developer）
-- [[Please Be Happy - Demo]]（publisher）
-- [[Please Be Happy - Demo（Sekai Project）]]（developer）
-- [[Please Be Happy - Webstore Physical Edition]]（developer）
-- [[Please Be Happy - Webstore Physical Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Please Be Happy（Sekai Project）]]（developer）
+- [[发行版/Please Be Happy（Sekai Project）]]（publisher）
 - [[Please Be Happy（Sekai Project）]]（developer）
 - [[Please Be Happy（Sekai Project）]]（publisher）
-- [[Please Be Happy（Sometimes You・release：）]]（developer）
-- [[Please Be Happy（Studio Élan）]]（developer）
-- [[Please Be Happy（Studio Élan）]]（publisher）
 - [[愿你幸福]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

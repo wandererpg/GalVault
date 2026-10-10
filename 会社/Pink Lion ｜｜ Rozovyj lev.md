@@ -12,8 +12,8 @@ source_urls:
 # Pink Lion || Rozovyj lev
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Blooming Panic（Pink Lion ｜｜ Rozovyj lev）]]（publisher）
-- [[Blooming Panic： Full Bloom Edition]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Blooming Panic]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

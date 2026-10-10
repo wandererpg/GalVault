@@ -11,7 +11,7 @@ source_urls:
 # Operation Bifrost
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Steins;Gate（Operation Bifrost）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/STEINS;GATE - Download Edition（MAGES・release：）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

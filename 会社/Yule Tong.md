@@ -12,18 +12,12 @@ source_urls:
 # Yule Tong
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Meishaonü Meng Gongchang 4 - Deluxe Edition]]（publisher）
-- [[Meishaonü Meng Gongchang 4 - Powered Up DVD Perfect Edition]]（publisher）
-- [[Meishaonü Meng Gongchang 4 - Regular Edition]]（publisher）
-- [[Meishaonü Meng Gongchang 4]]（publisher）
-- [[Memories Off Duet（Yule Tong・release：）]]（publisher）
-- [[Memories Off Duet（Yule Tong）]]（publisher）
-- [[Qiu zhi Huiyui 2 - Deluxe Edition]]（publisher）
-- [[Shikong Lunhui]]（publisher）
-- [[Shikong Lunhui（KID）]]（publisher）
-- [[Wuxian Lunhui de Shiguang - First Press Limited Edition]]（publisher）
-- [[Wuxian Lunhui de Shiguang - Popular Edition]]（publisher）
-- [[Wuxian Lunhui de Shiguang]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Princess Maker 4 - Special Edition]]（publisher）
+- [[发行版/Memories Off Historia - Super Limited Edition（MAGES・release：）]]（publisher）
+- [[发行版/Memories Off Historia - Super Limited Edition（MAGES・vndb：r11）]]（publisher）
+- [[发行版/Ever17 -The Out of Infinity- Download Edition（MAGES）]]（publisher）
+- [[发行版/Remember11 -The Age of Infinity- Download Edition（MAGES）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

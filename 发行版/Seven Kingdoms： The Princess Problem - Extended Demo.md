@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r50213:work:vndb:work:v18322"
-type: "release"
-display_title: "Seven Kingdoms: The Princess Problem - Extended Demo"
-release_date: "2017-01-08"
+entity_id: release:vndb:r50213:work:vndb:work:v18322
+type: release
+display_title: 'Seven Kingdoms: The Princess Problem - Extended Demo'
+release_date: '2017-01-08'
 is_all_ages: true
-platform: "win, lin, mac"
-edition_type: "trial"
-title_status: "needs_review"
+platform: win, lin, mac
+edition_type: trial
+title_status: needs_review
 source_ids:
-  vndb: "r50213"
+  vndb: r50213
 source_urls:
-  vndb: "https://vndb.org/r50213"
+  vndb: https://vndb.org/r50213
+aliases:
+- Seven Kingdoms： The Princess Problem - Demo
+- Seven Kingdoms： The Princess Problem v1.12
+consolidated_releases:
+- id: r50213
+  title: 'Seven Kingdoms: The Princess Problem - Extended Demo'
+  url: https://vndb.org/r50213
+  release_date: '2017-01-08'
+  platform: win, lin, mac
+  edition_type: trial
+  is_all_ages: true
+- id: r42841
+  title: 'Seven Kingdoms: The Princess Problem v1.12'
+  url: https://vndb.org/r42841
+  release_date: '2024-08-01'
+  platform: win, lin, mac
+  edition_type: partial
+  is_all_ages: true
+- id: r42840
+  title: 'Seven Kingdoms: The Princess Problem - Demo'
+  url: https://vndb.org/r42840
+  release_date: '2015-06-06'
+  platform: win, lin, mac
+  edition_type: trial
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Seven Kingdoms: The Princess Problem - Extended Demo

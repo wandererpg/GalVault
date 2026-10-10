@@ -12,10 +12,8 @@ source_urls:
 # Game Box
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Donggeupsaeng 2 Hwakjangpan]]（publisher）
-- [[Donggeupsaeng 2]]（publisher）
-- [[Tongjisheng 2（Game Box・release：）]]（publisher）
-- [[Tongjisheng 2（Game Box）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Doukyuusei 2 - Extra Box]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

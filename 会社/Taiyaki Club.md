@@ -12,9 +12,9 @@ source_urls:
 # Taiyaki Club
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Clannad - Steam Edition]]（publisher）
-- [[Kanon - Standard Edition（Senbonzakura）]]（publisher）
-- [[Planetarian -HD edition-]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/CLANNAD（Hikarizaka Gaoxiao Zhongwen Bu）]]（publisher）
+- [[发行版/Kanon（Key）]]（publisher）
+- [[发行版/Planetarian ~The Reverie of a Little Planet~（release：）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

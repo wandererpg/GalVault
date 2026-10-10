@@ -12,12 +12,10 @@ source_urls:
 # Salty Salty Studios
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Twofold - Demo]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Twofold： The Perfect Circle Collection]]（developer）
 - [[Twofold]]（developer）
-- [[Twofold（Bellhouse）]]（developer）
 - [[Twofold： The Perfect Circle Collection]]（developer）
-- [[Work in Progress - Demo]]（developer）
-- [[Work in Progress - Demo]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Twofold： The Perfect Circle Collection]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

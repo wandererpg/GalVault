@@ -12,21 +12,13 @@ source_urls:
 # MinoriTeam
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[9-nine- Epizod. 2 Niimi Sora - 18+ DLC]]（publisher）
-- [[9-nine- Epizod. 2 Niimi Sora]]（publisher）
-- [[9-nine- Epizod. 3 Kosaka Haruka - 18+ DLC]]（publisher）
-- [[9-nine- Epizod. 3 Kosaka Haruka]]（publisher）
-- [[9-nine- Epizod. 4 Juki Noa - 18+ DLC]]（publisher）
-- [[9-nine- Epizod. 4 Juki Noa]]（publisher）
-- [[Making ＊ Lovers（MinoriTeam）]]（publisher）
-- [[Nanairo Reincarnation（MinoriTeam・release：）]]（publisher）
-- [[Nanairo Reincarnation（MinoriTeam）]]（publisher）
-- [[ef - the first tale. - 18+ Edition]]（publisher）
-- [[ef - the first tale. - 18+ Patch (Steam)]]（publisher）
-- [[ef - the first tale. - All-ages (Steam)]]（publisher）
-- [[ef - the latter tale. - 18+ Edition]]（publisher）
-- [[ef - the latter tale. - 18+ Patch (Steam)]]（publisher）
-- [[ef - the latter tale. - All-ages (Steam)]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/9-nine- Download Edition（Palette・vndb：r83）]]（publisher）
+- [[发行版/9-nine- Download Edition（Palette・k：v23740）]]（publisher）
+- [[发行版/9-nine- Download Edition（Palette・k：v26523）]]（publisher）
+- [[发行版/Making ＊ Lovers - PS4 Download Edition]]（publisher）
+- [[发行版/Nanairo Reincarnation Akeiro Kaikitan Multi-pack]]（publisher）
+- [[发行版/ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -14,8 +14,8 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Maho☆Tama Series： Mimikko Hen - Download Edition]]（developer）
 - [[Maho☆Tama Series： Mimikko Hen - Download Edition]]（publisher）
-- [[Maho☆Tama Series： Mimikko Hen]]（developer）
-- [[Maho☆Tama Series： Mimikko Hen]]（publisher）
+- [[发行版/Maho☆Tama Series： Mimikko Hen - Download Edition]]（developer）
+- [[发行版/Maho☆Tama Series： Mimikko Hen - Download Edition]]（publisher）
 - [[まほ☆たまシリーズ ～みみっこ編～]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

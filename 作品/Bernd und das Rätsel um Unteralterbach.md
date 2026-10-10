@@ -74,9 +74,7 @@ cover_image: "assets/covers/v13871.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Bernd i tajna Unteral'terbaha]]
-- [[Bernd und das Rätsel um Unteralterbach Version 2.0]]
-- [[Bernd und das Rätsel um Unteralterbach Version 2.5]]
+<!-- AUTO:BEGIN release -->- [[发行版/Bernd und das Rätsel um Unteralterbach]]
 - [[Bernd und das Rätsel um Unteralterbach]]<!-- AUTO:END release -->
 
 ## 动画化

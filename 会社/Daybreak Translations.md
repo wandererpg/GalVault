@@ -13,9 +13,9 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Gin'iro, Haruka（Tsurezure Scans）]]（publisher）
-- [[Guardians of Daybreak： The Trilogy]]（publisher）
-- [[Maji de Watashi ni Koishinasai! A Plus]]（publisher）
-- [[Reminiscence]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Akatsuki no Goei Trinity Complete Edition - First Press Limited Edition]]（publisher）
+- [[发行版/Maji de Watashi ni Koishinasai! A - Special Edition（Minato Soft・k：v20604）]]（publisher）
+- [[发行版/Reminiscence - Collector's Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

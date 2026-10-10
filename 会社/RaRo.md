@@ -12,22 +12,8 @@ source_urls:
 # RaRo
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Rail Romanesque Origin - Download Edition（RaRo）]]（developer）
-- [[Rail Romanesque Origin - Download Edition（RaRo）]]（publisher）
-- [[Rail Romanesque origin - Deluxe Edition]]（developer）
-- [[Rail Romanesque origin - Deluxe Edition]]（publisher）
-- [[Rail Romanesque origin - Deluxe Edition（RaRo）]]（developer）
-- [[Rail Romanesque origin - Deluxe Edition（RaRo）]]（publisher）
-- [[Rail Romanesque origin - Download Edition]]（developer）
-- [[Rail Romanesque origin - Download Edition]]（publisher）
-- [[Rail Romanesque origin - Download Edition（RaRo・release：）]]（developer）
-- [[Rail Romanesque origin - Download Edition（RaRo・release：）]]（publisher）
-- [[Rail Romanesque origin - Regular Edition]]（developer）
-- [[Rail Romanesque origin - Regular Edition]]（publisher）
-- [[Rail Romanesque origin - Regular Edition（RaRo・release：）]]（developer）
-- [[Rail Romanesque origin - Regular Edition（RaRo・release：）]]（publisher）
-- [[Rail Romanesque origin - Regular Edition（RaRo）]]（developer）
-- [[Rail Romanesque origin - Regular Edition（RaRo）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Maitetsu Complete Set（Lose）]]（developer）
+- [[发行版/Maitetsu Complete Set（Lose）]]（publisher）
 - [[爱上火车-Last Run!!-]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

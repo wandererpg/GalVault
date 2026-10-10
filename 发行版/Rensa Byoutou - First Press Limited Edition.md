@@ -1,16 +1,34 @@
 ---
-entity_id: "release:vndb:r13978:work:vndb:work:v7058"
-type: "release"
-display_title: "Rensa Byoutou - First Press Limited Edition"
-release_date: "2006-09-01"
+entity_id: release:vndb:r13978:work:vndb:work:v7058
+type: release
+display_title: Rensa Byoutou - First Press Limited Edition
+release_date: '2006-09-01'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r13978"
+  vndb: r13978
 source_urls:
-  vndb: "https://vndb.org/r13978"
+  vndb: https://vndb.org/r13978
+aliases:
+- Rensa Byoutou - Download Edition
+consolidated_releases:
+- id: r13978
+  title: Rensa Byoutou - First Press Limited Edition
+  url: https://vndb.org/r13978
+  release_date: '2006-09-01'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r36810
+  title: Rensa Byoutou - Download Edition
+  url: https://vndb.org/r36810
+  release_date: '2014-10-03'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Rensa Byoutou - First Press Limited Edition

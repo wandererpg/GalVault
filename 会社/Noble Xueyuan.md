@@ -12,8 +12,8 @@ source_urls:
 # Noble Xueyuan
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ambitious Mission - Trial Edition（Noble Xueyuan）]]（publisher）
-- [[Ambitious Mission（Noble Xueyuan）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/AMBITIOUS MISSION + Kakenuke★Seishun Sparking! Set Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

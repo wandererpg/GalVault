@@ -12,19 +12,10 @@ source_urls:
 # Heliodor
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ryuusei World Actor - Android Edition]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Ryuusei World Actor - Dai Nana Kyouwakoku Boumei Pack]]（developer）
 - [[Ryuusei World Actor - Dai Nana Kyouwakoku Boumei Pack]]（developer）
-- [[Ryuusei World Actor - Download Edition]]（developer）
-- [[Ryuusei World Actor - First Press Limited Edition]]（developer）
-- [[Ryuusei World Actor - Lite]]（developer）
-- [[Ryuusei World Actor - Regular Edition]]（developer）
-- [[Ryuusei World Actor - Super Early Trial Program]]（developer）
-- [[Ryuusei World Actor - Trial Edition]]（developer）
-- [[Ryuusei World Actor - Trial Program]]（developer）
 - [[Ryuusei World Actor： Gaslight Bullet - Dai Nana Kyouwakoku Shukkoku Pack]]（developer）
-- [[Ryuusei World Actor： Gaslight Bullet - Download Edition]]（developer）
-- [[Ryuusei World Actor： Gaslight Bullet - Regular Edition]]（developer）
-- [[Ryuusei World Actor： Gaslight Bullet]]（developer）
+- [[发行版/Ryuusei World Actor： Gaslight Bullet - Dai Nana Kyouwakoku Shukkoku Pack]]（developer）
 - [[流星ワールドアクター Gaslight Bullet]]（developer）
 - [[流星世界演绎者]]（developer）<!-- AUTO:END duty -->
 

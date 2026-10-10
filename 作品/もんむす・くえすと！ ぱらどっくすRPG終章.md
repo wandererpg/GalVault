@@ -23,6 +23,7 @@ cover_image: "assets/covers/v47866.webp"
 
 # もんむす・くえすと！ ぱらどっくすRPG終章
 
+
 ## 封面
 <!-- AUTO:BEGIN image -->
 ![[assets/covers/v47866.webp|300]]
@@ -74,11 +75,9 @@ cover_image: "assets/covers/v47866.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Monmusu Quest! Paradox RPG Shuushou - Trial Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Monmusu Quest! Paradox RPG Shuushou]]
 - [[Monmusu Quest! Paradox RPG Shuushou]]
-- [[Monster Girl Quest! Paradox RPG - Part 3 - Trial Edition]]
-- [[Monster Girl Quest! Paradox RPG - Part 3]]
-- [[Monster Girl Quest! Paradox RPG - Part 3（release：）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

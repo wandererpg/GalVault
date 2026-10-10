@@ -12,7 +12,7 @@ source_urls:
 # JesterThirty4
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Ciconia no Naku Koro ni]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Ciconia no Naku Koro ni - Phase 1： Kawari no Iru Kimi-tachi e]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

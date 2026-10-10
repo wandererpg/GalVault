@@ -38,7 +38,7 @@ cover_image: "assets/covers/v28278.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Confession of the Golden Witch PS3 Port]]
+<!-- AUTO:BEGIN release -->- [[发行版/Confession of the Golden Witch]]
 - [[Confession of the Golden Witch]]<!-- AUTO:END release -->
 
 ## 动画化

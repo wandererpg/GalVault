@@ -12,7 +12,7 @@ source_urls:
 # INFOLD
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Lian Yu Shen Kong ​]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Lian Yu Shen Kong ​（INFOLD）]]（publisher）
 - [[Lian Yu Shen Kong ​（INFOLD）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

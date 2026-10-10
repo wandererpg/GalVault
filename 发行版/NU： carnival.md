@@ -1,26 +1,66 @@
 ---
-entity_id: "release:vndb:r87695:work:vndb:work:v34078"
-type: "release"
-display_title: "NU: carnival"
-release_date: "2022-02-24"
+entity_id: release:vndb:r87695:work:vndb:work:v34078
+type: release
+display_title: 'NU: carnival'
+release_date: '2022-02-24'
 is_all_ages: false
-platform: "ios, and"
-edition_type: "complete"
-title_status: "needs_review"
+platform: ios, and
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r87695"
+  vndb: r87695
 source_urls:
-  vndb: "https://vndb.org/r87695"
+  vndb: https://vndb.org/r87695
 merged_source_records:
-  - id: "r87695"
-    url: "https://vndb.org/r87695"
-  - id: "r87993"
-    url: "https://vndb.org/r87993"
-  - id: "r88431"
-    url: "https://vndb.org/r88431"
+- id: r87695
+  url: https://vndb.org/r87695
+- &id001
+  id: r87993
+  url: https://vndb.org/r87993
+- &id002
+  id: r88431
+  url: https://vndb.org/r88431
 aliases:
-  - "NU： carnival（Infinity Alpha・release：）"
-  - "NU： carnival（Infinity Alpha）"
+- NU： carnival（Infinity Alpha・release：）
+- NU： carnival（Infinity Alpha）
+- Xin Shijie Kuanghuan
+- Xin Shijie Kuanghuan - Bliss
+- Xin Shijie Kuanghuan - Bliss（Infinity Alpha）
+- Xin Shijie Kuanghuan（Infinity Alpha）
+consolidated_releases:
+- id: r87695
+  title: 'NU: carnival'
+  url: https://vndb.org/r87695
+  release_date: '2022-02-24'
+  platform: ios, and
+  edition_type: complete
+  is_all_ages: false
+- *id001
+- *id002
+- id: r87694
+  title: Xin Shijie Kuanghuan
+  url: https://vndb.org/r87694
+  release_date: '2022-02-24'
+  platform: ios, and
+  edition_type: complete
+  is_all_ages: false
+- id: r87992
+  url: https://vndb.org/r87992
+- id: r118784
+  title: Xin Shijie Kuanghuan - Bliss
+  url: https://vndb.org/r118784
+  release_date: '2024-01-24'
+  platform: and
+  edition_type: complete
+  is_all_ages: true
+- id: r118783
+  title: Xin Shijie Kuanghuan - Bliss
+  url: https://vndb.org/r118783
+  release_date: '2024-01-24'
+  platform: ios
+  edition_type: complete
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # NU: carnival

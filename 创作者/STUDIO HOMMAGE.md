@@ -12,14 +12,10 @@ source_urls:
 # STUDIO HOMMAGE
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Yukiko no Kuni - Download Edition]]（developer）
-- [[Yukiko no Kuni - Download Edition]]（publisher）
-- [[Yukiko no Kuni - First Package Edition]]（developer）
-- [[Yukiko no Kuni - First Package Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Yukiko no Kuni - Regular Package Edition]]（developer）
+- [[发行版/Yukiko no Kuni - Regular Package Edition]]（publisher）
 - [[Yukiko no Kuni - Regular Package Edition]]（developer）
 - [[Yukiko no Kuni - Regular Package Edition]]（publisher）
-- [[Yukiko no Kuni - Trial Edition]]（developer）
-- [[Yukiko no Kuni - Trial Edition]]（publisher）
 - [[雪子の国]]（developer）<!-- AUTO:END duty -->
 
 ## 创作与出演

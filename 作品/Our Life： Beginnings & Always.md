@@ -123,34 +123,9 @@ cover_image: "assets/covers/v26391.webp"
 - [[Yu Wang]]（Yu Wang）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Nasha zhizn'： Nachalo i vechnost']]
-- [[Our Life： Beginnings & Always - Baxter's Story]]
-- [[Our Life： Beginnings & Always - Baxter's Story（GB Patch Games）]]
-- [[Our Life： Beginnings & Always - Cove Wedding Night Patreon Bonus Moment]]
-- [[Our Life： Beginnings & Always - Cove Wedding Story]]
-- [[Our Life： Beginnings & Always - Cove Wedding Story（GB Patch Games）]]
-- [[Our Life： Beginnings & Always - Demo]]
-- [[Our Life： Beginnings & Always - Demo（GB Patch Games）]]
-- [[Our Life： Beginnings & Always - Derek's Story]]
-- [[Our Life： Beginnings & Always - Derek's Story（GB Patch Games）]]
-- [[Our Life： Beginnings & Always - Expanded Demo]]
-- [[Our Life： Beginnings & Always - Expanded Demo（GB Patch Games）]]
-- [[Our Life： Beginnings & Always - Patreon Bonus Moment]]
-- [[Our Life： Beginnings & Always - Step 1 Expansion]]
-- [[Our Life： Beginnings & Always - Step 1 Expansion（GB Patch Games）]]
-- [[Our Life： Beginnings & Always - Step 2 Expansion]]
-- [[Our Life： Beginnings & Always - Step 2 Expansion（GB Patch Games）]]
-- [[Our Life： Beginnings & Always - Step 3 Expansion]]
-- [[Our Life： Beginnings & Always - Step 3 Expansion（GB Patch Games）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Our Life： Beginnings & Always - Voiced Name Expansion]]
 - [[Our Life： Beginnings & Always - Voiced Name Expansion]]
-- [[Our Life： Beginnings & Always - Voiced Name Version]]
-- [[Our Life： Beginnings & Always - Voiced Name Version（GB Patch Games）]]
-- [[Our Life： Beginnings & Always]]
-- [[Our Life： Beginnings & Always（GB Patch Games・release：）]]
-- [[Our Life： Beginnings & Always（GB Patch Games・vndb：r83）]]
-- [[Our Life： Beginnings & Always（GB Patch Games）]]
-- [[Our Life： Beginnings & Always（Xiniao Zhen Jiedao Banshichu Hanhuazu）]]
-- [[Our Life： Beginnings & Always（release：）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

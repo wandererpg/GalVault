@@ -12,21 +12,13 @@ source_urls:
 # BlueMoon
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Double Score ~Cattleya × Narcissus~ Limited Edition]]（developer）
-- [[Double Score ~Cattleya × Narcissus~ Limited Edition]]（publisher）
-- [[Double Score ~Cattleya × Narcissus~ Regular Edition]]（developer）
-- [[Double Score ~Cattleya × Narcissus~ Regular Edition]]（publisher）
-- [[Double Score ~Cosmos × Camellia~ Limited Edition]]（developer）
-- [[Double Score ~Cosmos × Camellia~ Limited Edition]]（publisher）
-- [[Double Score ~Cosmos × Camellia~ Regular Edition]]（developer）
-- [[Double Score ~Cosmos × Camellia~ Regular Edition]]（publisher）
-- [[Double Score ~Marguerite × Tulip~ Limited Edition]]（developer）
-- [[Double Score ~Marguerite × Tulip~ Limited Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Double Score ~Marguerite × Tulip~ Regular Edition]]（developer）
+- [[发行版/Double Score ~Marguerite × Tulip~ Regular Edition]]（publisher）
 - [[Double Score ~Marguerite × Tulip~ Regular Edition]]（developer）
 - [[Double Score ~Marguerite × Tulip~ Regular Edition]]（publisher）
 - [[DoubleScore]]（developer）
 - [[unENDing Bloody Call - Limited Edition]]（publisher）
-- [[unENDing Bloody Call - Regular Edition]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/unENDing Bloody Call - Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

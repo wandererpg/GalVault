@@ -14,12 +14,12 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Hime Jiru - Download Edition]]（developer）
 - [[Hime Jiru - Download Edition]]（publisher）
-- [[Hime Jiru（One-up）]]（developer）
-- [[Hime Jiru（One-up）]]（publisher）
+- [[发行版/Hime Jiru - Download Edition]]（developer）
+- [[发行版/Hime Jiru - Download Edition]]（publisher）
 - [[Hoshizora no Babylon -Semarikuru Cosmic Sukebe Onee-sans- Download Edition]]（developer）
 - [[Hoshizora no Babylon -Semarikuru Cosmic Sukebe Onee-sans- Download Edition]]（publisher）
-- [[Hoshizora no Babylon -Semarikuru Cosmic Sukebe Onee-sans- Package Edition]]（developer）
-- [[Hoshizora no Babylon -Semarikuru Cosmic Sukebe Onee-sans- Package Edition]]（publisher）
+- [[发行版/Hoshizora no Babylon -Semarikuru Cosmic Sukebe Onee-sans- Download Edition]]（developer）
+- [[发行版/Hoshizora no Babylon -Semarikuru Cosmic Sukebe Onee-sans- Download Edition]]（publisher）
 - [[姫汁]]（developer）
 - [[星空のバビロン －迫り来るコズミックすけべおねぇさんズ－]]（developer）<!-- AUTO:END duty -->
 

@@ -12,17 +12,12 @@ source_urls:
 # Nameless
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Deep One - Limited Edition]]（developer）
-- [[Deep One - Limited Edition（ENTERGRAM）]]（developer）
-- [[Deep One - Regular Edition]]（developer）
-- [[Deep One - Regular Edition（ENTERGRAM）]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/DeepOne -Ryoukai Shinpan- Download Edition]]（developer）
 - [[DeepOne -Ryoukai Shinpan- Download Edition]]（developer）
 - [[DeepOne -Ryoukai Shinpan- Download Edition]]（publisher）
-- [[DeepOne -Ryoukai Shinpan-]]（developer）
-- [[DeepOne -Ryoukai Shinpan-]]（publisher）
+- [[发行版/DeepOne -Ryoukai Shinpan- Download Edition]]（publisher）
 - [[DeepOne-領界侵犯-]]（developer）
-- [[DeepOne]]（developer）
-- [[DeepOne（ENTERGRAM）]]（developer）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

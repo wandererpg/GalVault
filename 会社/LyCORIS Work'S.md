@@ -12,8 +12,8 @@ source_urls:
 # LyCORIS Work'S
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[BUSTAFELLOWS - Demo（LyCORIS Work'S）]]（publisher）
-- [[BUSTAFELLOWS - Shu Route]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/BUSTAFELLOWS]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

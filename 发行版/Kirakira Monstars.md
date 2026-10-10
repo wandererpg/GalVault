@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r84711:work:vndb:work:v24802"
-type: "release"
-display_title: "Kirakira Monstars"
-release_date: "2021-11-25"
+entity_id: release:vndb:r84711:work:vndb:work:v24802
+type: release
+display_title: Kirakira Monstars
+release_date: '2021-11-25'
 is_all_ages: true
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r84711"
+  vndb: r84711
 source_urls:
-  vndb: "https://vndb.org/r84711"
+  vndb: https://vndb.org/r84711
+aliases:
+- Kirakira Monstars Season 01 - Download Edition
+- Kirakira Monstars Season 01 - Package Edition
+consolidated_releases:
+- id: r84711
+  title: Kirakira Monstars
+  url: https://vndb.org/r84711
+  release_date: '2021-11-25'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+- id: r72320
+  title: Kirakira Monstars Season 01 - Download Edition
+  url: https://vndb.org/r72320
+  release_date: '2020-05-29'
+  platform: win
+  edition_type: partial
+  is_all_ages: true
+- id: r60868
+  title: Kirakira Monstars Season 01 - Package Edition
+  url: https://vndb.org/r60868
+  release_date: '2020-05-28'
+  platform: win
+  edition_type: partial
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Kirakira Monstars

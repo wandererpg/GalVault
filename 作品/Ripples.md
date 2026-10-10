@@ -76,8 +76,7 @@ cover_image: "assets/covers/v33448.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Ripples - Episode 6 - Incest Patch]]
-- [[Ripples - Episode 9]]
+<!-- AUTO:BEGIN release -->- [[发行版/Ripples v0.9.22]]
 - [[Ripples v0.9.22]]<!-- AUTO:END release -->
 
 ## 动画化

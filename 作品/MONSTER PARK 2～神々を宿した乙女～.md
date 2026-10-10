@@ -59,11 +59,8 @@ cover_image: "assets/covers/v10889.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Monster Park 2 ~Kamigami o Yadoshita Otome~ Blu-ray Game]]
-- [[Monster Park 2 ~Kamigami o Yadoshita Otome~ DVDPG]]
-- [[Monster Park 2 ~Kamigami o Yadoshita Otome~ Final Edition]]
-- [[Monster Park 2 ~Kamigami o Yadoshita Otome~ Final Edition（Trois）]]
-- [[Monster Park 2 ~Kamigami o Yadoshita Otome~ Update Pack]]
-- [[Monster Park 2 ~Kamigami o Yadoshita Otome~]]<!-- AUTO:END release -->
+- [[发行版/Monster Park 2 ~Kamigami o Yadoshita Otome~ Blu-ray Game]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

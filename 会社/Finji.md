@@ -12,8 +12,7 @@ source_urls:
 # Finji
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[I Was a Teenage Exocolonist（Finji・release：）]]（publisher）
-- [[I Was a Teenage Exocolonist（Finji・vndb：r95）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/I Was a Teenage Exocolonist（Finji）]]（publisher）
 - [[I Was a Teenage Exocolonist（Finji）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

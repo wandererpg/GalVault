@@ -1,16 +1,82 @@
 ---
-entity_id: "release:vndb:r95118:work:vndb:work:v13321"
-type: "release"
-display_title: "Watashi no Real wa Juujitsu Shisugiteiru - Fully Voiced Edition"
-release_date: "2022-12-16"
+entity_id: release:vndb:r95118:work:vndb:work:v13321
+type: release
+display_title: Watashi no Real wa Juujitsu Shisugiteiru - Fully Voiced Edition
+release_date: '2022-12-16'
 is_all_ages: true
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r95118"
+  vndb: r95118
 source_urls:
-  vndb: "https://vndb.org/r95118"
+  vndb: https://vndb.org/r95118
+aliases:
+- Watashi no Real wa Juujitsu Shisugiteiru
+- Watashi no Real wa Juujitsu Shisugiteiru - App Edition
+- Watashi no Real wa Juujitsu Shisugiteiru - App Edition（HotchPotch Co., Ltd）
+- Watashi no Real wa Juujitsu Shisugiteiru - Free Download Edition
+- Watashi no Real wa Juujitsu Shisugiteiru - Package Edition
+- Watashi no Real wa Juujitsu Shisugiteiru for Nintendo Switch
+- Wo de Xianshi Shenghuo Tai Guoyu Chongshi
+consolidated_releases:
+- id: r95118
+  title: Watashi no Real wa Juujitsu Shisugiteiru - Fully Voiced Edition
+  url: https://vndb.org/r95118
+  release_date: '2022-12-16'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+- id: r28774
+  title: Watashi no Real wa Juujitsu Shisugiteiru - Free Download Edition
+  url: https://vndb.org/r28774
+  release_date: '2014-01-11'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+- id: r74055
+  title: Watashi no Real wa Juujitsu Shisugiteiru - Package Edition
+  url: https://vndb.org/r74055
+  release_date: '2014-01-28'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+- id: r106109
+  title: Watashi no Real wa Juujitsu Shisugiteiru for Nintendo Switch
+  url: https://vndb.org/r106109
+  release_date: '2024-05-09'
+  platform: swi
+  edition_type: complete
+  is_all_ages: true
+- id: r91500
+  title: Watashi no Real wa Juujitsu Shisugiteiru - App Edition
+  url: https://vndb.org/r91500
+  release_date: '2022-05-20'
+  platform: and
+  edition_type: complete
+  is_all_ages: true
+- id: r91391
+  title: Watashi no Real wa Juujitsu Shisugiteiru - App Edition
+  url: https://vndb.org/r91391
+  release_date: '2022-05-20'
+  platform: ios
+  edition_type: complete
+  is_all_ages: true
+- id: r60190
+  title: Wo de Xianshi Shenghuo Tai Guoyu Chongshi
+  url: https://vndb.org/r60190
+  release_date: '2018-09-08'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+- id: r94495
+  title: Watashi no Real wa Juujitsu Shisugiteiru
+  url: https://vndb.org/r94495
+  release_date: '2014'
+  platform: win
+  edition_type: partial
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Watashi no Real wa Juujitsu Shisugiteiru - Fully Voiced Edition

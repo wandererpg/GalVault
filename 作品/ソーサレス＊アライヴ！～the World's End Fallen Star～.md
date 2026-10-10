@@ -87,15 +87,9 @@ cover_image: "assets/covers/v23288.webp"
 - [[Toono Soyogi]]（遠野 そよぎ）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[DiGination Collection - Sorceress ＊ Alive! ~the World's End Fallen Star~]]
+<!-- AUTO:BEGIN release -->- [[发行版/Sorceress ＊ Alive! ~the World's End Fallen Star~ Download Edition]]
 - [[Sorceress ＊ Alive! ~the World's End Fallen Star~ Download Edition]]
-- [[Sorceress ＊ Alive! ~the World's End Fallen Star~ Package Edition]]
-- [[Sorceress ＊ Alive! ~the World's End Fallen Star~ Trial Edition Vol.1]]
-- [[Sorceress ＊ Alive! ~the World's End Fallen Star~ Trial Edition Vol.2]]
-- [[Sorceress ＊ Alive! ~the World's End Fallen Star~]]
-- [[Sorceress ＊ Alive! ~the World's End Fallen Star~（Moshi Youxi Zhongwenhua Xingqu Xiaozu）]]
-- [[Sorceress ＊ Alive! ~the World's End Fallen Star~（release：）]]
-- [[sorceress-alive!]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -33,9 +33,8 @@ portrait_image: "assets/characters/c133645.webp"
 
 ## 出场作品
 <!-- AUTO:BEGIN character -->- [[Hana Awase Saku - Complete Set]]（side）
-- [[Hana Awase Saku -Himeutsugi-hen- Download Edition]]（side）
-- [[Hana Awase ~Himeutsugi Hen~]]（side）
-- [[Hana Awase： Himeutsugi Hen]]（side）<!-- AUTO:END character -->
+- [[发行版/Hana Awase Saku - Complete Set]]（side）
+<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Yonaga Tsubasa]]（声优：代永 翼）<!-- AUTO:END voice -->

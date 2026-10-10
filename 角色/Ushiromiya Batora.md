@@ -31,7 +31,7 @@ portrait_image: "assets/characters/c196.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Umineko no Naku Koro ni Chiru - Episode 7 - Requiem of the Golden Witch（07th Expansion）]]（appears）
+<!-- AUTO:BEGIN character -->- [[发行版/Umineko no Naku Koro ni Chiru - Episode 8 - Twilight of the Golden Witch]]（appears）
 - [[海猫鸣泣之时]]（protagonist）
 - [[海猫鸣泣之时散]]（primary）<!-- AUTO:END character -->
 

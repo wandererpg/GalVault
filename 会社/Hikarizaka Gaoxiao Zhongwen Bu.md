@@ -12,9 +12,9 @@ source_urls:
 # Hikarizaka Gaoxiao Zhongwen Bu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[CLANNAD FULLVOICE]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/CLANNAD（Hikarizaka Gaoxiao Zhongwen Bu）]]（publisher）
 - [[CLANNAD（Hikarizaka Gaoxiao Zhongwen Bu）]]（publisher）
-- [[Clannad After Story - Complete Translation Patch]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

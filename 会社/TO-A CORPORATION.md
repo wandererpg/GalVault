@@ -12,7 +12,7 @@ source_urls:
 # TO-A CORPORATION
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[NOeSIS -Uso o Tsuita Kioku no Monogatari-]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/NOeSIS -Uso o Tsuita Kioku no Monogatari-（cutlass）]]（publisher）
 - [[NOeSIS -Uso o Tsuita Kioku no Monogatari-（cutlass）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

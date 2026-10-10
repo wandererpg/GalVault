@@ -12,8 +12,8 @@ source_urls:
 # ChaosWORLD
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Chaos;Child（ChaosWORLD）]]（publisher）
-- [[Chaos;Head Noah（ChaosWORLD）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Hundun zhi Zi - Package Edition（MAGES）]]（publisher）
+- [[发行版/Chaos;Head Noah - Regular Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

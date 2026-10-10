@@ -12,11 +12,8 @@ source_urls:
 # Lune Team Bitters
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Soredemo Tsuma o Ai Shiteru - Download Edition]]（developer）
-- [[Soredemo Tsuma o Ai Shiteru - Low Price Edition]]（developer）
-- [[Soredemo Tsuma o Ai Shiteru - Okaeshi Disc]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Soredemo Tsuma o Ai Shiteru 2 - Gouka Premium Pack]]（developer）
 - [[Soredemo Tsuma o Ai Shiteru 2 - Gouka Premium Pack]]（developer）
-- [[Soredemo Tsuma o Ai Shiteru（Lune Team Bitters）]]（developer）
 - [[それでも妻を愛してる]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

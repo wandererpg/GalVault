@@ -12,27 +12,10 @@ source_urls:
 # NekoNeko Soft
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Christmas Tina - Japanese Edition]]（publisher）
-- [[Christmas Tina -Utakata Toukei-（mirai works・vndb：r81）]]（publisher）
-- [[NekoNeko 20th anniversary box]]（publisher）
-- [[NekoNeko 20th anniversary box（NekoNeko Soft）]]（publisher）
-- [[NekoNeko Complete Box - Download Edition]]（developer）
-- [[NekoNeko Complete Box - Download Edition]]（publisher）
-- [[NekoNeko Complete Box]]（developer）
-- [[NekoNeko Complete Box]]（publisher）
-- [[Nekoneko Premium Box 3 - Price Revised Edition]]（publisher）
-- [[Nekoneko Premium Box 3]]（publisher）
-- [[Scarlett - Download Edition]]（developer）
-- [[Scarlett - Download Edition]]（publisher）
-- [[Scarlett - First Press Edition]]（developer）
-- [[Scarlett - First Press Edition]]（publisher）
-- [[Scarlett - Regular Edition]]（developer）
-- [[Scarlett - Regular Edition]]（publisher）
-- [[Scarlett - Simple Trial Edition 2]]（developer）
-- [[Scarlett - Simple Trial Edition 2]]（publisher）
-- [[Scarlett - Simple Trial Edition]]（developer）
-- [[Scarlett - Simple Trial Edition]]（publisher）
-- [[Scarlett ~Nichijou no Kyoukaisen~ Deluxe Pack]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Paomo Dong Jing： Heping Moshi Lu]]（publisher）
+- [[发行版/Scarlett ~Nichijou no Kyoukaisen~ Regular Edition]]（publisher）
+- [[发行版/Owaru Sekai to Birthday - Download Edition（Cotton Soft）]]（publisher）
+- [[发行版/Scarlett ~Nichijou no Kyoukaisen~ Regular Edition]]（developer）
 - [[Scarlett ~Nichijou no Kyoukaisen~ Regular Edition]]（publisher）
 - [[Scarlett～スカーレット～]]（developer）<!-- AUTO:END duty -->
 

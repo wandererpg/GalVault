@@ -13,7 +13,7 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Lunwuqu Duo]]（publisher）
-- [[Monobeno -Happy End- Trial Edition（Jingyue Lingyin Hanhuazu）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Monobeno -Pure Smile- Regular Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

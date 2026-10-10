@@ -12,11 +12,11 @@ source_urls:
 # hayirsever
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Fate／hollow ataraxia REMASTERED（release：）]]（publisher）
-- [[Fate／stay night REMASTERED（vndb：r14）]]（publisher）
-- [[Higurashi When They Cry Hou Ch.2 Watanagashi]]（publisher）
-- [[Nukitashi 2（release：）]]（publisher）
-- [[Witch On The Holy Night]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Fate／Hollow Ataraxia - Voice Patch]]（publisher）
+- [[发行版/Fate／Stay Night ［Realta Nua］ - Ultimate Edition]]（publisher）
+- [[发行版/Himatsubushi Hen（07th Expansion）]]（publisher）
+- [[发行版/Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka？ 1 + 2 Remaster Pack - Download Edition（Qruppo）]]（publisher）
+- [[发行版/Mahoutsukai no Yoru]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

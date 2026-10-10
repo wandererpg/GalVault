@@ -12,9 +12,7 @@ source_urls:
 # Seikei Production
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Meishaonv Wanhuajing -Li yu Migong de Shaonv- Steam Edition]]（publisher）
-- [[Meishaonv Wanhuajing -Li yu Migong de Shaonv-]]（publisher）
-- [[Meishaonü Wanhuajing -Li yu Migong de Shaonü- Steam Edition 18+ Patch]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Meishaonv Wanhuajing -Tiandao yu Migong de Shaonv-]]（publisher）
 - [[Yinghua, Mengfang. -as the Night's, Reincarnation-（Syawase Works）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

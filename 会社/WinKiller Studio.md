@@ -12,11 +12,9 @@ source_urls:
 # WinKiller Studio
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ever17 ~ PS2 BGM patch]]（publisher）
-- [[Ever17 ~ Voice +SFX patch]]（publisher）
-- [[Ever17 ~Pobeg iz Beskonechnosti~ Specvypusk]]（publisher）
-- [[Planetarian ~Malen'kij zvjozdnyj mechtatel'~]]（publisher）
-- [[Saya no Uta - PONScripter Edition]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Ever17 -The Out of Infinity- Download Edition（MAGES）]]（publisher）
+- [[发行版/Planetarian ~The Reverie of a Little Planet~（release：）]]（publisher）
+- [[发行版/Saya no Uta ~ The Song of Saya - Upgrade Patch]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

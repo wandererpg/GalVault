@@ -11,9 +11,9 @@ source_urls:
 # HIKE KOREA
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Chingsongbanneun Ja： Du Myeongui Baekwang]]（publisher）
-- [[Chingsongbanneun Ja： Geojisui Gamyeon]]（publisher）
-- [[Chingsongbanneun Ja： Heuteojyeoganeun Jadeureul Wihan Jajangga]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Chingsongbadneun Ja： Du Myeong-ui Baeghwang - Limited Edition]]（publisher）
+- [[发行版/Chingsongbadneun Ja： Geojis-ui Gamyeon - Limited Edition]]（publisher）
+- [[发行版/Utawarerumono： Chiriyuku Mono e no Komoriuta（Leaf）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

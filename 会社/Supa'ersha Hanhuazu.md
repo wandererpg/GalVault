@@ -11,10 +11,9 @@ source_urls:
 # Supa'ersha Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Haimao Mingqi zhi Shi - Portable 1]]（publisher）
-- [[Haimao Mingqi zhi Shi - Portable 2]]（publisher）
-- [[Shaonü Aishang Jiejie 2 Portable]]（publisher）
-- [[Shaonü Aishang Jiejie 2]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Umineko no Naku Koro ni - Episode 4 - Alliance of the Golden Witch]]（publisher）
+- [[发行版/Otome wa Boku ni Koishiteru ~Futari no Elder~ Portable]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

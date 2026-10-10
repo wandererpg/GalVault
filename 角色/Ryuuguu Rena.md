@@ -33,7 +33,7 @@ portrait_image: "assets/characters/c3787.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Tsumihoroboshi Hen（07th Expansion）]]（protagonist）
+<!-- AUTO:BEGIN character -->- [[发行版/Matsuribayashi Hen（07th Expansion）]]（protagonist）
 - [[ひぐらしのなく頃に： Console Arcs]]（primary）
 - [[寒蝉鸣泣之时 出题篇]]（primary）
 - [[寒蝉鸣泣之时解]]（primary）<!-- AUTO:END character -->

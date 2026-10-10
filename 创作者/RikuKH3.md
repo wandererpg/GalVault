@@ -12,15 +12,12 @@ source_urls:
 # RikuKH3
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[AI： The Somnium Files（k：v26532）]]（publisher）
-- [[AI： The Somnium Files（vndb：r77）]]（publisher）
-- [[Clannad（vndb：r86）]]（publisher）
-- [[Ekstremal'nyj Pobeg： 9 Chasov, 9 Chelovek, 9 Dverej（release：）]]（publisher）
-- [[Ekstremal'nyj pobeg： 9 chasov, 9 chelovek, 9 dverej]]（publisher）
-- [[Perezapis'（Entuziasty Team）]]（publisher）
-- [[Steins;Gate 0（k：v17102）]]（publisher）
-- [[Steins;Gate 0（vndb：r49）]]（publisher）
-- [[Vys'（Entuziasty Team・vndb：r55）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/AI： The Somnium Files - EU Special Agent Edition（Numskull Games Ltd）]]（publisher）
+- [[发行版/CLANNAD（Hikarizaka Gaoxiao Zhongwen Bu）]]（publisher）
+- [[发行版/Kyokugen Dasshutsu 9-Jikan 9-Nin 9 no Tobira - Chun Selection]]（publisher）
+- [[发行版/Rewrite - Download Edition（Key）]]（publisher）
+- [[发行版/Steins;Gate 0 - Limited Deluxe Package Edition]]（publisher）
+- [[发行版/AIR（Key）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

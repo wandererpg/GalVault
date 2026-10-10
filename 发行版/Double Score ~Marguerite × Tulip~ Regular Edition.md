@@ -1,16 +1,74 @@
 ---
-entity_id: "release:vndb:r21564:work:vndb:work:v10632"
-type: "release"
-display_title: "Double Score ~Marguerite × Tulip~ Regular Edition"
-release_date: "2014-08-29"
+entity_id: release:vndb:r21564:work:vndb:work:v10632
+type: release
+display_title: Double Score ~Marguerite × Tulip~ Regular Edition
+release_date: '2014-08-29'
 is_all_ages: true
-platform: "win"
-edition_type: "partial"
-title_status: "needs_review"
+platform: win
+edition_type: partial
+title_status: needs_review
 source_ids:
-  vndb: "r21564"
+  vndb: r21564
 source_urls:
-  vndb: "https://vndb.org/r21564"
+  vndb: https://vndb.org/r21564
+aliases:
+- Double Score ~Cattleya × Narcissus~ Limited Edition
+- Double Score ~Cattleya × Narcissus~ Regular Edition
+- Double Score ~Cosmos × Camellia~
+- Double Score ~Cosmos × Camellia~ Limited Edition
+- Double Score ~Cosmos × Camellia~ Regular Edition
+- Double Score ~Marguerite × Tulip~ Limited Edition
+consolidated_releases:
+- id: r21564
+  title: Double Score ~Marguerite × Tulip~ Regular Edition
+  url: https://vndb.org/r21564
+  release_date: '2014-08-29'
+  platform: win
+  edition_type: partial
+  is_all_ages: true
+- id: r21563
+  title: Double Score ~Cattleya × Narcissus~ Regular Edition
+  url: https://vndb.org/r21563
+  release_date: '2013-08-30'
+  platform: win
+  edition_type: partial
+  is_all_ages: true
+- id: r21562
+  title: Double Score ~Cosmos × Camellia~ Regular Edition
+  url: https://vndb.org/r21562
+  release_date: '2013-02-22'
+  platform: win
+  edition_type: partial
+  is_all_ages: true
+- id: r34792
+  title: Double Score ~Cattleya × Narcissus~ Limited Edition
+  url: https://vndb.org/r34792
+  release_date: '2013-08-30'
+  platform: win
+  edition_type: partial
+  is_all_ages: true
+- id: r34793
+  title: Double Score ~Marguerite × Tulip~ Limited Edition
+  url: https://vndb.org/r34793
+  release_date: '2014-08-29'
+  platform: win
+  edition_type: partial
+  is_all_ages: true
+- id: r34791
+  title: Double Score ~Cosmos × Camellia~ Limited Edition
+  url: https://vndb.org/r34791
+  release_date: '2013-02-22'
+  platform: win
+  edition_type: partial
+  is_all_ages: true
+- id: r54066
+  title: Double Score ~Cosmos × Camellia~
+  url: https://vndb.org/r54066
+  release_date: '2020-01-27'
+  platform: win
+  edition_type: partial
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Double Score ~Marguerite × Tulip~ Regular Edition

@@ -14,8 +14,8 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Akuma Shitsuji to Kuroi Neko]]（developer）
 - [[Akuma Shitsuji to Kuroi Neko]]（publisher）
-- [[Emo Zhishi yu Heimao]]（developer）
-- [[Emo Zhishi yu Heimao]]（publisher）
+- [[发行版/Akuma Shitsuji to Kuroi Neko]]（developer）
+- [[发行版/Akuma Shitsuji to Kuroi Neko]]（publisher）
 - [[恶魔执事与黑猫]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

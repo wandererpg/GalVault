@@ -1,16 +1,81 @@
 ---
-entity_id: "release:vndb:r25601:work:vndb:work:v12126"
-type: "release"
-display_title: "Shirahana no Ori ~Hiiro no Kakera 4~ Shiki no Uta - Regular Edition"
-release_date: "2013-09-05"
+entity_id: release:vndb:r25601:work:vndb:work:v12126
+type: release
+display_title: Shirahana no Ori ~Hiiro no Kakera 4~ Shiki no Uta - Regular Edition
+release_date: '2013-09-05'
 is_all_ages: true
-platform: "psp"
-edition_type: "complete"
-title_status: "needs_review"
+platform: psp
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r25601"
+  vndb: r25601
 source_urls:
-  vndb: "https://vndb.org/r25601"
+  vndb: https://vndb.org/r25601
+aliases:
+- Baihua zhi Kan Feise de Suipian 4 ～Siji zhi Shi～
+- Oskolki sud'by： Sezony ljubvi
+- Oskolki sud'by： Sezony ljubvi - Demo
+- Scarlet Fate 2： Seasons of Love
+- Shall we Date？： Scarlet Fate II ~Seasons of Love~
+- Shirahana no Ori ~Hiiro no Kakera 4~ Shiki no Uta - Limited Edition
+- Shirahana no Ori ~Hiiro no Kakera 4~ Shiki no Uta - Twin Pack（Design Factory Co., Ltd）
+consolidated_releases:
+- id: r25601
+  title: Shirahana no Ori ~Hiiro no Kakera 4~ Shiki no Uta - Regular Edition
+  url: https://vndb.org/r25601
+  release_date: '2013-09-05'
+  platform: psp
+  edition_type: complete
+  is_all_ages: true
+- id: r27845
+  title: Shirahana no Ori ~Hiiro no Kakera 4~ Shiki no Uta - Limited Edition
+  url: https://vndb.org/r27845
+  release_date: '2013-09-05'
+  platform: psp
+  edition_type: complete
+  is_all_ages: true
+- id: r27847
+  title: Shirahana no Ori ~Hiiro no Kakera 4~ Shiki no Uta - Twin Pack
+  url: https://vndb.org/r27847
+  release_date: '2013-09-05'
+  platform: psp
+  edition_type: complete
+  is_all_ages: true
+- id: r44041
+  title: 'Shall we Date?: Scarlet Fate II ~Seasons of Love~'
+  url: https://vndb.org/r44041
+  release_date: '2015-11-25'
+  platform: ios, and
+  edition_type: complete
+  is_all_ages: true
+- id: r156066
+  title: Baihua zhi Kan Feise de Suipian 4 ～Siji zhi Shi～
+  url: https://vndb.org/r156066
+  release_date: '2026-05-03'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+- id: r72361
+  title: 'Scarlet Fate 2: Seasons of Love'
+  url: https://vndb.org/r72361
+  release_date: '2020-06-07'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+- id: r139700
+  title: 'Oskolki sud''by: Sezony ljubvi'
+  url: https://vndb.org/r139700
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+- id: r127232
+  title: 'Oskolki sud''by: Sezony ljubvi - Demo'
+  url: https://vndb.org/r127232
+  release_date: '2025-07-12'
+  platform: win
+  edition_type: trial
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Shirahana no Ori ~Hiiro no Kakera 4~ Shiki no Uta - Regular Edition

@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r131747:work:vndb:work:v44239"
-type: "release"
-display_title: "Youmuin:The Nightmaretaker ~Akuma ni Tsukareta Otoko~"
-release_date: "2023-05-01"
+entity_id: release:vndb:r131747:work:vndb:work:v44239
+type: release
+display_title: Youmuin:The Nightmaretaker ~Akuma ni Tsukareta Otoko~
+release_date: '2023-05-01'
 is_all_ages: false
-platform: "win, and"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win, and
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r131747"
+  vndb: r131747
 source_urls:
-  vndb: "https://vndb.org/r131747"
+  vndb: https://vndb.org/r131747
+aliases:
+- The Nightmaretaker： The Man Possessed by the Devil
+- Youmuin：The Nightmaretaker ~Akuma ni Tsukareta Otoko~
+consolidated_releases:
+- id: r131747
+  title: Youmuin:The Nightmaretaker ~Akuma ni Tsukareta Otoko~
+  url: https://vndb.org/r131747
+  release_date: '2023-05-01'
+  platform: win, and
+  edition_type: complete
+  is_all_ages: false
+- id: r106719
+  title: Youmuin:The Nightmaretaker ~Akuma ni Tsukareta Otoko~
+  url: https://vndb.org/r106719
+  release_date: '2023-05-01'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r120957
+  title: 'The Nightmaretaker: The Man Possessed by the Devil'
+  url: https://vndb.org/r120957
+  release_date: '2024-03-22'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Youmuin:The Nightmaretaker ~Akuma ni Tsukareta Otoko~

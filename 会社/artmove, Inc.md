@@ -12,7 +12,7 @@ source_urls:
 # artmove, Inc
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Alice in the Heart]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Heart no Kuni no Alice ~Wonderful Wonder World~（PROTOTYPE）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

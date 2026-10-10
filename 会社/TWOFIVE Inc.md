@@ -12,8 +12,8 @@ source_urls:
 # TWOFIVE Inc.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Gakuen Tokkyuu Hotokenser - Limited Edition]]（developer）
-- [[Gakuen Tokkyuu Hotokenser - Limited Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Gakuen Tokkyuu Hotokenser - Regular Edition]]（developer）
+- [[发行版/Gakuen Tokkyuu Hotokenser - Regular Edition]]（publisher）
 - [[Gakuen Tokkyuu Hotokenser - Regular Edition]]（developer）
 - [[Gakuen Tokkyuu Hotokenser - Regular Edition]]（publisher）
 - [[学園特救ホトケンサー]]（developer）<!-- AUTO:END duty -->

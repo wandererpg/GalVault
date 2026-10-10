@@ -80,24 +80,9 @@ cover_image: "assets/covers/v15395.webp"
 - [[Suzaki Aya]]（洲崎 綾）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[FLOWERS - Le volume sur été -]]
-- [[FLOWERS -Le volume sur été-（release：）]]
-- [[FLOWERS -Yeoreum Pyeon-]]
-- [[Flowers - Shiki - Download Edition]]
-- [[Flowers - Shiki - Download Edition（PROTOTYPE・vndb：r65）]]
-- [[Flowers - Shiki - Package Edition]]
-- [[Flowers - Shiki - Package Edition（PROTOTYPE・vndb：r65）]]
-- [[Flowers -Le Volume sur Été- Download Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Flowers -Le Volume sur Été- Download Edition（PROTOTYPE）]]
 - [[Flowers -Le Volume sur Été- Download Edition（PROTOTYPE）]]
-- [[Flowers -Le Volume sur Été- First Press Limited Edition]]
-- [[Flowers -Le Volume sur Été- Package Edition]]
-- [[Flowers -Le Volume sur Été- Regular Edition]]
-- [[Flowers -Le Volume sur Été-]]
-- [[Flowers -Le volume sur été- Download Edition（JAST USA・release：）]]
-- [[Flowers -Le volume sur été- Download Edition（JAST USA）]]
-- [[Flowers -Le volume sur été- Limited Edition]]
-- [[Flowers -Xia Pian-]]
-- [[Flowers Xia]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

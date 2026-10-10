@@ -31,7 +31,7 @@ portrait_image: "assets/characters/c26253.webp"
 
 ## 出场作品
 <!-- AUTO:BEGIN character -->- [[Tokimeki Memorial Girl's Side Premium ~3rd Story~ First Press Limited Edition]]（primary）
-- [[Tokimeki Memorial Girl's Side Premium ~3rd Story~]]（primary）<!-- AUTO:END character -->
+- [[发行版/Tokimeki Memorial Girl's Side Premium ~3rd Story~ First Press Limited Edition]]（primary）<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Matsuno Taiki]]（声优：松野 太紀）<!-- AUTO:END voice -->

@@ -1,16 +1,74 @@
 ---
-entity_id: "release:vndb:r89425:work:vndb:work:v34968"
-type: "release"
-display_title: "Such a Sharp Pain [v0.11.7R]"
-release_date: "2025-04-09"
+entity_id: release:vndb:r89425:work:vndb:work:v34968
+type: release
+display_title: Such a Sharp Pain [v0.11.7R]
+release_date: '2025-04-09'
 is_all_ages: false
-platform: "win, lin, mac"
-edition_type: "partial"
-title_status: "needs_review"
+platform: win, lin, mac
+edition_type: partial
+title_status: needs_review
 source_ids:
-  vndb: "r89425"
+  vndb: r89425
 source_urls:
-  vndb: "https://vndb.org/r89425"
+  vndb: https://vndb.org/r89425
+aliases:
+- Such a Sharp Pain v0.1.18R
+- Such a Sharp Pain v0.1.18R（release：）
+- Such a Sharp Pain v0.1.18R（vndb：r91）
+- Such a Sharp Pain v0.11.7R
+- Such a Sharp Pain v0.4.14R
+- Takaja ostraja bol' v0.11.7R
+consolidated_releases:
+- id: r89425
+  title: Such a Sharp Pain [v0.11.7R]
+  url: https://vndb.org/r89425
+  release_date: '2025-04-09'
+  platform: win, lin, mac
+  edition_type: partial
+  is_all_ages: false
+- id: r106838
+  title: Such a Sharp Pain v0.11.7R
+  url: https://vndb.org/r106838
+  release_date: '2025-04-28'
+  platform: win, lin, and
+  edition_type: partial
+  is_all_ages: false
+- id: r112723
+  title: Takaja ostraja bol' v0.11.7R
+  url: https://vndb.org/r112723
+  release_date: '2025-04-11'
+  platform: win
+  edition_type: partial
+  is_all_ages: false
+- id: r91336
+  title: Such a Sharp Pain v0.4.14R
+  url: https://vndb.org/r91336
+  release_date: '2022-10-11'
+  platform: win, lin, mac
+  edition_type: partial
+  is_all_ages: false
+- id: r91338
+  title: Such a Sharp Pain v0.1.18R
+  url: https://vndb.org/r91338
+  release_date: '2022-04-18'
+  platform: win, mac
+  edition_type: partial
+  is_all_ages: false
+- id: r91335
+  title: Such a Sharp Pain v0.1.18R
+  url: https://vndb.org/r91335
+  release_date: '2022-04-12'
+  platform: win, mac
+  edition_type: partial
+  is_all_ages: false
+- id: r91337
+  title: Such a Sharp Pain v0.1.18R
+  url: https://vndb.org/r91337
+  release_date: '2022-04-13'
+  platform: and
+  edition_type: partial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Such a Sharp Pain [v0.11.7R]

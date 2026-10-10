@@ -12,13 +12,13 @@ source_urls:
 # Fujimi Shuppan
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[BugBug 2017 11： 25th Anniversary Tokubetsu Furoku Append H Furoku DVD Part.1]]（publisher）
-- [[BugBug 2018 01 25 Years Anniversary DVD Append H Disk Part 3]]（publisher）
-- [[BugBug 300-gou Kinen Ninki Bishoge Append H Disk Shuu Dai 1-dan]]（publisher）
-- [[BugBug 300-gou Kinen Ninki Bishoge Append H Disk Shuu Dai 1-dan（Fujimi Shuppan）]]（publisher）
-- [[BugBug June 2015 Issue - 250 Anniversary DVD Append H Disk Part 1]]（publisher）
-- [[BugBug June 2015 Issue - 250 Anniversary DVD Append H Disk Part 1（Fujimi Shuppan・release：）]]（publisher）
-- [[BugBug June 2015 Issue - 250 Anniversary DVD Append H Disk Part 1（Fujimi Shuppan）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Shin Koihime † Musou -Kakumei- Souten no Haou - Package Edition - DVD-ROM Edition]]（publisher）
+- [[发行版/Niizuma Lovely x Cation - First Press Limited Edition]]（publisher）
+- [[发行版/VenusBlood：Lagoon - Download Edition]]（publisher）
+- [[发行版/Custom Order Maid 3D 2 It's a Night Magic - Steam Edition]]（publisher）
+- [[发行版/Monobeno -Pure Smile- Regular Edition]]（publisher）
+- [[发行版/Shin Koihime † Eiyuutan 123 +PLUS ~Otome Enran ☆ Sangokushi Engi~]]（publisher）
+- [[发行版/Silverio Vendetta -Verse of Orpheus-（light）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

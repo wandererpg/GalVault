@@ -12,8 +12,8 @@ source_urls:
 # Sukora Magazine
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[BugBug 300 Anniversary DVD Append H Disk Shuu Part 2]]（publisher）
-- [[BugBug 300 Anniversary DVD Append H Disk Shuu Part 2（Sukora Magazine）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Shin Koihime † Musou -Kakumei- Ryuuki no Taimou - DVDPG Renewal Package Version]]（publisher）
+- [[发行版/Kin'iro Loveriche + Kin'iro Loveriche -Golden Time- Golden Pack（SAGA PLANETS）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

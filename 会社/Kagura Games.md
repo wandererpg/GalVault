@@ -11,34 +11,22 @@ source_urls:
 # Kagura Games
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Afternoon Affairs & Helpless Housewives]]（publisher）
-- [[Amaenbo - 18+ Patch]]（publisher）
-- [[Amaenbo - Censored Steam Edition]]（publisher）
-- [[Amaenbo Fuyu - 18+ Patch]]（publisher）
-- [[Amaenbo Fuyu - Censored Edition]]（publisher）
-- [[Amaenbo+ - 18+ Patch]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Hirusagari no Boro Apart to Hitozuma-tachi ~Heisa Kuukan de Kurui Ochiteiku~ + Bonus CG Collection]]（publisher）
+- [[发行版/Amaenbo+ - Expansion DLC - Censored Steam Edition]]（publisher）
+- [[发行版/Amaenbo Fuyu - Download Edition]]（publisher）
 - [[Amaenbo+ - Expansion DLC - Censored Steam Edition]]（publisher）
-- [[Hirusagari no Boro Apart to Hitozuma-tachi ~Heisa Kuukan de Kurui Ochiteiku~ - 18+ Patch]]（publisher）
-- [[Hirusagari no Boro Apart to Hitozuma-tachi ~Heisa Kuukan de Kurui Ochiteiku~ Censored Edition]]（publisher）
-- [[Rance 03 - Leazas Kanraku Censored Edition]]（publisher）
-- [[Rance IX - Helman Kakumei - Censored Edition]]（publisher）
+- [[发行版/Rance 03 -The Fall of Leazas- Limited Edition]]（publisher）
+- [[发行版/Rance IX - Helman Kakumei -]]（publisher）
 - [[Rance IX - Helman Kakumei -]]（publisher）
-- [[Rance Quest Magnum - Censored Edition]]（publisher）
-- [[Rance VI - Collapse of Zeth]]（publisher）
-- [[Rance X - Showdown]]（publisher）
-- [[Saya no Uta ~ The Song of Saya - DLC ［Steam］（JAST USA）]]（publisher）
-- [[Saya no Uta ~ The Song of Saya - Steam Edition]]（publisher）
+- [[发行版/Rance Quest Magnum - Package Edition]]（publisher）
+- [[发行版/Lansi 6]]（publisher）
+- [[发行版/Rance 10 - Package Edition]]（publisher）
+- [[发行版/Saya no Uta ~ The Song of Saya - Upgrade Patch]]（publisher）
 - [[Saya no Uta ~ The Song of Saya - Upgrade Patch]]（publisher）
-- [[Sengoku Rance（MangaGamer）]]（publisher）
-- [[Summer Memories - 18+ Patch]]（publisher）
-- [[Summer Memories - Censored Deluxe Edition]]（publisher）
-- [[Summer Memories Deluxe Edition - 18+ Patch]]（publisher）
-- [[Summer Memories+ - Expansion DLC]]（publisher）
-- [[Summer Memories+ – Expansion DLC - 18+ Patch]]（publisher）
-- [[Summer Memories]]（publisher）
-- [[VenusBlood HOLLOW International - R18 Patch for DL Edition（Kagura Games）]]（publisher）
+- [[发行版/Dai Sengoku Rance（vndb：r12）]]（publisher）
+- [[发行版/VenusBlood HOLLOW International - Steam Edition]]（publisher）
 - [[VenusBlood HOLLOW International - Steam Edition]]（publisher）
-- [[Winter Memories（Kagura Games）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

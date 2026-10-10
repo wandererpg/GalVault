@@ -1,16 +1,58 @@
 ---
-entity_id: "release:vndb:r49699:work:vndb:work:v20498"
-type: "release"
-display_title: "Mono no Aware wa Sai no Koro. - First Press Limited Edition"
-release_date: "2017-09-29"
+entity_id: release:vndb:r49699:work:vndb:work:v20498
+type: release
+display_title: Mono no Aware wa Sai no Koro. - First Press Limited Edition
+release_date: '2017-09-29'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r49699"
+  vndb: r49699
 source_urls:
-  vndb: "https://vndb.org/r49699"
+  vndb: https://vndb.org/r49699
+aliases:
+- Mono no Aware wa Sai no Koro. - Download Edition
+- Mono no Aware wa Sai no Koro. - Kohaku's Route
+- Mono no Aware wa Sai no Koro. - Popular Edition
+- Mono no Aware wa Sai no Koro. - Web Trial Edition
+consolidated_releases:
+- id: r49699
+  title: Mono no Aware wa Sai no Koro. - First Press Limited Edition
+  url: https://vndb.org/r49699
+  release_date: '2017-09-29'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r56358
+  title: Mono no Aware wa Sai no Koro. - Download Edition
+  url: https://vndb.org/r56358
+  release_date: '2017-09-29'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r75602
+  title: Mono no Aware wa Sai no Koro. - Popular Edition
+  url: https://vndb.org/r75602
+  release_date: '2020-11-27'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r53385
+  title: Mono no Aware wa Sai no Koro. - Web Trial Edition
+  url: https://vndb.org/r53385
+  release_date: '2017-06-16'
+  platform: win
+  edition_type: trial
+  is_all_ages: false
+- id: r63983
+  title: Mono no Aware wa Sai no Koro. - Kohaku's Route
+  url: https://vndb.org/r63983
+  release_date: '2022-08-21'
+  platform: win
+  edition_type: partial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Mono no Aware wa Sai no Koro. - First Press Limited Edition

@@ -14,15 +14,8 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Shingakkou -Noli me tangere- First Press Limited Edition]]（developer）
 - [[Shingakkou -Noli me tangere- First Press Limited Edition]]（publisher）
-- [[Shingakkou -Noli me tangere- No Voice Download Edition]]（publisher）
-- [[Shingakkou -Noli me tangere- Regular Edition]]（developer）
-- [[Shingakkou -Noli me tangere- Regular Edition]]（publisher）
-- [[Shingakkou -Noli me tangere- Trial Edition]]（developer）
-- [[Shingakkou -Noli me tangere- Trial Edition]]（publisher）
-- [[Shingakkou Twin Pack popular edition]]（developer）
-- [[Shingakkou Twin Pack popular edition]]（publisher）
-- [[Shingakkou Twin Pack]]（developer）
-- [[Shingakkou Twin Pack]]（publisher）
+- [[发行版/Shingakkou -Noli me tangere- First Press Limited Edition]]（publisher）
+- [[发行版/Shingakkou -Noli me tangere- First Press Limited Edition]]（developer）
 - [[神学校-Noli me tangere-]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

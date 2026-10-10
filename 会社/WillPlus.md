@@ -12,9 +12,8 @@ source_urls:
 # WillPlus
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Bloody Call - First Press Edition（WillPlus）]]（publisher）
-- [[Kono Oozora ni, Tsubasa o Hirogete Limited Edition]]（publisher）
-- [[Kono Oozora ni, Tsubasa o Hirogete Limited Edition（WillPlus）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/unENDing Bloody Call - Limited Edition]]（publisher）
+- [[发行版/Kono Oozora ni, Tsubasa o Hirogete Cruise Sign - Regular Edition（MAGES）]]（publisher）
 - [[unENDing Bloody Call - Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

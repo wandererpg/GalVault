@@ -13,28 +13,21 @@ source_urls:
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Arterii Istoka]]（publisher）
-- [[Arterii Istoka（Visual Novel Reader's）]]（publisher）
-- [[Baldr Heart]]（publisher）
-- [[Fuukan no Grasesta - Interface Patch（Visual Novel Reader's）]]（publisher）
-- [[Ikusa Megami Verita - Interface Patch]]（publisher）
-- [[Ikusa Megami Verita]]（publisher）
-- [[Ikusa Megami Zero - Interface Patch]]（publisher）
-- [[Ikusa Megami Zero（release：）]]（publisher）
-- [[Misticheskie kukly v1.5.2]]（publisher）
-- [[Nebesnyj Pravitel' Kreposti]]（publisher）
-- [[Plen Gracesty v1.2]]（publisher）
-- [[Plen Gracesty]]（publisher）
-- [[Re;Lord Dai San Shou ~Grossen no Maou to Saigo no Majo~ - Interface Patch]]（publisher）
-- [[Re;Lord Dai San Shou ~Grossen no Maou to Saigo no Majo~]]（publisher）
-- [[Sengoku † Koihime X ~Otome Kenran ☆ Sengoku Emaki~]]（publisher）
-- [[Shin Koihime † Eiyuutan 2 ~Otome Enran ☆ Sangokushi Engi ［Gi］~]]（publisher）
-- [[Shin Koihime † Musou -Kakumei- Ryuuki no Taimou  - Interface Patch]]（publisher）
-- [[Shin Koihime † Musou -Kakumei- Ryuuki no Taimou]]（publisher）
-- [[Shin Koihime † Musou -Kakumei- Son Go no Ketsumyaku - Interface Patch]]（publisher）
-- [[Shin Koihime † Musou -Kakumei- Son Go no Ketsumyaku]]（publisher）
-- [[Shin Koihime † Musou -Kakumei- Souten no Haou]]（publisher）
-- [[Tsuyokiss Festival（release：）]]（publisher）
-- [[Tsuyokiss NEXT（release：）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Arterii Istoka]]（publisher）
+- [[发行版/Baldr Heart EXE - First Press Limited Edition]]（publisher）
+- [[发行版/Fuukan no Grasesta Densetsu ni Utawareshi Eiketsu Kakuchou Pack - Download Edition]]（publisher）
+- [[发行版/Ikusa Megami Verita Complete Guidebook Privilege Appendix Disc]]（publisher）
+- [[发行版/Ikusa Megami Zero（nekoHen）]]（publisher）
+- [[发行版/Modao Qiaoke（ZODGAME Hanhuazu）]]（publisher）
+- [[发行版/Amayui Castle Meister - Guarakuuna Jousai Expansion Disc - Package Edition]]（publisher）
+- [[发行版/Re;Lord Dai San Shou ~Grossen no Maou to Saigo no Majo~ Download Edition]]（publisher）
+- [[发行版/Sengoku † Koihime X ~Otome Kenran ☆ Sengoku Emaki~（BaseSon）]]（publisher）
+- [[发行版/Shin Koihime † Eiyuutan 123 +PLUS ~Otome Enran ☆ Sangokushi Engi~]]（publisher）
+- [[发行版/Shin Koihime † Musou -Kakumei- Ryuuki no Taimou - DVDPG Renewal Package Version]]（publisher）
+- [[发行版/Shin Koihime † Musou -Kakumei- Son Go no Ketsumyaku - Package Edition - DVD-ROM Edition]]（publisher）
+- [[发行版/Shin Koihime † Musou -Kakumei- Souten no Haou - Package Edition - DVD-ROM Edition]]（publisher）
+- [[发行版/Tsuyokiss Next Generation ~Next + Festival~ First Press Edition（CandySoft）]]（publisher）
+- [[发行版/Tsuyokiss Next Generation ~Next + Festival~ First Press Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

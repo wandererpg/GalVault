@@ -30,8 +30,8 @@ portrait_image: "assets/characters/c27348.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Double Score ~Cattleya × Narcissus~ Regular Edition]]（primary）
-- [[Double Score ~Cosmos × Camellia~ Regular Edition]]（side）<!-- AUTO:END character -->
+<!-- AUTO:BEGIN character -->- [[发行版/Double Score ~Marguerite × Tulip~ Regular Edition]]（primary）
+- [[发行版/Double Score ~Marguerite × Tulip~ Regular Edition]]（side）<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Hirai Tatsuya]]（声优：平川 大輔）<!-- AUTO:END voice -->

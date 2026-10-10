@@ -30,9 +30,9 @@ portrait_image: "assets/characters/c55175.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Package Edition]]（side）
+<!-- AUTO:BEGIN character -->- [[发行版/Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Package Edition（Unison Shift： Blossom・release：）]]（side）
 - [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Package Edition（Unison Shift： Blossom・release：）]]（side）
-- [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Package Edition（Unison Shift： Blossom・vndb：r76）]]（side）
+- [[发行版/Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Package Edition（Unison Shift： Blossom）]]（side）
 - [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Package Edition（Unison Shift： Blossom）]]（side）<!-- AUTO:END character -->
 
 ## 声优

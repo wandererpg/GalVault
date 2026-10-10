@@ -11,11 +11,11 @@ source_urls:
 # Eiserne Jungfrau
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Higurashi no Naku Koro ni - Console Arcs Patch（Eiserne Jungfrau）]]（publisher）
-- [[Umineko When They Cry： The Symphony of Catbox and Dreams（Eiserne Jungfrau・release：）]]（publisher）
-- [[Umineko When They Cry： The Symphony of Catbox and Dreams（Eiserne Jungfrau・vndb：r85）]]（publisher）
-- [[Umineko When They Cry： The Symphony of Catbox and Dreams（Eiserne Jungfrau）]]（publisher）
-- [[Umineko no Naku Koro ni Saku（Eiserne Jungfrau）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Higurashi no Naku Koro ni Hou + Umineko no Naku Koro ni Saku - Twin Pack（ENTERGRAM・vndb：r11）]]（publisher）
+- [[发行版/Umineko no Naku Koro ni Saku ~Nekobako to Musou no Koukyoukyoku~ Limited Edition（ENTERGRAM）]]（publisher）
+- [[发行版/Umineko no Naku Koro ni - Episode 4 - Alliance of the Golden Witch]]（publisher）
+- [[发行版/Umineko no Naku Koro ni Chiru - Episode 8 - Twilight of the Golden Witch]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

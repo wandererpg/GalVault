@@ -37,10 +37,9 @@ cover_image: "assets/covers/v5055.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Witches & Woodlands - Part 1]]
-- [[Witches & Woodlands - Part 2]]
+<!-- AUTO:BEGIN release -->- [[发行版/Witches & Woodlands - Part 3.5]]
 - [[Witches & Woodlands - Part 3.5]]
-- [[Witches & Woodlands - Part 3]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

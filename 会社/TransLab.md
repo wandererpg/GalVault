@@ -11,10 +11,10 @@ source_urls:
 # TransLab
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Robotics;Notes]]（publisher）
-- [[Steins; Gate Elite]]（publisher）
-- [[Steins;Gate 0（TransLab）]]（publisher）
-- [[Steins;Gate（Tjomnye vrata）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/ROBOTICS;NOTES ELITE（MAGES・release：）]]（publisher）
+- [[发行版/STEINS;GATE - Download Edition（MAGES・release：）]]（publisher）
+- [[发行版/Steins;Gate 0 - Limited Deluxe Package Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

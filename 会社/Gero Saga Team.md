@@ -11,8 +11,8 @@ source_urls:
 # Gero Saga Team
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[CHAOS;HEAD NOAH（Gero Saga Team）]]（publisher）
-- [[STEINS;GATE（Gero Saga Team）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Chaos;Head Noah - Regular Edition]]（publisher）
+- [[发行版/STEINS;GATE - Download Edition（MAGES・release：）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

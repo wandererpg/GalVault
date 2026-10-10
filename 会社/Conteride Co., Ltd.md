@@ -12,16 +12,11 @@ source_urls:
 # Conteride Co., Ltd.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[DRAMAtical Murder re：code - Animate Limited Edition]]（publisher）
-- [[DRAMAtical Murder re：code - Download Edition（Conteride Co., Ltd）]]（publisher）
-- [[DRAMAtical Murder re：code - First Press Limited Edition]]（publisher）
-- [[DRAMAtical Murder re：code - Nitroplus Online Store Limited Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/DRAMAtical Murder re：code - Regular Edition]]（publisher）
 - [[DRAMAtical Murder re：code - Regular Edition]]（publisher）
-- [[DRAMAtical Murder re：code - Trial]]（publisher）
-- [[Phantom - Phantom of Inferno - Limited Edition]]（publisher）
+- [[发行版/Phantom - Phantom of Inferno - Regular Edition]]（publisher）
 - [[Phantom - Phantom of Inferno - Regular Edition]]（publisher）
-- [[Phantom -PHANTOM OF INFERNO- - DVDPG Anniversary Sale Box Edition]]（publisher）
-- [[Phantom -PHANTOM OF INFERNO- - DVDPG Regular Edition]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

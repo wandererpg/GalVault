@@ -12,8 +12,8 @@ source_urls:
 # Underbliss
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Reverie： Ebon Light - Demo]]（developer）
-- [[Reverie： Ebon Light - Demo]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Reverie： Ebon Light]]（developer）
+- [[发行版/Reverie： Ebon Light]]（publisher）
 - [[Reverie： Ebon Light]]（developer）
 - [[Reverie： Ebon Light]]（publisher）<!-- AUTO:END duty -->
 

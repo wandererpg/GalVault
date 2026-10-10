@@ -12,8 +12,8 @@ source_urls:
 # Chaoxi_Ting Yu
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[SWAN SONG Hanhua Buding Zuizhong Ban V2.0]]（publisher）
-- [[SWAN SONG Hanhua Buding]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Swan Song - Download Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

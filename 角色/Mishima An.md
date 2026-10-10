@@ -30,8 +30,8 @@ portrait_image: "assets/characters/c74673.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Blackish House Side A→ - First Press Limited Edition]]（side）
-- [[Blackish House Side A→ - Regular Edition]]（side）<!-- AUTO:END character -->
+<!-- AUTO:BEGIN character -->- [[发行版/Blackish House sideA→ -Retour-（Justdan）]]（side）
+<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Nanase Ayaka]]（声优：七瀬 彩夏）<!-- AUTO:END voice -->

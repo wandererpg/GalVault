@@ -12,7 +12,7 @@ source_urls:
 # Currykaesu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Lupercalia of the Silent Accord]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Meikei no Lupercalia - Download Edition（Uguisu Kagura）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

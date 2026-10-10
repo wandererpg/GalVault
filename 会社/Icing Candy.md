@@ -12,10 +12,10 @@ source_urls:
 # Icing Candy
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Bloody Call - First Press Edition（WillPlus）]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/unENDing Bloody Call - Limited Edition]]（developer）
 - [[Bloody Call]]（developer）
 - [[unENDing Bloody Call - Limited Edition]]（developer）
-- [[unENDing Bloody Call - Regular Edition]]（developer）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

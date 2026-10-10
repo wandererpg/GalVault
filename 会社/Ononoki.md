@@ -12,8 +12,8 @@ source_urls:
 # Ononoki
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Kara no Shoujo（Ononoki）]]（publisher）
-- [[Rondo Duo -Baile al Amanecer-]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Innocent Grey Mystery Collection ~Kara no Shoujo & Pianissimo & Cartagra~]]（publisher）
+- [[发行版/Lunwuqu Duo]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

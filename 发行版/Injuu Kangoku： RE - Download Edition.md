@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r144818:work:vndb:work:v60525"
-type: "release"
-display_title: "Injuu Kangoku: RE - Download Edition"
-release_date: "2026-05-15"
+entity_id: release:vndb:r144818:work:vndb:work:v60525
+type: release
+display_title: 'Injuu Kangoku: RE - Download Edition'
+release_date: '2026-05-15'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r144818"
+  vndb: r144818
 source_urls:
-  vndb: "https://vndb.org/r144818"
+  vndb: https://vndb.org/r144818
+aliases:
+- Injuu Kangoku： RE
+- Injuu Kangoku： RE - Package Edition
+consolidated_releases:
+- id: r144818
+  title: 'Injuu Kangoku: RE - Download Edition'
+  url: https://vndb.org/r144818
+  release_date: '2026-05-15'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r149815
+  title: 'Injuu Kangoku: RE - Package Edition'
+  url: https://vndb.org/r149815
+  release_date: '2026-05-29'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r156630
+  title: 'Injuu Kangoku: RE'
+  url: https://vndb.org/r156630
+  release_date: '2026-05-16'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Injuu Kangoku: RE - Download Edition

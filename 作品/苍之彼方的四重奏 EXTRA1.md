@@ -108,33 +108,9 @@ cover_image: "assets/covers/v20228.webp"
 - [[Yotsuya Cider]]（興津 和幸）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Ao no Kanata no Four Rhythm - EXTRA1 - 18+ Steam Patch]]
-- [[Ao no Kanata no Four Rhythm - EXTRA1 - Download Edition]]
-- [[Ao no Kanata no Four Rhythm - EXTRA1 - Premium Edition]]
-- [[Ao no Kanata no Four Rhythm - EXTRA1 - Standard Edition]]
-- [[Ao no Kanata no Four Rhythm - EXTRA1+2P]]
-- [[Ao no Kanata no Four Rhythm - EXTRA1+2S - Package Edition]]
-- [[Ao no Kanata no Four Rhythm - EXTRA1P]]
+<!-- AUTO:BEGIN release -->- [[发行版/Ao no Kanata no Four Rhythm - EXTRA1S - Download Edition]]
 - [[Ao no Kanata no Four Rhythm - EXTRA1S - Download Edition]]
-- [[Ao no Kanata no Four Rhythm - EXTRA1S - Package Edition]]
-- [[Ao no Kanata no Four Rhythm - EXTRA1]]
-- [[Ao no Kanata no Four Rhythm - EXTRA1（HIKARI FIELD）]]
-- [[Ao no Kanata no Four Rhythm - EXTRA1（Re： LieF TranslatioN）]]
-- [[Ao no Kanata no Four Rhythm - EXTRA1（Team Myskrpatch・release：）]]
-- [[Ao no Kanata no Four Rhythm - EXTRA1（Team Myskrpatch・vndb：r93）]]
-- [[Ao no Kanata no Four Rhythm - EXTRA1（Team Myskrpatch）]]
-- [[Ao no Kanata no Four Rhythm - EXTRA1（release：）]]
-- [[Ao no Kanata no Four Rhythm 10th Anniversary Box FILMIC Edition (A-type)（sprite）]]
-- [[Ao no Kanata no Four Rhythm 10th Anniversary Box FILMIC Edition (B-type)（sprite）]]
-- [[Ao no Kanata no Four Rhythm 10th Anniversary Box sprite LIMITED EDITION（sprite）]]
-- [[Ao no Kanata no Four Rhythm 10th Anniversary Box（sprite）]]
-- [[Ao no Kanata no Four Rhythm 4th Anniversary Box（sprite）]]
-- [[Ao no Kanata no Four Rhythm Complete Edition（sprite）]]
-- [[Ao no Kanata no Four Rhythm（PikkaWorks・release：）]]
-- [[Aokana - EXTRA1 - 18+ Edition]]
-- [[Aokana - EXTRA1 - Linux Patch]]
-- [[Aokana EXTRA1]]
-- [[Cang zhi Bifang de Sichongzou EXTRA1]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

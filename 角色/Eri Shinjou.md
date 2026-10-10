@@ -30,7 +30,7 @@ portrait_image: "assets/characters/c7694.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Custom Reido 4 +]]（primary）
+<!-- AUTO:BEGIN character -->- [[发行版/Custom Reido 4 SE]]（primary）
 - [[Custom Reido 4 SE]]（primary）<!-- AUTO:END character -->
 
 ## 声优

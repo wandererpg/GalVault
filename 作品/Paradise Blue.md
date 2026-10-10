@@ -1,13 +1,23 @@
 ---
-entity_id: "vndb:work:v64971"
-type: "work"
-display_title: "Paradise Blue"
-title_status: "unresolved"
+entity_id: vndb:work:v64971
+type: work
+display_title: Paradise Blue
+title_status: unresolved
 source_ids:
-  vndb: "v64971"
+  vndb: v64971
 source_urls:
-  vndb: "https://vndb.org/v64971"
-cover_image: "assets/covers/v64971.webp"
+  vndb: https://vndb.org/v64971
+cover_image: assets/covers/v64971.webp
+vndb_title: Paradise Blue
+vndb_content_updated: '2026-10-10'
+title_ja: Paradise Blue
+first_release_date: '2009'
+vndb_vote_count: 0
+vndb_languages:
+- ja
+vndb_platforms:
+- win
+vndb_devstatus: 0
 ---
 
 # Paradise Blue
@@ -18,7 +28,9 @@ cover_image: "assets/covers/v64971.webp"
 <!-- AUTO:END image -->
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->
+- [Amechan乙](https://vndb.org/p29414)（developer）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
@@ -36,10 +48,23 @@ cover_image: "assets/covers/v64971.webp"
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
 
 ## 关联作品
-<!-- AUTO:BEGIN relation -->- [[逆转裁判]]（char）<!-- AUTO:END relation -->
+<!-- AUTO:BEGIN relation -->
+- [[逆转裁判]]（char）
+- [[作品/逆转裁判|Gyakuten Saiban]]（char）
+<!-- AUTO:END relation -->
 
 ## 标签
-<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+<!-- AUTO:BEGIN tag -->
+- [Boy x Boy Romance Only](https://vndb.org/g2002)
+- [Fan-fiction](https://vndb.org/g1056)
+- [Male on Male Sex Only](https://vndb.org/g3065)
+- [Lawyer Hero](https://vndb.org/g1209)
+<!-- AUTO:END tag -->
 
 ## 来源
 <!-- AUTO:BEGIN provenance -->vndb:v64971<!-- AUTO:END provenance -->
+
+
+## VNDB 资料来源
+
+[VNDB：v64971](https://vndb.org/v64971)，补全于 2026-10-10。

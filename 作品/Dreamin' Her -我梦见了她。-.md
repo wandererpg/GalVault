@@ -73,13 +73,9 @@ cover_image: "assets/covers/v28915.webp"
 - [[Urata Wataru]]（浦田 わたる）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Dreamin' Her -Aku Bermimpi Tentangmu-]]
-- [[Dreamin' Her -Boku wa, Kanojo no Yume o Miru.- - Download Edition]]
-- [[Dreamin' Her -Boku wa, Kanojo no Yume o Miru.- - Limited Package Edition]]
-- [[Dreamin' Her -Boku wa, Kanojo no Yume o Miru.- - Regular Package Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Dreamin' Her -Boku wa, Kanojo no Yume o Miru.-]]
 - [[Dreamin' Her -Boku wa, Kanojo no Yume o Miru.-]]
-- [[Dreamin' Her -Tôi mơ thấy em.-]]
-- [[Dreamin' Her -Wo Mengjianle Ta. -]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

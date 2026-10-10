@@ -12,7 +12,7 @@ source_urls:
 # Delusional Moonlight
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Haos;Razuma Noj]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Chaos;Head Noah - Regular Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

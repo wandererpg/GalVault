@@ -13,7 +13,7 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Saiminjutsu 2 - UMD-PG Edition]]（publisher）
-- [[Sharin no Kuni, Himawari no Shoujo - UMD-PG Edition]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Sharin no Kuni, Himawari no Shoujo（Doitsugo Trans）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

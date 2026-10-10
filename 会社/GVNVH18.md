@@ -12,9 +12,9 @@ source_urls:
 # GVNVH18
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Amaenbo+ (Append)（GVNVH18）]]（publisher）
-- [[Eternum v0.6.2]]（publisher）
-- [[Pale Carnations： Chapter 3 Update 3]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Amaenbo+ - Expansion DLC - Censored Steam Edition]]（publisher）
+- [[发行版/Vechnost' v0.8]]（publisher）
+- [[发行版/Blednye Gvozdiki Ch.1-4 Up.1-6]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

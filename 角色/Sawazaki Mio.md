@@ -30,9 +30,9 @@ portrait_image: "assets/characters/c10323.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Parfait ~Chocolat Second Brew~ Standard Edition]]（primary）
+<!-- AUTO:BEGIN character -->- [[发行版/Parfait ~Chocolat Second Style~ Limited Edition]]（primary）
 - [[Parfait ~Chocolat Second Style~ Limited Edition]]（primary）
-- [[Parfait ~Chocolat Second Style~ Regular Edition]]（primary）<!-- AUTO:END character -->
+<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Saitou Momoko]]（声优：斎藤 桃子）<!-- AUTO:END voice -->

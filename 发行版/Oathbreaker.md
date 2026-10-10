@@ -1,16 +1,34 @@
 ---
-entity_id: "release:vndb:r68641:work:vndb:work:v27521"
-type: "release"
-display_title: "Oathbreaker"
-release_date: "2019-02-14"
+entity_id: release:vndb:r68641:work:vndb:work:v27521
+type: release
+display_title: Oathbreaker
+release_date: '2019-02-14'
 is_all_ages: true
-platform: "win, mac, web"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win, mac, web
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r68641"
+  vndb: r68641
 source_urls:
-  vndb: "https://vndb.org/r68641"
+  vndb: https://vndb.org/r68641
+aliases:
+- Oathbreaker Season 1
+consolidated_releases:
+- id: r68641
+  title: Oathbreaker
+  url: https://vndb.org/r68641
+  release_date: '2019-02-14'
+  platform: win, mac, web
+  edition_type: complete
+  is_all_ages: true
+- id: r69491
+  title: Oathbreaker Season 1
+  url: https://vndb.org/r69491
+  release_date: '2019-04-09'
+  platform: win, mac
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Oathbreaker

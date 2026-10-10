@@ -12,9 +12,9 @@ source_urls:
 # Assemble Entertainment
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Roadwarden - Demo]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Roadwarden（Assemble Entertainment・release：）]]（publisher）
 - [[Roadwarden（Assemble Entertainment・release：）]]（publisher）
-- [[Roadwarden（Assemble Entertainment）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

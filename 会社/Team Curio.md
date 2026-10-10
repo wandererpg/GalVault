@@ -12,9 +12,9 @@ source_urls:
 # Team Curio
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Amazing Grace -What color is your attribute？-]]（publisher）
-- [[Clannad - Memorial Edition]]（publisher）
-- [[I Pureun Haneure Yaksogeul ~Haebaragi Saege Misojinneun Geudae~]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Amazing Grace -What color is your attribute？- Package Edition]]（publisher）
+- [[发行版/CLANNAD（Hikarizaka Gaoxiao Zhongwen Bu）]]（publisher）
+- [[发行版/Kono Aozora ni Yakusoku o： Te no Hira No Rakuen - Deluxe Pack Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

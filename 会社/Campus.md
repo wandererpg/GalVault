@@ -12,20 +12,10 @@ source_urls:
 # Campus
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Campus 3rd Years Anniversary BOX]]（developer）
-- [[Campus 3rd Years Anniversary BOX]]（publisher）
-- [[Furu Uso -Complete Four Seasons- Regular Edition]]（developer）
-- [[Furu Uso -Complete Four Seasons- Regular Edition]]（publisher）
-- [[Fuyu Uso -Snow World End- All Ages Free Edition]]（developer）
-- [[Fuyu Uso -Snow World End- All Ages Free Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Fuyu Uso -Snow World End- Dakimakura Cover Included Deluxe Limited Edition]]（developer）
+- [[发行版/Fuyu Uso -Snow World End- Dakimakura Cover Included Deluxe Limited Edition]]（publisher）
 - [[Fuyu Uso -Snow World End- Dakimakura Cover Included Deluxe Limited Edition]]（developer）
 - [[Fuyu Uso -Snow World End- Dakimakura Cover Included Deluxe Limited Edition]]（publisher）
-- [[Fuyu Uso -Snow World End- Download Edition]]（developer）
-- [[Fuyu Uso -Snow World End- Download Edition]]（publisher）
-- [[Fuyu Uso -Snow World End- Regular Edition]]（developer）
-- [[Fuyu Uso -Snow World End- Regular Edition]]（publisher）
-- [[Fuyu Uso -Snow World End- Trial Edition]]（developer）
-- [[Fuyu Uso -Snow World End- Trial Edition]]（publisher）
 - [[冬天的谎言 -Snow World End-]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

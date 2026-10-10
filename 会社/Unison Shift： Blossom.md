@@ -12,39 +12,13 @@ source_urls:
 # Unison Shift: Blossom
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Flyable Heart CompletePack - Download Edition]]（developer）
-- [[Flyable Heart CompletePack]]（developer）
-- [[Kimi no Nagori wa Shizuka ni Yurete - Download Edition]]（developer）
-- [[Kimi no Nagori wa Shizuka ni Yurete - First Press Edition]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Kimi no Nagori wa Shizuka ni Yurete - Limited Noicolle Pack Edition]]（developer）
 - [[Kimi no Nagori wa Shizuka ni Yurete - Limited Noicolle Pack Edition]]（developer）
-- [[Tokeijikake no Ley Line - 3 Games Pack & Drama CD Bundled Ver]]（developer）
-- [[Tokeijikake no Ley Line - 3 Games Pack & Drama CD Bundled Ver（Unison Shift： Blossom）]]（developer）
-- [[Tokeijikake no Ley Line - 3 Games Pack]]（developer）
-- [[Tokeijikake no Ley Line - 3 Games Pack（Unison Shift： Blossom）]]（developer）
-- [[Tokeijikake no Ley Line - Limited Trilogy Box]]（developer）
-- [[Tokeijikake no Ley Line - Limited Trilogy Box（Unison Shift： Blossom）]]（developer）
-- [[Tokeijikake no Ley Line - Special Memorial Edition]]（developer）
-- [[Tokeijikake no Ley Line - Special Memorial Edition（Unison Shift： Blossom）]]（developer）
-- [[Tokeijikake no Ley Line -Asagiri ni Chiru Hana- Download Edition]]（developer）
-- [[Tokeijikake no Ley Line -Asagiri ni Chiru Hana- First Press Edition]]（developer）
-- [[Tokeijikake no Ley Line -Asagiri ni Chiru Hana- Trial Edition]]（developer）
-- [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Download Edition]]（developer）
-- [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Download Edition（Unison Shift： Blossom・release：）]]（developer）
-- [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Download Edition（Unison Shift： Blossom・vndb：r10）]]（developer）
-- [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Download Edition（Unison Shift： Blossom）]]（developer）
-- [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Package Edition]]（developer）
+- [[发行版/Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Package Edition（Unison Shift： Blossom・release：）]]（developer）
+- [[发行版/Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Package Edition（Unison Shift： Blossom）]]（developer）
 - [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Package Edition（Unison Shift： Blossom・release：）]]（developer）
-- [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Package Edition（Unison Shift： Blossom・vndb：r76）]]（developer）
 - [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Package Edition（Unison Shift： Blossom）]]（developer）
-- [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Trial Edition]]（developer）
-- [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Trial Edition（Unison Shift： Blossom・release：）]]（developer）
-- [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Trial Edition（Unison Shift： Blossom・vndb：r78）]]（developer）
-- [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Trial Edition（Unison Shift： Blossom）]]（developer）
-- [[Tokeijikake no Ley Line -Zan'ei no Yoru ga Akeru Toki- Download Edition]]（developer）
-- [[Tokeijikake no Ley Line -Zan'ei no Yoru ga Akeru Toki- First Press Edition]]（developer）
-- [[Tokeijikake no Ley Line -Zan'ei no Yoru ga Akeru Toki- Regular Edition]]（developer）
-- [[Tokeijikake no Ley Line -Zan'ei no Yoru ga Akeru Toki- Trial Edition]]（developer）
-- [[Unison Shift Itou Noizi Tsumeawase 15 Sakuhin Set]]（publisher）
+- [[发行版/Kimi no Nagori wa Shizuka ni Yurete - Limited Noicolle Pack Edition]]（publisher）
 - [[君之余影轻轻地摇曳着]]（developer）
 - [[时钟机关的Ley-line -朝雾中飘零之花-]]（developer）
 - [[时钟机关的Ley-line -残影之夜将明时-]]（developer）<!-- AUTO:END duty -->

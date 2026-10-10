@@ -12,10 +12,8 @@ source_urls:
 # Jestur
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Ripples - Episode 6 - Incest Patch]]（developer）
-- [[Ripples - Episode 6 - Incest Patch]]（publisher）
-- [[Ripples - Episode 9]]（developer）
-- [[Ripples - Episode 9]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Ripples v0.9.22]]（developer）
+- [[发行版/Ripples v0.9.22]]（publisher）
 - [[Ripples]]（developer）<!-- AUTO:END duty -->
 
 ## 创作与出演

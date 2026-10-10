@@ -28,8 +28,7 @@ portrait_image: "assets/characters/c89894.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Our Life： Beginnings & Always - Baxter's Story]]（primary）
-- [[Our Life： Beginnings & Always - Baxter's Story（GB Patch Games）]]（primary）
+<!-- AUTO:BEGIN character -->- [[发行版/Our Life： Beginnings & Always - Voiced Name Expansion]]（primary）
 - [[Our Life： Beginnings & Always]]（side）<!-- AUTO:END character -->
 
 ## 声优

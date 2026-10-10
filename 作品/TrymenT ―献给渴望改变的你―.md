@@ -95,12 +95,9 @@ cover_image: "assets/covers/v25040.webp"
 - [[Tsuruya Haruto]]（尾崎 未來）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[TrymenT -Ima o Kaetai to Negau Anata e- AlphA Hen]]
-- [[TrymenT -Ima o Kaetai to Negau Anata e- AlphA]]
-- [[TrymenT -Ima o Kaetai to Negau Anata e- LitE]]
-- [[TrymenT -Ima o Kaetai to Negau Anata e- TriaL]]
+<!-- AUTO:BEGIN release -->- [[发行版/TrymenT -Ima o Kaetai to Negau Anata e- Trial Edition]]
 - [[TrymenT -Ima o Kaetai to Negau Anata e- Trial Edition]]
-- [[TrymenT -Ima o Kaetai to Negau Anata e- Trial Edition（release：）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

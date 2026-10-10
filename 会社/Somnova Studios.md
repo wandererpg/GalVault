@@ -12,13 +12,12 @@ source_urls:
 # Somnova Studios
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Missing Stars - Demo]]（developer）
-- [[Missing Stars - Demo]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Missing Stars - Early Access]]（developer）
+- [[发行版/Missing Stars - Early Access]]（publisher）
 - [[Missing Stars - Early Access]]（developer）
 - [[Missing Stars - Early Access]]（publisher）
 - [[Missing Stars]]（developer）
-- [[Missing Stars： Act One]]（developer）
-- [[Missing Stars： Act One]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

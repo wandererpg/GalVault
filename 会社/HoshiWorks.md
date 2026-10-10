@@ -12,7 +12,7 @@ source_urls:
 # HoshiWorks
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Tsuki no Kanata de Aimashou（HoshiWorks）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Tsuki no Kanata de Aimashou - Regular Edition（tone work's）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

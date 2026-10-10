@@ -12,12 +12,8 @@ source_urls:
 # Dendou Denki Dou
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Jiangshi x Taoshi - C94 Edition]]（developer）
-- [[Jiangshi x Taoshi - C94 Edition]]（publisher）
-- [[Jiangshi x Taoshi - C97 Edition]]（developer）
-- [[Jiangshi x Taoshi - C97 Edition]]（publisher）
-- [[Jiangshi x Taoshi - Trial Edition]]（developer）
-- [[Jiangshi x Taoshi - Trial Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Jiangshi x Taoshi]]（developer）
+- [[发行版/Jiangshi x Taoshi]]（publisher）
 - [[Jiangshi x Taoshi]]（developer）
 - [[Jiangshi x Taoshi]]（publisher）
 - [[僵尸×道士]]（developer）<!-- AUTO:END duty -->

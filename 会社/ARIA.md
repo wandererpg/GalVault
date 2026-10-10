@@ -12,29 +12,13 @@ source_urls:
 # ARIA
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Daitoshokan no Hitsujikai -Library Party- Download Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Daitoshokan no Hitsujikai -Library Party- Download Edition（ARIA・release：）]]（publisher）
 - [[Daitoshokan no Hitsujikai -Library Party- Download Edition（ARIA・release：）]]（publisher）
-- [[Daitoshokan no Hitsujikai -Library Party- Download Edition（ARIA・vndb：r14）]]（publisher）
-- [[Daitoshokan no Hitsujikai -Library Party- Download Edition（ARIA）]]（publisher）
-- [[Daitoshokan no Hitsujikai -Library Party- Limited Edition]]（publisher）
-- [[Daitoshokan no Hitsujikai -Library Party- Limited Edition（ARIA・k：v12480）]]（publisher）
-- [[Daitoshokan no Hitsujikai -Library Party- Limited Edition（ARIA・release：）]]（publisher）
-- [[Daitoshokan no Hitsujikai -Library Party- Limited Edition（ARIA・rk：v8158）]]（publisher）
-- [[Daitoshokan no Hitsujikai -Library Party- Limited Edition（ARIA・vndb：r14）]]（publisher）
-- [[Daitoshokan no Hitsujikai -Library Party- Limited Edition（ARIA）]]（publisher）
-- [[Daitoshokan no Hitsujikai -Library Party- Package Edition]]（publisher）
-- [[Daitoshokan no Hitsujikai -Library Party- Package Edition（ARIA・release：）]]（publisher）
-- [[Daitoshokan no Hitsujikai -Library Party- Package Edition（ARIA・vndb：r56）]]（publisher）
+- [[发行版/Daitoshokan no Hitsujikai -Library Party- Package Edition（ARIA）]]（publisher）
 - [[Daitoshokan no Hitsujikai -Library Party- Package Edition（ARIA）]]（publisher）
-- [[Daitoshokan no Hitsujikai -Library Party-]]（publisher）
-- [[Daitoshokan no Hitsujikai -Library Party-（ARIA・release：）]]（publisher）
-- [[Daitoshokan no Hitsujikai -Library Party-（ARIA・vndb：r60）]]（publisher）
-- [[Daitoshokan no Hitsujikai -Library Party-（ARIA）]]（publisher）
 - [[Sen no Hatou, Tsukisome no Kouki - Download Edition]]（publisher）
-- [[Sen no Hatou, Tsukisome no Kouki - First Press Limited Edition（ARIA・release：）]]（publisher）
-- [[Sen no Hatou, Tsukisome no Kouki - First Press Limited Edition（ARIA）]]（publisher）
-- [[Sen no Hatou, Tsukisome no Kouki（ARIA・release：）]]（publisher）
-- [[Sen no Hatou, Tsukisome no Kouki（ARIA）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Sen no Hatou, Tsukisome no Kouki - Download Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

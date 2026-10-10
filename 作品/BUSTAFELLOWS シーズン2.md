@@ -86,17 +86,9 @@ cover_image: "assets/covers/v29871.webp"
 - [[Yoshino Hiroyuki]]（吉野 裕行）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[BUSTAFELLOWS Season 2 - Demo]]
-- [[BUSTAFELLOWS Season 2 - Download Edition]]
-- [[BUSTAFELLOWS Season 2 - EU Regular Edition]]
-- [[BUSTAFELLOWS Season 2 - NA Regular Edition]]
-- [[BUSTAFELLOWS Season 2]]
-- [[Bustafellows Season 2 - Deluxe Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Bustafellows Season 2 - Download Edition（Extend）]]
 - [[Bustafellows Season 2 - Download Edition（Extend）]]
-- [[Bustafellows Season 2 - Regular Edition]]
-- [[Bustafellows Season 2（Extend・release：）]]
-- [[Bustafellows Season 2（Extend）]]
-- [[Bustafellows Season 2（release：）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

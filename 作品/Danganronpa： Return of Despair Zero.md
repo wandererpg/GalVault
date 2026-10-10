@@ -1,13 +1,24 @@
 ---
-entity_id: "vndb:work:v62509"
-type: "work"
-display_title: "Danganronpa: Return of Despair Zero"
-title_status: "unresolved"
+entity_id: vndb:work:v62509
+type: work
+display_title: 'Danganronpa: Return of Despair Zero'
+title_status: unresolved
 source_ids:
-  vndb: "v62509"
+  vndb: v62509
 source_urls:
-  vndb: "https://vndb.org/v62509"
-cover_image: "assets/covers/v62509.webp"
+  vndb: https://vndb.org/v62509
+cover_image: assets/covers/v62509.webp
+vndb_title: 'Danganronpa: Return of Despair Zero'
+vndb_content_updated: '2026-10-10'
+title_en: 'Danganronpa: Return of Despair Zero'
+first_release_date: '2023-01-28'
+vndb_vote_count: 1
+vndb_length: 1
+vndb_languages:
+- en
+vndb_platforms:
+- win
+vndb_devstatus: 2
 ---
 
 # Danganronpa: Return of Despair Zero
@@ -36,10 +47,26 @@ cover_image: "assets/covers/v62509.webp"
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
 
 ## 关联作品
-<!-- AUTO:BEGIN relation -->- [[弹丸论破 希望的学园与绝望的高中生]]（ser）<!-- AUTO:END relation -->
+<!-- AUTO:BEGIN relation -->
+- [[弹丸论破 希望的学园与绝望的高中生]]（ser）
+- [[作品/弹丸论破 希望的学园与绝望的高中生|Dangan Ronpa: Kibou no Gakuen to Zetsubou no Koukousei]]（ser）
+<!-- AUTO:END relation -->
 
 ## 标签
-<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+<!-- AUTO:BEGIN tag -->
+- [Snow](https://vndb.org/g4039)
+- [ADV](https://vndb.org/g32)
+<!-- AUTO:END tag -->
 
 ## 来源
 <!-- AUTO:BEGIN provenance -->vndb:v62509<!-- AUTO:END provenance -->
+
+
+## 简介（VNDB 原文）
+
+A prequel to the cancelled game Danganronpa: RoD.
+
+
+## VNDB 资料来源
+
+[VNDB：v62509](https://vndb.org/v62509)，补全于 2026-10-10。

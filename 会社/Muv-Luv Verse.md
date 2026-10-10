@@ -12,10 +12,9 @@ source_urls:
 # Muv-Luv Verse
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Kimi ga Nozomu Eien ~Enhanced Edition~ EER Patch]]（publisher）
-- [[Kimi ga Nozomu Eien ~Enhanced Edition~ Hotaru Route Restoration]]（publisher）
-- [[Universal rUGP Win10 crash fix]]（publisher）
-- [[Universal rUGP Win10 crash fix（Muv-Luv Verse）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kimi ga Nozomu Eien ~Enhanced Edition~ Download Edition]]（publisher）
+- [[发行版/Kimi ga Ita Kisetsu - Download Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

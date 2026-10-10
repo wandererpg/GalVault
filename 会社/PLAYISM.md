@@ -12,21 +12,9 @@ source_urls:
 # PLAYISM
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Silver 2425 - Download Edition]]（publisher）
-- [[Silver 2425 - Download Edition（PLAYISM）]]（publisher）
-- [[Silver 2425]]（publisher）
-- [[Silver 2425（PLAYISM）]]（publisher）
-- [[Silver Jiken - Download Edition]]（publisher）
-- [[Silver Jiken - Download Edition（PLAYISM・release：）]]（publisher）
-- [[Silver Jiken - Download Edition（PLAYISM）]]（publisher）
-- [[VA-11 HALL-A - Download Edition]]（publisher）
-- [[VA-11 HALL-A - JP Edition]]（publisher）
-- [[VA-11 HALL-A - JP Package Edition]]（publisher）
-- [[VA-11 HALL-A - JP Package Edition（Sukeban Games）]]（publisher）
-- [[VA-11 HALL-A - Package Edition]]（publisher）
-- [[VA-11 HALL-A（Sukeban Games・release：）]]（publisher）
-- [[VA-11 HALL-A（Sukeban Games・vndb：r64）]]（publisher）
-- [[VA-11 Hall-A： Cyberpunk Bartender Action]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/The Silver Case - Limited Package Edition]]（publisher）
+- [[发行版/Silver Jiken 25 Ku]]（publisher）
+- [[发行版/VA-11 Hall-A： Cyberpunk Bartender Action（Sukeban Games）]]（publisher）
 - [[VA-11 Hall-A： Cyberpunk Bartender Action（Sukeban Games）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

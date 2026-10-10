@@ -12,8 +12,8 @@ source_urls:
 # Kyoushuu Hanaya
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Horobi Kuchiru Sekai ni Tsuioku no Hanataba o -  Trial Edition]]（developer）
-- [[Horobi Kuchiru Sekai ni Tsuioku no Hanataba o -  Trial Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Horobi Kuchiru Sekai ni Tsuioku no Hanataba o]]（developer）
+- [[发行版/Horobi Kuchiru Sekai ni Tsuioku no Hanataba o]]（publisher）
 - [[Horobi Kuchiru Sekai ni Tsuioku no Hanataba o ~present for you~]]（developer）
 - [[Horobi Kuchiru Sekai ni Tsuioku no Hanataba o ~present for you~]]（publisher）
 - [[Horobi Kuchiru Sekai ni Tsuioku no Hanataba o]]（developer）

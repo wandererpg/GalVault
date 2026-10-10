@@ -11,63 +11,22 @@ source_urls:
 # JAST USA
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[DRAMAtical Murder - Download Edition（JAST USA）]]（publisher）
-- [[Daiteikoku（JAST USA）]]（publisher）
-- [[Dangsingwa Geunyeowa Geunyeoui Sarang - Director's Cut DLC]]（publisher）
-- [[Dangsingwa Geunyeowa Geunyeoui Sarang]]（publisher）
-- [[DeadΩAegis - Another Record]]（publisher）
-- [[FLOWERS -Gaeul Pyeon-]]（publisher）
-- [[FLOWERS -Gyeoul Pyeon-]]（publisher）
-- [[FLOWERS -Yeoreum Pyeon-]]（publisher）
-- [[Flowers -Le Volume sur Automne- Download Edition（JAST USA）]]（publisher）
-- [[Flowers -Le Volume sur Automne- Limited Edition]]（publisher）
-- [[Flowers -Le Volume sur Hiver- Download Edition（JAST USA）]]（publisher）
-- [[Flowers -Le Volume sur Hiver- Limited Edition]]（publisher）
-- [[Flowers -Le volume sur été- Download Edition（JAST USA・release：）]]（publisher）
-- [[Flowers -Le volume sur été- Download Edition（JAST USA）]]（publisher）
-- [[Flowers -Le volume sur été- Limited Edition]]（publisher）
-- [[Full Metal Daemon Muramasa - 18+ Patch for GOG]]（publisher）
-- [[Full Metal Daemon Muramasa - Censored Edition]]（publisher）
-- [[Full Metal Daemon Muramasa - Collector's Edition]]（publisher）
-- [[Full Metal Daemon Muramasa - Download Edition]]（publisher）
-- [[Majikoi! Love Me Seriously! - 18+ DLC]]（publisher）
-- [[Majikoi! Love Me Seriously! - Download Edition]]（publisher）
-- [[Majikoi! Love Me Seriously! - Limited Collector's Edition]]（publisher）
-- [[Majikoi! Love Me Seriously! - Steam Edition]]（publisher）
-- [[Majikoi! Love Me Seriously! Demo]]（publisher）
-- [[Ni He Ta He Ta de Lian'ai. - R-18 DLC]]（publisher）
-- [[Saya no Uta ~ The Song of Saya - 18+ Edition]]（publisher）
-- [[Saya no Uta ~ The Song of Saya - DLC ［Steam］]]（publisher）
-- [[Saya no Uta ~ The Song of Saya - DLC ［Steam］（JAST USA）]]（publisher）
-- [[Saya no Uta ~ The Song of Saya - Limited Edition]]（publisher）
-- [[Saya no Uta ~ The Song of Saya - Steam Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/DRAMAtical Murder re：code - Regular Edition]]（publisher）
+- [[发行版/Dadiguo（Dadiguoba Hanhuazu）]]（publisher）
+- [[发行版/Ty, ja i ona： Istorija ljubvi - Steam Edition]]（publisher）
+- [[发行版/Mahou Shoujo Shoumou Sensen another record -Chiisaki Mono-tachi no Yume- Download Edition]]（publisher）
+- [[发行版/Flowers -Le Volume sur Automne- Download Edition]]（publisher）
+- [[发行版/Flowers -Le Volume sur Hiver- Download Edition]]（publisher）
+- [[发行版/Flowers -Le Volume sur Été- Download Edition（PROTOTYPE）]]（publisher）
+- [[发行版/Soukou Akki Muramasa - Windows 10 Support Edition - Download Edition]]（publisher）
+- [[发行版/BugBug 200 Anniversary DVD MiniMini AVG Collection Part 1（Minato Soft）]]（publisher）
+- [[发行版/Saya no Uta ~ The Song of Saya - Upgrade Patch]]（publisher）
 - [[Saya no Uta ~ The Song of Saya - Upgrade Patch]]（publisher）
-- [[Sayaui Norae Director's Cut DLC]]（publisher）
-- [[Sayaui Norae]]（publisher）
-- [[Steins;Gate - Best Edition]]（publisher）
-- [[Steins;Gate - Download Edition]]（publisher）
-- [[Steins;Gate - Limited Edition（JAST USA）]]（publisher）
-- [[Steins;Gate - Standard Edition]]（publisher）
-- [[The Song of Saya ~ Saya no Uta - Download Edition]]（publisher）
-- [[The Song of Saya ~ Saya no Uta - Package Edition]]（publisher）
-- [[Tokyo Necro - 18+ Patch]]（publisher）
-- [[Tokyo Necro - Censored Edition]]（publisher）
-- [[Tokyo Necro - Collector's Edition]]（publisher）
-- [[Tokyo Necro（JAST USA）]]（publisher）
-- [[VenusBlood HOLLOW International - 18+ DLsite Edition]]（publisher）
-- [[VenusBlood HOLLOW International - 18+ Edition]]（publisher）
-- [[VenusBlood HOLLOW International - All-ages Edition]]（publisher）
-- [[VenusBlood HOLLOW International - R18 Patch for DL Edition]]（publisher）
-- [[VenusBlood HOLLOW International - R18 Patch for DVD Package]]（publisher）
-- [[VenusBlood HOLLOW International - SRPG Trial Edition ENG Ver]]（publisher）
-- [[VenusBlood HOLLOW International - SRPG Trial Edition]]（publisher）
+- [[发行版/STEINS;GATE - Download Edition（MAGES・release：）]]（publisher）
+- [[发行版/Tokyo NECRO - Popular Edition - Download Edition - All Ages Edition]]（publisher）
+- [[发行版/VenusBlood HOLLOW International - Steam Edition]]（publisher）
 - [[VenusBlood HOLLOW International - Steam Edition]]（publisher）
-- [[YOU and ME and HER： A Love Story - 18+ Edition]]（publisher）
-- [[YOU and ME and HER： A Love Story - 18+ Edition（JAST USA・release：）]]（publisher）
-- [[YOU and ME and HER： A Love Story - Director's Cut DLC]]（publisher）
-- [[YOU and ME and HER： A Love Story - Steam Edition]]（publisher）
-- [[YOU and ME and HER： A Love Story - Steam Edition（JAST USA）]]（publisher）
-- [[YOU and ME and HER： a love story - Limited Edition]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

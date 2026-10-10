@@ -12,10 +12,10 @@ source_urls:
 # Interchannel Inc.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Air - Best Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/AIR（Key）]]（publisher）
 - [[Bara no Ki ni Bara no Hanasaku -Das Versprechen-]]（publisher）
-- [[CLANNAD（Key・vndb：r30）]]（publisher）
-- [[Kanon - Best Edition]]（publisher）
+- [[发行版/CLANNAD（Hikarizaka Gaoxiao Zhongwen Bu）]]（publisher）
+- [[发行版/Kanon（Key）]]（publisher）
 - [[Suki na Mono wa Suki Dakara Shouganai!!- RAIN - Sukisyo! Episode ＃3]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

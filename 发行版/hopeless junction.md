@@ -1,16 +1,34 @@
 ---
-entity_id: "release:vndb:r110469:work:vndb:work:v45918"
-type: "release"
-display_title: "hopeless junction"
-release_date: "2023-07-17"
+entity_id: release:vndb:r110469:work:vndb:work:v45918
+type: release
+display_title: hopeless junction
+release_date: '2023-07-17'
 is_all_ages: false
-platform: "win, lin, mac"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win, lin, mac
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r110469"
+  vndb: r110469
 source_urls:
-  vndb: "https://vndb.org/r110469"
+  vndb: https://vndb.org/r110469
+aliases:
+- HOPELESS JUNCTION： cuppy dog barf girl and co
+consolidated_releases:
+- id: r110469
+  title: hopeless junction
+  url: https://vndb.org/r110469
+  release_date: '2023-07-17'
+  platform: win, lin, mac
+  edition_type: complete
+  is_all_ages: false
+- id: r133332
+  title: 'HOPELESS JUNCTION: cuppy dog barf girl and co.'
+  url: https://vndb.org/r133332
+  release_date: '2025-10-01'
+  platform: win, lin, mac
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # hopeless junction

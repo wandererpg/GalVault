@@ -12,9 +12,8 @@ source_urls:
 # H2 Interactive Co., Ltd.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[BlazBlue Centralfiction]]（publisher）
-- [[BlazBlue： Centralfiction（H2 Interactive Co., Ltd・release：）]]（publisher）
-- [[BlazBlue： Centralfiction（H2 Interactive Co., Ltd）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Blazblue Central Fiction Special Edition - NA Physical Release]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

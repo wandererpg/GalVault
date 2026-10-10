@@ -40,7 +40,7 @@ cover_image: "assets/covers/v30919.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Superhuman v0.999999 part1]]
+<!-- AUTO:BEGIN release -->- [[发行版/Sverhchelovek v0.9999b]]
 - [[Sverhchelovek v0.9999b]]<!-- AUTO:END release -->
 
 ## 动画化

@@ -12,10 +12,10 @@ source_urls:
 # Leticiel
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Chuyện tình giữa ANH, TÔI và NÀNG]]（publisher）
-- [[Hirahira Hihiru]]（publisher）
-- [[Kouman Tsuma Kanraku!!! ~Ii Onna Dakedo Ya na Onna~（release：）]]（publisher）
-- [[Vĩnh Hằng Thiếu Nữ]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Ty, ja i ona： Istorija ljubvi - Steam Edition]]（publisher）
+- [[发行版/Hirahira Hihiru（ANIPLEX.EXE）]]（publisher）
+- [[发行版/Kouman Tsuma Kanraku!!! ~Ii Onna Dakedo Ya na Onna~ Download Edition]]（publisher）
+- [[发行版/Ever Maiden ~Daraku no Sono no Otome-tachi~ Download Edition（Liar-soft）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

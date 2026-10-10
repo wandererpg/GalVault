@@ -12,9 +12,9 @@ source_urls:
 # Duojin Miaomiao Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Hanchan Mingqi zhi Shi Feng]]（publisher）
-- [[Hanchan Mingqi zhi Shi Feng（Duojin Miaomiao Hanhuazu・release：）]]（publisher）
-- [[Hanchan Mingqi zhi Shi Feng（Duojin Miaomiao Hanhuazu）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Higurashi no Naku Koro ni Hou + Umineko no Naku Koro ni Saku - Twin Pack（ENTERGRAM・vndb：r11）]]（publisher）
+- [[发行版/Matsuribayashi Hen（07th Expansion）]]（publisher）
+- [[发行版/Himatsubushi Hen（07th Expansion）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

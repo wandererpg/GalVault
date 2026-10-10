@@ -12,15 +12,15 @@ source_urls:
 # ExGames
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Adastra（ExGames）]]（publisher）
-- [[Arches（ExGames）]]（publisher）
-- [[Burrows v0.6]]（publisher）
-- [[Dawn Chorus v0.42.5]]（publisher）
-- [[Echo（ExGames）]]（publisher）
-- [[Promises to Keep - v0.6]]（publisher）
-- [[Repeat v0.7]]（publisher）
-- [[Temptation's Ballad v0.2.7]]（publisher）
-- [[Tennis Ace v0.66]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Adastra]]（publisher）
+- [[发行版/Arches]]（publisher）
+- [[发行版/Shouxue v0.4]]（publisher）
+- [[发行版/Dawn Chorus v0.56]]（publisher）
+- [[发行版/Echo (1 Year Anniversary Version)]]（publisher）
+- [[发行版/Promises to Keep - v0.10]]（publisher）
+- [[发行版/Repeat v0.8.1.3（release：）]]（publisher）
+- [[发行版/Temptation's Ballad v0.2.9]]（publisher）
+- [[发行版/Tennis Ace v0.87]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

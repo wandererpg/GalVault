@@ -12,7 +12,7 @@ source_urls:
 # Berkay Koç
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Little Busters!（vndb：r35）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Little Busters! English Edition（Key）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

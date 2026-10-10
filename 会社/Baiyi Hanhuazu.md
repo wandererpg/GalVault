@@ -12,7 +12,7 @@ source_urls:
 # Baiyi Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Jun Yu Couples ~ Ta he Ta Xianglian de Liang Ge Yue Duo Yi Dian]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Kimihane Couples ~Kanojo to Kanojo no Koi Suru Nikagetsu Chotto~ Download Edition]]（publisher）
 - [[Wushang de Baiheling ~Full Chorus~]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

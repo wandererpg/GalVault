@@ -102,9 +102,9 @@ cover_image: "assets/covers/v31675.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Desert Stalker ［v0.21.4］]]
+<!-- AUTO:BEGIN release -->- [[发行版/Desert Stalker ［v0.21.4］（ZetanDS）]]
 - [[Desert Stalker ［v0.21.4］（ZetanDS）]]
-- [[Pustynnyj Stalker v0.20.3.1]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

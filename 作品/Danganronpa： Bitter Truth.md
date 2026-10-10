@@ -1,13 +1,21 @@
 ---
-entity_id: "vndb:work:v62452"
-type: "work"
-display_title: "Danganronpa: Bitter Truth"
-title_status: "unresolved"
+entity_id: vndb:work:v62452
+type: work
+display_title: 'Danganronpa: Bitter Truth'
+title_status: unresolved
 source_ids:
-  vndb: "v62452"
+  vndb: v62452
 source_urls:
-  vndb: "https://vndb.org/v62452"
-cover_image: "assets/covers/v62452.webp"
+  vndb: https://vndb.org/v62452
+cover_image: assets/covers/v62452.webp
+vndb_title: 'Danganronpa: Bitter Truth'
+vndb_content_updated: '2026-10-10'
+title_en: 'Danganronpa: Bitter Truth'
+vndb_vote_count: 0
+vndb_length: 1
+vndb_languages: []
+vndb_platforms: []
+vndb_devstatus: 2
 ---
 
 # Danganronpa: Bitter Truth
@@ -36,10 +44,21 @@ cover_image: "assets/covers/v62452.webp"
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
 
 ## 关联作品
-<!-- AUTO:BEGIN relation -->- [[弹丸论破 希望的学园与绝望的高中生]]（ser）<!-- AUTO:END relation -->
+<!-- AUTO:BEGIN relation -->
+- [[弹丸论破 希望的学园与绝望的高中生]]（ser）
+- [[作品/弹丸论破 希望的学园与绝望的高中生|Dangan Ronpa: Kibou no Gakuen to Zetsubou no Koukousei]]（ser）
+<!-- AUTO:END relation -->
 
 ## 标签
-<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+<!-- AUTO:BEGIN tag -->
+- [Homicide](https://vndb.org/g1343)
+- [ADV](https://vndb.org/g32)
+<!-- AUTO:END tag -->
 
 ## 来源
 <!-- AUTO:BEGIN provenance -->vndb:v62452<!-- AUTO:END provenance -->
+
+
+## VNDB 资料来源
+
+[VNDB：v62452](https://vndb.org/v62452)，补全于 2026-10-10。

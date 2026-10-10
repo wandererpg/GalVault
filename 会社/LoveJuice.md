@@ -12,9 +12,8 @@ source_urls:
 # LoveJuice
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Bikyaku Seido Kaichou Ai ＂Ko, Kono Hentai! Watashi no Tights ni Nante Koto o...!＂ - Download Edition]]（publisher）
-- [[Bikyaku Seido Kaichou Ai ＂Ko, Kono Hentai! Watashi no Tights ni Nante Koto o...!＂ - Low Price Edition]]（publisher）
-- [[Bikyaku Seido Kaichou Ai ＂Ko, Kono Hentai! Watashi no Tights ni Nante Koto o...!＂ Limited Edition]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Bikyaku Seido Kaichou Ai ＂Ko, Kono Hentai! Watashi no Tights ni Nante Koto o...!＂ - Low Price Edition DVDPG]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

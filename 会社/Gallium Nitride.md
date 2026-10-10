@@ -12,7 +12,7 @@ source_urls:
 # Gallium Nitride
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ni yu Binv he Binv zhi Lian]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Ty, ja i ona： Istorija ljubvi - Steam Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -1,16 +1,58 @@
 ---
-entity_id: "release:vndb:r95960:work:vndb:work:v38324"
-type: "release"
-display_title: "Butterfly Soup 2"
-release_date: "2022-10-29"
+entity_id: release:vndb:r95960:work:vndb:work:v38324
+type: release
+display_title: Butterfly Soup 2
+release_date: '2022-10-29'
 is_all_ages: true
-platform: "win, lin, mac"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win, lin, mac
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r95960"
+  vndb: r95960
 source_urls:
-  vndb: "https://vndb.org/r95960"
+  vndb: https://vndb.org/r95960
+aliases:
+- Butterfly Soup 2 v1.04
+- Butterfly Soup 2 v1.06
+- Butterfly Soup 2 v1.10
+- Butterfly Soup 2 v1.14
+consolidated_releases:
+- id: r95960
+  title: Butterfly Soup 2
+  url: https://vndb.org/r95960
+  release_date: '2022-10-29'
+  platform: win, lin, mac
+  edition_type: complete
+  is_all_ages: true
+- id: r138164
+  title: Butterfly Soup 2 v1.14
+  url: https://vndb.org/r138164
+  release_date: '2025-07-04'
+  platform: win, lin, mac
+  edition_type: complete
+  is_all_ages: true
+- id: r105741
+  title: Butterfly Soup 2 v1.10
+  url: https://vndb.org/r105741
+  release_date: '2023-02-23'
+  platform: win, lin, mac
+  edition_type: complete
+  is_all_ages: true
+- id: r103892
+  title: Butterfly Soup 2 v1.06
+  url: https://vndb.org/r103892
+  release_date: '2023-01-14'
+  platform: win, lin, mac
+  edition_type: complete
+  is_all_ages: true
+- id: r98836
+  title: Butterfly Soup 2 v1.04
+  url: https://vndb.org/r98836
+  release_date: '2022-11-22'
+  platform: win, lin, mac
+  edition_type: complete
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Butterfly Soup 2

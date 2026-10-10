@@ -12,7 +12,7 @@ source_urls:
 # Buguniao Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[TS Mofa Shaonü Shan!2nd!!]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/TS Mahou Shoujo Nao! 2nd!! Package Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

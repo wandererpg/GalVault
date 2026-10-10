@@ -20,6 +20,7 @@ cover_image: "assets/covers/v5883.webp"
 
 # ROBOTICS;NOTES
 
+
 ## 封面
 <!-- AUTO:BEGIN image -->
 ![[assets/covers/v5883.webp|300]]
@@ -139,32 +140,9 @@ cover_image: "assets/covers/v5883.webp"
 - [[Yoshino Hiroyuki]]（吉野 裕行）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Jiqiren Biji Elite]]
-- [[Jiqiren Biji Elite（RNE Hanhuazu）]]
-- [[Jixiexue Baogao - Special Edition]]
-- [[Jixiexue Baogao]]
-- [[ROBOTICS;NOTES ELITE & DaSH Double Pack - EU Package Edition]]
-- [[ROBOTICS;NOTES ELITE & DaSH Double Pack - EU Package Edition（Numskull Games Ltd）]]
-- [[ROBOTICS;NOTES ELITE & DaSH Double Pack - NA Package Edition]]
-- [[ROBOTICS;NOTES ELITE & DaSH Double Pack - NA Package Edition（MAGES）]]
-- [[ROBOTICS;NOTES ELITE - Download Edition]]
-- [[ROBOTICS;NOTES ELITE - Download Edition（MAGES）]]
-- [[ROBOTICS;NOTES ELITE Steam Improvement Patch]]
-- [[ROBOTICS;NOTES ELITE]]
+<!-- AUTO:BEGIN release -->- [[发行版/ROBOTICS;NOTES ELITE（MAGES・release：）]]
 - [[ROBOTICS;NOTES ELITE（MAGES・release：）]]
-- [[ROBOTICS;NOTES ELITE（MAGES・vndb：r57）]]
-- [[Robotics;Notes - First Press Limited Edition]]
-- [[Robotics;Notes - First Press Limited Edition（MAGES）]]
-- [[Robotics;Notes - Regular Edition]]
-- [[Robotics;Notes - Regular Edition（MAGES）]]
-- [[Robotics;Notes - Value Set]]
-- [[Robotics;Notes - Value Set（MAGES）]]
-- [[Robotics;Notes Elite - Limited Edition]]
-- [[Robotics;Notes Elite - Regular Edition]]
-- [[Robotics;Notes Elite Translation Improvement Patch for Switch]]
-- [[Robotics;Notes Elite（MAGES）]]
-- [[Robotics;Notes Elite（release：）]]
-- [[Robotics;Notes]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

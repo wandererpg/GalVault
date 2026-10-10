@@ -31,7 +31,7 @@ portrait_image: "assets/characters/c35905.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Taishou x Alice Episode III - Regular Edition]]（side）<!-- AUTO:END character -->
+<!-- AUTO:BEGIN character -->- [[发行版/Dazheng × Duichen Alice  all in one Regular Edition]]（side）<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Shimamura Yuu]]（声优：嶋村 侑）<!-- AUTO:END voice -->

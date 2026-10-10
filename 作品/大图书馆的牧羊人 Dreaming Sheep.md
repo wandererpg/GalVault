@@ -110,20 +110,9 @@ cover_image: "assets/covers/v12480.webp"
 - [[Yuuki Serika]]（波奈束 風景）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Daitoshokan no Hitsujikai -Dreaming Sheep- Download Edition]]
-- [[Daitoshokan no Hitsujikai -Dreaming Sheep- First Press Limited Edition Premium Pack]]
-- [[Daitoshokan no Hitsujikai -Dreaming Sheep- First Press Limited Edition Standard Pack]]
-- [[Daitoshokan no Hitsujikai -Dreaming Sheep- Regular Edition]]
-- [[Daitoshokan no Hitsujikai -Library Party- Download Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Daitoshokan no Hitsujikai -Library Party- Download Edition（ARIA・release：）]]
 - [[Daitoshokan no Hitsujikai -Library Party- Download Edition（ARIA・release：）]]
-- [[Daitoshokan no Hitsujikai -Library Party- Limited Edition]]
-- [[Daitoshokan no Hitsujikai -Library Party- Limited Edition（ARIA・k：v12480）]]
-- [[Daitoshokan no Hitsujikai -Library Party- Limited Edition（ARIA・release：）]]
-- [[Daitoshokan no Hitsujikai -Library Party- Package Edition]]
-- [[Daitoshokan no Hitsujikai -Library Party- Package Edition（ARIA・release：）]]
-- [[Daitoshokan no Hitsujikai -Library Party-]]
-- [[Daitoshokan no Hitsujikai -Library Party-（ARIA・release：）]]
-- [[Datushuguan de Muyangren - Dreaming Sheep]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

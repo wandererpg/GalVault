@@ -12,15 +12,10 @@ source_urls:
 # Zetsubou Games
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Sable's Grimoire： A Dragon's Treasure - 18+ Patch]]（developer）
-- [[Sable's Grimoire： A Dragon's Treasure - 18+ Patch]]（publisher）
-- [[Sable's Grimoire： A Dragon's Treasure - Censored Edition]]（developer）
-- [[Sable's Grimoire： A Dragon's Treasure - Censored Edition]]（publisher）
-- [[Sable's Grimoire： A Dragon's Treasure - Censored Edition（release：）]]（developer）
-- [[Sable's Grimoire： A Dragon's Treasure - Censored Edition（release：）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Sable's Grimoire： A Dragon's Treasure]]（developer）
+- [[发行版/Sable's Grimoire： A Dragon's Treasure]]（publisher）
 - [[Sable's Grimoire： A Dragon's Treasure]]（developer）
-- [[Sable's Grimoire： A Dragon's Treasure（release：）]]（developer）
-- [[Sable's Grimoire： A Dragon's Treasure（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

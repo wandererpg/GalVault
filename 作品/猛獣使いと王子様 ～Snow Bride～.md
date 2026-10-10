@@ -80,25 +80,9 @@ cover_image: "assets/covers/v7815.webp"
 - [[Ueda Youji]]（上田 燿司）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Beastmaster and Princes： After Story w／ Japanese Voice Acting]]
-- [[Beastmaster and Princes： After Story]]
-- [[Beastmaster and Princes： Date Story]]
-- [[Beastmaster and Princes： Franz's Diary]]
-- [[Beastmaster and Princes： Nightlight Festival]]
-- [[Beastmaster and Princes： Side Story]]
-- [[Moujuutsukai to Ouji-sama - Twin Pack]]
-- [[Moujuutsukai to Ouji-sama Flower & Snow]]
-- [[Moujuutsukai to Ouji-sama ~Flower & Snow~ Download Edition]]
-- [[Moujuutsukai to Ouji-sama ~Flower & Snow~ Package Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Moujuutsukai to Ouji-sama ~Flower ＆ Snow~ for Nintendo Switch - Download Edition]]
 - [[Moujuutsukai to Ouji-sama ~Flower ＆ Snow~ for Nintendo Switch - Download Edition]]
-- [[Moujuutsukai to Ouji-sama ~Flower ＆ Snow~ for Nintendo Switch - Limited Edition]]
-- [[Moujuutsukai to Ouji-sama ~Flower ＆ Snow~ for Nintendo Switch]]
-- [[Moujuutsukai to Ouji-sama ~Snow Bride~ Limited Edition]]
-- [[Moujuutsukai to Ouji-sama ~Snow Bride~ Portable - Limited Edition]]
-- [[Moujuutsukai to Ouji-sama ~Snow Bride~ Portable - Twin Pack]]
-- [[Moujuutsukai to Ouji-sama ~Snow Bride~ Portable]]
-- [[Moujuutsukai to Ouji-sama ~Snow Bride~]]
-- [[Moujuutsukai to Ouji-sama ~Snow Bride~（snow rowan）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

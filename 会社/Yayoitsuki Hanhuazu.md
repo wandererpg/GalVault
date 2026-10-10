@@ -12,13 +12,13 @@ source_urls:
 # Yayoitsuki Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Gongjie Qingyuan de Jianwu Lianqu -Chun Lian'ge- Trial Version]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Kizuna Kirameku Koi Iroha -Tsubaki Renka- Original Work Bundled Edition]]（publisher）
 - [[Meishaonv Wanhuajing -Tiandao yu Migong de Shaonv-]]（publisher）
-- [[Qian zhi Rentao, Taohua Ran zhi Huangji -Liu An Hua Ming-]]（publisher）
-- [[Qian zhi Rentao, Taohua Ran zhi Huangji]]（publisher）
-- [[Xiongxing Zhuangzhi - Ambitious Mission]]（publisher）
-- [[Yinghua, Mengfang. - Trial Version]]（publisher）
-- [[Zhong zhi Kong Remake（Yayoitsuki Hanhuazu）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Sen no Hatou, Tsukisome no Kouki -Hana Akari- Senmomo Nidanjuu Pack（AUGUST）]]（publisher）
+- [[发行版/Sen no Hatou, Tsukisome no Kouki - Download Edition]]（publisher）
+- [[发行版/AMBITIOUS MISSION + Kakenuke★Seishun Sparking! Set Edition]]（publisher）
+- [[发行版/Yinghua, Mengfang. -as the Night's, Reincarnation-（Syawase Works）]]（publisher）
+- [[发行版/Subarashiki Hibi ~Furenzoku Sonzai~ 10th Anniversary Special Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

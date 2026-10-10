@@ -41,8 +41,7 @@ cover_image: "assets/covers/v24561.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Endless Summer, Book 1]]
-- [[Endless Summer, Book 2]]
+<!-- AUTO:BEGIN release -->- [[发行版/Endless Summer, Book 3]]
 - [[Endless Summer, Book 3]]<!-- AUTO:END release -->
 
 ## 动画化

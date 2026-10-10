@@ -12,9 +12,8 @@ source_urls:
 # M-Trix Inc.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Chaos;Head Noah HD for iPad]]（publisher）
-- [[Chaos;Head Noah for iPhone／iPod Touch]]（publisher）
-- [[Memories Off 2nd - iPhone／iPad edition]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Chaos;Head Noah - Regular Edition]]（publisher）
+- [[发行版/Memories Off Historia - Super Limited Edition（MAGES・vndb：r11）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

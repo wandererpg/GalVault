@@ -1,16 +1,59 @@
 ---
-entity_id: "release:vndb:r123278:work:vndb:work:v47011"
-type: "release"
-display_title: "Trouble Magia ~Wakeari Shoujo wa Mirai o Kachitoru Tame ni Ikoku no Mahou Gakkou e Ryuugaku Shimasu~ Special Edition"
-release_date: "2024-09-12"
+entity_id: release:vndb:r123278:work:vndb:work:v47011
+type: release
+display_title: Trouble Magia ~Wakeari Shoujo wa Mirai o Kachitoru Tame ni Ikoku no Mahou Gakkou e Ryuugaku Shimasu~ Special
+  Edition
+release_date: '2024-09-12'
 is_all_ages: true
-platform: "swi"
-edition_type: "complete"
-title_status: "needs_review"
+platform: swi
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r123278"
+  vndb: r123278
 source_urls:
-  vndb: "https://vndb.org/r123278"
+  vndb: https://vndb.org/r123278
+aliases:
+- Mofa Qi Yu ~You Kuzhong de Shaonü Wei Yingqu Weilai Qianwang Yiguo Mofa Xuexiao Liuxue~
+- Trouble Magia ~ Shaonv yin Mouxieyuangu weile yingqu Weilai qianwang Guowaimofaxuexiao liuxue ~
+- Trouble Magia ~Wakeari Shoujo wa Mirai o Kachitoru Tame ni Ikoku no Mahou Gakkou e Ryuugaku Shimasu~
+- Trouble Magia ~Wakeari Shoujo wa Mirai o Kachitoru Tame ni Ikoku no Mahou Gakkou e Ryuugaku Shimasu~ DL Edition
+consolidated_releases:
+- id: r123278
+  title: Trouble Magia ~Wakeari Shoujo wa Mirai o Kachitoru Tame ni Ikoku no Mahou Gakkou e Ryuugaku Shimasu~ Special Edition
+  url: https://vndb.org/r123278
+  release_date: '2024-09-12'
+  platform: swi
+  edition_type: complete
+  is_all_ages: true
+- id: r123280
+  title: Trouble Magia ~Wakeari Shoujo wa Mirai o Kachitoru Tame ni Ikoku no Mahou Gakkou e Ryuugaku Shimasu~ DL Edition
+  url: https://vndb.org/r123280
+  release_date: '2024-09-12'
+  platform: swi
+  edition_type: complete
+  is_all_ages: true
+- id: r112882
+  title: Trouble Magia ~Wakeari Shoujo wa Mirai o Kachitoru Tame ni Ikoku no Mahou Gakkou e Ryuugaku Shimasu~
+  url: https://vndb.org/r112882
+  release_date: '2024-09-12'
+  platform: swi
+  edition_type: complete
+  is_all_ages: true
+- id: r139146
+  title: Trouble Magia ~ Shaonv yin Mouxieyuangu weile yingqu Weilai qianwang Guowaimofaxuexiao liuxue ~
+  url: https://vndb.org/r139146
+  release_date: '2025-07-20'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+- id: r141077
+  title: Mofa Qi Yu ~You Kuzhong de Shaonü Wei Yingqu Weilai Qianwang Yiguo Mofa Xuexiao Liuxue~
+  url: https://vndb.org/r141077
+  release_date: '2026'
+  platform: swi
+  edition_type: complete
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Trouble Magia ~Wakeari Shoujo wa Mirai o Kachitoru Tame ni Ikoku no Mahou Gakkou e Ryuugaku Shimasu~ Special Edition

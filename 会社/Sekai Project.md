@@ -11,68 +11,40 @@ source_urls:
 # Sekai Project
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[9-nine- Haruiro Harukoi Harunokaze - Censored Edition]]（publisher）
-- [[9-nine- Sorairo Sorauta Soranooto - Censored Edition]]（publisher）
-- [[9-nine- Yukiiro Yukihana Yukinoato - Censored Edition]]（publisher）
-- [[A Clockwork Ley-Line Limited Box Set]]（publisher）
-- [[A Clockwork Ley-Line Limited Box Set（Sekai Project）]]（publisher）
-- [[A Clockwork Ley-Line： Daybreak of Remnants Shadow - Censored Edition]]（publisher）
-- [[A Clockwork Ley-Line： Flowers Falling in the Morning Mist - Censored Edition]]（publisher）
-- [[Amairo Chocolate 3 - Censored Edition]]（publisher）
-- [[Amatsutsumi - Censored Edition]]（publisher）
-- [[Baldr Sky（Sekai Project・release：）]]（publisher）
-- [[Baldr Sky（Sekai Project）]]（publisher）
-- [[CLANNAD - Kickstarter Limited Edition]]（publisher）
-- [[CLANNAD - Steam Edition（Sekai Project・release：）]]（publisher）
-- [[CLANNAD - Steam Edition（Sekai Project）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/9-nine- Download Edition（Palette・k：v23740）]]（publisher）
+- [[发行版/9-nine- Download Edition（Palette・vndb：r83）]]（publisher）
+- [[发行版/9-nine- Download Edition（Palette・k：v26523）]]（publisher）
+- [[发行版/Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Package Edition（Unison Shift： Blossom・release：）]]（publisher）
+- [[发行版/Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Package Edition（Unison Shift： Blossom）]]（publisher）
+- [[发行版/Amairo Chocolata 1, 2, 3 Complete Pack - Dakimakura Included Limited Edition]]（publisher）
+- [[发行版/Amatsutsumi - Download Edition]]（publisher）
+- [[发行版/Baldr Sky Dive2 ＂Recordare＂ - First Press Edition]]（publisher）
+- [[发行版/Baldr Sky Dive1 ＂Lost Memory＂ - First Press Edition]]（publisher）
+- [[发行版/CLANNAD（Hikarizaka Gaoxiao Zhongwen Bu）]]（publisher）
 - [[Changgui Tuoli Creative - Censored Edition]]（publisher）
-- [[Changgui Tuoli Creative 18+ DLC]]（publisher）
+- [[发行版/Changgui Tuoli Creative - Censored Edition]]（publisher）
 - [[Changgui Tuoli Creative Tu]]（publisher）
-- [[G-senjou no Maou - The Devil on G-String - Voiced Edition]]（publisher）
-- [[G-senjou no Maou - The Devil on G-String - Voiceless Edition]]（publisher）
-- [[Grisaia Trilogy - Package Edition]]（publisher）
-- [[Grisaia Trilogy - Package Edition（Sekai Project・release：）]]（publisher）
-- [[Grisaia Trilogy - Package Edition（Sekai Project）]]（publisher）
-- [[Hamidashi Creative（Sekai Project）]]（publisher）
-- [[Hoshizora no Memoria -Wish upon a Shooting Star- Censored Edition]]（publisher）
-- [[Hoshizora no Memoria -Wish upon a Shooting Star- Censored Edition（Sekai Project）]]（publisher）
-- [[Hoshizora no Memoria -Wish upon a Shooting Star- Complete Box]]（publisher）
-- [[Hoshizora no Memoria -Wish upon a Shooting Star- Deluxe Box Set]]（publisher）
-- [[Hoshizora no Memoria -Wish upon a Shooting Star- HD Censored Edition]]（publisher）
-- [[Hoshizora no Memoria -Wish upon a Shooting Star- HD Censored Edition（Sekai Project）]]（publisher）
-- [[Hoshizora no Memoria -Wish upon a Shooting Star- Kickstarter Beta Edition]]（publisher）
-- [[Jewelry Heart Academia - Censored Edition]]（publisher）
-- [[Jianman Renxing HIGH SPEC OC - Censored Edition]]（publisher）
-- [[Maitetsu（Sekai Project）]]（publisher）
+- [[发行版/G-senjou no Maou（Aegis）]]（publisher）
+- [[发行版/The Grisaia Trilogy]]（publisher）
+- [[发行版/The Grisaia Trilogy（PROTOTYPE・release：）]]（publisher）
+- [[发行版/The Grisaia Trilogy（PROTOTYPE）]]（publisher）
+- [[发行版/Hoshizora no Memoria HD -Shooting Star & Eternal Heart Anniversary BOX- Download Edition]]（publisher）
+- [[发行版/Jewelry Hearts Academia -We will wing wonder world- Dakimakura Cover Included Limited Edition]]（publisher）
+- [[发行版/Wagamama High Spec OC - First Press Edition]]（publisher）
+- [[发行版/Maitetsu Remaster]]（publisher）
 - [[Muv-Luv Alternative - Steam Edition]]（publisher）
-- [[Muv-Luv Photonflowers＊（aNCHOR Inc）]]（publisher）
-- [[NICE TO MEET YOU, AGAIN - Censored Edition]]（publisher）
-- [[Nanairo Reincarnation]]（publisher）
-- [[Planetarian ~the reverie of a little planet~ Steam Edition]]（publisher）
-- [[Please Be Happy - Demo（Sekai Project）]]（publisher）
+- [[发行版/Kimi ga Ita Kisetsu - Download Edition]]（publisher）
+- [[发行版/Nandome ka no Hajimemashite - Deluxe Edition ［Quaere Verum Set］]]（publisher）
+- [[发行版/Nanairo Reincarnation Akeiro Kaikitan Multi-pack]]（publisher）
+- [[发行版/Planetarian ~The Reverie of a Little Planet~（release：）]]（publisher）
+- [[发行版/Please Be Happy（Sekai Project）]]（publisher）
 - [[Please Be Happy（Sekai Project）]]（publisher）
-- [[Rewrite+ Physical edition]]（publisher）
-- [[Rewrite+ Uncut DLC]]（publisher）
-- [[Rewrite+]]（publisher）
-- [[Rewrite+（Sekai Project）]]（publisher）
-- [[Root Double -Before Crime ＊ After Days- Xtend Edition - Download Edition]]（publisher）
-- [[Root Double -Before Crime ＊ After Days- Xtend Edition - EU Download Edition]]（publisher）
-- [[Root Double -Before Crime ＊ After Days- Xtend Edition - Kickstarter Exclusive Physical Collector's Edition]]（publisher）
-- [[Root Double -Before Crime ＊ After Days- Xtend Edition - Kickstarter Exclusive Physical Edition]]（publisher）
-- [[Root Double -Before Crime ＊ After Days- Xtend Edition - NA Download Edition]]（publisher）
-- [[The Eden of Grisaia - Steam Edition]]（publisher）
-- [[The Fruit of Grisaia - Package Edition]]（publisher）
-- [[The Fruit of Grisaia - Steam Edition]]（publisher）
-- [[The Labyrinth of Grisaia - Steam Edition]]（publisher）
-- [[Uso kara Hajimaru Koi no Natsu - Trial Version]]（publisher）
-- [[Uso kara Hajimaru Koi no Natsu]]（publisher）
-- [[WAGAMAMA HIGH SPEC OC - Censored Edition]]（publisher）
-- [[fault - milestone two side：above]]（publisher）
-- [[fault - milestone two side：above（Sekai Project・release：）]]（publisher）
-- [[fault - milestone two side：above（Sekai Project・vndb：r60）]]（publisher）
-- [[fault - milestone two side：above（Sekai Project・vndb：r61）]]（publisher）
+- [[发行版/Rewrite - Download Edition（Key）]]（publisher）
+- [[发行版/Root Double -Before Crime ＊ After Days- Xtend Edition - Limited Edition]]（publisher）
+- [[发行版/Uso kara Hajimaru Koi no Natsu - Regular Package Edition]]（publisher）
+- [[发行版/fault - milestone two side：above（Sekai Project）]]（publisher）
 - [[fault - milestone two side：above（Sekai Project）]]（publisher）
-- [[fault milestone two Demo]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -13,7 +13,7 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Boku no Kanojo wa Gatenkei／Kanojo ga Shita Koto, Boku ga Sareta Koto／Kyonyuu Tsuma Kanzen Hokaku Keikaku／Boku no Tsuma ga Aitsu ni Netoraremashita. - Windows 10 Support]]（publisher）
-- [[Doukyuusei 2 - DMM Edition]]（publisher）
+- [[发行版/Doukyuusei 2 - Extra Box]]（publisher）
 - [[Kawarazaki-ke no Ichizoku 2 - Complete Edition - Windows 10 Support]]（publisher）
 - [[Kono Yo no Hate de Koi o Utau Shoujo YU-NO - Windows 10 Support Edition]]（publisher）<!-- AUTO:END duty -->
 

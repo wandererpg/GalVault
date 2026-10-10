@@ -31,7 +31,7 @@ portrait_image: "assets/characters/c10316.webp"
 
 ## 出场作品
 <!-- AUTO:BEGIN character -->- [[Kono Aozora ni Yakusoku o： Te no Hira No Rakuen - Deluxe Pack Edition]]（primary）
-- [[Kono Aozora ni Yakusoku o： Te no Hira No Rakuen - Regular Edition]]（primary）<!-- AUTO:END character -->
+- [[发行版/Kono Aozora ni Yakusoku o： Te no Hira No Rakuen - Deluxe Pack Edition]]（primary）<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Yuimoto Michiru]]（声优：佐本 二厘）<!-- AUTO:END voice -->

@@ -12,9 +12,7 @@ source_urls:
 # Kogado Girls Project
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[OVER REQUIEMZ - Download Edition]]（developer）
-- [[OVER REQUIEMZ - Regular Edition]]（developer）
-- [[OVER REQUIEMZ - Special Edition]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/OVER REQUIEMZ Aozi Guo Anhun Qu Regular Edition]]（developer）
 - [[OVER REQUIEMZ]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

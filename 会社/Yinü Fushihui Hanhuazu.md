@@ -12,9 +12,8 @@ source_urls:
 # Yinü Fushihui Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Dazheng x Duichen ALICE III]]（publisher）
-- [[Dazheng x Duichen ALICE II]]（publisher）
-- [[Dazheng x Duichen ALICE I]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Dazheng × Duichen Alice  all in one Regular Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

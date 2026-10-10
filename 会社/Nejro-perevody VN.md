@@ -12,12 +12,12 @@ source_urls:
 # Nejro-perevody VN
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Amakano 3（Nejro-perevody VN）]]（publisher）
-- [[LimeLight Lemonade Jam（Nejro-perevody VN）]]（publisher）
-- [[Monobeno -Happy End-（Nejro-perevody VN）]]（publisher）
-- [[Otokano ~Otouto no Kanojo ga Bunkei de Tsuyome!？~（Nejro-perevody VN）]]（publisher）
-- [[Polden', vethij dom i zamuzhnie zhenschiny： Padenie v bezumie v zamknutom prostranstve]]（publisher）
-- [[Ryuusei World Actor： Gaslight Bullet（Nejro-perevody VN）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Amakano 3（Angkringan Visual Novel）]]（publisher）
+- [[发行版/Ju Guang Ning Shui Sui Xiang Qu]]（publisher）
+- [[发行版/Monobeno -Pure Smile- Regular Edition]]（publisher）
+- [[发行版/Otokano ~Otouto no Kanojo ga Bunkei de Tsuyome!？~ Download Edition]]（publisher）
+- [[发行版/Hirusagari no Boro Apart to Hitozuma-tachi ~Heisa Kuukan de Kurui Ochiteiku~ + Bonus CG Collection]]（publisher）
+- [[发行版/Ryuusei World Actor： Gaslight Bullet - Dai Nana Kyouwakoku Shukkoku Pack]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

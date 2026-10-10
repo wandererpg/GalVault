@@ -30,7 +30,7 @@ portrait_image: "assets/characters/c105882.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Club Suicide - Complete Edition]]（primary）
+<!-- AUTO:BEGIN character -->- [[发行版/Club Suicide - Complete Edition（MORPATH）]]（primary）
 - [[Club Suicide - Complete Edition（MORPATH）]]（primary）<!-- AUTO:END character -->
 
 ## 声优

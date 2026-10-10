@@ -50,7 +50,7 @@ cover_image: "assets/covers/v35919.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[The Hero's Journey - NSFW Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/The Hero's Journey]]
 - [[The Hero's Journey]]<!-- AUTO:END release -->
 
 ## 动画化

@@ -1,16 +1,58 @@
 ---
-entity_id: "release:vndb:r1383:work:vndb:work:v697"
-type: "release"
-display_title: "Hotel Dusk: Room 215 - NA Edition"
-release_date: "2007-01-22"
+entity_id: release:vndb:r1383:work:vndb:work:v697
+type: release
+display_title: 'Hotel Dusk: Room 215 - NA Edition'
+release_date: '2007-01-22'
 is_all_ages: true
-platform: "nds"
-edition_type: "complete"
-title_status: "needs_review"
+platform: nds
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r1383"
+  vndb: r1383
 source_urls:
-  vndb: "https://vndb.org/r1383"
+  vndb: https://vndb.org/r1383
+aliases:
+- Hotel Dusk-eui Bimil
+- Hotel Dusk： Room 215 - EU Edition
+- Huanghun Lüguan： 215 Fangjian
+- Wish Room： Tenshi no Kioku
+consolidated_releases:
+- id: r1383
+  title: 'Hotel Dusk: Room 215 - NA Edition'
+  url: https://vndb.org/r1383
+  release_date: '2007-01-22'
+  platform: nds
+  edition_type: complete
+  is_all_ages: true
+- id: r4854
+  title: 'Hotel Dusk: Room 215 - EU Edition'
+  url: https://vndb.org/r4854
+  release_date: '2007-04-13'
+  platform: nds
+  edition_type: complete
+  is_all_ages: true
+- id: r1382
+  title: 'Wish Room: Tenshi no Kioku'
+  url: https://vndb.org/r1382
+  release_date: '2007-01-25'
+  platform: nds
+  edition_type: complete
+  is_all_ages: true
+- id: r35108
+  title: 'Huanghun Lüguan: 215 Fangjian'
+  url: https://vndb.org/r35108
+  release_date: '2009-07-18'
+  platform: nds
+  edition_type: complete
+  is_all_ages: true
+- id: r79022
+  title: Hotel Dusk-eui Bimil
+  url: https://vndb.org/r79022
+  release_date: '2009-02-12'
+  platform: nds
+  edition_type: complete
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Hotel Dusk: Room 215 - NA Edition

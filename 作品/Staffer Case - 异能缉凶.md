@@ -80,14 +80,9 @@ cover_image: "assets/covers/v50735.webp"
 - [[Yonezawa Takashi]]（よねざわ たかし）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Staffer Case： Choneungnyeok Churi Adventure - Deluxe Edition]]
-- [[Staffer Case： Choneungnyeok Churi Adventure - Download Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Staffer Case： Choneungnyeok Churi Adventure - JP Package Edition]]
 - [[Staffer Case： Choneungnyeok Churi Adventure - JP Package Edition]]
-- [[Staffer Case： Choneungnyeok Churi Adventure - Regular Edition]]
-- [[Staffer Case： Choneungnyeok Churi Adventure Case 1 & 2]]
-- [[Staffer Case： Choneungnyeok Churi Adventure Case 1 & 2（Team Tetrapod）]]
-- [[Staffer Case： Choneungnyeok Churi Adventure]]
-- [[Staffer Case： Choneungnyeok Churi Adventure（Team Tetrapod）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -12,24 +12,10 @@ source_urls:
 # Spike
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[428 ~Fuusa Sareta Shibuya de~ Spike the Best]]（publisher）
-- [[428 ~Fuusa Sareta Shibuya de~]]（publisher）
-- [[428 ~Fuusa Sareta Shibuya de~（Spike・release：）]]（publisher）
-- [[428 ~Fuusa Sareta Shibuya de~（Spike）]]（publisher）
-- [[Dangan Ronpa： Kibou no Gakuen to Zetsubou no Koukousei - PSP the Best]]（developer）
-- [[Dangan Ronpa： Kibou no Gakuen to Zetsubou no Koukousei - PSP the Best]]（publisher）
-- [[Dangan Ronpa： Kibou no Gakuen to Zetsubou no Koukousei - Super High School Grade Limited Box]]（developer）
-- [[Dangan Ronpa： Kibou no Gakuen to Zetsubou no Koukousei - Super High School Grade Limited Box]]（publisher）
-- [[Dangan Ronpa： Kibou no Gakuen to Zetsubou no Koukousei - Trial Edition]]（developer）
-- [[Dangan Ronpa： Kibou no Gakuen to Zetsubou no Koukousei - Trial Edition]]（publisher）
-- [[Dangan Ronpa： Kibou no Gakuen to Zetsubou no Koukousei]]（developer）
-- [[Dangan Ronpa： Kibou no Gakuen to Zetsubou no Koukousei]]（publisher）
-- [[Dangan Ronpa： Kibou no Gakuen to Zetsubou no Koukousei（Spike・release：）]]（developer）
-- [[Dangan Ronpa： Kibou no Gakuen to Zetsubou no Koukousei（Spike・release：）]]（publisher）
-- [[Dangan Ronpa： Kibou no Gakuen to Zetsubou no Koukousei（Spike）]]（developer）
-- [[Dangan Ronpa： Kibou no Gakuen to Zetsubou no Koukousei（Spike）]]（publisher）
-- [[Danganronpa 1・2 Reload]]（developer）
-- [[Danganronpa 1・2 Reload（Spike）]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/428： Shibuya Scramble - EU Package Edition]]（publisher）
+- [[发行版/Danganronpa Decadence - EU Package Edition（Numskull Games Ltd）]]（developer）
+- [[发行版/Danganronpa Decadence - EU Package Edition（Numskull Games Ltd）]]（publisher）
+- [[发行版/Danganronpa Decadence - EU Package Edition（Numskull Games Ltd・release：）]]（developer）
 - [[弹丸论破 希望的学园与绝望的高中生]]（developer）
 - [[超级弹丸论破2 再见绝望学园]]（developer）<!-- AUTO:END duty -->
 

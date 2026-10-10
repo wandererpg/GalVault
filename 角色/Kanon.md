@@ -32,7 +32,7 @@ portrait_image: "assets/characters/c205.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Umineko no Naku Koro ni Chiru - Episode 6 - Dawn of the Golden Witch（07th Expansion）]]（primary）
+<!-- AUTO:BEGIN character -->- [[发行版/Umineko no Naku Koro ni Chiru - Episode 8 - Twilight of the Golden Witch]]（primary）
 - [[海猫鸣泣之时]]（primary）
 - [[海猫鸣泣之时散]]（side）<!-- AUTO:END character -->
 

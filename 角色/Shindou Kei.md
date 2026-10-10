@@ -30,11 +30,9 @@ portrait_image: "assets/characters/c1594.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[ef - a fairy tale of the two. (ef Lite)]]（primary）
-- [[ef - a fairy tale of the two. - First Press Limited Edition]]（primary）
+<!-- AUTO:BEGIN character -->- [[发行版/ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（primary）
 - [[ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（primary）
-- [[ef - the first tale（minori）]]（primary）
-- [[ef - the latter tale（minori）]]（appears）<!-- AUTO:END character -->
+- [[发行版/ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（appears）<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Sakurai Mirei]]（声优：桜井 美鈴）<!-- AUTO:END voice -->

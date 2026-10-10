@@ -98,10 +98,9 @@ cover_image: "assets/covers/v1285.webp"
 - [[Yanaka Mai]]（谷中 麻衣）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Maple Colors 2 - Download Edition]]
-- [[Maple Colors 2 - Trial Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Maple Colors 2]]
 - [[Maple Colors 2]]
-- [[Maple Colors HHH Class Zen'in Ore no Yome! - Deluxe Limited Edition]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -14,8 +14,8 @@ source_urls:
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Z.A.T.O. ／／ I Love the World and Everything In It]]（developer）
 - [[Z.A.T.O. ／／ I Love the World and Everything In It]]（publisher）
-- [[Z.A.T.O. ／／ I Love the World and Everything In It（release：）]]（developer）
-- [[Z.A.T.O. ／／ I Love the World and Everything In It（release：）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Z.A.T.O. ／／ I Love the World and Everything In It]]（developer）
+- [[发行版/Z.A.T.O. ／／ I Love the World and Everything In It]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

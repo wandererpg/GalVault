@@ -12,21 +12,19 @@ source_urls:
 # Meng Nimei Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Baiguang de Valusia ~Hedeng Meihao de Xiwang~]]（publisher）
-- [[Canglan Biduan de Sichongzou - Perfect Edition]]（publisher）
-- [[Cangse Tianqiong Shang de Four Rhythm Perfect Edition]]（publisher）
-- [[Duini shuo Zaijian ~Comment te Dire Adieu~]]（publisher）
-- [[Heyan de Inganock ~Hedeng Meihao de Renmen~ Fullvoice ReBORN Edition]]（publisher）
-- [[Heyan de Inganock ~Hedeng Meihao de Renmen~]]（publisher）
-- [[Huanling -Panghuang yu Wuxian Diyu-]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Liar-soft Selection 20 - Hikari no Valusia ~What a beautiful hopes~]]（publisher）
+- [[发行版/Ao no Kanata no Four Rhythm - Download Edition（sprite）]]（publisher）
+- [[发行版/Sayonara o Oshiete ~Comment te Dire Adieu~ ~AsoBD~]]（publisher）
+- [[发行版/Inganock of the Raging Flame： What a Beautiful People - Censored Edition]]（publisher）
+- [[发行版/Phantom - Phantom of Inferno - Regular Edition]]（publisher）
 - [[Meishaonv Wanhuajing -Tiandao yu Migong de Shaonv-]]（publisher）
-- [[Meishaonü Wanhuajing - Wei Shen Suosheng de Shaonümen -]]（publisher）
-- [[Qise Lunhui（Meng Nimei Hanhuazu）]]（publisher）
-- [[Rose Guns Days Season 1 - Trial]]（publisher）
-- [[Tian'e zhi Ge · Si Wan Ge]]（publisher）
-- [[Tonghua Anhunqu]]（publisher）
-- [[Xu zhi Shaonü - Trial Edition]]（publisher）
-- [[Ziying de Suonani'er ~Hedeng Meihao de Jiyi~]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Bishoujo Mangekyou -Kami ga Tsukuritamouta Shoujo-tachi- Download Edition]]（publisher）
+- [[发行版/Nanairo Reincarnation Akeiro Kaikitan Multi-pack]]（publisher）
+- [[发行版/Rose Guns Days - The Best]]（publisher）
+- [[发行版/Swan Song - Download Edition]]（publisher）
+- [[发行版/Fairytale Symphony]]（publisher）
+- [[发行版/Kara no Shoujo - NEW CAST REMASTER EDITION - Download Edition]]（publisher）
+- [[发行版/Liar-soft Selection 21 - Shiei no Sona-Nyl -What a Beautiful Memories-]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

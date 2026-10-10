@@ -12,11 +12,11 @@ source_urls:
 # luchiv
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Higurashi no Naku Koro ni（release：）]]（publisher）
-- [[Kvest Monstrodev!（release：）]]（publisher）
-- [[Kvest Monstrodev!（rk：v7853）]]（publisher）
-- [[Kvest Monstrodev!（vndb：r15）]]（publisher）
-- [[Saya no Uta（vndb：r14）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Himatsubushi Hen（07th Expansion）]]（publisher）
+- [[发行版/Monmusu Quest! Shuushou ~Makereba Youjo ni Okasareru~]]（publisher）
+- [[发行版/Monmusu Quest! Chuushou ~Makereba Youjo ni Okasareru~]]（publisher）
+- [[发行版/Monmusu Quest! Origins -Assaulted by the Vamp-]]（publisher）
+- [[发行版/Saya no Uta ~ The Song of Saya - Upgrade Patch]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

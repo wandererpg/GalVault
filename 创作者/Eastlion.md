@@ -11,9 +11,9 @@ source_urls:
 # Eastlion
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Devushka v skorlupe - HD ＂Eastlion＂ Patch]]（publisher）
-- [[Steins;Gate（vndb：r14）]]（publisher）
-- [[Steins;Gate（vndb：r64）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Innocent Grey Mystery Collection ~Kara no Shoujo & Pianissimo & Cartagra~]]（publisher）
+- [[发行版/STEINS;GATE - Download Edition（MAGES・release：）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -11,14 +11,12 @@ source_urls:
 # 07th-Mod
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Higurashi When They Cry Hou - Answer Arc 07th-Mod]]（publisher）
-- [[Higurashi When They Cry Hou – Question Arc 07th-Mod]]（publisher）
-- [[Higurashi no Naku Koro ni - Console Arcs Patch（07th-Mod）]]（publisher）
-- [[Higurashi no Naku Koro ni - Console Arcs Patch（Eiserne Jungfrau）]]（publisher）
-- [[Higurashi no Naku Koro ni Hou - Rei 07th-Mod]]（publisher）
-- [[Umineko no Naku Koro ni (Answer Arcs) - PS3 Voice and graphics patch]]（publisher）
-- [[Umineko no Naku Koro ni (Question Arcs) - PS3 Voice and graphics patch]]（publisher）
-- [[Umineko no Naku Koro ni Saku（07th-Mod）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Matsuribayashi Hen（07th Expansion）]]（publisher）
+- [[发行版/Himatsubushi Hen（07th Expansion）]]（publisher）
+- [[发行版/Higurashi no Naku Koro ni Hou + Umineko no Naku Koro ni Saku - Twin Pack（ENTERGRAM・vndb：r11）]]（publisher）
+- [[发行版/Umineko no Naku Koro ni Chiru - Episode 8 - Twilight of the Golden Witch]]（publisher）
+- [[发行版/Umineko no Naku Koro ni - Episode 4 - Alliance of the Golden Witch]]（publisher）
+- [[发行版/Umineko no Naku Koro ni Saku ~Nekobako to Musou no Koukyoukyoku~ Limited Edition（ENTERGRAM）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

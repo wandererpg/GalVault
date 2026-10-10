@@ -12,14 +12,9 @@ source_urls:
 # BLACKRAINBOW
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Kuronijibako - Black Rainbow Box - Download Edition]]（publisher）
-- [[Kuronijibako - Black Rainbow Box - First Press Limited Edition]]（publisher）
-- [[Saiminjutsu 2 - DVDPG]]（developer）
-- [[Saiminjutsu 2 - Download Edition]]（developer）
-- [[Saiminjutsu 2 - Download Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Saiminjutsu 2 - UMD-PG Edition]]（publisher）
+- [[发行版/Saiminjutsu 2 - UMD-PG Edition]]（developer）
 - [[Saiminjutsu 2 - UMD-PG Edition]]（developer）
-- [[Saiminjutsu 2]]（developer）
-- [[Saiminjutsu 2]]（publisher）
 - [[催眠術2]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

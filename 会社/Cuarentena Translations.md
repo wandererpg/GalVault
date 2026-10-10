@@ -12,8 +12,8 @@ source_urls:
 # Cuarentena Translations
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Monmusu Quest! Paradox RPG Chuushou（Cuarentena Translations）]]（publisher）
-- [[Monmusu Quest! Paradox RPG Zenshou（Cuarentena Translations）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Monmusu Quest! Paradox RPG Chuushou]]（publisher）
+- [[发行版/Monmusu Quest! Paradox RPG Zenshou - Package Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,20 +12,10 @@ source_urls:
 # Xuse [Honjouzou]
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Eien no Aselia - Download Edition]]（developer）
-- [[Eien no Aselia - Special Edition]]（developer）
-- [[Eien no Aselia - Special Edition（Xuse）]]（developer）
-- [[Eien no Aselia -Kono Daichi no Hate De- First Press Limited Edition]]（developer）
-- [[Eien no Aselia -Kono Daichi no Hate De- First Press Limited Edition（Nippon Ichi Software, Inc）]]（developer）
-- [[Eien no Aselia -Kono Daichi no Hate De- Regular Edition]]（developer）
-- [[Eien no Aselia -Kono Daichi no Hate De- Regular Edition（Nippon Ichi Software, Inc）]]（developer）
-- [[Eien no Aselia -The Spirit of Eternity Sword- DVD Edition]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Eien no Aselia -The Spirit of Eternity Sword- Premium Special Edition + Seinarukana -The Spirit of Eternity Sword 2- Special Edition W Set]]（developer）
+- [[发行版/Eien no Aselia Expansion -The Spirit of Eternity Sword- Download Edition]]（developer）
 - [[Eien no Aselia -The Spirit of Eternity Sword- Premium Special Edition + Seinarukana -The Spirit of Eternity Sword 2- Special Edition W Set]]（developer）
-- [[Eien no Aselia -The Spirit of Eternity Sword-（Xuse）]]（developer）
-- [[Eien no Aselia Expansion -The Spirit of Eternity Sword- Comiket Edition]]（developer）
 - [[Eien no Aselia Expansion -The Spirit of Eternity Sword- Download Edition]]（developer）
-- [[Eien no Aselia Expansion -The Spirit of Eternity Sword-]]（developer）
-- [[Seinarukana -The Spirit of Eternity Sword 2- SPECIAL PACKAGE]]（developer）
 - [[永遠のアセリア Expansion —The Spirit of Eternity Sword—]]（developer）
 - [[永遠のアセリア-The Spirit of Eternity Sword-]]（developer）<!-- AUTO:END duty -->
 

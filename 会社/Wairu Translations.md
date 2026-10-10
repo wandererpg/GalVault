@@ -13,7 +13,7 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Maji de Watashi ni Koishinasai! A-1（Wairu Translations）]]（publisher）
-- [[Maji de Watashi ni Koishinasai! S - Trial Edition（Wairu Translations）]]（publisher）
+- [[发行版/Maji de Watashi ni Koishinasai! S]]（publisher）
 - [[Maji de Watashi ni Koishinasai! S]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

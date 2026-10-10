@@ -12,10 +12,8 @@ source_urls:
 # LopaPhi
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Wild Cats v0.3]]（developer）
-- [[Wild Cats v0.3]]（publisher）
-- [[Wild Cats ［v0.3］]]（developer）
-- [[Wild Cats ［v0.3］]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Dikie Koshki v0.3]]（developer）
+- [[发行版/Dikie Koshki v0.3]]（publisher）
 - [[Wild Cats]]（developer）<!-- AUTO:END duty -->
 
 ## 创作与出演

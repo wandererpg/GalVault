@@ -12,8 +12,8 @@ source_urls:
 # RNE Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Jiqiren Biji Elite]]（publisher）
-- [[Jiqiren Biji Elite（RNE Hanhuazu）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/ROBOTICS;NOTES ELITE（MAGES・release：）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

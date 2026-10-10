@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r60268:work:vndb:work:v24561"
-type: "release"
-display_title: "Endless Summer, Book 3"
-release_date: "2018-04-13"
+entity_id: release:vndb:r60268:work:vndb:work:v24561
+type: release
+display_title: Endless Summer, Book 3
+release_date: '2018-04-13'
 is_all_ages: true
-platform: "ios, and"
-edition_type: "partial"
-title_status: "needs_review"
+platform: ios, and
+edition_type: partial
+title_status: needs_review
 source_ids:
-  vndb: "r60268"
+  vndb: r60268
 source_urls:
-  vndb: "https://vndb.org/r60268"
+  vndb: https://vndb.org/r60268
+aliases:
+- Endless Summer, Book 1
+- Endless Summer, Book 2
+consolidated_releases:
+- id: r60268
+  title: Endless Summer, Book 3
+  url: https://vndb.org/r60268
+  release_date: '2018-04-13'
+  platform: ios, and
+  edition_type: partial
+  is_all_ages: true
+- id: r60267
+  title: Endless Summer, Book 2
+  url: https://vndb.org/r60267
+  release_date: '2017-10-06'
+  platform: ios, and
+  edition_type: partial
+  is_all_ages: true
+- id: r60266
+  title: Endless Summer, Book 1
+  url: https://vndb.org/r60266
+  release_date: '2017-03-29'
+  platform: ios, and
+  edition_type: partial
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Endless Summer, Book 3

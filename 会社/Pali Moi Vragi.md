@@ -12,7 +12,7 @@ source_urls:
 # Pali Moi Vragi
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Saya no Uta Remastered - 18+ Edition]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Saya no Uta ~ The Song of Saya - Upgrade Patch]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

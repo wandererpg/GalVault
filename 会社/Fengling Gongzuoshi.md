@@ -12,7 +12,7 @@ source_urls:
 # Fengling Gongzuoshi
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ni Suo Qiwang de Yongyuan ~Latest Edition~]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kimi ga Nozomu Eien ~Enhanced Edition~ Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

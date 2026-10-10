@@ -12,28 +12,20 @@ source_urls:
 # Otorhin
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Clannad（vndb：r84）]]（publisher）
-- [[Clannad（：work：v4）]]（publisher）
-- [[Cross†Channel]]（publisher）
-- [[Higurashi When They Cry Hou - Ch.1 Onikakushi]]（publisher）
-- [[Kara no Shojo Prologue (Japanese Trial)]]（publisher）
-- [[Katawa Shoujo repair]]（publisher）
-- [[Katawa Shoujo repair（release：）]]（publisher）
-- [[Katawa Shoujo repair（vndb：r99）]]（publisher）
-- [[Katawa Shoujo（release：）]]（publisher）
-- [[Katawa Shoujo（vndb：r63）]]（publisher）
-- [[Kvest monstrodev!（cf286dc9）]]（publisher）
-- [[Kvest monstrodev!（rk：v5657）]]（publisher）
-- [[Kvest monstrodev!（vndb：r99）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/CLANNAD（Hikarizaka Gaoxiao Zhongwen Bu）]]（publisher）
+- [[发行版/Cross†Channel ~To All People~ Regular Edition]]（publisher）
+- [[发行版/Himatsubushi Hen（07th Expansion）]]（publisher）
+- [[发行版/Innocent Grey Mystery Collection ~Kara no Shoujo & Pianissimo & Cartagra~]]（publisher）
+- [[发行版/Katawa Shoujo 1.3J]]（publisher）
+- [[发行版/Monmusu Quest! Chuushou ~Makereba Youjo ni Okasareru~]]（publisher）
+- [[发行版/Monmusu Quest! Origins -Assaulted by the Vamp-]]（publisher）
+- [[发行版/Monmusu Quest! Shuushou ~Makereba Youjo ni Okasareru~]]（publisher）
 - [[Letters to Venus（Chainsaw Team）]]（publisher）
-- [[Sud'ba／Noch' Shvatki（release：）]]（publisher）
-- [[Sud'ba／Noch' Shvatki（vndb：r99）]]（publisher）
-- [[Tsukihime Rebuild Ru]]（publisher）
-- [[Tsukihime Rebuild Ru（release：）]]（publisher）
-- [[Tsukihime Rebuild Ru（vndb：r99）]]（publisher）
-- [[VA-11 HALL-A（release：）]]（publisher）
-- [[YOU and ME and HER： A Love Story]]（publisher）
-- [[YOU and ME and HER： A Love Story（release：）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Fate／Stay Night ［Realta Nua］ - Ultimate Edition]]（publisher）
+- [[发行版/Tsukihime（vndb：r50）]]（publisher）
+- [[发行版/VA-11 Hall-A： Cyberpunk Bartender Action（Sukeban Games）]]（publisher）
+- [[发行版/Ty, ja i ona： Istorija ljubvi - Steam Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -14,14 +14,11 @@ source_urls:
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Dayshift at Freddy's 3]]（developer）
 - [[Dayshift at Freddy's 3]]（publisher）
-- [[Dialtown： Olandy Route DLC]]（developer）
-- [[Dialtown： Olandy Route DLC]]（publisher）
-- [[Dialtown： Phone Dating Sim - Demo]]（developer）
-- [[Dialtown： Phone Dating Sim - Demo]]（publisher）
+- [[发行版/Dialtown： Phone Dating Sim]]（developer）
+- [[发行版/Dialtown： Phone Dating Sim]]（publisher）
 - [[Dialtown： Phone Dating Sim]]（developer）
 - [[Dialtown： Phone Dating Sim]]（publisher）
-- [[Dialtown： Roger's Route DLC]]（developer）
-- [[Dialtown： Roger's Route DLC]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

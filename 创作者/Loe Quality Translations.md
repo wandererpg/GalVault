@@ -12,7 +12,7 @@ source_urls:
 # Loe Quality Translations
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Junketsu★Megami-sama! ＂Tanezuke Shite Kudasai, Danna-sama!＂ Alpha Patch 3]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Junketsu★Megami-sama! ＂Tanezuke Shite Kudasai, Danna-sama!＂ - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

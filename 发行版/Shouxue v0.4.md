@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r94134:work:vndb:work:v32670"
-type: "release"
-display_title: "Shouxue v0.4"
-release_date: "2022-06-25"
+entity_id: release:vndb:r94134:work:vndb:work:v32670
+type: release
+display_title: Shouxue v0.4
+release_date: '2022-06-25'
 is_all_ages: false
-platform: "win, lin, and"
-edition_type: "partial"
-title_status: "needs_review"
+platform: win, lin, and
+edition_type: partial
+title_status: needs_review
 source_ids:
-  vndb: "r94134"
+  vndb: r94134
 source_urls:
-  vndb: "https://vndb.org/r94134"
+  vndb: https://vndb.org/r94134
+aliases:
+- Burrows v0.18.1
+- Burrows v0.6
+consolidated_releases:
+- id: r94134
+  title: Shouxue v0.4
+  url: https://vndb.org/r94134
+  release_date: '2022-06-25'
+  platform: win, lin, and
+  edition_type: partial
+  is_all_ages: false
+- id: r84297
+  title: Burrows v0.18.1
+  url: https://vndb.org/r84297
+  release_date: '2026-05-13'
+  platform: win, lin, mac, and
+  edition_type: partial
+  is_all_ages: false
+- id: r92260
+  title: Burrows v0.6
+  url: https://vndb.org/r92260
+  release_date: '2026-07-17'
+  platform: win, lin, mac, and
+  edition_type: partial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Shouxue v0.4

@@ -30,7 +30,7 @@ portrait_image: "assets/characters/c90496.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Doukyuusei 2（elf）]]（primary）<!-- AUTO:END character -->
+<!-- AUTO:BEGIN character -->- [[发行版/Doukyuusei 2 - Extra Box]]（primary）<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->

@@ -12,21 +12,13 @@ source_urls:
 # Shiratamaco
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Hoshizora Tetsudou to Shiro no Tabi - Character Introduction Trial Edition]]（developer）
-- [[Hoshizora Tetsudou to Shiro no Tabi - Character Introduction Trial Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Hoshizora Tetsudou to Shiro no Tabi - Download Edition]]（developer）
+- [[发行版/Hoshizora Tetsudou to Shiro no Tabi - Download Edition]]（publisher）
 - [[Hoshizora Tetsudou to Shiro no Tabi - Download Edition]]（developer）
-- [[Hoshizora Tetsudou to Shiro no Tabi - Download Edition（release：）]]（developer）
-- [[Hoshizora Tetsudou to Shiro no Tabi - Download Edition（release：）]]（publisher）
-- [[Hoshizora Tetsudou to Shiro no Tabi - Limited Edition]]（developer）
-- [[Hoshizora Tetsudou to Shiro no Tabi - Regular Edition]]（developer）
-- [[Hoshizora Tetsudou to Shiro no Tabi - Regular Edition]]（publisher）
-- [[Hoshizora Tetsudou to Shiro no Tabi - Trial Edition]]（developer）
-- [[Hoshizora Tetsudou to Shiro no Tabi - Trial Edition]]（publisher）
-- [[Hoshizora Tetsudou to Shiro no Tabi Package Edition]]（developer）
 - [[Tokeru Fuuka to Shirousagi]]（developer）
 - [[Tokeru Fuuka to Shirousagi]]（publisher）
-- [[Tokeru Fuuka to Shirousagi（release：）]]（developer）
-- [[Tokeru Fuuka to Shirousagi（release：）]]（publisher）
+- [[发行版/Tokeru Fuuka to Shirousagi]]（developer）
+- [[发行版/Tokeru Fuuka to Shirousagi]]（publisher）
 - [[とける風花とシロうさぎ]]（developer）
 - [[星空列车与白的旅行]]（developer）<!-- AUTO:END duty -->
 

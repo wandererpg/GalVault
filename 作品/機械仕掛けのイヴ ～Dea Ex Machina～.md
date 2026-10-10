@@ -78,12 +78,8 @@ cover_image: "assets/covers/v568.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Kikaijikake no Eve ~Dea Ex Machina~ DVDPG]]
-- [[Kikaijikake no Eve ~Dea Ex Machina~ Download Edition]]
-- [[Kikaijikake no Eve ~Dea Ex Machina~ First Press Limited Edition]]
-- [[Kikaijikake no Eve ~Dea Ex Machina~ Regular Edition]]
-- [[Kikaijikake no Eve ~Dea Ex Machina~]]
-- [[Ninetail Anniversary Pack（ninetail）]]
-- [[Nukicolle vol.55 - Kikaijikake no Eve ~Dea Ex Machina~]]<!-- AUTO:END release -->
+- [[发行版/Kikaijikake no Eve ~Dea Ex Machina~ DVDPG]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

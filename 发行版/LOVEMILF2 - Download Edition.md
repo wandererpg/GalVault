@@ -1,16 +1,34 @@
 ---
-entity_id: "release:vndb:r35916:work:vndb:work:v15802"
-type: "release"
-display_title: "LOVEMILF2 - Download Edition"
-release_date: "2014-08-17"
+entity_id: release:vndb:r35916:work:vndb:work:v15802
+type: release
+display_title: LOVEMILF2 - Download Edition
+release_date: '2014-08-17'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r35916"
+  vndb: r35916
 source_urls:
-  vndb: "https://vndb.org/r35916"
+  vndb: https://vndb.org/r35916
+aliases:
+- LOVEMILF2 - Package Edition
+consolidated_releases:
+- id: r35916
+  title: LOVEMILF2 - Download Edition
+  url: https://vndb.org/r35916
+  release_date: '2014-08-17'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r35725
+  title: LOVEMILF2 - Package Edition
+  url: https://vndb.org/r35725
+  release_date: '2014-08-17'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # LOVEMILF2 - Download Edition

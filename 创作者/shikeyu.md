@@ -12,8 +12,8 @@ source_urls:
 # shikeyu
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Jie ~Mingyun de Jiaochadian~ Tebie Pian]]（publisher）
-- [[Yinxiang Xiaoshuo Xilie Di San Bu： Jie ~Mingyun de Jiaochadian~]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Machi ~Unmei no Kousaten~ Tokubetsu Hen - Download Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

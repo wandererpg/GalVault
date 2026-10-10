@@ -97,13 +97,9 @@ cover_image: "assets/covers/v22303.webp"
 - [[Yuuki Serika]]（優希 芹果）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[A Sky Full of Stars： Interstellar Focus]]
-- [[Jingqing Angshou Kan Na Mantian Fanxing Interstellar Focus]]
-- [[Miagete Goran, Yozora no Hoshi o - Complete Set（PULLTOP・release：）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Miagete Goran, Yozora no Hoshi o： Interstellar Focus - Download Edition]]
 - [[Miagete Goran, Yozora no Hoshi o： Interstellar Focus - Download Edition]]
-- [[Miagete Goran, Yozora no Hoshi o： Interstellar Focus]]
-- [[Ollyeoda Bwa, Bamhaneurui Byeoreul ： Interstellar Focus]]
-- [[Yangwang Yekong Xingchen Interstellar Focus]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

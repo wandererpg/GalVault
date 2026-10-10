@@ -12,9 +12,9 @@ source_urls:
 # Operation Bellflower
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Senmomo： A Billowing Bladestorm, A Persica Princess - Fandisc]]（publisher）
-- [[Senmomo： A Billowing Bladestorm, A Persica Princess]]（publisher）
-- [[Senmomo： A Billowing Bladestorm, A Persica Princess（Operation Bellflower）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Sen no Hatou, Tsukisome no Kouki -Hana Akari- Senmomo Nidanjuu Pack（AUGUST）]]（publisher）
+- [[发行版/Sen no Hatou, Tsukisome no Kouki - Download Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

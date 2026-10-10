@@ -12,8 +12,8 @@ source_urls:
 # Caramel BOX Ichigo-aji
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Caramel Box Collection Otome wa Boku ni Koishiteru Futari no Elder]]（developer）
-- [[Caramel Box Collection Otome wa Boku ni Koishiteru Futari no Elder]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Otome wa Boku ni Koishiteru ~Futari no Elder~ Portable]]（developer）
+- [[发行版/Otome wa Boku ni Koishiteru ~Futari no Elder~ Portable]]（publisher）
 - [[少女爱上姐姐2]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

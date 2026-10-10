@@ -12,7 +12,7 @@ source_urls:
 # Dieselmine
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Heavenly Badonkers： Angel Bitches]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Bakunyuu Tengoku Angel Bitches + CG Collection]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

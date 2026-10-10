@@ -12,24 +12,12 @@ source_urls:
 # minori
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Soreyori no Prologue - Deluxe Edition]]（developer）
-- [[Soreyori no Prologue - Deluxe Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Soreyori no Prologue - Simple Edition]]（developer）
+- [[发行版/Soreyori no Prologue - Simple Edition]]（publisher）
 - [[Soreyori no Prologue - Simple Edition]]（developer）
 - [[Soreyori no Prologue - Simple Edition]]（publisher）
-- [[Soreyori no Prologue - Trial Edition]]（developer）
-- [[Soreyori no Prologue - Trial Edition]]（publisher）
-- [[ef - the first tale. - Download Edition]]（developer）
-- [[ef - the first tale. - Download Edition]]（publisher）
-- [[ef - the first tale. - Trial Edition (CD-ROM)]]（developer）
-- [[ef - the first tale. - Trial Edition (CD-ROM)]]（publisher）
-- [[ef - the first tale. - Web Trial Edition]]（developer）
-- [[ef - the first tale. - Web Trial Edition]]（publisher）
-- [[ef - the first tale（minori）]]（developer）
-- [[ef - the first tale（minori）]]（publisher）
-- [[ef - the latter tale. - Download Edition]]（developer）
-- [[ef - the latter tale. - Download Edition]]（publisher）
-- [[ef - the latter tale（minori）]]（developer）
-- [[ef - the latter tale（minori）]]（publisher）
+- [[发行版/ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（developer）
+- [[发行版/ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（publisher）
 - [[悠久之翼]]（developer）
 - [[永不落幕的前奏诗]]（developer）<!-- AUTO:END duty -->
 

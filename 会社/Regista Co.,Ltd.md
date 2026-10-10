@@ -12,22 +12,13 @@ source_urls:
 # Regista Co.,Ltd.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[CROSS†CHANNEL ～For all people～]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Cross†Channel ~To All People~ Regular Edition]]（publisher）
 - [[I／O - First Press Limited Edition]]（developer）
-- [[I／O - Regular Edition]]（developer）
-- [[I／O revision II]]（developer）
+- [[发行版/I／O - First Press Limited Edition]]（developer）
 - [[I／O]]（developer）
-- [[Root Double -Before Crime ＊ After Days- First Press Limited Edition]]（developer）
-- [[Root Double -Before Crime ＊ After Days- Regular Edition]]（developer）
-- [[Root Double -Before Crime ＊ After Days- Smart Edition]]（developer）
-- [[Root Double -Before Crime ＊ After Days- Smart Edition（Regista Co.,Ltd）]]（developer）
-- [[Root Double -Before Crime ＊ After Days- Smart Edition（Regista Co.,Ltd）]]（publisher）
+- [[发行版/Root Double -Before Crime ＊ After Days- Xtend Edition - Limited Edition]]（developer）
+- [[发行版/Root Double -Before Crime ＊ After Days- Xtend Edition - Limited Edition]]（publisher）
 - [[Root Double -Before Crime ＊ After Days- Xtend Edition - Limited Edition]]（developer）
-- [[Root Double -Before Crime ＊ After Days- Xtend Edition- First Press Limited Edition]]（developer）
-- [[Root Double -Before Crime ＊ After Days- Xtend Edition- Regular Edition]]（developer）
-- [[Root Double -Before Crime ＊ After Days- Xtend Edition]]（developer）
-- [[Root Double -Before Crime ＊ After Days- Yeti Best]]（developer）
-- [[Root Double -Before Crime ＊ After Days-（Regista Co.,Ltd）]]（developer）
 - [[Root Double]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

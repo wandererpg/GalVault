@@ -120,13 +120,9 @@ cover_image: "assets/covers/v7423.webp"
 - [[Yukito Saori]]（雪都 さお梨）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Astraythem - Download Edition]]
-- [[Astraythem - Package Edition]]
-- [[Astraythem - Trial Edition]]
-- [[Astraythem]]
+<!-- AUTO:BEGIN release -->- [[发行版/ChuableSoft 13 Titles Premium Pack（Chuablesoft）]]
 - [[ChuableSoft 13 Titles Premium Pack（Chuablesoft）]]
-- [[ChuableSoft Variety Set]]
-- [[Xingxiu Lianqu -Astraythem-]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -11,12 +11,11 @@ source_urls:
 # HOBIBOX Co., Ltd.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Chaos;Child for Windows PC - Package Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Hundun zhi Zi - Package Edition（MAGES）]]（publisher）
 - [[Steins;Gate 0 - Limited Deluxe Package Edition]]（publisher）
-- [[Steins;Gate 0 - Popular Edition]]（publisher）
-- [[Steins;Gate 0 - Regular Package Edition]]（publisher）
-- [[Umineko no Naku Koro ni - Download Edition]]（publisher）
-- [[Umineko no Naku Koro ni Chiru - Download Edition]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Steins;Gate 0 - Limited Deluxe Package Edition]]（publisher）
+- [[发行版/Umineko no Naku Koro ni - Episode 4 - Alliance of the Golden Witch]]（publisher）
+- [[发行版/Umineko no Naku Koro ni Chiru - Episode 8 - Twilight of the Golden Witch]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,9 +12,9 @@ source_urls:
 # Café con Loli
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Utawarerumono（release：）]]（publisher）
-- [[Utawarerumono： La Máscara Falsa]]（publisher）
-- [[Utawarerumono： La Máscara Falsa（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Utawarerumono： Chiriyuku Mono e no Komoriuta（Leaf）]]（publisher）
+- [[发行版/Chingsongbadneun Ja： Geojis-ui Gamyeon - Limited Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

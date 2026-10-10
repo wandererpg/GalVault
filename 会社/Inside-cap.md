@@ -12,13 +12,11 @@ source_urls:
 # Inside-cap
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Air Pocket Advance]]（publisher）
-- [[Air Pocket]]（publisher）
-- [[CROSS†CHANGE]]（publisher）
-- [[Kimi ga Nozomu Advance]]（publisher）
-- [[Rinne Tsukihime Box Edition]]（publisher）
-- [[Rinne Tsukihime]]（publisher）
-- [[Tenohira de Higurashi ga Naku]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/AIR（Key）]]（publisher）
+- [[发行版/Cross†Channel ~To All People~ Regular Edition]]（publisher）
+- [[发行版/Kimi ga Nozomu Eien ~Enhanced Edition~ Download Edition]]（publisher）
+- [[发行版/Tsukihime（vndb：r50）]]（publisher）
+- [[发行版/Himatsubushi Hen（07th Expansion）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

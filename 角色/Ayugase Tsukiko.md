@@ -30,10 +30,8 @@ portrait_image: "assets/characters/c17718.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Himawari no Kyoukai to Nagai Natsuyasumi -extra vacation- First Press Limited Edition]]（primary）
+<!-- AUTO:BEGIN character -->- [[发行版/Himawari no Kyoukai to Nagai Natsuyasumi -extra vacation- First Press Limited Edition（Kero Makura）]]（primary）
 - [[Himawari no Kyoukai to Nagai Natsuyasumi -extra vacation- First Press Limited Edition（Kero Makura）]]（primary）
-- [[Himawari no Kyoukai to Nagai Natsuyasumi -extra vacation- Regular Edition]]（primary）
-- [[Himawari no Kyoukai to Nagai Natsuyasumi -extra vacation- Regular Edition（Kero Makura）]]（primary）
 - [[向日葵的教会与长长的暑假]]（side）<!-- AUTO:END character -->
 
 ## 声优

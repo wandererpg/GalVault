@@ -12,15 +12,15 @@ source_urls:
 # August Zhongwenhua Weiyuanhui
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Datushuguan de Siyangren - Trial Edition]]（publisher）
-- [[Hongxian]]（publisher）
-- [[Huanchuang de Huanren]]（publisher）
-- [[Kamikaze ☆ Explorer!]]（publisher）
-- [[Leyuan ~Yirujiwang de Wo. de Cunzai~]]（publisher）
-- [[Prism ◇ Recollection!]]（publisher）
-- [[Qingcheng Ru Jing zhi Shuimian Shang!]]（publisher）
-- [[Taitou Kankan ba, Kan na Tianshang de Fanxing]]（publisher）
-- [[Twinkle ☆ Crusaders]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Daitoshokan no Hitsujikai -Library Party- Package Edition（ARIA）]]（publisher）
+- [[发行版/Akai Ito（HAMSTER Corporation）]]（publisher）
+- [[发行版/Gensou no Idea ~Oratorio Phantasm Historia~（3rdEye）]]（publisher）
+- [[发行版/Kamikaze ☆ Explorer! - First Press Limited Edition]]（publisher）
+- [[发行版/Rakuen ~Ai Kawarazu na Boku. no Baai~ Download Edition]]（publisher）
+- [[发行版/Prism ◇ Recollection! - First Press Limited Edition]]（publisher）
+- [[发行版/Haruru Minamo ni! - First Press Limited Edition]]（publisher）
+- [[发行版/Miagete Goran, Yozora no Hoshi o DVDPG]]（publisher）
+- [[发行版/Twinkle ☆ Crusaders Go Go - Deluxe (Best Edition)]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

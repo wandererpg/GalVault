@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r120994:work:vndb:work:v35777"
-type: "release"
-display_title: "Otrjad Geroja Dolzhen Past' v0.6.1"
-release_date: "2026-05-31"
+entity_id: release:vndb:r120994:work:vndb:work:v35777
+type: release
+display_title: Otrjad Geroja Dolzhen Past' v0.6.1
+release_date: '2026-05-31'
 is_all_ages: false
-platform: "win, lin, and"
-edition_type: "partial"
-title_status: "needs_review"
+platform: win, lin, and
+edition_type: partial
+title_status: needs_review
 source_ids:
-  vndb: "r120994"
+  vndb: r120994
 source_urls:
-  vndb: "https://vndb.org/r120994"
+  vndb: https://vndb.org/r120994
+aliases:
+- Hero Party Must Fall v0.5.4
+- Hero Party Must Fall v0.6.1 Playtest
+consolidated_releases:
+- id: r120994
+  title: Otrjad Geroja Dolzhen Past' v0.6.1
+  url: https://vndb.org/r120994
+  release_date: '2026-05-31'
+  platform: win, lin, and
+  edition_type: partial
+  is_all_ages: false
+- id: r91081
+  title: Hero Party Must Fall v0.6.1 Playtest
+  url: https://vndb.org/r91081
+  release_date: '2026-04-24'
+  platform: win, mac
+  edition_type: partial
+  is_all_ages: false
+- id: r118441
+  title: Hero Party Must Fall v0.5.4
+  url: https://vndb.org/r118441
+  release_date: '2025-02-09'
+  platform: win, lin, and
+  edition_type: partial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Otrjad Geroja Dolzhen Past' v0.6.1

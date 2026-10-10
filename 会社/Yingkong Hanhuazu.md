@@ -12,9 +12,9 @@ source_urls:
 # Yingkong Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[9 -Nine- Chun Se Chun Lian Chunxi Feng]]（publisher）
-- [[9 -Nine- Xue Se Xue Hua Xueyu Hen]]（publisher）
-- [[9-nine-Tian Se Tian Ge Tianlai Yin]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/9-nine- Download Edition（Palette・k：v23740）]]（publisher）
+- [[发行版/9-nine- Download Edition（Palette・k：v26523）]]（publisher）
+- [[发行版/9-nine- Download Edition（Palette・vndb：r83）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

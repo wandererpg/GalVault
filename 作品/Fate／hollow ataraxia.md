@@ -262,32 +262,9 @@ cover_image: "assets/covers/v50.webp"
 - [[Yuimoto Michiru]]（結下 みちる）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Fate ／ hollow ataraxia]]
-- [[FateHA4ons]]
-- [[Fate／Hollow Ataraxia - First Press Edition]]
-- [[Fate／Hollow Ataraxia - Limited Edition]]
-- [[Fate／Hollow Ataraxia - PlayStation Vita the Best]]
-- [[Fate／Hollow Ataraxia - Regular Edition]]
-- [[Fate／Hollow Ataraxia - Regular Edition（TYPE-MOON）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Fate／Hollow Ataraxia - Voice Patch]]
 - [[Fate／Hollow Ataraxia - Voice Patch]]
-- [[Fate／Hollow Ataraxia Prologue]]
-- [[Fate／Hollow Ataraxia（Beast's Lair ／ Lunacy）]]
-- [[Fate／Hollow Ataraxia（FHATranslation）]]
-- [[Fate／Hollow Ataraxia（Rus'-moon）]]
-- [[Fate／Hollow Ataraxia（Sumisora）]]
-- [[Fate／Hollow Ataraxia（Team P&P）]]
-- [[Fate／Hollow Ataraxia（itatarxia）]]
-- [[Fate／Stay Night + Fate／Hollow Ataraxia Set - Reprint Edition（TYPE-MOON）]]
-- [[Fate／Stay Night + Fate／Hollow Ataraxia Set（TYPE-MOON）]]
-- [[Fate／hollow ataraxia - Trial edition]]
-- [[Fate／hollow ataraxia REMASTERED]]
-- [[Fate／hollow ataraxia REMASTERED（Aniplex Inc）]]
-- [[Fate／hollow ataraxia REMASTERED（Arc System Works Co., Ltd）]]
-- [[Fate／hollow ataraxia REMASTERED（Unlimited Silly Works）]]
-- [[Fate／hollow ataraxia REMASTERED（release：）]]
-- [[Fate／hollow ataraxia REMASTERED（vndb：r16）]]
-- [[Fate／hollow ataraxia Voice Project Alpha 4 ［Nightly Build 460］]]
-- [[Fate／hollow ataraxia]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

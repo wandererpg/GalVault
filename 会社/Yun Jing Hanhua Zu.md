@@ -12,7 +12,7 @@ source_urls:
 # Yun Jing Hanhua Zu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Bishoujo Mangekyou -Kotowari to Meikyuu no Shoujo-（Yun Jing Hanhua Zu）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Meishaonv Wanhuajing -Tiandao yu Migong de Shaonv-]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

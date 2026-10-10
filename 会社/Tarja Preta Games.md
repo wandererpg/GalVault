@@ -12,9 +12,9 @@ source_urls:
 # Tarja Preta Games
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Aoi Tori（Tarja Preta Games）]]（publisher）
-- [[ChangelingTale Português Brasil translator]]（publisher）
-- [[Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka？（Tarja Preta Games）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Amatsutsumi + Aoi Tori - Amatsukago no Tori BOX（Purple software）]]（publisher）
+- [[发行版/Changeling Tale]]（publisher）
+- [[发行版/NUKITASHI]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

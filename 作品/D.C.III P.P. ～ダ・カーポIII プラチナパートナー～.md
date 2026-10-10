@@ -108,12 +108,9 @@ cover_image: "assets/covers/v13105.webp"
 - [[Shirotsuki Kaname]]（白月 かなめ）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[D.C. III P.P. ~Da Capo III Platinum Partner~ Download Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/D.C. III P.P. ~Da Capo III Platinum Partner~ First Press Limited Edition]]
 - [[D.C. III P.P. ~Da Capo III Platinum Partner~ First Press Limited Edition]]
-- [[D.C. III P.P. ~Da Capo III Platinum Partner~ Regular Edition]]
-- [[D.C. III P.P. ~Da Capo III Platinum Partner~]]
-- [[D.C. III P.P. ~Da Capo III Platinum Partner~（CKZG Hanhuazu）]]
-- [[D.C. ~Da Capo~ Archives - SAKURA Edition]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

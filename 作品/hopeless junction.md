@@ -41,7 +41,7 @@ cover_image: "assets/covers/v45918.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[HOPELESS JUNCTION： cuppy dog barf girl and co]]
+<!-- AUTO:BEGIN release -->- [[发行版/hopeless junction]]
 - [[hopeless junction]]<!-- AUTO:END release -->
 
 ## 动画化

@@ -12,12 +12,12 @@ source_urls:
 # Steamberry Studio
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Changeling - Demo]]（developer）
-- [[Changeling - Demo]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Changeling]]（developer）
+- [[发行版/Changeling]]（publisher）
 - [[Changeling]]（developer）
 - [[Changeling]]（publisher）
-- [[Gilded Shadows - Demo]]（developer）
-- [[Gilded Shadows - Demo]]（publisher）
+- [[发行版/Gilded Shadows]]（developer）
+- [[发行版/Gilded Shadows]]（publisher）
 - [[Gilded Shadows]]（developer）
 - [[Gilded Shadows]]（publisher）
 - [[When Stars Collide]]（developer）

@@ -12,7 +12,7 @@ source_urls:
 # Laboratorija Slov
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Mao na strune Sol']]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/G-senjou no Maou（Aegis）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

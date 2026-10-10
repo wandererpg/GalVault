@@ -31,10 +31,9 @@ portrait_image: "assets/characters/c41768.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Daitoshokan no Hitsujikai -Library Party- Package Edition（ARIA・vndb：r56）]]（primary）
+<!-- AUTO:BEGIN character -->- [[发行版/Daitoshokan no Hitsujikai -Library Party- Package Edition（ARIA）]]（primary）
 - [[Daitoshokan no Hitsujikai -Library Party- Package Edition（ARIA）]]（primary）
-- [[Daitoshokan no Hitsujikai -Library Party-（ARIA・vndb：r60）]]（primary）
-- [[Daitoshokan no Hitsujikai -Library Party-（ARIA）]]（primary）<!-- AUTO:END character -->
+<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Ozawa Ari]]（声优：小澤 亜李）<!-- AUTO:END voice -->

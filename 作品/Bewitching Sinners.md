@@ -59,11 +59,9 @@ cover_image: "assets/covers/v41700.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Bewitching Sinners - Demo]]
-- [[Bewitching Sinners - Harlots DLC]]
+<!-- AUTO:BEGIN release -->- [[发行版/Bewitching Sinners]]
 - [[Bewitching Sinners]]
-- [[Bewitching Sinners（release：）]]
-- [[Bewitching Sinners（vndb：r12）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

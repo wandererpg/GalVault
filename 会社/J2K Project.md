@@ -12,7 +12,7 @@ source_urls:
 # J2K Project
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Donggeupsaeng 2（J2K Project）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Doukyuusei 2 - Extra Box]]（publisher）
 - [[Miyugui Hyanggi]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

@@ -12,48 +12,18 @@ source_urls:
 # La'cryma
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Fortissimo EXA／／Akkord：Bsusvier - Additional Scenario Patch]]（developer）
-- [[Fortissimo EXA／／Akkord：Bsusvier - Additional Scenario Patch]]（publisher）
-- [[Fortissimo EXA／／Akkord：Bsusvier - Limited Edition]]（developer）
-- [[Fortissimo EXA／／Akkord：Bsusvier - Limited Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Fortissimo EXA／／Akkord：Bsusvier - Regular Edition]]（developer）
+- [[发行版/Fortissimo EXA／／Akkord：Bsusvier - Regular Edition]]（publisher）
 - [[Fortissimo EXA／／Akkord：Bsusvier - Regular Edition]]（developer）
 - [[Fortissimo EXA／／Akkord：Bsusvier - Regular Edition]]（publisher）
-- [[Fortissimo EXA／／Akkord：Bsusvier - Trial Edition - Versuchsversion：002 Ein Ahorn]]（developer）
-- [[Fortissimo EXA／／Akkord：Bsusvier - Trial Edition - Versuchsversion：002 Ein Ahorn]]（publisher）
 - [[Fortissimo EXS／／Akkord：Nachsten Phase (Bundled with Nendoroid Petit Satomura Momiji)]]（developer）
 - [[Fortissimo EXS／／Akkord：Nachsten Phase (Bundled with Nendoroid Petit Satomura Momiji)]]（publisher）
-- [[Fortissimo EXS／／Akkord：Nachsten Phase - First Press Edition]]（developer）
-- [[Fortissimo EXS／／Akkord：Nachsten Phase - First Press Edition]]（publisher）
-- [[Fortissimo EXS／／Akkord：Nachsten Phase - Popular Edition]]（developer）
-- [[Fortissimo EXS／／Akkord：Nachsten Phase - Popular Edition]]（publisher）
-- [[Fortissimo EXS／／Akkord：Nachsten Phase - Trial Edition - Versuchsversion：003]]（developer）
-- [[Fortissimo EXS／／Akkord：Nachsten Phase - Trial Edition - Versuchsversion：003]]（publisher）
-- [[Fortissimo FA／／Akkord：Nachsten Phase - Download Edition]]（developer）
-- [[Fortissimo FA／／Akkord：Nachsten Phase - Download Edition]]（publisher）
-- [[Fortissimo FA／／Akkord：Nachsten Phase]]（developer）
-- [[Fortissimo FA／／Akkord：Nachsten Phase]]（publisher）
-- [[Fortissimo／／Akkord：Bsusvier - 18+ Special Edition]]（developer）
-- [[Fortissimo／／Akkord：Bsusvier - 18+ Special Edition]]（publisher）
-- [[Fortissimo／／Akkord：Bsusvier - Regular Edition]]（developer）
-- [[Fortissimo／／Akkord：Bsusvier - Regular Edition]]（publisher）
-- [[Fortissimo／／Akkord：Bsusvier - Trial Edition - Versuchsversion：001 Ein Kirschenbaum]]（developer）
-- [[Fortissimo／／Akkord：Bsusvier - Trial Edition - Versuchsversion：001 Ein Kirschenbaum]]（publisher）
-- [[Kadenz Fermata／／Akkord：Fortissimo - Append Scenario Patch]]（developer）
-- [[Kadenz Fermata／／Akkord：Fortissimo - Append Scenario Patch]]（publisher）
-- [[Kadenz Fermata／／Akkord：Fortissimo - Battle Trial Edition]]（developer）
-- [[Kadenz Fermata／／Akkord：Fortissimo - Battle Trial Edition]]（publisher）
+- [[发行版/Fortissimo EXS／／Akkord：Nachsten Phase (Bundled with Nendoroid Petit Satomura Momiji)]]（developer）
+- [[发行版/Fortissimo EXS／／Akkord：Nachsten Phase (Bundled with Nendoroid Petit Satomura Momiji)]]（publisher）
+- [[发行版/Kadenz Fermata／／Akkord：Fortissimo - Download Edition]]（developer）
+- [[发行版/Kadenz Fermata／／Akkord：Fortissimo - Download Edition]]（publisher）
 - [[Kadenz Fermata／／Akkord：Fortissimo - Download Edition]]（developer）
 - [[Kadenz Fermata／／Akkord：Fortissimo - Download Edition]]（publisher）
-- [[Kadenz Fermata／／Akkord：Fortissimo - La'cryma 10th Anniversary Limited Edition]]（developer）
-- [[Kadenz Fermata／／Akkord：Fortissimo - La'cryma 10th Anniversary Limited Edition]]（publisher）
-- [[Kadenz Fermata／／Akkord：Fortissimo - Limited Edition]]（developer）
-- [[Kadenz Fermata／／Akkord：Fortissimo - Limited Edition]]（publisher）
-- [[Kadenz Fermata／／Akkord：Fortissimo - Regular Edition]]（developer）
-- [[Kadenz Fermata／／Akkord：Fortissimo - Regular Edition]]（publisher）
-- [[Kadenz Fermata／／Akkord：Fortissimo - Regular Edition（MAGES）]]（developer）
-- [[Kadenz Fermata／／Akkord：Fortissimo - Regular Edition（MAGES）]]（publisher）
-- [[Kadenz Fermata／／Akkord：Fortissimo - Story Trial Edition]]（developer）
-- [[Kadenz Fermata／／Akkord：Fortissimo - Story Trial Edition]]（publisher）
 - [[Kadenz fermata／／Akkord：fortissimo]]（developer）
 - [[fortissimo EXS／／Akkord：nächsten Phase]]（developer）
 - [[fortissimo／／Akkord：Bsusvier]]（developer）<!-- AUTO:END duty -->

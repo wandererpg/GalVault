@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r133413:work:vndb:work:v55175"
-type: "release"
-display_title: "Kyokugen Chikan Tokuiten NEO - Download Edition - Wallpaper and Browser Included Edition"
-release_date: "2025-06-27"
+entity_id: release:vndb:r133413:work:vndb:work:v55175
+type: release
+display_title: Kyokugen Chikan Tokuiten NEO - Download Edition - Wallpaper and Browser Included Edition
+release_date: '2025-06-27'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r133413"
+  vndb: r133413
 source_urls:
-  vndb: "https://vndb.org/r133413"
+  vndb: https://vndb.org/r133413
+aliases:
+- Kyokugen Chikan Tokuiten NEO - Download Edition
+- Kyokugen Chikan Tokuiten NEO - Package Edition
+consolidated_releases:
+- id: r133413
+  title: Kyokugen Chikan Tokuiten NEO - Download Edition - Wallpaper and Browser Included Edition
+  url: https://vndb.org/r133413
+  release_date: '2025-06-27'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r133412
+  title: Kyokugen Chikan Tokuiten NEO - Download Edition
+  url: https://vndb.org/r133412
+  release_date: '2025-06-27'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r132954
+  title: Kyokugen Chikan Tokuiten NEO - Package Edition
+  url: https://vndb.org/r132954
+  release_date: '2025-06-27'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Kyokugen Chikan Tokuiten NEO - Download Edition - Wallpaper and Browser Included Edition

@@ -12,7 +12,7 @@ source_urls:
 # Moral Anxiety Studio
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Roadwarden - Demo]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Roadwarden（Assemble Entertainment・release：）]]（developer）
 - [[Roadwarden]]（developer）
 - [[Roadwarden（Assemble Entertainment・release：）]]（developer）<!-- AUTO:END duty -->
 

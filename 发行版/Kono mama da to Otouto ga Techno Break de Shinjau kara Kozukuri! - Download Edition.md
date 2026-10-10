@@ -1,16 +1,50 @@
 ---
-entity_id: "release:vndb:r51040:work:vndb:work:v20966"
-type: "release"
-display_title: "Kono mama da to Otouto ga Techno Break de Shinjau kara Kozukuri! - Download Edition"
-release_date: "2017-05-26"
+entity_id: release:vndb:r51040:work:vndb:work:v20966
+type: release
+display_title: Kono mama da to Otouto ga Techno Break de Shinjau kara Kozukuri! - Download Edition
+release_date: '2017-05-26'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r51040"
+  vndb: r51040
 source_urls:
-  vndb: "https://vndb.org/r51040"
+  vndb: https://vndb.org/r51040
+aliases:
+- Kono mama da to Otouto ga Techno Break de Shinjau kara Kozukuri!
+- Kono mama da to Otouto ga Techno Break de Shinjau kara Kozukuri! - Package Edition
+- Kono mama da to Otouto ga Techno Break de Shinjau kara Kozukuri!（HTranslations）
+consolidated_releases:
+- id: r51040
+  title: Kono mama da to Otouto ga Techno Break de Shinjau kara Kozukuri! - Download Edition
+  url: https://vndb.org/r51040
+  release_date: '2017-05-26'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r50853
+  title: Kono mama da to Otouto ga Techno Break de Shinjau kara Kozukuri! - Package Edition
+  url: https://vndb.org/r50853
+  release_date: '2017-05-26'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r153319
+  title: Kono mama da to Otouto ga Techno Break de Shinjau kara Kozukuri!
+  url: https://vndb.org/r153319
+  release_date: '2026-04-15'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r116293
+  title: Kono mama da to Otouto ga Techno Break de Shinjau kara Kozukuri!
+  url: https://vndb.org/r116293
+  release_date: '2022'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Kono mama da to Otouto ga Techno Break de Shinjau kara Kozukuri! - Download Edition

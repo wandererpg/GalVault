@@ -12,8 +12,8 @@ source_urls:
 # GPT RE-BOOT!
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Chunbai Jiaoxiangqu SANA EDITION]]（publisher）
-- [[Mashiro-iro Symphony -Love is pure white- Remake for FHD]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Mashiro Iro Symphony： Sana Edition - Download Edition]]（publisher）
+- [[发行版/Mashiro Iro Symphony ＊mutsu-no-hana]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -104,18 +104,9 @@ cover_image: "assets/covers/v33205.webp"
 - [[Toda Megumi]]（柳 ひとみ）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Changgui Tuoli Creative Tu 18+ patch]]
+<!-- AUTO:BEGIN release -->- [[发行版/Changgui Tuoli Creative Tu]]
 - [[Changgui Tuoli Creative Tu]]
-- [[Hamidashi Creative + Totsu Set（Madosoft）]]
-- [[Hamidashi Creative Totsu]]
-- [[Hamidashi Creative Totsu（release：）]]
-- [[Hamidashi Creative： Totsu - Download Edition]]
-- [[Hamidashi Creative： Totsu - Package Edition]]
-- [[Hamidashi Creative： Totsu - Trial Edition]]
-- [[Linggan Manyi de Tianmi Chuangxiang Tu Trial Edition]]
-- [[Linggan Manyi de Tianmi Chuangxiang Tu]]
-- [[Linggan Manyi de Tianmi Chuangxiang Tu（release：）]]
-- [[Vykhodyashcheye za ramki tvorchestvo： Totsu]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

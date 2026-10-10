@@ -12,14 +12,10 @@ source_urls:
 # Hending
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Soap Land no Hasshaku-sama - Download Edition]]（developer）
-- [[Soap Land no Hasshaku-sama - Download Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Soap Land no Hasshaku-sama - Kiss Makura Cover Included Limited Edition]]（developer）
+- [[发行版/Soap Land no Hasshaku-sama - Kiss Makura Cover Included Limited Edition]]（publisher）
 - [[Soap Land no Hasshaku-sama - Kiss Makura Cover Included Limited Edition]]（developer）
 - [[Soap Land no Hasshaku-sama - Kiss Makura Cover Included Limited Edition]]（publisher）
-- [[Soap Land no Hasshaku-sama - Regular Edition]]（developer）
-- [[Soap Land no Hasshaku-sama - Regular Edition]]（publisher）
-- [[Soap Land no Hasshaku-sama - Trial Edition]]（developer）
-- [[Soap Land no Hasshaku-sama - Trial Edition]]（publisher）
 - [[ソープランドのはっしゃくさま]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

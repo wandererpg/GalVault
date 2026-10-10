@@ -1,16 +1,58 @@
 ---
-entity_id: "release:vndb:r68952:work:vndb:work:v18591"
-type: "release"
-display_title: "Houkago 3 - Renewal Package Edition DVDPG"
-release_date: "2020-01-16"
+entity_id: release:vndb:r68952:work:vndb:work:v18591
+type: release
+display_title: Houkago 3 - Renewal Package Edition DVDPG
+release_date: '2020-01-16'
 is_all_ages: false
-platform: "dvd"
-edition_type: "complete"
-title_status: "needs_review"
+platform: dvd
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r68952"
+  vndb: r68952
 source_urls:
-  vndb: "https://vndb.org/r68952"
+  vndb: https://vndb.org/r68952
+aliases:
+- Houkago 3 ~Nerawareta Junketsu~
+- Houkago 3 ~Nerawareta Junketsu~ Download Edition
+- Houkago 3 ~Nerawareta Junketsu~ Package Edition
+- Houkago 3 ~Nerawareta Junketsu~（release：）
+consolidated_releases:
+- id: r68952
+  title: Houkago 3 - Renewal Package Edition DVDPG
+  url: https://vndb.org/r68952
+  release_date: '2020-01-16'
+  platform: dvd
+  edition_type: complete
+  is_all_ages: false
+- id: r52650
+  title: Houkago 3 ~Nerawareta Junketsu~ Download Edition
+  url: https://vndb.org/r52650
+  release_date: '2016-03-11'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r43723
+  title: Houkago 3 ~Nerawareta Junketsu~ Package Edition
+  url: https://vndb.org/r43723
+  release_date: '2016-02-25'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r106339
+  title: Houkago 3 ~Nerawareta Junketsu~
+  url: https://vndb.org/r106339
+  release_date: '2023-04-15'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r112054
+  title: Houkago 3 ~Nerawareta Junketsu~
+  url: https://vndb.org/r112054
+  release_date: '2023-08-18'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Houkago 3 - Renewal Package Edition DVDPG

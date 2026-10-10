@@ -1,16 +1,34 @@
 ---
-entity_id: "release:vndb:r91304:work:vndb:work:v35919"
-type: "release"
-display_title: "The Hero's Journey"
-release_date: "2022-02-19"
+entity_id: release:vndb:r91304:work:vndb:work:v35919
+type: release
+display_title: The Hero's Journey
+release_date: '2022-02-19'
 is_all_ages: true
-platform: "win, mac"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win, mac
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r91304"
+  vndb: r91304
 source_urls:
-  vndb: "https://vndb.org/r91304"
+  vndb: https://vndb.org/r91304
+aliases:
+- The Hero's Journey - NSFW Edition
+consolidated_releases:
+- id: r91304
+  title: The Hero's Journey
+  url: https://vndb.org/r91304
+  release_date: '2022-02-19'
+  platform: win, mac
+  edition_type: complete
+  is_all_ages: true
+- id: r91305
+  title: The Hero's Journey - NSFW Edition
+  url: https://vndb.org/r91305
+  release_date: '2022-05-13'
+  platform: win, mac
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # The Hero's Journey

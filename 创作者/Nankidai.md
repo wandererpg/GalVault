@@ -12,11 +12,8 @@ source_urls:
 # Nankidai
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Kimi ga Shine -Tasuuketsu Death Game- (up to Chapter 3 Part 1 section B)]]（developer）
-- [[Kimi ga Shine -Tasuuketsu Death Game- (up to Chapter 3 Part 1 section B)]]（publisher）
-- [[Kimi ga Shine -Tasuuketsu Death Game- Free Edition]]（developer）
-- [[Kimi ga Shine -Tasuuketsu Death Game- Free Edition]]（publisher）
-- [[Kimi ga Shine -Tasuuketsu Death Game-]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Your Turn To Die -Jeu Mortel Démocratique-]]（developer）
+- [[发行版/Your Turn To Die -Jeu Mortel Démocratique-]]（publisher）
 - [[キミガシネ　―多数決デスゲーム―]]（developer）<!-- AUTO:END duty -->
 
 ## 创作与出演

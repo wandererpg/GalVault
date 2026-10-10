@@ -12,10 +12,9 @@ source_urls:
 # laczy90
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[A megfakult szárnyú Eustia]]（publisher）
-- [[A megfakult szárnyú Eustia（release：）]]（publisher）
-- [[Akatsuki no Goei Trinity Complete Edition（release：）]]（publisher）
-- [[Tsujidou-san tiszta szerelmi útja]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Aiyoku no Eustia： Angel's Blessing - Download Edition]]（publisher）
+- [[发行版/Akatsuki no Goei Trinity Complete Edition - First Press Limited Edition]]（publisher）
+- [[发行版/Tsujidou-san no Jun'ai Road - First Press Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

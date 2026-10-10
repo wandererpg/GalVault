@@ -12,13 +12,11 @@ source_urls:
 # Oneline's Workshop
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Kara no Shojo - HD Content Patch]]（publisher）
-- [[Kara no Shojo - Voice Patch]]（publisher）
-- [[Kara no Shoujo - FULL VOICE HD SIZE EDITION（Oneline's Workshop）]]（publisher）
-- [[Kara no Shoujo - NEW CAST REMASTER EDITION]]（publisher）
-- [[Kara no Shoujo - The Last Episode Prequel]]（publisher）
-- [[Saiaku Naru Saiyaku Ningen ni Sasagu（Oneline's Workshop）]]（publisher）
-- [[Subarashiki Hibi ~Furenzoku Sonzai~ Full Voice HD Edition（Oneline's Workshop）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Innocent Grey Mystery Collection ~Kara no Shoujo & Pianissimo & Cartagra~]]（publisher）
+- [[发行版/Kara no Shoujo - NEW CAST REMASTER EDITION - Download Edition]]（publisher）
+- [[发行版/Kara no Shoujo - Download Edition（Innocent Grey・release：）]]（publisher）
+- [[发行版/Saiaku Naru Saiyaku Ningen ni Sasagu - Download Edition]]（publisher）
+- [[发行版/Meihao de Meiyitian（Lingxue Hanhuazu）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

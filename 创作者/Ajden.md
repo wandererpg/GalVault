@@ -12,7 +12,7 @@ source_urls:
 # Ajden
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Artemida v0.7.1]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Artemis： Book One]]（publisher）
 - [[«Sila Very»]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演

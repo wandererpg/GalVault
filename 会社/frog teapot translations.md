@@ -12,8 +12,8 @@ source_urls:
 # frog teapot translations
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Smertel'naja Igra -Resheniem Bol'shinstva- (up to Chapter 3 Part 1 section B)]]（publisher）
-- [[Smertel'naja Igra -Resheniem Bol'shinstva- (up to Chapter 3 Part 1 section B)（frog teapot translations）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Your Turn To Die -Jeu Mortel Démocratique-]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

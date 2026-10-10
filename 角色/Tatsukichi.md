@@ -30,7 +30,7 @@ portrait_image: "assets/characters/c37928.webp"
 
 ## 出场作品
 <!-- AUTO:BEGIN character -->- [[Yoshiwara Higanbana Kuon no Chigiri - Package Edition]]（primary）
-- [[Yoshiwara Higanbana（MariaCrown）]]（side）<!-- AUTO:END character -->
+- [[发行版/Yoshiwara Higanbana Kuon no Chigiri - Package Edition]]（side）<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Yotsuya Cider]]（声优：四ツ谷 サイダー）<!-- AUTO:END voice -->

@@ -12,7 +12,7 @@ source_urls:
 # Youling Gongzuoshi
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Z.A.T.O（Youling Gongzuoshi）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Z.A.T.O. ／／ I Love the World and Everything In It]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

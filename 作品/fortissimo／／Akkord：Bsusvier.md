@@ -118,13 +118,9 @@ cover_image: "assets/covers/v4021.webp"
 - [[Yusa Kouji]]（遊佐 浩二）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Fortissimo EXA／／Akkord：Bsusvier - Additional Scenario Patch]]
-- [[Fortissimo EXA／／Akkord：Bsusvier - Limited Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Fortissimo EXA／／Akkord：Bsusvier - Regular Edition]]
 - [[Fortissimo EXA／／Akkord：Bsusvier - Regular Edition]]
-- [[Fortissimo EXA／／Akkord：Bsusvier - Trial Edition - Versuchsversion：002 Ein Ahorn]]
-- [[Fortissimo／／Akkord：Bsusvier - 18+ Special Edition]]
-- [[Fortissimo／／Akkord：Bsusvier - Regular Edition]]
-- [[Fortissimo／／Akkord：Bsusvier - Trial Edition - Versuchsversion：001 Ein Kirschenbaum]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

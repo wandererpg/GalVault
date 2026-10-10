@@ -132,27 +132,9 @@ cover_image: "assets/covers/v21438.webp"
 - [[Yuuki Mima]]（夕城 美馬）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Ao no Kanata no Four Rhythm - EXTRA1+2P（sprite）]]
-- [[Ao no Kanata no Four Rhythm - EXTRA1+2S - Package Edition（sprite）]]
-- [[Ao no Kanata no Four Rhythm - EXTRA2 - 18+ Edition]]
-- [[Ao no Kanata no Four Rhythm - EXTRA2 - Censored Edition]]
-- [[Ao no Kanata no Four Rhythm - EXTRA2 - DL Edition]]
-- [[Ao no Kanata no Four Rhythm - EXTRA2 - Premium Edition]]
-- [[Ao no Kanata no Four Rhythm - EXTRA2 - Standard Edition]]
-- [[Ao no Kanata no Four Rhythm - EXTRA2 - sprite Limited Edition]]
-- [[Ao no Kanata no Four Rhythm - EXTRA2P]]
-- [[Ao no Kanata no Four Rhythm - EXTRA2S - Download Edition]]
-- [[Ao no Kanata no Four Rhythm - EXTRA2S - Package Edition]]
-- [[Ao no Kanata no Four Rhythm - EXTRA2]]
-- [[Ao no Kanata no Four Rhythm - EXTRA2（release：）]]
-- [[Ao no Kanata no Four Rhythm 10th Anniversary Box FILMIC Edition (A-type)（sprite・release：）]]
-- [[Ao no Kanata no Four Rhythm 10th Anniversary Box FILMIC Edition (B-type)（sprite・release：）]]
-- [[Ao no Kanata no Four Rhythm 10th Anniversary Box sprite LIMITED EDITION（sprite・release：）]]
-- [[Ao no Kanata no Four Rhythm 10th Anniversary Box（sprite・release：）]]
-- [[Ao no Kanata no Four Rhythm（PikkaWorks・vndb：r12）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Aokana - Four Rhythms Across the Blue - EXTRA2 18+ Steam Patch]]
 - [[Aokana - Four Rhythms Across the Blue - EXTRA2 18+ Steam Patch]]
-- [[Aokana - Four Rhythms Across the Blue - EXTRA2]]
-- [[Cang Zhi Bifang de Sichongzou - EXTRA2]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

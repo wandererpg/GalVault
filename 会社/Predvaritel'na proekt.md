@@ -12,8 +12,8 @@ source_urls:
 # Predvaritel'na proekt
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Chuxue Ying]]（publisher）
-- [[Xiameng Zhu]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Hatsuyuki Sakura White Graduation - Download Edition]]（publisher）
+- [[发行版/Saga Planets Shiki Series Shunkashuutou 4-Pack Set]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

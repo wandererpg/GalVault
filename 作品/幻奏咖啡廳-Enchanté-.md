@@ -87,15 +87,9 @@ cover_image: "assets/covers/v24240.webp"
 - [[Yotsuya Cider]]（興津 和幸）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Café Enchanté - Download Edition]]
-- [[Café Enchanté - Package Edition]]
-- [[Gensou Kissa Enchanté - Download Edition]]
-- [[Gensou Kissa Enchanté - Limited Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Gensou Kissa Enchanté - Standard Edition]]
 - [[Gensou Kissa Enchanté - Standard Edition]]
-- [[Gensou Kissa Enchanté]]
-- [[Huanzou Kafeiting -Enchanté- Download Edition]]
-- [[Huanzou Kafeiting -Enchanté- Limited Edition]]
-- [[Huanzou Kafeiting -Enchanté- Regular Edition]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

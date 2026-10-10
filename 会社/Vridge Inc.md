@@ -13,8 +13,7 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Rou-Kyuu-Bu! - Download Edition]]（developer）
-- [[Rou-Kyuu-Bu! - Limited Edition]]（developer）
-- [[Rou-Kyuu-Bu! - Regular Edition]]（developer）
+- [[发行版/Rou-Kyuu-Bu! - Download Edition]]（developer）
 - [[ロウきゅーぶ！]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

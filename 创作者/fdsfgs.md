@@ -11,10 +11,9 @@ source_urls:
 # fdsfgs
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Full Metal Daemon Muramasa - Mosaic Restoration Patch (Trial Version)]]（publisher）
-- [[Full Metal Daemon Muramasa - Mosaic Restoration Patch]]（publisher）
-- [[Subarashiki Hibi ~Furenzoku Sonzai~ Full Voice HD Edition - Mosaic Restoration Patch]]（publisher）
-- [[YOU and ME and HER： A Mosaic Restoration Patch]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Soukou Akki Muramasa - Windows 10 Support Edition - Download Edition]]（publisher）
+- [[发行版/Meihao de Meiyitian（Lingxue Hanhuazu）]]（publisher）
+- [[发行版/Ty, ja i ona： Istorija ljubvi - Steam Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

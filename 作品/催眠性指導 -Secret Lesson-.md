@@ -98,11 +98,9 @@ cover_image: "assets/covers/v41351.webp"
 - [[Yukimura Toa]]（桜 水季）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Saimin Seishidou -Secret Lesson- Download Edition]]
-- [[Saimin Seishidou -Secret Lesson- Package Edition]]
-- [[Saimin Seishidou -Secret Lesson- Trial Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Saimin Seishidou -Secret Lesson- ［AI TL］]]
 - [[Saimin Seishidou -Secret Lesson- ［AI TL］]]
-- [[Saimin Seishidou -Secret Lesson-]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

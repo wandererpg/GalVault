@@ -13,38 +13,12 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Changgui Tuoli Creative Tu]]（developer）
-- [[Hamidashi Creative + Totsu Set]]（developer）
-- [[Hamidashi Creative + Totsu Set]]（publisher）
-- [[Hamidashi Creative + Totsu Set（Madosoft）]]（developer）
-- [[Hamidashi Creative + Totsu Set（Madosoft）]]（publisher）
-- [[Hamidashi Creative - Download Edition]]（developer）
-- [[Hamidashi Creative - Download Edition]]（publisher）
-- [[Hamidashi Creative - Limited  Edition]]（developer）
-- [[Hamidashi Creative - Limited Edition]]（developer）
-- [[Hamidashi Creative - Package Edition]]（developer）
-- [[Hamidashi Creative - Package Edition]]（publisher）
-- [[Hamidashi Creative - Regular Edition]]（developer）
-- [[Hamidashi Creative - Regular Edition（Madosoft）]]（developer）
-- [[Hamidashi Creative - Trial Edition]]（developer）
-- [[Hamidashi Creative - Trial Edition]]（publisher）
-- [[Hamidashi Creative Prologue]]（developer）
-- [[Hamidashi Creative Prologue（Windeal Inc）]]（developer）
-- [[Hamidashi Creative Totsu]]（developer）
-- [[Hamidashi Creative Totsu]]（publisher）
-- [[Hamidashi Creative]]（developer）
-- [[Hamidashi Creative]]（publisher）
-- [[Hamidashi Creative： Totsu - Download Edition]]（developer）
-- [[Hamidashi Creative： Totsu - Download Edition]]（publisher）
-- [[Hamidashi Creative： Totsu - Package Edition]]（developer）
-- [[Hamidashi Creative： Totsu - Package Edition]]（publisher）
-- [[Hamidashi Creative： Totsu - Trial Edition]]（developer）
-- [[Hamidashi Creative： Totsu - Trial Edition]]（publisher）
-- [[Wagahai+OC set]]（developer）
-- [[Wagahai+OC set]]（publisher）
-- [[Wagamama High Spec & OC - W Pack]]（developer）
-- [[Wagamama High Spec & OC - W Pack]]（publisher）
-- [[Wagamama High Spec OC - Download Edition]]（developer）
-- [[Wagamama High Spec OC - Download Edition]]（publisher）
+- [[发行版/Changgui Tuoli Creative - Censored Edition]]（developer）
+- [[发行版/Changgui Tuoli Creative - Censored Edition]]（publisher）
+- [[发行版/Changgui Tuoli Creative Tu]]（developer）
+- [[发行版/Changgui Tuoli Creative Tu]]（publisher）
+- [[发行版/Wagamama High Spec OC - First Press Edition]]（developer）
+- [[发行版/Wagamama High Spec OC - First Press Edition]]（publisher）
 - [[Wagamama High Spec OC - First Press Edition]]（developer）
 - [[Wagamama High Spec OC - First Press Edition]]（publisher）
 - [[娇蛮任性HIGH SPEC OC]]（developer）

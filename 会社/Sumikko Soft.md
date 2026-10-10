@@ -14,10 +14,8 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Natsukumo Yururu - Download Edition]]（developer）
 - [[Natsukumo Yururu - Download Edition]]（publisher）
-- [[Natsukumo Yururu - Package Edition]]（developer）
-- [[Natsukumo Yururu - Package Edition]]（publisher）
-- [[Natsukumo Yururu - Trial Edition]]（developer）
-- [[Natsukumo Yururu - Trial Edition]]（publisher）
+- [[发行版/Natsukumo Yururu - Download Edition]]（developer）
+- [[发行版/Natsukumo Yururu - Download Edition]]（publisher）
 - [[なつくもゆるる]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

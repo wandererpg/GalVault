@@ -12,7 +12,7 @@ source_urls:
 # Owl sect BL visual novels
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Omertá ~Codeks molchaniya~]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Omertà ~Chinmoku no Okite~ The Legacy - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

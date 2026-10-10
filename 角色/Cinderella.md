@@ -30,10 +30,9 @@ portrait_image: "assets/characters/c28300.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Taishou x Alice Epilogue - Regular Edition]]（side）
-- [[Taishou x Alice Episode I - Regular Edition]]（primary）
-- [[Taishou x Alice Episode II - Regular Edition]]（side）
-- [[Taishou x Alice Episode III - Regular Edition]]（side）<!-- AUTO:END character -->
+<!-- AUTO:BEGIN character -->- [[发行版/Dazheng × Duichen Alice  all in one Regular Edition]]（side）
+- [[发行版/Dazheng × Duichen Alice  all in one Regular Edition]]（primary）
+<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Hirai Tatsuya]]（声优：平川 大輔）

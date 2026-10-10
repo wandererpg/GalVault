@@ -121,24 +121,8 @@ cover_image: "assets/covers/v33036.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[AMBITIOUS MISSION + Kakenuke★Seishun Sparking! Set Edition]]
-- [[AMBITIOUS MISSION - Download Edition]]
-- [[AMBITIOUS MISSION - Download Edition（SAGA PLANETS・release：）]]
-- [[AMBITIOUS MISSION - Download Edition（SAGA PLANETS）]]
-- [[AMBITIOUS MISSION - Limited Edition]]
-- [[AMBITIOUS MISSION - Limited Edition（SAGA PLANETS）]]
-- [[AMBITIOUS MISSION - Regular Edition]]
-- [[AMBITIOUS MISSION - Regular Edition（SAGA PLANETS）]]
-- [[AMBITIOUS MISSION - Trial Edition]]
-- [[AMBITIOUS MISSION - Trial Edition（release：）]]
-- [[AMBITIOUS MISSION - Tsubame Ecchi Tsuika Patch]]
-- [[AMBITIOUS MISSION - Tsubame Route]]
-- [[AMBITIOUS MISSION]]
-- [[AMBITIOUS MISSION（release：）]]
-- [[AMBITIOUS MISSION（vndb：r98）]]
-- [[Ambitious Mission - Trial Edition（Noble Xueyuan）]]
-- [[Ambitious Mission（Noble Xueyuan）]]
-- [[Xingjian Chuanshuo - Trial Edition]]
-- [[Xiongxing Zhuangzhi - Ambitious Mission]]<!-- AUTO:END release -->
+- [[发行版/AMBITIOUS MISSION + Kakenuke★Seishun Sparking! Set Edition]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

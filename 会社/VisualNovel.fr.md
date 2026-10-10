@@ -12,8 +12,8 @@ source_urls:
 # VisualNovel.fr
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Planetarian]]（publisher）
-- [[Saya no Uta（VisualNovel.fr）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Planetarian ~The Reverie of a Little Planet~（release：）]]（publisher）
+- [[发行版/Saya no Uta ~ The Song of Saya - Upgrade Patch]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

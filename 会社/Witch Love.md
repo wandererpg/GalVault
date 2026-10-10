@@ -12,9 +12,9 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Higurashi no Naku Koro ni Hou]]（publisher）
-- [[Higurashi no Naku Koro ni Hou（Witch Love）]]（publisher）
-- [[Umineko no Naku Koro ni]]（publisher）
-- [[Umineko no Naku Koro ni（Witch Love）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Matsuribayashi Hen（07th Expansion）]]（publisher）
+- [[发行版/Umineko no Naku Koro ni Chiru - Episode 8 - Twilight of the Golden Witch]]（publisher）
+- [[发行版/Umineko no Naku Koro ni - Episode 4 - Alliance of the Golden Witch]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

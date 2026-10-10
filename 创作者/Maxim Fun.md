@@ -12,7 +12,7 @@ source_urls:
 # Maxim Fun
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Super Danganronpa Another 2： Luna nadezhdy i Solnce otchajanija]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Super Danganronpa Another 2 ~Huimangui Dalgwa Jeolmangui Taeyang~]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

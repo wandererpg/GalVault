@@ -30,8 +30,8 @@ portrait_image: "assets/characters/c84852.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Blackish House ←sideZ - First Press Limited Edition]]（side）
-- [[Blackish House ←sideZ - Regular Edition]]（side）<!-- AUTO:END character -->
+<!-- AUTO:BEGIN character -->- [[发行版/Blackish House sideA→ -Retour-（Justdan）]]（side）
+<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Shirai Yuusuke]]（声优：白井 悠介）<!-- AUTO:END voice -->

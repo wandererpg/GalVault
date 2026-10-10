@@ -12,18 +12,9 @@ source_urls:
 # Views Co., Ltd
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Dies irae DX package]]（publisher）
-- [[Dies irae ~Acta est Fabula~（Views Co., Ltd）]]（publisher）
-- [[Dies irae ~Amantes amentes~ 4：3 Resolution Patch]]（publisher）
-- [[Dies irae ~Amantes amentes~ Act II： Nihil Difficile Amanti]]（publisher）
-- [[Dies irae ~Amantes amentes~ Act II： Nihil Difficile Amanti（Views Co., Ltd）]]（publisher）
-- [[Dies irae ~Amantes amentes~ Act I： Omnia Vincit Amor]]（publisher）
-- [[Dies irae ~Amantes amentes~ Act I： Omnia Vincit Amor（Views Co., Ltd）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Dies irae ~Amantes amentes~ For Nintendo Switch]]（publisher）
 - [[Dies irae ~Amantes amentes~ For Nintendo Switch]]（publisher）
-- [[Dies irae ~Amantes amentes~ Kickstarter-Exclusive Physical Edition]]（publisher）
-- [[Dies irae ~Amantes amentes~（Views Co., Ltd・release：）]]（publisher）
-- [[Dies irae ~Amantes amentes~（Views Co., Ltd）]]（publisher）
-- [[Dies irae ~Interview with Kaziklu Bey~（Views Co., Ltd）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Dies irae ~Interview with Kaziklu Bey~ Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

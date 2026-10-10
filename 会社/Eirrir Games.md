@@ -12,8 +12,8 @@ source_urls:
 # Eirrir Games
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Black Wolves Saga -Last Hope-]]（publisher）
-- [[Shinigami to Shoujo（Eirrir Games）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/BLACK WOLVES SAGA -Weiβ und Schwarz- for Nintendo Switch Special Edition]]（publisher）
+- [[发行版/Shinigami to Shoujo - Download Edition（Takuyo Co., Ltd）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

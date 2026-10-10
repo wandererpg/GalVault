@@ -12,7 +12,7 @@ source_urls:
 # noir16
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Byeolhaneul Cheoldowa Siroui Yeohaeng]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Hoshizora Tetsudou to Shiro no Tabi - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

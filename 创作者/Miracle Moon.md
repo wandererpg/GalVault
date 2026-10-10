@@ -12,10 +12,8 @@ source_urls:
 # Miracle Moon
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Decide 4 God Patreon Demo]]（developer）
-- [[Decide 4 God Patreon Demo]]（publisher）
-- [[Decide 4 God Steam Demo]]（developer）
-- [[Decide 4 God Steam Demo]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Decide 4 God]]（developer）
+- [[发行版/Decide 4 God]]（publisher）
 - [[Decide 4 God]]（developer）
 - [[Decide 4 God]]（publisher）<!-- AUTO:END duty -->
 

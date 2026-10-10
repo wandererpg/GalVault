@@ -12,8 +12,8 @@ source_urls:
 # Hikari
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Katawa Shoujo（Hikari）]]（publisher）
-- [[Rewrite（Hikari）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Katawa Shoujo 1.3J]]（publisher）
+- [[发行版/Rewrite - Download Edition（Key）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -13,7 +13,7 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Wushang de Baiheling ~Full Chorus~]]（publisher）
-- [[Wushang de Baiheling]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Wushang de Baiheling ~Full Chorus~]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

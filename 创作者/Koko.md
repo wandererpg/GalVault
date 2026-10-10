@@ -12,7 +12,7 @@ source_urls:
 # Koko
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Bernd i tajna Unteral'terbaha]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Bernd und das Rätsel um Unteralterbach]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

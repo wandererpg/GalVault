@@ -1,16 +1,50 @@
 ---
-entity_id: "release:vndb:r30235:work:vndb:work:v13871"
-type: "release"
-display_title: "Bernd und das Rätsel um Unteralterbach"
-release_date: "2013-10-27"
+entity_id: release:vndb:r30235:work:vndb:work:v13871
+type: release
+display_title: Bernd und das Rätsel um Unteralterbach
+release_date: '2013-10-27'
 is_all_ages: false
-platform: "win, lin, mac"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win, lin, mac
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r30235"
+  vndb: r30235
 source_urls:
-  vndb: "https://vndb.org/r30235"
+  vndb: https://vndb.org/r30235
+aliases:
+- Bernd i tajna Unteral'terbaha
+- Bernd und das Rätsel um Unteralterbach Version 2.0
+- Bernd und das Rätsel um Unteralterbach Version 2.5
+consolidated_releases:
+- id: r30235
+  title: Bernd und das Rätsel um Unteralterbach
+  url: https://vndb.org/r30235
+  release_date: '2013-10-27'
+  platform: win, lin, mac
+  edition_type: complete
+  is_all_ages: false
+- id: r111098
+  title: Bernd und das Rätsel um Unteralterbach Version 2.5
+  url: https://vndb.org/r111098
+  release_date: '2023-08-01'
+  platform: win, lin, mac, ios, and
+  edition_type: complete
+  is_all_ages: false
+- id: r34739
+  title: Bernd und das Rätsel um Unteralterbach Version 2.0
+  url: https://vndb.org/r34739
+  release_date: '2014-06-22'
+  platform: win, lin, mac
+  edition_type: complete
+  is_all_ages: false
+- id: r37387
+  title: Bernd i tajna Unteral'terbaha
+  url: https://vndb.org/r37387
+  release_date: '2014-11-19'
+  platform: win, lin, mac
+  edition_type: trial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Bernd und das Rätsel um Unteralterbach

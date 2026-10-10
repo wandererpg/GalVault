@@ -12,51 +12,20 @@ source_urls:
 # BROCCOLI Co., Ltd.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[GALAXY ANGEL Eternal Lovers - Regular Edition]]（developer）
-- [[GALAXY ANGEL Eternal Lovers - Regular Edition]]（publisher）
-- [[GALAXY ANGEL Eternal Lovers - Special Package CD-ROM Edition]]（developer）
-- [[GALAXY ANGEL Eternal Lovers - Special Package CD-ROM Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/GALAXY ANGEL Eternal Lovers - Special Package DVD-ROM Edition]]（developer）
+- [[发行版/GALAXY ANGEL Eternal Lovers - Special Package DVD-ROM Edition]]（publisher）
 - [[GALAXY ANGEL Eternal Lovers - Special Package DVD-ROM Edition]]（developer）
 - [[GALAXY ANGEL Eternal Lovers - Special Package DVD-ROM Edition]]（publisher）
-- [[Galaxy Angel - Eternal Package]]（developer）
-- [[Galaxy Angel - Eternal Package]]（publisher）
-- [[Galaxy Angel Anime Commemoration Rune BOX]]（developer）
-- [[Galaxy Angel Anime Commemoration Rune BOX]]（publisher）
-- [[Galaxy Angel Eternal Lovers - Broccoli Best Quality]]（developer）
-- [[Galaxy Angel Eternal Lovers - Broccoli Best Quality]]（publisher）
-- [[Galaxy Angel Eternal Lovers - Download Edition]]（developer）
-- [[Galaxy Angel Eternal Lovers - Download Edition]]（publisher）
-- [[Galaxy Angel Eternal Lovers - Special Package]]（developer）
-- [[Galaxy Angel Eternal Lovers - Special Package]]（publisher）
-- [[Galaxy Angel Eternal Lovers - Standard Package]]（developer）
-- [[Galaxy Angel Eternal Lovers - Standard Package]]（publisher）
-- [[Galaxy Angel Eternal Lovers - Trial Edition]]（developer）
-- [[Galaxy Angel Eternal Lovers - Trial Edition]]（publisher）
 - [[JACKJEANNE]]（developer）
-- [[Jack Jeanne - Download Edition（BROCCOLI Co., Ltd）]]（developer）
-- [[Jack Jeanne - Download Edition（BROCCOLI Co., Ltd）]]（publisher）
+- [[发行版/Jack Jeanne - Limited Univeil Collection]]（developer）
+- [[发行版/Jack Jeanne - Limited Univeil Collection]]（publisher）
 - [[Jack Jeanne - Limited Univeil Collection]]（developer）
 - [[Jack Jeanne - Limited Univeil Collection]]（publisher）
-- [[Jack Jeanne - Regular Edition]]（developer）
-- [[Jack Jeanne - Regular Edition]]（publisher）
-- [[Jack Jeanne - Trial Edition]]（developer）
-- [[Jack Jeanne - Trial Edition]]（publisher）
-- [[Jack Jeanne]]（developer）
-- [[Jack Jeanne]]（publisher）
-- [[Jack Jeanne（BROCCOLI Co., Ltd）]]（developer）
-- [[Jack Jeanne（BROCCOLI Co., Ltd）]]（publisher）
-- [[Li Meng Paoying zhi Shi Wai Fucheng Deluxe Edition]]（developer）
-- [[Li Meng Paoying zhi Shi Wai Fucheng Limited Edition]]（developer）
+- [[发行版/Li Meng Paoying zhi Shi Wai Fucheng Regular Edition]]（developer）
 - [[Li Meng Paoying zhi Shi Wai Fucheng Regular Edition]]（developer）
-- [[Li Meng Paoying zhi Shi Wai Fucheng]]（developer）
-- [[UN：LOGICAL DLC - After Episode Collection Vol.1]]（publisher）
+- [[发行版/UN：LOGICAL DLC - After Episode Collection Vol.2]]（publisher）
 - [[UN：LOGICAL DLC - After Episode Collection Vol.2]]（publisher）
-- [[UN：LOGICAL Download Edition]]（publisher）
-- [[UN：LOGICAL Limited Revelation BOX]]（publisher）
-- [[UN：LOGICAL Standard Edition]]（publisher）
-- [[Utakata no Uchronia - Download Edition]]（publisher）
-- [[Utakata no Uchronia - Limited Edition]]（publisher）
-- [[Utakata no Uchronia - Standard Edition]]（publisher）
+- [[发行版/Li Meng Paoying zhi Shi Wai Fucheng Regular Edition]]（publisher）
 - [[ギャラクシーエンジェル Eternal Lovers]]（developer）
 - [[璃夢泡影之世外浮城]]（developer）<!-- AUTO:END duty -->
 

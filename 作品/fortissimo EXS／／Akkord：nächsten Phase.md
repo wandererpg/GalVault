@@ -151,15 +151,8 @@ cover_image: "assets/covers/v7595.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Fortissimo EXS／／Akkord：Nachsten Phase (Bundled with Nendoroid Petit Satomura Momiji)]]
-- [[Fortissimo EXS／／Akkord：Nachsten Phase - First Press Edition]]
-- [[Fortissimo EXS／／Akkord：Nachsten Phase - Popular Edition]]
-- [[Fortissimo EXS／／Akkord：Nachsten Phase - Trial Edition - Versuchsversion：003]]
-- [[Fortissimo FA INTL Ver]]
-- [[Fortissimo FA]]
-- [[Fortissimo FA／／Akkord：Nachsten Phase - Download Edition]]
-- [[Fortissimo FA／／Akkord：Nachsten Phase]]
-- [[Shendai Yuezhang FA／ Guan Yin Hezou]]
-- [[fortissimo EXS／／Akkord：nächsten Phase]]<!-- AUTO:END release -->
+- [[发行版/Fortissimo EXS／／Akkord：Nachsten Phase (Bundled with Nendoroid Petit Satomura Momiji)]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

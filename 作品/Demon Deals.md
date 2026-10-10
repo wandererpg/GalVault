@@ -85,9 +85,8 @@ cover_image: "assets/covers/v32724.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Demon Deals - v0.07.25]]
-- [[Demon Deals - v0.1]]
-- [[Demon Deals - v0.1（DevilxGame）]]
-- [[Demon Deals ［v0.07.25］]]<!-- AUTO:END release -->
+- [[发行版/Demon Deals - v0.07.25]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

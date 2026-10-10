@@ -12,8 +12,8 @@ source_urls:
 # Orbit
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Touka Gettan - Deluxe Edition]]（publisher）
-- [[Touka Gettan - Regular Edition]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Touka Gettan ~Koufuu no Ryouou~ Regular Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

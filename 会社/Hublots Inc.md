@@ -13,9 +13,9 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Alia's Carnival! Flowering Sky - 18+ Edition]]（publisher）
-- [[Floral Flowlove（SAGA PLANETS）]]（publisher）
-- [[Hanasaki Work Spring!（SAGA PLANETS・release：）]]（publisher）
-- [[Karumaruka ＊ Circle]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Floral Flowlove - Regular Edition]]（publisher）
+- [[发行版/Hanasaki Work Spring! - First Production Limited Edition]]（publisher）
+- [[发行版/Karumaruka ＊ Circle - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

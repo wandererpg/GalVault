@@ -12,16 +12,8 @@ source_urls:
 # nth Circle Studios
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[of the Devil - Demo]]（developer）
-- [[of the Devil - Demo]]（publisher）
-- [[of the Devil - Episode 0]]（developer）
-- [[of the Devil - Episode 0]]（publisher）
-- [[of the Devil - Episode 1]]（developer）
-- [[of the Devil - Episode 1]]（publisher）
-- [[of the Devil - Episode 2]]（developer）
-- [[of the Devil - Episode 2]]（publisher）
-- [[of the Devil - Episode 3]]（developer）
-- [[of the Devil - Episode 3]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/of the Devil]]（developer）
+- [[发行版/of the Devil]]（publisher）
 - [[of the Devil]]（developer）
 - [[of the Devil]]（publisher）<!-- AUTO:END duty -->
 

@@ -43,12 +43,9 @@ cover_image: "assets/covers/v54791.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Seven Days – Mishiranu JK to Misshitsu Seikatsu]]
-- [[Seven Days：  Living in Confinement With a Stranger High School Girl]]
-- [[Seven Days： Mishiranu JK to Misshitsu Seikatsu]]
-- [[Seven Days： Mishiranu JK to Misshitsu Seikatsu（Miao D Hanhuazu）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Seven Days： Mishiranu JK to Misshitsu Seikatsu（release：）]]
 - [[Seven Days： Mishiranu JK to Misshitsu Seikatsu（release：）]]
-- [[Sevun Deizu： Mishiranu JK to Misshitsu Seikatsu]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

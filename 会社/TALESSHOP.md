@@ -12,12 +12,12 @@ source_urls:
 # TALESSHOP
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Geunyeo-ui Segye]]（developer）
-- [[Geunyeo-ui Segye]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Geunyeo-ui Segye（TALESSHOP）]]（developer）
+- [[发行版/Geunyeo-ui Segye（TALESSHOP）]]（publisher）
 - [[Geunyeo-ui Segye（TALESSHOP）]]（developer）
 - [[Geunyeo-ui Segye（TALESSHOP）]]（publisher）
 - [[Geunyeoui Segye]]（developer）
-- [[Tamjeongdyeon（TALESSHOP）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Tamjeongdyeon（nolsoft）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

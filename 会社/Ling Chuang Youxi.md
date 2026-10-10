@@ -12,12 +12,8 @@ source_urls:
 # Ling Chuang Youxi
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Epiao： Ming Mo Qianli Xing (Demo v1.0)]]（developer）
-- [[Epiao： Ming Mo Qianli Xing (Demo v1.0)]]（publisher）
-- [[Epiao： Ming Mo Qianli Xing]]（developer）
-- [[Epiao： Ming Mo Qianli Xing]]（publisher）
-- [[Epiao： Ming Mo Qianli Xing（2P Games・release：）]]（developer）
-- [[Epiao： Ming Mo Qianli Xing（2P Games・release：）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Epiao： Ming Mo Qianli Xing（2P Games）]]（developer）
+- [[发行版/Epiao： Ming Mo Qianli Xing（2P Games）]]（publisher）
 - [[Epiao： Ming Mo Qianli Xing（2P Games）]]（developer）
 - [[Epiao： Ming Mo Qianli Xing（2P Games）]]（publisher）
 - [[饿殍：明末千里行]]（developer）<!-- AUTO:END duty -->

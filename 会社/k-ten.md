@@ -13,8 +13,8 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[D.C.II ～ダ・カーポII～]]（developer）
-- [[Kei☆Ten - First Press Edition + Plugins ＂D.C. II ~Da Capo II~ Otome's Arc＂ Pack]]（developer）
-- [[Kei☆Ten - First Press Edition + Plugins ＂D.C. II ~Da Capo II~ Otome's Arc＂ Pack]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/D.C. II P.C. ~Da Capo II~ Plus Communication - Regular Edition]]（developer）
+- [[发行版/D.C. II P.C. ~Da Capo II~ Plus Communication - Regular Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,13 +12,13 @@ source_urls:
 # XXGame Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Chuansong zhi Wu： Zhi Shizhe de Yaolanqu（XXGame Hanhuazu）]]（publisher）
-- [[Da Nizhuan Caipan 1 & 2： Naruhodou Ryuunosuke de Maoxian yu Juewu]]（publisher）
-- [[Da Nizhuan Caipan 1 & 2： Naruhodou Ryuunosuke de Maoxian yu Juewu（XXGame Hanhuazu）]]（publisher）
-- [[Haishishenlou zhi Guan]]（publisher）
-- [[Lingyi Shijie FILE23： Honjo Qi Da Bukesiyi（XXGame Hanhuazu）]]（publisher）
-- [[Renlang Cun zhi Mi]]（publisher）
-- [[Renlang Cun zhi Mi（XXGame Hanhuazu）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Utawarerumono： Chiriyuku Mono e no Komoriuta（Leaf）]]（publisher）
+- [[发行版/Dai Gyakuten Saiban 1&2 Limited Edition -Naruhodou Ryuunosuke no Bouken to Kakugo-]]（publisher）
+- [[发行版/Dai Gyakuten Saiban 2 -Naruhodou Ryuunosuke no Kakugo-]]（publisher）
+- [[发行版/Fata Morgana no Yakata -DREAMS OF THE REVENANTS EDITION- - Download Edition]]（publisher）
+- [[发行版/PARANORMASIGHT FILE23： Honjo Nanafushigi（SQUARE ENIX）]]（publisher）
+- [[发行版/Rei-Jin-G-Lu-P - Package Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

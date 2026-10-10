@@ -111,13 +111,9 @@ cover_image: "assets/covers/v10895.webp"
 - [[Takahashi Hiroki]]（沖野 靖広）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[DRAMAtical Murder re：connect - Popular Edition - Download Edition]]
-- [[DRAMAtical Murder re：connect - Popular Edition - Package Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/DRAMAtical Murder re：connect]]
 - [[DRAMAtical Murder re：connect]]
-- [[DRAMAtical Murder re：connect（Aitarra&Dan）]]
-- [[DRAMAtical Murder re：connect（Otome Dream）]]
-- [[DRAMAtical Murder re：connect（Yaoi Forever）]]
-- [[DRAMAtical Murder re：connect（release：）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

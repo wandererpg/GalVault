@@ -1,16 +1,50 @@
 ---
-entity_id: "release:vndb:r138663:work:vndb:work:v2886"
-type: "release"
-display_title: "Kikouyoku Senki Series Complete Pack -Limit Break Edition-"
-release_date: "2016-02-26"
+entity_id: release:vndb:r138663:work:vndb:work:v2886
+type: release
+display_title: Kikouyoku Senki Series Complete Pack -Limit Break Edition-
+release_date: '2016-02-26'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r138663"
+  vndb: r138663
 source_urls:
-  vndb: "https://vndb.org/r138663"
+  vndb: https://vndb.org/r138663
+aliases:
+- Daitenkuu Pack
+- Kikouyoku Senki Tenkuu no Yumina FD  -ForeverDreams-
+- Kikouyoku Senki Tenkuu no Yumina FD  -ForeverDreams- Trial Edition
+consolidated_releases:
+- id: r138663
+  title: Kikouyoku Senki Series Complete Pack -Limit Break Edition-
+  url: https://vndb.org/r138663
+  release_date: '2016-02-26'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r5676
+  title: Kikouyoku Senki Tenkuu no Yumina FD  -ForeverDreams-
+  url: https://vndb.org/r5676
+  release_date: '2010-01-29'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r6346
+  title: Daitenkuu Pack
+  url: https://vndb.org/r6346
+  release_date: '2010-01-29'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r5710
+  title: Kikouyoku Senki Tenkuu no Yumina FD  -ForeverDreams- Trial Edition
+  url: https://vndb.org/r5710
+  release_date: '2009-11-20'
+  platform: win
+  edition_type: trial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Kikouyoku Senki Series Complete Pack -Limit Break Edition-

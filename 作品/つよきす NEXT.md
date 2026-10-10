@@ -83,19 +83,9 @@ cover_image: "assets/covers/v12481.webp"
 - [[Yuuki Serika]]（波奈束 風景）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[CandySoft COLLECTION Vol.1]]
-- [[Tsuyokiss Chronicle ~Complete~ Download Edition]]
-- [[Tsuyokiss Chronicle ~Complete~ First Press Edition]]
-- [[Tsuyokiss Chronicle ~Complete~ Regular Edition]]
-- [[Tsuyokiss NEXT - Download Edition]]
-- [[Tsuyokiss NEXT - First Press Edition]]
-- [[Tsuyokiss NEXT - Regular Edition]]
-- [[Tsuyokiss NEXT - Trial Edition]]
-- [[Tsuyokiss NEXT Generation ~Next + Festival~ Download Edition]]
-- [[Tsuyokiss NEXT]]
-- [[Tsuyokiss NEXT（release：）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Tsuyokiss Next Generation ~Next + Festival~ First Press Edition]]
 - [[Tsuyokiss Next Generation ~Next + Festival~ First Press Edition]]
-- [[Tsuyokiss Next Generation ~Next + Festival~ Regular Edition]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

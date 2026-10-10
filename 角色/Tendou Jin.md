@@ -31,7 +31,7 @@ portrait_image: "assets/characters/c1332.webp"
 
 ## 出场作品
 <!-- AUTO:BEGIN character -->- [[Tokimeki Memorial Girl's Side： 2nd Season]]（appears）
-- [[Xintiao Huiyi Girl's Side： 2nd Season]]（appears）<!-- AUTO:END character -->
+- [[发行版/Tokimeki Memorial Girl's Side： 2nd Season]]（appears）<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->

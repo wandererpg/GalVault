@@ -12,17 +12,8 @@ source_urls:
 # FG Remake
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Doukyuusei 2 Remake - Deluxe Edition]]（developer）
-- [[Doukyuusei 2 Remake - Deluxe Edition]]（publisher）
-- [[Doukyuusei 2 Remake - Download Edition]]（developer）
-- [[Doukyuusei 2 Remake - Download Edition]]（publisher）
-- [[Doukyuusei 2 Remake - Regular Edition]]（developer）
-- [[Doukyuusei 2 Remake - Regular Edition]]（publisher）
-- [[Doukyuusei 2 Remake - Sofmap Limited Edition]]（developer）
-- [[Doukyuusei 2 Remake - Sofmap Limited Edition]]（publisher）
-- [[Doukyuusei 2 Remake - Trial Edition]]（developer）
-- [[Doukyuusei 2 Remake - Trial Edition]]（publisher）
-- [[Doukyuusei 2 Remake]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Doukyuusei 2 - Extra Box]]（developer）
+- [[发行版/Doukyuusei 2 - Extra Box]]（publisher）
 - [[Kakyuusei Remake]]（developer）
 - [[Kakyuusei Remake]]（publisher）
 - [[下級生]]（developer）

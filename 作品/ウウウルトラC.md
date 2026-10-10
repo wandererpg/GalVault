@@ -85,15 +85,9 @@ cover_image: "assets/covers/v23393.webp"
 - [[Yukito]]（ユキト）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Uuultra C - Chapter 1]]
+<!-- AUTO:BEGIN release -->- [[发行版/Uuultra C - Download Edition]]
 - [[Uuultra C - Download Edition]]
-- [[Uuultra C]]
-- [[Uuultra C（ADELTA）]]
-- [[Uuultra C（Mischievous Fox）]]
-- [[Uuultra C（release：）]]
-- [[UuultraC]]
-- [[UuultraC（MangaGamer・release：）]]
-- [[UuultraC（MangaGamer）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

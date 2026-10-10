@@ -14,40 +14,15 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Akai Ito & Aoishiro HD REMASTER - Special Edition]]（developer）
 - [[Akai Ito & Aoishiro HD REMASTER - Special Edition]]（publisher）
-- [[Akai Ito & Aoishiro HD REMASTER - Special Edition（SUCCESS）]]（developer）
-- [[Akai Ito & Aoishiro HD REMASTER - Special Edition（SUCCESS）]]（publisher）
-- [[Akai Ito - SuperLite 2000 Adventure]]（developer）
-- [[Akai Ito - SuperLite 2000 Adventure]]（publisher）
-- [[Akai Ito - Trial A]]（developer）
-- [[Akai Ito - Trial Edition]]（publisher）
-- [[Akai Ito HD REMASTER - Download Edition]]（developer）
-- [[Akai Ito HD REMASTER - Download Edition]]（publisher）
-- [[Akai Ito HD REMASTER（SUCCESS）]]（developer）
-- [[Akai Ito HD REMASTER（SUCCESS）]]（publisher）
-- [[Akai Ito]]（developer）
-- [[Akai Ito]]（publisher）
+- [[发行版/Akai Ito（HAMSTER Corporation）]]（developer）
+- [[发行版/Akai Ito（HAMSTER Corporation）]]（publisher）
 - [[Akai Ito（HAMSTER Corporation）]]（developer）
-- [[Aoishiro - Download Edition]]（developer）
-- [[Aoishiro - Download Edition]]（publisher）
-- [[Aoishiro - Limited Edition]]（developer）
-- [[Aoishiro - Limited Edition]]（publisher）
-- [[Aoishiro - Regular Edition]]（developer）
-- [[Aoishiro - Regular Edition]]（publisher）
-- [[Aoishiro - SuperLite 2000 Adventure]]（developer）
-- [[Aoishiro - SuperLite 2000 Adventure]]（publisher）
-- [[Aoishiro - Trial Edition ＃1]]（publisher）
-- [[Aoishiro - Trial Edition ＃2： Onikiri no Oni]]（publisher）
-- [[Aoishiro - Trial Edition ＃3： Kyuuketsu Scene]]（publisher）
-- [[Aoishiro HD REMASTER - Download Edition]]（developer）
-- [[Aoishiro HD REMASTER - Download Edition]]（publisher）
-- [[Aoishiro HD REMASTER（SUCCESS）]]（developer）
-- [[Aoishiro HD REMASTER（SUCCESS）]]（publisher）
-- [[Aoishiro]]（developer）
-- [[Aoishiro]]（publisher）
-- [[Memories Off Duet (SuperLite 2000 Ren'ai Adventure)]]（publisher）
-- [[Remember11 -The Age of Infinity- SuperLite 2000 Collection]]（publisher）
-- [[SuperLite 2000 Ren'ai Adventure - Ever17 ~The Out of Infinity~ Premium Edition]]（publisher）
-- [[SuperLite 2000 Ren'ai Adventure - Memories Off ~Sorekara~]]（publisher）
+- [[发行版/Akai Ito & Aoishiro HD REMASTER - Special Edition]]（developer）
+- [[发行版/Akai Ito & Aoishiro HD REMASTER - Special Edition]]（publisher）
+- [[发行版/Memories Off Historia - Super Limited Edition（MAGES・vndb：r11）]]（publisher）
+- [[发行版/Remember11 -The Age of Infinity- Download Edition（MAGES）]]（publisher）
+- [[发行版/Ever17 -The Out of Infinity- Download Edition（MAGES）]]（publisher）
+- [[发行版/Memories Off Historia - Super Limited Edition（MAGES）]]（publisher）
 - [[红线]]（developer）
 - [[青城]]（developer）<!-- AUTO:END duty -->
 

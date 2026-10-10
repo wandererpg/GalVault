@@ -106,10 +106,9 @@ cover_image: "assets/covers/v8192.webp"
 - [[Yamamoto Panda]]（山本 パンダ）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[BUNNYBLACK2 - Download Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/BUNNYBLACK2]]
 - [[BUNNYBLACK2]]
-- [[Bunny Black 2]]
-- [[Bunny Black 2（Hanimiao Hanhuazu）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

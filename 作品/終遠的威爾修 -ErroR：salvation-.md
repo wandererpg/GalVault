@@ -78,18 +78,8 @@ cover_image: "assets/covers/v29661.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Shuuen no Virche -ErroR：salvation- Download Edition]]
-- [[Shuuen no Virche -ErroR：salvation- Expanded Demo (common route)]]
-- [[Shuuen no Virche -ErroR：salvation- Limited Edition]]
-- [[Shuuen no Virche -ErroR：salvation- Regular Edition]]
-- [[Shuuen no Virche -ErroR：salvation- for iOS & Android]]
-- [[Shuuen no Virche -ErroR：salvation-]]
-- [[Virche Evermore： ErroR：salvation - EU Download Edition]]
-- [[Virche Evermore： ErroR：salvation - EU Standard Edition]]
-- [[Virche Evermore： ErroR：salvation - NA Download Edition]]
-- [[Virche Evermore： ErroR：salvation - NA Standard Edition]]
-- [[Zhongyuan de Virche -ErroR：salvation- Download Edition]]
-- [[Zhongyuan de Virche -ErroR：salvation- Limited Edition]]
-- [[Zhongyuan de Virche -ErroR：salvation- Regular Edition]]<!-- AUTO:END release -->
+- [[发行版/Shuuen no Virche -ErroR：salvation- Download Edition]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

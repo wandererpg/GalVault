@@ -13,7 +13,7 @@ source_urls:
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Chasing Sunsets]]（publisher）
-- [[Game of Hearts（release：）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Game of Hearts]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

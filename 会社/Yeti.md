@@ -13,29 +13,11 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Furuiro Meikyuu Rondo ~La Roue de fortune~ Download Edition]]（publisher）
-- [[Furuiro Meikyuu Rondo ~La Roue de fortune~ Limited Edition]]（publisher）
-- [[Furuiro Meikyuu Rondo ~La Roue de fortune~ Regular Edition]]（publisher）
-- [[Maitetsu -pure station-]]（publisher）
-- [[Root Double -Before Crime ＊ After Days- First Press Limited Edition]]（publisher）
-- [[Root Double -Before Crime ＊ After Days- Regular Edition]]（publisher）
-- [[Root Double -Before Crime ＊ After Days- Smart Edition]]（publisher）
-- [[Root Double -Before Crime ＊ After Days- Xtend Edition- First Press Limited Edition]]（publisher）
-- [[Root Double -Before Crime ＊ After Days- Xtend Edition- Regular Edition]]（publisher）
-- [[Root Double -Before Crime ＊ After Days- Xtend Edition]]（publisher）
-- [[Root Double -Before Crime ＊ After Days- Yeti Best]]（publisher）
-- [[Root Double -Before Crime ＊ After Days-（Regista Co.,Ltd）]]（publisher）
-- [[Shin Koihime † Musou ~Otome Ryouran ☆ Sangokushi Engi~ Gi Hen Limited Edition]]（publisher）
-- [[Shin Koihime † Musou ~Otome Ryouran ☆ Sangokushi Engi~ Gi Hen Regular Edition]]（publisher）
-- [[Shin Koihime † Musou ~Otome Ryouran ☆ Sangokushi Engi~ Go Hen Limited Edition]]（publisher）
-- [[Shin Koihime † Musou ~Otome Ryouran ☆ Sangokushi Engi~ Go Hen Regular Edition]]（publisher）
-- [[Shin Koihime † Musou ~Otome Ryouran ☆ Sangokushi Engi~ Limited Edition]]（publisher）
-- [[Shin Koihime † Musou ~Otome Ryouran ☆ Sangokushi Engi~ Regular Edition]]（publisher）
-- [[Shin Koihime † Musou ~Otome Ryouran ☆ Sangokushi Engi~ Shoku Hen Limited Edition]]（publisher）
-- [[Shin Koihime † Musou ~Otome Ryouran ☆ Sangokushi Engi~ Shoku Hen Regular Edition]]（publisher）
-- [[Yeti Best Furuiro Meikyuu Rondo ~La Roue de fortune~]]（publisher）
-- [[Yeti Best Shin Koihime † Musou ~Otome Ryouran ☆ Sangokushi Engi~ Gi Hen]]（publisher）
-- [[Yeti Best Shin Koihime † Musou ~Otome Ryouran ☆ Sangokushi Engi~ Go Hen]]（publisher）
-- [[Yeti Best Shin Koihime † Musou ~Otome Ryouran ☆ Sangokushi Engi~ Shoku Hen]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Furuiro Meikyuu Rondo ~La Roue de fortune~ Download Edition]]（publisher）
+- [[发行版/Maitetsu Remaster]]（publisher）
+- [[发行版/Root Double -Before Crime ＊ After Days- Xtend Edition - Limited Edition]]（publisher）
+- [[发行版/Zhen Lianji Wushuang]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

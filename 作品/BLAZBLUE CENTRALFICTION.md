@@ -173,27 +173,7 @@ cover_image: "assets/covers/v17959.webp"
 - [[Zougou Saeko]]（藏合 紗恵子）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[BlazBlue Centralfiction]]
-- [[BlazBlue： Centralfiction - EU Azure Edition]]
-- [[BlazBlue： Centralfiction - EU Azure Edition（PQube）]]
-- [[BlazBlue： Centralfiction - EU Edition]]
-- [[BlazBlue： Centralfiction - EU Edition（PQube）]]
-- [[BlazBlue： Centralfiction - Limited Box Famitsu DX Pack 3D Crystal Set]]
-- [[BlazBlue： Centralfiction - Limited Box Famitsu DX Pack 3D Crystal Set（Arc System Works Co., Ltd）]]
-- [[BlazBlue： Centralfiction - Limited Box Famitsu DX Pack]]
-- [[BlazBlue： Centralfiction - Limited Box Famitsu DX Pack（Arc System Works Co., Ltd）]]
-- [[BlazBlue： Centralfiction - Limited Edition]]
-- [[BlazBlue： Centralfiction - Limited Edition（Arc System Works Co., Ltd）]]
-- [[BlazBlue： Centralfiction - NA Edition]]
-- [[BlazBlue： Centralfiction - NA Edition（Aksys Games）]]
-- [[BlazBlue： Centralfiction - NA Limited Edition]]
-- [[BlazBlue： Centralfiction - NA Limited Edition（Aksys Games）]]
-- [[BlazBlue： Centralfiction Special Edition - JP Edition]]
-- [[BlazBlue： Centralfiction Special Edition - NA Download Edition]]
-- [[BlazBlue： Centralfiction]]
-- [[BlazBlue： Centralfiction（Arc System Works Co., Ltd）]]
-- [[BlazBlue： Centralfiction（H2 Interactive Co., Ltd・release：）]]
-- [[BlazBlue： Centralfiction（H2 Interactive Co., Ltd）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Blazblue Central Fiction Special Edition - NA Physical Release]]
 - [[Blazblue Central Fiction Special Edition - NA Physical Release]]<!-- AUTO:END release -->
 
 ## 动画化

@@ -12,8 +12,8 @@ source_urls:
 # George Henry Shaft
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Cross†Channel（release：）]]（publisher）
-- [[Gekkou no Carnevale - Carnevale al Chiar di Luna]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Cross†Channel ~To All People~ Regular Edition]]（publisher）
+- [[发行版/Gekkou no Carnevale（NITRO PLUS）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,7 +12,7 @@ source_urls:
 # Welcome to Heaven
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Taishou Mebiusline（Welcome to Heaven）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Taishou Mebiusline Vitable - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

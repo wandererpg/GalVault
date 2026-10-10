@@ -32,7 +32,7 @@ portrait_image: "assets/characters/c15875.webp"
 
 ## 出场作品
 <!-- AUTO:BEGIN character -->- [[Umineko no Naku Koro ni - Episode 4 - Alliance of the Golden Witch]]（side）
-- [[Umineko no Naku Koro ni Chiru - Episode 6 - Dawn of the Golden Witch（07th Expansion）]]（side）
+- [[发行版/Umineko no Naku Koro ni Chiru - Episode 8 - Twilight of the Golden Witch]]（side）
 - [[Umineko no Naku Koro ni Chiru - Episode 8 - Twilight of the Golden Witch]]（side）<!-- AUTO:END character -->
 
 ## 声优

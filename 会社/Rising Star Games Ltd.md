@@ -12,18 +12,9 @@ source_urls:
 # Rising Star Games Ltd.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Hakuoki： Memories of the Shinsengumi - EU Limited Collector's Edition]]（publisher）
-- [[Virtue's Last Reward - AU Package Edition]]（publisher）
-- [[Virtue's Last Reward - AU Package Edition（Rising Star Games Ltd）]]（publisher）
-- [[Virtue's Last Reward - DE Package Edition]]（publisher）
-- [[Virtue's Last Reward - DE Package Edition（Rising Star Games Ltd）]]（publisher）
-- [[Virtue's Last Reward - EU Download Edition]]（publisher）
-- [[Virtue's Last Reward - EU Download Edition（Rising Star Games Ltd）]]（publisher）
-- [[Virtue's Last Reward - IT Package Edition]]（publisher）
-- [[Virtue's Last Reward - IT Package Edition（Rising Star Games Ltd）]]（publisher）
-- [[Virtue's Last Reward - UK Package Edition]]（publisher）
-- [[Virtue's Last Reward - UK Package Edition（Rising Star Games Ltd）]]（publisher）
-- [[Virtue's Last Reward Demo]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Hakuouki Shinkai Fuukaden]]（publisher）
+- [[发行版/Kyokugen Dasshutsu ADV Zennin Shibou Desu - Download Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

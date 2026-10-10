@@ -12,14 +12,10 @@ source_urls:
 # Sekai Games
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[CLANNAD - Collector's Edition]]（publisher）
-- [[CLANNAD - Package Edition（Limited Run Games）]]（publisher）
-- [[Root Double -Before Crime ＊ After Days- Xtend Edition - Collector's Edition]]（publisher）
-- [[Root Double -Before Crime ＊ After Days- Xtend Edition - Dakimakura Collector's Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/CLANNAD（Hikarizaka Gaoxiao Zhongwen Bu）]]（publisher）
+- [[发行版/Root Double -Before Crime ＊ After Days- Xtend Edition - Limited Edition]]（publisher）
 - [[Root Double -Before Crime ＊ After Days- Xtend Edition - Limited Edition]]（publisher）
-- [[Root Double -Before Crime ＊ After Days- Xtend Edition - SLG Partner Store Edition]]（publisher）
-- [[Root Double -Before Crime ＊ After Days- Xtend Edition（ININ Games）]]（publisher）
-- [[Root Double -Before Crime ＊ After Days- Xtend Edition（Sekai Games）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

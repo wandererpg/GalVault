@@ -48,10 +48,9 @@ cover_image: "assets/covers/v51178.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Operation Eventide - Censored Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Operation Eventide - Definitive Edition]]
 - [[Operation Eventide - Definitive Edition]]
-- [[Operation Eventide - Demo]]
-- [[Operation Eventide 2.0]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

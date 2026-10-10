@@ -12,7 +12,7 @@ source_urls:
 # Debios
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Gonka Zhizni： Act 1-2 Ep 1-4]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Gonka Zhizni： Act 1-2 Ep 1-4 Fix 4]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

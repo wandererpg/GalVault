@@ -12,14 +12,10 @@ source_urls:
 # Trinitite Team
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[The Sekimeiya： Spun Glass - Beta Version]]（developer）
-- [[The Sekimeiya： Spun Glass - Beta Version]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/The Sekimeiya： Spun Glass]]（developer）
+- [[发行版/The Sekimeiya： Spun Glass]]（publisher）
 - [[The Sekimeiya： Spun Glass]]（developer）
-- [[The Sekimeiya： Spun Glass（Trinitite Team・k：v29144）]]（developer）
-- [[The Sekimeiya： Spun Glass（Trinitite Team・release：）]]（developer）
-- [[The Sekimeiya： Spun Glass（Trinitite Team・vndb：r80）]]（developer）
-- [[The Sekimeiya： Spun Glass（Trinitite Team）]]（developer）
-- [[The Sekimeiya： Spun Glass（Trinitite Team）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

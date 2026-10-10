@@ -49,8 +49,8 @@ cover_image: "assets/covers/v53153.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Dikie Koshki v0.3]]
-- [[Wild Cats v0.3]]
-- [[Wild Cats ［v0.3］]]<!-- AUTO:END release -->
+- [[发行版/Dikie Koshki v0.3]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

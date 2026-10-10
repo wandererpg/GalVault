@@ -12,11 +12,10 @@ source_urls:
 # Monokuma Project
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Chaos;Child（Monokuma Project）]]（publisher）
-- [[Danganronpa： Trigger Happy Havoc（Monokuma Project）]]（publisher）
-- [[Rei-Jin-G-Lu-P（Monokuma Project・release：）]]（publisher）
-- [[Rei-Jin-G-Lu-P（Monokuma Project）]]（publisher）
-- [[Super Dangan Ronpa 2 Sayonara Zetsubou Gakuen（Monokuma Project）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Hundun zhi Zi - Package Edition（MAGES）]]（publisher）
+- [[发行版/Danganronpa Decadence - EU Package Edition（Numskull Games Ltd）]]（publisher）
+- [[发行版/Rei-Jin-G-Lu-P - Package Edition]]（publisher）
+- [[发行版/Danganronpa Decadence - EU Package Edition（Numskull Games Ltd・release：）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

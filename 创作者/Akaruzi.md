@@ -12,8 +12,8 @@ source_urls:
 # Akaruzi
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Dies irae ~Amantes amentes~（release：）]]（publisher）
-- [[Shenzhou Shenwei Shenle Shuzhiguang - Horizontal Writing And R18 Patch]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Dies irae ~Amantes amentes~ For Nintendo Switch]]（publisher）
+- [[发行版/Shenzhou Shenwei Shenle Shuguang]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

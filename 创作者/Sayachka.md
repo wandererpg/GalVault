@@ -11,22 +11,21 @@ source_urls:
 # Sayachka
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Baldr Sky]]（publisher）
-- [[Baldr Sky（release：）]]（publisher）
-- [[CHAOS;CHILD（release：）]]（publisher）
-- [[CHAOS;HEAD NOAH（release：）]]（publisher）
-- [[Magical Princess（vndb：r16）]]（publisher）
-- [[Muv-Luv Alternative Total Eclipse Remastered（vndb：r16）]]（publisher）
-- [[Muv-Luv Alternative（vndb：r15）]]（publisher）
-- [[Muv-Luv photonflowers＊]]（publisher）
-- [[ROBOTICS;NOTES ELITE]]（publisher）
-- [[Schwarzesmarken： Junkyousha-tachi]]（publisher）
-- [[Schwarzesmarken： Kouketsu no Monshou]]（publisher）
-- [[The Imperial Capital Burns - Muv-Luv Alternative Total Eclipse]]（publisher）
-- [[The Shell Part 2： Purgatorio]]（publisher）
-- [[The Shell Part III： Paradiso（release：）]]（publisher）
-- [[The Shell Part I： Inferno（release：）]]（publisher）
-- [[White Album 2（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Baldr Sky Dive1 ＂Lost Memory＂ - First Press Edition]]（publisher）
+- [[发行版/Baldr Sky Dive2 ＂Recordare＂ - First Press Edition]]（publisher）
+- [[发行版/Hundun zhi Zi - Package Edition（MAGES）]]（publisher）
+- [[发行版/Chaos;Head Noah - Regular Edition]]（publisher）
+- [[发行版/Magical Princess]]（publisher）
+- [[发行版/Muv-Luv Alternative - Total Eclipse - Regular Edition（MAGES）]]（publisher）
+- [[发行版/Muv-Luv Alternative - Steam Edition]]（publisher）
+- [[发行版/Kimi ga Ita Kisetsu - Download Edition]]（publisher）
+- [[发行版/ROBOTICS;NOTES ELITE（MAGES・release：）]]（publisher）
+- [[发行版/age Memorial Bundle]]（publisher）
+- [[发行版/Muv-Luv Alternative - Total Eclipse： Teito Moyu（MAGES）]]（publisher）
+- [[发行版/Kara no Shoujo - NEW CAST REMASTER EDITION - Download Edition]]（publisher）
+- [[发行版/Kara no Shoujo - Download Edition（Innocent Grey・release：）]]（publisher）
+- [[发行版/Innocent Grey Mystery Collection ~Kara no Shoujo & Pianissimo & Cartagra~]]（publisher）
+- [[发行版/WHITE ALBUM2 EXTENDED EDITION（Leaf・release：）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

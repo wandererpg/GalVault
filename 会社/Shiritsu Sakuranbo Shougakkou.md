@@ -12,22 +12,10 @@ source_urls:
 # Shiritsu Sakuranbo Shougakkou
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Kouen Itazura Simulator ver. Mako - Download Edition 1.0 type-B]]（developer）
-- [[Kouen Itazura Simulator ver. Mako - Download Edition 1.0 type-B]]（publisher）
-- [[Kouen Itazura Simulator ver. Mako - Download Edition 1.0]]（developer）
-- [[Kouen Itazura Simulator ver. Mako - Download Edition 1.0]]（publisher）
-- [[Kouen Itazura Simulator ver. Mako - Download Edition 1.1 type-B]]（developer）
-- [[Kouen Itazura Simulator ver. Mako - Download Edition 1.1 type-B]]（publisher）
-- [[Kouen Itazura Simulator ver. Mako - Download Edition 1.2 type-A]]（developer）
-- [[Kouen Itazura Simulator ver. Mako - Download Edition 1.2 type-A]]（publisher）
-- [[Kouen Itazura Simulator ver. Mako - Download Edition 1.2 type-B]]（developer）
-- [[Kouen Itazura Simulator ver. Mako - Download Edition 1.2 type-B]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Kouen Itazura Simulator ver. Mako - Download Edition 1.3 type-A]]（developer）
+- [[发行版/Kouen Itazura Simulator ver. Mako - Download Edition 1.3 type-A]]（publisher）
 - [[Kouen Itazura Simulator ver. Mako - Download Edition 1.3 type-A]]（developer）
 - [[Kouen Itazura Simulator ver. Mako - Download Edition 1.3 type-A]]（publisher）
-- [[Kouen Itazura Simulator ver. Mako - Package Edition 1.1 type-A]]（developer）
-- [[Kouen Itazura Simulator ver. Mako - Package Edition 1.1 type-A]]（publisher）
-- [[Kouen Itazura Simulator ver. Mako - Package Edition 1.2 type-B]]（developer）
-- [[Kouen Itazura Simulator ver. Mako - Package Edition 1.2 type-B]]（publisher）
 - [[公園いたずらシミュレータ ver. MAKO]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

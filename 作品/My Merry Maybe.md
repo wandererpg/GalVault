@@ -84,19 +84,9 @@ cover_image: "assets/covers/v3697.webp"
 - [[Yamaguchi Kappei]]（山口 勝平）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[My Merry May with be (2800 Collection)]]
-- [[My Merry May with be (Best Hit Selection)]]
-- [[My Merry May with be - Download Edition]]
-- [[My Merry May with be - Download Edition（MAGES）]]
-- [[My Merry May with be - Limited Edition]]
-- [[My Merry May with be - Limited Edition（CYBERFRONT）]]
-- [[My Merry May with be - Regular Edition]]
-- [[My Merry May with be - Regular Edition（CYBERFRONT）]]
-- [[My Merry May with be]]
-- [[My Merry May with be（Electronic Arts）]]
-- [[My Merry May with be（MAGES）]]
+<!-- AUTO:BEGIN release -->- [[发行版/My Merry Maybe]]
 - [[My Merry Maybe]]
-- [[My Merry Maybe（KID）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

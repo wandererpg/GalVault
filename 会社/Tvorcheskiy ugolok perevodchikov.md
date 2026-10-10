@@ -12,13 +12,12 @@ source_urls:
 # Tvorcheskiy ugolok perevodchikov
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[ATRI -Moi dorogie vospominaniya-]]（publisher）
-- [[Atri： moi dorogie vospomonaniya]]（publisher）
-- [[Himawari Aqua After - The Day the Moon Stood Still]]（publisher）
-- [[Karmany leta]]（publisher）
-- [[OSTROV]]（publisher）
-- [[Plod Grisayi - All-in-one Edition]]（publisher）
-- [[Stella iz kontsa vremyon]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/ATRI -My Dear Moments- Original Soundtrack - First Press Limited Edition]]（publisher）
+- [[发行版/Himawari Aqua After - The Day the Moon Stood Still（Blank Note）]]（publisher）
+- [[发行版/Summer Pockets REFLECTION BLUE - First Press Limited Edition]]（publisher）
+- [[发行版/ISLAND - Download Edition]]（publisher）
+- [[发行版/The Grisaia Trilogy]]（publisher）
+- [[发行版/Tsui no Stella]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

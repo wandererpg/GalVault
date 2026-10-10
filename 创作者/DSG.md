@@ -12,8 +12,8 @@ source_urls:
 # DSG
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Dai Sengoku Rance]]（developer）
-- [[Dai Sengoku Rance]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Dai Sengoku Rance（release：）]]（developer）
+- [[发行版/Dai Sengoku Rance（release：）]]（publisher）
 - [[大戦国ランス]]（developer）<!-- AUTO:END duty -->
 
 ## 创作与出演

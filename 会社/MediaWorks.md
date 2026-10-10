@@ -13,7 +13,7 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Iriya no Sora, UFO no Natsu I&II Complete Pack]]（publisher）
-- [[Iriya no Sora, UFO no Natsu II]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Iriya no Sora, UFO no Natsu I&II Complete Pack]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

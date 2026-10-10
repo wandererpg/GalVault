@@ -115,15 +115,9 @@ cover_image: "assets/covers/v1910.webp"
 - [[Yamaguchi Kappei]]（山口 勝平）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[D.C. 10th Anniversary Arigatou Pack ~D.C.II P.C. & To You~]]
+<!-- AUTO:BEGIN release -->- [[发行版/D.C. 10th Anniversary Arigatou Pack ~D.C.II P.C.E & To You~]]
 - [[D.C. 10th Anniversary Arigatou Pack ~D.C.II P.C.E & To You~]]
-- [[D.C. II - Anniversary Package]]
-- [[D.C. II ~Da Capo II~ To You - Download Edition]]
-- [[D.C. II ~Da Capo II~ To You - First Press Limited Edition]]
-- [[D.C. II ~Da Capo II~ To You - Regular Edition]]
-- [[D.C. II ~Da Capo II~ To You - Side Episodes]]
-- [[D.C. ~Da Capo~ Archives - SAKURA Edition（CIRCUS・release：）]]
-- [[D.C.II To You]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

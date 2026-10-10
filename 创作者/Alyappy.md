@@ -12,14 +12,13 @@ source_urls:
 # Alyappy
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[9-nine-：Episode 2]]（publisher）
-- [[9-nine-：Episode 3]]（publisher）
-- [[9-nine-：Episode 4]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/9-nine- Download Edition（Palette・vndb：r83）]]（publisher）
+- [[发行版/9-nine- Download Edition（Palette・k：v23740）]]（publisher）
+- [[发行版/9-nine- Download Edition（Palette・k：v26523）]]（publisher）
 - [[Amakano 3（Angkringan Visual Novel）]]（publisher）
-- [[Happy Weekend（release：）]]（publisher）
-- [[LimeLight Lemonade Jam - Trial Edition（release：）]]（publisher）
-- [[LimeLight Lemonade Jam]]（publisher）
-- [[Making ＊ Lovers]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Happy Weekend - Download Edition（HOOKSOFT）]]（publisher）
+- [[发行版/Ju Guang Ning Shui Sui Xiang Qu]]（publisher）
+- [[发行版/Making ＊ Lovers - PS4 Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

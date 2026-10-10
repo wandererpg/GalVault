@@ -13,7 +13,7 @@ source_urls:
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Gonka Zhizni： Act 1-2 Ep 1-4 Fix 4]]（publisher）
-- [[Gonka zhizni： Episodes 1-3.2]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Gonka Zhizni： Act 1-2 Ep 1-4 Fix 4]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

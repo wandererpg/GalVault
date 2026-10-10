@@ -12,9 +12,8 @@ source_urls:
 # TellerySpyro_GTX
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Visniki Avirentesa - Gl. 1 Krila Zmin Demo]]（developer）
-- [[Visniki Avirentesa ［v0.65］]]（developer）
-- [[Visniki Avirentesa ［v0.65］]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Visnyky Avirentesa - Hl. 1 Kryla Zmin - Early Access ［v0.7.25］]]（developer）
+- [[发行版/Visnyky Avirentesa - Hl. 1 Kryla Zmin - Early Access ［v0.7.25］]]（publisher）
 - [[Visnyky Avirentesa - Hl. 1 Kryla Zmin - Early Access ［v0.7.25］]]（developer）
 - [[Visnyky Avirentesa - Hl. 1 Kryla Zmin - Early Access ［v0.7.25］]]（publisher）
 - [[Visnyky Avirentesa]]（developer）<!-- AUTO:END duty -->

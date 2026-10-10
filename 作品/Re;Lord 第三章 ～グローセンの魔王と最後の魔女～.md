@@ -73,13 +73,9 @@ cover_image: "assets/covers/v20854.webp"
 - [[Yomogi Kasumi]]（蓬 かすみ）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Re;Lord 3 ~The demon lord of Groessen and the final witch~]]
-- [[Re;Lord Dai San Shou ~Grossen no Maou to Saigo no Majo~ - Interface Patch]]
+<!-- AUTO:BEGIN release -->- [[发行版/Re;Lord Dai San Shou ~Grossen no Maou to Saigo no Majo~ Download Edition]]
 - [[Re;Lord Dai San Shou ~Grossen no Maou to Saigo no Majo~ Download Edition]]
-- [[Re;Lord Dai San Shou ~Grossen no Maou to Saigo no Majo~]]
-- [[Re;Lord Dai San Shou ~Grossen no Maou to Saigo no Majo~（Escu：de）]]
-- [[Re;Lord： Yakusai no Majo Hen - Zen San Shou Package - Download Edition]]
-- [[Re;Lord： Yakusai no Majo Hen - Zen San Shou Package]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

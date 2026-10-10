@@ -12,12 +12,11 @@ source_urls:
 # Visual Art's MottoSP
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Air（Key・release：）]]（publisher）
-- [[Air（Key・vndb：r26）]]（publisher）
-- [[Clannad（Key・vndb：r22）]]（publisher）
-- [[Kanon（Key・release：）]]（publisher）
-- [[Planetarian ~Chiisana Hoshi no Yume~（Key）]]（publisher）
-- [[Summer Pockets（Key）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/AIR（Key）]]（publisher）
+- [[发行版/CLANNAD（Hikarizaka Gaoxiao Zhongwen Bu）]]（publisher）
+- [[发行版/Kanon（Key）]]（publisher）
+- [[发行版/Planetarian ~The Reverie of a Little Planet~（release：）]]（publisher）
+- [[发行版/Summer Pockets REFLECTION BLUE - First Press Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,8 +12,8 @@ source_urls:
 # entai2965
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Monobeno -Happy End-（release：）]]（publisher）
-- [[Pure×Holic ~Junketsu Otome to Kon'in Kankei!？~]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Monobeno -Pure Smile- Regular Edition]]（publisher）
+- [[发行版/Pure×Holic ~Junketsu Otome to Kon'in Kankei!？~ Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

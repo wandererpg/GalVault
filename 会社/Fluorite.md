@@ -13,17 +13,11 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[DiGination Collection - Missing-X-Link ~Ten no Yurikago, Togi no Hana~]]（developer）
-- [[DiGination Collection - Sorceress ＊ Alive! ~the World's End Fallen Star~]]（developer）
-- [[Missing-X-Link ~Koufuku de Heion na Epilogue~]]（developer）
-- [[Missing-X-Link ~Ten no Yurikago, Togi no Hana~ Download Edition]]（developer）
-- [[Missing-X-Link ~Ten no Yurikago, Togi no Hana~ Package Edition]]（developer）
-- [[Missing-X-Link ~Ten no Yurikago, Togi no Hana~ Trial Edition]]（developer）
+- [[发行版/Sorceress ＊ Alive! ~the World's End Fallen Star~ Download Edition]]（developer）
+- [[发行版/DiGination Collection - Missing-X-Link ~Ten no Yurikago, Togi no Hana~]]（developer）
 - [[Missing-X-Link ～天のゆりかご、伽の花～]]（developer）
 - [[Sorceress ＊ Alive! ~the World's End Fallen Star~ Download Edition]]（developer）
 - [[Sorceress ＊ Alive! ~the World's End Fallen Star~ Download Edition]]（publisher）
-- [[Sorceress ＊ Alive! ~the World's End Fallen Star~ Package Edition]]（developer）
-- [[Sorceress ＊ Alive! ~the World's End Fallen Star~ Trial Edition Vol.1]]（developer）
-- [[Sorceress ＊ Alive! ~the World's End Fallen Star~ Trial Edition Vol.2]]（developer）
 - [[ソーサレス＊アライヴ！～the World's End Fallen Star～]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

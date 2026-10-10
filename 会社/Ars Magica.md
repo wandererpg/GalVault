@@ -11,10 +11,10 @@ source_urls:
 # Ars Magica
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Rose Guns Days - Trial Edition（Ars Magica）]]（publisher）
-- [[Umineko no Naku Koro ni - Episodio 1 - Leggenda della strega dorata - Trial Edition]]（publisher）
-- [[Umineko no Naku Koro ni Chiru（Ars Magica）]]（publisher）
-- [[Umineko no Naku Koro ni（Ars Magica）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Rose Guns Days - The Best]]（publisher）
+- [[发行版/Umineko no Naku Koro ni - Episode 4 - Alliance of the Golden Witch]]（publisher）
+- [[发行版/Umineko no Naku Koro ni Chiru - Episode 8 - Twilight of the Golden Witch]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,13 +12,12 @@ source_urls:
 # X Moe Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Monü de Yeyan]]（publisher）
-- [[Ruoneng Yuni Zaici Xiangjian]]（publisher）
-- [[Tianjin Zui  - Trial Edition 2]]（publisher）
-- [[Xingchenlianqu de Baise Yongheng - Trial Edition]]（publisher）
-- [[Xingchenlianqu de Baise Yongheng Finale]]（publisher）
-- [[Xingchenlianqu de Baise Yongheng]]（publisher）
-- [[Yingru Hong Tong de Shijie]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Monü de Yeyan - FHD Edition]]（publisher）
+- [[发行版/Dekinai Watashi ga, Kurikaesu. - First Press Limited Edition]]（publisher）
+- [[发行版/Amatsutsumi - Download Edition]]（publisher）
+- [[发行版/AstralAir no Shiroki Towa -White Eternity- Package Edtition]]（publisher）
+- [[发行版/AstralAir no Shiroki Towa Finale Zu~tto Yuuki to Issho! Plush Bundled Deluxe Limited Edition]]（publisher）
+- [[发行版/Akai Hitomi ni Utsuru Sekai Zu~tto Shinku to Issho! - Plush Bundled Deluxe Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

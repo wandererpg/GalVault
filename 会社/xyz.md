@@ -12,7 +12,7 @@ source_urls:
 # xyz
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Tokimeki Memorial 2（xyz）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Tokimeki Memorial 2 - Konami The Best]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

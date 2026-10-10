@@ -12,8 +12,7 @@ source_urls:
 # SHUEISHA Games
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Schrödinger's Call Episode 1 Demo]]（publisher）
-- [[Schrödinger's Call]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Schrödinger's Call（SHUEISHA Games）]]（publisher）
 - [[Schrödinger's Call（SHUEISHA Games）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

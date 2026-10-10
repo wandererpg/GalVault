@@ -158,43 +158,9 @@ cover_image: "assets/covers/v266.webp"
 - [[Yamaguchi Kappei]]（山口 勝平）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[D.C. 10th Anniversary Arigatou Pack ~D.C.II P.C. & To You~（CIRCUS）]]
-- [[D.C. 10th Anniversary Arigatou Pack ~D.C.II P.C.E & To You~（CIRCUS）]]
-- [[D.C. Da Capo II ~Gonyuugaku, Gosotsugyou Set~]]
-- [[D.C. I & II P.S.P. ~Da Capo I & II~ Plus Situation Portable - DX Pack]]
-- [[D.C. I & II P.S.P. ~Da Capo I & II~ Plus Situation Portable - Regular Edition]]
-- [[D.C. I & II ~Da Capo I & II~ Blu-ray Disc Special Edition W Pack]]
-- [[D.C. II - Anniversary Package（CIRCUS）]]
-- [[D.C. II P.C. ~Da Capo II~  Plus Communication - D.C. III Starter Pack]]
-- [[D.C. II P.C. ~Da Capo II~ Plus Communication - Download Edition]]
-- [[D.C. II P.C. ~Da Capo II~ Plus Communication - First Press Limited Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/D.C. II P.C. ~Da Capo II~ Plus Communication - Regular Edition]]
 - [[D.C. II P.C. ~Da Capo II~ Plus Communication - Regular Edition]]
-- [[D.C. II P.C. ~Da Capo II~ Plus Communication]]
-- [[D.C. II P.S. ~Da Capo II~ Plus Situation - DX Pack]]
-- [[D.C. II P.S. ~Da Capo II~ Plus Situation - Regular Edition]]
-- [[D.C. II ~Da Capo II~ Blu-ray Disc Special Edition]]
-- [[D.C. II ~Da Capo II~ DVD-PG Koko's Arc]]
-- [[D.C. II ~Da Capo II~ DVD-PG Nanaka's Arc]]
-- [[D.C. II ~Da Capo II~ DVD-PG Otome's Arc]]
-- [[D.C. II ~Da Capo II~ DVD-PG Yume's Arc]]
-- [[D.C. II ~Da Capo II~ Download Edition with Bonus]]
-- [[D.C. II ~Da Capo II~ Download Edition]]
-- [[D.C. II ~Da Capo II~ First Press Limited Edition]]
-- [[D.C. II ~Da Capo II~ Gratitude Pack]]
-- [[D.C. II ~Da Capo II~ Limited Press CD Edition]]
-- [[D.C. II ~Da Capo II~ Regular Edition]]
-- [[D.C. II ~Da Capo II~ Vista Support Edition]]
-- [[D.C. II ~Da Capo II~]]
-- [[D.C. II ~Da Capo II~（Moe App・release：）]]
-- [[D.C. II ~Da Capo II~（Moe App）]]
-- [[D.C. II ~Da Capo II~（Team Utamaru）]]
-- [[D.C. ~Da Capo~ Archives - SAKURA Edition（CIRCUS・ork：v266）]]
-- [[D.C.II P.C. ~Da Capo II~ Plus Communication]]
-- [[D.C.II.P.C ～Chuyin Dao 2 P.C～ V0.91 Chinese Test Patch]]
-- [[D.C.Ⅱ Chinese Patch - Final Public Test Edition]]
-- [[Da Capo 2 - Download Edition]]
-- [[Da Capo 2 - Limited Edition]]
-- [[Kei☆Ten - First Press Edition + Plugins ＂D.C. II ~Da Capo II~ Otome's Arc＂ Pack]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

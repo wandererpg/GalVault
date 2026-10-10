@@ -31,7 +31,7 @@ portrait_image: "assets/characters/c149458.webp"
 
 ## 出场作品
 <!-- AUTO:BEGIN character -->- [[Doukyuusei 2 - Extra Box]]（side）
-- [[Doukyuusei 2（elf・rk：v2337）]]（side）
+- [[发行版/Doukyuusei 2 - Extra Box]]（side）
 - [[同級生2]]（appears）<!-- AUTO:END character -->
 
 ## 声优

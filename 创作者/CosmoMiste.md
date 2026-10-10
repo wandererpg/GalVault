@@ -12,7 +12,7 @@ source_urls:
 # CosmoMiste
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Tirion Katbert： Advokat Arcany]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Tyrion Cuthbert： Attorney of the Arcane]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

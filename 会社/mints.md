@@ -14,9 +14,9 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Aniyome wa Ijippari - DVDPG]]（publisher）
 - [[Haruka ni Aogi, Uruwashi no - BDPG]]（publisher）
-- [[In'youchuu Goku ~Ryoujoku Jigoku Taimaroku~ - DVDPG]]（publisher）
+- [[发行版/In'youchuu Goku ~Ryoujoku Jigoku Taimaroku~ - Low Price Edition DVDPG]]（publisher）
 - [[Kitto, Sumiwataru Asairo Yori mo, - BDPG Edition]]（publisher）
-- [[Saiminjutsu 2 - DVDPG]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Saiminjutsu 2 - UMD-PG Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

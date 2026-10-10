@@ -12,9 +12,8 @@ source_urls:
 # RottenBlock
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Rance VI Fan-patch]]（publisher）
-- [[Rance VI ver. 2.05 + Fan Patch]]（publisher）
-- [[Toushin Toshi 2 Fan-patch]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Lansi 6]]（publisher）
+- [[发行版/Toushin Toshi 2 - PC-9821 CD Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -30,15 +30,8 @@ portrait_image: "assets/characters/c51569.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Hakuoki： Edo Blossoms - EU Edition]]（appears）
-- [[Hakuoki： Edo Blossoms - NA Edition]]（appears）
-- [[Hakuouki Shinkai - Twin Pack]]（appears）
+<!-- AUTO:BEGIN character -->- [[发行版/Hakuouki Shinkai Fuukaden]]（appears）
 - [[Hakuouki Shinkai Fuukaden]]（appears）
-- [[Hakuouki Shinkai Fuukaden（Idea Factory Co., Ltd）]]（appears）
-- [[Hakuouki Shinkai Hana no Shou - Download Edition]]（appears）
-- [[Hakuouki Shinkai Hana no Shou - Limited Edition]]（appears）
-- [[Hakuouki Shinkai Hana no Shou - Regular Edition]]（appears）
-- [[Hakuouki Shinkai Hana no Shou]]（appears）
 - [[薄櫻鬼 黎明錄]]（primary）<!-- AUTO:END character -->
 
 ## 声优

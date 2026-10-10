@@ -12,13 +12,11 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Ciconia no Naku Koro ni - Phase 1： Kawari no Iru Kimi-tachi e]]（publisher）
-- [[Ciconia no Naku Koro ni - Test Version 2（Witch Hunt）]]（publisher）
-- [[Ciconia no Naku Koro ni - Test Version（Witch Hunt）]]（publisher）
-- [[Rose Guns Days - Last Season（Witch Hunt）]]（publisher）
-- [[Rose Guns Days - Trial Edition（Witch Hunt）]]（publisher）
-- [[Umineko no Naku Koro ni - Episode 1 - Legend of the Golden Witch - Trial Edition]]（publisher）
-- [[Umineko no Naku Koro ni Chiru]]（publisher）
-- [[Umineko no Naku Koro ni（Witch Hunt）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Ciconia no Naku Koro ni - Phase 1： Kawari no Iru Kimi-tachi e]]（publisher）
+- [[发行版/Rose Guns Days - The Best]]（publisher）
+- [[发行版/Umineko no Naku Koro ni - Episode 4 - Alliance of the Golden Witch]]（publisher）
+- [[发行版/Umineko no Naku Koro ni Chiru - Episode 8 - Twilight of the Golden Witch]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -54,12 +54,9 @@ cover_image: "assets/covers/v15575.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Tamjeongdyeon Remastered]]
-- [[Tamjeongdyeon]]
-- [[Tamjeongdyeon（TALESSHOP）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Tamjeongdyeon（nolsoft）]]
 - [[Tamjeongdyeon（nolsoft）]]
-- [[Tamjeongdyeon（release：）]]
-- [[Thám Tử Truyện]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

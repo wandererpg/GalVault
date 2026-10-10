@@ -11,32 +11,10 @@ source_urls:
 # ATLUS
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Tears to Tiara II： Heir of the Overlord - NA Edition]]（publisher）
-- [[Tears to Tiara II： Heir of the Overlord - US Download Edition]]（publisher）
-- [[Tears to Tiara II： Heir of the Overlord - US Edition]]（publisher）
-- [[Utawarerumono： Mask of Deception - AU Package Edition]]（publisher）
-- [[Utawarerumono： Mask of Deception - DE Package Edition]]（publisher）
-- [[Utawarerumono： Mask of Deception - EU Download Edition]]（publisher）
-- [[Utawarerumono： Mask of Deception - EU Download Edition（ATLUS）]]（publisher）
-- [[Utawarerumono： Mask of Deception - EU Package Edition]]（publisher）
-- [[Utawarerumono： Mask of Deception - FR Package Edition]]（publisher）
-- [[Utawarerumono： Mask of Deception - IT & ES Package Edition]]（publisher）
-- [[Utawarerumono： Mask of Deception - NA Download Edition]]（publisher）
-- [[Utawarerumono： Mask of Deception - NA Download Edition（ATLUS）]]（publisher）
-- [[Utawarerumono： Mask of Deception - NA Launch Edition]]（publisher）
-- [[Utawarerumono： Mask of Deception - NA Launch Edition（ATLUS）]]（publisher）
-- [[Utawarerumono： Mask of Deception - NA Package Edition]]（publisher）
-- [[Utawarerumono： Mask of Deception - NA Package Edition（ATLUS）]]（publisher）
-- [[Utawarerumono： Mask of Truth - AU Package Edition]]（publisher）
-- [[Utawarerumono： Mask of Truth - EU Download Edition]]（publisher）
-- [[Utawarerumono： Mask of Truth - EU Download Edition（ATLUS）]]（publisher）
-- [[Utawarerumono： Mask of Truth - EU Package Edition]]（publisher）
-- [[Utawarerumono： Mask of Truth - NA Download Edition]]（publisher）
-- [[Utawarerumono： Mask of Truth - NA Download Edition（ATLUS）]]（publisher）
-- [[Utawarerumono： Mask of Truth - NA Launch Edition]]（publisher）
-- [[Utawarerumono： Mask of Truth - NA Launch Edition（ATLUS）]]（publisher）
-- [[Utawarerumono： Mask of Truth - NA Package Edition]]（publisher）
-- [[Utawarerumono： Mask of Truth - NA Package Edition（ATLUS）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Tears to Tiara II： Heir of the Overlord - EU Download Edition]]（publisher）
+- [[发行版/Chingsongbadneun Ja： Geojis-ui Gamyeon - Limited Edition]]（publisher）
+- [[发行版/Chingsongbadneun Ja： Du Myeong-ui Baeghwang - Limited Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

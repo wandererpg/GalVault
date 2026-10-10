@@ -12,19 +12,13 @@ source_urls:
 # Platinum Label
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Suki na Mono wa Suki Dakara Shouganai!! + White Flower + Download Edition]]（developer）
-- [[Suki na Mono wa Suki Dakara Shouganai!! + White Flower + Download Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Suki na Mono wa Suki Dakara Shouganai!! + White Flower + Limited BOX Edition]]（developer）
+- [[发行版/Suki na Mono wa Suki Dakara Shouganai!! + White Flower + Limited BOX Edition]]（publisher）
 - [[Suki na Mono wa Suki Dakara Shouganai!! + White Flower + Limited BOX Edition]]（developer）
 - [[Suki na Mono wa Suki Dakara Shouganai!! + White Flower + Limited BOX Edition]]（publisher）
-- [[Suki na Mono wa Suki Dakara Shouganai!! + White Flower + Memorial Edition]]（publisher）
-- [[Suki na Mono wa Suki Dakara Shouganai!! + White Flower + Regular Edition]]（developer）
-- [[Suki na Mono wa Suki Dakara Shouganai!! + White Flower + Regular Edition]]（publisher）
 - [[Suki na Mono wa Suki Dakara Shouganai!! - FAN DISK -]]（developer）
-- [[Suki na Mono wa Suki Dakara Shouganai!! 3 - RAIN - Download Edition]]（developer）
-- [[Suki na Mono wa Suki Dakara Shouganai!! 3 - RAIN - Download Edition]]（publisher）
-- [[Suki na Mono wa Suki Dakara Shouganai!! 3 - RAIN - Memorial Edition]]（publisher）
-- [[Suki na Mono wa Suki Dakara Shouganai!! 3 - RAIN -]]（developer）
-- [[Suki na Mono wa Suki Dakara Shouganai!! 3 - RAIN -]]（publisher）
+- [[发行版/Suki na Mono wa Suki Dakara Shouganai!!- RAIN - Sukisyo! Episode ＃3]]（developer）
+- [[发行版/Suki na Mono wa Suki Dakara Shouganai!!- RAIN - Sukisyo! Episode ＃3]]（publisher）
 - [[Suki na Mono wa Suki Dakara Shouganai!!- RAIN - Sukisyo! Episode ＃3]]（developer）
 - [[好きなものは好きだからしょうがない!! +White Flower+]]（developer）
 - [[好きなものは好きだからしょうがない!! 3 - RAIN -]]（developer）<!-- AUTO:END duty -->

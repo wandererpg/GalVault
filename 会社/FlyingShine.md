@@ -12,33 +12,14 @@ source_urls:
 # FlyingShine
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[BEST HIT Selection CROSS†CHANNEL ~To all people~]]（developer）
-- [[CROSS†CHANNEL -FINAL COMPLETE- Download Edition]]（developer）
-- [[CROSS†CHANNEL ～For all people～ Limited Edition]]（developer）
-- [[CROSS†CHANNEL ～For all people～ Regular Edition]]（developer）
-- [[CROSS†CHANNEL ～For all people～]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Cross†Channel ~To All People~ Regular Edition]]（developer）
 - [[CROSS†CHANNEL]]（developer）
-- [[CROSS†CHANNEL（FlyingShine・release：）]]（developer）
-- [[CROSS†CHANNEL（FlyingShine・release：）]]（publisher）
-- [[CROSS†CHANNEL（FlyingShine）]]（developer）
-- [[CROSS†CHANNEL（FlyingShine）]]（publisher）
-- [[Cross†Channel - Reprint Edition（CROSS†CHANNEL）]]（developer）
-- [[Cross†Channel -Final Complete- Limited Quantity Edition]]（developer）
-- [[Cross†Channel ~For All People~ Limited Edition]]（developer）
-- [[Cross†Channel ~For All People~ Limited Edition（MAGES）]]（developer）
-- [[Cross†Channel ~For All People~ Regular Edition]]（developer）
-- [[Cross†Channel ~For All People~ Regular Edition（MAGES）]]（developer）
-- [[Cross†Channel ~In Memory of All People~ Limited Edition]]（developer）
-- [[Cross†Channel ~In Memory of All People~ Regular Edition]]（developer）
-- [[Cross†Channel ~To All People~ (2800 Collection)]]（developer）
-- [[Cross†Channel ~To All People~ Limited Edition]]（developer）
-- [[Cross†Channel ~To All People~ Limited Edition（Electronic Arts）]]（developer）
+- [[发行版/Cross†Channel ~To All People~ Regular Edition]]（publisher）
 - [[Cross†Channel ~To All People~ Regular Edition]]（developer）
-- [[Cross†Channel ~To All People~ Regular Edition（CYBERFRONT）]]（developer）
 - [[SWAN SONG]]（developer）
 - [[Swan Song - Download Edition]]（developer）
-- [[Swan Song - Low Price Edition]]（developer）
-- [[Swan Song]]（developer）<!-- AUTO:END duty -->
+- [[发行版/Swan Song - Download Edition]]（developer）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

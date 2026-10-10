@@ -12,7 +12,7 @@ source_urls:
 # Xiniao Zhen Jiedao Banshichu Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Our Life： Beginnings & Always（Xiniao Zhen Jiedao Banshichu Hanhuazu）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Our Life： Beginnings & Always - Voiced Name Expansion]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

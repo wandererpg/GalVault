@@ -12,10 +12,8 @@ source_urls:
 # ensemble#
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Kyokkou no Marriage： episode LIA - Download Edition]]（developer）
-- [[Kyokkou no Marriage： episode LIA - Royal Edition]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Kyokkou no Marriage： episode LIA - Standard Edition]]（developer）
 - [[Kyokkou no Marriage： episode LIA - Standard Edition]]（developer）
-- [[Kyokkou no Marriage： episode LIA - Trial Edition]]（developer）
 - [[旭光のマリアージュ]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

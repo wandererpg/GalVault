@@ -12,10 +12,10 @@ source_urls:
 # Matrix Interactive Software Technology Ltd.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Yinghua Dazhan 2 Wang Jun Duo Zhenzhong]]（publisher）
-- [[Yinghua Dazhan]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Yinghua Langman He]]（publisher）
+- [[发行版/Sakura Taisen]]（publisher）
 - [[Yinghua Langman He]]（publisher）
-- [[Yinghua Langman He（SEGA）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

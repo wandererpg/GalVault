@@ -12,7 +12,7 @@ source_urls:
 # ED
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Soushuu Senshinkan Gakuen Hachimyoujin]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Soushuu Senshinkan Gakuen： Hachimyoujin -Ten no Toki- First Press Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

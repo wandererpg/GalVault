@@ -80,16 +80,8 @@ cover_image: "assets/covers/v20072.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[DYNAMIC CHORD feat.apple-polisher Remaster Edition - DL Edition]]
-- [[DYNAMIC CHORD feat.apple-polisher Remaster Edition]]
-- [[DYNAMIC CHORD feat.apple-polisher]]
-- [[Dynamic Chord feat. apple-polisher - First Press Limited Edition Disc A]]
-- [[Dynamic Chord feat. apple-polisher - First Press Limited Edition Disc B]]
-- [[Dynamic Chord feat. apple-polisher - Regular Edition]]
-- [[Dynamic Chord feat. apple-polisher - Trial Edition]]
-- [[Dynamic Chord feat. apple-polisher V edition - Download Edition]]
-- [[Dynamic Chord feat. apple-polisher V edition - Limited Edition]]
-- [[Dynamic Chord feat. apple-polisher V edition]]
-- [[Dynamic Chord feat. apple-polisher]]<!-- AUTO:END release -->
+- [[发行版/DYNAMIC CHORD feat.apple-polisher Remaster Edition - DL Edition]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

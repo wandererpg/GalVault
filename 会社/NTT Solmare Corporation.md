@@ -12,15 +12,10 @@ source_urls:
 # NTT Solmare Corporation
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Beastmaster and Princes： After Story w／ Japanese Voice Acting]]（publisher）
-- [[Beastmaster and Princes： After Story]]（publisher）
-- [[Beastmaster and Princes： Date Story]]（publisher）
-- [[Beastmaster and Princes： Franz's Diary]]（publisher）
-- [[Beastmaster and Princes： Nightlight Festival]]（publisher）
-- [[Beastmaster and Princes： Side Story]]（publisher）
-- [[Shall we Date？： Scarlet Fate II ~Seasons of Love~]]（publisher）
-- [[Shall we date？： Scarlet Fate+ ~Fragments of the Past~]]（publisher）
-- [[Shall we date？： Scarlet Fate+ ~Fragments of the Past~（NTT Solmare Corporation）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Moujuutsukai to Ouji-sama ~Flower ＆ Snow~ for Nintendo Switch - Download Edition]]（publisher）
+- [[发行版/Shirahana no Ori ~Hiiro no Kakera 4~ Shiki no Uta - Regular Edition]]（publisher）
+- [[发行版/Shirahana no Ori ~Hiiro no Kakera 4~ Shiki no Uta - Twin Pack]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

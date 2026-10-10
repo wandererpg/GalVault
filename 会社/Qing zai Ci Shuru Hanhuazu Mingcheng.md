@@ -12,8 +12,8 @@ source_urls:
 # Qing zai Ci Shuru Hanhuazu Mingcheng
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Remember11 - PSP Wanquan Hanhua Yizhi Ban]]（publisher）
-- [[Yinse Shijian 25 Qu]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Remember11 -The Age of Infinity- Download Edition（MAGES）]]（publisher）
+- [[发行版/Silver Jiken 25 Ku]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

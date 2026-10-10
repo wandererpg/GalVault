@@ -12,7 +12,7 @@ source_urls:
 # akerue_
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Yinse Shijian]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/The Silver Case - Limited Package Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

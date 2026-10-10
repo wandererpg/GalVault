@@ -14,10 +14,8 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Ie, Tatemasu! - Download Edition]]（developer）
 - [[Ie, Tatemasu! - Download Edition]]（publisher）
-- [[Ie, Tatemasu! - Trial Edition]]（developer）
-- [[Ie, Tatemasu! - Trial Edition]]（publisher）
-- [[Ie, Tatemasu!]]（developer）
-- [[Ie, Tatemasu!]]（publisher）
+- [[发行版/Ie, Tatemasu! - Download Edition]]（developer）
+- [[发行版/Ie, Tatemasu! - Download Edition]]（publisher）
 - [[家、建てます!]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

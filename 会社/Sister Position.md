@@ -12,18 +12,8 @@ source_urls:
 # Sister Position
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[A Sex-obsessed Older Brother in the Country, and his Traditional, Sickly Little Sister]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Chiqing Gege yu Bingruo Meimei de Xiangjian Shenghuo]]（developer）
 - [[Chiqing Gege yu Bingruo Meimei de Xiangjian Shenghuo]]（developer）
-- [[Doinaka Kyoudai - Additional Content Patch for the Overseas Version]]（developer）
-- [[Ecchi de Ichizu na Doinaka Nii-sama to - Append Complete Set]]（developer）
-- [[Ecchi de Ichizu na Doinaka Nii-sama to, Koshikiyukashii Byoujaku Imouto - trial version]]（developer）
-- [[Ecchi de Ichizu na Doinaka Nii-sama to, Koshikiyukashii Byoujaku Imouto Append.01 Asumi-chan no Sailor Fuku]]（developer）
-- [[Ecchi de Ichizu na Doinaka Nii-sama to, Koshikiyukashii Byoujaku Imouto Append.02 Asumi-chan to Katei no Igaku]]（developer）
-- [[Ecchi de Ichizu na Doinaka Nii-sama to, Koshikiyukashii Byoujaku Imouto Append.03 Asumi-chan to Seiso na Yuuwaku]]（developer）
-- [[Ecchi de Ichizu na Doinaka Nii-sama to, Koshikiyukashii Byoujaku Imouto Append.04 Asumi-chan no Kenzen Yuuryou Seikatsu]]（developer）
-- [[Ecchi de Ichizu na Doinaka Nii-sama to, Koshikiyukashii Byoujaku Imouto Append.05 Asumi-chan no Seichou Monogatari]]（developer）
-- [[Ecchi de Ichizu na Doinaka Nii-sama to, Koshikiyukashii Byoujaku Imouto]]（developer）
-- [[Eumhyunghago Hangyeolgat-eun Kkangchon Olabeoniwa, Yeseuleobgo Byeong-yaghan Yeodongsaeng]]（developer）
 - [[痴情哥哥与病弱妹妹的乡间生活]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

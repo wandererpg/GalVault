@@ -12,8 +12,8 @@ source_urls:
 # [horagema.exe]
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Danganronpa 2： Proschaj, Akademija Otchajanija（release：）]]（publisher）
-- [[Zero Escape： Predannye ljudi umirajut]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Danganronpa Decadence - EU Package Edition（Numskull Games Ltd・release：）]]（publisher）
+- [[发行版/Kyokugen Dasshutsu ADV Zennin Shibou Desu - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -30,7 +30,7 @@ portrait_image: "assets/characters/c105010.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Hahamusu ~Ochibure Kizoku no Haha to Musume~ Trial Edition]]（primary）
+<!-- AUTO:BEGIN character -->- [[发行版/Hahamusu ~Ochibure Kizoku no Haha to Musume~ Download Edition]]（primary）
 - [[ははむす外伝 ～水晶の女王デルフィーナ～]]（appears）<!-- AUTO:END character -->
 
 ## 声优

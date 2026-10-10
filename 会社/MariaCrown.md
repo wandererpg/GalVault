@@ -12,14 +12,9 @@ source_urls:
 # MariaCrown
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Yoshiwara Higanbana - Trial Edition]]（developer）
-- [[Yoshiwara Higanbana - Trial Edition]]（publisher）
-- [[Yoshiwara Higanbana Kuon no Chigiri - Download Edition]]（developer）
-- [[Yoshiwara Higanbana Kuon no Chigiri - Download Edition（PROTOTYPE）]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Yoshiwara Higanbana Kuon no Chigiri - Package Edition]]（developer）
+- [[发行版/Yoshiwara Higanbana Kuon no Chigiri - Package Edition]]（publisher）
 - [[Yoshiwara Higanbana Kuon no Chigiri - Package Edition]]（developer）
-- [[Yoshiwara Higanbana Kuon no Chigiri - Package Edition（PROTOTYPE）]]（developer）
-- [[Yoshiwara Higanbana（MariaCrown）]]（developer）
-- [[Yoshiwara Higanbana（MariaCrown）]]（publisher）
 - [[吉原彼岸花]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

@@ -13,9 +13,8 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Fate／Extra CCC - Limited Edition - Type-Moon Virgin White Box]]（publisher）
-- [[Fate／Extra CCC - Regular Edition]]（publisher）
-- [[Fate／Extra CCC PSP the Best - Download Edition]]（publisher）
-- [[Fate／Extra CCC PSP the Best - Package Edition]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Fate／Extra CCC - Limited Edition - Type-Moon Virgin White Box]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

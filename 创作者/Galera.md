@@ -12,12 +12,10 @@ source_urls:
 # Galera
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Daiteikoku 0.10]]（publisher）
-- [[Sengoku † Koihime X ~Otome Kenran ☆ Sengoku Emaki~ Ch. 1-6]]（publisher）
-- [[Shin Koihime † Musou -Kakumei- Souten no Haou 0.15 eng／ 0.68 rus]]（publisher）
-- [[Shin Koihime † Musou -Kakumei- Souten no Haou Ch.8]]（publisher）
-- [[Shin Koihime † Musou -Kakumei- Souten no Haou（release：）]]（publisher）
-- [[Velikaja imperija 1-41 hod]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Dadiguo（Dadiguoba Hanhuazu）]]（publisher）
+- [[发行版/Sengoku † Koihime X ~Otome Kenran ☆ Sengoku Emaki~（BaseSon）]]（publisher）
+- [[发行版/Shin Koihime † Musou -Kakumei- Souten no Haou - Package Edition - DVD-ROM Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

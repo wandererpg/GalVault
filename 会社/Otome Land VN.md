@@ -12,8 +12,8 @@ source_urls:
 # Otome Land VN
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Heart no Kuni no Alice ~Wonderful Wonder World~（Otome Land VN）]]（publisher）
-- [[Watashi no Real wa Juujitsu Shisugiteiru]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Heart no Kuni no Alice ~Wonderful Wonder World~（PROTOTYPE）]]（publisher）
+- [[发行版/Watashi no Real wa Juujitsu Shisugiteiru - Fully Voiced Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

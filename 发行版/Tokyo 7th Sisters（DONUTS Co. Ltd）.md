@@ -1,16 +1,34 @@
 ---
-entity_id: "release:vndb:r127302:work:vndb:work:v52711"
-type: "release"
-display_title: "Tokyo 7th Sisters"
-release_date: "2014-11-13"
+entity_id: release:vndb:r127302:work:vndb:work:v52711
+type: release
+display_title: Tokyo 7th Sisters
+release_date: '2014-11-13'
 is_all_ages: true
-platform: "and"
-edition_type: "complete"
-title_status: "needs_review"
+platform: and
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r127302"
+  vndb: r127302
 source_urls:
-  vndb: "https://vndb.org/r127302"
+  vndb: https://vndb.org/r127302
+aliases:
+- Tokyo 7th Sisters
+consolidated_releases:
+- id: r127302
+  title: Tokyo 7th Sisters
+  url: https://vndb.org/r127302
+  release_date: '2014-11-13'
+  platform: and
+  edition_type: complete
+  is_all_ages: true
+- id: r127301
+  title: Tokyo 7th Sisters
+  url: https://vndb.org/r127301
+  release_date: '2014-02-19'
+  platform: ios
+  edition_type: complete
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Tokyo 7th Sisters

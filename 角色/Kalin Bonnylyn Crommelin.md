@@ -30,7 +30,7 @@ portrait_image: "assets/characters/c48364.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Otome Riron to Sono Shuuhen -Bon Voyage- Limited Edition]]（side）
+<!-- AUTO:BEGIN character -->- [[发行版/Otome Riron to Sono Shuuhen -Bon Voyage- Regular Edition]]（side）
 - [[Otome Riron to Sono Shuuhen -Bon Voyage- Regular Edition]]（side）
 - [[少女理论及其之后的周边 -美好年代篇-]]（appears）<!-- AUTO:END character -->
 

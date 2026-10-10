@@ -1,16 +1,34 @@
 ---
-entity_id: "release:vndb:r140213:work:vndb:work:v58613"
-type: "release"
-display_title: "Mahoutsukai no Yakusoku"
-release_date: "2019-11-26"
+entity_id: release:vndb:r140213:work:vndb:work:v58613
+type: release
+display_title: Mahoutsukai no Yakusoku
+release_date: '2019-11-26'
 is_all_ages: true
-platform: "ios, and"
-edition_type: "complete"
-title_status: "needs_review"
+platform: ios, and
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r140213"
+  vndb: r140213
 source_urls:
-  vndb: "https://vndb.org/r140213"
+  vndb: https://vndb.org/r140213
+aliases:
+- Mofashi de Yueding
+consolidated_releases:
+- id: r140213
+  title: Mahoutsukai no Yakusoku
+  url: https://vndb.org/r140213
+  release_date: '2019-11-26'
+  platform: ios, and
+  edition_type: complete
+  is_all_ages: true
+- id: r144584
+  title: Mofashi de Yueding
+  url: https://vndb.org/r144584
+  release_date: '2024-10-17'
+  platform: ios, and
+  edition_type: complete
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Mahoutsukai no Yakusoku

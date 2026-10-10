@@ -12,7 +12,7 @@ source_urls:
 # Taihen Tsuma Translations
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Baku Ane 2 ~Otouto, Ippai Shibocchau zo!~ Ritsuka Patch]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Baku Ane 2 ~Otouto, Ippai Shibocchau zo!~ Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

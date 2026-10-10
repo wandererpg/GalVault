@@ -12,8 +12,8 @@ source_urls:
 # Shenying Zhongwenhua Fanyishe
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[D.C.II P.C. ~Da Capo II~ Plus Communication]]（publisher）
-- [[D.C.II To You]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/D.C. II P.C. ~Da Capo II~ Plus Communication - Regular Edition]]（publisher）
+- [[发行版/D.C. 10th Anniversary Arigatou Pack ~D.C.II P.C.E & To You~]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

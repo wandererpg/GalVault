@@ -12,9 +12,9 @@ source_urls:
 # Fenghuang zhi Yi Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Da E Si]]（publisher）
-- [[Dadiguo（Fenghuang zhi Yi Hanhuazu）]]（publisher）
-- [[Kichikuou Rance（Fenghuang zhi Yi Hanhuazu）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Daiakuji - Download Edition]]（publisher）
+- [[发行版/Dadiguo（Dadiguoba Hanhuazu）]]（publisher）
+- [[发行版/Kichikuou Rance - New Package Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

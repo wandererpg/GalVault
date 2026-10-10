@@ -12,16 +12,10 @@ source_urls:
 # Fire Works
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Doushite, Sonna ni Kuroi Kami ga Suki na no？ - Download Edition]]（developer）
-- [[Doushite, Sonna ni Kuroi Kami ga Suki na no？ - Download Edition]]（publisher）
-- [[Doushite, Sonna ni Kuroi Kami ga Suki na no？ - H-scene Trial Edition]]（developer）
-- [[Doushite, Sonna ni Kuroi Kami ga Suki na no？ - H-scene Trial Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Doushite, Sonna ni Kuroi Kami ga Suki na no？ - Motto Motto Kurokami Patch]]（developer）
+- [[发行版/Doushite, Sonna ni Kuroi Kami ga Suki na no？ - Motto Motto Kurokami Patch]]（publisher）
 - [[Doushite, Sonna ni Kuroi Kami ga Suki na no？ - Motto Motto Kurokami Patch]]（developer）
 - [[Doushite, Sonna ni Kuroi Kami ga Suki na no？ - Motto Motto Kurokami Patch]]（publisher）
-- [[Doushite, Sonna ni Kuroi Kami ga Suki na no？ - Trial Edition]]（developer）
-- [[Doushite, Sonna ni Kuroi Kami ga Suki na no？ - Trial Edition]]（publisher）
-- [[Doushite, Sonna ni Kuroi Kami ga Suki na no？（Fire Works）]]（developer）
-- [[Doushite, Sonna ni Kuroi Kami ga Suki na no？（Fire Works）]]（publisher）
 - [[どうして、そんなに黒い髪が好きなの？]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

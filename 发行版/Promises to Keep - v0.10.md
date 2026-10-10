@@ -1,16 +1,50 @@
 ---
-entity_id: "release:vndb:r118407:work:vndb:work:v49181"
-type: "release"
-display_title: "Promises to Keep - v0.10"
-release_date: "2026-04-04"
+entity_id: release:vndb:r118407:work:vndb:work:v49181
+type: release
+display_title: Promises to Keep - v0.10
+release_date: '2026-04-04'
 is_all_ages: true
-platform: "win, lin, mac, and"
-edition_type: "partial"
-title_status: "needs_review"
+platform: win, lin, mac, and
+edition_type: partial
+title_status: needs_review
 source_ids:
-  vndb: "r118407"
+  vndb: r118407
 source_urls:
-  vndb: "https://vndb.org/r118407"
+  vndb: https://vndb.org/r118407
+aliases:
+- Promises to Keep - v0.2.1
+- Promises to Keep - v0.6
+- Promises to Keep - v0.8
+consolidated_releases:
+- id: r118407
+  title: Promises to Keep - v0.10
+  url: https://vndb.org/r118407
+  release_date: '2026-04-04'
+  platform: win, lin, mac, and
+  edition_type: partial
+  is_all_ages: true
+- id: r118617
+  title: Promises to Keep - v0.2.1
+  url: https://vndb.org/r118617
+  release_date: '2024-04-07'
+  platform: win, lin, mac, and
+  edition_type: partial
+  is_all_ages: true
+- id: r136996
+  title: Promises to Keep - v0.8
+  url: https://vndb.org/r136996
+  release_date: '2025-09-20'
+  platform: win, and
+  edition_type: partial
+  is_all_ages: true
+- id: r145133
+  title: Promises to Keep - v0.6
+  url: https://vndb.org/r145133
+  release_date: '2026-03-20'
+  platform: win, lin, mac, and
+  edition_type: partial
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Promises to Keep - v0.10

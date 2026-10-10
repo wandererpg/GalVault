@@ -1,16 +1,58 @@
 ---
-entity_id: "release:vndb:r160313:work:vndb:work:v54509"
-type: "release"
-display_title: "Role player: Ikura Shimai no Nenmaku Portrait - Gurigucha LIVE! [AI TL]"
-release_date: "2026-07-08"
+entity_id: release:vndb:r160313:work:vndb:work:v54509
+type: release
+display_title: 'Role player: Ikura Shimai no Nenmaku Portrait - Gurigucha LIVE! [AI TL]'
+release_date: '2026-07-08'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r160313"
+  vndb: r160313
 source_urls:
-  vndb: "https://vndb.org/r160313"
+  vndb: https://vndb.org/r160313
+aliases:
+- Ikura Jiemei♥Nianmo Youxi - Trial Edition
+- Role player： Ikura Shimai no Nenmaku Portrait - Gurigucha LIVE! - Download Edition
+- Role player： Ikura Shimai no Nenmaku Portrait - Gurigucha LIVE! - Package Edition
+- Role player： Ikura Shimai no Nenmaku Portrait - Gurigucha LIVE! - Trial Version
+consolidated_releases:
+- id: r160313
+  title: 'Role player: Ikura Shimai no Nenmaku Portrait - Gurigucha LIVE! [AI TL]'
+  url: https://vndb.org/r160313
+  release_date: '2026-07-08'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r140429
+  title: 'Role player: Ikura Shimai no Nenmaku Portrait - Gurigucha LIVE! - Download Edition'
+  url: https://vndb.org/r140429
+  release_date: '2025-04-25'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r131416
+  title: 'Role player: Ikura Shimai no Nenmaku Portrait - Gurigucha LIVE! - Package Edition'
+  url: https://vndb.org/r131416
+  release_date: '2025-04-25'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r133257
+  title: 'Role player: Ikura Shimai no Nenmaku Portrait - Gurigucha LIVE! - Trial Version'
+  url: https://vndb.org/r133257
+  release_date: '2025-03-21'
+  platform: win
+  edition_type: trial
+  is_all_ages: false
+- id: r131419
+  title: Ikura Jiemei♥Nianmo Youxi - Trial Edition
+  url: https://vndb.org/r131419
+  release_date: '2025-04-14'
+  platform: win
+  edition_type: trial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Role player: Ikura Shimai no Nenmaku Portrait - Gurigucha LIVE! [AI TL]

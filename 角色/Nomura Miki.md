@@ -33,8 +33,7 @@ portrait_image: "assets/characters/c68281.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Summer Pockets REFLECTION BLUE - Deluxe Limited Edition]]（primary）
-- [[Summer Pockets REFLECTION BLUE - Download Edition]]（primary）
+<!-- AUTO:BEGIN character -->- [[发行版/Summer Pockets REFLECTION BLUE - First Press Limited Edition]]（primary）
 - [[Summer Pockets REFLECTION BLUE - First Press Limited Edition]]（primary）
 - [[Summer Pockets]]（side）<!-- AUTO:END character -->
 

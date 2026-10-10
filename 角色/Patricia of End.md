@@ -33,7 +33,7 @@ portrait_image: "assets/characters/c40407.webp"
 
 ## 出场作品
 <!-- AUTO:BEGIN character -->- [[Baldr Heart EXE - First Press Limited Edition]]（appears）
-- [[Baldr Heart EXE - Regular Edition]]（appears）
+- [[发行版/Baldr Heart EXE - First Press Limited Edition]]（appears）
 - [[野良与皇女与流浪猫之心2]]（side）<!-- AUTO:END character -->
 
 ## 声优

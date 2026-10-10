@@ -12,9 +12,9 @@ source_urls:
 # monarh novell
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Ao no Kanata no Four Rhythm - EXTRA1（release：）]]（publisher）
-- [[Ao no Kanata no Four Rhythm - EXTRA2（release：）]]（publisher）
-- [[Senren＊Banka]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Ao no Kanata no Four Rhythm - EXTRA1S - Download Edition]]（publisher）
+- [[发行版/Aokana - Four Rhythms Across the Blue - EXTRA2 18+ Steam Patch]]（publisher）
+- [[发行版/Senren ＊ Banka - Package Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

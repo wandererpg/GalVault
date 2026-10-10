@@ -12,10 +12,8 @@ source_urls:
 # Circle Entertainment
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Maitetsu -pure station- Deluxe Edition]]（publisher）
-- [[Maitetsu -pure station- Download Edition]]（publisher）
-- [[Maitetsu -pure station- Package Edition]]（publisher）
-- [[Maitetsu -pure station-（Circle Entertainment）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Maitetsu Remaster]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

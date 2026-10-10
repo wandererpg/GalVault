@@ -43,11 +43,7 @@ cover_image: "assets/covers/v11858.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[NOeSIS 01＆02 - Old Version]]
-- [[NOeSIS02 -Uka-]]
-- [[NOeSIS02 -Uka-（cutlass・release：）]]
-- [[NOeSIS02 -Uka-（cutlass）]]
-- [[NOeSIS02 for PSP]]
+<!-- AUTO:BEGIN release -->- [[发行版/NOeSIS02_Uka]]
 - [[NOeSIS02_Uka]]<!-- AUTO:END release -->
 
 ## 动画化

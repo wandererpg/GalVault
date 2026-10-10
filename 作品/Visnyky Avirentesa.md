@@ -105,8 +105,7 @@ cover_image: "assets/covers/v38367.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Visniki Avirentesa - Gl. 1 Krila Zmin Demo]]
-- [[Visniki Avirentesa ［v0.65］]]
+<!-- AUTO:BEGIN release -->- [[发行版/Visnyky Avirentesa - Hl. 1 Kryla Zmin - Early Access ［v0.7.25］]]
 - [[Visnyky Avirentesa - Hl. 1 Kryla Zmin - Early Access ［v0.7.25］]]<!-- AUTO:END release -->
 
 ## 动画化

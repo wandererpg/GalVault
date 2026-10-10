@@ -12,14 +12,10 @@ source_urls:
 # Iris
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Chicchakunai Mon! ~School Bus de Omukae Chu Chu♥~ - Trial Edition]]（developer）
-- [[Chicchakunai Mon! ~School Bus de Omukae Chu Chu♥~ - Trial Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Chicchakunai Mon! ~School Bus de Omukae Chu Chu♥~ Download Edition]]（developer）
+- [[发行版/Chicchakunai Mon! ~School Bus de Omukae Chu Chu♥~ Download Edition]]（publisher）
 - [[Chicchakunai Mon! ~School Bus de Omukae Chu Chu♥~ Download Edition]]（developer）
 - [[Chicchakunai Mon! ~School Bus de Omukae Chu Chu♥~ Download Edition]]（publisher）
-- [[Chicchakunai Mon! ~School Bus de Omukae Chu Chu♥~ Package Edition]]（developer）
-- [[Chicchakunai Mon! ~School Bus de Omukae Chu Chu♥~ Package Edition]]（publisher）
-- [[Chicchakunai Mon! ~School Bus de Omukae Chu Chu♥~]]（developer）
-- [[Chicchakunai Mon! ~School Bus de Omukae Chu Chu♥~]]（publisher）
 - [[ちっちゃくないもんっ！～スクールバスでおむかえちゅっちゅ♥～]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

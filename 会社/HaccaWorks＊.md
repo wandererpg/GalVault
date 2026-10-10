@@ -12,15 +12,12 @@ source_urls:
 # HaccaWorks*
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Akaya Akashiya Ayakashino - Limited Edition]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Akaya Akashiya Ayakashino - Regular Edition]]（developer）
 - [[Akaya Akashiya Ayakashino - Regular Edition]]（developer）
-- [[Akaya Akashiya Ayakashino]]（developer）
-- [[Akaya Akashiya Ayakashino]]（publisher）
-- [[Hanakisou Plus+ Disc]]（developer）
-- [[Hanakisou Plus+ Disc]]（publisher）
-- [[Hanakisou]]（publisher）
+- [[发行版/Akaya Akashiya Ayakashino - Regular Edition]]（publisher）
+- [[发行版/Hanakisou（HaccaWorks＊・release：）]]（developer）
+- [[发行版/Hanakisou（HaccaWorks＊・release：）]]（publisher）
 - [[Hanakisou（HaccaWorks＊・release：）]]（developer）
-- [[Hanakisou（HaccaWorks＊）]]（developer）
 - [[花帰葬]]（developer）
 - [[赤与灯皆有诡异 集册]]（developer）<!-- AUTO:END duty -->
 

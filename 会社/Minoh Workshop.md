@@ -12,8 +12,8 @@ source_urls:
 # Minoh Workshop
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Minotaur Hotel - Build 14]]（developer）
-- [[Minotaur Hotel - Build 14]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Minotaur Hotel： SFW Mode v0.7]]（developer）
+- [[发行版/Minotaur Hotel： SFW Mode v0.7]]（publisher）
 - [[Minotaur Hotel]]（developer）
 - [[Minotaur Hotel： SFW Mode v0.7]]（developer）
 - [[Minotaur Hotel： SFW Mode v0.7]]（publisher）<!-- AUTO:END duty -->

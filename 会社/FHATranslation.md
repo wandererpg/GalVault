@@ -12,7 +12,7 @@ source_urls:
 # FHATranslation
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Fate／Hollow Ataraxia（FHATranslation）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Fate／Hollow Ataraxia - Voice Patch]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

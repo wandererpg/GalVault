@@ -12,7 +12,7 @@ source_urls:
 # Atalante
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[TSUKIHIME -A piece of blue glass Moon- Ch 0~7]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Tsukihime -A piece of blue glass moon- Digital Deluxe Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

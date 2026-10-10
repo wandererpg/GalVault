@@ -50,10 +50,7 @@ cover_image: "assets/covers/v54509.webp"
 - [[Yahiro Mami]]（東 シヅ）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Ikura Jiemei♥Nianmo Youxi - Trial Edition]]
-- [[Role player： Ikura Shimai no Nenmaku Portrait - Gurigucha LIVE! - Download Edition]]
-- [[Role player： Ikura Shimai no Nenmaku Portrait - Gurigucha LIVE! - Package Edition]]
-- [[Role player： Ikura Shimai no Nenmaku Portrait - Gurigucha LIVE! - Trial Version]]
+<!-- AUTO:BEGIN release -->- [[发行版/Role player： Ikura Shimai no Nenmaku Portrait - Gurigucha LIVE! ［AI TL］]]
 - [[Role player： Ikura Shimai no Nenmaku Portrait - Gurigucha LIVE! ［AI TL］]]<!-- AUTO:END release -->
 
 ## 动画化

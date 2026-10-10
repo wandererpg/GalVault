@@ -154,34 +154,9 @@ cover_image: "assets/covers/v26532.webp"
 - [[Zach Aguilar]]（Zach Aguilar）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[AI： Mengjing Dang'an Simplified Chinese Font patch]]
-- [[AI： Somnium Files]]
-- [[AI： THE SOMNIUM FILES - Download Edition]]
-- [[AI： The Somnium Files - Day One Edition]]
-- [[AI： The Somnium Files - Day One Edition（Spike Chunsoft）]]
-- [[AI： The Somnium Files - Demo]]
-- [[AI： The Somnium Files - Demo（Spike Chunsoft）]]
-- [[AI： The Somnium Files - EU Download Edition]]
-- [[AI： The Somnium Files - EU Special Agent Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/AI： The Somnium Files - EU Special Agent Edition（Numskull Games Ltd）]]
 - [[AI： The Somnium Files - EU Special Agent Edition（Numskull Games Ltd）]]
-- [[AI： The Somnium Files - EU Standard Edition]]
-- [[AI： The Somnium Files - EU Standard Edition（Numskull Games Ltd）]]
-- [[AI： The Somnium Files - JP Download Edition]]
-- [[AI： The Somnium Files - JP Regular Edition]]
-- [[AI： The Somnium Files - JP Regular Edition（Spike Chunsoft）]]
-- [[AI： The Somnium Files - NA Download Edition]]
-- [[AI： The Somnium Files - NA Special Agent Edition]]
-- [[AI： The Somnium Files - NA Special Agent Edition（Spike Chunsoft）]]
-- [[AI： The Somnium Files - NA Standard Edition]]
-- [[AI： The Somnium Files - NA Standard Edition（Spike Chunsoft）]]
-- [[AI： The Somnium Files]]
-- [[AI： The Somnium Files（DreamTrad）]]
-- [[AI： The Somnium Files（Spike Chunsoft）]]
-- [[AI： The Somnium Files（TraduSquare・release：）]]
-- [[AI： The Somnium Files（TraduSquare）]]
-- [[AI： The Somnium Files（k：v26532）]]
-- [[AI： The Somnium Files（release：）]]
-- [[AI： The Somnium Files（vndb：r77）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

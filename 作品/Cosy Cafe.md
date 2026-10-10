@@ -79,7 +79,7 @@ cover_image: "assets/covers/v51048.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Cosy Cafe v0.14.2]]
-- [[Ujutnoe Kafe v0.14.1]]<!-- AUTO:END release -->
+- [[发行版/Cosy Cafe v0.14.2]]<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

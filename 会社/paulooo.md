@@ -12,7 +12,7 @@ source_urls:
 # paulooo
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Tongjisheng 2（paulooo）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Doukyuusei 2 - Extra Box]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

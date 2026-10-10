@@ -98,24 +98,9 @@ cover_image: "assets/covers/v74.webp"
 - [[Yamamoto Naoko]]（山本 直）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Aselia the Eternal - Download Edition]]
-- [[Aselia the Eternal - Package Edition]]
-- [[Aselia the Eternal ／ Eien no Aselia (CG Uncensorer)]]
-- [[Eien no Aselia - Download Edition]]
-- [[Eien no Aselia - Premium Special Edition - Download Edition]]
-- [[Eien no Aselia - Premium Special Edition]]
-- [[Eien no Aselia - Special Edition]]
-- [[Eien no Aselia -Kono Daichi no Hate De- First Press Limited Edition]]
-- [[Eien no Aselia -Kono Daichi no Hate De- First Press Limited Edition（Nippon Ichi Software, Inc）]]
-- [[Eien no Aselia -Kono Daichi no Hate De- Regular Edition]]
-- [[Eien no Aselia -Kono Daichi no Hate De- Regular Edition（Nippon Ichi Software, Inc）]]
-- [[Eien no Aselia -The Spirit of Eternity Sword- DVD Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Eien no Aselia -The Spirit of Eternity Sword- Premium Special Edition + Seinarukana -The Spirit of Eternity Sword 2- Special Edition W Set]]
 - [[Eien no Aselia -The Spirit of Eternity Sword- Premium Special Edition + Seinarukana -The Spirit of Eternity Sword 2- Special Edition W Set]]
-- [[Eien no Aselia -The Spirit of Eternity Sword-]]
-- [[Eien no Aselia -The Spirit of Eternity Sword-（Xuse）]]
-- [[Eien no Aselia ： Re (tentative)]]
-- [[Seinarukana -The Spirit of Eternity Sword 2- SPECIAL PACKAGE]]
-- [[Yongyuan de Aselia]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

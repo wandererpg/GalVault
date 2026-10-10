@@ -12,10 +12,9 @@ source_urls:
 # Princess Soft
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Kimi ga Nozomu Eien ~Rumbling hearts~ First Press Limited Edition]]（publisher）
-- [[Kimi ga Nozomu Eien ~Rumbling hearts~ Regular Edition]]（publisher）
-- [[Phantom of Inferno - First Press Limited Edition]]（publisher）
-- [[Phantom of Inferno - Regular Edition]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kimi ga Nozomu Eien ~Enhanced Edition~ Download Edition]]（publisher）
+- [[发行版/Phantom - Phantom of Inferno - Regular Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

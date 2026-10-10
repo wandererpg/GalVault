@@ -12,7 +12,7 @@ source_urls:
 # Woyao Qifei Le
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Yuganda Ren'ai Moyou]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Yuganda Ren'ai Moyou - DVDPG]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

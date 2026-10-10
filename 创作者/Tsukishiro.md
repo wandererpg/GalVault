@@ -12,7 +12,7 @@ source_urls:
 # Tsukishiro
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[The School Nurse and his Soap Bubble Addicted Assistant]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Hokenshitsu no Sensei to Shabondama Chuudoku no Joshu - Dakimakura Cover Included Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

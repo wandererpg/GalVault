@@ -137,17 +137,9 @@ cover_image: "assets/covers/v25964.webp"
 - [[Yuuki Honoka]]（結城 ほのか）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Motto! Haramase! Honoo no Oppai Chou Ero Appli Gakuen - 18+ DLC]]
-- [[Motto! Haramase! Honoo no Oppai Chou Ero Appli Gakuen]]
+<!-- AUTO:BEGIN release -->- [[发行版/Motto! Haramase! Honoo no Oppai Chou Ero ♡ Appli Gakuen! - Download Edition]]
 - [[Motto! Haramase! Honoo no Oppai Chou Ero ♡ Appli Gakuen! - Download Edition]]
-- [[Motto! Haramase! Honoo no Oppai Chou Ero ♡ Appli Gakuen!]]
-- [[Motto! Haramase! Honoo no Oppai Chou Ero ♡ Appli Gakuen!（Milk Factory）]]
-- [[Motto! Haramase! Honoo no Oppai Chou Ero ♡ Appli Gakuen!（release：）]]
-- [[Motto! Haramase! Honoo no Oppai Chou Ero ♡ Appli Gakuen!（vndb：r87）]]
-- [[OPPAI Ero App Academy Bigger, Better, Electric Boobaloo!]]
-- [[OPPAI Ero App Academy： Bigger, Better, Electric Boobaloo]]
-- [[Quanbu! Huaiyun! Chaoseqing Baoru ▼ APP Xueyuan]]
-- [[Yan Yun Chao Gong Kou APP Xue Yuan]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

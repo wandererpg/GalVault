@@ -12,8 +12,8 @@ source_urls:
 # Sukinime
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Lamento -Beyond the Void-（Sukinime）]]（publisher）
-- [[Sweet Pool（Sukinime）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Lamento -BEYOND THE VOID- Windows 10 Support Edition - Download Edition]]（publisher）
+- [[发行版/sweet pool Remaster]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

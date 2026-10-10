@@ -64,11 +64,9 @@ cover_image: "assets/covers/v4876.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Himawari Aqua After - The Day the Moon Stood Still]]
+<!-- AUTO:BEGIN release -->- [[发行版/Himawari Aqua After - The Day the Moon Stood Still（Blank Note）]]
 - [[Himawari Aqua After - The Day the Moon Stood Still（Blank Note）]]
-- [[Himawari Aqua After]]
-- [[Himawari Aqua After（Blank Note）]]
-- [[Xiangrikui Aqua After]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

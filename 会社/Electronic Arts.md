@@ -12,22 +12,16 @@ source_urls:
 # Electronic Arts
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Cross†Channel ~To All People~ (2800 Collection)]]（publisher）
-- [[Cross†Channel ~To All People~ Limited Edition（Electronic Arts）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Cross†Channel ~To All People~ Regular Edition]]（publisher）
 - [[Cross†Channel ~To All People~ Regular Edition]]（publisher）
-- [[Ever17 -The Out of Infinity- First Press Limited Edition]]（publisher）
-- [[Ever17 -The Out of Infinity- Premium Edition（SDR Project）]]（publisher）
-- [[Ever17 -The Out of Infinity- Regular Edition]]（publisher）
-- [[Memories Off Duet ~1st & 2nd stories~]]（publisher）
-- [[Memories Off Duet ~1st & 2nd stories~（Electronic Arts）]]（publisher）
-- [[Memories Off ~Sorekara~ Limited Edition]]（publisher）
-- [[Memories Off ~Sorekara~ Regular Edition]]（publisher）
-- [[Memories Off ~Sorekara~ for Windows]]（publisher）
-- [[My Merry May with be (2800 Collection)]]（publisher）
-- [[My Merry May with be（Electronic Arts）]]（publisher）
+- [[发行版/Ever17 -The Out of Infinity- Download Edition（MAGES）]]（publisher）
+- [[发行版/Memories Off Historia - Super Limited Edition（MAGES・vndb：r11）]]（publisher）
+- [[发行版/Memories Off Historia - Super Limited Edition（MAGES・release：）]]（publisher）
+- [[发行版/Memories Off Historia - Super Limited Edition（MAGES）]]（publisher）
+- [[发行版/My Merry Maybe]]（publisher）
 - [[My Merry Maybe]]（publisher）
-- [[Remember11 -The Age of Infinity- Limited Edition]]（publisher）
-- [[Remember11 -The Age of Infinity- Regular Edition（SDR Project）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Remember11 -The Age of Infinity- Download Edition（MAGES）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

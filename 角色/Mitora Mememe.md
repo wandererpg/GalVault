@@ -37,8 +37,7 @@ portrait_image: "assets/characters/c493.webp"
 
 ## 出场作品
 <!-- AUTO:BEGIN character -->- [[Itsuka, Todoku, Ano Sora ni. ~You no Michi to Hi no Tasogare to~ Limited Edition]]（primary）
-- [[Itsuka, Todoku, Ano Sora ni. ~You no Michi to Hi no Tasogare to~ Regular Edition]]（primary）
-- [[Itsuka, Todoku, Ano Sora ni. ~You no Michi to Hi no Tasogare to~ Russell Games Best]]（primary）
+- [[发行版/Itsuka, Todoku, Ano Sora ni. ~You no Michi to Hi no Tasogare to~ Limited Edition]]（primary）
 - [[终有一日愿遂彼空]]（side）<!-- AUTO:END character -->
 
 ## 声优

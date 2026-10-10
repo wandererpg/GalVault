@@ -74,15 +74,9 @@ cover_image: "assets/covers/v15252.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Fault Milestone 2 Jou - Download Edition]]
-- [[Fault Milestone 2 Jou - Package Edition]]
-- [[fault - milestone two side： above]]
-- [[fault - milestone two side：above]]
-- [[fault - milestone two side：above（Sekai Project・release：）]]
-- [[fault - milestone two side：above（Sekai Project・vndb：r60）]]
-- [[fault - milestone two side：above（Sekai Project・vndb：r61）]]
+<!-- AUTO:BEGIN release -->- [[发行版/fault - milestone two side：above（Sekai Project）]]
 - [[fault - milestone two side：above（Sekai Project）]]
-- [[fault milestone two Demo]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

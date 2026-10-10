@@ -12,26 +12,10 @@ source_urls:
 # √ZOMBILiCA
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Nie no Machi - First Press Deluxe Edition]]（developer）
-- [[Nie no Machi - First Press Deluxe Edition]]（publisher）
-- [[Nie no Machi - Regular Edition]]（developer）
-- [[Nie no Machi - Regular Edition]]（publisher）
-- [[Nie no Machi - Trial]]（developer）
-- [[Nie no Machi - Trial]]（publisher）
-- [[Nie no Machi - Twin Pack]]（developer）
-- [[Nie no Machi - Twin Pack]]（publisher）
-- [[Nie no Machi - Twin Pack（√ZOMBILiCA）]]（developer）
-- [[Nie no Machi - Twin Pack（√ZOMBILiCA）]]（publisher）
-- [[Nie no Machi -Iro Musubi- Download Edition（√ZOMBILiCA）]]（developer）
-- [[Nie no Machi -Iro Musubi- Download Edition（√ZOMBILiCA）]]（publisher）
-- [[Nie no Machi -Iro Musubi- Limited Edition]]（developer）
-- [[Nie no Machi -Iro Musubi- Limited Edition]]（publisher）
-- [[Nie no Machi -Kanzenban- Download Edition]]（developer）
-- [[Nie no Machi -Kanzenban- Download Edition]]（publisher）
-- [[Nie no Machi -Kanzenban- Package Edition]]（developer）
-- [[Nie no Machi -Kanzenban- Package Edition]]（publisher）
-- [[Nie no Machi Version 2.0 update]]（developer）
-- [[Nie no Machi Version 2.0 update]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Nie no Machi - Download Edition]]（developer）
+- [[发行版/Nie no Machi - Download Edition]]（publisher）
+- [[发行版/Nie no Machi -Iro Musubi- Download Edition]]（developer）
+- [[发行版/Nie no Machi -Iro Musubi- Download Edition]]（publisher）
 - [[祭品小镇 彩结]]（developer）
 - [[祭品小镇]]（developer）<!-- AUTO:END duty -->
 

@@ -30,10 +30,8 @@ portrait_image: "assets/characters/c13613.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Daitoshokan no Hitsujikai -Library Party- Package Edition（ARIA・vndb：r56）]]（appears）
+<!-- AUTO:BEGIN character -->- [[发行版/Daitoshokan no Hitsujikai -Library Party- Package Edition（ARIA）]]（appears）
 - [[Daitoshokan no Hitsujikai -Library Party- Package Edition（ARIA）]]（appears）
-- [[Daitoshokan no Hitsujikai -Library Party-（ARIA・vndb：r60）]]（appears）
-- [[Daitoshokan no Hitsujikai -Library Party-（ARIA）]]（appears）
 - [[大图书馆的牧羊人 Dreaming Sheep]]（appears）<!-- AUTO:END character -->
 
 ## 声优

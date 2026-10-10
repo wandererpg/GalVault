@@ -12,7 +12,7 @@ source_urls:
 # Yinü Youxi Tonghaohui
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[GS3 Xintiao Huiyi]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Tokimeki Memorial Girl's Side Premium ~3rd Story~ First Press Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -13,19 +13,10 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Hana Awase Saku - Complete Set]]（developer）
-- [[Hana Awase Saku -Himeutsugi-hen- Download Edition]]（developer）
-- [[Hana Awase Saku -Himeutsugi-hen- Package Edition]]（developer）
-- [[Hana Awase Zensho]]（publisher）
-- [[Hana Awase ~Himeutsugi Hen~]]（publisher）
-- [[Hana Awase ~Iroha Hen~]]（publisher）
-- [[Hana Awase ~Karakurenai／Utsutsu Hen~]]（publisher）
-- [[Hana Awase ~Mizuchi Hen~]]（publisher）
-- [[Hana Awase： Himeutsugi Hen]]（publisher）
-- [[Hana Awase： Iroha Hen]]（publisher）
-- [[Hana Awase： Karakurenai／Utsutsu Hen]]（publisher）
-- [[Hana Awase： Mizuchi Hen]]（publisher）
+- [[发行版/Hana Awase Saku - Complete Set]]（developer）
+- [[发行版/Hana Awase Saku - Complete Set]]（publisher）
 - [[Luckydog1+bad egg]]（publisher）
-- [[Luckydog1（WoGa Co., Ltd）]]（publisher）
+- [[发行版/Luckydog1 - Download Edition（PROTOTYPE）]]（publisher）
 - [[花合]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

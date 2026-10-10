@@ -90,11 +90,8 @@ cover_image: "assets/covers/v25055.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[DiGination Collection - Missing-X-Link ~Ten no Yurikago, Togi no Hana~]]
-- [[Missing-X-Link ~Koufuku de Heion na Epilogue~]]
-- [[Missing-X-Link ~Shengtang Yaolan, Shi zhi Hua~]]
-- [[Missing-X-Link ~Ten no Yurikago, Togi no Hana~ Download Edition]]
-- [[Missing-X-Link ~Ten no Yurikago, Togi no Hana~ Package Edition]]
-- [[Missing-X-Link ~Ten no Yurikago, Togi no Hana~ Trial Edition]]<!-- AUTO:END release -->
+- [[发行版/DiGination Collection - Missing-X-Link ~Ten no Yurikago, Togi no Hana~]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

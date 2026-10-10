@@ -62,8 +62,7 @@ cover_image: "assets/covers/v11713.webp"
 - [[Motokariya Yuika]]（本仮屋 ユイカ）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Guiji x Luoji： Season 1]]
-- [[Guiji x Luoji： Season 1（release：）]]
+<!-- AUTO:BEGIN release -->- [[发行版/TRICK×LOGIC Season 1]]
 - [[TRICK×LOGIC Season 1]]<!-- AUTO:END release -->
 
 ## 动画化

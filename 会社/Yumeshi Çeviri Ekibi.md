@@ -12,8 +12,8 @@ source_urls:
 # Yumeshi Çeviri Ekibi
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Katawa Shoujo act 1 v5（Yumeshi Çeviri Ekibi）]]（publisher）
-- [[Katawa Shoujo（Yumeshi Çeviri Ekibi）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Katawa Shoujo 1.3J]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

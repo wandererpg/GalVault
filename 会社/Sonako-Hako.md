@@ -12,19 +12,17 @@ source_urls:
 # Sonako-Hako
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Akatsuki no Goei Trinity Complete Edition（Sonako-Hako）]]（publisher）
-- [[Clannad ~tease patch~]]（publisher）
-- [[Clannad（Sonako-Hako）]]（publisher）
-- [[Fate／Stay Night（Sonako-Hako・release：）]]（publisher）
-- [[Fate／Stay Night（Sonako-Hako）]]（publisher）
-- [[G-senjou no Maou]]（publisher）
-- [[Kara no Shoujo - Thiếu nữ trong vỏ trứng]]（publisher）
-- [[Mahoutsukai no Yoru - Phù thuỷ Đêm Thánh]]（publisher）
-- [[Planetarian ~Nguyện ước của một ngôi sao nhỏ bé~]]（publisher）
-- [[Saya no Uta（Sonako-Hako）]]（publisher）
-- [[Sharin no Kuni, Himawari no Shoujo]]（publisher）
-- [[Symphonic Rain ~Mưa giao hưởng~]]（publisher）
-- [[Tsukihime（Sonako-Hako）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Akatsuki no Goei Trinity Complete Edition - First Press Limited Edition]]（publisher）
+- [[发行版/CLANNAD（Hikarizaka Gaoxiao Zhongwen Bu）]]（publisher）
+- [[发行版/Fate／Stay Night ［Realta Nua］ - Ultimate Edition]]（publisher）
+- [[发行版/G-senjou no Maou（Aegis）]]（publisher）
+- [[发行版/Innocent Grey Mystery Collection ~Kara no Shoujo & Pianissimo & Cartagra~]]（publisher）
+- [[发行版/Mahoutsukai no Yoru]]（publisher）
+- [[发行版/Planetarian ~The Reverie of a Little Planet~（release：）]]（publisher）
+- [[发行版/Saya no Uta ~ The Song of Saya - Upgrade Patch]]（publisher）
+- [[发行版/Sharin no Kuni, Himawari no Shoujo（Doitsugo Trans）]]（publisher）
+- [[发行版/Symphonic Rain - DVD Edition - First Press Limited Edition]]（publisher）
+- [[发行版/Tsukihime（vndb：r50）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,38 +12,13 @@ source_urls:
 # Unison Shift
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Flyable Heart CompletePack - Download Edition]]（publisher）
-- [[Flyable Heart CompletePack]]（publisher）
-- [[Kimi no Nagori wa Shizuka ni Yurete - Download Edition]]（publisher）
-- [[Kimi no Nagori wa Shizuka ni Yurete - First Press Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Kimi no Nagori wa Shizuka ni Yurete - Limited Noicolle Pack Edition]]（publisher）
 - [[Kimi no Nagori wa Shizuka ni Yurete - Limited Noicolle Pack Edition]]（publisher）
-- [[Tokeijikake no Ley Line - 3 Games Pack & Drama CD Bundled Ver]]（publisher）
-- [[Tokeijikake no Ley Line - 3 Games Pack & Drama CD Bundled Ver（Unison Shift： Blossom）]]（publisher）
-- [[Tokeijikake no Ley Line - 3 Games Pack]]（publisher）
-- [[Tokeijikake no Ley Line - 3 Games Pack（Unison Shift： Blossom）]]（publisher）
-- [[Tokeijikake no Ley Line - Limited Trilogy Box]]（publisher）
-- [[Tokeijikake no Ley Line - Limited Trilogy Box（Unison Shift： Blossom）]]（publisher）
-- [[Tokeijikake no Ley Line - Special Memorial Edition]]（publisher）
-- [[Tokeijikake no Ley Line - Special Memorial Edition（Unison Shift： Blossom）]]（publisher）
-- [[Tokeijikake no Ley Line -Asagiri ni Chiru Hana- Download Edition]]（publisher）
-- [[Tokeijikake no Ley Line -Asagiri ni Chiru Hana- First Press Edition]]（publisher）
-- [[Tokeijikake no Ley Line -Asagiri ni Chiru Hana- Trial Edition]]（publisher）
-- [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Download Edition]]（publisher）
-- [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Download Edition（Unison Shift： Blossom・release：）]]（publisher）
-- [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Download Edition（Unison Shift： Blossom・vndb：r10）]]（publisher）
-- [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Download Edition（Unison Shift： Blossom）]]（publisher）
-- [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Package Edition]]（publisher）
+- [[发行版/Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Package Edition（Unison Shift： Blossom・release：）]]（publisher）
+- [[发行版/Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Package Edition（Unison Shift： Blossom）]]（publisher）
 - [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Package Edition（Unison Shift： Blossom・release：）]]（publisher）
-- [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Package Edition（Unison Shift： Blossom・vndb：r76）]]（publisher）
 - [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Package Edition（Unison Shift： Blossom）]]（publisher）
-- [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Trial Edition]]（publisher）
-- [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Trial Edition（Unison Shift： Blossom・release：）]]（publisher）
-- [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Trial Edition（Unison Shift： Blossom・vndb：r78）]]（publisher）
-- [[Tokeijikake no Ley Line -Kagerou ni Samayou Majo- Trial Edition（Unison Shift： Blossom）]]（publisher）
-- [[Tokeijikake no Ley Line -Zan'ei no Yoru ga Akeru Toki- Download Edition]]（publisher）
-- [[Tokeijikake no Ley Line -Zan'ei no Yoru ga Akeru Toki- First Press Edition]]（publisher）
-- [[Tokeijikake no Ley Line -Zan'ei no Yoru ga Akeru Toki- Regular Edition]]（publisher）
-- [[Tokeijikake no Ley Line -Zan'ei no Yoru ga Akeru Toki- Trial Edition]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

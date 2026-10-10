@@ -12,13 +12,11 @@ source_urls:
 # PichiPichi Gallery R
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Himejima Gakuen Shimaikou ~Ochikobore no Kyoushitsu~ Download Edition]]（developer）
-- [[Himejima Gakuen Shimaikou ~Ochikobore no Kyoushitsu~ Download Edition]]（publisher）
-- [[Himejima Gakuen Shimaikou ~Ochikobore no Kyoushitsu~ Package Edition]]（developer）
-- [[Himejima Gakuen Shimaikou ~Ochikobore no Kyoushitsu~ Package Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Jukujo Kyoushi ga Ninshin! Bonyuu Funshutsu! Himejima Gakuen Shimaikou - DVDPG]]（developer）
+- [[发行版/Jukujo Kyoushi ga Ninshin! Bonyuu Funshutsu! Himejima Gakuen Shimaikou - DVDPG]]（publisher）
 - [[Jukujo Kyoushi ga Ninshin! Bonyuu Funshutsu! Himejima Gakuen Shimaikou - DVDPG]]（developer）
-- [[Ma o Haramu Kunoichi]]（developer）
-- [[Ma o Haramu Kunoichi]]（publisher）
+- [[发行版/Ma o Haramu Kunoichi（vndb：r16）]]（developer）
+- [[发行版/Ma o Haramu Kunoichi（vndb：r16）]]（publisher）
 - [[Ma o Haramu Kunoichi（vndb：r16）]]（developer）
 - [[Ma o Haramu Kunoichi（vndb：r16）]]（publisher）
 - [[姫島学園姉妹校～堕ちこぼれの教室～]]（developer）

@@ -30,7 +30,7 @@ portrait_image: "assets/characters/c60828.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Monobeno -Pure Smile- Limited Edition]]（side）
+<!-- AUTO:BEGIN character -->- [[发行版/Monobeno -Pure Smile- Regular Edition]]（side）
 - [[Monobeno -Pure Smile- Regular Edition]]（side）<!-- AUTO:END character -->
 
 ## 声优

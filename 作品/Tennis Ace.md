@@ -46,9 +46,9 @@ cover_image: "assets/covers/v22837.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Tennis Ace v0.66]]
+<!-- AUTO:BEGIN release -->- [[发行版/Tennis Ace v0.87]]
 - [[Tennis Ace v0.87]]
-- [[Wangqiu Wangpai v0.62]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

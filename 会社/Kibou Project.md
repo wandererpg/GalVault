@@ -12,9 +12,9 @@ source_urls:
 # Kibou Project
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Danganronpa 1： A Academia da Esperança e os Colegiais do Desespero]]（publisher）
-- [[Danganronpa 2： Adeus Academia do Desespero]]（publisher）
-- [[Danganronpa V3： Harmonia Mortal]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Danganronpa Decadence - EU Package Edition（Numskull Games Ltd）]]（publisher）
+- [[发行版/Danganronpa Decadence - EU Package Edition（Numskull Games Ltd・release：）]]（publisher）
+- [[发行版/Danganronpa Decadence - EU Package Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

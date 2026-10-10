@@ -141,13 +141,9 @@ cover_image: "assets/covers/v12369.webp"
 - [[Yuuki Aoi]]（悠木 碧）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Fate／Extra CCC + Fate／Extra Perfect Edition+]]
+<!-- AUTO:BEGIN release -->- [[发行版/Fate／Extra CCC - Limited Edition - Type-Moon Virgin White Box]]
 - [[Fate／Extra CCC - Limited Edition - Type-Moon Virgin White Box]]
-- [[Fate／Extra CCC - Regular Edition]]
-- [[Fate／Extra CCC PSP the Best - Download Edition]]
-- [[Fate／Extra CCC PSP the Best - Package Edition]]
-- [[Fate／Extra CCC]]
-- [[Fate／Extra CCC（Tsukimihara Waiyu Yanjiu She）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

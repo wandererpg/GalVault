@@ -12,8 +12,8 @@ source_urls:
 # Zarigani Production
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Grisaia no Kajitsu（Zarigani Production・release：）]]（publisher）
-- [[Grisaia no Kajitsu（Zarigani Production）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/The Grisaia Trilogy]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

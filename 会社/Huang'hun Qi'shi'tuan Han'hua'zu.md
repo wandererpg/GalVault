@@ -12,7 +12,7 @@ source_urls:
 # Huang'hun Qi'shi'tuan Han'hua'zu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Dies irae ~Acta est Fabula & Amantes Amentes~]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Dies irae ~Amantes amentes~ For Nintendo Switch]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

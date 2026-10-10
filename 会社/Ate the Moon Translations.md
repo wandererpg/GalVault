@@ -12,7 +12,7 @@ source_urls:
 # Ate the Moon Translations
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[A moon a sun and three macaroons]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Tsuki ni Yorisou Otome no Sahou ~Hidamari no Hibi~ Smartphone Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

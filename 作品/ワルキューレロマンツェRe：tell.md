@@ -78,9 +78,7 @@ cover_image: "assets/covers/v15105.webp"
 - [[Taguchi Hiroko]]（夏野 こおり）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Walkure Romanze Re：tell II]]
-- [[Walkure Romanze Re：tell]]
-- [[Walkure Romanze Re：tell（Ricotta）]]
+<!-- AUTO:BEGIN release -->- [[发行版/＂Walkure Romanze＂ Series 4 Set - Limited Edition（Ricotta）]]
 - [[＂Walkure Romanze＂ Series 4 Set - Limited Edition（Ricotta）]]<!-- AUTO:END release -->
 
 ## 动画化

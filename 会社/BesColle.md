@@ -12,7 +12,7 @@ source_urls:
 # BesColle
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Hikari no Umi no Apeiria - Complete Pack - Popular Edition]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Hikari no Umi no Apeiria & Hikari no Umi no Apeiria ~Casablanca no Kishi~ Pack Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -11,10 +11,10 @@ source_urls:
 # Beyond The Ataraxia
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Clannad (Steam HD Patch Italiana)]]（publisher）
-- [[Planetarian - Steam HD Edition (Patch ITA)]]（publisher）
-- [[Umineko no Naku Koro ni（Beyond The Ataraxia）]]（publisher）
-- [[Witch on the holy night (Steam HD Patch Italiana)]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/CLANNAD（Hikarizaka Gaoxiao Zhongwen Bu）]]（publisher）
+- [[发行版/Planetarian ~The Reverie of a Little Planet~（release：）]]（publisher）
+- [[发行版/Umineko no Naku Koro ni - Episode 4 - Alliance of the Golden Witch]]（publisher）
+- [[发行版/Mahoutsukai no Yoru]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

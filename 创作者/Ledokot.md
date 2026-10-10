@@ -12,11 +12,9 @@ source_urls:
 # Ledokot
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[A Summer's End — Hong Kong, 1986]]（publisher）
-- [[A Summer's End — Hong Kong, 1986（release：）]]（publisher）
-- [[Kindred Spirits on the Roof ~Full Chorus~（release：）]]（publisher）
-- [[Kindred Spirits on the Roof ~Full Chorus~（vndb：r72）]]（publisher）
-- [[Sudovoj zhurnal Al'batrosa： Prolog]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/A Summer's End - Hong Kong 1986 - Adult Patch]]（publisher）
+- [[发行版/Wushang de Baiheling ~Full Chorus~]]（publisher）
+- [[发行版/Liar-soft Selection 16 - Albatross Koukairoku]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

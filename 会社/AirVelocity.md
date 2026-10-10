@@ -13,7 +13,7 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Happy Weekend - Download Edition（HOOKSOFT）]]（publisher）
-- [[Happy Weekend - Regular Edition]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Happy Weekend - Download Edition（HOOKSOFT）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

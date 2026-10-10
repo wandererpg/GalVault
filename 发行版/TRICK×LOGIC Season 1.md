@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r24291:work:vndb:work:v11713"
-type: "release"
-display_title: "TRICK×LOGIC Season 1"
-release_date: "2010-07-22"
+entity_id: release:vndb:r24291:work:vndb:work:v11713
+type: release
+display_title: TRICK×LOGIC Season 1
+release_date: '2010-07-22'
 is_all_ages: true
-platform: "psp"
-edition_type: "complete"
-title_status: "needs_review"
+platform: psp
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r24291"
+  vndb: r24291
 source_urls:
-  vndb: "https://vndb.org/r24291"
+  vndb: https://vndb.org/r24291
+aliases:
+- Guiji x Luoji： Season 1
+- Guiji x Luoji： Season 1（release：）
+consolidated_releases:
+- id: r24291
+  title: TRICK×LOGIC Season 1
+  url: https://vndb.org/r24291
+  release_date: '2010-07-22'
+  platform: psp
+  edition_type: complete
+  is_all_ages: true
+- id: r113147
+  title: 'Guiji x Luoji: Season 1'
+  url: https://vndb.org/r113147
+  release_date: '2022-03-28'
+  platform: psp
+  edition_type: complete
+  is_all_ages: true
+- id: r102264
+  title: 'Guiji x Luoji: Season 1'
+  url: https://vndb.org/r102264
+  release_date: '2012-04-09'
+  platform: psp
+  edition_type: complete
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # TRICK×LOGIC Season 1

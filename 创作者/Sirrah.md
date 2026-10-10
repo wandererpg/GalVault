@@ -12,7 +12,7 @@ source_urls:
 # Sirrah
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Animamundi - Dark Alchemist Anti-Censorship Patch]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Animamundi ~Owarinaki Yami no Butou~ Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

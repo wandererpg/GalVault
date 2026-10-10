@@ -67,9 +67,9 @@ cover_image: "assets/covers/v1465.webp"
 - [[Yusa Kouji]]（浅野 要二）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Guichu Yanjing R]]
+<!-- AUTO:BEGIN release -->- [[发行版/Kichiku Megane R Kichiku Megane Fan Disc - First Press Limited Edition]]
 - [[Kichiku Megane R Kichiku Megane Fan Disc - First Press Limited Edition]]
-- [[Kichiku Megane R Kichiku Megane Fan Disc - Regular Edition]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

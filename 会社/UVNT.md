@@ -11,9 +11,8 @@ source_urls:
 # UVNT
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Higurashi When They Cry Hou - Ch.1 Onikakushi（UVNT）]]（publisher）
-- [[Higurashi When They Cry Hou - Ch.2 Watanagashi（UVNT）]]（publisher）
-- [[Umineko no naku koro ni（UVNT）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Himatsubushi Hen（07th Expansion）]]（publisher）
+- [[发行版/Umineko no Naku Koro ni - Episode 4 - Alliance of the Golden Witch]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

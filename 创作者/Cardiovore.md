@@ -13,12 +13,8 @@ source_urls:
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Phoenix Wright： Ace Attorney - The Contempt of Court]]（developer）
-- [[Phoenix Wright： Ace Attorney - The Contempt of Court： Chapter 1 - Turnabout Scapegoat]]（developer）
-- [[Phoenix Wright： Ace Attorney - The Contempt of Court： Chapter 1 - Turnabout Scapegoat]]（publisher）
-- [[Phoenix Wright： Ace Attorney - The Contempt of Court： Chapter 2 - The Haunted Turnabout]]（developer）
-- [[Phoenix Wright： Ace Attorney - The Contempt of Court： Chapter 2 - The Haunted Turnabout]]（publisher）
-- [[Phoenix Wright： Ace Attorney - The Contempt of Court： Chapter 3 - Turnabout of the Snow]]（developer）
-- [[Phoenix Wright： Ace Attorney - The Contempt of Court： Chapter 3 - Turnabout of the Snow]]（publisher）
+- [[发行版/Phoenix Wright： Ace Attorney - The Contempt of Court： Chapter 4 - The Ensnared Turnabout]]（developer）
+- [[发行版/Phoenix Wright： Ace Attorney - The Contempt of Court： Chapter 4 - The Ensnared Turnabout]]（publisher）
 - [[Phoenix Wright： Ace Attorney - The Contempt of Court： Chapter 4 - The Ensnared Turnabout]]（developer）
 - [[Phoenix Wright： Ace Attorney - The Contempt of Court： Chapter 4 - The Ensnared Turnabout]]（publisher）<!-- AUTO:END duty -->
 

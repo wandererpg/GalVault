@@ -12,9 +12,9 @@ source_urls:
 # AnankeKeirin
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Amneja28： dve vechnosti - Demo（TomoToro）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Amneja28： dve vechnosti]]（publisher）
 - [[Amneja28： dve vechnosti]]（publisher）
-- [[Amneja28： dve vechnosti（TomoToro・release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

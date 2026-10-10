@@ -1,16 +1,66 @@
 ---
-entity_id: "release:vndb:r146553:work:vndb:work:v18882"
-type: "release"
-display_title: "Unionism Quartet A3-Days Full Package - Download Edition"
-release_date: "2024-11-29"
+entity_id: release:vndb:r146553:work:vndb:work:v18882
+type: release
+display_title: Unionism Quartet A3-Days Full Package - Download Edition
+release_date: '2024-11-29'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r146553"
+  vndb: r146553
 source_urls:
-  vndb: "https://vndb.org/r146553"
+  vndb: https://vndb.org/r146553
+aliases:
+- Unionism Quartet A3-Days
+- Unionism Quartet A3-Days - Deluxe Edition（Clip☆Craft）
+- Unionism Quartet A3-Days - Download Edition
+- Unionism Quartet A3-Days - Package Edition
+- Unionism Quartet B2-Style - COMPLETE-PACKAGE（Clip☆Craft）
+consolidated_releases:
+- id: r146553
+  title: Unionism Quartet A3-Days Full Package - Download Edition
+  url: https://vndb.org/r146553
+  release_date: '2024-11-29'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r150315
+  title: Unionism Quartet B2-Style - COMPLETE-PACKAGE
+  url: https://vndb.org/r150315
+  release_date: '2026-03-27'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r52672
+  title: Unionism Quartet A3-Days - Download Edition
+  url: https://vndb.org/r52672
+  release_date: '2017-04-14'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r46859
+  title: Unionism Quartet A3-Days - Package Edition
+  url: https://vndb.org/r46859
+  release_date: '2016-10-28'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r44697
+  title: Unionism Quartet A3-Days - Deluxe Edition
+  url: https://vndb.org/r44697
+  release_date: '2016-10-28'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r116312
+  title: Unionism Quartet A3-Days
+  url: https://vndb.org/r116312
+  release_date: '2022'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Unionism Quartet A3-Days Full Package - Download Edition

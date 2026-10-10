@@ -12,18 +12,10 @@ source_urls:
 # Hangover Cat Purrroduction
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[A Promise Best Left Unkept - Censored Edition]]（developer）
-- [[A Promise Best Left Unkept - Censored Edition]]（publisher）
-- [[A Promise Best Left Unkept - Demo]]（developer）
-- [[A Promise Best Left Unkept - Demo]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/A Promise Best Left Unkept - Restoration Patch]]（developer）
+- [[发行版/A Promise Best Left Unkept - Restoration Patch]]（publisher）
 - [[A Promise Best Left Unkept - Restoration Patch]]（developer）
 - [[A Promise Best Left Unkept - Restoration Patch]]（publisher）
-- [[A Promise Best Left Unkept]]（developer）
-- [[A Promise Best Left Unkept]]（publisher）
-- [[Yakusoku wa Mamorubeki Mono - Part 1]]（developer）
-- [[Yakusoku wa Mamorubeki Mono - Part 1]]（publisher）
-- [[Yakusoku wa Mamorubeki Mono - Part 2 (Laura) v0.8.0]]（developer）
-- [[Yakusoku wa Mamorubeki Mono - Part 2 (Laura) v0.8.0]]（publisher）
 - [[約束は守るべきもの]]（developer）<!-- AUTO:END duty -->
 
 ## 创作与出演

@@ -34,7 +34,7 @@ portrait_image: "assets/characters/c3817.webp"
 
 ## 出场作品
 <!-- AUTO:BEGIN character -->- [[Matsuribayashi Hen（07th Expansion）]]（primary）
-- [[Minagoroshi Hen（07th Expansion）]]（primary）
+- [[发行版/Matsuribayashi Hen（07th Expansion）]]（primary）
 - [[ひぐらしのなく頃に： Console Arcs]]（protagonist）<!-- AUTO:END character -->
 
 ## 声优

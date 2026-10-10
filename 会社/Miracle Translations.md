@@ -12,7 +12,7 @@ source_urls:
 # Miracle Translations
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Higurashi no Naku Koro ni Hou - Cap.7 Minagoroshi]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Matsuribayashi Hen（07th Expansion）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

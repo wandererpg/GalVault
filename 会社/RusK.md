@@ -12,18 +12,8 @@ source_urls:
 # RusK
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Aster - Download Edition]]（developer）
-- [[Aster - Download Edition]]（publisher）
-- [[Aster - Popular Edition]]（developer）
-- [[Aster - Popular Edition]]（publisher）
-- [[Aster - Special Edition]]（developer）
-- [[Aster - Special Edition]]（publisher）
-- [[Aster - Trial Edition (Enshutsu Kyouka ver.)]]（developer）
-- [[Aster - Trial Edition (Enshutsu Kyouka ver.)]]（publisher）
-- [[Aster - Trial Edition (Saishuu ver.)]]（developer）
-- [[Aster - Trial Edition (Saishuu ver.)]]（publisher）
-- [[Aster - Trial Edition]]（developer）
-- [[Aster - Trial Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Aster]]（developer）
+- [[发行版/Aster]]（publisher）
 - [[Aster]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

@@ -12,7 +12,7 @@ source_urls:
 # Ohayo Scans
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Sharin no Kuni, Himawari no Shoujo（Ohayo Scans）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Sharin no Kuni, Himawari no Shoujo（Doitsugo Trans）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

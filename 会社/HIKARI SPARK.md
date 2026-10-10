@@ -12,8 +12,8 @@ source_urls:
 # HIKARI SPARK
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Doinaka Kyoudai - Additional Content Patch for the Overseas Version]]（publisher）
-- [[Doinaka Kyoudai - Censored Edition]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Chiqing Gege yu Bingruo Meimei de Xiangjian Shenghuo]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

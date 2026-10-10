@@ -12,9 +12,9 @@ source_urls:
 # VnBlog
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Being a DIK v.0.11.1]]（publisher）
-- [[Leap Of Faith v0.4.1c]]（publisher）
-- [[Summer's Gone Season 1]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Being a DIK Season 1-3 Ep. 1-11 v.0.11.1]]（publisher）
+- [[发行版/«Sila Very»]]（publisher）
+- [[发行版/Ischeznovenie Sammer S1 + S1 Steam]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

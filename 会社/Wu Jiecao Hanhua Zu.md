@@ -11,10 +11,8 @@ source_urls:
 # Wu Jiecao Hanhua Zu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Mingyun Shi zhi Men HD]]（publisher）
-- [[Mingyun Shi zhi Men STEAM Complete Translation Patch]]（publisher）
-- [[Mingyun Shi zhi Men]]（publisher）
-- [[Mingyun Shi zhi Men（Wu Jiecao Hanhua Zu）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/STEINS;GATE - Download Edition（MAGES・release：）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

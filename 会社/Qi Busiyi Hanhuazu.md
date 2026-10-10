@@ -12,7 +12,7 @@ source_urls:
 # Qi Busiyi Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Lingyi Shijie FILE23： Honjo Qi Da Bukesiyi]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/PARANORMASIGHT FILE23： Honjo Nanafushigi（SQUARE ENIX）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

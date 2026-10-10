@@ -89,21 +89,9 @@ cover_image: "assets/covers/v6723.webp"
 - [[Yajima Noboru]]（須藤 翔）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[CLOCK ZERO ～Zhongyān Zhi Yi Miao～ Devote]]
-- [[Clock Zero ~Shuuen no Ichibyou~ Devote - Download Edition]]
-- [[Clock Zero ~Shuuen no Ichibyou~ Devote - Limited Edition]]
-- [[Clock Zero ~Shuuen no Ichibyou~ Devote for iOS & Android]]
-- [[Clock Zero ~Shuuen no Ichibyou~ Devote]]
-- [[Clock Zero ~Shuuen no Ichibyou~ Devote（Otomevn）]]
-- [[Clock Zero ~Shuuen no Ichibyou~ ExTime - Download Edition]]
-- [[Clock Zero ~Shuuen no Ichibyou~ ExTime - Limited Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Clock Zero ~Shuuen no Ichibyou~ ExTime - Regular Edition]]
 - [[Clock Zero ~Shuuen no Ichibyou~ ExTime - Regular Edition]]
-- [[Clock Zero ~Shuuen no Ichibyou~ Limited Edition]]
-- [[Clock Zero ~Shuuen no Ichibyou~ Portable - Limited Edition]]
-- [[Clock Zero ~Shuuen no Ichibyou~ Portable - Regular Edition]]
-- [[Clock Zero ~Shuuen no Ichibyou~ Regular Edition]]
-- [[Clock Zero ~Zhong Yan Zhi Yi Miao~ ExTime]]
-- [[Clock Zero ~Zhong Yan Zhi Yi Miao~ ExTime（release：）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

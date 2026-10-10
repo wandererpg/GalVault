@@ -12,10 +12,10 @@ source_urls:
 # TADA
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Rance 6 ver. 2.05]]（developer）
-- [[Rance 6 ver. 2.05]]（publisher）
-- [[Rance Quest ver3.86]]（developer）
-- [[Rance Quest ver3.86]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Lansi 6]]（developer）
+- [[发行版/Lansi 6]]（publisher）
+- [[发行版/Rance Quest Magnum - Package Edition]]（developer）
+- [[发行版/Rance Quest Magnum - Package Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

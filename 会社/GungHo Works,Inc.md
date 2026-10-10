@@ -12,12 +12,11 @@ source_urls:
 # GungHo Works,Inc.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Clannad - Best Edition]]（publisher）
-- [[Clannad - Key Trilogy Premium Box]]（publisher）
-- [[Clannad - Key Trilogy Premium Box（Key・release：）]]（publisher）
-- [[Clannad - Key Trilogy Premium Box（Key）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/CLANNAD（Hikarizaka Gaoxiao Zhongwen Bu）]]（publisher）
+- [[发行版/Kanon（Key）]]（publisher）
+- [[发行版/AIR（Key）]]（publisher）
 - [[Solfege ~Sweet Harmony~ Limited Edition]]（publisher）
-- [[Solfege ~Sweet Harmony~ Regular Edition]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Solfege ~Sweet Harmony~ Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

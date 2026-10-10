@@ -11,12 +11,8 @@ source_urls:
 # Tjomnye vrata
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Steins;Gate Chap 1]]（publisher）
-- [[Steins;Gate Chap 2]]（publisher）
-- [[Steins;Gate Chap 2（Tjomnye vrata）]]（publisher）
-- [[Steins;Gate Prologue]]（publisher）
-- [[Steins;Gate Prologue（Tjomnye vrata）]]（publisher）
-- [[Steins;Gate（Tjomnye vrata）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/STEINS;GATE - Download Edition（MAGES・release：）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

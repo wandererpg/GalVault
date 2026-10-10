@@ -12,31 +12,13 @@ source_urls:
 # propeller
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Evolimit - Download Edition]]（developer）
-- [[Evolimit - Download Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Evolimit - First Press Limited Edition - Breakthrough Pack]]（developer）
+- [[发行版/Evolimit - First Press Limited Edition - Breakthrough Pack]]（publisher）
 - [[Evolimit - First Press Limited Edition - Breakthrough Pack]]（developer）
 - [[Evolimit - First Press Limited Edition - Breakthrough Pack]]（publisher）
-- [[Evolimit - Regular Edition]]（developer）
-- [[Evolimit - Regular Edition]]（publisher）
-- [[Evolimit - Web Trial Edition Version 2]]（developer）
-- [[Evolimit - Web Trial Edition Version 2]]（publisher）
-- [[Evolimit - Web Trial Edition]]（developer）
-- [[Evolimit - Web Trial Edition]]（publisher）
 - [[Kitto, Sumiwataru Asairo Yori mo, - BDPG Edition]]（developer）
-- [[Kitto, Sumiwataru Asairo Yori mo, - Deluxe First Press Limited Edition]]（developer）
-- [[Kitto, Sumiwataru Asairo Yori mo, - Deluxe First Press Limited Edition]]（publisher）
-- [[Kitto, Sumiwataru Asairo Yori mo, - Download Edition]]（developer）
-- [[Kitto, Sumiwataru Asairo Yori mo, - Download Edition]]（publisher）
-- [[Kitto, Sumiwataru Asairo Yori mo, - Regular Edition]]（developer）
-- [[Kitto, Sumiwataru Asairo Yori mo, - Regular Edition]]（publisher）
-- [[Kitto, Sumiwataru Asairo Yori mo, - Trial Edition]]（developer）
-- [[Kitto, Sumiwataru Asairo Yori mo, - Trial Edition]]（publisher）
-- [[Masterpiece Collection vol.03 Kitto, Sumiwataru Asairo Yori mo, + Sukimazakura to Uso no Machi]]（developer）
-- [[Masterpiece Collection vol.03 Kitto, Sumiwataru Asairo Yori mo, + Sukimazakura to Uso no Machi]]（publisher）
-- [[Propeller Nenshou Kei Pack 2]]（developer）
-- [[Propeller Nenshou Kei Pack 2]]（publisher）
-- [[masterpiece collection vol.02 Chrono Belt + Evolimit]]（developer）
-- [[masterpiece collection vol.02 Chrono Belt + Evolimit]]（publisher）
+- [[发行版/Kitto, Sumiwataru Asairo Yori mo, - BDPG Edition]]（developer）
+- [[发行版/Kitto, Sumiwataru Asairo Yori mo, - BDPG Edition]]（publisher）
 - [[エヴォリミット]]（developer）
 - [[从晴朗的朝色泛起之际开始]]（developer）<!-- AUTO:END duty -->
 

@@ -11,43 +11,27 @@ source_urls:
 # Torotoro Resistance
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Monmusu Quest! Chuushou ~Makereba Youjo ni Okasareru~ Trial Edition]]（developer）
-- [[Monmusu Quest! Chuushou ~Makereba Youjo ni Okasareru~ Trial Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Monmusu Quest! Chuushou ~Makereba Youjo ni Okasareru~]]（developer）
+- [[发行版/Monmusu Quest! Chuushou ~Makereba Youjo ni Okasareru~]]（publisher）
 - [[Monmusu Quest! Chuushou ~Makereba Youjo ni Okasareru~]]（developer）
 - [[Monmusu Quest! Chuushou ~Makereba Youjo ni Okasareru~]]（publisher）
-- [[Monmusu Quest! Chuushou ~Makereba Youjo ni Okasareru~（release：）]]（developer）
-- [[Monmusu Quest! Chuushou ~Makereba Youjo ni Okasareru~（release：）]]（publisher）
-- [[Monmusu Quest! Chuushou ~Makereba Youjo ni Okasareru~（vndb：r30）]]（developer）
 - [[Monmusu Quest! Origins -Assaulted by the Vamp-]]（developer）
 - [[Monmusu Quest! Paradox RPG Chuushou]]（developer）
 - [[Monmusu Quest! Paradox RPG Chuushou]]（publisher）
-- [[Monmusu Quest! Paradox RPG Shuushou - Trial Edition]]（developer）
-- [[Monmusu Quest! Paradox RPG Shuushou - Trial Edition]]（publisher）
+- [[发行版/Monmusu Quest! Paradox RPG Shuushou]]（developer）
+- [[发行版/Monmusu Quest! Paradox RPG Shuushou]]（publisher）
 - [[Monmusu Quest! Paradox RPG Shuushou]]（developer）
 - [[Monmusu Quest! Paradox RPG Shuushou]]（publisher）
-- [[Monmusu Quest! Paradox RPG Trial Edition]]（developer）
-- [[Monmusu Quest! Paradox RPG Trial Edition]]（publisher）
+- [[发行版/Monmusu Quest! Paradox RPG Zenshou - Package Edition]]（developer）
+- [[发行版/Monmusu Quest! Paradox RPG Zenshou - Package Edition]]（publisher）
 - [[Monmusu Quest! Paradox RPG Zenshou - Package Edition]]（developer）
 - [[Monmusu Quest! Paradox RPG Zenshou - Package Edition]]（publisher）
-- [[Monmusu Quest! Paradox RPG Zenshou]]（developer）
-- [[Monmusu Quest! Paradox RPG Zenshou]]（publisher）
-- [[Monmusu Quest! Paradox RPG Zenshou（release：）]]（developer）
-- [[Monmusu Quest! Paradox RPG Zenshou（release：）]]（publisher）
-- [[Monmusu Quest! Shuushou ~Makereba Youjo ni Okasareru~ Trial Edition]]（developer）
-- [[Monmusu Quest! Shuushou ~Makereba Youjo ni Okasareru~ Trial Edition]]（publisher）
+- [[发行版/Monmusu Quest! Shuushou ~Makereba Youjo ni Okasareru~]]（developer）
+- [[发行版/Monmusu Quest! Shuushou ~Makereba Youjo ni Okasareru~]]（publisher）
 - [[Monmusu Quest! Shuushou ~Makereba Youjo ni Okasareru~]]（developer）
 - [[Monmusu Quest! Shuushou ~Makereba Youjo ni Okasareru~]]（publisher）
-- [[Monmusu Quest! Shuushou ~Makereba Youjo ni Okasareru~（release：）]]（developer）
-- [[Monmusu Quest! Shuushou ~Makereba Youjo ni Okasareru~（release：）]]（publisher）
-- [[Monmusu Quest! Shuushou ~Makereba Youjo ni Okasareru~（vndb：r30）]]（developer）
-- [[Monmusu Quest! Shuushou ~Makereba Youjo ni Okasareru~（vndb：r30）]]（publisher）
-- [[Monmusu Quest! Zenshou ~Makereba Youjo ni Okasareru~ Package Edition]]（developer）
-- [[Monmusu Quest! Zenshou ~Makereba Youjo ni Okasareru~ Package Edition]]（publisher）
-- [[Monmusu Quest! Zenshou ~Makereba Youjo ni Okasareru~]]（developer）
-- [[Monmusu Quest! Zenshou ~Makereba Youjo ni Okasareru~]]（publisher）
-- [[Monmusu Quest! Zenshou ~Makereba Youjo ni Okasareru~（release：）]]（developer）
-- [[Monmusu Quest! ~Makereba Youjo ni Okasareru~ Trial Edition]]（developer）
-- [[Monmusu Quest! ~Makereba Youjo ni Okasareru~ Trial Edition]]（publisher）
+- [[发行版/Monmusu Quest! Origins -Assaulted by the Vamp-]]（developer）
+- [[发行版/Monmusu Quest! Origins -Assaulted by the Vamp-]]（publisher）
 - [[もんむす・くえすと！ ぱらどっくすRPG終章]]（developer）
 - [[もんむす・くえすと！　ぱらどっくすRPG中章]]（developer）
 - [[勇者大战魔物娘 中章]]（developer）

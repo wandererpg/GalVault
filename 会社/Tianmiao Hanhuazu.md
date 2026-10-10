@@ -12,8 +12,8 @@ source_urls:
 # Tianmiao Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Renlang Cun zhi Mi（Tianmiao Hanhuazu・release：）]]（publisher）
-- [[Renlang Cun zhi Mi（Tianmiao Hanhuazu）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Rei-Jin-G-Lu-P - Package Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

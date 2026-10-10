@@ -1,16 +1,58 @@
 ---
-entity_id: "release:vndb:r131165:work:vndb:work:v34509"
-type: "release"
-display_title: "NO SALVATION"
-release_date: "2025-01-14"
+entity_id: release:vndb:r131165:work:vndb:work:v34509
+type: release
+display_title: NO SALVATION
+release_date: '2025-01-14'
 is_all_ages: true
-platform: "win, and"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win, and
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r131165"
+  vndb: r131165
 source_urls:
-  vndb: "https://vndb.org/r131165"
+  vndb: https://vndb.org/r131165
+aliases:
+- NO SALVATION（release：）
+- NO SALVATION（vndb：r13）
+- NO SALVATION（vndb：r14）
+- NO SALVATION（vndb：r88）
+consolidated_releases:
+- id: r131165
+  title: NO SALVATION
+  url: https://vndb.org/r131165
+  release_date: '2025-01-14'
+  platform: win, and
+  edition_type: complete
+  is_all_ages: true
+- id: r88595
+  title: NO SALVATION
+  url: https://vndb.org/r88595
+  release_date: '2020-09-26'
+  platform: win, web
+  edition_type: complete
+  is_all_ages: true
+- id: r147058
+  title: NO SALVATION
+  url: https://vndb.org/r147058
+  release_date: '2026-01-10'
+  platform: web
+  edition_type: complete
+  is_all_ages: true
+- id: r134261
+  title: NO SALVATION
+  url: https://vndb.org/r134261
+  release_date: '2026-01-10'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+- id: r132988
+  title: NO SALVATION
+  url: https://vndb.org/r132988
+  release_date: '2025-03-08'
+  platform: and
+  edition_type: complete
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # NO SALVATION

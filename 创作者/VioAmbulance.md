@@ -12,7 +12,7 @@ source_urls:
 # VioAmbulance
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Lamento -Beyond the Void-（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Lamento -BEYOND THE VOID- Windows 10 Support Edition - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

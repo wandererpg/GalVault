@@ -12,11 +12,10 @@ source_urls:
 # Xinmi Riwen Jiaoliu Xuexi Xiaozu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Monkeys!¡（Xinmi Riwen Jiaoliu Xuexi Xiaozu）]]（publisher）
-- [[Nanatsu no Fushigi no Owaru Toki]]（publisher）
-- [[Qi zhi Busiyi Zhongjie zhi Shi]]（publisher）
-- [[Women Mei You Chibang]]（publisher）
-- [[Women Mei You Chibang（Xinmi Riwen Jiaoliu Xuexi Xiaozu）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Monkeys!¡ - Download Edition]]（publisher）
+- [[发行版/Nanatsu no Fushigi no Owaru Toki - First Press Limited Edition]]（publisher）
+- [[发行版/Ore-tachi ni Tsubasa wa Nai R - Limited Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

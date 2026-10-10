@@ -12,7 +12,7 @@ source_urls:
 # Korean Key United
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Clannad Full Voice（Korean Key United）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/CLANNAD（Hikarizaka Gaoxiao Zhongwen Bu）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

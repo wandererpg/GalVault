@@ -11,12 +11,10 @@ source_urls:
 # Golden Abyss
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Kogda Plachut Chajki： Krah - Noktjurn Pravdy i Iljuzij]]（publisher）
-- [[Kogda Plachut Chajki： Krah]]（publisher）
-- [[Kogda plachut aisty - Demo（Golden Abyss）]]（publisher）
-- [[Kogda plachut aisty - faza 1]]（publisher）
-- [[Rose Guns Days - The Best（Golden Abyss）]]（publisher）
-- [[Rose Guns Days]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Umineko no Naku Koro ni Chiru - Episode 8 - Twilight of the Golden Witch]]（publisher）
+- [[发行版/Ciconia no Naku Koro ni - Phase 1： Kawari no Iru Kimi-tachi e]]（publisher）
+- [[发行版/Rose Guns Days - The Best]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,8 +12,8 @@ source_urls:
 # Xuepiao Gongzuoshi
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Kanon Jianti Zhongwen Di San Ban -Minase Nayuki, Misaka Shiori, Sawatari Makoto-]]（publisher）
-- [[Kanon Jianti Zhongwen Di Yi Ban -Minase Nayuki-]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kanon（Key）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

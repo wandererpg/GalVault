@@ -98,14 +98,9 @@ cover_image: "assets/covers/v18685.webp"
 - [[Yaguchi Asami]]（谷口 ケイ）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Dies irae & WORLD BOX ~Masada Premium~（light・release：）]]
-- [[Dies irae ~Entrevista com o Vampiro~]]
-- [[Dies irae ~Interv'ju s Kazikli Beem~]]
+<!-- AUTO:BEGIN release -->- [[发行版/Dies irae ~Interview with Kaziklu Bey~ Download Edition]]
 - [[Dies irae ~Interview with Kaziklu Bey~ Download Edition]]
-- [[Dies irae ~Interview with Kaziklu Bey~]]
-- [[Dies irae ~Interview with Kaziklu Bey~（Views Co., Ltd）]]
-- [[Dies irae ~Interview with Kaziklu Bey~（light）]]
-- [[Dies irae ~Interview with Kaziklu Bey~（release：）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

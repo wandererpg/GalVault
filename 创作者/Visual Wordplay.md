@@ -12,7 +12,7 @@ source_urls:
 # Visual Wordplay
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Cinderella Phenomenon（Dicesuki）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Cinderella Phenomenon（Fantome Traducciones）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

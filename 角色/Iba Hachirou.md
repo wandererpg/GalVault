@@ -30,11 +30,7 @@ portrait_image: "assets/characters/c62704.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Hakuoki： Edo Blossoms - EU Edition]]（primary）
-- [[Hakuouki Shinkai Fuukaden - Limited Edition（Idea Factory Co., Ltd）]]（primary）
-- [[Hakuouki Shinkai Fuukaden（Idea Factory Co., Ltd）]]（primary）
-- [[Hakuouki Shinkai Hana no Shou - Regular Edition]]（primary）
-- [[Hakuouki Shinkai Kaze no Shou - Regular Edition]]（primary）
+<!-- AUTO:BEGIN character -->- [[发行版/Hakuouki Shinkai Fuukaden]]（primary）
 - [[Hakuouki Shinkai Reimeiroku - Normal Edition]]（primary）<!-- AUTO:END character -->
 
 ## 声优

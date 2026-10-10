@@ -12,9 +12,9 @@ source_urls:
 # BrazilianFlag
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[ISLAND（BrazilianFlag）]]（publisher）
-- [[Maitetsu（BrazilianFlag）]]（publisher）
-- [[Sakura no Uta -Sakura no Mori no Ue o Mau-（BrazilianFlag）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/ISLAND - Download Edition]]（publisher）
+- [[发行版/Maitetsu Remaster]]（publisher）
+- [[发行版/Sakura no Uta -Sakura no Mori no Ue o Mau- 10th Anniversary Edition（Taikutsu Translations）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

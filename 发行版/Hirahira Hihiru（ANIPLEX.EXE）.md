@@ -1,16 +1,48 @@
 ---
-entity_id: "release:vndb:r96166:work:vndb:work:v38429"
-type: "release"
-display_title: "Hirahira Hihiru"
-release_date: "2023-11-16"
+entity_id: release:vndb:r96166:work:vndb:work:v38429
+type: release
+display_title: Hirahira Hihiru
+release_date: '2023-11-16'
 is_all_ages: true
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r96166"
+  vndb: r96166
 source_urls:
-  vndb: "https://vndb.org/r96166"
+  vndb: https://vndb.org/r96166
+aliases:
+- Hirahira Hihiru
+- Hirahira Hihiru - Trial Edition
+consolidated_releases:
+- id: r96166
+  title: Hirahira Hihiru
+  url: https://vndb.org/r96166
+  release_date: '2023-11-16'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+- id: r135476
+  title: Hira Hira Hihiru
+  url: https://vndb.org/r135476
+  release_date: '2025-05-15'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+- id: r119297
+  title: Hirahira Hihiru
+  url: https://vndb.org/r119297
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+- id: r109581
+  title: Hirahira Hihiru - Trial Edition
+  url: https://vndb.org/r109581
+  release_date: '2023-06-30'
+  platform: win
+  edition_type: trial
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Hirahira Hihiru

@@ -13,10 +13,10 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Bezymjannyj. Edinstvennaja vesch', kotoruju ty dolzhna vspomnit']]（publisher）
-- [[Fenomen Zolushki]]（publisher）
-- [[Hanayaka Nari, Waga Ichizoku]]（publisher）
-- [[Kod： Osoznanie - Strazh pererozhdenija-（Bredni sivyh otomeshnic）]]（publisher）
-- [[Kod： Osoznanie]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Cinderella Phenomenon（Fantome Traducciones）]]（publisher）
+- [[发行版/Hanayaka Nari, Waga Ichizoku Modern Nostalgie - Download Edition]]（publisher）
+- [[发行版/Code： Realize ~Saikou no Hanataba~ for Nintendo Switch - Download Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -32,10 +32,10 @@ portrait_image: "assets/characters/c8626.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[ef - a fairy tale of the two. - First Press Limited Edition]]（primary）
+<!-- AUTO:BEGIN character -->- [[发行版/ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（primary）
 - [[ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（primary）
-- [[ef - the first tale（minori）]]（side）
-- [[ef - the latter tale（minori）]]（primary）<!-- AUTO:END character -->
+- [[发行版/ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（side）
+<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Mont Blanc]]（声优：安玖深 音）<!-- AUTO:END voice -->

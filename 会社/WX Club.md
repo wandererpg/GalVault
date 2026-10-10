@@ -12,16 +12,10 @@ source_urls:
 # WX Club
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Qianse DLC]]（developer）
-- [[Qianse DLC]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Qianse DLC（WX Club）]]（developer）
+- [[发行版/Qianse DLC（WX Club）]]（publisher）
 - [[Qianse DLC（WX Club）]]（developer）
 - [[Qianse DLC（WX Club）]]（publisher）
-- [[Qianse Demo]]（developer）
-- [[Qianse Demo]]（publisher）
-- [[Qianse]]（developer）
-- [[Qianse]]（publisher）
-- [[Qianse（WX Club）]]（developer）
-- [[Qianse（WX Club）]]（publisher）
 - [[茜色]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

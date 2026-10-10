@@ -12,10 +12,8 @@ source_urls:
 # ININ Games
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Root Double -Before Crime ＊ After Days- Xtend Edition - Collector's Edition]]（publisher）
-- [[Root Double -Before Crime ＊ After Days- Xtend Edition - Dakimakura Collector's Edition]]（publisher）
-- [[Root Double -Before Crime ＊ After Days- Xtend Edition - SLG Partner Store Edition]]（publisher）
-- [[Root Double -Before Crime ＊ After Days- Xtend Edition（ININ Games）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Root Double -Before Crime ＊ After Days- Xtend Edition - Limited Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

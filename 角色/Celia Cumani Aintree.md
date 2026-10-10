@@ -31,8 +31,8 @@ portrait_image: "assets/characters/c6363.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Walkure Romanze Re：tell II]]（primary）
-- [[Walkure Romanze Re：tell（Ricotta）]]（side）
+<!-- AUTO:BEGIN character -->- [[发行版/＂Walkure Romanze＂ Series 4 Set - Limited Edition（Ricotta）]]（primary）
+- [[发行版/＂Walkure Romanze＂ Series 4 Set - Limited Edition（Ricotta）]]（side）
 - [[少女骑士物语 more&more]]（primary）<!-- AUTO:END character -->
 
 ## 声优

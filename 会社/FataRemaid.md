@@ -12,10 +12,9 @@ source_urls:
 # FataRemaid
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Fata Morgana no Yakata - Remaid of Dreams]]（publisher）
-- [[Fata Morgana no Yakata - Remaid of Dreams（FataRemaid・release：）]]（publisher）
-- [[Fata Morgana no Yakata - Remaid of Dreams（FataRemaid・vndb：r12）]]（publisher）
-- [[Fata Morgana no Yakata - Remaid of Dreams（FataRemaid）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Fata Morgana no Yakata -DREAMS OF THE REVENANTS EDITION- - Download Edition]]（publisher）
+- [[发行版/Fata Morgana no Yakata -DREAMS OF THE REVENANTS EDITION- - Download Edition（NOVECT）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

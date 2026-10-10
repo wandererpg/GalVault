@@ -30,8 +30,8 @@ portrait_image: "assets/characters/c84846.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Blackish House ←sideZ - First Press Limited Edition]]（side）
-- [[Blackish House ←sideZ - Regular Edition]]（side）<!-- AUTO:END character -->
+<!-- AUTO:BEGIN character -->- [[发行版/Blackish House sideA→ -Retour-（Justdan）]]（side）
+<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Yoshida Asami]]（声优：吉田麻実）<!-- AUTO:END voice -->

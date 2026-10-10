@@ -12,7 +12,7 @@ source_urls:
 # Xzonn
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[AI： Mengjing Dang'an Simplified Chinese Font patch]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/AI： The Somnium Files - EU Special Agent Edition（Numskull Games Ltd）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,7 +12,7 @@ source_urls:
 # Ono
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Kimi ga Nozomu Eien - Trial Edition]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kimi ga Nozomu Eien ~Enhanced Edition~ Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

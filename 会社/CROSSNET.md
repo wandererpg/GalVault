@@ -12,7 +12,7 @@ source_urls:
 # CROSSNET
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Maple Colors 2 - Download Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Maple Colors 2]]（publisher）
 - [[Maple Colors 2]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

@@ -12,8 +12,8 @@ source_urls:
 # Qunqing Xueyuan Fangsong Bu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Cross†Channel - Cross-platform Ported]]（publisher）
-- [[Cross†Channel - Reprint Edition（Qunqing Xueyuan Fangsong Bu）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Cross†Channel ~To All People~ Regular Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

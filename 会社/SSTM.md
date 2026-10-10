@@ -12,12 +12,12 @@ source_urls:
 # SSTM
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Gongxi Ji Feina de Maoxian Lvcheng]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Princess Sacrifice ~Kugi Hime Feena no Bouken~]]（publisher）
 - [[Muniang Luanguan]]（publisher）
-- [[Yongzhe Dazhan Mowuniang RPG Qianzhang]]（publisher）
-- [[Yongzhe Dazhan Mowuniang]]（publisher）
-- [[Yongzhe Dazhan Mowuniang（SSTM・release：）]]（publisher）
-- [[Yongzhe Dazhan Mowuniang（SSTM）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Monmusu Quest! Paradox RPG Zenshou - Package Edition]]（publisher）
+- [[发行版/Monmusu Quest! Shuushou ~Makereba Youjo ni Okasareru~]]（publisher）
+- [[发行版/Monmusu Quest! Chuushou ~Makereba Youjo ni Okasareru~]]（publisher）
+- [[发行版/Monmusu Quest! Origins -Assaulted by the Vamp-]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

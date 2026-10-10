@@ -12,7 +12,7 @@ source_urls:
 # miegir
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[428： Shibuya Scramble]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/428： Shibuya Scramble - EU Package Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

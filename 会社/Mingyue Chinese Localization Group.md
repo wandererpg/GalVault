@@ -14,7 +14,7 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Aster]]（publisher）
 - [[Meihao de Meiyitian（Lingxue Hanhuazu）]]（publisher）
-- [[Meihao de Meiyitian（Mingyue Chinese Localization Group）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Meihao de Meiyitian（Lingxue Hanhuazu）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

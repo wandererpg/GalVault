@@ -12,8 +12,8 @@ source_urls:
 # luozhuang
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Ke zhi Shaonü（release：）]]（publisher）
-- [[Yueguang xia de Carnevale]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Innocent Grey Mystery Collection ~Kara no Shoujo & Pianissimo & Cartagra~]]（publisher）
+- [[发行版/Gekkou no Carnevale（NITRO PLUS）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

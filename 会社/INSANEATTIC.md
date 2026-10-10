@@ -12,7 +12,7 @@ source_urls:
 # INSANEATTIC
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ved'mina noch' v0.25.1]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Mahoutsukai no Yoru]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

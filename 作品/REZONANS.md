@@ -39,10 +39,9 @@ cover_image: "assets/covers/v12631.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[REZONANS ／／ EPIZOD I - ASAT (DEMO)]]
+<!-- AUTO:BEGIN release -->- [[发行版/REZONANS ／／ EPIZOD I - ASAT (TIZER)]]
 - [[REZONANS ／／ EPIZOD I - ASAT (TIZER)]]
-- [[Resonance 0]]
-- [[Rezonans 0]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

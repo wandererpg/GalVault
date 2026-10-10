@@ -12,7 +12,7 @@ source_urls:
 # kozzz
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Ischeznovenie Sammer S1 Steam]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Ischeznovenie Sammer S1 + S1 Steam]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

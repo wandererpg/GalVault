@@ -12,28 +12,14 @@ source_urls:
 # Chuablesoft
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ano Harewataru Sora yori Takaku (Part 1) - DVDPG]]（developer）
-- [[Ano Harewataru Sora yori Takaku (Part 2) - DVDPG]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Ano Harewataru Sora yori Takaku - Download Edition]]（developer）
 - [[Ano Harewataru Sora yori Takaku - Download Edition]]（developer）
 - [[Ano Harewataru Sora yori Takaku - Download Edition]]（publisher）
-- [[Ano Harewataru Sora yori Takaku - Trial Edition 1]]（developer）
-- [[Ano Harewataru Sora yori Takaku - Trial Edition 1]]（publisher）
-- [[Ano Harewataru Sora yori Takaku - Trial Edition 2]]（developer）
-- [[Ano Harewataru Sora yori Takaku - Trial Edition 2]]（publisher）
-- [[Ano Harewataru Sora yori Takaku（Chuablesoft）]]（developer）
-- [[Ano Harewataru Sora yori Takaku（Chuablesoft）]]（publisher）
-- [[Astraythem - Download Edition]]（developer）
-- [[Astraythem - Download Edition]]（publisher）
-- [[Astraythem - Package Edition]]（developer）
-- [[Astraythem - Package Edition]]（publisher）
-- [[Astraythem - Trial Edition]]（developer）
-- [[Astraythem - Trial Edition]]（publisher）
-- [[ChuableSoft 13 Titles Premium Pack]]（developer）
-- [[ChuableSoft 13 Titles Premium Pack]]（publisher）
+- [[发行版/Ano Harewataru Sora yori Takaku - Download Edition]]（publisher）
+- [[发行版/ChuableSoft 13 Titles Premium Pack（Chuablesoft）]]（developer）
+- [[发行版/ChuableSoft 13 Titles Premium Pack（Chuablesoft）]]（publisher）
 - [[ChuableSoft 13 Titles Premium Pack（Chuablesoft）]]（developer）
 - [[ChuableSoft 13 Titles Premium Pack（Chuablesoft）]]（publisher）
-- [[ChuableSoft Variety Set]]（developer）
-- [[ChuableSoft Variety Set]]（publisher）
 - [[アステリズム -Astraythem-]]（developer）
 - [[冲破万里晴空之上]]（developer）<!-- AUTO:END duty -->
 

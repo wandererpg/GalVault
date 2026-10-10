@@ -12,17 +12,8 @@ source_urls:
 # ROOT
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Touka Gettan - Deluxe Edition]]（developer）
-- [[Touka Gettan - Download Edition]]（developer）
-- [[Touka Gettan - Download Edition]]（publisher）
-- [[Touka Gettan - Regular Edition]]（developer）
-- [[Touka Gettan - Trial Edition]]（developer）
-- [[Touka Gettan - Trial Edition]]（publisher）
-- [[Touka Gettan Additional Data Disc]]（developer）
-- [[Touka Gettan Additional Data Disc]]（publisher）
-- [[Touka Gettan Thanks Disc]]（developer）
-- [[Touka Gettan Thanks Disc]]（publisher）
-- [[Touka Gettan ~Koufuu no Ryouou~ Deluxe Pack]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Touka Gettan ~Koufuu no Ryouou~ Regular Edition]]（developer）
+- [[发行版/Touka Gettan ~Koufuu no Ryouou~ Regular Edition]]（publisher）
 - [[Touka Gettan ~Koufuu no Ryouou~ Regular Edition]]（developer）
 - [[桃華月憚]]（developer）<!-- AUTO:END duty -->
 

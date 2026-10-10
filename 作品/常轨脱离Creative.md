@@ -108,26 +108,8 @@ cover_image: "assets/covers/v27449.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Changgui Tuoli Creative - Censored Edition]]
-- [[Changgui Tuoli Creative 18+ DLC]]
-- [[Changgui Tuoli Creative decoded patch]]
-- [[Hamidashi Creative + Totsu Set]]
-- [[Hamidashi Creative - Download Edition]]
-- [[Hamidashi Creative - Limited  Edition]]
-- [[Hamidashi Creative - Limited Edition]]
-- [[Hamidashi Creative - Package Edition]]
-- [[Hamidashi Creative - Regular Edition]]
-- [[Hamidashi Creative - Regular Edition（Madosoft）]]
-- [[Hamidashi Creative - Trial Edition]]
-- [[Hamidashi Creative Prologue]]
-- [[Hamidashi Creative Prologue（Windeal Inc）]]
-- [[Hamidashi Creative]]
-- [[Hamidashi Creative（Angkringan Visual Novel）]]
-- [[Hamidashi Creative（Sekai Project）]]
-- [[Hamidashi Creative（Team Myskrpatch）]]
-- [[Linggan Manyi de Tianmi Chuangxiang - Trial Edition]]
-- [[Linggan Manyi de Tianmi Chuangxiang]]
-- [[Linggan Manyi de Tianmi Chuangxiang（Baijingmu Xueyuan Hanhuazu）]]
-- [[Vykhodyashcheye za ramki tvorchestvo]]<!-- AUTO:END release -->
+- [[发行版/Changgui Tuoli Creative - Censored Edition]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -12,13 +12,8 @@ source_urls:
 # F&C Co., Ltd.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Best Buy F&C 5 - Suigetsu]]（publisher）
-- [[Suigetsu - Download Edition]]（publisher）
-- [[Suigetsu - First Press Edition]]（publisher）
-- [[Suigetsu - Package Renewal Edition]]（publisher）
-- [[Suigetsu - Trial Edition]]（publisher）
-- [[Suigetsu Lite]]（publisher）
-- [[Suigetsu]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Suigetsu ~Portable~ Best Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,7 +12,7 @@ source_urls:
 # Love Lab
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ever Maiden]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Ever Maiden ~Daraku no Sono no Otome-tachi~ Download Edition（Liar-soft）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,7 +12,7 @@ source_urls:
 # DeVoid
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Amakano 2 - Perfect Edition (GPT 5.6 SOL High)]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Amakano 2 - Renewal Package Edition - DVDPG]]（publisher）
 - [[Amakano 2+ (GPT 5.6 SOL High)]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演

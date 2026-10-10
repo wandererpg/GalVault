@@ -12,8 +12,8 @@ source_urls:
 # nitrolith
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Hero Party Must Fall v0.6.1 Playtest]]（developer）
-- [[Hero Party Must Fall v0.6.1 Playtest]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Otrjad Geroja Dolzhen Past' v0.6.1]]（developer）
+- [[发行版/Otrjad Geroja Dolzhen Past' v0.6.1]]（publisher）
 - [[Hero Party Must Fall]]（developer）<!-- AUTO:END duty -->
 
 ## 创作与出演

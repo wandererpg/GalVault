@@ -12,7 +12,7 @@ source_urls:
 # terran
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Vechnost' v0.3]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Vechnost' v0.8]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

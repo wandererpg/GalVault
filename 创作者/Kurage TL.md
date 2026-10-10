@@ -12,7 +12,7 @@ source_urls:
 # Kurage TL
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Hari-Hari yang Indah ~Eksistensi yang Diskontinu~]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Meihao de Meiyitian（Lingxue Hanhuazu）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,7 +12,7 @@ source_urls:
 # spaun47rus
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Goddesses' Whim v0.4.6]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Goddesses' Whim v0.4.5]]（publisher）
 - [[Otrjad Geroja Dolzhen Past' v0.6.1]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

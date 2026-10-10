@@ -13,7 +13,7 @@ source_urls:
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Shenzhou Shenwei Shenle Shuguang]]（publisher）
-- [[Zhan Nvshen MEMORIA]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Tenbin no La DEA. ~Ikusa Megami MEMORIA~ Perfect Guidebook Append Disk]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

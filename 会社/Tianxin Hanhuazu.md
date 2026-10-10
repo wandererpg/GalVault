@@ -12,9 +12,9 @@ source_urls:
 # Tianxin Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Baoshi Ye Leyuan]]（publisher）
-- [[Chong Ai Shaonü]]（publisher）
-- [[Juguangdeng Xia de Qingning Lianqu - Trial Edition]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Jewelry Nights Arcadia -The ends of the world- Limited Edition with Body Pillow Cover]]（publisher）
+- [[发行版/Extravaganza ~Mushi Mederu Shoujo~ DVDPG Edition]]（publisher）
+- [[发行版/Ju Guang Ning Shui Sui Xiang Qu]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -11,30 +11,22 @@ source_urls:
 # CK-GAL
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Baise Xiangbu 2 - Mini-After Story]]（publisher）
-- [[Baise Xiangbu 2 -Xu Zhang- Xiedai Ban]]（publisher）
-- [[Baise Xiangbu 2 -Xu Zhang-]]（publisher）
-- [[Baise Xiangbu 2]]（publisher）
-- [[Baise Xiangbu 2： Xingfu de Duimian]]（publisher）
-- [[Chuansong zhi Wu Portable]]（publisher）
-- [[Chuansong zhi Wu ~Zhi Shizhe de Yaolanqu~]]（publisher）
-- [[Gengsheng Limingqian de Liulise -Moonlight Cradle-]]（publisher）
-- [[Huiyi de Eustia（CK-GAL）]]（publisher）
-- [[Irotoridori no Sekai（CK-GAL）]]（publisher）
-- [[Little Busters! Converted Edition（CK-GAL）]]（publisher）
-- [[Little Busters! EX（CK-GAL）]]（publisher）
-- [[Nvpu Kafei Parfait]]（publisher）
-- [[Palufei Portable Edition]]（publisher）
-- [[Qingkongxia de Yueding]]（publisher）
-- [[Qingkongxia de Yueding： Zhangzhong Leyuan]]（publisher）
-- [[Qiu zhi Huiyi 2]]（publisher）
-- [[Qiu zhi Huiyi 4 ~Cong Jin Yihou~]]（publisher）
-- [[Rewrite - Trial Edition（CK-GAL）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/WHITE ALBUM2 EXTENDED EDITION（Leaf）]]（publisher）
+- [[发行版/WHITE ALBUM2 EXTENDED EDITION（Leaf・release：）]]（publisher）
+- [[发行版/Utawarerumono： Chiriyuku Mono e no Komoriuta（Leaf）]]（publisher）
+- [[发行版/Yoake Mae yori Ruri Iro na -Moonlight Cradle- First Press Standard Edition]]（publisher）
+- [[发行版/Aiyoku no Eustia： Angel's Blessing - Download Edition]]（publisher）
+- [[发行版/Irotoridori no Sekai World's End -Re：Birth- Download Edition（Dramatic Create）]]（publisher）
+- [[发行版/Little Busters! English Edition（Key）]]（publisher）
+- [[发行版/Parfait ~Chocolat Second Style~ Limited Edition]]（publisher）
+- [[发行版/Kono Aozora ni Yakusoku o： Te no Hira No Rakuen - Deluxe Pack Edition]]（publisher）
+- [[发行版/Memories Off Historia - Super Limited Edition（MAGES・vndb：r11）]]（publisher）
+- [[发行版/Memories Off Historia - Super Limited Edition（MAGES）]]（publisher）
+- [[发行版/Rewrite - Download Edition（Key）]]（publisher）
 - [[Scarlett]]（publisher）
-- [[Wei Yu Mingri Jun Xiangfeng]]（publisher）
-- [[Weilai Xiangchou]]（publisher）
-- [[Wucaibanlan de Shijie]]（publisher）
-- [[Xingkong de Jiyi -Wish upon a Shooting Star-]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Ashita no Kimi to Au Tame ni Complete Box - Download Edition]]（publisher）
+- [[发行版/Mirai Nostalgia - Renewal Edition - Download Edition]]（publisher）
+- [[发行版/Hoshizora no Memoria HD -Shooting Star & Eternal Heart Anniversary BOX- Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

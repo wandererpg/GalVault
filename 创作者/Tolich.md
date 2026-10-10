@@ -12,7 +12,7 @@ source_urls:
 # Tolich
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Holmesduck]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Homestuck（Viz Media）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

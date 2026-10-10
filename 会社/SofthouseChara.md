@@ -12,14 +12,12 @@ source_urls:
 # SofthouseChara
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[BUNNYBLACK2 - Download Edition]]（developer）
-- [[BUNNYBLACK2 - Download Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/BUNNYBLACK2]]（developer）
+- [[发行版/BUNNYBLACK2]]（publisher）
 - [[BUNNYBLACK2]]（developer）
 - [[BUNNYBLACK2]]（publisher）
-- [[BUNNYBLACK3 - Download Edition]]（developer）
-- [[BUNNYBLACK3 - Download Edition]]（publisher）
-- [[BUNNYBLACK3 - Trial Edition]]（developer）
-- [[BUNNYBLACK3 - Trial Edition]]（publisher）
+- [[发行版/BUNNYBLACK3]]（developer）
+- [[发行版/BUNNYBLACK3]]（publisher）
 - [[BUNNYBLACK3]]（developer）
 - [[BUNNYBLACK3]]（publisher）<!-- AUTO:END duty -->
 

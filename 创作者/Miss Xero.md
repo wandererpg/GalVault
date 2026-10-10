@@ -12,12 +12,11 @@ source_urls:
 # Miss Xero
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Bewitching Sinners - Harlots DLC]]（developer）
-- [[Bewitching Sinners - Harlots DLC]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Bewitching Sinners]]（developer）
+- [[发行版/Bewitching Sinners]]（publisher）
 - [[Bewitching Sinners]]（developer）
 - [[Bewitching Sinners]]（publisher）
-- [[Bewitching Sinners（release：）]]（developer）
-- [[Bewitching Sinners（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

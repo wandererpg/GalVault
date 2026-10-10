@@ -12,20 +12,19 @@ source_urls:
 # Sharin-Sub
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[AIR - Standard Edition（Sharin-Sub）]]（publisher）
-- [[ATRI -My Dear Moments-（Taikutsu Translations）]]（publisher）
-- [[EF - a fairy tale of the two（Sharin-Sub）]]（publisher）
-- [[G-senjou no Maou（Sharin-Sub）]]（publisher）
-- [[Grisaia no Kajitsu - Special Fanmade]]（publisher）
-- [[Grisaia no Kajitsu]]（publisher）
-- [[Hatsuyuki Sakura（Sharin-Sub）]]（publisher）
-- [[Hoshizora no Memoria -Wish upon a Shooting Star-（Sharin-Sub）]]（publisher）
-- [[Kamidori Alchemy Meister（Sharin-Sub）]]（publisher）
-- [[Maji de Watashi ni Koishinasai! S（Sharin-Sub）]]（publisher）
-- [[Maji de Watashi ni Koishinasai!]]（publisher）
-- [[Making ＊ Lovers（Sharin-Sub）]]（publisher）
-- [[SeaBed（Sharin-Sub）]]（publisher）
-- [[Sharin no Kuni, Himawari no Shoujo（Sharin-Sub）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/AIR（Key）]]（publisher）
+- [[发行版/ATRI -My Dear Moments- Original Soundtrack - First Press Limited Edition]]（publisher）
+- [[发行版/ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（publisher）
+- [[发行版/G-senjou no Maou（Aegis）]]（publisher）
+- [[发行版/The Grisaia Trilogy]]（publisher）
+- [[发行版/Hatsuyuki Sakura White Graduation - Download Edition]]（publisher）
+- [[发行版/Hoshizora no Memoria HD -Shooting Star & Eternal Heart Anniversary BOX- Download Edition]]（publisher）
+- [[发行版/Kamidori Alchemy Meister Append Disk - Hanna-san no Junrei Ryokouki - Download Edition]]（publisher）
+- [[发行版/Maji de Watashi ni Koishinasai! S]]（publisher）
+- [[发行版/BugBug 200 Anniversary DVD MiniMini AVG Collection Part 1（Minato Soft）]]（publisher）
+- [[发行版/Making ＊ Lovers - PS4 Download Edition]]（publisher）
+- [[发行版/SeaBed - Physical Edition]]（publisher）
+- [[发行版/Sharin no Kuni, Himawari no Shoujo（Doitsugo Trans）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

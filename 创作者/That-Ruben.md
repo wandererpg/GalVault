@@ -12,12 +12,12 @@ source_urls:
 # That-Ruben
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[HENPRI - JP restoration patch]]（publisher）
-- [[Kara no Shojo - Japanese Language Restoration & Hotkey Toggle Patch]]（publisher）
-- [[Kara no Shojo - Japanese Language Restoration & Hotkey Toggle Patch（release：）]]（publisher）
-- [[Kara no Shojo - Japanese Language Restoration & Hotkey Toggle Patch（vndb：r16）]]（publisher）
-- [[NUKITASHI - JP restoration patch with dual language display]]（publisher）
-- [[NUKITASHI - JP restoration patch with dual language display（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Hentai Prison - First Press Limited Edition]]（publisher）
+- [[发行版/Kara no Shoujo - Download Edition（Innocent Grey・release：）]]（publisher）
+- [[发行版/Kara no Shoujo - NEW CAST REMASTER EDITION - Download Edition]]（publisher）
+- [[发行版/Innocent Grey Mystery Collection ~Kara no Shoujo & Pianissimo & Cartagra~]]（publisher）
+- [[发行版/NUKITASHI]]（publisher）
+- [[发行版/Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka？ 1 + 2 Remaster Pack - Download Edition（Qruppo）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

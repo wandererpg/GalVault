@@ -12,8 +12,8 @@ source_urls:
 # Otome Dream Ritian Shouhu Xiehui
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Jipin Xiaozhen -Yuanjieyicai-]]（publisher）
-- [[Jiping Xiaozhen -Wanquanban-]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Nie no Machi -Iro Musubi- Download Edition]]（publisher）
+- [[发行版/Nie no Machi - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

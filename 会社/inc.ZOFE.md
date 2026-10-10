@@ -12,9 +12,8 @@ source_urls:
 # inc.ZOFE
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Xingkong Lieche Yu Bai de Lvxing - Demo]]（publisher）
-- [[Xingkong Lieche yu Bai de Lüxing patch]]（publisher）
-- [[Xingkong Lieche yu Bai de Lüxing]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Hoshizora Tetsudou to Shiro no Tabi - Download Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

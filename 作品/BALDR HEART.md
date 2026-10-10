@@ -106,23 +106,9 @@ cover_image: "assets/covers/v18783.webp"
 - [[Yamabuki Rima]]（山吹 莉茉）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[BALDR MASTERPIECE CHRONICLE - Resale Edition（GIGA・release：）]]
-- [[BALDR MASTERPIECE CHRONICLE（GIGA・release：）]]
-- [[BALDRHEART Re.price DX]]
-- [[Baldr Heart - First Press Limited Edition + Baldr Board Set]]
-- [[Baldr Heart - First Press Limited Edition]]
-- [[Baldr Heart - Regular Edition]]
-- [[Baldr Heart - Story Trial Edition]]
-- [[Baldr Heart - Trial Edition - Baldr Heart Checker Online]]
+<!-- AUTO:BEGIN release -->- [[发行版/Baldr Heart EXE - First Press Limited Edition]]
 - [[Baldr Heart EXE - First Press Limited Edition]]
-- [[Baldr Heart EXE - Original Game Bundled Edition]]
-- [[Baldr Heart EXE - Regular Edition]]
-- [[Baldr Heart Getchu Bonus ＂Original Digital Content＂]]
-- [[Baldr Heart Official Mail Order MoePlus Bonus ＂Digital Content＂]]
-- [[Baldr Heart Sofmap Bonus ＂Original Digital Content＂]]
-- [[Baldr Heart]]
-- [[Baldr Heart（Moshi Youxi Zhongwenhua Xingqu Xiaozu）]]
-- [[Baldr Heart（release：）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

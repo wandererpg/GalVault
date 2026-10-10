@@ -14,8 +14,8 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[J.Q.V Jinrui Kyuusai-bu ~With Love from Isotope~ Download Edition]]（developer）
 - [[J.Q.V Jinrui Kyuusai-bu ~With Love from Isotope~ Download Edition]]（publisher）
-- [[J.Q.V Jinrui Kyuusai-bu ~With Love from Isotope~ Package Edition]]（developer）
-- [[J.Q.V Jinrui Kyuusai-bu ~With Love from Isotope~ Package Edition]]（publisher）
+- [[发行版/J.Q.V Jinrui Kyuusai-bu ~With Love from Isotope~ Download Edition]]（developer）
+- [[发行版/J.Q.V Jinrui Kyuusai-bu ~With Love from Isotope~ Download Edition]]（publisher）
 - [[J.Q.V 人類救済部 ～With love from isotope～]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

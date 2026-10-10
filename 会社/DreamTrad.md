@@ -12,14 +12,13 @@ source_urls:
 # DreamTrad
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[428： Shibuya Scramble（DreamTrad）]]（publisher）
-- [[AI： The Somnium Files（DreamTrad）]]（publisher）
-- [[PARANORMASIGHT DOSSIER 23： Les sept mystères de Honjo]]（publisher）
-- [[The 25th Ward： The Silver Case（DreamTrad）]]（publisher）
-- [[Zero Escape： The Nonary Games - 9 heures, 9 personnes, 9 portes]]（publisher）
-- [[Zero Escape： The Nonary Games - 9 heures, 9 personnes, 9 portes（DreamTrad）]]（publisher）
-- [[Zero Escape： The Nonary Games - Les Remords des Vertueux]]（publisher）
-- [[Zero Escape： The Nonary Games - Les Remords des Vertueux（DreamTrad）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/428： Shibuya Scramble - EU Package Edition]]（publisher）
+- [[发行版/AI： The Somnium Files - EU Special Agent Edition（Numskull Games Ltd）]]（publisher）
+- [[发行版/PARANORMASIGHT FILE23： Honjo Nanafushigi（SQUARE ENIX）]]（publisher）
+- [[发行版/Silver Jiken 25 Ku]]（publisher）
+- [[发行版/Kyokugen Dasshutsu 9-Jikan 9-Nin 9 no Tobira - Chun Selection]]（publisher）
+- [[发行版/Kyokugen Dasshutsu ADV Zennin Shibou Desu - Download Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

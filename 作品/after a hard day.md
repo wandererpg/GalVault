@@ -1,13 +1,25 @@
 ---
-entity_id: "vndb:work:v56496"
-type: "work"
-display_title: "after a hard day"
-title_status: "unresolved"
+entity_id: vndb:work:v56496
+type: work
+display_title: after a hard day
+title_status: unresolved
 source_ids:
-  vndb: "v56496"
+  vndb: v56496
 source_urls:
-  vndb: "https://vndb.org/v56496"
-cover_image: "assets/covers/v56496.webp"
+  vndb: https://vndb.org/v56496
+cover_image: assets/covers/v56496.webp
+vndb_title: after a hard day
+vndb_content_updated: '2026-10-10'
+title_ja: after a hard day
+first_release_date: '2023-01-10'
+vndb_vote_count: 1
+vndb_length_minutes: 20
+vndb_languages:
+- ja
+- ru
+vndb_platforms:
+- win
+vndb_devstatus: 0
 ---
 
 # after a hard day
@@ -18,7 +30,9 @@ cover_image: "assets/covers/v56496.webp"
 <!-- AUTO:END image -->
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->
+- [yuuk](https://vndb.org/p24508)（developer）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
@@ -36,10 +50,21 @@ cover_image: "assets/covers/v56496.webp"
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
 
 ## 关联作品
-<!-- AUTO:BEGIN relation -->- [[魔法使之夜]]（side）<!-- AUTO:END relation -->
+<!-- AUTO:BEGIN relation -->
+- [[魔法使之夜]]（side）
+- [[作品/魔法使之夜|Mahoutsukai no Yoru]]（par）
+<!-- AUTO:END relation -->
 
 ## 标签
-<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+<!-- AUTO:BEGIN tag -->
+- [Fan-fiction](https://vndb.org/g1056)
+- [Sexual Content](https://vndb.org/g23)
+<!-- AUTO:END tag -->
 
 ## 来源
 <!-- AUTO:BEGIN provenance -->vndb:v56496<!-- AUTO:END provenance -->
+
+
+## VNDB 资料来源
+
+[VNDB：v56496](https://vndb.org/v56496)，补全于 2026-10-10。

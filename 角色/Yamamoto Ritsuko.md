@@ -31,8 +31,8 @@ portrait_image: "assets/characters/c96930.webp"
 
 ## 出场作品
 <!-- AUTO:BEGIN character -->- [[Doukyuusei 2 - Extra Box]]（primary）
-- [[Doukyuusei 2（elf・rk：v2337）]]（primary）
-- [[Doukyuusei 2（elf）]]（appears）<!-- AUTO:END character -->
+- [[发行版/Doukyuusei 2 - Extra Box]]（primary）
+- [[发行版/Doukyuusei 2 - Extra Box]]（appears）<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Tezuka Chiharu]]（声优：手塚 ちはる）<!-- AUTO:END voice -->

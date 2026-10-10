@@ -12,7 +12,7 @@ source_urls:
 # noctiluca
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Akaya Akashiya Ayakashino - Limited Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Akaya Akashiya Ayakashino - Regular Edition]]（publisher）
 - [[Akaya Akashiya Ayakashino - Regular Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

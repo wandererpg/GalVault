@@ -12,7 +12,7 @@ source_urls:
 # Whitegu
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Prihot' Bogin' v0.4.6]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Goddesses' Whim v0.4.5]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

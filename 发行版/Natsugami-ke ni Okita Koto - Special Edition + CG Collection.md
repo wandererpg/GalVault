@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r97044:work:vndb:work:v32749"
-type: "release"
-display_title: "Natsugami-ke ni Okita Koto - Special Edition + CG Collection"
-release_date: "2022-12-23"
+entity_id: release:vndb:r97044:work:vndb:work:v32749
+type: release
+display_title: Natsugami-ke ni Okita Koto - Special Edition + CG Collection
+release_date: '2022-12-23'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r97044"
+  vndb: r97044
 source_urls:
-  vndb: "https://vndb.org/r97044"
+  vndb: https://vndb.org/r97044
+aliases:
+- Natsugami-ke ni Okita Koto Plus
+- Natsugami-ke ni Okita Koto Plus（release：）
+consolidated_releases:
+- id: r97044
+  title: Natsugami-ke ni Okita Koto - Special Edition + CG Collection
+  url: https://vndb.org/r97044
+  release_date: '2022-12-23'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r84542
+  title: Natsugami-ke ni Okita Koto Plus
+  url: https://vndb.org/r84542
+  release_date: '2022-07-08'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r116251
+  title: Natsugami-ke ni Okita Koto Plus
+  url: https://vndb.org/r116251
+  release_date: '2022'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Natsugami-ke ni Okita Koto - Special Edition + CG Collection

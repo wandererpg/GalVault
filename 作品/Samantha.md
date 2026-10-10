@@ -46,7 +46,7 @@ cover_image: "assets/covers/v22865.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Samantha]]
+<!-- AUTO:BEGIN release -->- [[发行版/Samantha（Moving on）]]
 - [[Samantha（Moving on）]]<!-- AUTO:END release -->
 
 ## 动画化

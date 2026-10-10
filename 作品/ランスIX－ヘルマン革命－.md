@@ -21,6 +21,7 @@ cover_image: "assets/covers/v13802.webp"
 
 # Rance IX - Helman Kakumei -
 
+
 ## 封面
 <!-- AUTO:BEGIN image -->
 ![[assets/covers/v13802.webp|300]]
@@ -129,19 +130,9 @@ cover_image: "assets/covers/v13802.webp"
 - [[Yukadon]]（由嘉鈍）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Lansi 9]]
-- [[Rance 35th Anniversary Box]]
-- [[Rance 9]]
-- [[Rance IX - Helman Kakumei - Censored Edition]]
-- [[Rance IX - Helman Kakumei - Download Edition]]
-- [[Rance IX - Helman Kakumei - Package Edition]]
-- [[Rance IX - Helman Kakumei - Trial Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Rance IX - Helman Kakumei -]]
 - [[Rance IX - Helman Kakumei -]]
-- [[Rance IX - Original Name Order for JAPANese characters]]
-- [[Rance IX - The Helmanian Revolution (DeepL translation)]]
-- [[Rance IX - The Helmanian Revolution - Limited Physical Edition]]
-- [[Rance IX - The Helmanian Revolution]]
-- [[Rance IX - The Helmanian Revolution（MangaGamer）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

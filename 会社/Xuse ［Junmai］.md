@@ -13,13 +13,7 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Saihate no Ima - Full Voice Download Edition]]（developer）
-- [[Saihate no Ima - Full Voice Edition]]（developer）
-- [[Saihate no Ima -COMPLETE- Download Edition]]（developer）
-- [[Saihate no Ima -COMPLETE-]]（developer）
-- [[Saihate no Ima PORTABLE - DL Edition]]（developer）
-- [[Saihate no Ima PORTABLE - Limited Edition]]（developer）
-- [[Saihate no Ima PORTABLE - Regular Edition]]（developer）
-- [[Saihate no Ima（Xuse ［Junmai］）]]（developer）
+- [[发行版/Saihate no Ima - Full Voice Download Edition]]（developer）
 - [[最果てのイマ]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

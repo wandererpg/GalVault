@@ -31,11 +31,9 @@ portrait_image: "assets/characters/c14210.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Fortissimo EXA／／Akkord：Bsusvier - Additional Scenario Patch]]（appears）
+<!-- AUTO:BEGIN character -->- [[发行版/Fortissimo EXA／／Akkord：Bsusvier - Regular Edition]]（appears）
 - [[Fortissimo EXS／／Akkord：Nachsten Phase (Bundled with Nendoroid Petit Satomura Momiji)]]（appears）
-- [[Fortissimo EXS／／Akkord：Nachsten Phase - First Press Edition]]（appears）
-- [[Fortissimo EXS／／Akkord：Nachsten Phase - Popular Edition]]（appears）
-- [[Fortissimo FA／／Akkord：Nachsten Phase]]（appears）
+- [[发行版/Fortissimo EXS／／Akkord：Nachsten Phase (Bundled with Nendoroid Petit Satomura Momiji)]]（appears）
 - [[Kadenz fermata／／Akkord：fortissimo]]（side）<!-- AUTO:END character -->
 
 ## 声优

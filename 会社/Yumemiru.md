@@ -12,16 +12,10 @@ source_urls:
 # Yumemiru
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Girls Book Maker - Premium Set - Download Edition]]（developer）
-- [[Girls Book Maker - Premium Set - Download Edition]]（publisher）
-- [[Girls Book Maker - Premium Set - Package Edition]]（developer）
-- [[Girls Book Maker - Premium Set - Package Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Girls Book Maker -Shiawase no Libretto- Download Edition]]（developer）
+- [[发行版/Girls Book Maker -Shiawase no Libretto- Download Edition]]（publisher）
 - [[Girls Book Maker -Shiawase no Libretto- Download Edition]]（developer）
 - [[Girls Book Maker -Shiawase no Libretto- Download Edition]]（publisher）
-- [[Girls Book Maker -Shiawase no Libretto- Package Edition]]（developer）
-- [[Girls Book Maker -Shiawase no Libretto- Package Edition]]（publisher）
-- [[Girls Book Maker -Shiawase no Libretto- Trial Edition]]（developer）
-- [[Girls Book Maker -Shiawase no Libretto- Trial Edition]]（publisher）
 - [[ガールズ・ブック・メイカー -幸せのリブレット-]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

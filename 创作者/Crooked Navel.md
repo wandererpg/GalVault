@@ -14,8 +14,8 @@ source_urls:
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[TS Mahou Shoujo Nao! 2nd!! Package Edition]]（developer）
 - [[TS Mahou Shoujo Nao! 2nd!! Package Edition]]（publisher）
-- [[TS Mahou Shoujo Nao! 2nd!!（release：）]]（developer）
-- [[TS Mahou Shoujo Nao! 2nd!!（release：）]]（publisher）
+- [[发行版/TS Mahou Shoujo Nao! 2nd!! Package Edition]]（developer）
+- [[发行版/TS Mahou Shoujo Nao! 2nd!! Package Edition]]（publisher）
 - [[TS魔法少女なお!2nd!!]]（developer）<!-- AUTO:END duty -->
 
 ## 创作与出演

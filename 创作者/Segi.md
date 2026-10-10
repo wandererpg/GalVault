@@ -12,7 +12,7 @@ source_urls:
 # Segi
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[ATRI -My Dear Moments-（vndb：r14）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/ATRI -My Dear Moments- Original Soundtrack - First Press Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

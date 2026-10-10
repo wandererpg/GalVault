@@ -12,9 +12,9 @@ source_urls:
 # Team VAGALL
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Angel Beats! -1st beat-（Team VAGALL）]]（publisher）
-- [[Jongjeom-ui Stella]]（publisher）
-- [[Summer Pockets REFLECTION BLUE（Team VAGALL）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Angel Beats! -1st beat-]]（publisher）
+- [[发行版/Tsui no Stella]]（publisher）
+- [[发行版/Summer Pockets REFLECTION BLUE - First Press Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

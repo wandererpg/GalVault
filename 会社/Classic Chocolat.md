@@ -12,8 +12,8 @@ source_urls:
 # Classic Chocolat
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[NOeSIS 01＆02 - Old Version]]（developer）
-- [[NOeSIS 01＆02 - Old Version]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/NOeSIS02_Uka]]（developer）
+- [[发行版/NOeSIS02_Uka]]（publisher）
 - [[NOeSIS02_羽化]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

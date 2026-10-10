@@ -111,17 +111,9 @@ cover_image: "assets/covers/v31659.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Holmesduck]]
-- [[Homestuck (PT-BR)]]
-- [[Homestuck Fan Zhong Fan Yi]]
-- [[Homestuck Hangeul Beonyeok]]
-- [[Homestuck Visual Novel]]
-- [[Homestuck en español]]
-- [[Homestuck]]
-- [[Homestuck（RTFelt）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Homestuck（Viz Media）]]
 - [[Homestuck（Viz Media）]]
-- [[Homestuck： Nihongoban]]
-- [[The Unofficial Homestuck Collection]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -12,8 +12,8 @@ source_urls:
 # Lokalych
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[PARANORMASIGHT FILE23： Honjo Nanafushigi（release：）]]（publisher）
-- [[PARANORMASIGHT FILE38： Ise Ningyo Monogatari（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/PARANORMASIGHT FILE23： Honjo Nanafushigi（SQUARE ENIX）]]（publisher）
+- [[发行版/PARANORMASIGHT FILE38： Ise Ningyo Monogatari（SQUARE ENIX）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

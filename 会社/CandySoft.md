@@ -12,47 +12,15 @@ source_urls:
 # CandySoft
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[CandySoft COLLECTION Vol.1]]（publisher）
-- [[CandySoft COLLECTION Vol.1（CandySoft）]]（publisher）
-- [[Tsuushinbo ~Mama ni mo Naisho no Jikanwari~ Android Edition]]（publisher）
-- [[Tsuyokiss Chronicle ~Complete~ Download Edition]]（developer）
-- [[Tsuyokiss Chronicle ~Complete~ Download Edition]]（publisher）
-- [[Tsuyokiss Chronicle ~Complete~ Download Edition（CandySoft）]]（developer）
-- [[Tsuyokiss Chronicle ~Complete~ Download Edition（CandySoft）]]（publisher）
-- [[Tsuyokiss Chronicle ~Complete~ First Press Edition]]（developer）
-- [[Tsuyokiss Chronicle ~Complete~ First Press Edition]]（publisher）
-- [[Tsuyokiss Chronicle ~Complete~ First Press Edition（CandySoft）]]（developer）
-- [[Tsuyokiss Chronicle ~Complete~ First Press Edition（CandySoft）]]（publisher）
-- [[Tsuyokiss Chronicle ~Complete~ Regular Edition]]（developer）
-- [[Tsuyokiss Chronicle ~Complete~ Regular Edition]]（publisher）
-- [[Tsuyokiss Chronicle ~Complete~ Regular Edition（CandySoft）]]（developer）
-- [[Tsuyokiss Chronicle ~Complete~ Regular Edition（CandySoft）]]（publisher）
-- [[Tsuyokiss Festival - Download Edition]]（developer）
-- [[Tsuyokiss Festival - Download Edition]]（publisher）
-- [[Tsuyokiss Festival - First Press Edition]]（developer）
-- [[Tsuyokiss Festival - First Press Edition]]（publisher）
-- [[Tsuyokiss Festival - Regular Edition]]（developer）
-- [[Tsuyokiss Festival - Regular Edition]]（publisher）
-- [[Tsuyokiss NEXT - Download Edition]]（developer）
-- [[Tsuyokiss NEXT - Download Edition]]（publisher）
-- [[Tsuyokiss NEXT - First Press Edition]]（developer）
-- [[Tsuyokiss NEXT - First Press Edition]]（publisher）
-- [[Tsuyokiss NEXT - Regular Edition]]（developer）
-- [[Tsuyokiss NEXT - Regular Edition]]（publisher）
-- [[Tsuyokiss NEXT - Trial Edition]]（developer）
-- [[Tsuyokiss NEXT - Trial Edition]]（publisher）
-- [[Tsuyokiss NEXT Generation ~Next + Festival~ Download Edition]]（developer）
-- [[Tsuyokiss NEXT Generation ~Next + Festival~ Download Edition]]（publisher）
-- [[Tsuyokiss NEXT Generation ~Next + Festival~ Download Edition（CandySoft）]]（developer）
-- [[Tsuyokiss NEXT Generation ~Next + Festival~ Download Edition（CandySoft）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Tsuyokiss Next Generation ~Next + Festival~ First Press Edition]]（publisher）
+- [[发行版/Tsuyokiss Next Generation ~Next + Festival~ First Press Edition（CandySoft）]]（publisher）
+- [[发行版/Tsuushinbo ~Mama ni mo Naisho no Jikanwari~ Download Edition]]（publisher）
+- [[发行版/Tsuyokiss Next Generation ~Next + Festival~ First Press Edition]]（developer）
+- [[发行版/Tsuyokiss Next Generation ~Next + Festival~ First Press Edition（CandySoft）]]（developer）
 - [[Tsuyokiss Next Generation ~Next + Festival~ First Press Edition]]（developer）
 - [[Tsuyokiss Next Generation ~Next + Festival~ First Press Edition]]（publisher）
 - [[Tsuyokiss Next Generation ~Next + Festival~ First Press Edition（CandySoft）]]（developer）
 - [[Tsuyokiss Next Generation ~Next + Festival~ First Press Edition（CandySoft）]]（publisher）
-- [[Tsuyokiss Next Generation ~Next + Festival~ Regular Edition]]（developer）
-- [[Tsuyokiss Next Generation ~Next + Festival~ Regular Edition]]（publisher）
-- [[Tsuyokiss Next Generation ~Next + Festival~ Regular Edition（CandySoft）]]（developer）
-- [[Tsuyokiss Next Generation ~Next + Festival~ Regular Edition（CandySoft）]]（publisher）
 - [[つよきす NEXT]]（developer）
 - [[つよきすFESTIVAL]]（developer）<!-- AUTO:END duty -->
 

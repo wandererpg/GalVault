@@ -12,7 +12,7 @@ source_urls:
 # Outu Wa Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[＜Hundun zhi Nao： Noah＞ Chinese Localization&Overhaul Patch]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Chaos;Head Noah - Regular Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -40,7 +40,7 @@ cover_image: "assets/covers/v29689.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Meeting in the Flesh - Demo]]
+<!-- AUTO:BEGIN release -->- [[发行版/Meeting in the Flesh]]
 - [[Meeting in the Flesh]]<!-- AUTO:END release -->
 
 ## 动画化

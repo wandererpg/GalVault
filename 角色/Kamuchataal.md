@@ -30,12 +30,7 @@ portrait_image: "assets/characters/c88333.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Utawarerumono Portable - First Press Limited Edition]]（side）
-- [[Utawarerumono Portable - Regular Edition]]（side）
-- [[Utawarerumono ~Chiriyuku Mono e no Komoriuta~ First Press Limited Edition]]（side）
-- [[Utawarerumono ~Chiriyuku Mono e no Komoriuta~ Regular Edition]]（side）
-- [[Utawarerumono： Chiriyuku Mono e no Komoriuta - Download Edition（Leaf・release：）]]（side）
-- [[Utawarerumono： Chiriyuku Mono e no Komoriuta - Download Edition（Leaf）]]（side）
+<!-- AUTO:BEGIN character -->- [[发行版/Utawarerumono： Chiriyuku Mono e no Komoriuta（Leaf）]]（side）
 - [[Utawarerumono： Chiriyuku Mono e no Komoriuta（Leaf）]]（side）<!-- AUTO:END character -->
 
 ## 声优

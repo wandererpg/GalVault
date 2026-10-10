@@ -12,24 +12,8 @@ source_urls:
 # COMPILE HEART Inc.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Kangokutou Mary Skelter 2 - Download Edition]]（developer）
-- [[Kangokutou Mary Skelter 2 - Download Edition]]（publisher）
-- [[Kangokutou Mary Skelter 2 - Limited Edition]]（developer）
-- [[Kangokutou Mary Skelter 2 - Limited Edition]]（publisher）
-- [[Kangokutou Mary Skelter 2 - Regular Edition]]（developer）
-- [[Kangokutou Mary Skelter 2 - Regular Edition]]（publisher）
-- [[Kangokutou Mary Skelter 2 for Nintendo Switch - Download Edition]]（developer）
-- [[Kangokutou Mary Skelter 2 for Nintendo Switch - Download Edition]]（publisher）
-- [[Kangokutou Mary Skelter 2 for Nintendo Switch - Limited Edition]]（developer）
-- [[Kangokutou Mary Skelter 2 for Nintendo Switch - Limited Edition]]（publisher）
-- [[Kangokutou Mary Skelter 2 for Nintendo Switch - Regular Edition]]（developer）
-- [[Kangokutou Mary Skelter 2 for Nintendo Switch - Regular Edition]]（publisher）
-- [[Sin-ogtab Mary Skelter 2 - Download Edition]]（developer）
-- [[Sin-ogtab Mary Skelter 2 - Download Edition]]（publisher）
-- [[Sin-ogtab Mary Skelter 2 - Limited Edition]]（developer）
-- [[Sin-ogtab Mary Skelter 2 - Limited Edition]]（publisher）
-- [[Sin-ogtab Mary Skelter 2 - Regular Edition]]（developer）
-- [[Sin-ogtab Mary Skelter 2 - Regular Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Mary Skelter 2（Ghostlight Ltd）]]（developer）
+- [[发行版/Mary Skelter 2（Ghostlight Ltd）]]（publisher）
 - [[神狱塔 断罪玛丽 2]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

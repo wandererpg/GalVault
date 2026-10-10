@@ -13,8 +13,8 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Pale Carnations]]（developer）
-- [[Pale Carnations： Chapter 4 Update 7]]（developer）
-- [[Pale Carnations： Chapter 4 Update 7]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Blednye Gvozdiki Ch.1-4 Up.1-6]]（developer）
+- [[发行版/Blednye Gvozdiki Ch.1-4 Up.1-6]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

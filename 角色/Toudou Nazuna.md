@@ -32,7 +32,7 @@ portrait_image: "assets/characters/c67957.webp"
 ## 出场作品
 <!-- AUTO:BEGIN character -->- [[恋はそっと咲く花のように]]（side）
 - [[恋はそっと咲く花のように～二人は永遠に寄り添っていく～]]（primary）
-- [[＂Zutto Nii-sama ni Yorisotte Itai＂ Patch]]（primary）<!-- AUTO:END character -->
+- [[发行版/Koi wa Sotto Saku Hana no You ni ~Futari wa Eien ni Yorisotte Iku~ Original Work Bundled Edition]]（primary）<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Fujisaki Usa]]（声优：藤咲 ウサ）<!-- AUTO:END voice -->

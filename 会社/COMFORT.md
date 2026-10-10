@@ -13,10 +13,10 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Arcana Famiglia： Vascello Phantasma no Majutsushi - First Press Limited Special Bundle Edition]]（publisher）
-- [[Arcana Famiglia： Vascello Phantasma no Majutsushi - Regular Edition]]（publisher）
+- [[发行版/Arcana Famiglia： Vascello Phantasma no Majutsushi - First Press Limited Special Bundle Edition]]（publisher）
 - [[Mashiro Iro Symphony ＊mutsu-no-hana]]（publisher）
-- [[Mashiro Iro Symphony： ＊mutsu no hana - Limited Edition]]（publisher）
-- [[ef - a fairy tale of the two. - First Press Limited Edition]]（publisher）
+- [[发行版/Mashiro Iro Symphony ＊mutsu-no-hana]]（publisher）
+- [[发行版/ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（publisher）
 - [[ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

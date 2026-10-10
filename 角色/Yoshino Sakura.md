@@ -31,7 +31,7 @@ portrait_image: "assets/characters/c14471.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Fortissimo EXA／／Akkord：Bsusvier - Limited Edition]]（appears）
+<!-- AUTO:BEGIN character -->- [[发行版/Fortissimo EXA／／Akkord：Bsusvier - Regular Edition]]（appears）
 - [[Fortissimo EXA／／Akkord：Bsusvier - Regular Edition]]（appears）
 - [[Kadenz fermata／／Akkord：fortissimo]]（side）
 - [[fortissimo EXS／／Akkord：nächsten Phase]]（appears）<!-- AUTO:END character -->

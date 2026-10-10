@@ -12,7 +12,7 @@ source_urls:
 # Endless pieces Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Relirium - Iseki to Deai to Bouken to]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Relirium - Iseki to Deai to Bouken to - Memorial Special Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

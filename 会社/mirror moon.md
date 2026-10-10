@@ -13,12 +13,9 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Fate／Stay Night ［Realta Nua］ - Ultimate Edition]]（publisher）
-- [[Fate／Stay Night ［Realta Nua］ -Heaven's Feel-（mirror moon）]]（publisher）
-- [[Fate／Stay Night ［Realta Nua］（mirror moon・release：）]]（publisher）
-- [[Fate／Stay Night ［Realta Nua］（mirror moon）]]（publisher）
-- [[Fate／Stay Night（mirror moon）]]（publisher）
-- [[Tsukihime（mirror moon）]]（publisher）
-- [[Utawarerumono]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Fate／Stay Night ［Realta Nua］ - Ultimate Edition]]（publisher）
+- [[发行版/Tsukihime（vndb：r50）]]（publisher）
+- [[发行版/Utawarerumono： Chiriyuku Mono e no Komoriuta（Leaf）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

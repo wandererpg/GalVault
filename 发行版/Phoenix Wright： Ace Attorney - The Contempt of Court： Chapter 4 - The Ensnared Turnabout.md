@@ -1,16 +1,50 @@
 ---
-entity_id: "release:vndb:r41196:work:vndb:work:v5633"
-type: "release"
-display_title: "Phoenix Wright: Ace Attorney - The Contempt of Court: Chapter 4 - The Ensnared Turnabout"
-release_date: "2017-03-22"
+entity_id: release:vndb:r41196:work:vndb:work:v5633
+type: release
+display_title: 'Phoenix Wright: Ace Attorney - The Contempt of Court: Chapter 4 - The Ensnared Turnabout'
+release_date: '2017-03-22'
 is_all_ages: true
-platform: "win, lin, mac"
-edition_type: "partial"
-title_status: "needs_review"
+platform: win, lin, mac
+edition_type: partial
+title_status: needs_review
 source_ids:
-  vndb: "r41196"
+  vndb: r41196
 source_urls:
-  vndb: "https://vndb.org/r41196"
+  vndb: https://vndb.org/r41196
+aliases:
+- Phoenix Wright： Ace Attorney - The Contempt of Court： Chapter 1 - Turnabout Scapegoat
+- Phoenix Wright： Ace Attorney - The Contempt of Court： Chapter 2 - The Haunted Turnabout
+- Phoenix Wright： Ace Attorney - The Contempt of Court： Chapter 3 - Turnabout of the Snow
+consolidated_releases:
+- id: r41196
+  title: 'Phoenix Wright: Ace Attorney - The Contempt of Court: Chapter 4 - The Ensnared Turnabout'
+  url: https://vndb.org/r41196
+  release_date: '2017-03-22'
+  platform: win, lin, mac
+  edition_type: partial
+  is_all_ages: true
+- id: r29743
+  title: 'Phoenix Wright: Ace Attorney - The Contempt of Court: Chapter 3 - Turnabout of the Snow'
+  url: https://vndb.org/r29743
+  release_date: '2013-03-31'
+  platform: win, lin, mac
+  edition_type: partial
+  is_all_ages: true
+- id: r29742
+  title: 'Phoenix Wright: Ace Attorney - The Contempt of Court: Chapter 2 - The Haunted Turnabout'
+  url: https://vndb.org/r29742
+  release_date: '2011-07-08'
+  platform: win, lin, mac
+  edition_type: partial
+  is_all_ages: true
+- id: r10935
+  title: 'Phoenix Wright: Ace Attorney - The Contempt of Court: Chapter 1 - Turnabout Scapegoat'
+  url: https://vndb.org/r10935
+  release_date: '2010-07-28'
+  platform: win, lin, mac
+  edition_type: partial
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Phoenix Wright: Ace Attorney - The Contempt of Court: Chapter 4 - The Ensnared Turnabout

@@ -12,50 +12,17 @@ source_urls:
 # Windmill
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[HHG - Anniversary Pack - Download Edition]]（developer）
-- [[HHG - Anniversary Pack - Download Edition]]（publisher）
-- [[HHG - Anniversary Pack - Download Edition（Windmill）]]（developer）
-- [[HHG - Anniversary Pack - Download Edition（Windmill）]]（publisher）
-- [[HHG - Anniversary Pack]]（developer）
-- [[HHG - Anniversary Pack]]（publisher）
-- [[HHG - Anniversary Pack（Windmill）]]（developer）
-- [[HHG - Anniversary Pack（Windmill）]]（publisher）
-- [[HHG Double Pack]]（developer）
-- [[HHG Double Pack（Windmill）]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/HHG Megami no Shuuen - First Press Limited Edition]]（developer）
+- [[发行版/HHG Megami no Shuuen - First Press Limited Edition]]（publisher）
+- [[发行版/Hyper→Highspeed→Genius]]（developer）
+- [[发行版/Hyper→Highspeed→Genius]]（publisher）
 - [[HHG Megami no Shuuen - First Press Limited Edition]]（developer）
-- [[HHG Megami no Shuuen - First Press Limited Edition（Windmill）]]（developer）
-- [[HHG Megami no Shuuen - First Press Limited Edition（Windmill）]]（publisher）
-- [[HHG Megami no Shuuen - Package Edition]]（developer）
-- [[HHG Megami no Shuuen - Trial Edition]]（developer）
-- [[HHG Megami no Shuuen - Trial Edition]]（publisher）
 - [[HHG 女神の終焉]]（developer）
-- [[Hyper→Highspeed→Genius - Download Edition]]（developer）
-- [[Hyper→Highspeed→Genius - First Press Limited Edition]]（developer）
-- [[Hyper→Highspeed→Genius - First Press Limited Edition]]（publisher）
-- [[Hyper→Highspeed→Genius - Genius Pack - Download Edition]]（developer）
-- [[Hyper→Highspeed→Genius - Genius Pack - Download Edition]]（publisher）
-- [[Hyper→Highspeed→Genius - Genius Pack]]（developer）
-- [[Hyper→Highspeed→Genius - Genius Pack]]（publisher）
-- [[Hyper→Highspeed→Genius - Limited Edition]]（developer）
-- [[Hyper→Highspeed→Genius - Regular Edition]]（developer）
-- [[Hyper→Highspeed→Genius - Regular Edition]]（publisher）
-- [[Hyper→Highspeed→Genius - Trial Edition - Genius Ikusei Kikan ＂Hazuki Gakuen Taiken Nyuugaku＂ Hen]]（developer）
-- [[Hyper→Highspeed→Genius - Trial Edition - Genius Ikusei Kikan ＂Hazuki Gakuen Taiken Nyuugaku＂ Hen]]（publisher）
-- [[Hyper→Highspeed→Genius - Trial Edition - Hatsubai Chokuzen no Otanoshimi ＂Ecchi na Taiken＂ Hen]]（developer）
-- [[Hyper→Highspeed→Genius - Trial Edition - Hatsubai Chokuzen no Otanoshimi ＂Ecchi na Taiken＂ Hen]]（publisher）
-- [[Hyper→Highspeed→Genius - Trial Edition - Kaichou Kouho ＂Hazuki Suina to Satsuki Gakuen＂ Hen - Modified Version]]（developer）
-- [[Hyper→Highspeed→Genius - Trial Edition - Kaichou Kouho ＂Hazuki Suina to Satsuki Gakuen＂ Hen - Modified Version]]（publisher）
-- [[Hyper→Highspeed→Genius - Trial Edition - Kaichou Kouho ＂Sakura Windsor to Sei July Gakuen＂ Hen - Modified Version]]（developer）
-- [[Hyper→Highspeed→Genius - Trial Edition - Kaichou Kouho ＂Sakura Windsor to Sei July Gakuen＂ Hen - Modified Version]]（publisher）
-- [[Hyper→Highspeed→Genius - Trial Edition - Kaichou Kouho ＂Shiguresato Himeno to Minazuki Gakuen＂ Hen - Modified Version]]（developer）
-- [[Hyper→Highspeed→Genius - Trial Edition - Kaichou Kouho ＂Shiguresato Himeno to Minazuki Gakuen＂ Hen - Modified Version]]（publisher）
 - [[Hyper→Highspeed→Genius]]（developer）
-- [[Unlucky Re：Birth／Reverse - Download Edition]]（developer）
-- [[Unlucky Re：Birth／Reverse - Download Edition]]（publisher）
+- [[发行版/Unlucky Re：Birth／Reverse - First Press Limited Edition]]（developer）
+- [[发行版/Unlucky Re：Birth／Reverse - First Press Limited Edition]]（publisher）
 - [[Unlucky Re：Birth／Reverse - First Press Limited Edition]]（developer）
 - [[Unlucky Re：Birth／Reverse - First Press Limited Edition]]（publisher）
-- [[Unlucky Re：Birth／Reverse - Trial Edition]]（developer）
-- [[Unlucky Re：Birth／Reverse - Trial Edition]]（publisher）
 - [[アンラッキーリバース]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

@@ -12,8 +12,8 @@ source_urls:
 # DriftyGames
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Leap of Faith - Demo]]（developer）
-- [[Leap of Faith - Demo]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/«Sila Very»]]（developer）
+- [[发行版/«Sila Very»]]（publisher）
 - [[Leap of Faith]]（developer）
 - [[Leap of Faith]]（publisher）<!-- AUTO:END duty -->
 

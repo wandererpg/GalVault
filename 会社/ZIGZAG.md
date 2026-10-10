@@ -14,10 +14,8 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Kurai Nichiyoubi - Sombre Dimanche - Download Edition]]（developer）
 - [[Kurai Nichiyoubi - Sombre Dimanche - Download Edition]]（publisher）
-- [[Kurai Nichiyoubi - Sombre Dimanche - Trial Edition]]（developer）
-- [[Kurai Nichiyoubi - Sombre Dimanche - Trial Edition]]（publisher）
-- [[Kurai Nichiyoubi -Sombre Dimanche- Package Edition]]（developer）
-- [[Kurai Nichiyoubi -Sombre Dimanche- Package Edition]]（publisher）
+- [[发行版/Kurai Nichiyoubi - Sombre Dimanche - Download Edition]]（developer）
+- [[发行版/Kurai Nichiyoubi - Sombre Dimanche - Download Edition]]（publisher）
 - [[暗い日曜日－Sombre　Dimanche－]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

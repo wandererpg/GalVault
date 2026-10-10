@@ -12,13 +12,12 @@ source_urls:
 # Crow-kun Studio
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[REZONANS ／／ EPIZOD I - ASAT (DEMO)]]（developer）
-- [[REZONANS ／／ EPIZOD I - ASAT (DEMO)]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/REZONANS ／／ EPIZOD I - ASAT (TIZER)]]（developer）
+- [[发行版/REZONANS ／／ EPIZOD I - ASAT (TIZER)]]（publisher）
 - [[REZONANS ／／ EPIZOD I - ASAT (TIZER)]]（developer）
 - [[REZONANS ／／ EPIZOD I - ASAT (TIZER)]]（publisher）
 - [[REZONANS]]（developer）
-- [[Resonance 0]]（developer）
-- [[Resonance 0]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

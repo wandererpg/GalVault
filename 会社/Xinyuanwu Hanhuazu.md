@@ -12,37 +12,33 @@ source_urls:
 # Xinyuanwu Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Amayui Castle Meister]]（publisher）
-- [[He Mama Lai Yichang Mierbuxuan De Xingai Ba]]（publisher）
-- [[Huise de Guoshi]]（publisher）
-- [[Huise de Leyuan - FHD]]（publisher）
-- [[Huise de Leyuan]]（publisher）
-- [[Jiejie de Tuijian ~Jiejie de Ezuoju Xingshenghuo~]]（publisher）
-- [[Kajuu 100%（Xinyuanwu Hanhuazu）]]（publisher）
-- [[Love×Holic ~Miren de Shaonü yu Baizhuo de Guanxi~]]（publisher）
-- [[Mu Lanman]]（publisher）
-- [[Niizuma Lovely x Cation（Xinyuanwu Hanhuazu）]]（publisher）
-- [[PURELY x CATION]]（publisher）
-- [[Qi Guanyan]]（publisher）
-- [[Qianlian ＊ Wanhua]]（publisher）
-- [[Quanbu! Huaiyun! Chaoseqing Baoru ▼ APP Xueyuan]]（publisher）
-- [[Reminiscence（Xinyuanwu Hanhuazu）]]（publisher）
-- [[Ren Zhen He Wo Tan Lian Ai]]（publisher）
-- [[Shencai Lianjin Mingjiang]]（publisher）
-- [[Shuizang Yin Huo De Istria（Xinyuanwu Hanhuazu）]]（publisher）
-- [[Suiren yu Shion]]（publisher）
-- [[Sumaga（Xinyuanwu Hanhuazu）]]（publisher）
-- [[Tianmi Nüyou 2（Xinyuanwu Hanhuazu）]]（publisher）
-- [[Unionism Quartet（Xinyuanwu Hanhuazu）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Amayui Castle Meister - Guarakuuna Jousai Expansion Disc - Package Edition]]（publisher）
+- [[发行版/Mamagoto ~Mama to Naisho no Ecchi Shimasho~]]（publisher）
+- [[发行版/The Grisaia Trilogy]]（publisher）
+- [[发行版/The Grisaia Trilogy（PROTOTYPE・release：）]]（publisher）
+- [[发行版/Nee-chan no Susume ~Onee-chan no Itazura Seiseikatsu~ Download Edition]]（publisher）
+- [[发行版/Kajuu 100% - Download Edition]]（publisher）
+- [[发行版/Love×Holic ~Miwaku no Otome to Hakudaku Kankei~]]（publisher）
+- [[发行版/Haha Ranman - Download Edition]]（publisher）
+- [[发行版/Niizuma Lovely x Cation - First Press Limited Edition]]（publisher）
+- [[发行版/PURELY×CATION - First Press Limited Edition]]（publisher）
+- [[发行版/Tsuma Shibori - Low Price Edition]]（publisher）
+- [[发行版/Senren ＊ Banka - Package Edition]]（publisher）
+- [[发行版/Motto! Haramase! Honoo no Oppai Chou Ero ♡ Appli Gakuen! - Download Edition]]（publisher）
+- [[发行版/Reminiscence - Collector's Edition]]（publisher）
+- [[发行版/BugBug 200 Anniversary DVD MiniMini AVG Collection Part 1（Minato Soft）]]（publisher）
+- [[发行版/Kamidori Alchemy Meister Append Disk - Hanna-san no Junrei Ryokouki - Download Edition]]（publisher）
+- [[发行版/Suisou Ginka no Istoria - Download Edition]]（publisher）
+- [[发行版/Suiren to Shion - Download Edition]]（publisher）
+- [[发行版/Sumaga - Special Limited Edition]]（publisher）
+- [[发行版/Amakano 2 - Renewal Package Edition - DVDPG]]（publisher）
+- [[发行版/Unionism Quartet - Reservation Privilege Harem Patch]]（publisher）
 - [[VenusBlood -HYPNO-]]（publisher）
-- [[Xin Qi Lovely Cation]]（publisher）
-- [[Yanzhiyun Wode Oupai ★ Ouxiang Xueyuan Z]]（publisher）
-- [[Yinse Yaoyuan - Trial Edition]]（publisher）
-- [[Yinse Yaoyuan]]（publisher）
-- [[Yinse Yaoyuan（Xinyuanwu Hanhuazu）]]（publisher）
-- [[Yome Sagashi ga Hakadori Sugite Yabai]]（publisher）
-- [[Zai Yue zhi Bi'an Xiehou ~Tianmi de Xiari Caihong~]]（publisher）
-- [[Zai Yue zhi Bi'an Xiehou（Xinyuanwu Hanhuazu）]]（publisher）
+- [[发行版/Honoo no Haramase Paidol My ★ Star Gakuen Z - First Press Limited Edition]]（publisher）
+- [[发行版/Gin'iro, Haruka（Tsurezure Scans）]]（publisher）
+- [[发行版/Yome Sagashi ga Hakadorisugite Yabai. - Download Edition]]（publisher）
+- [[发行版/Tsuki no Kanata de Aimashou： Sweet Summer Rainbow - Rein-chan Oyome-san Pack]]（publisher）
+- [[发行版/Tsuki no Kanata de Aimashou - Regular Edition（tone work's）]]（publisher）
 - [[Zhen Lianji Wushuang]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

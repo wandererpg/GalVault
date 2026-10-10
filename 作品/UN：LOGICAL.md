@@ -92,12 +92,9 @@ cover_image: "assets/covers/v51912.webp"
 - [[Yotsuya Cider]]（興津 和幸）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[UN：LOGICAL DLC - After Episode Collection Vol.1]]
+<!-- AUTO:BEGIN release -->- [[发行版/UN：LOGICAL DLC - After Episode Collection Vol.2]]
 - [[UN：LOGICAL DLC - After Episode Collection Vol.2]]
-- [[UN：LOGICAL Download Edition]]
-- [[UN：LOGICAL Limited Revelation BOX]]
-- [[UN：LOGICAL Standard Edition]]
-- [[UN：LOGICAL Trial Edition]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -12,8 +12,8 @@ source_urls:
 # Mogu Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[D.C.II.P.C ～Chuyin Dao 2 P.C～ V0.91 Chinese Test Patch]]（publisher）
-- [[D.C.Ⅱ Chinese Patch - Final Public Test Edition]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/D.C. II P.C. ~Da Capo II~ Plus Communication - Regular Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

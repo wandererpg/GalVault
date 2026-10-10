@@ -1,16 +1,50 @@
 ---
-entity_id: "release:vndb:r152603:work:vndb:work:v26008"
-type: "release"
-display_title: "Like x Love ~Totsukawa Hikaru~ DVDPG"
-release_date: "2021-09-24"
+entity_id: release:vndb:r152603:work:vndb:work:v26008
+type: release
+display_title: Like x Love ~Totsukawa Hikaru~ DVDPG
+release_date: '2021-09-24'
 is_all_ages: false
-platform: "dvd"
-edition_type: "complete"
-title_status: "needs_review"
+platform: dvd
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r152603"
+  vndb: r152603
 source_urls:
-  vndb: "https://vndb.org/r152603"
+  vndb: https://vndb.org/r152603
+aliases:
+- Like x Love ~Totsukawa Hikaru~ Download Edition
+- Like x Love ~Totsukawa Hikaru~ Package Edition
+- LIKE×LOVE ~Totsukawa Hikaru~ the BEST DVDPG
+consolidated_releases:
+- id: r152603
+  title: Like x Love ~Totsukawa Hikaru~ DVDPG
+  url: https://vndb.org/r152603
+  release_date: '2021-09-24'
+  platform: dvd
+  edition_type: complete
+  is_all_ages: false
+- id: r64374
+  title: Like x Love ~Totsukawa Hikaru~ Download Edition
+  url: https://vndb.org/r64374
+  release_date: '2019-08-30'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r64373
+  title: Like x Love ~Totsukawa Hikaru~ Package Edition
+  url: https://vndb.org/r64373
+  release_date: '2019-08-30'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r152583
+  title: LIKE×LOVE ~Totsukawa Hikaru~ the BEST DVDPG
+  url: https://vndb.org/r152583
+  release_date: '2023-08-25'
+  platform: dvd
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Like x Love ~Totsukawa Hikaru~ DVDPG

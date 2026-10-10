@@ -112,12 +112,9 @@ cover_image: "assets/covers/v12186.webp"
 - [[Udaka Naru]]（羽高 なる）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[BUNNYBLACK3 - Download Edition]]
-- [[BUNNYBLACK3 - Trial Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/BUNNYBLACK3]]
 - [[BUNNYBLACK3]]
-- [[Bunny Black 3 - English Interface Patch]]
-- [[Bunny Black 3 Regular Chinese Patch]]
-- [[Bunny Black 3]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

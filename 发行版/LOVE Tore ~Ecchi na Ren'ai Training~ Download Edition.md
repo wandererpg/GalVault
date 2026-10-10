@@ -1,16 +1,50 @@
 ---
-entity_id: "release:vndb:r45786:work:vndb:work:v18924"
-type: "release"
-display_title: "LOVE Tore ~Ecchi na Ren'ai Training~ Download Edition"
-release_date: "2016-02-26"
+entity_id: release:vndb:r45786:work:vndb:work:v18924
+type: release
+display_title: LOVE Tore ~Ecchi na Ren'ai Training~ Download Edition
+release_date: '2016-02-26'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r45786"
+  vndb: r45786
 source_urls:
-  vndb: "https://vndb.org/r45786"
+  vndb: https://vndb.org/r45786
+aliases:
+- LOVE Tore ~Ecchi na Ren'ai Training~
+- LOVE Tore ~Ecchi na Ren'ai Training~ Package Edition
+- LOVE Tore ~Ecchi na Ren'ai Training~ Trial Edition
+consolidated_releases:
+- id: r45786
+  title: LOVE Tore ~Ecchi na Ren'ai Training~ Download Edition
+  url: https://vndb.org/r45786
+  release_date: '2016-02-26'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r44853
+  title: LOVE Tore ~Ecchi na Ren'ai Training~ Package Edition
+  url: https://vndb.org/r44853
+  release_date: '2016-02-26'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r116294
+  title: LOVE Tore ~Ecchi na Ren'ai Training~
+  url: https://vndb.org/r116294
+  release_date: '2022'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r45010
+  title: LOVE Tore ~Ecchi na Ren'ai Training~ Trial Edition
+  url: https://vndb.org/r45010
+  release_date: '2016-02-12'
+  platform: win
+  edition_type: trial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # LOVE Tore ~Ecchi na Ren'ai Training~ Download Edition

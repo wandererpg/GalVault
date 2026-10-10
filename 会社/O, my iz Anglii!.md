@@ -12,7 +12,7 @@ source_urls:
 # O, my iz Anglii!
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Danganronpa v3： Ubijstvennaja garmonija Chapters 1-6（O, my iz Anglii!）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Danganronpa Decadence - EU Package Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

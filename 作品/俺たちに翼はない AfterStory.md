@@ -107,10 +107,9 @@ cover_image: "assets/covers/v3194.webp"
 - [[Yuuki Serika]]（沢村 かすみ）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Ore-tachi ni Tsubasa wa Nai AfterStory - Limited Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Ore-tachi ni Tsubasa wa Nai Prelude & AfterStory - Download Edition]]
 - [[Ore-tachi ni Tsubasa wa Nai Prelude & AfterStory - Download Edition]]
-- [[Ore-tachi ni Tsubasa wa Nai Prelude & AfterStory]]
-- [[Women Meiyou Chibang after story]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

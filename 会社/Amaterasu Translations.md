@@ -11,13 +11,11 @@ source_urls:
 # Amaterasu Translations
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Cross†Channel Tower of Friends]]（publisher）
-- [[Cross†Channel（Amaterasu Translations）]]（publisher）
-- [[Muv-Luv Alternative]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Cross†Channel ~To All People~ Regular Edition]]（publisher）
+- [[发行版/Muv-Luv Alternative - Steam Edition]]（publisher）
 - [[Rewrite]]（publisher）
-- [[Sekien no Inganock - Inganock of the Brightest Flame - Fullvoice ReBORN]]（publisher）
-- [[Sekien no Inganock - Inganock of the Brightest Flame]]（publisher）
-- [[Shirotsume Souwa - Chapter 1]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Inganock of the Raging Flame： What a Beautiful People - Censored Edition]]（publisher）
+- [[发行版/Shirotsume Souwa -Episode of the Clovers- First Press Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

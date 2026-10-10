@@ -1,13 +1,21 @@
 ---
-entity_id: "vndb:work:v62451"
-type: "work"
-display_title: "Danganronpa: Gods at Gunpoint"
-title_status: "unresolved"
+entity_id: vndb:work:v62451
+type: work
+display_title: 'Danganronpa: Gods at Gunpoint'
+title_status: unresolved
 source_ids:
-  vndb: "v62451"
+  vndb: v62451
 source_urls:
-  vndb: "https://vndb.org/v62451"
-cover_image: "assets/covers/v62451.webp"
+  vndb: https://vndb.org/v62451
+cover_image: assets/covers/v62451.webp
+vndb_title: 'Danganronpa: Gods at Gunpoint'
+vndb_content_updated: '2026-10-10'
+title_en: 'Danganronpa: Gods at Gunpoint'
+vndb_vote_count: 0
+vndb_length: 1
+vndb_languages: []
+vndb_platforms: []
+vndb_devstatus: 2
 ---
 
 # Danganronpa: Gods at Gunpoint
@@ -36,10 +44,20 @@ cover_image: "assets/covers/v62451.webp"
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
 
 ## 关联作品
-<!-- AUTO:BEGIN relation -->- [[弹丸论破 希望的学园与绝望的高中生]]（ser）<!-- AUTO:END relation -->
+<!-- AUTO:BEGIN relation -->
+- [[弹丸论破 希望的学园与绝望的高中生]]（ser）
+- [[作品/弹丸论破 希望的学园与绝望的高中生|Dangan Ronpa: Kibou no Gakuen to Zetsubou no Koukousei]]（ser）
+<!-- AUTO:END relation -->
 
 ## 标签
-<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+<!-- AUTO:BEGIN tag -->
+- [ADV](https://vndb.org/g32)
+<!-- AUTO:END tag -->
 
 ## 来源
 <!-- AUTO:BEGIN provenance -->vndb:v62451<!-- AUTO:END provenance -->
+
+
+## VNDB 资料来源
+
+[VNDB：v62451](https://vndb.org/v62451)，补全于 2026-10-10。

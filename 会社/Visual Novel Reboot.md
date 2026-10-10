@@ -12,8 +12,8 @@ source_urls:
 # Visual Novel Reboot
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[NUKITASHI - Demo]]（publisher）
-- [[Nukitashi（Visual Novel Reboot）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/NUKITASHI]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

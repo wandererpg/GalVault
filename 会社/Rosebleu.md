@@ -12,17 +12,10 @@ source_urls:
 # Rosebleu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Tiny Dungeon BoS (Final Volume)]]（developer）
-- [[Tiny Dungeon BoS (Final Volume)]]（publisher）
-- [[Tiny Dungeon Collection BOX]]（developer）
-- [[Tiny Dungeon Collection BOX]]（publisher）
-- [[Tiny Dungeon Harem Set]]（developer）
-- [[Tiny Dungeon Harem Set]]（publisher）
-- [[Tiny Dungeon ~BRAVE or SLAVE~ Trial Edition]]（developer）
-- [[Tiny Dungeon ~BRAVE or SLAVE~ Trial Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Tiny Dungeon ~BoS (Final Volume)~]]（developer）
+- [[发行版/Tiny Dungeon ~BoS (Final Volume)~]]（publisher）
 - [[Tiny Dungeon ~BRAVE or SLAVE~]]（developer）
 - [[Tiny Dungeon ~BRAVE or SLAVE~]]（publisher）
-- [[Tiny Dungeon ~BRAVE or SLAVE~（Moe App）]]（developer）
 - [[Tiny Dungeon ~BoS (Final Volume)~]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

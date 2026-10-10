@@ -12,8 +12,8 @@ source_urls:
 # Atelier Traduction
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ar Tonelico II ~Sekai ni Hibiku Shoujo-tachi no Metafalica~]]（publisher）
-- [[Ciel Nosurge Offline ~Ushinawareta Hoshi e Sasagu Uta~（Atelier Traduction）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Ar Tonelico II： Sekai ni Hibiku Shoujo-tachi no Metafalica (PlayStation 2 the Best)]]（publisher）
+- [[发行版/Surge Concerto DX - Agent Pack Code： Gold／. with 7Dgate Connection Bundle（Koei Tecmo Holdings Co., Ltd・release：）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

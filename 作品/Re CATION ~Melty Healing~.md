@@ -61,13 +61,9 @@ cover_image: "assets/covers/v27456.webp"
 - [[Moriya Kokoro]]（森谷 こころ）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Natsu Mankitsu! Mizugi Append]]
-- [[Re CATION ~Melty Healing~ Download Edition]]
-- [[Re CATION ~Melty Healing~ First Press Edition]]
-- [[Re CATION ~Melty Healing~ Trial Edition]]
-- [[Re CATION ~Melty Healing~]]
+<!-- AUTO:BEGIN release -->- [[发行版/Re CATION ~Melty Healing~（HTranslations）]]
 - [[Re CATION ~Melty Healing~（HTranslations）]]
-- [[Rongxin Huixiang ~Yuyu Youxiang~]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

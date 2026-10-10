@@ -12,8 +12,8 @@ source_urls:
 # kuroneko
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Hana Awase ~Mizuchi Hen~（kuroneko）]]（publisher）
-- [[Piofiore - Epizod 1926 Demo]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Hana Awase Saku - Complete Set]]（publisher）
+- [[发行版/Piofiore no Banshou -Episodio 1926- Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

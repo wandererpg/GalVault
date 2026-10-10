@@ -12,18 +12,11 @@ source_urls:
 # raiL-soft
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Albatross Koukairoku - Download Edition]]（developer）
-- [[Albatross Koukairoku - Trial Edition]]（developer）
-- [[Albatross Koukairoku]]（developer）
-- [[Bengarachou Hakubutsushi - Download Edition]]（developer）
-- [[Bengarachou Hakubutsushi - Trial Edition]]（developer）
-- [[Bengarachou Hakubutsushi]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Liar-soft Selection 16 - Albatross Koukairoku]]（developer）
+- [[发行版/Liar-soft Selection 14 - Bengarachou Hakubutsushi]]（developer）
 - [[Hanachirutani Sanjinkou - Download Edition]]（developer）
-- [[Hanachirutani Sanjinkou - Trial Edition]]（developer）
-- [[Hanachirutani Sanjinkou]]（developer）
-- [[Kagerou Touryuuki - Download Edition]]（developer）
-- [[Kagerou Touryuuki - Trial Edition]]（developer）
-- [[Kagerou Touryuuki]]（developer）
+- [[发行版/Hanachirutani Sanjinkou - Download Edition]]（developer）
+- [[发行版/Liar-soft Selection 12 - Kagerou Touryuuki]]（developer）
 - [[Liar-soft Selection 12 - Kagerou Touryuuki]]（developer）
 - [[Liar-soft Selection 14 - Bengarachou Hakubutsushi]]（developer）
 - [[Liar-soft Selection 16 - Albatross Koukairoku]]（developer）

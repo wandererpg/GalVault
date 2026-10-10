@@ -12,7 +12,7 @@ source_urls:
 # Makura Castle
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Xiangrikui de Jiaohui yu Changchangde Shujia]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Himawari no Kyoukai to Nagai Natsuyasumi -extra vacation- First Press Limited Edition（Kero Makura）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -30,8 +30,8 @@ portrait_image: "assets/characters/c42615.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Blackish House Side A→ - Regular Edition]]（side）
-- [[Blackish House ←sideZ - Regular Edition]]（primary）<!-- AUTO:END character -->
+<!-- AUTO:BEGIN character -->- [[发行版/Blackish House sideA→ -Retour-（Justdan）]]（side）
+- [[发行版/Blackish House sideA→ -Retour-（Justdan）]]（primary）<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Kimura Ryouhei]]（声优：木村 良平）<!-- AUTO:END voice -->

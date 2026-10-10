@@ -31,7 +31,7 @@ portrait_image: "assets/characters/c53706.webp"
 
 ## 出场作品
 <!-- AUTO:BEGIN character -->- [[Getsuei no Kusari -Kyouran Moratorium- First Press Limited Edition]]（primary）
-- [[Getsuei no Kusari -Kyouran Moratorium- Regular Edition]]（primary）<!-- AUTO:END character -->
+- [[发行版/Getsuei no Kusari -Kyouran Moratorium- First Press Limited Edition]]（primary）<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Satou Takuya]]（声优：佐藤 拓也）<!-- AUTO:END voice -->

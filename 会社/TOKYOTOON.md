@@ -12,7 +12,7 @@ source_urls:
 # TOKYOTOON
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[The Princess, the Stray Cat, and Matters of the Heart 2 Demo]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/The Princess, the Stray Cat, and Matters of the Heart 2（Fruitbat Factory）]]（publisher）
 - [[The Princess, the Stray Cat, and Matters of the Heart 2（Fruitbat Factory）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

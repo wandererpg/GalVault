@@ -12,9 +12,9 @@ source_urls:
 # Dir-A
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Bairimeng de Gouxiangtu]]（publisher）
-- [[Nanairo Reincarnation - Uncensor Patch]]（publisher）
-- [[Sekai de Ichiban Dame na Koi - Uncensor Patch]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Hakuchuumu no Aojashin - Censored Edition]]（publisher）
+- [[发行版/Nanairo Reincarnation Akeiro Kaikitan Multi-pack]]（publisher）
+- [[发行版/Sekai de Ichiban Dame na Koi Full House - Regular Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

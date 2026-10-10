@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r25946:work:vndb:work:v3987"
-type: "release"
-display_title: "Shin Koihime † Musou ~Moeshouden~ Download Edition"
-release_date: "2012-06-01"
+entity_id: release:vndb:r25946:work:vndb:work:v3987
+type: release
+display_title: Shin Koihime † Musou ~Moeshouden~ Download Edition
+release_date: '2012-06-01'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r25946"
+  vndb: r25946
 source_urls:
-  vndb: "https://vndb.org/r25946"
+  vndb: https://vndb.org/r25946
+aliases:
+- Shin Koihime † Musou - Collector's Box（BaseSon）
+- Shin Koihime † Musou ~Moeshouden~
+consolidated_releases:
+- id: r25946
+  title: Shin Koihime † Musou ~Moeshouden~ Download Edition
+  url: https://vndb.org/r25946
+  release_date: '2012-06-01'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r37009
+  title: Shin Koihime † Musou - Collector's Box
+  url: https://vndb.org/r37009
+  release_date: '2014-12-19'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r7743
+  title: Shin Koihime † Musou ~Moeshouden~
+  url: https://vndb.org/r7743
+  release_date: '2010-07-23'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Shin Koihime † Musou ~Moeshouden~ Download Edition

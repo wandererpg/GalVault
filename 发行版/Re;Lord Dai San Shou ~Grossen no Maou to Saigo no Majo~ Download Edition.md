@@ -1,16 +1,74 @@
 ---
-entity_id: "release:vndb:r67043:work:vndb:work:v20854"
-type: "release"
-display_title: "Re;Lord Dai San Shou ~Grossen no Maou to Saigo no Majo~ Download Edition"
-release_date: "2017-08-04"
+entity_id: release:vndb:r67043:work:vndb:work:v20854
+type: release
+display_title: Re;Lord Dai San Shou ~Grossen no Maou to Saigo no Majo~ Download Edition
+release_date: '2017-08-04'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r67043"
+  vndb: r67043
 source_urls:
-  vndb: "https://vndb.org/r67043"
+  vndb: https://vndb.org/r67043
+aliases:
+- Re;Lord 3 ~The demon lord of Groessen and the final witch~
+- Re;Lord Dai San Shou ~Grossen no Maou to Saigo no Majo~
+- Re;Lord Dai San Shou ~Grossen no Maou to Saigo no Majo~ - Interface Patch
+- Re;Lord Dai San Shou ~Grossen no Maou to Saigo no Majo~（Escu：de）
+- Re;Lord： Yakusai no Majo Hen - Zen San Shou Package
+- Re;Lord： Yakusai no Majo Hen - Zen San Shou Package - Download Edition
+consolidated_releases:
+- id: r67043
+  title: Re;Lord Dai San Shou ~Grossen no Maou to Saigo no Majo~ Download Edition
+  url: https://vndb.org/r67043
+  release_date: '2017-08-04'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r67073
+  title: 'Re;Lord: Yakusai no Majo Hen - Zen San Shou Package - Download Edition'
+  url: https://vndb.org/r67073
+  release_date: '2017-11-17'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r50533
+  title: Re;Lord Dai San Shou ~Grossen no Maou to Saigo no Majo~
+  url: https://vndb.org/r50533
+  release_date: '2017-07-28'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r50534
+  title: 'Re;Lord: Yakusai no Majo Hen - Zen San Shou Package'
+  url: https://vndb.org/r50534
+  release_date: '2017-07-28'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r80941
+  title: Re;Lord 3 ~The demon lord of Groessen and the final witch~
+  url: https://vndb.org/r80941
+  release_date: '2024-03-29'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r146455
+  title: Re;Lord Dai San Shou ~Grossen no Maou to Saigo no Majo~
+  url: https://vndb.org/r146455
+  release_date: '2017-08-03'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r52891
+  title: Re;Lord Dai San Shou ~Grossen no Maou to Saigo no Majo~ - Interface Patch
+  url: https://vndb.org/r52891
+  release_date: '2017-08-03'
+  platform: win
+  edition_type: partial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Re;Lord Dai San Shou ~Grossen no Maou to Saigo no Majo~ Download Edition

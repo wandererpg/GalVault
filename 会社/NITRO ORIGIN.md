@@ -12,11 +12,9 @@ source_urls:
 # NITRO ORIGIN
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Kimi to Kanojo to Kanojo no Koi. - Popular Edition - Download Edition]]（developer）
-- [[Kimi to Kanojo to Kanojo no Koi. - Popular Edition - Download Edition]]（publisher）
-- [[Kimi to Kanojo to Kanojo no Koi. - Popular Edition]]（developer）
-- [[Kimi to Kanojo to Kanojo no Koi. - Popular Edition]]（publisher）
-- [[Phantom PHANTOM OF INFERNO NITRO ARCHIVE]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Ty, ja i ona： Istorija ljubvi - Steam Edition]]（developer）
+- [[发行版/Ty, ja i ona： Istorija ljubvi - Steam Edition]]（publisher）
+- [[发行版/Phantom - Phantom of Inferno - Regular Edition]]（publisher）
 - [[你和她和她的恋爱。]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

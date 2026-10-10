@@ -12,8 +12,8 @@ source_urls:
 # Snowy Ryujin TL
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Snow ~Plus Edition~（Snowy Ryujin TL）]]（publisher）
-- [[Stella of The End（Snowy Ryujin TL）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Snow ~Portable~ Download Edition]]（publisher）
+- [[发行版/Tsui no Stella]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

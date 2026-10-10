@@ -12,7 +12,7 @@ source_urls:
 # Ghost Saint
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Parfait - Chocolat Second Brew]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Parfait ~Chocolat Second Style~ Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

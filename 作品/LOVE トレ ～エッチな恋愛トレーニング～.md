@@ -60,9 +60,8 @@ cover_image: "assets/covers/v18924.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[LOVE Tore ~Ecchi na Ren'ai Training~ Download Edition]]
-- [[LOVE Tore ~Ecchi na Ren'ai Training~ Package Edition]]
-- [[LOVE Tore ~Ecchi na Ren'ai Training~ Trial Edition]]
-- [[LOVE Tore ~Ecchi na Ren'ai Training~]]<!-- AUTO:END release -->
+- [[发行版/LOVE Tore ~Ecchi na Ren'ai Training~ Download Edition]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

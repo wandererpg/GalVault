@@ -12,20 +12,15 @@ source_urls:
 # Otomevn
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Clock Zero ~Shuuen no Ichibyou~ Devote（Otomevn）]]（publisher）
-- [[Code： Realize ~Sousei no Himegimi~（Otomevn）]]（publisher）
-- [[Collar x Malice - Regular Edition（Otomevn）]]（publisher）
-- [[Collar x Malice -Unlimited-（Otomevn）]]（publisher）
-- [[Hakuouki： Edo Blossoms]]（publisher）
-- [[Hakuouki： Kyoto Winds]]（publisher）
-- [[Kokuchou no Psychedelica（Otomevn）]]（publisher）
-- [[TAISHO X ALICE ALL IN ONE]]（publisher）
-- [[Taishou x Alice Epilogue（Otomevn）]]（publisher）
-- [[Taishou x Alice Episode III]]（publisher）
-- [[Taishou x Alice Episode II]]（publisher）
-- [[Taishou x Alice Episode I]]（publisher）
-- [[Vung Kiếm Vì Em]]（publisher）
-- [[Yoshiwara Higanbana（Otomevn）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Clock Zero ~Shuuen no Ichibyou~ ExTime - Regular Edition]]（publisher）
+- [[发行版/Code： Realize ~Saikou no Hanataba~ for Nintendo Switch - Download Edition]]（publisher）
+- [[发行版/Collar x Malice for Nintendo Switch - Download Edition]]（publisher）
+- [[发行版/Collar x Malice for Nintendo Switch - Download Edition（Design Factory Co., Ltd）]]（publisher）
+- [[发行版/Hakuouki Shinkai Fuukaden]]（publisher）
+- [[发行版/Geomeun Nabiui Psychedelica（Idea Factory Co., Ltd）]]（publisher）
+- [[发行版/Dazheng × Duichen Alice  all in one Regular Edition]]（publisher）
+- [[发行版/Ken ga Kimi： Momoyo Tsuzuri - Twinpack]]（publisher）
+- [[发行版/Yoshiwara Higanbana Kuon no Chigiri - Package Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

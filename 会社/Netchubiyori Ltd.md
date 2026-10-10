@@ -13,7 +13,7 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Iriya no Sora, UFO no Natsu I&II Complete Pack]]（developer）
-- [[Iriya no Sora, UFO no Natsu II]]（developer）
+- [[发行版/Iriya no Sora, UFO no Natsu I&II Complete Pack]]（developer）
 - [[イリヤの空、UFOの夏2]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

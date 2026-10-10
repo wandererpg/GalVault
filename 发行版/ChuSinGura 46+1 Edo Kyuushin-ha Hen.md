@@ -1,16 +1,50 @@
 ---
-entity_id: "release:vndb:r22722:work:vndb:work:v11157"
-type: "release"
-display_title: "ChuSinGura 46+1 Edo Kyuushin-ha Hen"
-release_date: "2011-12-31"
+entity_id: release:vndb:r22722:work:vndb:work:v11157
+type: release
+display_title: ChuSinGura 46+1 Edo Kyuushin-ha Hen
+release_date: '2011-12-31'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r22722"
+  vndb: r22722
 source_urls:
-  vndb: "https://vndb.org/r22722"
+  vndb: https://vndb.org/r22722
+aliases:
+- ChuSinGura 46+1 - Download Edition（inre）
+- ChuSinGura 46+1 - First Press Edition（inre）
+- ChuSinGura 46+1 - Regular Edition（inre）
+consolidated_releases:
+- id: r22722
+  title: ChuSinGura 46+1 Edo Kyuushin-ha Hen
+  url: https://vndb.org/r22722
+  release_date: '2011-12-31'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r25974
+  title: ChuSinGura 46+1 - First Press Edition
+  url: https://vndb.org/r25974
+  release_date: '2013-05-31'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r31135
+  title: ChuSinGura 46+1 - Download Edition
+  url: https://vndb.org/r31135
+  release_date: '2013-12-13'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r30063
+  title: ChuSinGura 46+1 - Regular Edition
+  url: https://vndb.org/r30063
+  release_date: '2013-11-29'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # ChuSinGura 46+1 Edo Kyuushin-ha Hen

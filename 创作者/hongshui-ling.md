@@ -12,8 +12,8 @@ source_urls:
 # hongshui-ling
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Undercover： The Red Path]]（publisher）
-- [[Undercover： The Red Path（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Qianfu： Chi Tu]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

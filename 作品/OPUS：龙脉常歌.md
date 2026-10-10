@@ -42,12 +42,8 @@ cover_image: "assets/covers/v36728.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[OPUS： Echo of Starsong - Full Bloom Edition ［Collector's Edition］]]
-- [[OPUS： Echo of Starsong - Full Bloom Edition]]
-- [[OPUS： Echo of Starsong]]
-- [[OPUS： Echo of Starsong（Sigono）]]
-- [[OPUS： Longmai Changge -Zuizhong Ban-]]
-- [[OPUS： Longmai Changge -Zuizhong Ban-（Sigono・release：）]]
-- [[OPUS： Longmai Changge -Zuizhong Ban-（Sigono）]]<!-- AUTO:END release -->
+- [[发行版/OPUS： Echo of Starsong - Full Bloom Edition ［Collector's Edition］]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

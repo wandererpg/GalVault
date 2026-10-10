@@ -80,13 +80,9 @@ cover_image: "assets/covers/v1873.webp"
 - [[Suzumura Ken'ichi]]（鈴村 健一）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Bloody Call - First Press Edition]]
-- [[Bloody Call - First Press Edition（WillPlus）]]
-- [[Bloody Call - First Press Limited Edition]]
-- [[Bloody Call]]
-- [[Krovavyj Zov]]
+<!-- AUTO:BEGIN release -->- [[发行版/unENDing Bloody Call - Limited Edition]]
 - [[unENDing Bloody Call - Limited Edition]]
-- [[unENDing Bloody Call - Regular Edition]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

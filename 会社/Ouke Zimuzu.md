@@ -12,7 +12,7 @@ source_urls:
 # Ouke Zimuzu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Yeliang yu Huangnü yu Liulangmao zhi Xin 2]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/The Princess, the Stray Cat, and Matters of the Heart 2（Fruitbat Factory）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

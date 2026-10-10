@@ -12,10 +12,8 @@ source_urls:
 # throwpup
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Ad Nauseam - The Wrong Side - Adult Patch]]（developer）
-- [[Ad Nauseam - The Wrong Side - Adult Patch]]（publisher）
-- [[Ad Nauseam - The Wrong Side Demo]]（developer）
-- [[Ad Nauseam - The Wrong Side Demo]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Ad Nauseam ［Discs 0-2］]]（developer）
+- [[发行版/Ad Nauseam ［Discs 0-2］]]（publisher）
 - [[Ad Nauseam - The Wrong Side]]（developer）
 - [[Ad Nauseam ［Discs 0-2］]]（developer）
 - [[Ad Nauseam ［Discs 0-2］]]（publisher）<!-- AUTO:END duty -->

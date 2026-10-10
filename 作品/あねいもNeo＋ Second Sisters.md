@@ -66,9 +66,8 @@ cover_image: "assets/covers/v12606.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Aneimo Neo+ ~Second Sisters~ DVDPG]]
-- [[Aneimo Neo+ ~Second Sisters~ Download Edition]]
-- [[Aneimo Neo+ ~Second Sisters~ Package Edition]]
-- [[Aneimo Neo+ ~Second Sisters~ Web Trial Edition]]<!-- AUTO:END release -->
+- [[发行版/Aneimo Neo+ ~Second Sisters~ DVDPG]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

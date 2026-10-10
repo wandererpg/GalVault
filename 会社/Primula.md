@@ -12,45 +12,9 @@ source_urls:
 # Primula
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Dazheng × Duichen Alice  all in one Limited Edition]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Dazheng × Duichen Alice  all in one Regular Edition]]（developer）
 - [[Dazheng × Duichen Alice  all in one Regular Edition]]（developer）
-- [[Dazheng × Duichen Alice  all in one]]（developer）
-- [[Taishou x Alice Epilogue - Download Edition]]（developer）
-- [[Taishou x Alice Epilogue - Download Edition]]（publisher）
-- [[Taishou x Alice Epilogue - Limited Edition]]（developer）
-- [[Taishou x Alice Epilogue - Limited Edition]]（publisher）
-- [[Taishou x Alice Epilogue - Regular Edition]]（developer）
-- [[Taishou x Alice Epilogue - Regular Edition]]（publisher）
-- [[Taishou x Alice Episode 1 - Download Edition]]（developer）
-- [[Taishou x Alice Episode 1 - Download Edition]]（publisher）
-- [[Taishou x Alice Episode 2 - Download Edition]]（developer）
-- [[Taishou x Alice Episode 2 - Download Edition]]（publisher）
-- [[Taishou x Alice Episode 3 - Download Edition]]（developer）
-- [[Taishou x Alice Episode 3 - Download Edition]]（publisher）
-- [[Taishou x Alice Episode I - Limited Edition]]（developer）
-- [[Taishou x Alice Episode I - Limited Edition]]（publisher）
-- [[Taishou x Alice Episode I - Regular Edition]]（developer）
-- [[Taishou x Alice Episode I - Regular Edition]]（publisher）
-- [[Taishou x Alice Episode I - Trial]]（developer）
-- [[Taishou x Alice Episode I - Trial]]（publisher）
-- [[Taishou x Alice Episode II - Limited Edition]]（developer）
-- [[Taishou x Alice Episode II - Limited Edition]]（publisher）
-- [[Taishou x Alice Episode II - Regular Edition]]（developer）
-- [[Taishou x Alice Episode II - Regular Edition]]（publisher）
-- [[Taishou x Alice Episode III - Limited Edition]]（developer）
-- [[Taishou x Alice Episode III - Limited Edition]]（publisher）
-- [[Taishou x Alice Episode III - Regular Edition]]（developer）
-- [[Taishou x Alice Episode III - Regular Edition]]（publisher）
-- [[Taishou x Alice Kagami no Kuni e Youkoso Set]]（developer）
-- [[Taishou x Alice Kagami no Kuni e Youkoso Set]]（publisher）
-- [[Taishou x Alice all in one - Download Edition]]（developer）
-- [[Taishou x Alice all in one - Package Edition]]（developer）
-- [[Taishou x Alice epilogue]]（publisher）
-- [[Taishou x Alice episode 1]]（publisher）
-- [[Taishou x Alice episode 2]]（publisher）
-- [[Taishou x Alice episode 3]]（publisher）
-- [[Taishou x Alice： All in One - Download Edition]]（developer）
-- [[Taishou x Alice： All in One - Package Edition]]（developer）
+- [[发行版/Dazheng × Duichen Alice  all in one Regular Edition]]（publisher）
 - [[大正×对称爱丽丝]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

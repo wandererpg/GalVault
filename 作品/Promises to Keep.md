@@ -46,9 +46,8 @@ cover_image: "assets/covers/v49181.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Promises to Keep - v0.10]]
-- [[Promises to Keep - v0.2.1]]
-- [[Promises to Keep - v0.6]]
-- [[Promises to Keep - v0.8]]<!-- AUTO:END release -->
+- [[发行版/Promises to Keep - v0.10]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -1,16 +1,98 @@
 ---
-entity_id: "release:vndb:r69952:work:vndb:work:v11639"
-type: "release"
-display_title: "Geten no Hana with Yume Akari Aizouban - Download Edition"
-release_date: "2016-09-08"
+entity_id: release:vndb:r69952:work:vndb:work:v11639
+type: release
+display_title: Geten no Hana with Yume Akari Aizouban - Download Edition
+release_date: '2016-09-08'
 is_all_ages: true
-platform: "psv"
-edition_type: "complete"
-title_status: "needs_review"
+platform: psv
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r69952"
+  vndb: r69952
 source_urls:
-  vndb: "https://vndb.org/r69952"
+  vndb: https://vndb.org/r69952
+aliases:
+- Geten no Hana  & Geten no Hana Yume Akari Twin Pack
+- Geten no Hana - Premium Box
+- Geten no Hana - Regular Edition
+- Geten no Hana - Treasure Box
+- Geten no Hana Toki no Uta
+- Geten no Hana with Yume Akari Aizouban
+- Geten no Hana with Yume Akari Aizouban - Platinum Box
+- Geten no Hana with Yume Akari Aizouban - Treasure Box
+- Geten no Hana with Yume Akari Trial Version
+consolidated_releases:
+- id: r69952
+  title: Geten no Hana with Yume Akari Aizouban - Download Edition
+  url: https://vndb.org/r69952
+  release_date: '2016-09-08'
+  platform: psv
+  edition_type: complete
+  is_all_ages: true
+- id: r53267
+  title: Geten no Hana with Yume Akari Aizouban - Treasure Box
+  url: https://vndb.org/r53267
+  release_date: '2016-09-08'
+  platform: psv
+  edition_type: complete
+  is_all_ages: true
+- id: r69951
+  title: Geten no Hana with Yume Akari Aizouban - Platinum Box
+  url: https://vndb.org/r69951
+  release_date: '2016-09-08'
+  platform: psv
+  edition_type: complete
+  is_all_ages: true
+- id: r69953
+  title: Geten no Hana  & Geten no Hana Yume Akari Twin Pack
+  url: https://vndb.org/r69953
+  release_date: '2014-02-27'
+  platform: psp
+  edition_type: complete
+  is_all_ages: true
+- id: r46383
+  title: Geten no Hana with Yume Akari Aizouban
+  url: https://vndb.org/r46383
+  release_date: '2016-09-08'
+  platform: psv
+  edition_type: complete
+  is_all_ages: true
+- id: r24101
+  title: Geten no Hana - Regular Edition
+  url: https://vndb.org/r24101
+  release_date: '2013-03-28'
+  platform: psp
+  edition_type: complete
+  is_all_ages: true
+- id: r25202
+  title: Geten no Hana - Treasure Box
+  url: https://vndb.org/r25202
+  release_date: '2013-03-28'
+  platform: psp
+  edition_type: complete
+  is_all_ages: true
+- id: r44793
+  title: Geten no Hana Toki no Uta
+  url: https://vndb.org/r44793
+  release_date: '2014-01-29'
+  platform: ios, and
+  edition_type: complete
+  is_all_ages: true
+- id: r25203
+  title: Geten no Hana - Premium Box
+  url: https://vndb.org/r25203
+  release_date: '2013-03-28'
+  platform: psp
+  edition_type: complete
+  is_all_ages: true
+- id: r50297
+  title: Geten no Hana with Yume Akari Trial Version
+  url: https://vndb.org/r50297
+  release_date: '2016-08-22'
+  platform: psv
+  edition_type: trial
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Geten no Hana with Yume Akari Aizouban - Download Edition

@@ -1,16 +1,50 @@
 ---
-entity_id: "release:vndb:r138740:work:vndb:work:v57944"
-type: "release"
-display_title: "YKMET: Strade"
-release_date: "2025-07-15"
+entity_id: release:vndb:r138740:work:vndb:work:v57944
+type: release
+display_title: 'YKMET: Strade'
+release_date: '2025-07-15'
 is_all_ages: false
-platform: "win, lin, mac"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win, lin, mac
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r138740"
+  vndb: r138740
 source_urls:
-  vndb: "https://vndb.org/r138740"
+  vndb: https://vndb.org/r138740
+aliases:
+- Vnov' prol'jotsja krov'： Strejd
+- Vnov' prol'jotsja krov'： Strejd（Perevod YKMET： STRADE (18+)・release：）
+- Vnov' prol'jotsja krov'： Strejd（Perevod YKMET： STRADE (18+)）
+consolidated_releases:
+- id: r138740
+  title: 'YKMET: Strade'
+  url: https://vndb.org/r138740
+  release_date: '2025-07-15'
+  platform: win, lin, mac
+  edition_type: complete
+  is_all_ages: false
+- id: r143876
+  title: 'Vnov'' prol''jotsja krov'': Strejd'
+  url: https://vndb.org/r143876
+  release_date: '2025-08-23'
+  platform: win, lin, mac
+  edition_type: complete
+  is_all_ages: false
+- id: r143877
+  title: 'Vnov'' prol''jotsja krov'': Strejd'
+  url: https://vndb.org/r143877
+  release_date: '2025-08-23'
+  platform: web
+  edition_type: complete
+  is_all_ages: false
+- id: r143875
+  title: 'Vnov'' prol''jotsja krov'': Strejd'
+  url: https://vndb.org/r143875
+  release_date: '2025-08-23'
+  platform: and
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # YKMET: Strade

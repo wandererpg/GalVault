@@ -12,8 +12,8 @@ source_urls:
 # Yue zhi Bin Hanhua Zu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Shijie Zhongjie Yu Shengrikuaile]]（publisher）
-- [[Xiangei Zui Buxing de Zai'e zhi Ren]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Owaru Sekai to Birthday - Download Edition（Cotton Soft）]]（publisher）
+- [[发行版/Saiaku Naru Saiyaku Ningen ni Sasagu - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

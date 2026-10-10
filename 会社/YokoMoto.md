@@ -12,7 +12,7 @@ source_urls:
 # YokoMoto
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Sakura no Toki]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Sakura no Toki -Sakura no Mori no Shita o Ayumu- First Press Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

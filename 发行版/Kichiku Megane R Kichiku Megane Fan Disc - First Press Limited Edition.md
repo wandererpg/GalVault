@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r2854:work:vndb:work:v1465"
-type: "release"
-display_title: "Kichiku Megane R Kichiku Megane Fan Disc - First Press Limited Edition"
-release_date: "2009-03-27"
+entity_id: release:vndb:r2854:work:vndb:work:v1465
+type: release
+display_title: Kichiku Megane R Kichiku Megane Fan Disc - First Press Limited Edition
+release_date: '2009-03-27'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r2854"
+  vndb: r2854
 source_urls:
-  vndb: "https://vndb.org/r2854"
+  vndb: https://vndb.org/r2854
+aliases:
+- Guichu Yanjing R
+- Kichiku Megane R Kichiku Megane Fan Disc - Regular Edition
+consolidated_releases:
+- id: r2854
+  title: Kichiku Megane R Kichiku Megane Fan Disc - First Press Limited Edition
+  url: https://vndb.org/r2854
+  release_date: '2009-03-27'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r8366
+  title: Kichiku Megane R Kichiku Megane Fan Disc - Regular Edition
+  url: https://vndb.org/r8366
+  release_date: '2010-02-05'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r9751
+  title: Guichu Yanjing R
+  url: https://vndb.org/r9751
+  release_date: '2010-03-14'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Kichiku Megane R Kichiku Megane Fan Disc - First Press Limited Edition

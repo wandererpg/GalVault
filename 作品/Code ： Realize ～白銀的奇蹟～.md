@@ -107,28 +107,9 @@ cover_image: "assets/covers/v21521.webp"
 - [[Yamazaki Haruka]]（山崎 はるか）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Code： Realize ~Baiyin de Qiji~ Download Edition]]
-- [[Code： Realize ~Baiyin de Qiji~ First Press Special Edition]]
-- [[Code： Realize ~Shirogane no Kiseki~ Download Edition]]
-- [[Code： Realize ~Shirogane no Kiseki~ Download Edition（Design Factory Co., Ltd）]]
-- [[Code： Realize ~Shirogane no Kiseki~ Limited Edition]]
-- [[Code： Realize ~Shirogane no Kiseki~ Limited Edition（Design Factory Co., Ltd）]]
-- [[Code： Realize ~Shirogane no Kiseki~ Regular Edition]]
-- [[Code： Realize ~Shirogane no Kiseki~ Regular Edition（Design Factory Co., Ltd）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Code： Realize ~Shirogane no Kiseki~ for Nintendo Switch - Download Edition]]
 - [[Code： Realize ~Shirogane no Kiseki~ for Nintendo Switch - Download Edition]]
-- [[Code： Realize ~Shirogane no Kiseki~ for Nintendo Switch - Limited Edition]]
-- [[Code： Realize ~Shirogane no Kiseki~ for Nintendo Switch]]
-- [[Code： Realize ~Wintertide Miracles~ Download Edition]]
-- [[Code： Realize ~Wintertide Miracles~ EU Download Edition]]
-- [[Code： Realize ~Wintertide Miracles~ EU Download Edition（Aksys Games）]]
-- [[Code： Realize ~Wintertide Miracles~ Limited Edition]]
-- [[Code： Realize ~Wintertide Miracles~ NA Download Edition]]
-- [[Code： Realize ~Wintertide Miracles~ NA Download Edition（Aksys Games）]]
-- [[Code： Realize ~Wintertide Miracles~ NA Limited Edition]]
-- [[Code： Realize ~Wintertide Miracles~ NA Limited Edition（Aksys Games）]]
-- [[Code： Realize ~Wintertide Miracles~ NA Standard Edition]]
-- [[Code： Realize ~Wintertide Miracles~ NA Standard Edition（Aksys Games）]]
-- [[Code： Realize ~Wintertide Miracles~ Standard Edition]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

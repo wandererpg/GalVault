@@ -66,12 +66,7 @@ cover_image: "assets/covers/v10632.webp"
 - [[Sakurai Takahiro]]（櫻井 孝宏）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Double Score ~Cattleya × Narcissus~ Limited Edition]]
-- [[Double Score ~Cattleya × Narcissus~ Regular Edition]]
-- [[Double Score ~Cosmos × Camellia~ Limited Edition]]
-- [[Double Score ~Cosmos × Camellia~ Regular Edition]]
-- [[Double Score ~Cosmos × Camellia~]]
-- [[Double Score ~Marguerite × Tulip~ Limited Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Double Score ~Marguerite × Tulip~ Regular Edition]]
 - [[Double Score ~Marguerite × Tulip~ Regular Edition]]<!-- AUTO:END release -->
 
 ## 动画化

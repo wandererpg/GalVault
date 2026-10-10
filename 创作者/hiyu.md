@@ -12,7 +12,7 @@ source_urls:
 # hiyu
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Fate／stay night REMASTERED（vndb：r16）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Fate／Stay Night ［Realta Nua］ - Ultimate Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

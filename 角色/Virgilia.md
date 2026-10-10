@@ -34,7 +34,7 @@ portrait_image: "assets/characters/c13724.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Umineko no Naku Koro ni - Episode 3 - Banquet of the Golden Witch]]（primary）
+<!-- AUTO:BEGIN character -->- [[发行版/Umineko no Naku Koro ni - Episode 4 - Alliance of the Golden Witch]]（primary）
 - [[海猫鸣泣之时散]]（side）<!-- AUTO:END character -->
 
 ## 声优

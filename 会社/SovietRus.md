@@ -12,10 +12,9 @@ source_urls:
 # SovietRus
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Aiyoku no Eustia（SovietRus・release：）]]（publisher）
-- [[Aiyoku no Eustia（SovietRus）]]（publisher）
-- [[Pastyr' velikoj biblioteki]]（publisher）
-- [[Sen no Hatou, Tsukisome no Kouki]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Aiyoku no Eustia： Angel's Blessing - Download Edition]]（publisher）
+- [[发行版/Daitoshokan no Hitsujikai -Library Party- Package Edition（ARIA）]]（publisher）
+- [[发行版/Sen no Hatou, Tsukisome no Kouki - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

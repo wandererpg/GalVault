@@ -68,19 +68,9 @@ cover_image: "assets/covers/v19494.webp"
 - [[Shimauma Danshaku]]（縞馬 男爵）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Isis & Irina H Story Tsuika Data - Official Mail Order Privilege]]
-- [[Kyonyuu Fantasy - 10th Anniversary Box（Waffle・k：v19494）]]
-- [[Kyonyuu Fantasy -Lute Hen- Full HD Bundle Edition - DL Regular Edition（Waffle）]]
-- [[Kyonyuu Fantasy -Lute Hen- Full HD Bundle Edition - Package Regular Edition（Waffle）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Kyonyuu Fantasy Gaiden 2 After -Osutashia no Yabou- DVDPG]]
 - [[Kyonyuu Fantasy Gaiden 2 After -Osutashia no Yabou- DVDPG]]
-- [[Kyonyuu Fantasy Gaiden 2 After -Osutashia no Yabou- Download Edition]]
-- [[Kyonyuu Fantasy Gaiden 2 After -Osutashia no Yabou- Package Edition]]
-- [[Kyonyuu Fantasy Gaiden 2 After -Osutashia no Yabou- Special Edition - Download Card Edition]]
-- [[Kyonyuu Fantasy Gaiden 2 After -Osutashia no Yabou- Special Edition - Download Edition]]
-- [[Kyonyuu Fantasy Gaiden 2 After -Osutashia no Yabou- Special Edition - Package Edition]]
-- [[Kyonyuu Fantasy Gaiden 2 After -Osutashia no Yabou- Trial Version]]
-- [[Kyonyuu Fantasy Gaiden 2 After -Osutashia no Yabou-]]
-- [[Kyonyuu Fantasy Lute Full HD Bundle Edition（Waffle）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

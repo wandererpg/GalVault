@@ -12,8 +12,8 @@ source_urls:
 # Kuratari Translation
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Dreamin' Her -Aku Bermimpi Tentangmu-]]（publisher）
-- [[Penyihir Fiksi]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Dreamin' Her -Boku wa, Kanojo no Yume o Miru.-]]（publisher）
+- [[发行版/Kami no Ue no Mahoutsukai - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

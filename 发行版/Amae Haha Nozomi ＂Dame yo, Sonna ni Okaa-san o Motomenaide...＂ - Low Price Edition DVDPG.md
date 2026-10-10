@@ -1,16 +1,82 @@
 ---
-entity_id: "release:vndb:r159632:work:vndb:work:v11067"
-type: "release"
-display_title: "Amae Haha Nozomi \"Dame yo, Sonna ni Okaa-san o Motomenaide...\" - Low Price Edition DVDPG"
-release_date: "2019-08-22"
+entity_id: release:vndb:r159632:work:vndb:work:v11067
+type: release
+display_title: Amae Haha Nozomi "Dame yo, Sonna ni Okaa-san o Motomenaide..." - Low Price Edition DVDPG
+release_date: '2019-08-22'
 is_all_ages: false
-platform: "dvd"
-edition_type: "complete"
-title_status: "needs_review"
+platform: dvd
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r159632"
+  vndb: r159632
 source_urls:
-  vndb: "https://vndb.org/r159632"
+  vndb: https://vndb.org/r159632
+aliases:
+- Amae Haha Nozomi ＂Dame yo, Sonna ni Okaa-san o Motomenaide...＂
+- Amae Haha Nozomi ＂Dame yo, Sonna ni Okaa-san o Motomenaide...＂ - Download Edition
+- Amae Haha Nozomi ＂Dame yo, Sonna ni Okaa-san o Motomenaide...＂ - DVDPG
+- Amae Haha Nozomi ＂Dame yo, Sonna ni Okaa-san o Motomenaide...＂ - Low Price Edition
+- Amae Haha Nozomi ＂Dame yo, Sonna ni Okaa-san o Motomenaide...＂ - Package Edition
+- Overdose Collection Pack
+- Overdose Collection Pack - Download Edition
+consolidated_releases:
+- id: r159632
+  title: Amae Haha Nozomi "Dame yo, Sonna ni Okaa-san o Motomenaide..." - Low Price Edition DVDPG
+  url: https://vndb.org/r159632
+  release_date: '2019-08-22'
+  platform: dvd
+  edition_type: complete
+  is_all_ages: false
+- id: r158453
+  title: Amae Haha Nozomi "Dame yo, Sonna ni Okaa-san o Motomenaide..." - DVDPG
+  url: https://vndb.org/r158453
+  release_date: '2016-09-16'
+  platform: dvd
+  edition_type: complete
+  is_all_ages: false
+- id: r45351
+  title: Amae Haha Nozomi "Dame yo, Sonna ni Okaa-san o Motomenaide..." - Low Price Edition
+  url: https://vndb.org/r45351
+  release_date: '2016-02-26'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r26980
+  title: Amae Haha Nozomi "Dame yo, Sonna ni Okaa-san o Motomenaide..." - Download Edition
+  url: https://vndb.org/r26980
+  release_date: '2013-05-24'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r22515
+  title: Amae Haha Nozomi "Dame yo, Sonna ni Okaa-san o Motomenaide..." - Package Edition
+  url: https://vndb.org/r22515
+  release_date: '2012-09-21'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r150599
+  title: Amae Haha Nozomi "Dame yo, Sonna ni Okaa-san o Motomenaide..."
+  url: https://vndb.org/r150599
+  release_date: 2024-11
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r158444
+  title: Overdose Collection Pack - Download Edition
+  url: https://vndb.org/r158444
+  release_date: '2017-03-31'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r50678
+  title: Overdose Collection Pack
+  url: https://vndb.org/r50678
+  release_date: '2017-02-24'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Amae Haha Nozomi "Dame yo, Sonna ni Okaa-san o Motomenaide..." - Low Price Edition DVDPG

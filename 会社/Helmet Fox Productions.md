@@ -12,14 +12,11 @@ source_urls:
 # Helmet Fox Productions
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Changeling Tale - Demo Version 1.8.0d]]（developer）
-- [[Changeling Tale - Demo Version 1.8.0d]]（publisher）
-- [[Changeling Tale - Demo Version 1.8.0d（Helmet Fox Productions）]]（developer）
-- [[Changeling Tale - Demo Version 1.8.0d（Helmet Fox Productions）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Changeling Tale]]（developer）
+- [[发行版/Changeling Tale]]（publisher）
 - [[Changeling Tale]]（developer）
 - [[Changeling Tale]]（publisher）
-- [[Changeling Tale（Helmet Fox Productions）]]（developer）
-- [[Changeling Tale（Helmet Fox Productions）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

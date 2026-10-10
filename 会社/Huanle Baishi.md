@@ -12,51 +12,31 @@ source_urls:
 # Huanle Baishi
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Boyinggui Zhen Gai： Fenghua Zhuan for Nintendo Switch - Download Edition]]（publisher）
-- [[Boyinggui Zhen Gai： Fenghua Zhuan for Nintendo Switch - Limited Edition]]（publisher）
-- [[Boyinggui Zhen Gai： Fenghua Zhuan for Nintendo Switch - Regular Edition]]（publisher）
-- [[Dazheng × Duichen Alice  all in one Limited Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Hakuouki Shinkai Fuukaden]]（publisher）
+- [[发行版/Dazheng × Duichen Alice  all in one Regular Edition]]（publisher）
 - [[Dazheng × Duichen Alice  all in one Regular Edition]]（publisher）
-- [[Dazheng × Duichen Alice  all in one]]（publisher）
-- [[Heidie Huanjing]]（publisher）
-- [[Jian wei Jun Wu for S - Limited Edition]]（publisher）
-- [[Jian wei Jun Wu for S - Limited Edition（Huanle Baishi）]]（publisher）
-- [[Jian wei Jun Wu for S]]（publisher）
-- [[Jian wei Jun Wu for S（Huanle Baishi・release：）]]（publisher）
-- [[Jian wei Jun Wu for S（Huanle Baishi・vndb：r12）]]（publisher）
-- [[Jian wei Jun Wu for S（Huanle Baishi）]]（publisher）
-- [[Jiyuan Bi'an Hua Jiuyuan zhi Qi]]（publisher）
-- [[Jue Dui Jie Ji Xue Yuan Limited Edition]]（publisher）
-- [[Jue Dui Jie Ji Xue Yuan Regular Edition]]（publisher）
-- [[Jue Dui Jie Ji Xue Yuan]]（publisher）
-- [[Ken ga Kimi（Huanle Baishi）]]（publisher）
-- [[Ken ga Kimi： Momoyo Tsuzuri（Huanle Baishi）]]（publisher）
-- [[Nihong Sanguo -Echoes of the Lost- Limited Edition]]（publisher）
+- [[发行版/Geomeun Nabiui Psychedelica（Idea Factory Co., Ltd）]]（publisher）
+- [[发行版/Ken ga Kimi： Momoyo Tsuzuri - Twinpack]]（publisher）
+- [[发行版/Ken ga Kimi： Momoyo Tsuzuri - Download Edition]]（publisher）
+- [[发行版/Yoshiwara Higanbana Kuon no Chigiri - Package Edition]]（publisher）
+- [[发行版/Zettai Kaikyuu Gakuen ~Eden with roses and phantasm~ Download Edition（PROTOTYPE）]]（publisher）
+- [[发行版/Nihong Sanguo -Echoes of the Lost- Regular Edition]]（publisher）
 - [[Nihong Sanguo -Echoes of the Lost- Regular Edition]]（publisher）
-- [[OVER REQUIEMZ Aozi Guo Anhun Qu Limited Edition]]（publisher）
+- [[发行版/OVER REQUIEMZ Aozi Guo Anhun Qu Regular Edition]]（publisher）
 - [[OVER REQUIEMZ Aozi Guo Anhun Qu Regular Edition]]（publisher）
-- [[Sanguo Lian Zhanji ~Shaonü de Bingfa!~ Limited Edition]]（publisher）
+- [[发行版/Sanguo Lian Zhanji ~Shaonü de Bingfa!~ Regular Edition]]（publisher）
 - [[Sanguo Lian Zhanji ~Shaonü de Bingfa!~ Regular Edition]]（publisher）
-- [[Sanguo Lian Zhanji ~Shaonü de Bingfa!~]]（publisher）
-- [[Shi Gui zhi Ban for Nintendo Switch]]（publisher）
-- [[Shisanzhi Yanyi： Yanyue Sanguo Zhuan 1 & 2 for Nintendo Switch - Download Edition]]（publisher）
-- [[Shisanzhi Yanyi： Yanyue Sanguo Zhuan 1 & 2 for Nintendo Switch - Limited Edition]]（publisher）
-- [[Shisanzhi Yanyi： Yanyue Sanguo Zhuan 1 & 2 for Nintendo Switch - Standard Edition]]（publisher）
-- [[Wand of Fortune R2 FD ～xian gei ni de zhongzhang～ for Nintendo Switch]]（publisher）
-- [[Wand of Fortune R2 ～Yanmo yu Shikong Zhong de Moshilu～ for Nintendo Switch]]（publisher）
-- [[Yoshiwara Higanbana（Huanle Baishi）]]（publisher）
+- [[发行版/Toki no Kizuna For Nintendo Switch Standard Edition]]（publisher）
+- [[发行版/Juuzaengi ~Engetsu Sangokuden~ 1・2 for Nintendo Switch - Download Edition]]（publisher）
+- [[发行版/Wand of Fortune R2 FD ~Kimi ni Sasageru Epilogue~ for Nintendo Switch - Special Edition]]（publisher）
+- [[发行版/Wand of Fortune R2 ~Jikuu ni Shizumu Mokushiroku~ for Nintendo Switch - Special Edition]]（publisher）
 - [[Youjiu de Gangren LieQi for Nintendo Switch Tongchang Ban]]（publisher）
-- [[Youjiu de Gangren LieQi for Nintendo Switch Xianding Ban]]（publisher）
-- [[Youjiu de Gangren LieQi for Nintendo Switch]]（publisher）
-- [[even if TEMPEST Huanghun Zhong Monü Rushi Shuo DLC1：Roses for My Love]]（publisher）
+- [[发行版/Youjiu de Gangren LieQi for Nintendo Switch Tongchang Ban]]（publisher）
+- [[发行版/even if TEMPEST Huanghun Zhong Monü Rushi Shuo DLC2：Bouquet for My Girl]]（publisher）
 - [[even if TEMPEST Huanghun Zhong Monü Rushi Shuo DLC2：Bouquet for My Girl]]（publisher）
-- [[even if TEMPEST Huanghun Zhong Monü Rushi Shuo DLC3：Huanghun Jiyi]]（publisher）
-- [[even if TEMPEST： Huanghun Zhong Monü Rushi Shuo - Download Edition]]（publisher）
-- [[even if TEMPEST： Huanghun Zhong Monü Rushi Shuo - Limited Edition]]（publisher）
-- [[even if TEMPEST： Huanghun Zhong Monü Rushi Shuo - Standard Edition]]（publisher）
 - [[even if TEMPEST： Lianzhui zhi Shi de Fuxiao - Download Edition]]（publisher）
-- [[even if TEMPEST： Lianzhui zhi Shi de Fuxiao - Limited Edition]]（publisher）
-- [[even if TEMPEST： Lianzhui zhi Shi de Fuxiao]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/even if TEMPEST： Lianzhui zhi Shi de Fuxiao - Download Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

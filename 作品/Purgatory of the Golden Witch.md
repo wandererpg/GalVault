@@ -37,7 +37,7 @@ cover_image: "assets/covers/v33020.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Purgatory Of the Golden Witch]]
+<!-- AUTO:BEGIN release -->- [[发行版/Purgatory of the Golden Witch（release：）]]
 - [[Purgatory of the Golden Witch（release：）]]<!-- AUTO:END release -->
 
 ## 动画化

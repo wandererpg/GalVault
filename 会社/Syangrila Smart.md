@@ -12,14 +12,10 @@ source_urls:
 # Syangrila Smart
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Koi de wa Naku - It's not Love, but so Where Near. - Download Edition]]（developer）
-- [[Koi de wa Naku - It's not Love, but so Where Near. - Download Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Koi de wa Naku - It's not Love, but so Where Near. - First Press Limited Edition]]（developer）
+- [[发行版/Koi de wa Naku - It's not Love, but so Where Near. - First Press Limited Edition]]（publisher）
 - [[Koi de wa Naku - It's not Love, but so Where Near. - First Press Limited Edition]]（developer）
 - [[Koi de wa Naku - It's not Love, but so Where Near. - First Press Limited Edition]]（publisher）
-- [[Koi de wa Naku - It's not Love, but so Where Near. - Trial Edition Ver 1.02]]（developer）
-- [[Koi de wa Naku - It's not Love, but so Where Near. - Trial Edition Ver 1.02]]（publisher）
-- [[Koi de wa Naku - It's not Love, but so Where Near. - Trial Edition]]（developer）
-- [[Koi de wa Naku - It's not Love, but so Where Near. - Trial Edition]]（publisher）
 - [[恋ではなく ―― It’s not love，but so where near]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

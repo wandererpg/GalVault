@@ -145,14 +145,9 @@ cover_image: "assets/covers/v14019.webp"
 - [[Yusa Kouji]]（遊佐 浩二）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Kadenz Fermata／／Akkord：Fortissimo - Append Scenario Patch]]
-- [[Kadenz Fermata／／Akkord：Fortissimo - Battle Trial Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Kadenz Fermata／／Akkord：Fortissimo - Download Edition]]
 - [[Kadenz Fermata／／Akkord：Fortissimo - Download Edition]]
-- [[Kadenz Fermata／／Akkord：Fortissimo - La'cryma 10th Anniversary Limited Edition]]
-- [[Kadenz Fermata／／Akkord：Fortissimo - Limited Edition]]
-- [[Kadenz Fermata／／Akkord：Fortissimo - Regular Edition]]
-- [[Kadenz Fermata／／Akkord：Fortissimo - Regular Edition（MAGES）]]
-- [[Kadenz Fermata／／Akkord：Fortissimo - Story Trial Edition]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

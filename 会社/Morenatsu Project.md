@@ -12,12 +12,10 @@ source_urls:
 # Morenatsu Project
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Morenatsu. - Version 3.5]]（developer）
-- [[Morenatsu. - Version 3.5]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Morenatsu. -Tatsuki - Kounsuke Chapter]]（developer）
+- [[发行版/Morenatsu. -Tatsuki - Kounsuke Chapter]]（publisher）
 - [[Morenatsu. -Tatsuki - Kounsuke Chapter]]（developer）
 - [[Morenatsu. -Tatsuki - Kounsuke Chapter]]（publisher）
-- [[Morenatsu（Morenatsu Project）]]（developer）
-- [[Morenatsu（Morenatsu Project）]]（publisher）
 - [[漏れなつ。]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

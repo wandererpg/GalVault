@@ -30,7 +30,7 @@ portrait_image: "assets/characters/c48135.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Kin'iro no Corda 3 AnotherSky feat. Amane Gakuen - Regular Edition]]（side）
+<!-- AUTO:BEGIN character -->- [[发行版/Kin'iro no Corda 3 AnotherSky feat. Shiseikan - Regular Edition]]（side）
 - [[金色のコルダ3]]（side）
 - [[金色琴弦４]]（side）<!-- AUTO:END character -->
 

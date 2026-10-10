@@ -12,12 +12,8 @@ source_urls:
 # Aeba no Mori
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Chichi Ai Dorei Choukyou Keikaku - Trial Edition]]（developer）
-- [[Chichi Ai Dorei Choukyou Keikaku - Trial Edition]]（publisher）
-- [[Chichi Ai Dorei Choukyou Keikaku]]（developer）
-- [[Chichi Ai Dorei Choukyou Keikaku]]（publisher）
-- [[Chichi Ai Dorei Choukyou Keikaku（release：）]]（developer）
-- [[Chichi Ai Dorei Choukyou Keikaku（release：）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Chichi Ai Dorei Choukyou Keikaku（vndb：r15）]]（developer）
+- [[发行版/Chichi Ai Dorei Choukyou Keikaku（vndb：r15）]]（publisher）
 - [[Chichi Ai Dorei Choukyou Keikaku（vndb：r15）]]（developer）
 - [[Chichi Ai Dorei Choukyou Keikaku（vndb：r15）]]（publisher）
 - [[乳愛奴隷調教計画]]（developer）<!-- AUTO:END duty -->

@@ -52,7 +52,7 @@ cover_image: "assets/covers/v48624.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Soul of Sovereignty - Demo]]
+<!-- AUTO:BEGIN release -->- [[发行版/Soul of Sovereignty - Prelude]]
 - [[Soul of Sovereignty - Prelude]]<!-- AUTO:END release -->
 
 ## 动画化

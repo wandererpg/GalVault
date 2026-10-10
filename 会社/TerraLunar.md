@@ -14,10 +14,8 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Rakuen ~Ai Kawarazu na Boku. no Baai~ Download Edition]]（developer）
 - [[Rakuen ~Ai Kawarazu na Boku. no Baai~ Download Edition]]（publisher）
-- [[Rakuen ~Ai Kawarazu na Boku. no Baai~ Trial Edition]]（developer）
-- [[Rakuen ~Ai Kawarazu na Boku. no Baai~ Trial Edition]]（publisher）
-- [[Rakuen ~Ai Kawarazu na Boku. no Baai~]]（developer）
-- [[Rakuen ~Ai Kawarazu na Boku. no Baai~]]（publisher）
+- [[发行版/Rakuen ~Ai Kawarazu na Boku. no Baai~ Download Edition]]（developer）
+- [[发行版/Rakuen ~Ai Kawarazu na Boku. no Baai~ Download Edition]]（publisher）
 - [[らくえん～あいかわらずなぼく。の場合～]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

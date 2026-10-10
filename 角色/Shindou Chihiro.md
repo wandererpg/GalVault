@@ -30,10 +30,10 @@ portrait_image: "assets/characters/c1586.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[ef - a fairy tale of the two. - First Press Limited Edition]]（primary）
+<!-- AUTO:BEGIN character -->- [[发行版/ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（primary）
 - [[ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（primary）
-- [[ef - the first tale（minori）]]（appears）
-- [[ef - the latter tale（minori）]]（primary）<!-- AUTO:END character -->
+- [[发行版/ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（appears）
+<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Maki Izumi]]（声优：まき いづみ）<!-- AUTO:END voice -->

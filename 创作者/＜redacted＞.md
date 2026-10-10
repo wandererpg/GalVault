@@ -11,10 +11,9 @@ source_urls:
 # <redacted>
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[White Album 2 Mini After Story]]（publisher）
-- [[White Album 2 ~Closing Chapter~]]（publisher）
-- [[White Album 2 ~Coda Chapter~]]（publisher）
-- [[White Album 2 ~Introductory Chapter~]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/WHITE ALBUM2 EXTENDED EDITION（Leaf）]]（publisher）
+- [[发行版/WHITE ALBUM2 EXTENDED EDITION（Leaf・release：）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -74,18 +74,9 @@ cover_image: "assets/covers/v23448.webp"
 - [[Yomogi Souffle]]（よもぎすふれ）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Amazing Grace -What color is your attribute？- 18+ Patch]]
-- [[Amazing Grace -What color is your attribute？- Censored Edition]]
-- [[Amazing Grace -What color is your attribute？- Dakimakura Cover Included Limited Edition]]
-- [[Amazing Grace -What color is your attribute？- Download Edition]]
-- [[Amazing Grace -What color is your attribute？- Download Edition（Dramatic Create）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Amazing Grace -What color is your attribute？- Package Edition]]
 - [[Amazing Grace -What color is your attribute？- Package Edition]]
-- [[Amazing Grace -What color is your attribute？- Regular Edition]]
-- [[Amazing Grace -What color is your attribute？- Trial Edition Full Version]]
-- [[Amazing Grace -What color is your attribute？- Trial Edition Vol.1]]
-- [[Amazing Grace -What color is your attribute？-]]
-- [[Amazing Grace —What color is your attribute？—]]
-- [[Qiyi Endian： Shengye de Xiaozhen]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

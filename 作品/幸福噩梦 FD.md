@@ -73,17 +73,9 @@ cover_image: "assets/covers/v13108.webp"
 - [[Toono Soyogi]]（遠野 そよぎ）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Hapymaher - REGRET END - Deluxe Edition]]
-- [[Hapymaher - REGRET END - Download Edition]]
-- [[Hapymaher - REGRET END - Regular Edition]]
-- [[Hapymaher - REGRET END - Super Deluxe Edition]]
-- [[Hapymaher - W Pack - Package Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Hapymaher -Fragmentation Dream- Download Edition]]
 - [[Hapymaher -Fragmentation Dream- Download Edition]]
-- [[Hapymaher -Fragmentation Dream- Package Edition]]
-- [[Hapymaher -Fragmentation Dream-]]
-- [[Schastlivy koshmar： Oskolki snov]]
-- [[Xingfu Emeng -Fragmentation Dream-]]
-- [[Xingfu Emeng Re]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

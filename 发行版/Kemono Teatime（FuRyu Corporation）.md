@@ -1,16 +1,34 @@
 ---
-entity_id: "release:vndb:r161195:work:vndb:work:v61533"
-type: "release"
-display_title: "Kemono Teatime"
-release_date: "2025-09-03"
+entity_id: release:vndb:r161195:work:vndb:work:v61533
+type: release
+display_title: Kemono Teatime
+release_date: '2025-09-03'
 is_all_ages: true
-platform: "swi"
-edition_type: "complete"
-title_status: "needs_review"
+platform: swi
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r161195"
+  vndb: r161195
 source_urls:
-  vndb: "https://vndb.org/r161195"
+  vndb: https://vndb.org/r161195
+aliases:
+- Kemono Teatime
+consolidated_releases:
+- id: r161195
+  title: Kemono Teatime
+  url: https://vndb.org/r161195
+  release_date: '2025-09-03'
+  platform: swi
+  edition_type: complete
+  is_all_ages: true
+- id: r147031
+  title: Kemono Teatime
+  url: https://vndb.org/r147031
+  release_date: '2025-09-03'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Kemono Teatime

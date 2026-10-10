@@ -12,10 +12,9 @@ source_urls:
 # Kero Makura
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Himawari no Kyoukai to Nagai Natsuyasumi -extra vacation- First Press Limited Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Himawari no Kyoukai to Nagai Natsuyasumi -extra vacation- First Press Limited Edition（Kero Makura）]]（publisher）
 - [[Himawari no Kyoukai to Nagai Natsuyasumi -extra vacation- First Press Limited Edition（Kero Makura）]]（publisher）
-- [[Himawari no Kyoukai to Nagai Natsuyasumi -extra vacation- Regular Edition]]（publisher）
-- [[Himawari no Kyoukai to Nagai Natsuyasumi -extra vacation- Regular Edition（Kero Makura）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

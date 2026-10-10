@@ -13,11 +13,9 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Rou-Kyuu-Bu! - Download Edition]]（developer）
-- [[Rou-Kyuu-Bu! - Limited Edition]]（developer）
-- [[Rou-Kyuu-Bu! - Regular Edition]]（developer）
+- [[发行版/Rou-Kyuu-Bu! - Download Edition]]（developer）
 - [[Twinkle ☆ Crusaders Go Go - Deluxe (Best Edition)]]（publisher）
-- [[Twinkle ☆ Crusaders Go Go - Regular Edition]]（publisher）
-- [[Twinkle ☆ Crusaders Go Go - Special Limited Edition]]（publisher）
+- [[发行版/Twinkle ☆ Crusaders Go Go - Deluxe (Best Edition)]]（publisher）
 - [[ロウきゅーぶ！]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

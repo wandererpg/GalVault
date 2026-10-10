@@ -45,8 +45,7 @@ cover_image: "assets/covers/v36776.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[OBSCURA - Chapter One： The Descent]]
-- [[OBSCURA - Early Access ［v2.5.1］]]
+<!-- AUTO:BEGIN release -->- [[发行版/OBSCURA]]
 - [[OBSCURA]]<!-- AUTO:END release -->
 
 ## 动画化

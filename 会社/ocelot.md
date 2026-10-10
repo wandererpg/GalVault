@@ -12,23 +12,9 @@ source_urls:
 # ocelot
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Shinkyoku Soukai Polyphonica - After School - Perfect Edition]]（developer）
-- [[Shinkyoku Soukai Polyphonica - After School - Perfect Edition]]（publisher）
-- [[Shinkyoku Soukai Polyphonica - Episode 1]]（publisher）
-- [[Shinkyoku Soukai Polyphonica - Episode 2]]（publisher）
-- [[Shinkyoku Soukai Polyphonica - Episode 3]]（publisher）
-- [[Shinkyoku Soukai Polyphonica - Episode 4]]（publisher）
-- [[Shinkyoku Soukai Polyphonica - Episodes 1 & 2 BOX]]（publisher）
-- [[Shinkyoku Soukai Polyphonica - Episodes 1 & 2 Taidou Hen]]（publisher）
-- [[Shinkyoku Soukai Polyphonica - Episodes 3 & 4 BOX]]（publisher）
-- [[Shinkyoku Soukai Polyphonica - Episodes 3 & 4 Kanketsu Hen]]（publisher）
-- [[Shinkyoku Soukai Polyphonica Episodes 0~4 Full Pack]]（publisher）
-- [[Shinkyoku Soukai Polyphonica Episodes 0~4 Full Pack（ocelot）]]（publisher）
-- [[Shinkyoku Soukai Polyphonica Episodes 3&4 Finale (Kanketsuhen)]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Shinkyoku Soukai Polyphonica First Chapter]]（developer）
+- [[发行版/Shinkyoku Soukai Polyphonica First Chapter]]（publisher）
 - [[Shinkyoku Soukai Polyphonica First Chapter]]（developer）
-- [[Shinkyoku Soukai Polyphonica ~Farewell Song~ Perfect Edition]]（developer）
-- [[Shinkyoku Soukai Polyphonica ~Farewell Song~ Perfect Edition]]（publisher）
-- [[Shinkyoku Soukai Polyphonica]]（publisher）
 - [[神曲奏界ポリフォニカ]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

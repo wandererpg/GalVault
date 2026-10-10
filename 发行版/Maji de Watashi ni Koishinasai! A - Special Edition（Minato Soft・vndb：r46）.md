@@ -1,16 +1,66 @@
 ---
-entity_id: "release:vndb:r46409:work:vndb:work:v20601"
-type: "release"
-display_title: "Maji de Watashi ni Koishinasai! A - Special Edition"
-release_date: "2016-12-22"
+entity_id: release:vndb:r46409:work:vndb:work:v20601
+type: release
+display_title: Maji de Watashi ni Koishinasai! A - Special Edition
+release_date: '2016-12-22'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r46409"
+  vndb: r46409
 source_urls:
-  vndb: "https://vndb.org/r46409"
+  vndb: https://vndb.org/r46409
+aliases:
+- Maji de Watashi ni Koishinasai! A - Package Edition（Maji Translations・vndb：r70）
+- Maji de Watashi ni Koishinasai! A Set（Minato Soft・vndb：r61）
+- Maji de Watashi ni Koishinasai! A-4
+- Maji de Watashi ni Koishinasai! A-4 Dialogue Uncensor Patch
+- Maji de Watashi ni Koishinasai! A-4（release：）
+consolidated_releases:
+- id: r46409
+  title: Maji de Watashi ni Koishinasai! A - Special Edition
+  url: https://vndb.org/r46409
+  release_date: '2016-12-22'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r61021
+  title: Maji de Watashi ni Koishinasai! A Set
+  url: https://vndb.org/r61021
+  release_date: '2018-12-14'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r27809
+  title: Maji de Watashi ni Koishinasai! A-4
+  url: https://vndb.org/r27809
+  release_date: '2014-11-21'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r70795
+  title: Maji de Watashi ni Koishinasai! A - Package Edition
+  url: https://vndb.org/r70795
+  release_date: '2023-09-04'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r119370
+  title: Maji de Watashi ni Koishinasai! A-4 Dialogue Uncensor Patch
+  url: https://vndb.org/r119370
+  release_date: '2023-09-04'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+- id: r82064
+  title: Maji de Watashi ni Koishinasai! A-4
+  url: https://vndb.org/r82064
+  release_date: '2021-08-10'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Maji de Watashi ni Koishinasai! A - Special Edition

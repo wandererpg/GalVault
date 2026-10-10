@@ -1,16 +1,34 @@
 ---
-entity_id: "release:vndb:r87196:work:vndb:work:v33910"
-type: "release"
-display_title: "Akuma Shitsuji to Kuroi Neko"
-release_date: "2021-12-07"
+entity_id: release:vndb:r87196:work:vndb:work:v33910
+type: release
+display_title: Akuma Shitsuji to Kuroi Neko
+release_date: '2021-12-07'
 is_all_ages: true
-platform: "ios, and"
-edition_type: "complete"
-title_status: "needs_review"
+platform: ios, and
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r87196"
+  vndb: r87196
 source_urls:
-  vndb: "https://vndb.org/r87196"
+  vndb: https://vndb.org/r87196
+aliases:
+- Emo Zhishi yu Heimao
+consolidated_releases:
+- id: r87196
+  title: Akuma Shitsuji to Kuroi Neko
+  url: https://vndb.org/r87196
+  release_date: '2021-12-07'
+  platform: ios, and
+  edition_type: complete
+  is_all_ages: true
+- id: r133895
+  title: Emo Zhishi yu Heimao
+  url: https://vndb.org/r133895
+  release_date: '2022-06-30'
+  platform: ios
+  edition_type: complete
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Akuma Shitsuji to Kuroi Neko

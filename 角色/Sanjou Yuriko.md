@@ -30,7 +30,7 @@ portrait_image: "assets/characters/c12991.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Scarlett ~Nichijou no Kyoukaisen~ Deluxe Pack]]（primary）
+<!-- AUTO:BEGIN character -->- [[发行版/Scarlett ~Nichijou no Kyoukaisen~ Regular Edition]]（primary）
 - [[Scarlett ~Nichijou no Kyoukaisen~ Regular Edition]]（primary）<!-- AUTO:END character -->
 
 ## 声优

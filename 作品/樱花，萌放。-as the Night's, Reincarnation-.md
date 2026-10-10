@@ -99,30 +99,9 @@ cover_image: "assets/covers/v22313.webp"
 - [[Toita Yui]]（猫村 ゆき）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Beotkkot, Ssakteuda. -As the Night's, Reincarnation-]]
-- [[Sakura, Moyu. - kak Nochi, Reinkarnatsiya -]]
-- [[Sakura, Moyu. -As the Night's, Reincarnation- Download Edition]]
-- [[Sakura, Moyu. -As the Night's, Reincarnation- Trial Version]]
-- [[Sakura, Moyu. -As the Night's, Reincarnation-（FAVORITE）]]
-- [[Sakura, Moyu. -As the Night's, Reincarnation-（Moshi Youxi Zhongwenhua Xingqu Xiaozu）]]
-- [[Sakura, Moyu. -as the Night's, Reincarnation- Download Edition（ENTERGRAM・release：）]]
-- [[Sakura, Moyu. -as the Night's, Reincarnation- Download Edition（ENTERGRAM）]]
-- [[Sakura, Moyu. -as the Night's, Reincarnation- Limited Edition]]
-- [[Sakura, Moyu. -as the Night's, Reincarnation- Limited Edition（ENTERGRAM）]]
-- [[Sakura, Moyu. -as the Night's, Reincarnation- Regular Edition]]
-- [[Sakura, Moyu. -as the Night's, Reincarnation- Regular Edition（ENTERGRAM）]]
-- [[Sakura, Moyu. -as the Night's, Reincarnation-]]
-- [[Sakura, Moyu. -as the Night's, Reincarnation-（Hoshi Translation）]]
-- [[Sakura, Moyu. -as the Night's, Reincarnation-（Kagami Games・release：）]]
-- [[Sakura, Moyu. -as the Night's, Reincarnation-（Kagami Games）]]
-- [[Sakura, Moyu. -as the Night's, Reincarnation-（release：）]]
-- [[Sakura, Moyu. -as the Night's, Reincarnation-（vndb：r14）]]
-- [[Yinghua, Mengfang. - Trial Version]]
-- [[Yinghua, Mengfang. -as the Night's, Reincarnation-]]
+<!-- AUTO:BEGIN release -->- [[发行版/Yinghua, Mengfang. -as the Night's, Reincarnation-（Syawase Works）]]
 - [[Yinghua, Mengfang. -as the Night's, Reincarnation-（Syawase Works）]]
-- [[Yinghua, Mengfang]]
-- [[Yinghua, Mengfang（Meng Yi）]]
-- [[Yinghua, Mengfang（release：）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

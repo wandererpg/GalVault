@@ -33,7 +33,7 @@ portrait_image: "assets/characters/c39514.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Shin Koihime † Eiyuutan 3 ~Otome Enran ☆ Sangokushi Engi ［Go］~]]（side）
+<!-- AUTO:BEGIN character -->- [[发行版/Shin Koihime † Eiyuutan 123 +PLUS ~Otome Enran ☆ Sangokushi Engi~]]（side）
 - [[真・恋姫†夢想-革命- 劉旗の大望]]（side）
 - [[真・恋姫†夢想-革命- 孫呉の血脈]]（primary）
 - [[真・恋姫†夢想-革命- 蒼天の覇王]]（side）<!-- AUTO:END character -->

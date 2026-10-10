@@ -12,8 +12,8 @@ source_urls:
 # Märchen Translations
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Anniversary no Kuni no Alice ~Wonderful Wonder World~（Märchen Translations）]]（publisher）
-- [[Clover no Kuni no Alice ~Wonderful Wonder World~（Märchen Translations）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Heart no Kuni no Alice ~Wonderful Wonder World~（PROTOTYPE）]]（publisher）
+- [[发行版/Clover no Kuni no Alice ~Wonderful Wonder World~]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

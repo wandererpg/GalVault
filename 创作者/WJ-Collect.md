@@ -12,9 +12,9 @@ source_urls:
 # WJ-Collect
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Higurashi no naku koro ni]]（publisher）
-- [[ISLAND（vndb：r12）]]（publisher）
-- [[Sekimeiya - Putaran kaca]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Himatsubushi Hen（07th Expansion）]]（publisher）
+- [[发行版/ISLAND - Download Edition]]（publisher）
+- [[发行版/The Sekimeiya： Spun Glass]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

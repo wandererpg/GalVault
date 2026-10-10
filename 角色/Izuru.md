@@ -29,8 +29,8 @@ portrait_image: "assets/characters/c102529.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Hana Awase ~Karakurenai／Utsutsu Hen~]]（side）
-- [[Hana Awase： Karakurenai／Utsutsu Hen]]（side）<!-- AUTO:END character -->
+<!-- AUTO:BEGIN character -->- [[发行版/Hana Awase Saku - Complete Set]]（side）
+<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Tsuda Kenjirou]]（声优：津田 健次郎）<!-- AUTO:END voice -->

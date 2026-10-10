@@ -47,10 +47,9 @@ cover_image: "assets/covers/v24644.webp"
 - [[Taki Satoshi]]（滝 知史）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Bei Qiujin de Zhangxin Refrain]]
+<!-- AUTO:BEGIN release -->- [[发行版/Toraware no Paruma Refrain - Deluxe Edition]]
 - [[Toraware no Paruma Refrain - Deluxe Edition]]
-- [[Toraware no Paruma Refrain]]
-- [[Toraware no Paruma Refrain（CAPCOM Co., Ltd）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

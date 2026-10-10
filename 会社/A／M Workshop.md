@@ -12,8 +12,8 @@ source_urls:
 # A/M Workshop
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Kalejdoskop prekrasnyh devushek -Devushki, sozdannye Bogom-]]（publisher）
-- [[Maitetsu - Last Run!!（A／M Workshop）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Bishoujo Mangekyou -Kami ga Tsukuritamouta Shoujo-tachi- Download Edition]]（publisher）
+- [[发行版/Maitetsu Complete Set（Lose）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

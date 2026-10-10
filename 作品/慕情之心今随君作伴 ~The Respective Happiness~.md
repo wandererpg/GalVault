@@ -75,15 +75,9 @@ cover_image: "assets/covers/v17651.webp"
 - [[Tachibana Sara]]（立花 沙羅）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Kimi no Tonari de Koishiteru! - FD Pack]]
-- [[Kimi no Tonari de Koishiteru! - Renewal Package Edition]]
-- [[Kimi no Tonari de Koishiteru! ~The Respective Happiness~ Download Edition]]
-- [[Kimi no Tonari de Koishiteru! ~The Respective Happiness~ Package Edition]]
-- [[Kimi no Tonari de Koishiteru! ~The Respective Happiness~ Trial Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Kimi no Tonari de Koishiteru! ~The Respective Happiness~]]
 - [[Kimi no Tonari de Koishiteru! ~The Respective Happiness~]]
-- [[Kimi no Tonari de Koishiteru! ~The Respective Happiness~（ALcot Honey Comb）]]
-- [[Kimi no Tonari de Koishiteru!]]
-- [[Muqing zhi Xin Jin Suijun Zuoban ~The Respective Happiness~]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

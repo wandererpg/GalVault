@@ -74,14 +74,7 @@ cover_image: "assets/covers/v22713.webp"
 - [[Yahiro Mami]]（東 シヅ）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Double Holic Pack - Download Edition]]
-- [[Double Holic Pack - Package Edition]]
-- [[Love x Holic ~Miwaku no Otome to Hakudaku Kankei~ DVDPG]]
-- [[Love x Holic ~Miwaku no Otome to Hakudaku Kankei~ Download Edition]]
-- [[Love x Holic ~Miwaku no Otome to Hakudaku Kankei~ Package Edition]]
-- [[Love x Holic ~Miwaku no Otome to Hakudaku Kankei~ Trial Edition]]
-- [[Love x Holic ~Miwaku no Otome to Hakudaku Kankei~]]
-- [[Love×Holic ~Miren de Shaonü yu Baizhuo de Guanxi~]]
+<!-- AUTO:BEGIN release -->- [[发行版/Love×Holic ~Miwaku no Otome to Hakudaku Kankei~]]
 - [[Love×Holic ~Miwaku no Otome to Hakudaku Kankei~]]<!-- AUTO:END release -->
 
 ## 动画化

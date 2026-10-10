@@ -12,7 +12,7 @@ source_urls:
 # Zhen Chun'ai Tonghao Hui
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Tiny Dungeon ~Brave or Slave~（Zhen Chun'ai Tonghao Hui）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Tiny Dungeon ~BoS (Final Volume)~]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

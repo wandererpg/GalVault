@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r22662:work:vndb:work:v11134"
-type: "release"
-display_title: "Chou no Doku Hana no Kusari ~Gensou Yawa~ First Press Limited Edition"
-release_date: "2012-12-01"
+entity_id: release:vndb:r22662:work:vndb:work:v11134
+type: release
+display_title: Chou no Doku Hana no Kusari ~Gensou Yawa~ First Press Limited Edition
+release_date: '2012-12-01'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r22662"
+  vndb: r22662
 source_urls:
-  vndb: "https://vndb.org/r22662"
+  vndb: https://vndb.org/r22662
+aliases:
+- Chou no Doku Hana no Kusari - Repackage Edition
+- Die zhi Du Hua zhi Suo Huanxiang Yehua
+consolidated_releases:
+- id: r22662
+  title: Chou no Doku Hana no Kusari ~Gensou Yawa~ First Press Limited Edition
+  url: https://vndb.org/r22662
+  release_date: '2012-12-01'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r46097
+  title: Chou no Doku Hana no Kusari - Repackage Edition
+  url: https://vndb.org/r46097
+  release_date: '2018-08-10'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r47390
+  title: Die zhi Du Hua zhi Suo Huanxiang Yehua
+  url: https://vndb.org/r47390
+  release_date: '2013-07-23'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Chou no Doku Hana no Kusari ~Gensou Yawa~ First Press Limited Edition

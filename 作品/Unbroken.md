@@ -85,9 +85,8 @@ cover_image: "assets/covers/v37296.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Neslomlennyj - Book 1 + Book 2 R8]]
-- [[Neslomlennyj v0.81]]
-- [[STWA： Unbroken： Book One]]
-- [[STWA： Unbroken： Book Two - Round 8]]<!-- AUTO:END release -->
+- [[发行版/Neslomlennyj - Book 1 + Book 2 R8]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -88,17 +88,9 @@ cover_image: "assets/covers/v21675.webp"
 - [[Yuuki Serika]]（波奈束 風景）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Amakano Complete Box - Resale Edition（Azarashi Soft・vndb：r13）]]
-- [[Amakano Complete Box（Azarashi Soft・vndb：r63）]]
-- [[Amakano ~Second Season~ Limited Edition（Azarashi Soft）]]
-- [[Amakano ~Second Season~+ (Grok 3)]]
+<!-- AUTO:BEGIN release -->- [[发行版/Amakano ~Second Season~+ - DVDPG Renewal Package Edition]]
 - [[Amakano ~Second Season~+ - DVDPG Renewal Package Edition]]
-- [[Amakano ~Second Season~+ - DVDPG]]
-- [[Amakano ~Second Season~+ Download Edition]]
-- [[Amakano ~Second Season~+ Itsu Made mo Ama Ama Append Patch]]
-- [[Amakano ~Second Season~+]]
-- [[Amakano ~Second Season~+（Azarashi Soft）]]
-- [[Amakano ~Second Season~+（release：）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

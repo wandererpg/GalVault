@@ -12,25 +12,13 @@ source_urls:
 # Littlewitch
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Rondo Leaflet - Download Edition]]（publisher）
-- [[Rondo Leaflet - Trial Edition v2]]（publisher）
-- [[Rondo Leaflet - Trial Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Rondo Leaflet]]（publisher）
 - [[Rondo Leaflet]]（developer）
 - [[Rondo Leaflet]]（publisher）
-- [[Shirotsume Souwa -Episode of the Clovers- Download Edition]]（developer）
-- [[Shirotsume Souwa -Episode of the Clovers- Download Edition]]（publisher）
+- [[发行版/Shirotsume Souwa -Episode of the Clovers- First Press Limited Edition]]（developer）
+- [[发行版/Shirotsume Souwa -Episode of the Clovers- First Press Limited Edition]]（publisher）
 - [[Shirotsume Souwa -Episode of the Clovers- First Press Limited Edition]]（developer）
 - [[Shirotsume Souwa -Episode of the Clovers- First Press Limited Edition]]（publisher）
-- [[Shirotsume Souwa -Episode of the Clovers- Limited Edition]]（developer）
-- [[Shirotsume Souwa -Episode of the Clovers- Limited Edition]]（publisher）
-- [[Shirotsume Souwa -Episode of the Clovers- Regular Edition]]（developer）
-- [[Shirotsume Souwa -Episode of the Clovers- Regular Edition]]（publisher）
-- [[Shirotsume Souwa -Episode of the Clovers- Regular Edition（NEC Interchannel）]]（developer）
-- [[Shirotsume Souwa -Episode of the Clovers- Regular Edition（NEC Interchannel）]]（publisher）
-- [[Shirotsume Souwa -Episode of the Clovers- Standard Edition ［DVD］]]（developer）
-- [[Shirotsume Souwa -Episode of the Clovers- Standard Edition ［DVD］]]（publisher）
-- [[Shirotsume Souwa -Episode of the Clovers- Trial Edition]]（developer）
-- [[Shirotsume Souwa -Episode of the Clovers- Trial Edition]]（publisher）
 - [[ロンド・リーフレット]]（developer）
 - [[白詰草話 -EPISODE OF THE CLOVERS-]]（developer）<!-- AUTO:END duty -->
 

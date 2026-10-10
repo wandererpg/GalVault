@@ -12,9 +12,9 @@ source_urls:
 # Meow Works
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Fate／Stay Night ［Realta Nua］（Meow Works）]]（publisher）
-- [[Rewrite+（Meow Works）]]（publisher）
-- [[Rewrite（Meow Works）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Fate／Stay Night ［Realta Nua］ - Ultimate Edition]]（publisher）
+- [[发行版/Rewrite - Download Edition（Key）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

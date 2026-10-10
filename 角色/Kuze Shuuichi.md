@@ -30,10 +30,9 @@ portrait_image: "assets/characters/c8625.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[ef - a fairy tale of the two. (ef Lite)]]（protagonist）
-- [[ef - a fairy tale of the two. - First Press Limited Edition]]（protagonist）
+<!-- AUTO:BEGIN character -->- [[发行版/ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（protagonist）
 - [[ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（protagonist）
-- [[ef - the latter tale（minori）]]（protagonist）<!-- AUTO:END character -->
+<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Hamada Kenji]]（声优：安芸怜須 ケン）<!-- AUTO:END voice -->

@@ -67,12 +67,9 @@ cover_image: "assets/covers/v10694.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[CAGE -OPEN- & -CLOSE-]]
-- [[CAGE -OPEN- Download Edition]]
-- [[CAGE -OPEN- English Trial]]
-- [[CAGE -OPEN- Trial Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/CAGE -OPEN-]]
 - [[CAGE -OPEN-]]
-- [[CAGE -OPEN-（release：）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

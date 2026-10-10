@@ -12,8 +12,8 @@ source_urls:
 # Library Shepherd
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Daitoshokan no Hitsujikai - Trial Edition（Library Shepherd）]]（publisher）
-- [[Daitoshokan no Hitsujikai]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Daitoshokan no Hitsujikai -Library Party- Package Edition（ARIA）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

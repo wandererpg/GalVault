@@ -80,15 +80,9 @@ cover_image: "assets/covers/v20471.webp"
 - [[Yuika]]（唯香）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Kami no Ue no Mahoutsukai & Suisou Ginka no Istoria W Set - Limited Edition（Uguisu Kagura）]]
-- [[Shuizang Yin Huo De Istria]]
-- [[Shuizang Yin Huo De Istria（Xinyuanwu Hanhuazu）]]
-- [[Skazanie o pogrebjonnom serebre]]
+<!-- AUTO:BEGIN release -->- [[发行版/Suisou Ginka no Istoria - Download Edition]]
 - [[Suisou Ginka no Istoria - Download Edition]]
-- [[Suisou Ginka no Istoria - Package Edition]]
-- [[Suisou Ginka no Istoria - Trial Edition]]
-- [[Suisou Ginka no Istoria]]
-- [[Suisou Ginka no Istoria（release：）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

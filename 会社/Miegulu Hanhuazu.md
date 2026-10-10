@@ -12,8 +12,8 @@ source_urls:
 # Miegulu Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Mei yu Nüyou]]（publisher）
-- [[Pieces ／ Yurikago no Canaria]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Imouto to Kanojo - Washizaki Kyoudai-hen - Renewal Package Edition DVDPG]]（publisher）
+- [[发行版/pieces ／ Yurikago no Canaria - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

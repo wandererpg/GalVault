@@ -130,14 +130,9 @@ cover_image: "assets/covers/v19294.webp"
 - [[Usami Mimoe]]（宇佐美 みもえ）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[AstralAir no Shiroki Towa EXTRA & Finale -Shiroki Hoshi no Yume- Complete Set（FAVORITE）]]
-- [[AstralAir no Shiroki Towa FHD -Finale-]]
-- [[AstralAir no Shiroki Towa FHD Re：Eternity - Download Edition（FAVORITE）]]
-- [[AstralAir no Shiroki Towa FHD Re：Eternity - Package Edition（FAVORITE）]]
-- [[AstralAir no Shiroki Towa Finale -Shiroki Hoshi no Yume- Download Edition]]
-- [[AstralAir no Shiroki Towa Finale -Shiroki Hoshi no Yume-]]
+<!-- AUTO:BEGIN release -->- [[发行版/AstralAir no Shiroki Towa Finale Zu~tto Yuuki to Issho! Plush Bundled Deluxe Limited Edition]]
 - [[AstralAir no Shiroki Towa Finale Zu~tto Yuuki to Issho! Plush Bundled Deluxe Limited Edition]]
-- [[Xingchenlianqu de Baise Yongheng Finale]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

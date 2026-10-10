@@ -12,7 +12,7 @@ source_urls:
 # Perevod TGAAC
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Velikij advokat. Istoki]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Dai Gyakuten Saiban 1&2 Limited Edition -Naruhodou Ryuunosuke no Bouken to Kakugo-]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

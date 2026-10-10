@@ -12,9 +12,8 @@ source_urls:
 # Sonozaki Futagotachi
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Higurashi Demo]]（publisher）
-- [[Higurashi Minigame Patch]]（publisher）
-- [[Watanagashi Day 1]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Himatsubushi Hen（07th Expansion）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

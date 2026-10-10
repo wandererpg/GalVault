@@ -92,12 +92,9 @@ cover_image: "assets/covers/v18882.webp"
 - [[Tezuka Ryouko]]（手塚 りょうこ）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Unionism Quartet A3-Days - Deluxe Edition（Clip☆Craft）]]
-- [[Unionism Quartet A3-Days - Download Edition]]
-- [[Unionism Quartet A3-Days - Package Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Unionism Quartet A3-Days Full Package - Download Edition]]
 - [[Unionism Quartet A3-Days Full Package - Download Edition]]
-- [[Unionism Quartet A3-Days]]
-- [[Unionism Quartet B2-Style - COMPLETE-PACKAGE（Clip☆Craft）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -12,7 +12,7 @@ source_urls:
 # Mabu Hanhua Zhongdui
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Muv-Luv Alternative Total Eclipse]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Muv-Luv Alternative - Total Eclipse - Regular Edition（MAGES）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

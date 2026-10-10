@@ -71,12 +71,8 @@ cover_image: "assets/covers/v4006.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[New Love Plus - Download Edition]]
-- [[New Love Plus - Package Edition]]
-- [[New Love Plus+ Download Edition]]
-- [[New Love Plus+ Package Edition]]
-- [[New Love Plus+]]
-- [[Xin Ai Xiangsui+]]
-- [[Xin Ai Xiangsui+（Xiyiji Fan Hanhuazu）]]<!-- AUTO:END release -->
+- [[发行版/New Love Plus - Download Edition]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

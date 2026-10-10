@@ -12,9 +12,8 @@ source_urls:
 # rtlstien
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Morenatsu Revival Port v1.08]]（publisher）
-- [[Morenatsu Revival Port]]（publisher）
-- [[Morenatsu. - Trial Edition (version 0.5)]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Morenatsu. -Tatsuki - Kounsuke Chapter]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

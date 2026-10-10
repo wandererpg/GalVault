@@ -12,11 +12,11 @@ source_urls:
 # kkmanlg
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Honoo no Haramase Oppai Nyuu Doukyuusei ~Oppai mo Haramase! New Class Zen'in Harama-sensation!~（kkmanlg）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Honoo no Haramase Oppai Nyuu Doukyuusei ~Oppai mo Haramase! New Class Zen'in Harama-sensation!~ - Download Edition]]（publisher）
 - [[Huanlin de Jijiangjun 2]]（publisher）
 - [[Modao Qiaoke（ZODGAME Hanhuazu）]]（publisher）
-- [[Tian Jin Feng～ Kuilei Zhenfeng Tie～]]（publisher）
-- [[Zhan Nvshen Verita]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Amatsukaze ~Kugutsu Jinpuu-chou~ Windows 7 Support Edition]]（publisher）
+- [[发行版/Ikusa Megami Verita Complete Guidebook Privilege Appendix Disc]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

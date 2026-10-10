@@ -12,18 +12,11 @@ source_urls:
 # ALICE IN DISSONANCE
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Fault Milestone 2 Jou - Download Edition]]（developer）
-- [[Fault Milestone 2 Jou - Download Edition]]（publisher）
-- [[Fault Milestone 2 Jou - Package Edition]]（developer）
-- [[Fault Milestone 2 Jou - Package Edition]]（publisher）
-- [[fault - milestone two side： above]]（developer）
-- [[fault - milestone two side：above]]（developer）
-- [[fault - milestone two side：above（Sekai Project・release：）]]（developer）
-- [[fault - milestone two side：above（Sekai Project・vndb：r60）]]（developer）
-- [[fault - milestone two side：above（Sekai Project・vndb：r61）]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/fault - milestone two side：above（Sekai Project）]]（developer）
+- [[发行版/fault - milestone two side：above（Sekai Project）]]（publisher）
 - [[fault - milestone two side：above（Sekai Project）]]（developer）
 - [[fault - milestone two 上]]（developer）
-- [[fault milestone two Demo]]（developer）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -40,7 +40,7 @@ cover_image: "assets/covers/v57568.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Your Turn To Die - Redemption Given by Fate - Demo]]
+<!-- AUTO:BEGIN release -->- [[发行版/Your Turn To Die - Redemption Given by Fate - Demo（release：）]]
 - [[Your Turn To Die - Redemption Given by Fate - Demo（release：）]]<!-- AUTO:END release -->
 
 ## 动画化

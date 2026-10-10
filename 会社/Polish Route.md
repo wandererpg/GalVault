@@ -12,8 +12,8 @@ source_urls:
 # Polish Route
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Clannad - Steam Edition（Polish Route）]]（publisher）
-- [[Katawa Shoujo（Polish Route）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/CLANNAD（Hikarizaka Gaoxiao Zhongwen Bu）]]（publisher）
+- [[发行版/Katawa Shoujo 1.3J]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

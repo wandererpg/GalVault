@@ -127,12 +127,7 @@ cover_image: "assets/covers/v32893.webp"
 - [[Uchida Naoya]]（内田 直哉）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[EVE ghost enemies - Download Edition]]
-- [[EVE ghost enemies - Download Edition（El Dia）]]
-- [[EVE ghost enemies - First Press Limited Edition]]
-- [[EVE ghost enemies - First Press Limited Edition（El Dia）]]
-- [[EVE ghost enemies - Regular Edition]]
-- [[EVE ghost enemies - Regular Edition（El Dia）]]
+<!-- AUTO:BEGIN release -->- [[发行版/EVE ghost enemies]]
 - [[EVE ghost enemies]]<!-- AUTO:END release -->
 
 ## 动画化

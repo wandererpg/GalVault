@@ -11,21 +11,11 @@ source_urls:
 # MAGES. Inc.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Hundun zhi Zi - Download Edition]]（publisher）
-- [[Hundun zhi Zi - Download Edition（MAGES）]]（publisher）
-- [[Hundun zhi Zi - Package Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Hundun zhi Zi - Package Edition（MAGES）]]（publisher）
 - [[Hundun zhi Zi - Package Edition（MAGES）]]（publisher）
 - [[STEINS;GATE - Download Edition（MAGES・release：）]]（publisher）
-- [[STEINS;GATE - Download Edition（MAGES）]]（publisher）
-- [[STEINS;GATE - Download Edition（NITRO PLUS）]]（developer）
-- [[STEINS;GATE - Download Edition（NITRO PLUS）]]（publisher）
-- [[STEINS;GATE HD（MAGES. Inc・release：）]]（developer）
-- [[STEINS;GATE HD（MAGES. Inc・release：）]]（publisher）
-- [[STEINS;GATE HD（MAGES. Inc）]]（publisher）
-- [[STEINS;GATE（MAGES. Inc・release：）]]（publisher）
-- [[STEINS;GATE（MAGES. Inc）]]（developer）
-- [[STEINS;GATE（MAGES. Inc）]]（publisher）
-- [[Steins;Gate - Download Edition（Kadokawa Shoten）]]（developer）
+- [[发行版/STEINS;GATE - Download Edition（MAGES・release：）]]（publisher）
+- [[发行版/STEINS;GATE - Download Edition（MAGES・release：）]]（developer）
 - [[命运石之门]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

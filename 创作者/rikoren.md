@@ -12,9 +12,8 @@ source_urls:
 # rikoren
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Akaya Akashiya Ayakashino（release：）]]（publisher）
-- [[Akaya Akashiya Ayakashino（vndb：r54）]]（publisher）
-- [[Hanakisou（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Akaya Akashiya Ayakashino - Regular Edition]]（publisher）
+- [[发行版/Hanakisou（HaccaWorks＊・release：）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

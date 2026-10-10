@@ -12,8 +12,8 @@ source_urls:
 # Xiyiji Fan Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Xin Ai Xiangsui+]]（publisher）
-- [[Xin Ai Xiangsui+（Xiyiji Fan Hanhuazu）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/New Love Plus - Download Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -14,14 +14,8 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Unravel trigger - Deluxe Limited Edition]]（developer）
 - [[Unravel trigger - Deluxe Limited Edition]]（publisher）
-- [[Unravel trigger - Download Edition]]（developer）
-- [[Unravel trigger - Download Edition]]（publisher）
-- [[Unravel trigger - Regular Edition]]（developer）
-- [[Unravel trigger - Regular Edition]]（publisher）
-- [[Unravel trigger - Trial Edition]]（developer）
-- [[Unravel trigger - Trial Edition]]（publisher）
-- [[Unravel trigger -Prelude to War-]]（developer）
-- [[Unravel trigger -Prelude to War-]]（publisher）
+- [[发行版/Unravel trigger - Deluxe Limited Edition]]（developer）
+- [[发行版/Unravel trigger - Deluxe Limited Edition]]（publisher）
 - [[アンラベル・トリガー]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

@@ -59,9 +59,9 @@ cover_image: "assets/covers/v10730.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[CAGE -CLOSE- Trial]]
+<!-- AUTO:BEGIN release -->- [[发行版/CAGE -CLOSE-]]
 - [[CAGE -CLOSE-]]
-- [[CAGE -OPEN- & -CLOSE-（LOVE&DESTROY）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

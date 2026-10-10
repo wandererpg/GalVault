@@ -30,7 +30,7 @@ portrait_image: "assets/characters/c26985.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Harukanaru Toki no Naka de 3 Ultimate]]（side）
+<!-- AUTO:BEGIN character -->- [[发行版/Harukanaru Toki no Naka de 3 with Izayoiki Collector's Edition]]（side）
 - [[遙かなる時空の中で3 十六夜記]]（side）<!-- AUTO:END character -->
 
 ## 声优

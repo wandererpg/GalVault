@@ -12,7 +12,7 @@ source_urls:
 # YounTL
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Scent of Seductive Flesh]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Miyugui Hyanggi]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

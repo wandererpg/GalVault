@@ -12,8 +12,8 @@ source_urls:
 # Nyx
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Intertwined ［v0.15.4］]]（developer）
-- [[Intertwined ［v0.15.4］]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Perepletjonnye v0.14.1]]（developer）
+- [[发行版/Perepletjonnye v0.14.1]]（publisher）
 - [[Intertwined]]（developer）<!-- AUTO:END duty -->
 
 ## 创作与出演

@@ -1,16 +1,50 @@
 ---
-entity_id: "release:vndb:r82132:work:vndb:work:v31670"
-type: "release"
-display_title: "VenusBlood Savior - Download Edition"
-release_date: "2022-01-28"
+entity_id: release:vndb:r82132:work:vndb:work:v31670
+type: release
+display_title: VenusBlood Savior - Download Edition
+release_date: '2022-01-28'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r82132"
+  vndb: r82132
 source_urls:
-  vndb: "https://vndb.org/r82132"
+  vndb: https://vndb.org/r82132
+aliases:
+- VenusBlood Savior
+- VenusBlood Savior - Package Edition
+- VenusBlood Savior - SLG Trial Edition
+consolidated_releases:
+- id: r82132
+  title: VenusBlood Savior - Download Edition
+  url: https://vndb.org/r82132
+  release_date: '2022-01-28'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r81413
+  title: VenusBlood Savior - Package Edition
+  url: https://vndb.org/r81413
+  release_date: '2022-01-28'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r91235
+  title: VenusBlood Savior
+  url: https://vndb.org/r91235
+  release_date: '2022-05-12'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r86193
+  title: VenusBlood Savior - SLG Trial Edition
+  url: https://vndb.org/r86193
+  release_date: '2022-01-14'
+  platform: win
+  edition_type: trial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # VenusBlood Savior - Download Edition

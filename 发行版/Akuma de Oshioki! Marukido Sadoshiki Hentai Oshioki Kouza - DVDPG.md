@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r33292:work:vndb:work:v12483"
-type: "release"
-display_title: "Akuma de Oshioki! Marukido Sadoshiki Hentai Oshioki Kouza - DVDPG"
-release_date: "2014-03-27"
+entity_id: release:vndb:r33292:work:vndb:work:v12483
+type: release
+display_title: Akuma de Oshioki! Marukido Sadoshiki Hentai Oshioki Kouza - DVDPG
+release_date: '2014-03-27'
 is_all_ages: false
-platform: "dvd"
-edition_type: "complete"
-title_status: "needs_review"
+platform: dvd
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r33292"
+  vndb: r33292
 source_urls:
-  vndb: "https://vndb.org/r33292"
+  vndb: https://vndb.org/r33292
+aliases:
+- Akuma de Oshioki! Marukido Sadoshiki Hentai Oshioki Kouza - Download Edition
+- Akuma de Oshioki! Marukido Sadoshiki Hentai Oshioki Kouza - Package Edition
+consolidated_releases:
+- id: r33292
+  title: Akuma de Oshioki! Marukido Sadoshiki Hentai Oshioki Kouza - DVDPG
+  url: https://vndb.org/r33292
+  release_date: '2014-03-27'
+  platform: dvd
+  edition_type: complete
+  is_all_ages: false
+- id: r29846
+  title: Akuma de Oshioki! Marukido Sadoshiki Hentai Oshioki Kouza - Download Edition
+  url: https://vndb.org/r29846
+  release_date: '2013-10-18'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r26585
+  title: Akuma de Oshioki! Marukido Sadoshiki Hentai Oshioki Kouza - Package Edition
+  url: https://vndb.org/r26585
+  release_date: '2013-07-26'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Akuma de Oshioki! Marukido Sadoshiki Hentai Oshioki Kouza - DVDPG

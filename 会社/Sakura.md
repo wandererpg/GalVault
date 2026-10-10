@@ -12,9 +12,9 @@ source_urls:
 # Sakura
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ni Zhumou Li de Wucai Shijie]]（publisher）
-- [[Wucaibanlan de Shuguang]]（publisher）
-- [[Zhong You Yiri Yuan Sui Bikong]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Akai Hitomi ni Utsuru Sekai Zu~tto Shinku to Issho! - Plush Bundled Deluxe Limited Edition]]（publisher）
+- [[发行版/Irotoridori no Sekai World's End -Re：Birth- Download Edition]]（publisher）
+- [[发行版/Itsuka, Todoku, Ano Sora ni. ~You no Michi to Hi no Tasogare to~ Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

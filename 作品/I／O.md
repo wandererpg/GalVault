@@ -129,10 +129,8 @@ cover_image: "assets/covers/v96.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[I／O - First Press Limited Edition]]
-- [[I／O - Regular Edition]]
-- [[I／O revision II]]
-- [[I／O revision II（Lem Fan Club）]]
-- [[I／O revision II（Lemnisca Translations）]]<!-- AUTO:END release -->
+- [[发行版/I／O - First Press Limited Edition]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

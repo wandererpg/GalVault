@@ -12,7 +12,7 @@ source_urls:
 # Kirill Shijan
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Pjostryj Kurjatnik v0.13.5]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Proud Father v0.13.5（release：）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -24,10 +24,9 @@ source_urls:
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Jie ~Mingyun de Jiaochadian~ Tebie Pian]]（protagonist）
+<!-- AUTO:BEGIN character -->- [[发行版/Machi ~Unmei no Kousaten~ Tokubetsu Hen - Download Edition]]（protagonist）
 - [[Machi ~Unmei no Kousaten~ Tokubetsu Hen - Download Edition]]（protagonist）
-- [[Machi ~Unmei no Kousaten~ Tokubetsu Hen]]（protagonist）
-- [[SEGA THE BEST - Machi ~Unmei no Kousaten~ Tokubetsu Hen]]（protagonist）<!-- AUTO:END character -->
+<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->

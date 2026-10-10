@@ -12,13 +12,8 @@ source_urls:
 # FLAT
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Hikoukigumo no Mukougawa - Download Edition]]（developer）
-- [[Hikoukigumo no Mukougawa - Download Edition]]（publisher）
-- [[Hikoukigumo no Mukougawa - Trial Edition]]（developer）
-- [[Hikoukigumo no Mukougawa - Trial Edition]]（publisher）
-- [[Hikoukigumo no Mukougawa]]（developer）
-- [[Hikoukigumo no Mukougawa]]（publisher）
-- [[Hikoukigumo no Mukougawa（FLAT）]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Hangjiyun de Bifang]]（developer）
+- [[发行版/Hangjiyun de Bifang]]（publisher）
 - [[航迹云的彼方]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

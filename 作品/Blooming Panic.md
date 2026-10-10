@@ -71,10 +71,8 @@ cover_image: "assets/covers/v31567.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Blooming Panic]]
-- [[Blooming Panic（Pink Lion ｜｜ Rozovyj lev）]]
-- [[Blooming Panic： Full Bloom Edition]]
-- [[Blooming Panic： Full Bloom Edition（VienDesu! Porting Team）]]
-- [[Blooming Panic： Full Bloom Edition（release：）]]<!-- AUTO:END release -->
+- [[发行版/Blooming Panic]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

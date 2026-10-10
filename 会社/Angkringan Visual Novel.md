@@ -13,14 +13,14 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Amakano 3（Angkringan Visual Novel）]]（publisher）
-- [[Ecchi de Ichizu na Doinaka Nii-sama to, Koshikiyukashii Byoujaku Imouto（Angkringan Visual Novel）]]（publisher）
-- [[Hamidashi Creative（Angkringan Visual Novel）]]（publisher）
-- [[Hitozuma Lovely Moment（Angkringan Visual Novel）]]（publisher）
-- [[Kami no Ue no Mahoutsukai]]（publisher）
-- [[Meikei no Lupercalia]]（publisher）
-- [[Same to Ikiru Nanokakan]]（publisher）
-- [[Senren ＊ Banka（Angkringan Visual Novel）]]（publisher）
-- [[Yome Sagashi ga Hakadorisugite Yabai]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Chiqing Gege yu Bingruo Meimei de Xiangjian Shenghuo]]（publisher）
+- [[发行版/Changgui Tuoli Creative - Censored Edition]]（publisher）
+- [[发行版/Hitozuma Lovely Moment - Package Edition]]（publisher）
+- [[发行版/Kami no Ue no Mahoutsukai - Download Edition]]（publisher）
+- [[发行版/Meikei no Lupercalia - Download Edition（Uguisu Kagura）]]（publisher）
+- [[发行版/Same to Ikiru Nanokakan - Special Limited Edition]]（publisher）
+- [[发行版/Senren ＊ Banka - Package Edition]]（publisher）
+- [[发行版/Yome Sagashi ga Hakadorisugite Yabai. - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

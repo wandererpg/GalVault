@@ -12,15 +12,13 @@ source_urls:
 # Key Fans Club
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[AIR（Yinghua Feiwu de Jijie）]]（publisher）
-- [[CLANNAD - Simplified Chinese Translation Patch Version IV]]（publisher）
-- [[CLANNAD FULLVOICE]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/AIR（Key）]]（publisher）
+- [[发行版/CLANNAD（Hikarizaka Gaoxiao Zhongwen Bu）]]（publisher）
 - [[CLANNAD（Hikarizaka Gaoxiao Zhongwen Bu）]]（publisher）
-- [[Kanon Jianti Zhongwen Di San Ban -Minase Nayuki, Misaka Shiori, Sawatari Makoto-]]（publisher）
-- [[Kanon Jianti Zhongwen Di Yi Ban -Minase Nayuki-]]（publisher）
-- [[Planetarian ~Xing zhi Meng~]]（publisher）
-- [[Rewrite - Trial Edition]]（publisher）
-- [[Xing zhi Meng Portable]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Kanon（Key）]]（publisher）
+- [[发行版/Planetarian ~The Reverie of a Little Planet~（release：）]]（publisher）
+- [[发行版/Rewrite - Download Edition（Key）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

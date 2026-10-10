@@ -12,23 +12,14 @@ source_urls:
 # Ricotta
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Walkure Romanze More&More - Download Edition]]（developer）
-- [[Walkure Romanze More&More - Download Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Walkure Romanze More&More - First Press Limited Edition (Deluxe Edition)]]（developer）
+- [[发行版/Walkure Romanze More&More - First Press Limited Edition (Deluxe Edition)]]（publisher）
 - [[Walkure Romanze More&More - First Press Limited Edition (Deluxe Edition)]]（developer）
 - [[Walkure Romanze More&More - First Press Limited Edition (Deluxe Edition)]]（publisher）
-- [[Walkure Romanze More&More - First Press Limited Edition]]（developer）
-- [[Walkure Romanze More&More - First Press Limited Edition]]（publisher）
-- [[Walkure Romanze More&More - Regular Edition]]（developer）
-- [[Walkure Romanze More&More - Regular Edition]]（publisher）
-- [[Walkure Romanze More&More - Web Trial Edition]]（developer）
-- [[Walkure Romanze More&More - Web Trial Edition]]（publisher）
-- [[Walkure Romanze Re：tell II]]（developer）
-- [[Walkure Romanze Re：tell II]]（publisher）
-- [[Walkure Romanze Re：tell（Ricotta）]]（developer）
-- [[Walkure Romanze Re：tell（Ricotta）]]（publisher）
+- [[发行版/＂Walkure Romanze＂ Series 4 Set - Limited Edition（Ricotta）]]（developer）
+- [[发行版/＂Walkure Romanze＂ Series 4 Set - Limited Edition（Ricotta）]]（publisher）
 - [[ワルキューレロマンツェRe：tell]]（developer）
 - [[少女骑士物语 more&more]]（developer）
-- [[＂Walkure Romanze＂ Series 4 Set - Limited Edition]]（publisher）
 - [[＂Walkure Romanze＂ Series 4 Set - Limited Edition（Ricotta）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

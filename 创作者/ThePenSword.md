@@ -12,14 +12,11 @@ source_urls:
 # ThePenSword
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Siren's Call - Demo]]（developer）
-- [[Siren's Call - Demo]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Siren's Call]]（developer）
+- [[发行版/Siren's Call]]（publisher）
 - [[Siren's Call]]（developer）
 - [[Siren's Call]]（publisher）
-- [[Siren's Call： Escape Velocity - Prologue]]（developer）
-- [[Siren's Call： Escape Velocity - Prologue]]（publisher）
-- [[Siren's Call： Escape Velocity]]（developer）
-- [[Siren's Call： Escape Velocity]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

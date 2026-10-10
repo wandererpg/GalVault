@@ -76,11 +76,7 @@ cover_image: "assets/covers/v7650.webp"
 - [[Yamamoto Kanehira]]（山本 兼平）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[3rdEye Collection Vol.2 Shinigami no Testament ~menuet of epistula~]]
-- [[Shinigami no Testament - Trial Edition]]
-- [[Shinigami no Testament ~menuet of epistula~ Download Edition]]
-- [[Shinigami no Testament ~menuet of epistula~]]
-- [[Shinigami no Testament ~menuet of epistula~（3rdEye・release：）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Shinigami no Testament ~menuet of epistula~（3rdEye）]]
 - [[Shinigami no Testament ~menuet of epistula~（3rdEye）]]<!-- AUTO:END release -->
 
 ## 动画化

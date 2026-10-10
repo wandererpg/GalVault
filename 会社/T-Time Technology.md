@@ -12,8 +12,8 @@ source_urls:
 # T-Time Technology
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Jiaoxiangyue zhi Yu]]（publisher）
-- [[Qiu zhi Huiyi： Cong Jin Yihou（T-Time Technology）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Symphonic Rain - DVD Edition - First Press Limited Edition]]（publisher）
+- [[发行版/Memories Off Historia - Super Limited Edition（MAGES）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

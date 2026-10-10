@@ -12,7 +12,7 @@ source_urls:
 # Martro122 - VNS
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Daitoshokan no Hitsujikai - El Pastor de la Gran Biblioteca]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Daitoshokan no Hitsujikai -Library Party- Package Edition（ARIA）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

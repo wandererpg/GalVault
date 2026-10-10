@@ -12,8 +12,8 @@ source_urls:
 # michael120
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Charyun-ui Nara, Haebaragi-ui Sonyeo]]（publisher）
-- [[G-Seonsangui Mawang]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Sharin no Kuni, Himawari no Shoujo（Doitsugo Trans）]]（publisher）
+- [[发行版/G-senjou no Maou（Aegis）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

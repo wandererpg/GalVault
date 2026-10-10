@@ -15,80 +15,29 @@ source_urls:
 <!-- AUTO:BEGIN duty -->- [[NEWラブプラス]]（developer）
 - [[New Love Plus - Download Edition]]（developer）
 - [[New Love Plus - Download Edition]]（publisher）
-- [[New Love Plus - Package Edition]]（developer）
-- [[New Love Plus - Package Edition]]（publisher）
-- [[New Love Plus+ Download Edition]]（developer）
-- [[New Love Plus+ Download Edition]]（publisher）
-- [[New Love Plus+ Package Edition]]（developer）
-- [[New Love Plus+ Package Edition]]（publisher）
-- [[PC Engine CoreGrafx mini]]（publisher）
-- [[PC Engine mini]]（publisher）
-- [[Policenauts（KONAMI・ff1b6dfc）]]（developer）
-- [[Policenauts（KONAMI・ff1b6dfc）]]（publisher）
-- [[Policenauts（KONAMI・release：）]]（developer）
-- [[Policenauts（KONAMI・release：）]]（publisher）
-- [[Policenauts（KONAMI・rk：v2528）]]（developer）
-- [[Policenauts（KONAMI・rk：v2528）]]（publisher）
-- [[Policenauts（KONAMI・vndb：r49）]]（developer）
-- [[Policenauts（KONAMI・vndb：r49）]]（publisher）
-- [[Policenauts（KONAMI）]]（developer）
-- [[Policenauts（KONAMI）]]（publisher）
+- [[发行版/New Love Plus - Download Edition]]（developer）
+- [[发行版/New Love Plus - Download Edition]]（publisher）
+- [[发行版/Lüeduozhe]]（publisher）
+- [[发行版/Policenauts： PSone Books]]（developer）
+- [[发行版/Policenauts： PSone Books]]（publisher）
 - [[Policenauts： PSone Books]]（developer）
 - [[Policenauts： PSone Books]]（publisher）
-- [[Policenauts： Pilot Disk]]（developer）
-- [[Policenauts： Pilot Disk]]（publisher）
-- [[Policenauts： Private Collection]]（developer）
-- [[Policenauts： Private Collection]]（publisher）
-- [[Policenauts： the Best]]（developer）
-- [[Policenauts： the Best]]（publisher）
 - [[SNATCHER]]（developer）
-- [[Snatcher - EU Edition]]（publisher）
-- [[Snatcher - NA Edition]]（publisher）
-- [[Snatcher CD-ROMantic Pilot Disk]]（publisher）
-- [[Snatcher CD-ROMantic]]（publisher）
-- [[Snatcher（KCET）]]（publisher）
-- [[Snatcher（KONAMI・release：）]]（publisher）
-- [[Snatcher（KONAMI・vndb：r29）]]（publisher）
-- [[Snatcher（KONAMI）]]（developer）
-- [[Snatcher（KONAMI）]]（publisher）
+- [[发行版/Lüeduozhe]]（developer）
 - [[Tokimeki Memorial 2 - Konami The Best]]（publisher）
-- [[Tokimeki Memorial 2 - Limited Edition]]（developer）
-- [[Tokimeki Memorial 2 - Limited Edition]]（publisher）
-- [[Tokimeki Memorial 2]]（developer）
-- [[Tokimeki Memorial 2]]（publisher）
-- [[Tokimeki Memorial 2（KONAMI・release：）]]（developer）
-- [[Tokimeki Memorial 2（KONAMI・release：）]]（publisher）
-- [[Tokimeki Memorial 2（KONAMI）]]（developer）
-- [[Tokimeki Memorial 2（KONAMI）]]（publisher）
-- [[Tokimeki Memorial Girl's Side Double Pack]]（developer）
-- [[Tokimeki Memorial Girl's Side Double Pack]]（publisher）
-- [[Tokimeki Memorial Girl's Side Premium ~3rd Story~ Download Edition]]（developer）
-- [[Tokimeki Memorial Girl's Side Premium ~3rd Story~ Download Edition]]（publisher）
+- [[发行版/Tokimeki Memorial 2 - Konami The Best]]（developer）
+- [[发行版/Tokimeki Memorial 2 - Konami The Best]]（publisher）
+- [[发行版/Tokimeki Memorial Girl's Side： 2nd Season]]（developer）
+- [[发行版/Tokimeki Memorial Girl's Side： 2nd Season]]（publisher）
+- [[发行版/Tokimeki Memorial Girl's Side Premium ~3rd Story~ First Press Limited Edition]]（developer）
+- [[发行版/Tokimeki Memorial Girl's Side Premium ~3rd Story~ First Press Limited Edition]]（publisher）
 - [[Tokimeki Memorial Girl's Side Premium ~3rd Story~ First Press Limited Edition]]（developer）
 - [[Tokimeki Memorial Girl's Side Premium ~3rd Story~ First Press Limited Edition]]（publisher）
-- [[Tokimeki Memorial Girl's Side Premium ~3rd Story~（KONAMI）]]（developer）
-- [[Tokimeki Memorial Girl's Side Premium ~3rd Story~（KONAMI）]]（publisher）
-- [[Tokimeki Memorial Girl's Side Triple Pack]]（developer）
-- [[Tokimeki Memorial Girl's Side Triple Pack]]（publisher）
-- [[Tokimeki Memorial Girl's Side Triple Pack（KONAMI）]]（developer）
-- [[Tokimeki Memorial Girl's Side Triple Pack（KONAMI）]]（publisher）
-- [[Tokimeki Memorial Girl's Side： 2nd Kiss - First Press Edition]]（publisher）
-- [[Tokimeki Memorial Girl's Side： 2nd Kiss - Regular Edition]]（publisher）
-- [[Tokimeki Memorial Girl's Side： 2nd Kiss - Special Edition]]（publisher）
-- [[Tokimeki Memorial Girl's Side： 2nd Season for Nintendo Switch]]（developer）
-- [[Tokimeki Memorial Girl's Side： 2nd Season for Nintendo Switch]]（publisher）
 - [[Tokimeki Memorial Girl's Side： 2nd Season]]（publisher）
-- [[Tokimeki Memorial Girl's Side： 3rd Story for Nintendo Switch]]（developer）
-- [[Tokimeki Memorial Girl's Side： 3rd Story for Nintendo Switch]]（publisher）
-- [[Tokimeki Memorial Girl's Side： 3rd Story（KONAMI）]]（developer）
-- [[Tokimeki Memorial Girl's Side： 3rd Story（KONAMI）]]（publisher）
-- [[Tokimeki Memorial Girl's Side： 4th Heart - Download Edition]]（developer）
-- [[Tokimeki Memorial Girl's Side： 4th Heart - Download Edition]]（publisher）
-- [[Tokimeki Memorial Girl's Side： 4th Heart - Regular Edition]]（developer）
-- [[Tokimeki Memorial Girl's Side： 4th Heart - Regular Edition]]（publisher）
+- [[发行版/Tokimeki Memorial Girl's Side： 4th Heart - Special Assort Limited Edition]]（developer）
+- [[发行版/Tokimeki Memorial Girl's Side： 4th Heart - Special Assort Limited Edition]]（publisher）
 - [[Tokimeki Memorial Girl's Side： 4th Heart - Special Assort Limited Edition]]（developer）
 - [[Tokimeki Memorial Girl's Side： 4th Heart - Special Assort Limited Edition]]（publisher）
-- [[TurboGrafx-16 mini]]（publisher）
 - [[ときめきメモリアル Girl's Side 3rd Story]]（developer）
 - [[ときめきメモリアル Girl's Side 4th Heart]]（developer）
 - [[ときめきメモリアル Girl’s Side 2nd Kiss]]（developer）

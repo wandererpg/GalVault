@@ -12,7 +12,7 @@ source_urls:
 # Tian Tang hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Mono no Aware wa Sai no Koro. - Kohaku's Route]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Mono no Aware wa Sai no Koro. - First Press Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

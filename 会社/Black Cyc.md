@@ -12,67 +12,18 @@ source_urls:
 # Black Cyc
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[EXTRAVAGANZA Complete Edition - Download Edition]]（developer）
-- [[EXTRAVAGANZA Complete Edition - Download Edition]]（publisher）
-- [[EXTRAVAGANZA Complete Edition]]（developer）
-- [[EXTRAVAGANZA Complete Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Extravaganza ~Mushi Mederu Shoujo~ DVDPG Edition]]（developer）
+- [[发行版/Extravaganza ~Mushi Mederu Shoujo~ DVDPG Edition]]（publisher）
 - [[Extravaganza ~Mushi Mederu Shoujo~ DVDPG Edition]]（developer）
-- [[Extravaganza ~Mushi Mederu Shoujo~ First Press Special Edition]]（developer）
-- [[Extravaganza ~Mushi Mederu Shoujo~ First Press Special Edition]]（publisher）
-- [[Extravaganza ~Mushi Mederu Shoujo~ Larva Chapter Trial]]（developer）
-- [[Extravaganza ~Mushi Mederu Shoujo~ Larva Chapter Trial]]（publisher）
-- [[Extravaganza ~Mushi Mederu Shoujo~ Price Revised Edition]]（developer）
-- [[Extravaganza ~Mushi Mederu Shoujo~ Price Revised Edition]]（publisher）
-- [[Extravaganza ~Mushi Mederu Shoujo~ Regular Edition (with Vista Support)]]（developer）
-- [[Extravaganza ~Mushi Mederu Shoujo~ Regular Edition (with Vista Support)]]（publisher）
-- [[Extravaganza ~Mushi Mederu Shoujo~ Regular Edition]]（developer）
-- [[Extravaganza ~Mushi Mederu Shoujo~ Regular Edition]]（publisher）
-- [[Extravaganza ~Mushi Mederu Shoujo~ Windows 8.1 Support Edition - Download Edition]]（developer）
-- [[Extravaganza ~Mushi Mederu Shoujo~ Windows 8.1 Support Edition - Download Edition]]（publisher）
-- [[Extravaganza ~Mushi Mederu Shoujo~ Windows 8.1 Support Edition]]（developer）
-- [[Extravaganza ~Mushi Mederu Shoujo~ Windows 8.1 Support Edition]]（publisher）
-- [[FULL METAL BOX - Windows 7 Support Edition]]（developer）
-- [[FULL METAL BOX - Windows 7 Support Edition]]（publisher）
-- [[FULL METAL BOX - Windows 7 Support Edition（Black Cyc）]]（developer）
-- [[FULL METAL BOX - Windows 7 Support Edition（Black Cyc）]]（publisher）
-- [[FULL METAL BOX]]（developer）
-- [[FULL METAL BOX]]（publisher）
-- [[FULL METAL BOX（Black Cyc）]]（developer）
-- [[FULL METAL BOX（Black Cyc）]]（publisher）
+- [[发行版/Gun-Katana - Non-Human-Killer - Windows 8.1 Support Edition - Download Edition]]（developer）
+- [[发行版/Gun-Katana - Non-Human-Killer - Windows 8.1 Support Edition - Download Edition]]（publisher）
 - [[GUN-KATANA - Non-Human-Killer]]（developer）
-- [[Gun-Katana - Non-Human-Killer - Price Revised Edition]]（developer）
-- [[Gun-Katana - Non-Human-Killer - Price Revised Edition]]（publisher）
-- [[Gun-Katana - Non-Human-Killer - Regular Edition]]（developer）
-- [[Gun-Katana - Non-Human-Killer - Regular Edition]]（publisher）
-- [[Gun-Katana - Non-Human-Killer - Special Collection]]（developer）
-- [[Gun-Katana - Non-Human-Killer - Special Collection]]（publisher）
 - [[Gun-Katana - Non-Human-Killer - Windows 8.1 Support Edition - Download Edition]]（developer）
 - [[Gun-Katana - Non-Human-Killer - Windows 8.1 Support Edition - Download Edition]]（publisher）
-- [[Gun-Katana - Non-Human-Killer - Windows 8.1 Support Edition]]（developer）
-- [[Gun-Katana - Non-Human-Killer - Windows 8.1 Support Edition]]（publisher）
-- [[Hinakin BOX ~Hajimete nan desu Kokuhaku suru no~]]（publisher）
-- [[MinDeaD BlooD Complete Edition - Download Edition]]（developer）
-- [[MinDeaD BlooD Complete Edition - Download Edition]]（publisher）
-- [[MinDeaD BlooD Complete Edition - Price Revised Edition]]（developer）
-- [[MinDeaD BlooD Complete Edition - Price Revised Edition]]（publisher）
-- [[MinDeaD BlooD Complete Edition - Windows 8.1 Support Edition - Download Edition]]（developer）
-- [[MinDeaD BlooD Complete Edition - Windows 8.1 Support Edition - Download Edition]]（publisher）
-- [[MinDeaD BlooD Complete Edition - Windows 8.1 Support Edition]]（developer）
-- [[MinDeaD BlooD Complete Edition - Windows 8.1 Support Edition]]（publisher）
+- [[发行版/MinDeaD BlooD Complete Edition]]（publisher）
+- [[发行版/MinDeaD BlooD Complete Edition]]（developer）
 - [[MinDeaD BlooD Complete Edition]]（developer）
 - [[MinDeaD BlooD Complete Edition]]（publisher）
-- [[MinDeaD BlooD ~Shihaisha no Tame no Kyoushikyoku~ Complete Edition - Windows 7 Support Edition]]（developer）
-- [[MinDeaD BlooD ~Shihaisha no Tame no Kyoushikyoku~ Complete Edition - Windows 7 Support Edition]]（publisher）
-- [[MinDeaD BlooD ~Shihaisha no Tame no Kyoushikyoku~ DVD Special Edition - Vista Support Edition]]（developer）
-- [[MinDeaD BlooD ~Shihaisha no Tame no Kyoushikyoku~ DVD Special Edition - Vista Support Edition]]（publisher）
-- [[MinDeaD BlooD ~Shihaisha no Tame no Kyoushikyoku~ DVD Special Edition]]（developer）
-- [[MinDeaD BlooD ~Shihaisha no Tame no Kyoushikyoku~ DVD Special Edition]]（publisher）
-- [[MinDeaD BlooD ~Shihaisha no Tame no Kyoushikyoku~ DVDPG]]（developer）
-- [[MinDeaD BlooD ~Shihaisha no Tame no Kyoushikyoku~ First Press Edition]]（developer）
-- [[MinDeaD BlooD ~Shihaisha no Tame no Kyoushikyoku~ First Press Edition]]（publisher）
-- [[MinDeaD BlooD ~Shihaisha no Tame no Kyoushikyoku~ Low Price Edition DVDPG]]（developer）
-- [[MinDeaD BlooD ~Shihaisha no Tame no Kyoushikyoku~ Regular Edition]]（developer）
-- [[MinDeaD BlooD ~Shihaisha no Tame no Kyoushikyoku~ Regular Edition]]（publisher）
 - [[MinDeaD BlooD ～支配者の為の狂死曲～]]（developer）
 - [[虫爱少女]]（developer）<!-- AUTO:END duty -->
 

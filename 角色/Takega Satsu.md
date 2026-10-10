@@ -30,8 +30,7 @@ portrait_image: "assets/characters/c2390.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Rance VI - Collapse of Zeth - Takega Satsu Bonus]]（side）
-- [[Rance VI -Zeth Houkai- Sacchan Disc]]（side）
+<!-- AUTO:BEGIN character -->- [[发行版/Lansi 6]]（side）
 - [[大悪司]]（primary）<!-- AUTO:END character -->
 
 ## 声优

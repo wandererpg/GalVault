@@ -14,7 +14,7 @@ source_urls:
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[FLOWERS -Le volume sur automne-]]（publisher）
 - [[FLOWERS -Le volume sur hiver-]]（publisher）
-- [[FLOWERS -Le volume sur été-（release：）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Flowers -Le Volume sur Été- Download Edition（PROTOTYPE）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

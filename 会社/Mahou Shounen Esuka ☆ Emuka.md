@@ -12,7 +12,7 @@ source_urls:
 # Mahou Shounen Esuka ☆ Emuka
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Huiyi de Eustia（CK-GAL）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Aiyoku no Eustia： Angel's Blessing - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -97,11 +97,9 @@ cover_image: "assets/covers/v11194.webp"
 - [[Suzuta Miyako]]（鈴田 美夜子）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[LOVESICK PUPPIES -Bokura wa Koi Suru Tame ni Umaretekita- Download Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/LOVESICK PUPPIES -Bokura wa Koi Suru Tame ni Umaretekita- First Press Limited Edition]]
 - [[LOVESICK PUPPIES -Bokura wa Koi Suru Tame ni Umaretekita- First Press Limited Edition]]
-- [[LOVESICK PUPPIES -Bokura wa Koi Suru Tame ni Umaretekita- Trial Edition]]
-- [[Lovesick Puppies -Bokura wa Koi Suru Tame ni Umaretekita-]]
-- [[Lovesick Puppies -Women weile Lian'ai er Dansheng-]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -12,10 +12,10 @@ source_urls:
 # Chamnali
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[AOISHIRO HD REMASTER]]（publisher）
-- [[Akai Ito HD REMASTER]]（publisher）
-- [[Geojinmareseo Sijakaneun Sarangui Yeoreum]]（publisher）
-- [[Kimihane Couples ~Geunyeo wa Geunyeo ui Sarang haneun Igaewol gwa Jogeum Deo~]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Akai Ito & Aoishiro HD REMASTER - Special Edition]]（publisher）
+- [[发行版/Akai Ito（HAMSTER Corporation）]]（publisher）
+- [[发行版/Uso kara Hajimaru Koi no Natsu - Regular Package Edition]]（publisher）
+- [[发行版/Kimihane Couples ~Kanojo to Kanojo no Koi Suru Nikagetsu Chotto~ Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

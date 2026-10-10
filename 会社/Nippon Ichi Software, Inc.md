@@ -12,41 +12,16 @@ source_urls:
 # Nippon Ichi Software, Inc.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Eien no Aselia -Kono Daichi no Hate De- First Press Limited Edition（Nippon Ichi Software, Inc）]]（publisher）
-- [[Eien no Aselia -Kono Daichi no Hate De- Regular Edition（Nippon Ichi Software, Inc）]]（publisher）
-- [[Galleria no Chika Meikyuu to Majo no Ryodan - Download Edition]]（developer）
-- [[Galleria no Chika Meikyuu to Majo no Ryodan - Download Edition]]（publisher）
-- [[Galleria no Chika Meikyuu to Majo no Ryodan - Download Edition（Nippon Ichi Software, Inc）]]（developer）
-- [[Galleria no Chika Meikyuu to Majo no Ryodan - Download Edition（Nippon Ichi Software, Inc）]]（publisher）
-- [[Galleria no Chika Meikyuu to Majo no Ryodan]]（developer）
-- [[Galleria no Chika Meikyuu to Majo no Ryodan]]（publisher）
-- [[Galleria no Chika Meikyuu to Majo no Ryodan（NIS America）]]（developer）
-- [[Galleria no Chika Meikyuu to Majo no Ryodan（Nippon Ichi Software, Inc・release：）]]（developer）
-- [[Galleria no Chika Meikyuu to Majo no Ryodan（Nippon Ichi Software, Inc・release：）]]（publisher）
-- [[Galleria no Chika Meikyuu to Majo no Ryodan（Nippon Ichi Software, Inc）]]（developer）
-- [[Galleria no Chika Meikyuu to Majo no Ryodan（Nippon Ichi Software, Inc）]]（publisher）
-- [[Kuon no Kizuna Sairinshou]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Eien no Aselia -The Spirit of Eternity Sword- Premium Special Edition + Seinarukana -The Spirit of Eternity Sword 2- Special Edition W Set]]（publisher）
+- [[发行版/Labyrinth of Galleria： The Moon Society - EU Physical edition（NIS America）]]（developer）
+- [[发行版/Labyrinth of Galleria： The Moon Society - EU Physical edition（NIS America）]]（publisher）
+- [[发行版/Kuon no Kizuna]]（publisher）
 - [[Kuon no Kizuna]]（developer）
-- [[Labyrinth of Galleria： The Moon Society - Digital edition]]（developer）
-- [[Labyrinth of Galleria： The Moon Society - Digital edition（NIS America）]]（developer）
-- [[Labyrinth of Galleria： The Moon Society - Download edition]]（developer）
-- [[Labyrinth of Galleria： The Moon Society - EU Physical edition]]（developer）
-- [[Labyrinth of Galleria： The Moon Society - EU Physical edition（NIS America・release：）]]（developer）
 - [[Labyrinth of Galleria： The Moon Society - EU Physical edition（NIS America）]]（developer）
-- [[Labyrinth of Galleria： The Moon Society - NA Physical edition]]（developer）
-- [[Labyrinth of Galleria： The Moon Society - NA Physical edition（NIS America・release：）]]（developer）
-- [[Labyrinth of Galleria： The Moon Society - NA Physical edition（NIS America）]]（developer）
-- [[Labyrinth of Refrain： Coven of Dusk - Download Edition]]（developer）
-- [[Labyrinth of Refrain： Coven of Dusk - Package Edition]]（developer）
-- [[Refrain no Chika Meikyuu to Majo no Ryodan - Collector's Edition]]（developer）
+- [[发行版/Refrain no Chika Meikyuu to Majo no Ryodan - Collector's Edition（NIS America）]]（developer）
 - [[Refrain no Chika Meikyuu to Majo no Ryodan - Collector's Edition（NIS America）]]（developer）
-- [[Refrain no Chika Meikyuu to Majo no Ryodan - Download Edition]]（developer）
-- [[Refrain no Chika Meikyuu to Majo no Ryodan - Package Edition]]（developer）
-- [[Refrain no Chika Meikyuu to Majo no Ryodan（NIS America）]]（developer）
-- [[Silver 2425 - Limited Edition]]（publisher）
-- [[Silver 2425 - Limited Edition（Grasshopper Manufacture）]]（publisher）
-- [[Silver 2425 - Regular Edition]]（publisher）
-- [[Silver 2425 - Regular Edition（Grasshopper Manufacture）]]（publisher）
+- [[发行版/The Silver Case - Limited Package Edition]]（publisher）
+- [[发行版/Silver Jiken 25 Ku]]（publisher）
 - [[ガレリアの地下迷宮と魔女ノ旅団]]（developer）
 - [[ルフランの地下迷宮と魔女ノ旅団]]（developer）
 - [[久遠の絆]]（developer）<!-- AUTO:END duty -->

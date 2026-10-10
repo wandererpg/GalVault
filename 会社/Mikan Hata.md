@@ -14,14 +14,8 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Bakunyuu Tengoku Angel Bitches + CG Collection]]（developer）
 - [[Bakunyuu Tengoku Angel Bitches + CG Collection]]（publisher）
-- [[Bakunyuu Tengoku Angel Bitches]]（developer）
-- [[Bakunyuu Tengoku Angel Bitches]]（publisher）
-- [[Bakunyuu Tengoku Angel Bitches（Mikan Hata）]]（developer）
-- [[Bakunyuu Tengoku Angel Bitches（Mikan Hata）]]（publisher）
-- [[Big Titty Angel Bitches]]（developer）
-- [[Big Titty Angel Bitches]]（publisher）
-- [[Bàorǔ Tiānguó Tiānshǐ Bǎobèi]]（developer）
-- [[Bàorǔ Tiānguó Tiānshǐ Bǎobèi]]（publisher）
+- [[发行版/Bakunyuu Tengoku Angel Bitches + CG Collection]]（developer）
+- [[发行版/Bakunyuu Tengoku Angel Bitches + CG Collection]]（publisher）
 - [[爆乳天国エンジェルビッチーズ]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

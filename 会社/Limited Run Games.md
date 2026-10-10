@@ -13,28 +13,13 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Blazblue Central Fiction Special Edition - NA Physical Release]]（publisher）
-- [[CLANNAD - Collector's Edition]]（publisher）
-- [[CLANNAD - Package Edition（Limited Run Games）]]（publisher）
+- [[发行版/CLANNAD（Hikarizaka Gaoxiao Zhongwen Bu）]]（publisher）
 - [[Senren ＊ Banka - Package Edition]]（publisher）
-- [[The House in Fata Morgana - Dreams of the Revenants Collector's Edition]]（publisher）
-- [[The House in Fata Morgana - Dreams of the Revenants Collector's Edition（Limited Run Games・k：v18397）]]（publisher）
-- [[The House in Fata Morgana - Dreams of the Revenants Collector's Edition（Limited Run Games・release：）]]（publisher）
-- [[The House in Fata Morgana - Dreams of the Revenants Collector's Edition（Limited Run Games・vndb：r63）]]（publisher）
-- [[The House in Fata Morgana - Dreams of the Revenants Collector's Edition（Limited Run Games・vndb：r78）]]（publisher）
-- [[The House in Fata Morgana - Dreams of the Revenants Collector's Edition（Limited Run Games）]]（publisher）
-- [[The House in Fata Morgana - Dreams of the Revenants Edition - Download Edition]]（publisher）
-- [[The House in Fata Morgana - Dreams of the Revenants Edition - Download Edition（Limited Run Games）]]（publisher）
-- [[The House in Fata Morgana - Dreams of the Revenants Edition]]（publisher）
-- [[The House in Fata Morgana - Dreams of the Revenants Edition（Limited Run Games・k：v18397）]]（publisher）
-- [[The House in Fata Morgana - Dreams of the Revenants Edition（Limited Run Games・release：）]]（publisher）
-- [[The House in Fata Morgana - Dreams of the Revenants Edition（Limited Run Games・vndb：r57）]]（publisher）
-- [[The House in Fata Morgana - Dreams of the Revenants Edition（Limited Run Games・vndb：r78）]]（publisher）
-- [[The House in Fata Morgana - Dreams of the Revenants Edition（Limited Run Games）]]（publisher）
+- [[发行版/Fata Morgana no Yakata -DREAMS OF THE REVENANTS EDITION- - Download Edition]]（publisher）
+- [[发行版/Fata Morgana no Yakata -DREAMS OF THE REVENANTS EDITION- - Download Edition（NOVECT）]]（publisher）
 - [[The Silver Case - Limited Package Edition]]（publisher）
-- [[VA-11 HALL-A - Collector's Edition]]（publisher）
-- [[VA-11 HALL-A - Collector's Edition（Limited Run Games）]]（publisher）
-- [[VA-11 HALL-A - Standard Edition]]（publisher）
-- [[VA-11 HALL-A - Standard Edition（Limited Run Games）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/VA-11 Hall-A： Cyberpunk Bartender Action（Sukeban Games）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

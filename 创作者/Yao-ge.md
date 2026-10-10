@@ -12,7 +12,7 @@ source_urls:
 # Yao-ge
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Wo de Xianshi Shenghuo Tai Guoyu Chongshi]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Watashi no Real wa Juujitsu Shisugiteiru - Fully Voiced Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

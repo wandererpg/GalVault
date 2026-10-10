@@ -30,10 +30,10 @@ portrait_image: "assets/characters/c1585.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[ef - a fairy tale of the two. (ef Lite)]]（protagonist）
+<!-- AUTO:BEGIN character -->- [[发行版/ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（protagonist）
 - [[ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（protagonist）
-- [[ef - the first tale（minori）]]（side）
-- [[ef - the latter tale（minori）]]（protagonist）<!-- AUTO:END character -->
+- [[发行版/ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（side）
+<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Takagi Motoki]]（声优：伊香川 椎音）<!-- AUTO:END voice -->

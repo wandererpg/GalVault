@@ -12,8 +12,8 @@ source_urls:
 # DONUTS Co. Ltd.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Tokyo 7th Sisters]]（developer）
-- [[Tokyo 7th Sisters]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Tokyo 7th Sisters（DONUTS Co. Ltd）]]（developer）
+- [[发行版/Tokyo 7th Sisters（DONUTS Co. Ltd）]]（publisher）
 - [[Tokyo 7th Sisters（DONUTS Co. Ltd）]]（developer）
 - [[Tokyo 7th Sisters（DONUTS Co. Ltd）]]（publisher）
 - [[Tokyo 7th シスターズ]]（developer）<!-- AUTO:END duty -->

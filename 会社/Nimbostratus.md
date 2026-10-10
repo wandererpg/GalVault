@@ -11,8 +11,8 @@ source_urls:
 # Nimbostratus
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Steins;Gate 0]]（publisher）
-- [[Steins;Gate（Nimbostratus）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Steins;Gate 0 - Limited Deluxe Package Edition]]（publisher）
+- [[发行版/STEINS;GATE - Download Edition（MAGES・release：）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,7 +12,7 @@ source_urls:
 # Saikey Studios
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Indiscreet Mother： Yukari After Story]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Toaru Hahaoya no Ayamachi ~Yukari Sono Kouhen~ ver1.51f]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

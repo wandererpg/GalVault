@@ -66,10 +66,8 @@ cover_image: "assets/covers/v25820.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[TS Mahou Shoujo Nao! 2nd!! Package Edition]]
-- [[TS Mahou Shoujo Nao! 2nd!!]]
-- [[TS Mahou Shoujo Nao! 2nd!!（release：）]]
-- [[TS Mofa Shaonü Shan!2nd!!]]
-- [[TS Mofa Shaonü Shan!2nd!!（release：）]]<!-- AUTO:END release -->
+- [[发行版/TS Mahou Shoujo Nao! 2nd!! Package Edition]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

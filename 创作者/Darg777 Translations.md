@@ -12,7 +12,7 @@ source_urls:
 # Darg777 Translations
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Breaking a Stuck-up Wife! ~A Good Woman, But a Bitch~（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kouman Tsuma Kanraku!!! ~Ii Onna Dakedo Ya na Onna~ Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,12 +12,8 @@ source_urls:
 # SILKY'S
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ai Shimai IV Kuyashikute Kimochi Yokatta Nante Ienai - Download Edition]]（developer）
-- [[Ai Shimai IV Kuyashikute Kimochi Yokatta Nante Ienai - Download Edition]]（publisher）
-- [[Ai Shimai IV Kuyashikute Kimochi Yokatta Nante Ienai - Package Edition]]（developer）
-- [[Ai Shimai IV Kuyashikute Kimochi Yokatta Nante Ienai - Package Edition]]（publisher）
-- [[Ai Shimai IV Kuyashikute Kimochi Yokatta Nante Ienai - Trial Edition]]（developer）
-- [[Ai Shimai IV Kuyashikute Kimochi Yokatta Nante Ienai - Trial Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Ai Shimai IV Kuyashikute Kimochi Yokatta Nante Ienai（HTranslations）]]（developer）
+- [[发行版/Ai Shimai IV Kuyashikute Kimochi Yokatta Nante Ienai（HTranslations）]]（publisher）
 - [[爱姐妹IV 肥宅美梦]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

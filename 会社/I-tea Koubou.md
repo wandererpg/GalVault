@@ -14,10 +14,8 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Higurashi Zukushi -i-tea Koubou 2006 Comiket Works Collection-]]（developer）
 - [[Higurashi Zukushi -i-tea Koubou 2006 Comiket Works Collection-]]（publisher）
-- [[Higurashi no Naku Kisetsu ni -Bun Tsuzuri- Complete Edition]]（developer）
-- [[Higurashi no Naku Kisetsu ni -Bun Tsuzuri- Complete Edition]]（publisher）
-- [[Higurashi no Naku Kisetsu ni ~Sakuhin Zenshuu~]]（developer）
-- [[Higurashi no Naku Kisetsu ni ~Sakuhin Zenshuu~]]（publisher）
+- [[发行版/Higurashi Zukushi -i-tea Koubou 2006 Comiket Works Collection-]]（developer）
+- [[发行版/Higurashi Zukushi -i-tea Koubou 2006 Comiket Works Collection-]]（publisher）
 - [[ひぐらしのなく季節に]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

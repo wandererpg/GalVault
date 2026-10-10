@@ -80,14 +80,9 @@ cover_image: "assets/covers/v31662.webp"
 - [[bblackroses]]（bblackroses）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Chaoji Danwan Lunpo ANOTHER2 ~ Xiwang zhi Yue yu Juewang zhi Ri ~ Prologue]]
-- [[Chaoji Danwan Lunpo ANOTHER2 ~ Xiwang zhi Yue yu Juewang zhi Ri ~]]
-- [[Chaoji Danwan Lunpo ANOTHER2：Xiwang de Yueliang he Juewang de Taiyang - Prologue]]
-- [[Super Danganronpa Another 2 English Dub - Chapter 3]]
-- [[Super Danganronpa Another 2 ~Huimangui Dalgwa Jeolmangui Taeyang~ Complete Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Super Danganronpa Another 2 ~Huimangui Dalgwa Jeolmangui Taeyang~]]
 - [[Super Danganronpa Another 2 ~Huimangui Dalgwa Jeolmangui Taeyang~]]
-- [[Super Danganronpa Another 2： Luna nadezhdy i Solnce otchajanija]]
-- [[Super Danganronpa Another 2： The Sun of Despair and the Moon of Hope]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

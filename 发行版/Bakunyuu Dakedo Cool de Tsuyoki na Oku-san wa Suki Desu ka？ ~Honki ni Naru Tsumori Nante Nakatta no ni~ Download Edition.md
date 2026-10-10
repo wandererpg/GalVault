@@ -1,16 +1,52 @@
 ---
-entity_id: "release:vndb:r115879:work:vndb:work:v48315"
-type: "release"
-display_title: "Bakunyuu Dakedo Cool de Tsuyoki na Oku-san wa Suki Desu ka? ~Honki ni Naru Tsumori Nante Nakatta no ni~ Download Edition"
-release_date: "2024-02-23"
+entity_id: release:vndb:r115879:work:vndb:work:v48315
+type: release
+display_title: Bakunyuu Dakedo Cool de Tsuyoki na Oku-san wa Suki Desu ka? ~Honki ni Naru Tsumori Nante Nakatta no ni~ Download
+  Edition
+release_date: '2024-02-23'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r115879"
+  vndb: r115879
 source_urls:
-  vndb: "https://vndb.org/r115879"
+  vndb: https://vndb.org/r115879
+aliases:
+- Bakunyuu Dakedo Cool de Tsuyoki na Oku-san wa Suki Desu ka？ ~Honki ni Naru Tsumori Nante Nakatta no ni~
+- Bakunyuu Dakedo Cool de Tsuyoki na Oku-san wa Suki Desu ka？ ~Honki ni Naru Tsumori Nante Nakatta no ni~ Package Edition
+- Bakunyuu Dakedo Cool de Tsuyoki na Oku-san wa Suki Desu ka？ ~Honki ni Naru Tsumori Nante Nakatta no ni~ Trial Edition
+consolidated_releases:
+- id: r115879
+  title: Bakunyuu Dakedo Cool de Tsuyoki na Oku-san wa Suki Desu ka? ~Honki ni Naru Tsumori Nante Nakatta no ni~ Download
+    Edition
+  url: https://vndb.org/r115879
+  release_date: '2024-02-23'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r115878
+  title: Bakunyuu Dakedo Cool de Tsuyoki na Oku-san wa Suki Desu ka? ~Honki ni Naru Tsumori Nante Nakatta no ni~ Package Edition
+  url: https://vndb.org/r115878
+  release_date: '2024-02-23'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r124182
+  title: Bakunyuu Dakedo Cool de Tsuyoki na Oku-san wa Suki Desu ka? ~Honki ni Naru Tsumori Nante Nakatta no ni~
+  url: https://vndb.org/r124182
+  release_date: '2024-06-07'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r115880
+  title: Bakunyuu Dakedo Cool de Tsuyoki na Oku-san wa Suki Desu ka? ~Honki ni Naru Tsumori Nante Nakatta no ni~ Trial Edition
+  url: https://vndb.org/r115880
+  release_date: '2024-02-01'
+  platform: win
+  edition_type: trial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Bakunyuu Dakedo Cool de Tsuyoki na Oku-san wa Suki Desu ka? ~Honki ni Naru Tsumori Nante Nakatta no ni~ Download Edition

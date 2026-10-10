@@ -12,7 +12,7 @@ source_urls:
 # iTsukezigen
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Tianjin Zui（Bailu Yuanyi Yizhizu）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Amatsutsumi - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

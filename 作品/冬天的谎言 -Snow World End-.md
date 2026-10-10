@@ -66,14 +66,9 @@ cover_image: "assets/covers/v21161.webp"
 - [[Taguchi Hiroko]]（夏野 こおり）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Campus 3rd Years Anniversary BOX]]
-- [[Dongtian de Huangyan -Snow World End-]]
-- [[Furu Uso -Complete Four Seasons- Regular Edition]]
-- [[Fuyu Uso -Snow World End- All Ages Free Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Fuyu Uso -Snow World End- Dakimakura Cover Included Deluxe Limited Edition]]
 - [[Fuyu Uso -Snow World End- Dakimakura Cover Included Deluxe Limited Edition]]
-- [[Fuyu Uso -Snow World End- Download Edition]]
-- [[Fuyu Uso -Snow World End- Regular Edition]]
-- [[Fuyu Uso -Snow World End- Trial Edition]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

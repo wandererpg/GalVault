@@ -12,10 +12,10 @@ source_urls:
 # Mischievous Fox
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Luckydog1]]（publisher）
-- [[MAMIYA - A Shared Illusion of the World's End]]（publisher）
-- [[Uuultra C - Chapter 1]]（publisher）
-- [[Uuultra C（Mischievous Fox）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Luckydog1 - Download Edition（PROTOTYPE）]]（publisher）
+- [[发行版/Sekai Metsubou Kyouyuu Gensou MAMIYA - Download Edition]]（publisher）
+- [[发行版/Uuultra C - Download Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,19 +12,16 @@ source_urls:
 # Numskull Games Ltd.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[AI： The Somnium Files - EU Special Agent Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/AI： The Somnium Files - EU Special Agent Edition（Numskull Games Ltd）]]（publisher）
 - [[AI： The Somnium Files - EU Special Agent Edition（Numskull Games Ltd）]]（publisher）
-- [[AI： The Somnium Files - EU Standard Edition]]（publisher）
-- [[AI： The Somnium Files - EU Standard Edition（Numskull Games Ltd）]]（publisher）
-- [[CHAOS;HEAD NOAH ／ CHAOS;CHILD DOUBLE PACK - SteelBook Launch Edition - EU Version]]（publisher）
-- [[CHAOS;HEAD NOAH ／ CHAOS;CHILD DOUBLE PACK - SteelBook Launch Edition - EU Version（Numskull Games Ltd）]]（publisher）
+- [[发行版/Hundun zhi Zi - Package Edition（MAGES）]]（publisher）
+- [[发行版/Chaos;Head Noah - Regular Edition]]（publisher）
 - [[Danganronpa Decadence - EU Package Edition]]（publisher）
 - [[Danganronpa Decadence - EU Package Edition（Numskull Games Ltd・release：）]]（publisher）
 - [[Danganronpa Decadence - EU Package Edition（Numskull Games Ltd）]]（publisher）
-- [[ROBOTICS;NOTES ELITE & DaSH Double Pack - EU Package Edition]]（publisher）
-- [[ROBOTICS;NOTES ELITE & DaSH Double Pack - EU Package Edition（Numskull Games Ltd）]]（publisher）
-- [[YU-NO： A Girl Who Chants Love at the Bound of this World - EU Day One Edition]]（publisher）
-- [[YU-NO： A Girl Who Chants Love at the Bound of this World - EU Day One Edition（Numskull Games Ltd）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/ROBOTICS;NOTES ELITE（MAGES・release：）]]（publisher）
+- [[发行版/Kono Yo no Hate de Koi o Utau Shoujo YU-NO - Windows 10 Support Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

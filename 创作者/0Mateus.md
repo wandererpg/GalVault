@@ -12,13 +12,9 @@ source_urls:
 # 0Mateus
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Higurashi When They Cry Hou - Cap.1 Onikakushi]]（publisher）
-- [[Higurashi When They Cry Hou - Cap.2 Watanagashi]]（publisher）
-- [[Higurashi When They Cry Hou - Cap.3 Tatarigoroshi]]（publisher）
-- [[Higurashi When They Cry Hou - Cap.4 Himatsubushi]]（publisher）
-- [[Higurashi When They Cry Hou - Cap.5 Meakashi]]（publisher）
-- [[Higurashi When They Cry Hou - Cap.6 Tsumihoroboshi]]（publisher）
-- [[Higurashi no Naku Koro ni - Console Arcs Patch]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Himatsubushi Hen（07th Expansion）]]（publisher）
+- [[发行版/Matsuribayashi Hen（07th Expansion）]]（publisher）
+- [[发行版/Higurashi no Naku Koro ni Hou + Umineko no Naku Koro ni Saku - Twin Pack（ENTERGRAM・vndb：r11）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

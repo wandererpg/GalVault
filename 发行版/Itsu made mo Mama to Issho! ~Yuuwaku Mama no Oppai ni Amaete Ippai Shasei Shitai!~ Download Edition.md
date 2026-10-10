@@ -1,16 +1,66 @@
 ---
-entity_id: "release:vndb:r114547:work:vndb:work:v45954"
-type: "release"
-display_title: "Itsu made mo Mama to Issho! ~Yuuwaku Mama no Oppai ni Amaete Ippai Shasei Shitai!~ Download Edition"
-release_date: "2023-10-27"
+entity_id: release:vndb:r114547:work:vndb:work:v45954
+type: release
+display_title: Itsu made mo Mama to Issho! ~Yuuwaku Mama no Oppai ni Amaete Ippai Shasei Shitai!~ Download Edition
+release_date: '2023-10-27'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r114547"
+  vndb: r114547
 source_urls:
-  vndb: "https://vndb.org/r114547"
+  vndb: https://vndb.org/r114547
+aliases:
+- Itsu made mo Mama to Issho! ~Yuuwaku Mama no Oppai ni Amaete Ippai Shasei Shitai!~
+- Itsu made mo Mama to Issho! ~Yuuwaku Mama no Oppai ni Amaete Ippai Shasei Shitai!~ DVDPG
+- Itsu made mo Mama to Issho! ~Yuuwaku Mama no Oppai ni Amaete Ippai Shasei Shitai!~ Package Edition
+- Itsu made mo Mama to Issho! ~Yuuwaku Mama no Oppai ni Amaete Ippai Shasei Shitai!~ Trial Edition
+- ItsuMasho
+consolidated_releases:
+- id: r114547
+  title: Itsu made mo Mama to Issho! ~Yuuwaku Mama no Oppai ni Amaete Ippai Shasei Shitai!~ Download Edition
+  url: https://vndb.org/r114547
+  release_date: '2023-10-27'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r110556
+  title: Itsu made mo Mama to Issho! ~Yuuwaku Mama no Oppai ni Amaete Ippai Shasei Shitai!~ Package Edition
+  url: https://vndb.org/r110556
+  release_date: '2023-10-27'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r151232
+  title: Itsu made mo Mama to Issho! ~Yuuwaku Mama no Oppai ni Amaete Ippai Shasei Shitai!~ DVDPG
+  url: https://vndb.org/r151232
+  release_date: '2024-08-30'
+  platform: dvd
+  edition_type: complete
+  is_all_ages: false
+- id: r116446
+  title: Itsu made mo Mama to Issho! ~Yuuwaku Mama no Oppai ni Amaete Ippai Shasei Shitai!~
+  url: https://vndb.org/r116446
+  release_date: '2023'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r114697
+  title: ItsuMasho
+  url: https://vndb.org/r114697
+  release_date: '2023-10-31'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r114034
+  title: Itsu made mo Mama to Issho! ~Yuuwaku Mama no Oppai ni Amaete Ippai Shasei Shitai!~ Trial Edition
+  url: https://vndb.org/r114034
+  release_date: '2023-10-13'
+  platform: win
+  edition_type: trial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Itsu made mo Mama to Issho! ~Yuuwaku Mama no Oppai ni Amaete Ippai Shasei Shitai!~ Download Edition

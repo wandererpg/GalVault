@@ -12,12 +12,10 @@ source_urls:
 # COSMIC CUTE
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[LOVESICK PUPPIES -Bokura wa Koi Suru Tame ni Umaretekita- Download Edition]]（developer）
-- [[LOVESICK PUPPIES -Bokura wa Koi Suru Tame ni Umaretekita- Download Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/LOVESICK PUPPIES -Bokura wa Koi Suru Tame ni Umaretekita- First Press Limited Edition]]（developer）
+- [[发行版/LOVESICK PUPPIES -Bokura wa Koi Suru Tame ni Umaretekita- First Press Limited Edition]]（publisher）
 - [[LOVESICK PUPPIES -Bokura wa Koi Suru Tame ni Umaretekita- First Press Limited Edition]]（developer）
 - [[LOVESICK PUPPIES -Bokura wa Koi Suru Tame ni Umaretekita- First Press Limited Edition]]（publisher）
-- [[LOVESICK PUPPIES -Bokura wa Koi Suru Tame ni Umaretekita- Trial Edition]]（developer）
-- [[LOVESICK PUPPIES -Bokura wa Koi Suru Tame ni Umaretekita- Trial Edition]]（publisher）
 - [[LOVESICK PUPPIES -我们为了恋爱而诞生-]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

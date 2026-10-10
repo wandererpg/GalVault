@@ -67,8 +67,7 @@ cover_image: "assets/covers/v44239.webp"
 - [[Yoshida Mimi]]（烏丸そら）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[The Nightmaretaker： The Man Possessed by the Devil]]
-- [[Youmuin：The Nightmaretaker ~Akuma ni Tsukareta Otoko~]]
+<!-- AUTO:BEGIN release -->- [[发行版/Youmuin：The Nightmaretaker ~Akuma ni Tsukareta Otoko~（Shiritsu Sakuranbo Nyuugakkou）]]
 - [[Youmuin：The Nightmaretaker ~Akuma ni Tsukareta Otoko~（Shiritsu Sakuranbo Nyuugakkou）]]<!-- AUTO:END release -->
 
 ## 动画化

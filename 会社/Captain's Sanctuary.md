@@ -12,21 +12,13 @@ source_urls:
 # Captain's Sanctuary
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ayakashi Gohan ~Okawari!~ Prolog]]（publisher）
-- [[Ayakashi Gohan ~Okawari!~ Rut Haginoske]]（publisher）
-- [[Ayakashi Gohan ~Okawari!~]]（publisher）
-- [[Iz duha, iz sveta, iz alogo cveta - demo]]（publisher）
-- [[Iz duha, iz sveta, iz alogo cveta]]（publisher）
-- [[Jad babochki, Cvetochnye okovy - Demo]]（publisher）
-- [[Jad babochki, Cvetochnye okovy]]（publisher）
-- [[Klub samoubijc (Demo)]]（publisher）
-- [[Klub samoubijc - Complete Edition]]（publisher）
-- [[Klub samoubijc]]（publisher）
-- [[Oskolki sud'by]]（publisher）
-- [[Oskolki sud'by（Captain's Sanctuary）]]（publisher）
-- [[Oskolki sud'by： Sezony ljubvi - Demo]]（publisher）
-- [[Oskolki sud'by： Sezony ljubvi]]（publisher）
-- [[Psihodelika chjornoj babochki]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Ayakashi Gohan ~Okawari!~  for S Regular edition]]（publisher）
+- [[发行版/Akaya Akashiya Ayakashino - Regular Edition]]（publisher）
+- [[发行版/Chou no Doku Hana no Kusari ~Taishou Tsuya Koi Ibun~ Download Edition]]（publisher）
+- [[发行版/Club Suicide - Complete Edition（MORPATH）]]（publisher）
+- [[发行版/Shirahana no Ori ~Hiiro no Kakera 4~ Shiki no Uta - Twin Pack]]（publisher）
+- [[发行版/Shirahana no Ori ~Hiiro no Kakera 4~ Shiki no Uta - Regular Edition]]（publisher）
+- [[发行版/Geomeun Nabiui Psychedelica（Idea Factory Co., Ltd）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

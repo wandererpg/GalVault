@@ -12,48 +12,16 @@ source_urls:
 # CRYSTALiA
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[-KATANA Project CompleteBox- Ouka Kenran]]（developer）
-- [[-KATANA Project CompleteBox- Ouka Kenran]]（publisher）
-- [[-KATANA Project CompleteBox- Ouka Kenran（CRYSTALiA）]]（developer）
-- [[-KATANA Project CompleteBox- Ouka Kenran（CRYSTALiA）]]（publisher）
-- [[Akatsuki Yureru Koi Akari - Download Edition]]（developer）
-- [[Akatsuki Yureru Koi Akari - Download Edition]]（publisher）
-- [[Akatsuki Yureru Koi Akari - Download Edition（ENTERGRAM）]]（developer）
-- [[Akatsuki Yureru Koi Akari - First Press Edition]]（developer）
-- [[Akatsuki Yureru Koi Akari - First Press Edition]]（publisher）
-- [[Akatsuki Yureru Koi Akari - Limited Edition]]（developer）
-- [[Akatsuki Yureru Koi Akari - Limited Edition（ENTERGRAM）]]（developer）
-- [[Akatsuki Yureru Koi Akari - Regular Edition]]（developer）
-- [[Akatsuki Yureru Koi Akari - Regular Edition（ENTERGRAM）]]（developer）
-- [[Akatsuki Yureru Koi Akari - Suzakuin Momiji Dakimakura Cover-included Edition]]（developer）
-- [[Akatsuki Yureru Koi Akari - Suzakuin Momiji Dakimakura Cover-included Edition]]（publisher）
-- [[Akatsuki Yureru Koi Akari - Trial Edition]]（developer）
-- [[Akatsuki Yureru Koi Akari - Trial Edition（CRYSTALiA）]]（developer）
-- [[Akatsuki Yureru Koi Akari - Trial Edition（CRYSTALiA）]]（publisher）
-- [[Akatsuki Yureru Koi Akari - Trial Edition（ENTERGRAM）]]（developer）
-- [[Akatsuki Yureru Koi Akari Download Edition]]（developer）
-- [[Dimension Totsu Lovers!! - Deluxe Edition]]（developer）
-- [[Dimension Totsu Lovers!! - Deluxe Edition]]（publisher）
-- [[Dimension Totsu Lovers!! - Download Deluxe Edition]]（developer）
-- [[Dimension Totsu Lovers!! - Download Deluxe Edition]]（publisher）
-- [[Dimension Totsu Lovers!! - Download Edition]]（developer）
-- [[Dimension Totsu Lovers!! - Download Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Kizuna Kirameku Koi Iroha -Tsubaki Renka- Original Work Bundled Edition]]（developer）
+- [[发行版/Kizuna Kirameku Koi Iroha -Tsubaki Renka- Original Work Bundled Edition]]（publisher）
+- [[发行版/Setsuna ni Kakeru Koi Hanabi + Akatsuki Yureru Koi Akari Set]]（developer）
+- [[发行版/Setsuna ni Kakeru Koi Hanabi + Akatsuki Yureru Koi Akari Set]]（publisher）
+- [[发行版/Dimension Totsu Lovers!! - Download Preorder Limited Deluxe Edition]]（developer）
+- [[发行版/Dimension Totsu Lovers!! - Download Preorder Limited Deluxe Edition]]（publisher）
 - [[Dimension Totsu Lovers!! - Download Preorder Limited Deluxe Edition]]（developer）
 - [[Dimension Totsu Lovers!! - Download Preorder Limited Deluxe Edition]]（publisher）
-- [[Dimension Totsu Lovers!! - Regular Edition]]（developer）
-- [[Dimension Totsu Lovers!! - Regular Edition]]（publisher）
-- [[Dimension Totsu Lovers!! - Trial Edition]]（developer）
-- [[Dimension Totsu Lovers!! - Trial Edition]]（publisher）
-- [[Kizuna Kirameku Koi Iroha - Special Memorial Edition]]（developer）
-- [[Kizuna Kirameku Koi Iroha - Special Memorial Edition]]（publisher）
-- [[Kizuna Kirameku Koi Iroha -Tsubaki Renka- Download Edition]]（developer）
-- [[Kizuna Kirameku Koi Iroha -Tsubaki Renka- Download Edition]]（publisher）
-- [[Kizuna Kirameku Koi Iroha -Tsubaki Renka- First Press Special Edition]]（developer）
-- [[Kizuna Kirameku Koi Iroha -Tsubaki Renka- First Press Special Edition]]（publisher）
 - [[Kizuna Kirameku Koi Iroha -Tsubaki Renka- Original Work Bundled Edition]]（developer）
 - [[Kizuna Kirameku Koi Iroha -Tsubaki Renka- Original Work Bundled Edition]]（publisher）
-- [[Kizuna Kirameku Koi Iroha -Tsubaki Renka- Trial Version]]（developer）
-- [[Kizuna Kirameku Koi Iroha -Tsubaki Renka- Trial Version]]（publisher）
 - [[Setsuna ni Kakeru Koi Hanabi + Akatsuki Yureru Koi Akari Set]]（developer）
 - [[共结情缘的剑舞恋曲 -椿恋歌-]]（developer）
 - [[红月摇曳的恋之星火]]（developer）

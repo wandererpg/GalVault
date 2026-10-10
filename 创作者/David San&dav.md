@@ -12,8 +12,8 @@ source_urls:
 # David San&dav
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[CLANNAD（vndb：r14）]]（publisher）
-- [[Stella of The End（vndb：r14）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/CLANNAD（Hikarizaka Gaoxiao Zhongwen Bu）]]（publisher）
+- [[发行版/Tsui no Stella]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

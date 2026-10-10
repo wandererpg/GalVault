@@ -12,7 +12,7 @@ source_urls:
 # Tjomka-Struganok
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Slay the Princess（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Slay the Princess - The Pristine Cut]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

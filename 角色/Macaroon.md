@@ -32,7 +32,7 @@ portrait_image: "assets/characters/c5291.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Twinkle ☆ Crusaders Go Go - Regular Edition]]（primary）<!-- AUTO:END character -->
+<!-- AUTO:BEGIN character -->- [[发行版/Twinkle ☆ Crusaders Go Go - Deluxe (Best Edition)]]（primary）<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Asumi Kana]]（声优：阿澄 佳奈）<!-- AUTO:END voice -->

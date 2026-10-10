@@ -12,18 +12,10 @@ source_urls:
 # Guilty
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Toriko no Tsubasa ~Butaiura de Midara ni Odoru Marionette~ Bundle Edition]]（developer）
-- [[Toriko no Tsubasa ~Butaiura de Midara ni Odoru Marionette~ Bundle Edition]]（publisher）
-- [[Toriko no Tsubasa ~Butaiura de Midara ni Odoru Marionette~ DVDPG]]（developer）
-- [[Toriko no Tsubasa ~Butaiura de Midara ni Odoru Marionette~ DVDPG]]（publisher）
-- [[Toriko no Tsubasa ~Butaiura de Midara ni Odoru Marionette~ Deluxe Edition]]（developer）
-- [[Toriko no Tsubasa ~Butaiura de Midara ni Odoru Marionette~ Deluxe Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Toriko no Tsubasa ~Butaiura de Midara ni Odoru Marionette~ Download Edition]]（developer）
+- [[发行版/Toriko no Tsubasa ~Butaiura de Midara ni Odoru Marionette~ Download Edition]]（publisher）
 - [[Toriko no Tsubasa ~Butaiura de Midara ni Odoru Marionette~ Download Edition]]（developer）
 - [[Toriko no Tsubasa ~Butaiura de Midara ni Odoru Marionette~ Download Edition]]（publisher）
-- [[Toriko no Tsubasa ~Butaiura de Midara ni Odoru Marionette~ Regular Edition]]（developer）
-- [[Toriko no Tsubasa ~Butaiura de Midara ni Odoru Marionette~ Regular Edition]]（publisher）
-- [[Toriko no Tsubasa ~Butaiura de Midara ni Odoru Marionette~ Trial Edition]]（developer）
-- [[Toriko no Tsubasa ~Butaiura de Midara ni Odoru Marionette~ Trial Edition]]（publisher）
 - [[虜ノ翼 ～舞台裏で淫らに踊る処女人形～]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

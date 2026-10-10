@@ -12,23 +12,12 @@ source_urls:
 # Overdose
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Amae Haha Nozomi ＂Dame yo, Sonna ni Okaa-san o Motomenaide...＂ - DVDPG]]（developer）
-- [[Amae Haha Nozomi ＂Dame yo, Sonna ni Okaa-san o Motomenaide...＂ - Download Edition]]（developer）
-- [[Amae Haha Nozomi ＂Dame yo, Sonna ni Okaa-san o Motomenaide...＂ - Download Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Amae Haha Nozomi ＂Dame yo, Sonna ni Okaa-san o Motomenaide...＂ - Low Price Edition DVDPG]]（developer）
+- [[发行版/Amae Haha Nozomi ＂Dame yo, Sonna ni Okaa-san o Motomenaide...＂ - Low Price Edition DVDPG]]（publisher）
 - [[Amae Haha Nozomi ＂Dame yo, Sonna ni Okaa-san o Motomenaide...＂ - Low Price Edition DVDPG]]（developer）
-- [[Amae Haha Nozomi ＂Dame yo, Sonna ni Okaa-san o Motomenaide...＂ - Low Price Edition]]（developer）
-- [[Amae Haha Nozomi ＂Dame yo, Sonna ni Okaa-san o Motomenaide...＂ - Low Price Edition]]（publisher）
-- [[Amae Haha Nozomi ＂Dame yo, Sonna ni Okaa-san o Motomenaide...＂ - Package Edition]]（developer）
-- [[Amae Haha Nozomi ＂Dame yo, Sonna ni Okaa-san o Motomenaide...＂ - Package Edition]]（publisher）
-- [[Bikyaku Seido Kaichou Ai ＂Ko, Kono Hentai! Watashi no Tights ni Nante Koto o...!＂ - DVDPG]]（developer）
-- [[Bikyaku Seido Kaichou Ai ＂Ko, Kono Hentai! Watashi no Tights ni Nante Koto o...!＂ - Download Edition]]（developer）
+- [[发行版/Bikyaku Seido Kaichou Ai ＂Ko, Kono Hentai! Watashi no Tights ni Nante Koto o...!＂ - Low Price Edition DVDPG]]（developer）
 - [[Bikyaku Seido Kaichou Ai ＂Ko, Kono Hentai! Watashi no Tights ni Nante Koto o...!＂ - Low Price Edition DVDPG]]（developer）
-- [[Bikyaku Seido Kaichou Ai ＂Ko, Kono Hentai! Watashi no Tights ni Nante Koto o...!＂ - Low Price Edition]]（developer）
-- [[Bikyaku Seido Kaichou Ai ＂Ko, Kono Hentai! Watashi no Tights ni Nante Koto o...!＂ Limited Edition]]（developer）
-- [[Overdose Collection Pack - Download Edition]]（publisher）
-- [[Overdose Collection Pack - Download Edition（Overdose）]]（publisher）
-- [[Overdose Collection Pack]]（publisher）
-- [[Overdose Collection Pack（Overdose）]]（publisher）
+- [[发行版/Bikyaku Seido Kaichou Ai ＂Ko, Kono Hentai! Watashi no Tights ni Nante Koto o...!＂ - Low Price Edition DVDPG]]（publisher）
 - [[甘え母 希美「だめよ、そんなにお母さんを求めないで……」]]（developer）
 - [[美脚性奴会長 亜衣 「こ、この変態！ 私のタイツになんてことを……！」]]（developer）<!-- AUTO:END duty -->
 

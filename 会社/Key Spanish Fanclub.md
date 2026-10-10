@@ -12,10 +12,10 @@ source_urls:
 # Key Spanish Fanclub
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Clannad（Key Spanish Fanclub）]]（publisher）
-- [[Kanon（Key Spanish Fanclub）]]（publisher）
-- [[Little Busters!（Key Spanish Fanclub）]]（publisher）
-- [[Planetarian ~La maravilla de un pequeño planeta~]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/CLANNAD（Hikarizaka Gaoxiao Zhongwen Bu）]]（publisher）
+- [[发行版/Kanon（Key）]]（publisher）
+- [[发行版/Little Busters! English Edition（Key）]]（publisher）
+- [[发行版/Planetarian ~The Reverie of a Little Planet~（release：）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

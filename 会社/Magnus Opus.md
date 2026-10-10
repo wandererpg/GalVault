@@ -12,8 +12,8 @@ source_urls:
 # Magnus Opus
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Kara no Shoujo - The Second Episode（Magnus Opus・release：）]]（publisher）
-- [[Kara no Shoujo - The Second Episode（Magnus Opus）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kara no Shoujo - NEW CAST REMASTER EDITION - Download Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

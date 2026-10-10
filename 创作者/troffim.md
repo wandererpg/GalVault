@@ -12,8 +12,8 @@ source_urls:
 # troffim
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Proud Father v0.13.5]]（publisher）
-- [[Such a Sharp Pain v0.11.7R]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Proud Father v0.13.5（release：）]]（publisher）
+- [[发行版/Such a Sharp Pain ［v0.11.7R］]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

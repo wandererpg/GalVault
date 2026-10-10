@@ -11,8 +11,8 @@ source_urls:
 # Eientei Translations
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Full Metal Daemon Muramasa（Eientei Translations）]]（publisher）
-- [[Kimi to Kanojo to Kanojo no Koi（Eientei Translations）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Soukou Akki Muramasa - Windows 10 Support Edition - Download Edition]]（publisher）
+- [[发行版/Ty, ja i ona： Istorija ljubvi - Steam Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

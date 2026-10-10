@@ -12,8 +12,8 @@ source_urls:
 # Translate Kordai
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Phoenix Wright： Thanai Fa Pra-than (T)]]（publisher）
-- [[Thavidet Thiangthae： Thanai Fa Pra-than (D)]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Gyakuten Saiban： Yomigaeru Gyakuten]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

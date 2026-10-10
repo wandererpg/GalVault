@@ -14,19 +14,13 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Kanojo wa Sora ni Inoranai -quantum girlfriend- Download Edition]]（developer）
 - [[Kanojo wa Sora ni Inoranai -quantum girlfriend- Download Edition]]（publisher）
-- [[Kanojo wa Sora ni Inoranai -quantum girlfriend- Package Edition]]（developer）
-- [[Kanojo wa Sora ni Inoranai -quantum girlfriend- Package Edition]]（publisher）
-- [[Kanojo wa Sora ni Inoranai -quantum girlfriend- Trial Edition]]（developer）
-- [[Kanojo wa Sora ni Inoranai -quantum girlfriend- Trial Edition]]（publisher）
+- [[发行版/Kanojo wa Sora ni Inoranai -quantum girlfriend- Download Edition]]（developer）
+- [[发行版/Kanojo wa Sora ni Inoranai -quantum girlfriend- Download Edition]]（publisher）
 - [[Re;Lord Dai San Shou ~Grossen no Maou to Saigo no Majo~ Download Edition]]（developer）
 - [[Re;Lord Dai San Shou ~Grossen no Maou to Saigo no Majo~ Download Edition]]（publisher）
-- [[Re;Lord Dai San Shou ~Grossen no Maou to Saigo no Majo~（Escu：de）]]（developer）
-- [[Re;Lord Dai San Shou ~Grossen no Maou to Saigo no Majo~（Escu：de）]]（publisher）
+- [[发行版/Re;Lord Dai San Shou ~Grossen no Maou to Saigo no Majo~ Download Edition]]（developer）
+- [[发行版/Re;Lord Dai San Shou ~Grossen no Maou to Saigo no Majo~ Download Edition]]（publisher）
 - [[Re;Lord 第三章 ～グローセンの魔王と最後の魔女～]]（developer）
-- [[Re;Lord： Yakusai no Majo Hen - Zen San Shou Package - Download Edition]]（developer）
-- [[Re;Lord： Yakusai no Majo Hen - Zen San Shou Package - Download Edition]]（publisher）
-- [[Re;Lord： Yakusai no Majo Hen - Zen San Shou Package]]（developer）
-- [[Re;Lord： Yakusai no Majo Hen - Zen San Shou Package]]（publisher）
 - [[彼女は高天（そら）に祈らない -quantum girlfriend-]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

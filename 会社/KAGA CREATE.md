@@ -11,21 +11,14 @@ source_urls:
 # KAGA CREATE
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Friend to Lover ~Fureraba~ Download Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Friend to Lover ~Fureraba~ First Press Limited Edition]]（publisher）
 - [[Friend to Lover ~Fureraba~ First Press Limited Edition]]（publisher）
-- [[Friend to Lover ~Fureraba~ Regular Edition]]（publisher）
-- [[Friend to Lover ~Fureraba~ Trial Edition]]（publisher）
-- [[Higurashi no Naku Koro ni Sui]]（publisher）
-- [[Higurashi no Naku Koro ni Sui（KAGA CREATE・release：）]]（publisher）
-- [[Higurashi no Naku Koro ni Sui（KAGA CREATE・vndb：r80）]]（publisher）
-- [[Higurashi no Naku Koro ni Sui（KAGA CREATE・work：v67）]]（publisher）
-- [[Higurashi no Naku Koro ni Sui（KAGA CREATE・work：v68）]]（publisher）
-- [[Higurashi no Naku Koro ni Sui（KAGA CREATE）]]（publisher）
-- [[Umineko no Naku Koro ni Chiru ~Shinjitsu to Gensou no Nocturne~ Limited Edition]]（publisher）
-- [[Umineko no Naku Koro ni Chiru ~Shinjitsu to Gensou no Nocturne~ Regular Edition]]（publisher）
-- [[Umineko no Naku Koro ni Chiru ~Shinjitsu to Gensou no Nocturne~ Umineko Set]]（publisher）
-- [[Umineko no Naku Koro ni Chiru ~Shinjitsu to Gensou no Nocturne~ Umineko Set（KAGA CREATE）]]（publisher）
-- [[Umineko no Naku Koro ni ~Majo to Suiri no Rondo~]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Higurashi no Naku Koro ni Hou + Umineko no Naku Koro ni Saku - Twin Pack（ENTERGRAM・vndb：r11）]]（publisher）
+- [[发行版/Matsuribayashi Hen（07th Expansion）]]（publisher）
+- [[发行版/Himatsubushi Hen（07th Expansion）]]（publisher）
+- [[发行版/Umineko no Naku Koro ni Chiru - Episode 8 - Twilight of the Golden Witch]]（publisher）
+- [[发行版/Umineko no Naku Koro ni - Episode 4 - Alliance of the Golden Witch]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

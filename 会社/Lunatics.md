@@ -12,8 +12,8 @@ source_urls:
 # Lunatics
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[The 25th Ward： The Silver Case]]（publisher）
-- [[The Silver Case（Lunatics）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Silver Jiken 25 Ku]]（publisher）
+- [[发行版/The Silver Case - Limited Package Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

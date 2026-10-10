@@ -130,23 +130,9 @@ cover_image: "assets/covers/v29066.webp"
 - [[Yuuki Honoka]]（結城 ほのか）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[D.C.4 ~Da Capo 4~ & D.C.4 ~Da Capo 4~ Fortunate Departures - Bundled Edition]]
-- [[D.C.4 ~Da Capo 4~ & D.C.4 ~Da Capo 4~ Fortunate Departures - Bundled Edition（ENTERGRAM・release：）]]
+<!-- AUTO:BEGIN release -->- [[发行版/D.C.4 ~Da Capo 4~ & D.C.4 ~Da Capo 4~ Fortunate Departures - Bundled Edition（ENTERGRAM）]]
 - [[D.C.4 ~Da Capo 4~ & D.C.4 ~Da Capo 4~ Fortunate Departures - Bundled Edition（ENTERGRAM）]]
-- [[D.C.4 ~Da Capo 4~ Fortunate Departures - CIRCUS 20th Anniversary Special Edition]]
-- [[D.C.4 ~Da Capo 4~ Fortunate Departures - Download Edition]]
-- [[D.C.4 ~Da Capo 4~ Fortunate Departures - Download Edition（ENTERGRAM・release：）]]
-- [[D.C.4 ~Da Capo 4~ Fortunate Departures - Download Edition（ENTERGRAM）]]
-- [[D.C.4 ~Da Capo 4~ Fortunate Departures - First Press Edition]]
-- [[D.C.4 ~Da Capo 4~ Fortunate Departures - Limited Edition]]
-- [[D.C.4 ~Da Capo 4~ Fortunate Departures - Limited Edition（ENTERGRAM）]]
-- [[D.C.4 ~Da Capo 4~ Fortunate Departures - Regular Edition]]
-- [[D.C.4 ~Da Capo 4~ Fortunate Departures - Regular Edition（ENTERGRAM）]]
-- [[D.C.4 ~Da Capo 4~ Fortunate Departures]]
-- [[D.C.4 ~Da Capo 4~ Fortunate Departures（Sakura Symphony Re;Translation）]]
-- [[D.C.4 ~Da Capo 4~ Sweet Harmony - Deluxe Limited Edition]]
-- [[D.C.4 ~Da Capo 4~ Sweet Harmony - Download Edition]]
-- [[D.C.4 ~Da Capo 4~ Sweet Harmony - First Press Edition]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

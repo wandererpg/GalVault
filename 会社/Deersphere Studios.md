@@ -12,14 +12,8 @@ source_urls:
 # Deersphere Studios
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Mushroom Oasis v3.0]]（developer）
-- [[Mushroom Oasis v3.0]]（publisher）
-- [[Mushroom Oasis v3.0（Deersphere Studios・release：）]]（developer）
-- [[Mushroom Oasis v3.0（Deersphere Studios・release：）]]（publisher）
-- [[Mushroom Oasis v3.0（Deersphere Studios・vndb：r13）]]（developer）
-- [[Mushroom Oasis v3.0（Deersphere Studios・vndb：r13）]]（publisher）
-- [[Mushroom Oasis v3.0（Deersphere Studios・vndb：r16）]]（developer）
-- [[Mushroom Oasis v3.0（Deersphere Studios・vndb：r16）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Mushroom Oasis v3.0（Deersphere Studios）]]（developer）
+- [[发行版/Mushroom Oasis v3.0（Deersphere Studios）]]（publisher）
 - [[Mushroom Oasis v3.0（Deersphere Studios）]]（developer）
 - [[Mushroom Oasis v3.0（Deersphere Studios）]]（publisher）
 - [[Mushroom Oasis]]（developer）<!-- AUTO:END duty -->

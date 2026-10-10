@@ -1,16 +1,66 @@
 ---
-entity_id: "release:vndb:r82138:work:vndb:work:v31272"
-type: "release"
-display_title: "Nee Nee Nee - Download Edition"
-release_date: "2021-08-27"
+entity_id: release:vndb:r82138:work:vndb:work:v31272
+type: release
+display_title: Nee Nee Nee - Download Edition
+release_date: '2021-08-27'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r82138"
+  vndb: r82138
 source_urls:
-  vndb: "https://vndb.org/r82138"
+  vndb: https://vndb.org/r82138
+aliases:
+- Nee Nee Nee
+- Nee Nee Nee - Package Edition
+- Nee Nee Nee - Trial Edition
+- Nee Nee Nee（HTranslations）
+- Nee Nee Nee（release：）
+consolidated_releases:
+- id: r82138
+  title: Nee Nee Nee - Download Edition
+  url: https://vndb.org/r82138
+  release_date: '2021-08-27'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r80177
+  title: Nee Nee Nee - Package Edition
+  url: https://vndb.org/r80177
+  release_date: '2021-08-27'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r153175
+  title: Nee Nee Nee
+  url: https://vndb.org/r153175
+  release_date: '2026-04-13'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r100961
+  title: Nee Nee Nee
+  url: https://vndb.org/r100961
+  release_date: '2022-12-26'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r110340
+  title: Nee Nee Nee
+  url: https://vndb.org/r110340
+  release_date: '2023-07-16'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r107508
+  title: Nee Nee Nee - Trial Edition
+  url: https://vndb.org/r107508
+  release_date: '2021-08-06'
+  platform: win
+  edition_type: trial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Nee Nee Nee - Download Edition

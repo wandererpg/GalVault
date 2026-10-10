@@ -121,45 +121,9 @@ cover_image: "assets/covers/v66.webp"
 - [[shizuku（vndb：per）]]（大石 育美）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[BEST HIT Selection CROSS†CHANNEL ~To all people~]]
-- [[CROSS†CHANGE]]
-- [[CROSS†CHANNEL - Jiaocuo de Shijie]]
-- [[CROSS†CHANNEL -FINAL COMPLETE- Download Edition]]
-- [[CROSS†CHANNEL ～For all people～ Limited Edition]]
-- [[CROSS†CHANNEL ～For all people～ Regular Edition]]
-- [[CROSS†CHANNEL ～For all people～]]
-- [[CROSS†CHANNEL（FlyingShine・release：）]]
-- [[CROSS†CHANNEL（FlyingShine）]]
-- [[CROSS†CHANNEL： Steam Edition]]
-- [[Cross Channel Steam Edition Chinese Localization]]
-- [[Cross Channel]]
-- [[Cross†Channel - Cross-platform Ported]]
-- [[Cross†Channel - Reprint Edition]]
-- [[Cross†Channel - Reprint Edition（CROSS†CHANNEL）]]
-- [[Cross†Channel - Reprint Edition（Qunqing Xueyuan Fangsong Bu）]]
-- [[Cross†Channel -Final Complete- Limited Quantity Edition]]
-- [[Cross†Channel Tower of Friends]]
-- [[Cross†Channel ~For All People~ Limited Edition]]
-- [[Cross†Channel ~For All People~ Limited Edition（MAGES）]]
-- [[Cross†Channel ~For All People~ Regular Edition]]
-- [[Cross†Channel ~For All People~ Regular Edition（MAGES）]]
-- [[Cross†Channel ~In Memory of All People~ Limited Edition]]
-- [[Cross†Channel ~In Memory of All People~ Regular Edition]]
-- [[Cross†Channel ~To All People~ (2800 Collection)]]
-- [[Cross†Channel ~To All People~ Limited Edition]]
-- [[Cross†Channel ~To All People~ Limited Edition（Electronic Arts）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Cross†Channel ~To All People~ Regular Edition]]
 - [[Cross†Channel ~To All People~ Regular Edition]]
-- [[Cross†Channel ~To All People~ Regular Edition（CYBERFRONT）]]
-- [[Cross†Channel]]
-- [[Cross†Channel（Amaterasu Translations）]]
-- [[Cross†Channel（FaceOff）]]
-- [[Cross†Channel（Hangulstory）]]
-- [[Cross†Channel（release：）]]
-- [[Cross†Channel（vndb：r32）]]
-- [[Cross†Channel（vndb：r35）]]
-- [[Cross†Channel（vndb：r37）]]
-- [[Cross†Channel（vndb：r87）]]
-- [[ＣＲＯＳＳ†ＣＨＡＮＮＥＬ -Reedición-]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

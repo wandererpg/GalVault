@@ -12,7 +12,7 @@ source_urls:
 # PSP Ba Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Lianggong Chunri de Zhuiyi]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Suzumiya Haruhi no Tsuisou - Nagato Yuki no Otoshimono Box（guyzware Inc）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

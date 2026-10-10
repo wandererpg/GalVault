@@ -30,10 +30,9 @@ portrait_image: "assets/characters/c59819.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[ef - a fairy tale of the two. (ef Lite)]]（appears）
-- [[ef - a fairy tale of the two. - First Press Limited Edition]]（appears）
+<!-- AUTO:BEGIN character -->- [[发行版/ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（appears）
 - [[ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（appears）
-- [[ef - the latter tale（minori）]]（appears）<!-- AUTO:END character -->
+<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->

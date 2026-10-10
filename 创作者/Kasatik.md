@@ -12,10 +12,10 @@ source_urls:
 # Kasatik
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Moja Hrjushka Princessa v0.10.0]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/My Pig Princess v0.10.0]]（publisher）
 - [[Otrjad Geroja Dolzhen Past' v0.6.1]]（publisher）
-- [[Pustynnyj Stalker v0.20.3.1]]（publisher）
-- [[Uroki Ljubvi v0.59.0]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Desert Stalker ［v0.21.4］（ZetanDS）]]（publisher）
+- [[发行版/Lessons in Love v0.23.0 Part 1 - Censored Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

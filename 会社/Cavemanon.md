@@ -12,34 +12,11 @@ source_urls:
 # Cavemanon
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[I Wani Hug that Gator! - Demo v1.6.0]]（developer）
-- [[I Wani Hug that Gator! - Demo v1.6.0]]（publisher）
-- [[I Wani Hug that Gator! - Demo v1.6.0（Cavemanon）]]（developer）
-- [[I Wani Hug that Gator! - Demo v1.6.0（Cavemanon）]]（publisher）
-- [[I Wani Hug that Gator! - Demo v1.7.0]]（developer）
-- [[I Wani Hug that Gator! - Demo v1.7.0]]（publisher）
-- [[I Wani Hug that Gator! - Demo v1.7.0（Cavemanon）]]（developer）
-- [[I Wani Hug that Gator! - Demo v1.7.0（Cavemanon）]]（publisher）
-- [[I Wani Hug that Gator! - Demo v1.8.0]]（developer）
-- [[I Wani Hug that Gator! - Demo v1.8.0]]（publisher）
-- [[I Wani Hug that Gator! - Demo]]（developer）
-- [[I Wani Hug that Gator! - Demo]]（publisher）
-- [[I Wani Hug that Gator! - Demo（Cavemanon）]]（developer）
-- [[I Wani Hug that Gator! - Demo（Cavemanon）]]（publisher）
-- [[I Wani Hug that Gator! v1.2.1 - Demo]]（developer）
-- [[I Wani Hug that Gator! v1.2.1 - Demo]]（publisher）
-- [[I Wani Hug that Gator! v1.2.1]]（developer）
-- [[I Wani Hug that Gator! v1.2.1]]（publisher）
-- [[I Wani Hug that Gator! v1.6.0]]（developer）
-- [[I Wani Hug that Gator! v1.6.0]]（publisher）
-- [[I Wani Hug that Gator! v1.7.0]]（developer）
-- [[I Wani Hug that Gator! v1.7.0]]（publisher）
-- [[I Wani Hug that Gator! v1.8.0]]（developer）
-- [[I Wani Hug that Gator! v1.8.0]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Ja hotju obnjat' etogo alligatora!]]（developer）
+- [[发行版/Ja hotju obnjat' etogo alligatora!]]（publisher）
 - [[I Wani Hug that Gator!]]（developer）
 - [[I Wani Hug that Gator!]]（publisher）
-- [[I Wani Hug that Gator!（Cavemanon）]]（developer）
-- [[I Wani Hug that Gator!（Cavemanon）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

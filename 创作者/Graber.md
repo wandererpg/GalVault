@@ -12,8 +12,8 @@ source_urls:
 # Graber
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Ao no Kanata no Four Rhythm - Linux Patch]]（publisher）
-- [[Aokana - Four Rhythms Across the Blue - 18+ Nintendo Switch Patch]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Ao no Kanata no Four Rhythm - Download Edition（sprite）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

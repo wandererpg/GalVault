@@ -12,8 +12,8 @@ source_urls:
 # Utawamememono | Utawarerumono Memes
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Utawarerumono Mask of Deception (Demo-versija)]]（publisher）
-- [[Utawarerumono： Mask of Deception]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Chingsongbadneun Ja： Geojis-ui Gamyeon - Limited Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,7 +12,7 @@ source_urls:
 # Nemurita no Kuni
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Edinstvo]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Ichigokuruiza（release：）]]（developer）
 - [[Ichigokuruiza（release：）]]（developer）
 - [[一極累坐]]（developer）<!-- AUTO:END duty -->
 

@@ -30,11 +30,8 @@ portrait_image: "assets/characters/c51379.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Hakuoki： Kyoto Winds - NA Edition]]（primary）
+<!-- AUTO:BEGIN character -->- [[发行版/Hakuouki Shinkai Fuukaden]]（primary）
 - [[Hakuouki Shinkai Fuukaden]]（primary）
-- [[Hakuouki Shinkai Hana no Shou - Regular Edition]]（primary）
-- [[Hakuouki Shinkai Kaze no Shou - Regular Edition]]（primary）
-- [[Hakuouki Shinkai Kaze no Shou]]（primary）
 - [[薄櫻鬼 真改 風華傳]]（side）
 - [[薄櫻鬼 黎明錄]]（side）<!-- AUTO:END character -->
 

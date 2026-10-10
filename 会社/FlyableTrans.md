@@ -12,7 +12,7 @@ source_urls:
 # FlyableTrans
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Kimi no Nagori wa Shizuka ni Yurete]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kimi no Nagori wa Shizuka ni Yurete - Limited Noicolle Pack Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

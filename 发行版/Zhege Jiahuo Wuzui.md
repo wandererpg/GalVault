@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r126407:work:vndb:work:v52018"
-type: "release"
-display_title: "Zhege Jiahuo Wuzui"
-release_date: "2018-04-21"
+entity_id: release:vndb:r126407:work:vndb:work:v52018
+type: release
+display_title: Zhege Jiahuo Wuzui
+release_date: '2018-04-21'
 is_all_ages: true
-platform: "ios, and, web"
-edition_type: "complete"
-title_status: "needs_review"
+platform: ios, and, web
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r126407"
+  vndb: r126407
 source_urls:
-  vndb: "https://vndb.org/r126407"
+  vndb: https://vndb.org/r126407
+aliases:
+- Wuzui zhi Ting
+- Wuzui zhi Ting Demo
+consolidated_releases:
+- id: r126407
+  title: Zhege Jiahuo Wuzui
+  url: https://vndb.org/r126407
+  release_date: '2018-04-21'
+  platform: ios, and, web
+  edition_type: complete
+  is_all_ages: true
+- id: r125773
+  title: Wuzui zhi Ting
+  url: https://vndb.org/r125773
+  release_date: '2025-03-26'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+- id: r128448
+  title: Wuzui zhi Ting Demo
+  url: https://vndb.org/r128448
+  release_date: '2024-08-31'
+  platform: win
+  edition_type: trial
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Zhege Jiahuo Wuzui

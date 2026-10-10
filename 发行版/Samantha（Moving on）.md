@@ -1,16 +1,33 @@
 ---
-entity_id: "release:vndb:r56509:work:vndb:work:v22865"
-type: "release"
-display_title: "Samantha"
-release_date: "2016-11-04"
+entity_id: release:vndb:r56509:work:vndb:work:v22865
+type: release
+display_title: Samantha
+release_date: '2016-11-04'
 is_all_ages: true
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r56509"
+  vndb: r56509
 source_urls:
-  vndb: "https://vndb.org/r56509"
+  vndb: https://vndb.org/r56509
+aliases: []
+consolidated_releases:
+- id: r56509
+  title: Samantha
+  url: https://vndb.org/r56509
+  release_date: '2016-11-04'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+- id: r56502
+  title: Samantha
+  url: https://vndb.org/r56502
+  release_date: '2025-01-25'
+  platform: win
+  edition_type: partial
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Samantha

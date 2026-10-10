@@ -60,8 +60,7 @@ cover_image: "assets/covers/v60604.webp"
 - [[Shinohara Yumi]]（片倉 ひな）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Youkoso! Sukebe Elf no Mori e G ＂Evelyn & Misery no Icha Love Ninkatsu Life ♡＂ Download Edition]]
-- [[Youkoso! Sukebe Elf no Mori e G ＂Evelyn & Misery no Icha Love Ninkatsu Life ♡＂ Limited Deluxe Edition w／ Dakimakura Cover by Aoi Nagisa（Lune）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Youkoso! Sukebe Elf no Mori e G ＂Evelyn & Misery no Icha Love Ninkatsu Life ♡＂]]
 - [[Youkoso! Sukebe Elf no Mori e G ＂Evelyn & Misery no Icha Love Ninkatsu Life ♡＂]]<!-- AUTO:END release -->
 
 ## 动画化

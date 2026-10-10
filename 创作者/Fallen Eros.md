@@ -12,9 +12,8 @@ source_urls:
 # Fallen Eros
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Indecent Wife Hana ［Midara na Hitozuma Hana］ - DLsite Edition]]（developer）
-- [[Indecent Wife Hana ［v0.46］]]（developer）
-- [[Indecent Wife Hana ［v0.46］]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Indecent Wife Hana ［v0.8.14］]]（developer）
+- [[发行版/Indecent Wife Hana ［v0.8.14］]]（publisher）
 - [[Indecent Wife Hana ［v0.8.14］]]（developer）
 - [[Indecent Wife Hana ［v0.8.14］]]（publisher）
 - [[淫らな人妻花]]（developer）<!-- AUTO:END duty -->

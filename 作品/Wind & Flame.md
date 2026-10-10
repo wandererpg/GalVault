@@ -48,9 +48,9 @@ cover_image: "assets/covers/v28323.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Wind & Flame + special'nyj epizod]]
+<!-- AUTO:BEGIN release -->- [[发行版/Wind & Flame]]
 - [[Wind & Flame]]
-- [[Wind & Flame（release：）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

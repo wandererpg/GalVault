@@ -12,9 +12,9 @@ source_urls:
 # TranslationVN
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Promises to Keep - v0.2.1]]（publisher）
-- [[Repeat v0.6.4]]（publisher）
-- [[Temptation's Ballad v0.2.8]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Promises to Keep - v0.10]]（publisher）
+- [[发行版/Repeat v0.8.1.3（release：）]]（publisher）
+- [[发行版/Temptation's Ballad v0.2.9]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

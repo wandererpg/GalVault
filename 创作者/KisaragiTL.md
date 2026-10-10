@@ -12,14 +12,14 @@ source_urls:
 # KisaragiTL
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Hirusagari no Run-Down Apartment to tachi ~Heisa Kuukan de Kurui Ochiteiku~]]（publisher）
-- [[Kouman Tsuma Kanraku!!! ~Ii Onna Dakedo Ya na Onna~]]（publisher）
-- [[Kyouiku Mama to Oba to Oba]]（publisher）
-- [[Mamagoto ~Mama to Naisho no Ecchi Shimasho~（release：）]]（publisher）
-- [[Oba Netori ~Otto no Shiranai Midara na Kankei~（release：）]]（publisher）
-- [[Oba-san Janai, Onna Datta. ~Tonari no Yaoya no Oku-san to Koete wa Ikenai Natsu~（release：）]]（publisher）
-- [[Part Tsuma no Jouji ~Jukushita Tsuya to Torokeru Toiki~]]（publisher）
-- [[Yukemuri Hitozuma Bojou Tabi ~Yukizuri no Kankei o Musubu Onna-tachi~]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Hirusagari no Boro Apart to Hitozuma-tachi ~Heisa Kuukan de Kurui Ochiteiku~ + Bonus CG Collection]]（publisher）
+- [[发行版/Kouman Tsuma Kanraku!!! ~Ii Onna Dakedo Ya na Onna~ Download Edition]]（publisher）
+- [[发行版/Kyouiku Mama to Oba to Oba - DVDPG]]（publisher）
+- [[发行版/Mamagoto ~Mama to Naisho no Ecchi Shimasho~]]（publisher）
+- [[发行版/Oba Netori ~Otto no Shiranai Midara na Kankei~ DVDPG]]（publisher）
+- [[发行版/Oba-san Janai, Onna Datta. ~Tonari no Yaoya no Oku-san to Koete wa Ikenai Natsu~]]（publisher）
+- [[发行版/Part Tsuma no Jouji ~Doutei Arbeit to Supa de Furin SEX~ DVDPG]]（publisher）
+- [[发行版/Yukemuri Hitozuma Bojou Tabi ~Yukizuri no Kankei o Musubu Onna-tachi~ DVDPG]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,9 +12,9 @@ source_urls:
 # refint/games
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Twofold - Demo（refint／games）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Twofold： The Perfect Circle Collection]]（publisher）
 - [[Twofold]]（publisher）
-- [[Twofold（refint／games）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

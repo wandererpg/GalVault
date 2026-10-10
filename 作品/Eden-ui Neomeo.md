@@ -77,18 +77,9 @@ cover_image: "assets/covers/v19726.webp"
 - [[Sim Gyuhyeok]]（심 규혁）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Beyond Eden - Demo]]
-- [[Beyond Eden - Demo（Studio Pieplus・release：）]]
-- [[Beyond Eden - Demo（Studio Pieplus・vndb：r51）]]
-- [[Beyond Eden - Demo（Studio Pieplus）]]
-- [[Beyond Eden]]
-- [[Beyond Eden（Studio Pieplus・release：）]]
-- [[Beyond Eden（Studio Pieplus・vndb：r87）]]
-- [[Beyond Eden（Studio Pieplus）]]
-- [[Eden-ui Neomeo - DVD Package Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Eden-ui Neomeo - Steam Korean Edition]]
 - [[Eden-ui Neomeo - Steam Korean Edition]]
-- [[Eden-ui Neomeo - Trial Edition]]
-- [[Yi Dian Zhi Wai]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

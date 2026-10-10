@@ -14,26 +14,11 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Monkeys!¡ - Download Edition]]（developer）
 - [[Monkeys!¡ - Download Edition]]（publisher）
-- [[Monkeys!¡ - Trial Edition]]（developer）
-- [[Monkeys!¡ - Trial Edition]]（publisher）
+- [[发行版/Monkeys!¡ - Download Edition]]（developer）
+- [[发行版/Monkeys!¡ - Download Edition]]（publisher）
 - [[Monkeys!¡]]（developer）
-- [[Monkeys!¡（HARUKAZE）]]（developer）
-- [[Monkeys!¡（HARUKAZE）]]（publisher）
-- [[Nora to Oujo to Noraneko Heart 1+2 -5th Anniversary Edition-]]（developer）
-- [[Nora to Oujo to Noraneko Heart 1+2 -5th Anniversary Edition-]]（publisher）
-- [[Nora to Oujo to Noraneko Heart 1+2 Pack - Download Edition]]（developer）
-- [[Nora to Oujo to Noraneko Heart 1+2 Pack - Download Edition]]（publisher）
-- [[Nora to Oujo to Noraneko Heart 1+2 Pack]]（developer）
-- [[Nora to Oujo to Noraneko Heart 1+2 Pack]]（publisher）
-- [[Nora to Oujo to Noraneko Heart 2 - Download Edition]]（developer）
-- [[Nora to Oujo to Noraneko Heart 2 - Download Edition]]（publisher）
-- [[Nora to Oujo to Noraneko Heart 2 - Package Edition]]（developer）
-- [[Nora to Oujo to Noraneko Heart 2 - Package Edition]]（publisher）
-- [[Nora to Oujo to Noraneko Heart 2 - Trial Edition]]（developer）
-- [[Nora to Oujo to Noraneko Heart 2 - Trial Edition]]（publisher）
-- [[Nora to Oujo to Noraneko Heart 2]]（developer）
-- [[Nora to Oujo to Noraneko Heart 2]]（publisher）
-- [[Nora to Oujo to Noraneko Heart 2（HARUKAZE）]]（developer）
+- [[发行版/The Princess, the Stray Cat, and Matters of the Heart 2（Fruitbat Factory）]]（developer）
+- [[发行版/The Princess, the Stray Cat, and Matters of the Heart 2（Fruitbat Factory）]]（publisher）
 - [[野良与皇女与流浪猫之心2]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

@@ -12,8 +12,8 @@ source_urls:
 # Hanataba Translation
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ayakashi Gohan - Trial Edition（Hanataba Translation）]]（publisher）
-- [[Ayakashi Gohan]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Ayakashi Gohan ~Oomori!~ for S Download Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

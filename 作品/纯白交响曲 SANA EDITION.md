@@ -79,16 +79,9 @@ cover_image: "assets/covers/v37651.webp"
 - [[Suzuki Tatsuhisa]]（鈴木 達央）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Chunbai Jiaoxiangqu SANA EDITION Hanhua Buquan Buding]]
-- [[Chunbai Jiaoxiangqu SANA EDITION]]
-- [[Chunbai Jiaoxiangqu SANA EDITION（Lücha Hanhuazu）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Mashiro Iro Symphony： Sana Edition - Download Edition]]
 - [[Mashiro Iro Symphony： Sana Edition - Download Edition]]
-- [[Mashiro Iro Symphony： Sana Edition - Package Edition]]
-- [[Mashiro Iro Symphony： Sana Edition]]
-- [[Mashiroiro Symphony HD -Sana Edition-  - 18+ Patch]]
-- [[Mashiroiro Symphony HD -Sana Edition- Censored Version]]
-- [[Mashiroiro Symphony HD -Sana Edition-]]
-- [[Mashiroiro Symphony HD -Sana Edition-（Nine Translation）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

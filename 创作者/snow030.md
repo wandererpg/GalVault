@@ -11,9 +11,9 @@ source_urls:
 # snow030
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Haimao Mingqi zhi Shi Chuti Pian]]（publisher）
-- [[Haimao Mingqi zhi Shi San]]（publisher）
-- [[Hanchan Mingqi zhi Shi Jie]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Umineko no Naku Koro ni - Episode 4 - Alliance of the Golden Witch]]（publisher）
+- [[发行版/Umineko no Naku Koro ni Chiru - Episode 8 - Twilight of the Golden Witch]]（publisher）
+- [[发行版/Matsuribayashi Hen（07th Expansion）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

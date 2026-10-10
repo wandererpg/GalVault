@@ -12,8 +12,8 @@ source_urls:
 # ADMania
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Lessons in Love 0.23.0 Part 2]]（publisher）
-- [[Lessons in Love v0.25.0 Part 2]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Lessons in Love v0.23.0 Part 1 - Censored Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

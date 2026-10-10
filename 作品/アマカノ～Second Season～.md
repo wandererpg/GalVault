@@ -86,23 +86,9 @@ cover_image: "assets/covers/v17843.webp"
 - [[Yuuki Serika]]（波奈束 風景）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Amakano & Amakano ~Second Season~ Double Pack（Azarashi Soft）]]
-- [[Amakano Complete Box - Resale Edition（Azarashi Soft）]]
-- [[Amakano Complete Box（Azarashi Soft）]]
-- [[Amakano ~Second Season~ ( Grok 3)]]
-- [[Amakano ~Second Season~ - Download Edition]]
-- [[Amakano ~Second Season~ - Regular Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Amakano ~Second Season~ Blu-ray Game - Renewal Package Edition]]
 - [[Amakano ~Second Season~ Blu-ray Game - Renewal Package Edition]]
-- [[Amakano ~Second Season~ Blu-ray Game]]
-- [[Amakano ~Second Season~ DVDPG - Renewal Package Edition]]
-- [[Amakano ~Second Season~ Download Edition]]
-- [[Amakano ~Second Season~ Limited Edition]]
-- [[Amakano ~Second Season~ Trial Edition]]
-- [[Amakano ~Second Season~]]
-- [[Amakano ~Second Season~（Azarashi Soft）]]
-- [[Amakano ~Second Season~（release：）]]
-- [[Amakano ~Second Season~（vndb：r13）]]
-- [[AmakanoSS]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

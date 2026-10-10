@@ -13,9 +13,9 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Changgui Tuoli Creative Tu]]（publisher）
-- [[Tianjin Zui]]（publisher）
-- [[Zhishang De Mofashi - 18+ DLC]]（publisher）
-- [[Zhishang De Mofashi]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Amatsutsumi - Download Edition]]（publisher）
+- [[发行版/Kami no Ue no Mahoutsukai - Download Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

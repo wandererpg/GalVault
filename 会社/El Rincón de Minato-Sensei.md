@@ -12,7 +12,7 @@ source_urls:
 # El Rincón de Minato-Sensei
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Patch]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Muv-Luv Alternative - Total Eclipse - Regular Edition（MAGES）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

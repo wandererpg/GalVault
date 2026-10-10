@@ -1,16 +1,50 @@
 ---
-entity_id: "release:vndb:r21415:work:vndb:work:v10575"
-type: "release"
-display_title: "J.Q.V Jinrui Kyuusai-bu ~With Love from Isotope~ Download Edition"
-release_date: "2012-05-19"
+entity_id: release:vndb:r21415:work:vndb:work:v10575
+type: release
+display_title: J.Q.V Jinrui Kyuusai-bu ~With Love from Isotope~ Download Edition
+release_date: '2012-05-19'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r21415"
+  vndb: r21415
 source_urls:
-  vndb: "https://vndb.org/r21415"
+  vndb: https://vndb.org/r21415
+aliases:
+- J.Q.V Jinrui Kyuusai-bu ~With Love from Isotope~ Package Edition
+- J.Q.V Renlei Jiuji-bu - 0.8 Beta Patch
+- J.Q.V Renlei Jiuji-bu - Trial Edition
+consolidated_releases:
+- id: r21415
+  title: J.Q.V Jinrui Kyuusai-bu ~With Love from Isotope~ Download Edition
+  url: https://vndb.org/r21415
+  release_date: '2012-05-19'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r21414
+  title: J.Q.V Jinrui Kyuusai-bu ~With Love from Isotope~ Package Edition
+  url: https://vndb.org/r21414
+  release_date: '2012-05-25'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r92631
+  title: J.Q.V Renlei Jiuji-bu - 0.8 Beta Patch
+  url: https://vndb.org/r92631
+  release_date: '2024-02-16'
+  platform: win
+  edition_type: partial
+  is_all_ages: false
+- id: r61067
+  title: J.Q.V Renlei Jiuji-bu - Trial Edition
+  url: https://vndb.org/r61067
+  release_date: '2018-12-17'
+  platform: win
+  edition_type: trial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # J.Q.V Jinrui Kyuusai-bu ~With Love from Isotope~ Download Edition

@@ -12,20 +12,13 @@ source_urls:
 # Aromarie
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Chou no Doku (Beta version)]]（developer）
-- [[Chou no Doku -Ripple Effect Stories-]]（developer）
-- [[Chou no Doku Hana no Kusari - First Press Limited Edition]]（developer）
-- [[Chou no Doku Hana no Kusari - First Press Limited Edition]]（publisher）
-- [[Chou no Doku Hana no Kusari - Repackage Edition]]（developer）
-- [[Chou no Doku Hana no Kusari - Repackage Edition]]（publisher）
-- [[Chou no Doku Hana no Kusari - Repackage Edition（Aromarie）]]（developer）
-- [[Chou no Doku Hana no Kusari - Repackage Edition（Aromarie）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Chou no Doku Hana no Kusari ~Taishou Tsuya Koi Ibun~ Download Edition]]（developer）
+- [[发行版/Chou no Doku Hana no Kusari ~Taishou Tsuya Koi Ibun~ Download Edition]]（publisher）
+- [[发行版/Chou no Doku Hana no Kusari ~Gensou Yawa~ First Press Limited Edition]]（developer）
+- [[发行版/Chou no Doku Hana no Kusari ~Gensou Yawa~ First Press Limited Edition]]（publisher）
 - [[Chou no Doku Hana no Kusari ~Gensou Yawa~ First Press Limited Edition]]（developer）
 - [[Chou no Doku Hana no Kusari ~Gensou Yawa~ First Press Limited Edition]]（publisher）
 - [[Chou no Doku Hana no Kusari ~Taishou Tsuya Koi Ibun~ Download Edition]]（developer）
-- [[Chou no Doku Hana no Kusari ~Taishou Tsuya Koi Ibun~ Package Edition]]（developer）
-- [[Chou no Doku Hana no Kusari ~Taishou Tsuya Koi Ibun~ Package Edition（PROTOTYPE）]]（developer）
-- [[Chou no Doku Hana no Kusari ~Taishou Tsuya Koi Ibun~（PROTOTYPE）]]（developer）
 - [[蝶之毒 华之锁 幻想夜话]]（developer）
 - [[蝶之毒 华之锁]]（developer）<!-- AUTO:END duty -->
 

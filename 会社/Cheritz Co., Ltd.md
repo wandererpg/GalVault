@@ -13,22 +13,12 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Mystic Messenger 神祕信使]]（developer）
-- [[Mystic Messenger]]（developer）
-- [[Mystic Messenger]]（publisher）
-- [[Mystic Messenger（Cheritz Co., Ltd・release：）]]（developer）
-- [[Mystic Messenger（Cheritz Co., Ltd・release：）]]（publisher）
-- [[Mystic Messenger（Cheritz Co., Ltd・vndb：r62）]]（developer）
-- [[Mystic Messenger（Cheritz Co., Ltd・vndb：r62）]]（publisher）
+- [[发行版/Mystic Messenger（Cheritz Co., Ltd）]]（developer）
+- [[发行版/Mystic Messenger（Cheritz Co., Ltd）]]（publisher）
 - [[Mystic Messenger（Cheritz Co., Ltd）]]（developer）
 - [[Mystic Messenger（Cheritz Co., Ltd）]]（publisher）
-- [[Nameless ~ Dangsin-i Gieoghaeya Hal Dan Hangajiui Geos ~ Demo]]（developer）
-- [[Nameless ~ Dangsin-i Gieoghaeya Hal Dan Hangajiui Geos ~ Demo]]（publisher）
-- [[Nameless ~ Dangsin-i Gieoghaeya Hal Dan Hangajiui Geos ~]]（developer）
-- [[Nameless ~ Dangsin-i Gieoghaeya Hal Dan Hangajiui Geos ~]]（publisher）
-- [[Nameless ~ Omoidasanakereba Naranai, Hitotsu no Koto ~ Demo]]（developer）
-- [[Nameless ~ Omoidasanakereba Naranai, Hitotsu no Koto ~ Demo]]（publisher）
-- [[Nameless ~ The One Thing You Must Recall ~ Demo]]（developer）
-- [[Nameless ~ The One Thing You Must Recall ~ Demo]]（publisher）
+- [[发行版/Bezymjannyj. Edinstvennaja vesch', kotoruju ty dolzhna vspomnit']]（developer）
+- [[发行版/Bezymjannyj. Edinstvennaja vesch', kotoruju ty dolzhna vspomnit']]（publisher）
 - [[ネームレス ～思い出さなければならない、一つのこと～]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

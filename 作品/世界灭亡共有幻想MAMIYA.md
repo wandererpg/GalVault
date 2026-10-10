@@ -95,23 +95,9 @@ cover_image: "assets/covers/v28576.webp"
 - [[Tsuruta Ryohei]]（鶴田 遼平）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[MAMIYA - A Shared Illusion of the World's End - Demo]]
-- [[MAMIYA - A Shared Illusion of the World's End - Demo（Fruitbat Factory）]]
-- [[MAMIYA - A Shared Illusion of the World's End]]
-- [[MAMIYA - Complete Collection]]
-- [[MAMIYA - Dooms day Dreams - ［Beta］]]
-- [[MAMIYA - DoomsDay Dreams-]]
-- [[MAMIYA - DoomsDay Dreams-（Fruitbat Factory）]]
-- [[MAMIYA - DoomsDayDreams]]
+<!-- AUTO:BEGIN release -->- [[发行版/Sekai Metsubou Kyouyuu Gensou MAMIYA - Download Edition]]
 - [[Sekai Metsubou Kyouyuu Gensou MAMIYA - Download Edition]]
-- [[Sekai Metsubou Kyouyuu Gensou MAMIYA - Limited Edition]]
-- [[Sekai Metsubou Kyouyuu Gensou MAMIYA - Regular Edition]]
-- [[Sekai Metsubou Kyouyuu Gensou MAMIYA - Trial Edition]]
-- [[Sekai Metsubou Kyouyuu Gensou Mamiya]]
-- [[Sekai Metsubou Kyouyuu Gensou Mamiya（Fruitbat Factory）]]
-- [[Sekai Metsubou Kyouyuu Gensou ＂Mamiya＂ - Trial Edition]]
-- [[Sekai Metsubou Kyouyuu Gensou ＂Mamiya＂ -Downfall-]]
-- [[Sekai Metsubou Kyouyuu Gensou ＂Mamiya＂ -FallDown-]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

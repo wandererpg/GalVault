@@ -48,7 +48,7 @@ cover_image: "assets/covers/v30778.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Coquette Dragoon Volume 1 (Early Access)]]
+<!-- AUTO:BEGIN release -->- [[发行版/Coquette Dragoon： Volume One - Early Access]]
 - [[Coquette Dragoon： Volume One - Early Access]]<!-- AUTO:END release -->
 
 ## 动画化

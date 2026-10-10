@@ -12,8 +12,8 @@ source_urls:
 # VN SupaHacka
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Remember11 -The Age of Infinity-]]（publisher）
-- [[Remember11 -The Age of Infinity-（VN SupaHacka）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Remember11 -The Age of Infinity- Download Edition（MAGES）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

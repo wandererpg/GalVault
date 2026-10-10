@@ -1,16 +1,74 @@
 ---
-entity_id: "release:vndb:r2061:work:vndb:work:v1052"
-type: "release"
-display_title: "Concerto Note - First Press Limited Edition"
-release_date: "2008-10-23"
+entity_id: release:vndb:r2061:work:vndb:work:v1052
+type: release
+display_title: Concerto Note - First Press Limited Edition
+release_date: '2008-10-23'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r2061"
+  vndb: r2061
 source_urls:
-  vndb: "https://vndb.org/r2061"
+  vndb: https://vndb.org/r2061
+aliases:
+- Applique Collection
+- Concerto Note
+- Concerto Note - Download Edition
+- Concerto Note - Regular Edition
+- Concerto Note - Trial Edition
+- Concerto Note（release：）
+consolidated_releases:
+- id: r2061
+  title: Concerto Note - First Press Limited Edition
+  url: https://vndb.org/r2061
+  release_date: '2008-10-23'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r70575
+  title: Concerto Note - Download Edition
+  url: https://vndb.org/r70575
+  release_date: '2011-05-02'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r2369
+  title: Concerto Note - Regular Edition
+  url: https://vndb.org/r2369
+  release_date: '2008-11-28'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r22814
+  title: Applique Collection
+  url: https://vndb.org/r22814
+  release_date: '2012-12-14'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r14823
+  title: Concerto Note - Trial Edition
+  url: https://vndb.org/r14823
+  release_date: '2008-09-05'
+  platform: win
+  edition_type: trial
+  is_all_ages: true
+- id: r13581
+  title: Concerto Note
+  url: https://vndb.org/r13581
+  release_date: '2011-04-01'
+  platform: win
+  edition_type: partial
+  is_all_ages: true
+- id: r25791
+  title: Concerto Note
+  url: https://vndb.org/r25791
+  release_date: '2013-02-25'
+  platform: win
+  edition_type: partial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Concerto Note - First Press Limited Edition

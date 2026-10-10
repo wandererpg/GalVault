@@ -12,10 +12,9 @@ source_urls:
 # ZAP
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Amayui Castle Meister - Interface Patch]]（publisher）
-- [[Amayui Castle Meister Incomplete Dialogue Translation]]（publisher）
-- [[Fuukan no Grasesta - Interface Patch（ZAP）]]（publisher）
-- [[Ikusa Megami Verita - Interface Patch（ZAP）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Amayui Castle Meister - Guarakuuna Jousai Expansion Disc - Package Edition]]（publisher）
+- [[发行版/Fuukan no Grasesta Densetsu ni Utawareshi Eiketsu Kakuchou Pack - Download Edition]]（publisher）
+- [[发行版/Ikusa Megami Verita Complete Guidebook Privilege Appendix Disc]]（publisher）
 - [[Ikusa Megami Zero（nekoHen）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

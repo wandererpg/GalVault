@@ -12,7 +12,7 @@ source_urls:
 # Proyecto Shinmahousho
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Shinsetsu Mahou Shoujo]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Shinsetsu Mahou Shoujo（release：）]]（publisher）
 - [[Shinsetsu Mahou Shoujo（release：）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演

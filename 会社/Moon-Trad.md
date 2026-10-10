@@ -12,8 +12,8 @@ source_urls:
 # Moon-Trad
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Mahoutsukai no Yoru - Trial Edition（Moon-Trad）]]（publisher）
-- [[Mahoutsukai no Yoru（Moon-Trad）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Mahoutsukai no Yoru]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

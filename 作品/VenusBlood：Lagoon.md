@@ -109,12 +109,9 @@ cover_image: "assets/covers/v23125.webp"
 - [[Ume Tsubaki]]（梅 椿鬼）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[BugBug 300-gou Kinen Ninki Bishoge Append H Disk Shuu Dai 1-dan]]
-- [[VenusBlood -Lagoon- partial Chinese translation patch]]
-- [[VenusBlood LAGOON International]]
+<!-- AUTO:BEGIN release -->- [[发行版/VenusBlood：Lagoon - Download Edition]]
 - [[VenusBlood：Lagoon - Download Edition]]
-- [[VenusBlood：Lagoon - Package Edition]]
-- [[VenusBlood：Lagoon partial machine translation patch]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -79,10 +79,9 @@ cover_image: "assets/covers/v26002.webp"
 - [[Yoshino Hiroyuki]]（吉野 裕行）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Tokimeki Memorial Girl's Side： 4th Heart - Download Edition]]
-- [[Tokimeki Memorial Girl's Side： 4th Heart - Regular Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Tokimeki Memorial Girl's Side： 4th Heart - Special Assort Limited Edition]]
 - [[Tokimeki Memorial Girl's Side： 4th Heart - Special Assort Limited Edition]]
-- [[Tokimeki Memorial Girl's Side： 4th Heart]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

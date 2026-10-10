@@ -12,7 +12,7 @@ source_urls:
 # DarthFly
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[If My Heart Had Wings -Flight Diary- Restoration Patch]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kono Oozora ni, Tsubasa o Hirogete Cruise Sign - Regular Edition（MAGES・release：）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

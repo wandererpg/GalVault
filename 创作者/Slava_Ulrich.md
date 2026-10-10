@@ -13,8 +13,8 @@ source_urls:
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Odin raz v zhizni]]（publisher）
-- [[Takaja ostraja bol' v0.11.7R]]（publisher）
-- [[Vechnost' v0.9]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Such a Sharp Pain ［v0.11.7R］]]（publisher）
+- [[发行版/Vechnost' v0.8]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

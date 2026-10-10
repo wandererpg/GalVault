@@ -32,8 +32,7 @@ portrait_image: "assets/characters/c8545.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Ore-tachi ni Tsubasa wa Nai - Limited Edition]]（primary）
-- [[Ore-tachi ni Tsubasa wa Nai - Limited Edition（Navel）]]（primary）
+<!-- AUTO:BEGIN character -->- [[发行版/Ore-tachi ni Tsubasa wa Nai R - Limited Edition]]（primary）
 - [[俺たちに翼はない AfterStory]]（side）
 - [[我们没有翅膀]]（appears）<!-- AUTO:END character -->
 

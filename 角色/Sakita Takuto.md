@@ -30,8 +30,8 @@ portrait_image: "assets/characters/c27382.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Double Score ~Cattleya × Narcissus~ Regular Edition]]（side）
-- [[Double Score ~Cosmos × Camellia~ Regular Edition]]（side）<!-- AUTO:END character -->
+<!-- AUTO:BEGIN character -->- [[发行版/Double Score ~Marguerite × Tulip~ Regular Edition]]（side）
+<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Fujiwara Keiji]]（声优：藤原 啓治）<!-- AUTO:END voice -->

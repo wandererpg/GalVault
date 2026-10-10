@@ -76,14 +76,9 @@ cover_image: "assets/covers/v7675.webp"
 - [[Yusa Kouji]]（遊佐 浩二）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Tokyo Yamanote Boys Dark Cherry Disc - Limited Edition]]
-- [[Tokyo Yamanote Boys Dark Cherry Disc - Regular Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Tokyo Yamanote Boys Portable Dark Cherry Disc - Download Edition]]
 - [[Tokyo Yamanote Boys Portable Dark Cherry Disc - Download Edition]]
-- [[Tokyo Yamanote Boys Portable Dark Cherry Disc - Limited Quantity Edition]]
-- [[Tokyo Yamanote Boys Portable Dark Cherry Disc - Regular Edition]]
-- [[Tokyo Yamanote Boys for V Main Disc - Download Edition]]
-- [[Tokyo Yamanote Boys for V Main Disc - Limited Edition]]
-- [[Tokyo Yamanote Boys for V Main Disc - Regular Edition]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

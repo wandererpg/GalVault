@@ -1,13 +1,20 @@
 ---
-entity_id: "vndb:work:v62507"
-type: "work"
-display_title: "A Sole Joking Time"
-title_status: "unresolved"
+entity_id: vndb:work:v62507
+type: work
+display_title: A Sole Joking Time
+title_status: unresolved
 source_ids:
-  vndb: "v62507"
+  vndb: v62507
 source_urls:
-  vndb: "https://vndb.org/v62507"
-cover_image: "assets/covers/v62507.webp"
+  vndb: https://vndb.org/v62507
+cover_image: assets/covers/v62507.webp
+vndb_title: A Sole Joking Time
+vndb_content_updated: '2026-10-10'
+vndb_vote_count: 0
+vndb_length: 1
+vndb_languages: []
+vndb_platforms: []
+vndb_devstatus: 2
 ---
 
 # A Sole Joking Time
@@ -36,10 +43,27 @@ cover_image: "assets/covers/v62507.webp"
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
 
 ## 关联作品
-<!-- AUTO:BEGIN relation -->- [[弹丸论破 希望的学园与绝望的高中生]]（ser）<!-- AUTO:END relation -->
+<!-- AUTO:BEGIN relation -->
+- [[弹丸论破 希望的学园与绝望的高中生]]（ser）
+- [[作品/弹丸论破 希望的学园与绝望的高中生|Dangan Ronpa: Kibou no Gakuen to Zetsubou no Koukousei]]（ser）
+<!-- AUTO:END relation -->
 
 ## 标签
 <!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
 
 ## 来源
 <!-- AUTO:BEGIN provenance -->vndb:v62507<!-- AUTO:END provenance -->
+
+
+## 简介（VNDB 原文）
+
+« You're really lucky, you know... You could've died amidst general indifference, but you might eventually have the right to stay alive! And if you die, it would be to thunderous applause from the public!
+
+Yesterday, I told you the show had begun... But it wasn't true! Welcome to A Sole Joking Time, the stage where Circus Freaks wake up to devour their prey... »
+
+[From [itch.io](https://asbelgrants.itch.io/a-sole-joking-time)]
+
+
+## VNDB 资料来源
+
+[VNDB：v62507](https://vndb.org/v62507)，补全于 2026-10-10。

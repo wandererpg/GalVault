@@ -12,8 +12,8 @@ source_urls:
 # Ruta
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Our Life： Beginnings & Always（release：）]]（publisher）
-- [[Women de Shenghuo： Xianzai he Yongyuan - Demo]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Our Life： Beginnings & Always - Voiced Name Expansion]]（publisher）
+- [[发行版/Our Life： Now & Forever]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

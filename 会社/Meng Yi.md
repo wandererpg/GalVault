@@ -12,8 +12,8 @@ source_urls:
 # Meng Yi
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Baijie Caohua]]（publisher）
-- [[Yinghua, Mengfang（Meng Yi）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Shirotsume Souwa -Episode of the Clovers- First Press Limited Edition]]（publisher）
+- [[发行版/Yinghua, Mengfang. -as the Night's, Reincarnation-（Syawase Works）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

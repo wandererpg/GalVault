@@ -66,8 +66,7 @@ cover_image: "assets/covers/v19786.webp"
 - [[Terasaki Yuka]]（寺崎 裕香）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[NOeSIS -Uso o Tsuita Kioku no Monogatari-]]
-- [[NOeSIS -Uso o Tsuita Kioku no Monogatari-（FuRyu Corporation）]]
+<!-- AUTO:BEGIN release -->- [[发行版/NOeSIS -Uso o Tsuita Kioku no Monogatari-（cutlass）]]
 - [[NOeSIS -Uso o Tsuita Kioku no Monogatari-（cutlass）]]<!-- AUTO:END release -->
 
 ## 动画化

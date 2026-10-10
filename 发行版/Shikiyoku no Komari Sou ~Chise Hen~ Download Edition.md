@@ -1,16 +1,74 @@
 ---
-entity_id: "release:vndb:r43851:work:vndb:work:v18655"
-type: "release"
-display_title: "Shikiyoku no Komari Sou ~Chise Hen~ Download Edition"
-release_date: "2016-08-04"
+entity_id: release:vndb:r43851:work:vndb:work:v18655
+type: release
+display_title: Shikiyoku no Komari Sou ~Chise Hen~ Download Edition
+release_date: '2016-08-04'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r43851"
+  vndb: r43851
 source_urls:
-  vndb: "https://vndb.org/r43851"
+  vndb: https://vndb.org/r43851
+aliases:
+- Shikiyoku no Komari Sou ~Chise Hen - Introductory Chapter vol.1~
+- Shikiyoku no Komari Sou ~Chise Hen - Introductory Chapter vol.2~
+- Shikiyoku no Komari Sou ~Chise Hen - Introductory Chapter vol.3~
+- Shikiyoku no Komari Sou ~Chise Hen~
+- Shikiyoku no Komari Sou ~Chise Hen~ Package Edition
+- Shikiyoku no Komari Sou ~Chise Hen~ Trial Edition
+consolidated_releases:
+- id: r43851
+  title: Shikiyoku no Komari Sou ~Chise Hen~ Download Edition
+  url: https://vndb.org/r43851
+  release_date: '2016-08-04'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r49793
+  title: Shikiyoku no Komari Sou ~Chise Hen~ Package Edition
+  url: https://vndb.org/r49793
+  release_date: '2016-09-23'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r124183
+  title: Shikiyoku no Komari Sou ~Chise Hen~
+  url: https://vndb.org/r124183
+  release_date: '2024-06-12'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r62878
+  title: Shikiyoku no Komari Sou ~Chise Hen - Introductory Chapter vol.3~
+  url: https://vndb.org/r62878
+  release_date: '2016-04-09'
+  platform: win
+  edition_type: partial
+  is_all_ages: true
+- id: r62877
+  title: Shikiyoku no Komari Sou ~Chise Hen - Introductory Chapter vol.2~
+  url: https://vndb.org/r62877
+  release_date: '2016-02-26'
+  platform: win
+  edition_type: partial
+  is_all_ages: true
+- id: r62876
+  title: Shikiyoku no Komari Sou ~Chise Hen - Introductory Chapter vol.1~
+  url: https://vndb.org/r62876
+  release_date: '2016-01-28'
+  platform: win
+  edition_type: partial
+  is_all_ages: true
+- id: r49794
+  title: Shikiyoku no Komari Sou ~Chise Hen~ Trial Edition
+  url: https://vndb.org/r49794
+  release_date: '2016-08-04'
+  platform: win
+  edition_type: trial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Shikiyoku no Komari Sou ~Chise Hen~ Download Edition

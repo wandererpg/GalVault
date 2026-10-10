@@ -12,11 +12,10 @@ source_urls:
 # Hirameki International
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Animamundi - Dark Alchemist]]（publisher）
-- [[Ever 17 - Out of Infinity]]（publisher）
-- [[Ever17 - Trial Edition]]（publisher）
-- [[Phantom of Inferno - New Package Edition]]（publisher）
-- [[Phantom of Inferno]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Animamundi ~Owarinaki Yami no Butou~ Download Edition]]（publisher）
+- [[发行版/Ever17 -The Out of Infinity- Download Edition（MAGES）]]（publisher）
+- [[发行版/Phantom - Phantom of Inferno - Regular Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

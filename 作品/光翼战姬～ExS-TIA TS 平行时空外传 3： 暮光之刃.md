@@ -59,15 +59,7 @@ cover_image: "assets/covers/v36782.webp"
 - [[Tezuka Ryouko]]（手塚 りょうこ）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Holy Valkyrie ExS-TIA TS - 18+ patch]]
-- [[Holy Valkyrie ExS-TIA TS - Censored Edition]]
-- [[Holy Valkyrie ExS-TIA TS Parallel Episode 3： Twilight Sabre]]
-- [[Kouyoku Senki -ExS-Tia- Parallel Episode Complete Edition - Package Edition]]
-- [[Kouyoku Senki ExS-Tia 10th anniversary  ~Bright Feather BOX~（Lusterise）]]
-- [[Kouyoku Senki ExS-Tia Parallel Episode Complete Edition - Download Edition]]
-- [[Kouyoku Senki ExS-Tia Parallel Episode Complete Edition - Limited Edition with Voice Drama]]
-- [[Kouyoku Senki ExS-Tia Parallel Episode Complete Edition DVDPG]]
-- [[Kouyoku Senki ExS-Tia TS Parallel Episode 3 - Twilight Sabre - Download Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Kouyoku Senki ExS-Tia TS Parallel Episode 3 - Twilight Sabre - Limited Edition with Voice Drama]]
 - [[Kouyoku Senki ExS-Tia TS Parallel Episode 3 - Twilight Sabre - Limited Edition with Voice Drama]]<!-- AUTO:END release -->
 
 ## 动画化

@@ -12,9 +12,8 @@ source_urls:
 # NoahSteam
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Sakura Wars 2 - Special Demo English Patch]]（publisher）
-- [[Sakura Wars 2]]（publisher）
-- [[Sakura Wars（NoahSteam）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Yinghua Langman He]]（publisher）
+- [[发行版/Sakura Taisen]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

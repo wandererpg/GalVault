@@ -14,8 +14,8 @@ source_urls:
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Blooming Panic]]（developer）
 - [[Blooming Panic]]（publisher）
-- [[Blooming Panic： Full Bloom Edition（release：）]]（developer）
-- [[Blooming Panic： Full Bloom Edition（release：）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Blooming Panic]]（developer）
+- [[发行版/Blooming Panic]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

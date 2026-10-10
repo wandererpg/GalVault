@@ -12,7 +12,7 @@ source_urls:
 # justplathemus
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[VA-11 Hall-A（vndb：r83）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/VA-11 Hall-A： Cyberpunk Bartender Action（Sukeban Games）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

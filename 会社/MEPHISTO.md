@@ -14,8 +14,8 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Tenshi no Hane o Fumanaide - First Press Limited Edition]]（developer）
 - [[Tenshi no Hane o Fumanaide - First Press Limited Edition]]（publisher）
-- [[Tenshi no Hane o Fumanaide - Trial Edition]]（developer）
-- [[Tenshi no Hane o Fumanaide - Trial Edition]]（publisher）
+- [[发行版/Tenshi no Hane o Fumanaide - First Press Limited Edition]]（developer）
+- [[发行版/Tenshi no Hane o Fumanaide - First Press Limited Edition]]（publisher）
 - [[不要践踏天使的羽毛]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

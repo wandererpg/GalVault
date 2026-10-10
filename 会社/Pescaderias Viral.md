@@ -12,10 +12,9 @@ source_urls:
 # Pescaderias Viral
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Grisaia no Meikyu - Definitive Edition]]（publisher）
-- [[Grisaia no Meikyu]]（publisher）
-- [[The Eden of Grisaia - Unrated Edition（Pescaderias Viral）]]（publisher）
-- [[The Eden of Grisaia（Pescaderias Viral）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/The Grisaia Trilogy（PROTOTYPE）]]（publisher）
+- [[发行版/The Grisaia Trilogy（PROTOTYPE・release：）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

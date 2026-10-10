@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r12653:work:vndb:work:v6411"
-type: "release"
-display_title: "Tenshi no Hane o Fumanaide - First Press Limited Edition"
-release_date: "2011-07-29"
+entity_id: release:vndb:r12653:work:vndb:work:v6411
+type: release
+display_title: Tenshi no Hane o Fumanaide - First Press Limited Edition
+release_date: '2011-07-29'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r12653"
+  vndb: r12653
 source_urls:
-  vndb: "https://vndb.org/r12653"
+  vndb: https://vndb.org/r12653
+aliases:
+- Buyao Jianta Tianshi de Yumao
+- Tenshi no Hane o Fumanaide - Trial Edition
+consolidated_releases:
+- id: r12653
+  title: Tenshi no Hane o Fumanaide - First Press Limited Edition
+  url: https://vndb.org/r12653
+  release_date: '2011-07-29'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r32864
+  title: Buyao Jianta Tianshi de Yumao
+  url: https://vndb.org/r32864
+  release_date: '2014-03-09'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r14242
+  title: Tenshi no Hane o Fumanaide - Trial Edition
+  url: https://vndb.org/r14242
+  release_date: '2011-05-13'
+  platform: win
+  edition_type: trial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Tenshi no Hane o Fumanaide - First Press Limited Edition

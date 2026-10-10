@@ -12,8 +12,8 @@ source_urls:
 # Monmusu Quest Paradox translate
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Monmusu Quest! Paradox]]（publisher）
-- [[Monmusu Quest! Paradox（Monmusu Quest Paradox translate）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Monmusu Quest! Paradox RPG Zenshou - Package Edition]]（publisher）
+- [[发行版/Monmusu Quest! Paradox RPG Chuushou]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

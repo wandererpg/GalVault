@@ -12,7 +12,7 @@ source_urls:
 # Eternallywise
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Padenie pod Prikrytiem： Sindikat Noks v0.09.1]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Falling Undercover： Nox Syndicate v0.9]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

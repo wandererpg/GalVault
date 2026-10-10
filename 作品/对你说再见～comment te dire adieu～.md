@@ -70,18 +70,9 @@ cover_image: "assets/covers/v1200.webp"
 - [[Tsumugi Kanae]]（紬 叶慧）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Annyeong-eul Gareuchyeojueo ~Comment te Dire Adieu~]]
-- [[Duini shuo Zaijian ~Comment te Dire Adieu~]]
-- [[Sajoshi ~Nauchi menja proschat'sja~]]
-- [[Sayonara o Oshiete ~Comment te Dire Adieu~ Android Edition]]
-- [[Sayonara o Oshiete ~Comment te Dire Adieu~ Download Edition]]
-- [[Sayonara o Oshiete ~Comment te Dire Adieu~ Download Edition（release：）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Sayonara o Oshiete ~Comment te Dire Adieu~ ~AsoBD~]]
 - [[Sayonara o Oshiete ~Comment te Dire Adieu~ ~AsoBD~]]
-- [[Sayonara o Oshiete ~Comment te Dire Adieu~]]
-- [[Sayonara o Oshiete ~Comment te Dire Adieu~（CRAFTWORK）]]
-- [[Sayonara o Oshiete ~Comment te Dire Adieu~（Chaos Gate Team）]]
-- [[Sayonara o Oshiete ~Comment te Dire Adieu~（release：）]]
-- [[Sayonara o Oshiete ~Ensine-me a dizer Adeus~]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

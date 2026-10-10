@@ -56,9 +56,8 @@ cover_image: "assets/covers/v2611.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Rin x Sen + Ran→Sem - DVDPG]]
-- [[Rin x Sen ~Hakudaku Onna Kyoushi to Yaroudomo~ Download Edition]]
-- [[Rin x Sen ~Hakudaku Onna Kyoushi to Yaroudomo~ Package Edition]]
-- [[Rin x Sen ~Hakudaku Onna Kyoushi to Yaroudomo~]]<!-- AUTO:END release -->
+- [[发行版/Rin x Sen + Ran→Sem - DVDPG]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

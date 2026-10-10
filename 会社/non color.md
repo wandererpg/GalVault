@@ -14,10 +14,8 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Humanity - Download Edition]]（developer）
 - [[Humanity - Download Edition]]（publisher）
-- [[Humanity - Package Edition]]（developer）
-- [[Humanity - Package Edition]]（publisher）
-- [[Humanity - Unbranching Edition]]（developer）
-- [[Humanity - Unbranching Edition]]（publisher）
+- [[发行版/Humanity - Download Edition]]（developer）
+- [[发行版/Humanity - Download Edition]]（publisher）
 - [[Humanity]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

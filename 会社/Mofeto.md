@@ -12,7 +12,7 @@ source_urls:
 # Mofeto
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Princessa porchi： Evtanazija (Demo)]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kusarihime ~Euthanasia~ Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

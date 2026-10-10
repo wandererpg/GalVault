@@ -59,12 +59,9 @@ cover_image: "assets/covers/v28173.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Sable's Grimoire： A Dragon's Treasure - 18+ Patch]]
-- [[Sable's Grimoire： A Dragon's Treasure - Censored Edition]]
-- [[Sable's Grimoire： A Dragon's Treasure - Censored Edition（release：）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Sable's Grimoire： A Dragon's Treasure]]
 - [[Sable's Grimoire： A Dragon's Treasure]]
-- [[Sable's Grimoire： A Dragon's Treasure（Gamuzumi）]]
-- [[Sable's Grimoire： A Dragon's Treasure（release：）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

@@ -12,32 +12,14 @@ source_urls:
 # Karin Chatnoir Ω
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Omertà Code：Tycoon - Download Edition]]（developer）
-- [[Omertà Code：Tycoon - Download Edition]]（publisher）
-- [[Omertà Code：Tycoon - First Press Deluxe Edition]]（developer）
-- [[Omertà Code：Tycoon - First Press Deluxe Edition]]（publisher）
-- [[Omertà Code：Tycoon - Regular Edition]]（developer）
-- [[Omertà Code：Tycoon - Regular Edition]]（publisher）
-- [[Omertà Code：Tycoon - Trial Edition]]（developer）
-- [[Omertà Code：Tycoon - Trial Edition]]（publisher）
-- [[Omertà Code：Tycoon Kai Download Edition]]（developer）
-- [[Omertà Code：Tycoon Kai Download Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Omertà Code：Tycoon Kai First Press Deluxe Edition]]（developer）
+- [[发行版/Omertà Code：Tycoon Kai First Press Deluxe Edition]]（publisher）
 - [[Omertà Code：Tycoon Kai First Press Deluxe Edition]]（developer）
 - [[Omertà Code：Tycoon Kai First Press Deluxe Edition]]（publisher）
-- [[Omertà Code：Tycoon Kai Regular Edition]]（developer）
-- [[Omertà Code：Tycoon Kai Regular Edition]]（publisher）
-- [[Omertà ~Chinmoku no Okite~ Download Edition]]（developer）
-- [[Omertà ~Chinmoku no Okite~ Download Edition]]（publisher）
-- [[Omertà ~Chinmoku no Okite~ First Press Deluxe Edition]]（developer）
-- [[Omertà ~Chinmoku no Okite~ First Press Deluxe Edition]]（publisher）
-- [[Omertà ~Chinmoku no Okite~ Regular Edition]]（developer）
-- [[Omertà ~Chinmoku no Okite~ Regular Edition]]（publisher）
-- [[Omertà ~Chinmoku no Okite~ The Legacy - Deluxe Edition]]（developer）
-- [[Omertà ~Chinmoku no Okite~ The Legacy - Deluxe Edition]]（publisher）
+- [[发行版/Omertà ~Chinmoku no Okite~ The Legacy - Download Edition]]（developer）
+- [[发行版/Omertà ~Chinmoku no Okite~ The Legacy - Download Edition]]（publisher）
 - [[Omertà ~Chinmoku no Okite~ The Legacy - Download Edition]]（developer）
 - [[Omertà ~Chinmoku no Okite~ The Legacy - Download Edition]]（publisher）
-- [[Omertà ~Chinmoku no Okite~ The Legacy - Regular Edition]]（developer）
-- [[Omertà ~Chinmoku no Okite~ The Legacy - Regular Edition]]（publisher）
 - [[オメルタ CODE：TYCOON]]（developer）
 - [[オメルタ～沈黙の掟～]]（developer）<!-- AUTO:END duty -->
 

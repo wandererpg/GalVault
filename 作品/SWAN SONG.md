@@ -108,18 +108,9 @@ cover_image: "assets/covers/v914.webp"
 - [[Ueki Tooru]]（植木 亨）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Lebedinaya pesn']]
-- [[Lebedinaya pesn'（Entuziasty Team）]]
-- [[Lebedinaya pesn'（release：）]]
-- [[SWAN SONG Hanhua Buding Zuizhong Ban V2.0]]
-- [[SWAN SONG Hanhua Buding]]
+<!-- AUTO:BEGIN release -->- [[发行版/Swan Song - Download Edition]]
 - [[Swan Song - Download Edition]]
-- [[Swan Song - Low Price Edition]]
-- [[Swan Song]]
-- [[Swan Song（White Novels）]]
-- [[Swan Song（Yandere Translations）]]
-- [[Swan Song（release：）]]
-- [[Tian'e zhi Ge · Si Wan Ge]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

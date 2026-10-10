@@ -11,13 +11,11 @@ source_urls:
 # Anzu Mitsu Aihu Tonghaohui
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Chunbai Jiaoxiangqu： ＊Liuchu Feihua]]（publisher）
-- [[Datushuguan de Muyangren]]（publisher）
-- [[Monobeno - Trial Edition Chapter 1（Anzu Mitsu Aihu Tonghaohui）]]（publisher）
-- [[Monobeno - Trial Edition Chapter 2（Anzu Mitsu Aihu Tonghaohui）]]（publisher）
-- [[Monobeno - Trial Edition Chapter 3（Anzu Mitsu Aihu Tonghaohui）]]（publisher）
-- [[Muv-Luv Alternative（Anzu Mitsu Aihu Tonghaohui）]]（publisher）
-- [[Wucaibanlan de Shijie]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Mashiro Iro Symphony ＊mutsu-no-hana]]（publisher）
+- [[发行版/Daitoshokan no Hitsujikai -Library Party- Package Edition（ARIA）]]（publisher）
+- [[发行版/Monobeno -Happy End-（Lose・vndb：r65）]]（publisher）
+- [[发行版/Muv-Luv Alternative - Steam Edition]]（publisher）
+- [[发行版/Irotoridori no Sekai World's End -Re：Birth- Download Edition（Dramatic Create）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

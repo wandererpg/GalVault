@@ -12,7 +12,7 @@ source_urls:
 # Yurihouse Project
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Oksang-ui Baekhablyeongssi]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Wushang de Baiheling ~Full Chorus~]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

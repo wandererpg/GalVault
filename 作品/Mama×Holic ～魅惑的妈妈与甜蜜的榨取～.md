@@ -78,18 +78,9 @@ cover_image: "assets/covers/v28731.webp"
 - [[Yahiro Mami]]（東 シヅ）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Double Holic Pack - Download Edition（Atelier Kaguya）]]
-- [[Double Holic Pack - Package Edition（Atelier Kaguya）]]
-- [[Mama x Holic - Renewal Package Edition DVDPG]]
-- [[Mama x Holic ~Miwaku no Mama to Ama Ama Kankei~ DVDPG]]
+<!-- AUTO:BEGIN release -->- [[发行版/Mama x Holic ~Miwaku no Mama to Ama Ama Kankei~ Download Edition]]
 - [[Mama x Holic ~Miwaku no Mama to Ama Ama Kankei~ Download Edition]]
-- [[Mama x Holic ~Miwaku no Mama to Ama Ama Kankei~ Package Edition]]
-- [[Mama x Holic ~Miwaku no Mama to Ama Ama Kankei~ Trial Edition]]
-- [[Mama x Holic ~Miwaku no Mama to Ama Ama Kankei~]]
-- [[Mama x Holic ~Miwaku no Mama to Ama Ama Kankei~（Zhen Bukeshi Hanhua Zu）]]
-- [[Mama x Holic ~Miwaku no Mama to Ama Ama Kankei~（release：）]]
-- [[Mama x Holic ~Miwaku no Mama to Ama Ama Kankei~（vndb：r84）]]
-- [[Mama×Holic ~Miwaku no Mama to Ama Ama Kankei~]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

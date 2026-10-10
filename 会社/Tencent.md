@@ -12,7 +12,7 @@ source_urls:
 # Tencent
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Code： Realize ~Chuangshi de Gongzhu~]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Code： Realize ~Saikou no Hanataba~ for Nintendo Switch - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

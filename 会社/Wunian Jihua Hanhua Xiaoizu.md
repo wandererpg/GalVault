@@ -12,8 +12,8 @@ source_urls:
 # Wunian Jihua Hanhua Xiaoizu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Shi yu Cike de Xiari Chunzhen!]]（publisher）
-- [[Yejian Chanchan Xiangchou]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Koko kara Natsu no Innocence! - First Press Limited Edition]]（publisher）
+- [[发行版/Komorebi no Nostalgica - First Press Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

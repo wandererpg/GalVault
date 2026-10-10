@@ -40,8 +40,7 @@ cover_image: "assets/covers/v32670.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Burrows v0.18.1]]
-- [[Burrows v0.6]]
+<!-- AUTO:BEGIN release -->- [[发行版/Shouxue v0.4]]
 - [[Shouxue v0.4]]<!-- AUTO:END release -->
 
 ## 动画化

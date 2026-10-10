@@ -12,12 +12,8 @@ source_urls:
 # Mogura Soft
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Seikishi Ricca no Monogatari： Hakuyoku to In'yoku no Shimai - Trial Edition]]（developer）
-- [[Seikishi Ricca no Monogatari： Hakuyoku to In'yoku no Shimai - Trial Edition]]（publisher）
-- [[Seikishi Ricca no Monogatari： Hakuyoku to In'yoku no Shimai]]（developer）
-- [[Seikishi Ricca no Monogatari： Hakuyoku to In'yoku no Shimai]]（publisher）
-- [[Sheng Qishi Ricca Wuyu： Bai Yi yu Yin Yi Jiemei]]（developer）
-- [[Sheng Qishi Ricca Wuyu： Bai Yi yu Yin Yi Jiemei]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/The Fairy Tale of Holy Knight Ricca： Two Winged Sisters]]（developer）
+- [[发行版/The Fairy Tale of Holy Knight Ricca： Two Winged Sisters]]（publisher）
 - [[The Fairy Tale of Holy Knight Ricca： Two Winged Sisters]]（developer）
 - [[The Fairy Tale of Holy Knight Ricca： Two Winged Sisters]]（publisher）
 - [[圣骑士莉卡物语 白翼与淫翼姐妹]]（developer）<!-- AUTO:END duty -->

@@ -1,13 +1,25 @@
 ---
-entity_id: "vndb:work:v58467"
-type: "work"
-display_title: "Fate/Install"
-title_status: "unresolved"
+entity_id: vndb:work:v58467
+type: work
+display_title: Fate/Install
+title_status: unresolved
 source_ids:
-  vndb: "v58467"
+  vndb: v58467
 source_urls:
-  vndb: "https://vndb.org/v58467"
-cover_image: "assets/covers/v58467.webp"
+  vndb: https://vndb.org/v58467
+cover_image: assets/covers/v58467.webp
+vndb_title: Fate/Install
+vndb_content_updated: '2026-10-10'
+title_en: Fate/Install
+first_release_date: '2025-08-11'
+vndb_vote_count: 1
+vndb_languages:
+- en
+vndb_platforms:
+- win
+- lin
+- mac
+vndb_devstatus: 1
 ---
 
 # Fate/Install
@@ -36,10 +48,29 @@ cover_image: "assets/covers/v58467.webp"
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
 
 ## 关联作品
-<!-- AUTO:BEGIN relation -->- [[Fate／stay night]]（ser）<!-- AUTO:END relation -->
+<!-- AUTO:BEGIN relation -->
+- [[Fate／stay night]]（ser）
+- [[作品/Fate／stay night|Fate/stay night]]（ser）
+<!-- AUTO:END relation -->
 
 ## 标签
-<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+<!-- AUTO:BEGIN tag -->
+- [Non-Binary Protagonist](https://vndb.org/g2191)
+- [Multiple Endings](https://vndb.org/g148)
+- [Fan-fiction](https://vndb.org/g1056)
+- [Sexual Content](https://vndb.org/g23)
+- [Unoriginal Graphics](https://vndb.org/g3459)
+<!-- AUTO:END tag -->
 
 ## 来源
 <!-- AUTO:BEGIN provenance -->vndb:v58467<!-- AUTO:END provenance -->
+
+
+## 简介（VNDB 原文）
+
+A Fate/Stay Night Fangame that takes place in an Alternate Universe and revolves around Gilgamesh
+
+
+## VNDB 资料来源
+
+[VNDB：v58467](https://vndb.org/v58467)，补全于 2026-10-10。

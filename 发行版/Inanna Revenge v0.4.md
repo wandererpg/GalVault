@@ -1,16 +1,34 @@
 ---
-entity_id: "release:vndb:r144639:work:vndb:work:v60468"
-type: "release"
-display_title: "Inanna Revenge v0.4"
-release_date: "2026-08-07"
+entity_id: release:vndb:r144639:work:vndb:work:v60468
+type: release
+display_title: Inanna Revenge v0.4
+release_date: '2026-08-07'
 is_all_ages: false
-platform: "win, lin, mac, and"
-edition_type: "partial"
-title_status: "needs_review"
+platform: win, lin, mac, and
+edition_type: partial
+title_status: needs_review
 source_ids:
-  vndb: "r144639"
+  vndb: r144639
 source_urls:
-  vndb: "https://vndb.org/r144639"
+  vndb: https://vndb.org/r144639
+aliases:
+- Inanna Revenge v0.3.3
+consolidated_releases:
+- id: r144639
+  title: Inanna Revenge v0.4
+  url: https://vndb.org/r144639
+  release_date: '2026-08-07'
+  platform: win, lin, mac, and
+  edition_type: partial
+  is_all_ages: false
+- id: r144647
+  title: Inanna Revenge v0.3.3
+  url: https://vndb.org/r144647
+  release_date: '2026-02-14'
+  platform: win, lin, and
+  edition_type: partial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Inanna Revenge v0.4

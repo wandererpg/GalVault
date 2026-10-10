@@ -30,7 +30,7 @@ portrait_image: "assets/characters/c11982.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Rance Quest Magnum - Download Edition]]（side）
+<!-- AUTO:BEGIN character -->- [[发行版/Rance Quest Magnum - Package Edition]]（side）
 - [[Rance Quest Magnum - Package Edition]]（side）<!-- AUTO:END character -->
 
 ## 声优

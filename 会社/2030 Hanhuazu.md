@@ -12,8 +12,8 @@ source_urls:
 # 2030 Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Suigetsu（2030 Hanhuazu）]]（publisher）
-- [[Zhuiyi de Huashu Xian gei Xingjiang Miewang de Shijie]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Suigetsu ~Portable~ Best Edition]]（publisher）
+- [[发行版/Horobi Kuchiru Sekai ni Tsuioku no Hanataba o]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

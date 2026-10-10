@@ -11,18 +11,15 @@ source_urls:
 # DLsite
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Club Suicide - Complete Edition]]（publisher）
-- [[Da Hui]]（publisher）
-- [[Dohna Dohna： Yiqi Gan Huaishi ba]]（publisher）
-- [[Dohna Dohna： Yiqi Gan Huaishi ba（DLsite）]]（publisher）
-- [[Dona Dona gachi nappeun jiseul haja]]（publisher）
-- [[Lansi 03 Lisasi Xianluo]]（publisher）
-- [[Lansi 10 Juezhan]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Club Suicide - Complete Edition（MORPATH）]]（publisher）
+- [[发行版/Ooe -Complete Edition-]]（publisher）
+- [[发行版/doHna：doHna -Issho ni Warui Koto o Shiyou- Deluxe Edition with body pillow cover]]（publisher）
+- [[发行版/Rance 03 -The Fall of Leazas- Limited Edition]]（publisher）
+- [[发行版/Rance 10 - Package Edition]]（publisher）
 - [[Monmusu Quest! Origins -Assaulted by the Vamp-]]（publisher）
-- [[Seong-gisa Liskaui Iyagi -Baeg-iggwa Eum-ig-ui Jamae-]]（publisher）
-- [[Sheng Qishi Ricca Wuyu： Bai Yi yu Yin Yi Jiemei]]（publisher）
+- [[发行版/The Fairy Tale of Holy Knight Ricca： Two Winged Sisters]]（publisher）
 - [[The Fairy Tale of Holy Knight Ricca： Two Winged Sisters]]（publisher）
-- [[Zhanguo Lansi]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Dai Sengoku Rance（vndb：r12）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

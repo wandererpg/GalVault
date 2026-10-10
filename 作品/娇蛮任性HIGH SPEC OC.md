@@ -103,18 +103,9 @@ cover_image: "assets/covers/v20524.webp"
 - [[Ui]]（銀乃 ころも）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Jianman Renxing HIGH SPEC OC - Censored Edition]]
-- [[Jiaoman Renxing HIGH SPEC OC - 18+ DLC]]
-- [[Renxing HighSpec OC]]
-- [[WAGAMAMA HIGH SPEC OC - Censored Edition]]
-- [[WAGAMAMA HIGH SPEC OC]]
-- [[Wagahai+OC set]]
-- [[Wagamama High Spec & OC - W Pack]]
-- [[Wagamama High Spec OC - 18+ DLC]]
-- [[Wagamama High Spec OC - Download Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Wagamama High Spec OC - First Press Edition]]
 - [[Wagamama High Spec OC - First Press Edition]]
-- [[Wagamama High Spec OC（release：）]]
-- [[Wagamama High Spec OC（vndb：r98）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

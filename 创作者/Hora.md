@@ -13,9 +13,8 @@ source_urls:
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Slow Damage - JAST]]（publisher）
-- [[Slow Damage（vndb：r86）]]（publisher）
-- [[sweet pool - JAST（release：）]]（publisher）
-- [[sweet pool - Steam]]（publisher）
+- [[发行版/Slow Damage - JAST]]（publisher）
+- [[发行版/sweet pool Remaster]]（publisher）
 - [[sweet pool Remaster]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演

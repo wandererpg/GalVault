@@ -30,7 +30,7 @@ portrait_image: "assets/characters/c34713.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Dies irae ~Amantes amentes~ Regular Edition（light）]]（appears）<!-- AUTO:END character -->
+<!-- AUTO:BEGIN character -->- [[发行版/Dies irae ~Amantes amentes~ For Nintendo Switch]]（appears）<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Mizukiri Keito]]（声优：水霧 けいと）<!-- AUTO:END voice -->

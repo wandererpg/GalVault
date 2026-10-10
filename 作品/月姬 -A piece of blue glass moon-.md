@@ -209,34 +209,9 @@ cover_image: "assets/covers/v17909.webp"
 - [[Tsuda Kenjirou]]（津田 健次郎）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Lunnaja Princessa]]
-- [[Lunnaja Princessa（LivingFLCL）]]
-- [[TSUKIHIME -A piece of blue glass Moon- Ch 0~7]]
-- [[TSUKIHIME -A piece of blue glass moon- Asia Regular Edition]]
-- [[TSUKIHIME -A piece of blue glass moon- Asia Regular Edition（Aniplex Inc）]]
-- [[TSUKIHIME -A piece of blue glass moon- NA Limited Edition]]
-- [[TSUKIHIME -A piece of blue glass moon- Regular Edition]]
-- [[TSUKIHIME -A piece of blue glass moon- Regular Edition（Aniplex Inc）]]
-- [[Tsukihime -A Piece of Blue Glass Moon-（HanabiWorks）]]
-- [[Tsukihime -A Piece of Blue Glass Moon-（Team Myskrpatch・release：）]]
-- [[Tsukihime -A Piece of Blue Glass Moon-（Team Myskrpatch）]]
-- [[Tsukihime -A Piece of Blue Glass Moon-（Tsukihimates）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Tsukihime -A piece of blue glass moon- Digital Deluxe Edition]]
 - [[Tsukihime -A piece of blue glass moon- Digital Deluxe Edition]]
-- [[Tsukihime -A piece of blue glass moon- Digital Deluxe Edition（Aniplex Inc）]]
-- [[Tsukihime -A piece of blue glass moon- Download Edition]]
-- [[Tsukihime -A piece of blue glass moon- Download Edition（Aniplex Inc・release：）]]
-- [[Tsukihime -A piece of blue glass moon- Download Edition（Aniplex Inc・vndb：r82）]]
-- [[Tsukihime -A piece of blue glass moon- Download Edition（Aniplex Inc）]]
-- [[Tsukihime -A piece of blue glass moon- First Press Limited Edition]]
-- [[Tsukihime -A piece of blue glass moon- First Press Limited Edition（Aniplex Inc）]]
-- [[Tsukihime -A piece of blue glass moon- NA Limited Edition（Aniplex of America Inc）]]
-- [[Tsukihime -A piece of blue glass moon- Regular Edition（Aniplex Inc・release：）]]
-- [[Tsukihime -A piece of blue glass moon- Regular Edition（Aniplex Inc・vndb：r76）]]
-- [[Tsukihime -A piece of blue glass moon-]]
-- [[Tsukihime -A piece of blue glass moon-（release：）]]
-- [[Tsukihime -a piece of blue glass moon-（Ciel Traduction）]]
-- [[Wolhui -A piece of blue glass moon-]]
-- [[Yueji - Remake]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

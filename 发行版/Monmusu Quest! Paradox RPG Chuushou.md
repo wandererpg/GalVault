@@ -1,16 +1,50 @@
 ---
-entity_id: "release:vndb:r51795:work:vndb:work:v21267"
-type: "release"
-display_title: "Monmusu Quest! Paradox RPG Chuushou"
-release_date: "2017-06-23"
+entity_id: release:vndb:r51795:work:vndb:work:v21267
+type: release
+display_title: Monmusu Quest! Paradox RPG Chuushou
+release_date: '2017-06-23'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r51795"
+  vndb: r51795
 source_urls:
-  vndb: "https://vndb.org/r51795"
+  vndb: https://vndb.org/r51795
+aliases:
+- Monmusu Quest! Paradox RPG Chuushou（Cuarentena Translations）
+- Monmusu Quest! Paradox（Monmusu Quest Paradox translate）
+- Monster Girl Quest! Paradox RPG - Part 2
+consolidated_releases:
+- id: r51795
+  title: Monmusu Quest! Paradox RPG Chuushou
+  url: https://vndb.org/r51795
+  release_date: '2017-06-23'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r55688
+  title: Monster Girl Quest! Paradox RPG - Part 2
+  url: https://vndb.org/r55688
+  release_date: '2019-06-22'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r76945
+  title: Monmusu Quest! Paradox RPG Chuushou
+  url: https://vndb.org/r76945
+  release_date: '2020-11-30'
+  platform: win
+  edition_type: partial
+  is_all_ages: true
+- id: r69267
+  title: Monmusu Quest! Paradox
+  url: https://vndb.org/r69267
+  release_date: '2019'
+  platform: win
+  edition_type: partial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Monmusu Quest! Paradox RPG Chuushou

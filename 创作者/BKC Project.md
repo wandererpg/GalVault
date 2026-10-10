@@ -12,9 +12,9 @@ source_urls:
 # BKC Project
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Kouen Itazura Simulator ver. Mako]]（publisher）
-- [[Ochiru Hitozuma]]（publisher）
-- [[Seorang Istri Paruh Waktu Berselingkuh Dengan Pria Yang Lebih Muda]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kouen Itazura Simulator ver. Mako - Download Edition 1.3 type-A]]（publisher）
+- [[发行版/Ochiru Hitozuma ~Animation~ Download Edition]]（publisher）
+- [[发行版/Ochiru Part Tsuma - Toshishita Otoko to no Jouji ni Oboreta Hate ni... - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

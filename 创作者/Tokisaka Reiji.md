@@ -12,10 +12,9 @@ source_urls:
 # Tokisaka Reiji
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Devushka v skorlupe - Poslednij epizod (Prolog)]]（publisher）
-- [[Devushka v skorlupe - Poslednij epizod]]（publisher）
-- [[Devushka v skorlupe - Vtoroij epizod]]（publisher）
-- [[Kara no Shoujo ＂The First Episode＂ HD Remaster - Demo]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kara no Shoujo - Download Edition（Innocent Grey・release：）]]（publisher）
+- [[发行版/Kara no Shoujo - NEW CAST REMASTER EDITION - Download Edition]]（publisher）
+- [[发行版/Innocent Grey Mystery Collection ~Kara no Shoujo & Pianissimo & Cartagra~]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

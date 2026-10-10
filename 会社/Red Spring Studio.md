@@ -12,10 +12,8 @@ source_urls:
 # Red Spring Studio
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[TOUCHSTARVED - Demo 2.0]]（developer）
-- [[TOUCHSTARVED - Demo 2.0]]（publisher）
-- [[TOUCHSTARVED - Demo]]（developer）
-- [[TOUCHSTARVED - Demo]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/TOUCHSTARVED]]（developer）
+- [[发行版/TOUCHSTARVED]]（publisher）
 - [[TOUCHSTARVED]]（developer）
 - [[TOUCHSTARVED]]（publisher）<!-- AUTO:END duty -->
 

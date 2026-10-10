@@ -12,17 +12,12 @@ source_urls:
 # Edia Co., Ltd.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ayakashi Gohan ~Okawari!~  for S DL Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Ayakashi Gohan ~Okawari!~  for S Regular edition]]（publisher）
 - [[Ayakashi Gohan ~Okawari!~  for S Regular edition]]（publisher）
 - [[Ayakashi Gohan ~Oomori!~ for S Download Edition]]（publisher）
-- [[Ayakashi Gohan ~Oomori!~ for S Special Edition]]（publisher）
-- [[Ayakashi Gohan ~Oomori!~ for S]]（publisher）
-- [[Blackish House sideA→ -Retour- Download Edition]]（publisher）
-- [[Blackish House sideA→ -Retour- Special Edition]]（publisher）
-- [[Blackish House sideA→ -Retour-]]（publisher）
-- [[Blackish House ←sideZ -Retour- Download Edition]]（publisher）
-- [[Blackish House ←sideZ -Retour- Special Edition]]（publisher）
-- [[Blackish House ←sideZ -Retour-]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Ayakashi Gohan ~Oomori!~ for S Download Edition]]（publisher）
+- [[发行版/Blackish House sideA→ -Retour-（Justdan）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,11 +12,9 @@ source_urls:
 # IPLAY.Co.Ltd
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Guwoneui Ban Jaerimjo - Trial Edition]]（publisher）
-- [[Guwoneui Ban Jaerimjo]]（publisher）
-- [[Kuon no Kizuna Sairinshou]]（publisher）
-- [[kkotdeulpane pieonaneun deot-eopseum - Trial Edition]]（publisher）
-- [[kkotdeulpane pieonaneun deot-eopseum]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kuon no Kizuna]]（publisher）
+- [[发行版/HIGH LEVEL COMPLETE SET 2014-2018]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

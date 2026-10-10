@@ -31,7 +31,7 @@ portrait_image: "assets/characters/c60829.webp"
 
 ## 出场作品
 <!-- AUTO:BEGIN character -->- [[Maitetsu Remaster]]（appears）
-- [[Monobeno -Pure Smile- Limited Edition]]（side）
+- [[发行版/Monobeno -Pure Smile- Regular Edition]]（side）
 - [[Monobeno -Pure Smile- Regular Edition]]（side）<!-- AUTO:END character -->
 
 ## 声优

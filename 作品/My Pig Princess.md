@@ -44,9 +44,9 @@ cover_image: "assets/covers/v36681.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Moja Hrjushka Princessa v0.10.0]]
+<!-- AUTO:BEGIN release -->- [[发行版/My Pig Princess v0.10.0]]
 - [[My Pig Princess v0.10.0]]
-- [[My Pig Princess]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

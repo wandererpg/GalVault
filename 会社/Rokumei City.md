@@ -12,11 +12,11 @@ source_urls:
 # Rokumei City
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[428： Shibuya Scramble - Text Speed Patch]]（publisher）
-- [[Clannad - Original Soundtrack Restoration Patch]]（publisher）
-- [[Ever17 - Himmel Edition]]（publisher）
-- [[Remember11 - Gestalt Edition]]（publisher）
-- [[The Hundred Line -Last Defense Academy- English Font Replacement]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/428： Shibuya Scramble - EU Package Edition]]（publisher）
+- [[发行版/CLANNAD（Hikarizaka Gaoxiao Zhongwen Bu）]]（publisher）
+- [[发行版/Ever17 -The Out of Infinity- Download Edition（MAGES）]]（publisher）
+- [[发行版/Remember11 -The Age of Infinity- Download Edition（MAGES）]]（publisher）
+- [[发行版/Bairi Zhanji -Zuizhong Fangwei Xueyuan-]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

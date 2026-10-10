@@ -86,21 +86,9 @@ cover_image: "assets/covers/v19273.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Haidi - Translation Demo]]
-- [[Haidi]]
-- [[Morskoe dno]]
-- [[SeaBed - Demo]]
-- [[SeaBed - Download Edition]]
-- [[SeaBed - Download Edition（Fruitbat Factory・release：）]]
-- [[SeaBed - Download Edition（Fruitbat Factory）]]
-- [[SeaBed - Limited Edition]]
-- [[SeaBed - Package Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/SeaBed - Physical Edition]]
 - [[SeaBed - Physical Edition]]
-- [[SeaBed Complete Collection]]
-- [[SeaBed Demo]]
-- [[SeaBed]]
-- [[SeaBed（MoonbiMedia）]]
-- [[SeaBed（Sharin-Sub）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

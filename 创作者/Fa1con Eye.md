@@ -16,7 +16,7 @@ source_urls:
 - [[Dikie Koshki v0.3]]（publisher）
 - [[Ripples v0.9.22]]（publisher）
 - [[Vechnost' v0.8]]（publisher）
-- [[Vechnost' v0.9.5]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Vechnost' v0.8]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

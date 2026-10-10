@@ -121,17 +121,9 @@ cover_image: "assets/covers/v32555.webp"
 - [[Yoshimura Kazuhiro]]（吉村 和紘）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[even if TEMPEST Huanghun Zhong Monü Rushi Shuo DLC1：Roses for My Love]]
+<!-- AUTO:BEGIN release -->- [[发行版/even if TEMPEST Huanghun Zhong Monü Rushi Shuo DLC2：Bouquet for My Girl]]
 - [[even if TEMPEST Huanghun Zhong Monü Rushi Shuo DLC2：Bouquet for My Girl]]
-- [[even if TEMPEST Huanghun Zhong Monü Rushi Shuo DLC3：Huanghun Jiyi]]
-- [[even if TEMPEST： Bouquet for My Girl - DLC Part 2]]
-- [[even if TEMPEST： Huanghun Zhong Monü Rushi Shuo - Download Edition]]
-- [[even if TEMPEST： Huanghun Zhong Monü Rushi Shuo - Limited Edition]]
-- [[even if TEMPEST： Huanghun Zhong Monü Rushi Shuo - Standard Edition]]
-- [[even if TEMPEST： Memories of Dusk - DLC Part 3]]
-- [[even if TEMPEST： Roses for my Love - DLC Part 1]]
-- [[even if TEMPEST： Yoiyami ni Kaku Katariki Majo]]
-- [[even if TEMPEST： Yoiyami ni Kaku Katariki Majo（Voltage Inc）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

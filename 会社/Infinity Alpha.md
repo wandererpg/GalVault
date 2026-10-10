@@ -13,9 +13,7 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[NU： carnival]]（developer）
-- [[Xin Shijie Kuanghuan - Bliss]]（developer）
-- [[Xin Shijie Kuanghuan - Bliss（Infinity Alpha）]]（developer）
-- [[Xin Shijie Kuanghuan]]（developer）
+- [[发行版/NU： carnival]]（developer）
 - [[新世界狂欢]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

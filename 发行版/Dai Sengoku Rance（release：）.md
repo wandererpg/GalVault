@@ -1,16 +1,34 @@
 ---
-entity_id: "release:vndb:r128098:work:vndb:work:v48266"
-type: "release"
-display_title: "Dai Sengoku Rance"
-release_date: "2024-12-24"
+entity_id: release:vndb:r128098:work:vndb:work:v48266
+type: release
+display_title: Dai Sengoku Rance
+release_date: '2024-12-24'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r128098"
+  vndb: r128098
 source_urls:
-  vndb: "https://vndb.org/r128098"
+  vndb: https://vndb.org/r128098
+aliases:
+- Dai Sengoku Rance
+consolidated_releases:
+- id: r128098
+  title: Dai Sengoku Rance
+  url: https://vndb.org/r128098
+  release_date: '2024-12-24'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r115792
+  title: Dai Sengoku Rance
+  url: https://vndb.org/r115792
+  release_date: '2023-11-30'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Dai Sengoku Rance

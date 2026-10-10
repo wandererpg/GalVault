@@ -12,7 +12,7 @@ source_urls:
 # Junsi Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ni Qu Si ba： Duoshujue Yuanze Siwang Youxi]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Your Turn To Die -Jeu Mortel Démocratique-]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

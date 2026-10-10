@@ -30,8 +30,7 @@ portrait_image: "assets/characters/c27383.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Double Score ~Cattleya × Narcissus~ Regular Edition]]（side）
-- [[Double Score ~Cosmos × Camellia~ Regular Edition]]（side）
+<!-- AUTO:BEGIN character -->- [[发行版/Double Score ~Marguerite × Tulip~ Regular Edition]]（side）
 - [[Double Score ~Marguerite × Tulip~ Regular Edition]]（side）<!-- AUTO:END character -->
 
 ## 声优

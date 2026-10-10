@@ -12,22 +12,13 @@ source_urls:
 # Business Partner Co.,Ltd.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Albatross Koukairoku - Download Edition]]（publisher）
-- [[Albatross Koukairoku - Trial Edition]]（publisher）
-- [[Albatross Koukairoku]]（publisher）
-- [[Bengarachou Hakubutsushi - Download Edition]]（publisher）
-- [[Bengarachou Hakubutsushi - Trial Edition]]（publisher）
-- [[Bengarachou Hakubutsushi]]（publisher）
-- [[Fairytale Requiem - Download Edition]]（publisher）
-- [[Fairytale Requiem - Trial Edition]]（publisher）
-- [[Fairytale Requiem]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Liar-soft Selection 16 - Albatross Koukairoku]]（publisher）
+- [[发行版/Liar-soft Selection 14 - Bengarachou Hakubutsushi]]（publisher）
+- [[发行版/Fairytale Symphony]]（publisher）
 - [[Fairytale Symphony]]（publisher）
 - [[Hanachirutani Sanjinkou - Download Edition]]（publisher）
-- [[Hanachirutani Sanjinkou - Trial Edition]]（publisher）
-- [[Hanachirutani Sanjinkou]]（publisher）
-- [[Kagerou Touryuuki - Download Edition]]（publisher）
-- [[Kagerou Touryuuki - Trial Edition]]（publisher）
-- [[Kagerou Touryuuki]]（publisher）
+- [[发行版/Hanachirutani Sanjinkou - Download Edition]]（publisher）
+- [[发行版/Liar-soft Selection 12 - Kagerou Touryuuki]]（publisher）
 - [[Kusarihime ~Euthanasia~ Download Edition]]（publisher）
 - [[Liar-soft Selection 12 - Kagerou Touryuuki]]（publisher）
 - [[Liar-soft Selection 14 - Bengarachou Hakubutsushi]]（publisher）

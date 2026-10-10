@@ -12,7 +12,7 @@ source_urls:
 # Shan You Mu Xi
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Yongheng Shijie v0.7]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Vechnost' v0.8]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

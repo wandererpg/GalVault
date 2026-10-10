@@ -21,6 +21,7 @@ cover_image: "assets/covers/v21267.webp"
 
 # Monmusu Quest! Paradox RPG Chuushou
 
+
 ## 封面
 <!-- AUTO:BEGIN image -->
 ![[assets/covers/v21267.webp|300]]
@@ -69,9 +70,8 @@ cover_image: "assets/covers/v21267.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Monmusu Quest! Paradox RPG Chuushou]]
-- [[Monmusu Quest! Paradox RPG Chuushou（Cuarentena Translations）]]
-- [[Monmusu Quest! Paradox（Monmusu Quest Paradox translate）]]
-- [[Monster Girl Quest! Paradox RPG - Part 2]]<!-- AUTO:END release -->
+- [[发行版/Monmusu Quest! Paradox RPG Chuushou]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

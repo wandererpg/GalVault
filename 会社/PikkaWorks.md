@@ -12,10 +12,10 @@ source_urls:
 # PikkaWorks
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ao no Kanata no Four Rhythm（PikkaWorks・release：）]]（publisher）
-- [[Ao no Kanata no Four Rhythm（PikkaWorks・vndb：r12）]]（publisher）
-- [[Ao no Kanata no Four Rhythm（PikkaWorks）]]（publisher）
-- [[Kin'iro Loveriche]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Ao no Kanata no Four Rhythm - EXTRA1S - Download Edition]]（publisher）
+- [[发行版/Aokana - Four Rhythms Across the Blue - EXTRA2 18+ Steam Patch]]（publisher）
+- [[发行版/Ao no Kanata no Four Rhythm - Download Edition（sprite）]]（publisher）
+- [[发行版/Kin'iro Loveriche + Kin'iro Loveriche -Golden Time- Golden Pack]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

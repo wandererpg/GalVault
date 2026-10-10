@@ -30,10 +30,8 @@ portrait_image: "assets/characters/c10947.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Caramel Box Collection - Otome wa Boku ni Koishiteru 1 & 2 Pack]]（side）
-- [[Caramel Box Collection Otome wa Boku ni Koishiteru Futari no Elder]]（side）
-- [[Otome wa Boku ni Koishiteru ~Futari no Elder~ First Press Limited Edition]]（side）
-- [[Otome wa Boku ni Koishiteru ~Futari no Elder~ Regular Edition]]（side）<!-- AUTO:END character -->
+<!-- AUTO:BEGIN character -->- [[发行版/Otome wa Boku ni Koishiteru ~Futari no Elder~ Portable]]（side）
+<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Aoi Tokio]]（声优：葵 時緒）<!-- AUTO:END voice -->

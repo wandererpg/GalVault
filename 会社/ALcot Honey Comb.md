@@ -12,18 +12,9 @@ source_urls:
 # ALcot Honey Comb
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Kimi no Tonari de Koishiteru! - FD Pack]]（developer）
-- [[Kimi no Tonari de Koishiteru! - FD Pack]]（publisher）
-- [[Kimi no Tonari de Koishiteru! - Renewal Package Edition]]（developer）
-- [[Kimi no Tonari de Koishiteru! - Renewal Package Edition]]（publisher）
-- [[Kimi no Tonari de Koishiteru! ~The Respective Happiness~ Download Edition]]（developer）
-- [[Kimi no Tonari de Koishiteru! ~The Respective Happiness~ Download Edition]]（publisher）
-- [[Kimi no Tonari de Koishiteru! ~The Respective Happiness~ Package Edition]]（developer）
-- [[Kimi no Tonari de Koishiteru! ~The Respective Happiness~ Package Edition]]（publisher）
-- [[Kimi no Tonari de Koishiteru! ~The Respective Happiness~ Trial Edition]]（developer）
-- [[Kimi no Tonari de Koishiteru! ~The Respective Happiness~ Trial Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Kimi no Tonari de Koishiteru! ~The Respective Happiness~]]（developer）
+- [[发行版/Kimi no Tonari de Koishiteru! ~The Respective Happiness~]]（publisher）
 - [[Kimi no Tonari de Koishiteru! ~The Respective Happiness~]]（developer）
-- [[Kimi no Tonari de Koishiteru! ~The Respective Happiness~（ALcot Honey Comb）]]（developer）
 - [[慕情之心今随君作伴 ~The Respective Happiness~]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

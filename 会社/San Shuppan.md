@@ -12,7 +12,7 @@ source_urls:
 # San Shuppan
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[BugBug 200 Anniversary DVD MiniMini AVG Collection Part 1]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Ikusa Megami Verita Complete Guidebook Privilege Appendix Disc]]（publisher）
 - [[BugBug 200 Anniversary DVD MiniMini AVG Collection Part 1（Minato Soft）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

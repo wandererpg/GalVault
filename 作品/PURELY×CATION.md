@@ -64,11 +64,9 @@ cover_image: "assets/covers/v18723.webp"
 - [[Yuika]]（唯香）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[ALL×CATION（hibiki works）]]
-- [[PURELY x CATION]]
-- [[PURELY×CATION - Download Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/PURELY×CATION - First Press Limited Edition]]
 - [[PURELY×CATION - First Press Limited Edition]]
-- [[PURELY×CATION - Trial Edition]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

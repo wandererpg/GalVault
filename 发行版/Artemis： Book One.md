@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r128568:work:vndb:work:v30755"
-type: "release"
-display_title: "Artemis: Book One"
-release_date: "2023-04-29"
+entity_id: release:vndb:r128568:work:vndb:work:v30755
+type: release
+display_title: 'Artemis: Book One'
+release_date: '2023-04-29'
 is_all_ages: false
-platform: "win, lin, mac"
-edition_type: "partial"
-title_status: "needs_review"
+platform: win, lin, mac
+edition_type: partial
+title_status: needs_review
 source_ids:
-  vndb: "r128568"
+  vndb: r128568
 source_urls:
-  vndb: "https://vndb.org/r128568"
+  vndb: https://vndb.org/r128568
+aliases:
+- Artemida v0.7.1
+- Artemis v0.7
+consolidated_releases:
+- id: r128568
+  title: 'Artemis: Book One'
+  url: https://vndb.org/r128568
+  release_date: '2023-04-29'
+  platform: win, lin, mac
+  edition_type: partial
+  is_all_ages: false
+- id: r78807
+  title: Artemis v0.7
+  url: https://vndb.org/r78807
+  release_date: '2026-06-06'
+  platform: win, lin, mac
+  edition_type: partial
+  is_all_ages: false
+- id: r102087
+  title: Artemida v0.7.1
+  url: https://vndb.org/r102087
+  release_date: '2026-07-04'
+  platform: win, lin, and
+  edition_type: partial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Artemis: Book One

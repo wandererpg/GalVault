@@ -12,11 +12,11 @@ source_urls:
 # Zero Force Translations
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Clannad Full Voice（Zero Force Translations）]]（publisher）
-- [[Little Busters!（Zero Force Translations）]]（publisher）
-- [[O Diabo na Corda Sol]]（publisher）
-- [[Planetarian ~ O Sonho De Uma Pequena Estrela ~]]（publisher）
-- [[Saya no Uta（Zero Force Translations）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/CLANNAD（Hikarizaka Gaoxiao Zhongwen Bu）]]（publisher）
+- [[发行版/Little Busters! English Edition（Key）]]（publisher）
+- [[发行版/G-senjou no Maou（Aegis）]]（publisher）
+- [[发行版/Planetarian ~The Reverie of a Little Planet~（release：）]]（publisher）
+- [[发行版/Saya no Uta ~ The Song of Saya - Upgrade Patch]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -30,10 +30,9 @@ portrait_image: "assets/characters/c59818.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[ef - a fairy tale of the two. (ef Lite)]]（side）
-- [[ef - a fairy tale of the two. - First Press Limited Edition]]（side）
+<!-- AUTO:BEGIN character -->- [[发行版/ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（side）
 - [[ef - a fairy tale of the two. - Regular Edition（COMFORT）]]（side）
-- [[ef - the latter tale（minori）]]（side）<!-- AUTO:END character -->
+<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Sasa Rumiko]]（声优：山田 奈穂）<!-- AUTO:END voice -->

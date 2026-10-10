@@ -172,13 +172,9 @@ cover_image: "assets/covers/v15493.webp"
 - [[Yukito Saori]]（雪都 さお梨）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[ChuSinGura 46+1 Bushi no Kodou - Download Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/ChuSinGura 46+1 Bushi no Kodou - First Press Edition]]
 - [[ChuSinGura 46+1 Bushi no Kodou - First Press Edition]]
-- [[ChuSinGura 46+1 Bushi no Kodou - Low-Price Edition]]
-- [[ChuSinGura 46+1 Bushi no Kodou - Trial Edition]]
-- [[ChuSinGura 46+1 Bushi no Kodou]]
-- [[Inre 10th Complete Pack - Limited Time Edition（inre）]]
-- [[Inre 10th Complete Pack（inre）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

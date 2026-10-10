@@ -12,11 +12,9 @@ source_urls:
 # CIRCLE LINE GAMES
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Magical Girl Witch Trials（Re,AER LLC）]]（publisher）
-- [[Mahou Shoujo no Majo Saiban Demo： First-victim Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Mahou Shoujo no Majo Saiban]]（publisher）
 - [[Mahou Shoujo no Majo Saiban]]（publisher）
-- [[Mofa Shaonü De Monü Shenpan]]（publisher）
-- [[Watashi no Real wa Juujitsu Shisugiteiru for Nintendo Switch]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Watashi no Real wa Juujitsu Shisugiteiru - Fully Voiced Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

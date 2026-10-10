@@ -1,16 +1,58 @@
 ---
-entity_id: "release:vndb:r41613:work:vndb:work:v15360"
-type: "release"
-display_title: "Maou no Kuse ni Namaiki da! Torotoro Tropical! - DVDPG"
-release_date: "2015-08-20"
+entity_id: release:vndb:r41613:work:vndb:work:v15360
+type: release
+display_title: Maou no Kuse ni Namaiki da! Torotoro Tropical! - DVDPG
+release_date: '2015-08-20'
 is_all_ages: false
-platform: "dvd"
-edition_type: "complete"
-title_status: "needs_review"
+platform: dvd
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r41613"
+  vndb: r41613
 source_urls:
-  vndb: "https://vndb.org/r41613"
+  vndb: https://vndb.org/r41613
+aliases:
+- Maou no Kuse ni Namaiki da! Manatsu no Gattai Box（Luxury）
+- Maou no Kuse ni Namaiki da! Torotoro Tropical!
+- Maou no Kuse ni Namaiki da! Torotoro Tropical! - Chutoro Trial Edition
+- Maou no Kuse ni Namaiki da! Torotoro Tropical! - Download Edition
+consolidated_releases:
+- id: r41613
+  title: Maou no Kuse ni Namaiki da! Torotoro Tropical! - DVDPG
+  url: https://vndb.org/r41613
+  release_date: '2015-08-20'
+  platform: dvd
+  edition_type: complete
+  is_all_ages: false
+- id: r37321
+  title: Maou no Kuse ni Namaiki da! Torotoro Tropical! - Download Edition
+  url: https://vndb.org/r37321
+  release_date: '2014-11-28'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r34383
+  title: Maou no Kuse ni Namaiki da! Manatsu no Gattai Box
+  url: https://vndb.org/r34383
+  release_date: '2014-08-29'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r34309
+  title: Maou no Kuse ni Namaiki da! Torotoro Tropical!
+  url: https://vndb.org/r34309
+  release_date: '2014-08-29'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r35248
+  title: Maou no Kuse ni Namaiki da! Torotoro Tropical! - Chutoro Trial Edition
+  url: https://vndb.org/r35248
+  release_date: '2014-07-18'
+  platform: win
+  edition_type: trial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Maou no Kuse ni Namaiki da! Torotoro Tropical! - DVDPG

@@ -31,7 +31,7 @@ portrait_image: "assets/characters/c10315.webp"
 
 ## 出场作品
 <!-- AUTO:BEGIN character -->- [[Kono Aozora ni Yakusoku o： Te no Hira No Rakuen - Deluxe Pack Edition]]（primary）
-- [[Kono Aozora ni Yakusoku o： Te no Hira No Rakuen - Regular Edition]]（primary）
+- [[发行版/Kono Aozora ni Yakusoku o： Te no Hira No Rakuen - Deluxe Pack Edition]]（primary）
 - [[青空下的约定]]（side）<!-- AUTO:END character -->
 
 ## 声优

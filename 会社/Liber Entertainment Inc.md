@@ -16,7 +16,7 @@ source_urls:
 - [[18TRIP]]（publisher）
 - [[A3!]]（developer）
 - [[A3!]]（publisher）
-- [[A3!（Liber Entertainment Inc）]]（developer）<!-- AUTO:END duty -->
+- [[发行版/A3!]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

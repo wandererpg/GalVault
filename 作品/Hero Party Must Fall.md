@@ -45,8 +45,7 @@ cover_image: "assets/covers/v35777.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Hero Party Must Fall v0.5.4]]
-- [[Hero Party Must Fall v0.6.1 Playtest]]
+<!-- AUTO:BEGIN release -->- [[发行版/Otrjad Geroja Dolzhen Past' v0.6.1]]
 - [[Otrjad Geroja Dolzhen Past' v0.6.1]]<!-- AUTO:END release -->
 
 ## 动画化

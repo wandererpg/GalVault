@@ -12,13 +12,10 @@ source_urls:
 # Weilai Shuwei
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Bloody Call - First Press Edition]]（publisher）
-- [[Bloody Call - First Press Limited Edition]]（publisher）
-- [[Laughter Land - First Press Edition]]（publisher）
-- [[Laughter Land - First Press Limited Edition]]（publisher）
-- [[Laughter Land - Regular Edition]]（publisher）
-- [[Yaoyang Huanghua - First Press Edition]]（publisher）
-- [[Yaoyang Huanghua - First Press Limited Edition]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/unENDing Bloody Call - Limited Edition]]（publisher）
+- [[发行版/Laughter Land]]（publisher）
+- [[发行版/Haruka ni Aogi, Uruwashi no - BDPG]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

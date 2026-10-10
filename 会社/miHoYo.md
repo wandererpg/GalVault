@@ -14,10 +14,8 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Tears of Themis - Closed Beta]]（developer）
 - [[Tears of Themis - Closed Beta]]（publisher）
-- [[Tears of Themis]]（developer）
-- [[Tears of Themis]]（publisher）
-- [[Weiding Shijian Bu]]（developer）
-- [[Weiding Shijian Bu]]（publisher）
+- [[发行版/Tears of Themis - Closed Beta]]（developer）
+- [[发行版/Tears of Themis - Closed Beta]]（publisher）
 - [[未定事件簿]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

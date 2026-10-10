@@ -12,13 +12,11 @@ source_urls:
 # KikaChan Games
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[AIR - Standard Edition（KikaChan Games）]]（publisher）
-- [[AIR（KikaChan Games・release：）]]（publisher）
-- [[AIR（KikaChan Games）]]（publisher）
-- [[Clannad - Steam Edition]]（publisher）
-- [[Phantom INTEGRATION（KikaChan Games）]]（publisher）
-- [[Planetarian -HD edition-]]（publisher）
-- [[Sayonara o Oshiete ~Ensine-me a dizer Adeus~]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/AIR（Key）]]（publisher）
+- [[发行版/CLANNAD（Hikarizaka Gaoxiao Zhongwen Bu）]]（publisher）
+- [[发行版/Phantom - Phantom of Inferno - Regular Edition]]（publisher）
+- [[发行版/Planetarian ~The Reverie of a Little Planet~（release：）]]（publisher）
+- [[发行版/Sayonara o Oshiete ~Comment te Dire Adieu~ ~AsoBD~]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

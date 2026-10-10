@@ -12,16 +12,14 @@ source_urls:
 # T-Time
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Baihe Erchongzou - First Press Limited Edition]]（publisher）
-- [[Jiaoxiangyue zhi Yu - Treasure Edition]]（publisher）
-- [[Jiaoxiangyue zhi Yu（T-Time）]]（publisher）
-- [[Memories Off Duet]]（publisher）
-- [[Memories Off Duet（T-Time）]]（publisher）
-- [[Qiu zhi Huiyi 2（T-Time）]]（publisher）
-- [[Qiu zhi Huiyi： Cong Jin Yihou]]（publisher）
-- [[Remember11 -Shiguang de Jiyi-]]（publisher）
-- [[Shiguang de Jiban]]（publisher）
-- [[Yinhe Tianshi： Yongheng de Qingren]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Solfege ~Sweet Harmony~ Limited Edition]]（publisher）
+- [[发行版/Symphonic Rain - DVD Edition - First Press Limited Edition]]（publisher）
+- [[发行版/Memories Off Historia - Super Limited Edition（MAGES・vndb：r11）]]（publisher）
+- [[发行版/Memories Off Historia - Super Limited Edition（MAGES・release：）]]（publisher）
+- [[发行版/Memories Off Historia - Super Limited Edition（MAGES）]]（publisher）
+- [[发行版/Remember11 -The Age of Infinity- Download Edition（MAGES）]]（publisher）
+- [[发行版/Ever17 -The Out of Infinity- Download Edition（MAGES）]]（publisher）
+- [[发行版/GALAXY ANGEL Eternal Lovers - Special Package DVD-ROM Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

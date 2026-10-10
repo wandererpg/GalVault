@@ -12,8 +12,8 @@ source_urls:
 # BokiBoki Games
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Qizhongmi 3 - Censored Edition]]（publisher）
-- [[Tsumamigui 3 - Download Edition]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Tsumamigui 3 - Download Edition（Alice Soft）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

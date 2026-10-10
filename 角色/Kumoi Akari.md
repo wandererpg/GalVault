@@ -30,8 +30,7 @@ portrait_image: "assets/characters/c9341.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[If My Heart Had Wings -Flight Diary- - New Wings： Akari]]（primary）
-- [[Kono Oozora ni, Tsubasa o Hirogete Cruise Sign - Regular Edition]]（primary）
+<!-- AUTO:BEGIN character -->- [[发行版/Kono Oozora ni, Tsubasa o Hirogete Cruise Sign - Regular Edition（MAGES・release：）]]（primary）
 - [[Kono Oozora ni, Tsubasa o Hirogete Cruise Sign - Regular Edition（MAGES・release：）]]（primary）
 - [[在这苍穹展翅 -飞行日志-]]（side）
 - [[在这苍穹展翅]]（side）<!-- AUTO:END character -->

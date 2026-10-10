@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r54701:work:vndb:work:v22211"
-type: "release"
-display_title: "Toaru Hahaoya no Ayamachi ~Yukari Sono Kouhen~ ver1.51f"
-release_date: "2020-08-14"
+entity_id: release:vndb:r54701:work:vndb:work:v22211
+type: release
+display_title: Toaru Hahaoya no Ayamachi ~Yukari Sono Kouhen~ ver1.51f
+release_date: '2020-08-14'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r54701"
+  vndb: r54701
 source_urls:
-  vndb: "https://vndb.org/r54701"
+  vndb: https://vndb.org/r54701
+aliases:
+- Indiscreet Mother： Yukari After Story
+- Toaru Hahaoya no Ayamachi ~Yukari Sono Kouhen~
+consolidated_releases:
+- id: r54701
+  title: Toaru Hahaoya no Ayamachi ~Yukari Sono Kouhen~ ver1.51f
+  url: https://vndb.org/r54701
+  release_date: '2020-08-14'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r55200
+  title: Toaru Hahaoya no Ayamachi ~Yukari Sono Kouhen~
+  url: https://vndb.org/r55200
+  release_date: '2018-01-08'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r141506
+  title: 'Indiscreet Mother: Yukari After Story'
+  url: https://vndb.org/r141506
+  release_date: '2025-09-05'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Toaru Hahaoya no Ayamachi ~Yukari Sono Kouhen~ ver1.51f

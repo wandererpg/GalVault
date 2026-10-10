@@ -12,10 +12,8 @@ source_urls:
 # PRODUCTION PENCIL
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Taishou x Alice epilogue]]（publisher）
-- [[Taishou x Alice episode 1]]（publisher）
-- [[Taishou x Alice episode 2]]（publisher）
-- [[Taishou x Alice episode 3]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Dazheng × Duichen Alice  all in one Regular Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -17,21 +17,9 @@ source_urls:
 - [[Dreamin' Her -Boku wa, Kanojo no Yume o Miru.-]]（publisher）
 - [[Dreamin' Her -我梦见了她。-]]（developer）
 - [[Seven Days： Anata to Sugosu Nanokakan - Download Edition]]（developer）
-- [[Seven Days： Anata to Sugosu Nanokakan - Download Edition（PROTOTYPE）]]（developer）
-- [[Seven Days： Anata to Sugosu Nanokakan - First Press Limited Deluxe Edition]]（developer）
-- [[Seven Days： Anata to Sugosu Nanokakan - First Press Limited Deluxe Edition]]（publisher）
-- [[Seven Days： Anata to Sugosu Nanokakan - Limited Edition]]（developer）
-- [[Seven Days： Anata to Sugosu Nanokakan - Package Edition]]（developer）
-- [[Seven Days： Anata to Sugosu Nanokakan - Refine Version (tentative title)]]（developer）
-- [[Seven Days： Anata to Sugosu Nanokakan - Refine Version (tentative title)]]（publisher）
-- [[Seven Days： Anata to Sugosu Nanokakan - Regular Edition]]（developer）
-- [[Seven Days： Anata to Sugosu Nanokakan - Visual Book Included First Press Limited Edition]]（developer）
-- [[Seven Days： Anata to Sugosu Nanokakan - Visual Book Included First Press Limited Edition]]（publisher）
-- [[Seven Days： Anata to Sugosu Nanokakan -Prologue Only Trial Edition-]]（developer）
-- [[Seven Days： Anata to Sugosu Nanokakan -Prologue Only Trial Edition-]]（publisher）
-- [[Seven Days： Anata to Sugosu Nanokakan（Fruitbat Factory）]]（developer）
-- [[Seven Days： Murasaki Iro no Fuutou Hen - Windows Edition]]（developer）
-- [[Seven Days： Murasaki Iro no Fuutou Hen - Windows Edition]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Seven Days： Anata to Sugosu Nanokakan - Download Edition]]（developer）
+- [[发行版/Seven Days： Anata to Sugosu Nanokakan - Download Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

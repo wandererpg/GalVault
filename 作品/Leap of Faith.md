@@ -61,9 +61,7 @@ cover_image: "assets/covers/v28200.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Leap Of Faith v0.4.1c]]
-- [[Leap of Faith - Demo]]
-- [[Leap of Faith]]
+<!-- AUTO:BEGIN release -->- [[发行版/«Sila Very»]]
 - [[«Sila Very»]]<!-- AUTO:END release -->
 
 ## 动画化

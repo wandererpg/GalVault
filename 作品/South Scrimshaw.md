@@ -40,9 +40,9 @@ cover_image: "assets/covers/v29709.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Gudiao Nan Dao - Part 1]]
+<!-- AUTO:BEGIN release -->- [[发行版/South Scrimshaw, Part One]]
 - [[South Scrimshaw, Part One]]
-- [[South Scrimshaw, Part Two]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

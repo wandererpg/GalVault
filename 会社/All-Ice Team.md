@@ -12,14 +12,10 @@ source_urls:
 # All-Ice Team
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[999： Nine Hours, Nine Persons, Nine Doors]]（publisher）
-- [[999： Nine Hours, Nine Persons, Nine Doors（All-Ice Team）]]（publisher）
-- [[Danganronpa 2： Goodbye Despair (Alpha patch)]]（publisher）
-- [[Danganronpa： Hope’s Academy and Despair’s Students - Demo]]（publisher）
-- [[Danganronpa： Hope’s Academy and Despair’s Students Demo（All-Ice Team）]]（publisher）
-- [[Danganronpa： Hope’s Academy and Despair’s Students（All-Ice Team・release：）]]（publisher）
-- [[Danganronpa： Hope’s Academy and Despair’s Students（All-Ice Team）]]（publisher）
-- [[Zero Escape： Virtue's Last Reward Demo（All-Ice Team）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kyokugen Dasshutsu 9-Jikan 9-Nin 9 no Tobira - Chun Selection]]（publisher）
+- [[发行版/Danganronpa Decadence - EU Package Edition（Numskull Games Ltd・release：）]]（publisher）
+- [[发行版/Danganronpa Decadence - EU Package Edition（Numskull Games Ltd）]]（publisher）
+- [[发行版/Kyokugen Dasshutsu ADV Zennin Shibou Desu - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

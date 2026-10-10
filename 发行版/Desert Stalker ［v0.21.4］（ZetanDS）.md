@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r81419:work:vndb:work:v31675"
-type: "release"
-display_title: "Desert Stalker [v0.21.4]"
-release_date: "2026-06-25"
+entity_id: release:vndb:r81419:work:vndb:work:v31675
+type: release
+display_title: Desert Stalker [v0.21.4]
+release_date: '2026-06-25'
 is_all_ages: false
-platform: "win, lin, mac"
-edition_type: "partial"
-title_status: "needs_review"
+platform: win, lin, mac
+edition_type: partial
+title_status: needs_review
 source_ids:
-  vndb: "r81419"
+  vndb: r81419
 source_urls:
-  vndb: "https://vndb.org/r81419"
+  vndb: https://vndb.org/r81419
+aliases:
+- Desert Stalker ［v0.21.4］
+- Pustynnyj Stalker v0.20.3.1
+consolidated_releases:
+- id: r81419
+  title: Desert Stalker [v0.21.4]
+  url: https://vndb.org/r81419
+  release_date: '2026-06-25'
+  platform: win, lin, mac
+  edition_type: partial
+  is_all_ages: false
+- id: r129957
+  title: Desert Stalker [v0.21.4]
+  url: https://vndb.org/r129957
+  release_date: '2026-06-25'
+  platform: and
+  edition_type: partial
+  is_all_ages: false
+- id: r92688
+  title: Pustynnyj Stalker v0.20.3.1
+  url: https://vndb.org/r92688
+  release_date: '2026-03-04'
+  platform: win, lin, and
+  edition_type: partial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Desert Stalker [v0.21.4]

@@ -12,7 +12,7 @@ source_urls:
 # Eastern Translation Expedition
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Kajiri Kamui Kagura Akebono no Hikari（Eastern Translation Expedition）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Shenzhou Shenwei Shenle Shuguang]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,8 +12,8 @@ source_urls:
 # MAGI Inc.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Magical Princess - Demo]]（developer）
-- [[Magical Princess - Demo]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Magical Princess]]（developer）
+- [[发行版/Magical Princess]]（publisher）
 - [[Magical Princess]]（developer）
 - [[Magical Princess]]（publisher）
 - [[まじかる☆プリンセス]]（developer）<!-- AUTO:END duty -->

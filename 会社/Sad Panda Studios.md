@@ -12,14 +12,8 @@ source_urls:
 # Sad Panda Studios
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Hush Hush - 18+ Uncensored DLC]]（developer）
-- [[Hush Hush - 18+ Uncensored DLC]]（publisher）
-- [[Hush Hush - Peanut DLC]]（developer）
-- [[Hush Hush - Peanut DLC]]（publisher）
-- [[Hush Hush]]（developer）
-- [[Hush Hush]]（publisher）
-- [[Hush Hush： Only Your Love Can Save Them - Demo]]（developer）
-- [[Hush Hush： Only Your Love Can Save Them - Demo]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Hush Hush： Only Your Love Can Save Them]]（developer）
+- [[发行版/Hush Hush： Only Your Love Can Save Them]]（publisher）
 - [[Hush Hush： Only Your Love Can Save Them]]（developer）
 - [[Hush Hush： Only Your Love Can Save Them]]（publisher）<!-- AUTO:END duty -->
 

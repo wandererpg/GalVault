@@ -108,14 +108,7 @@ cover_image: "assets/covers/v19373.webp"
 - [[Yamamoto Kanehira]]（山本 兼平）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Ever 17 - The Out of Infinity - Download Edition]]
-- [[Ever 17 - The Out of Infinity]]
-- [[Ever 17 - The Out of Infinity（MAGES・release：）]]
-- [[Ever 17 - The Out of Infinity（MAGES）]]
-- [[Ever 17／Never 7 Double Pack - Limited Edition]]
-- [[Ever 17／Never 7 Double Pack - Standard Edition]]
-- [[Ever17 - First Press Limited Edition]]
-- [[Ever17 - Regular Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Ever17／Never7 Double Pack - Download Edition]]
 - [[Ever17／Never7 Double Pack - Download Edition]]<!-- AUTO:END release -->
 
 ## 动画化

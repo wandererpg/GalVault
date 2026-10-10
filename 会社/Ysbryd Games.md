@@ -12,14 +12,7 @@ source_urls:
 # Ysbryd Games
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[VA-11 HALL-A - Download Edition（Sukeban Games）]]（publisher）
-- [[VA-11 HALL-A - EU Download Edition]]（publisher）
-- [[VA-11 HALL-A - NA Download Edition（Sukeban Games）]]（publisher）
-- [[VA-11 HALL-A - Special Demo Version]]（publisher）
-- [[VA-11 HALL-A v1.2.1]]（publisher）
-- [[VA-11 HALL-A（Sukeban Games・release：）]]（publisher）
-- [[VA-11 HALL-A（Sukeban Games）]]（publisher）
-- [[VA-11 Hall-A： Cyberpunk Bartender Action]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/VA-11 Hall-A： Cyberpunk Bartender Action（Sukeban Games）]]（publisher）
 - [[VA-11 Hall-A： Cyberpunk Bartender Action（Sukeban Games）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者

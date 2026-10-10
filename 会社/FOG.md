@@ -12,13 +12,8 @@ source_urls:
 # FOG
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Kuon no Kizuna Sairinshou - Full Voice Edition]]（developer）
-- [[Kuon no Kizuna Sairinshou nice price!]]（developer）
-- [[Kuon no Kizuna Sairinshou nice price!]]（publisher）
-- [[Kuon no Kizuna ~Sairinshou~]]（developer）
-- [[Kuon no Kizuna ~Sairinshou~]]（publisher）
-- [[Kuon no Kizuna ~Sairinshou~（FOG）]]（developer）
-- [[Kuon no Kizuna ~Sairinshou~（FOG）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Kuon no Kizuna]]（developer）
+- [[发行版/Kuon no Kizuna]]（publisher）
 - [[Kuon no Kizuna]]（developer）
 - [[Kuon no Kizuna]]（publisher）
 - [[久遠の絆]]（developer）<!-- AUTO:END duty -->

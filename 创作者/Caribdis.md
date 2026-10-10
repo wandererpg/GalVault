@@ -12,11 +12,11 @@ source_urls:
 # Caribdis
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Eternum ［v0.9.5］]]（developer）
-- [[Eternum ［v0.9.5］]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Vechnost' v0.8]]（developer）
+- [[发行版/Vechnost' v0.8]]（publisher）
 - [[Once in a Lifetime]]（developer）
-- [[Once in a Lifetime（release：）]]（developer）
-- [[Once in a Lifetime（release：）]]（publisher）
+- [[发行版/Odin raz v zhizni]]（developer）
+- [[发行版/Odin raz v zhizni]]（publisher）
 - [[永恒世界]]（developer）<!-- AUTO:END duty -->
 
 ## 创作与出演

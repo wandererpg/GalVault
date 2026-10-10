@@ -50,19 +50,9 @@ cover_image: "assets/covers/v36175.webp"
 - [[Tsukino Kiiro]]（藤野 むらさき）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Cosplaying in Costalia： The Tororo Sisters! - Censored Edition]]
-- [[Cosplaying in Costalia： The Tororo Sisters!]]
-- [[ROLEPLAYER： Yamakake Jiemei de Nianmo Youxi ver2.0]]
-- [[ROLEPLAYER： Yamakake Jiemei de Nianmo Youxi]]
-- [[Role player： Tororo Shimai no Nenmaku Portrait - Gurigucha LIVE! - Append+ Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Role player： Tororo Shimai no Nenmaku Portrait - Gurigucha LIVE! - Append+ ［AI TL］]]
 - [[Role player： Tororo Shimai no Nenmaku Portrait - Gurigucha LIVE! - Append+ ［AI TL］]]
-- [[Role player： Tororo Shimai no Nenmaku Portrait - Gurigucha LIVE! - Append+]]
-- [[Role player： Tororo Shimai no Nenmaku Portrait - Gurigucha LIVE! - Download Edition]]
-- [[Role player： Tororo Shimai no Nenmaku Portrait - Gurigucha LIVE! - Kiss Makura Cover Included Limited Edition]]
-- [[Role player： Tororo Shimai no Nenmaku Portrait - Gurigucha LIVE! - Regular Edition]]
-- [[Role player： Tororo Shimai no Nenmaku Portrait - Gurigucha LIVE! - Trial Edition]]
-- [[Role player： Tororo Shimai no Nenmaku Portrait - Gurigucha LIVE!]]
-- [[ShanGua JieMei De Nianmo Youxi! - Trial Edition]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

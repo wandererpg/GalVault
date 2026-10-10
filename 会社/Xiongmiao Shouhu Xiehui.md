@@ -12,10 +12,10 @@ source_urls:
 # Xiongmiao Shouhu Xiehui
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Chunbai Jiaoxiangqu Remake for FHD Hanhua Buquan Buding]]（publisher）
-- [[Chunbai Jiaoxiangqu SANA EDITION Hanhua Buquan Buding]]（publisher）
-- [[Wei Wode Nüwang Xianshang Rongguan H-scene Chinese Translation Patch]]（publisher）
-- [[＜Ying zhi Ke -Manbu yu Yinghua zhi Sen Xia-＞ H-scene Chinese Translation Patch]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Mashiro Iro Symphony ＊mutsu-no-hana]]（publisher）
+- [[发行版/Mashiro Iro Symphony： Sana Edition - Download Edition]]（publisher）
+- [[发行版/Waga Himegimi ni Eikan o - Download Edition]]（publisher）
+- [[发行版/Sakura no Toki -Sakura no Mori no Shita o Ayumu- First Press Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

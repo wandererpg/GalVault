@@ -1,16 +1,58 @@
 ---
-entity_id: "release:vndb:r109583:work:vndb:work:v45510"
-type: "release"
-display_title: "Xiase Siyecao"
-release_date: "2024-06-27"
+entity_id: release:vndb:r109583:work:vndb:work:v45510
+type: release
+display_title: Xiase Siyecao
+release_date: '2024-06-27'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r109583"
+  vndb: r109583
 source_urls:
-  vndb: "https://vndb.org/r109583"
+  vndb: https://vndb.org/r109583
+aliases:
+- Letnij klever
+- SUMMER CLOVER
+- Summer Clover（release：）
+- Summer Clover（Wand-erers Localization Team）
+consolidated_releases:
+- id: r109583
+  title: Xiase Siyecao
+  url: https://vndb.org/r109583
+  release_date: '2024-06-27'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r160677
+  title: Summer Clover
+  url: https://vndb.org/r160677
+  release_date: '2026-06-08'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r143283
+  title: Summer Clover
+  url: https://vndb.org/r143283
+  release_date: '2025-01-29'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r126284
+  title: SUMMER CLOVER
+  url: https://vndb.org/r126284
+  release_date: '2024-08-15'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r132560
+  title: Letnij klever
+  url: https://vndb.org/r132560
+  release_date: '2024-08-21'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Xiase Siyecao

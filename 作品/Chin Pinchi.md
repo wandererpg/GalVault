@@ -1,13 +1,23 @@
 ---
-entity_id: "vndb:work:v63994"
-type: "work"
-display_title: "Chin Pinchi"
-title_status: "unresolved"
+entity_id: vndb:work:v63994
+type: work
+display_title: Chin Pinchi
+title_status: unresolved
 source_ids:
-  vndb: "v63994"
+  vndb: v63994
 source_urls:
-  vndb: "https://vndb.org/v63994"
-cover_image: "assets/covers/v63994.webp"
+  vndb: https://vndb.org/v63994
+cover_image: assets/covers/v63994.webp
+vndb_title: Chin Pinchi
+vndb_content_updated: '2026-10-10'
+title_ja: ちんぴんち
+first_release_date: '2002-03-15'
+vndb_vote_count: 0
+vndb_languages:
+- ja
+vndb_platforms:
+- win
+vndb_devstatus: 0
 ---
 
 # Chin Pinchi
@@ -18,10 +28,14 @@ cover_image: "assets/covers/v63994.webp"
 <!-- AUTO:END image -->
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->
+- [瑠璃色ソフト](https://vndb.org/p20879)（developer）
+<!-- AUTO:END duty -->
 
 ## 创作者
-<!-- AUTO:BEGIN role --><!-- AUTO:END role -->
+<!-- AUTO:BEGIN role -->
+- [園麻りあ](https://vndb.org/s41941)（art）
+<!-- AUTO:END role -->
 
 ## 角色
 <!-- AUTO:BEGIN character --><!-- AUTO:END character -->
@@ -36,10 +50,21 @@ cover_image: "assets/covers/v63994.webp"
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
 
 ## 关联作品
-<!-- AUTO:BEGIN relation -->- [[AIR]]（char）<!-- AUTO:END relation -->
+<!-- AUTO:BEGIN relation -->
+- [[AIR]]（char）
+- [[作品/AIR|AIR]]（char）
+<!-- AUTO:END relation -->
 
 ## 标签
-<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+<!-- AUTO:BEGIN tag -->
+- [Fan-fiction](https://vndb.org/g1056)
+- [Sexual Content](https://vndb.org/g23)
+<!-- AUTO:END tag -->
 
 ## 来源
 <!-- AUTO:BEGIN provenance -->vndb:v63994<!-- AUTO:END provenance -->
+
+
+## VNDB 资料来源
+
+[VNDB：v63994](https://vndb.org/v63994)，补全于 2026-10-10。

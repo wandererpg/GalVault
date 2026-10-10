@@ -32,7 +32,7 @@ portrait_image: "assets/characters/c14476.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Fortissimo EXA／／Akkord：Bsusvier - Limited Edition]]（side）
+<!-- AUTO:BEGIN character -->- [[发行版/Fortissimo EXA／／Akkord：Bsusvier - Regular Edition]]（side）
 - [[Fortissimo EXA／／Akkord：Bsusvier - Regular Edition]]（side）
 - [[fortissimo EXS／／Akkord：nächsten Phase]]（side）<!-- AUTO:END character -->
 

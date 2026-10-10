@@ -31,7 +31,7 @@ portrait_image: "assets/characters/c17439.webp"
 
 ## 出场作品
 <!-- AUTO:BEGIN character -->- [[Baldr Heart EXE - First Press Limited Edition]]（appears）
-- [[Baldr Heart EXE - Regular Edition]]（appears）
+- [[发行版/Baldr Heart EXE - First Press Limited Edition]]（appears）
 - [[爱丽娅的明日盛典！Flowering Sky]]（primary）<!-- AUTO:END character -->
 
 ## 声优

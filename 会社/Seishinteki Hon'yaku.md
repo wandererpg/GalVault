@@ -12,7 +12,7 @@ source_urls:
 # Seishinteki Hon'yaku
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Velikaja imperija OAT]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Dadiguo（Dadiguoba Hanhuazu）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,32 +12,14 @@ source_urls:
 # Clip☆Craft
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Unionism Quartet - Download Edition]]（developer）
-- [[Unionism Quartet - Download Edition]]（publisher）
-- [[Unionism Quartet - First Press Edition]]（developer）
-- [[Unionism Quartet - First Press Edition]]（publisher）
-- [[Unionism Quartet - Regular Edition]]（developer）
-- [[Unionism Quartet - Regular Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Unionism Quartet - Reservation Privilege Harem Patch]]（developer）
+- [[发行版/Unionism Quartet - Reservation Privilege Harem Patch]]（publisher）
 - [[Unionism Quartet - Reservation Privilege Harem Patch]]（developer）
 - [[Unionism Quartet - Reservation Privilege Harem Patch]]（publisher）
-- [[Unionism Quartet - Trial Edition]]（developer）
-- [[Unionism Quartet - Trial Edition]]（publisher）
-- [[Unionism Quartet A3-Days - Deluxe Edition]]（developer）
-- [[Unionism Quartet A3-Days - Deluxe Edition]]（publisher）
-- [[Unionism Quartet A3-Days - Deluxe Edition（Clip☆Craft）]]（developer）
-- [[Unionism Quartet A3-Days - Deluxe Edition（Clip☆Craft）]]（publisher）
-- [[Unionism Quartet A3-Days - Download Edition]]（developer）
-- [[Unionism Quartet A3-Days - Download Edition]]（publisher）
-- [[Unionism Quartet A3-Days - Package Edition]]（developer）
-- [[Unionism Quartet A3-Days - Package Edition]]（publisher）
+- [[发行版/Unionism Quartet A3-Days Full Package - Download Edition]]（developer）
+- [[发行版/Unionism Quartet A3-Days Full Package - Download Edition]]（publisher）
 - [[Unionism Quartet A3-Days Full Package - Download Edition]]（developer）
 - [[Unionism Quartet A3-Days Full Package - Download Edition]]（publisher）
-- [[Unionism Quartet B2-Style - COMPLETE-PACKAGE]]（developer）
-- [[Unionism Quartet B2-Style - COMPLETE-PACKAGE]]（publisher）
-- [[Unionism Quartet B2-Style - COMPLETE-PACKAGE（Clip☆Craft）]]（developer）
-- [[Unionism Quartet B2-Style - COMPLETE-PACKAGE（Clip☆Craft）]]（publisher）
-- [[Unionism Quartet Full Package - Download Edition]]（developer）
-- [[Unionism Quartet Full Package - Download Edition]]（publisher）
 - [[ユニオリズム・カルテット A3-DAYS]]（developer）
 - [[ユニオリズム・カルテット]]（developer）<!-- AUTO:END duty -->
 

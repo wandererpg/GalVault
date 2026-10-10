@@ -14,12 +14,9 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Chronicles of Tal'Dun： The Remainder]]（developer）
 - [[Chronicles of Tal'Dun： The Remainder]]（publisher）
-- [[Chronicles of Taldun： The Remainder - Expanded Edition]]（developer）
-- [[Chronicles of Taldun： The Remainder - Expanded Edition]]（publisher）
-- [[The Remainder - Act 1]]（developer）
-- [[The Remainder - Act 1]]（publisher）
-- [[The Remainder - Demo]]（developer）
-- [[The Remainder - Demo]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Chronicles of Tal'Dun： The Remainder]]（developer）
+- [[发行版/Chronicles of Tal'Dun： The Remainder]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

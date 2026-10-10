@@ -12,13 +12,10 @@ source_urls:
 # Rogue Translator
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Monster Girl Quest - Part 1]]（publisher）
-- [[Monster Girl Quest - Part 2 - English Trial]]（publisher）
-- [[Monster Girl Quest - Part 2]]（publisher）
-- [[Monster Girl Quest - Part 3 - English Trial]]（publisher）
-- [[Monster Girl Quest - Part 3]]（publisher）
-- [[Monster Girl Quest - Part 3（release：）]]（publisher）
-- [[Monster Girl Quest - Part 3（vndb：r24）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Monmusu Quest! Origins -Assaulted by the Vamp-]]（publisher）
+- [[发行版/Monmusu Quest! Chuushou ~Makereba Youjo ni Okasareru~]]（publisher）
+- [[发行版/Monmusu Quest! Shuushou ~Makereba Youjo ni Okasareru~]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

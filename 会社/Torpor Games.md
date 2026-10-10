@@ -14,18 +14,11 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Suzerain]]（developer）
 - [[Suzerain]]（publisher）
-- [[Suzerain（Torpor Games・2d0a53a0）]]（developer）
-- [[Suzerain（Torpor Games・2d0a53a0）]]（publisher）
-- [[Suzerain（Torpor Games・k：v34788）]]（developer）
-- [[Suzerain（Torpor Games・k：v34788）]]（publisher）
-- [[Suzerain（Torpor Games・release：）]]（developer）
-- [[Suzerain（Torpor Games・release：）]]（publisher）
-- [[Suzerain（Torpor Games・vndb：r14）]]（developer）
-- [[Suzerain（Torpor Games・vndb：r14）]]（publisher）
+- [[发行版/Suzerain（Torpor Games・vndb：r89）]]（developer）
+- [[发行版/Suzerain（Torpor Games・vndb：r89）]]（publisher）
 - [[Suzerain（Torpor Games・vndb：r89）]]（developer）
 - [[Suzerain（Torpor Games・vndb：r89）]]（publisher）
-- [[Suzerain（Torpor Games）]]（developer）
-- [[Suzerain（Torpor Games）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

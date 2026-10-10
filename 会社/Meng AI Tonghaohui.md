@@ -12,7 +12,7 @@ source_urls:
 # Meng AI Tonghaohui
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Liujing zhi Hai de Apeiria]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Hikari no Umi no Apeiria & Hikari no Umi no Apeiria ~Casablanca no Kishi~ Pack Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

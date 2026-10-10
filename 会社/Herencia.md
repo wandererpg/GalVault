@@ -13,10 +13,8 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Hitotsumami ~Relaxation Series~ DVDPG]]（developer）
-- [[Hitotsumami ~Relaxation Series~ Download Edition]]（developer）
-- [[Hitotsumami ~Relaxation Series~ Download Edition]]（publisher）
-- [[Hitotsumami ~Relaxation Series~ Package Edition]]（developer）
-- [[Hitotsumami ~Relaxation Series~ Package Edition]]（publisher）
+- [[发行版/Hitotsumami ~Relaxation Series~ DVDPG]]（developer）
+- [[发行版/Hitotsumami ~Relaxation Series~ DVDPG]]（publisher）
 - [[ひとつまみ ～リラクゼーションシリーズ～]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

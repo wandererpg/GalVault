@@ -12,7 +12,7 @@ source_urls:
 # F&M Studio
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Kletka Belogo Cvetka： Bagrovye Oskolki 4 (Demo)]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Shirahana no Ori ~Hiiro no Kakera 4~ Shiki no Uta - Twin Pack]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

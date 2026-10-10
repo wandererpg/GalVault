@@ -76,14 +76,9 @@ cover_image: "assets/covers/v12571.webp"
 - [[Taneda Risa]]（種田 梨沙）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Boli Xin Gongzhu： PLATINUM]]
-- [[Glass Heart Princess for Nintendo Switch DL Edition（Design Factory Co., Ltd）]]
-- [[Glass Heart Princess for Nintendo Switch Regular Edition（Design Factory Co., Ltd）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Glass Heart Princess for Nintendo Switch Special Edition（Design Factory Co., Ltd）]]
 - [[Glass Heart Princess for Nintendo Switch Special Edition（Design Factory Co., Ltd）]]
-- [[Glass Heart Princess for Nintendo Switch（Justdan）]]
-- [[Glass Heart Princess： Platinum - Limited Edition]]
-- [[Glass Heart Princess： Platinum - Regular Edition]]
-- [[Glass Heart Princess： Platinum - Twin Pack（Design Factory Co., Ltd）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

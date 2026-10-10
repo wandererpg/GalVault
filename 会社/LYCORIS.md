@@ -12,18 +12,9 @@ source_urls:
 # LYCORIS
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Uso kara Hajimaru Koi no Natsu - Download Edition]]（developer）
-- [[Uso kara Hajimaru Koi no Natsu - Download Edition]]（publisher）
-- [[Uso kara Hajimaru Koi no Natsu - Download Edition（PROTOTYPE）]]（developer）
-- [[Uso kara Hajimaru Koi no Natsu - Limited Package Edition]]（developer）
-- [[Uso kara Hajimaru Koi no Natsu - Package Edition]]（developer）
-- [[Uso kara Hajimaru Koi no Natsu - Package Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Uso kara Hajimaru Koi no Natsu - Regular Package Edition]]（developer）
+- [[发行版/Uso kara Hajimaru Koi no Natsu - Regular Package Edition]]（publisher）
 - [[Uso kara Hajimaru Koi no Natsu - Regular Package Edition]]（developer）
-- [[Uso kara Hajimaru Koi no Natsu - Technical Demo]]（developer）
-- [[Uso kara Hajimaru Koi no Natsu - Technical Demo]]（publisher）
-- [[Uso kara Hajimaru Koi no Natsu - Trial Version]]（developer）
-- [[Uso kara Hajimaru Koi no Natsu - Trial Version（LYCORIS）]]（developer）
-- [[Uso kara Hajimaru Koi no Natsu - Trial Version（LYCORIS）]]（publisher）
 - [[始于谎言的夏日恋情]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

@@ -12,32 +12,15 @@ source_urls:
 # Xuse
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Eien no Aselia - Download Edition]]（publisher）
-- [[Eien no Aselia - Premium Special Edition - Download Edition]]（developer）
-- [[Eien no Aselia - Premium Special Edition - Download Edition]]（publisher）
-- [[Eien no Aselia - Premium Special Edition - Download Edition（Xuse）]]（developer）
-- [[Eien no Aselia - Premium Special Edition - Download Edition（Xuse）]]（publisher）
-- [[Eien no Aselia - Premium Special Edition]]（developer）
-- [[Eien no Aselia - Premium Special Edition]]（publisher）
-- [[Eien no Aselia - Premium Special Edition（Xuse）]]（developer）
-- [[Eien no Aselia - Premium Special Edition（Xuse）]]（publisher）
-- [[Eien no Aselia - Special Edition]]（publisher）
-- [[Eien no Aselia - Special Edition（Xuse）]]（publisher）
-- [[Eien no Aselia -The Spirit of Eternity Sword- DVD Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Eien no Aselia -The Spirit of Eternity Sword- Premium Special Edition + Seinarukana -The Spirit of Eternity Sword 2- Special Edition W Set]]（publisher）
+- [[发行版/Eien no Aselia -The Spirit of Eternity Sword- Premium Special Edition + Seinarukana -The Spirit of Eternity Sword 2- Special Edition W Set]]（developer）
+- [[发行版/Eien no Aselia Expansion -The Spirit of Eternity Sword- Download Edition]]（developer）
+- [[发行版/Eien no Aselia Expansion -The Spirit of Eternity Sword- Download Edition]]（publisher）
 - [[Eien no Aselia -The Spirit of Eternity Sword- Premium Special Edition + Seinarukana -The Spirit of Eternity Sword 2- Special Edition W Set]]（publisher）
-- [[Eien no Aselia -The Spirit of Eternity Sword-（Xuse）]]（publisher）
-- [[Eien no Aselia Expansion -The Spirit of Eternity Sword- Comiket Edition]]（publisher）
 - [[Eien no Aselia Expansion -The Spirit of Eternity Sword- Download Edition]]（publisher）
-- [[Eien no Aselia Expansion -The Spirit of Eternity Sword-]]（publisher）
-- [[Jesus 13th - First Press Limited Edition]]（publisher）
-- [[Kuon no Kizuna Sairinshou - Full Voice Edition]]（publisher）
-- [[Kuon no Kizuna Sairinshou]]（publisher）
+- [[发行版/Kuon no Kizuna]]（publisher）
 - [[Saihate no Ima - Full Voice Download Edition]]（publisher）
-- [[Saihate no Ima - Full Voice Edition]]（publisher）
-- [[Saihate no Ima -COMPLETE- Download Edition]]（publisher）
-- [[Saihate no Ima -COMPLETE-]]（publisher）
-- [[Saihate no Ima（Xuse ［Junmai］）]]（publisher）
-- [[Seinarukana -The Spirit of Eternity Sword 2- SPECIAL PACKAGE]]（publisher）
+- [[发行版/Saihate no Ima - Full Voice Download Edition]]（publisher）
 - [[永遠のアセリア Expansion —The Spirit of Eternity Sword—]]（developer）
 - [[永遠のアセリア-The Spirit of Eternity Sword-]]（developer）<!-- AUTO:END duty -->
 

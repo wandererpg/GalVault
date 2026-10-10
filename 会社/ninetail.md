@@ -12,29 +12,15 @@ source_urls:
 # ninetail
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Amatsukaze ~Kugutsu Jinpuu-chou~ Download Edition]]（developer）
-- [[Amatsukaze ~Kugutsu Jinpuu-chou~ Download Edition]]（publisher）
-- [[Amatsukaze ~Kugutsu Jinpuu-chou~ First Press Edition]]（developer）
-- [[Amatsukaze ~Kugutsu Jinpuu-chou~ First Press Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Amatsukaze ~Kugutsu Jinpuu-chou~ Windows 7 Support Edition]]（developer）
+- [[发行版/Amatsukaze ~Kugutsu Jinpuu-chou~ Windows 7 Support Edition]]（publisher）
 - [[Amatsukaze ~Kugutsu Jinpuu-chou~ Windows 7 Support Edition]]（developer）
 - [[Amatsukaze ~Kugutsu Jinpuu-chou~ Windows 7 Support Edition]]（publisher）
 - [[Kikaijikake no Eve ~Dea Ex Machina~ DVDPG]]（developer）
-- [[Kikaijikake no Eve ~Dea Ex Machina~ Download Edition]]（developer）
-- [[Kikaijikake no Eve ~Dea Ex Machina~ Download Edition]]（publisher）
-- [[Kikaijikake no Eve ~Dea Ex Machina~ First Press Limited Edition]]（developer）
-- [[Kikaijikake no Eve ~Dea Ex Machina~ First Press Limited Edition]]（publisher）
-- [[Kikaijikake no Eve ~Dea Ex Machina~ Regular Edition]]（developer）
-- [[Kikaijikake no Eve ~Dea Ex Machina~ Regular Edition]]（publisher）
-- [[Kikaijikake no Eve ~Dea Ex Machina~]]（developer）
-- [[Kikaijikake no Eve ~Dea Ex Machina~]]（publisher）
-- [[Ninetail Anniversary Pack]]（publisher）
-- [[Ninetail Anniversary Pack（ninetail）]]（publisher）
-- [[Nukicolle vol.55 - Kikaijikake no Eve ~Dea Ex Machina~]]（developer）
-- [[Nukicolle vol.55 - Kikaijikake no Eve ~Dea Ex Machina~]]（publisher）
-- [[VenusBlood Anniversary Pack]]（publisher）
-- [[VenusBlood Savior - SLG Trial Edition]]（publisher）
-- [[ninetail - Integral Pack - Last Sales Edition]]（publisher）
-- [[ninetail - Integral Pack]]（publisher）
+- [[发行版/Kikaijikake no Eve ~Dea Ex Machina~ DVDPG]]（developer）
+- [[发行版/Kikaijikake no Eve ~Dea Ex Machina~ DVDPG]]（publisher）
+- [[发行版/VenusBlood HOLLOW International - Steam Edition]]（publisher）
+- [[发行版/VenusBlood Savior - Download Edition]]（publisher）
 - [[天ツ風～傀儡陣風帖～]]（developer）
 - [[機械仕掛けのイヴ ～Dea Ex Machina～]]（developer）<!-- AUTO:END duty -->
 

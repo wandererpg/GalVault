@@ -12,12 +12,10 @@ source_urls:
 # Alka Translations
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[A Sky Full of Stars： Fine Days]]（publisher）
-- [[Angel Beats! -1st beat-（Alka Translations）]]（publisher）
-- [[Summer Pockets - Trial Edition（Alka Translations）]]（publisher）
-- [[Summer Pockets REFLECTION BLUE（Alka Translations）]]（publisher）
-- [[Summer Pockets Subtitled Video Patch]]（publisher）
-- [[Summer Pockets（Alka Translations）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Miagete Goran, Yozora no Hoshi o： Fine Days - Hinamin √Append Patch]]（publisher）
+- [[发行版/Angel Beats! -1st beat-]]（publisher）
+- [[发行版/Summer Pockets REFLECTION BLUE - First Press Limited Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

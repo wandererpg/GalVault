@@ -30,7 +30,7 @@ portrait_image: "assets/characters/c86646.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Ouka Sengoku! Portable - Limited Edition]]（primary）
+<!-- AUTO:BEGIN character -->- [[发行版/Ouka Sengoku! Portable - Regular Edition]]（primary）
 - [[Ouka Sengoku! Portable - Regular Edition]]（primary）<!-- AUTO:END character -->
 
 ## 声优

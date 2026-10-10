@@ -1,16 +1,34 @@
 ---
-entity_id: "release:vndb:r144405:work:vndb:work:v60331"
-type: "release"
-display_title: "Tokeru Fuuka to Shirousagi"
-release_date: "2026-08-16"
+entity_id: release:vndb:r144405:work:vndb:work:v60331
+type: release
+display_title: Tokeru Fuuka to Shirousagi
+release_date: '2026-08-16'
 is_all_ages: true
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r144405"
+  vndb: r144405
 source_urls:
-  vndb: "https://vndb.org/r144405"
+  vndb: https://vndb.org/r144405
+aliases:
+- Tokeru Fuuka to Shirousagi（release：）
+consolidated_releases:
+- id: r144405
+  title: Tokeru Fuuka to Shirousagi
+  url: https://vndb.org/r144405
+  release_date: '2026-08-16'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+- id: r161426
+  title: Tokeru Fuuka to Shirousagi
+  url: https://vndb.org/r161426
+  release_date: '2026-07-21'
+  platform: win
+  edition_type: trial
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Tokeru Fuuka to Shirousagi

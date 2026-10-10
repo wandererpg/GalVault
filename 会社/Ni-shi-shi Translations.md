@@ -12,10 +12,8 @@ source_urls:
 # Ni-shi-shi Translations
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Amagami - 1.0.0]]（publisher）
-- [[Ebikore+ Amagami - 1.0.0]]（publisher）
-- [[Ebikore+ Amagami - 1.0.0（Ni-shi-shi Translations）]]（publisher）
-- [[Ebikore+ Amagami]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Ebikore+ Amagami - Download Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

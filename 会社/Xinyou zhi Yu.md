@@ -12,10 +12,9 @@ source_urls:
 # Xinyou zhi Yu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Chihong denghuo Yaomeixing]]（publisher）
-- [[Chihong denghuo Yaomeixing（Xinyou zhi Yu）]]（publisher）
-- [[Shenxuexiao -Noli me tangere-]]（publisher）
-- [[Shisan zhi Yanyi ~ Yanyue Sanguo Zhuan]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Akaya Akashiya Ayakashino - Regular Edition]]（publisher）
+- [[发行版/Shingakkou -Noli me tangere- First Press Limited Edition]]（publisher）
+- [[发行版/Juuzaengi ~Engetsu Sangokuden~ 1・2 for Nintendo Switch - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

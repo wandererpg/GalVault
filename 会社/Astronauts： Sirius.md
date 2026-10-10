@@ -13,8 +13,7 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Kyokugen Chikan Tokuiten NEO - Download Edition - Wallpaper and Browser Included Edition]]（developer）
-- [[Kyokugen Chikan Tokuiten NEO - Download Edition]]（developer）
-- [[Kyokugen Chikan Tokuiten NEO - Package Edition]]（developer）
+- [[发行版/Kyokugen Chikan Tokuiten NEO - Download Edition - Wallpaper and Browser Included Edition]]（developer）
 - [[極限痴漢特異点NEO]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

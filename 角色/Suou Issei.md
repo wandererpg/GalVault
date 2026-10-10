@@ -30,7 +30,7 @@ portrait_image: "assets/characters/c27344.webp"
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
 
 ## 出场作品
-<!-- AUTO:BEGIN character -->- [[Double Score ~Cosmos × Camellia~ Regular Edition]]（primary）<!-- AUTO:END character -->
+<!-- AUTO:BEGIN character -->- [[发行版/Double Score ~Marguerite × Tulip~ Regular Edition]]（primary）<!-- AUTO:END character -->
 
 ## 声优
 <!-- AUTO:BEGIN voice -->- [[Tachibana Shinnosuke]]（声优：立花 慎之介）<!-- AUTO:END voice -->

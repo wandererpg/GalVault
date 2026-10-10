@@ -15,8 +15,8 @@ source_urls:
 <!-- AUTO:BEGIN duty -->- [[Tamjeongdyeon（nolsoft）]]（developer）
 - [[Tamjeongdyeon（nolsoft）]]（publisher）
 - [[Tamjeongjeon]]（developer）
-- [[Thám Tử Truyện]]（developer）
-- [[Thám Tử Truyện]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Tamjeongdyeon（nolsoft）]]（developer）
+- [[发行版/Tamjeongdyeon（nolsoft）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

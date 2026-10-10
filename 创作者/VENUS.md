@@ -14,22 +14,14 @@ source_urls:
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Natsugami-ke ni Okita Koto - Special Edition + CG Collection]]（developer）
 - [[Natsugami-ke ni Okita Koto - Special Edition + CG Collection]]（publisher）
-- [[Natsugami-ke ni Okita Koto Plus（release：）]]（developer）
-- [[Natsugami-ke ni Okita Koto Plus（release：）]]（publisher）
-- [[Shikiyoku no Komari Sou ~Chise Hen - Introductory Chapter vol.1~]]（developer）
-- [[Shikiyoku no Komari Sou ~Chise Hen - Introductory Chapter vol.1~]]（publisher）
-- [[Shikiyoku no Komari Sou ~Chise Hen - Introductory Chapter vol.2~]]（developer）
-- [[Shikiyoku no Komari Sou ~Chise Hen - Introductory Chapter vol.2~]]（publisher）
-- [[Shikiyoku no Komari Sou ~Chise Hen - Introductory Chapter vol.3~]]（developer）
-- [[Shikiyoku no Komari Sou ~Chise Hen - Introductory Chapter vol.3~]]（publisher）
+- [[发行版/Natsugami-ke ni Okita Koto - Special Edition + CG Collection]]（developer）
+- [[发行版/Natsugami-ke ni Okita Koto - Special Edition + CG Collection]]（publisher）
+- [[发行版/Shikiyoku no Komari Sou ~Chise Hen~ Download Edition]]（developer）
+- [[发行版/Shikiyoku no Komari Sou ~Chise Hen~ Download Edition]]（publisher）
 - [[Shikiyoku no Komari Sou ~Chise Hen~ Download Edition]]（developer）
 - [[Shikiyoku no Komari Sou ~Chise Hen~ Download Edition]]（publisher）
-- [[Shikiyoku no Komari Sou ~Chise Hen~ Package Edition]]（developer）
-- [[Shikiyoku no Komari Sou ~Chise Hen~ Package Edition]]（publisher）
-- [[Shikiyoku no Komari Sou ~Chise Hen~ Trial Edition]]（developer）
-- [[Shikiyoku no Komari Sou ~Chise Hen~ Trial Edition]]（publisher）
-- [[Summer☆Salt ~Doutei to Shojo no Fuufu~ Preliminary Edition]]（developer）
-- [[Summer☆Salt ~Doutei to Shojo no Fuufu~ Preliminary Edition]]（publisher）
+- [[发行版/Summer☆Salt ~Doutei to Shojo no Fuufu~]]（developer）
+- [[发行版/Summer☆Salt ~Doutei to Shojo no Fuufu~]]（publisher）
 - [[Summer☆Salt ~Doutei to Shojo no Fuufu~]]（developer）
 - [[Summer☆Salt ~Doutei to Shojo no Fuufu~]]（publisher）
 - [[さまぁ☆ソルト~童貞と処女の夫婦~]]（developer）

@@ -12,7 +12,7 @@ source_urls:
 # Karumaruka Kenkyuukai
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Karumaruka ＊ Tonghaohui]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Karumaruka ＊ Circle - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

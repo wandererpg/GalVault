@@ -59,10 +59,8 @@ cover_image: "assets/covers/v58547.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Hakoniwa - Download Edition]]
-- [[Hakoniwa - Package Edition]]
-- [[Hakoniwa - Trial Edition]]
-- [[Hakoniwa DVDPG]]
-- [[Hakoniwa]]<!-- AUTO:END release -->
+- [[发行版/Hakoniwa - Download Edition]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

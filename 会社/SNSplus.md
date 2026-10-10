@@ -12,8 +12,8 @@ source_urls:
 # SNSplus
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Mystic Messenger - Shenmi Xinshi]]（publisher）
-- [[Mystic Messenger - Shenmi Xinshi（SNSplus）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Mystic Messenger（Cheritz Co., Ltd）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

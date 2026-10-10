@@ -12,66 +12,26 @@ source_urls:
 # NekoNyan
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ao no Kanata no Four Rhythm - 18+ Patch]]（publisher）
-- [[Ao no Kanata no Four Rhythm - Censored Edition]]（publisher）
-- [[Ao no Kanata no Four Rhythm - EXTRA1 - 18+ Steam Patch]]（publisher）
-- [[Ao no Kanata no Four Rhythm - EXTRA1（HIKARI FIELD）]]（publisher）
-- [[Ao no Kanata no Four Rhythm - EXTRA2 - 18+ Edition]]（publisher）
-- [[Ao no Kanata no Four Rhythm - EXTRA2 - Censored Edition]]（publisher）
-- [[Ao no Kanata no Four Rhythm - Perfect Edition 18+ Patch]]（publisher）
-- [[Ao no Kanata no Four Rhythm（NekoNyan）]]（publisher）
-- [[Aoi Tori - 18+ Patch]]（publisher）
-- [[Aoi Tori - Censored Edition]]（publisher）
-- [[Aoi Tori（NekoNyan）]]（publisher）
-- [[Aokana - EXTRA1 - 18+ Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Ao no Kanata no Four Rhythm - Download Edition（sprite）]]（publisher）
+- [[发行版/Ao no Kanata no Four Rhythm - EXTRA1S - Download Edition]]（publisher）
+- [[发行版/Aokana - Four Rhythms Across the Blue - EXTRA2 18+ Steam Patch]]（publisher）
+- [[发行版/Amatsutsumi + Aoi Tori - Amatsukago no Tori BOX（Purple software）]]（publisher）
 - [[Aokana - Four Rhythms Across the Blue - EXTRA2 18+ Steam Patch]]（publisher）
-- [[Aokana - Four Rhythms Across the Blue - Physical Collector's Box]]（publisher）
-- [[Aokana - Four Rhythms Across the Blue - Physical Edition]]（publisher）
-- [[Cheonyeonmanhwa]]（publisher）
-- [[DRACU-RIOT! - 18+ Patch]]（publisher）
+- [[发行版/Senren ＊ Banka - Package Edition]]（publisher）
+- [[发行版/DRACU-RIOT! - Censored Edition]]（publisher）
 - [[DRACU-RIOT! - Censored Edition]]（publisher）
-- [[DRACU-RIOT!（HIKARI FIELD）]]（publisher）
-- [[Dracu-Riot!（NekoNyan）]]（publisher）
-- [[Floral Flowlove - Censored Edition]]（publisher）
-- [[Floral Flowlove（NekoNyan）]]（publisher）
-- [[Fureraba ~Friend to Lover~ 18+ Steam Patch]]（publisher）
-- [[Fureraba ~Friend to Lover~ Censored Edition]]（publisher）
-- [[Fureraba ~Friend to Lover~ Complete Edition]]（publisher）
-- [[Fureraba ~Friend to Lover~ Complete Edition（NekoNyan）]]（publisher）
-- [[Fureraba ~Friend to Lover~ Deluxe Edition]]（publisher）
-- [[Fureraba ~Friend to Lover~ Standard Edition]]（publisher）
-- [[Hatsuyuki Sakura - Censored Edition]]（publisher）
-- [[Hatsuyuki Sakura： White Graduation]]（publisher）
-- [[Irotoridori No Sekai - The Colorful World - Adult Patch]]（publisher）
-- [[Irotoridori No Sekai - The Colorful World - Censored Edition]]（publisher）
-- [[Irotoridori No Sekai - The Colorful World]]（publisher）
-- [[Kin'iro Loveriche - 1440p Steam patch]]（publisher）
-- [[Kin'iro Loveriche - 1440p patch]]（publisher）
-- [[Kin'iro Loveriche - 18+ Steam Patch]]（publisher）
-- [[Kin'iro Loveriche - Censored Edition]]（publisher）
-- [[Kin'iro Loveriche -Golden Time- Censored Edition]]（publisher）
-- [[Kin'iro Loveriche -Golden Time- Steam Patch]]（publisher）
-- [[Kin'iro Loveriche -Golden Time-（HIKARI FIELD）]]（publisher）
-- [[Kin'iro Loveriche（HIKARI FIELD）]]（publisher）
-- [[Kinkoi： Golden Loveriche Demo]]（publisher）
-- [[Kinkoi： Golden Loveriche]]（publisher）
-- [[Lead or Leash： Which Me Would You Like？]]（publisher）
-- [[Making＊Lovers - 18+ Patch]]（publisher）
-- [[Making＊Lovers - Censored Edition]]（publisher）
-- [[Making＊Lovers - Package Edition]]（publisher）
-- [[Making＊Lovers（NekoNyan）]]（publisher）
-- [[Sabbat of the Witch - 18+ Patch]]（publisher）
-- [[Sanoba Witch - Censored Edition]]（publisher）
-- [[Sanoba Witch（NekoNyan）]]（publisher）
-- [[Senmomo： Through Billows of Blades, A Peachbloom Princess]]（publisher）
-- [[Senren ＊ Banka - 18+ Patch]]（publisher）
+- [[发行版/Floral Flowlove - Regular Edition]]（publisher）
+- [[发行版/Friend to Lover ~Fureraba~ First Press Limited Edition]]（publisher）
+- [[发行版/Hatsuyuki Sakura White Graduation - Download Edition]]（publisher）
+- [[发行版/Irotoridori no Sekai World's End -Re：Birth- Download Edition（Dramatic Create）]]（publisher）
+- [[发行版/Kin'iro Loveriche + Kin'iro Loveriche -Golden Time- Golden Pack]]（publisher）
+- [[发行版/Kin'iro Loveriche + Kin'iro Loveriche -Golden Time- Golden Pack（SAGA PLANETS）]]（publisher）
+- [[发行版/Docchi no i ga Suki Desu ka？ + Omoide Kakaete Ai ni Koi!! Set]]（publisher）
+- [[发行版/Making ＊ Lovers - PS4 Download Edition]]（publisher）
+- [[发行版/Monü de Yeyan - FHD Edition]]（publisher）
+- [[发行版/Sen no Hatou, Tsukisome no Kouki - Download Edition]]（publisher）
 - [[Senren ＊ Banka - Package Edition]]（publisher）
-- [[Senren ＊ Banka - Trial Edition（HIKARI FIELD）]]（publisher）
-- [[Senren ＊ Banka（HIKARI FIELD）]]（publisher）
-- [[Senren ＊ Banka（NekoNyan・release：）]]（publisher）
-- [[Senren ＊ Banka（NekoNyan）]]（publisher）
-- [[Senren＊Banka - Korean 18+ Patch]]（publisher）
-- [[Yubisaki Connection ~ Love At Your Fingertips]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/HOOKSOFT 25th Discovery Box 2002-2022（HOOKSOFT）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

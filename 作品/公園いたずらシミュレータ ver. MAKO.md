@@ -43,19 +43,9 @@ cover_image: "assets/covers/v17284.webp"
 <!-- AUTO:BEGIN voice -->- [[Ogura Yui]]（佐倉 もも花）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Kouen Itazura Simulator ver. Mako - Download Edition 1.0 type-B]]
-- [[Kouen Itazura Simulator ver. Mako - Download Edition 1.0]]
-- [[Kouen Itazura Simulator ver. Mako - Download Edition 1.1 type-B]]
-- [[Kouen Itazura Simulator ver. Mako - Download Edition 1.2 type-A]]
-- [[Kouen Itazura Simulator ver. Mako - Download Edition 1.2 type-B]]
+<!-- AUTO:BEGIN release -->- [[发行版/Kouen Itazura Simulator ver. Mako - Download Edition 1.3 type-A]]
 - [[Kouen Itazura Simulator ver. Mako - Download Edition 1.3 type-A]]
-- [[Kouen Itazura Simulator ver. Mako - Package Edition 1.1 type-A]]
-- [[Kouen Itazura Simulator ver. Mako - Package Edition 1.2 type-B]]
-- [[Kouen Itazura Simulator ver. Mako]]
-- [[Kouen Itazura Simulator ver. Mako（release：）]]
-- [[Mako Ver. ［v1.3a］]]
-- [[Park Mischief Simulator ver. Mako 1.2 type-B]]
-- [[Park Toucher Fantasy - MAKO v1.2A]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

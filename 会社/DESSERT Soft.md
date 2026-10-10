@@ -12,24 +12,10 @@ source_urls:
 # DESSERT Soft
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Heroine wa Tomodachi Desu ka？ Koibito Desu ka？ Soretomo Tomefure Desu ka？ - Download Edition]]（developer）
-- [[Heroine wa Tomodachi Desu ka？ Koibito Desu ka？ Soretomo Tomefure Desu ka？ - Download Edition]]（publisher）
-- [[Heroine wa Tomodachi Desu ka？ Koibito Desu ka？ Soretomo Tomefure Desu ka？ - Smartphone Edition]]（developer）
-- [[Heroine wa Tomodachi Desu ka？ Koibito Desu ka？ Soretomo Tomefure Desu ka？ - Smartphone Edition]]（publisher）
-- [[Heroine wa Tomodachi Desu ka？ Koibito Desu ka？ Soretomo Tomefure Desu ka？ - Trial Edition]]（developer）
-- [[Heroine wa Tomodachi Desu ka？ Koibito Desu ka？ Soretomo Tomefure Desu ka？ - Trial Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Heroine wa Tomodachi Desu ka？ Koibito Desu ka？ Soretomo Tomefure Desu ka？ 1 + 2 - Download Edition]]（developer）
+- [[发行版/Heroine wa Tomodachi Desu ka？ Koibito Desu ka？ Soretomo Tomefure Desu ka？ 1 + 2 - Download Edition]]（publisher）
 - [[Heroine wa Tomodachi Desu ka？ Koibito Desu ka？ Soretomo Tomefure Desu ka？ 1 + 2 - Download Edition]]（developer）
 - [[Heroine wa Tomodachi Desu ka？ Koibito Desu ka？ Soretomo Tomefure Desu ka？ 1 + 2 - Download Edition]]（publisher）
-- [[Heroine wa Tomodachi Desu ka？ Koibito Desu ka？ Soretomo Tomefure Desu ka？ 1+2 Pack]]（developer）
-- [[Heroine wa Tomodachi Desu ka？ Koibito Desu ka？ Soretomo Tomefure Desu ka？ 1+2 Pack]]（publisher）
-- [[Heroine wa Tomodachi Desu ka？ Koibito Desu ka？ Soretomo Tomefure Desu ka？ Another Story]]（developer）
-- [[Heroine wa Tomodachi Desu ka？ Koibito Desu ka？ Soretomo Tomefure Desu ka？ Another Story]]（publisher）
-- [[Heroine wa Tomodachi Desu ka？ Koibito Desu ka？ Soretomo Tomefure Desu ka？ Another Story（DESSERT Soft）]]（developer）
-- [[Heroine wa Tomodachi Desu ka？ Koibito Desu ka？ Soretomo Tomefure Desu ka？ Another Story（DESSERT Soft）]]（publisher）
-- [[Heroine wa Tomodachi Desu ka？ Koibito Desu ka？ Soretomo Tomefure Desu ka？ Complete Set]]（developer）
-- [[Heroine wa Tomodachi Desu ka？ Koibito Desu ka？ Soretomo Tomefure Desu ka？ Complete Set]]（publisher）
-- [[Heroine wa Tomodachi Desu ka？ Koibito Desu ka？ Soretomo Tomefure Desu ka？（DESSERT Soft）]]（developer）
-- [[Heroine wa Tomodachi Desu ka？ Koibito Desu ka？ Soretomo Tomefure Desu ka？（DESSERT Soft）]]（publisher）
 - [[彼女は友達ですか？　恋人ですか？　それともトメフレですか？]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

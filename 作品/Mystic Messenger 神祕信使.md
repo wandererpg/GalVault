@@ -63,11 +63,7 @@ cover_image: "assets/covers/v17915.webp"
 - [[Yang Jeong-hwa]]（양 정화）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Mystic Messenger - Shenmi Xinshi]]
-- [[Mystic Messenger - Shenmi Xinshi（SNSplus）]]
-- [[Mystic Messenger]]
-- [[Mystic Messenger（Cheritz Co., Ltd・release：）]]
-- [[Mystic Messenger（Cheritz Co., Ltd・vndb：r62）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Mystic Messenger（Cheritz Co., Ltd）]]
 - [[Mystic Messenger（Cheritz Co., Ltd）]]<!-- AUTO:END release -->
 
 ## 动画化

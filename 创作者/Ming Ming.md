@@ -12,7 +12,7 @@ source_urls:
 # Ming Ming
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Kurai Nichiyoubi - Sombre Dimanche]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kurai Nichiyoubi - Sombre Dimanche - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

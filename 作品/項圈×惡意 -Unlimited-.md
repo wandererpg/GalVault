@@ -180,21 +180,9 @@ cover_image: "assets/covers/v21789.webp"
 - [[Yoshimura Kazuhiro]]（吉村 和紘）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Collar x Malice -Unlimited- Download Edition]]
-- [[Collar x Malice -Unlimited- Download Edition（Justdan）]]
-- [[Collar x Malice -Unlimited- Limited Edition]]
-- [[Collar x Malice -Unlimited- Limited Edition（Justdan）]]
-- [[Collar x Malice -Unlimited- Regular Edition]]
-- [[Collar x Malice -Unlimited- Standard Edition]]
-- [[Collar x Malice -Unlimited-]]
-- [[Collar x Malice -Unlimited-（Otomevn）]]
-- [[Collar x Malice Twinpack（Idea Factory Co., Ltd）]]
-- [[Collar x Malice Unlimited - Download Edition]]
-- [[Collar x Malice Unlimited - Limited Edition]]
-- [[Collar x Malice Unlimited - Regular Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Collar x Malice for Nintendo Switch - Download Edition（Design Factory Co., Ltd）]]
 - [[Collar x Malice for Nintendo Switch - Download Edition（Design Factory Co., Ltd）]]
-- [[Collar x Malice for Nintendo Switch - Limited Edition（Design Factory Co., Ltd）]]
-- [[Collar x Malice for Nintendo Switch（Design Factory Co., Ltd）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

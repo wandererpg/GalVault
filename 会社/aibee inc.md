@@ -11,11 +11,9 @@ source_urls:
 # aibee inc.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Rose Guns Days-Season2]]（publisher）
-- [[RoseGunsDays-Season1]]（publisher）
-- [[RoseGunsDaysLite]]（publisher）
-- [[Umineko no Naku Koro ni Episode 1]]（publisher）
-- [[Umineko no Naku Koro ni Episode 2]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Rose Guns Days - The Best]]（publisher）
+- [[发行版/Umineko no Naku Koro ni - Episode 4 - Alliance of the Golden Witch]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

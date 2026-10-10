@@ -1,15 +1,24 @@
 ---
-entity_id: "vndb:work:v26768"
-type: "work"
-display_title: "Muv-Luv Integrate"
+entity_id: vndb:work:v26768
+type: work
+display_title: Muv-Luv Integrate
 source_ids:
-  vndb: "v26768"
+  vndb: v26768
 source_urls:
-  vndb: "https://vndb.org/v26768"
-cover_image: "assets/covers/v26768.webp"
+  vndb: https://vndb.org/v26768
+cover_image: assets/covers/v26768.webp
+vndb_title: Muv-Luv Integrate
+vndb_content_updated: '2026-10-10'
+title_ja: Muv-Luv Integrate
+first_release_date: TBA
+vndb_vote_count: 0
+vndb_languages: []
+vndb_platforms: []
+vndb_devstatus: 1
 ---
 
 # Muv-Luv Integrate
+
 
 ## 封面
 <!-- AUTO:BEGIN image -->
@@ -17,10 +26,14 @@ cover_image: "assets/covers/v26768.webp"
 <!-- AUTO:END image -->
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->
+- [[会社/age|アージュ]]（developer）
+<!-- AUTO:END duty -->
 
 ## 创作者
-<!-- AUTO:BEGIN role --><!-- AUTO:END role -->
+<!-- AUTO:BEGIN role -->
+- [[创作者/Yoshimune Kouki|吉宗 鋼紀]]（scenario）
+<!-- AUTO:END role -->
 
 ## 角色
 <!-- AUTO:BEGIN character --><!-- AUTO:END character -->
@@ -35,10 +48,18 @@ cover_image: "assets/covers/v26768.webp"
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
 
 ## 关联作品
-<!-- AUTO:BEGIN relation -->- [[マブラヴ　オルタネイティヴ]]（seq）<!-- AUTO:END relation -->
+<!-- AUTO:BEGIN relation -->
+- [[マブラヴ　オルタネイティヴ]]（seq）
+- [[作品/マブラヴ　オルタネイティヴ|Muv-Luv Alternative]]（preq）
+<!-- AUTO:END relation -->
 
 ## 标签
 <!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
 
 ## 来源
 <!-- AUTO:BEGIN provenance -->vndb:v26768<!-- AUTO:END provenance -->
+
+
+## VNDB 资料来源
+
+[VNDB：v26768](https://vndb.org/v26768)，补全于 2026-10-10。

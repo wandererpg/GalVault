@@ -162,12 +162,9 @@ cover_image: "assets/covers/v334.webp"
 - [[Togashi Kei]]（古林 めぐる）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Galzoo Chinese Edition]]
-- [[Galzoo Island - Download Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Galzoo Island - Low Price Edition]]
 - [[Galzoo Island - Low Price Edition]]
-- [[Galzoo Island - Package Edition]]
-- [[Galzoo Island]]
-- [[Galzoo Island（MangaGamer）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

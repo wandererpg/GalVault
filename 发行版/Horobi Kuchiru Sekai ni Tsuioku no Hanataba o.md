@@ -1,16 +1,41 @@
 ---
-entity_id: "release:vndb:r62737:work:vndb:work:v12728"
-type: "release"
-display_title: "Horobi Kuchiru Sekai ni Tsuioku no Hanataba o"
-release_date: "2010-08-07"
+entity_id: release:vndb:r62737:work:vndb:work:v12728
+type: release
+display_title: Horobi Kuchiru Sekai ni Tsuioku no Hanataba o
+release_date: '2010-08-07'
 is_all_ages: true
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r62737"
+  vndb: r62737
 source_urls:
-  vndb: "https://vndb.org/r62737"
+  vndb: https://vndb.org/r62737
+aliases:
+- Horobi Kuchiru Sekai ni Tsuioku no Hanataba o -  Trial Edition
+- Zhuiyi de Huashu Xian gei Xingjiang Miewang de Shijie
+consolidated_releases:
+- id: r62737
+  title: Horobi Kuchiru Sekai ni Tsuioku no Hanataba o
+  url: https://vndb.org/r62737
+  release_date: '2010-08-07'
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+- id: r77664
+  title: Zhuiyi de Huashu Xian gei Xingjiang Miewang de Shijie
+  url: https://vndb.org/r77664
+  platform: win
+  edition_type: complete
+  is_all_ages: true
+- id: r83092
+  title: Horobi Kuchiru Sekai ni Tsuioku no Hanataba o -  Trial Edition
+  url: https://vndb.org/r83092
+  release_date: 2010-08
+  platform: win
+  edition_type: trial
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Horobi Kuchiru Sekai ni Tsuioku no Hanataba o

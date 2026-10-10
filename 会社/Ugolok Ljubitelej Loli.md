@@ -12,8 +12,8 @@ source_urls:
 # Ugolok Ljubitelej Loli
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Kak ja nauchilsja lechit' parafiliju i ljubit' svoju sem'ju]]（publisher）
-- [[Limonnye Devochki]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Nukicolle vol.43 - Genjitsu ga Mietekita node Lolicon Yamemashita. - Kitsukitsu Manamusume Hole Tsuki]]（publisher）
+- [[发行版/Nukicolle vol.33 - Shoujo Ramune]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

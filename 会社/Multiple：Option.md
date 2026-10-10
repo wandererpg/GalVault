@@ -12,9 +12,9 @@ source_urls:
 # Multiple:Option
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Fate／Hollow Ataraxia Prologue]]（publisher）
-- [[Fate／Stay Night Trial Edition (Abridged for DS)]]（publisher）
-- [[Snatcher Pilot DS]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Fate／Hollow Ataraxia - Voice Patch]]（publisher）
+- [[发行版/Fate／Stay Night ［Realta Nua］ - Ultimate Edition]]（publisher）
+- [[发行版/Lüeduozhe]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

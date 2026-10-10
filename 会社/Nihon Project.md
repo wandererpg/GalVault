@@ -12,7 +12,7 @@ source_urls:
 # Nihon Project
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Kono Oozora ni, Tsubasa o Hirogete（Nihon Project）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kono Oozora ni, Tsubasa o Hirogete Cruise Sign - Regular Edition（MAGES）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

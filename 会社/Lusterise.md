@@ -12,24 +12,12 @@ source_urls:
 # Lusterise
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Kouyoku Senki -ExS-Tia- Parallel Episode Complete Edition - Package Edition]]（developer）
-- [[Kouyoku Senki -ExS-Tia- Parallel Episode Complete Edition - Package Edition]]（publisher）
-- [[Kouyoku Senki ExS-Tia - Complete Edition]]（developer）
-- [[Kouyoku Senki ExS-Tia - Complete Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Kouyoku Senki ExS-Tia TS Parallel Episode 3 - Twilight Sabre - Limited Edition with Voice Drama]]（developer）
+- [[发行版/Kouyoku Senki ExS-Tia TS Parallel Episode 3 - Twilight Sabre - Limited Edition with Voice Drama]]（publisher）
+- [[发行版/Kouyoku Senki ExS-Tia 10th anniversary  ~Bright Feather BOX~]]（developer）
+- [[发行版/Kouyoku Senki ExS-Tia 10th anniversary  ~Bright Feather BOX~]]（publisher）
 - [[Kouyoku Senki ExS-Tia 10th anniversary  ~Bright Feather BOX~]]（developer）
 - [[Kouyoku Senki ExS-Tia 10th anniversary  ~Bright Feather BOX~]]（publisher）
-- [[Kouyoku Senki ExS-Tia 10th anniversary  ~Bright Feather BOX~（Lusterise）]]（developer）
-- [[Kouyoku Senki ExS-Tia 10th anniversary  ~Bright Feather BOX~（Lusterise）]]（publisher）
-- [[Kouyoku Senki ExS-Tia 3 - Download Edition]]（developer）
-- [[Kouyoku Senki ExS-Tia 3 - Download Edition]]（publisher）
-- [[Kouyoku Senki ExS-Tia 3 - Package Edition]]（developer）
-- [[Kouyoku Senki ExS-Tia 3 - Package Edition]]（publisher）
-- [[Kouyoku Senki ExS-Tia Parallel Episode Complete Edition - Download Edition]]（developer）
-- [[Kouyoku Senki ExS-Tia Parallel Episode Complete Edition - Download Edition]]（publisher）
-- [[Kouyoku Senki ExS-Tia Parallel Episode Complete Edition - Limited Edition with Voice Drama]]（developer）
-- [[Kouyoku Senki ExS-Tia Parallel Episode Complete Edition - Limited Edition with Voice Drama]]（publisher）
-- [[Kouyoku Senki ExS-Tia TS Parallel Episode 3 - Twilight Sabre - Download Edition]]（developer）
-- [[Kouyoku Senki ExS-Tia TS Parallel Episode 3 - Twilight Sabre - Download Edition]]（publisher）
 - [[Kouyoku Senki ExS-Tia TS Parallel Episode 3 - Twilight Sabre - Limited Edition with Voice Drama]]（developer）
 - [[Kouyoku Senki ExS-Tia TS Parallel Episode 3 - Twilight Sabre - Limited Edition with Voice Drama]]（publisher）
 - [[光翼战姬～ExS-TIA 3]]（developer）

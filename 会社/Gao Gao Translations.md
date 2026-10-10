@@ -12,7 +12,7 @@ source_urls:
 # Gao Gao Translations
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[AIR - Standard Edition（Gao Gao Translations）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/AIR（Key）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

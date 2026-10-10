@@ -12,10 +12,10 @@ source_urls:
 # Doitsugo Trans
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Saya no Uta（Doitsugo Trans）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Saya no Uta ~ The Song of Saya - Upgrade Patch]]（publisher）
 - [[Sharin no Kuni, Himawari no Shoujo（Doitsugo Trans）]]（publisher）
-- [[YOU and ME and HER： A Love Story - Download Edition]]（publisher）
-- [[YOU and ME and HER： A Love Story - Steam Edition（Doitsugo Trans）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Ty, ja i ona： Istorija ljubvi - Steam Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

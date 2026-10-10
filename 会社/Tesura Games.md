@@ -12,10 +12,8 @@ source_urls:
 # Tesura Games
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Slay the Princess - The Pristine Cut - EU Special Edition]]（publisher）
-- [[Slay the Princess - The Pristine Cut - EU Special Edition（Tesura Games）]]（publisher）
-- [[Slay the Princess - The Pristine Cut - Europe Standard Edition]]（publisher）
-- [[Slay the Princess - The Pristine Cut - Europe Standard Edition（Tesura Games）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Slay the Princess - The Pristine Cut]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

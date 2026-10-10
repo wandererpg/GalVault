@@ -11,22 +11,12 @@ source_urls:
 # Digital Touch
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Chaos;Child - Download Edition]]（publisher）
-- [[Chaos;Child - Download Edition（Digital Touch）]]（publisher）
-- [[Chaos;Child - Limited Edition]]（publisher）
-- [[Chaos;Child - Limited Edition（Digital Touch）]]（publisher）
-- [[Chaos;Child - Regular Edition]]（publisher）
-- [[Chaos;Child - Regular Edition（Digital Touch）]]（publisher）
-- [[I Sesang Kkeuteseo Sarangeul Noraehaneun Sonyeo YU-NO（Digital Touch）]]（publisher）
-- [[Robotics;Notes Elite（MAGES）]]（publisher）
-- [[STEINS;GATE - BigHit Edition]]（publisher）
-- [[STEINS;GATE（Digital Touch・release：）]]（publisher）
-- [[Steins;Gate 0（Digital Touch・release：）]]（publisher）
-- [[Steins;Gate 0（Digital Touch）]]（publisher）
-- [[Steins;Gate DOUBLE PACK（Digital Touch・release：）]]（publisher）
-- [[Steins;Gate DOUBLE PACK（Digital Touch）]]（publisher）
-- [[Steins;Gate HD（Digital Touch）]]（publisher）
-- [[Steins;Gate（Digital Touch）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Hundun zhi Zi - Package Edition（MAGES）]]（publisher）
+- [[发行版/Kono Yo no Hate de Koi o Utau Shoujo YU-NO - Windows 10 Support Edition]]（publisher）
+- [[发行版/ROBOTICS;NOTES ELITE（MAGES・release：）]]（publisher）
+- [[发行版/STEINS;GATE - Download Edition（MAGES・release：）]]（publisher）
+- [[发行版/Steins;Gate 0 - Limited Deluxe Package Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

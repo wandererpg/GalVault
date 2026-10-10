@@ -12,11 +12,8 @@ source_urls:
 # RASK
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[TrymenT -Ima o Kaetai to Negau Anata e- AlphA Hen]]（developer）
-- [[TrymenT -Ima o Kaetai to Negau Anata e- LitE]]（developer）
-- [[TrymenT -Ima o Kaetai to Negau Anata e- LitE]]（publisher）
-- [[TrymenT -Ima o Kaetai to Negau Anata e- TriaL]]（developer）
-- [[TrymenT -Ima o Kaetai to Negau Anata e- TriaL]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/TrymenT -Ima o Kaetai to Negau Anata e- Trial Edition]]（developer）
+- [[发行版/TrymenT -Ima o Kaetai to Negau Anata e- Trial Edition]]（publisher）
 - [[TrymenT -Ima o Kaetai to Negau Anata e- Trial Edition]]（developer）
 - [[TrymenT -Ima o Kaetai to Negau Anata e- Trial Edition]]（publisher）
 - [[TrymenT ―献给渴望改变的你―]]（developer）<!-- AUTO:END duty -->

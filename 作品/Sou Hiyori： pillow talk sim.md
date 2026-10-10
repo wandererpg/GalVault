@@ -1,13 +1,26 @@
 ---
-entity_id: "vndb:work:v66298"
-type: "work"
-display_title: "Sou Hiyori: pillow talk sim"
-title_status: "unresolved"
+entity_id: vndb:work:v66298
+type: work
+display_title: 'Sou Hiyori: pillow talk sim'
+title_status: unresolved
 source_ids:
-  vndb: "v66298"
+  vndb: v66298
 source_urls:
-  vndb: "https://vndb.org/v66298"
-cover_image: "assets/covers/v66298.webp"
+  vndb: https://vndb.org/v66298
+cover_image: assets/covers/v66298.webp
+vndb_title: 'Sou Hiyori: pillow talk sim'
+vndb_content_updated: '2026-10-10'
+title_en: 'Sou Hiyori: pillow talk sim'
+first_release_date: '2020-04-05'
+vndb_vote_count: 0
+vndb_length: 1
+vndb_languages:
+- en
+vndb_platforms:
+- win
+- lin
+- mac
+vndb_devstatus: 0
 ---
 
 # Sou Hiyori: pillow talk sim
@@ -18,7 +31,9 @@ cover_image: "assets/covers/v66298.webp"
 <!-- AUTO:END image -->
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->
+- [mdrlvml](https://vndb.org/p30039)（developer）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->
@@ -36,10 +51,19 @@ cover_image: "assets/covers/v66298.webp"
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
 
 ## 关联作品
-<!-- AUTO:BEGIN relation -->- [[キミガシネ　―多数決デスゲーム―]]（char）<!-- AUTO:END relation -->
+<!-- AUTO:BEGIN relation -->
+- [[キミガシネ　―多数決デスゲーム―]]（char）
+- [Sou Hiyori: pillow talk sim 2](https://vndb.org/v66299)（seq）
+- [[作品/キミガシネ　―多数決デスゲーム―|Kimi ga Shine -Tasuuketsu Death Game-]]（char）
+<!-- AUTO:END relation -->
 
 ## 标签
 <!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
 
 ## 来源
 <!-- AUTO:BEGIN provenance -->vndb:v66298<!-- AUTO:END provenance -->
+
+
+## VNDB 资料来源
+
+[VNDB：v66298](https://vndb.org/v66298)，补全于 2026-10-10。

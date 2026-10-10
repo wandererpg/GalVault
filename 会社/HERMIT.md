@@ -12,19 +12,9 @@ source_urls:
 # HERMIT
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Sekai de Ichiban Dame na Koi - First Press Limited Edition]]（developer）
-- [[Sekai de Ichiban Dame na Koi - First Press Limited Edition]]（publisher）
-- [[Sekai de Ichiban Dame na Koi - Low Price Edition]]（developer）
-- [[Sekai de Ichiban Dame na Koi - Low Price Edition]]（publisher）
-- [[Sekai de Ichiban Dame na Koi - Regular Edition]]（developer）
-- [[Sekai de Ichiban Dame na Koi - Regular Edition]]（publisher）
-- [[Sekai de Ichiban Dame na Koi - Trial Edition]]（developer）
-- [[Sekai de Ichiban Dame na Koi - Trial Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Sekai de Ichiban Dame na Koi Full House - Regular Edition]]（developer）
+- [[发行版/Sekai de Ichiban Dame na Koi Full House - Regular Edition]]（publisher）
 - [[Sekai de Ichiban Dame na Koi Full House - Regular Edition]]（developer）
-- [[Sekai de Ichiban Dame na Koi ~Happiness Motion~ Download Edition]]（developer）
-- [[Sekai de Ichiban Dame na Koi ~Happiness Motion~ Download Edition]]（publisher）
-- [[Sekai de Ichiban Dame na Koi ~Happiness Motion~]]（developer）
-- [[Sekai de Ichiban Dame na Koi ~Happiness Motion~]]（publisher）
 - [[世界上最NG的恋爱]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

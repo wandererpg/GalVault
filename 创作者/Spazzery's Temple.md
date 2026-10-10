@@ -12,15 +12,15 @@ source_urls:
 # Spazzery's Temple
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[AIR（release：）]]（publisher）
-- [[Aiyoku no Eustia（release：）]]（publisher）
-- [[Chaos;Child Translation Improvement Patch for Vita]]（publisher）
-- [[Ebikore+ Amagami]]（publisher）
-- [[Making＊Lovers]]（publisher）
-- [[Robotics;Notes Elite（release：）]]（publisher）
-- [[Senmomo： A Billowing Bladestorm, A Persica Princess]]（publisher）
-- [[Steins;Gate 0 Translation Improvement Patch for Vita]]（publisher）
-- [[YU-NO - A Girl that Chants Love at the Bound of this World PC-98 DLC]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/AIR（Key）]]（publisher）
+- [[发行版/Aiyoku no Eustia： Angel's Blessing - Download Edition]]（publisher）
+- [[发行版/Hundun zhi Zi - Package Edition（MAGES）]]（publisher）
+- [[发行版/Ebikore+ Amagami - Download Edition]]（publisher）
+- [[发行版/Making ＊ Lovers - PS4 Download Edition]]（publisher）
+- [[发行版/ROBOTICS;NOTES ELITE（MAGES・release：）]]（publisher）
+- [[发行版/Sen no Hatou, Tsukisome no Kouki - Download Edition]]（publisher）
+- [[发行版/Steins;Gate 0 - Limited Deluxe Package Edition]]（publisher）
+- [[发行版/Kono Yo no Hate de Koi o Utau Shoujo YU-NO - Windows 10 Support Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

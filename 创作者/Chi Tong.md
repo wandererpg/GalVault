@@ -12,7 +12,7 @@ source_urls:
 # Chi Tong
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Gudiao Nan Dao - Part 1]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/South Scrimshaw, Part One]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

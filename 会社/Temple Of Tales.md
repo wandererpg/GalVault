@@ -12,7 +12,7 @@ source_urls:
 # Temple Of Tales
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Ar tonelico： Melody of Elemia]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Ar Tonelico ~Sekai no Owari de Utai Tsuzukeru Shoujo~ (PlayStation 2 the Best)]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

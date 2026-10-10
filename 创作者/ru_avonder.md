@@ -12,11 +12,9 @@ source_urls:
 # ru_avonder
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Katawa Shoujo HD + Letters to Venus]]（publisher）
-- [[Katawa Shoujo HD + Letters to Venus（release：）]]（publisher）
-- [[Katawa Shoujo r7]]（publisher）
-- [[Letters to Venus（release：）]]（publisher）
-- [[planetarian ~The Dream of a Little Star~ - Katawa Shoujo Port]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Letters to Venus（Chainsaw Team）]]（publisher）
+- [[发行版/Katawa Shoujo 1.3J]]（publisher）
+- [[发行版/Planetarian ~The Reverie of a Little Planet~（release：）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

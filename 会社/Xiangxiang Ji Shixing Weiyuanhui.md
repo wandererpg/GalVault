@@ -12,7 +12,7 @@ source_urls:
 # Xiangxiang Ji Shixing Weiyuanhui
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Chuyin Dao 5]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/D.C.5 ~Da Capo 5~ Download Edition（ENTERGRAM）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

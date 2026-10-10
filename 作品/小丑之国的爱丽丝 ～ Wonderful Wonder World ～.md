@@ -76,14 +76,9 @@ cover_image: "assets/covers/v1347.webp"
 - [[Samugami Yuuto]]（子安 武人）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Joker no Kuni no Alice Pre-order Bonus CD Maker Version]]
-- [[Joker no Kuni no Alice Pre-order Bonus CD Shop Version]]
+<!-- AUTO:BEGIN release -->- [[发行版/Joker no Kuni no Alice ~Wonderful Wonder World~ Deluxe Edition]]
 - [[Joker no Kuni no Alice ~Wonderful Wonder World~ Deluxe Edition]]
-- [[Joker no Kuni no Alice ~Wonderful Wonder World~ ~Maker Ver.~ Pre-order Bonus CD]]
-- [[Joker no Kuni no Alice ~Wonderful Wonder World~ ~Shop Ver.~ Pre-order Bonus CD]]
-- [[Joker no Kuni no Alice ~Wonderful Wonder World~]]
-- [[Joker no Kuni no Alice ~Wonderful Wonder World~（QuinRose）]]
-- [[Xiaochou zhi Guo de Ailisi]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

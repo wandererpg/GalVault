@@ -12,8 +12,8 @@ source_urls:
 # Abracadabra Inc.
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Chou no Doku (Beta version)]]（publisher）
-- [[Chou no Doku -Ripple Effect Stories-]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Chou no Doku Hana no Kusari ~Taishou Tsuya Koi Ibun~ Download Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -12,7 +12,7 @@ source_urls:
 # Alice Hatter
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[DRAMAtical Murder（Blue Penguin）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/DRAMAtical Murder re：code - Regular Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

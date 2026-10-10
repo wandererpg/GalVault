@@ -13,8 +13,8 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Hangjiyun de Bifang]]（publisher）
-- [[Mei yu Nüyou]]（publisher）
-- [[Shijie Zhongjie Yu Shengrikuaile]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Imouto to Kanojo - Washizaki Kyoudai-hen - Renewal Package Edition DVDPG]]（publisher）
+- [[发行版/Owaru Sekai to Birthday - Download Edition（Cotton Soft）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

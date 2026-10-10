@@ -12,9 +12,9 @@ source_urls:
 # Ben the Game Translator
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Promises to Keep - v0.8]]（publisher）
-- [[Repeat v0.8.1.3]]（publisher）
-- [[Temptation's Ballad v0.2.5.3]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Promises to Keep - v0.10]]（publisher）
+- [[发行版/Repeat v0.8.1.3（release：）]]（publisher）
+- [[发行版/Temptation's Ballad v0.2.9]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

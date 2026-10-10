@@ -12,9 +12,8 @@ source_urls:
 # The Strongest Hyper Master-Homo Picnic For Love Super Pro Max Plus Ultra
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Women Mei You Chibang]]（publisher）
-- [[Women Mei You Chibang（Xinmi Riwen Jiaoliu Xuexi Xiaozu）]]（publisher）
-- [[Women Meiyou Chibang after story]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Ore-tachi ni Tsubasa wa Nai R - Limited Edition]]（publisher）
+- [[发行版/Ore-tachi ni Tsubasa wa Nai Prelude & AfterStory - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

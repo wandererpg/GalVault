@@ -12,9 +12,9 @@ source_urls:
 # Eternal Dream Arabization
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Al-Huruubul Muṣṣafir： Tis'u Saa'aat, Tis'u Ashkhaaṣ, Tis'u Abwaab]]（publisher）
-- [[Fate／Stay Night ［Realta Nua］ - Ultimate Edition（Team Ataraxia）]]（publisher）
-- [[The House in Fata Morgana]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kyokugen Dasshutsu 9-Jikan 9-Nin 9 no Tobira - Chun Selection]]（publisher）
+- [[发行版/Fate／Stay Night ［Realta Nua］ - Ultimate Edition]]（publisher）
+- [[发行版/Fata Morgana no Yakata -DREAMS OF THE REVENANTS EDITION- - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

@@ -46,8 +46,7 @@ cover_image: "assets/covers/v49724.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Ad Nauseam - The Wrong Side - Adult Patch]]
-- [[Ad Nauseam - The Wrong Side Demo]]
+<!-- AUTO:BEGIN release -->- [[发行版/Ad Nauseam ［Discs 0-2］]]
 - [[Ad Nauseam ［Discs 0-2］]]<!-- AUTO:END release -->
 
 ## 动画化

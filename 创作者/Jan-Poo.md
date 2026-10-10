@@ -12,14 +12,10 @@ source_urls:
 # Jan-Poo
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Witches & Woodlands - Part 1]]（developer）
-- [[Witches & Woodlands - Part 1]]（publisher）
-- [[Witches & Woodlands - Part 2]]（developer）
-- [[Witches & Woodlands - Part 2]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Witches & Woodlands - Part 3.5]]（developer）
+- [[发行版/Witches & Woodlands - Part 3.5]]（publisher）
 - [[Witches & Woodlands - Part 3.5]]（developer）
 - [[Witches & Woodlands - Part 3.5]]（publisher）
-- [[Witches & Woodlands - Part 3]]（developer）
-- [[Witches & Woodlands - Part 3]]（publisher）
 - [[Witches & Woodlands]]（developer）<!-- AUTO:END duty -->
 
 ## 创作与出演

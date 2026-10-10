@@ -12,14 +12,10 @@ source_urls:
 # Hulotte
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Hulotte Yabai Complete Pack]]（developer）
-- [[Hulotte Yabai Complete Pack]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Yome Sagashi ga Hakadorisugite Yabai. - Download Edition]]（developer）
+- [[发行版/Yome Sagashi ga Hakadorisugite Yabai. - Download Edition]]（publisher）
 - [[Yome Sagashi ga Hakadorisugite Yabai. - Download Edition]]（developer）
 - [[Yome Sagashi ga Hakadorisugite Yabai. - Download Edition]]（publisher）
-- [[Yome Sagashi ga Hakadorisugite Yabai. - Package Edition]]（developer）
-- [[Yome Sagashi ga Hakadorisugite Yabai. - Package Edition]]（publisher）
-- [[Yome Sagashi ga Hakadorisugite Yabai. - Trial Edition]]（developer）
-- [[Yome Sagashi ga Hakadorisugite Yabai. - Trial Edition]]（publisher）
 - [[新娘太好找了我很方！]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

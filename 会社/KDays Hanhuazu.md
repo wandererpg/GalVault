@@ -12,8 +12,8 @@ source_urls:
 # KDays Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Guse Migong Lunwuqu]]（publisher）
-- [[Lieyan xia de Inganock v0.1]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Furuiro Meikyuu Rondo ~La Roue de fortune~ Download Edition]]（publisher）
+- [[发行版/Inganock of the Raging Flame： What a Beautiful People - Censored Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

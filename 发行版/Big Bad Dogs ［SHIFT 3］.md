@@ -1,16 +1,34 @@
 ---
-entity_id: "release:vndb:r143173:work:vndb:work:v59896"
-type: "release"
-display_title: "Big Bad Dogs [SHIFT 3]"
-release_date: "2026-06-30"
+entity_id: release:vndb:r143173:work:vndb:work:v59896
+type: release
+display_title: Big Bad Dogs [SHIFT 3]
+release_date: '2026-06-30'
 is_all_ages: true
-platform: "win, lin, mac, and"
-edition_type: "partial"
-title_status: "needs_review"
+platform: win, lin, mac, and
+edition_type: partial
+title_status: needs_review
 source_ids:
-  vndb: "r143173"
+  vndb: r143173
 source_urls:
-  vndb: "https://vndb.org/r143173"
+  vndb: https://vndb.org/r143173
+aliases:
+- Big Bad Dogs ［SHIFT 2］
+consolidated_releases:
+- id: r143173
+  title: Big Bad Dogs [SHIFT 3]
+  url: https://vndb.org/r143173
+  release_date: '2026-06-30'
+  platform: win, lin, mac, and
+  edition_type: partial
+  is_all_ages: true
+- id: r143224
+  title: Big Bad Dogs [SHIFT 2]
+  url: https://vndb.org/r143224
+  release_date: '2025-08-26'
+  platform: win, lin, mac
+  edition_type: partial
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Big Bad Dogs [SHIFT 3]

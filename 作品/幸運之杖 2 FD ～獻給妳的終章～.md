@@ -82,16 +82,9 @@ cover_image: "assets/covers/v10050.webp"
 - [[Takahashi Hiroki]]（高橋 広樹）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Wand of Fortune 2 - Twinpack Edition]]
-- [[Wand of Fortune 2 FD ~Kimi ni Sasageru Epilogue~ Limited Edition]]
-- [[Wand of Fortune 2 FD ~Kimi ni Sasageru Epilogue~ Regular Edition]]
-- [[Wand of Fortune R2 FD ~Kimi ni Sasageru Epilogue~ Download Edition]]
-- [[Wand of Fortune R2 FD ~Kimi ni Sasageru Epilogue~ Limited Edition]]
-- [[Wand of Fortune R2 FD ~Kimi ni Sasageru Epilogue~ for Nintendo Switch - DL Edition]]
-- [[Wand of Fortune R2 FD ~Kimi ni Sasageru Epilogue~ for Nintendo Switch - Regular Edtion]]
+<!-- AUTO:BEGIN release -->- [[发行版/Wand of Fortune R2 FD ~Kimi ni Sasageru Epilogue~ for Nintendo Switch - Special Edition]]
 - [[Wand of Fortune R2 FD ~Kimi ni Sasageru Epilogue~ for Nintendo Switch - Special Edition]]
-- [[Wand of Fortune R2 FD ~Kimi ni Sasageru Epilogue~]]
-- [[Wand of Fortune R2 FD ～xian gei ni de zhongzhang～ for Nintendo Switch]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

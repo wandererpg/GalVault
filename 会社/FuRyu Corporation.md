@@ -12,10 +12,10 @@ source_urls:
 # FuRyu Corporation
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Fata Morgana no Yakata（FuRyu Corporation）]]（publisher）
-- [[Kemono Teatime]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Fata Morgana no Yakata -DREAMS OF THE REVENANTS EDITION- - Download Edition]]（publisher）
+- [[发行版/Kemono Teatime（FuRyu Corporation）]]（publisher）
 - [[Kemono Teatime（FuRyu Corporation）]]（publisher）
-- [[NOeSIS -Uso o Tsuita Kioku no Monogatari-（FuRyu Corporation）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/NOeSIS -Uso o Tsuita Kioku no Monogatari-（cutlass）]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

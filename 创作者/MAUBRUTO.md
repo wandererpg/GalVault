@@ -12,8 +12,8 @@ source_urls:
 # MAUBRUTO
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Dies irae ~Entrevista com o Vampiro~]]（publisher）
-- [[Soushuu Senshinkan Gakuen： Hachimyoujin（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Dies irae ~Interview with Kaziklu Bey~ Download Edition]]（publisher）
+- [[发行版/Soushuu Senshinkan Gakuen： Hachimyoujin -Ten no Toki- First Press Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

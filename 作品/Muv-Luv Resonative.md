@@ -1,13 +1,21 @@
 ---
-entity_id: "vndb:work:v30412"
-type: "work"
-display_title: "Muv-Luv Resonative"
-title_status: "unresolved"
+entity_id: vndb:work:v30412
+type: work
+display_title: Muv-Luv Resonative
+title_status: unresolved
 source_ids:
-  vndb: "v30412"
+  vndb: v30412
 source_urls:
-  vndb: "https://vndb.org/v30412"
-cover_image: "assets/covers/v30412.webp"
+  vndb: https://vndb.org/v30412
+cover_image: assets/covers/v30412.webp
+vndb_title: Muv-Luv Resonative
+vndb_content_updated: '2026-10-10'
+title_ja: マブラヴ レゾネイティヴ
+first_release_date: TBA
+vndb_vote_count: 0
+vndb_languages: []
+vndb_platforms: []
+vndb_devstatus: 1
 ---
 
 # Muv-Luv Resonative
@@ -18,10 +26,15 @@ cover_image: "assets/covers/v30412.webp"
 <!-- AUTO:END image -->
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->
+- [[会社/age|アージュ]]（developer）
+<!-- AUTO:END duty -->
 
 ## 创作者
-<!-- AUTO:BEGIN role --><!-- AUTO:END role -->
+<!-- AUTO:BEGIN role -->
+- [[创作者/Yoshimune Kouki|吉宗 鋼紀]]（director）
+- [[创作者/Wei Luxin|維如星]]（scenario）
+<!-- AUTO:END role -->
 
 ## 角色
 <!-- AUTO:BEGIN character --><!-- AUTO:END character -->
@@ -36,10 +49,32 @@ cover_image: "assets/covers/v30412.webp"
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
 
 ## 关联作品
-<!-- AUTO:BEGIN relation -->- [[マブラヴ アンリミテッド ザ・デイアフター]]（seq）<!-- AUTO:END relation -->
+<!-- AUTO:BEGIN relation -->
+- [[マブラヴ アンリミテッド ザ・デイアフター]]（seq）
+- [[作品/マブラヴ アンリミテッド ザ・デイアフター|Muv-Luv Unlimited: The Day After]]（preq）
+<!-- AUTO:END relation -->
 
 ## 标签
-<!-- AUTO:BEGIN tag --><!-- AUTO:END tag -->
+<!-- AUTO:BEGIN tag -->
+- [Mecha Combat](https://vndb.org/g14)
+- [Military](https://vndb.org/g46)
+- [Post Apocalyptic Earth](https://vndb.org/g68)
+- [Soldier Heroine](https://vndb.org/g121)
+- [Soldier Protagonist](https://vndb.org/g262)
+- [Politics](https://vndb.org/g302)
+- [Extraterrestrial](https://vndb.org/g345)
+- [Mecha](https://vndb.org/g377)
+<!-- AUTO:END tag -->
 
 ## 来源
 <!-- AUTO:BEGIN provenance -->vndb:v30412<!-- AUTO:END provenance -->
+
+
+## 简介（VNDB 原文）
+
+The finale to Muv-Luv Unlimited: The Day After.
+
+
+## VNDB 资料来源
+
+[VNDB：v30412](https://vndb.org/v30412)，补全于 2026-10-10。

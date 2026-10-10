@@ -51,10 +51,8 @@ cover_image: "assets/covers/v38326.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Gonka Zhizni： Act 1-2 Ep 1-4 Fix 4]]
-- [[Gonka Zhizni： Act 1-2 Ep 1-4]]
-- [[Gonka zhizni： Episodes 1-3.2]]
-- [[Race of Life - Act 1]]
-- [[Race of Life： Episode 4]]<!-- AUTO:END release -->
+- [[发行版/Gonka Zhizni： Act 1-2 Ep 1-4 Fix 4]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

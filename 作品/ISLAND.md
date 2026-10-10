@@ -97,24 +97,9 @@ cover_image: "assets/covers/v18498.webp"
 - [[Tamura Yukari]]（田村 ゆかり）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[ISLAND - Anime Commemorative Edition]]
-- [[ISLAND - Deluxe edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/ISLAND - Download Edition]]
 - [[ISLAND - Download Edition]]
-- [[ISLAND - Download Edition（PROTOTYPE・release：）]]
-- [[ISLAND - Download Edition（PROTOTYPE）]]
-- [[ISLAND - JP Package Edition]]
-- [[ISLAND - Regular edition]]
-- [[ISLAND - Trial Edition]]
-- [[ISLAND]]
-- [[ISLAND（BrazilianFlag）]]
-- [[ISLAND（Frontwing）]]
-- [[ISLAND（PROTOTYPE・release：）]]
-- [[ISLAND（PROTOTYPE・vndb：r56）]]
-- [[ISLAND（PROTOTYPE）]]
-- [[ISLAND（Yexiao Hanhuazu）]]
-- [[ISLAND（release：）]]
-- [[ISLAND（vndb：r12）]]
-- [[OSTROV]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

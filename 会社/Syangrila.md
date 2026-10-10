@@ -12,19 +12,9 @@ source_urls:
 # Syangrila
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Akatsuki no Goei Trinity - Limited Edition]]（developer）
-- [[Akatsuki no Goei Trinity - Limited Edition（MAGES）]]（developer）
-- [[Akatsuki no Goei Trinity Complete Edition - Download Edition]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Akatsuki no Goei Trinity Complete Edition - First Press Limited Edition]]（developer）
 - [[Akatsuki no Goei Trinity Complete Edition - First Press Limited Edition]]（developer）
-- [[Akatsuki no Goei Trinity Complete Edition - Regular Edition]]（developer）
-- [[Akatsuki no Goei Trinity]]（developer）
-- [[Akatsuki no Goei Trinity（MAGES）]]（developer）
-- [[Akatsuki no Goei ~Tsumibukaki Shuumatsuron~ Download Edition]]（developer）
-- [[Akatsuki no Goei ~Tsumibukaki Shuumatsuron~ Download Edition]]（publisher）
-- [[Akatsuki no Goei ~Tsumibukaki Shuumatsuron~ First Press Limited Edition]]（developer）
-- [[Akatsuki no Goei ~Tsumibukaki Shuumatsuron~ First Press Limited Edition]]（publisher）
-- [[Akatsuki no Goei ~Tsumibukaki Shuumatsuron~ Regular Edition]]（developer）
-- [[Akatsuki no Goei ~Tsumibukaki Shuumatsuron~ Regular Edition]]（publisher）
+- [[发行版/Akatsuki no Goei Trinity Complete Edition - First Press Limited Edition]]（publisher）
 - [[晓之护卫 ～罪孽深重的末世论～]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

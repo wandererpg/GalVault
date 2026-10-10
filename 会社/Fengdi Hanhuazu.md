@@ -12,9 +12,9 @@ source_urls:
 # Fengdi Hanhuazu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Huiyi de Eustia（Fengdi Hanhuazu）]]（publisher）
-- [[Summer Pockets Reflection Blue（Fengdi Hanhuazu）]]（publisher）
-- [[Summer Pockets（Fengdi Hanhuazu）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Aiyoku no Eustia： Angel's Blessing - Download Edition]]（publisher）
+- [[发行版/Summer Pockets REFLECTION BLUE - First Press Limited Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

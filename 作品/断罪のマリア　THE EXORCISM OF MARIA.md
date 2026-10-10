@@ -93,13 +93,8 @@ cover_image: "assets/covers/v992.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Danzai no Maria -The Exorcism of Maria- Complete Edition - Download Edition]]
-- [[Danzai no Maria -The Exorcism of Maria- Complete Edition]]
-- [[Danzai no Maria -The Exorcism of Maria- La Campanella - Limited Edition]]
-- [[Danzai no Maria -The Exorcism of Maria- La Campanella - Regular Edition]]
-- [[Danzai no Maria -The Exorcism of Maria-]]
-- [[Danzai no Maria -The Exorcism of Maria-（Karin Entertainment）]]
-- [[Danzai no Maria Complete Edition]]
-- [[Duanzui Maliya Complete Edition]]<!-- AUTO:END release -->
+- [[发行版/Danzai no Maria -The Exorcism of Maria- Complete Edition - Download Edition]]
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

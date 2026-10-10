@@ -11,10 +11,8 @@ source_urls:
 # New++
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Shigatsu Youka - Jusatsu Hen]]（developer）
-- [[Shigatsu Youka - Jusatsu Hen]]（publisher）
-- [[Shigatsu Youka no Majo - Prototype Edition]]（developer）
-- [[Shigatsu Youka no Majo - Prototype Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Shigatsu Youka]]（developer）
+- [[发行版/Shigatsu Youka]]（publisher）
 - [[Shigatsu Youka]]（developer）
 - [[Shigatsu Youka]]（publisher）
 - [[死月妖花～四月八日～]]（developer）<!-- AUTO:END duty -->

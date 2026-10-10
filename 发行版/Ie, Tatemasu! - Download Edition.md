@@ -1,16 +1,42 @@
 ---
-entity_id: "release:vndb:r97238:work:vndb:work:v14058"
-type: "release"
-display_title: "Ie, Tatemasu! - Download Edition"
-release_date: "2007-07-21"
+entity_id: release:vndb:r97238:work:vndb:work:v14058
+type: release
+display_title: Ie, Tatemasu! - Download Edition
+release_date: '2007-07-21'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r97238"
+  vndb: r97238
 source_urls:
-  vndb: "https://vndb.org/r97238"
+  vndb: https://vndb.org/r97238
+aliases:
+- Ie, Tatemasu!
+- Ie, Tatemasu! - Trial Edition
+consolidated_releases:
+- id: r97238
+  title: Ie, Tatemasu! - Download Edition
+  url: https://vndb.org/r97238
+  release_date: '2007-07-21'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r30875
+  title: Ie, Tatemasu!
+  url: https://vndb.org/r30875
+  release_date: '2004-05-05'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r105930
+  title: Ie, Tatemasu! - Trial Edition
+  url: https://vndb.org/r105930
+  release_date: '2004'
+  platform: win, mac
+  edition_type: trial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Ie, Tatemasu! - Download Edition

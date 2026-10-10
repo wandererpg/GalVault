@@ -92,32 +92,9 @@ cover_image: "assets/covers/v21668.webp"
 - [[Yamaoka Yuri]]（渚 しろな）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[9 -Nine- Sorairo Sorauta Soranooto Chinese Trial Edition]]
-- [[9 -Nine- Sorairo Sorauta Soranooto]]
-- [[9 -Nine- Sorairo Sorauta Soranooto（release：）]]
-- [[9-nine Chương Hai]]
-- [[9-nine- Deluxe Edition]]
-- [[9-nine- Download Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/9-nine- Download Edition（Palette・vndb：r83）]]
 - [[9-nine- Download Edition（Palette・vndb：r83）]]
-- [[9-nine- Epizod. 2 Niimi Sora - 18+ DLC]]
-- [[9-nine- Epizod. 2 Niimi Sora]]
-- [[9-nine- Regular Edition]]
-- [[9-nine- Regular Edition（Palette・vndb：r83）]]
-- [[9-nine- Regular Edition（Palette・vndb：r92）]]
-- [[9-nine- Shinshou R18 patch]]
-- [[9-nine- Sorairo Sorauta Soranooto - Censored Edition]]
-- [[9-nine- Sorairo Sorauta Soranooto - Download Edition]]
-- [[9-nine- Sorairo Sorauta Soranooto - Package Edition]]
-- [[9-nine- Sorairo Sorauta Soranooto - Trial Edition]]
-- [[9-nine- Sorairo Sorauta Soranooto]]
-- [[9-nine- Sorairo Sorauta Soranooto（Denpasoft）]]
-- [[9-nine- Sorairo Sorauta Soranooto（Eromangá）]]
-- [[9-nine-Tian Se Tian Ge Tianlai Yin]]
-- [[9-nine-]]
-- [[9-nine-：Episode 2 - 18+ DLC]]
-- [[9-nine-：Episode 2 - Broski Removal Patch]]
-- [[9-nine-：Episode 2]]
-- [[Tian Se Tian Ge Tian Yin]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

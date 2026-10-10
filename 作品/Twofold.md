@@ -103,13 +103,9 @@ cover_image: "assets/covers/v15469.webp"
 - [[Syon Santeria]]（Syon Santeria）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Twofold - Demo]]
-- [[Twofold - Demo（refint／games）]]
-- [[Twofold]]
-- [[Twofold（Bellhouse）]]
-- [[Twofold（refint／games）]]
+<!-- AUTO:BEGIN release -->- [[发行版/Twofold： The Perfect Circle Collection]]
 - [[Twofold： The Perfect Circle Collection]]
-- [[Work in Progress - Demo]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

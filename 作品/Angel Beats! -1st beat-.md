@@ -137,16 +137,9 @@ cover_image: "assets/covers/v13774.webp"
 - [[Touchi Hiroki]]（東地 宏樹）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Angel Beats! -1st beat- Download Edition]]
-- [[Angel Beats! -1st beat- First Press Edition]]
-- [[Angel Beats! -1st beat- Trial Edition Ver. 1.00]]
-- [[Angel Beats! -1st beat- Trial Edition Ver. 1.10]]
+<!-- AUTO:BEGIN release -->- [[发行版/Angel Beats! -1st beat-]]
 - [[Angel Beats! -1st beat-]]
-- [[Angel Beats! -1st beat-（Alka Translations）]]
-- [[Angel Beats! -1st beat-（Entuziasty Team）]]
-- [[Angel Beats! -1st beat-（Si Le Meifar Ren Hanhuazu）]]
-- [[Angel Beats! -1st beat-（Team VAGALL）]]
-- [[Angel Beats! -1st beat-（Vietnam Key FanClub）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

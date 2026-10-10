@@ -12,17 +12,13 @@ source_urls:
 # Marutoku Kichi
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Edinstvo]]（developer）
-- [[Edinstvo]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Ichigokuruiza（release：）]]（developer）
+- [[发行版/Ichigokuruiza（release：）]]（publisher）
 - [[Ichigokuruiza（release：）]]（developer）
 - [[Ichigokuruiza（release：）]]（publisher）
 - [[NO SALVATION]]（developer）
-- [[NO SALVATION（vndb：r13）]]（developer）
-- [[NO SALVATION（vndb：r13）]]（publisher）
-- [[NO SALVATION（vndb：r14）]]（developer）
-- [[NO SALVATION（vndb：r14）]]（publisher）
-- [[NO SALVATION（vndb：r88）]]（developer）
-- [[NO SALVATION（vndb：r88）]]（publisher）
+- [[发行版/NO SALVATION]]（developer）
+- [[发行版/NO SALVATION]]（publisher）
 - [[一極累坐]]（developer）<!-- AUTO:END duty -->
 
 ## 创作与出演

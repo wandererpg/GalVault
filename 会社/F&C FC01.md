@@ -12,29 +12,9 @@ source_urls:
 # F&C FC01
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Best Buy F&C 5 - Suigetsu]]（developer）
-- [[Suigetsu - DVDPG]]（developer）
-- [[Suigetsu - Download Edition]]（developer）
-- [[Suigetsu - First Press Edition]]（developer）
-- [[Suigetsu - Grand Package - Deluxe Edition]]（developer）
-- [[Suigetsu - Grand Package - Deluxe Edition]]（publisher）
-- [[Suigetsu - Grand Package - Download Edition]]（developer）
-- [[Suigetsu - Grand Package - Download Edition]]（publisher）
-- [[Suigetsu - Grand Package - Regular Edition]]（developer）
-- [[Suigetsu - Grand Package - Regular Edition]]（publisher）
-- [[Suigetsu - Grand Package - Web Trial Edition]]（developer）
-- [[Suigetsu - Grand Package - Web Trial Edition]]（publisher）
-- [[Suigetsu - Megastore Collection]]（developer）
-- [[Suigetsu - Package Renewal Edition]]（developer）
-- [[Suigetsu - Trial Edition]]（developer）
-- [[Suigetsu Lite]]（developer）
-- [[Suigetsu ~Mayoi-Gokoro~ 2800 Collection]]（developer）
-- [[Suigetsu ~Mayoi-Gokoro~]]（developer）
-- [[Suigetsu ~Mayoi-Gokoro~（F&C FC01）]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Suigetsu ~Portable~ Best Edition]]（developer）
+- [[发行版/Suigetsu ~Portable~ Best Edition]]（publisher）
 - [[Suigetsu ~Portable~ Best Edition]]（developer）
-- [[Suigetsu ~Portable~ Limited Edition]]（developer）
-- [[Suigetsu ~Portable~ Regular Edition]]（developer）
-- [[Suigetsu]]（developer）
 - [[水月 -すいげつ-]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

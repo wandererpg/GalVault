@@ -12,7 +12,7 @@ source_urls:
 # Chong Ai Shaonü Tian Keng Zu
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Chong Ai Shaonü]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Extravaganza ~Mushi Mederu Shoujo~ DVDPG Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

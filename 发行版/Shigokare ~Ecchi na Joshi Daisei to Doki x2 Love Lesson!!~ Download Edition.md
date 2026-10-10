@@ -1,16 +1,58 @@
 ---
-entity_id: "release:vndb:r53926:work:vndb:work:v21474"
-type: "release"
-display_title: "Shigokare ~Ecchi na Joshi Daisei to Doki x2 Love Lesson!!~ Download Edition"
-release_date: "2017-09-29"
+entity_id: release:vndb:r53926:work:vndb:work:v21474
+type: release
+display_title: Shigokare ~Ecchi na Joshi Daisei to Doki x2 Love Lesson!!~ Download Edition
+release_date: '2017-09-29'
 is_all_ages: false
-platform: "win"
-edition_type: "complete"
-title_status: "needs_review"
+platform: win
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r53926"
+  vndb: r53926
 source_urls:
-  vndb: "https://vndb.org/r53926"
+  vndb: https://vndb.org/r53926
+aliases:
+- Shigokare ~Ecchi na Joshi Daisei to Doki x2 Love Lesson!!~
+- Shigokare ~Ecchi na Joshi Daisei to Doki x2 Love Lesson!!~ Package Edition
+- Shigokare ~Ecchi na Joshi Daisei to Doki x2 Love Lesson!!~ Trial Edition
+- Shigokare ~Ecchi na Joshi Daisei to Doki x2 Love Lesson!!~（release：）
+consolidated_releases:
+- id: r53926
+  title: Shigokare ~Ecchi na Joshi Daisei to Doki x2 Love Lesson!!~ Download Edition
+  url: https://vndb.org/r53926
+  release_date: '2017-09-29'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r52463
+  title: Shigokare ~Ecchi na Joshi Daisei to Doki x2 Love Lesson!!~ Package Edition
+  url: https://vndb.org/r52463
+  release_date: '2017-09-29'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r153176
+  title: Shigokare ~Ecchi na Joshi Daisei to Doki x2 Love Lesson!!~
+  url: https://vndb.org/r153176
+  release_date: '2026-04-13'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r99365
+  title: Shigokare ~Ecchi na Joshi Daisei to Doki x2 Love Lesson!!~
+  url: https://vndb.org/r99365
+  release_date: '2022-11-30'
+  platform: win
+  edition_type: complete
+  is_all_ages: false
+- id: r107516
+  title: Shigokare ~Ecchi na Joshi Daisei to Doki x2 Love Lesson!!~ Trial Edition
+  url: https://vndb.org/r107516
+  release_date: '2017-09-19'
+  platform: win
+  edition_type: trial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Shigokare ~Ecchi na Joshi Daisei to Doki x2 Love Lesson!!~ Download Edition

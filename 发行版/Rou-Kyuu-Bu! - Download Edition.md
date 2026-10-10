@@ -1,16 +1,50 @@
 ---
-entity_id: "release:vndb:r15251:work:vndb:work:v7603"
-type: "release"
-display_title: "Rou-Kyuu-Bu! - Download Edition"
-release_date: "2011-10-27"
+entity_id: release:vndb:r15251:work:vndb:work:v7603
+type: release
+display_title: Rou-Kyuu-Bu! - Download Edition
+release_date: '2011-10-27'
 is_all_ages: true
-platform: "psp"
-edition_type: "complete"
-title_status: "needs_review"
+platform: psp
+edition_type: complete
+title_status: needs_review
 source_ids:
-  vndb: "r15251"
+  vndb: r15251
 source_urls:
-  vndb: "https://vndb.org/r15251"
+  vndb: https://vndb.org/r15251
+aliases:
+- Luo-Qiu-She!
+- Rou-Kyuu-Bu! - Limited Edition
+- Rou-Kyuu-Bu! - Regular Edition
+consolidated_releases:
+- id: r15251
+  title: Rou-Kyuu-Bu! - Download Edition
+  url: https://vndb.org/r15251
+  release_date: '2011-10-27'
+  platform: psp
+  edition_type: complete
+  is_all_ages: true
+- id: r15250
+  title: Rou-Kyuu-Bu! - Regular Edition
+  url: https://vndb.org/r15250
+  release_date: '2011-10-27'
+  platform: psp
+  edition_type: complete
+  is_all_ages: true
+- id: r23739
+  title: Rou-Kyuu-Bu! - Limited Edition
+  url: https://vndb.org/r23739
+  release_date: '2011-10-27'
+  platform: psp
+  edition_type: complete
+  is_all_ages: true
+- id: r34867
+  title: Luo-Qiu-She!
+  url: https://vndb.org/r34867
+  release_date: '2014-02-14'
+  platform: psp
+  edition_type: complete
+  is_all_ages: true
+retained_release_count: 1
 ---
 
 # Rou-Kyuu-Bu! - Download Edition

@@ -124,14 +124,9 @@ cover_image: "assets/covers/v60196.webp"
 - [[Yuzuhara Miu]]（柚原 みう）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Meteor Mirovoj Aktjor： Gazosvetnaja Pulja]]
-- [[Meteor World Actor： Gaslight Bullet ［Full UI + Dialogues］]]
-- [[Meteor World Actor： Gaslight Bullet]]
+<!-- AUTO:BEGIN release -->- [[发行版/Ryuusei World Actor： Gaslight Bullet - Dai Nana Kyouwakoku Shukkoku Pack]]
 - [[Ryuusei World Actor： Gaslight Bullet - Dai Nana Kyouwakoku Shukkoku Pack]]
-- [[Ryuusei World Actor： Gaslight Bullet - Download Edition]]
-- [[Ryuusei World Actor： Gaslight Bullet - Regular Edition]]
-- [[Ryuusei World Actor： Gaslight Bullet]]
-- [[Ryuusei World Actor： Gaslight Bullet（Nejro-perevody VN）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

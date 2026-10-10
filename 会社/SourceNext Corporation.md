@@ -13,9 +13,9 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Gyakuten Saiban 3 PC Download Edition]]（publisher）
-- [[Gyakuten Saiban PC 1-2-3 Set Download Edition]]（publisher）
-- [[Gyakuten Saiban PC 1-2-3 Set Download Edition（SourceNext Corporation）]]（publisher）
-- [[Gyakuten Saiban PC Download Edition]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Gyakuten Saiban： Yomigaeru Gyakuten]]（publisher）
+- [[发行版/Gyakuten Saiban 3 PC Download Edition]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

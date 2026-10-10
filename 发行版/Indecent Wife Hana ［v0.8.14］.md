@@ -1,16 +1,41 @@
 ---
-entity_id: "release:vndb:r113325:work:vndb:work:v33839"
-type: "release"
-display_title: "Indecent Wife Hana [v0.8.14]"
-release_date: "2023-12-06"
+entity_id: release:vndb:r113325:work:vndb:work:v33839
+type: release
+display_title: Indecent Wife Hana [v0.8.14]
+release_date: '2023-12-06'
 is_all_ages: false
-platform: "win, lin, mac, and, web"
-edition_type: "partial"
-title_status: "needs_review"
+platform: win, lin, mac, and, web
+edition_type: partial
+title_status: needs_review
 source_ids:
-  vndb: "r113325"
+  vndb: r113325
 source_urls:
-  vndb: "https://vndb.org/r113325"
+  vndb: https://vndb.org/r113325
+aliases:
+- Indecent Wife Hana ［Midara na Hitozuma Hana］ - DLsite Edition
+- Indecent Wife Hana ［v0.46］
+consolidated_releases:
+- id: r113325
+  title: Indecent Wife Hana [v0.8.14]
+  url: https://vndb.org/r113325
+  release_date: '2023-12-06'
+  platform: win, lin, mac, and, web
+  edition_type: partial
+  is_all_ages: false
+- id: r87030
+  title: Indecent Wife Hana [v0.46]
+  url: https://vndb.org/r87030
+  release_date: '2025-09-15'
+  platform: win, lin, mac, and
+  edition_type: partial
+  is_all_ages: false
+- id: r102482
+  title: Indecent Wife Hana [Midara na Hitozuma Hana] - DLsite Edition
+  url: https://vndb.org/r102482
+  platform: win, lin, mac, and
+  edition_type: partial
+  is_all_ages: false
+retained_release_count: 1
 ---
 
 # Indecent Wife Hana [v0.8.14]

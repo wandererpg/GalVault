@@ -12,66 +12,14 @@ source_urls:
 # GB Patch Games
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Our Life： Beginnings & Always - Baxter's Story]]（developer）
-- [[Our Life： Beginnings & Always - Baxter's Story]]（publisher）
-- [[Our Life： Beginnings & Always - Baxter's Story（GB Patch Games）]]（developer）
-- [[Our Life： Beginnings & Always - Baxter's Story（GB Patch Games）]]（publisher）
-- [[Our Life： Beginnings & Always - Cove Wedding Night Patreon Bonus Moment]]（developer）
-- [[Our Life： Beginnings & Always - Cove Wedding Night Patreon Bonus Moment]]（publisher）
-- [[Our Life： Beginnings & Always - Cove Wedding Story]]（developer）
-- [[Our Life： Beginnings & Always - Cove Wedding Story]]（publisher）
-- [[Our Life： Beginnings & Always - Cove Wedding Story（GB Patch Games）]]（developer）
-- [[Our Life： Beginnings & Always - Cove Wedding Story（GB Patch Games）]]（publisher）
-- [[Our Life： Beginnings & Always - Demo]]（developer）
-- [[Our Life： Beginnings & Always - Demo]]（publisher）
-- [[Our Life： Beginnings & Always - Demo（GB Patch Games）]]（developer）
-- [[Our Life： Beginnings & Always - Demo（GB Patch Games）]]（publisher）
-- [[Our Life： Beginnings & Always - Derek's Story]]（developer）
-- [[Our Life： Beginnings & Always - Derek's Story]]（publisher）
-- [[Our Life： Beginnings & Always - Derek's Story（GB Patch Games）]]（developer）
-- [[Our Life： Beginnings & Always - Derek's Story（GB Patch Games）]]（publisher）
-- [[Our Life： Beginnings & Always - Expanded Demo]]（developer）
-- [[Our Life： Beginnings & Always - Expanded Demo]]（publisher）
-- [[Our Life： Beginnings & Always - Expanded Demo（GB Patch Games）]]（developer）
-- [[Our Life： Beginnings & Always - Expanded Demo（GB Patch Games）]]（publisher）
-- [[Our Life： Beginnings & Always - Patreon Bonus Moment]]（developer）
-- [[Our Life： Beginnings & Always - Patreon Bonus Moment]]（publisher）
-- [[Our Life： Beginnings & Always - Step 1 Expansion]]（developer）
-- [[Our Life： Beginnings & Always - Step 1 Expansion]]（publisher）
-- [[Our Life： Beginnings & Always - Step 1 Expansion（GB Patch Games）]]（developer）
-- [[Our Life： Beginnings & Always - Step 1 Expansion（GB Patch Games）]]（publisher）
-- [[Our Life： Beginnings & Always - Step 2 Expansion]]（developer）
-- [[Our Life： Beginnings & Always - Step 2 Expansion]]（publisher）
-- [[Our Life： Beginnings & Always - Step 2 Expansion（GB Patch Games）]]（developer）
-- [[Our Life： Beginnings & Always - Step 2 Expansion（GB Patch Games）]]（publisher）
-- [[Our Life： Beginnings & Always - Step 3 Expansion]]（developer）
-- [[Our Life： Beginnings & Always - Step 3 Expansion]]（publisher）
-- [[Our Life： Beginnings & Always - Step 3 Expansion（GB Patch Games）]]（developer）
-- [[Our Life： Beginnings & Always - Step 3 Expansion（GB Patch Games）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Our Life： Beginnings & Always - Voiced Name Expansion]]（developer）
+- [[发行版/Our Life： Beginnings & Always - Voiced Name Expansion]]（publisher）
 - [[Our Life： Beginnings & Always - Voiced Name Expansion]]（developer）
 - [[Our Life： Beginnings & Always - Voiced Name Expansion]]（publisher）
-- [[Our Life： Beginnings & Always - Voiced Name Version]]（developer）
-- [[Our Life： Beginnings & Always - Voiced Name Version]]（publisher）
-- [[Our Life： Beginnings & Always - Voiced Name Version（GB Patch Games）]]（developer）
-- [[Our Life： Beginnings & Always - Voiced Name Version（GB Patch Games）]]（publisher）
 - [[Our Life： Beginnings & Always]]（developer）
 - [[Our Life： Beginnings & Always]]（publisher）
-- [[Our Life： Beginnings & Always（GB Patch Games・release：）]]（developer）
-- [[Our Life： Beginnings & Always（GB Patch Games・release：）]]（publisher）
-- [[Our Life： Beginnings & Always（GB Patch Games・vndb：r83）]]（developer）
-- [[Our Life： Beginnings & Always（GB Patch Games・vndb：r83）]]（publisher）
-- [[Our Life： Beginnings & Always（GB Patch Games）]]（developer）
-- [[Our Life： Beginnings & Always（GB Patch Games）]]（publisher）
-- [[Our Life： Now & Forever - Early Access]]（developer）
-- [[Our Life： Now & Forever - Early Access]]（publisher）
-- [[Our Life： Now & Forever - Expanded Demo]]（developer）
-- [[Our Life： Now & Forever - Expanded Demo]]（publisher）
-- [[Our Life： Now & Forever - Expanded Demo（GB Patch Games）]]（developer）
-- [[Our Life： Now & Forever - Expanded Demo（GB Patch Games）]]（publisher）
-- [[Our Life： Now & Forever - Mini Demo]]（developer）
-- [[Our Life： Now & Forever - Mini Demo]]（publisher）
-- [[Our Life： Now & Forever - Mini Demo（GB Patch Games）]]（developer）
-- [[Our Life： Now & Forever - Mini Demo（GB Patch Games）]]（publisher）
+- [[发行版/Our Life： Now & Forever]]（developer）
+- [[发行版/Our Life： Now & Forever]]（publisher）
 - [[Our Life： Now & Forever]]（developer）
 - [[Our Life： Now & Forever]]（publisher）<!-- AUTO:END duty -->
 

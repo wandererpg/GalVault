@@ -12,8 +12,7 @@ source_urls:
 # smallg
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Suiren yu Shion（release：）]]（publisher）
-- [[Suiren yu Shion（vndb：r12）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Suiren to Shion - Download Edition]]（publisher）
 <!-- AUTO:END duty -->
 
 ## 创作与出演

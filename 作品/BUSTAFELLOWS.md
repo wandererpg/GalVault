@@ -94,26 +94,9 @@ cover_image: "assets/covers/v25197.webp"
 - [[Yoshino Hiroyuki]]（吉野 裕行）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[BUSTAFELLOWS - Collector's Edition]]
-- [[BUSTAFELLOWS - Deluxe Edition]]
-- [[BUSTAFELLOWS - Demo]]
-- [[BUSTAFELLOWS - Demo（LyCORIS Work'S）]]
-- [[BUSTAFELLOWS - Download Edition]]
-- [[BUSTAFELLOWS - Download Edition（Extend）]]
-- [[BUSTAFELLOWS - Download Edition（PQube）]]
-- [[BUSTAFELLOWS - EU Collector's Edition]]
-- [[BUSTAFELLOWS - EU Edition]]
-- [[BUSTAFELLOWS - NA Collector's Edition]]
-- [[BUSTAFELLOWS - NA Edition]]
-- [[BUSTAFELLOWS - Regular Edition]]
-- [[BUSTAFELLOWS - Shu Route]]
+<!-- AUTO:BEGIN release -->- [[发行版/BUSTAFELLOWS]]
 - [[BUSTAFELLOWS]]
-- [[BUSTAFELLOWS（Extend・release：）]]
-- [[BUSTAFELLOWS（Extend）]]
-- [[BUSTAFELLOWS（Game Source Entertainment）]]
-- [[BUSTAFELLOWS（PQube）]]
-- [[BUSTAFELLOWS（release：）]]
-- [[Quanyuan Eren]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

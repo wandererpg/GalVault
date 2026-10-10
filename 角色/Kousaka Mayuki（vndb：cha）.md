@@ -31,7 +31,7 @@ portrait_image: "assets/characters/c5962.webp"
 
 ## 出场作品
 <!-- AUTO:BEGIN character -->- [[D.C. II P.C. ~Da Capo II~ Plus Communication - Regular Edition]]（primary）
-- [[D.C. II ~Da Capo II~ Regular Edition]]（primary）
+- [[发行版/D.C. II P.C. ~Da Capo II~ Plus Communication - Regular Edition]]（primary）
 - [[D.C.II ～ダ・カーポII～]]（side）<!-- AUTO:END character -->
 
 ## 声优

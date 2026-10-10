@@ -12,12 +12,10 @@ source_urls:
 # Azalyne Studios
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Seven Kingdoms： The Princess Problem - Demo]]（developer）
-- [[Seven Kingdoms： The Princess Problem - Demo]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Seven Kingdoms： The Princess Problem - Extended Demo]]（developer）
+- [[发行版/Seven Kingdoms： The Princess Problem - Extended Demo]]（publisher）
 - [[Seven Kingdoms： The Princess Problem - Extended Demo]]（developer）
 - [[Seven Kingdoms： The Princess Problem - Extended Demo]]（publisher）
-- [[Seven Kingdoms： The Princess Problem v1.12]]（developer）
-- [[Seven Kingdoms： The Princess Problem v1.12]]（publisher）
 - [[Seven Kingdoms： The Princess Problem]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

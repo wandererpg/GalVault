@@ -12,8 +12,8 @@ source_urls:
 # Project Zetsubou
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Danganronpa： Hope’s Academy and Despair’s Students Demo]]（publisher）
-- [[Danganronpa： Hope’s Academy and Despair’s Students]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Danganronpa Decadence - EU Package Edition（Numskull Games Ltd）]]（publisher）
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

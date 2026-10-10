@@ -13,52 +13,24 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Aneimo Neo+ ~Second Sisters~ DVDPG]]（developer）
-- [[Aneimo Neo+ ~Second Sisters~ Download Edition]]（developer）
-- [[Aneimo Neo+ ~Second Sisters~ Download Edition]]（publisher）
-- [[Aneimo Neo+ ~Second Sisters~ Package Edition]]（developer）
-- [[Aneimo Neo+ ~Second Sisters~ Package Edition]]（publisher）
-- [[Aneimo Neo+ ~Second Sisters~ Web Trial Edition]]（developer）
-- [[Aneimo Neo+ ~Second Sisters~ Web Trial Edition]]（publisher）
+- [[发行版/Aneimo Neo+ ~Second Sisters~ DVDPG]]（developer）
+- [[发行版/Aneimo Neo+ ~Second Sisters~ DVDPG]]（publisher）
 - [[Hahamusu Gaiden ~Suishou no Joou Delfina~ DVDPG]]（developer）
-- [[Hahamusu Gaiden ~Suishou no Joou Delfina~ Download Edition]]（developer）
-- [[Hahamusu Gaiden ~Suishou no Joou Delfina~ Download Edition]]（publisher）
-- [[Hahamusu Gaiden ~Suishou no Joou Delfina~ Package Edition]]（developer）
-- [[Hahamusu Gaiden ~Suishou no Joou Delfina~ Package Edition]]（publisher）
+- [[发行版/Hahamusu Gaiden ~Suishou no Joou Delfina~ DVDPG]]（developer）
+- [[发行版/Hahamusu Gaiden ~Suishou no Joou Delfina~ DVDPG]]（publisher）
 - [[Hahamusu ~Ochibure Kizoku no Haha to Musume~ Download Edition]]（developer）
 - [[Hahamusu ~Ochibure Kizoku no Haha to Musume~ Download Edition]]（publisher）
-- [[Hahamusu ~Ochibure Kizoku no Haha to Musume~ LOVE Ero Trial Edition]]（developer）
-- [[Hahamusu ~Ochibure Kizoku no Haha to Musume~ LOVE Ero Trial Edition]]（publisher）
-- [[Hahamusu ~Ochibure Kizoku no Haha to Musume~ Package Edition]]（developer）
-- [[Hahamusu ~Ochibure Kizoku no Haha to Musume~ Package Edition]]（publisher）
-- [[Hahamusu ~Ochibure Kizoku no Haha to Musume~ Trial Edition]]（developer）
-- [[Hahamusu ~Ochibure Kizoku no Haha to Musume~ Trial Edition]]（publisher）
-- [[Mama Sis Tsuika DLC - Cosplay Tengoku 5]]（developer）
-- [[Mama Sis Tsuika DLC - Cosplay Tengoku 5]]（publisher）
+- [[发行版/Hahamusu ~Ochibure Kizoku no Haha to Musume~ Download Edition]]（developer）
+- [[发行版/Hahamusu ~Ochibure Kizoku no Haha to Musume~ Download Edition]]（publisher）
+- [[发行版/Mama Sis ~Okaa-san to Watashi, Docchi ga Ii no？~ DVDPG]]（developer）
+- [[发行版/Mama Sis ~Okaa-san to Watashi, Docchi ga Ii no？~ DVDPG]]（publisher）
 - [[Mama Sis ~Okaa-san to Watashi, Docchi ga Ii no？~ DVDPG]]（developer）
-- [[Mama Sis ~Okaa-san to Watashi, Docchi ga Ii no？~ Download Edition]]（developer）
-- [[Mama Sis ~Okaa-san to Watashi, Docchi ga Ii no？~ Download Edition]]（publisher）
-- [[Mama Sis ~Okaa-san to Watashi, Docchi ga Ii no？~ Package Edition]]（developer）
-- [[Mama Sis ~Okaa-san to Watashi, Docchi ga Ii no？~ Package Edition]]（publisher）
-- [[Mama Sis ~Okaa-san to Watashi, Docchi ga Ii no？~ Trial Edition]]（developer）
-- [[Mama Sis ~Okaa-san to Watashi, Docchi ga Ii no？~ Trial Edition]]（publisher）
 - [[Mama-Haha 2 - DVDPG]]（developer）
-- [[Mama-Haha 2 - Download Edition]]（developer）
-- [[Mama-Haha 2 - Download Edition]]（publisher）
-- [[Mama-Haha 2 - Package Edition]]（developer）
-- [[Mama-Haha 2 - Package Edition]]（publisher）
-- [[Mama-Haha 2 - Trial Edition]]（developer）
-- [[Mama-Haha 2 - Trial Edition]]（publisher）
-- [[Mama-Haha Twin Set - Download Edition]]（developer）
-- [[Mama-Haha Twin Set - Download Edition]]（publisher）
-- [[Mama-Haha Twin Set - Package Edition]]（developer）
-- [[Mama-Haha Twin Set - Package Edition]]（publisher）
+- [[发行版/Mama-Haha 2 - DVDPG]]（developer）
+- [[发行版/Mama-Haha 2 - DVDPG]]（publisher）
 - [[Mitsu Ane - DVDPG]]（developer）
-- [[Mitsu Ane - Download Edition]]（developer）
-- [[Mitsu Ane - Download Edition]]（publisher）
-- [[Mitsu Ane - Package Edition]]（developer）
-- [[Mitsu Ane - Package Edition]]（publisher）
-- [[Nao to Love Ero Dekichau Minimini AVG]]（developer）
-- [[Nao to Love Ero Dekichau Minimini AVG]]（publisher）
+- [[发行版/Mitsu Ane - DVDPG]]（developer）
+- [[发行版/Mitsu Ane - DVDPG]]（publisher）
 - [[あねいもNeo＋ Second Sisters]]（developer）
 - [[ははむす ～落ちぶれ貴族の母と娘～]]（developer）
 - [[ははむす外伝 ～水晶の女王デルフィーナ～]]（developer）

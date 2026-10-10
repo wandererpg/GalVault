@@ -12,8 +12,8 @@ source_urls:
 # Kuro Ishigami
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii Desu ka？（release：）]]（publisher）
-- [[Summer Clover（release：）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/NUKITASHI]]（publisher）
+- [[发行版/Xiase Siyecao]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

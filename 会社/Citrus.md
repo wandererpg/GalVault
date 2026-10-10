@@ -14,14 +14,8 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Hokenshitsu no Sensei to Shabondama Chuudoku no Joshu - Dakimakura Cover Included Limited Edition]]（developer）
 - [[Hokenshitsu no Sensei to Shabondama Chuudoku no Joshu - Dakimakura Cover Included Limited Edition]]（publisher）
-- [[Hokenshitsu no Sensei to Shabondama Chuudoku no Joshu - Download Edition]]（developer）
-- [[Hokenshitsu no Sensei to Shabondama Chuudoku no Joshu - Download Edition]]（publisher）
-- [[Hokenshitsu no Sensei to Shabondama Chuudoku no Joshu - Preceding Trial Edition]]（developer）
-- [[Hokenshitsu no Sensei to Shabondama Chuudoku no Joshu - Preceding Trial Edition]]（publisher）
-- [[Hokenshitsu no Sensei to Shabondama Chuudoku no Joshu - Trial Edition]]（developer）
-- [[Hokenshitsu no Sensei to Shabondama Chuudoku no Joshu - Trial Edition]]（publisher）
-- [[Hokenshitsu no Sensei to Shabondama Chuudoku no Joshu（Citrus）]]（developer）
-- [[Hokenshitsu no Sensei to Shabondama Chuudoku no Joshu（Citrus）]]（publisher）
+- [[发行版/Hokenshitsu no Sensei to Shabondama Chuudoku no Joshu - Dakimakura Cover Included Limited Edition]]（developer）
+- [[发行版/Hokenshitsu no Sensei to Shabondama Chuudoku no Joshu - Dakimakura Cover Included Limited Edition]]（publisher）
 - [[保健室的老师与沉迷吹泡泡的助手]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

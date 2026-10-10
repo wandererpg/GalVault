@@ -12,36 +12,17 @@ source_urls:
 # Uguisu Kagura
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Kami no Ue no Mahoutsukai & Suisou Ginka no Istoria W Set - Limited Edition]]（publisher）
-- [[Kami no Ue no Mahoutsukai & Suisou Ginka no Istoria W Set - Limited Edition（Uguisu Kagura）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Kami no Ue no Mahoutsukai - Download Edition]]（publisher）
+- [[发行版/Suisou Ginka no Istoria - Download Edition]]（publisher）
 - [[Kami no Ue no Mahoutsukai - Download Edition]]（developer）
 - [[Kami no Ue no Mahoutsukai - Download Edition]]（publisher）
-- [[Kami no Ue no Mahoutsukai - Package Edition]]（developer）
-- [[Kami no Ue no Mahoutsukai - Package Edition]]（publisher）
-- [[Kami no Ue no Mahoutsukai - Trial Edition]]（developer）
-- [[Kami no Ue no Mahoutsukai - Trial Edition]]（publisher）
-- [[Meikei no Lupercalia - Download Edition]]（developer）
-- [[Meikei no Lupercalia - Download Edition（Uguisu Kagura・release：）]]（developer）
-- [[Meikei no Lupercalia - Download Edition（Uguisu Kagura・release：）]]（publisher）
+- [[发行版/Kami no Ue no Mahoutsukai - Download Edition]]（developer）
+- [[发行版/Meikei no Lupercalia - Download Edition（Uguisu Kagura）]]（developer）
+- [[发行版/Meikei no Lupercalia - Download Edition（Uguisu Kagura）]]（publisher）
 - [[Meikei no Lupercalia - Download Edition（Uguisu Kagura）]]（developer）
-- [[Meikei no Lupercalia - First Press Edition]]（developer）
-- [[Meikei no Lupercalia - First Press Edition]]（publisher）
-- [[Meikei no Lupercalia - Limited Edition]]（developer）
-- [[Meikei no Lupercalia - Limited Edition（Uguisu Kagura）]]（developer）
-- [[Meikei no Lupercalia - Regular Edition]]（developer）
-- [[Meikei no Lupercalia - Regular Edition（Uguisu Kagura）]]（developer）
-- [[Meikei no Lupercalia - Special Edition]]（developer）
-- [[Meikei no Lupercalia - Special Edition]]（publisher）
-- [[Meikei no Lupercalia - Trial Edition]]（developer）
-- [[Meikei no Lupercalia - Trial Edition（Uguisu Kagura・release：）]]（developer）
-- [[Meikei no Lupercalia - Trial Edition（Uguisu Kagura・release：）]]（publisher）
-- [[Meikei no Lupercalia - Trial Edition（Uguisu Kagura）]]（developer）
 - [[Suisou Ginka no Istoria - Download Edition]]（developer）
 - [[Suisou Ginka no Istoria - Download Edition]]（publisher）
-- [[Suisou Ginka no Istoria - Package Edition]]（developer）
-- [[Suisou Ginka no Istoria - Package Edition]]（publisher）
-- [[Suisou Ginka no Istoria - Trial Edition]]（developer）
-- [[Suisou Ginka no Istoria - Trial Edition]]（publisher）
+- [[发行版/Suisou Ginka no Istoria - Download Edition]]（developer）
 - [[冥契的牧神节]]（developer）
 - [[水葬银货的Istria]]（developer）
 - [[纸上的魔法使]]（developer）<!-- AUTO:END duty -->

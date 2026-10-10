@@ -12,7 +12,7 @@ source_urls:
 # fuglekongerige
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Coquette Dragoon Volume 1 (Early Access)]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Coquette Dragoon： Volume One - Early Access]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

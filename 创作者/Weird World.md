@@ -12,8 +12,8 @@ source_urls:
 # Weird World
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Superhuman v0.999999 part1]]（developer）
-- [[Superhuman v0.999999 part1]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Sverhchelovek v0.9999b]]（developer）
+- [[发行版/Sverhchelovek v0.9999b]]（publisher）
 - [[Superhuman]]（developer）<!-- AUTO:END duty -->
 
 ## 创作与出演

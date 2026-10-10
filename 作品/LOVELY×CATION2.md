@@ -68,39 +68,9 @@ cover_image: "assets/covers/v10288.webp"
 - [[Toono Soyogi]]（遠野 そよぎ）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[ALL×CATION]]
-- [[LOVELY×CATION1&2 - Download Edition]]
-- [[LOVELY×CATION1&2 - Limited Edition]]
-- [[LOVELY×CATION1&2 - Regular Edition]]
-- [[LOVELY×CATION2 - Download Edition]]
-- [[LOVELY×CATION2 - First Press Limited Edition]]
-- [[LOVELY×CATION2 - Quality Package Edition 1000 Series]]
-- [[LOVELY×CATION2 - Regular Edition]]
-- [[LOVELY×CATION2 - Trial Edition]]
-- [[LOVELY×CATION2 -Zutto Hatsukoi no Hibi Edition- First Press Limited Edition]]
-- [[LOVELY×CATION2 APPEND LIFE／APRIL]]
-- [[LOVELY×CATION2 APPEND LIFE／AUGUST]]
-- [[LOVELY×CATION2 APPEND LIFE／DECEMBER]]
-- [[LOVELY×CATION2 APPEND LIFE／FEBRUARY]]
-- [[LOVELY×CATION2 APPEND LIFE／JANUARY]]
-- [[LOVELY×CATION2 APPEND LIFE／JULY]]
-- [[LOVELY×CATION2 APPEND LIFE／JUNE]]
-- [[LOVELY×CATION2 APPEND LIFE／MARCH]]
-- [[LOVELY×CATION2 APPEND LIFE／MAY]]
-- [[LOVELY×CATION2 APPEND LIFE／NOVEMBER]]
-- [[LOVELY×CATION2 APPEND LIFE／OCTOBER]]
-- [[LOVELY×CATION2 APPEND LIFE／SEPTEMBER]]
-- [[LOVELY×CATION2 Love Love Birthday Collection vol.1 -Yoshinoya Seine-]]
-- [[LOVELY×CATION2 Love Love Birthday Collection vol.1 -Yoshinoya Seine-（hibiki works）]]
-- [[LOVELY×CATION2 Love Love Birthday Collection vol.2 -Izumi Wakoto-]]
-- [[LOVELY×CATION2 Love Love Birthday Collection vol.2 -Izumi Wakoto-（hibiki works）]]
-- [[LOVELY×CATION2 Love Love Birthday Collection vol.3 -Narukawa Hime-]]
-- [[LOVELY×CATION2 Love Love Birthday Collection vol.3 -Narukawa Hime-（hibiki works）]]
+<!-- AUTO:BEGIN release -->- [[发行版/LOVELY×CATION2 Love Love Birthday Collection vol.4  -Nirasaki Hinata-]]
 - [[LOVELY×CATION2 Love Love Birthday Collection vol.4  -Nirasaki Hinata-]]
-- [[LOVELY×CATION2 Love Love Birthday Collection vol.4  -Nirasaki Hinata-（hibiki works）]]
-- [[LOVELY×CATION2]]
-- [[LOVELY×CATION2（release：）]]
-- [[Lovely x Cation 2]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

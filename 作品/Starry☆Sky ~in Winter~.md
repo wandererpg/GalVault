@@ -81,18 +81,9 @@ cover_image: "assets/covers/v2024.webp"
 - [[Suzumura Ken'ichi]]（鈴村 健一）<!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Starry☆Sky ~Winter Stories~ Download Edition]]
-- [[Starry☆Sky ~Winter Stories~]]
-- [[Starry☆Sky ~Winter~ Portable - Twin Pack]]
-- [[Starry☆Sky ~in Winter~ 3D - Limited Edition]]
-- [[Starry☆Sky ~in Winter~ 3D]]
-- [[Starry☆Sky ~in Winter~ Portable - First Press Limited Edition]]
-- [[Starry☆Sky ~in Winter~ Portable - Regular Edition]]
+<!-- AUTO:BEGIN release -->- [[发行版/Starry☆Sky ~in Winter~]]
 - [[Starry☆Sky ~in Winter~]]
-- [[Starry☆Sky ~in Winter~（SS）]]
-- [[Starry☆Sky ~in Winter~（Traducciones Strawberry）]]
-- [[Starry☆Sky ~in Winter~（honeybee）]]
-- [[Starry☆Sky ～Winter Stories～]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

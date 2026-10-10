@@ -14,16 +14,8 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[OPUS： Echo of Starsong - Full Bloom Edition ［Collector's Edition］]]（developer）
 - [[OPUS： Echo of Starsong - Full Bloom Edition ［Collector's Edition］]]（publisher）
-- [[OPUS： Echo of Starsong - Full Bloom Edition]]（developer）
-- [[OPUS： Echo of Starsong - Full Bloom Edition]]（publisher）
-- [[OPUS： Echo of Starsong（Sigono）]]（developer）
-- [[OPUS： Echo of Starsong（Sigono）]]（publisher）
-- [[OPUS： Longmai Changge -Zuizhong Ban-]]（developer）
-- [[OPUS： Longmai Changge -Zuizhong Ban-]]（publisher）
-- [[OPUS： Longmai Changge -Zuizhong Ban-（Sigono・release：）]]（developer）
-- [[OPUS： Longmai Changge -Zuizhong Ban-（Sigono・release：）]]（publisher）
-- [[OPUS： Longmai Changge -Zuizhong Ban-（Sigono）]]（developer）
-- [[OPUS： Longmai Changge -Zuizhong Ban-（Sigono）]]（publisher）
+- [[发行版/OPUS： Echo of Starsong - Full Bloom Edition ［Collector's Edition］]]（developer）
+- [[发行版/OPUS： Echo of Starsong - Full Bloom Edition ［Collector's Edition］]]（publisher）
 - [[OPUS：龙脉常歌]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

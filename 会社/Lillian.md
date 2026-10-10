@@ -12,32 +12,13 @@ source_urls:
 # Lillian
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Twinkle Star Knights Release Anniversary Edition - First Press Limited Edition]]（developer）
-- [[Twinkle ☆ Crusaders - First Press Limited Edition]]（developer）
-- [[Twinkle ☆ Crusaders - First Press Limited Edition]]（publisher）
-- [[Twinkle ☆ Crusaders - Premium Edition]]（developer）
-- [[Twinkle ☆ Crusaders - Premium Edition]]（publisher）
-- [[Twinkle ☆ Crusaders - Regular Edition]]（developer）
-- [[Twinkle ☆ Crusaders - Regular Edition]]（publisher）
-- [[Twinkle ☆ Crusaders - Remastered Edition]]（developer）
-- [[Twinkle ☆ Crusaders - Remastered Edition]]（publisher）
-- [[Twinkle ☆ Crusaders - Trial Edition]]（developer）
-- [[Twinkle ☆ Crusaders - Trial Edition]]（publisher）
-- [[Twinkle ☆ Crusaders -Passion Star Stream- Battle Trial Edition]]（developer）
-- [[Twinkle ☆ Crusaders -Passion Star Stream- Battle Trial Edition]]（publisher）
-- [[Twinkle ☆ Crusaders -Passion Star Stream- Battle Trial Final Mix]]（developer）
-- [[Twinkle ☆ Crusaders -Passion Star Stream- Battle Trial Final Mix]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Twinkle ☆ Crusaders Go Go - Deluxe (Best Edition)]]（developer）
+- [[发行版/Twinkle ☆ Crusaders Go Go - Deluxe (Best Edition)]]（publisher）
+- [[发行版/Twinkle ☆ Crusaders -Passion Star Stream- Deluxe Edition]]（developer）
+- [[发行版/Twinkle ☆ Crusaders -Passion Star Stream- Deluxe Edition]]（publisher）
 - [[Twinkle ☆ Crusaders -Passion Star Stream- Deluxe Edition]]（developer）
 - [[Twinkle ☆ Crusaders -Passion Star Stream- Deluxe Edition]]（publisher）
-- [[Twinkle ☆ Crusaders -Passion Star Stream- Download Edition]]（developer）
-- [[Twinkle ☆ Crusaders -Passion Star Stream- Download Edition]]（publisher）
-- [[Twinkle ☆ Crusaders -Passion Star Stream- H Scene Trial Edition]]（developer）
-- [[Twinkle ☆ Crusaders -Passion Star Stream- H Scene Trial Edition]]（publisher）
 - [[Twinkle ☆ Crusaders Go Go - Deluxe (Best Edition)]]（developer）
-- [[Twinkle ☆ Crusaders Go Go - Regular Edition]]（developer）
-- [[Twinkle ☆ Crusaders Go Go - Special Limited Edition]]（developer）
-- [[Twinkle ☆ Crusaders Remaster - Download Edition]]（developer）
-- [[Twinkle ☆ Crusaders Remaster - Download Edition]]（publisher）
 - [[ティンクル☆くるせいだーす -Passion Star Stream-]]（developer）
 - [[閃耀☆十字軍]]（developer）<!-- AUTO:END duty -->
 

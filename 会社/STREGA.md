@@ -12,12 +12,10 @@ source_urls:
 # STREGA
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Komorebi no Nostalgica - Download Edition]]（developer）
-- [[Komorebi no Nostalgica - Download Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Komorebi no Nostalgica - First Press Limited Edition]]（developer）
+- [[发行版/Komorebi no Nostalgica - First Press Limited Edition]]（publisher）
 - [[Komorebi no Nostalgica - First Press Limited Edition]]（developer）
 - [[Komorebi no Nostalgica - First Press Limited Edition]]（publisher）
-- [[Komorebi no Nostalgica - Trial Edition]]（developer）
-- [[Komorebi no Nostalgica - Trial Edition]]（publisher）
 - [[木洩れ陽のノスタルジーカ -Raggio di sole nostalgico-]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

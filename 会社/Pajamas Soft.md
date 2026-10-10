@@ -12,14 +12,10 @@ source_urls:
 # Pajamas Soft
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Princess Witches - First Press Limited Edition]]（developer）
-- [[Princess Witches - First Press Limited Edition]]（publisher）
-- [[Princess Witches - Regular Edition]]（developer）
-- [[Princess Witches - Regular Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Princess Witches Excellent - Download Edition]]（developer）
+- [[发行版/Princess Witches Excellent - Download Edition]]（publisher）
 - [[Princess Witches Excellent - Download Edition]]（developer）
 - [[Princess Witches Excellent - Download Edition]]（publisher）
-- [[Princess Witches Excellent（Pajamas Soft）]]（developer）
-- [[Princess Witches Excellent（Pajamas Soft）]]（publisher）
 - [[プリンセスうぃっちぃず]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

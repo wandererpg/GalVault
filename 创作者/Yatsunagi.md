@@ -12,9 +12,8 @@ source_urls:
 # Yatsunagi
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Mojibake]]（developer）
-- [[Mojibake： Taikenban]]（developer）
-- [[Mojibake： Taikenban]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Mojibake - Package Edition]]（developer）
+- [[发行版/Mojibake - Package Edition]]（publisher）
 - [[文字化化]]（developer）<!-- AUTO:END duty -->
 
 ## 创作与出演

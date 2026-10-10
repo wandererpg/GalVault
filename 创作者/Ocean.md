@@ -12,12 +12,10 @@ source_urls:
 # Ocean
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Summer's Gone - ［Demo］]]（developer）
-- [[Summer's Gone - ［Demo］]]（publisher）
-- [[Summer's Gone： Season 1 - Censored Edition]]（developer）
-- [[Summer's Gone： Season 1 - Censored Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Ischeznovenie Sammer S1 + S1 Steam]]（developer）
+- [[发行版/Ischeznovenie Sammer S1 + S1 Steam]]（publisher）
 - [[Summer's Gone： Season 1]]（developer）
-- [[Summer's Gone： Season 1（release：）]]（developer）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

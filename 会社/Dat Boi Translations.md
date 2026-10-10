@@ -12,8 +12,8 @@ source_urls:
 # Dat Boi Translations
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Kono Oozora ni, Tsubasa o Hirogete： FLIGHT DIARY ［Decensor patch］]]（publisher）
-- [[Natsu no Ame —Summer Rain—]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Kono Oozora ni, Tsubasa o Hirogete Cruise Sign - Regular Edition（MAGES・release：）]]（publisher）
+- [[发行版/Natsu no Ame - First Press Limited Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

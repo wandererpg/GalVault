@@ -12,7 +12,7 @@ source_urls:
 # Yue Yi She
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Fate ／ hollow ataraxia]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Fate／Hollow Ataraxia - Voice Patch]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

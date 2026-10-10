@@ -12,26 +12,18 @@ source_urls:
 # Minato Carnival
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Tsujidou-san no Jun'ai Road + Virgin Road Set]]（developer）
-- [[Tsujidou-san no Jun'ai Road + Virgin Road Set]]（publisher）
-- [[Tsujidou-san no Jun'ai Road + Virgin Road Set（Minato Carnival）]]（developer）
-- [[Tsujidou-san no Jun'ai Road + Virgin Road Set（Minato Carnival）]]（publisher）
-- [[Tsujidou-san no Jun'ai Road - Download Edition]]（developer）
-- [[Tsujidou-san no Jun'ai Road - Download Edition]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Tsujidou-san no Virgin Road - First Press Edition]]（developer）
+- [[发行版/Tsujidou-san no Virgin Road - First Press Edition]]（publisher）
+- [[发行版/Tsujidou-san no Jun'ai Road - First Press Edition]]（developer）
+- [[发行版/Tsujidou-san no Jun'ai Road - First Press Edition]]（publisher）
 - [[Tsujidou-san no Jun'ai Road - First Press Edition]]（developer）
 - [[Tsujidou-san no Jun'ai Road - First Press Edition]]（publisher）
-- [[Tsujidou-san no Jun'ai Road - Trial Edition]]（developer）
-- [[Tsujidou-san no Jun'ai Road - Trial Edition]]（publisher）
-- [[Tsujidou-san no Virgin Road - Download Edition]]（developer）
-- [[Tsujidou-san no Virgin Road - Download Edition]]（publisher）
 - [[Tsujidou-san no Virgin Road - First Press Edition]]（developer）
 - [[Tsujidou-san no Virgin Road - First Press Edition]]（publisher）
 - [[Waka-sama no Zasuru Sekai - Download Edition]]（developer）
 - [[Waka-sama no Zasuru Sekai - Download Edition]]（publisher）
-- [[Waka-sama no Zasuru Sekai - Trial]]（developer）
-- [[Waka-sama no Zasuru Sekai - Trial]]（publisher）
-- [[Waka-sama no Zasuru Sekai]]（developer）
-- [[Waka-sama no Zasuru Sekai]]（publisher）
+- [[发行版/Waka-sama no Zasuru Sekai - Download Edition]]（developer）
+- [[发行版/Waka-sama no Zasuru Sekai - Download Edition]]（publisher）
 - [[和香様の座する世界]]（developer）
 - [[辻堂さんのバージンロード]]（developer）
 - [[辻堂さんの純愛ロード]]（developer）<!-- AUTO:END duty -->

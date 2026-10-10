@@ -12,10 +12,9 @@ source_urls:
 # Nizhuan ACE
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Nizhuan Caipan 3]]（publisher）
-- [[Nizhuan Caipan]]（publisher）
-- [[Nizhuan Caipan： Fusu de Nizhuan]]（publisher）
-- [[Nizhuan Jianshi 2]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:BEGIN duty -->- [[发行版/Gyakuten Saiban 3 PC Download Edition]]（publisher）
+- [[发行版/Gyakuten Saiban： Yomigaeru Gyakuten]]（publisher）
+- [[发行版/Gyakuten Kenji 1&2 Mitsurugi Selection]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

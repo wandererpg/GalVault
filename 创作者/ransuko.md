@@ -12,17 +12,17 @@ source_urls:
 # ransuko
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Amakano 2 - Perfect Edition (GPT 5.6 SOL High)]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Amakano 2 - Renewal Package Edition - DVDPG]]（publisher）
 - [[Amakano 2+ (GPT 5.6 SOL High)]]（publisher）
-- [[Happy Weekend]]（publisher）
+- [[发行版/Happy Weekend - Download Edition（HOOKSOFT）]]（publisher）
 - [[Honoo no Haramase Oppai ★ Ero Appli Gakuen ［AI TL］]]（publisher）
 - [[Mamagoto ~Mama to Naisho no Ecchi Shimasho~]]（publisher）
 - [[Mamatomo ［AI TL］]]（publisher）
-- [[Mama×Holic ~Miwaku no Mama to Ama Ama Kankei~]]（publisher）
+- [[发行版/Mama x Holic ~Miwaku no Mama to Ama Ama Kankei~ Download Edition]]（publisher）
 - [[Re CATION ~Melty Healing~（HTranslations）]]（publisher）
 - [[Saint Dorei Gakuen 2（HTranslations）]]（publisher）
-- [[Sorceress ＊ Alive! ~the World's End Fallen Star~]]（publisher）
-- [[Taishou Mebiusline（HTranslations）]]（publisher）<!-- AUTO:END duty -->
+- [[发行版/Sorceress ＊ Alive! ~the World's End Fallen Star~ Download Edition]]（publisher）
+- [[发行版/Taishou Mebiusline Vitable - Download Edition]]（publisher）<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

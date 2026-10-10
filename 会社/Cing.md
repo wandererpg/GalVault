@@ -12,11 +12,10 @@ source_urls:
 # Cing
 
 ## 相关作品与职责
-<!-- AUTO:BEGIN duty -->- [[Hotel Dusk： Room 215 - EU Edition]]（developer）
+<!-- AUTO:BEGIN duty -->- [[发行版/Hotel Dusk： Room 215 - NA Edition]]（developer）
 - [[Hotel Dusk： Room 215 - NA Edition]]（developer）
-- [[Last Window： Mayonaka no Yakusoku]]（developer）
+- [[发行版/Last Window： The Secret of Cape West]]（developer）
 - [[Last Window： The Secret of Cape West]]（developer）
-- [[Wish Room： Tenshi no Kioku]]（developer）
 - [[ウィッシュルーム 天使の記憶]]（developer）
 - [[ラストウィンドウ 真夜中の約束]]（developer）<!-- AUTO:END duty -->
 

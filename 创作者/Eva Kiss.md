@@ -12,22 +12,12 @@ source_urls:
 # Eva Kiss
 
 ## 会社与职责
-<!-- AUTO:BEGIN duty -->- [[Good Girl Gone Bad - Demo]]（developer）
-- [[Good Girl Gone Bad - Demo]]（publisher）
-- [[Good Girl Gone Bad v1.1]]（developer）
-- [[Good Girl Gone Bad v1.1]]（publisher）
-- [[Good Girl Gone Bad v1.2]]（developer）
-- [[Good Girl Gone Bad v1.2]]（publisher）
-- [[Good Girl Gone Bad v1.2（release：）]]（developer）
-- [[Good Girl Gone Bad v1.2（release：）]]（publisher）
+<!-- AUTO:BEGIN duty -->- [[发行版/Good Girl Gone Bad]]（developer）
+- [[发行版/Good Girl Gone Bad]]（publisher）
 - [[Good Girl Gone Bad]]（developer）
 - [[Good Girl Gone Bad]]（publisher）
-- [[Our Red String - Demo]]（developer）
-- [[Our Red String - Demo]]（publisher）
-- [[Our Red String v0.15.1.3]]（developer）
-- [[Our Red String v0.15.1.3]]（publisher）
-- [[Our Red String v0.15.1.3（release：）]]（developer）
-- [[Our Red String v0.15.1.3（release：）]]（publisher）
+- [[发行版/Nasha Krasnaja Nit' Ch. 1-13.3.5]]（developer）
+- [[发行版/Nasha Krasnaja Nit' Ch. 1-13.3.5]]（publisher）
 - [[Our Red String]]（developer）<!-- AUTO:END duty -->
 
 ## 创作与出演

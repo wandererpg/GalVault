@@ -13,18 +13,10 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Bara ni Kakusareshi Verite - Download Edition]]（developer）
-- [[Bara ni Kakusareshi Verite - Limited Edition]]（developer）
-- [[Bara ni Kakusareshi Verite - Regular Edition]]（developer）
-- [[Hanayaka Nari, Waga Ichizoku Gentou Nostalgie - Download Edition]]（developer）
-- [[Hanayaka Nari, Waga Ichizoku Gentou Nostalgie - Regular Edition]]（developer）
-- [[Hanayaka Nari, Waga Ichizoku Gentou Nostalgie for Nintendo Switch - Download Edition]]（developer）
-- [[Hanayaka Nari, Waga Ichizoku Gentou Nostalgie for Nintendo Switch - Limited Edition]]（developer）
-- [[Hanayaka Nari, Waga Ichizoku Gentou Nostalgie for Nintendo Switch]]（developer）
+- [[发行版/Bara ni Kakusareshi Verite - Download Edition]]（developer）
+- [[发行版/Hanayaka Nari, Waga Ichizoku Kinema Mosaic - Regular Edition]]（developer）
 - [[Hanayaka Nari, Waga Ichizoku Modern Nostalgie - Download Edition]]（developer）
-- [[Hanayaka Nari, Waga Ichizoku Modern Nostalgie - Regular Edition]]（developer）
-- [[Hanayaka Nari, Waga Ichizoku Modern Nostalgie for Nintendo Switch - Download Edition]]（developer）
-- [[Hanayaka Nari, Waga Ichizoku Modern Nostalgie for Nintendo Switch - Limited Edition]]（developer）
-- [[Hanayaka Nari, Waga Ichizoku Modern Nostalgie for Nintendo Switch]]（developer）
+- [[发行版/Hanayaka Nari, Waga Ichizoku Modern Nostalgie - Download Edition]]（developer）
 - [[華彩煌煌,吾之一族 燈影萬華鏡]]（developer）
 - [[華彩煌煌,吾之一族]]（developer）
 - [[薔薇に隠されしヴェリテ]]（developer）<!-- AUTO:END duty -->

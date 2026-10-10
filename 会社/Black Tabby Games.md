@@ -14,17 +14,13 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Scarlet Hollow - Early Access]]（developer）
 - [[Scarlet Hollow - Early Access]]（publisher）
-- [[Scarlet Hollow - Episode One]]（developer）
-- [[Scarlet Hollow - Episode One]]（publisher）
+- [[发行版/Scarlet Hollow - Early Access]]（developer）
+- [[发行版/Scarlet Hollow - Early Access]]（publisher）
 - [[Scarlet Hollow]]（developer）
-- [[Slay the Princess - Demo Director's Cut]]（developer）
-- [[Slay the Princess - Demo Director's Cut]]（publisher）
-- [[Slay the Princess - Demo]]（developer）
-- [[Slay the Princess - Demo]]（publisher）
+- [[发行版/Slay the Princess - The Pristine Cut]]（developer）
+- [[发行版/Slay the Princess - The Pristine Cut]]（publisher）
 - [[Slay the Princess - The Pristine Cut]]（developer）
 - [[Slay the Princess - The Pristine Cut]]（publisher）
-- [[Slay the Princess（Black Tabby Games）]]（developer）
-- [[Slay the Princess（Black Tabby Games）]]（publisher）
 - [[杀死公主]]（developer）<!-- AUTO:END duty -->
 
 ## 创作者

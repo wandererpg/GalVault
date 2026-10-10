@@ -46,9 +46,9 @@ cover_image: "assets/covers/v50981.webp"
 <!-- AUTO:BEGIN voice --><!-- AUTO:END voice -->
 
 ## 发行版
-<!-- AUTO:BEGIN release -->- [[Prisluzhnica Mal'katras]]
+<!-- AUTO:BEGIN release -->- [[发行版/malcatras' maiden]]
 - [[malcatras' maiden]]
-- [[malcatras' maiden（release：）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->
