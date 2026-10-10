@@ -85,6 +85,25 @@ python 系统/工具/localize_character_names.py
 
 脚本从 VNDB 补齐原文名和别名，并生成简体中文显示标题。角色文件名和内部链接不会改变。自动音译不等同于官方译名；可在 `系统/角色中文化/中文名修订.csv` 中加入人工修订后重跑。详见[生成报告](系统/角色中文化/生成报告.md)。
 
+## 导入作品简介
+
+使用 Python 3.10 或更高版本，无需安装第三方依赖。在知识库根目录运行：
+
+```powershell
+# 离线预演：只查看本地缓存中哪些简介可以补充，不写文件、不联网
+python 系统/工具/import_vndb_synopses.py
+# 联网获取并缓存简介，仍不修改作品页
+python 系统/工具/import_vndb_synopses.py --fetch
+# 正式导入：获取缺少的数据、备份原文件、写入作品页
+python 系统/工具/import_vndb_synopses.py --apply
+```
+
+脚本扫描 `作品/`，按页面属性中的 VNDB ID 获取简介，保留 VNDB 原文（不自动翻译），并附来源链接。已有非空简介会跳过；空简介和“待补充”等占位内容可填充。自动简介写入独立的 `AUTO synopsis` 区块，不改变文件名、属性和关系链接。
+
+可用 `--apply --limit 10` 小批量试运行；`--apply --refresh` 重新获取数据并更新本脚本生成的简介，保留人工简介。缓存支持断点续跑，并复用此前内容清理的 VNDB 缓存。请求失败的条目下次重跑会重试；缺少 VNDB ID、无简介或查无记录只报告，不删除作品页。
+
+实际写入前会在知识库旁的 `GalVault-maintenance-backups/` 创建并校验 ZIP 原文件备份。运行结果记录在 `系统/简介导入/report.json`；默认离线预演不写报告。更多参数见 `python 系统/工具/import_vndb_synopses.py --help`。
+
 ## GitHub 自动上传
 
 本知识库使用 SSH 连接到 `git@github.com:wandererpg/GalVault.git`，默认分支为 `main`。首次克隆时使用：

@@ -17,3 +17,4 @@ Thumbs.db
 *.pyc
 系统/内容清理/vndb-empty-work-records.json
 系统/内容清理/manifest.json
+系统/简介导入/cache.json
