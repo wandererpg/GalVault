@@ -139,7 +139,6 @@ cover_image: "assets/covers/v25288.webp"
 - [[Being a DIK v0.11.1]]
 - [[Being a DIK v0.8.2]]
 - [[Being a DIK v0.8.2（release：）]]
-- [[Being a DIK v0.8.2（vndb：r99）]]
 - [[Being a DIK： Interlude - Riding the Waves]]
 - [[Being a DIK： Season 1 - Demo]]
 - [[Being a DIK： Season 1]]

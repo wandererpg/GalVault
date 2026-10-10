@@ -14,7 +14,6 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[A Sex-obsessed Older Brother in the Country, and his Traditional, Sickly Little Sister]]（publisher）
 - [[Chiqing Gege yu Bingruo Meimei de Xiangjian Shenghuo]]（publisher）
-- [[Chiqing Gege yu Bingruo Meimei de Xiangjian Shenghuo（Sister Position）]]（publisher）
 - [[Ecchi de Ichizu na Doinaka Nii-sama to - Append Complete Set]]（publisher）
 - [[Ecchi de Ichizu na Doinaka Nii-sama to, Koshikiyukashii Byoujaku Imouto Append.01 Asumi-chan no Sailor Fuku]]（publisher）
 - [[Ecchi de Ichizu na Doinaka Nii-sama to, Koshikiyukashii Byoujaku Imouto Append.02 Asumi-chan to Katei no Igaku]]（publisher）

@@ -11,6 +11,13 @@ source_ids:
   vndb: "r118736"
 source_urls:
   vndb: "https://vndb.org/r118736"
+merged_source_records:
+  - id: "r118736"
+    url: "https://vndb.org/r118736"
+  - id: "r135202"
+    url: "https://vndb.org/r135202"
+aliases:
+  - "Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.2（ENTERGRAM）"
 ---
 
 # Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.2

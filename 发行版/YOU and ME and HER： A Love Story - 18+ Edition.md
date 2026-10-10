@@ -11,6 +11,13 @@ source_ids:
   vndb: "r163463"
 source_urls:
   vndb: "https://vndb.org/r163463"
+merged_source_records:
+  - id: "r163463"
+    url: "https://vndb.org/r163463"
+  - id: "r71491"
+    url: "https://vndb.org/r71491"
+aliases:
+  - "YOU and ME and HER： A Love Story - 18+ Edition（JAST USA）"
 ---
 
 # YOU and ME and HER: A Love Story - 18+ Edition

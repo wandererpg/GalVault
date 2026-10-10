@@ -11,6 +11,13 @@ source_ids:
   vndb: "r126473"
 source_urls:
   vndb: "https://vndb.org/r126473"
+merged_source_records:
+  - id: "r126473"
+    url: "https://vndb.org/r126473"
+  - id: "r76675"
+    url: "https://vndb.org/r76675"
+aliases:
+  - "Suiren yu Shion（vndb：r76）"
 ---
 
 # Suiren yu Shion

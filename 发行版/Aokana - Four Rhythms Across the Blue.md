@@ -11,6 +11,13 @@ source_ids:
   vndb: "r126832"
 source_urls:
   vndb: "https://vndb.org/r126832"
+merged_source_records:
+  - id: "r126832"
+    url: "https://vndb.org/r126832"
+  - id: "r65191"
+    url: "https://vndb.org/r65191"
+aliases:
+  - "Aokana - Four Rhythms Across the Blue（PQube）"
 ---
 
 # Aokana - Four Rhythms Across the Blue

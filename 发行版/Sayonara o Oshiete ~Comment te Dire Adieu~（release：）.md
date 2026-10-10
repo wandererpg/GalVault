@@ -10,6 +10,13 @@ source_ids:
   vndb: "r126122"
 source_urls:
   vndb: "https://vndb.org/r126122"
+merged_source_records:
+  - id: "r126122"
+    url: "https://vndb.org/r126122"
+  - id: "r85471"
+    url: "https://vndb.org/r85471"
+aliases:
+  - "Sayonara o Oshiete ~Comment te Dire Adieu~（vndb：r85）"
 ---
 
 # Sayonara o Oshiete ~Comment te Dire Adieu~

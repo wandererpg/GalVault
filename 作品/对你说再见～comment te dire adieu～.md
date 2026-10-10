@@ -81,7 +81,6 @@ cover_image: "assets/covers/v1200.webp"
 - [[Sayonara o Oshiete ~Comment te Dire Adieu~（CRAFTWORK）]]
 - [[Sayonara o Oshiete ~Comment te Dire Adieu~（Chaos Gate Team）]]
 - [[Sayonara o Oshiete ~Comment te Dire Adieu~（release：）]]
-- [[Sayonara o Oshiete ~Comment te Dire Adieu~（vndb：r85）]]
 - [[Sayonara o Oshiete ~Ensine-me a dizer Adeus~]]<!-- AUTO:END release -->
 
 ## 动画化

@@ -15,7 +15,6 @@ source_urls:
 - [[CHAOS;CHILD Improvement Patch (Steam, GOG, Switch)]]（publisher）
 - [[CHAOS;HEAD NOAH Overhaul Patch (Steam, Steam Deck, and GOG)]]（publisher）
 - [[CHAOS;HEAD NOAH Overhaul Patch (Switch)]]（publisher）
-- [[CHAOS;HEAD NOAH（Committee of Zero・release：）]]（publisher）
 - [[CHAOS;HEAD NOAH（Committee of Zero）]]（publisher）
 - [[ROBOTICS;NOTES ELITE Steam Improvement Patch]]（publisher）
 - [[STEINS;GATE 0 Improvement Patch (DMM)]]（publisher）

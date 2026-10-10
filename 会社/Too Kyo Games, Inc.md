@@ -13,7 +13,6 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Bairi Zhanji -Zuizhong Fangwei Xueyuan-]]（developer）
-- [[Bairi Zhanji -Zuizhong Fangwei Xueyuan-（Too Kyo Games, Inc）]]（developer）
 - [[HUNDRED LINE -Saishuu Bouei Gakuen- - Digital Deluxe Edition]]（developer）
 - [[HUNDRED LINE -Saishuu Bouei Gakuen- - Download Edition]]（developer）
 - [[HUNDRED LINE -Saishuu Bouei Gakuen- - Number Limited Edition]]（developer）

@@ -1,10 +1,10 @@
 ---
 entity_id: "vndb:character:c44134"
 type: "character"
-display_title: "惠子"
-title_zh: "惠子"
+display_title: "艾可"
+title_zh: "艾可"
 title_ja: "エコ"
-title_zh_quality: "phonetic_transliteration"
+title_zh_quality: "manual_override"
 title_status: "machine_generated"
 aliases:
   - "Echo"
@@ -16,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c44134.webp"
 ---
 
-# 惠子
+# 艾可
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

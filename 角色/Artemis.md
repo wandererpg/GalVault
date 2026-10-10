@@ -1,9 +1,9 @@
 ---
 entity_id: "vndb:character:c138186"
 type: "character"
-display_title: "阿R特美S"
-title_zh: "阿R特美S"
-title_zh_quality: "phonetic_transliteration"
+display_title: "阿尔忒弥斯"
+title_zh: "阿尔忒弥斯"
+title_zh_quality: "manual_override"
 title_status: "machine_generated"
 aliases:
   - "Artemis"
@@ -14,7 +14,7 @@ source_urls:
 portrait_image: "assets/characters/c138186.webp"
 ---
 
-# 阿R特美S
+# 阿尔忒弥斯
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

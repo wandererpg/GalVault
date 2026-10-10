@@ -14,7 +14,6 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[A Sex-obsessed Older Brother in the Country, and his Traditional, Sickly Little Sister]]（developer）
 - [[Chiqing Gege yu Bingruo Meimei de Xiangjian Shenghuo]]（developer）
-- [[Chiqing Gege yu Bingruo Meimei de Xiangjian Shenghuo（Sister Position）]]（developer）
 - [[Doinaka Kyoudai - Additional Content Patch for the Overseas Version]]（developer）
 - [[Ecchi de Ichizu na Doinaka Nii-sama to - Append Complete Set]]（developer）
 - [[Ecchi de Ichizu na Doinaka Nii-sama to, Koshikiyukashii Byoujaku Imouto - trial version]]（developer）

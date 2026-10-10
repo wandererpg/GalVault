@@ -11,6 +11,13 @@ source_ids:
   vndb: "r93250"
 source_urls:
   vndb: "https://vndb.org/r93250"
+merged_source_records:
+  - id: "r93250"
+    url: "https://vndb.org/r93250"
+  - id: "r99242"
+    url: "https://vndb.org/r99242"
+aliases:
+  - "Being a DIK v0.8.2（vndb：r99）"
 ---
 
 # Being a DIK v0.8.2

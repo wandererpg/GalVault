@@ -1,10 +1,10 @@
 ---
 entity_id: "vndb:character:c161299"
 type: "character"
-display_title: "寿乃乌"
-title_zh: "寿乃乌"
+display_title: "思诺"
+title_zh: "思诺"
 title_ja: "スノウ"
-title_zh_quality: "phonetic_transliteration"
+title_zh_quality: "manual_override"
 title_status: "machine_generated"
 aliases:
   - "Snow"
@@ -16,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c161299.webp"
 ---
 
-# 寿乃乌
+# 思诺
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

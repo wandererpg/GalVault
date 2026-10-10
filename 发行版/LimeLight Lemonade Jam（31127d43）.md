@@ -11,6 +11,16 @@ source_ids:
   vndb: "r143410"
 source_urls:
   vndb: "https://vndb.org/r143410"
+merged_source_records:
+  - id: "r143410"
+    url: "https://vndb.org/r143410"
+  - id: "r143409"
+    url: "https://vndb.org/r143409"
+  - id: "r143407"
+    url: "https://vndb.org/r143407"
+aliases:
+  - "LimeLight Lemonade Jam（k：v56650）"
+  - "LimeLight Lemonade Jam（release：）"
 ---
 
 # LimeLight Lemonade Jam

@@ -11,6 +11,13 @@ source_ids:
   vndb: "r143854"
 source_urls:
   vndb: "https://vndb.org/r143854"
+merged_source_records:
+  - id: "r143854"
+    url: "https://vndb.org/r143854"
+  - id: "r143855"
+    url: "https://vndb.org/r143855"
+aliases:
+  - "Chiqing Gege yu Bingruo Meimei de Xiangjian Shenghuo（Sister Position）"
 ---
 
 # Chiqing Gege yu Bingruo Meimei de Xiangjian Shenghuo

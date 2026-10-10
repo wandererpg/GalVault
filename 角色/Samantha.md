@@ -1,9 +1,9 @@
 ---
 entity_id: "vndb:character:c165386"
 type: "character"
-display_title: "沙真恩T羽"
-title_zh: "沙真恩T羽"
-title_zh_quality: "phonetic_transliteration"
+display_title: "萨曼莎"
+title_zh: "萨曼莎"
+title_zh_quality: "manual_override"
 title_status: "machine_generated"
 aliases:
   - "Samantha"
@@ -15,7 +15,7 @@ source_urls:
 portrait_image: "assets/characters/c165386.webp"
 ---
 
-# 沙真恩T羽
+# 萨曼莎
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

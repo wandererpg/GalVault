@@ -11,6 +11,16 @@ source_ids:
   vndb: "r75556"
 source_urls:
   vndb: "https://vndb.org/r75556"
+merged_source_records:
+  - id: "r75556"
+    url: "https://vndb.org/r75556"
+  - id: "r75557"
+    url: "https://vndb.org/r75557"
+  - id: "r79514"
+    url: "https://vndb.org/r79514"
+aliases:
+  - "Vincent： The Secret of Myers - Alpha（release：）"
+  - "Vincent： The Secret of Myers - Alpha（vndb：r79）"
 ---
 
 # Vincent: The Secret of Myers - Alpha

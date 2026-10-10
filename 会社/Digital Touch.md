@@ -22,7 +22,6 @@ source_urls:
 - [[STEINS;GATE - BigHit Edition]]（publisher）
 - [[STEINS;GATE（Digital Touch・release：）]]（publisher）
 - [[Steins;Gate 0（Digital Touch・release：）]]（publisher）
-- [[Steins;Gate 0（Digital Touch・vndb：r88）]]（publisher）
 - [[Steins;Gate 0（Digital Touch）]]（publisher）
 - [[Steins;Gate DOUBLE PACK（Digital Touch・release：）]]（publisher）
 - [[Steins;Gate DOUBLE PACK（Digital Touch）]]（publisher）

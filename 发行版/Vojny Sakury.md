@@ -11,6 +11,13 @@ source_ids:
   vndb: "r2005"
 source_urls:
   vndb: "https://vndb.org/r2005"
+merged_source_records:
+  - id: "r2005"
+    url: "https://vndb.org/r2005"
+  - id: "r24120"
+    url: "https://vndb.org/r24120"
+aliases:
+  - "Vojny Sakury（Akella）"
 ---
 
 # Vojny Sakury

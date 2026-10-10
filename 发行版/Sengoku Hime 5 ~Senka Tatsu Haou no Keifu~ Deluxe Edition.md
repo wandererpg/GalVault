@@ -11,6 +11,13 @@ source_ids:
   vndb: "r139838"
 source_urls:
   vndb: "https://vndb.org/r139838"
+merged_source_records:
+  - id: "r139838"
+    url: "https://vndb.org/r139838"
+  - id: "r68843"
+    url: "https://vndb.org/r68843"
+aliases:
+  - "Sengoku Hime 5 ~Senka Tatsu Haou no Keifu~ Deluxe Edition（unicorn-a）"
 ---
 
 # Sengoku Hime 5 ~Senka Tatsu Haou no Keifu~ Deluxe Edition

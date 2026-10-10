@@ -11,6 +11,13 @@ source_ids:
   vndb: "r77792"
 source_urls:
   vndb: "https://vndb.org/r77792"
+merged_source_records:
+  - id: "r77792"
+    url: "https://vndb.org/r77792"
+  - id: "r77793"
+    url: "https://vndb.org/r77793"
+aliases:
+  - "Adelaide： The Crossroads Inn（vndb：r77）"
 ---
 
 # Adelaide: The Crossroads Inn

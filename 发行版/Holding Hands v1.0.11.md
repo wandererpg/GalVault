@@ -11,6 +11,13 @@ source_ids:
   vndb: "r153732"
 source_urls:
   vndb: "https://vndb.org/r153732"
+merged_source_records:
+  - id: "r153732"
+    url: "https://vndb.org/r153732"
+  - id: "r153733"
+    url: "https://vndb.org/r153733"
+aliases:
+  - "Holding Hands v1.0.11（release：）"
 ---
 
 # Holding Hands v1.0.11

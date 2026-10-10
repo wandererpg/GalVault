@@ -41,8 +41,7 @@ cover_image: "assets/covers/v29536.webp"
 
 ## 发行版
 <!-- AUTO:BEGIN release -->- [[Vincent： The Secret of Myers - Alpha]]
-- [[Vincent： The Secret of Myers - Alpha（release：）]]
-- [[Vincent： The Secret of Myers - Alpha（vndb：r79）]]<!-- AUTO:END release -->
+<!-- AUTO:END release -->
 
 ## 动画化
 <!-- AUTO:BEGIN adaptation --><!-- AUTO:END adaptation -->

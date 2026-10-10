@@ -11,6 +11,13 @@ source_ids:
   vndb: "r57121"
 source_urls:
   vndb: "https://vndb.org/r57121"
+merged_source_records:
+  - id: "r57121"
+    url: "https://vndb.org/r57121"
+  - id: "r88746"
+    url: "https://vndb.org/r88746"
+aliases:
+  - "Steins;Gate 0（Digital Touch・vndb：r88）"
 ---
 
 # Steins;Gate 0

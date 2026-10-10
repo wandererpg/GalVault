@@ -13,12 +13,10 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[NU： carnival]]（publisher）
-- [[NU： carnival（Infinity Alpha・release：）]]（publisher）
-- [[NU： carnival（Infinity Alpha）]]（publisher）
 - [[Xin Shijie Kuanghuan - Bliss]]（publisher）
 - [[Xin Shijie Kuanghuan - Bliss（Infinity Alpha）]]（publisher）
 - [[Xin Shijie Kuanghuan]]（publisher）
-- [[Xin Shijie Kuanghuan（Infinity Alpha）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

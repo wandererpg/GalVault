@@ -14,7 +14,7 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Vojny Sakury 2]]（publisher）
 - [[Vojny Sakury]]（publisher）
-- [[Vojny Sakury（Akella）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作者
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

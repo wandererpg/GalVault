@@ -13,7 +13,6 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Aokana - Four Rhythms Across the Blue Limited Edition]]（publisher）
 - [[Aokana - Four Rhythms Across the Blue]]（publisher）
-- [[Aokana - Four Rhythms Across the Blue（PQube）]]（publisher）
 - [[BUSTAFELLOWS - Collector's Edition]]（publisher）
 - [[BUSTAFELLOWS - Demo]]（publisher）
 - [[BUSTAFELLOWS - Download Edition（PQube）]]（publisher）

@@ -14,10 +14,6 @@ source_urls:
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Vincent： The Secret of Myers - Alpha]]（developer）
 - [[Vincent： The Secret of Myers - Alpha]]（publisher）
-- [[Vincent： The Secret of Myers - Alpha（release：）]]（developer）
-- [[Vincent： The Secret of Myers - Alpha（release：）]]（publisher）
-- [[Vincent： The Secret of Myers - Alpha（vndb：r79）]]（developer）
-- [[Vincent： The Secret of Myers - Alpha（vndb：r79）]]（publisher）
 - [[Vincent： The Secret of Myers]]（developer）<!-- AUTO:END duty -->
 
 ## 创作与出演

@@ -11,6 +11,13 @@ source_ids:
   vndb: "r87694"
 source_urls:
   vndb: "https://vndb.org/r87694"
+merged_source_records:
+  - id: "r87694"
+    url: "https://vndb.org/r87694"
+  - id: "r87992"
+    url: "https://vndb.org/r87992"
+aliases:
+  - "Xin Shijie Kuanghuan（Infinity Alpha）"
 ---
 
 # Xin Shijie Kuanghuan

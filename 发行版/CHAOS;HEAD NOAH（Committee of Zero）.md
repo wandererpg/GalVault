@@ -10,6 +10,13 @@ source_ids:
   vndb: "r55700"
 source_urls:
   vndb: "https://vndb.org/r55700"
+merged_source_records:
+  - id: "r55700"
+    url: "https://vndb.org/r55700"
+  - id: "r78281"
+    url: "https://vndb.org/r78281"
+aliases:
+  - "CHAOS;HEAD NOAH（Committee of Zero・release：）"
 ---
 
 # CHAOS;HEAD NOAH

@@ -14,7 +14,7 @@ source_urls:
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Suiren yu Shion（release：）]]（publisher）
 - [[Suiren yu Shion（vndb：r12）]]（publisher）
-- [[Suiren yu Shion（vndb：r76）]]（publisher）<!-- AUTO:END duty -->
+<!-- AUTO:END duty -->
 
 ## 创作与出演
 <!-- AUTO:BEGIN role --><!-- AUTO:END role -->

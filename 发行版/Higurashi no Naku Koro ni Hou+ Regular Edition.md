@@ -11,6 +11,13 @@ source_ids:
   vndb: "r135038"
 source_urls:
   vndb: "https://vndb.org/r135038"
+merged_source_records:
+  - id: "r135038"
+    url: "https://vndb.org/r135038"
+  - id: "r77276"
+    url: "https://vndb.org/r77276"
+aliases:
+  - "Higurashi no Naku Koro ni Hou+ Regular Edition（07th Expansion・release：）"
 ---
 
 # Higurashi no Naku Koro ni Hou+ Regular Edition

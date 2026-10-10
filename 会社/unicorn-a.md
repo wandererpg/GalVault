@@ -39,7 +39,6 @@ source_urls:
 - [[Sengoku Hime 4 ~Souha Hyakkei, Hana Mamoru Chikai~ Yuugi Kyouka Ban -Ni no Maki- Download Edition]]（publisher）
 - [[Sengoku Hime 4 ~Souha Hyakkei, Hana Mamoru Chikai~ Yuugi Kyouka Ban -Ni no Maki-]]（publisher）
 - [[Sengoku Hime 5 ~Senka Tatsu Haou no Keifu~ Deluxe Edition]]（publisher）
-- [[Sengoku Hime 5 ~Senka Tatsu Haou no Keifu~ Deluxe Edition（unicorn-a）]]（publisher）
 - [[Sengoku Hime 5 ~Senka Tatsu Haou no Keifu~ Deluxe Limited Edition]]（publisher）
 - [[Sengoku Hime 5 ~Senka Tatsu Haou no Keifu~ Download Edition]]（publisher）
 - [[Sengoku Hime 5 ~Senka Tatsu Haou no Keifu~ Regular Edition]]（publisher）

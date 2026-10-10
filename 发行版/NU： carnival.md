@@ -11,6 +11,16 @@ source_ids:
   vndb: "r87695"
 source_urls:
   vndb: "https://vndb.org/r87695"
+merged_source_records:
+  - id: "r87695"
+    url: "https://vndb.org/r87695"
+  - id: "r87993"
+    url: "https://vndb.org/r87993"
+  - id: "r88431"
+    url: "https://vndb.org/r88431"
+aliases:
+  - "NU： carnival（Infinity Alpha・release：）"
+  - "NU： carnival（Infinity Alpha）"
 ---
 
 # NU: carnival

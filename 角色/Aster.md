@@ -1,10 +1,10 @@
 ---
 entity_id: "vndb:character:c104868"
 type: "character"
-display_title: "惠寿太阿"
-title_zh: "惠寿太阿"
+display_title: "艾斯特"
+title_zh: "艾斯特"
 title_ja: "エスター"
-title_zh_quality: "phonetic_transliteration"
+title_zh_quality: "manual_override"
 title_status: "machine_generated"
 aliases:
   - "Aster"
@@ -16,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c104868.webp"
 ---
 
-# 惠寿太阿
+# 艾斯特
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -11,6 +11,13 @@ source_ids:
   vndb: "r93057"
 source_urls:
   vndb: "https://vndb.org/r93057"
+merged_source_records:
+  - id: "r93057"
+    url: "https://vndb.org/r93057"
+  - id: "r93064"
+    url: "https://vndb.org/r93064"
+aliases:
+  - "3D Dingzhi Nupu 2（KISS）"
 ---
 
 # 3D Dingzhi Nupu 2

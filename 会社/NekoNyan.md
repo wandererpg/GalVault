@@ -64,7 +64,6 @@ source_urls:
 - [[Sanoba Witch - Censored Edition]]（publisher）
 - [[Sanoba Witch（NekoNyan）]]（publisher）
 - [[Senmomo： Through Billows of Blades, A Peachbloom Princess]]（publisher）
-- [[Senmomo： Through Billows of Blades, A Peachbloom Princess（NekoNyan）]]（publisher）
 - [[Senren ＊ Banka - 18+ Patch]]（publisher）
 - [[Senren ＊ Banka - Package Edition]]（publisher）
 - [[Senren ＊ Banka - Trial Edition（HIKARI FIELD）]]（publisher）

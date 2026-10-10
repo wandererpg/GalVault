@@ -16,8 +16,6 @@ source_urls:
 - [[Adelaide： The Crossroads Inn]]（publisher）
 - [[Adelaide： The Crossroads Inn（release：）]]（developer）
 - [[Adelaide： The Crossroads Inn（release：）]]（publisher）
-- [[Adelaide： The Crossroads Inn（vndb：r77）]]（developer）
-- [[Adelaide： The Crossroads Inn（vndb：r77）]]（publisher）
 - [[The Adelaide Inn]]（developer）
 - [[The Adelaide Inn]]（publisher）
 - [[アデレードホテル]]（developer）<!-- AUTO:END duty -->

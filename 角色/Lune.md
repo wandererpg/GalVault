@@ -1,10 +1,10 @@
 ---
 entity_id: "vndb:character:c34311"
 type: "character"
-display_title: "龙乌恩"
-title_zh: "龙乌恩"
+display_title: "琉恩"
+title_zh: "琉恩"
 title_ja: "リューン"
-title_zh_quality: "phonetic_transliteration"
+title_zh_quality: "manual_override"
 title_status: "machine_generated"
 aliases:
   - "Lune"
@@ -16,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c34311.webp"
 ---
 
-# 龙乌恩
+# 琉恩
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

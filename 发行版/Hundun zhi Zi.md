@@ -11,6 +11,13 @@ source_ids:
   vndb: "r125426"
 source_urls:
   vndb: "https://vndb.org/r125426"
+merged_source_records:
+  - id: "r125426"
+    url: "https://vndb.org/r125426"
+  - id: "r125427"
+    url: "https://vndb.org/r125427"
+aliases:
+  - "Hundun zhi Zi（release：）"
 ---
 
 # Hundun zhi Zi

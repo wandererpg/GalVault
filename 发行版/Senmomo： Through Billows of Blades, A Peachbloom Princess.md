@@ -10,6 +10,13 @@ source_ids:
   vndb: "r146326"
 source_urls:
   vndb: "https://vndb.org/r146326"
+merged_source_records:
+  - id: "r146326"
+    url: "https://vndb.org/r146326"
+  - id: "r146548"
+    url: "https://vndb.org/r146548"
+aliases:
+  - "Senmomo： Through Billows of Blades, A Peachbloom Princess（NekoNyan）"
 ---
 
 # Senmomo: Through Billows of Blades, A Peachbloom Princess

@@ -11,6 +11,13 @@ source_ids:
   vndb: "r132319"
 source_urls:
   vndb: "https://vndb.org/r132319"
+merged_source_records:
+  - id: "r132319"
+    url: "https://vndb.org/r132319"
+  - id: "r133730"
+    url: "https://vndb.org/r133730"
+aliases:
+  - "Bairi Zhanji -Zuizhong Fangwei Xueyuan-（Too Kyo Games, Inc）"
 ---
 
 # Bairi Zhanji -Zuizhong Fangwei Xueyuan-

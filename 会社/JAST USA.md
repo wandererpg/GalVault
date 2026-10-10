@@ -64,7 +64,6 @@ source_urls:
 - [[VenusBlood HOLLOW International - Steam Edition]]（publisher）
 - [[YOU and ME and HER： A Love Story - 18+ Edition]]（publisher）
 - [[YOU and ME and HER： A Love Story - 18+ Edition（JAST USA・release：）]]（publisher）
-- [[YOU and ME and HER： A Love Story - 18+ Edition（JAST USA）]]（publisher）
 - [[YOU and ME and HER： A Love Story - Director's Cut DLC]]（publisher）
 - [[YOU and ME and HER： A Love Story - Steam Edition]]（publisher）
 - [[YOU and ME and HER： A Love Story - Steam Edition（JAST USA）]]（publisher）

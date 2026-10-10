@@ -11,6 +11,13 @@ source_ids:
   vndb: "r155670"
 source_urls:
   vndb: "https://vndb.org/r155670"
+merged_source_records:
+  - id: "r155670"
+    url: "https://vndb.org/r155670"
+  - id: "r63111"
+    url: "https://vndb.org/r63111"
+aliases:
+  - "Ke zhi Shaonü English Version Chinese patch（release：）"
 ---
 
 # Ke zhi Shaonü English Version Chinese patch

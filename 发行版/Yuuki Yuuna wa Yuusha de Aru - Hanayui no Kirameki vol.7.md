@@ -11,6 +11,13 @@ source_ids:
   vndb: "r123763"
 source_urls:
   vndb: "https://vndb.org/r123763"
+merged_source_records:
+  - id: "r123763"
+    url: "https://vndb.org/r123763"
+  - id: "r135208"
+    url: "https://vndb.org/r135208"
+aliases:
+  - "Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.7（ENTERGRAM）"
 ---
 
 # Yuuki Yuuna wa Yuusha de Aru - Hanayui no Kirameki vol.7

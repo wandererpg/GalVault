@@ -13,7 +13,6 @@ source_urls:
 
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[Bairi Zhanji -Zuizhong Fangwei Xueyuan-]]（publisher）
-- [[Bairi Zhanji -Zuizhong Fangwei Xueyuan-（Too Kyo Games, Inc）]]（publisher）
 - [[Birushana Zhanji ~Genpei Feihua Mengxiang~ Download Edition]]（publisher）
 - [[Birushana Zhanji ~Genpei Feihua Mengxiang~ Limited Edition]]（publisher）
 - [[Birushana Zhanji ~Genpei Feihua Mengxiang~ Regular Edition]]（publisher）

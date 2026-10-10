@@ -11,6 +11,13 @@ source_ids:
   vndb: "r123837"
 source_urls:
   vndb: "https://vndb.org/r123837"
+merged_source_records:
+  - id: "r123837"
+    url: "https://vndb.org/r123837"
+  - id: "r123838"
+    url: "https://vndb.org/r123838"
+aliases:
+  - "Yoshiwara Pianhwa（release：）"
 ---
 
 # Yoshiwara Pianhwa

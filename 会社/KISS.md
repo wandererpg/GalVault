@@ -14,8 +14,6 @@ source_urls:
 ## 相关作品与职责
 <!-- AUTO:BEGIN duty -->- [[3D Dingzhi Nupu 2]]（developer）
 - [[3D Dingzhi Nupu 2]]（publisher）
-- [[3D Dingzhi Nupu 2（KISS）]]（developer）
-- [[3D Dingzhi Nupu 2（KISS）]]（publisher）
 - [[3D定制女仆2]]（developer）
 - [[CUSTOM ORDER MAID 3D2]]（developer）
 - [[CUSTOM ORDER MAID 3D2]]（publisher）
