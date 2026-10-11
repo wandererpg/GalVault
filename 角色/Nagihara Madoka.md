@@ -5,7 +5,10 @@ display_title: "薙原圆"
 title_zh: "薙原圆"
 title_ja: "薙原 円"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c11468"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nagihara Madoka"
   - "薙原 円"

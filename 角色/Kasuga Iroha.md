@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8526"
 type: "character"
-display_title: "春日伊洛羽"
-title_zh: "春日伊洛羽"
+display_title: "春日 いろは"
+title_zh: ""
 title_ja: "春日 いろは"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8526"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kasuga Iroha"
-  - "春日 いろは"
   - "五郎八"
 source_ids:
   vndb: "c8526"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c8526.webp"
 ---
 
-# 春日伊洛羽
+# 春日 いろは
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

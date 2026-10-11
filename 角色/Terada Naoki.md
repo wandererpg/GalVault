@@ -5,7 +5,10 @@ display_title: "寺田直树"
 title_zh: "寺田直树"
 title_ja: "寺田 直樹"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c31282"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Terada Naoki"
   - "寺田 直樹"

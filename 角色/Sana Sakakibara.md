@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c89283"
 type: "character"
-display_title: "沙奈·沙加希巴拉"
-title_zh: "沙奈·沙加希巴拉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Sana Sakakibara"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c89283"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Sana Sakakibara"
 source_ids:
   vndb: "c89283"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c89283.webp"
 ---
 
-# 沙奈·沙加希巴拉
+# Sana Sakakibara
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

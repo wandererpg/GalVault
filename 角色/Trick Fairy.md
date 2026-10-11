@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126295"
 type: "character"
-display_title: "斗莉K久F惠阿莉伊"
-title_zh: "斗莉K久F惠阿莉伊"
+display_title: "トリックフェアリー"
+title_zh: ""
 title_ja: "トリックフェアリー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126295"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Trick Fairy"
-  - "トリックフェアリー"
   - "Sicily"
 source_ids:
   vndb: "c126295"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c126295.webp"
 ---
 
-# 斗莉K久F惠阿莉伊
+# トリックフェアリー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

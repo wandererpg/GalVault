@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c18377"
 type: "character"
-display_title: "真伊惠露蕾V伊"
-title_zh: "真伊惠露蕾V伊"
+display_title: "マイケル・レヴィ"
+title_zh: ""
 title_ja: "マイケル・レヴィ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c18377"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Michael Levi"
-  - "マイケル・レヴィ"
   - "マイク"
   - "Mike"
   - "ミカエル"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c18377.webp"
 ---
 
-# 真伊惠露蕾V伊
+# マイケル・レヴィ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

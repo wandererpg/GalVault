@@ -5,7 +5,10 @@ display_title: "朝雾海斗"
 title_zh: "朝雾海斗"
 title_ja: "朝霧 海斗"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9702"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Asagiri Kaito"
   - "朝霧 海斗"

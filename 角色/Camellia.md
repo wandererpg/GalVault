@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c29036"
 type: "character"
-display_title: "加芽莉阿"
-title_zh: "加芽莉阿"
+display_title: "カメリア"
+title_zh: ""
 title_ja: "カメリア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c29036"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Camellia"
-  - "カメリア"
 source_ids:
   vndb: "c29036"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c29036.webp"
 ---
 
-# 加芽莉阿
+# カメリア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

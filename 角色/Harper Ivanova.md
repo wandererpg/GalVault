@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c112186"
 type: "character"
-display_title: "羽R佩R·伊V阿乃V阿"
-title_zh: "羽R佩R·伊V阿乃V阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Harper Ivanova"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c112186"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Harper Ivanova"
 source_ids:
   vndb: "c112186"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c112186.webp"
 ---
 
-# 羽R佩R·伊V阿乃V阿
+# Harper Ivanova
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

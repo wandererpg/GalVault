@@ -5,7 +5,10 @@ display_title: "赤岭友奈"
 title_zh: "赤岭友奈"
 title_ja: "赤嶺 友奈"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c147092"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Akamine Yuuna"
   - "赤嶺 友奈"

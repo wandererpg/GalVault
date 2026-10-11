@@ -5,7 +5,10 @@ display_title: "镝木遥步"
 title_zh: "镝木遥步"
 title_ja: "鏑木 遙歩"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c36958"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kaburagi Ayumu"
   - "鏑木 遙歩"

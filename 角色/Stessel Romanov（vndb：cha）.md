@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c97996"
 type: "character"
-display_title: "寿特S濑露洛真乃芙"
-title_zh: "寿特S濑露洛真乃芙"
+display_title: "ステッセル・ロマノフ"
+title_zh: ""
 title_ja: "ステッセル・ロマノフ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97996"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Stessel Romanov"
-  - "ステッセル・ロマノフ"
   - "Stessel Ignon"
 source_ids:
   vndb: "c97996"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c97996.webp"
 ---
 
-# 寿特S濑露洛真乃芙
+# ステッセル・ロマノフ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

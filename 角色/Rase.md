@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c115774"
 type: "character"
-display_title: "蕾伊寿"
-title_zh: "蕾伊寿"
+display_title: "レイス"
+title_zh: ""
 title_ja: "レイス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c115774"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rase"
-  - "レイス"
   - "Reisu"
 source_ids:
   vndb: "c115774"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c115774.webp"
 ---
 
-# 蕾伊寿
+# レイス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

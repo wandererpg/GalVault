@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c148483"
 type: "character"
-display_title: "F拉恩C惠SC阿·真LC阿T拉S"
-title_zh: "F拉恩C惠SC阿·真LC阿T拉S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Francesca Malcatras"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c148483"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Francesca Malcatras"
   - "Fran"
 source_ids:
   vndb: "c148483"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c148483.webp"
 ---
 
-# F拉恩C惠SC阿·真LC阿T拉S
+# Francesca Malcatras
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

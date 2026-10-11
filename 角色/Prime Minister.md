@@ -5,7 +5,10 @@ display_title: "总理"
 title_zh: "总理"
 title_ja: "総理"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9805"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Prime Minister"
   - "総理"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c100543"
 type: "character"
-display_title: "大野羽露奈"
-title_zh: "大野羽露奈"
+display_title: "大野 ハルナ"
+title_zh: ""
 title_ja: "大野 ハルナ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c100543"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Oono Haruna"
-  - "大野 ハルナ"
 source_ids:
   vndb: "c100543"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c100543.webp"
 ---
 
-# 大野羽露奈
+# 大野 ハルナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

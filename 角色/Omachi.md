@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c120940"
 type: "character"
-display_title: "奥町"
-title_zh: "奥町"
+display_title: "お町"
+title_zh: ""
 title_ja: "お町"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c120940"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Omachi"
-  - "お町"
 source_ids:
   vndb: "c120940"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c120940.webp"
 ---
 
-# 奥町
+# お町
 
 
 ## 角色画像

@@ -5,7 +5,10 @@ display_title: "千种由嗣"
 title_zh: "千种由嗣"
 title_ja: "千種 由嗣"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c85285"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Chigusa Yoshitsugu"
   - "千種 由嗣"

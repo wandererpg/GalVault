@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c145664"
 type: "character"
-display_title: "被莉物乃子"
-title_zh: "被莉物乃子"
+display_title: "被り物の子"
+title_zh: ""
 title_ja: "被り物の子"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c145664"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hooded Child"
-  - "被り物の子"
 source_ids:
   vndb: "c145664"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c145664.webp"
 ---
 
-# 被莉物乃子
+# 被り物の子
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

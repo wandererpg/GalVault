@@ -5,7 +5,10 @@ display_title: "瓜生新吾"
 title_zh: "瓜生新吾"
 title_ja: "瓜生 新吾"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c5290"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Uryuu Shingo"
   - "瓜生 新吾"

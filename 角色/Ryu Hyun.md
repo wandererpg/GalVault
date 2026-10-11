@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c35137"
 type: "character"
-display_title: "龙·休恩"
-title_zh: "龙·休恩"
+display_title: "류 현"
+title_zh: ""
 title_ja: "류 현"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c35137"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ryu Hyun"
-  - "류 현"
   - "Zen"
 source_ids:
   vndb: "c35137"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c35137.webp"
 ---
 
-# 龙·休恩
+# 류 현
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

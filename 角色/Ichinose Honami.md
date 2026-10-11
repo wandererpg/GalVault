@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c35679"
 type: "character"
-display_title: "一乃濑穗波"
-title_zh: "一乃濑穗波"
+display_title: "一ノ瀬 穂波"
+title_zh: ""
 title_ja: "一ノ瀬 穂波"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c35679"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ichinose Honami"
-  - "一ノ瀬 穂波"
 source_ids:
   vndb: "c35679"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c35679.webp"
 ---
 
-# 一乃濑穗波
+# 一ノ瀬 穂波
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

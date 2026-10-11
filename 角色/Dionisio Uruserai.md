@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c15836"
 type: "character"
-display_title: "D伊奥尼诗奥乌露濑拉伊"
-title_zh: "D伊奥尼诗奥乌露濑拉伊"
+display_title: "ディオニシオ・ウルセライ"
+title_zh: ""
 title_ja: "ディオニシオ・ウルセライ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c15836"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Dionisio Uruserai"
-  - "ディオニシオ・ウルセライ"
 source_ids:
   vndb: "c15836"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c15836.webp"
 ---
 
-# D伊奥尼诗奥乌露濑拉伊
+# ディオニシオ・ウルセライ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

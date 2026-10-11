@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c72070"
 type: "character"
-display_title: "阿兹乌莉阿纽乌F伊伊露堂"
-title_zh: "阿兹乌莉阿纽乌F伊伊露堂"
+display_title: "アズーリア・ニューフィールド"
+title_zh: ""
 title_ja: "アズーリア・ニューフィールド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c72070"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Azuria Newfield"
-  - "アズーリア・ニューフィールド"
 source_ids:
   vndb: "c72070"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c72070.webp"
 ---
 
-# 阿兹乌莉阿纽乌F伊伊露堂
+# アズーリア・ニューフィールド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

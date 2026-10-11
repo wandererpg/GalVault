@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c84341"
 type: "character"
-display_title: "伊々月莉莉娅"
-title_zh: "伊々月莉莉娅"
+display_title: "伊々月 リリア"
+title_zh: ""
 title_ja: "伊々月 リリア"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c84341"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Iizuki Riria"
-  - "伊々月 リリア"
 source_ids:
   vndb: "c84341"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c84341.webp"
 ---
 
-# 伊々月莉莉娅
+# 伊々月 リリア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

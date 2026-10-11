@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12973"
 type: "character"
-display_title: "冬马加兹沙"
-title_zh: "冬马加兹沙"
+display_title: "冬馬 かずさ"
+title_zh: ""
 title_ja: "冬馬 かずさ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12973"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Touma Kazusa"
-  - "冬馬 かずさ"
 source_ids:
   vndb: "c12973"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c12973.webp"
 ---
 
-# 冬马加兹沙
+# 冬馬 かずさ
 
 
 ## 角色画像

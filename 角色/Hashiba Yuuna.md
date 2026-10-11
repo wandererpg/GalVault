@@ -5,7 +5,10 @@ display_title: "榛叶邑那"
 title_zh: "榛叶邑那"
 title_ja: "榛葉 邑那"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c773"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hashiba Yuuna"
   - "榛葉 邑那"

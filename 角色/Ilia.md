@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c3170"
 type: "character"
-display_title: "伊莉阿"
-title_zh: "伊莉阿"
+display_title: "イリア"
+title_zh: ""
 title_ja: "イリア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c3170"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ilia"
-  - "イリア"
   - "Iria"
 source_ids:
   vndb: "c3170"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c3170.webp"
 ---
 
-# 伊莉阿
+# イリア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

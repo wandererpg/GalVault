@@ -5,7 +5,10 @@ display_title: "委员长"
 title_zh: "委员长"
 title_ja: "委員長"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c85001"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Chairman"
   - "委員長"

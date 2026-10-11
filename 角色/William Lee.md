@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c89306"
 type: "character"
-display_title: "威廉·L惠惠"
-title_zh: "威廉·L惠惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "William Lee"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c89306"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "William Lee"
   - "Will"
 source_ids:
   vndb: "c89306"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c89306.webp"
 ---
 
-# 威廉·L惠惠
+# William Lee
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

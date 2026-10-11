@@ -5,7 +5,10 @@ display_title: "绫坂志穗"
 title_zh: "绫坂志穗"
 title_ja: "綾坂 志穂"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c12132"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ayasaka Shiho"
   - "綾坂 志穂"

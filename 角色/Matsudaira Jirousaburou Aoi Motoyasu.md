@@ -5,7 +5,10 @@ display_title: "松平次郎三郎葵元康"
 title_zh: "松平次郎三郎葵元康"
 title_ja: "松平 次郎三郎 葵 元康"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20605"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Matsudaira Jirousaburou Aoi Motoyasu"
   - "松平 次郎三郎 葵 元康"

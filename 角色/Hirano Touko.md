@@ -5,7 +5,10 @@ display_title: "平野灯子"
 title_zh: "平野灯子"
 title_ja: "平野 燈子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c3169"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hirano Touko"
   - "平野 燈子"

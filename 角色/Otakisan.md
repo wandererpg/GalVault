@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c133213"
 type: "character"
-display_title: "奥太希沙恩"
-title_zh: "奥太希沙恩"
+display_title: "おたきさん"
+title_zh: ""
 title_ja: "おたきさん"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c133213"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Otakisan"
-  - "おたきさん"
 source_ids:
   vndb: "c133213"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c133213.webp"
 ---
 
-# 奥太希沙恩
+# おたきさん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "加藤段藏"
 title_zh: "加藤段藏"
 title_ja: "加藤 段蔵"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c127311"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Katou Danzou"
   - "加藤 段蔵"

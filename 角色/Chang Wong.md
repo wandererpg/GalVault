@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c112313"
 type: "character"
-display_title: "恰恩G·奥恩G"
-title_zh: "恰恩G·奥恩G"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Chang Wong"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c112313"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Chang Wong"
 source_ids:
   vndb: "c112313"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c112313.webp"
 ---
 
-# 恰恩G·奥恩G
+# Chang Wong
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

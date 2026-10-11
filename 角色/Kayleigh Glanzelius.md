@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10767"
 type: "character"
-display_title: "惠伊莉古拉恩濑莉乌寿"
-title_zh: "惠伊莉古拉恩濑莉乌寿"
+display_title: "ケイリ・グランセリウス"
+title_zh: ""
 title_ja: "ケイリ・グランセリウス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10767"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kayleigh Glanzelius"
-  - "ケイリ・グランセリウス"
   - "Star Princess"
   - "Hoshi no Oujo"
   - "星の王女"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c10767.webp"
 ---
 
-# 惠伊莉古拉恩濑莉乌寿
+# ケイリ・グランセリウス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

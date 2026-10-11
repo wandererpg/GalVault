@@ -5,7 +5,10 @@ display_title: "千茶々良宗易"
 title_zh: "千茶々良宗易"
 title_ja: "千 茶々良 宗易"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c100074"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sen Sasara Soueki"
   - "千 茶々良 宗易"

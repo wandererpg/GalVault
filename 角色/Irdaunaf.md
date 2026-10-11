@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c77023"
 type: "character"
-display_title: "伊露达阿奈芙"
-title_zh: "伊露达阿奈芙"
+display_title: "イルダーナフ"
+title_zh: ""
 title_ja: "イルダーナフ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c77023"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Irdaunaf"
-  - "イルダーナフ"
 source_ids:
   vndb: "c77023"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c77023.webp"
 ---
 
-# 伊露达阿奈芙
+# イルダーナフ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

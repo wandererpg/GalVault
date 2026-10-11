@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c28163"
 type: "character"
-display_title: "加阿特伊寿＝奈伊露"
-title_zh: "加阿特伊寿＝奈伊露"
+display_title: "カーティス＝ナイル"
+title_zh: ""
 title_ja: "カーティス＝ナイル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c28163"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Curtis Nile"
-  - "カーティス＝ナイル"
 source_ids:
   vndb: "c28163"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c28163.webp"
 ---
 
-# 加阿特伊寿＝奈伊露
+# カーティス＝ナイル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

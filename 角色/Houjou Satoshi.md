@@ -5,7 +5,10 @@ display_title: "北条悟史"
 title_zh: "北条悟史"
 title_ja: "北条 悟史"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c3849"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Houjou Satoshi"
   - "北条 悟史"

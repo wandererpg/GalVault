@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c91948"
 type: "character"
-display_title: "尼伊奈朝仓"
-title_zh: "尼伊奈朝仓"
+display_title: "ニーナ・朝倉"
+title_zh: ""
 title_ja: "ニーナ・朝倉"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c91948"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nina Asakura"
-  - "ニーナ・朝倉"
 source_ids:
   vndb: "c91948"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c91948.webp"
 ---
 
-# 尼伊奈朝仓
+# ニーナ・朝倉
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

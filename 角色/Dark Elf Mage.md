@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125194"
 type: "character"
-display_title: "达阿久惠露芙（召唤）"
-title_zh: "达阿久惠露芙（召唤）"
+display_title: "ダークエルフ　（召喚）"
+title_zh: ""
 title_ja: "ダークエルフ　（召喚）"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125194"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Dark Elf Mage"
-  - "ダークエルフ　（召喚）"
   - "Dark Elf (M)"
   - "Marion"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c125194.webp"
 ---
 
-# 达阿久惠露芙（召唤）
+# ダークエルフ　（召喚）
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

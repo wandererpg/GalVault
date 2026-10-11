@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c76904"
 type: "character"
-display_title: "真澄久莉寿"
-title_zh: "真澄久莉寿"
+display_title: "真澄クリス"
+title_zh: ""
 title_ja: "真澄クリス"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c76904"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Masumi Chris"
-  - "真澄クリス"
 source_ids:
   vndb: "c76904"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c76904.webp"
 ---
 
-# 真澄久莉寿
+# 真澄クリス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

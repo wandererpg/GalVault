@@ -5,7 +5,10 @@ display_title: "东云绫乃"
 title_zh: "东云绫乃"
 title_ja: "東雲 綾乃"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c143896"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shinonome Ayano"
   - "東雲 綾乃"

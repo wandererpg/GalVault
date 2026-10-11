@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c76272"
 type: "character"
-display_title: "加古雅"
-title_zh: "加古雅"
+display_title: "カグヤ"
+title_zh: ""
 title_ja: "カグヤ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c76272"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kaguya"
-  - "カグヤ"
   - "クレナイスザク"
 source_ids:
   vndb: "c76272"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c76272.webp"
 ---
 
-# 加古雅
+# カグヤ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

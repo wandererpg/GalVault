@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c149061"
 type: "character"
-display_title: "美L阿恩·雅雅露"
-title_zh: "美L阿恩·雅雅露"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Milan Gagaru"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149061"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Milan Gagaru"
 source_ids:
   vndb: "c149061"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c149061.webp"
 ---
 
-# 美L阿恩·雅雅露
+# Milan Gagaru
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

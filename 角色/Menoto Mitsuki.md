@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c128457"
 type: "character"
-display_title: "女乃都满月"
-title_zh: "女乃都满月"
+display_title: "女の都 満月"
+title_zh: ""
 title_ja: "女の都 満月"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c128457"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Menoto Mitsuki"
-  - "女の都 満月"
 source_ids:
   vndb: "c128457"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c128457.webp"
 ---
 
-# 女乃都满月
+# 女の都 満月
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

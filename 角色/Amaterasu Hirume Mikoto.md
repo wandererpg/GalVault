@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c18802"
 type: "character"
-display_title: "阿真特拉寿=姫神琴"
-title_zh: "阿真特拉寿=姫神琴"
+display_title: "アマテラス=姫 神琴"
+title_zh: ""
 title_ja: "アマテラス=姫 神琴"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c18802"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Amaterasu Hirume Mikoto"
-  - "アマテラス=姫 神琴"
   - "Hirume Mikoto (姫=神琴)"
   - "Mikoto"
   - "The Sixth Seat (第六席)"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c18802.webp"
 ---
 
-# 阿真特拉寿=姫神琴
+# アマテラス=姫 神琴
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

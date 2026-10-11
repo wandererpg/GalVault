@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c170952"
 type: "character"
-display_title: "乌伊莉阿梦"
-title_zh: "乌伊莉阿梦"
+display_title: "ウィリアム"
+title_zh: ""
 title_ja: "ウィリアム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c170952"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "William"
-  - "ウィリアム"
 source_ids:
   vndb: "c170952"
 source_urls:
   vndb: "https://vndb.org/c170952"
 ---
 
-# 乌伊莉阿梦
+# ウィリアム
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c41644"
 type: "character"
-display_title: "尼伊奈美千露"
-title_zh: "尼伊奈美千露"
+display_title: "ニイナ・ミチル"
+title_zh: ""
 title_ja: "ニイナ・ミチル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c41644"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Niina Michiru"
-  - "ニイナ・ミチル"
 source_ids:
   vndb: "c41644"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c41644.webp"
 ---
 
-# 尼伊奈美千露
+# ニイナ・ミチル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c33670"
 type: "character"
-display_title: "F奥蕾ST·F阿伊莉惠S"
-title_zh: "F奥蕾ST·F阿伊莉惠S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Forest Fairies"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33670"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Forest Fairies"
 source_ids:
   vndb: "c33670"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c33670.webp"
 ---
 
-# F奥蕾ST·F阿伊莉惠S
+# Forest Fairies
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

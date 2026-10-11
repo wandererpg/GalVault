@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c53022"
 type: "character"
-display_title: "恰加加堂缪乌梦"
-title_zh: "恰加加堂缪乌梦"
+display_title: "チャカ・カドミュウム"
+title_zh: ""
 title_ja: "チャカ・カドミュウム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c53022"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chaka Cadmium"
-  - "チャカ・カドミュウム"
 source_ids:
   vndb: "c53022"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c53022.webp"
 ---
 
-# 恰加加堂缪乌梦
+# チャカ・カドミュウム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

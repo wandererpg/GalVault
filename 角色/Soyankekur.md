@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c52606"
 type: "character"
-display_title: "索雅恩惠久露"
-title_zh: "索雅恩惠久露"
+display_title: "ソヤンケクル"
+title_zh: ""
 title_ja: "ソヤンケクル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c52606"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Soyankekur"
-  - "ソヤンケクル"
   - "Soyankekur the Mariner"
 source_ids:
   vndb: "c52606"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c52606.webp"
 ---
 
-# 索雅恩惠久露
+# ソヤンケクル
 
 
 ## 角色画像

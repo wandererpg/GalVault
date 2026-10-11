@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c165385"
 type: "character"
-display_title: "BL奥恩德·S伊S特R"
-title_zh: "BL奥恩德·S伊S特R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Blonde Sister"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c165385"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Blonde Sister"
 source_ids:
   vndb: "c165385"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c165385.webp"
 ---
 
-# BL奥恩德·S伊S特R
+# Blonde Sister
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

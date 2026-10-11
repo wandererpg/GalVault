@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c161679"
 type: "character"
-display_title: "吉惠惠梦兹乃伊修巴阿恩"
-title_zh: "吉惠惠梦兹乃伊修巴阿恩"
+display_title: "ジェームズ・ノイシュバーン"
+title_zh: ""
 title_ja: "ジェームズ・ノイシュバーン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161679"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "James Neuschburn"
-  - "ジェームズ・ノイシュバーン"
 source_ids:
   vndb: "c161679"
 source_urls:
   vndb: "https://vndb.org/c161679"
 ---
 
-# 吉惠惠梦兹乃伊修巴阿恩
+# ジェームズ・ノイシュバーン
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c97369"
 type: "character"
-display_title: "嘉恩"
-title_zh: "嘉恩"
+display_title: "ジャン"
+title_zh: ""
 title_ja: "ジャン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97369"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jean"
-  - "ジャン"
   - "カミーユ・クロード"
   - "Camille Claude"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c97369.webp"
 ---
 
-# 嘉恩
+# ジャン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

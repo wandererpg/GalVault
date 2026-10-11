@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c54483"
 type: "character"
-display_title: "莫乃F阿尼伊"
-title_zh: "莫乃F阿尼伊"
+display_title: "モノファニー"
+title_zh: ""
 title_ja: "モノファニー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c54483"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Monophanie"
-  - "モノファニー"
 source_ids:
   vndb: "c54483"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c54483.webp"
 ---
 
-# 莫乃F阿尼伊
+# モノファニー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126331"
 type: "character"
-display_title: "久伊伊恩F惠阿莉伊"
-title_zh: "久伊伊恩F惠阿莉伊"
+display_title: "クィーンフェアリー"
+title_zh: ""
 title_ja: "クィーンフェアリー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126331"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Queen Fairy"
-  - "クィーンフェアリー"
   - "Airy"
 source_ids:
   vndb: "c126331"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c126331.webp"
 ---
 
-# 久伊伊恩F惠阿莉伊
+# クィーンフェアリー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

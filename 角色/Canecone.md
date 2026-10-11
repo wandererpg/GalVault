@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c66043"
 type: "character"
-display_title: "加音子音"
-title_zh: "加音子音"
+display_title: "カネコネ"
+title_zh: ""
 title_ja: "カネコネ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c66043"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Canecone"
-  - "カネコネ"
 source_ids:
   vndb: "c66043"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c66043.webp"
 ---
 
-# 加音子音
+# カネコネ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

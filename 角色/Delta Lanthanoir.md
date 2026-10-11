@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c47277"
 type: "character"
-display_title: "德露太拉恩太乃伊露"
-title_zh: "德露太拉恩太乃伊露"
+display_title: "デルタ・ランタノイル"
+title_zh: ""
 title_ja: "デルタ・ランタノイル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c47277"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Delta Lanthanoir"
-  - "デルタ・ランタノイル"
   - "Delta Lantanoil"
 source_ids:
   vndb: "c47277"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c47277.webp"
 ---
 
-# 德露太拉恩太乃伊露
+# デルタ・ランタノイル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

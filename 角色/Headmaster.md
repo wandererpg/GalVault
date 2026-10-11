@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c48680"
 type: "character"
-display_title: "惠阿D真S特R"
-title_zh: "惠阿D真S特R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Headmaster"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c48680"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Headmaster"
 source_ids:
   vndb: "c48680"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c48680.webp"
 ---
 
-# 惠阿D真S特R
+# Headmaster
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

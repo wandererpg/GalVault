@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c62435"
 type: "character"
-display_title: "露诗F伊奈恰恩"
-title_zh: "露诗F伊奈恰恩"
+display_title: "ルシフィナちゃん"
+title_zh: ""
 title_ja: "ルシフィナちゃん"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c62435"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lucifina-chan"
-  - "ルシフィナちゃん"
 source_ids:
   vndb: "c62435"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c62435.webp"
 ---
 
-# 露诗F伊奈恰恩
+# ルシフィナちゃん
 
 
 ## 角色画像

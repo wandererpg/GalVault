@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43115"
 type: "character"
-display_title: "乃乃＝芙拉恩诗寿加＝F惠阿恰伊露堂"
-title_zh: "乃乃＝芙拉恩诗寿加＝F惠阿恰伊露堂"
+display_title: "ノノ＝フランシスカ＝フェアチャイルド"
+title_zh: ""
 title_ja: "ノノ＝フランシスカ＝フェアチャイルド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43115"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nono Franscisca Fairchild"
-  - "ノノ＝フランシスカ＝フェアチャイルド"
   - "Nonochan-sensei"
 source_ids:
   vndb: "c43115"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c43115.webp"
 ---
 
-# 乃乃＝芙拉恩诗寿加＝F惠阿恰伊露堂
+# ノノ＝フランシスカ＝フェアチャイルド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

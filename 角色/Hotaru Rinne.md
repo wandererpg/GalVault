@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17038"
 type: "character"
-display_title: "萤莉恩音"
-title_zh: "萤莉恩音"
+display_title: "螢 りんね"
+title_zh: ""
 title_ja: "螢 りんね"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17038"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hotaru Rinne"
-  - "螢 りんね"
   - "Flatty-sensei"
 source_ids:
   vndb: "c17038"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c17038.webp"
 ---
 
-# 萤莉恩音
+# 螢 りんね
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

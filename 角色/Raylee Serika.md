@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61604"
 type: "character"
-display_title: "蕾伊莉伊芹夏"
-title_zh: "蕾伊莉伊芹夏"
+display_title: "レィリィ・芹夏"
+title_zh: ""
 title_ja: "レィリィ・芹夏"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61604"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Raylee Serika"
-  - "レィリィ・芹夏"
 source_ids:
   vndb: "c61604"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61604.webp"
 ---
 
-# 蕾伊莉伊芹夏
+# レィリィ・芹夏
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

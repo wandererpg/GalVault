@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c76013"
 type: "character"
-display_title: "露帕恩"
-title_zh: "露帕恩"
+display_title: "ルパン"
+title_zh: ""
 title_ja: "ルパン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c76013"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lupin"
-  - "ルパン"
 source_ids:
   vndb: "c76013"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c76013.webp"
 ---
 
-# 露帕恩
+# ルパン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

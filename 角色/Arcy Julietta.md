@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c56511"
 type: "character"
-display_title: "阿阿诗伊朱莉惠T太"
-title_zh: "阿阿诗伊朱莉惠T太"
+display_title: "アーシー・ジュリエッタ"
+title_zh: ""
 title_ja: "アーシー・ジュリエッタ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56511"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Arcy Julietta"
-  - "アーシー・ジュリエッタ"
   - "Earthy Jiuletta"
   - "Arcee Giulietta"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c56511.webp"
 ---
 
-# 阿阿诗伊朱莉惠T太
+# アーシー・ジュリエッタ
 
 
 ## 角色画像

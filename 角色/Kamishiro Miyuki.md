@@ -5,7 +5,10 @@ display_title: "上城美由纪"
 title_zh: "上城美由纪"
 title_ja: "上城 美由紀"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c97424"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kamishiro Miyuki"
   - "上城 美由紀"

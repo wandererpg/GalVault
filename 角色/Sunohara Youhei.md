@@ -5,7 +5,10 @@ display_title: "春原阳平"
 title_zh: "春原阳平"
 title_ja: "春原 陽平"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c4941"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sunohara Youhei"
   - "春原 陽平"

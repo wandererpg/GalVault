@@ -5,7 +5,10 @@ display_title: "织田香"
 title_zh: "织田香"
 title_ja: "織田 香"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2855"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Oda Kou"
   - "織田 香"

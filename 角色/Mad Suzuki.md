@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c150177"
 type: "character"
-display_title: "真D堂铃木"
-title_zh: "真D堂铃木"
+display_title: "マッド鈴木"
+title_zh: ""
 title_ja: "マッド鈴木"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c150177"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mad Suzuki"
-  - "マッド鈴木"
 source_ids:
   vndb: "c150177"
 source_urls:
   vndb: "https://vndb.org/c150177"
 ---
 
-# 真D堂铃木
+# マッド鈴木
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

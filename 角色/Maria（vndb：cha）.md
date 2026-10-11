@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c131310"
 type: "character"
-display_title: "玛丽亚"
-title_zh: "玛丽亚"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Maria"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c131310"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Maria"
 source_ids:
   vndb: "c131310"
 source_urls:
   vndb: "https://vndb.org/c131310"
 ---
 
-# 玛丽亚
+# Maria
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

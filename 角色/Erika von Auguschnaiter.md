@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10389"
 type: "character"
-display_title: "惠惠莉加F奥奈乌芙修奈伊太阿"
-title_zh: "惠惠莉加F奥奈乌芙修奈伊太阿"
+display_title: "エーリカ・フォン・アウフシュナイター"
+title_zh: ""
 title_ja: "エーリカ・フォン・アウフシュナイター"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10389"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Erika von Auguschnaiter"
-  - "エーリカ・フォン・アウフシュナイター"
 source_ids:
   vndb: "c10389"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c10389.webp"
 ---
 
-# 惠惠莉加F奥奈乌芙修奈伊太阿
+# エーリカ・フォン・アウフシュナイター
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

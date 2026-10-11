@@ -5,7 +5,10 @@ display_title: "游行寺夜子"
 title_zh: "游行寺夜子"
 title_ja: "遊行寺 夜子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c23362"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yugyouji Yoruko"
   - "遊行寺 夜子"

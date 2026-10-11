@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38374"
 type: "character"
-display_title: "吉惠惠梦兹富竹"
-title_zh: "吉惠惠梦兹富竹"
+display_title: "ジェームズ・富竹"
+title_zh: ""
 title_ja: "ジェームズ・富竹"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38374"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "James Tomitake"
-  - "ジェームズ・富竹"
   - "Jirou Tomitake"
 source_ids:
   vndb: "c38374"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c38374.webp"
 ---
 
-# 吉惠惠梦兹富竹
+# ジェームズ・富竹
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

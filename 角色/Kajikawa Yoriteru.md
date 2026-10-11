@@ -5,7 +5,10 @@ display_title: "梶川赖照"
 title_zh: "梶川赖照"
 title_ja: "梶川 頼照"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c63529"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kajikawa Yoriteru"
   - "梶川 頼照"

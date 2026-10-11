@@ -5,7 +5,10 @@ display_title: "绚濑琴乃"
 title_zh: "绚濑琴乃"
 title_ja: "絢瀬 琴乃"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c84853"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ayase Kotono"
   - "絢瀬 琴乃"

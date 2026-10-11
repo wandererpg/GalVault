@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38089"
 type: "character"
-display_title: "加缪"
-title_zh: "加缪"
+display_title: "カミュ"
+title_zh: ""
 title_ja: "カミュ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38089"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Camyu"
-  - "カミュ"
   - "Kamyu"
 source_ids:
   vndb: "c38089"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c38089.webp"
 ---
 
-# 加缪
+# カミュ
 
 
 ## 角色画像

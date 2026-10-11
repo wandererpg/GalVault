@@ -5,7 +5,10 @@ display_title: "上位存在"
 title_zh: "上位存在"
 title_ja: "上位存在"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c168790"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Joui Sonzai"
   - "Core"

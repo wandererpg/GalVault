@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c7413"
 type: "character"
-display_title: "美莉惠拉寿太恩F伊伊露堂"
-title_zh: "美莉惠拉寿太恩F伊伊露堂"
+display_title: "ミリエラ・スタンフィールド"
+title_zh: ""
 title_ja: "ミリエラ・スタンフィールド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c7413"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Milliela Stanfield"
-  - "ミリエラ・スタンフィールド"
   - "Millie"
   - "ミリー"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c7413.webp"
 ---
 
-# 美莉惠拉寿太恩F伊伊露堂
+# ミリエラ・スタンフィールド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

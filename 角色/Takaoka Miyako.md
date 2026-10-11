@@ -5,7 +5,10 @@ display_title: "鹰冈圣夜子"
 title_zh: "鹰冈圣夜子"
 title_ja: "鷹岡 聖夜子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c77626"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takaoka Miyako"
   - "鷹岡 聖夜子"

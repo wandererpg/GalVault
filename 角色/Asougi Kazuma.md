@@ -5,7 +5,10 @@ display_title: "亚双义一真"
 title_zh: "亚双义一真"
 title_ja: "亜双義 一真"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c25199"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Asougi Kazuma"
   - "亜双義 一真"

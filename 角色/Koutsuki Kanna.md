@@ -5,7 +5,10 @@ display_title: "上月柑南"
 title_zh: "上月柑南"
 title_ja: "上月 柑南"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c24596"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Koutsuki Kanna"
   - "上月 柑南"

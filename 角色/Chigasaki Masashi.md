@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c59430"
 type: "character"
-display_title: "茅惠崎征士"
-title_zh: "茅惠崎征士"
+display_title: "茅ヶ崎 征士"
+title_zh: ""
 title_ja: "茅ヶ崎 征士"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c59430"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chigasaki Masashi"
-  - "茅ヶ崎 征士"
 source_ids:
   vndb: "c59430"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c59430.webp"
 ---
 
-# 茅惠崎征士
+# 茅ヶ崎 征士
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

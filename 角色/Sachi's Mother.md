@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c609"
 type: "character"
-display_title: "幸乃母"
-title_zh: "幸乃母"
+display_title: "幸の母"
+title_zh: ""
 title_ja: "幸の母"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c609"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sachi's Mother"
-  - "幸の母"
 source_ids:
   vndb: "c609"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c609.webp"
 ---
 
-# 幸乃母
+# 幸の母
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

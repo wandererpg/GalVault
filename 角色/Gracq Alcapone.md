@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c55389"
 type: "character"
-display_title: "古拉K久阿露加波音"
-title_zh: "古拉K久阿露加波音"
+display_title: "グラック・アルカポネ"
+title_zh: ""
 title_ja: "グラック・アルカポネ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c55389"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gracq Alcapone"
-  - "グラック・アルカポネ"
 source_ids:
   vndb: "c55389"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c55389.webp"
 ---
 
-# 古拉K久阿露加波音
+# グラック・アルカポネ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

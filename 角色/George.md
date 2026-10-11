@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c11287"
 type: "character"
-display_title: "乔奥吉"
-title_zh: "乔奥吉"
+display_title: "ジョージ"
+title_zh: ""
 title_ja: "ジョージ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c11287"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "George"
-  - "ジョージ"
 source_ids:
   vndb: "c11287"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c11287.webp"
 ---
 
-# 乔奥吉
+# ジョージ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

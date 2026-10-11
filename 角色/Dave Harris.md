@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c61626"
 type: "character"
-display_title: "达V惠·羽R莉S"
-title_zh: "达V惠·羽R莉S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Dave Harris"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61626"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Dave Harris"
 source_ids:
   vndb: "c61626"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c61626.webp"
 ---
 
-# 达V惠·羽R莉S
+# Dave Harris
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

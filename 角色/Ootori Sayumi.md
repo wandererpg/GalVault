@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c136804"
 type: "character"
-display_title: "鸿沙优美"
-title_zh: "鸿沙优美"
+display_title: "鴻 さゆみ"
+title_zh: ""
 title_ja: "鴻 さゆみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136804"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ootori Sayumi"
-  - "鴻 さゆみ"
   - "さゆ"
   - "Sayu"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c136804.webp"
 ---
 
-# 鸿沙优美
+# 鴻 さゆみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

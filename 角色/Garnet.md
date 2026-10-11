@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c31387"
 type: "character"
-display_title: "雅阿音T斗"
-title_zh: "雅阿音T斗"
+display_title: "ガーネット"
+title_zh: ""
 title_ja: "ガーネット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c31387"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Garnet"
-  - "ガーネット"
   - "ミサキ"
   - "Misaki"
   - "吐 実咲[ハバキ ミサキ」"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c31387.webp"
 ---
 
-# 雅阿音T斗
+# ガーネット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

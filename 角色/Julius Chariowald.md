@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c20671"
 type: "character"
-display_title: "优莉乌寿=夏莉奥V阿露斗"
-title_zh: "优莉乌寿=夏莉奥V阿露斗"
+display_title: "ユリウス=シャリオヴァルト"
+title_zh: ""
 title_ja: "ユリウス=シャリオヴァルト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c20671"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Julius Chariowald"
-  - "ユリウス=シャリオヴァルト"
   - "The Zeroth Seat (第零席)"
   - "Supreme Commander (総司令)"
   - "七星を総べる意志"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c20671.webp"
 ---
 
-# 优莉乌寿=夏莉奥V阿露斗
+# ユリウス=シャリオヴァルト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

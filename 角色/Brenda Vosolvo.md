@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c173651"
 type: "character"
-display_title: "B蕾恩达·V奥索LV奥"
-title_zh: "B蕾恩达·V奥索LV奥"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Brenda Vosolvo"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c173651"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Brenda Vosolvo"
 source_ids:
   vndb: "c173651"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c173651.webp"
 ---
 
-# B蕾恩达·V奥索LV奥
+# Brenda Vosolvo
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

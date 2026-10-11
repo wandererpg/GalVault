@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c136637"
 type: "character"
-display_title: "索恩美"
-title_zh: "索恩美"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Sonmi"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136637"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Sonmi"
 source_ids:
   vndb: "c136637"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c136637.webp"
 ---
 
-# 索恩美
+# Sonmi
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

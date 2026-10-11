@@ -5,7 +5,10 @@ display_title: "午卯茂一"
 title_zh: "午卯茂一"
 title_ja: "午卯 茂一"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c69147"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Gobou Moichi"
   - "午卯 茂一"

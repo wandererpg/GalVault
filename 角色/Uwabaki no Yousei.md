@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c136144"
 type: "character"
-display_title: "上履希乃妖精"
-title_zh: "上履希乃妖精"
+display_title: "上履きの妖精"
+title_zh: ""
 title_ja: "上履きの妖精"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136144"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Uwabaki no Yousei"
-  - "上履きの妖精"
   - "Fairy of indoor shoes"
 source_ids:
   vndb: "c136144"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c136144.webp"
 ---
 
-# 上履希乃妖精
+# 上履きの妖精
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

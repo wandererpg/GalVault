@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c136562"
 type: "character"
-display_title: "希恩Z伊"
-title_zh: "希恩Z伊"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Kinzi"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136562"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Kinzi"
 source_ids:
   vndb: "c136562"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c136562.webp"
 ---
 
-# 希恩Z伊
+# Kinzi
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

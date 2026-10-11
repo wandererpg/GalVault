@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c70435"
 type: "character"
-display_title: "佐围东太寿久"
-title_zh: "佐围东太寿久"
+display_title: "佐囲東 タスク"
+title_zh: ""
 title_ja: "佐囲東 タスク"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c70435"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Saitou Tasuku"
-  - "佐囲東 タスク"
   - "スズメ"
 source_ids:
   vndb: "c70435"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c70435.webp"
 ---
 
-# 佐围东太寿久
+# 佐囲東 タスク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

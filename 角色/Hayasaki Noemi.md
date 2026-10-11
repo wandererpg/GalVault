@@ -5,7 +5,10 @@ display_title: "早崎乃绘实"
 title_zh: "早崎乃绘实"
 title_ja: "早崎 乃絵実"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21030"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hayasaki Noemi"
   - "早崎 乃絵実"

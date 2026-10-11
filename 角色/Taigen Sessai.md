@@ -5,7 +5,10 @@ display_title: "太原雪斋"
 title_zh: "太原雪斋"
 title_ja: "太原 雪斎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c41063"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Taigen Sessai"
   - "太原 雪斎"

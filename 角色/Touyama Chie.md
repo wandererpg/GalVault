@@ -5,7 +5,10 @@ display_title: "东山千绘"
 title_zh: "东山千绘"
 title_ja: "東山 千絵"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c164209"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Touyama Chie"
   - "東山 千絵"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c85121"
 type: "character"
-display_title: "V阿洛阿"
-title_zh: "V阿洛阿"
+display_title: "ヴァロア"
+title_zh: ""
 title_ja: "ヴァロア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85121"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Valois"
-  - "ヴァロア"
 source_ids:
   vndb: "c85121"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c85121.webp"
 ---
 
-# V阿洛阿
+# ヴァロア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

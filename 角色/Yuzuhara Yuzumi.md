@@ -5,7 +5,10 @@ display_title: "柚原柚美"
 title_zh: "柚原柚美"
 title_ja: "柚原 柚美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2870"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yuzuhara Yuzumi"
   - "柚原 柚美"

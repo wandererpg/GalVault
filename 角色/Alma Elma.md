@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c5265"
 type: "character"
-display_title: "阿露真惠露真"
-title_zh: "阿露真惠露真"
+display_title: "アルマエルマ"
+title_zh: ""
 title_ja: "アルマエルマ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c5265"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alma Elma"
-  - "アルマエルマ"
   - "Arumaeruma"
   - "Succubus Queen"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c5265.webp"
 ---
 
-# 阿露真惠露真
+# アルマエルマ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

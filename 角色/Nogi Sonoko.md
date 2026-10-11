@@ -5,7 +5,10 @@ display_title: "乃木园子"
 title_zh: "乃木园子"
 title_ja: "乃木 園子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c147089"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nogi Sonoko"
   - "乃木 園子"

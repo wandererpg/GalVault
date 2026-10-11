@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c85355"
 type: "character"
-display_title: "羽阿斗V奥露特K久寿"
-title_zh: "羽阿斗V奥露特K久寿"
+display_title: "ハート・ヴォルテックス"
+title_zh: ""
 title_ja: "ハート・ヴォルテックス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85355"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hart Vortex"
-  - "ハート・ヴォルテックス"
 source_ids:
   vndb: "c85355"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c85355.webp"
 ---
 
-# 羽阿斗V奥露特K久寿
+# ハート・ヴォルテックス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

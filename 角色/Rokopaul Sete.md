@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30230"
 type: "character"
-display_title: "洛子帕乌露濑惠特"
-title_zh: "洛子帕乌露濑惠特"
+display_title: "ロコパウル・セーテ"
+title_zh: ""
 title_ja: "ロコパウル・セーテ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30230"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rokopaul Sete"
-  - "ロコパウル・セーテ"
 source_ids:
   vndb: "c30230"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30230.webp"
 ---
 
-# 洛子帕乌露濑惠特
+# ロコパウル・セーテ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

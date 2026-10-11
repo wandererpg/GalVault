@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c97458"
 type: "character"
-display_title: "濑奈斗R"
-title_zh: "濑奈斗R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Senator"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97458"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Senator"
 source_ids:
   vndb: "c97458"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c97458.webp"
 ---
 
-# 濑奈斗R
+# Senator
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

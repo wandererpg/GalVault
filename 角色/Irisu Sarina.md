@@ -5,7 +5,10 @@ display_title: "入巢沙里菜"
 title_zh: "入巢沙里菜"
 title_ja: "入巣 沙里菜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c605"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Irisu Sarina"
   - "入巣 沙里菜"

@@ -5,7 +5,10 @@ display_title: "知花凉香"
 title_zh: "知花凉香"
 title_ja: "知花 涼香"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c22453"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Chibana Ryouka"
   - "知花 涼香"

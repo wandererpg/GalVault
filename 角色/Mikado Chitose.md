@@ -5,7 +5,10 @@ display_title: "御门千岁"
 title_zh: "御门千岁"
 title_ja: "御門 千歳"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10950"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mikado Chitose"
   - "御門 千歳"

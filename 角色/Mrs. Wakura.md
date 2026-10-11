@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c155758"
 type: "character"
-display_title: "和仓沙恩"
-title_zh: "和仓沙恩"
+display_title: "和倉さん"
+title_zh: ""
 title_ja: "和倉さん"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155758"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mrs. Wakura"
-  - "和倉さん"
   - "主人公の母"
   - "Protagonist's Mother"
 source_ids:
@@ -17,7 +19,7 @@ source_urls:
   vndb: "https://vndb.org/c155758"
 ---
 
-# 和仓沙恩
+# 和倉さん
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

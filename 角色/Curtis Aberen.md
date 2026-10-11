@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c53032"
 type: "character"
-display_title: "加阿千寿阿贝蕾恩"
-title_zh: "加阿千寿阿贝蕾恩"
+display_title: "カーチス・アベレン"
+title_zh: ""
 title_ja: "カーチス・アベレン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c53032"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Curtis Aberen"
-  - "カーチス・アベレン"
   - "Queertis"
 source_ids:
   vndb: "c53032"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c53032.webp"
 ---
 
-# 加阿千寿阿贝蕾恩
+# カーチス・アベレン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c123068"
 type: "character"
-display_title: "美LL伊惠"
-title_zh: "美LL伊惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Millie"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c123068"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Millie"
 source_ids:
   vndb: "c123068"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c123068.webp"
 ---
 
-# 美LL伊惠
+# Millie
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

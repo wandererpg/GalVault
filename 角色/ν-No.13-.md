@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c25742"
 type: "character"
-display_title: "纽乌奈恩巴阿沙阿特伊伊恩"
-title_zh: "纽乌奈恩巴阿沙阿特伊伊恩"
+display_title: "ニューナンバーサーティーン"
+title_zh: ""
 title_ja: "ニューナンバーサーティーン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c25742"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "ν-No.13-"
-  - "ニューナンバーサーティーン"
   - "Nu-13"
   - "Flappy-flap"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c25742.webp"
 ---
 
-# 纽乌奈恩巴阿沙阿特伊伊恩
+# ニューナンバーサーティーン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "佐仓井真响"
 title_zh: "佐仓井真响"
 title_ja: "佐倉井 真響"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c24366"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakurai Mayura"
   - "佐倉井 真響"

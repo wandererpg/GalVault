@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c64376"
 type: "character"
-display_title: "C惠寿太阿露乌伊乃阿"
-title_zh: "C惠寿太阿露乌伊乃阿"
+display_title: "チェスター・ル・ウィノア"
+title_zh: ""
 title_ja: "チェスター・ル・ウィノア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c64376"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chester Lu Whinoah"
-  - "チェスター・ル・ウィノア"
 source_ids:
   vndb: "c64376"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c64376.webp"
 ---
 
-# C惠寿太阿露乌伊乃阿
+# チェスター・ル・ウィノア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

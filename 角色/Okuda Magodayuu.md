@@ -5,7 +5,10 @@ display_title: "奥田孙太夫"
 title_zh: "奥田孙太夫"
 title_ja: "奥田 孫太夫"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16522"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Okuda Magodayuu"
   - "奥田 孫太夫"

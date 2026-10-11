@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126923"
 type: "character"
-display_title: "真阿芽伊堂"
-title_zh: "真阿芽伊堂"
+display_title: "マーメイド"
+title_zh: ""
 title_ja: "マーメイド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126923"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mermaid"
-  - "マーメイド"
   - "Maine"
 source_ids:
   vndb: "c126923"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c126923.webp"
 ---
 
-# 真阿芽伊堂
+# マーメイド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

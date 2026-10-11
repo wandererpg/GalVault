@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c44705"
 type: "character"
-display_title: "神崎优兹羽"
-title_zh: "神崎优兹羽"
+display_title: "神崎 ゆずは"
+title_zh: ""
 title_ja: "神崎 ゆずは"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c44705"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kanzaki Yuzuha"
-  - "神崎 ゆずは"
 source_ids:
   vndb: "c44705"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c44705.webp"
 ---
 
-# 神崎优兹羽
+# 神崎 ゆずは
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

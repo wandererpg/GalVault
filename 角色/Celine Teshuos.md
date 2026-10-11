@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c27846"
 type: "character"
-display_title: "濑莉伊努特修奥寿"
-title_zh: "濑莉伊努特修奥寿"
+display_title: "セリーヌ・テシュオス"
+title_zh: ""
 title_ja: "セリーヌ・テシュオス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c27846"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Celine Teshuos"
-  - "セリーヌ・テシュオス"
 source_ids:
   vndb: "c27846"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c27846.webp"
 ---
 
-# 濑莉伊努特修奥寿
+# セリーヌ・テシュオス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

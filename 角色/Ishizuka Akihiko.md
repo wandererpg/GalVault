@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90237"
 type: "character"
-display_title: "伊诗兹加·阿希日子"
-title_zh: "伊诗兹加·阿希日子"
+display_title: "イシヅカ アキヒコ"
+title_zh: ""
 title_ja: "イシヅカ アキヒコ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90237"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ishizuka Akihiko"
-  - "イシヅカ アキヒコ"
   - "イシ"
   - "Ishi"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c90237.webp"
 ---
 
-# 伊诗兹加·阿希日子
+# イシヅカ アキヒコ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

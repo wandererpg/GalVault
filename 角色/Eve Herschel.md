@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c143338"
 type: "character"
-display_title: "惠V惠·惠RSC惠L"
-title_zh: "惠V惠·惠RSC惠L"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Eve Herschel"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c143338"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Eve Herschel"
 source_ids:
   vndb: "c143338"
 source_urls:
   vndb: "https://vndb.org/c143338"
 ---
 
-# 惠V惠·惠RSC惠L
+# Eve Herschel
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

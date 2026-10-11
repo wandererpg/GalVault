@@ -5,7 +5,10 @@ display_title: "时雨佳奈子"
 title_zh: "时雨佳奈子"
 title_ja: "時雨 佳奈子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9342"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shigure Kanako"
   - "時雨 佳奈子"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c83980"
 type: "character"
-display_title: "沙洛古拉濑寿太２７世"
-title_zh: "沙洛古拉濑寿太２７世"
+display_title: "サロ・グラセスタ２７世"
+title_zh: ""
 title_ja: "サロ・グラセスタ２７世"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c83980"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Salo Grasesta 27th"
-  - "サロ・グラセスタ２７世"
   - "King Salo Grasesta the 27th"
   - "Heika (His Majesty)"
   - "陛下"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c83980.webp"
 ---
 
-# 沙洛古拉濑寿太２７世
+# サロ・グラセスタ２７世
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c97441"
 type: "character"
-display_title: "C惠恩T乌莉奥恩"
-title_zh: "C惠恩T乌莉奥恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Centurion"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97441"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Centurion"
 source_ids:
   vndb: "c97441"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c97441.webp"
 ---
 
-# C惠恩T乌莉奥恩
+# Centurion
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

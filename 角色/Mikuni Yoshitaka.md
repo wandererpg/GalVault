@@ -5,7 +5,10 @@ display_title: "三国义贵"
 title_zh: "三国义贵"
 title_ja: "三国 義貴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c50431"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mikuni Yoshitaka"
   - "三国 義貴"

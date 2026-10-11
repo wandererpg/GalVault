@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c7414"
 type: "character"
-display_title: "惠堂和阿堂乌奥奥加阿"
-title_zh: "惠堂和阿堂乌奥奥加阿"
+display_title: "エドワード・ウォーカー"
+title_zh: ""
 title_ja: "エドワード・ウォーカー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c7414"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Edward Walker"
-  - "エドワード・ウォーカー"
   - "Eddie"
   - "エディ"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c7414.webp"
 ---
 
-# 惠堂和阿堂乌奥奥加阿
+# エドワード・ウォーカー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

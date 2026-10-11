@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26667"
 type: "character"
-display_title: "乌津津"
-title_zh: "乌津津"
+display_title: "うつつ"
+title_zh: ""
 title_ja: "うつつ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26667"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Utsutsu"
-  - "うつつ"
 source_ids:
   vndb: "c26667"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c26667.webp"
 ---
 
-# 乌津津
+# うつつ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "茅场茜子"
 title_zh: "茅场茜子"
 title_ja: "茅場 茜子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2176"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kayaba Akaneko"
   - "茅場 茜子"

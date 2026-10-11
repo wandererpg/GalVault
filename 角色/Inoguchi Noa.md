@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43292"
 type: "character"
-display_title: "猪口乃阿"
-title_zh: "猪口乃阿"
+display_title: "猪口 ノア"
+title_zh: ""
 title_ja: "猪口 ノア"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43292"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Inoguchi Noa"
-  - "猪口 ノア"
 source_ids:
   vndb: "c43292"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43292.webp"
 ---
 
-# 猪口乃阿
+# 猪口 ノア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

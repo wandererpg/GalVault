@@ -5,7 +5,10 @@ display_title: "樱木优真"
 title_zh: "樱木优真"
 title_ja: "櫻木 優真"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c100603"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakuragi Yuma"
   - "櫻木 優真"

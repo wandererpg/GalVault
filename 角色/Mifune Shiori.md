@@ -5,7 +5,10 @@ display_title: "美船汐里"
 title_zh: "美船汐里"
 title_ja: "美船　汐里"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c144096"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mifune Shiori"
   - "美船　汐里"

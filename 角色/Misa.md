@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c155743"
 type: "character"
-display_title: "美沙"
-title_zh: "美沙"
+display_title: "ミサ"
+title_zh: ""
 title_ja: "ミサ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155743"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Misa"
-  - "ミサ"
 source_ids:
   vndb: "c155743"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c155743.webp"
 ---
 
-# 美沙
+# ミサ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

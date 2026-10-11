@@ -5,7 +5,10 @@ display_title: "夏树和人"
 title_zh: "夏树和人"
 title_ja: "夏樹 和人"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c46161"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Natsuki Kazuto"
   - "夏樹 和人"

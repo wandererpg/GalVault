@@ -5,7 +5,10 @@ display_title: "神谷奏多"
 title_zh: "神谷奏多"
 title_ja: "神谷 奏多"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c86245"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kamiya Kanata"
   - "神谷 奏多"

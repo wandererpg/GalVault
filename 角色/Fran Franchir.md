@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c116756"
 type: "character"
-display_title: "芙拉恩芙拉恩诗伊露"
-title_zh: "芙拉恩芙拉恩诗伊露"
+display_title: "フラン・フランシール"
+title_zh: ""
 title_ja: "フラン・フランシール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116756"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Fran Franchir"
-  - "フラン・フランシール"
 source_ids:
   vndb: "c116756"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c116756.webp"
 ---
 
-# 芙拉恩芙拉恩诗伊露
+# フラン・フランシール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

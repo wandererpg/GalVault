@@ -5,7 +5,10 @@ display_title: "羽山水姫"
 title_zh: "羽山水姫"
 title_ja: "羽山 水姫"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c59819"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hayama Mizuki"
   - "羽山 水姫"

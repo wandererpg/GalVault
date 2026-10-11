@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c15841"
 type: "character"
-display_title: "堂美斗莉伊马庭"
-title_zh: "堂美斗莉伊马庭"
+display_title: "ドミトリー・馬庭"
+title_zh: ""
 title_ja: "ドミトリー・馬庭"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c15841"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Dimitri Maniwa"
-  - "ドミトリー・馬庭"
 source_ids:
   vndb: "c15841"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c15841.webp"
 ---
 
-# 堂美斗莉伊马庭
+# ドミトリー・馬庭
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

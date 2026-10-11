@@ -5,7 +5,10 @@ display_title: "七濑陆"
 title_zh: "七濑陆"
 title_ja: "七瀬 陸"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c162276"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nanase Riku"
   - "七瀬 陸"

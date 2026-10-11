@@ -5,7 +5,10 @@ display_title: "空疎尊"
 title_zh: "空疎尊"
 title_ja: "空疎尊"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c36347"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kuuso no Mikoto"
 source_ids:

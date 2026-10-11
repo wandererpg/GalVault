@@ -5,7 +5,10 @@ display_title: "那须花代"
 title_zh: "那须花代"
 title_ja: "那須 花代"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c86545"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nasu Kayo"
   - "那須 花代"

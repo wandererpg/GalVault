@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12990"
 type: "character"
-display_title: "尼音T斗美比阿"
-title_zh: "尼音T斗美比阿"
+display_title: "ニネット・ミビア"
+title_zh: ""
 title_ja: "ニネット・ミビア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12990"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ninette Mibia"
-  - "ニネット・ミビア"
 source_ids:
   vndb: "c12990"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c12990.webp"
 ---
 
-# 尼音T斗美比阿
+# ニネット・ミビア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c46883"
 type: "character"
-display_title: "吉田索阿拉"
-title_zh: "吉田索阿拉"
+display_title: "吉田 そあら"
+title_zh: ""
 title_ja: "吉田 そあら"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c46883"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yoshida Soara"
-  - "吉田 そあら"
 source_ids:
   vndb: "c46883"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c46883.webp"
 ---
 
-# 吉田索阿拉
+# 吉田 そあら
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

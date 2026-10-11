@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c108363"
 type: "character"
-display_title: "二宫惠美莉"
-title_zh: "二宫惠美莉"
+display_title: "二宮 えみり"
+title_zh: ""
 title_ja: "二宮 えみり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c108363"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ninomiya Emily"
-  - "二宮 えみり"
 source_ids:
   vndb: "c108363"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c108363.webp"
 ---
 
-# 二宫惠美莉
+# 二宮 えみり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c49965"
 type: "character"
-display_title: "十五岛希美加"
-title_zh: "十五岛希美加"
+display_title: "十五島 きみか"
+title_zh: ""
 title_ja: "十五島 きみか"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c49965"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Juugoshima Kimika"
-  - "十五島 きみか"
 source_ids:
   vndb: "c49965"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c49965.webp"
 ---
 
-# 十五岛希美加
+# 十五島 きみか
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

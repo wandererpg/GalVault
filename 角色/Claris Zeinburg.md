@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c74699"
 type: "character"
-display_title: "久拉莉寿津阿伊恩布露古"
-title_zh: "久拉莉寿津阿伊恩布露古"
+display_title: "クラリス・ツァインブルグ"
+title_zh: ""
 title_ja: "クラリス・ツァインブルグ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c74699"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Claris Zeinburg"
-  - "クラリス・ツァインブルグ"
   - "Rookie"
 source_ids:
   vndb: "c74699"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c74699.webp"
 ---
 
-# 久拉莉寿津阿伊恩布露古
+# クラリス・ツァインブルグ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c138147"
 type: "character"
-display_title: "L惠奥恩"
-title_zh: "L惠奥恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Leon"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138147"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Leon"
 source_ids:
   vndb: "c138147"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c138147.webp"
 ---
 
-# L惠奥恩
+# Leon
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

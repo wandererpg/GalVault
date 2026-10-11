@@ -5,7 +5,10 @@ display_title: "上层兵"
 title_zh: "上层兵"
 title_ja: "上層兵"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c116757"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Upper Tier Soldier"
   - "上層兵"

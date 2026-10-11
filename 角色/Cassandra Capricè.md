@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c74504"
 type: "character"
-display_title: "C阿S沙恩D拉·C阿P莉C"
-title_zh: "C阿S沙恩D拉·C阿P莉C"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Cassandra Capricè"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c74504"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Cassandra Capricè"
   - "Cassie"
 source_ids:
   vndb: "c74504"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c74504.webp"
 ---
 
-# C阿S沙恩D拉·C阿P莉C
+# Cassandra Capricè
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

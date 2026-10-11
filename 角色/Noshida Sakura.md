@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c118638"
 type: "character"
-display_title: "熨田樱"
-title_zh: "熨田樱"
+display_title: "熨田 さくら"
+title_zh: ""
 title_ja: "熨田 さくら"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c118638"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Noshida Sakura"
-  - "熨田 さくら"
 source_ids:
   vndb: "c118638"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c118638.webp"
 ---
 
-# 熨田樱
+# 熨田 さくら
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

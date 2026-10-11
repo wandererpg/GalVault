@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c135567"
 type: "character"
-display_title: "巴L雅伊R·布恰恩"
-title_zh: "巴L雅伊R·布恰恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Balgair Buchan"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c135567"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Balgair Buchan"
 source_ids:
   vndb: "c135567"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c135567.webp"
 ---
 
-# 巴L雅伊R·布恰恩
+# Balgair Buchan
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "佐々内藏助和奏成政"
 title_zh: "佐々内藏助和奏成政"
 title_ja: "佐々 内蔵助 和奏 成政"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20568"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sassa Kuranosuke Wakana Narimasa"
   - "佐々 内蔵助 和奏 成政"

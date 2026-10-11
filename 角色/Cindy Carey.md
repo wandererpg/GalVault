@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c157606"
 type: "character"
-display_title: "C伊恩DY·C阿蕾Y"
-title_zh: "C伊恩DY·C阿蕾Y"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Cindy Carey"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c157606"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Cindy Carey"
 source_ids:
   vndb: "c157606"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c157606.webp"
 ---
 
-# C伊恩DY·C阿蕾Y
+# Cindy Carey
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

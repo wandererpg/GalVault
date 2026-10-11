@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c32588"
 type: "character"
-display_title: "五十岚羽露"
-title_zh: "五十岚羽露"
+display_title: "五十嵐 ハル"
+title_zh: ""
 title_ja: "五十嵐 ハル"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c32588"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Igarashi Haru"
-  - "五十嵐 ハル"
 source_ids:
   vndb: "c32588"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c32588.webp"
 ---
 
-# 五十岚羽露
+# 五十嵐 ハル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

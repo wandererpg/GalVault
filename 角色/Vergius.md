@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c101326"
 type: "character"
-display_title: "V惠R吉乌S"
-title_zh: "V惠R吉乌S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Vergius"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c101326"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Vergius"
   - "Dark Dragon God"
   - "Dark God Overlord"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c101326.webp"
 ---
 
-# V惠R吉乌S
+# Vergius
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

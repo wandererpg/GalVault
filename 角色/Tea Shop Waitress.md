@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c21180"
 type: "character"
-display_title: "吃茶店乃店员"
-title_zh: "吃茶店乃店员"
+display_title: "喫茶店の店員"
+title_zh: ""
 title_ja: "喫茶店の店員"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c21180"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tea Shop Waitress"
-  - "喫茶店の店員"
 source_ids:
   vndb: "c21180"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c21180.webp"
 ---
 
-# 吃茶店乃店员
+# 喫茶店の店員
 
 
 ## 角色画像

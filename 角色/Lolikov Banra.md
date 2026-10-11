@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61274"
 type: "character"
-display_title: "洛莉子芙巴恩拉阿"
-title_zh: "洛莉子芙巴恩拉阿"
+display_title: "ロリコフ・バンラー"
+title_zh: ""
 title_ja: "ロリコフ・バンラー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61274"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lolikov Banra"
-  - "ロリコフ・バンラー"
   - "Lolikov Banla"
   - "Лоликов Банра"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c61274.webp"
 ---
 
-# 洛莉子芙巴恩拉阿
+# ロリコフ・バンラー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

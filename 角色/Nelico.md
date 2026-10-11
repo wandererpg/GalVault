@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c47281"
 type: "character"
-display_title: "音莉子"
-title_zh: "音莉子"
+display_title: "ねりこ"
+title_zh: ""
 title_ja: "ねりこ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c47281"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nelico"
-  - "ねりこ"
   - "Neriko"
 source_ids:
   vndb: "c47281"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c47281.webp"
 ---
 
-# 音莉子
+# ねりこ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

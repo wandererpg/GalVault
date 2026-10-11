@@ -5,7 +5,10 @@ display_title: "森里和马"
 title_zh: "森里和马"
 title_ja: "森里 和馬"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9506"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Morisato Kazuma"
   - "森里 和馬"

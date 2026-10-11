@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c152"
 type: "character"
-display_title: "V伊恩濑恩斗洛奥乌惠露"
-title_zh: "V伊恩濑恩斗洛奥乌惠露"
+display_title: "ヴィンセント・ローウェル"
+title_zh: ""
 title_ja: "ヴィンセント・ローウェル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c152"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Vincent Lowell"
-  - "ヴィンセント・ローウェル"
 source_ids:
   vndb: "c152"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c152.webp"
 ---
 
-# V伊恩濑恩斗洛奥乌惠露
+# ヴィンセント・ローウェル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

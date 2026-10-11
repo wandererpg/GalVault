@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c131784"
 type: "character"
-display_title: "美惠斗"
-title_zh: "美惠斗"
+display_title: "ミェト"
+title_zh: ""
 title_ja: "ミェト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c131784"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Met"
-  - "ミェト"
 source_ids:
   vndb: "c131784"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c131784.webp"
 ---
 
-# 美惠斗
+# ミェト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c153199"
 type: "character"
-display_title: "灰岛拉伊"
-title_zh: "灰岛拉伊"
+display_title: "灰島 ライ"
+title_zh: ""
 title_ja: "灰島 ライ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c153199"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hajima Rai"
-  - "灰島 ライ"
   - "Mirai (みらい)"
 source_ids:
   vndb: "c153199"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c153199.webp"
 ---
 
-# 灰岛拉伊
+# 灰島 ライ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

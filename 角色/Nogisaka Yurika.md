@@ -5,7 +5,10 @@ display_title: "乃木坂百合香"
 title_zh: "乃木坂百合香"
 title_ja: "乃木坂 百合香"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c27541"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nogisaka Yurika"
   - "乃木坂 百合香"

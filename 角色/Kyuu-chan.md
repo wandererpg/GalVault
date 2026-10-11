@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c664"
 type: "character"
-display_title: "久乌恰恩"
-title_zh: "久乌恰恩"
+display_title: "キューちゃん"
+title_zh: ""
 title_ja: "キューちゃん"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c664"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kyuu-chan"
-  - "キューちゃん"
 source_ids:
   vndb: "c664"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c664.webp"
 ---
 
-# 久乌恰恩
+# キューちゃん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

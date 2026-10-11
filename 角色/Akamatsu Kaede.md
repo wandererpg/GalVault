@@ -5,7 +5,10 @@ display_title: "赤松枫"
 title_zh: "赤松枫"
 title_ja: "赤松 楓"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c52602"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Akamatsu Kaede"
   - "赤松 楓"

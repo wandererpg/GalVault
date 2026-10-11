@@ -5,7 +5,10 @@ display_title: "久我满琉"
 title_zh: "久我满琉"
 title_ja: "久我 満琉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c22899"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Koga Michiru"
   - "久我 満琉"

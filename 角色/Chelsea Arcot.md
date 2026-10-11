@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c9018"
 type: "character"
-display_title: "C惠露诗伊阿阿子T斗"
-title_zh: "C惠露诗伊阿阿子T斗"
+display_title: "チェルシー・アーコット"
+title_zh: ""
 title_ja: "チェルシー・アーコット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c9018"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chelsea Arcot"
-  - "チェルシー・アーコット"
 source_ids:
   vndb: "c9018"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c9018.webp"
 ---
 
-# C惠露诗伊阿阿子T斗
+# チェルシー・アーコット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

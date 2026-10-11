@@ -5,7 +5,10 @@ display_title: "御樱禀"
 title_zh: "御樱禀"
 title_ja: "御桜 稟"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1433"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Misakura Rin"
   - "御桜 稟"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14280"
 type: "character"
-display_title: "姫神樱"
-title_zh: "姫神樱"
+display_title: "姫神 サクラ"
+title_zh: ""
 title_ja: "姫神 サクラ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14280"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Himegami Sakura"
-  - "姫神 サクラ"
   - "Tôn Nữ Anh Đào"
   - "เทวี ลีลานุกูล"
   - "Thewi Lilanukun"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c14280.webp"
 ---
 
-# 姫神樱
+# 姫神 サクラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

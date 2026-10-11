@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125755"
 type: "character"
-display_title: "夏堂奥娘"
-title_zh: "夏堂奥娘"
+display_title: "シャドー娘"
+title_zh: ""
 title_ja: "シャドー娘"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125755"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Moth Girl"
-  - "シャドー娘"
 source_ids:
   vndb: "c125755"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c125755.webp"
 ---
 
-# 夏堂奥娘
+# シャドー娘
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

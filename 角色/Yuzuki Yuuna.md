@@ -5,7 +5,10 @@ display_title: "柚木友奈"
 title_zh: "柚木友奈"
 title_ja: "柚木 友奈"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c147088"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yuzuki Yuuna"
   - "柚木 友奈"

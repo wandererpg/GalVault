@@ -5,7 +5,10 @@ display_title: "变质者"
 title_zh: "变质者"
 title_ja: "変質者"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c149405"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Pervert"
   - "変質者"

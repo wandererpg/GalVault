@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c157043"
 type: "character"
-display_title: "尼堂芽"
-title_zh: "尼堂芽"
+display_title: "ニドメ"
+title_zh: ""
 title_ja: "ニドメ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c157043"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nidome"
-  - "ニドメ"
   - "Spectator"
 source_ids:
   vndb: "c157043"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c157043.webp"
 ---
 
-# 尼堂芽
+# ニドメ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c781"
 type: "character"
-display_title: "佩惠太阿＝穗和伊斗"
-title_zh: "佩惠太阿＝穗和伊斗"
+display_title: "ペーター＝ホワイト"
+title_zh: ""
 title_ja: "ペーター＝ホワイト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c781"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Peter White"
-  - "ペーター＝ホワイト"
 source_ids:
   vndb: "c781"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c781.webp"
 ---
 
-# 佩惠太阿＝穗和伊斗
+# ペーター＝ホワイト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

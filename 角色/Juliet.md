@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87714"
 type: "character"
-display_title: "朱莉惠T斗"
-title_zh: "朱莉惠T斗"
+display_title: "ジュリエット"
+title_zh: ""
 title_ja: "ジュリエット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87714"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Juliet"
-  - "ジュリエット"
 source_ids:
   vndb: "c87714"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c87714.webp"
 ---
 
-# 朱莉惠T斗
+# ジュリエット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

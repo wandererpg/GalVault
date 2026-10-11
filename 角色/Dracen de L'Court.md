@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c171808"
 type: "character"
-display_title: "D拉C惠恩·德·LC奥乌RT"
-title_zh: "D拉C惠恩·德·LC奥乌RT"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Dracen de L'Court"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c171808"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Dracen de L'Court"
 source_ids:
   vndb: "c171808"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c171808.webp"
 ---
 
-# D拉C惠恩·德·LC奥乌RT
+# Dracen de L'Court
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

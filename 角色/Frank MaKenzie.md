@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c140151"
 type: "character"
-display_title: "F拉恩K·真惠恩Z伊惠"
-title_zh: "F拉恩K·真惠恩Z伊惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Frank MaKenzie"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c140151"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Frank MaKenzie"
 source_ids:
   vndb: "c140151"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c140151.webp"
 ---
 
-# F拉恩K·真惠恩Z伊惠
+# Frank MaKenzie
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

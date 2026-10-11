@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c74505"
 type: "character"
-display_title: "惠L惠阿乃R·蕾惠D"
-title_zh: "惠L惠阿乃R·蕾惠D"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Eleanor Reed"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c74505"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Eleanor Reed"
   - "Elle"
 source_ids:
   vndb: "c74505"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c74505.webp"
 ---
 
-# 惠L惠阿乃R·蕾惠D
+# Eleanor Reed
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

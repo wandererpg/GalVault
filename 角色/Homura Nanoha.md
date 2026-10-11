@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c83992"
 type: "character"
-display_title: "穗村奈乃羽"
-title_zh: "穗村奈乃羽"
+display_title: "穗村 なのは"
+title_zh: ""
 title_ja: "穗村 なのは"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c83992"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Homura Nanoha"
-  - "穗村 なのは"
 source_ids:
   vndb: "c83992"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c83992.webp"
 ---
 
-# 穗村奈乃羽
+# 穗村 なのは
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

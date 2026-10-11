@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c97732"
 type: "character"
-display_title: "阿XS伊X·美L伊洛濑"
-title_zh: "阿XS伊X·美L伊洛濑"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Axsix Milirose"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97732"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Axsix Milirose"
 source_ids:
   vndb: "c97732"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c97732.webp"
 ---
 
-# 阿XS伊X·美L伊洛濑
+# Axsix Milirose
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

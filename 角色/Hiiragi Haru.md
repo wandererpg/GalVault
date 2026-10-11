@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c66608"
 type: "character"
-display_title: "柊羽露"
-title_zh: "柊羽露"
+display_title: "柊 ハル"
+title_zh: ""
 title_ja: "柊 ハル"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c66608"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hiiragi Haru"
-  - "柊 ハル"
 source_ids:
   vndb: "c66608"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c66608.webp"
 ---
 
-# 柊羽露
+# 柊 ハル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

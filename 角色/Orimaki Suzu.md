@@ -5,7 +5,10 @@ display_title: "织卷寿々"
 title_zh: "织卷寿々"
 title_ja: "織巻 寿々"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c85482"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Orimaki Suzu"
   - "織巻 寿々"

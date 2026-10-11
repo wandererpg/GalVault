@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c59388"
 type: "character"
-display_title: "五十岚乌芽"
-title_zh: "五十岚乌芽"
+display_title: "五十嵐 ウメ"
+title_zh: ""
 title_ja: "五十嵐 ウメ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c59388"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Igarashi Ume"
-  - "五十嵐 ウメ"
 source_ids:
   vndb: "c59388"
 source_urls:
   vndb: "https://vndb.org/c59388"
 ---
 
-# 五十岚乌芽
+# 五十嵐 ウメ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

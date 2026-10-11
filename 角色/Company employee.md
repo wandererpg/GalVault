@@ -5,7 +5,10 @@ display_title: "社员"
 title_zh: "社员"
 title_ja: "社員"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c135153"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Company employee"
   - "社員"

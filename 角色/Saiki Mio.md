@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c103699"
 type: "character"
-display_title: "斋木美奥"
-title_zh: "斋木美奥"
+display_title: "斎木 みお"
+title_zh: ""
 title_ja: "斎木 みお"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103699"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Saiki Mio"
-  - "斎木 みお"
 source_ids:
   vndb: "c103699"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c103699.webp"
 ---
 
-# 斋木美奥
+# 斎木 みお
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

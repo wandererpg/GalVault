@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14672"
 type: "character"
-display_title: "L阿恩C惠"
-title_zh: "L阿恩C惠"
+display_title: "란스"
+title_zh: ""
 title_ja: "란스"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14672"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lance"
-  - "란스"
   - "ランス"
   - "Ice Prince"
   - "Blue"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c14672.webp"
 ---
 
-# L阿恩C惠
+# 란스
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

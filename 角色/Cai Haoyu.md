@@ -5,7 +5,10 @@ display_title: "蔡昊雨"
 title_zh: "蔡昊雨"
 title_ja: "蔡昊雨"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c97488"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Cai Haoyu"
 source_ids:

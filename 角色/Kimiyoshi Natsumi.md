@@ -5,7 +5,10 @@ display_title: "公由夏美"
 title_zh: "公由夏美"
 title_ja: "公由 夏美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c18743"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kimiyoshi Natsumi"
   - "公由 夏美"

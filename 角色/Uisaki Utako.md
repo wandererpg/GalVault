@@ -5,7 +5,10 @@ display_title: "初咲诗子"
 title_zh: "初咲诗子"
 title_ja: "初咲 詩子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c12088"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Uisaki Utako"
   - "初咲 詩子"

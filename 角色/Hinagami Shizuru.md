@@ -5,7 +5,10 @@ display_title: "雏神秋弦"
 title_zh: "雏神秋弦"
 title_ja: "雛神 秋弦"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c11314"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hinagami Shizuru"
   - "雛神 秋弦"

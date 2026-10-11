@@ -5,7 +5,10 @@ display_title: "刘表景升"
 title_zh: "刘表景升"
 title_ja: "劉表 景升"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c50539"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ryuuhyou Keishou"
   - "劉表 景升"

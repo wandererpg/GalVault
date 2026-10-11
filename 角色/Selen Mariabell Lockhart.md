@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c11457"
 type: "character"
-display_title: "濑蕾恩真莉阿贝露洛K久羽阿斗"
-title_zh: "濑蕾恩真莉阿贝露洛K久羽阿斗"
+display_title: "セレン・マリアベル・ロックハート"
+title_zh: ""
 title_ja: "セレン・マリアベル・ロックハート"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c11457"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Selen Mariabell Lockhart"
-  - "セレン・マリアベル・ロックハート"
 source_ids:
   vndb: "c11457"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c11457.webp"
 ---
 
-# 濑蕾恩真莉阿贝露洛K久羽阿斗
+# セレン・マリアベル・ロックハート
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

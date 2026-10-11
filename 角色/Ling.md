@@ -5,7 +5,10 @@ display_title: "凌"
 title_zh: "凌"
 title_ja: "凌"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c147317"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ling"
 source_ids:

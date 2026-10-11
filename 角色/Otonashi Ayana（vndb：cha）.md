@@ -5,7 +5,10 @@ display_title: "音无彩名"
 title_zh: "音无彩名"
 title_ja: "音無 彩名"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c92503"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Otonashi Ayana"
   - "音無 彩名"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c28040"
 type: "character"
-display_title: "女仆"
-title_zh: "女仆"
+display_title: "お手伝い"
+title_zh: ""
 title_ja: "お手伝い"
-title_zh_quality: "glossary"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c28040"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Maid"
-  - "お手伝い"
 source_ids:
   vndb: "c28040"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c28040.webp"
 ---
 
-# 女仆
+# お手伝い
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

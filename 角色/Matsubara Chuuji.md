@@ -5,7 +5,10 @@ display_title: "松原忠司"
 title_zh: "松原忠司"
 title_ja: "松原 忠司"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c63369"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Matsubara Chuuji"
   - "松原 忠司"

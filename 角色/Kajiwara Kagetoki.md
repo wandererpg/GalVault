@@ -5,7 +5,10 @@ display_title: "梶原景时"
 title_zh: "梶原景时"
 title_ja: "梶原 景時"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c122157"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kajiwara Kagetoki"
   - "梶原 景時"

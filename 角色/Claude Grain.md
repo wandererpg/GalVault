@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c137829"
 type: "character"
-display_title: "久洛奥堂古蕾伊恩"
-title_zh: "久洛奥堂古蕾伊恩"
+display_title: "クロード・グレイン"
+title_zh: ""
 title_ja: "クロード・グレイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c137829"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Claude Grain"
-  - "クロード・グレイン"
 source_ids:
   vndb: "c137829"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c137829.webp"
 ---
 
-# 久洛奥堂古蕾伊恩
+# クロード・グレイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

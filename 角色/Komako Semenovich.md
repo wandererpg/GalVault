@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c29523"
 type: "character"
-display_title: "子真子·濑芽乃比T千"
-title_zh: "子真子·濑芽乃比T千"
+display_title: "コマコ セメノビッチ"
+title_zh: ""
 title_ja: "コマコ セメノビッチ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c29523"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Komako Semenovich"
-  - "コマコ セメノビッチ"
 source_ids:
   vndb: "c29523"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c29523.webp"
 ---
 
-# 子真子·濑芽乃比T千
+# コマコ セメノビッチ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "验体003"
 title_zh: "验体003"
 title_ja: "験体003"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c127306"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kentai 003"
   - "験体003"

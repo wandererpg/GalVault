@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c136957"
 type: "character"
-display_title: "MR·奈V阿R洛"
-title_zh: "MR·奈V阿R洛"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Mr. Navarro"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136957"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Mr. Navarro"
 source_ids:
   vndb: "c136957"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c136957.webp"
 ---
 
-# MR·奈V阿R洛
+# Mr. Navarro
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c132234"
 type: "character"
-display_title: "乌努S"
-title_zh: "乌努S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Unus"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132234"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Unus"
 source_ids:
   vndb: "c132234"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c132234.webp"
 ---
 
-# 乌努S
+# Unus
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c146734"
 type: "character"
-display_title: "加露拉莉露阿阿诗阿恩"
-title_zh: "加露拉莉露阿阿诗阿恩"
+display_title: "カルラ・リル・アーシアン"
+title_zh: ""
 title_ja: "カルラ・リル・アーシアン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c146734"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Karla Lil Earthian"
-  - "カルラ・リル・アーシアン"
 source_ids:
   vndb: "c146734"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c146734.webp"
 ---
 
-# 加露拉莉露阿阿诗阿恩
+# カルラ・リル・アーシアン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

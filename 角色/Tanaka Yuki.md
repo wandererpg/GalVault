@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c40417"
 type: "character"
-display_title: "田中恰恩"
-title_zh: "田中恰恩"
+display_title: "田中ちゃん"
+title_zh: ""
 title_ja: "田中ちゃん"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c40417"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tanaka Yuki"
-  - "田中ちゃん"
   - "Tanaka-chan"
   - "Chan-tanaka"
   - "Fluki"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c40417.webp"
 ---
 
-# 田中恰恩
+# 田中ちゃん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

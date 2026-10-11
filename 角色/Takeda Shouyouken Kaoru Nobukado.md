@@ -5,7 +5,10 @@ display_title: "武田逍遥轩薰信廉"
 title_zh: "武田逍遥轩薰信廉"
 title_ja: "武田 逍遙軒 薫 信廉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20717"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takeda Shouyouken Kaoru Nobukado"
   - "武田 逍遙軒 薫 信廉"

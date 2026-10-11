@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c116943"
 type: "character"
-display_title: "久露津日拉梦阿比芙"
-title_zh: "久露津日拉梦阿比芙"
+display_title: "クルツ・ヒラム・アビフ"
+title_zh: ""
 title_ja: "クルツ・ヒラム・アビフ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116943"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kurtz Hiram Abiff"
-  - "クルツ・ヒラム・アビフ"
 source_ids:
   vndb: "c116943"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c116943.webp"
 ---
 
-# 久露津日拉梦阿比芙
+# クルツ・ヒラム・アビフ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

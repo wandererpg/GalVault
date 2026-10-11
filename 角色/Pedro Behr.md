@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c33688"
 type: "character"
-display_title: "佩D洛·贝HR"
-title_zh: "佩D洛·贝HR"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Pedro Behr"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33688"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Pedro Behr"
 source_ids:
   vndb: "c33688"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c33688.webp"
 ---
 
-# 佩D洛·贝HR
+# Pedro Behr
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

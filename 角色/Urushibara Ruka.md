@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c6497"
 type: "character"
-display_title: "漆原露加"
-title_zh: "漆原露加"
+display_title: "漆原 るか"
+title_zh: ""
 title_ja: "漆原 るか"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c6497"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Urushibara Ruka"
-  - "漆原 るか"
   - "Lukako"
   - "ルカニャン"
   - "Ruka-nyan"
@@ -21,7 +23,7 @@ source_urls:
 portrait_image: "assets/characters/c6497.webp"
 ---
 
-# 漆原露加
+# 漆原 るか
 
 
 ## 角色画像

@@ -5,7 +5,10 @@ display_title: "水森阳太"
 title_zh: "水森阳太"
 title_ja: "水森 陽太"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c63246"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mizumori Youta"
   - "水森 陽太"

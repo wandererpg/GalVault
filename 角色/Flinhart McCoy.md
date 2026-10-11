@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c127691"
 type: "character"
-display_title: "FL伊恩羽RT·MCC奥Y"
-title_zh: "FL伊恩羽RT·MCC奥Y"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Flinhart McCoy"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127691"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Flinhart McCoy"
 source_ids:
   vndb: "c127691"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c127691.webp"
 ---
 
-# FL伊恩羽RT·MCC奥Y
+# Flinhart McCoy
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

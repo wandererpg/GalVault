@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c28996"
 type: "character"
-display_title: "莉扎布蕾恩奈阿"
-title_zh: "莉扎布蕾恩奈阿"
+display_title: "リザ・ブレンナー"
+title_zh: ""
 title_ja: "リザ・ブレンナー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c28996"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lisa Brenner"
-  - "リザ・ブレンナー"
   - "Babylon Magdalene"
   - "Riza Brenner"
   - "大淫婦"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c28996.webp"
 ---
 
-# 莉扎布蕾恩奈阿
+# リザ・ブレンナー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

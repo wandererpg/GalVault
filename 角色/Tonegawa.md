@@ -5,7 +5,10 @@ display_title: "利根川"
 title_zh: "利根川"
 title_ja: "利根川"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c150456"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tonegawa"
   - "Pro Ranker"

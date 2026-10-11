@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c145222"
 type: "character"
-display_title: "青伊服乃女"
-title_zh: "青伊服乃女"
+display_title: "青い服の女"
+title_zh: ""
 title_ja: "青い服の女"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c145222"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ms. Blue-Clad"
-  - "青い服の女"
 source_ids:
   vndb: "c145222"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c145222.webp"
 ---
 
-# 青伊服乃女
+# 青い服の女
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

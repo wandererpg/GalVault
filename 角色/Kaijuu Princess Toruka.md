@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38253"
 type: "character"
-display_title: "怪兽姫斗露加"
-title_zh: "怪兽姫斗露加"
+display_title: "怪獣姫 トルカ"
+title_zh: ""
 title_ja: "怪獣姫 トルカ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38253"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kaijuu Princess Toruka"
-  - "怪獣姫 トルカ"
 source_ids:
   vndb: "c38253"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c38253.webp"
 ---
 
-# 怪兽姫斗露加
+# 怪獣姫 トルカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

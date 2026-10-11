@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c109715"
 type: "character"
-display_title: "奥L伊V惠R·F奥乌R尼惠R"
-title_zh: "奥L伊V惠R·F奥乌R尼惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Oliver Fournier"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c109715"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Oliver Fournier"
   - "Captain Oliver"
 source_ids:
   vndb: "c109715"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c109715.webp"
 ---
 
-# 奥L伊V惠R·F奥乌R尼惠R
+# Oliver Fournier
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

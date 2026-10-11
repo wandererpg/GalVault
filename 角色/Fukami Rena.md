@@ -5,7 +5,10 @@ display_title: "深见玲奈"
 title_zh: "深见玲奈"
 title_ja: "深見 玲奈"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c53939"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fukami Rena"
   - "深見 玲奈"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c28308"
 type: "character"
-display_title: "奥奥加美"
-title_zh: "奥奥加美"
+display_title: "オオカミ"
+title_zh: ""
 title_ja: "オオカミ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c28308"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ookami"
-  - "オオカミ"
   - "Wolf"
   - "Woolfe"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c28308.webp"
 ---
 
-# 奥奥加美
+# オオカミ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

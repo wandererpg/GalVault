@@ -5,7 +5,10 @@ display_title: "影山贵绅"
 title_zh: "影山贵绅"
 title_ja: "影山貴紳"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c647"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kageyama Kishin"
   - "影山貴紳"

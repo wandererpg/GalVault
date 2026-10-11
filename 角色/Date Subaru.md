@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c46553"
 type: "character"
-display_title: "伊达寿巴露"
-title_zh: "伊达寿巴露"
+display_title: "伊達 スバル"
+title_zh: ""
 title_ja: "伊達 スバル"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c46553"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Date Subaru"
-  - "伊達 スバル"
 source_ids:
   vndb: "c46553"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c46553.webp"
 ---
 
-# 伊达寿巴露
+# 伊達 スバル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

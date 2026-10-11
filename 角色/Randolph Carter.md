@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c116789"
 type: "character"
-display_title: "拉恩堂露芙加阿太阿"
-title_zh: "拉恩堂露芙加阿太阿"
+display_title: "ランドルフ・カーター"
+title_zh: ""
 title_ja: "ランドルフ・カーター"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116789"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Randolph Carter"
-  - "ランドルフ・カーター"
 source_ids:
   vndb: "c116789"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c116789.webp"
 ---
 
-# 拉恩堂露芙加阿太阿
+# ランドルフ・カーター
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

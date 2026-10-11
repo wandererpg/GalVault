@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c166141"
 type: "character"
-display_title: "天堂寺梦寿比"
-title_zh: "天堂寺梦寿比"
+display_title: "天堂寺ムスビ"
+title_zh: ""
 title_ja: "天堂寺ムスビ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c166141"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tendoji Musubi"
-  - "天堂寺ムスビ"
 source_ids:
   vndb: "c166141"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c166141.webp"
 ---
 
-# 天堂寺梦寿比
+# 天堂寺ムスビ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

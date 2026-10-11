@@ -5,7 +5,10 @@ display_title: "伏岛遥"
 title_zh: "伏岛遥"
 title_ja: "伏島 遥"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c56455"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fusejima Haruka"
   - "伏島 遥"

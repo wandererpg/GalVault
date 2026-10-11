@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13609"
 type: "character"
-display_title: "惠莉奈"
-title_zh: "惠莉奈"
+display_title: "エリナ"
+title_zh: ""
 title_ja: "エリナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13609"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Erina"
-  - "エリナ"
 source_ids:
   vndb: "c13609"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c13609.webp"
 ---
 
-# 惠莉奈
+# エリナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

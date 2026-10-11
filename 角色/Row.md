@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c48272"
 type: "character"
-display_title: "洛乌"
-title_zh: "洛乌"
+display_title: "ロウ"
+title_zh: ""
 title_ja: "ロウ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c48272"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Row"
-  - "ロウ"
   - "Lowe"
 source_ids:
   vndb: "c48272"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c48272.webp"
 ---
 
-# 洛乌
+# ロウ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

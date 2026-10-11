@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c82553"
 type: "character"
-display_title: "奈伊恩"
-title_zh: "奈伊恩"
+display_title: "ナイン"
+title_zh: ""
 title_ja: "ナイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c82553"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nine"
-  - "ナイン"
   - "Partner"
   - "相棒"
 source_ids:
@@ -17,7 +19,7 @@ source_urls:
   vndb: "https://vndb.org/c82553"
 ---
 
-# 奈伊恩
+# ナイン
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

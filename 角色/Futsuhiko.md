@@ -5,7 +5,10 @@ display_title: "布都彦"
 title_zh: "布都彦"
 title_ja: "布都彦"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c27122"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Futsuhiko"
 source_ids:

@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c140502"
 type: "character"
-display_title: "真阿君乃巴阿恰恩"
-title_zh: "真阿君乃巴阿恰恩"
+display_title: "マー君のばあちゃん"
+title_zh: ""
 title_ja: "マー君のばあちゃん"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c140502"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Maa-kun no baachan"
-  - "マー君のばあちゃん"
 source_ids:
   vndb: "c140502"
 source_urls:
   vndb: "https://vndb.org/c140502"
 ---
 
-# 真阿君乃巴阿恰恩
+# マー君のばあちゃん
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

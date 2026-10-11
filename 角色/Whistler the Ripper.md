@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17321"
 type: "character"
-display_title: "乌伊寿拉阿扎莉P帕阿"
-title_zh: "乌伊寿拉阿扎莉P帕阿"
+display_title: "ウィスラー・ザ・リッパー"
+title_zh: ""
 title_ja: "ウィスラー・ザ・リッパー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17321"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Whistler the Ripper"
-  - "ウィスラー・ザ・リッパー"
 source_ids:
   vndb: "c17321"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c17321.webp"
 ---
 
-# 乌伊寿拉阿扎莉P帕阿
+# ウィスラー・ザ・リッパー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

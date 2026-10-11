@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71527"
 type: "character"
-display_title: "渡会日奈美"
-title_zh: "渡会日奈美"
+display_title: "渡会 ヒナミ"
+title_zh: ""
 title_ja: "渡会 ヒナミ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71527"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Watarai Hinami"
-  - "渡会 ヒナミ"
   - "わたちゃん"
   - "Wata-chan"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c71527.webp"
 ---
 
-# 渡会日奈美
+# 渡会 ヒナミ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

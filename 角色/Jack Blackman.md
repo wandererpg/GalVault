@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39358"
 type: "character"
-display_title: "嘉K久布拉久真恩"
-title_zh: "嘉K久布拉久真恩"
+display_title: "ジャック・ブラクマン"
+title_zh: ""
 title_ja: "ジャック・ブラクマン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39358"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jack Blackman"
-  - "ジャック・ブラクマン"
   - "Jack the Ripper"
 source_ids:
   vndb: "c39358"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c39358.webp"
 ---
 
-# 嘉K久布拉久真恩
+# ジャック・ブラクマン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

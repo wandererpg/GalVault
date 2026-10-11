@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c33313"
 type: "character"
-display_title: "本田七海"
-title_zh: "本田七海"
+display_title: "本田 ななみ"
+title_zh: ""
 title_ja: "本田 ななみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33313"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Honda Nanami"
-  - "本田 ななみ"
 source_ids:
   vndb: "c33313"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c33313.webp"
 ---
 
-# 本田七海
+# 本田 ななみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

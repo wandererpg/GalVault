@@ -5,7 +5,10 @@ display_title: "武田光璃晴信"
 title_zh: "武田光璃晴信"
 title_ja: "武田 光璃 晴信"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20715"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takeda Hikari Harunobu"
   - "武田 光璃 晴信"

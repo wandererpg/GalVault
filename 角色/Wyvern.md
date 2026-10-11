@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126397"
 type: "character"
-display_title: "和伊巴阿恩"
-title_zh: "和伊巴阿恩"
+display_title: "ワイバーン"
+title_zh: ""
 title_ja: "ワイバーン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126397"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Wyvern"
-  - "ワイバーン"
   - "Warvein"
 source_ids:
   vndb: "c126397"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c126397.webp"
 ---
 
-# 和伊巴阿恩
+# ワイバーン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

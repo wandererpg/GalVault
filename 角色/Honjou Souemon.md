@@ -5,7 +5,10 @@ display_title: "本城惣右卫门"
 title_zh: "本城惣右卫门"
 title_ja: "本城 惣右衛門"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c63508"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Honjou Souemon"
   - "本城 惣右衛門"

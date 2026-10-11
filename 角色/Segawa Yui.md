@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c168843"
 type: "character"
-display_title: "濑川优伊"
-title_zh: "濑川优伊"
+display_title: "瀬川 ゆい"
+title_zh: ""
 title_ja: "瀬川 ゆい"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c168843"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Segawa Yui"
-  - "瀬川 ゆい"
   - "目だらけの少女"
   - "Me-darake no Shoujo"
 source_ids:
@@ -17,7 +19,7 @@ source_urls:
   vndb: "https://vndb.org/c168843"
 ---
 
-# 濑川优伊
+# 瀬川 ゆい
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

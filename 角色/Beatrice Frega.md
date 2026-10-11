@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c127752"
 type: "character"
-display_title: "贝阿T莉C惠·F蕾雅"
-title_zh: "贝阿T莉C惠·F蕾雅"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Beatrice Frega"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127752"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Beatrice Frega"
 source_ids:
   vndb: "c127752"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c127752.webp"
 ---
 
-# 贝阿T莉C惠·F蕾雅
+# Beatrice Frega
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

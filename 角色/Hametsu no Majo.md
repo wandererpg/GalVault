@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c101354"
 type: "character"
-display_title: "破灭乃魔女"
-title_zh: "破灭乃魔女"
+display_title: "破滅の魔女"
+title_zh: ""
 title_ja: "破滅の魔女"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c101354"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hametsu no Majo"
-  - "破滅の魔女"
 source_ids:
   vndb: "c101354"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c101354.webp"
 ---
 
-# 破灭乃魔女
+# 破滅の魔女
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

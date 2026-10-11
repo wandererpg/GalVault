@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c170849"
 type: "character"
-display_title: "扎加拉伊"
-title_zh: "扎加拉伊"
+display_title: "ザカライ"
+title_zh: ""
 title_ja: "ザカライ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c170849"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Zakarai"
-  - "ザカライ"
 source_ids:
   vndb: "c170849"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c170849.webp"
 ---
 
-# 扎加拉伊
+# ザカライ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

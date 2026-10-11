@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c54395"
 type: "character"
-display_title: "濑伊·P·阿沙吉莉"
-title_zh: "濑伊·P·阿沙吉莉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Sei P. Asagiri"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c54395"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Sei P. Asagiri"
   - "Buff Sweetheart"
 source_ids:
   vndb: "c54395"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c54395.webp"
 ---
 
-# 濑伊·P·阿沙吉莉
+# Sei P. Asagiri
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26528"
 type: "character"
-display_title: "沙蕾梦"
-title_zh: "沙蕾梦"
+display_title: "サレム"
+title_zh: ""
 title_ja: "サレム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26528"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Salem"
-  - "サレム"
 source_ids:
   vndb: "c26528"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c26528.webp"
 ---
 
-# 沙蕾梦
+# サレム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

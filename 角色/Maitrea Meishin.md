@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c124202"
 type: "character"
-display_title: "真伊斗蕾伊阿芽伊诗阿恩"
-title_zh: "真伊斗蕾伊阿芽伊诗阿恩"
+display_title: "マイトレイア・メイシアン"
+title_zh: ""
 title_ja: "マイトレイア・メイシアン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124202"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Maitrea Meishin"
-  - "マイトレイア・メイシアン"
   - "マハ・マーガレット"
   - "Maha Margaret"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c124202.webp"
 ---
 
-# 真伊斗蕾伊阿芽伊诗阿恩
+# マイトレイア・メイシアン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

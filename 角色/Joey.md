@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c92428"
 type: "character"
-display_title: "乔惠Y"
-title_zh: "乔惠Y"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Joey"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92428"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Joey"
 source_ids:
   vndb: "c92428"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c92428.webp"
 ---
 
-# 乔惠Y
+# Joey
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

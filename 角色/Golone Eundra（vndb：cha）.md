@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61263"
 type: "character"
-display_title: "悟洛奥音乌恩堂拉"
-title_zh: "悟洛奥音乌恩堂拉"
+display_title: "ゴローン・エウンドラ"
+title_zh: ""
 title_ja: "ゴローン・エウンドラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61263"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Golone Eundra"
-  - "ゴローン・エウンドラ"
 source_ids:
   vndb: "c61263"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61263.webp"
 ---
 
-# 悟洛奥音乌恩堂拉
+# ゴローン・エウンドラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

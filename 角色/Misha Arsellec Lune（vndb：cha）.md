@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c60121"
 type: "character"
-display_title: "弥纱阿露斗濑露久龙乌恩"
-title_zh: "弥纱阿露斗濑露久龙乌恩"
+display_title: "彌紗・アルトセルク・リューン"
+title_zh: ""
 title_ja: "彌紗・アルトセルク・リューン"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c60121"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Misha Arsellec Lune"
-  - "彌紗・アルトセルク・リューン"
   - "ミシャ"
 source_ids:
   vndb: "c60121"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c60121.webp"
 ---
 
-# 弥纱阿露斗濑露久龙乌恩
+# 彌紗・アルトセルク・リューン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

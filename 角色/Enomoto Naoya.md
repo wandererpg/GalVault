@@ -5,7 +5,10 @@ display_title: "榎本尚哉"
 title_zh: "榎本尚哉"
 title_ja: "榎本　尚哉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c6659"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Enomoto Naoya"
   - "榎本　尚哉"

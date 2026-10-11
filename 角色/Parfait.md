@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c51598"
 type: "character"
-display_title: "帕RF阿伊T"
-title_zh: "帕RF阿伊T"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Parfait"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c51598"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Parfait"
   - "Fait"
 source_ids:
   vndb: "c51598"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c51598.webp"
 ---
 
-# 帕RF阿伊T
+# Parfait
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

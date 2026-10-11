@@ -5,7 +5,10 @@ display_title: "香野麻实"
 title_zh: "香野麻实"
 title_ja: "香野 麻実"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c6238"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kouno Asami"
   - "香野 麻実"

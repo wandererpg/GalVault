@@ -5,7 +5,10 @@ display_title: "美轮椿姫"
 title_zh: "美轮椿姫"
 title_ja: "美輪 椿姫"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c398"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Miwa Tsubaki"
   - "美輪 椿姫"

@@ -5,7 +5,10 @@ display_title: "姫乃门治"
 title_zh: "姫乃门治"
 title_ja: "姫乃 門治"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c36126"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Himeno Monji"
   - "姫乃 門治"

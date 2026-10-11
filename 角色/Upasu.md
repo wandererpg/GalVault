@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c2465"
 type: "character"
-display_title: "乌帕寿"
-title_zh: "乌帕寿"
+display_title: "ウパス"
+title_zh: ""
 title_ja: "ウパス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c2465"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Upasu"
-  - "ウパス"
 source_ids:
   vndb: "c2465"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c2465.webp"
 ---
 
-# 乌帕寿
+# ウパス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c73694"
 type: "character"
-display_title: "海森阿雅音"
-title_zh: "海森阿雅音"
+display_title: "海森 あやね"
+title_zh: ""
 title_ja: "海森 あやね"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c73694"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Umimori Ayane"
-  - "海森 あやね"
 source_ids:
   vndb: "c73694"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c73694.webp"
 ---
 
-# 海森阿雅音
+# 海森 あやね
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

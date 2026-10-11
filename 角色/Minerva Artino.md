@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c89257"
 type: "character"
-display_title: "美音RV阿·阿RT伊乃"
-title_zh: "美音RV阿·阿RT伊乃"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Minerva Artino"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c89257"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Minerva Artino"
 source_ids:
   vndb: "c89257"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c89257.webp"
 ---
 
-# 美音RV阿·阿RT伊乃
+# Minerva Artino
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

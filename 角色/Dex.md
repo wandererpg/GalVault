@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c173636"
 type: "character"
-display_title: "德X"
-title_zh: "德X"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Dex"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c173636"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Dex"
 source_ids:
   vndb: "c173636"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c173636.webp"
 ---
 
-# 德X
+# Dex
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c55648"
 type: "character"
-display_title: "煤惠谷小夜"
-title_zh: "煤惠谷小夜"
+display_title: "煤ヶ谷 小夜"
+title_zh: ""
 title_ja: "煤ヶ谷 小夜"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c55648"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Suzugaya Sayo"
-  - "煤ヶ谷 小夜"
 source_ids:
   vndb: "c55648"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c55648.webp"
 ---
 
-# 煤惠谷小夜
+# 煤ヶ谷 小夜
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

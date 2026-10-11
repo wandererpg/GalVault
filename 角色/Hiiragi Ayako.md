@@ -5,7 +5,10 @@ display_title: "柊木绫子"
 title_zh: "柊木绫子"
 title_ja: "柊木 綾子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16825"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hiiragi Ayako"
   - "柊木 綾子"

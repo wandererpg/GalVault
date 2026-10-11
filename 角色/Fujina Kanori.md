@@ -5,7 +5,10 @@ display_title: "布志名香乃梨"
 title_zh: "布志名香乃梨"
 title_ja: "布志名 香乃梨"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21707"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fujina Kanori"
   - "布志名 香乃梨"

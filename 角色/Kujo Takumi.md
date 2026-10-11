@@ -5,7 +5,10 @@ display_title: "九条拓海"
 title_zh: "九条拓海"
 title_ja: "九条 拓海"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c25587"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kujo Takumi"
   - "九条 拓海"

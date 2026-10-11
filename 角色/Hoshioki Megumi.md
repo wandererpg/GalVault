@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c85589"
 type: "character"
-display_title: "星置芽古美"
-title_zh: "星置芽古美"
+display_title: "星置 めぐみ"
+title_zh: ""
 title_ja: "星置 めぐみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85589"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hoshioki Megumi"
-  - "星置 めぐみ"
 source_ids:
   vndb: "c85589"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c85589.webp"
 ---
 
-# 星置芽古美
+# 星置 めぐみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

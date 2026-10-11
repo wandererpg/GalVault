@@ -5,7 +5,10 @@ display_title: "玉村先生"
 title_zh: "玉村先生"
 title_ja: "玉村先生"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c59420"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Doctor Tamamura"
 source_ids:

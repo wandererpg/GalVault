@@ -5,7 +5,10 @@ display_title: "笠鹭渡濑"
 title_zh: "笠鹭渡濑"
 title_ja: "笠鷺 渡瀬"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14494"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kasasagi Watase"
   - "笠鷺 渡瀬"

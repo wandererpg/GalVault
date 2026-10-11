@@ -5,7 +5,10 @@ display_title: "城宫枫"
 title_zh: "城宫枫"
 title_ja: "城宮 楓"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c5410"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shiromiya Kaede"
   - "城宮 楓"

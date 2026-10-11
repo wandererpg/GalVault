@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c145249"
 type: "character"
-display_title: "日真和莉"
-title_zh: "日真和莉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Himawari"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c145249"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Himawari"
   - "???"
 source_ids:
   vndb: "c145249"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c145249.webp"
 ---
 
-# 日真和莉
+# Himawari
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

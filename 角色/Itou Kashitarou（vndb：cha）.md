@@ -5,7 +5,10 @@ display_title: "伊东甲子太郎"
 title_zh: "伊东甲子太郎"
 title_ja: "伊東 甲子太郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c64588"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Itou Kashitarou"
   - "伊東 甲子太郎"

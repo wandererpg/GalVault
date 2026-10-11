@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c140193"
 type: "character"
-display_title: "尼特·达WG"
-title_zh: "尼特·达WG"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Nite Dawg"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c140193"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Nite Dawg"
   - "Rob"
 source_ids:
   vndb: "c140193"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c140193.webp"
 ---
 
-# 尼特·达WG
+# Nite Dawg
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "神北拓也"
 title_zh: "神北拓也"
 title_ja: "神北 拓也"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c147768"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kamikita Takuya"
   - "神北 拓也"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c124300"
 type: "character"
-display_title: "C伊真·V阿L惠恩T伊音"
-title_zh: "C伊真·V阿L惠恩T伊音"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Cima Valentine"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124300"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Cima Valentine"
 source_ids:
   vndb: "c124300"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c124300.webp"
 ---
 
-# C伊真·V阿L惠恩T伊音
+# Cima Valentine
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

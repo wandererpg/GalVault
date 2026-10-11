@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90050"
 type: "character"
-display_title: "修乌榉阿真津"
-title_zh: "修乌榉阿真津"
+display_title: "シュウ・欅・アマツ"
+title_zh: ""
 title_ja: "シュウ・欅・アマツ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90050"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Syu Keyaki Amatsu"
-  - "シュウ・欅・アマツ"
   - "聖座典礼秘蹟庁大司祭"
 source_ids:
   vndb: "c90050"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c90050.webp"
 ---
 
-# 修乌榉阿真津
+# シュウ・欅・アマツ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

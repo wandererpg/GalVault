@@ -5,7 +5,10 @@ display_title: "牛尾政美"
 title_zh: "牛尾政美"
 title_ja: "牛尾 政美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c140335"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ushio Masami"
   - "牛尾 政美"

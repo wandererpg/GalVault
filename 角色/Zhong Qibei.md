@@ -5,7 +5,10 @@ display_title: "钟齐北"
 title_zh: "钟齐北"
 title_ja: "钟 齐北"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c94166"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Zhong Qibei"
   - "钟 齐北"

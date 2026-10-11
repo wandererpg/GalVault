@@ -4,7 +4,10 @@ type: "character"
 display_title: "身份不明者"
 title_zh: "身份不明者"
 title_zh_quality: "glossary"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c51653"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Unknown"
 source_ids:

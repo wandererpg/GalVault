@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c18477"
 type: "character"
-display_title: "奥露斗莉恩德"
-title_zh: "奥露斗莉恩德"
+display_title: "オルトリンデ"
+title_zh: ""
 title_ja: "オルトリンデ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c18477"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ortlinde"
-  - "オルトリンデ"
 source_ids:
   vndb: "c18477"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c18477.webp"
 ---
 
-# 奥露斗莉恩德
+# オルトリンデ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

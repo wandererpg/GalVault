@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126973"
 type: "character"
-display_title: "吉惠音拉露真阿芽伊堂"
-title_zh: "吉惠音拉露真阿芽伊堂"
+display_title: "ジェネラルマーメイド"
+title_zh: ""
 title_ja: "ジェネラルマーメイド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126973"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mermaid General"
-  - "ジェネラルマーメイド"
   - "Jessie"
 source_ids:
   vndb: "c126973"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c126973.webp"
 ---
 
-# 吉惠音拉露真阿芽伊堂
+# ジェネラルマーメイド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c582"
 type: "character"
-display_title: "希阿拉F阿蕾露"
-title_zh: "希阿拉F阿蕾露"
+display_title: "キアラ・ファレル"
+title_zh: ""
 title_ja: "キアラ・ファレル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c582"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chiara Farrell"
-  - "キアラ・ファレル"
 source_ids:
   vndb: "c582"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c582.webp"
 ---
 
-# 希阿拉F阿蕾露
+# キアラ・ファレル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "天海静"
 title_zh: "天海静"
 title_ja: "天海 静"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43405"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Amami Shizu"
   - "天海 静"

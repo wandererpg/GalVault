@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127233"
 type: "character"
-display_title: "比G古"
-title_zh: "比G古"
+display_title: "ビッグ"
+title_zh: ""
 title_ja: "ビッグ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127233"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Big"
-  - "ビッグ"
 source_ids:
   vndb: "c127233"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c127233.webp"
 ---
 
-# 比G古
+# ビッグ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

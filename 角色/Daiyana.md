@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17052"
 type: "character"
-display_title: "达伊雅奈"
-title_zh: "达伊雅奈"
+display_title: "ダイヤナ"
+title_zh: ""
 title_ja: "ダイヤナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17052"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Daiyana"
-  - "ダイヤナ"
   - "Diana Aman"
   - "ディアナ・アーマーン"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c17052.webp"
 ---
 
-# 达伊雅奈
+# ダイヤナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

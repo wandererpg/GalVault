@@ -5,7 +5,10 @@ display_title: "萩野淘太"
 title_zh: "萩野淘太"
 title_ja: "萩野 淘太"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c87827"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hagino Touta"
   - "萩野 淘太"

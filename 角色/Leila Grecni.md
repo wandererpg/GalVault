@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c36800"
 type: "character"
-display_title: "蕾伊拉古蕾久尼伊"
-title_zh: "蕾伊拉古蕾久尼伊"
+display_title: "レイラ・グレクニー"
+title_zh: ""
 title_ja: "レイラ・グレクニー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c36800"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Leila Grecni"
-  - "レイラ・グレクニー"
   - "Leila Gleckney"
 source_ids:
   vndb: "c36800"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c36800.webp"
 ---
 
-# 蕾伊拉古蕾久尼伊
+# レイラ・グレクニー
 
 
 ## 角色画像

@@ -5,7 +5,10 @@ display_title: "岸森浩人"
 title_zh: "岸森浩人"
 title_ja: "岸森 浩人"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c59187"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kishimori Hiroto"
   - "岸森 浩人"

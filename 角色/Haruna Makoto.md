@@ -5,7 +5,10 @@ display_title: "春名真琴"
 title_zh: "春名真琴"
 title_ja: "春名真琴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c116689"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Haruna Makoto"
 source_ids:

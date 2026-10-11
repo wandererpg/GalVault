@@ -5,7 +5,10 @@ display_title: "干有彦"
 title_zh: "干有彦"
 title_ja: "乾 有彦"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c88"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Inui Arihiko"
   - "乾 有彦"

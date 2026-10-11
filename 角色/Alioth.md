@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c101312"
 type: "character"
-display_title: "阿莉奥特"
-title_zh: "阿莉奥特"
+display_title: "アリオテ"
+title_zh: ""
 title_ja: "アリオテ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c101312"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alioth"
-  - "アリオテ"
   - "Seer of the Stars"
 source_ids:
   vndb: "c101312"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c101312.webp"
 ---
 
-# 阿莉奥特
+# アリオテ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "井伊直政"
 title_zh: "井伊直政"
 title_ja: "井伊 直政"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c40930"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ii Naomasa"
   - "井伊 直政"

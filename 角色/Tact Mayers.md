@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c811"
 type: "character"
-display_title: "太久斗真伊雅阿兹"
-title_zh: "太久斗真伊雅阿兹"
+display_title: "タクト・マイヤーズ"
+title_zh: ""
 title_ja: "タクト・マイヤーズ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c811"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tact Mayers"
-  - "タクト・マイヤーズ"
 source_ids:
   vndb: "c811"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c811.webp"
 ---
 
-# 太久斗真伊雅阿兹
+# タクト・マイヤーズ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

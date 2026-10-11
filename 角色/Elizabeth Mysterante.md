@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c116238"
 type: "character"
-display_title: "惠莉扎贝寿美寿特拉恩特"
-title_zh: "惠莉扎贝寿美寿特拉恩特"
+display_title: "エリザベス・ミステランテ"
+title_zh: ""
 title_ja: "エリザベス・ミステランテ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116238"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Elizabeth Mysterante"
-  - "エリザベス・ミステランテ"
   - "Eliza"
   - "エリザ"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c116238.webp"
 ---
 
-# 惠莉扎贝寿美寿特拉恩特
+# エリザベス・ミステランテ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

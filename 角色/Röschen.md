@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c33722"
 type: "character"
-display_title: "RSC惠恩"
-title_zh: "RSC惠恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Röschen"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33722"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Röschen"
   - "Lil Rosie"
   - "Little Ursula"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c33722.webp"
 ---
 
-# RSC惠恩
+# Röschen
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

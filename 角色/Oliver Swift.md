@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c114223"
 type: "character"
-display_title: "奥L伊V惠R·SW伊FT"
-title_zh: "奥L伊V惠R·SW伊FT"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Oliver Swift"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c114223"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Oliver Swift"
   - "Fez Man"
   - "Olive Man"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c114223.webp"
 ---
 
-# 奥L伊V惠R·SW伊FT
+# Oliver Swift
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

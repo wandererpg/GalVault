@@ -5,7 +5,10 @@ display_title: "本多宪二"
 title_zh: "本多宪二"
 title_ja: "本多 憲二"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c18141"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Honda Kenji"
   - "本多 憲二"

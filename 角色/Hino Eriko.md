@@ -5,7 +5,10 @@ display_title: "日野英里子"
 title_zh: "日野英里子"
 title_ja: "日野 英里子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c8538"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hino Eriko"
   - "日野 英里子"

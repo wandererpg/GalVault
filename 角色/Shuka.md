@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c92526"
 type: "character"
-display_title: "修加"
-title_zh: "修加"
+display_title: "シュカ"
+title_zh: ""
 title_ja: "シュカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92526"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shuka"
-  - "シュカ"
 source_ids:
   vndb: "c92526"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c92526.webp"
 ---
 
-# 修加
+# シュカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

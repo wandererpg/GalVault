@@ -5,7 +5,10 @@ display_title: "夏神桃"
 title_zh: "夏神桃"
 title_ja: "夏神 桃"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c95192"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Natsugami Haruna"
   - "夏神 桃"

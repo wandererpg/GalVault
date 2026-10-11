@@ -5,7 +5,10 @@ display_title: "西所弥广"
 title_zh: "西所弥广"
 title_ja: "西所 弥広"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c44181"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Saisho Yahiro"
   - "西所 弥広"

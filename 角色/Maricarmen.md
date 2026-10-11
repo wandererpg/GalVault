@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c107667"
 type: "character"
-display_title: "真莉加露芽恩"
-title_zh: "真莉加露芽恩"
+display_title: "マリカルメン"
+title_zh: ""
 title_ja: "マリカルメン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c107667"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Maricarmen"
-  - "マリカルメン"
   - "Mari"
 source_ids:
   vndb: "c107667"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c107667.webp"
 ---
 
-# 真莉加露芽恩
+# マリカルメン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

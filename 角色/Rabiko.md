@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c35982"
 type: "character"
-display_title: "拉比子"
-title_zh: "拉比子"
+display_title: "ラビ子"
+title_zh: ""
 title_ja: "ラビ子"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c35982"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rabiko"
-  - "ラビ子"
 source_ids:
   vndb: "c35982"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c35982.webp"
 ---
 
-# 拉比子
+# ラビ子
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

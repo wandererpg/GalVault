@@ -5,7 +5,10 @@ display_title: "九头龙坂僚树"
 title_zh: "九头龙坂僚树"
 title_ja: "九頭竜坂 僚樹"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10121"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kuzuryuuzaka Ryouki"
   - "九頭竜坂 僚樹"

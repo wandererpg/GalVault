@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c96922"
 type: "character"
-display_title: "芽露F惠伊寿普洛梦奈阿堂"
-title_zh: "芽露F惠伊寿普洛梦奈阿堂"
+display_title: "メルフェイス・プロムナード"
+title_zh: ""
 title_ja: "メルフェイス・プロムナード"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c96922"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Melfeis Promenade"
-  - "メルフェイス・プロムナード"
 source_ids:
   vndb: "c96922"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c96922.webp"
 ---
 
-# 芽露F惠伊寿普洛梦奈阿堂
+# メルフェイス・プロムナード
 
 
 ## 角色画像

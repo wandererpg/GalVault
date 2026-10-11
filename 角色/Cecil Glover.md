@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c165837"
 type: "character"
-display_title: "濑诗露古洛奥V阿―"
-title_zh: "濑诗露古洛奥V阿―"
+display_title: "セシル・グローヴァ―"
+title_zh: ""
 title_ja: "セシル・グローヴァ―"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c165837"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cecil Glover"
-  - "セシル・グローヴァ―"
 source_ids:
   vndb: "c165837"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c165837.webp"
 ---
 
-# 濑诗露古洛奥V阿―
+# セシル・グローヴァ―
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

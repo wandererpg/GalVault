@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c80883"
 type: "character"
-display_title: "安娜·G拉惠M"
-title_zh: "安娜·G拉惠M"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Anna Graem"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c80883"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Anna Graem"
 source_ids:
   vndb: "c80883"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c80883.webp"
 ---
 
-# 安娜·G拉惠M
+# Anna Graem
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98443"
 type: "character"
-display_title: "新垣真优莉"
-title_zh: "新垣真优莉"
+display_title: "新垣 まゆり"
+title_zh: ""
 title_ja: "新垣 まゆり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98443"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Niigaki Mayuri"
-  - "新垣 まゆり"
   - "Ni'igaki"
   - "Ni-gaki"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c98443.webp"
 ---
 
-# 新垣真优莉
+# 新垣 まゆり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

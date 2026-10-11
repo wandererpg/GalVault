@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c47278"
 type: "character"
-display_title: "音伊阿芙拉寿久"
-title_zh: "音伊阿芙拉寿久"
+display_title: "ネィアフラスク"
+title_zh: ""
 title_ja: "ネィアフラスク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c47278"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nayaflask"
-  - "ネィアフラスク"
   - "Nay the Gale"
   - "Nay-chan"
   - "Naya"
@@ -21,7 +23,7 @@ source_urls:
 portrait_image: "assets/characters/c47278.webp"
 ---
 
-# 音伊阿芙拉寿久
+# ネィアフラスク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

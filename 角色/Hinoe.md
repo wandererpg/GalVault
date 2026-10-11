@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26949"
 type: "character"
-display_title: "日乃惠"
-title_zh: "日乃惠"
+display_title: "ヒノエ"
+title_zh: ""
 title_ja: "ヒノエ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26949"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hinoe"
-  - "ヒノエ"
 source_ids:
   vndb: "c26949"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c26949.webp"
 ---
 
-# 日乃惠
+# ヒノエ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

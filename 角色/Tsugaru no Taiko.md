@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c124699"
 type: "character"
-display_title: "津轻乃太鼓"
-title_zh: "津轻乃太鼓"
+display_title: "津軽の太鼓"
+title_zh: ""
 title_ja: "津軽の太鼓"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124699"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tsugaru no Taiko"
-  - "津軽の太鼓"
   - "Old Man Kanzo (English)"
   - "千斎"
   - "Sensai"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c124699.webp"
 ---
 
-# 津轻乃太鼓
+# 津軽の太鼓
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c95155"
 type: "character"
-display_title: "子兹惠"
-title_zh: "子兹惠"
+display_title: "コズエ"
+title_zh: ""
 title_ja: "コズエ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c95155"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kozue"
-  - "コズエ"
 source_ids:
   vndb: "c95155"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c95155.webp"
 ---
 
-# 子兹惠
+# コズエ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

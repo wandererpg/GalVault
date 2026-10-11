@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c33680"
 type: "character"
-display_title: "惠贝R羽RT·芙CHS"
-title_zh: "惠贝R羽RT·芙CHS"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Eberhart Fuchs"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33680"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Eberhart Fuchs"
 source_ids:
   vndb: "c33680"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c33680.webp"
 ---
 
-# 惠贝R羽RT·芙CHS
+# Eberhart Fuchs
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

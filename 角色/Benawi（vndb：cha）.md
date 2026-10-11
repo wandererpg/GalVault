@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8387"
 type: "character"
-display_title: "贝奈乌伊"
-title_zh: "贝奈乌伊"
+display_title: "ベナウィ"
+title_zh: ""
 title_ja: "ベナウィ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8387"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Benawi"
-  - "ベナウィ"
 source_ids:
   vndb: "c8387"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c8387.webp"
 ---
 
-# 贝奈乌伊
+# ベナウィ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

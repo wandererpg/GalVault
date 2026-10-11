@@ -5,7 +5,10 @@ display_title: "更衣桂次"
 title_zh: "更衣桂次"
 title_ja: "更衣 桂次"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c46912"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kisaragi Keiji"
   - "更衣 桂次"

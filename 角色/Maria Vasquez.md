@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c125951"
 type: "character"
-display_title: "玛丽亚·V阿SQ乌惠Z"
-title_zh: "玛丽亚·V阿SQ乌惠Z"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Maria Vasquez"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125951"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Maria Vasquez"
 source_ids:
   vndb: "c125951"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c125951.webp"
 ---
 
-# 玛丽亚·V阿SQ乌惠Z
+# Maria Vasquez
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

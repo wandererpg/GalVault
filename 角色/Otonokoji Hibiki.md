@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c116927"
 type: "character"
-display_title: "奥斗乃子吉·日比希"
-title_zh: "奥斗乃子吉·日比希"
+display_title: "오토노코지 히비키"
+title_zh: ""
 title_ja: "오토노코지 히비키"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116927"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Otonokoji Hibiki"
-  - "오토노코지 히비키"
   - "Super High School Level Vocalist"
 source_ids:
   vndb: "c116927"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c116927.webp"
 ---
 
-# 奥斗乃子吉·日比希
+# 오토노코지 히비키
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

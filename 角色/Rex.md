@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c128679"
 type: "character"
-display_title: "蕾X"
-title_zh: "蕾X"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Rex"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c128679"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Rex"
   - "Basorexia"
 source_ids:
   vndb: "c128679"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c128679.webp"
 ---
 
-# 蕾X
+# Rex
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c165186"
 type: "character"
-display_title: "奈加羽拉·美沙"
-title_zh: "奈加羽拉·美沙"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Nakahara Misa"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c165186"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Nakahara Misa"
   - "Rokushiki Misa"
 source_ids:
   vndb: "c165186"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c165186.webp"
 ---
 
-# 奈加羽拉·美沙
+# Nakahara Misa
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

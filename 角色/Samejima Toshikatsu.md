@@ -5,7 +5,10 @@ display_title: "鲛岛利胜"
 title_zh: "鲛岛利胜"
 title_ja: "鮫島 利勝"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c83227"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Samejima Toshikatsu"
   - "鮫島 利勝"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c141406"
 type: "character"
-display_title: "贝CKY"
-title_zh: "贝CKY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Becky"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141406"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Becky"
 source_ids:
   vndb: "c141406"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c141406.webp"
 ---
 
-# 贝CKY
+# Becky
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71224"
 type: "character"
-display_title: "龙乌拉＝惠露乌伊恩"
-title_zh: "龙乌拉＝惠露乌伊恩"
+display_title: "リューラ＝エルウィン"
+title_zh: ""
 title_ja: "リューラ＝エルウィン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71224"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Leura Elwyn"
-  - "リューラ＝エルウィン"
 source_ids:
   vndb: "c71224"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71224.webp"
 ---
 
-# 龙乌拉＝惠露乌伊恩
+# リューラ＝エルウィン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98286"
 type: "character"
-display_title: "乌惠恩莉伊奈阿"
-title_zh: "乌惠恩莉伊奈阿"
+display_title: "ウェンリーナー"
+title_zh: ""
 title_ja: "ウェンリーナー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98286"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Wenlina"
-  - "ウェンリーナー"
 source_ids:
   vndb: "c98286"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98286.webp"
 ---
 
-# 乌惠恩莉伊奈阿
+# ウェンリーナー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

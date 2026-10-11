@@ -5,7 +5,10 @@ display_title: "藤原贞繁"
 title_zh: "藤原贞繁"
 title_ja: "藤原 貞繁"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c36357"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fujiwara no Sadashige"
   - "藤原 貞繁"

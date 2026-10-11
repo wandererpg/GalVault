@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c4767"
 type: "character"
-display_title: "吉伊"
-title_zh: "吉伊"
+display_title: "ギー"
+title_zh: ""
 title_ja: "ギー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c4767"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Guy"
-  - "ギー"
   - "Gii"
 source_ids:
   vndb: "c4767"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c4767.webp"
 ---
 
-# 吉伊
+# ギー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

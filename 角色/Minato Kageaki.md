@@ -5,7 +5,10 @@ display_title: "凑斗景明"
 title_zh: "凑斗景明"
 title_ja: "湊斗 景明"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c17147"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Minato Kageaki"
   - "湊斗 景明"

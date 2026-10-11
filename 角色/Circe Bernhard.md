@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c105885"
 type: "character"
-display_title: "希露惠贝露恩羽露斗"
-title_zh: "希露惠贝露恩羽露斗"
+display_title: "キルケ・ベルンハルト"
+title_zh: ""
 title_ja: "キルケ・ベルンハルト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c105885"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Circe Bernhard"
-  - "キルケ・ベルンハルト"
   - "死にぞこないのキルケ"
   - "Circe the Dotard"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c105885.webp"
 ---
 
-# 希露惠贝露恩羽露斗
+# キルケ・ベルンハルト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

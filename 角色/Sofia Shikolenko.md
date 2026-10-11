@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c99567"
 type: "character"
-display_title: "索F伊伊雅诗子蕾恩子"
-title_zh: "索F伊伊雅诗子蕾恩子"
+display_title: "ソフィーヤ・シコレンコ"
+title_zh: ""
 title_ja: "ソフィーヤ・シコレンコ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c99567"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sofia Shikolenko"
-  - "ソフィーヤ・シコレンコ"
   - "ソフりん"
   - "Sofurin"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c99567.webp"
 ---
 
-# 索F伊伊雅诗子蕾恩子
+# ソフィーヤ・シコレンコ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

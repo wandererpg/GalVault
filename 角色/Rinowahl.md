@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c25726"
 type: "character"
-display_title: "莉乃和阿露"
-title_zh: "莉乃和阿露"
+display_title: "リノワール"
+title_zh: ""
 title_ja: "リノワール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c25726"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rinowahl"
-  - "リノワール"
 source_ids:
   vndb: "c25726"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c25726.webp"
 ---
 
-# 莉乃和阿露
+# リノワール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

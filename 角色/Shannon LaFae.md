@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c98907"
 type: "character"
-display_title: "夏恩乃恩·L阿F阿惠"
-title_zh: "夏恩乃恩·L阿F阿惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Shannon LaFae"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98907"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Shannon LaFae"
 source_ids:
   vndb: "c98907"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c98907.webp"
 ---
 
-# 夏恩乃恩·L阿F阿惠
+# Shannon LaFae
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

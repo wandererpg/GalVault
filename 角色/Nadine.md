@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10444"
 type: "character"
-display_title: "奈D伊伊努"
-title_zh: "奈D伊伊努"
+display_title: "ナディーヌ"
+title_zh: ""
 title_ja: "ナディーヌ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10444"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nadine"
-  - "ナディーヌ"
 source_ids:
   vndb: "c10444"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c10444.webp"
 ---
 
-# 奈D伊伊努
+# ナディーヌ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

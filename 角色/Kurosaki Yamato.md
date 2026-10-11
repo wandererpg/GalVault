@@ -5,7 +5,10 @@ display_title: "黑崎大和"
 title_zh: "黑崎大和"
 title_ja: "黒崎 大和"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c73905"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kurosaki Yamato"
   - "黒崎 大和"

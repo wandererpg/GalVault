@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c112399"
 type: "character"
-display_title: "真美雅"
-title_zh: "真美雅"
+display_title: "マミヤ"
+title_zh: ""
 title_ja: "マミヤ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c112399"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mamiya"
-  - "マミヤ"
 source_ids:
   vndb: "c112399"
 source_urls:
   vndb: "https://vndb.org/c112399"
 ---
 
-# 真美雅
+# マミヤ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

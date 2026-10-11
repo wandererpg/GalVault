@@ -5,7 +5,10 @@ display_title: "黄盖公覆"
 title_zh: "黄盖公覆"
 title_ja: "黄蓋 公覆"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c25784"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kougai Koufuku"
   - "黄蓋 公覆"

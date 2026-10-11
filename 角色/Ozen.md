@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c52570"
 type: "character"
-display_title: "奥奥泽恩"
-title_zh: "奥奥泽恩"
+display_title: "オーゼン"
+title_zh: ""
 title_ja: "オーゼン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c52570"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ozen"
-  - "オーゼン"
   - "Ozen the Harvester"
 source_ids:
   vndb: "c52570"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c52570.webp"
 ---
 
-# 奥奥泽恩
+# オーゼン
 
 
 ## 角色画像

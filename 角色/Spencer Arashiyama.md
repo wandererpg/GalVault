@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c103762"
 type: "character"
-display_title: "寿佩恩沙阿岚山"
-title_zh: "寿佩恩沙阿岚山"
+display_title: "スペンサー 嵐山"
+title_zh: ""
 title_ja: "スペンサー 嵐山"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103762"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Spencer Arashiyama"
-  - "スペンサー 嵐山"
 source_ids:
   vndb: "c103762"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c103762.webp"
 ---
 
-# 寿佩恩沙阿岚山
+# スペンサー 嵐山
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

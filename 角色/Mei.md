@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c28752"
 type: "character"
-display_title: "芽伊"
-title_zh: "芽伊"
+display_title: "メイ"
+title_zh: ""
 title_ja: "メイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c28752"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mei"
-  - "メイ"
   - "ハリエル・ファル・ファニール・メ・クルル・イ・ヤープローニ"
   - "Hariel Fal Fanir Me Kururu y Japroni"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c28752.webp"
 ---
 
-# 芽伊
+# メイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

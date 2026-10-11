@@ -5,7 +5,10 @@ display_title: "日本人"
 title_zh: "日本人"
 title_ja: "日本人"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c152817"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "The Japanese"
 source_ids:

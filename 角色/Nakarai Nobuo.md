@@ -5,7 +5,10 @@ display_title: "半宣雄"
 title_zh: "半宣雄"
 title_ja: "半 宣雄"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c39677"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nakarai Nobuo"
   - "半 宣雄"

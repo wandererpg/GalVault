@@ -5,7 +5,10 @@ display_title: "林冲"
 title_zh: "林冲"
 title_ja: "林冲"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9949"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Lin Chong"
   - "Rin"

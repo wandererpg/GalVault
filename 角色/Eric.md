@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c172816"
 type: "character"
-display_title: "惠莉C"
-title_zh: "惠莉C"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Eric"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c172816"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Eric"
 source_ids:
   vndb: "c172816"
 source_urls:
   vndb: "https://vndb.org/c172816"
 ---
 
-# 惠莉C
+# Eric
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

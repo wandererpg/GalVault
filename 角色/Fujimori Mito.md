@@ -5,7 +5,10 @@ display_title: "藤森水都"
 title_zh: "藤森水都"
 title_ja: "藤森 水都"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c66903"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fujimori Mito"
   - "藤森 水都"

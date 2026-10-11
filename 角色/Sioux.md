@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c36805"
 type: "character"
-display_title: "寿乌"
-title_zh: "寿乌"
+display_title: "スー"
+title_zh: ""
 title_ja: "スー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c36805"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sioux"
-  - "スー"
   - "Suu"
 source_ids:
   vndb: "c36805"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c36805.webp"
 ---
 
-# 寿乌
+# スー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "日阴密子"
 title_zh: "日阴密子"
 title_ja: "日陰 密子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2416"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hikage Mitsuko"
   - "日陰 密子"

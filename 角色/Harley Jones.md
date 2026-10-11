@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c131401"
 type: "character"
-display_title: "羽RL惠Y·乔音S"
-title_zh: "羽RL惠Y·乔音S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Harley Jones"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c131401"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Harley Jones"
 source_ids:
   vndb: "c131401"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c131401.webp"
 ---
 
-# 羽RL惠Y·乔音S
+# Harley Jones
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

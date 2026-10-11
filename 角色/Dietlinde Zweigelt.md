@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c24522"
 type: "character"
-display_title: "D伊伊斗莉恩德津V阿伊格露斗"
-title_zh: "D伊伊斗莉恩德津V阿伊格露斗"
+display_title: "ディートリンデ・ツヴァイゲルト"
+title_zh: ""
 title_ja: "ディートリンデ・ツヴァイゲルト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c24522"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Dietlinde Zweigelt"
-  - "ディートリンデ・ツヴァイゲルト"
   - "Linde"
   - "リンデ"
   - "ドイツの人"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c24522.webp"
 ---
 
-# D伊伊斗莉恩德津V阿伊格露斗
+# ディートリンデ・ツヴァイゲルト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c60828"
 type: "character"
-display_title: "赤江雪"
-title_zh: "赤江雪"
+display_title: "赤江 ゆき"
+title_zh: ""
 title_ja: "赤江 ゆき"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c60828"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Akae Yuki"
-  - "赤江 ゆき"
 source_ids:
   vndb: "c60828"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c60828.webp"
 ---
 
-# 赤江雪
+# 赤江 ゆき
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

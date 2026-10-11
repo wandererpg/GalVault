@@ -5,7 +5,10 @@ display_title: "照边一寿"
 title_zh: "照边一寿"
 title_ja: "照辺 一寿"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c48130"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Terube Kazutoshi"
   - "照辺 一寿"

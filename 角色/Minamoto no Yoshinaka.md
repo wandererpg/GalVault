@@ -5,7 +5,10 @@ display_title: "源义仲"
 title_zh: "源义仲"
 title_ja: "源 義仲"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c122156"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Minamoto no Yoshinaka"
   - "源 義仲"

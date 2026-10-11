@@ -5,7 +5,10 @@ display_title: "守东清春"
 title_zh: "守东清春"
 title_ja: "守東 清春"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43854"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kamiazuma Kiyoharu"
   - "守東 清春"

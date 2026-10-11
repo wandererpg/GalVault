@@ -5,7 +5,10 @@ display_title: "夏目蓝"
 title_zh: "夏目蓝"
 title_ja: "夏目 藍"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c7921"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Natsume Ai"
   - "夏目 藍"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c107707"
 type: "character"
-display_title: "如月惠真"
-title_zh: "如月惠真"
+display_title: "如月 エマ"
+title_zh: ""
 title_ja: "如月 エマ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c107707"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kisaragi Ema"
-  - "如月 エマ"
   - "Ema"
   - "Emma"
   - "Secretary Maid"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c107707.webp"
 ---
 
-# 如月惠真
+# 如月 エマ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

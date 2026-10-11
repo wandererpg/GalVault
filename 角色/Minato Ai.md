@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39721"
 type: "character"
-display_title: "凑户阿伊"
-title_zh: "凑户阿伊"
+display_title: "湊戸 アイ"
+title_zh: ""
 title_ja: "湊戸 アイ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39721"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Minato Ai"
-  - "湊戸 アイ"
   - "紅百合"
   - "Beniyuri"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c39721.webp"
 ---
 
-# 凑户阿伊
+# 湊戸 アイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

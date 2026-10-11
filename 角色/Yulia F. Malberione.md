@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c22570"
 type: "character"
-display_title: "优梨亚・Ｆ真露贝莉奥奥音"
-title_zh: "优梨亚・Ｆ真露贝莉奥奥音"
+display_title: "優梨亜・Ｆ・マルベリオーネ"
+title_zh: ""
 title_ja: "優梨亜・Ｆ・マルベリオーネ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c22570"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yulia F. Malberione"
-  - "優梨亜・Ｆ・マルベリオーネ"
 source_ids:
   vndb: "c22570"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c22570.webp"
 ---
 
-# 优梨亚・Ｆ真露贝莉奥奥音
+# 優梨亜・Ｆ・マルベリオーネ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

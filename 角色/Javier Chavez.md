@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c91954"
 type: "character"
-display_title: "嘉V伊惠R·恰V惠Z"
-title_zh: "嘉V伊惠R·恰V惠Z"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Javier Chavez"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c91954"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Javier Chavez"
 source_ids:
   vndb: "c91954"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c91954.webp"
 ---
 
-# 嘉V伊惠R·恰V惠Z
+# Javier Chavez
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

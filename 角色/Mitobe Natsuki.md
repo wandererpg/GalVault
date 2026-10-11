@@ -5,7 +5,10 @@ display_title: "水户部奈月"
 title_zh: "水户部奈月"
 title_ja: "水戸部 奈月"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c83997"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mitobe Natsuki"
   - "水戸部 奈月"

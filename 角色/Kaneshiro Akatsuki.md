@@ -5,7 +5,10 @@ display_title: "钟城晓"
 title_zh: "钟城晓"
 title_ja: "鐘城 暁"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c91365"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kaneshiro Akatsuki"
   - "鐘城 暁"

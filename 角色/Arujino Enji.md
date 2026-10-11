@@ -5,7 +5,10 @@ display_title: "有持乃炎司"
 title_zh: "有持乃炎司"
 title_ja: "有持乃 炎司"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c116149"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Arujino Enji"
   - "有持乃 炎司"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26218"
 type: "character"
-display_title: "诗惠寿太410"
-title_zh: "诗惠寿太410"
+display_title: "シエスタ410"
+title_zh: ""
 title_ja: "シエスタ410"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26218"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chiester 410"
-  - "シエスタ410"
   - "Siesta 410"
 source_ids:
   vndb: "c26218"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c26218.webp"
 ---
 
-# 诗惠寿太410
+# シエスタ410
 
 
 ## 角色画像

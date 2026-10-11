@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c9906"
 type: "character"
-display_title: "加拉加露格伊露"
-title_zh: "加拉加露格伊露"
+display_title: "カラカル・ゲイル"
+title_zh: ""
 title_ja: "カラカル・ゲイル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c9906"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Caracal Gail"
-  - "カラカル・ゲイル"
 source_ids:
   vndb: "c9906"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c9906.webp"
 ---
 
-# 加拉加露格伊露
+# カラカル・ゲイル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

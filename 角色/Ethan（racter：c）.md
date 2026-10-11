@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c62402"
 type: "character"
-display_title: "惠T羽恩"
-title_zh: "惠T羽恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ethan"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c62402"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ethan"
 source_ids:
   vndb: "c62402"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c62402.webp"
 ---
 
-# 惠T羽恩
+# Ethan
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

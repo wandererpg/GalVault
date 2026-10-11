@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159497"
 type: "character"
-display_title: "巴R音Y·ST伊LL索恩"
-title_zh: "巴R音Y·ST伊LL索恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Barney Stillson"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159497"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Barney Stillson"
 source_ids:
   vndb: "c159497"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c159497.webp"
 ---
 
-# 巴R音Y·ST伊LL索恩
+# Barney Stillson
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

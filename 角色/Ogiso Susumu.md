@@ -5,7 +5,10 @@ display_title: "小木曾晋"
 title_zh: "小木曾晋"
 title_ja: "小木曽 晋"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c71192"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ogiso Susumu"
   - "小木曽 晋"

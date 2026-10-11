@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c96912"
 type: "character"
-display_title: "真RC奥"
-title_zh: "真RC奥"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Marco"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c96912"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Marco"
 source_ids:
   vndb: "c96912"
 source_urls:
   vndb: "https://vndb.org/c96912"
 ---
 
-# 真RC奥
+# Marco
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

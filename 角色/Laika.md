@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c59414"
 type: "character"
-display_title: "拉伊加"
-title_zh: "拉伊加"
+display_title: "ライカ"
+title_zh: ""
 title_ja: "ライカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c59414"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Laika"
-  - "ライカ"
 source_ids:
   vndb: "c59414"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c59414.webp"
 ---
 
-# 拉伊加
+# ライカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

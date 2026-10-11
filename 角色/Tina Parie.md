@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c27774"
 type: "character"
-display_title: "特伊奈帕莉惠"
-title_zh: "特伊奈帕莉惠"
+display_title: "ティナ・パリエ"
+title_zh: ""
 title_ja: "ティナ・パリエ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c27774"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tina Parie"
-  - "ティナ・パリエ"
 source_ids:
   vndb: "c27774"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c27774.webp"
 ---
 
-# 特伊奈帕莉惠
+# ティナ・パリエ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c56559"
 type: "character"
-display_title: "月光惠原美彩"
-title_zh: "月光惠原美彩"
+display_title: "月光ヶ原 美彩"
+title_zh: ""
 title_ja: "月光ヶ原 美彩"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56559"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gekkougahara Miaya"
-  - "月光ヶ原 美彩"
   - "Former Ultimate Therapist"
   - "Ultimate Therapist"
   - "元・超高校級の「セラピスト」"
@@ -22,7 +24,7 @@ source_urls:
 portrait_image: "assets/characters/c56559.webp"
 ---
 
-# 月光惠原美彩
+# 月光ヶ原 美彩
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

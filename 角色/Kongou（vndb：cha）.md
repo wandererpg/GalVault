@@ -5,7 +5,10 @@ display_title: "金刚"
 title_zh: "金刚"
 title_ja: "金剛"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c38741"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kongou"
   - "金剛"

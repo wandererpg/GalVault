@@ -5,7 +5,10 @@ display_title: "高柳宪正"
 title_zh: "高柳宪正"
 title_ja: "高柳 憲正"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c71205"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takayanagi Norimasa"
   - "高柳 憲正"

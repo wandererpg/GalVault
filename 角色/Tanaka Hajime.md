@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c133970"
 type: "character"
-display_title: "田中羽吉芽"
-title_zh: "田中羽吉芽"
+display_title: "田中 はじめ"
+title_zh: ""
 title_ja: "田中 はじめ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c133970"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tanaka Hajime"
-  - "田中 はじめ"
 source_ids:
   vndb: "c133970"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c133970.webp"
 ---
 
-# 田中羽吉芽
+# 田中 はじめ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

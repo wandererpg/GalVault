@@ -5,7 +5,10 @@ display_title: "闲仓五十铃"
 title_zh: "闲仓五十铃"
 title_ja: "閑倉 五十鈴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c83841"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shizukura Isuzu"
   - "閑倉 五十鈴"

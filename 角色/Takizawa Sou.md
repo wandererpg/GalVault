@@ -5,7 +5,10 @@ display_title: "泷泽苍"
 title_zh: "泷泽苍"
 title_ja: "瀧沢 蒼"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43940"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takizawa Sou"
   - "瀧沢 蒼"

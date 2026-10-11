@@ -5,7 +5,10 @@ display_title: "空五倍子都々之江"
 title_zh: "空五倍子都々之江"
 title_ja: "空五倍子 都々之江"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c82895"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Utsubushi Totonoe"
   - "空五倍子 都々之江"

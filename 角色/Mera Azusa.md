@@ -5,7 +5,10 @@ display_title: "布良梓"
 title_zh: "布良梓"
 title_ja: "布良 梓"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c5026"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mera Azusa"
   - "布良 梓"

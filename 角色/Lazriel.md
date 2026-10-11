@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c138971"
 type: "character"
-display_title: "拉兹莉惠露"
-title_zh: "拉兹莉惠露"
+display_title: "ラズリエル"
+title_zh: ""
 title_ja: "ラズリエル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138971"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lazriel"
-  - "ラズリエル"
   - "Lazzie, Lazu-tan"
 source_ids:
   vndb: "c138971"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c138971.webp"
 ---
 
-# 拉兹莉惠露
+# ラズリエル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

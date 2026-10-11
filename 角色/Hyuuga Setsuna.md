@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c152387"
 type: "character"
-display_title: "日向濑津奈"
-title_zh: "日向濑津奈"
+display_title: "日向　せつな"
+title_zh: ""
 title_ja: "日向　せつな"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c152387"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hyuuga Setsuna"
-  - "日向　せつな"
 source_ids:
   vndb: "c152387"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c152387.webp"
 ---
 
-# 日向濑津奈
+# 日向　せつな
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

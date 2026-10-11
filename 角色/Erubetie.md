@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c5267"
 type: "character"
-display_title: "惠露贝特伊惠"
-title_zh: "惠露贝特伊惠"
+display_title: "エルベティエ"
+title_zh: ""
 title_ja: "エルベティエ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c5267"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Erubetie"
-  - "エルベティエ"
   - "Elvetie"
   - "Slime Queen"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c5267.webp"
 ---
 
-# 惠露贝特伊惠
+# エルベティエ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

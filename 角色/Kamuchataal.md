@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c88333"
 type: "character"
-display_title: "加梦恰太阿露"
-title_zh: "加梦恰太阿露"
+display_title: "カムチャタール"
+title_zh: ""
 title_ja: "カムチャタール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c88333"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kamuchataal"
-  - "カムチャタール"
 source_ids:
   vndb: "c88333"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c88333.webp"
 ---
 
-# 加梦恰太阿露
+# カムチャタール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

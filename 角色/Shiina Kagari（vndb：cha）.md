@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c73596"
 type: "character"
-display_title: "椎名加雅莉"
-title_zh: "椎名加雅莉"
+display_title: "椎名 かがり"
+title_zh: ""
 title_ja: "椎名 かがり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c73596"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shiina Kagari"
-  - "椎名 かがり"
   - "Kana"
 source_ids:
   vndb: "c73596"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c73596.webp"
 ---
 
-# 椎名加雅莉
+# 椎名 かがり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

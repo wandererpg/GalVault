@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c92883"
 type: "character"
-display_title: "一乃前衣音"
-title_zh: "一乃前衣音"
+display_title: "一ノ前 衣音"
+title_zh: ""
 title_ja: "一ノ前 衣音"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92883"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ichinomae Ion"
-  - "一ノ前 衣音"
 source_ids:
   vndb: "c92883"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c92883.webp"
 ---
 
-# 一乃前衣音
+# 一ノ前 衣音
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

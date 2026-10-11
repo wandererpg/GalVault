@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39831"
 type: "character"
-display_title: "索洛莫奥恩"
-title_zh: "索洛莫奥恩"
+display_title: "ソロ・モーン"
+title_zh: ""
 title_ja: "ソロ・モーン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39831"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Solo Mon"
-  - "ソロ・モーン"
   - "Salo-Mon"
 source_ids:
   vndb: "c39831"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c39831.webp"
 ---
 
-# 索洛莫奥恩
+# ソロ・モーン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

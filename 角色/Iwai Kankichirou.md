@@ -5,7 +5,10 @@ display_title: "岩井官吉郎"
 title_zh: "岩井官吉郎"
 title_ja: "岩井 官吉郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c124638"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Iwai Kankichirou"
   - "岩井 官吉郎"

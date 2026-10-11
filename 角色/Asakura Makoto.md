@@ -5,7 +5,10 @@ display_title: "浅仓真"
 title_zh: "浅仓真"
 title_ja: "淺倉 真"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c136844"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Asakura Makoto"
   - "淺倉 真"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c77868"
 type: "character"
-display_title: "V惠音D伊久斗＝V＝V阿阿美莉奥恩"
-title_zh: "V惠音D伊久斗＝V＝V阿阿美莉奥恩"
+display_title: "ヴェネディクト＝V＝ヴァーミリオン"
+title_zh: ""
 title_ja: "ヴェネディクト＝V＝ヴァーミリオン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c77868"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Venedict V. Vermilion"
-  - "ヴェネディクト＝V＝ヴァーミリオン"
   - "ヴェネ"
   - "Vene"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c77868.webp"
 ---
 
-# V惠音D伊久斗＝V＝V阿阿美莉奥恩
+# ヴェネディクト＝V＝ヴァーミリオン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

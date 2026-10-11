@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98893"
 type: "character"
-display_title: "华山凉乌"
-title_zh: "华山凉乌"
+display_title: "華山 リョウ"
+title_zh: ""
 title_ja: "華山 リョウ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98893"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kazan Ryou"
-  - "華山 リョウ"
 source_ids:
   vndb: "c98893"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98893.webp"
 ---
 
-# 华山凉乌
+# 華山 リョウ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

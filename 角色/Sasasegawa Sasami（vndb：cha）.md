@@ -5,7 +5,10 @@ display_title: "笹濑川佐々美"
 title_zh: "笹濑川佐々美"
 title_ja: "笹瀬川 佐々美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1871"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sasasegawa Sasami"
   - "笹瀬川 佐々美"

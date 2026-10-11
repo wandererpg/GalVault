@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c154985"
 type: "character"
-display_title: "拉Y乃S"
-title_zh: "拉Y乃S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Raynos"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c154985"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Raynos"
 source_ids:
   vndb: "c154985"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c154985.webp"
 ---
 
-# 拉Y乃S
+# Raynos
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

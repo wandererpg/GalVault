@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10272"
 type: "character"
-display_title: "巴伊斗番长"
-title_zh: "巴伊斗番长"
+display_title: "バイト番長"
+title_zh: ""
 title_ja: "バイト番長"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10272"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Baito-Banchou"
-  - "バイト番長"
 source_ids:
   vndb: "c10272"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c10272.webp"
 ---
 
-# 巴伊斗番长
+# バイト番長
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

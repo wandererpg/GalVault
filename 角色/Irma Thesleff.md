@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c154"
 type: "character"
-display_title: "伊露真特寿蕾芙"
-title_zh: "伊露真特寿蕾芙"
+display_title: "イルマ・テスレフ"
+title_zh: ""
 title_ja: "イルマ・テスレフ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c154"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Irma Thesleff"
-  - "イルマ・テスレフ"
 source_ids:
   vndb: "c154"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c154.webp"
 ---
 
-# 伊露真特寿蕾芙
+# イルマ・テスレフ
 
 
 ## 角色画像

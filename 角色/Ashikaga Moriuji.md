@@ -5,7 +5,10 @@ display_title: "足利护氏"
 title_zh: "足利护氏"
 title_ja: "足利 護氏"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21060"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ashikaga Moriuji"
   - "足利 護氏"

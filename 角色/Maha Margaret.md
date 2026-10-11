@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98164"
 type: "character"
-display_title: "真羽真阿雅蕾T斗"
-title_zh: "真羽真阿雅蕾T斗"
+display_title: "マハ・マーガレット"
+title_zh: ""
 title_ja: "マハ・マーガレット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98164"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Maha Margaret"
-  - "マハ・マーガレット"
 source_ids:
   vndb: "c98164"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98164.webp"
 ---
 
-# 真羽真阿雅蕾T斗
+# マハ・マーガレット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

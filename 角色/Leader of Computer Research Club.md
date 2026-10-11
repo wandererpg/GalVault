@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c80809"
 type: "character"
-display_title: "子恩P优乌太研究部部长"
-title_zh: "子恩P优乌太研究部部长"
+display_title: "コンピュータ研究部部長"
+title_zh: ""
 title_ja: "コンピュータ研究部部長"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c80809"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Leader of Computer Research Club"
-  - "コンピュータ研究部部長"
 source_ids:
   vndb: "c80809"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c80809.webp"
 ---
 
-# 子恩P优乌太研究部部长
+# コンピュータ研究部部長
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

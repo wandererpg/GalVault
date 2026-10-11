@@ -5,7 +5,10 @@ display_title: "切人"
 title_zh: "切人"
 title_ja: "切人"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c171481"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kirihito"
 source_ids:

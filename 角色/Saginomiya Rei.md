@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c32585"
 type: "character"
-display_title: "鹭乃宫蕾伊"
-title_zh: "鹭乃宫蕾伊"
+display_title: "鷺ノ宮 レイ"
+title_zh: ""
 title_ja: "鷺ノ宮 レイ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c32585"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Saginomiya Rei"
-  - "鷺ノ宮 レイ"
 source_ids:
   vndb: "c32585"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c32585.webp"
 ---
 
-# 鹭乃宫蕾伊
+# 鷺ノ宮 レイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

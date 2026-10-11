@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c143"
 type: "character"
-display_title: "伊莉伊奈皮阿特伊芙"
-title_zh: "伊莉伊奈皮阿特伊芙"
+display_title: "イリーナ・ピアティフ"
+title_zh: ""
 title_ja: "イリーナ・ピアティフ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c143"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Irina Pyatkh"
-  - "イリーナ・ピアティフ"
   - "Elena Piatif"
 source_ids:
   vndb: "c143"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c143.webp"
 ---
 
-# 伊莉伊奈皮阿特伊芙
+# イリーナ・ピアティフ
 
 
 ## 角色画像

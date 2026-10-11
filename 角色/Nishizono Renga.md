@@ -5,7 +5,10 @@ display_title: "西园练牙"
 title_zh: "西园练牙"
 title_ja: "西園 練牙"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c144386"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nishizono Renga"
   - "西園 練牙"

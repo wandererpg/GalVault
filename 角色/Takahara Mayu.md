@@ -5,7 +5,10 @@ display_title: "鹰原麻友"
 title_zh: "鹰原麻友"
 title_ja: "鷹原 麻友"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c59646"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takahara Mayu"
   - "鷹原 麻友"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c149569"
 type: "character"
-display_title: "芽莉S沙乌D堂和阿堂"
-title_zh: "芽莉S沙乌D堂和阿堂"
+display_title: "メリッサ・ウッドワード"
+title_zh: ""
 title_ja: "メリッサ・ウッドワード"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149569"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Melissa Woodward"
-  - "メリッサ・ウッドワード"
 source_ids:
   vndb: "c149569"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c149569.webp"
 ---
 
-# 芽莉S沙乌D堂和阿堂
+# メリッサ・ウッドワード
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

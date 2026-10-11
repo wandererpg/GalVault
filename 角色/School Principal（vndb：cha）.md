@@ -5,7 +5,10 @@ display_title: "校长先生"
 title_zh: "校长先生"
 title_ja: "校長先生"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c59184"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "School Principal"
   - "校長先生"

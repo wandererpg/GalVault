@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14678"
 type: "character"
-display_title: "Z伊奥恩"
-title_zh: "Z伊奥恩"
+display_title: "시온"
+title_zh: ""
 title_ja: "시온"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14678"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Zion"
-  - "시온"
   - "ジオン"
 source_ids:
   vndb: "c14678"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c14678.webp"
 ---
 
-# Z伊奥恩
+# 시온
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

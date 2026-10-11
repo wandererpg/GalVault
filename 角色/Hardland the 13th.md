@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17326"
 type: "character"
-display_title: "羽阿堂拉恩堂13世"
-title_zh: "羽阿堂拉恩堂13世"
+display_title: "ハードランド13世"
+title_zh: ""
 title_ja: "ハードランド13世"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17326"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hardland the 13th"
-  - "ハードランド13世"
   - "King Hardland XIII"
 source_ids:
   vndb: "c17326"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c17326.webp"
 ---
 
-# 羽阿堂拉恩堂13世
+# ハードランド13世
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

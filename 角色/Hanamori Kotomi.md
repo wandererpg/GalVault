@@ -5,7 +5,10 @@ display_title: "花守琴实"
 title_zh: "花守琴实"
 title_ja: "花守 琴実"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c69678"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hanamori Kotomi"
   - "花守 琴実"

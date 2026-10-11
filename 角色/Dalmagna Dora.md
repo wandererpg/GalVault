@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43028"
 type: "character"
-display_title: "达露真古奈堂奥拉"
-title_zh: "达露真古奈堂奥拉"
+display_title: "ダルマグナ・ドーラ"
+title_zh: ""
 title_ja: "ダルマグナ・ドーラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43028"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Dalmagna Dora"
-  - "ダルマグナ・ドーラ"
 source_ids:
   vndb: "c43028"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43028.webp"
 ---
 
-# 达露真古奈堂奥拉
+# ダルマグナ・ドーラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

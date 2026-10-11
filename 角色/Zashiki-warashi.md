@@ -5,7 +5,10 @@ display_title: "座敷童"
 title_zh: "座敷童"
 title_ja: "座敷童"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c26217"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Zashiki-warashi"
 source_ids:

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c88493"
 type: "character"
-display_title: "桐生芽古美"
-title_zh: "桐生芽古美"
+display_title: "桐生 めぐみ"
+title_zh: ""
 title_ja: "桐生 めぐみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c88493"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kiryuu Megumi"
-  - "桐生 めぐみ"
 source_ids:
   vndb: "c88493"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c88493.webp"
 ---
 
-# 桐生芽古美
+# 桐生 めぐみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

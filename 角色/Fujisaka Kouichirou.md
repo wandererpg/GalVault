@@ -5,7 +5,10 @@ display_title: "藤阪浩一郎"
 title_zh: "藤阪浩一郎"
 title_ja: "藤阪 浩一郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c37225"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fujisaka Kouichirou"
   - "藤阪 浩一郎"

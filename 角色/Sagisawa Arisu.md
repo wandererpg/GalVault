@@ -5,7 +5,10 @@ display_title: "鹭泽有里栖"
 title_zh: "鹭泽有里栖"
 title_ja: "鷺澤 有里栖"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c77134"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sagisawa Arisu"
   - "鷺澤 有里栖"

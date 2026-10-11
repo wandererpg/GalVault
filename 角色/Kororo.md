@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87858"
 type: "character"
-display_title: "子洛洛"
-title_zh: "子洛洛"
+display_title: "コロロ"
+title_zh: ""
 title_ja: "コロロ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87858"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kororo"
-  - "コロロ"
 source_ids:
   vndb: "c87858"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c87858.webp"
 ---
 
-# 子洛洛
+# コロロ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

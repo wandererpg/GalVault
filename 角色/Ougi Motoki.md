@@ -5,7 +5,10 @@ display_title: "扇元树"
 title_zh: "扇元树"
 title_ja: "扇 元樹"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21619"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ougi Motoki"
   - "扇 元樹"

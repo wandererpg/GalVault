@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c83584"
 type: "character"
-display_title: "纪伊日代莉"
-title_zh: "纪伊日代莉"
+display_title: "紀伊 ひより"
+title_zh: ""
 title_ja: "紀伊 ひより"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c83584"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kii Hiyori"
-  - "紀伊 ひより"
 source_ids:
   vndb: "c83584"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c83584.webp"
 ---
 
-# 纪伊日代莉
+# 紀伊 ひより
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

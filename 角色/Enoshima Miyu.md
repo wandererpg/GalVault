@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39542"
 type: "character"
-display_title: "江乃岛美优"
-title_zh: "江乃岛美优"
+display_title: "江ノ島 美優"
+title_zh: ""
 title_ja: "江ノ島 美優"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39542"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Enoshima Miyu"
-  - "江ノ島 美優"
 source_ids:
   vndb: "c39542"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c39542.webp"
 ---
 
-# 江乃岛美优
+# 江ノ島 美優
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

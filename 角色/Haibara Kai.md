@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c91109"
 type: "character"
-display_title: "灰原加伊"
-title_zh: "灰原加伊"
+display_title: "灰原 カイ"
+title_zh: ""
 title_ja: "灰原 カイ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c91109"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Haibara Kai"
-  - "灰原 カイ"
 source_ids:
   vndb: "c91109"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c91109.webp"
 ---
 
-# 灰原加伊
+# 灰原 カイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

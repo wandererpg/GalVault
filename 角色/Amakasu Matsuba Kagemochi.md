@@ -5,7 +5,10 @@ display_title: "甘粕松叶景持"
 title_zh: "甘粕松叶景持"
 title_ja: "甘粕 松葉 景持"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20667"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Amakasu Matsuba Kagemochi"
   - "甘粕 松葉 景持"

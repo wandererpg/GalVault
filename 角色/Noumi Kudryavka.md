@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c1867"
 type: "character"
-display_title: "能美久堂莉娅芙加"
-title_zh: "能美久堂莉娅芙加"
+display_title: "能美 クドリャフカ"
+title_zh: ""
 title_ja: "能美 クドリャフカ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c1867"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Noumi Kudryavka"
-  - "能美 クドリャフカ"
   - "Kudryavka Anatolyevna Strugatskaya"
   - "Little Kud"
   - "クド"
@@ -28,7 +30,7 @@ source_urls:
 portrait_image: "assets/characters/c1867.webp"
 ---
 
-# 能美久堂莉娅芙加
+# 能美 クドリャフカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126442"
 type: "character"
-display_title: "贝日伊莫寿娘"
-title_zh: "贝日伊莫寿娘"
+display_title: "ベヒーモス娘"
+title_zh: ""
 title_ja: "ベヒーモス娘"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126442"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Behemoth"
-  - "ベヒーモス娘"
   - "Beheena"
 source_ids:
   vndb: "c126442"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c126442.webp"
 ---
 
-# 贝日伊莫寿娘
+# ベヒーモス娘
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

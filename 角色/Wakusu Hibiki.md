@@ -5,7 +5,10 @@ display_title: "和久须响"
 title_zh: "和久须响"
 title_ja: "和久須 響"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c128527"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Wakusu Hibiki"
   - "和久須 響"

@@ -5,7 +5,10 @@ display_title: "森须贤治"
 title_zh: "森须贤治"
 title_ja: "森須 賢治"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c42659"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Morisu Kenji"
   - "森須 賢治"

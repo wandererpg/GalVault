@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c780"
 type: "character"
-display_title: "比巴露D伊"
-title_zh: "比巴露D伊"
+display_title: "ビバルディ"
+title_zh: ""
 title_ja: "ビバルディ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c780"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Vivaldi"
-  - "ビバルディ"
   - "Queen of Hearts"
 source_ids:
   vndb: "c780"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c780.webp"
 ---
 
-# 比巴露D伊
+# ビバルディ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

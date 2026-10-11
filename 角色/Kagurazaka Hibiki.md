@@ -5,7 +5,10 @@ display_title: "神乐坂响"
 title_zh: "神乐坂响"
 title_ja: "神楽坂 響"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43164"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kagurazaka Hibiki"
   - "神楽坂 響"

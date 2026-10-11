@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c55452"
 type: "character"
-display_title: "伊奥露"
-title_zh: "伊奥露"
+display_title: "イオル"
+title_zh: ""
 title_ja: "イオル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c55452"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Iol"
-  - "イオル"
   - "イオ"
   - "Io"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c55452.webp"
 ---
 
-# 伊奥露
+# イオル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

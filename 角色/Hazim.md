@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c136560"
 type: "character"
-display_title: "羽Z伊M"
-title_zh: "羽Z伊M"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Hazim"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136560"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Hazim"
 source_ids:
   vndb: "c136560"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c136560.webp"
 ---
 
-# 羽Z伊M
+# Hazim
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

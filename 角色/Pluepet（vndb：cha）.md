@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61609"
 type: "character"
-display_title: "普露乌佩T斗"
-title_zh: "普露乌佩T斗"
+display_title: "プルーペット"
+title_zh: ""
 title_ja: "プルーペット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61609"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Pluepet"
-  - "プルーペット"
 source_ids:
   vndb: "c61609"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61609.webp"
 ---
 
-# 普露乌佩T斗
+# プルーペット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

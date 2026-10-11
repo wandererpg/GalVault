@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c15876"
 type: "character"
-display_title: "贝阿斗莉伊C惠加寿特伊莉奥奥尼"
-title_zh: "贝阿斗莉伊C惠加寿特伊莉奥奥尼"
+display_title: "ベアトリーチェ・カスティリオーニ"
+title_zh: ""
 title_ja: "ベアトリーチェ・カスティリオーニ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c15876"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Beatrice Castiglioni"
-  - "ベアトリーチェ・カスティリオーニ"
   - "Bice"
 source_ids:
   vndb: "c15876"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c15876.webp"
 ---
 
-# 贝阿斗莉伊C惠加寿特伊莉奥奥尼
+# ベアトリーチェ・カスティリオーニ
 
 
 ## 角色画像

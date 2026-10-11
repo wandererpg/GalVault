@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c57978"
 type: "character"
-display_title: "莫乃希奥寿"
-title_zh: "莫乃希奥寿"
+display_title: "モノキオス"
+title_zh: ""
 title_ja: "モノキオス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c57978"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Monokios"
-  - "モノキオス"
 source_ids:
   vndb: "c57978"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c57978.webp"
 ---
 
-# 莫乃希奥寿
+# モノキオス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

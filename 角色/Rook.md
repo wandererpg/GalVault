@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c33126"
 type: "character"
-display_title: "露乌久"
-title_zh: "露乌久"
+display_title: "ルーク"
+title_zh: ""
 title_ja: "ルーク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33126"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rook"
-  - "ルーク"
   - "Rain"
 source_ids:
   vndb: "c33126"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c33126.webp"
 ---
 
-# 露乌久
+# ルーク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c49412"
 type: "character"
-display_title: "乌惠恩D伊寿普拉阿奈"
-title_zh: "乌惠恩D伊寿普拉阿奈"
+display_title: "ウェンディス・プラーナ"
+title_zh: ""
 title_ja: "ウェンディス・プラーナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c49412"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Wendice Prana"
-  - "ウェンディス・プラーナ"
 source_ids:
   vndb: "c49412"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c49412.webp"
 ---
 
-# 乌惠恩D伊寿普拉阿奈
+# ウェンディス・プラーナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

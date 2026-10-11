@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c122016"
 type: "character"
-display_title: "J惠阿恩·德L阿芽R"
-title_zh: "J惠阿恩·德L阿芽R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jean DeLamer"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c122016"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jean DeLamer"
   - "Ultimate Ship Captain"
 source_ids:
   vndb: "c122016"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c122016.webp"
 ---
 
-# J惠阿恩·德L阿芽R
+# Jean DeLamer
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

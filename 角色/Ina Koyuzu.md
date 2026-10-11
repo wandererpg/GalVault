@@ -5,7 +5,10 @@ display_title: "伊那子柚"
 title_zh: "伊那子柚"
 title_ja: "伊那 子柚"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c45524"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ina Koyuzu"
   - "伊那 子柚"

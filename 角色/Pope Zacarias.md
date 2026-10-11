@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c108749"
 type: "character"
-display_title: "法王扎加莉阿寿"
-title_zh: "法王扎加莉阿寿"
+display_title: "法王ザカリアス"
+title_zh: ""
 title_ja: "法王ザカリアス"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c108749"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Pope Zacarias"
-  - "法王ザカリアス"
 source_ids:
   vndb: "c108749"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c108749.webp"
 ---
 
-# 法王扎加莉阿寿
+# 法王ザカリアス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

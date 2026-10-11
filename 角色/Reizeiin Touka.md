@@ -5,7 +5,10 @@ display_title: "冷泉院桐香"
 title_zh: "冷泉院桐香"
 title_ja: "冷泉院 桐香"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c71531"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Reizeiin Touka"
   - "冷泉院 桐香"

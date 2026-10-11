@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c47145"
 type: "character"
-display_title: "美加寿蕾伊斗恩"
-title_zh: "美加寿蕾伊斗恩"
+display_title: "ミカ・スレイトン"
+title_zh: ""
 title_ja: "ミカ・スレイトン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c47145"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mika Slayton"
-  - "ミカ・スレイトン"
   - "Mika Slaton"
 source_ids:
   vndb: "c47145"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c47145.webp"
 ---
 
-# 美加寿蕾伊斗恩
+# ミカ・スレイトン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

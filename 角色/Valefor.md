@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c27674"
 type: "character"
-display_title: "V阿蕾F奥露"
-title_zh: "V阿蕾F奥露"
+display_title: "ヴァレフォル"
+title_zh: ""
 title_ja: "ヴァレフォル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c27674"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Valefor"
-  - "ヴァレフォル"
 source_ids:
   vndb: "c27674"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c27674.webp"
 ---
 
-# V阿蕾F奥露
+# ヴァレフォル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

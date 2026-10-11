@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c154112"
 type: "character"
-display_title: "MY恰惠L"
-title_zh: "MY恰惠L"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Mychael"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c154112"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Mychael"
 source_ids:
   vndb: "c154112"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c154112.webp"
 ---
 
-# MY恰惠L
+# Mychael
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

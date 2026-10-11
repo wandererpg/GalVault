@@ -5,7 +5,10 @@ display_title: "栢木鸣海"
 title_zh: "栢木鸣海"
 title_ja: "栢木 鳴海"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c5464"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kashiwagi Narumi"
   - "栢木 鳴海"

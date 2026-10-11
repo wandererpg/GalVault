@@ -5,7 +5,10 @@ display_title: "福留大和"
 title_zh: "福留大和"
 title_ja: "福留 大和"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c164941"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fukutome Yamato"
   - "福留 大和"

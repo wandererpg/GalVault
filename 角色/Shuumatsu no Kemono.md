@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c99984"
 type: "character"
-display_title: "终末乃兽"
-title_zh: "终末乃兽"
+display_title: "終末の獣"
+title_zh: ""
 title_ja: "終末の獣"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c99984"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shuumatsu no Kemono"
-  - "終末の獣"
 source_ids:
   vndb: "c99984"
 source_urls:
   vndb: "https://vndb.org/c99984"
 ---
 
-# 终末乃兽
+# 終末の獣
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

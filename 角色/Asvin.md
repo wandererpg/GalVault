@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c27071"
 type: "character"
-display_title: "阿修V伊恩"
-title_zh: "阿修V伊恩"
+display_title: "アシュヴィン"
+title_zh: ""
 title_ja: "アシュヴィン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c27071"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Asvin"
-  - "アシュヴィン"
 source_ids:
   vndb: "c27071"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c27071.webp"
 ---
 
-# 阿修V伊恩
+# アシュヴィン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

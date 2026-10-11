@@ -5,7 +5,10 @@ display_title: "松乃美琴"
 title_zh: "松乃美琴"
 title_ja: "松乃 美琴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c99098"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Matsuno Mikoto"
   - "松乃 美琴"

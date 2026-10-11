@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c105879"
 type: "character"
-display_title: "L惠X伊·D伊真恩特"
-title_zh: "L惠X伊·D伊真恩特"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Lexi Dimante"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c105879"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Lexi Dimante"
   - "Alexandra Athena de Dimatèa"
 source_ids:
   vndb: "c105879"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c105879.webp"
 ---
 
-# L惠X伊·D伊真恩特
+# Lexi Dimante
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

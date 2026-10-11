@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c105017"
 type: "character"
-display_title: "惠堂莫恩堂"
-title_zh: "惠堂莫恩堂"
+display_title: "エドモンド"
+title_zh: ""
 title_ja: "エドモンド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c105017"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Edmond"
-  - "エドモンド"
 source_ids:
   vndb: "c105017"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c105017.webp"
 ---
 
-# 惠堂莫恩堂
+# エドモンド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

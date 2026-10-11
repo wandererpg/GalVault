@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c113893"
 type: "character"
-display_title: "萩原索奥真"
-title_zh: "萩原索奥真"
+display_title: "萩原 ソーマ"
+title_zh: ""
 title_ja: "萩原 ソーマ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c113893"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hagihara Souma"
-  - "萩原 ソーマ"
 source_ids:
   vndb: "c113893"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c113893.webp"
 ---
 
-# 萩原索奥真
+# 萩原 ソーマ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

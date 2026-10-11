@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30217"
 type: "character"
-display_title: "四守护特诗露努"
-title_zh: "四守护特诗露努"
+display_title: "四守護テシルヌ"
+title_zh: ""
 title_ja: "四守護テシルヌ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30217"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Teshirn"
-  - "四守護テシルヌ"
 source_ids:
   vndb: "c30217"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30217.webp"
 ---
 
-# 四守护特诗露努
+# 四守護テシルヌ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

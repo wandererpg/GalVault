@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c174135"
 type: "character"
-display_title: "SL阿V惠"
-title_zh: "SL阿V惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Slave"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c174135"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Slave"
 source_ids:
   vndb: "c174135"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c174135.webp"
 ---
 
-# SL阿V惠
+# Slave
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

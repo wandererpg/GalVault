@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c27488"
 type: "character"
-display_title: "斗伊博K久寿"
-title_zh: "斗伊博K久寿"
+display_title: "トイ・ボックス"
+title_zh: ""
 title_ja: "トイ・ボックス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c27488"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Toy Box"
-  - "トイ・ボックス"
 source_ids:
   vndb: "c27488"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c27488.webp"
 ---
 
-# 斗伊博K久寿
+# トイ・ボックス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

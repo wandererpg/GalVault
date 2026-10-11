@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17049"
 type: "character"
-display_title: "惠F阿奈特伊加"
-title_zh: "惠F阿奈特伊加"
+display_title: "エファナティカ"
+title_zh: ""
 title_ja: "エファナティカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17049"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Efanatika"
-  - "エファナティカ"
   - "エファ・グラナーダ"
   - "Efa Granada"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c17049.webp"
 ---
 
-# 惠F阿奈特伊加
+# エファナティカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

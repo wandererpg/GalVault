@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c146663"
 type: "character"
-display_title: "斗特M"
-title_zh: "斗特M"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Totem"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c146663"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Totem"
 source_ids:
   vndb: "c146663"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c146663.webp"
 ---
 
-# 斗特M
+# Totem
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

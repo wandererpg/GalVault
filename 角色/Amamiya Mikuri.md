@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c85517"
 type: "character"
-display_title: "天宫美久莉"
-title_zh: "天宫美久莉"
+display_title: "天宮 みくり"
+title_zh: ""
 title_ja: "天宮 みくり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85517"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Amamiya Mikuri"
-  - "天宮 みくり"
 source_ids:
   vndb: "c85517"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c85517.webp"
 ---
 
-# 天宫美久莉
+# 天宮 みくり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c135549"
 type: "character"
-display_title: "真LC奥LM·C阿MP贝LL"
-title_zh: "真LC奥LM·C阿MP贝LL"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Malcolm Campbell"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c135549"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Malcolm Campbell"
 source_ids:
   vndb: "c135549"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c135549.webp"
 ---
 
-# 真LC奥LM·C阿MP贝LL
+# Malcolm Campbell
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

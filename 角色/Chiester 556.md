@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26221"
 type: "character"
-display_title: "诗惠寿太556"
-title_zh: "诗惠寿太556"
+display_title: "シエスタ556"
+title_zh: ""
 title_ja: "シエスタ556"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26221"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chiester 556"
-  - "シエスタ556"
   - "Siesta 556"
 source_ids:
   vndb: "c26221"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c26221.webp"
 ---
 
-# 诗惠寿太556
+# シエスタ556
 
 
 ## 角色画像

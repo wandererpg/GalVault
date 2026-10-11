@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c24524"
 type: "character"
-display_title: "莉莉阿阿努濑莉阿拉古拉恩吉惠"
-title_zh: "莉莉阿阿努濑莉阿拉古拉恩吉惠"
+display_title: "リリアーヌ・セリア・ラグランジェ"
+title_zh: ""
 title_ja: "リリアーヌ・セリア・ラグランジェ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c24524"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lilianne Celia Lagrange"
-  - "リリアーヌ・セリア・ラグランジェ"
   - "Lilia"
   - "リリア"
   - "真心の人"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c24524.webp"
 ---
 
-# 莉莉阿阿努濑莉阿拉古拉恩吉惠
+# リリアーヌ・セリア・ラグランジェ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

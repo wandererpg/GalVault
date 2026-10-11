@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c47214"
 type: "character"
-display_title: "美沙希"
-title_zh: "美沙希"
+display_title: "みさき"
+title_zh: ""
 title_ja: "みさき"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c47214"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Misaki"
-  - "みさき"
 source_ids:
   vndb: "c47214"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c47214.webp"
 ---
 
-# 美沙希
+# みさき
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

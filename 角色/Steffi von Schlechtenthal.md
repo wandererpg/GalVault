@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c33689"
 type: "character"
-display_title: "S特FF伊·V奥恩·SCHL惠CH特恩T羽L"
-title_zh: "S特FF伊·V奥恩·SCHL惠CH特恩T羽L"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Steffi von Schlechtenthal"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33689"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Steffi von Schlechtenthal"
 source_ids:
   vndb: "c33689"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c33689.webp"
 ---
 
-# S特FF伊·V奥恩·SCHL惠CH特恩T羽L
+# Steffi von Schlechtenthal
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

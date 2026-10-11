@@ -5,7 +5,10 @@ display_title: "恋川志穗"
 title_zh: "恋川志穗"
 title_ja: "恋川 志穂"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c27540"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Koikawa Shiho"
   - "恋川 志穂"

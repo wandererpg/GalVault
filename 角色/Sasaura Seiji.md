@@ -5,7 +5,10 @@ display_title: "笹浦清司"
 title_zh: "笹浦清司"
 title_ja: "笹浦 清司"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c63715"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sasaura Seiji"
   - "笹浦 清司"

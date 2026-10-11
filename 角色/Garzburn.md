@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13053"
 type: "character"
-display_title: "雅露津贝露恩露久拉露堂"
-title_zh: "雅露津贝露恩露久拉露堂"
+display_title: "ガルツベルン・ルク・ラルド"
+title_zh: ""
 title_ja: "ガルツベルン・ルク・ラルド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13053"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Garzburn"
-  - "ガルツベルン・ルク・ラルド"
   - "Garzbern"
 source_ids:
   vndb: "c13053"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c13053.webp"
 ---
 
-# 雅露津贝露恩露久拉露堂
+# ガルツベルン・ルク・ラルド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

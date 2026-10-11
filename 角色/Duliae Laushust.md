@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c76747"
 type: "character"
-display_title: "D乌L伊阿惠·L阿乌修ST"
-title_zh: "D乌L伊阿惠·L阿乌修ST"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Duliae Laushust"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c76747"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Duliae Laushust"
   - "Onyx Chandler"
 source_ids:
   vndb: "c76747"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c76747.webp"
 ---
 
-# D乌L伊阿惠·L阿乌修ST
+# Duliae Laushust
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

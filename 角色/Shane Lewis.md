@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c171812"
 type: "character"
-display_title: "夏音·L惠W伊S"
-title_zh: "夏音·L惠W伊S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Shane Lewis"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c171812"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Shane Lewis"
 source_ids:
   vndb: "c171812"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c171812.webp"
 ---
 
-# 夏音·L惠W伊S
+# Shane Lewis
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

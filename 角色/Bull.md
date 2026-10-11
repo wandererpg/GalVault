@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c173902"
 type: "character"
-display_title: "布LL"
-title_zh: "布LL"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Bull"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c173902"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Bull"
 source_ids:
   vndb: "c173902"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c173902.webp"
 ---
 
-# 布LL
+# Bull
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

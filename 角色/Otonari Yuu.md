@@ -5,7 +5,10 @@ display_title: "音成游"
 title_zh: "音成游"
 title_ja: "音成 遊"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1320"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Otonari Yuu"
   - "音成 遊"

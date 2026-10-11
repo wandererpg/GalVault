@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17094"
 type: "character"
-display_title: "子子洛"
-title_zh: "子子洛"
+display_title: "ココロ"
+title_zh: ""
 title_ja: "ココロ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17094"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kokoro"
-  - "ココロ"
 source_ids:
   vndb: "c17094"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c17094.webp"
 ---
 
-# 子子洛
+# ココロ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

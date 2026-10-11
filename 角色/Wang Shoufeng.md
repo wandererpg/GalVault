@@ -5,7 +5,10 @@ display_title: "王寿凤"
 title_zh: "王寿凤"
 title_ja: "王 壽鳳"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43395"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Wang Shoufeng"
   - "王 壽鳳"

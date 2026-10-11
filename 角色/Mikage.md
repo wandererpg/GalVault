@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10856"
 type: "character"
-display_title: "美加格"
-title_zh: "美加格"
+display_title: "ミカゲ"
+title_zh: ""
 title_ja: "ミカゲ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10856"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mikage"
-  - "ミカゲ"
 source_ids:
   vndb: "c10856"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c10856.webp"
 ---
 
-# 美加格
+# ミカゲ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

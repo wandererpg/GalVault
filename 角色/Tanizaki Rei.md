@@ -5,7 +5,10 @@ display_title: "谷崎玲"
 title_zh: "谷崎玲"
 title_ja: "谷崎 玲"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c100785"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tanizaki Rei"
   - "谷崎 玲"

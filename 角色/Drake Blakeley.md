@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c164555"
 type: "character"
-display_title: "堂蕾伊久布蕾惠久莉伊"
-title_zh: "堂蕾伊久布蕾惠久莉伊"
+display_title: "ドレイク・ブレークリー"
+title_zh: ""
 title_ja: "ドレイク・ブレークリー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c164555"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Drake Blakeley"
-  - "ドレイク・ブレークリー"
 source_ids:
   vndb: "c164555"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c164555.webp"
 ---
 
-# 堂蕾伊久布蕾惠久莉伊
+# ドレイク・ブレークリー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c60222"
 type: "character"
-display_title: "尼露寿"
-title_zh: "尼露寿"
+display_title: "ニルス"
+title_zh: ""
 title_ja: "ニルス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c60222"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nils"
-  - "ニルス"
   - "Light Field"
   - "Prince"
   - "ライト・フィールド"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c60222.webp"
 ---
 
-# 尼露寿
+# ニルス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

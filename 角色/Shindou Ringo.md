@@ -5,7 +5,10 @@ display_title: "新堂林檎"
 title_zh: "新堂林檎"
 title_ja: "新堂 林檎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c90416"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shindou Ringo"
   - "新堂 林檎"

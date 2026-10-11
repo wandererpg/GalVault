@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c132213"
 type: "character"
-display_title: "C奥恩索G芽"
-title_zh: "C奥恩索G芽"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Consogme"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132213"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Consogme"
   - "Tall Nerd"
 source_ids:
   vndb: "c132213"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c132213.webp"
 ---
 
-# C奥恩索G芽
+# Consogme
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "葛城铃"
 title_zh: "葛城铃"
 title_ja: "葛城 鈴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c165792"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Katsuragi Suzu"
   - "葛城 鈴"

@@ -5,7 +5,10 @@ display_title: "友引操"
 title_zh: "友引操"
 title_ja: "友引 操"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c8137"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tomobiki Misao"
   - "友引 操"

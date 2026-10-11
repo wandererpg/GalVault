@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c77131"
 type: "character"
-display_title: "白河日代莉"
-title_zh: "白河日代莉"
+display_title: "白河 ひより"
+title_zh: ""
 title_ja: "白河 ひより"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c77131"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shirakawa Hiyori"
-  - "白河 ひより"
   - "Hiyorin"
   - "Zannen Bijin"
   - "ひよりん"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c77131.webp"
 ---
 
-# 白河日代莉
+# 白河 ひより
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

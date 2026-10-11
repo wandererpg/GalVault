@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30450"
 type: "character"
-display_title: "芽希"
-title_zh: "芽希"
+display_title: "メキ"
+title_zh: ""
 title_ja: "メキ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30450"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Meki"
-  - "メキ"
 source_ids:
   vndb: "c30450"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30450.webp"
 ---
 
-# 芽希
+# メキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c103035"
 type: "character"
-display_title: "B拉D"
-title_zh: "B拉D"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Brad"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103035"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Brad"
 source_ids:
   vndb: "c103035"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c103035.webp"
 ---
 
-# B拉D
+# Brad
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

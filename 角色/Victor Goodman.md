@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c15840"
 type: "character"
-display_title: "V伊久斗奥露古D堂真恩"
-title_zh: "V伊久斗奥露古D堂真恩"
+display_title: "ヴィクトール・グッドマン"
+title_zh: ""
 title_ja: "ヴィクトール・グッドマン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c15840"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Victor Goodman"
-  - "ヴィクトール・グッドマン"
 source_ids:
   vndb: "c15840"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c15840.webp"
 ---
 
-# V伊久斗奥露古D堂真恩
+# ヴィクトール・グッドマン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

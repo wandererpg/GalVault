@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c787"
 type: "character"
-display_title: "奈伊斗芽阿＝悟T斗夏露久"
-title_zh: "奈伊斗芽阿＝悟T斗夏露久"
+display_title: "ナイトメア＝ゴットシャルク"
+title_zh: ""
 title_ja: "ナイトメア＝ゴットシャルク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c787"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nightmare Gottschalk"
-  - "ナイトメア＝ゴットシャルク"
   - "Bagworm"
 source_ids:
   vndb: "c787"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c787.webp"
 ---
 
-# 奈伊斗芽阿＝悟T斗夏露久
+# ナイトメア＝ゴットシャルク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

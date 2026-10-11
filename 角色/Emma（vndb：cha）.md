@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c112198"
 type: "character"
-display_title: "惠M真"
-title_zh: "惠M真"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Emma"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c112198"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Emma"
 source_ids:
   vndb: "c112198"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c112198.webp"
 ---
 
-# 惠M真
+# Emma
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

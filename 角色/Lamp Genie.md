@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125497"
 type: "character"
-display_title: "拉恩普乃魔女"
-title_zh: "拉恩普乃魔女"
+display_title: "ランプの魔女"
+title_zh: ""
 title_ja: "ランプの魔女"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125497"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lamp Genie"
-  - "ランプの魔女"
   - "Jeannie"
 source_ids:
   vndb: "c125497"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c125497.webp"
 ---
 
-# 拉恩普乃魔女
+# ランプの魔女
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

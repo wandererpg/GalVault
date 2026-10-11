@@ -5,7 +5,10 @@ display_title: "小鸟游真哉"
 title_zh: "小鸟游真哉"
 title_ja: "小鳥遊 真哉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c7083"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takanashi Shin'ya"
   - "小鳥遊 真哉"

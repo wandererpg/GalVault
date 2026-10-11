@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c79332"
 type: "character"
-display_title: "诗古蕾"
-title_zh: "诗古蕾"
+display_title: "しぐれ"
+title_zh: ""
 title_ja: "しぐれ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c79332"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shigure"
-  - "しぐれ"
   - "竜神一"
 source_ids:
   vndb: "c79332"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c79332.webp"
 ---
 
-# 诗古蕾
+# しぐれ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

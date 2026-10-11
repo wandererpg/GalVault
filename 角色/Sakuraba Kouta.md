@@ -5,7 +5,10 @@ display_title: "樱庭航太"
 title_zh: "樱庭航太"
 title_ja: "桜庭 航太"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c36946"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakuraba Kouta"
   - "桜庭 航太"

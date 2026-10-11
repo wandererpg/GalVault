@@ -5,7 +5,10 @@ display_title: "铠衣左近"
 title_zh: "铠衣左近"
 title_ja: "鎧衣 左近"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c174"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yoroi Sakon"
   - "鎧衣 左近"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c155425"
 type: "character"
-display_title: "加T伊惠·L伊恩音T"
-title_zh: "加T伊惠·L伊恩音T"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Katie Linnet"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155425"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Katie Linnet"
 source_ids:
   vndb: "c155425"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c155425.webp"
 ---
 
-# 加T伊惠·L伊恩音T
+# Katie Linnet
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

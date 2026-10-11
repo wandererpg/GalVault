@@ -5,7 +5,10 @@ display_title: "联城纱耶香"
 title_zh: "联城纱耶香"
 title_ja: "連城 紗耶香"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c12084"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Renjou Sayaka"
   - "連城 紗耶香"

@@ -5,7 +5,10 @@ display_title: "栋方启太"
 title_zh: "栋方启太"
 title_ja: "棟方 啓太"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c87336"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Munakata Keita"
   - "棟方 啓太"

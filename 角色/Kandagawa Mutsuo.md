@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c660"
 type: "character"
-display_title: "神田川梦津奥"
-title_zh: "神田川梦津奥"
+display_title: "神田川 むつお"
+title_zh: ""
 title_ja: "神田川 むつお"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c660"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kandagawa Mutsuo"
-  - "神田川 むつお"
 source_ids:
   vndb: "c660"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c660.webp"
 ---
 
-# 神田川梦津奥
+# 神田川 むつお
 
 
 ## 角色画像

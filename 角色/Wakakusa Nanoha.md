@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c4580"
 type: "character"
-display_title: "若草菜乃叶"
-title_zh: "若草菜乃叶"
+display_title: "若草 菜ノ葉"
+title_zh: ""
 title_ja: "若草 菜ノ葉"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c4580"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Wakakusa Nanoha"
-  - "若草 菜ノ葉"
 source_ids:
   vndb: "c4580"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c4580.webp"
 ---
 
-# 若草菜乃叶
+# 若草 菜ノ葉
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

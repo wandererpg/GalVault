@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c19639"
 type: "character"
-display_title: "伊扎奈美"
-title_zh: "伊扎奈美"
+display_title: "イザナミ"
+title_zh: ""
 title_ja: "イザナミ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c19639"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Izanami"
-  - "イザナミ"
 source_ids:
   vndb: "c19639"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c19639.webp"
 ---
 
-# 伊扎奈美
+# イザナミ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

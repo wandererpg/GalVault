@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c167977"
 type: "character"
-display_title: "L惠惠"
-title_zh: "L惠惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Lee"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c167977"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Lee"
 source_ids:
   vndb: "c167977"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c167977.webp"
 ---
 
-# L惠惠
+# Lee
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

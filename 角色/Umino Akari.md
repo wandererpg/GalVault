@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c62880"
 type: "character"
-display_title: "海野明里"
-title_zh: "海野明里"
+display_title: "海野 あかり"
+title_zh: ""
 title_ja: "海野 あかり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c62880"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Umino Akari"
-  - "海野 あかり"
 source_ids:
   vndb: "c62880"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c62880.webp"
 ---
 
-# 海野明里
+# 海野 あかり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

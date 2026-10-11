@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c88220"
 type: "character"
-display_title: "希莉莉希乃日芽"
-title_zh: "希莉莉希乃日芽"
+display_title: "キリリキノヒメ"
+title_zh: ""
 title_ja: "キリリキノヒメ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c88220"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kiririki no hime"
-  - "キリリキノヒメ"
 source_ids:
   vndb: "c88220"
 source_urls:
   vndb: "https://vndb.org/c88220"
 ---
 
-# 希莉莉希乃日芽
+# キリリキノヒメ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

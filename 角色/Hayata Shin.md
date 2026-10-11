@@ -5,7 +5,10 @@ display_title: "骏太信"
 title_zh: "骏太信"
 title_ja: "駿太 信"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c91413"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hayata Shin"
   - "駿太 信"

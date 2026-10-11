@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c55459"
 type: "character"
-display_title: "特露真缪拉阿"
-title_zh: "特露真缪拉阿"
+display_title: "テルマ・ミュラー"
+title_zh: ""
 title_ja: "テルマ・ミュラー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c55459"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Thelma Muller"
-  - "テルマ・ミュラー"
   - "Thel"
   - "テル"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c55459.webp"
 ---
 
-# 特露真缪拉阿
+# テルマ・ミュラー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

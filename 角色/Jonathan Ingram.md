@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c92236"
 type: "character"
-display_title: "乔奈沙尼恩古拉梦"
-title_zh: "乔奈沙尼恩古拉梦"
+display_title: "ジョナサン・イングラム"
+title_zh: ""
 title_ja: "ジョナサン・イングラム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92236"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jonathan Ingram"
-  - "ジョナサン・イングラム"
 source_ids:
   vndb: "c92236"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c92236.webp"
 ---
 
-# 乔奈沙尼恩古拉梦
+# ジョナサン・イングラム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

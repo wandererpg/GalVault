@@ -5,7 +5,10 @@ display_title: "鲛氷新一"
 title_zh: "鲛氷新一"
 title_ja: "鮫氷 新一"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c55544"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Samesuga Shin'ichi"
   - "鮫氷 新一"

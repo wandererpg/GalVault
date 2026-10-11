@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c155631"
 type: "character"
-display_title: "真RC惠LL伊音"
-title_zh: "真RC惠LL伊音"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Marcelline"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155631"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Marcelline"
 source_ids:
   vndb: "c155631"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c155631.webp"
 ---
 
-# 真RC惠LL伊音
+# Marcelline
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "天地翔太"
 title_zh: "天地翔太"
 title_ja: "天地 翔太"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1278"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Amachi Shouta"
   - "天地 翔太"

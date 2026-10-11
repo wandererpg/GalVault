@@ -5,7 +5,10 @@ display_title: "狭山优子"
 title_zh: "狭山优子"
 title_ja: "狭山 優子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c60220"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sayama Yuuko"
   - "狭山 優子"

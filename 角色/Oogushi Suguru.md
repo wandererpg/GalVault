@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c9788"
 type: "character"
-display_title: "大串寿古露"
-title_zh: "大串寿古露"
+display_title: "大串 スグル"
+title_zh: ""
 title_ja: "大串 スグル"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c9788"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Oogushi Suguru"
-  - "大串 スグル"
 source_ids:
   vndb: "c9788"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c9788.webp"
 ---
 
-# 大串寿古露
+# 大串 スグル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

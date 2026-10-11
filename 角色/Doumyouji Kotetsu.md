@@ -5,7 +5,10 @@ display_title: "道明寺小铁"
 title_zh: "道明寺小铁"
 title_ja: "道明寺　小鉄"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c97120"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Doumyouji Kotetsu"
   - "道明寺　小鉄"

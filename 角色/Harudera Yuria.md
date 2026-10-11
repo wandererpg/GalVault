@@ -5,7 +5,10 @@ display_title: "春寺由梨亚"
 title_zh: "春寺由梨亚"
 title_ja: "春寺 由梨亜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c579"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Harudera Yuria"
   - "春寺 由梨亜"

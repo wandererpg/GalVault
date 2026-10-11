@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10321"
 type: "character"
-display_title: "惠龙诗阿"
-title_zh: "惠龙诗阿"
+display_title: "エリュシア"
+title_zh: ""
 title_ja: "エリュシア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10321"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Elysia"
-  - "エリュシア"
   - "Elicia"
 source_ids:
   vndb: "c10321"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c10321.webp"
 ---
 
-# 惠龙诗阿
+# エリュシア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

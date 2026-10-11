@@ -5,7 +5,10 @@ display_title: "和智纪香"
 title_zh: "和智纪香"
 title_ja: "和智 紀香"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43858"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Wachi Norika"
   - "和智 紀香"

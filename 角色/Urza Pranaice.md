@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13153"
 type: "character"
-display_title: "乌露扎普拉奈阿伊寿"
-title_zh: "乌露扎普拉奈阿伊寿"
+display_title: "ウルザ・プラナアイス"
+title_zh: ""
 title_ja: "ウルザ・プラナアイス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13153"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Urza Pranaice"
-  - "ウルザ・プラナアイス"
   - "Urza Planeis"
 source_ids:
   vndb: "c13153"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c13153.webp"
 ---
 
-# 乌露扎普拉奈阿伊寿
+# ウルザ・プラナアイス
 
 
 ## 角色画像

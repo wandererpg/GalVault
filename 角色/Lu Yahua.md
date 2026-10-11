@@ -5,7 +5,10 @@ display_title: "卢雅华"
 title_zh: "卢雅华"
 title_ja: "盧 雅華"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43396"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Lu Yahua"
   - "盧 雅華"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c145744"
 type: "character"
-display_title: "阿久蕾伊"
-title_zh: "阿久蕾伊"
+display_title: "アクレイ"
+title_zh: ""
 title_ja: "アクレイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c145744"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Archray"
-  - "アクレイ"
 source_ids:
   vndb: "c145744"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c145744.webp"
 ---
 
-# 阿久蕾伊
+# アクレイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

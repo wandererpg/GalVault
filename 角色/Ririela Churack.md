@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10669"
 type: "character"
-display_title: "莉莉惠拉秋乌拉K久"
-title_zh: "莉莉惠拉秋乌拉K久"
+display_title: "リリエラ・チューラック"
+title_zh: ""
 title_ja: "リリエラ・チューラック"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10669"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ririela Churack"
-  - "リリエラ・チューラック"
   - "Riel"
 source_ids:
   vndb: "c10669"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c10669.webp"
 ---
 
-# 莉莉惠拉秋乌拉K久
+# リリエラ・チューラック
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

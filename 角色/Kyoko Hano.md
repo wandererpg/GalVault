@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c174085"
 type: "character"
-display_title: "京子·羽乃"
-title_zh: "京子·羽乃"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Kyoko Hano"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c174085"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Kyoko Hano"
 source_ids:
   vndb: "c174085"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c174085.webp"
 ---
 
-# 京子·羽乃
+# Kyoko Hano
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

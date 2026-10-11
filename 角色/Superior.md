@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c163581"
 type: "character"
-display_title: "寿佩莉奥R"
-title_zh: "寿佩莉奥R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Superior"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c163581"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Superior"
   - "Mabel"
   - "Soup"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c163581.webp"
 ---
 
-# 寿佩莉奥R
+# Superior
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

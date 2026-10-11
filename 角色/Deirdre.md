@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16884"
 type: "character"
-display_title: "D伊阿堂拉"
-title_zh: "D伊阿堂拉"
+display_title: "ディアドラ"
+title_zh: ""
 title_ja: "ディアドラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16884"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Deirdre"
-  - "ディアドラ"
 source_ids:
   vndb: "c16884"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c16884.webp"
 ---
 
-# D伊阿堂拉
+# ディアドラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

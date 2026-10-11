@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c155106"
 type: "character"
-display_title: "音莉恩"
-title_zh: "音莉恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Nerin"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155106"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Nerin"
 source_ids:
   vndb: "c155106"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c155106.webp"
 ---
 
-# 音莉恩
+# Nerin
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

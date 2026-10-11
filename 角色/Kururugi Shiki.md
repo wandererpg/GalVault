@@ -5,7 +5,10 @@ display_title: "枢姫色"
 title_zh: "枢姫色"
 title_ja: "枢姫 色"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c90412"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kururugi Shiki"
   - "枢姫 色"

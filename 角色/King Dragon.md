@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98442"
 type: "character"
-display_title: "希恩古堂拉悟恩"
-title_zh: "希恩古堂拉悟恩"
+display_title: "キング・ドラゴン"
+title_zh: ""
 title_ja: "キング・ドラゴン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98442"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "King Dragon"
-  - "キング・ドラゴン"
   - "KD"
 source_ids:
   vndb: "c98442"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c98442.webp"
 ---
 
-# 希恩古堂拉悟恩
+# キング・ドラゴン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

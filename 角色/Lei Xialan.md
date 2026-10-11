@@ -5,7 +5,10 @@ display_title: "雷夏岚"
 title_zh: "雷夏岚"
 title_ja: "雷夏岚"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c150730"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Lei Xialan"
 source_ids:

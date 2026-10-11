@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c77106"
 type: "character"
-display_title: "F阿乌寿斗"
-title_zh: "F阿乌寿斗"
+display_title: "ファウスト"
+title_zh: ""
 title_ja: "ファウスト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c77106"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Faust"
-  - "ファウスト"
 source_ids:
   vndb: "c77106"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c77106.webp"
 ---
 
-# F阿乌寿斗
+# ファウスト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

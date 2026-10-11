@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c85136"
 type: "character"
-display_title: "朝比奈美久露"
-title_zh: "朝比奈美久露"
+display_title: "朝比奈 みくる"
+title_zh: ""
 title_ja: "朝比奈 みくる"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85136"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Asahina Mikuru"
-  - "朝比奈 みくる"
 source_ids:
   vndb: "c85136"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c85136.webp"
 ---
 
-# 朝比奈美久露
+# 朝比奈 みくる
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "笛吹遥"
 title_zh: "笛吹遥"
 title_ja: "笛吹 遥"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c85690"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Uzushiki Haruka"
   - "笛吹 遥"

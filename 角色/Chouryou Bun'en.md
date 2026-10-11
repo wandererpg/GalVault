@@ -5,7 +5,10 @@ display_title: "张辽文远"
 title_zh: "张辽文远"
 title_ja: "張遼 文遠"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c19292"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Chouryou Bun'en"
   - "張遼 文遠"

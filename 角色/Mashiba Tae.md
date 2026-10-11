@@ -5,7 +5,10 @@ display_title: "真柴多英"
 title_zh: "真柴多英"
 title_ja: "真柴 多英"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c12086"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mashiba Tae"
   - "真柴 多英"

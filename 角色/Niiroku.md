@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87977"
 type: "character"
-display_title: "尼伊洛久"
-title_zh: "尼伊洛久"
+display_title: "ニイロク"
+title_zh: ""
 title_ja: "ニイロク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87977"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Niiroku"
-  - "ニイロク"
 source_ids:
   vndb: "c87977"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c87977.webp"
 ---
 
-# 尼伊洛久
+# ニイロク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

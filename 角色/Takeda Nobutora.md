@@ -5,7 +5,10 @@ display_title: "武田信虎"
 title_zh: "武田信虎"
 title_ja: "武田 信虎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c47093"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takeda Nobutora"
   - "武田 信虎"

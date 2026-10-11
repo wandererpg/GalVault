@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26843"
 type: "character"
-display_title: "津V阿伊"
-title_zh: "津V阿伊"
+display_title: "ツヴァイ"
+title_zh: ""
 title_ja: "ツヴァイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26843"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Zwei"
-  - "ツヴァイ"
   - "Asuma Reiji"
   - "Phantom"
   - "Walker Ba"
@@ -21,7 +23,7 @@ source_urls:
 portrait_image: "assets/characters/c26843.webp"
 ---
 
-# 津V阿伊
+# ツヴァイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

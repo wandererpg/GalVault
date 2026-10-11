@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c7050"
 type: "character"
-display_title: "芽代奥代F奥恩雅巴露D伊"
-title_zh: "芽代奥代F奥恩雅巴露D伊"
+display_title: "メヨーヨ・フォン・ガバルディ"
+title_zh: ""
 title_ja: "メヨーヨ・フォン・ガバルディ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c7050"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mejojo von Garibaldi"
-  - "メヨーヨ・フォン・ガバルディ"
 source_ids:
   vndb: "c7050"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c7050.webp"
 ---
 
-# 芽代奥代F奥恩雅巴露D伊
+# メヨーヨ・フォン・ガバルディ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

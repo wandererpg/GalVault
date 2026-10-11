@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c138185"
 type: "character"
-display_title: "VL阿D伊美洛V奈·恰Y加"
-title_zh: "VL阿D伊美洛V奈·恰Y加"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Vladimirovna Chayka"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138185"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Vladimirovna Chayka"
   - "V, Veronica, InVWeThrust"
 source_ids:
   vndb: "c138185"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c138185.webp"
 ---
 
-# VL阿D伊美洛V奈·恰Y加
+# Vladimirovna Chayka
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

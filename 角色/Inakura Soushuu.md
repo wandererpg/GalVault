@@ -5,7 +5,10 @@ display_title: "稻仓宗秀"
 title_zh: "稻仓宗秀"
 title_ja: "稲倉 宗秀"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c80403"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Inakura Soushuu"
   - "稲倉 宗秀"

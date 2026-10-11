@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c73792"
 type: "character"
-display_title: "希莉日斗特诗加雅"
-title_zh: "希莉日斗特诗加雅"
+display_title: "キリヒト・テシカガ"
+title_zh: ""
 title_ja: "キリヒト・テシカガ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c73792"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kirihito Teshikaga"
-  - "キリヒト・テシカガ"
   - "Mephisto"
   - "メフィスト"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c73792.webp"
 ---
 
-# 希莉日斗特诗加雅
+# キリヒト・テシカガ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

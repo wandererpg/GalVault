@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c150532"
 type: "character"
-display_title: "惠LS佩TH·阿达伊R"
-title_zh: "惠LS佩TH·阿达伊R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Elspeth Adair"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c150532"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Elspeth Adair"
   - "Els"
   - "Elsie"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c150532.webp"
 ---
 
-# 惠LS佩TH·阿达伊R
+# Elspeth Adair
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

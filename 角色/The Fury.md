@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c134648"
 type: "character"
-display_title: "T惠·芙RY"
-title_zh: "T惠·芙RY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "The Fury"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c134648"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "The Fury"
 source_ids:
   vndb: "c134648"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c134648.webp"
 ---
 
-# T惠·芙RY
+# The Fury
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c33496"
 type: "character"
-display_title: "优莉阿奈"
-title_zh: "优莉阿奈"
+display_title: "ユリアナ"
+title_zh: ""
 title_ja: "ユリアナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33496"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Juliana"
-  - "ユリアナ"
   - "Juriana"
 source_ids:
   vndb: "c33496"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c33496.webp"
 ---
 
-# 优莉阿奈
+# ユリアナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

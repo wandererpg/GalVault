@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c149377"
 type: "character"
-display_title: "德B拉"
-title_zh: "德B拉"
+display_title: "Дэбра"
+title_zh: ""
 title_ja: "Дэбра"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149377"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Debra"
-  - "Дэбра"
 source_ids:
   vndb: "c149377"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c149377.webp"
 ---
 
-# 德B拉
+# Дэбра
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c148103"
 type: "character"
-display_title: "美L惠S"
-title_zh: "美L惠S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Miles"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c148103"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Miles"
 source_ids:
   vndb: "c148103"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c148103.webp"
 ---
 
-# 美L惠S
+# Miles
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

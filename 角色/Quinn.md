@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c80192"
 type: "character"
-display_title: "Q乌伊恩恩"
-title_zh: "Q乌伊恩恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Quinn"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c80192"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Quinn"
 source_ids:
   vndb: "c80192"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c80192.webp"
 ---
 
-# Q乌伊恩恩
+# Quinn
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

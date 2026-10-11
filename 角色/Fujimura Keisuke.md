@@ -5,7 +5,10 @@ display_title: "藤村佳祐"
 title_zh: "藤村佳祐"
 title_ja: "藤村 佳祐"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c47040"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fujimura Keisuke"
   - "藤村 佳祐"

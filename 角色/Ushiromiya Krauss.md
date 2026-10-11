@@ -5,7 +5,10 @@ display_title: "右代宫藏臼"
 title_zh: "右代宫藏臼"
 title_ja: "右代宮 蔵臼"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c367"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ushiromiya Krauss"
   - "右代宮 蔵臼"

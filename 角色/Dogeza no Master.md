@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c235"
 type: "character"
-display_title: "土下座乃真寿太阿"
-title_zh: "土下座乃真寿太阿"
+display_title: "土下座のマスター"
+title_zh: ""
 title_ja: "土下座のマスター"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c235"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Dogeza no Master"
-  - "土下座のマスター"
 source_ids:
   vndb: "c235"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c235.webp"
 ---
 
-# 土下座乃真寿太阿
+# 土下座のマスター
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

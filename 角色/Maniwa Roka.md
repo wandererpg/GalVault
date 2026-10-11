@@ -5,7 +5,10 @@ display_title: "马庭芦花"
 title_zh: "马庭芦花"
 title_ja: "馬庭 芦花"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c44773"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Maniwa Roka"
   - "馬庭 芦花"

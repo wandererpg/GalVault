@@ -5,7 +5,10 @@ display_title: "细川忠兴"
 title_zh: "细川忠兴"
 title_ja: "細川 忠興"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c49348"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hosokawa Tadaoki"
   - "細川 忠興"

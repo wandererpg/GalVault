@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90044"
 type: "character"
-display_title: "寿芽拉吉"
-title_zh: "寿芽拉吉"
+display_title: "スメラギ"
+title_zh: ""
 title_ja: "スメラギ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90044"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sumeragi"
-  - "スメラギ"
   - "教皇猊下"
 source_ids:
   vndb: "c90044"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c90044.webp"
 ---
 
-# 寿芽拉吉
+# スメラギ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

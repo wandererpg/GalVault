@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30458"
 type: "character"
-display_title: "天之川遥"
-title_zh: "天之川遥"
+display_title: "天之川 ハルカ"
+title_zh: ""
 title_ja: "天之川 ハルカ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30458"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Amanogawa Haruka"
-  - "天之川 ハルカ"
 source_ids:
   vndb: "c30458"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30458.webp"
 ---
 
-# 天之川遥
+# 天之川 ハルカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

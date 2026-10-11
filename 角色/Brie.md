@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c150145"
 type: "character"
-display_title: "B莉惠"
-title_zh: "B莉惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Brie"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c150145"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Brie"
 source_ids:
   vndb: "c150145"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c150145.webp"
 ---
 
-# B莉惠
+# Brie
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

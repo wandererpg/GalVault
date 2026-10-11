@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c136632"
 type: "character"
-display_title: "C阿沙乃V阿"
-title_zh: "C阿沙乃V阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Casanova"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136632"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Casanova"
 source_ids:
   vndb: "c136632"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c136632.webp"
 ---
 
-# C阿沙乃V阿
+# Casanova
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

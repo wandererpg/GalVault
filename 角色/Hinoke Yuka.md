@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c31391"
 type: "character"
-display_title: "樋惠结花"
-title_zh: "樋惠结花"
+display_title: "樋ヶ 結花"
+title_zh: ""
 title_ja: "樋ヶ 結花"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c31391"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hinoke Yuka"
-  - "樋ヶ 結花"
 source_ids:
   vndb: "c31391"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c31391.webp"
 ---
 
-# 樋惠结花
+# 樋ヶ 結花
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

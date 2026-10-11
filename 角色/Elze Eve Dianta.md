@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c94625"
 type: "character"
-display_title: "惠露泽伊V乌D伊阿恩太"
-title_zh: "惠露泽伊V乌D伊阿恩太"
+display_title: "エルゼ・イヴ・ディアンタ"
+title_zh: ""
 title_ja: "エルゼ・イヴ・ディアンタ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94625"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Elze Eve Dianta"
-  - "エルゼ・イヴ・ディアンタ"
 source_ids:
   vndb: "c94625"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c94625.webp"
 ---
 
-# 惠露泽伊V乌D伊阿恩太
+# エルゼ・イヴ・ディアンタ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

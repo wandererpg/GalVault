@@ -5,7 +5,10 @@ display_title: "齐须莉玖"
 title_zh: "齐须莉玖"
 title_ja: "斉須 莉玖"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c45455"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Saisu Riku"
   - "斉須 莉玖"

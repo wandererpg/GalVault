@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c109713"
 type: "character"
-display_title: "德V奥恩"
-title_zh: "德V奥恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Devon"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c109713"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Devon"
 source_ids:
   vndb: "c109713"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c109713.webp"
 ---
 
-# 德V奥恩
+# Devon
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

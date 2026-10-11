@@ -5,7 +5,10 @@ display_title: "屑屋"
 title_zh: "屑屋"
 title_ja: "屑屋"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c440"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kuzuya"
 source_ids:

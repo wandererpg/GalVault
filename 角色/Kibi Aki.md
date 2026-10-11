@@ -5,7 +5,10 @@ display_title: "吉备亚纪"
 title_zh: "吉备亚纪"
 title_ja: "吉備 亜紀"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c30433"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kibi Aki"
   - "吉備 亜紀"

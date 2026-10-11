@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c19830"
 type: "character"
-display_title: "V阿伊寿羽伊斗津惠莉恩达阿"
-title_zh: "V阿伊寿羽伊斗津惠莉恩达阿"
+display_title: "ヴァイスハイト・ツェリンダー"
+title_zh: ""
 title_ja: "ヴァイスハイト・ツェリンダー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c19830"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Weissheit Zerinder"
-  - "ヴァイスハイト・ツェリンダー"
   - "Weiss"
   - "ヴァイス"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c19830.webp"
 ---
 
-# V阿伊寿羽伊斗津惠莉恩达阿
+# ヴァイスハイト・ツェリンダー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39198"
 type: "character"
-display_title: "优莉阿阿努寿久真阿尼惠伊恩斗莉伊"
-title_zh: "优莉阿阿努寿久真阿尼惠伊恩斗莉伊"
+display_title: "ユリアーヌス・クマーニ・エイントリー"
+title_zh: ""
 title_ja: "ユリアーヌス・クマーニ・エイントリー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39198"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Julianus Cumani Aintree"
-  - "ユリアーヌス・クマーニ・エイントリー"
 source_ids:
   vndb: "c39198"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c39198.webp"
 ---
 
-# 优莉阿阿努寿久真阿尼惠伊恩斗莉伊
+# ユリアーヌス・クマーニ・エイントリー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

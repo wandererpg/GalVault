@@ -5,7 +5,10 @@ display_title: "皮特·瓦兹"
 title_zh: "皮特·瓦兹"
 title_ja: "皮特·瓦兹"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c103255"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Pete Wartz"
 source_ids:

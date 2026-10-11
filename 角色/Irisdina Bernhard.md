@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c42213"
 type: "character"
-display_title: "阿伊莉寿D伊伊奈贝露恩羽露斗"
-title_zh: "阿伊莉寿D伊伊奈贝露恩羽露斗"
+display_title: "アイリスディーナ・ベルンハルト"
+title_zh: ""
 title_ja: "アイリスディーナ・ベルンハルト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c42213"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Irisdina Bernhard"
-  - "アイリスディーナ・ベルンハルト"
   - "Schwarz 01"
   - "Comrade Captain"
   - "Captain Bernhard"
@@ -22,7 +24,7 @@ source_urls:
 portrait_image: "assets/characters/c42213.webp"
 ---
 
-# 阿伊莉寿D伊伊奈贝露恩羽露斗
+# アイリスディーナ・ベルンハルト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

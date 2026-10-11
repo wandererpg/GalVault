@@ -5,7 +5,10 @@ display_title: "琉々叶"
 title_zh: "琉々叶"
 title_ja: "琉々葉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c80395"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ruruha"
   - "琉々葉"

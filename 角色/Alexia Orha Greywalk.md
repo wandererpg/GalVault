@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c169050"
 type: "character"
-display_title: "阿蕾久诗阿奥露羽古蕾伊乌奥奥久"
-title_zh: "阿蕾久诗阿奥露羽古蕾伊乌奥奥久"
+display_title: "アレクシア・オルハ・グレイウォーク"
+title_zh: ""
 title_ja: "アレクシア・オルハ・グレイウォーク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c169050"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alexia Orha Greywalk"
-  - "アレクシア・オルハ・グレイウォーク"
   - "フローレス"
   - "Flawless"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c169050.webp"
 ---
 
-# 阿蕾久诗阿奥露羽古蕾伊乌奥奥久
+# アレクシア・オルハ・グレイウォーク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

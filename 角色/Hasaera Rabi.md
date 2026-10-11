@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c142057"
 type: "character"
-display_title: "羽沙惠拉拉比"
-title_zh: "羽沙惠拉拉比"
+display_title: "ハサエラ・ラビ"
+title_zh: ""
 title_ja: "ハサエラ・ラビ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c142057"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hasaera Rabi"
-  - "ハサエラ・ラビ"
 source_ids:
   vndb: "c142057"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c142057.webp"
 ---
 
-# 羽沙惠拉拉比
+# ハサエラ・ラビ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

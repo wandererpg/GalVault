@@ -5,7 +5,10 @@ display_title: "锦织小百合"
 title_zh: "锦织小百合"
 title_ja: "錦織 小百合"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c50328"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nishikiori Sayuri"
   - "錦織 小百合"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c166399"
 type: "character"
-display_title: "阿恩布洛奥兹"
-title_zh: "阿恩布洛奥兹"
+display_title: "アンブローズ"
+title_zh: ""
 title_ja: "アンブローズ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c166399"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ambrose"
-  - "アンブローズ"
   - "Millennium Artist"
 source_ids:
   vndb: "c166399"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c166399.webp"
 ---
 
-# 阿恩布洛奥兹
+# アンブローズ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

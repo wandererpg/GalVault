@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c166241"
 type: "character"
-display_title: "乔奈沙恩穗普希恩寿"
-title_zh: "乔奈沙恩穗普希恩寿"
+display_title: "ジョナサン・ホプキンス"
+title_zh: ""
 title_ja: "ジョナサン・ホプキンス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c166241"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jonathan Hopkins"
-  - "ジョナサン・ホプキンス"
   - "John"
 source_ids:
   vndb: "c166241"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c166241.webp"
 ---
 
-# 乔奈沙恩穗普希恩寿
+# ジョナサン・ホプキンス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

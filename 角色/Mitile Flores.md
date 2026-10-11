@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c161323"
 type: "character"
-display_title: "美千露·芙洛奥蕾寿"
-title_zh: "美千露·芙洛奥蕾寿"
+display_title: "ミチル フローレス"
+title_zh: ""
 title_ja: "ミチル フローレス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161323"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mitile Flores"
-  - "ミチル フローレス"
 source_ids:
   vndb: "c161323"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c161323.webp"
 ---
 
-# 美千露·芙洛奥蕾寿
+# ミチル フローレス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

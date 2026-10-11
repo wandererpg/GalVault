@@ -5,7 +5,10 @@ display_title: "冲浪留衣子"
 title_zh: "冲浪留衣子"
 title_ja: "沖浪 留衣子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c167033"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Okinami Ruiko"
   - "沖浪 留衣子"

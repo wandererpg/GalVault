@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c112205"
 type: "character"
-display_title: "怒莉乃王"
-title_zh: "怒莉乃王"
+display_title: "怒りの王"
+title_zh: ""
 title_ja: "怒りの王"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c112205"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "King of Fury"
-  - "怒りの王"
 source_ids:
   vndb: "c112205"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c112205.webp"
 ---
 
-# 怒莉乃王
+# 怒りの王
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

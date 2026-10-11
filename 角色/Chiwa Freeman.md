@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c155409"
 type: "character"
-display_title: "千和·F蕾惠真恩"
-title_zh: "千和·F蕾惠真恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Chiwa Freeman"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155409"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Chiwa Freeman"
 source_ids:
   vndb: "c155409"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c155409.webp"
 ---
 
-# 千和·F蕾惠真恩
+# Chiwa Freeman
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c48418"
 type: "character"
-display_title: "代乌"
-title_zh: "代乌"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "You"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c48418"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "You"
 source_ids:
   vndb: "c48418"
 source_urls:
   vndb: "https://vndb.org/c48418"
 ---
 
-# 代乌
+# You
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

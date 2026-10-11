@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12361"
 type: "character"
-display_title: "吉惠露真阿乃"
-title_zh: "吉惠露真阿乃"
+display_title: "ジェルマーノ"
+title_zh: ""
 title_ja: "ジェルマーノ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12361"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Germano"
-  - "ジェルマーノ"
 source_ids:
   vndb: "c12361"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c12361.webp"
 ---
 
-# 吉惠露真阿乃
+# ジェルマーノ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

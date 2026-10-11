@@ -5,7 +5,10 @@ display_title: "安倍智彦"
 title_zh: "安倍智彦"
 title_ja: "安倍 智彦"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c183"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Abe Tomohiko"
   - "安倍 智彦"

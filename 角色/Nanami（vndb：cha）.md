@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39785"
 type: "character"
-display_title: "七海"
-title_zh: "七海"
+display_title: "ななみ"
+title_zh: ""
 title_ja: "ななみ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39785"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nanami"
-  - "ななみ"
 source_ids:
   vndb: "c39785"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c39785.webp"
 ---
 
-# 七海
+# ななみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "学园长"
 title_zh: "学园长"
 title_ja: "学園長"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c164056"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "School Principal"
   - "学園長"

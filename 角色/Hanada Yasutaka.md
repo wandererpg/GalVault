@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c48495"
 type: "character"
-display_title: "缥雅寿太加"
-title_zh: "缥雅寿太加"
+display_title: "縹 ヤスタカ"
+title_zh: ""
 title_ja: "縹 ヤスタカ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c48495"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hanada Yasutaka"
-  - "縹 ヤスタカ"
 source_ids:
   vndb: "c48495"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c48495.webp"
 ---
 
-# 缥雅寿太加
+# 縹 ヤスタカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

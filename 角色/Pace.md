@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8562"
 type: "character"
-display_title: "帕阿C惠"
-title_zh: "帕阿C惠"
+display_title: "パーチェ"
+title_zh: ""
 title_ja: "パーチェ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8562"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Pace"
-  - "パーチェ"
   - "Pache"
 source_ids:
   vndb: "c8562"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c8562.webp"
 ---
 
-# 帕阿C惠
+# パーチェ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

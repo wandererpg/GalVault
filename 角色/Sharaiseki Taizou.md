@@ -5,7 +5,10 @@ display_title: "社濑石胎藏"
 title_zh: "社濑石胎藏"
 title_ja: "社瀬石 胎蔵"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c134865"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sharaiseki Taizou"
   - "社瀬石 胎蔵"

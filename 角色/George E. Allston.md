@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34408"
 type: "character"
-display_title: "乔奥吉奥奥露寿斗恩"
-title_zh: "乔奥吉奥奥露寿斗恩"
+display_title: "ジョージ・オールストン"
+title_zh: ""
 title_ja: "ジョージ・オールストン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34408"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "George E. Allston"
-  - "ジョージ・オールストン"
 source_ids:
   vndb: "c34408"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c34408.webp"
 ---
 
-# 乔奥吉奥奥露寿斗恩
+# ジョージ・オールストン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

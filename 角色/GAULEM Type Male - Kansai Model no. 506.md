@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c17615"
 type: "character"
-display_title: "雅乌L惠M·TY佩·真L惠·加恩沙伊·莫德L·乃·506"
-title_zh: "雅乌L惠M·TY佩·真L惠·加恩沙伊·莫德L·乃·506"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "GAULEM Type Male - Kansai Model no. 506"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17615"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "GAULEM Type Male - Kansai Model no. 506"
   - "506"
   - "G-OLM"
   - "GLTM-CM-G-OLM"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c17615.webp"
 ---
 
-# 雅乌L惠M·TY佩·真L惠·加恩沙伊·莫德L·乃·506
+# GAULEM Type Male - Kansai Model no. 506
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

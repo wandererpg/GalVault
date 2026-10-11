@@ -5,7 +5,10 @@ display_title: "佐々木爱次郎"
 title_zh: "佐々木爱次郎"
 title_ja: "佐々木 愛次郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c66702"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sasaki Aijirou"
   - "佐々木 愛次郎"

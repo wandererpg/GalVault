@@ -5,7 +5,10 @@ display_title: "空闲雅人"
 title_zh: "空闲雅人"
 title_ja: "空閑 雅人"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c125648"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kuga Masato"
   - "空閑 雅人"

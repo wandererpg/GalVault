@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98015"
 type: "character"
-display_title: "惠S濑露莉恩久"
-title_zh: "惠S濑露莉恩久"
+display_title: "ケッセルリンク"
+title_zh: ""
 title_ja: "ケッセルリンク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98015"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kesselring"
-  - "ケッセルリンク"
 source_ids:
   vndb: "c98015"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98015.webp"
 ---
 
-# 惠S濑露莉恩久
+# ケッセルリンク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

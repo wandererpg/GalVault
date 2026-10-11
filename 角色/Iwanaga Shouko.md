@@ -5,7 +5,10 @@ display_title: "岩永翔子"
 title_zh: "岩永翔子"
 title_ja: "岩永 翔子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c8525"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Iwanaga Shouko"
   - "岩永 翔子"

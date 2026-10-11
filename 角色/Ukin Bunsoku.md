@@ -5,7 +5,10 @@ display_title: "于禁文则"
 title_zh: "于禁文则"
 title_ja: "于禁 文則"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c25773"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ukin Bunsoku"
   - "于禁 文則"

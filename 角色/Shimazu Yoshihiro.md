@@ -5,7 +5,10 @@ display_title: "岛津义弘"
 title_zh: "岛津义弘"
 title_ja: "島津 義弘"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c12541"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shimazu Yoshihiro"
   - "島津 義弘"

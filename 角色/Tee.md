@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c56358"
 type: "character"
-display_title: "特伊"
-title_zh: "特伊"
+display_title: "ティ"
+title_zh: ""
 title_ja: "ティ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56358"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tee"
-  - "ティ"
 source_ids:
   vndb: "c56358"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c56358.webp"
 ---
 
-# 特伊
+# ティ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

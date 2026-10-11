@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c55892"
 type: "character"
-display_title: "太露雅阿奈皇太子"
-title_zh: "太露雅阿奈皇太子"
+display_title: "タルガーナ皇太子"
+title_zh: ""
 title_ja: "タルガーナ皇太子"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c55892"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Prince Targana"
-  - "タルガーナ皇太子"
 source_ids:
   vndb: "c55892"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c55892.webp"
 ---
 
-# 太露雅阿奈皇太子
+# タルガーナ皇太子
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

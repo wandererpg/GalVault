@@ -5,7 +5,10 @@ display_title: "佐仓雾"
 title_zh: "佐仓雾"
 title_ja: "佐倉 霧"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c3660"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakura Kiri"
   - "佐倉 霧"

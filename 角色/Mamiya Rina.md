@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c3846"
 type: "character"
-display_title: "间宫莉奈"
-title_zh: "间宫莉奈"
+display_title: "間宮 リナ"
+title_zh: ""
 title_ja: "間宮 リナ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c3846"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mamiya Rina"
-  - "間宮 リナ"
   - "間宮 律子"
   - "Mamiya Ritsuko"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c3846.webp"
 ---
 
-# 间宫莉奈
+# 間宮 リナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

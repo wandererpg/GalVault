@@ -5,7 +5,10 @@ display_title: "穗高菜穗"
 title_zh: "穗高菜穗"
 title_ja: "穂高 菜穂"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c115783"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hodaka Naho"
   - "穂高 菜穂"

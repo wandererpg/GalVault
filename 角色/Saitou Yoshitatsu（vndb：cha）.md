@@ -5,7 +5,10 @@ display_title: "斋藤义龙"
 title_zh: "斋藤义龙"
 title_ja: "斎藤 義龍"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c40995"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Saitou Yoshitatsu"
   - "斎藤 義龍"

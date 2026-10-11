@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c138356"
 type: "character"
-display_title: "F惠F惠莉·佩伊X惠S"
-title_zh: "F惠F惠莉·佩伊X惠S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Feferi Peixes"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138356"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Feferi Peixes"
   - "cuttlefishCuller"
   - "Witch of Life"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c138356.webp"
 ---
 
-# F惠F惠莉·佩伊X惠S
+# Feferi Peixes
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

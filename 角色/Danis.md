@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c143499"
 type: "character"
-display_title: "达尼S"
-title_zh: "达尼S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Danis"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c143499"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Danis"
   - "Curator"
 source_ids:
   vndb: "c143499"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c143499.webp"
 ---
 
-# 达尼S
+# Danis
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

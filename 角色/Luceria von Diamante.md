@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8825"
 type: "character"
-display_title: "露濑莉阿F奥恩D伊阿真恩特"
-title_zh: "露濑莉阿F奥恩D伊阿真恩特"
+display_title: "ルセリア・フォン・ディアマンテ"
+title_zh: ""
 title_ja: "ルセリア・フォン・ディアマンテ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8825"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Luceria von Diamante"
-  - "ルセリア・フォン・ディアマンテ"
   - "Ruseria von Diamante"
   - "Russelior von Diamante"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c8825.webp"
 ---
 
-# 露濑莉阿F奥恩D伊阿真恩特
+# ルセリア・フォン・ディアマンテ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

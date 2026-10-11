@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c36014"
 type: "character"
-display_title: "蛯原乌拉拉"
-title_zh: "蛯原乌拉拉"
+display_title: "蛯原 うらら"
+title_zh: ""
 title_ja: "蛯原 うらら"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c36014"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ebihara Urara"
-  - "蛯原 うらら"
 source_ids:
   vndb: "c36014"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c36014.webp"
 ---
 
-# 蛯原乌拉拉
+# 蛯原 うらら
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

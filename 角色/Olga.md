@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c21179"
 type: "character"
-display_title: "奥奥莉雅"
-title_zh: "奥奥莉雅"
+display_title: "オーリガ"
+title_zh: ""
 title_ja: "オーリガ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c21179"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Olga"
-  - "オーリガ"
   - "Origa"
 source_ids:
   vndb: "c21179"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c21179.webp"
 ---
 
-# 奥奥莉雅
+# オーリガ
 
 
 ## 角色画像

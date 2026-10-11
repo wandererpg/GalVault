@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c149258"
 type: "character"
-display_title: "奈津芽·奥奥惠"
-title_zh: "奈津芽·奥奥惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Natsume Ooe"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149258"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Natsume Ooe"
   - "大江 夏目"
   - "Ooe Natsume"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c149258.webp"
 ---
 
-# 奈津芽·奥奥惠
+# Natsume Ooe
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

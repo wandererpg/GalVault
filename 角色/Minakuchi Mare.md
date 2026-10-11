@@ -5,7 +5,10 @@ display_title: "水口似"
 title_zh: "水口似"
 title_ja: "水口 似"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c164631"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Minakuchi Mare"
   - "水口 似"

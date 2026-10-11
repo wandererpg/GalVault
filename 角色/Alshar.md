@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c146630"
 type: "character"
-display_title: "阿露夏阿露"
-title_zh: "阿露夏阿露"
+display_title: "アルシャール"
+title_zh: ""
 title_ja: "アルシャール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c146630"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alshar"
-  - "アルシャール"
 source_ids:
   vndb: "c146630"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c146630.webp"
 ---
 
-# 阿露夏阿露
+# アルシャール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "百目鬼潜"
 title_zh: "百目鬼潜"
 title_ja: "百目鬼 潜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c144401"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Domeki Kuguri"
   - "百目鬼 潜"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c526"
 type: "character"
-display_title: "子蕾T斗阿奈寿太诗阿"
-title_zh: "子蕾T斗阿奈寿太诗阿"
+display_title: "コレット・アナスタシア"
+title_zh: ""
 title_ja: "コレット・アナスタシア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c526"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Colette Anastasia"
-  - "コレット・アナスタシア"
   - "聖女 イレーヌ"
   - "Saint Irene"
   - "Blind Saint"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c526.webp"
 ---
 
-# 子蕾T斗阿奈寿太诗阿
+# コレット・アナスタシア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

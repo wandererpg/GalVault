@@ -5,7 +5,10 @@ display_title: "深海恭平"
 title_zh: "深海恭平"
 title_ja: "深海 恭平"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c113574"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fukami Kyouhei"
   - "深海 恭平"

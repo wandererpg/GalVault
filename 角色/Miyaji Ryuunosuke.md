@@ -5,7 +5,10 @@ display_title: "宫地龙之介"
 title_zh: "宫地龙之介"
 title_ja: "宮地 龍之介"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c4797"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Miyaji Ryuunosuke"
   - "宮地 龍之介"

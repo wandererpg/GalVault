@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c146631"
 type: "character"
-display_title: "音F伊莉阿"
-title_zh: "音F伊莉阿"
+display_title: "ネフィリア"
+title_zh: ""
 title_ja: "ネフィリア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c146631"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nephilia"
-  - "ネフィリア"
 source_ids:
   vndb: "c146631"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c146631.webp"
 ---
 
-# 音F伊莉阿
+# ネフィリア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

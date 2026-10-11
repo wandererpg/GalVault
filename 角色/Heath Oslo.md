@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c7408"
 type: "character"
-display_title: "日伊寿奥寿洛"
-title_zh: "日伊寿奥寿洛"
+display_title: "ヒース・オスロ"
+title_zh: ""
 title_ja: "ヒース・オスロ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c7408"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Heath Oslo"
-  - "ヒース・オスロ"
 source_ids:
   vndb: "c7408"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c7408.webp"
 ---
 
-# 日伊寿奥寿洛
+# ヒース・オスロ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98324"
 type: "character"
-display_title: "斗露寿斗伊巴斗奥"
-title_zh: "斗露寿斗伊巴斗奥"
+display_title: "トルストイ・バトー"
+title_zh: ""
 title_ja: "トルストイ・バトー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98324"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tolstoy Batou"
-  - "トルストイ・バトー"
 source_ids:
   vndb: "c98324"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98324.webp"
 ---
 
-# 斗露寿斗伊巴斗奥
+# トルストイ・バトー
 
 
 ## 角色画像

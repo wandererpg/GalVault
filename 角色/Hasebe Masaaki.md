@@ -5,7 +5,10 @@ display_title: "支部雅章"
 title_zh: "支部雅章"
 title_ja: "支部 雅章"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c156628"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hasebe Masaaki"
   - "支部 雅章"

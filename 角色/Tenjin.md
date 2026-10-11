@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c138174"
 type: "character"
-display_title: "特恩吉恩"
-title_zh: "特恩吉恩"
+display_title: "テンジン"
+title_zh: ""
 title_ja: "テンジン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138174"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tenjin"
-  - "テンジン"
 source_ids:
   vndb: "c138174"
 source_urls:
   vndb: "https://vndb.org/c138174"
 ---
 
-# 特恩吉恩
+# テンジン
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

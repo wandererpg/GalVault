@@ -5,7 +5,10 @@ display_title: "饰马律"
 title_zh: "饰马律"
 title_ja: "飾馬 律"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21044"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kazama Ritsu"
   - "飾馬 律"

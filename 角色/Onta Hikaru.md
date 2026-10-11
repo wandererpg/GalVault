@@ -5,7 +5,10 @@ display_title: "小鹿田光"
 title_zh: "小鹿田光"
 title_ja: "小鹿田 光"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21719"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Onta Hikaru"
   - "小鹿田 光"

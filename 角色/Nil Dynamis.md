@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30456"
 type: "character"
-display_title: "尼露德优奈美寿"
-title_zh: "尼露德优奈美寿"
+display_title: "ニル・デュナミス"
+title_zh: ""
 title_ja: "ニル・デュナミス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30456"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nil Dynamis"
-  - "ニル・デュナミス"
 source_ids:
   vndb: "c30456"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30456.webp"
 ---
 
-# 尼露德优奈美寿
+# ニル・デュナミス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

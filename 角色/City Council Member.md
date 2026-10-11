@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c97413"
 type: "character"
-display_title: "C伊TY·C奥乌恩C伊L·芽M贝R"
-title_zh: "C伊TY·C奥乌恩C伊L·芽M贝R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "City Council Member"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97413"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "City Council Member"
 source_ids:
   vndb: "c97413"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c97413.webp"
 ---
 
-# C伊TY·C奥乌恩C伊L·芽M贝R
+# City Council Member
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

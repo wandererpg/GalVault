@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38345"
 type: "character"
-display_title: "乌惠伊恩上寺"
-title_zh: "乌惠伊恩上寺"
+display_title: "ウェイン 上寺"
+title_zh: ""
 title_ja: "ウェイン 上寺"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38345"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Wayne Uedera"
-  - "ウェイン 上寺"
   - "Kouta Uedera"
   - "Mad Dog Wayne"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c38345.webp"
 ---
 
-# 乌惠伊恩上寺
+# ウェイン 上寺
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

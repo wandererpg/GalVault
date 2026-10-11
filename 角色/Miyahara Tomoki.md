@@ -5,7 +5,10 @@ display_title: "宫原智树"
 title_zh: "宫原智树"
 title_ja: "宮原 智樹"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c284"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Miyahara Tomoki"
   - "宮原 智樹"

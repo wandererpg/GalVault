@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c48179"
 type: "character"
-display_title: "久濑露久濑寿濑露拉布莉伊斗"
-title_zh: "久濑露久濑寿濑露拉布莉伊斗"
+display_title: "クセルクセス・セルラ・ブリート"
+title_zh: ""
 title_ja: "クセルクセス・セルラ・ブリート"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c48179"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Xerxes Cellular Breet"
-  - "クセルクセス・セルラ・ブリート"
   - "クセル"
   - "Xer"
   - "機関の姫"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c48179.webp"
 ---
 
-# 久濑露久濑寿濑露拉布莉伊斗
+# クセルクセス・セルラ・ブリート
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

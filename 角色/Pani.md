@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c6289"
 type: "character"
-display_title: "帕尼"
-title_zh: "帕尼"
+display_title: "ぱに"
+title_zh: ""
 title_ja: "ぱに"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c6289"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Pani"
-  - "ぱに"
 source_ids:
   vndb: "c6289"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c6289.webp"
 ---
 
-# 帕尼
+# ぱに
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

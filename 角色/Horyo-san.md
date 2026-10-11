@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c152017"
 type: "character"
-display_title: "捕虏沙恩"
-title_zh: "捕虏沙恩"
+display_title: "捕虜さん"
+title_zh: ""
 title_ja: "捕虜さん"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c152017"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Horyo-san"
-  - "捕虜さん"
   - "Enemy P.O.W."
   - "Paragon of Nature"
   - "Squad Six Commander"
@@ -21,7 +23,7 @@ source_urls:
 portrait_image: "assets/characters/c152017.webp"
 ---
 
-# 捕虏沙恩
+# 捕虜さん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

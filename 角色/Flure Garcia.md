@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c104157"
 type: "character"
-display_title: "芙露乌蕾雅露诗阿"
-title_zh: "芙露乌蕾雅露诗阿"
+display_title: "フルーレ・ガルシア"
+title_zh: ""
 title_ja: "フルーレ・ガルシア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c104157"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Flure Garcia"
-  - "フルーレ・ガルシア"
 source_ids:
   vndb: "c104157"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c104157.webp"
 ---
 
-# 芙露乌蕾雅露诗阿
+# フルーレ・ガルシア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

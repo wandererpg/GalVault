@@ -5,7 +5,10 @@ display_title: "天野千轮"
 title_zh: "天野千轮"
 title_ja: "天野 千輪"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c26837"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Amano Chiwa"
   - "天野 千輪"

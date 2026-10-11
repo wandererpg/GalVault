@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c810"
 type: "character"
-display_title: "九条久露莉"
-title_zh: "九条久露莉"
+display_title: "九条 くるり"
+title_zh: ""
 title_ja: "九条 くるり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c810"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kujou Kururi"
-  - "九条 くるり"
 source_ids:
   vndb: "c810"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c810.webp"
 ---
 
-# 九条久露莉
+# 九条 くるり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

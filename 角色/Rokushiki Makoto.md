@@ -5,7 +5,10 @@ display_title: "六识命"
 title_zh: "六识命"
 title_ja: "六識 命"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c89850"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Rokushiki Makoto"
   - "六識 命"

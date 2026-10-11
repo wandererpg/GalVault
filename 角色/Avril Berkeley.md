@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c69600"
 type: "character"
-display_title: "阿V乌莉露巴阿久蕾伊"
-title_zh: "阿V乌莉露巴阿久蕾伊"
+display_title: "アヴリル・バークレイ"
+title_zh: ""
 title_ja: "アヴリル・バークレイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c69600"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Avril Berkeley"
-  - "アヴリル・バークレイ"
   - "Avy"
 source_ids:
   vndb: "c69600"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c69600.webp"
 ---
 
-# 阿V乌莉露巴阿久蕾伊
+# アヴリル・バークレイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

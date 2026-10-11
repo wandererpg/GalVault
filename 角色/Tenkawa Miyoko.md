@@ -5,7 +5,10 @@ display_title: "天川美夜子"
 title_zh: "天川美夜子"
 title_ja: "天川 美夜子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14562"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tenkawa Miyoko"
   - "天川 美夜子"

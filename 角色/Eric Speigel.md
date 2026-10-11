@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c112181"
 type: "character"
-display_title: "惠莉C·S佩伊格L"
-title_zh: "惠莉C·S佩伊格L"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Eric Speigel"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c112181"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Eric Speigel"
   - "Spider"
 source_ids:
   vndb: "c112181"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c112181.webp"
 ---
 
-# 惠莉C·S佩伊格L
+# Eric Speigel
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

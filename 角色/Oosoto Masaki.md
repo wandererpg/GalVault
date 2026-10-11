@@ -5,7 +5,10 @@ display_title: "大外圣生"
 title_zh: "大外圣生"
 title_ja: "大外 聖生"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c83862"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Oosoto Masaki"
   - "大外 聖生"

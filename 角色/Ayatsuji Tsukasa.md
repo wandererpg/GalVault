@@ -5,7 +5,10 @@ display_title: "绚辻词"
 title_zh: "绚辻词"
 title_ja: "絢辻 詞"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c8744"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ayatsuji Tsukasa"
   - "絢辻 詞"

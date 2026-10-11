@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c7687"
 type: "character"
-display_title: "女主角"
-title_zh: "女主角"
+display_title: "メインヒロイン"
+title_zh: ""
 title_ja: "メインヒロイン"
-title_zh_quality: "glossary"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c7687"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Heroine"
-  - "メインヒロイン"
 source_ids:
   vndb: "c7687"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c7687.webp"
 ---
 
-# 女主角
+# メインヒロイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

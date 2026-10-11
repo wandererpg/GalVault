@@ -5,7 +5,10 @@ display_title: "萩主水"
 title_zh: "萩主水"
 title_ja: "萩 主水"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21720"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hagi Mondo"
   - "萩 主水"

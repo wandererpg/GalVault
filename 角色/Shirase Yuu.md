@@ -5,7 +5,10 @@ display_title: "白濑优"
 title_zh: "白濑优"
 title_ja: "白瀬 優"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c11340"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shirase Yuu"
   - "白瀬 優"

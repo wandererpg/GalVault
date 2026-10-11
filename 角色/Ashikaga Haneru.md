@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c9204"
 type: "character"
-display_title: "足利羽音露"
-title_zh: "足利羽音露"
+display_title: "足利 はねる"
+title_zh: ""
 title_ja: "足利 はねる"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c9204"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ashikaga Haneru"
-  - "足利 はねる"
   - "Pyon"
   - "ピョン"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c9204.webp"
 ---
 
-# 足利羽音露
+# 足利 はねる
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

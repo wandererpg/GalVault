@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c141173"
 type: "character"
-display_title: "V伊久太阿蕾伊"
-title_zh: "V伊久太阿蕾伊"
+display_title: "ヴィクター・レイ"
+title_zh: ""
 title_ja: "ヴィクター・レイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141173"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Victor Ray"
-  - "ヴィクター・レイ"
 source_ids:
   vndb: "c141173"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c141173.webp"
 ---
 
-# V伊久太阿蕾伊
+# ヴィクター・レイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

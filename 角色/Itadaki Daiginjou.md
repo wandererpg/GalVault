@@ -5,7 +5,10 @@ display_title: "顶大吟酿"
 title_zh: "顶大吟酿"
 title_ja: "頂 大吟醸"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c137508"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Itadaki Daiginjou"
   - "頂 大吟醸"

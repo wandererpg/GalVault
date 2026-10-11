@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c25744"
 type: "character"
-display_title: "惠露恩寿斗"
-title_zh: "惠露恩寿斗"
+display_title: "エルンスト"
+title_zh: ""
 title_ja: "エルンスト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c25744"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ernst"
-  - "エルンスト"
 source_ids:
   vndb: "c25744"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c25744.webp"
 ---
 
-# 惠露恩寿斗
+# エルンスト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c155421"
 type: "character"
-display_title: "德ST伊恩Y·L伊恩音T"
-title_zh: "德ST伊恩Y·L伊恩音T"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Destiny Linnet"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155421"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Destiny Linnet"
 source_ids:
   vndb: "c155421"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c155421.webp"
 ---
 
-# 德ST伊恩Y·L伊恩音T
+# Destiny Linnet
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

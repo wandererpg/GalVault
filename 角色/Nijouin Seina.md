@@ -5,7 +5,10 @@ display_title: "二条院圣奈"
 title_zh: "二条院圣奈"
 title_ja: "二条院 聖奈"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c59645"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nijouin Seina"
   - "二条院 聖奈"

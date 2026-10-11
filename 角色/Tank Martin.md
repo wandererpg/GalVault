@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71179"
 type: "character"
-display_title: "太恩久＝真露太恩"
-title_zh: "太恩久＝真露太恩"
+display_title: "タンク＝マルタン"
+title_zh: ""
 title_ja: "タンク＝マルタン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71179"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tank Martin"
-  - "タンク＝マルタン"
 source_ids:
   vndb: "c71179"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71179.webp"
 ---
 
-# 太恩久＝真露太恩
+# タンク＝マルタン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

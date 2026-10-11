@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17716"
 type: "character"
-display_title: "鹭月露加"
-title_zh: "鹭月露加"
+display_title: "鷺月 ルカ"
+title_zh: ""
 title_ja: "鷺月 ルカ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17716"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sagitsuki Ruka"
-  - "鷺月 ルカ"
   - "L.S."
 source_ids:
   vndb: "c17716"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c17716.webp"
 ---
 
-# 鹭月露加
+# 鷺月 ルカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

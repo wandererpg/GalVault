@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87694"
 type: "character"
-display_title: "惠皮洛吉"
-title_zh: "惠皮洛吉"
+display_title: "エピロギ"
+title_zh: ""
 title_ja: "エピロギ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87694"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Epilogi"
-  - "エピロギ"
 source_ids:
   vndb: "c87694"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c87694.webp"
 ---
 
-# 惠皮洛吉
+# エピロギ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

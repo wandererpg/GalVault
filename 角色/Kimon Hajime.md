@@ -5,7 +5,10 @@ display_title: "鬼门始"
 title_zh: "鬼门始"
 title_ja: "鬼門 始"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2443"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kimon Hajime"
   - "鬼門 始"

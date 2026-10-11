@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c157511"
 type: "character"
-display_title: "津希"
-title_zh: "津希"
+display_title: "ツキ"
+title_zh: ""
 title_ja: "ツキ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c157511"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ji"
-  - "ツキ"
 source_ids:
   vndb: "c157511"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c157511.webp"
 ---
 
-# 津希
+# ツキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

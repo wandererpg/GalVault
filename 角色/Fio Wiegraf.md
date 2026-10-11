@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71174"
 type: "character"
-display_title: "F伊奥＝乌伊伊古拉芙"
-title_zh: "F伊奥＝乌伊伊古拉芙"
+display_title: "フィオ＝ウィーグラフ"
+title_zh: ""
 title_ja: "フィオ＝ウィーグラフ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71174"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Fio Wiegraf"
-  - "フィオ＝ウィーグラフ"
 source_ids:
   vndb: "c71174"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71174.webp"
 ---
 
-# F伊奥＝乌伊伊古拉芙
+# フィオ＝ウィーグラフ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c166691"
 type: "character"
-display_title: "加拉莉寿"
-title_zh: "加拉莉寿"
+display_title: "カラリス"
+title_zh: ""
 title_ja: "カラリス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c166691"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Arkis"
-  - "カラリス"
 source_ids:
   vndb: "c166691"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c166691.webp"
 ---
 
-# 加拉莉寿
+# カラリス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

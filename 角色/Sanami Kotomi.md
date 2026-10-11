@@ -5,7 +5,10 @@ display_title: "佐奈美琴美"
 title_zh: "佐奈美琴美"
 title_ja: "佐奈美 琴美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c64875"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sanami Kotomi"
   - "佐奈美 琴美"

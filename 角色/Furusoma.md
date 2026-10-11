@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c35106"
 type: "character"
-display_title: "芙露索真"
-title_zh: "芙露索真"
+display_title: "フルソマ"
+title_zh: ""
 title_ja: "フルソマ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c35106"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Furusoma"
-  - "フルソマ"
 source_ids:
   vndb: "c35106"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c35106.webp"
 ---
 
-# 芙露索真
+# フルソマ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

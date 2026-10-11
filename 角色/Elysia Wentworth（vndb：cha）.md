@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c33497"
 type: "character"
-display_title: "惠莉诗阿乌惠恩斗和阿寿"
-title_zh: "惠莉诗阿乌惠恩斗和阿寿"
+display_title: "エリシア・ウェントワース"
+title_zh: ""
 title_ja: "エリシア・ウェントワース"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33497"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Elysia Wentworth"
-  - "エリシア・ウェントワース"
   - "エリ"
   - "Elly"
   - "リリィ"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c33497.webp"
 ---
 
-# 惠莉诗阿乌惠恩斗和阿寿
+# エリシア・ウェントワース
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "肥前伊万里"
 title_zh: "肥前伊万里"
 title_ja: "肥前　伊万里"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c52846"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hizen Imari"
   - "肥前　伊万里"

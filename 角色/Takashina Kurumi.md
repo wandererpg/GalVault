@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17902"
 type: "character"
-display_title: "高科久露美"
-title_zh: "高科久露美"
+display_title: "高科 くるみ"
+title_zh: ""
 title_ja: "高科 くるみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17902"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Takashina Kurumi"
-  - "高科 くるみ"
 source_ids:
   vndb: "c17902"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c17902.webp"
 ---
 
-# 高科久露美
+# 高科 くるみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

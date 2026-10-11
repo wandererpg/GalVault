@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c141422"
 type: "character"
-display_title: "T伊FF阿尼"
-title_zh: "T伊FF阿尼"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Tiffani"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141422"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Tiffani"
 source_ids:
   vndb: "c141422"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c141422.webp"
 ---
 
-# T伊FF阿尼
+# Tiffani
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

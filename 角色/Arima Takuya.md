@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c3859"
 type: "character"
-display_title: "有马太久雅"
-title_zh: "有马太久雅"
+display_title: "有馬 たくや"
+title_zh: ""
 title_ja: "有馬 たくや"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c3859"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Arima Takuya"
-  - "有馬 たくや"
 source_ids:
   vndb: "c3859"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c3859.webp"
 ---
 
-# 有马太久雅
+# 有馬 たくや
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

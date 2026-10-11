@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61202"
 type: "character"
-display_title: "惠T特恩久拉阿斗"
-title_zh: "惠T特恩久拉阿斗"
+display_title: "ケッテンクラート"
+title_zh: ""
 title_ja: "ケッテンクラート"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61202"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kettenkrad"
-  - "ケッテンクラート"
 source_ids:
   vndb: "c61202"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61202.webp"
 ---
 
-# 惠T特恩久拉阿斗
+# ケッテンクラート
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

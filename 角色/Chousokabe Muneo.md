@@ -5,7 +5,10 @@ display_title: "长宗我部宗男"
 title_zh: "长宗我部宗男"
 title_ja: "長宗我部 宗男"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9923"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Chousokabe Muneo"
   - "長宗我部 宗男"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c142529"
 type: "character"
-display_title: "S特F阿乃·加普L惠TT伊"
-title_zh: "S特F阿乃·加普L惠TT伊"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Stefano Kapuletti"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c142529"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Stefano Kapuletti"
   - "Zio"
 source_ids:
   vndb: "c142529"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c142529.webp"
 ---
 
-# S特F阿乃·加普L惠TT伊
+# Stefano Kapuletti
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

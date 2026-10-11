@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c113561"
 type: "character"
-display_title: "女仆"
-title_zh: "女仆"
+display_title: "メイド"
+title_zh: ""
 title_ja: "メイド"
-title_zh_quality: "glossary"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c113561"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Maid"
-  - "メイド"
   - "Joan Garrideb"
   - "ジョーン・ガリデブ"
   - "Joan Garidebu"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c113561.webp"
 ---
 
-# 女仆
+# メイド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

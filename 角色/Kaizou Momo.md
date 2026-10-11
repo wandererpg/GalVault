@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c50424"
 type: "character"
-display_title: "海藏莫莫"
-title_zh: "海藏莫莫"
+display_title: "海蔵 もも"
+title_zh: ""
 title_ja: "海蔵 もも"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c50424"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kaizou Momo"
-  - "海蔵 もも"
 source_ids:
   vndb: "c50424"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c50424.webp"
 ---
 
-# 海藏莫莫
+# 海蔵 もも
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

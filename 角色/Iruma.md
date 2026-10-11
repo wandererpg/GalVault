@@ -5,7 +5,10 @@ display_title: "入麻"
 title_zh: "入麻"
 title_ja: "入麻"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c103786"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Iruma"
 source_ids:

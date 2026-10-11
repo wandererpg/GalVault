@@ -5,7 +5,10 @@ display_title: "西田巧"
 title_zh: "西田巧"
 title_ja: "西田 巧"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c89628"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nishida Takumi"
   - "西田 巧"

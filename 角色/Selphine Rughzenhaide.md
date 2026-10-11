@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c24362"
 type: "character"
-display_title: "濑露F伊伊音露泽恩羽伊堂"
-title_zh: "濑露F伊伊音露泽恩羽伊堂"
+display_title: "セルフィーネ・ルゼンハイド"
+title_zh: ""
 title_ja: "セルフィーネ・ルゼンハイド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c24362"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Selphine Rughzenhaide"
-  - "セルフィーネ・ルゼンハイド"
   - "Princess Rughzenhaide"
   - "Selly"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c24362.webp"
 ---
 
-# 濑露F伊伊音露泽恩羽伊堂
+# セルフィーネ・ルゼンハイド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

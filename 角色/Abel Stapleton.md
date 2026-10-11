@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26327"
 type: "character"
-display_title: "阿贝露寿特伊普露斗恩"
-title_zh: "阿贝露寿特伊普露斗恩"
+display_title: "アベル・ステイプルトン"
+title_zh: ""
 title_ja: "アベル・ステイプルトン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26327"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Abel Stapleton"
-  - "アベル・ステイプルトン"
   - "アスタロト"
   - "Astaroth"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c26327.webp"
 ---
 
-# 阿贝露寿特伊普露斗恩
+# アベル・ステイプルトン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

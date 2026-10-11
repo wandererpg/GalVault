@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c41604"
 type: "character"
-display_title: "子吉露"
-title_zh: "子吉露"
+display_title: "子ギル"
+title_zh: ""
 title_ja: "子ギル"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c41604"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ko-Gil"
-  - "子ギル"
   - "Child-Gil"
 source_ids:
   vndb: "c41604"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c41604.webp"
 ---
 
-# 子吉露
+# 子ギル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

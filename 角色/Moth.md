@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c154208"
 type: "character"
-display_title: "莫TH"
-title_zh: "莫TH"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Moth"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c154208"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Moth"
 source_ids:
   vndb: "c154208"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c154208.webp"
 ---
 
-# 莫TH
+# Moth
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

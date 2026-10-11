@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c22337"
 type: "character"
-display_title: "诗阿"
-title_zh: "诗阿"
+display_title: "シア"
+title_zh: ""
 title_ja: "シア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c22337"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shia"
-  - "シア"
   - "Eleshia Trilees"
 source_ids:
   vndb: "c22337"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c22337.webp"
 ---
 
-# 诗阿
+# シア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

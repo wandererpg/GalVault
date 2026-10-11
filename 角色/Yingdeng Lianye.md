@@ -5,7 +5,10 @@ display_title: "萤灯恋夜"
 title_zh: "萤灯恋夜"
 title_ja: "萤灯恋夜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c136032"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yingdeng Lianye"
 source_ids:

@@ -5,7 +5,10 @@ display_title: "晓光一郎"
 title_zh: "晓光一郎"
 title_ja: "暁 光一郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c82646"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Akatsuki Kouichirou"
   - "暁 光一郎"

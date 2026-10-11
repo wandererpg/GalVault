@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c6177"
 type: "character"
-display_title: "芽伊莉德露阿阿诗惠洛T斗"
-title_zh: "芽伊莉德露阿阿诗惠洛T斗"
+display_title: "メイ・リデル・アーシェロット"
+title_zh: ""
 title_ja: "メイ・リデル・アーシェロット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c6177"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "May Liddell Archelot"
-  - "メイ・リデル・アーシェロット"
 source_ids:
   vndb: "c6177"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c6177.webp"
 ---
 
-# 芽伊莉德露阿阿诗惠洛T斗
+# メイ・リデル・アーシェロット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "緖方智树"
 title_zh: "緖方智树"
 title_ja: "緒方 智樹"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c93281"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ogata Tomoki"
   - "緒方 智樹"

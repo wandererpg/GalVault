@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c119861"
 type: "character"
-display_title: "V惠S佩R"
-title_zh: "V惠S佩R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Vesper"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c119861"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Vesper"
 source_ids:
   vndb: "c119861"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c119861.webp"
 ---
 
-# V惠S佩R
+# Vesper
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

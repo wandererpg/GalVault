@@ -5,7 +5,10 @@ display_title: "祖母"
 title_zh: "祖母"
 title_ja: "祖母"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c165819"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sobo"
 source_ids:

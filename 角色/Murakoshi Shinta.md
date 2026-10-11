@@ -5,7 +5,10 @@ display_title: "村越进太"
 title_zh: "村越进太"
 title_ja: "村越 進太"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c13269"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Murakoshi Shinta"
   - "村越 進太"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c166142"
 type: "character"
-display_title: "角森洛奈"
-title_zh: "角森洛奈"
+display_title: "角森ロナ"
+title_zh: ""
 title_ja: "角森ロナ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c166142"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tsunomori Rona"
-  - "角森ロナ"
 source_ids:
   vndb: "c166142"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c166142.webp"
 ---
 
-# 角森洛奈
+# 角森ロナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

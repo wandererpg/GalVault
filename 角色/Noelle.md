@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c155609"
 type: "character"
-display_title: "乃惠LL惠"
-title_zh: "乃惠LL惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Noelle"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155609"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Noelle"
 source_ids:
   vndb: "c155609"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c155609.webp"
 ---
 
-# 乃惠LL惠
+# Noelle
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

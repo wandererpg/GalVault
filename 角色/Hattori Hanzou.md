@@ -5,7 +5,10 @@ display_title: "服部半藏"
 title_zh: "服部半藏"
 title_ja: "服部 半蔵"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c55652"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hattori Hanzou"
   - "服部 半蔵"

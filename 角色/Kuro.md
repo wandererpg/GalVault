@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c171593"
 type: "character"
-display_title: "久洛"
-title_zh: "久洛"
+display_title: "クロ"
+title_zh: ""
 title_ja: "クロ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c171593"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kuro"
-  - "クロ"
 source_ids:
   vndb: "c171593"
 source_urls:
   vndb: "https://vndb.org/c171593"
 ---
 
-# 久洛
+# クロ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

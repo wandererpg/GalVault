@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c96065"
 type: "character"
-display_title: "维克托·W日特"
-title_zh: "维克托·W日特"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Victor White"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c96065"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Victor White"
 source_ids:
   vndb: "c96065"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c96065.webp"
 ---
 
-# 维克托·W日特
+# Victor White
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

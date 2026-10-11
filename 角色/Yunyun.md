@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c144420"
 type: "character"
-display_title: "优纽恩"
-title_zh: "优纽恩"
+display_title: "ゆんゆん"
+title_zh: ""
 title_ja: "ゆんゆん"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c144420"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yunyun"
-  - "ゆんゆん"
 source_ids:
   vndb: "c144420"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c144420.webp"
 ---
 
-# 优纽恩
+# ゆんゆん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

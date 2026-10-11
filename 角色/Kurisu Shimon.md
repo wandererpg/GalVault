@@ -5,7 +5,10 @@ display_title: "栗栖紫门"
 title_zh: "栗栖紫门"
 title_ja: "栗栖紫門"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c133210"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kurisu Shimon"
   - "栗栖紫門"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c74513"
 type: "character"
-display_title: "朱砂(阿加扎)"
-title_zh: "朱砂(阿加扎)"
+display_title: "朱砂 (アカザ)"
+title_zh: ""
 title_ja: "朱砂 (アカザ)"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c74513"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Akaza"
-  - "朱砂 (アカザ)"
   - "Iron Mask"
 source_ids:
   vndb: "c74513"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c74513.webp"
 ---
 
-# 朱砂(阿加扎)
+# 朱砂 (アカザ)
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

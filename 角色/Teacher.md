@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c99433"
 type: "character"
-display_title: "老师"
-title_zh: "老师"
+display_title: "先生"
+title_zh: "先生"
 title_ja: "先生"
-title_zh_quality: "glossary"
-title_status: "machine_generated"
+title_zh_quality: "converted_original"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c99433"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Teacher"
-  - "先生"
 source_ids:
   vndb: "c99433"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c99433.webp"
 ---
 
-# 老师
+# 先生
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

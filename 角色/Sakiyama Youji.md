@@ -5,7 +5,10 @@ display_title: "崎山蓉司"
 title_zh: "崎山蓉司"
 title_ja: "崎山 蓉司"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c18365"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakiyama Youji"
   - "崎山 蓉司"

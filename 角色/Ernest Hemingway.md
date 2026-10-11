@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c135318"
 type: "character"
-display_title: "惠R音ST·惠美恩G和Y"
-title_zh: "惠R音ST·惠美恩G和Y"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ernest Hemingway"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c135318"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ernest Hemingway"
   - "Lord of the East"
 source_ids:
   vndb: "c135318"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c135318.webp"
 ---
 
-# 惠R音ST·惠美恩G和Y
+# Ernest Hemingway
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

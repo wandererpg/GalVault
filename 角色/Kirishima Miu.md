@@ -5,7 +5,10 @@ display_title: "桐岛三羽"
 title_zh: "桐岛三羽"
 title_ja: "桐島 三羽"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c59651"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kirishima Miu"
   - "桐島 三羽"

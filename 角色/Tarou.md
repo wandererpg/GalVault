@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c91409"
 type: "character"
-display_title: "太洛乌"
-title_zh: "太洛乌"
+display_title: "タロウ"
+title_zh: ""
 title_ja: "タロウ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c91409"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tarou"
-  - "タロウ"
 source_ids:
   vndb: "c91409"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c91409.webp"
 ---
 
-# 太洛乌
+# タロウ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

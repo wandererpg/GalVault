@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c136923"
 type: "character"
-display_title: "莉加露堂沙恩特"
-title_zh: "莉加露堂沙恩特"
+display_title: "リカルド・サンテ"
+title_zh: ""
 title_ja: "リカルド・サンテ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136923"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ricardo Sante"
-  - "リカルド・サンテ"
   - "Rick"
 source_ids:
   vndb: "c136923"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c136923.webp"
 ---
 
-# 莉加露堂沙恩特
+# リカルド・サンテ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

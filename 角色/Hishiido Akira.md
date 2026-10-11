@@ -5,7 +5,10 @@ display_title: "菱井户晶"
 title_zh: "菱井户晶"
 title_ja: "菱井戸 晶"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c44370"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hishiido Akira"
   - "菱井戸 晶"

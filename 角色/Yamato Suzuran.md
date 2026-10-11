@@ -5,7 +5,10 @@ display_title: "大和铃兰"
 title_zh: "大和铃兰"
 title_ja: "大和 鈴蘭"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c38899"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yamato Suzuran"
   - "大和 鈴蘭"

@@ -5,7 +5,10 @@ display_title: "竹中夏阳"
 title_zh: "竹中夏阳"
 title_ja: "竹中 夏陽"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c98050"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takenaka Natsuhi"
   - "竹中 夏陽"

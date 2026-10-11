@@ -5,7 +5,10 @@ display_title: "李闯将"
 title_zh: "李闯将"
 title_ja: "李闯将"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c137619"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Li the Dashing General"
   - "The Dashing King"

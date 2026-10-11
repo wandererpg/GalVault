@@ -5,7 +5,10 @@ display_title: "火原和树"
 title_zh: "火原和树"
 title_ja: "火原 和樹"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c47452"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hihara Kazuki"
   - "火原 和樹"

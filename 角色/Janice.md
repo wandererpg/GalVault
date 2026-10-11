@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c95207"
 type: "character"
-display_title: "嘉尼C惠"
-title_zh: "嘉尼C惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Janice"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c95207"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Janice"
 source_ids:
   vndb: "c95207"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c95207.webp"
 ---
 
-# 嘉尼C惠
+# Janice
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

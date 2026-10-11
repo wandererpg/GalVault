@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c15068"
 type: "character"
-display_title: "久寿川沙沙拉"
-title_zh: "久寿川沙沙拉"
+display_title: "久寿川 ささら"
+title_zh: ""
 title_ja: "久寿川 ささら"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c15068"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kusugawa Sasara"
-  - "久寿川 ささら"
   - "さ～りゃん"
   - "Saaryan"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c15068.webp"
 ---
 
-# 久寿川沙沙拉
+# 久寿川 ささら
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

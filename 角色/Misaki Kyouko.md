@@ -5,12 +5,16 @@ display_title: "岬今日子"
 title_zh: "岬今日子"
 title_ja: "岬 今日子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2921"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Misaki Kyouko"
   - "岬 今日子"
   - "Kyouko of 'Void'"
   - "Tomboy Princess"
+  - "Kyouko of 'Void"
 source_ids:
   vndb: "c2921"
 source_urls:

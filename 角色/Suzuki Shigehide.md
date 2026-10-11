@@ -5,7 +5,10 @@ display_title: "铃木重秀"
 title_zh: "铃木重秀"
 title_ja: "鈴木 重秀"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c49222"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Suzuki Shigehide"
   - "鈴木 重秀"

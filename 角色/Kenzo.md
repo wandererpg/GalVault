@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c124746"
 type: "character"
-display_title: "惠恩藏"
-title_zh: "惠恩藏"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Kenzo"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124746"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Kenzo"
 source_ids:
   vndb: "c124746"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c124746.webp"
 ---
 
-# 惠恩藏
+# Kenzo
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

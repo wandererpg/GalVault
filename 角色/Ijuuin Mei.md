@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c2134"
 type: "character"
-display_title: "伊集院芽伊"
-title_zh: "伊集院芽伊"
+display_title: "伊集院 メイ"
+title_zh: ""
 title_ja: "伊集院 メイ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c2134"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ijuuin Mei"
-  - "伊集院 メイ"
   - "Ijuin Mei"
 source_ids:
   vndb: "c2134"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c2134.webp"
 ---
 
-# 伊集院芽伊
+# 伊集院 メイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

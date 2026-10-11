@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c146599"
 type: "character"
-display_title: "青木索菲娅"
-title_zh: "青木索菲娅"
+display_title: "青木 ソフィア"
+title_zh: ""
 title_ja: "青木 ソフィア"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c146599"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Aoki Sophia"
-  - "青木 ソフィア"
 source_ids:
   vndb: "c146599"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c146599.webp"
 ---
 
-# 青木索菲娅
+# 青木 ソフィア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

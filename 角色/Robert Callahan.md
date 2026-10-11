@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71088"
 type: "character"
-display_title: "洛巴阿斗佳拉羽恩"
-title_zh: "洛巴阿斗佳拉羽恩"
+display_title: "ロバート・キャラハン"
+title_zh: ""
 title_ja: "ロバート・キャラハン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71088"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Robert Callahan"
-  - "ロバート・キャラハン"
   - "ロブ"
   - "Rob"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c71088.webp"
 ---
 
-# 洛巴阿斗佳拉羽恩
+# ロバート・キャラハン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c127139"
 type: "character"
-display_title: "L阿美阿洛伊D"
-title_zh: "L阿美阿洛伊D"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Lamiaroid"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127139"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Lamiaroid"
 source_ids:
   vndb: "c127139"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c127139.webp"
 ---
 
-# L阿美阿洛伊D
+# Lamiaroid
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

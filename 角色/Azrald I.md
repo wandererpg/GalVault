@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c149889"
 type: "character"
-display_title: "阿兹拉露堂１世"
-title_zh: "阿兹拉露堂１世"
+display_title: "アズラルド１世"
+title_zh: ""
 title_ja: "アズラルド１世"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149889"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Azrald I"
-  - "アズラルド１世"
 source_ids:
   vndb: "c149889"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c149889.webp"
 ---
 
-# 阿兹拉露堂１世
+# アズラルド１世
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

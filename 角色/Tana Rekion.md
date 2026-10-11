@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71006"
 type: "character"
-display_title: "太阿奈＝蕾希奥恩"
-title_zh: "太阿奈＝蕾希奥恩"
+display_title: "ターナ＝レキオン"
+title_zh: ""
 title_ja: "ターナ＝レキオン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71006"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tana Rekion"
-  - "ターナ＝レキオン"
 source_ids:
   vndb: "c71006"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71006.webp"
 ---
 
-# 太阿奈＝蕾希奥恩
+# ターナ＝レキオン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

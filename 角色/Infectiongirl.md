@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c146671"
 type: "character"
-display_title: "伊恩F惠CT伊奥恩吉RL"
-title_zh: "伊恩F惠CT伊奥恩吉RL"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Infectiongirl"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c146671"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Infectiongirl"
 source_ids:
   vndb: "c146671"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c146671.webp"
 ---
 
-# 伊恩F惠CT伊奥恩吉RL
+# Infectiongirl
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

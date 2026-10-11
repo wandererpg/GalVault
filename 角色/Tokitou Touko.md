@@ -5,7 +5,10 @@ display_title: "时任灯子"
 title_zh: "时任灯子"
 title_ja: "時任 灯子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c62004"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tokitou Touko"
   - "時任 灯子"

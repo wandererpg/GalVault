@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c59971"
 type: "character"
-display_title: "梦乌斗"
-title_zh: "梦乌斗"
+display_title: "ムート"
+title_zh: ""
 title_ja: "ムート"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c59971"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Muto"
-  - "ムート"
 source_ids:
   vndb: "c59971"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c59971.webp"
 ---
 
-# 梦乌斗
+# ムート
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

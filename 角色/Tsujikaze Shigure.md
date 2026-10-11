@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c169046"
 type: "character"
-display_title: "辻风诗古蕾"
-title_zh: "辻风诗古蕾"
+display_title: "辻風 シグレ"
+title_zh: ""
 title_ja: "辻風 シグレ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c169046"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tsujikaze Shigure"
-  - "辻風 シグレ"
   - "朧"
   - "Oboro"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c169046.webp"
 ---
 
-# 辻风诗古蕾
+# 辻風 シグレ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

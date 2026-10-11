@@ -5,7 +5,10 @@ display_title: "苍井碧"
 title_zh: "苍井碧"
 title_ja: "蒼井 碧"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c83700"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Aoi Aoi"
   - "蒼井 碧"

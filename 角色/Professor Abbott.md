@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c123211"
 type: "character"
-display_title: "P洛F惠S索R·阿B博TT"
-title_zh: "P洛F惠S索R·阿B博TT"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Professor Abbott"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c123211"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Professor Abbott"
 source_ids:
   vndb: "c123211"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c123211.webp"
 ---
 
-# P洛F惠S索R·阿B博TT
+# Professor Abbott
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

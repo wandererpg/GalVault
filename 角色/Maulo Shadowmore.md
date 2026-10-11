@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c165840"
 type: "character"
-display_title: "真乌洛夏堂乌莫阿"
-title_zh: "真乌洛夏堂乌莫阿"
+display_title: "マウロ・シャドウモア"
+title_zh: ""
 title_ja: "マウロ・シャドウモア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c165840"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Maulo Shadowmore"
-  - "マウロ・シャドウモア"
 source_ids:
   vndb: "c165840"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c165840.webp"
 ---
 
-# 真乌洛夏堂乌莫阿
+# マウロ・シャドウモア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

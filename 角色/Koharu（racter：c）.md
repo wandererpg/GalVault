@@ -5,7 +5,10 @@ display_title: "小春"
 title_zh: "小春"
 title_ja: "小春"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c50302"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Koharu"
 source_ids:

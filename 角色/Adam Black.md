@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c68947"
 type: "character"
-display_title: "阿达梦"
-title_zh: "阿达梦"
+display_title: "アダム"
+title_zh: ""
 title_ja: "アダム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c68947"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Adam Black"
-  - "アダム"
   - "Kevin Feury"
 source_ids:
   vndb: "c68947"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c68947.webp"
 ---
 
-# 阿达梦
+# アダム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

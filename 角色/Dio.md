@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17618"
 type: "character"
-display_title: "D伊奥"
-title_zh: "D伊奥"
+display_title: "ディオ"
+title_zh: ""
 title_ja: "ディオ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17618"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Dio"
-  - "ディオ"
   - "B.O."
   - "Left"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c17618.webp"
 ---
 
-# D伊奥
+# ディオ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

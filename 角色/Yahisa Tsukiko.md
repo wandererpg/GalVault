@@ -5,7 +5,10 @@ display_title: "夜久月子"
 title_zh: "夜久月子"
 title_ja: "夜久 月子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c4788"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yahisa Tsukiko"
   - "夜久 月子"

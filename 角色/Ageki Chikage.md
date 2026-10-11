@@ -5,7 +5,10 @@ display_title: "扬木千景"
 title_zh: "扬木千景"
 title_ja: "揚木 千景"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c12134"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ageki Chikage"
   - "揚木 千景"

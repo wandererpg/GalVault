@@ -5,7 +5,10 @@ display_title: "天乐来々"
 title_zh: "天乐来々"
 title_ja: "天樂 来々"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c93407"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tengaku Rairai"
   - "天樂 来々"

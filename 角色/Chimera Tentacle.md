@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c126873"
 type: "character"
-display_title: "千芽拉·特恩太CL惠"
-title_zh: "千芽拉·特恩太CL惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Chimera Tentacle"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126873"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Chimera Tentacle"
 source_ids:
   vndb: "c126873"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c126873.webp"
 ---
 
-# 千芽拉·特恩太CL惠
+# Chimera Tentacle
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

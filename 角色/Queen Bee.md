@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125967"
 type: "character"
-display_title: "久伊伊恩比伊"
-title_zh: "久伊伊恩比伊"
+display_title: "クィーン・ビー"
+title_zh: ""
 title_ja: "クィーン・ビー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125967"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Queen Bee"
-  - "クィーン・ビー"
   - "Miria"
 source_ids:
   vndb: "c125967"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c125967.webp"
 ---
 
-# 久伊伊恩比伊
+# クィーン・ビー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

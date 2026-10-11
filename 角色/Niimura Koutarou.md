@@ -5,7 +5,10 @@ display_title: "新村幸太郎"
 title_zh: "新村幸太郎"
 title_ja: "新村 幸太郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c101478"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Niimura Koutarou"
   - "新村 幸太郎"

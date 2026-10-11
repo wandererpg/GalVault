@@ -5,7 +5,10 @@ display_title: "百濑克子"
 title_zh: "百濑克子"
 title_ja: "百瀬 克子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c4668"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Momose Katsuko"
   - "百瀬 克子"

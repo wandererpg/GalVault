@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30191"
 type: "character"
-display_title: "夏真阿拉久露P普"
-title_zh: "夏真阿拉久露P普"
+display_title: "シャマーラ・クルップ"
+title_zh: ""
 title_ja: "シャマーラ・クルップ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30191"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shamara Krupp"
-  - "シャマーラ・クルップ"
 source_ids:
   vndb: "c30191"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30191.webp"
 ---
 
-# 夏真阿拉久露P普
+# シャマーラ・クルップ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c143661"
 type: "character"
-display_title: "阿S佩恩·S伊M莫恩S"
-title_zh: "阿S佩恩·S伊M莫恩S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Aspen Simmons"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c143661"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Aspen Simmons"
 source_ids:
   vndb: "c143661"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c143661.webp"
 ---
 
-# 阿S佩恩·S伊M莫恩S
+# Aspen Simmons
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

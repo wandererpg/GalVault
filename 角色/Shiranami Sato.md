@@ -5,7 +5,10 @@ display_title: "白浪里"
 title_zh: "白浪里"
 title_ja: "白浪 里"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c163938"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shiranami Sato"
   - "白浪 里"

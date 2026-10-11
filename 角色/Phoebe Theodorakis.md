@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43332"
 type: "character"
-display_title: "F惠惠贝特奥堂拉希寿"
-title_zh: "F惠惠贝特奥堂拉希寿"
+display_title: "フェーベ・テオドラキス"
+title_zh: ""
 title_ja: "フェーベ・テオドラキス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43332"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Phoebe Theodorakis"
-  - "フェーベ・テオドラキス"
 source_ids:
   vndb: "c43332"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43332.webp"
 ---
 
-# F惠惠贝特奥堂拉希寿
+# フェーベ・テオドラキス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

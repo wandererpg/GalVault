@@ -5,7 +5,10 @@ display_title: "佐枝光雄"
 title_zh: "佐枝光雄"
 title_ja: "佐枝 光雄"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c92965"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Saegusa Mitsuo"
   - "佐枝 光雄"

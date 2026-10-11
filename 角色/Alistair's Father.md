@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c123602"
 type: "character"
-display_title: "阿L伊S太伊RS·F阿T惠R"
-title_zh: "阿L伊S太伊RS·F阿T惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Alistair's Father"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c123602"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Alistair's Father"
 source_ids:
   vndb: "c123602"
 source_urls:
   vndb: "https://vndb.org/c123602"
 ---
 
-# 阿L伊S太伊RS·F阿T惠R
+# Alistair's Father
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c96874"
 type: "character"
-display_title: "羽伊尼悟奥露"
-title_zh: "羽伊尼悟奥露"
+display_title: "ハイニ・ゴール"
+title_zh: ""
 title_ja: "ハイニ・ゴール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c96874"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Haini Gold"
-  - "ハイニ・ゴール"
 source_ids:
   vndb: "c96874"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c96874.webp"
 ---
 
-# 羽伊尼悟奥露
+# ハイニ・ゴール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

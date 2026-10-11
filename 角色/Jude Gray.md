@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c99958"
 type: "character"
-display_title: "朱乌堂古蕾伊"
-title_zh: "朱乌堂古蕾伊"
+display_title: "ジュード・グレイ"
+title_zh: ""
 title_ja: "ジュード・グレイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c99958"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jude Gray"
-  - "ジュード・グレイ"
 source_ids:
   vndb: "c99958"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c99958.webp"
 ---
 
-# 朱乌堂古蕾伊
+# ジュード・グレイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

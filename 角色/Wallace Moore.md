@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c93695"
 type: "character"
-display_title: "和LL阿C惠·莫奥蕾"
-title_zh: "和LL阿C惠·莫奥蕾"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Wallace Moore"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c93695"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Wallace Moore"
 source_ids:
   vndb: "c93695"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c93695.webp"
 ---
 
-# 和LL阿C惠·莫奥蕾
+# Wallace Moore
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

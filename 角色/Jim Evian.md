@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c107035"
 type: "character"
-display_title: "吉梦惠比雅恩"
-title_zh: "吉梦惠比雅恩"
+display_title: "ジム・エビヤン"
+title_zh: ""
 title_ja: "ジム・エビヤン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c107035"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jim Evian"
-  - "ジム・エビヤン"
 source_ids:
   vndb: "c107035"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c107035.webp"
 ---
 
-# 吉梦惠比雅恩
+# ジム・エビヤン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c128677"
 type: "character"
-display_title: "真RZ"
-title_zh: "真RZ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Marz"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c128677"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Marz"
   - "Marzipan"
 source_ids:
   vndb: "c128677"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c128677.webp"
 ---
 
-# 真RZ
+# Marz
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

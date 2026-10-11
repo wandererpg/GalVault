@@ -5,7 +5,10 @@ display_title: "贵呼"
 title_zh: "贵呼"
 title_ja: "貴呼"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c57885"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takako"
   - "貴呼"

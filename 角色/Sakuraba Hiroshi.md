@@ -5,7 +5,10 @@ display_title: "樱庭浩"
 title_zh: "樱庭浩"
 title_ja: "桜庭 浩"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c3666"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakuraba Hiroshi"
   - "桜庭 浩"

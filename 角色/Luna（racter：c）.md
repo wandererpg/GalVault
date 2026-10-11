@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14006"
 type: "character"
-display_title: "露娜"
-title_zh: "露娜"
+display_title: "ルナ"
+title_zh: ""
 title_ja: "ルナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14006"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Luna"
-  - "ルナ"
   - "GAULEM Type Female - Diana Model - L-016"
   - "GLTF-TM016 (JP only)"
   - "GTF-DM-L-016"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c14006.webp"
 ---
 
-# 露娜
+# ルナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

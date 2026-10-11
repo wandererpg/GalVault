@@ -5,7 +5,10 @@ display_title: "海老原舞"
 title_zh: "海老原舞"
 title_ja: "海老原 舞"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c79251"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ebihara Mai"
   - "海老原 舞"

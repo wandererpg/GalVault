@@ -5,7 +5,10 @@ display_title: "星野一诚"
 title_zh: "星野一诚"
 title_ja: "星野 一誠"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c48382"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hoshino Issei"
   - "星野 一誠"

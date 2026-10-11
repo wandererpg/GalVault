@@ -5,7 +5,10 @@ display_title: "坂上阳子"
 title_zh: "坂上阳子"
 title_ja: "坂上 陽子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c13889"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakaue Youko"
   - "坂上 陽子"

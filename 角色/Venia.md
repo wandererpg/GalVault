@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87692"
 type: "character"
-display_title: "V惠尼伊阿"
-title_zh: "V惠尼伊阿"
+display_title: "ヴェニーア"
+title_zh: ""
 title_ja: "ヴェニーア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87692"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Venia"
-  - "ヴェニーア"
 source_ids:
   vndb: "c87692"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c87692.webp"
 ---
 
-# V惠尼伊阿
+# ヴェニーア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

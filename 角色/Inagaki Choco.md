@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c59697"
 type: "character"
-display_title: "稻垣绪子"
-title_zh: "稻垣绪子"
+display_title: "稲垣 チョコ"
+title_zh: ""
 title_ja: "稲垣 チョコ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c59697"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Inagaki Choco"
-  - "稲垣 チョコ"
 source_ids:
   vndb: "c59697"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c59697.webp"
 ---
 
-# 稻垣绪子
+# 稲垣 チョコ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

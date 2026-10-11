@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c109707"
 type: "character"
-display_title: "真LL奥RY·恰P真恩"
-title_zh: "真LL奥RY·恰P真恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Mallory Chapman"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c109707"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Mallory Chapman"
   - "Mal"
 source_ids:
   vndb: "c109707"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c109707.webp"
 ---
 
-# 真LL奥RY·恰P真恩
+# Mallory Chapman
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

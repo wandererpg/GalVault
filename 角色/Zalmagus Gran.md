@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43029"
 type: "character"
-display_title: "扎露真古寿古拉恩"
-title_zh: "扎露真古寿古拉恩"
+display_title: "ザルマグス・グラン"
+title_zh: ""
 title_ja: "ザルマグス・グラン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43029"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Zalmagus Gran"
-  - "ザルマグス・グラン"
 source_ids:
   vndb: "c43029"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43029.webp"
 ---
 
-# 扎露真古寿古拉恩
+# ザルマグス・グラン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

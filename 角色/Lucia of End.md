@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c40415"
 type: "character"
-display_title: "露乌诗阿奥布惠恩堂"
-title_zh: "露乌诗阿奥布惠恩堂"
+display_title: "ルーシア・オブ・エンド"
+title_zh: ""
 title_ja: "ルーシア・オブ・エンド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c40415"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lucia of End"
-  - "ルーシア・オブ・エンド"
   - "Lucia of the Netherworld"
   - "Cia-nee"
   - "Lucia of End Sacrament"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c40415.webp"
 ---
 
-# 露乌诗阿奥布惠恩堂
+# ルーシア・オブ・エンド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

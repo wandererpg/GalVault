@@ -5,7 +5,10 @@ display_title: "人见广介"
 title_zh: "人见广介"
 title_ja: "人見 広介"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c65214"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hitomi Hirosuke"
   - "人見 広介"

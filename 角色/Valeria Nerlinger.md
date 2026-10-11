@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c59756"
 type: "character"
-display_title: "V阿蕾莉阿音露莉恩雅阿"
-title_zh: "V阿蕾莉阿音露莉恩雅阿"
+display_title: "ヴァレリア・ネルリンガー"
+title_zh: ""
 title_ja: "ヴァレリア・ネルリンガー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c59756"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Valeria Nerlinger"
-  - "ヴァレリア・ネルリンガー"
 source_ids:
   vndb: "c59756"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c59756.webp"
 ---
 
-# V阿蕾莉阿音露莉恩雅阿
+# ヴァレリア・ネルリンガー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

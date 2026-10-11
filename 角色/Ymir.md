@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c92523"
 type: "character"
-display_title: "优乌美露"
-title_zh: "优乌美露"
+display_title: "ユーミル"
+title_zh: ""
 title_ja: "ユーミル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92523"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ymir"
-  - "ユーミル"
 source_ids:
   vndb: "c92523"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c92523.webp"
 ---
 
-# 优乌美露
+# ユーミル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

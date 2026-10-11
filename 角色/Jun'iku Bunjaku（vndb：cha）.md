@@ -5,7 +5,10 @@ display_title: "荀彧文若"
 title_zh: "荀彧文若"
 title_ja: "荀彧 文若"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c63342"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Jun'iku Bunjaku"
   - "荀彧 文若"

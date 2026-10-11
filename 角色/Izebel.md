@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34088"
 type: "character"
-display_title: "伊泽贝露"
-title_zh: "伊泽贝露"
+display_title: "イゼベル"
+title_zh: ""
 title_ja: "イゼベル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34088"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Izebel"
-  - "イゼベル"
 source_ids:
   vndb: "c34088"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c34088.webp"
 ---
 
-# 伊泽贝露
+# イゼベル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

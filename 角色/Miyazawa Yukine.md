@@ -5,7 +5,10 @@ display_title: "宫泽有纪宁"
 title_zh: "宫泽有纪宁"
 title_ja: "宮沢 有紀寧"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c15850"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Miyazawa Yukine"
   - "宮沢 有紀寧"

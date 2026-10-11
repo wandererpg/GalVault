@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c171818"
 type: "character"
-display_title: "S惠LLYS·堂P佩L雅恩格R"
-title_zh: "S惠LLYS·堂P佩L雅恩格R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Shelly's Doppelganger"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c171818"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Shelly's Doppelganger"
 source_ids:
   vndb: "c171818"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c171818.webp"
 ---
 
-# S惠LLYS·堂P佩L雅恩格R
+# Shelly's Doppelganger
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

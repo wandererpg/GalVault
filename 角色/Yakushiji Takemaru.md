@@ -5,7 +5,10 @@ display_title: "厄师寺猛丸"
 title_zh: "厄师寺猛丸"
 title_ja: "厄師寺 猛丸"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c150761"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yakushiji Takemaru"
   - "厄師寺 猛丸"

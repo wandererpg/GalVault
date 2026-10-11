@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c124589"
 type: "character"
-display_title: "阿伊S"
-title_zh: "阿伊S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ais"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124589"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ais"
   - "The Demon Renegade"
 source_ids:
   vndb: "c124589"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c124589.webp"
 ---
 
-# 阿伊S
+# Ais
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

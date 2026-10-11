@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34082"
 type: "character"
-display_title: "阿修太露斗"
-title_zh: "阿修太露斗"
+display_title: "アシュタルト"
+title_zh: ""
 title_ja: "アシュタルト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34082"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ashtarte"
-  - "アシュタルト"
   - "Tarte"
 source_ids:
   vndb: "c34082"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c34082.webp"
 ---
 
-# 阿修太露斗
+# アシュタルト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

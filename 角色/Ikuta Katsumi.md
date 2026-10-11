@@ -5,7 +5,10 @@ display_title: "生田克己"
 title_zh: "生田克己"
 title_ja: "生田 克己"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c74705"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ikuta Katsumi"
   - "生田 克己"

@@ -5,7 +5,10 @@ display_title: "清水真央"
 title_zh: "清水真央"
 title_ja: "清水 真央"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1677"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shimizu Mao"
   - "清水 真央"

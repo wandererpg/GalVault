@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c118586"
 type: "character"
-display_title: "加美拉·乃奥沙梦"
-title_zh: "加美拉·乃奥沙梦"
+display_title: "カミラ ノーサム"
+title_zh: ""
 title_ja: "カミラ ノーサム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c118586"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Camilla Northam"
-  - "カミラ ノーサム"
 source_ids:
   vndb: "c118586"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c118586.webp"
 ---
 
-# 加美拉·乃奥沙梦
+# カミラ ノーサム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

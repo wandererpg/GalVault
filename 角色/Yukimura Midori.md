@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c29284"
 type: "character"
-display_title: "幸村绿"
-title_zh: "幸村绿"
+display_title: "幸村 みどり"
+title_zh: ""
 title_ja: "幸村 みどり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c29284"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yukimura Midori"
-  - "幸村 みどり"
 source_ids:
   vndb: "c29284"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c29284.webp"
 ---
 
-# 幸村绿
+# 幸村 みどり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

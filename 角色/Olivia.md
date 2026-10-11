@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c141508"
 type: "character"
-display_title: "奥莉维亚"
-title_zh: "奥莉维亚"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Olivia"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141508"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Olivia"
 source_ids:
   vndb: "c141508"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c141508.webp"
 ---
 
-# 奥莉维亚
+# Olivia
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

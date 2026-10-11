@@ -5,7 +5,10 @@ display_title: "矶千晶"
 title_zh: "矶千晶"
 title_ja: "磯 千晶"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c74697"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Iso Chiaki"
   - "磯 千晶"

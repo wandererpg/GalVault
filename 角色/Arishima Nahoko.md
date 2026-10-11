@@ -5,7 +5,10 @@ display_title: "有岛菜穗子"
 title_zh: "有岛菜穗子"
 title_ja: "有島 菜穂子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c5562"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Arishima Nahoko"
   - "有島 菜穂子"

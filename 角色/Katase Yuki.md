@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c141292"
 type: "character"
-display_title: "片濑雪"
-title_zh: "片濑雪"
+display_title: "片瀬 ユキ"
+title_zh: ""
 title_ja: "片瀬 ユキ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141292"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Katase Yuki"
-  - "片瀬 ユキ"
 source_ids:
   vndb: "c141292"
 source_urls:
   vndb: "https://vndb.org/c141292"
 ---
 
-# 片濑雪
+# 片瀬 ユキ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

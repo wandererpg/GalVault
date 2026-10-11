@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c94432"
 type: "character"
-display_title: "阿堂露芙"
-title_zh: "阿堂露芙"
+display_title: "アドルフ"
+title_zh: ""
 title_ja: "アドルフ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94432"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Adolphe"
-  - "アドルフ"
 source_ids:
   vndb: "c94432"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c94432.webp"
 ---
 
-# 阿堂露芙
+# アドルフ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

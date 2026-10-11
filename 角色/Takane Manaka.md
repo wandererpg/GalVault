@@ -5,7 +5,10 @@ display_title: "高岭爱花"
 title_zh: "高岭爱花"
 title_ja: "高嶺 愛花"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c4001"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takane Manaka"
   - "高嶺 愛花"

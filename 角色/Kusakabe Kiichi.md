@@ -5,7 +5,10 @@ display_title: "草壁喜壹"
 title_zh: "草壁喜壹"
 title_ja: "草壁 喜壱"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c90706"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kusakabe Kiichi"
   - "草壁 喜壱"

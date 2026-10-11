@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8507"
 type: "character"
-display_title: "拉扎洛"
-title_zh: "拉扎洛"
+display_title: "ラザロ"
+title_zh: ""
 title_ja: "ラザロ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8507"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lazarus"
-  - "ラザロ"
 source_ids:
   vndb: "c8507"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c8507.webp"
 ---
 
-# 拉扎洛
+# ラザロ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

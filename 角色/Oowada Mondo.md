@@ -5,7 +5,10 @@ display_title: "大和田纹土"
 title_zh: "大和田纹土"
 title_ja: "大和田 紋土"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10192"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Oowada Mondo"
   - "大和田 紋土"

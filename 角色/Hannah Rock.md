@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38238"
 type: "character"
-display_title: "羽恩奈洛K久"
-title_zh: "羽恩奈洛K久"
+display_title: "ハンナ・ロック"
+title_zh: ""
 title_ja: "ハンナ・ロック"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38238"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hannah Rock"
-  - "ハンナ・ロック"
 source_ids:
   vndb: "c38238"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c38238.webp"
 ---
 
-# 羽恩奈洛K久
+# ハンナ・ロック
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

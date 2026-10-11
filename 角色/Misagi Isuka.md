@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10981"
 type: "character"
-display_title: "美鹭伊寿加"
-title_zh: "美鹭伊寿加"
+display_title: "美鷺 イスカ"
+title_zh: ""
 title_ja: "美鷺 イスカ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10981"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Misagi Isuka"
-  - "美鷺 イスカ"
 source_ids:
   vndb: "c10981"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c10981.webp"
 ---
 
-# 美鹭伊寿加
+# 美鷺 イスカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "夏野蓝衣"
 title_zh: "夏野蓝衣"
 title_ja: "夏野 藍衣"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c78314"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Natsuno Ai"
   - "夏野 藍衣"

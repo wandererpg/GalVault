@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c77365"
 type: "character"
-display_title: "斗斗"
-title_zh: "斗斗"
+display_title: "トト"
+title_zh: ""
 title_ja: "トト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c77365"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Toto"
-  - "トト"
 source_ids:
   vndb: "c77365"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c77365.webp"
 ---
 
-# 斗斗
+# トト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c82456"
 type: "character"
-display_title: "子太洛乌"
-title_zh: "子太洛乌"
+display_title: "コタロウ"
+title_zh: ""
 title_ja: "コタロウ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c82456"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kotarou"
-  - "コタロウ"
   - "Kota-chan"
   - "Kotie"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c82456.webp"
 ---
 
-# 子太洛乌
+# コタロウ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

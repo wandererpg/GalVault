@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c44035"
 type: "character"
-display_title: "阿奥伊涟阿真津"
-title_zh: "阿奥伊涟阿真津"
+display_title: "アオイ・漣・アマツ"
+title_zh: ""
 title_ja: "アオイ・漣・アマツ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c44035"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Aoi Sazanami Amatsu"
-  - "アオイ・漣・アマツ"
 source_ids:
   vndb: "c44035"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c44035.webp"
 ---
 
-# 阿奥伊涟阿真津
+# アオイ・漣・アマツ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c168306"
 type: "character"
-display_title: "沙F伊阿拉恩加寿太阿"
-title_zh: "沙F伊阿拉恩加寿太阿"
+display_title: "サフィア・ランカスター"
+title_zh: ""
 title_ja: "サフィア・ランカスター"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c168306"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Safia Lancaster"
-  - "サフィア・ランカスター"
   - "ジュエル"
   - "Jewel"
   - "紅の天才魔女"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c168306.webp"
 ---
 
-# 沙F伊阿拉恩加寿太阿
+# サフィア・ランカスター
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

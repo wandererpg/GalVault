@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c32659"
 type: "character"
-display_title: "夏扎阿努"
-title_zh: "夏扎阿努"
+display_title: "シャザーヌ"
+title_zh: ""
 title_ja: "シャザーヌ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c32659"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shazan"
-  - "シャザーヌ"
 source_ids:
   vndb: "c32659"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c32659.webp"
 ---
 
-# 夏扎阿努
+# シャザーヌ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

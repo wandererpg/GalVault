@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c51504"
 type: "character"
-display_title: "蕾布蕾阿恩加·・·莉莉"
-title_zh: "蕾布蕾阿恩加·・·莉莉"
+display_title: "レブレアンカ ・ リリ"
+title_zh: ""
 title_ja: "レブレアンカ ・ リリ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c51504"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rebureanka Lily"
-  - "レブレアンカ ・ リリ"
 source_ids:
   vndb: "c51504"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c51504.webp"
 ---
 
-# 蕾布蕾阿恩加·・·莉莉
+# レブレアンカ ・ リリ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

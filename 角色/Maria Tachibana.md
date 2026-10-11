@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c5741"
 type: "character"
-display_title: "真莉阿太千巴奈"
-title_zh: "真莉阿太千巴奈"
+display_title: "マリア・タチバナ"
+title_zh: ""
 title_ja: "マリア・タチバナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c5741"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Maria Tachibana"
-  - "マリア・タチバナ"
   - "Kazuar"
 source_ids:
   vndb: "c5741"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c5741.webp"
 ---
 
-# 真莉阿太千巴奈
+# マリア・タチバナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

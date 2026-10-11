@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c3558"
 type: "character"
-display_title: "贝露恩加寿特露"
-title_zh: "贝露恩加寿特露"
+display_title: "ベルンカステル"
+title_zh: ""
 title_ja: "ベルンカステル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c3558"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Bernkastel"
-  - "ベルンカステル"
   - "Bern"
   - "The Witch of Miracles"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c3558.webp"
 ---
 
-# 贝露恩加寿特露
+# ベルンカステル
 
 
 ## 角色画像

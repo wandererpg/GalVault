@@ -5,7 +5,10 @@ display_title: "山东铃子"
 title_zh: "山东铃子"
 title_ja: "山東 鈴子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c24966"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Santou Suzuko"
   - "山東 鈴子"

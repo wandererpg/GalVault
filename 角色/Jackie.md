@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c103040"
 type: "character"
-display_title: "嘉C希惠"
-title_zh: "嘉C希惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jackie"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103040"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jackie"
   - "Jackie Gilmour"
 source_ids:
   vndb: "c103040"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c103040.webp"
 ---
 
-# 嘉C希惠
+# Jackie
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

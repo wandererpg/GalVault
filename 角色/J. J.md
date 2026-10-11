@@ -2,10 +2,13 @@
 entity_id: "vndb:character:c118028"
 type: "character"
 display_title: "J・J"
-title_zh: "J・J"
+title_zh: ""
 title_ja: "J・J"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c118028"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "J. J."
   - "ジェイ・ジェイ"

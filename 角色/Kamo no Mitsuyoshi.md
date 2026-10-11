@@ -5,7 +5,10 @@ display_title: "贺茂光荣"
 title_zh: "贺茂光荣"
 title_ja: "賀茂 光栄"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c165231"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kamo no Mitsuyoshi"
   - "賀茂 光栄"

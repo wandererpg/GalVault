@@ -5,7 +5,10 @@ display_title: "一文字鹰嘴"
 title_zh: "一文字鹰嘴"
 title_ja: "一文字 鷹嘴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c168855"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ichimonji Takahashi"
   - "一文字 鷹嘴"

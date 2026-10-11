@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c150139"
 type: "character"
-display_title: "阿S斗F伊惠L"
-title_zh: "阿S斗F伊惠L"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Astofiel"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c150139"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Astofiel"
 source_ids:
   vndb: "c150139"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c150139.webp"
 ---
 
-# 阿S斗F伊惠L
+# Astofiel
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "星野彼方"
 title_zh: "星野彼方"
 title_ja: "星野 彼方"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c36130"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hoshino Kanata"
   - "星野 彼方"

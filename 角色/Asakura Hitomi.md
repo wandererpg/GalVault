@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c145931"
 type: "character"
-display_title: "浅仓尼美"
-title_zh: "浅仓尼美"
+display_title: "浅倉 に美"
+title_zh: ""
 title_ja: "浅倉 に美"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c145931"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Asakura Hitomi"
-  - "浅倉 に美"
 source_ids:
   vndb: "c145931"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c145931.webp"
 ---
 
-# 浅仓尼美
+# 浅倉 に美
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

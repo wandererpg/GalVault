@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c5462"
 type: "character"
-display_title: "风波真堂加"
-title_zh: "风波真堂加"
+display_title: "風波 まどか"
+title_zh: ""
 title_ja: "風波 まどか"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c5462"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kazanami Madoka"
-  - "風波 まどか"
 source_ids:
   vndb: "c5462"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c5462.webp"
 ---
 
-# 风波真堂加
+# 風波 まどか
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

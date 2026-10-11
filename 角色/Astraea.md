@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c134472"
 type: "character"
-display_title: "阿寿斗拉伊阿"
-title_zh: "阿寿斗拉伊阿"
+display_title: "アストライア"
+title_zh: ""
 title_ja: "アストライア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c134472"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Astraea"
-  - "アストライア"
 source_ids:
   vndb: "c134472"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c134472.webp"
 ---
 
-# 阿寿斗拉伊阿
+# アストライア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

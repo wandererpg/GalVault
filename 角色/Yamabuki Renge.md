@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c987"
 type: "character"
-display_title: "山吹蕾恩格"
-title_zh: "山吹蕾恩格"
+display_title: "山吹 れんげ"
+title_zh: ""
 title_ja: "山吹 れんげ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c987"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yamabuki Renge"
-  - "山吹 れんげ"
 source_ids:
   vndb: "c987"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c987.webp"
 ---
 
-# 山吹蕾恩格
+# 山吹 れんげ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

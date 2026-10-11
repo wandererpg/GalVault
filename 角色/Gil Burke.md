@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c137011"
 type: "character"
-display_title: "吉L·布R惠"
-title_zh: "吉L·布R惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Gil Burke"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c137011"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Gil Burke"
 source_ids:
   vndb: "c137011"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c137011.webp"
 ---
 
-# 吉L·布R惠
+# Gil Burke
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

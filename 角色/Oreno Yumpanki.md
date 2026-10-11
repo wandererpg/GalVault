@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30223"
 type: "character"
-display_title: "奥蕾乃优梦帕奈希"
-title_zh: "奥蕾乃优梦帕奈希"
+display_title: "オレノ・ユムパナキ"
+title_zh: ""
 title_ja: "オレノ・ユムパナキ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30223"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Oreno Yumpanki"
-  - "オレノ・ユムパナキ"
 source_ids:
   vndb: "c30223"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30223.webp"
 ---
 
-# 奥蕾乃优梦帕奈希
+# オレノ・ユムパナキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c25745"
 type: "character"
-display_title: "诗惠日拉"
-title_zh: "诗惠日拉"
+display_title: "シェヒラ"
+title_zh: ""
 title_ja: "シェヒラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c25745"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Syfira"
-  - "シェヒラ"
   - "Shehira"
 source_ids:
   vndb: "c25745"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c25745.webp"
 ---
 
-# 诗惠日拉
+# シェヒラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

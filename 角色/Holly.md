@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c125856"
 type: "character"
-display_title: "穗LLY"
-title_zh: "穗LLY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Holly"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125856"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Holly"
 source_ids:
   vndb: "c125856"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c125856.webp"
 ---
 
-# 穗LLY
+# Holly
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

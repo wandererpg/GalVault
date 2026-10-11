@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c127453"
 type: "character"
-display_title: "阿恩格L·G穗乌L"
-title_zh: "阿恩格L·G穗乌L"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Angel Ghoul"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127453"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Angel Ghoul"
 source_ids:
   vndb: "c127453"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c127453.webp"
 ---
 
-# 阿恩格L·G穗乌L
+# Angel Ghoul
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

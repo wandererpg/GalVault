@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c41462"
 type: "character"
-display_title: "和琴乃祖父"
-title_zh: "和琴乃祖父"
+display_title: "和琴の祖父"
+title_zh: ""
 title_ja: "和琴の祖父"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c41462"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Wakoto's Grandfather"
-  - "和琴の祖父"
 source_ids:
   vndb: "c41462"
 source_urls:
   vndb: "https://vndb.org/c41462"
 ---
 
-# 和琴乃祖父
+# 和琴の祖父
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

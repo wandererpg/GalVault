@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c122018"
 type: "character"
-display_title: "乌LYS濑S·W伊L惠LM"
-title_zh: "乌LYS濑S·W伊L惠LM"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ulysses Wilhelm"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c122018"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ulysses Wilhelm"
   - "Ultimate Historian"
 source_ids:
   vndb: "c122018"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c122018.webp"
 ---
 
-# 乌LYS濑S·W伊L惠LM
+# Ulysses Wilhelm
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

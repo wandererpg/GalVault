@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159777"
 type: "character"
-display_title: "加雅恩"
-title_zh: "加雅恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Kayané"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159777"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Kayané"
 source_ids:
   vndb: "c159777"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c159777.webp"
 ---
 
-# 加雅恩
+# Kayané
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

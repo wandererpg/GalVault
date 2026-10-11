@@ -5,7 +5,10 @@ display_title: "桧山美纱緖"
 title_zh: "桧山美纱緖"
 title_ja: "檜山 美紗緒"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c78132"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hiyama Misao"
   - "檜山 美紗緒"

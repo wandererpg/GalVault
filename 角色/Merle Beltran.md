@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c133744"
 type: "character"
-display_title: "芽RL惠·贝LT拉恩"
-title_zh: "芽RL惠·贝LT拉恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Merle Beltran"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c133744"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Merle Beltran"
 source_ids:
   vndb: "c133744"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c133744.webp"
 ---
 
-# 芽RL惠·贝LT拉恩
+# Merle Beltran
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

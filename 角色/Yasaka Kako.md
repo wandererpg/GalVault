@@ -5,7 +5,10 @@ display_title: "八坂可子"
 title_zh: "八坂可子"
 title_ja: "八坂 可子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c113835"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yasaka Kako"
   - "八坂 可子"

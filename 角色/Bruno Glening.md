@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17314"
 type: "character"
-display_title: "布露乌乃古蕾惠尼恩古"
-title_zh: "布露乌乃古蕾惠尼恩古"
+display_title: "ブルーノ・グレーニング"
+title_zh: ""
 title_ja: "ブルーノ・グレーニング"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17314"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Bruno Glening"
-  - "ブルーノ・グレーニング"
 source_ids:
   vndb: "c17314"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c17314.webp"
 ---
 
-# 布露乌乃古蕾惠尼恩古
+# ブルーノ・グレーニング
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

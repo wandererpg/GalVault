@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c44126"
 type: "character"
-display_title: "莉伊奈特露V奥"
-title_zh: "莉伊奈特露V奥"
+display_title: "リーナ・テルヴォ"
+title_zh: ""
 title_ja: "リーナ・テルヴォ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c44126"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Riina Tervo"
-  - "リーナ・テルヴォ"
   - "Rina"
   - "Mother Goose 1"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c44126.webp"
 ---
 
-# 莉伊奈特露V奥
+# リーナ・テルヴォ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c136139"
 type: "character"
-display_title: "达V惠佩太SP莉特"
-title_zh: "达V惠佩太SP莉特"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Davepetasprite^2"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136139"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Davepetasprite^2"
   - "Dave Cat Sprite Thing"
 source_ids:
   vndb: "c136139"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c136139.webp"
 ---
 
-# 达V惠佩太SP莉特
+# Davepetasprite^2
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

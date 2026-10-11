@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c138297"
 type: "character"
-display_title: "加奈雅·真莉娅M"
-title_zh: "加奈雅·真莉娅M"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Kanaya Maryam"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138297"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Kanaya Maryam"
   - "grimAuxiliatrix"
   - "Sylph of Space"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c138297.webp"
 ---
 
-# 加奈雅·真莉娅M
+# Kanaya Maryam
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

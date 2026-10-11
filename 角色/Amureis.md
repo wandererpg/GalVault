@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c36539"
 type: "character"
-display_title: "阿梦莉伊寿"
-title_zh: "阿梦莉伊寿"
+display_title: "アムリィス"
+title_zh: ""
 title_ja: "アムリィス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c36539"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Amureis"
-  - "アムリィス"
 source_ids:
   vndb: "c36539"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c36539.webp"
 ---
 
-# 阿梦莉伊寿
+# アムリィス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

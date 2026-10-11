@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c113591"
 type: "character"
-display_title: "比久斗莉阿女王"
-title_zh: "比久斗莉阿女王"
+display_title: "ビクトリア女王"
+title_zh: ""
 title_ja: "ビクトリア女王"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c113591"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Queen Victoria"
-  - "ビクトリア女王"
   - "Her Majesty The Queen"
   - "Vicky"
 source_ids:
@@ -17,7 +19,7 @@ source_urls:
   vndb: "https://vndb.org/c113591"
 ---
 
-# 比久斗莉阿女王
+# ビクトリア女王
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

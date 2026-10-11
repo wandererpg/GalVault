@@ -5,7 +5,10 @@ display_title: "速濑由梨乃"
 title_zh: "速濑由梨乃"
 title_ja: "速瀬 由梨乃"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c97450"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hayase Yurino"
   - "速瀬 由梨乃"

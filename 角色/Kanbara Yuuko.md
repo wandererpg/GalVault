@@ -5,7 +5,10 @@ display_title: "神原夕子"
 title_zh: "神原夕子"
 title_ja: "神原 夕子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2415"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kanbara Yuuko"
   - "神原 夕子"

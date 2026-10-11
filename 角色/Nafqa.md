@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34312"
 type: "character"
-display_title: "奈芙加"
-title_zh: "奈芙加"
+display_title: "ナフカ"
+title_zh: ""
 title_ja: "ナフカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34312"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nafqa"
-  - "ナフカ"
 source_ids:
   vndb: "c34312"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c34312.webp"
 ---
 
-# 奈芙加
+# ナフカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

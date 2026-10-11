@@ -5,7 +5,10 @@ display_title: "谭灵/谭灵"
 title_zh: "谭灵/谭灵"
 title_ja: "谭灵/譚靈"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c172660"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tán Líng"
   - "谭灵/譚靈"

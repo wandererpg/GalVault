@@ -5,7 +5,10 @@ display_title: "柚木梓马"
 title_zh: "柚木梓马"
 title_ja: "柚木 梓馬"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c47453"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yunoki Azuma"
   - "柚木 梓馬"

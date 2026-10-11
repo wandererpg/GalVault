@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c161311"
 type: "character"
-display_title: "F阿乌寿斗·拉乌伊伊尼阿"
-title_zh: "F阿乌寿斗·拉乌伊伊尼阿"
+display_title: "ファウスト ラウィーニア"
+title_zh: ""
 title_ja: "ファウスト ラウィーニア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161311"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Faust Lavinia"
-  - "ファウスト ラウィーニア"
 source_ids:
   vndb: "c161311"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c161311.webp"
 ---
 
-# F阿乌寿斗·拉乌伊伊尼阿
+# ファウスト ラウィーニア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c46936"
 type: "character"
-display_title: "波露恩"
-title_zh: "波露恩"
+display_title: "ポルン"
+title_zh: ""
 title_ja: "ポルン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c46936"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Porun"
-  - "ポルン"
 source_ids:
   vndb: "c46936"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c46936.webp"
 ---
 
-# 波露恩
+# ポルン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

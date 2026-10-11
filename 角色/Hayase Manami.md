@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12468"
 type: "character"
-display_title: "速濑真奈美"
-title_zh: "速濑真奈美"
+display_title: "速瀬 まなみ"
+title_zh: ""
 title_ja: "速瀬 まなみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12468"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hayase Manami"
-  - "速瀬 まなみ"
   - "まな"
   - "Mana"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c12468.webp"
 ---
 
-# 速濑真奈美
+# 速瀬 まなみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

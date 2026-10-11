@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c6046"
 type: "character"
-display_title: "乃奥斗＝露乌芽"
-title_zh: "乃奥斗＝露乌芽"
+display_title: "ノート＝ルゥメ"
+title_zh: ""
 title_ja: "ノート＝ルゥメ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c6046"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Note Rueme"
-  - "ノート＝ルゥメ"
   - "Shiro-Hime"
   - "Grand Luna"
   - "The Silver Moon of the Celestial Realm"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c6046.webp"
 ---
 
-# 乃奥斗＝露乌芽
+# ノート＝ルゥメ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

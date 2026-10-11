@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43884"
 type: "character"
-display_title: "阿恩D伊"
-title_zh: "阿恩D伊"
+display_title: "アンディ"
+title_zh: ""
 title_ja: "アンディ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43884"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Andy"
-  - "アンディ"
 source_ids:
   vndb: "c43884"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43884.webp"
 ---
 
-# 阿恩D伊
+# アンディ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

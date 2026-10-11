@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c37336"
 type: "character"
-display_title: "帕T斗恩惠露真恩"
-title_zh: "帕T斗恩惠露真恩"
+display_title: "パットン・ヘルマン"
+title_zh: ""
 title_ja: "パットン・ヘルマン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37336"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Patton Helman"
-  - "パットン・ヘルマン"
 source_ids:
   vndb: "c37336"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c37336.webp"
 ---
 
-# 帕T斗恩惠露真恩
+# パットン・ヘルマン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

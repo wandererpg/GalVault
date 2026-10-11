@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c131783"
 type: "character"
-display_title: "蕾惠妮娅"
-title_zh: "蕾惠妮娅"
+display_title: "レーニャ"
+title_zh: ""
 title_ja: "レーニャ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c131783"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Renja"
-  - "レーニャ"
 source_ids:
   vndb: "c131783"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c131783.webp"
 ---
 
-# 蕾惠妮娅
+# レーニャ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

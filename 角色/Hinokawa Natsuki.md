@@ -5,7 +5,10 @@ display_title: "簸川夏生"
 title_zh: "簸川夏生"
 title_ja: "簸川 夏生"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16980"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hinokawa Natsuki"
   - "簸川 夏生"

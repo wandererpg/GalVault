@@ -5,7 +5,10 @@ display_title: "小泉凉"
 title_zh: "小泉凉"
 title_ja: "小泉 涼"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c118020"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Koizumi Ryou"
   - "小泉 涼"

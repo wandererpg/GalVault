@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43413"
 type: "character"
-display_title: "吉泽露阿嘉阿尼"
-title_zh: "吉泽露阿嘉阿尼"
+display_title: "ジゼル・アジャーニ"
+title_zh: ""
 title_ja: "ジゼル・アジャーニ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43413"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Giselle Adjani"
-  - "ジゼル・アジャーニ"
   - "ウーズレム・ザーナー"
 source_ids:
   vndb: "c43413"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c43413.webp"
 ---
 
-# 吉泽露阿嘉阿尼
+# ジゼル・アジャーニ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c132554"
 type: "character"
-display_title: "奥L伊V惠R"
-title_zh: "奥L伊V惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Oliver"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132554"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Oliver"
 source_ids:
   vndb: "c132554"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c132554.webp"
 ---
 
-# 奥L伊V惠R
+# Oliver
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "陶山"
 title_zh: "陶山"
 title_ja: "陶山"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c63477"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Suyama"
 source_ids:

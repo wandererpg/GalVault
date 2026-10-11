@@ -5,7 +5,10 @@ display_title: "淡路萌香"
 title_zh: "淡路萌香"
 title_ja: "淡路 萌香"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21618"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Awaji Moeka"
   - "淡路 萌香"

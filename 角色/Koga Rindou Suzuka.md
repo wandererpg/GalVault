@@ -5,7 +5,10 @@ display_title: "久雅龙胆铃鹿"
 title_zh: "久雅龙胆铃鹿"
 title_ja: "久雅 竜胆 鈴鹿"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c34797"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Koga Rindou Suzuka"
   - "久雅 竜胆 鈴鹿"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c28223"
 type: "character"
-display_title: "音惠朱"
-title_zh: "音惠朱"
+display_title: "ネージュ"
+title_zh: ""
 title_ja: "ネージュ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c28223"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Neige"
-  - "ネージュ"
 source_ids:
   vndb: "c28223"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c28223.webp"
 ---
 
-# 音惠朱
+# ネージュ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

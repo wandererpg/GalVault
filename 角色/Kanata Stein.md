@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30459"
 type: "character"
-display_title: "加奈太修太伊恩"
-title_zh: "加奈太修太伊恩"
+display_title: "カナタ・シュタイン"
+title_zh: ""
 title_ja: "カナタ・シュタイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30459"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kanata Stein"
-  - "カナタ・シュタイン"
 source_ids:
   vndb: "c30459"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30459.webp"
 ---
 
-# 加奈太修太伊恩
+# カナタ・シュタイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

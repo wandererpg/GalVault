@@ -5,7 +5,10 @@ display_title: "藤村清美"
 title_zh: "藤村清美"
 title_ja: "藤村 清美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c23003"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fujimura Kiyomi"
   - "藤村 清美"

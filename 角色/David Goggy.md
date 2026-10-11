@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c173657"
 type: "character"
-display_title: "达V伊D·悟GGY"
-title_zh: "达V伊D·悟GGY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "David Goggy"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c173657"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "David Goggy"
 source_ids:
   vndb: "c173657"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c173657.webp"
 ---
 
-# 达V伊D·悟GGY
+# David Goggy
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

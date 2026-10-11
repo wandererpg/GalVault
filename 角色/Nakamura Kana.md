@@ -5,7 +5,10 @@ display_title: "中村夏奈"
 title_zh: "中村夏奈"
 title_ja: "中村 夏奈"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c77364"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nakamura Kana"
   - "中村 夏奈"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c69899"
 type: "character"
-display_title: "医生"
-title_zh: "医生"
+display_title: "博士"
+title_zh: "博士"
 title_ja: "博士"
-title_zh_quality: "glossary"
-title_status: "machine_generated"
+title_zh_quality: "converted_original"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c69899"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Doctor"
-  - "博士"
   - "Doc"
 source_ids:
   vndb: "c69899"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c69899.webp"
 ---
 
-# 医生
+# 博士
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

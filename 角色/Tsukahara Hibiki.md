@@ -5,7 +5,10 @@ display_title: "冢原响"
 title_zh: "冢原响"
 title_ja: "塚原 響"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c8753"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsukahara Hibiki"
   - "塚原 響"

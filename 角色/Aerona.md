@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c116513"
 type: "character"
-display_title: "阿惠洛奈"
-title_zh: "阿惠洛奈"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Aerona"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116513"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Aerona"
 source_ids:
   vndb: "c116513"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c116513.webp"
 ---
 
-# 阿惠洛奈
+# Aerona
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

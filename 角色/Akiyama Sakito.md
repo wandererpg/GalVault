@@ -5,7 +5,10 @@ display_title: "秋山咲人"
 title_zh: "秋山咲人"
 title_ja: "秋山 咲人"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c73110"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Akiyama Sakito"
   - "秋山 咲人"

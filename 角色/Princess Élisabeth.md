@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c54537"
 type: "character"
-display_title: "惠莉扎贝惠斗王女"
-title_zh: "惠莉扎贝惠斗王女"
+display_title: "エリザベート王女"
+title_zh: ""
 title_ja: "エリザベート王女"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c54537"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Princess Élisabeth"
-  - "エリザベート王女"
 source_ids:
   vndb: "c54537"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c54537.webp"
 ---
 
-# 惠莉扎贝惠斗王女
+# エリザベート王女
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

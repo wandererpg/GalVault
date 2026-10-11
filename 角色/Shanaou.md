@@ -5,7 +5,10 @@ display_title: "遮那王"
 title_zh: "遮那王"
 title_ja: "遮那王"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c74612"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shanaou"
   - "Gen Kurou Yoshitsune"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c122252"
 type: "character"
-display_title: "朱乌堂嘉扎"
-title_zh: "朱乌堂嘉扎"
+display_title: "ジュード・ジャザ"
+title_zh: ""
 title_ja: "ジュード・ジャザ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c122252"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jude Jazza"
-  - "ジュード・ジャザ"
 source_ids:
   vndb: "c122252"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c122252.webp"
 ---
 
-# 朱乌堂嘉扎
+# ジュード・ジャザ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

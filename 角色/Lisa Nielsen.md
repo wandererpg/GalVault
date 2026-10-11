@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c47156"
 type: "character"
-display_title: "莉沙尼伊露濑恩"
-title_zh: "莉沙尼伊露濑恩"
+display_title: "リサ・ニールセン"
+title_zh: ""
 title_ja: "リサ・ニールセン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c47156"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lisa Nielsen"
-  - "リサ・ニールセン"
 source_ids:
   vndb: "c47156"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c47156.webp"
 ---
 
-# 莉沙尼伊露濑恩
+# リサ・ニールセン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c40383"
 type: "character"
-display_title: "阿朱拉"
-title_zh: "阿朱拉"
+display_title: "アジュラ"
+title_zh: ""
 title_ja: "アジュラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c40383"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ajura"
-  - "アジュラ"
 source_ids:
   vndb: "c40383"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c40383.webp"
 ---
 
-# 阿朱拉
+# アジュラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

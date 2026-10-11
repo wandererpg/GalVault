@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c87379"
 type: "character"
-display_title: "惠LV惠恩·古阿RD"
-title_zh: "惠LV惠恩·古阿RD"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Elven Guard"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87379"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Elven Guard"
 source_ids:
   vndb: "c87379"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c87379.webp"
 ---
 
-# 惠LV惠恩·古阿RD
+# Elven Guard
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

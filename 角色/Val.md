@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159765"
 type: "character"
-display_title: "V阿L"
-title_zh: "V阿L"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Val"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159765"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Val"
 source_ids:
   vndb: "c159765"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c159765.webp"
 ---
 
-# V阿L
+# Val
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

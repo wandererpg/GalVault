@@ -5,7 +5,10 @@ display_title: "九楼嘉昭"
 title_zh: "九楼嘉昭"
 title_ja: "九楼 嘉昭"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c73444"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kurou Yoshiaki"
   - "九楼 嘉昭"

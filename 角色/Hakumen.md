@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26475"
 type: "character"
-display_title: "羽久芽恩"
-title_zh: "羽久芽恩"
+display_title: "ハクメン"
+title_zh: ""
 title_ja: "ハクメン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26475"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hakumen"
-  - "ハクメン"
   - "Mask Person"
   - "Cocky Person"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c26475.webp"
 ---
 
-# 羽久芽恩
+# ハクメン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

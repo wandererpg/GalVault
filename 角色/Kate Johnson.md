@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c135342"
 type: "character"
-display_title: "凯特·乔H恩索恩"
-title_zh: "凯特·乔H恩索恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Kate Johnson"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c135342"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Kate Johnson"
 source_ids:
   vndb: "c135342"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c135342.webp"
 ---
 
-# 凯特·乔H恩索恩
+# Kate Johnson
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

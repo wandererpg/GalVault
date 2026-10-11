@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c95033"
 type: "character"
-display_title: "帕恩特惠拉加莉乃"
-title_zh: "帕恩特惠拉加莉乃"
+display_title: "パンテーラ・カリノ"
+title_zh: ""
 title_ja: "パンテーラ・カリノ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c95033"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Pantera Carino"
-  - "パンテーラ・カリノ"
 source_ids:
   vndb: "c95033"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c95033.webp"
 ---
 
-# 帕恩特惠拉加莉乃
+# パンテーラ・カリノ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

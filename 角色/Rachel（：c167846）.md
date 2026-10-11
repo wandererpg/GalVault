@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c167846"
 type: "character"
-display_title: "拉C惠L"
-title_zh: "拉C惠L"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Rachel"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c167846"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Rachel"
 source_ids:
   vndb: "c167846"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c167846.webp"
 ---
 
-# 拉C惠L
+# Rachel
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

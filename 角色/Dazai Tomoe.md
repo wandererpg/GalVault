@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c37240"
 type: "character"
-display_title: "太宰斗莫惠"
-title_zh: "太宰斗莫惠"
+display_title: "太宰 ともゑ"
+title_zh: ""
 title_ja: "太宰 ともゑ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37240"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Dazai Tomoe"
-  - "太宰 ともゑ"
 source_ids:
   vndb: "c37240"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c37240.webp"
 ---
 
-# 太宰斗莫惠
+# 太宰 ともゑ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

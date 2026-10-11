@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12379"
 type: "character"
-display_title: "加莉奥寿斗洛"
-title_zh: "加莉奥寿斗洛"
+display_title: "カリオストロ"
+title_zh: ""
 title_ja: "カリオストロ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12379"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cagliostro"
-  - "カリオストロ"
 source_ids:
   vndb: "c12379"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c12379.webp"
 ---
 
-# 加莉奥寿斗洛
+# カリオストロ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c49519"
 type: "character"
-display_title: "寿波奥久"
-title_zh: "寿波奥久"
+display_title: "スポーク"
+title_zh: ""
 title_ja: "スポーク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c49519"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Spoke"
-  - "スポーク"
 source_ids:
   vndb: "c49519"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c49519.webp"
 ---
 
-# 寿波奥久
+# スポーク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c141475"
 type: "character"
-display_title: "达莉乌S"
-title_zh: "达莉乌S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Darius"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141475"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Darius"
 source_ids:
   vndb: "c141475"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c141475.webp"
 ---
 
-# 达莉乌S
+# Darius
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

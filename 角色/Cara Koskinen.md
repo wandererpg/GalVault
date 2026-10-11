@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c122021"
 type: "character"
-display_title: "C阿拉·子S希音恩"
-title_zh: "C阿拉·子S希音恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Cara Koskinen"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c122021"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Cara Koskinen"
   - "Ultimate Teacher's Aide"
 source_ids:
   vndb: "c122021"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c122021.webp"
 ---
 
-# C阿拉·子S希音恩
+# Cara Koskinen
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61615"
 type: "character"
-display_title: "雅阿乌伊恩斗洛奥芙"
-title_zh: "雅阿乌伊恩斗洛奥芙"
+display_title: "ガーウィン・トローフ"
+title_zh: ""
 title_ja: "ガーウィン・トローフ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61615"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gurwin Trough"
-  - "ガーウィン・トローフ"
 source_ids:
   vndb: "c61615"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61615.webp"
 ---
 
-# 雅阿乌伊恩斗洛奥芙
+# ガーウィン・トローフ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

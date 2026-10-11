@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127469"
 type: "character"
-display_title: "洛扎"
-title_zh: "洛扎"
+display_title: "ロザ"
+title_zh: ""
 title_ja: "ロザ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127469"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Roza"
-  - "ロザ"
   - "Mermaid Pirate Queen Roza"
 source_ids:
   vndb: "c127469"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c127469.webp"
 ---
 
-# 洛扎
+# ロザ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c136958"
 type: "character"
-display_title: "扎CH"
-title_zh: "扎CH"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Zach"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136958"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Zach"
 source_ids:
   vndb: "c136958"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c136958.webp"
 ---
 
-# 扎CH
+# Zach
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

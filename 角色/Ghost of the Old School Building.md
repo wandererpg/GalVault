@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c162521"
 type: "character"
-display_title: "旧校舍乃幽灵"
-title_zh: "旧校舍乃幽灵"
+display_title: "旧校舎の幽霊"
+title_zh: ""
 title_ja: "旧校舎の幽霊"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c162521"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ghost of the Old School Building"
-  - "旧校舎の幽霊"
   - "朱子"
   - "Ayako"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c162521.webp"
 ---
 
-# 旧校舍乃幽灵
+# 旧校舎の幽霊
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

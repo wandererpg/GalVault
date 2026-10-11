@@ -5,7 +5,10 @@ display_title: "夏目巧"
 title_zh: "夏目巧"
 title_ja: "夏目 巧"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c117646"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Natsume Takumi"
   - "夏目 巧"

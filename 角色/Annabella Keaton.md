@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c54964"
 type: "character"
-display_title: "阿奈贝拉希伊斗恩"
-title_zh: "阿奈贝拉希伊斗恩"
+display_title: "アナベラ・キートン"
+title_zh: ""
 title_ja: "アナベラ・キートン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c54964"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Annabella Keaton"
-  - "アナベラ・キートン"
 source_ids:
   vndb: "c54964"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c54964.webp"
 ---
 
-# 阿奈贝拉希伊斗恩
+# アナベラ・キートン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

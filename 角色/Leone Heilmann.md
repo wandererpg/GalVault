@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c12988"
 type: "character"
-display_title: "蕾奥恩羽伊露真恩"
-title_zh: "蕾奥恩羽伊露真恩"
+display_title: "レオン・ハイルマン"
+title_zh: ""
 title_ja: "レオン・ハイルマン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12988"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Leone Heilmann"
-  - "レオン・ハイルマン"
 source_ids:
   vndb: "c12988"
 source_urls:
   vndb: "https://vndb.org/c12988"
 ---
 
-# 蕾奥恩羽伊露真恩
+# レオン・ハイルマン
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

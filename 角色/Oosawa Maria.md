@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c129945"
 type: "character"
-display_title: "大泽玛丽亚"
-title_zh: "大泽玛丽亚"
+display_title: "大沢 マリア"
+title_zh: ""
 title_ja: "大沢 マリア"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c129945"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Oosawa Maria"
-  - "大沢 マリア"
 source_ids:
   vndb: "c129945"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c129945.webp"
 ---
 
-# 大泽玛丽亚
+# 大沢 マリア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

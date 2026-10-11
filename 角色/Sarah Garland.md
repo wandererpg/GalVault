@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c58126"
 type: "character"
-display_title: "沙拉雅阿拉恩堂"
-title_zh: "沙拉雅阿拉恩堂"
+display_title: "サラ・ガーランド"
+title_zh: ""
 title_ja: "サラ・ガーランド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c58126"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sarah Garland"
-  - "サラ・ガーランド"
   - "Corn Lady"
 source_ids:
   vndb: "c58126"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c58126.webp"
 ---
 
-# 沙拉雅阿拉恩堂
+# サラ・ガーランド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

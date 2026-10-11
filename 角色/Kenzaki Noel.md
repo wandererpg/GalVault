@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17105"
 type: "character"
-display_title: "剑咲乃惠露"
-title_zh: "剑咲乃惠露"
+display_title: "剣咲 ノエル"
+title_zh: ""
 title_ja: "剣咲 ノエル"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17105"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kenzaki Noel"
-  - "剣咲 ノエル"
 source_ids:
   vndb: "c17105"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c17105.webp"
 ---
 
-# 剑咲乃惠露
+# 剣咲 ノエル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

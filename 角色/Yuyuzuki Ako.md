@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c6115"
 type: "character"
-display_title: "游々月阿子"
-title_zh: "游々月阿子"
+display_title: "遊々月 あこ"
+title_zh: ""
 title_ja: "遊々月 あこ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c6115"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yuyuzuki Ako"
-  - "遊々月 あこ"
 source_ids:
   vndb: "c6115"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c6115.webp"
 ---
 
-# 游々月阿子
+# 遊々月 あこ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127851"
 type: "character"
-display_title: "子羽奈"
-title_zh: "子羽奈"
+display_title: "コハナ"
+title_zh: ""
 title_ja: "コハナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127851"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kohana"
-  - "コハナ"
 source_ids:
   vndb: "c127851"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c127851.webp"
 ---
 
-# 子羽奈
+# コハナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

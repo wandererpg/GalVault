@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c149521"
 type: "character"
-display_title: "真真莉阿蕾F阿伊露乌达"
-title_zh: "真真莉阿蕾F阿伊露乌达"
+display_title: "ママリア・レ・ファイルーダ"
+title_zh: ""
 title_ja: "ママリア・レ・ファイルーダ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149521"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mamaria Le Failda"
-  - "ママリア・レ・ファイルーダ"
 source_ids:
   vndb: "c149521"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c149521.webp"
 ---
 
-# 真真莉阿蕾F阿伊露乌达
+# ママリア・レ・ファイルーダ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c126877"
 type: "character"
-display_title: "C阿斗BL惠帕S·吉RL"
-title_zh: "C阿斗BL惠帕S·吉RL"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Catoblepas Girl"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126877"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Catoblepas Girl"
 source_ids:
   vndb: "c126877"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c126877.webp"
 ---
 
-# C阿斗BL惠帕S·吉RL
+# Catoblepas Girl
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

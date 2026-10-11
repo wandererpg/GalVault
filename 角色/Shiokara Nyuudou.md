@@ -5,7 +5,10 @@ display_title: "盐辛入道"
 title_zh: "盐辛入道"
 title_ja: "塩辛入道"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c155647"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shiokara Nyuudou"
   - "塩辛入道"

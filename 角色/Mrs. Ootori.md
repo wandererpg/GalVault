@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c169154"
 type: "character"
-display_title: "鸿沙恩"
-title_zh: "鸿沙恩"
+display_title: "鴻さん"
+title_zh: ""
 title_ja: "鴻さん"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c169154"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mrs. Ootori"
-  - "鴻さん"
   - "さゆみ母"
   - "Sayumi's Mother"
 source_ids:
@@ -17,7 +19,7 @@ source_urls:
   vndb: "https://vndb.org/c169154"
 ---
 
-# 鸿沙恩
+# 鴻さん
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

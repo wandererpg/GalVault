@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c3530"
 type: "character"
-display_title: "拉尼=V伊伊伊"
-title_zh: "拉尼=V伊伊伊"
+display_title: "ラニ=VIII"
+title_zh: ""
 title_ja: "ラニ=VIII"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c3530"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rani VIII"
-  - "ラニ=VIII"
   - "Eltnam Rani VIII"
 source_ids:
   vndb: "c3530"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c3530.webp"
 ---
 
-# 拉尼=V伊伊伊
+# ラニ=VIII
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "凶鸟狂死香"
 title_zh: "凶鸟狂死香"
 title_ja: "凶鳥 狂死香"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c150818"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Magadori Kyoshika"
   - "凶鳥 狂死香"

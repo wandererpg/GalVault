@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c97847"
 type: "character"
-display_title: "雅布莉惠露加阿特伊寿"
-title_zh: "雅布莉惠露加阿特伊寿"
+display_title: "ガブリエル・カーティス"
+title_zh: ""
 title_ja: "ガブリエル・カーティス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97847"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gabriel Curtis"
-  - "ガブリエル・カーティス"
   - "ガビィ"
   - "Gabby"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c97847.webp"
 ---
 
-# 雅布莉惠露加阿特伊寿
+# ガブリエル・カーティス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

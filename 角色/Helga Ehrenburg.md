@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34712"
 type: "character"
-display_title: "惠露雅惠惠蕾恩布露古"
-title_zh: "惠露雅惠惠蕾恩布露古"
+display_title: "ヘルガ・エーレンブルグ"
+title_zh: ""
 title_ja: "ヘルガ・エーレンブルグ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34712"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Helga Ehrenburg"
-  - "ヘルガ・エーレンブルグ"
 source_ids:
   vndb: "c34712"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c34712.webp"
 ---
 
-# 惠露雅惠惠蕾恩布露古
+# ヘルガ・エーレンブルグ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

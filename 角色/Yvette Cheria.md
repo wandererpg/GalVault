@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c96969"
 type: "character"
-display_title: "伊贝T斗C惠莉阿"
-title_zh: "伊贝T斗C惠莉阿"
+display_title: "イベット・チェリア"
+title_zh: ""
 title_ja: "イベット・チェリア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c96969"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yvette Cheria"
-  - "イベット・チェリア"
 source_ids:
   vndb: "c96969"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c96969.webp"
 ---
 
-# 伊贝T斗C惠莉阿
+# イベット・チェリア
 
 
 ## 角色画像

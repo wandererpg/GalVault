@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c155422"
 type: "character"
-display_title: "堂LLY·F蕾Y堂T特R"
-title_zh: "堂LLY·F蕾Y堂T特R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Dolly Freydotter"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155422"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Dolly Freydotter"
 source_ids:
   vndb: "c155422"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c155422.webp"
 ---
 
-# 堂LLY·F蕾Y堂T特R
+# Dolly Freydotter
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

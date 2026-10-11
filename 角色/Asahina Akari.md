@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c77339"
 type: "character"
-display_title: "朝日奈明里"
-title_zh: "朝日奈明里"
+display_title: "朝日奈 あかり"
+title_zh: ""
 title_ja: "朝日奈 あかり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c77339"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Asahina Akari"
-  - "朝日奈 あかり"
 source_ids:
   vndb: "c77339"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c77339.webp"
 ---
 
-# 朝日奈明里
+# 朝日奈 あかり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

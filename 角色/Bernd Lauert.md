@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c33679"
 type: "character"
-display_title: "贝R恩D·L阿乌惠RT"
-title_zh: "贝R恩D·L阿乌惠RT"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Bernd Lauert"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33679"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Bernd Lauert"
   - "Berndi"
 source_ids:
   vndb: "c33679"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c33679.webp"
 ---
 
-# 贝R恩D·L阿乌惠RT
+# Bernd Lauert
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c149051"
 type: "character"
-display_title: "加V伊沙莉·T伊阿伊音"
-title_zh: "加V伊沙莉·T伊阿伊音"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Kav'isari Tiaine"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149051"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Kav'isari Tiaine"
   - "Kav"
 source_ids:
   vndb: "c149051"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c149051.webp"
 ---
 
-# 加V伊沙莉·T伊阿伊音
+# Kav'isari Tiaine
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c25637"
 type: "character"
-display_title: "乃惠露V阿阿美莉奥恩"
-title_zh: "乃惠露V阿阿美莉奥恩"
+display_title: "ノエル゠ヴァーミリオン"
+title_zh: ""
 title_ja: "ノエル゠ヴァーミリオン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c25637"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Noel Vermillion"
-  - "ノエル゠ヴァーミリオン"
   - "Eye of the Azure"
   - "Successor of the Azure"
   - "Calamity Trigger, Lacking Lady"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c25637.webp"
 ---
 
-# 乃惠露V阿阿美莉奥恩
+# ノエル゠ヴァーミリオン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

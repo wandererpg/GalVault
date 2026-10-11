@@ -5,7 +5,10 @@ display_title: "绚胤箕嵩"
 title_zh: "绚胤箕嵩"
 title_ja: "絢胤 箕嵩"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c13032"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ayatane Michitaka"
   - "絢胤 箕嵩"

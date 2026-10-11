@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61199"
 type: "character"
-display_title: "惠露洛恩芽露"
-title_zh: "惠露洛恩芽露"
+display_title: "エル・ロンメル"
+title_zh: ""
 title_ja: "エル・ロンメル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61199"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Er Rommel"
-  - "エル・ロンメル"
 source_ids:
   vndb: "c61199"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61199.webp"
 ---
 
-# 惠露洛恩芽露
+# エル・ロンメル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

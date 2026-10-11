@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26421"
 type: "character"
-display_title: "普洛美阿"
-title_zh: "普洛美阿"
+display_title: "プロミア"
+title_zh: ""
 title_ja: "プロミア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26421"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Promia"
-  - "プロミア"
   - "ぷぅ"
 source_ids:
   vndb: "c26421"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c26421.webp"
 ---
 
-# 普洛美阿
+# プロミア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

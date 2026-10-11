@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126994"
 type: "character"
-display_title: "达尼惠露贝露莫恩堂"
-title_zh: "达尼惠露贝露莫恩堂"
+display_title: "ダニエル・ベルモンド"
+title_zh: ""
 title_ja: "ダニエル・ベルモンド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126994"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Daniel Belmondo"
-  - "ダニエル・ベルモンド"
 source_ids:
   vndb: "c126994"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c126994.webp"
 ---
 
-# 达尼惠露贝露莫恩堂
+# ダニエル・ベルモンド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

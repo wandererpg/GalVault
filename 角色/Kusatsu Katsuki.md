@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c59185"
 type: "character"
-display_title: "草津加津希"
-title_zh: "草津加津希"
+display_title: "草津 かつき"
+title_zh: ""
 title_ja: "草津 かつき"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c59185"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kusatsu Katsuki"
-  - "草津 かつき"
 source_ids:
   vndb: "c59185"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c59185.webp"
 ---
 
-# 草津加津希
+# 草津 かつき
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c149048"
 type: "character"
-display_title: "W伊L·恩Y芽拉"
-title_zh: "W伊L·恩Y芽拉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Wil Nymera"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149048"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Wil Nymera"
   - "Rishilwin Nymera"
 source_ids:
   vndb: "c149048"
@@ -14,7 +16,7 @@ source_urls:
   vndb: "https://vndb.org/c149048"
 ---
 
-# W伊L·恩Y芽拉
+# Wil Nymera
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

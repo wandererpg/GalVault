@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c35189"
 type: "character"
-display_title: "惠莉加梦拉沙希"
-title_zh: "惠莉加梦拉沙希"
+display_title: "エリカ・ムラサキ"
+title_zh: ""
 title_ja: "エリカ・ムラサキ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c35189"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Erika Murasaki"
-  - "エリカ・ムラサキ"
 source_ids:
   vndb: "c35189"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c35189.webp"
 ---
 
-# 惠莉加梦拉沙希
+# エリカ・ムラサキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c65718"
 type: "character"
-display_title: "品川久洛奥堂"
-title_zh: "品川久洛奥堂"
+display_title: "品川 クロード"
+title_zh: ""
 title_ja: "品川 クロード"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c65718"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shinagawa Claude"
-  - "品川 クロード"
 source_ids:
   vndb: "c65718"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c65718.webp"
 ---
 
-# 品川久洛奥堂
+# 品川 クロード
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

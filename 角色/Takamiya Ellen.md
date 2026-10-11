@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12761"
 type: "character"
-display_title: "高宫惠蕾恩"
-title_zh: "高宫惠蕾恩"
+display_title: "高宮 エレン"
+title_zh: ""
 title_ja: "高宮 エレン"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12761"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Takamiya Ellen"
-  - "高宮 エレン"
 source_ids:
   vndb: "c12761"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c12761.webp"
 ---
 
-# 高宫惠蕾恩
+# 高宮 エレン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

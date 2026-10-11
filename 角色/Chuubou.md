@@ -5,7 +5,10 @@ display_title: "仲谋"
 title_zh: "仲谋"
 title_ja: "仲謀"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c32190"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Chuubou"
   - "仲謀"

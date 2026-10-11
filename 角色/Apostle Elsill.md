@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c95537"
 type: "character"
-display_title: "使徒惠露诗伊露"
-title_zh: "使徒惠露诗伊露"
+display_title: "使徒 エルシール"
+title_zh: ""
 title_ja: "使徒 エルシール"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c95537"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Apostle Elsill"
-  - "使徒 エルシール"
 source_ids:
   vndb: "c95537"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c95537.webp"
 ---
 
-# 使徒惠露诗伊露
+# 使徒 エルシール
 
 
 ## 角色画像

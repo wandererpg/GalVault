@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c162506"
 type: "character"
-display_title: "C阿RL奥S·巴K惠R·FL阿TT"
-title_zh: "C阿RL奥S·巴K惠R·FL阿TT"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Carlos Bakker Flatt"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c162506"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Carlos Bakker Flatt"
 source_ids:
   vndb: "c162506"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c162506.webp"
 ---
 
-# C阿RL奥S·巴K惠R·FL阿TT
+# Carlos Bakker Flatt
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

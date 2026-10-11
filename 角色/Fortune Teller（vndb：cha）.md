@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c47216"
 type: "character"
-display_title: "F奥RT乌音·特LL惠R"
-title_zh: "F奥RT乌音·特LL惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Fortune Teller"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c47216"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Fortune Teller"
 source_ids:
   vndb: "c47216"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c47216.webp"
 ---
 
-# F奥RT乌音·特LL惠R
+# Fortune Teller
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

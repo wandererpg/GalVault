@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c33684"
 type: "character"
-display_title: "C奥LL惠阿古惠·H乌贝R"
-title_zh: "C奥LL惠阿古惠·H乌贝R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Colleague Huber"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33684"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Colleague Huber"
 source_ids:
   vndb: "c33684"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c33684.webp"
 ---
 
-# C奥LL惠阿古惠·H乌贝R
+# Colleague Huber
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

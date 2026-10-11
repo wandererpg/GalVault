@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c33682"
 type: "character"
-display_title: "JR格恩·Z伊惠格"
-title_zh: "JR格恩·Z伊惠格"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jürgen Ziege"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33682"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jürgen Ziege"
 source_ids:
   vndb: "c33682"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c33682.webp"
 ---
 
-# JR格恩·Z伊惠格
+# Jürgen Ziege
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

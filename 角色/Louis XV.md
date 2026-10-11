@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c50769"
 type: "character"
-display_title: "露伊15世"
-title_zh: "露伊15世"
+display_title: "ルイ15世"
+title_zh: ""
 title_ja: "ルイ15世"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c50769"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Louis XV"
-  - "ルイ15世"
 source_ids:
   vndb: "c50769"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c50769.webp"
 ---
 
-# 露伊15世
+# ルイ15世
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

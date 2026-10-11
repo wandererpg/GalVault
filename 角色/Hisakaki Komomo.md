@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c3932"
 type: "character"
-display_title: "姫榊子莫莫"
-title_zh: "姫榊子莫莫"
+display_title: "姫榊 こもも"
+title_zh: ""
 title_ja: "姫榊 こもも"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c3932"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hisakaki Komomo"
-  - "姫榊 こもも"
   - "Crusher Hisakaki"
   - "Crusher Komomo-nee-san"
   - "Mokoko"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c3932.webp"
 ---
 
-# 姫榊子莫莫
+# 姫榊 こもも
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

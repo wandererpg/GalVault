@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c168325"
 type: "character"
-display_title: "V伊V伊阿乃寿加阿拉"
-title_zh: "V伊V伊阿乃寿加阿拉"
+display_title: "ヴィヴィアン・オスカーラ"
+title_zh: ""
 title_ja: "ヴィヴィアン・オスカーラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c168325"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Vivian Oscura"
-  - "ヴィヴィアン・オスカーラ"
   - "ゴシック"
   - "Gothic"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c168325.webp"
 ---
 
-# V伊V伊阿乃寿加阿拉
+# ヴィヴィアン・オスカーラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

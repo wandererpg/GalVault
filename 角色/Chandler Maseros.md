@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c97688"
 type: "character"
-display_title: "恰恩DL惠R·真濑洛S"
-title_zh: "恰恩DL惠R·真濑洛S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Chandler Maseros"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97688"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Chandler Maseros"
 source_ids:
   vndb: "c97688"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c97688.webp"
 ---
 
-# 恰恩DL惠R·真濑洛S
+# Chandler Maseros
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

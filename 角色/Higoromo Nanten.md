@@ -5,7 +5,10 @@ display_title: "绯衣南天"
 title_zh: "绯衣南天"
 title_ja: "緋衣 南天"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c31935"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Higoromo Nanten"
   - "緋衣 南天"

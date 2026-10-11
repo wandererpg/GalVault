@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c18528"
 type: "character"
-display_title: "子奥吉莫･博恩堂奥音"
-title_zh: "子奥吉莫･博恩堂奥音"
+display_title: "コージモ･ボンドーネ"
+title_zh: ""
 title_ja: "コージモ･ボンドーネ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c18528"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cosimo Bondone"
-  - "コージモ･ボンドーネ"
 source_ids:
   vndb: "c18528"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c18528.webp"
 ---
 
-# 子奥吉莫･博恩堂奥音
+# コージモ･ボンドーネ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "七々原玄藏"
 title_zh: "七々原玄藏"
 title_ja: "七々原 玄蔵"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10954"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nanahara Genzou"
   - "七々原 玄蔵"

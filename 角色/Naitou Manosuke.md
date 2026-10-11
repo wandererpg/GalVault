@@ -5,7 +5,10 @@ display_title: "内藤马乃介"
 title_zh: "内藤马乃介"
 title_ja: "内藤 馬乃介"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c19280"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Naitou Manosuke"
   - "内藤 馬乃介"

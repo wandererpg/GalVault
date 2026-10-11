@@ -5,7 +5,10 @@ display_title: "土方由美"
 title_zh: "土方由美"
 title_ja: "土方 由美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c22091"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hijikata Yumi"
   - "土方 由美"

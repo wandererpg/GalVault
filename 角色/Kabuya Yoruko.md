@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c116948"
 type: "character"
-display_title: "加布雅·代露子"
-title_zh: "加布雅·代露子"
+display_title: "카부야 요루코"
+title_zh: ""
 title_ja: "카부야 요루코"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116948"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kabuya Yoruko"
-  - "카부야 요루코"
   - "Super High School Level Hostess"
 source_ids:
   vndb: "c116948"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c116948.webp"
 ---
 
-# 加布雅·代露子
+# 카부야 요루코
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

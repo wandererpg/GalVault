@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71143"
 type: "character"
-display_title: "惠伊美伊＝乌D堂"
-title_zh: "惠伊美伊＝乌D堂"
+display_title: "エイミィ＝ウッド"
+title_zh: ""
 title_ja: "エイミィ＝ウッド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71143"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Amy Wood"
-  - "エイミィ＝ウッド"
 source_ids:
   vndb: "c71143"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71143.webp"
 ---
 
-# 惠伊美伊＝乌D堂
+# エイミィ＝ウッド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

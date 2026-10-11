@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87733"
 type: "character"
-display_title: "高崎望"
-title_zh: "高崎望"
+display_title: "高崎 のぞみ"
+title_zh: ""
 title_ja: "高崎 のぞみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87733"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Takasaki Nozomi"
-  - "高崎 のぞみ"
 source_ids:
   vndb: "c87733"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c87733.webp"
 ---
 
-# 高崎望
+# 高崎 のぞみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "桐岛勋"
 title_zh: "桐岛勋"
 title_ja: "桐島 勲"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c37283"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kirishima Isao"
   - "桐島 勲"

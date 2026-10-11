@@ -5,7 +5,10 @@ display_title: "灯守"
 title_zh: "灯守"
 title_ja: "灯守"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c81377"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tomori"
 source_ids:

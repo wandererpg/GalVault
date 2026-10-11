@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87862"
 type: "character"
-display_title: "森田美久"
-title_zh: "森田美久"
+display_title: "森田 ミク"
+title_zh: ""
 title_ja: "森田 ミク"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87862"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Morita Miku"
-  - "森田 ミク"
 source_ids:
   vndb: "c87862"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c87862.webp"
 ---
 
-# 森田美久
+# 森田 ミク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c155426"
 type: "character"
-display_title: "玛丽亚·美LL惠R"
-title_zh: "玛丽亚·美LL惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Maria Miller"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155426"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Maria Miller"
 source_ids:
   vndb: "c155426"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c155426.webp"
 ---
 
-# 玛丽亚·美LL惠R
+# Maria Miller
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

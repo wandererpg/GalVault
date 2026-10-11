@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c141408"
 type: "character"
-display_title: "贝TH"
-title_zh: "贝TH"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Beth"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141408"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Beth"
 source_ids:
   vndb: "c141408"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c141408.webp"
 ---
 
-# 贝TH
+# Beth
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

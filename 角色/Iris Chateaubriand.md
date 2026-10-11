@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c5742"
 type: "character"
-display_title: "伊莉寿夏斗奥布莉阿恩"
-title_zh: "伊莉寿夏斗奥布莉阿恩"
+display_title: "イリス・シャトーブリアン"
+title_zh: ""
 title_ja: "イリス・シャトーブリアン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c5742"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Iris Chateaubriand"
-  - "イリス・シャトーブリアン"
   - "アイリス"
   - "Airisu"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c5742.webp"
 ---
 
-# 伊莉寿夏斗奥布莉阿恩
+# イリス・シャトーブリアン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127234"
 type: "character"
-display_title: "雾灯乃母"
-title_zh: "雾灯乃母"
+display_title: "霧灯の母"
+title_zh: ""
 title_ja: "霧灯の母"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127234"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mutou's Mother"
-  - "霧灯の母"
 source_ids:
   vndb: "c127234"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c127234.webp"
 ---
 
-# 雾灯乃母
+# 霧灯の母
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

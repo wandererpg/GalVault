@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13718"
 type: "character"
-display_title: "乌伊拉阿堂H拉伊斗"
-title_zh: "乌伊拉阿堂H拉伊斗"
+display_title: "ウィラード・H・ライト"
+title_zh: ""
 title_ja: "ウィラード・H・ライト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13718"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Willard H. Wright"
-  - "ウィラード・H・ライト"
 source_ids:
   vndb: "c13718"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c13718.webp"
 ---
 
-# 乌伊拉阿堂H拉伊斗
+# ウィラード・H・ライト
 
 
 ## 角色画像

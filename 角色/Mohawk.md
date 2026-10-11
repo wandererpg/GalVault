@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c20524"
 type: "character"
-display_title: "莫穗奥久"
-title_zh: "莫穗奥久"
+display_title: "モホーク"
+title_zh: ""
 title_ja: "モホーク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c20524"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mohawk"
-  - "モホーク"
   - "Lieutenant"
 source_ids:
   vndb: "c20524"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c20524.webp"
 ---
 
-# 莫穗奥久
+# モホーク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

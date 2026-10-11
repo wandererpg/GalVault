@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c37808"
 type: "character"
-display_title: "斗乌加"
-title_zh: "斗乌加"
+display_title: "トウカ"
+title_zh: ""
 title_ja: "トウカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37808"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Touka"
-  - "トウカ"
 source_ids:
   vndb: "c37808"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c37808.webp"
 ---
 
-# 斗乌加
+# トウカ
 
 
 ## 角色画像

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c19742"
 type: "character"
-display_title: "加伊露羽伊堂"
-title_zh: "加伊露羽伊堂"
+display_title: "カイル・ハイド"
+title_zh: ""
 title_ja: "カイル・ハイド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c19742"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kyle Hyde"
-  - "カイル・ハイド"
 source_ids:
   vndb: "c19742"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c19742.webp"
 ---
 
-# 加伊露羽伊堂
+# カイル・ハイド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

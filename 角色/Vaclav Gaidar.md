@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61999"
 type: "character"
-display_title: "V阿阿津拉芙雅伊达露"
-title_zh: "V阿阿津拉芙雅伊达露"
+display_title: "ヴァーツラフ・ガイダル"
+title_zh: ""
 title_ja: "ヴァーツラフ・ガイダル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61999"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Vaclav Gaidar"
-  - "ヴァーツラフ・ガイダル"
 source_ids:
   vndb: "c61999"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61999.webp"
 ---
 
-# V阿阿津拉芙雅伊达露
+# ヴァーツラフ・ガイダル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

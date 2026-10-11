@@ -5,7 +5,10 @@ display_title: "风魔姫野小太郎"
 title_zh: "风魔姫野小太郎"
 title_ja: "風魔 姫野 小太郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c40721"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fuuma Himeno Kotarou"
   - "風魔 姫野 小太郎"

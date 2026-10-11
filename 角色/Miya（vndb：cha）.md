@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c23642"
 type: "character"
-display_title: "美雅"
-title_zh: "美雅"
+display_title: "ミヤ"
+title_zh: ""
 title_ja: "ミヤ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c23642"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Miya"
-  - "ミヤ"
   - "秋 美也"
   - "Qiu Meiye"
   - "秋　美也"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c23642.webp"
 ---
 
-# 美雅
+# ミヤ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c118619"
 type: "character"
-display_title: "玛丽亚"
-title_zh: "玛丽亚"
+display_title: "マリア"
+title_zh: ""
 title_ja: "マリア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c118619"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Maria"
-  - "マリア"
 source_ids:
   vndb: "c118619"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c118619.webp"
 ---
 
-# 玛丽亚
+# マリア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

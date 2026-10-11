@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125132"
 type: "character"
-display_title: "美津巴千娘"
-title_zh: "美津巴千娘"
+display_title: "ミツバチ娘"
+title_zh: ""
 title_ja: "ミツバチ娘"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125132"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Bee Girl"
-  - "ミツバチ娘"
   - "Honey"
 source_ids:
   vndb: "c125132"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c125132.webp"
 ---
 
-# 美津巴千娘
+# ミツバチ娘
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

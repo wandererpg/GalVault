@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c92430"
 type: "character"
-display_title: "MRS·C惠乌恩G"
-title_zh: "MRS·C惠乌恩G"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Mrs. Cheung"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92430"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Mrs. Cheung"
   - "張女士"
 source_ids:
   vndb: "c92430"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c92430.webp"
 ---
 
-# MRS·C惠乌恩G
+# Mrs. Cheung
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

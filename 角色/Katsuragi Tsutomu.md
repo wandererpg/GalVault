@@ -5,7 +5,10 @@ display_title: "葛城勤"
 title_zh: "葛城勤"
 title_ja: "葛城 勤"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c91582"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Katsuragi Tsutomu"
   - "葛城 勤"

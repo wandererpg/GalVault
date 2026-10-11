@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c9887"
 type: "character"
-display_title: "寿特伊诗伊子奈阿"
-title_zh: "寿特伊诗伊子奈阿"
+display_title: "ステイシー・コナー"
+title_zh: ""
 title_ja: "ステイシー・コナー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c9887"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Stacy Connor"
-  - "ステイシー・コナー"
   - "Bloody Stacy"
   - "血まみれステイシー"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c9887.webp"
 ---
 
-# 寿特伊诗伊子奈阿
+# ステイシー・コナー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

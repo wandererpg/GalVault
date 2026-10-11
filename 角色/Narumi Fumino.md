@@ -5,7 +5,10 @@ display_title: "鸣深芙美乃"
 title_zh: "鸣深芙美乃"
 title_ja: "鳴深 芙美乃"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c116169"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Narumi Fumino"
   - "鳴深 芙美乃"

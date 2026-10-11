@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c46734"
 type: "character"
-display_title: "德寿斗拉"
-title_zh: "德寿斗拉"
+display_title: "デストラ"
+title_zh: ""
 title_ja: "デストラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c46734"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Destra"
-  - "デストラ"
 source_ids:
   vndb: "c46734"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c46734.webp"
 ---
 
-# 德寿斗拉
+# デストラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "阿笠忍"
 title_zh: "阿笠忍"
 title_ja: "阿笠 忍"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c15787"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Agasa Shinobu"
   - "阿笠 忍"

@@ -5,7 +5,10 @@ display_title: "冈部朋绘"
 title_zh: "冈部朋绘"
 title_ja: "岡部 朋絵"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c597"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Okabe Tomoe"
   - "岡部 朋絵"

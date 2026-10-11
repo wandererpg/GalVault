@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c51773"
 type: "character"
-display_title: "伊太久"
-title_zh: "伊太久"
+display_title: "イタク"
+title_zh: ""
 title_ja: "イタク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c51773"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Itak"
-  - "イタク"
   - "Itaku"
 source_ids:
   vndb: "c51773"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c51773.webp"
 ---
 
-# 伊太久
+# イタク
 
 
 ## 角色画像

@@ -5,7 +5,10 @@ display_title: "五十铃川秋乃"
 title_zh: "五十铃川秋乃"
 title_ja: "五十鈴川 秋乃"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16138"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Isuzugawa Akino"
   - "五十鈴川 秋乃"

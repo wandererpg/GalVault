@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c145228"
 type: "character"
-display_title: "X阿V伊惠R·V阿L惠恩T伊"
-title_zh: "X阿V伊惠R·V阿L惠恩T伊"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Xavier Valenti"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c145228"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Xavier Valenti"
 source_ids:
   vndb: "c145228"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c145228.webp"
 ---
 
-# X阿V伊惠R·V阿L惠恩T伊
+# Xavier Valenti
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

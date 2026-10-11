@@ -5,7 +5,10 @@ display_title: "卢植子干"
 title_zh: "卢植子干"
 title_ja: "盧植 子幹"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c62470"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Roshoku Shikan"
   - "盧植 子幹"

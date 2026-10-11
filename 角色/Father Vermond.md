@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c50775"
 type: "character"
-display_title: "V惠露莫恩神父"
-title_zh: "V惠露莫恩神父"
+display_title: "ヴェルモン神父"
+title_zh: ""
 title_ja: "ヴェルモン神父"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c50775"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Father Vermond"
-  - "ヴェルモン神父"
   - "Vermond Shinpu"
 source_ids:
   vndb: "c50775"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c50775.webp"
 ---
 
-# V惠露莫恩神父
+# ヴェルモン神父
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8294"
 type: "character"
-display_title: "沙恩绪"
-title_zh: "沙恩绪"
+display_title: "サンチョ"
+title_zh: ""
 title_ja: "サンチョ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8294"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sancho"
-  - "サンチョ"
 source_ids:
   vndb: "c8294"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c8294.webp"
 ---
 
-# 沙恩绪
+# サンチョ
 
 
 ## 角色画像

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c27715"
 type: "character"
-display_title: "F阿阿美诗露寿"
-title_zh: "F阿阿美诗露寿"
+display_title: "ファーミシルス"
+title_zh: ""
 title_ja: "ファーミシルス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c27715"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Farmishils"
-  - "ファーミシルス"
 source_ids:
   vndb: "c27715"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c27715.webp"
 ---
 
-# F阿阿美诗露寿
+# ファーミシルス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

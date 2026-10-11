@@ -5,7 +5,10 @@ display_title: "翠莲"
 title_zh: "翠莲"
 title_ja: "翠蓮"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c40082"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Suiren"
   - "翠蓮"

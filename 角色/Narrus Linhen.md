@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c77789"
 type: "character"
-display_title: "奈露露乌寿＝露伊恩惠恩"
-title_zh: "奈露露乌寿＝露伊恩惠恩"
+display_title: "ナルルース＝ルィンヘン"
+title_zh: ""
 title_ja: "ナルルース＝ルィンヘン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c77789"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Narrus Linhen"
-  - "ナルルース＝ルィンヘン"
 source_ids:
   vndb: "c77789"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c77789.webp"
 ---
 
-# 奈露露乌寿＝露伊恩惠恩
+# ナルルース＝ルィンヘン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

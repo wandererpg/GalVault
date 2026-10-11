@@ -5,7 +5,10 @@ display_title: "东云雫"
 title_zh: "东云雫"
 title_ja: "東雲 雫"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c143903"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shinonome Shizuku"
   - "東雲 雫"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c131859"
 type: "character"
-display_title: "J惠SS伊惠"
-title_zh: "J惠SS伊惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jessie"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c131859"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jessie"
 source_ids:
   vndb: "c131859"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c131859.webp"
 ---
 
-# J惠SS伊惠
+# Jessie
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

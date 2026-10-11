@@ -5,7 +5,10 @@ display_title: "久利原直树"
 title_zh: "久利原直树"
 title_ja: "久利原 直樹"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20522"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kurihara Naoki"
   - "久利原 直樹"

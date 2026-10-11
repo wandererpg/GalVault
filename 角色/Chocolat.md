@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c170366"
 type: "character"
-display_title: "绪C奥L阿T"
-title_zh: "绪C奥L阿T"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Chocolat"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c170366"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Chocolat"
 source_ids:
   vndb: "c170366"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c170366.webp"
 ---
 
-# 绪C奥L阿T
+# Chocolat
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

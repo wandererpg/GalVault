@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c49653"
 type: "character"
-display_title: "乌奥诗寿"
-title_zh: "乌奥诗寿"
+display_title: "ウォシス"
+title_zh: ""
 title_ja: "ウォシス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c49653"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Woshis"
-  - "ウォシス"
   - "Raurau"
   - "Woshis the Shadowlight"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c49653.webp"
 ---
 
-# 乌奥诗寿
+# ウォシス
 
 
 ## 角色画像

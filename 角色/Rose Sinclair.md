@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c89812"
 type: "character"
-display_title: "洛泽·诗恩久蕾阿"
-title_zh: "洛泽·诗恩久蕾阿"
+display_title: "ロゼ シンクレア"
+title_zh: ""
 title_ja: "ロゼ シンクレア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c89812"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rose Sinclair"
-  - "ロゼ シンクレア"
 source_ids:
   vndb: "c89812"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c89812.webp"
 ---
 
-# 洛泽·诗恩久蕾阿
+# ロゼ シンクレア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

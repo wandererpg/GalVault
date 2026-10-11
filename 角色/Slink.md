@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c165808"
 type: "character"
-display_title: "SL伊恩K"
-title_zh: "SL伊恩K"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Slink"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c165808"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Slink"
 source_ids:
   vndb: "c165808"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c165808.webp"
 ---
 
-# SL伊恩K
+# Slink
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126974"
 type: "character"
-display_title: "惠露"
-title_zh: "惠露"
+display_title: "エル"
+title_zh: ""
 title_ja: "エル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126974"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "El"
-  - "エル"
 source_ids:
   vndb: "c126974"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c126974.webp"
 ---
 
-# 惠露
+# エル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

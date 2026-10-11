@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c123611"
 type: "character"
-display_title: "藤井加寿美"
-title_zh: "藤井加寿美"
+display_title: "藤井 かすみ"
+title_zh: ""
 title_ja: "藤井 かすみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c123611"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Fujii Kasumi"
-  - "藤井 かすみ"
 source_ids:
   vndb: "c123611"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c123611.webp"
 ---
 
-# 藤井加寿美
+# 藤井 かすみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

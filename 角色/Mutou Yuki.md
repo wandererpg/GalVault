@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98074"
 type: "character"
-display_title: "雾灯雪"
-title_zh: "雾灯雪"
+display_title: "霧灯 ユキ"
+title_zh: ""
 title_ja: "霧灯 ユキ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98074"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mutou Yuki"
-  - "霧灯 ユキ"
 source_ids:
   vndb: "c98074"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98074.webp"
 ---
 
-# 雾灯雪
+# 霧灯 ユキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

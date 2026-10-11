@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c143518"
 type: "character"
-display_title: "悟D"
-title_zh: "悟D"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "God"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c143518"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "God"
   - "Eva Kiss"
 source_ids:
   vndb: "c143518"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c143518.webp"
 ---
 
-# 悟D
+# God
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

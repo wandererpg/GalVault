@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127492"
 type: "character"
-display_title: "羽伊恩莉日·羽伊恩"
-title_zh: "羽伊恩莉日·羽伊恩"
+display_title: "ハインリヒ ハイン"
+title_zh: ""
 title_ja: "ハインリヒ ハイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127492"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Heinrich Hein"
-  - "ハインリヒ ハイン"
   - "The Angel Killer"
 source_ids:
   vndb: "c127492"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c127492.webp"
 ---
 
-# 羽伊恩莉日·羽伊恩
+# ハインリヒ ハイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

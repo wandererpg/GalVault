@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c73078"
 type: "character"
-display_title: "阿寿太"
-title_zh: "阿寿太"
+display_title: "アスタ"
+title_zh: ""
 title_ja: "アスタ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c73078"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Astar"
-  - "アスタ"
 source_ids:
   vndb: "c73078"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c73078.webp"
 ---
 
-# 阿寿太
+# アスタ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

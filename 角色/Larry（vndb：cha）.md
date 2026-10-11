@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26233"
 type: "character"
-display_title: "拉莉伊"
-title_zh: "拉莉伊"
+display_title: "ラリー"
+title_zh: ""
 title_ja: "ラリー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26233"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Larry"
-  - "ラリー"
 source_ids:
   vndb: "c26233"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c26233.webp"
 ---
 
-# 拉莉伊
+# ラリー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

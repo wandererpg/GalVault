@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16885"
 type: "character"
-display_title: "特伊奥F阿尼阿"
-title_zh: "特伊奥F阿尼阿"
+display_title: "ティオファニア"
+title_zh: ""
 title_ja: "ティオファニア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16885"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tiofania"
-  - "ティオファニア"
 source_ids:
   vndb: "c16885"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c16885.webp"
 ---
 
-# 特伊奥F阿尼阿
+# ティオファニア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

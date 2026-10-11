@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c9895"
 type: "character"
-display_title: "南条・M・虎子"
-title_zh: "南条・M・虎子"
+display_title: "南條・M・虎子"
+title_zh: ""
 title_ja: "南條・M・虎子"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c9895"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nanjou Michelle Torako"
-  - "南條・M・虎子"
   - "Nanjou M. Torako"
   - "Captain of the ropes club"
   - "Koppou-bu Shushou"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c9895.webp"
 ---
 
-# 南条・M・虎子
+# 南條・M・虎子
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c105753"
 type: "character"
-display_title: "新村樱"
-title_zh: "新村樱"
+display_title: "新村 さくら"
+title_zh: ""
 title_ja: "新村 さくら"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c105753"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Niimura Sakura"
-  - "新村 さくら"
   - "Árvore duma mulher"
   - "アヴォレ デュ マ ムリュエ"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c105753.webp"
 ---
 
-# 新村樱
+# 新村 さくら
 
 
 ## 角色画像

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c27734"
 type: "character"
-display_title: "惠露"
-title_zh: "惠露"
+display_title: "エル"
+title_zh: ""
 title_ja: "エル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c27734"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Eru"
-  - "エル"
   - "デンパ猫"
   - "Denpa Neko"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c27734.webp"
 ---
 
-# 惠露
+# エル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

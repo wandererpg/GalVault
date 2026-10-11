@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c116951"
 type: "character"
-display_title: "奥奥斗莉·特露雅"
-title_zh: "奥奥斗莉·特露雅"
+display_title: "오오토리 테루야"
+title_zh: ""
 title_ja: "오오토리 테루야"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116951"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ootori Teruya"
-  - "오오토리 테루야"
   - "Former Super High School Level Merchant"
 source_ids:
   vndb: "c116951"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c116951.webp"
 ---
 
-# 奥奥斗莉·特露雅
+# 오오토리 테루야
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

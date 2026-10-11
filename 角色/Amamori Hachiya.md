@@ -5,7 +5,10 @@ display_title: "雨森八弥"
 title_zh: "雨森八弥"
 title_ja: "雨森 八弥"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c124676"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Amamori Hachiya"
   - "雨森 八弥"

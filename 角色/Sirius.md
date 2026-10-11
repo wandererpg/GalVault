@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c111145"
 type: "character"
-display_title: "诗莉乌寿"
-title_zh: "诗莉乌寿"
+display_title: "シリウス"
+title_zh: ""
 title_ja: "シリウス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c111145"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sirius"
-  - "シリウス"
 source_ids:
   vndb: "c111145"
 source_urls:
   vndb: "https://vndb.org/c111145"
 ---
 
-# 诗莉乌寿
+# シリウス
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

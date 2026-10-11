@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c92522"
 type: "character"
-display_title: "代奥久夏"
-title_zh: "代奥久夏"
+display_title: "ヨークシャ"
+title_zh: ""
 title_ja: "ヨークシャ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92522"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yorkshire"
-  - "ヨークシャ"
 source_ids:
   vndb: "c92522"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c92522.webp"
 ---
 
-# 代奥久夏
+# ヨークシャ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

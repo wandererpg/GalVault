@@ -5,7 +5,10 @@ display_title: "熊饲满"
 title_zh: "熊饲满"
 title_ja: "熊飼 満"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9787"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kumagai Mitsuru"
   - "熊飼 満"

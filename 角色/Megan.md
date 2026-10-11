@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c124484"
 type: "character"
-display_title: "芽雅恩"
-title_zh: "芽雅恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Megan"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124484"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Megan"
 source_ids:
   vndb: "c124484"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c124484.webp"
 ---
 
-# 芽雅恩
+# Megan
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

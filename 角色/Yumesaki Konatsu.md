@@ -5,7 +5,10 @@ display_title: "梦咲小夏"
 title_zh: "梦咲小夏"
 title_ja: "夢咲 小夏"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c164519"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yumesaki Konatsu"
   - "夢咲 小夏"

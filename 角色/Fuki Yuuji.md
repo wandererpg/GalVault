@@ -5,7 +5,10 @@ display_title: "福来祐二"
 title_zh: "福来祐二"
 title_ja: "福来 祐二"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c97934"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fuki Yuuji"
   - "福来 祐二"

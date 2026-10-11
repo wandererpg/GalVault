@@ -5,7 +5,10 @@ display_title: "久良持祐磨"
 title_zh: "久良持祐磨"
 title_ja: "久良持 祐磨"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c70444"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kuramochi Yuuma"
   - "久良持 祐磨"

@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c129765"
 type: "character"
-display_title: "美伊恰恩"
-title_zh: "美伊恰恩"
+display_title: "ミーちゃん"
+title_zh: ""
 title_ja: "ミーちゃん"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c129765"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mii-chan"
-  - "ミーちゃん"
 source_ids:
   vndb: "c129765"
 source_urls:
   vndb: "https://vndb.org/c129765"
 ---
 
-# 美伊恰恩
+# ミーちゃん
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

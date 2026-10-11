@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c6218"
 type: "character"
-display_title: "阿恩吉惠莉加乃露佩露津奥芙加"
-title_zh: "阿恩吉惠莉加乃露佩露津奥芙加"
+display_title: "アンジェリカ・ノル・ペルツォフカ"
+title_zh: ""
 title_ja: "アンジェリカ・ノル・ペルツォフカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c6218"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Angelica Noru Pertsovka"
-  - "アンジェリカ・ノル・ペルツォフカ"
   - "Asmodeus"
   - "Ann"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c6218.webp"
 ---
 
-# 阿恩吉惠莉加乃露佩露津奥芙加
+# アンジェリカ・ノル・ペルツォフカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c122895"
 type: "character"
-display_title: "B蕾恩奈·C阿V阿奈乌GH"
-title_zh: "B蕾恩奈·C阿V阿奈乌GH"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Brenna Cavanaugh"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c122895"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Brenna Cavanaugh"
 source_ids:
   vndb: "c122895"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c122895.webp"
 ---
 
-# B蕾恩奈·C阿V阿奈乌GH
+# Brenna Cavanaugh
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

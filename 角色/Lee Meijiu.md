@@ -5,7 +5,10 @@ display_title: "李梅九"
 title_zh: "李梅九"
 title_ja: "李 梅九"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c38365"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Lee Meijiu"
   - "李 梅九"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c169629"
 type: "character"
-display_title: "斑鸠沙恩"
-title_zh: "斑鸠沙恩"
+display_title: "斑鳩さん"
+title_zh: ""
 title_ja: "斑鳩さん"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c169629"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mrs. Ikaruga"
-  - "斑鳩さん"
   - "祖母"
   - "Grandmother"
 source_ids:
@@ -17,7 +19,7 @@ source_urls:
   vndb: "https://vndb.org/c169629"
 ---
 
-# 斑鸠沙恩
+# 斑鳩さん
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

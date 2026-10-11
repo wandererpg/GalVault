@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c140506"
 type: "character"
-display_title: "真露千伊洛"
-title_zh: "真露千伊洛"
+display_title: "マルチーロ"
+title_zh: ""
 title_ja: "マルチーロ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c140506"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Marcello"
-  - "マルチーロ"
 source_ids:
   vndb: "c140506"
 source_urls:
   vndb: "https://vndb.org/c140506"
 ---
 
-# 真露千伊洛
+# マルチーロ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

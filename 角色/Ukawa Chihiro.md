@@ -5,7 +5,10 @@ display_title: "宇川千寻"
 title_zh: "宇川千寻"
 title_ja: "宇川 千尋"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c59708"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ukawa Chihiro"
   - "宇川 千尋"

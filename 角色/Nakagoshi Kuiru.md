@@ -5,7 +5,10 @@ display_title: "名河越忏"
 title_zh: "名河越忏"
 title_ja: "名河越 懺"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c124674"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nakagoshi Kuiru"
   - "名河越 懺"

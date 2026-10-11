@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c157923"
 type: "character"
-display_title: "莎拉·羽美L斗恩"
-title_zh: "莎拉·羽美L斗恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Sarah Hamilton"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c157923"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Sarah Hamilton"
 source_ids:
   vndb: "c157923"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c157923.webp"
 ---
 
-# 莎拉·羽美L斗恩
+# Sarah Hamilton
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "钟卷祥子"
 title_zh: "钟卷祥子"
 title_ja: "鐘巻 祥子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c37221"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kanemaki Shouko"
   - "鐘巻 祥子"

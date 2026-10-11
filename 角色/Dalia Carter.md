@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c106302"
 type: "character"
-display_title: "达L伊阿·C阿R特R"
-title_zh: "达L伊阿·C阿R特R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Dalia Carter"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c106302"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Dalia Carter"
   - "Dal"
 source_ids:
   vndb: "c106302"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c106302.webp"
 ---
 
-# 达L伊阿·C阿R特R
+# Dalia Carter
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

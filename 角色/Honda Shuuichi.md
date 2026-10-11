@@ -5,7 +5,10 @@ display_title: "本田秀一"
 title_zh: "本田秀一"
 title_ja: "本田 秀一"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c58073"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Honda Shuuichi"
   - "本田 秀一"

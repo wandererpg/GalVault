@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c161321"
 type: "character"
-display_title: "露千露·芙洛奥蕾寿"
-title_zh: "露千露·芙洛奥蕾寿"
+display_title: "ルチル フローレス"
+title_zh: ""
 title_ja: "ルチル フローレス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161321"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rutile Flores"
-  - "ルチル フローレス"
 source_ids:
   vndb: "c161321"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c161321.webp"
 ---
 
-# 露千露·芙洛奥蕾寿
+# ルチル フローレス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

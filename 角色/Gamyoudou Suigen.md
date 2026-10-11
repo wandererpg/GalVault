@@ -5,7 +5,10 @@ display_title: "我妙堂垂弦"
 title_zh: "我妙堂垂弦"
 title_ja: "我妙堂 垂弦"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c164718"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Gamyoudou Suigen"
   - "我妙堂 垂弦"

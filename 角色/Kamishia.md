@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c23643"
 type: "character"
-display_title: "加美诗阿"
-title_zh: "加美诗阿"
+display_title: "カミシア"
+title_zh: ""
 title_ja: "カミシア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c23643"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kamishia"
-  - "カミシア"
 source_ids:
   vndb: "c23643"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c23643.webp"
 ---
 
-# 加美诗阿
+# カミシア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

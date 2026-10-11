@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c101514"
 type: "character"
-display_title: "乌伊蕾梦古洛乌奈阿"
-title_zh: "乌伊蕾梦古洛乌奈阿"
+display_title: "ウィレム・グロウナー"
+title_zh: ""
 title_ja: "ウィレム・グロウナー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c101514"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Willem Grosvenor"
-  - "ウィレム・グロウナー"
   - "Duke"
 source_ids:
   vndb: "c101514"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c101514.webp"
 ---
 
-# 乌伊蕾梦古洛乌奈阿
+# ウィレム・グロウナー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "江小墨"
 title_zh: "江小墨"
 title_ja: "江 小墨"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c92993"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kou Shamo"
   - "江 小墨"

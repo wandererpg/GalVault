@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c74515"
 type: "character"
-display_title: "璃空(莉久乌)"
-title_zh: "璃空(莉久乌)"
+display_title: "璃空 (リクウ)"
+title_zh: ""
 title_ja: "璃空 (リクウ)"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c74515"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rikuu"
-  - "璃空 (リクウ)"
   - "Riku"
 source_ids:
   vndb: "c74515"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c74515.webp"
 ---
 
-# 璃空(莉久乌)
+# 璃空 (リクウ)
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125882"
 type: "character"
-display_title: "阿露拉阿露梦"
-title_zh: "阿露拉阿露梦"
+display_title: "アルラ・アルム"
+title_zh: ""
 title_ja: "アルラ・アルム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125882"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alra Arum"
-  - "アルラ・アルム"
 source_ids:
   vndb: "c125882"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c125882.webp"
 ---
 
-# 阿露拉阿露梦
+# アルラ・アルム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

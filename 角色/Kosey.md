@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c136563"
 type: "character"
-display_title: "子濑Y"
-title_zh: "子濑Y"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Kosey"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136563"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Kosey"
 source_ids:
   vndb: "c136563"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c136563.webp"
 ---
 
-# 子濑Y
+# Kosey
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

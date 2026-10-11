@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c94624"
 type: "character"
-display_title: "久恩久恩奈奥露雅奈伊斗"
-title_zh: "久恩久恩奈奥露雅奈伊斗"
+display_title: "キュンキュン・ナ・オルガナイト"
+title_zh: ""
 title_ja: "キュンキュン・ナ・オルガナイト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94624"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "QunQun Na Organite"
-  - "キュンキュン・ナ・オルガナイト"
 source_ids:
   vndb: "c94624"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c94624.webp"
 ---
 
-# 久恩久恩奈奥露雅奈伊斗
+# キュンキュン・ナ・オルガナイト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

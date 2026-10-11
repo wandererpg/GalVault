@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127218"
 type: "character"
-display_title: "优露格恩贝露恩羽露斗"
-title_zh: "优露格恩贝露恩羽露斗"
+display_title: "ユルゲン・ベルンハルト"
+title_zh: ""
 title_ja: "ユルゲン・ベルンハルト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127218"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jürgen Bernhard"
-  - "ユルゲン・ベルンハルト"
 source_ids:
   vndb: "c127218"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c127218.webp"
 ---
 
-# 优露格恩贝露恩羽露斗
+# ユルゲン・ベルンハルト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

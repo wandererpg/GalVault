@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c150144"
 type: "character"
-display_title: "露BY"
-title_zh: "露BY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ruby"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c150144"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ruby"
 source_ids:
   vndb: "c150144"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c150144.webp"
 ---
 
-# 露BY
+# Ruby
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c127721"
 type: "character"
-display_title: "V阿L惠恩T伊奈·伊阿努S"
-title_zh: "V阿L惠恩T伊奈·伊阿努S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Valentina Ianus"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127721"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Valentina Ianus"
 source_ids:
   vndb: "c127721"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c127721.webp"
 ---
 
-# V阿L惠恩T伊奈·伊阿努S
+# Valentina Ianus
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

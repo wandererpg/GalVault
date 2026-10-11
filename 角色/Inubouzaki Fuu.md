@@ -5,7 +5,10 @@ display_title: "犬吠埼风"
 title_zh: "犬吠埼风"
 title_ja: "犬吠埼 風"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c26515"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Inubouzaki Fuu"
   - "犬吠埼 風"

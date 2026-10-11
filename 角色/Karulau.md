@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c37807"
 type: "character"
-display_title: "加露拉"
-title_zh: "加露拉"
+display_title: "カルラ"
+title_zh: ""
 title_ja: "カルラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37807"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Karulau"
-  - "カルラ"
   - "Karura"
 source_ids:
   vndb: "c37807"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c37807.webp"
 ---
 
-# 加露拉
+# カルラ
 
 
 ## 角色画像

@@ -5,7 +5,10 @@ display_title: "高畑严芳"
 title_zh: "高畑严芳"
 title_ja: "高畑 厳芳"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c5565"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takahata Isayoshi"
   - "高畑 厳芳"

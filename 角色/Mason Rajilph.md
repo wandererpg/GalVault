@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c91532"
 type: "character"
-display_title: "芽伊寿恩"
-title_zh: "芽伊寿恩"
+display_title: "メイスン"
+title_zh: ""
 title_ja: "メイスン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c91532"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mason Rajilph"
-  - "メイスン"
 source_ids:
   vndb: "c91532"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c91532.webp"
 ---
 
-# 芽伊寿恩
+# メイスン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

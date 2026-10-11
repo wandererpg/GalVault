@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c146608"
 type: "character"
-display_title: "和特RF阿伊RY"
-title_zh: "和特RF阿伊RY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Waterfairy"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c146608"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Waterfairy"
   - "Wafa"
 source_ids:
   vndb: "c146608"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c146608.webp"
 ---
 
-# 和特RF阿伊RY
+# Waterfairy
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

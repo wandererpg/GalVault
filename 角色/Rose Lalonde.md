@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c99974"
 type: "character"
-display_title: "萝丝·L阿L奥恩德"
-title_zh: "萝丝·L阿L奥恩德"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Rose Lalonde"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c99974"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Rose Lalonde"
   - "tentacleTherapist"
   - "Seer of Light"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c99974.webp"
 ---
 
-# 萝丝·L阿L奥恩德
+# Rose Lalonde
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

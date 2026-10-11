@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c48177"
 type: "character"
-display_title: "沙拉濑恩惠恩音露"
-title_zh: "沙拉濑恩惠恩音露"
+display_title: "サラ・センケンネル"
+title_zh: ""
 title_ja: "サラ・センケンネル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c48177"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sara Sentinel"
-  - "サラ・センケンネル"
 source_ids:
   vndb: "c48177"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c48177.webp"
 ---
 
-# 沙拉濑恩惠恩音露
+# サラ・センケンネル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

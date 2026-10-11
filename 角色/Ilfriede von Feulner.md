@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c37471"
 type: "character"
-display_title: "伊露芙莉伊德F奥恩F奥伊露奈阿"
-title_zh: "伊露芙莉伊德F奥恩F奥伊露奈阿"
+display_title: "イルフリーデ・フォン・フォイルナー"
+title_zh: ""
 title_ja: "イルフリーデ・フォン・フォイルナー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37471"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ilfriede von Feulner"
-  - "イルフリーデ・フォン・フォイルナー"
 source_ids:
   vndb: "c37471"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c37471.webp"
 ---
 
-# 伊露芙莉伊德F奥恩F奥伊露奈阿
+# イルフリーデ・フォン・フォイルナー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

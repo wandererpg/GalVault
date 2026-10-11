@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c69497"
 type: "character"
-display_title: "女未索拉"
-title_zh: "女未索拉"
+display_title: "女未 そら"
+title_zh: ""
 title_ja: "女未 そら"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c69497"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Onami Sora"
-  - "女未 そら"
 source_ids:
   vndb: "c69497"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c69497.webp"
 ---
 
-# 女未索拉
+# 女未 そら
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

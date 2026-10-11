@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c99888"
 type: "character"
-display_title: "蕾乌贝恩·惠LL阿S·惠L音R"
-title_zh: "蕾乌贝恩·惠LL阿S·惠L音R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Reuben Ellas Kelner"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c99888"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Reuben Ellas Kelner"
 source_ids:
   vndb: "c99888"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c99888.webp"
 ---
 
-# 蕾乌贝恩·惠LL阿S·惠L音R
+# Reuben Ellas Kelner
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

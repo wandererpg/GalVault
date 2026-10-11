@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c42278"
 type: "character"
-display_title: "古蕾惠特露伊惠K惠露恩"
-title_zh: "古蕾惠特露伊惠K惠露恩"
+display_title: "グレーテル・イェッケルン"
+title_zh: ""
 title_ja: "グレーテル・イェッケルン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c42278"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gretel Jeckeln"
-  - "グレーテル・イェッケルン"
   - "Schwarz 04"
   - "Comrade Lieutenant"
   - "Four-eyes"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c42278.webp"
 ---
 
-# 古蕾惠特露伊惠K惠露恩
+# グレーテル・イェッケルン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

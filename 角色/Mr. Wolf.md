@@ -5,7 +5,10 @@ display_title: "沃尔夫"
 title_zh: "沃尔夫"
 title_ja: "沃尔夫"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c103076"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mr. Wolf"
   - "老头"

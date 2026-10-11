@@ -5,7 +5,10 @@ display_title: "高峰隆士"
 title_zh: "高峰隆士"
 title_ja: "高峰 隆士"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c140352"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takamine Takashi"
   - "高峰 隆士"

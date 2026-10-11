@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c29513"
 type: "character"
-display_title: "阿莉沙雅阿拉恩堂"
-title_zh: "阿莉沙雅阿拉恩堂"
+display_title: "アリサ・ガーランド"
+title_zh: ""
 title_ja: "アリサ・ガーランド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c29513"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Arisa Garando"
-  - "アリサ・ガーランド"
   - "Arisa Garland"
 source_ids:
   vndb: "c29513"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c29513.webp"
 ---
 
-# 阿莉沙雅阿拉恩堂
+# アリサ・ガーランド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c84378"
 type: "character"
-display_title: "芽伊F阿恩"
-title_zh: "芽伊F阿恩"
+display_title: "メイファン"
+title_zh: ""
 title_ja: "メイファン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c84378"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mei Fon"
-  - "メイファン"
 source_ids:
   vndb: "c84378"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c84378.webp"
 ---
 
-# 芽伊F阿恩
+# メイファン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

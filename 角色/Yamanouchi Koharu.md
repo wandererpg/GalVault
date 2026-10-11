@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c4097"
 type: "character"
-display_title: "山乃内小春"
-title_zh: "山乃内小春"
+display_title: "山ノ内 小春"
+title_zh: ""
 title_ja: "山ノ内 小春"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c4097"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yamanouchi Koharu"
-  - "山ノ内 小春"
 source_ids:
   vndb: "c4097"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c4097.webp"
 ---
 
-# 山乃内小春
+# 山ノ内 小春
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

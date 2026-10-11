@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c136067"
 type: "character"
-display_title: "阿真津久恩"
-title_zh: "阿真津久恩"
+display_title: "アマツくん"
+title_zh: ""
 title_ja: "アマツくん"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136067"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Amatsu-kun"
-  - "アマツくん"
 source_ids:
   vndb: "c136067"
 source_urls:
   vndb: "https://vndb.org/c136067"
 ---
 
-# 阿真津久恩
+# アマツくん
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

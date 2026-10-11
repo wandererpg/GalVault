@@ -5,7 +5,10 @@ display_title: "不二咲千寻"
 title_zh: "不二咲千寻"
 title_ja: "不二咲 千尋"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10203"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fujisaki Chihiro"
   - "不二咲 千尋"

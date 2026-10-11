@@ -5,7 +5,10 @@ display_title: "箍子数弥"
 title_zh: "箍子数弥"
 title_ja: "箍子 数弥"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c102679"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tagane Kazuya"
   - "箍子 数弥"

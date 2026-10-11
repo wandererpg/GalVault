@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c75566"
 type: "character"
-display_title: "惠久濑露诗奥露"
-title_zh: "惠久濑露诗奥露"
+display_title: "エクセル・シオル"
+title_zh: ""
 title_ja: "エクセル・シオル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c75566"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ekthel Ciol"
-  - "エクセル・シオル"
 source_ids:
   vndb: "c75566"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c75566.webp"
 ---
 
-# 惠久濑露诗奥露
+# エクセル・シオル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "比屋定真帆"
 title_zh: "比屋定真帆"
 title_ja: "比屋定 真帆"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c38152"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hiyajou Maho"
   - "比屋定 真帆"

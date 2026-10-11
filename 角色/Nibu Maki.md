@@ -5,7 +5,10 @@ display_title: "丹生真黄"
 title_zh: "丹生真黄"
 title_ja: "丹生 真黄"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20646"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nibu Maki"
   - "丹生 真黄"

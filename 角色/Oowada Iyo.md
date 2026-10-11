@@ -5,7 +5,10 @@ display_title: "大和田伊豫"
 title_zh: "大和田伊豫"
 title_ja: "大和田 伊予"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9807"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Oowada Iyo"
   - "大和田 伊予"

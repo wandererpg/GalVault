@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c51512"
 type: "character"
-display_title: "旦那沙恩"
-title_zh: "旦那沙恩"
+display_title: "旦那さん"
+title_zh: ""
 title_ja: "旦那さん"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c51512"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Dan'na-san"
-  - "旦那さん"
 source_ids:
   vndb: "c51512"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c51512.webp"
 ---
 
-# 旦那沙恩
+# 旦那さん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

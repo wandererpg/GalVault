@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c100671"
 type: "character"
-display_title: "泽恩索露F伊伊露堂"
-title_zh: "泽恩索露F伊伊露堂"
+display_title: "ゼン・ソルフィールド"
+title_zh: ""
 title_ja: "ゼン・ソルフィールド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c100671"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Zenn Sorfield"
-  - "ゼン・ソルフィールド"
 source_ids:
   vndb: "c100671"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c100671.webp"
 ---
 
-# 泽恩索露F伊伊露堂
+# ゼン・ソルフィールド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

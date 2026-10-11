@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c96918"
 type: "character"
-display_title: "希恩惠惠堂布拉恩布拉"
-title_zh: "希恩惠惠堂布拉恩布拉"
+display_title: "キンケード・ブランブラ"
+title_zh: ""
 title_ja: "キンケード・ブランブラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c96918"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kinkaid Brambla"
-  - "キンケード・ブランブラ"
 source_ids:
   vndb: "c96918"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c96918.webp"
 ---
 
-# 希恩惠惠堂布拉恩布拉
+# キンケード・ブランブラ
 
 
 ## 角色画像

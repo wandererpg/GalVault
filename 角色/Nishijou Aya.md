@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71495"
 type: "character"
-display_title: "西条阿雅"
-title_zh: "西条阿雅"
+display_title: "西條 あや"
+title_zh: ""
 title_ja: "西條 あや"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71495"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nishijou Aya"
-  - "西條 あや"
 source_ids:
   vndb: "c71495"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71495.webp"
 ---
 
-# 西条阿雅
+# 西條 あや
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

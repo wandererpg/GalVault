@@ -5,7 +5,10 @@ display_title: "野口奈緖"
 title_zh: "野口奈緖"
 title_ja: "野口 奈緒"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c33220"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Noguchi Nao"
   - "野口 奈緒"

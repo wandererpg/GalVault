@@ -5,7 +5,10 @@ display_title: "里谷村雨"
 title_zh: "里谷村雨"
 title_ja: "里谷 村雨"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c48301"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Satoya Murasame"
   - "里谷 村雨"

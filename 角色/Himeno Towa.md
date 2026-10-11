@@ -5,7 +5,10 @@ display_title: "姫野永远"
 title_zh: "姫野永远"
 title_ja: "姫野 永遠"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c24370"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Himeno Towa"
   - "姫野 永遠"

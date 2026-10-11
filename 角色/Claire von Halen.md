@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c131625"
 type: "character"
-display_title: "克莱尔·V奥恩·羽L惠恩"
-title_zh: "克莱尔·V奥恩·羽L惠恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Claire von Halen"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c131625"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Claire von Halen"
 source_ids:
   vndb: "c131625"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c131625.webp"
 ---
 
-# 克莱尔·V奥恩·羽L惠恩
+# Claire von Halen
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

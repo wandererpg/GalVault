@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c92095"
 type: "character"
-display_title: "此花优加"
-title_zh: "此花优加"
+display_title: "此花 ゆか"
+title_zh: ""
 title_ja: "此花 ゆか"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92095"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Konohana Yuka"
-  - "此花 ゆか"
 source_ids:
   vndb: "c92095"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c92095.webp"
 ---
 
-# 此花优加
+# 此花 ゆか
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

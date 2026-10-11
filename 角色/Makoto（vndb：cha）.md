@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98284"
 type: "character"
-display_title: "真子斗"
-title_zh: "真子斗"
+display_title: "まこと"
+title_zh: ""
 title_ja: "まこと"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98284"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Makoto"
-  - "まこと"
 source_ids:
   vndb: "c98284"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98284.webp"
 ---
 
-# 真子斗
+# まこと
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

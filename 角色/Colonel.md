@@ -5,7 +5,10 @@ display_title: "大佐"
 title_zh: "大佐"
 title_ja: "大佐"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c3798"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Colonel"
   - "Taijiri Yasushi"

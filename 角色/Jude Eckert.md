@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c145229"
 type: "character"
-display_title: "朱德·惠C惠RT"
-title_zh: "朱德·惠C惠RT"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jude Eckert"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c145229"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jude Eckert"
 source_ids:
   vndb: "c145229"
 source_urls:
   vndb: "https://vndb.org/c145229"
 ---
 
-# 朱德·惠C惠RT
+# Jude Eckert
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

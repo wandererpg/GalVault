@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14731"
 type: "character"
-display_title: "露乌加寿真久堂音露"
-title_zh: "露乌加寿真久堂音露"
+display_title: "ルーカス・マクドネル"
+title_zh: ""
 title_ja: "ルーカス・マクドネル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14731"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lucas McDonnel"
-  - "ルーカス・マクドネル"
 source_ids:
   vndb: "c14731"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c14731.webp"
 ---
 
-# 露乌加寿真久堂音露
+# ルーカス・マクドネル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

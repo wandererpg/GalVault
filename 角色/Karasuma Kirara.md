@@ -5,7 +5,10 @@ display_title: "乌丸云母"
 title_zh: "乌丸云母"
 title_ja: "烏丸 雲母"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10546"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Karasuma Kirara"
   - "烏丸 雲母"

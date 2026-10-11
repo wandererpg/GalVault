@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c80170"
 type: "character"
-display_title: "奈羽斗"
-title_zh: "奈羽斗"
+display_title: "ナハト"
+title_zh: ""
 title_ja: "ナハト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c80170"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nacht"
-  - "ナハト"
 source_ids:
   vndb: "c80170"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c80170.webp"
 ---
 
-# 奈羽斗
+# ナハト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

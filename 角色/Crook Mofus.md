@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c738"
 type: "character"
-display_title: "久露K久乌莫芙寿"
-title_zh: "久露K久乌莫芙寿"
+display_title: "クルックー・モフス"
+title_zh: ""
 title_ja: "クルックー・モフス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c738"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Crook Mofus"
-  - "クルックー・モフス"
   - "Mulalaloux"
 source_ids:
   vndb: "c738"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c738.webp"
 ---
 
-# 久露K久乌莫芙寿
+# クルックー・モフス
 
 
 ## 角色画像

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c153279"
 type: "character"
-display_title: "堂乌GL阿S·斗乌CHS斗音"
-title_zh: "堂乌GL阿S·斗乌CHS斗音"
+display_title: "더글라스 터치스톤"
+title_zh: ""
 title_ja: "더글라스 터치스톤"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c153279"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Douglas Touchstone"
-  - "더글라스 터치스톤"
 source_ids:
   vndb: "c153279"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c153279.webp"
 ---
 
-# 堂乌GL阿S·斗乌CHS斗音
+# 더글라스 터치스톤
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

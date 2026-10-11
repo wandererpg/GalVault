@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c157500"
 type: "character"
-display_title: "翔乌F奥恩比"
-title_zh: "翔乌F奥恩比"
+display_title: "ショウ・フォンビ"
+title_zh: ""
 title_ja: "ショウ・フォンビ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c157500"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shao Feng"
-  - "ショウ・フォンビ"
   - "Yuan Shao"
 source_ids:
   vndb: "c157500"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c157500.webp"
 ---
 
-# 翔乌F奥恩比
+# ショウ・フォンビ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

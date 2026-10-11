@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c59981"
 type: "character"
-display_title: "堂吉真吉"
-title_zh: "堂吉真吉"
+display_title: "ドギ・マギ"
+title_zh: ""
 title_ja: "ドギ・マギ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c59981"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Dogi Magi"
-  - "ドギ・マギ"
 source_ids:
   vndb: "c59981"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c59981.webp"
 ---
 
-# 堂吉真吉
+# ドギ・マギ
 
 
 ## 角色画像

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c36526"
 type: "character"
-display_title: "兵藤加奈芽"
-title_zh: "兵藤加奈芽"
+display_title: "兵藤 かなめ"
+title_zh: ""
 title_ja: "兵藤 かなめ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c36526"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hyoudou Kaname"
-  - "兵藤 かなめ"
 source_ids:
   vndb: "c36526"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c36526.webp"
 ---
 
-# 兵藤加奈芽
+# 兵藤 かなめ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

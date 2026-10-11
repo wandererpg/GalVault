@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c15510"
 type: "character"
-display_title: "歌乌太伊"
-title_zh: "歌乌太伊"
+display_title: "歌うたい"
+title_zh: ""
 title_ja: "歌うたい"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c15510"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Utautai"
-  - "歌うたい"
   - "Shui, The Poet"
 source_ids:
   vndb: "c15510"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c15510.webp"
 ---
 
-# 歌乌太伊
+# 歌うたい
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c159793"
 type: "character"
-display_title: "特伊露惠T斗羽露梦翔奥"
-title_zh: "特伊露惠T斗羽露梦翔奥"
+display_title: "ティルケット・ハルムショー"
+title_zh: ""
 title_ja: "ティルケット・ハルムショー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159793"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tilkett Halmshaw"
-  - "ティルケット・ハルムショー"
   - "ティル"
   - "Til"
   - "ヤブ医者"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c159793.webp"
 ---
 
-# 特伊露惠T斗羽露梦翔奥
+# ティルケット・ハルムショー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

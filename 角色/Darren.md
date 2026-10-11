@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c100438"
 type: "character"
-display_title: "达R蕾恩"
-title_zh: "达R蕾恩"
+display_title: "Даррен"
+title_zh: ""
 title_ja: "Даррен"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c100438"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Darren"
-  - "Даррен"
   - "phoenix"
   - "(Little) Sparrow //Vorobushek//"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c100438.webp"
 ---
 
-# 达R蕾恩
+# Даррен
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

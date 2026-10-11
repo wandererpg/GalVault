@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c33471"
 type: "character"
-display_title: "拉K希伊露千阿阿乃"
-title_zh: "拉K希伊露千阿阿乃"
+display_title: "ラッキー・ルチアーノ"
+title_zh: ""
 title_ja: "ラッキー・ルチアーノ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33471"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lucky Luciano"
-  - "ラッキー・ルチアーノ"
 source_ids:
   vndb: "c33471"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c33471.webp"
 ---
 
-# 拉K希伊露千阿阿乃
+# ラッキー・ルチアーノ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "松房英麻"
 title_zh: "松房英麻"
 title_ja: "松房 英麻"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c48082"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Matsufusa Ema"
   - "松房 英麻"

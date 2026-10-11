@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c94647"
 type: "character"
-display_title: "蕾伊"
-title_zh: "蕾伊"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Rei"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94647"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Rei"
 source_ids:
   vndb: "c94647"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c94647.webp"
 ---
 
-# 蕾伊
+# Rei
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

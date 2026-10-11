@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c124657"
 type: "character"
-display_title: "诗乃乃芽​优乌羽恩"
-title_zh: "诗乃乃芽​优乌羽恩"
+display_title: "シノノメ​・ユーハン"
+title_zh: ""
 title_ja: "シノノメ​・ユーハン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124657"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shinonome Yuhan"
-  - "シノノメ​・ユーハン"
 source_ids:
   vndb: "c124657"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c124657.webp"
 ---
 
-# 诗乃乃芽​优乌羽恩
+# シノノメ​・ユーハン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

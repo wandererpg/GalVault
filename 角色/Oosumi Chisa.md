@@ -5,7 +5,10 @@ display_title: "大澄千纱"
 title_zh: "大澄千纱"
 title_ja: "大澄 千紗"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21331"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Oosumi Chisa"
   - "大澄 千紗"

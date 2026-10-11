@@ -5,7 +5,10 @@ display_title: "鹿野上悠马"
 title_zh: "鹿野上悠马"
 title_ja: "鹿野上 悠馬"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1792"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kanoue Yuuma"
   - "鹿野上 悠馬"

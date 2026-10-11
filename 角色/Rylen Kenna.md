@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c97692"
 type: "character"
-display_title: "RYL惠恩·惠恩奈"
-title_zh: "RYL惠恩·惠恩奈"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Rylen Kenna"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97692"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Rylen Kenna"
 source_ids:
   vndb: "c97692"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c97692.webp"
 ---
 
-# RYL惠恩·惠恩奈
+# Rylen Kenna
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "高峰厚士"
 title_zh: "高峰厚士"
 title_ja: "高峰 厚士"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c141299"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takamine Atsushi"
   - "高峰 厚士"

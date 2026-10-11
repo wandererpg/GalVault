@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c99957"
 type: "character"
-display_title: "F伊莉阿"
-title_zh: "F伊莉阿"
+display_title: "フィリア"
+title_zh: ""
 title_ja: "フィリア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c99957"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Philia"
-  - "フィリア"
 source_ids:
   vndb: "c99957"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c99957.webp"
 ---
 
-# F伊莉阿
+# フィリア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

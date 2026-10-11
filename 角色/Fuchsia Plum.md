@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71003"
 type: "character"
-display_title: "F伊伊夏＝普拉梦"
-title_zh: "F伊伊夏＝普拉梦"
+display_title: "フィーシャ＝プラム"
+title_zh: ""
 title_ja: "フィーシャ＝プラム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71003"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Fuchsia Plum"
-  - "フィーシャ＝プラム"
 source_ids:
   vndb: "c71003"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71003.webp"
 ---
 
-# F伊伊夏＝普拉梦
+# フィーシャ＝プラム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

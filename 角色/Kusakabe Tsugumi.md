@@ -5,7 +5,10 @@ display_title: "日下部月美"
 title_zh: "日下部月美"
 title_ja: "日下部 月美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c92341"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kusakabe Tsugumi"
   - "日下部 月美"

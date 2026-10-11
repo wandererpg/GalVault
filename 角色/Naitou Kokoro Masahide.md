@@ -5,7 +5,10 @@ display_title: "内藤心昌秀"
 title_zh: "内藤心昌秀"
 title_ja: "内藤 心 昌秀"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20748"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Naitou Kokoro Masahide"
   - "内藤 心 昌秀"

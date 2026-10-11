@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c126899"
 type: "character"
-display_title: "惠X佩莉芽恩太L·奥R雅尼SM·XX·7"
-title_zh: "惠X佩莉芽恩太L·奥R雅尼SM·XX·7"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Experimental Organism XX-7"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126899"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Experimental Organism XX-7"
   - "Robin"
 source_ids:
   vndb: "c126899"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c126899.webp"
 ---
 
-# 惠X佩莉芽恩太L·奥R雅尼SM·XX·7
+# Experimental Organism XX-7
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

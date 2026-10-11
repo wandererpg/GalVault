@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10243"
 type: "character"
-display_title: "四津谷甲二"
-title_zh: "四津谷甲二"
+display_title: "四ツ谷 甲二"
+title_zh: ""
 title_ja: "四ツ谷 甲二"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10243"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yotsuya Kouji"
-  - "四ツ谷 甲二"
   - "Hi no Tama-Banchou"
 source_ids:
   vndb: "c10243"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c10243.webp"
 ---
 
-# 四津谷甲二
+# 四ツ谷 甲二
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "东江达夫"
 title_zh: "东江达夫"
 title_ja: "東江 達夫"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c17045"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Toue Tatsuo"
   - "東江 達夫"

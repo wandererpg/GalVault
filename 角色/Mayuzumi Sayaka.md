@@ -5,7 +5,10 @@ display_title: "黛沙也佳"
 title_zh: "黛沙也佳"
 title_ja: "黛 沙也佳"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9897"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mayuzumi Sayaka"
   - "黛 沙也佳"

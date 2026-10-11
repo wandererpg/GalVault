@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87427"
 type: "character"
-display_title: "沙伊希蕾恩巴露斗"
-title_zh: "沙伊希蕾恩巴露斗"
+display_title: "サイキ・レンバルト"
+title_zh: ""
 title_ja: "サイキ・レンバルト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87427"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Psyche Rembart"
-  - "サイキ・レンバルト"
 source_ids:
   vndb: "c87427"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c87427.webp"
 ---
 
-# 沙伊希蕾恩巴露斗
+# サイキ・レンバルト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

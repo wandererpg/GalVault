@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c112312"
 type: "character"
-display_title: "J惠RRY"
-title_zh: "J惠RRY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jerry"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c112312"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jerry"
   - "Jeremaine of Noriander"
 source_ids:
   vndb: "c112312"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c112312.webp"
 ---
 
-# J惠RRY
+# Jerry
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

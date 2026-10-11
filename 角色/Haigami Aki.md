@@ -5,7 +5,10 @@ display_title: "灰上彰"
 title_zh: "灰上彰"
 title_ja: "灰上 彰"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c118656"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Haigami Aki"
   - "灰上 彰"

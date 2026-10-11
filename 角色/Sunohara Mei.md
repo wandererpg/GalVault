@@ -5,7 +5,10 @@ display_title: "春原芽衣"
 title_zh: "春原芽衣"
 title_ja: "春原 芽衣"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c15865"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sunohara Mei"
   - "春原 芽衣"

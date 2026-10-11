@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13610"
 type: "character"
-display_title: "特恩特恩"
-title_zh: "特恩特恩"
+display_title: "てんてん"
+title_zh: ""
 title_ja: "てんてん"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13610"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tenten"
-  - "てんてん"
 source_ids:
   vndb: "c13610"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c13610.webp"
 ---
 
-# 特恩特恩
+# てんてん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

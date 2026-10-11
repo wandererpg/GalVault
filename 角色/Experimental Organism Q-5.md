@@ -5,7 +5,10 @@ display_title: "实验体Ｑ－５"
 title_zh: "实验体Ｑ－５"
 title_ja: "実験体Ｑ－５"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c126786"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Experimental Organism Q-5"
   - "実験体Ｑ－５"

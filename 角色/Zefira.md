@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30376"
 type: "character"
-display_title: "魔神泽F伊拉"
-title_zh: "魔神泽F伊拉"
+display_title: "魔神ゼフィラ"
+title_zh: ""
 title_ja: "魔神ゼフィラ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30376"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Zefira"
-  - "魔神ゼフィラ"
 source_ids:
   vndb: "c30376"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30376.webp"
 ---
 
-# 魔神泽F伊拉
+# 魔神ゼフィラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

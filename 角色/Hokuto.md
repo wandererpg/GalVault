@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c25"
 type: "character"
-display_title: "穗久斗"
-title_zh: "穗久斗"
+display_title: "ホクト"
+title_zh: ""
 title_ja: "ホクト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c25"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hokuto"
-  - "ホクト"
   - "Shounen"
   - "Kid"
   - "Kiddo"
@@ -21,7 +23,7 @@ source_urls:
 portrait_image: "assets/characters/c25.webp"
 ---
 
-# 穗久斗
+# ホクト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

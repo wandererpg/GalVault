@@ -5,7 +5,10 @@ display_title: "蓝妙诗"
 title_zh: "蓝妙诗"
 title_ja: "蓝妙诗"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c150939"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Lan Miaoshi"
   - "Zoey Sapphire"

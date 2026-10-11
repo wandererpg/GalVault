@@ -5,7 +5,10 @@ display_title: "矶野一郎太"
 title_zh: "矶野一郎太"
 title_ja: "磯野 一郎太"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1385"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Isono Ichirouta"
   - "磯野 一郎太"

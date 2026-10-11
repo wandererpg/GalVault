@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125495"
 type: "character"
-display_title: "沙索莉娘"
-title_zh: "沙索莉娘"
+display_title: "サソリ娘"
+title_zh: ""
 title_ja: "サソリ娘"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125495"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Scorpion Girl"
-  - "サソリ娘"
   - "Scarlet"
 source_ids:
   vndb: "c125495"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c125495.webp"
 ---
 
-# 沙索莉娘
+# サソリ娘
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

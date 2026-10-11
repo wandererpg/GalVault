@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c45454"
 type: "character"
-display_title: "吉恩惠伊泽露"
-title_zh: "吉恩惠伊泽露"
+display_title: "ジン・ヘイゼル"
+title_zh: ""
 title_ja: "ジン・ヘイゼル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c45454"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gin Hazell"
-  - "ジン・ヘイゼル"
 source_ids:
   vndb: "c45454"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c45454.webp"
 ---
 
-# 吉恩惠伊泽露
+# ジン・ヘイゼル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

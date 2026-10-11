@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c169055"
 type: "character"
-display_title: "V伊久斗莉阿奥寿加阿拉"
-title_zh: "V伊久斗莉阿奥寿加阿拉"
+display_title: "ヴィクトリア・オスカーラ"
+title_zh: ""
 title_ja: "ヴィクトリア・オスカーラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c169055"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Victoria Oscura"
-  - "ヴィクトリア・オスカーラ"
   - "ブラッドレイン"
   - "Blood Rain"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c169055.webp"
 ---
 
-# V伊久斗莉阿奥寿加阿拉
+# ヴィクトリア・オスカーラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

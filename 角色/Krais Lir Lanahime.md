@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34316"
 type: "character"
-display_title: "久拉伊寿莉露拉奈羽伊梦"
-title_zh: "久拉伊寿莉露拉奈羽伊梦"
+display_title: "クライス・リル・ラナハイム"
+title_zh: ""
 title_ja: "クライス・リル・ラナハイム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34316"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Krais Lir Lanahime"
-  - "クライス・リル・ラナハイム"
 source_ids:
   vndb: "c34316"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c34316.webp"
 ---
 
-# 久拉伊寿莉露拉奈羽伊梦
+# クライス・リル・ラナハイム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

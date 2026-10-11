@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c80187"
 type: "character"
-display_title: "沙格·莫R雅恩·布R惠"
-title_zh: "沙格·莫R雅恩·布R惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Sage Morgan-Burke"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c80187"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Sage Morgan-Burke"
 source_ids:
   vndb: "c80187"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c80187.webp"
 ---
 
-# 沙格·莫R雅恩·布R惠
+# Sage Morgan-Burke
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

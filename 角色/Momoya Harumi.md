@@ -5,7 +5,10 @@ display_title: "桃屋晴海"
 title_zh: "桃屋晴海"
 title_ja: "桃屋晴海"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c17590"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Momoya Harumi"
 source_ids:

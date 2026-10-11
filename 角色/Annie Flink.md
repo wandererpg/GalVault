@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c123063"
 type: "character"
-display_title: "阿恩尼惠·FL伊恩K"
-title_zh: "阿恩尼惠·FL伊恩K"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Annie Flink"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c123063"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Annie Flink"
   - "Anne Flink"
 source_ids:
   vndb: "c123063"
@@ -14,7 +16,7 @@ source_urls:
   vndb: "https://vndb.org/c123063"
 ---
 
-# 阿恩尼惠·FL伊恩K
+# Annie Flink
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

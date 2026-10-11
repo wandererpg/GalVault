@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c7044"
 type: "character"
-display_title: "F伊奥奈雅阿拉恩堂"
-title_zh: "F伊奥奈雅阿拉恩堂"
+display_title: "フィオナ・ガーランド"
+title_zh: ""
 title_ja: "フィオナ・ガーランド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c7044"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Fiona Galland"
-  - "フィオナ・ガーランド"
 source_ids:
   vndb: "c7044"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c7044.webp"
 ---
 
-# F伊奥奈雅阿拉恩堂
+# フィオナ・ガーランド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

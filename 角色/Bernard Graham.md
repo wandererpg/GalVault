@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c61632"
 type: "character"
-display_title: "贝R奈RD·G拉羽M"
-title_zh: "贝R奈RD·G拉羽M"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Bernard Graham"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61632"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Bernard Graham"
 source_ids:
   vndb: "c61632"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c61632.webp"
 ---
 
-# 贝R奈RD·G拉羽M
+# Bernard Graham
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

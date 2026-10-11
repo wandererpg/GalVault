@@ -5,7 +5,10 @@ display_title: "南泽泉理"
 title_zh: "南泽泉理"
 title_ja: "南沢 泉理"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c26323"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Minamisawa Senri"
   - "南沢 泉理"

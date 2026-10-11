@@ -5,7 +5,10 @@ display_title: "远山翠"
 title_zh: "远山翠"
 title_ja: "遠山 翠"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1369"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tooyama Midori"
   - "遠山 翠"

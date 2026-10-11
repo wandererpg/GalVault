@@ -5,7 +5,10 @@ display_title: "鸟谷真琴"
 title_zh: "鸟谷真琴"
 title_ja: "鳥谷 真琴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c7922"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Toritani Makoto"
   - "鳥谷 真琴"

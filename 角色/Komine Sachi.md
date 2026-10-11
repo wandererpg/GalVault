@@ -5,7 +5,10 @@ display_title: "小岭幸"
 title_zh: "小岭幸"
 title_ja: "小嶺 幸"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c576"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Komine Sachi"
   - "小嶺 幸"

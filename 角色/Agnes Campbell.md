@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c135566"
 type: "character"
-display_title: "阿G音S·C阿MP贝LL"
-title_zh: "阿G音S·C阿MP贝LL"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Agnes Campbell"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c135566"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Agnes Campbell"
 source_ids:
   vndb: "c135566"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c135566.webp"
 ---
 
-# 阿G音S·C阿MP贝LL
+# Agnes Campbell
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

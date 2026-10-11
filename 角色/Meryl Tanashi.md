@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38348"
 type: "character"
-display_title: "芽莉露田无"
-title_zh: "芽莉露田无"
+display_title: "メリル 田無"
+title_zh: ""
 title_ja: "メリル 田無"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38348"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Meryl Tanashi"
-  - "メリル 田無"
   - "Miyoko Tanashi"
 source_ids:
   vndb: "c38348"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c38348.webp"
 ---
 
-# 芽莉露田无
+# メリル 田無
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

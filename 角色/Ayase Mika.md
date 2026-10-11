@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c1159"
 type: "character"
-display_title: "绫濑美加"
-title_zh: "绫濑美加"
+display_title: "綾瀬 みか"
+title_zh: ""
 title_ja: "綾瀬 みか"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c1159"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ayase Mika"
-  - "綾瀬 みか"
   - "Magdalene"
   - "マグダレーン"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c1159.webp"
 ---
 
-# 绫濑美加
+# 綾瀬 みか
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

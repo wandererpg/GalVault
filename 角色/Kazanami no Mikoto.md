@@ -5,7 +5,10 @@ display_title: "风波尊"
 title_zh: "风波尊"
 title_ja: "風波尊"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c36355"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kazanami no Mikoto"
   - "風波尊"

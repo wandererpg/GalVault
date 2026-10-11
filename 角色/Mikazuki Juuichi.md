@@ -5,7 +5,10 @@ display_title: "三日月柔一"
 title_zh: "三日月柔一"
 title_ja: "三日月 柔一"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1879"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mikazuki Juuichi"
   - "三日月 柔一"

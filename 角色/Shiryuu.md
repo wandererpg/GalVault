@@ -5,7 +5,10 @@ display_title: "子龙"
 title_zh: "子龙"
 title_ja: "子龍"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c32187"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shiryuu"
   - "子龍"

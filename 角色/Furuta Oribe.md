@@ -5,7 +5,10 @@ display_title: "古田织部"
 title_zh: "古田织部"
 title_ja: "古田 織部"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c76358"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Furuta Oribe"
   - "古田 織部"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c32713"
 type: "character"
-display_title: "莉扎F奥奥寿"
-title_zh: "莉扎F奥奥寿"
+display_title: "リザ・フォース"
+title_zh: ""
 title_ja: "リザ・フォース"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c32713"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lisa Fourth"
-  - "リザ・フォース"
 source_ids:
   vndb: "c32713"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c32713.webp"
 ---
 
-# 莉扎F奥奥寿
+# リザ・フォース
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

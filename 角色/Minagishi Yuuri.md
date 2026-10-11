@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43919"
 type: "character"
-display_title: "三纳岸优乌莉"
-title_zh: "三纳岸优乌莉"
+display_title: "三納岸 ユーリ"
+title_zh: ""
 title_ja: "三納岸 ユーリ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43919"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Minagishi Yuuri"
-  - "三納岸 ユーリ"
 source_ids:
   vndb: "c43919"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43919.webp"
 ---
 
-# 三纳岸优乌莉
+# 三納岸 ユーリ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

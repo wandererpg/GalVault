@@ -5,7 +5,10 @@ display_title: "青山理緖"
 title_zh: "青山理緖"
 title_ja: "青山 理緒"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c73480"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Aoyama Rio"
   - "青山 理緒"

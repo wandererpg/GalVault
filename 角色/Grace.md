@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c155423"
 type: "character"
-display_title: "格蕾丝"
-title_zh: "格蕾丝"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Grace"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155423"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Grace"
 source_ids:
   vndb: "c155423"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c155423.webp"
 ---
 
-# 格蕾丝
+# Grace
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

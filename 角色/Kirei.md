@@ -5,7 +5,10 @@ display_title: "纪灵"
 title_zh: "纪灵"
 title_ja: "紀霊"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c63350"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kirei"
   - "紀霊"

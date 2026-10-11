@@ -5,7 +5,10 @@ display_title: "胜海舟"
 title_zh: "胜海舟"
 title_ja: "勝 海舟"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c64158"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Katsu Kaishuu"
   - "勝 海舟"

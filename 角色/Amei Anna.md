@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c103760"
 type: "character"
-display_title: "饴井安娜"
-title_zh: "饴井安娜"
+display_title: "飴井 アンナ"
+title_zh: ""
 title_ja: "飴井 アンナ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103760"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Amei Anna"
-  - "飴井 アンナ"
 source_ids:
   vndb: "c103760"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c103760.webp"
 ---
 
-# 饴井安娜
+# 飴井 アンナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "结城那由多"
 title_zh: "结城那由多"
 title_ja: "結城 那由多"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c42615"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yuuki Nayuta"
   - "結城 那由多"

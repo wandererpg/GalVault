@@ -5,7 +5,10 @@ display_title: "高田郡兵卫"
 title_zh: "高田郡兵卫"
 title_ja: "高田 郡兵衛"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16525"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takada Gunbee"
   - "高田 郡兵衛"

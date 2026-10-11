@@ -5,7 +5,10 @@ display_title: "架子"
 title_zh: "架子"
 title_ja: "架子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c92037"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kako"
 source_ids:

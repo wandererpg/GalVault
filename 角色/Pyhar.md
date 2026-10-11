@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127287"
 type: "character"
-display_title: "皮伊羽阿"
-title_zh: "皮伊羽阿"
+display_title: "ピーハー"
+title_zh: ""
 title_ja: "ピーハー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127287"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Pyhar"
-  - "ピーハー"
   - "Unfortunate Harpy"
 source_ids:
   vndb: "c127287"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c127287.webp"
 ---
 
-# 皮伊羽阿
+# ピーハー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

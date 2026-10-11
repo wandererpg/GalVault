@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c104160"
 type: "character"
-display_title: "洛乃F奥恩特伊伊努"
-title_zh: "洛乃F奥恩特伊伊努"
+display_title: "ロノ・フォンティーヌ"
+title_zh: ""
 title_ja: "ロノ・フォンティーヌ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c104160"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lono Fontaine"
-  - "ロノ・フォンティーヌ"
 source_ids:
   vndb: "c104160"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c104160.webp"
 ---
 
-# 洛乃F奥恩特伊伊努
+# ロノ・フォンティーヌ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

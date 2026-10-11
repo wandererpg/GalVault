@@ -5,7 +5,10 @@ display_title: "风见聪子"
 title_zh: "风见聪子"
 title_ja: "風見 聡子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c7410"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kazami Satoko"
   - "風見 聡子"

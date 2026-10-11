@@ -5,7 +5,10 @@ display_title: "猪口涉"
 title_zh: "猪口涉"
 title_ja: "猪口 渉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43166"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Inoguchi Wataru"
   - "猪口 渉"

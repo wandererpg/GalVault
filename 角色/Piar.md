@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98014"
 type: "character"
-display_title: "帕伊阿阿露"
-title_zh: "帕伊阿阿露"
+display_title: "パイアール"
+title_zh: ""
 title_ja: "パイアール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98014"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Piar"
-  - "パイアール"
   - "Pi-R"
 source_ids:
   vndb: "c98014"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c98014.webp"
 ---
 
-# 帕伊阿阿露
+# パイアール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

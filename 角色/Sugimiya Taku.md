@@ -5,7 +5,10 @@ display_title: "杉宫拓"
 title_zh: "杉宫拓"
 title_ja: "杉宮 拓"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20196"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sugimiya Taku"
   - "杉宮 拓"

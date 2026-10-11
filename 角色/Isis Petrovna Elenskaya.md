@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8823"
 type: "character"
-display_title: "阿伊诗寿佩斗洛V乌奈惠蕾恩寿加雅"
-title_zh: "阿伊诗寿佩斗洛V乌奈惠蕾恩寿加雅"
+display_title: "アイシス・ペトロヴナ・エレンスカヤ"
+title_zh: ""
 title_ja: "アイシス・ペトロヴナ・エレンスカヤ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8823"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Isis Petrovna Elenskaya"
-  - "アイシス・ペトロヴナ・エレンスカヤ"
   - "Elenskaya"
 source_ids:
   vndb: "c8823"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c8823.webp"
 ---
 
-# 阿伊诗寿佩斗洛V乌奈惠蕾恩寿加雅
+# アイシス・ペトロヴナ・エレンスカヤ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

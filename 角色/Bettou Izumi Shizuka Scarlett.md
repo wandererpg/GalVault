@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12984"
 type: "character"
-display_title: "别当・和泉诗兹加寿加阿蕾T斗"
-title_zh: "别当・和泉诗兹加寿加阿蕾T斗"
+display_title: "別当・和泉 しずか・スカーレット"
+title_zh: ""
 title_ja: "別当・和泉 しずか・スカーレット"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12984"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Bettou Izumi Shizuka Scarlett"
-  - "別当・和泉 しずか・スカーレット"
 source_ids:
   vndb: "c12984"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c12984.webp"
 ---
 
-# 别当・和泉诗兹加寿加阿蕾T斗
+# 別当・和泉 しずか・スカーレット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

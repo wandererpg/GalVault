@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c22768"
 type: "character"
-display_title: "鸢泽美沙希"
-title_zh: "鸢泽美沙希"
+display_title: "鳶沢 みさき"
+title_zh: ""
 title_ja: "鳶沢 みさき"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c22768"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tobisawa Misaki"
-  - "鳶沢 みさき"
 source_ids:
   vndb: "c22768"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c22768.webp"
 ---
 
-# 鸢泽美沙希
+# 鳶沢 みさき
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

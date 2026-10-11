@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c42339"
 type: "character"
-display_title: "帕T斗恩美寿奈露吉"
-title_zh: "帕T斗恩美寿奈露吉"
+display_title: "パットン・ミスナルジ"
+title_zh: ""
 title_ja: "パットン・ミスナルジ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c42339"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Patton Misnarge"
-  - "パットン・ミスナルジ"
   - "Patton Helman"
 source_ids:
   vndb: "c42339"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c42339.webp"
 ---
 
-# 帕T斗恩美寿奈露吉
+# パットン・ミスナルジ
 
 
 ## 角色画像

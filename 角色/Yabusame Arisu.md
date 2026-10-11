@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c83617"
 type: "character"
-display_title: "八分雨阿莉寿"
-title_zh: "八分雨阿莉寿"
+display_title: "八分雨 ありす"
+title_zh: ""
 title_ja: "八分雨 ありす"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c83617"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yabusame Arisu"
-  - "八分雨 ありす"
   - "Alice"
   - "Big bro"
   - "Gonbee"
@@ -24,7 +26,7 @@ source_urls:
 portrait_image: "assets/characters/c83617.webp"
 ---
 
-# 八分雨阿莉寿
+# 八分雨 ありす
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

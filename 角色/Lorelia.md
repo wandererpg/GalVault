@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10445"
 type: "character"
-display_title: "洛奥蕾莉阿"
-title_zh: "洛奥蕾莉阿"
+display_title: "ローレリア"
+title_zh: ""
 title_ja: "ローレリア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10445"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lorelia"
-  - "ローレリア"
 source_ids:
   vndb: "c10445"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c10445.webp"
 ---
 
-# 洛奥蕾莉阿
+# ローレリア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

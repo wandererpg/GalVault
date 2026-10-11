@@ -5,7 +5,10 @@ display_title: "三贵子"
 title_zh: "三贵子"
 title_ja: "三貴子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c124384"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mikiko"
   - "三貴子"

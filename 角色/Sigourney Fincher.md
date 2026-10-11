@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c166248"
 type: "character"
-display_title: "诗雅尼伊F伊恩恰阿"
-title_zh: "诗雅尼伊F伊恩恰阿"
+display_title: "シガニー・フィンチャー"
+title_zh: ""
 title_ja: "シガニー・フィンチャー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c166248"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sigourney Fincher"
-  - "シガニー・フィンチャー"
 source_ids:
   vndb: "c166248"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c166248.webp"
 ---
 
-# 诗雅尼伊F伊恩恰阿
+# シガニー・フィンチャー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c136922"
 type: "character"
-display_title: "拉露寿久洛T津"
-title_zh: "拉露寿久洛T津"
+display_title: "ラルス・クロッツ"
+title_zh: ""
 title_ja: "ラルス・クロッツ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136922"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lars Klotz"
-  - "ラルス・クロッツ"
 source_ids:
   vndb: "c136922"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c136922.webp"
 ---
 
-# 拉露寿久洛T津
+# ラルス・クロッツ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c153202"
 type: "character"
-display_title: "布留见千芙露"
-title_zh: "布留见千芙露"
+display_title: "布留見 ちふる"
+title_zh: ""
 title_ja: "布留見 ちふる"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c153202"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Furumi Chifuru"
-  - "布留見 ちふる"
 source_ids:
   vndb: "c153202"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c153202.webp"
 ---
 
-# 布留见千芙露
+# 布留見 ちふる
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

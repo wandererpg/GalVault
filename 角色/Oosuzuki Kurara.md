@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c150817"
 type: "character"
-display_title: "大铃木久拉拉"
-title_zh: "大铃木久拉拉"
+display_title: "大鈴木 くらら"
+title_zh: ""
 title_ja: "大鈴木 くらら"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c150817"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Oosuzuki Kurara"
-  - "大鈴木 くらら"
   - "Rich Girl Among Rich Girls"
   - "什壹 (Eleven)"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c150817.webp"
 ---
 
-# 大铃木久拉拉
+# 大鈴木 くらら
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

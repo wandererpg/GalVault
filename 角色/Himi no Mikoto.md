@@ -5,7 +5,10 @@ display_title: "绯弥之命"
 title_zh: "绯弥之命"
 title_ja: "緋彌之命"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c83842"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Himi no Mikoto"
   - "緋彌之命"

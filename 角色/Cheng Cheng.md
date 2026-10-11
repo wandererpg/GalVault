@@ -5,7 +5,10 @@ display_title: "程澄"
 title_zh: "程澄"
 title_ja: "程澄"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c97309"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Cheng Cheng"
 source_ids:

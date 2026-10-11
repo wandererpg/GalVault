@@ -5,7 +5,10 @@ display_title: "蜂须贺小六转子正胜"
 title_zh: "蜂须贺小六转子正胜"
 title_ja: "蜂須賀 小六 転子 正勝"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20572"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hachisuka Koroku Koroko Masakatsu"
   - "蜂須賀 小六 転子 正勝"

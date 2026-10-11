@@ -5,7 +5,10 @@ display_title: "本间心铃"
 title_zh: "本间心铃"
 title_ja: "本間 心鈴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c83962"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Honma Misuzu"
   - "本間 心鈴"

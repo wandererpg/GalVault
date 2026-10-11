@@ -5,7 +5,10 @@ display_title: "摩多罗夜行"
 title_zh: "摩多罗夜行"
 title_ja: "摩多羅 夜行"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c34800"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Madara Yakou"
   - "摩多羅 夜行"

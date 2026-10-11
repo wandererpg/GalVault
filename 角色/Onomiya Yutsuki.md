@@ -5,7 +5,10 @@ display_title: "小野宫结月"
 title_zh: "小野宫结月"
 title_ja: "小野宮 結月"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c41347"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Onomiya Yutsuki"
   - "小野宮 結月"

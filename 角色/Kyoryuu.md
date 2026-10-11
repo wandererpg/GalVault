@@ -5,7 +5,10 @@ display_title: "巨龙娘"
 title_zh: "巨龙娘"
 title_ja: "巨竜娘"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c126399"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kyoryuu"
   - "巨竜娘"

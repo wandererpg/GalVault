@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c32901"
 type: "character"
-display_title: "巴阿寿斗"
-title_zh: "巴阿寿斗"
+display_title: "バースト"
+title_zh: ""
 title_ja: "バースト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c32901"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Burst"
-  - "バースト"
 source_ids:
   vndb: "c32901"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c32901.webp"
 ---
 
-# 巴阿寿斗
+# バースト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

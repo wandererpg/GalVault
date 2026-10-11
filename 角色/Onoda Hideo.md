@@ -5,7 +5,10 @@ display_title: "小野田秀男"
 title_zh: "小野田秀男"
 title_ja: "小野田 秀男"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c39300"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Onoda Hideo"
   - "小野田 秀男"

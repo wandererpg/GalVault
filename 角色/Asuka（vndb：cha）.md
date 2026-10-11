@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c59327"
 type: "character"
-display_title: "阿寿加"
-title_zh: "阿寿加"
+display_title: "あすか"
+title_zh: ""
 title_ja: "あすか"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c59327"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Asuka"
-  - "あすか"
 source_ids:
   vndb: "c59327"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c59327.webp"
 ---
 
-# 阿寿加
+# あすか
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "雏罂粟"
 title_zh: "雏罂粟"
 title_ja: "雛罌粟"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c162133"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hinageshi"
   - "雛罌粟"

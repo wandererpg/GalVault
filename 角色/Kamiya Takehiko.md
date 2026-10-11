@@ -5,7 +5,10 @@ display_title: "上屋武彦"
 title_zh: "上屋武彦"
 title_ja: "上屋 武彦"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c78614"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kamiya Takehiko"
   - "上屋 武彦"

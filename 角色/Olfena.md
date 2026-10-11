@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39826"
 type: "character"
-display_title: "奥露F惠奈"
-title_zh: "奥露F惠奈"
+display_title: "オルフェナ"
+title_zh: ""
 title_ja: "オルフェナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39826"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Olfena"
-  - "オルフェナ"
 source_ids:
   vndb: "c39826"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c39826.webp"
 ---
 
-# 奥露F惠奈
+# オルフェナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

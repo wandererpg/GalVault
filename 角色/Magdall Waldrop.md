@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26533"
 type: "character"
-display_title: "真古达露和阿露堂洛P普"
-title_zh: "真古达露和阿露堂洛P普"
+display_title: "マグダル・ワールドロップ"
+title_zh: ""
 title_ja: "マグダル・ワールドロップ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26533"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Magdall Waldrop"
-  - "マグダル・ワールドロップ"
 source_ids:
   vndb: "c26533"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c26533.webp"
 ---
 
-# 真古达露和阿露堂洛P普
+# マグダル・ワールドロップ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

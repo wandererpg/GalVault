@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c40407"
 type: "character"
-display_title: "帕斗莉诗阿奥布惠恩堂"
-title_zh: "帕斗莉诗阿奥布惠恩堂"
+display_title: "パトリシア・オブ・エンド"
+title_zh: ""
 title_ja: "パトリシア・オブ・エンド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c40407"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Patricia of End"
-  - "パトリシア・オブ・エンド"
   - "Patricia of the Netherworld"
   - "Pato-nee"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c40407.webp"
 ---
 
-# 帕斗莉诗阿奥布惠恩堂
+# パトリシア・オブ・エンド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

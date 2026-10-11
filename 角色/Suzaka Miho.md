@@ -5,7 +5,10 @@ display_title: "须坂美穗"
 title_zh: "须坂美穗"
 title_ja: "須坂 美穂"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43131"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Suzaka Miho"
   - "須坂 美穂"

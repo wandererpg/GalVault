@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c54542"
 type: "character"
-display_title: "乔惠露"
-title_zh: "乔惠露"
+display_title: "ジョエル"
+title_zh: ""
 title_ja: "ジョエル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c54542"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Joel"
-  - "ジョエル"
 source_ids:
   vndb: "c54542"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c54542.webp"
 ---
 
-# 乔惠露
+# ジョエル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

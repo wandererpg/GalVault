@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c165280"
 type: "character"
-display_title: "L乌CYS·莫T惠R"
-title_zh: "L乌CYS·莫T惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Lucy's Mother"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c165280"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Lucy's Mother"
 source_ids:
   vndb: "c165280"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c165280.webp"
 ---
 
-# L乌CYS·莫T惠R
+# Lucy's Mother
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c143334"
 type: "character"
-display_title: "F伊奥奈·V阿L惠恩T伊音"
-title_zh: "F伊奥奈·V阿L惠恩T伊音"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Fiona Valentine"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c143334"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Fiona Valentine"
 source_ids:
   vndb: "c143334"
 source_urls:
   vndb: "https://vndb.org/c143334"
 ---
 
-# F伊奥奈·V阿L惠恩T伊音
+# Fiona Valentine
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

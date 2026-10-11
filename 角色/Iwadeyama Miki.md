@@ -5,7 +5,10 @@ display_title: "岩出山未喜"
 title_zh: "岩出山未喜"
 title_ja: "岩出山 未喜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21363"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Iwadeyama Miki"
   - "岩出山 未喜"

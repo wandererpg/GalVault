@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c542"
 type: "character"
-display_title: "拉V伊莉阿"
-title_zh: "拉V伊莉阿"
+display_title: "ラヴィリア"
+title_zh: ""
 title_ja: "ラヴィリア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c542"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lavria"
-  - "ラヴィリア"
   - "Lavi"
 source_ids:
   vndb: "c542"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c542.webp"
 ---
 
-# 拉V伊莉阿
+# ラヴィリア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

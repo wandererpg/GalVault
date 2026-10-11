@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c103973"
 type: "character"
-display_title: "日美加子乃羽奈"
-title_zh: "日美加子乃羽奈"
+display_title: "ヒミカ・コノハナ"
+title_zh: ""
 title_ja: "ヒミカ・コノハナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103973"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Himika Konohana"
-  - "ヒミカ・コノハナ"
   - "Hero of the Divine Mirror"
   - "神鏡の勇者"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c103973.webp"
 ---
 
-# 日美加子乃羽奈
+# ヒミカ・コノハナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c64586"
 type: "character"
-display_title: "惠吉伊优男爵"
-title_zh: "惠吉伊优男爵"
+display_title: "エギーユ男爵"
+title_zh: ""
 title_ja: "エギーユ男爵"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c64586"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Baron of Aiguille"
-  - "エギーユ男爵"
 source_ids:
   vndb: "c64586"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c64586.webp"
 ---
 
-# 惠吉伊优男爵
+# エギーユ男爵
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

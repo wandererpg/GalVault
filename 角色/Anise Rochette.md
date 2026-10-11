@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c137552"
 type: "character"
-display_title: "阿尼寿洛诗惠T斗"
-title_zh: "阿尼寿洛诗惠T斗"
+display_title: "アニス・ロシェット"
+title_zh: ""
 title_ja: "アニス・ロシェット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c137552"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Anise Rochette"
-  - "アニス・ロシェット"
 source_ids:
   vndb: "c137552"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c137552.webp"
 ---
 
-# 阿尼寿洛诗惠T斗
+# アニス・ロシェット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

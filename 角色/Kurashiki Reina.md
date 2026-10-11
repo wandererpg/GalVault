@@ -5,7 +5,10 @@ display_title: "仓敷玲奈"
 title_zh: "仓敷玲奈"
 title_ja: "倉敷 玲奈"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c146498"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kurashiki Reina"
   - "倉敷 玲奈"

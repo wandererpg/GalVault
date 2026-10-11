@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127465"
 type: "character"
-display_title: "F惠露奈恩德寿"
-title_zh: "F惠露奈恩德寿"
+display_title: "フェルナンデス"
+title_zh: ""
 title_ja: "フェルナンデス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127465"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Fernandez"
-  - "フェルナンデス"
 source_ids:
   vndb: "c127465"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c127465.webp"
 ---
 
-# F惠露奈恩德寿
+# フェルナンデス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

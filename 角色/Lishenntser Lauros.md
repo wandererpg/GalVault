@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61892"
 type: "character"
-display_title: "莉修惠恩津惠惠莉拉乌洛索"
-title_zh: "莉修惠恩津惠惠莉拉乌洛索"
+display_title: "リシュエンツェーリ・ラウロソ"
+title_zh: ""
 title_ja: "リシュエンツェーリ・ラウロソ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61892"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lishenntser Lauros"
-  - "リシュエンツェーリ・ラウロソ"
   - "双盾姫"
   - "リシュ"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c61892.webp"
 ---
 
-# 莉修惠恩津惠惠莉拉乌洛索
+# リシュエンツェーリ・ラウロソ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

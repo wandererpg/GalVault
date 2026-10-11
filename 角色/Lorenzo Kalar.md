@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c72169"
 type: "character"
-display_title: "洛蕾恩索加拉阿"
-title_zh: "洛蕾恩索加拉阿"
+display_title: "ロレンソ・カラー"
+title_zh: ""
 title_ja: "ロレンソ・カラー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c72169"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lorenzo Kalar"
-  - "ロレンソ・カラー"
 source_ids:
   vndb: "c72169"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c72169.webp"
 ---
 
-# 洛蕾恩索加拉阿
+# ロレンソ・カラー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

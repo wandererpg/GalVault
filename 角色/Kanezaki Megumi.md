@@ -5,7 +5,10 @@ display_title: "金崎惠"
 title_zh: "金崎惠"
 title_ja: "金崎 恵"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c12515"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kanezaki Megumi"
   - "金崎 恵"

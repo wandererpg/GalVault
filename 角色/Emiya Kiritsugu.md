@@ -5,7 +5,10 @@ display_title: "卫宫切嗣"
 title_zh: "卫宫切嗣"
 title_ja: "衛宮 切嗣"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c96619"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Emiya Kiritsugu"
   - "衛宮 切嗣"

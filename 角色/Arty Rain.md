@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c83253"
 type: "character"
-display_title: "阿阿特伊蕾伊恩"
-title_zh: "阿阿特伊蕾伊恩"
+display_title: "アーティ・レイン"
+title_zh: ""
 title_ja: "アーティ・レイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c83253"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Arty Rain"
-  - "アーティ・レイン"
   - "Doumyouji Kotetsu"
   - "道明寺 小鉄"
   - "The First Magical Girl"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c83253.webp"
 ---
 
-# 阿阿特伊蕾伊恩
+# アーティ・レイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

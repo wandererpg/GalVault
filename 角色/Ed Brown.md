@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c92237"
 type: "character"
-display_title: "惠堂布拉乌恩"
-title_zh: "惠堂布拉乌恩"
+display_title: "エド・ブラウン"
+title_zh: ""
 title_ja: "エド・ブラウン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92237"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ed Brown"
-  - "エド・ブラウン"
 source_ids:
   vndb: "c92237"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c92237.webp"
 ---
 
-# 惠堂布拉乌恩
+# エド・ブラウン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

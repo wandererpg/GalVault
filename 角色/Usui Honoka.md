@@ -5,7 +5,10 @@ display_title: "碓氷穗乃香"
 title_zh: "碓氷穗乃香"
 title_ja: "碓氷 穂乃香"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c48122"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Usui Honoka"
   - "碓氷 穂乃香"

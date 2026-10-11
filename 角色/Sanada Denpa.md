@@ -5,7 +5,10 @@ display_title: "真田电波"
 title_zh: "真田电波"
 title_ja: "真田 電波"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2453"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sanada Denpa"
   - "真田 電波"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c145926"
 type: "character"
-display_title: "阿雅沙加古雅"
-title_zh: "阿雅沙加古雅"
+display_title: "アガサ・カグヤ"
+title_zh: ""
 title_ja: "アガサ・カグヤ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c145926"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Agasa Kaguya"
-  - "アガサ・カグヤ"
 source_ids:
   vndb: "c145926"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c145926.webp"
 ---
 
-# 阿雅沙加古雅
+# アガサ・カグヤ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

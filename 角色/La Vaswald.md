@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98463"
 type: "character"
-display_title: "拉巴寿和露堂"
-title_zh: "拉巴寿和露堂"
+display_title: "ラ・バスワルド"
+title_zh: ""
 title_ja: "ラ・バスワルド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98463"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "La Vaswald"
-  - "ラ・バスワルド"
 source_ids:
   vndb: "c98463"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98463.webp"
 ---
 
-# 拉巴寿和露堂
+# ラ・バスワルド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

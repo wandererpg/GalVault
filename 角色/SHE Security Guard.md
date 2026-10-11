@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c9942"
 type: "character"
-display_title: "S惠警备员"
-title_zh: "S惠警备员"
+display_title: "SHE警備員"
+title_zh: ""
 title_ja: "SHE警備員"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c9942"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "SHE Security Guard"
-  - "SHE警備員"
 source_ids:
   vndb: "c9942"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c9942.webp"
 ---
 
-# S惠警备员
+# SHE警備員
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

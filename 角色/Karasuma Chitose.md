@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c813"
 type: "character"
-display_title: "乌丸千斗濑"
-title_zh: "乌丸千斗濑"
+display_title: "烏丸ちとせ"
+title_zh: ""
 title_ja: "烏丸ちとせ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c813"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Karasuma Chitose"
-  - "烏丸ちとせ"
 source_ids:
   vndb: "c813"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c813.webp"
 ---
 
-# 乌丸千斗濑
+# 烏丸ちとせ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

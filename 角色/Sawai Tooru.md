@@ -5,7 +5,10 @@ display_title: "泽井透"
 title_zh: "泽井透"
 title_ja: "沢井 透"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c5502"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sawai Tooru"
   - "沢井 透"

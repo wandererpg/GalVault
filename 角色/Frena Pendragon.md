@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c70974"
 type: "character"
-display_title: "芙蕾奈＝佩恩堂拉悟恩"
-title_zh: "芙蕾奈＝佩恩堂拉悟恩"
+display_title: "フレナ＝ペンドラゴン"
+title_zh: ""
 title_ja: "フレナ＝ペンドラゴン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c70974"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Frena Pendragon"
-  - "フレナ＝ペンドラゴン"
 source_ids:
   vndb: "c70974"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c70974.webp"
 ---
 
-# 芙蕾奈＝佩恩堂拉悟恩
+# フレナ＝ペンドラゴン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

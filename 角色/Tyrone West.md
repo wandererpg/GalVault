@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c61628"
 type: "character"
-display_title: "TY洛音·W惠ST"
-title_zh: "TY洛音·W惠ST"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Tyrone West"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61628"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Tyrone West"
 source_ids:
   vndb: "c61628"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c61628.webp"
 ---
 
-# TY洛音·W惠ST
+# Tyrone West
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

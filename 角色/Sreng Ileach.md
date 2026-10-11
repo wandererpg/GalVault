@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c135123"
 type: "character"
-display_title: "寿蕾奈伊莉伊久"
-title_zh: "寿蕾奈伊莉伊久"
+display_title: "スレン・アイリーク"
+title_zh: ""
 title_ja: "スレン・アイリーク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c135123"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sreng Ileach"
-  - "スレン・アイリーク"
 source_ids:
   vndb: "c135123"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c135123.webp"
 ---
 
-# 寿蕾奈伊莉伊久
+# スレン・アイリーク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

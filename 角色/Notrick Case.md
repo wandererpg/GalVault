@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c152907"
 type: "character"
-display_title: "乃T莉CK·C阿濑"
-title_zh: "乃T莉CK·C阿濑"
+display_title: "노트릭 케이스"
+title_zh: ""
 title_ja: "노트릭 케이스"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c152907"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Notrick Case"
-  - "노트릭 케이스"
 source_ids:
   vndb: "c152907"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c152907.webp"
 ---
 
-# 乃T莉CK·C阿濑
+# 노트릭 케이스
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

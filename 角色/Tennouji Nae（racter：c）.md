@@ -5,7 +5,10 @@ display_title: "天王寺绹"
 title_zh: "天王寺绹"
 title_ja: "天王寺 綯"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c86624"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tennouji Nae"
   - "天王寺 綯"

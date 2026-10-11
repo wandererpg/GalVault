@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c152619"
 type: "character"
-display_title: "波洛恩恰奥"
-title_zh: "波洛恩恰奥"
+display_title: "ポロン・チャオ"
+title_zh: ""
 title_ja: "ポロン・チャオ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c152619"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Poron Chao"
-  - "ポロン・チャオ"
 source_ids:
   vndb: "c152619"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c152619.webp"
 ---
 
-# 波洛恩恰奥
+# ポロン・チャオ
 
 
 ## 角色画像

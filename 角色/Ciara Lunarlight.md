@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c165562"
 type: "character"
-display_title: "希阿拉恩露奈阿拉伊"
-title_zh: "希阿拉恩露奈阿拉伊"
+display_title: "キアラン・ルナーライ"
+title_zh: ""
 title_ja: "キアラン・ルナーライ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c165562"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ciara Lunarlight"
-  - "キアラン・ルナーライ"
 source_ids:
   vndb: "c165562"
 source_urls:
   vndb: "https://vndb.org/c165562"
 ---
 
-# 希阿拉恩露奈阿拉伊
+# キアラン・ルナーライ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c91345"
 type: "character"
-display_title: "千奈美·绪索加贝"
-title_zh: "千奈美·绪索加贝"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Chinami Chosokabe"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c91345"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Chinami Chosokabe"
 source_ids:
   vndb: "c91345"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c91345.webp"
 ---
 
-# 千奈美·绪索加贝
+# Chinami Chosokabe
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

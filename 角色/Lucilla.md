@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c75569"
 type: "character"
-display_title: "露千R拉"
-title_zh: "露千R拉"
+display_title: "ルチッラ"
+title_zh: ""
 title_ja: "ルチッラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c75569"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lucilla"
-  - "ルチッラ"
 source_ids:
   vndb: "c75569"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c75569.webp"
 ---
 
-# 露千R拉
+# ルチッラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

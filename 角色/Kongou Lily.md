@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c52842"
 type: "character"
-display_title: "金刚莉莉伊"
-title_zh: "金刚莉莉伊"
+display_title: "金剛　リリー"
+title_zh: ""
 title_ja: "金剛　リリー"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c52842"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kongou Lily"
-  - "金剛　リリー"
 source_ids:
   vndb: "c52842"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c52842.webp"
 ---
 
-# 金刚莉莉伊
+# 金剛　リリー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

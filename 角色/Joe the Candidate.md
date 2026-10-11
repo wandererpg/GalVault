@@ -5,7 +5,10 @@ display_title: "竞选人乔"
 title_zh: "竞选人乔"
 title_ja: "竞选人乔"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c104377"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Joe the Candidate"
 source_ids:

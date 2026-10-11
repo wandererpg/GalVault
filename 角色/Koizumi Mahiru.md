@@ -5,7 +5,10 @@ display_title: "小泉真昼"
 title_zh: "小泉真昼"
 title_ja: "小泉 真昼"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c6622"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Koizumi Mahiru"
   - "小泉 真昼"

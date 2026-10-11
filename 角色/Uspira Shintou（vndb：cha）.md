@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c99544"
 type: "character"
-display_title: "乌寿皮拉真冬"
-title_zh: "乌寿皮拉真冬"
+display_title: "ウスピラ・真冬"
+title_zh: ""
 title_ja: "ウスピラ・真冬"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c99544"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Uspira Shintou"
-  - "ウスピラ・真冬"
 source_ids:
   vndb: "c99544"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c99544.webp"
 ---
 
-# 乌寿皮拉真冬
+# ウスピラ・真冬
 
 
 ## 角色画像

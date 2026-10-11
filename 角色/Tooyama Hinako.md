@@ -5,7 +5,10 @@ display_title: "远山雏子"
 title_zh: "远山雏子"
 title_ja: "遠山 雛子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c8500"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tooyama Hinako"
   - "遠山 雛子"

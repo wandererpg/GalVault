@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c174073"
 type: "character"
-display_title: "希代诗·穗恩达"
-title_zh: "希代诗·穗恩达"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Kiyoshi Honda"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c174073"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Kiyoshi Honda"
   - "Kiymaster"
 source_ids:
   vndb: "c174073"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c174073.webp"
 ---
 
-# 希代诗·穗恩达
+# Kiyoshi Honda
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

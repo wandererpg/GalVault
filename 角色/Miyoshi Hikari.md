@@ -5,7 +5,10 @@ display_title: "三芳星"
 title_zh: "三芳星"
 title_ja: "三芳 星"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c118632"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Miyoshi Hikari"
   - "三芳 星"

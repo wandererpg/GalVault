@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c127770"
 type: "character"
-display_title: "T惠奥恩·阿RC惠乌S"
-title_zh: "T惠奥恩·阿RC惠乌S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Theon Archeus"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127770"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Theon Archeus"
 source_ids:
   vndb: "c127770"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c127770.webp"
 ---
 
-# T惠奥恩·阿RC惠乌S
+# Theon Archeus
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

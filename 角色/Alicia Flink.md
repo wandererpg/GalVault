@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c123065"
 type: "character"
-display_title: "艾莉西亚·FL伊恩K"
-title_zh: "艾莉西亚·FL伊恩K"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Alicia Flink"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c123065"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Alicia Flink"
 source_ids:
   vndb: "c123065"
 source_urls:
   vndb: "https://vndb.org/c123065"
 ---
 
-# 艾莉西亚·FL伊恩K
+# Alicia Flink
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

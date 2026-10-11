@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125481"
 type: "character"
-display_title: "太拉恩秋拉娘"
-title_zh: "太拉恩秋拉娘"
+display_title: "タランチュラ娘"
+title_zh: ""
 title_ja: "タランチュラ娘"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125481"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tarantula Girl"
-  - "タランチュラ娘"
   - "Rachura"
 source_ids:
   vndb: "c125481"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c125481.webp"
 ---
 
-# 太拉恩秋拉娘
+# タランチュラ娘
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

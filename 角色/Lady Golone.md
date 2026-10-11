@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61267"
 type: "character"
-display_title: "蕾D伊·悟洛奥恩"
-title_zh: "蕾D伊·悟洛奥恩"
+display_title: "レディ ゴローン"
+title_zh: ""
 title_ja: "レディ ゴローン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61267"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lady Golone"
-  - "レディ ゴローン"
 source_ids:
   vndb: "c61267"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61267.webp"
 ---
 
-# 蕾D伊·悟洛奥恩
+# レディ ゴローン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "原阿树"
 title_zh: "原阿树"
 title_ja: "原 阿樹"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2864"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hara Aki"
   - "原 阿樹"

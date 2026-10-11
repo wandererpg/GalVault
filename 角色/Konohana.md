@@ -5,7 +5,10 @@ display_title: "此花"
 title_zh: "此花"
 title_ja: "此花"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c106368"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Konohana"
 source_ids:

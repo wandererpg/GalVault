@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c116850"
 type: "character"
-display_title: "普洛F伊"
-title_zh: "普洛F伊"
+display_title: "プロフィ"
+title_zh: ""
 title_ja: "プロフィ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116850"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Profi"
-  - "プロフィ"
 source_ids:
   vndb: "c116850"
 source_urls:
   vndb: "https://vndb.org/c116850"
 ---
 
-# 普洛F伊
+# プロフィ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

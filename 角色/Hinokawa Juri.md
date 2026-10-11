@@ -5,7 +5,10 @@ display_title: "簸川树里"
 title_zh: "簸川树里"
 title_ja: "簸川 樹里"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c27014"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hinokawa Juri"
   - "簸川 樹里"

@@ -5,7 +5,10 @@ display_title: "园原麻奈"
 title_zh: "园原麻奈"
 title_ja: "園原 麻奈"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c12953"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sonohara Mana"
   - "園原 麻奈"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c136988"
 type: "character"
-display_title: "P莉恩C伊帕L·莫恩洛惠"
-title_zh: "P莉恩C伊帕L·莫恩洛惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Principal Monroe"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136988"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Principal Monroe"
   - "Adriana"
 source_ids:
   vndb: "c136988"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c136988.webp"
 ---
 
-# P莉恩C伊帕L·莫恩洛惠
+# Principal Monroe
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

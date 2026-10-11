@@ -5,7 +5,10 @@ display_title: "藤宫汐音"
 title_zh: "藤宫汐音"
 title_ja: "藤宮 汐音"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c29532"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fujimiya Shione"
   - "藤宮 汐音"

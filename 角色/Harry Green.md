@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c102611"
 type: "character"
-display_title: "羽RRY·G蕾惠恩"
-title_zh: "羽RRY·G蕾惠恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Harry Green"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c102611"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Harry Green"
 source_ids:
   vndb: "c102611"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c102611.webp"
 ---
 
-# 羽RRY·G蕾惠恩
+# Harry Green
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

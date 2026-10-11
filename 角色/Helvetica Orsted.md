@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c81183"
 type: "character"
-display_title: "惠露贝千加"
-title_zh: "惠露贝千加"
+display_title: "ヘルベチカ"
+title_zh: ""
 title_ja: "ヘルベチカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c81183"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Helvetica Orsted"
-  - "ヘルベチカ"
 source_ids:
   vndb: "c81183"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c81183.webp"
 ---
 
-# 惠露贝千加
+# ヘルベチカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

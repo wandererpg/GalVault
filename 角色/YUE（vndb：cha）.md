@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c42617"
 type: "character"
-display_title: "优惠"
-title_zh: "优惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "YUE"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c42617"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "YUE"
   - "宇賀神 由衣"
   - "Ugajin Yue"
   - "由衣"
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c42617.webp"
 ---
 
-# 优惠
+# YUE
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

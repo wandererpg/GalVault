@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c127214"
 type: "character"
-display_title: "尼子拉美希雅露惠"
-title_zh: "尼子拉美希雅露惠"
+display_title: "ニコラ・ミヒャルケ"
+title_zh: ""
 title_ja: "ニコラ・ミヒャルケ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127214"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nicola Michalke"
-  - "ニコラ・ミヒャルケ"
 source_ids:
   vndb: "c127214"
 source_urls:
   vndb: "https://vndb.org/c127214"
 ---
 
-# 尼子拉美希雅露惠
+# ニコラ・ミヒャルケ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

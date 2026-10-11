@@ -5,7 +5,10 @@ display_title: "枡形兵马"
 title_zh: "枡形兵马"
 title_ja: "枡形 兵馬"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21620"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Masukata Hyouma"
   - "枡形 兵馬"

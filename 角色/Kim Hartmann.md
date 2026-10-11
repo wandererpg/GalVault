@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c33716"
 type: "character"
-display_title: "希M·羽RT真恩恩"
-title_zh: "希M·羽RT真恩恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Kim Hartmann"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33716"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Kim Hartmann"
   - "Kimmi"
 source_ids:
   vndb: "c33716"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c33716.webp"
 ---
 
-# 希M·羽RT真恩恩
+# Kim Hartmann
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

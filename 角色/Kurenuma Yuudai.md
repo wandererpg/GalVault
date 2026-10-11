@@ -5,7 +5,10 @@ display_title: "暮沼雄大"
 title_zh: "暮沼雄大"
 title_ja: "暮沼 雄大"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c47208"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kurenuma Yuudai"
   - "暮沼 雄大"

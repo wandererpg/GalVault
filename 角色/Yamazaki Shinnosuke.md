@@ -5,7 +5,10 @@ display_title: "山崎真之介"
 title_zh: "山崎真之介"
 title_ja: "山崎 真之介"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c124018"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yamazaki Shinnosuke"
   - "山崎 真之介"

@@ -5,7 +5,10 @@ display_title: "情报屋"
 title_zh: "情报屋"
 title_ja: "情報屋"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c33133"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Jouhouya"
   - "情報屋"

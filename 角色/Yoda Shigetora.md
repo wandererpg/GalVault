@@ -5,7 +5,10 @@ display_title: "兴田重虎"
 title_zh: "兴田重虎"
 title_ja: "興田 重虎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c42618"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yoda Shigetora"
   - "興田 重虎"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c137431"
 type: "character"
-display_title: "泽渡子子"
-title_zh: "泽渡子子"
+display_title: "沢渡 ココ"
+title_zh: ""
 title_ja: "沢渡 ココ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c137431"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sawatari Coco"
-  - "沢渡 ココ"
 source_ids:
   vndb: "c137431"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c137431.webp"
 ---
 
-# 泽渡子子
+# 沢渡 ココ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

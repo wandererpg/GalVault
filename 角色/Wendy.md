@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c141423"
 type: "character"
-display_title: "W惠恩DY"
-title_zh: "W惠恩DY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Wendy"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141423"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Wendy"
 source_ids:
   vndb: "c141423"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c141423.webp"
 ---
 
-# W惠恩DY
+# Wendy
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

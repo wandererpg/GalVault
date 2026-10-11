@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c25147"
 type: "character"
-display_title: "松乃介"
-title_zh: "松乃介"
+display_title: "松ノ介"
+title_zh: ""
 title_ja: "松ノ介"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c25147"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Matsunokai"
-  - "松ノ介"
 source_ids:
   vndb: "c25147"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c25147.webp"
 ---
 
-# 松乃介
+# 松ノ介
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

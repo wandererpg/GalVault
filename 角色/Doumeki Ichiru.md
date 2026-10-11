@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c49923"
 type: "character"
-display_title: "百目鬼伊千露"
-title_zh: "百目鬼伊千露"
+display_title: "百目鬼 イチル"
+title_zh: ""
 title_ja: "百目鬼 イチル"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c49923"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Doumeki Ichiru"
-  - "百目鬼 イチル"
 source_ids:
   vndb: "c49923"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c49923.webp"
 ---
 
-# 百目鬼伊千露
+# 百目鬼 イチル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

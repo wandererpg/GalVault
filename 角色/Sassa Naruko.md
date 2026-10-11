@@ -5,7 +5,10 @@ display_title: "佐々鸣子"
 title_zh: "佐々鸣子"
 title_ja: "佐々 鳴子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c157029"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sassa Naruko"
   - "佐々 鳴子"

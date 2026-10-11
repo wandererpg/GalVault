@@ -5,7 +5,10 @@ display_title: "秋叶原桃子"
 title_zh: "秋叶原桃子"
 title_ja: "秋葉原 桃子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c30460"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Akihabara Momoko"
   - "秋葉原 桃子"

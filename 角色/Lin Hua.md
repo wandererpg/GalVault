@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38228"
 type: "character"
-display_title: "莉恩F阿"
-title_zh: "莉恩F阿"
+display_title: "リンファ"
+title_zh: ""
 title_ja: "リンファ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38228"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lin Hua"
-  - "リンファ"
   - "Rinfa"
   - "Линь Хуа"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c38228.webp"
 ---
 
-# 莉恩F阿
+# リンファ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c64374"
 type: "character"
-display_title: "阿露芙真努拉乃寿"
-title_zh: "阿露芙真努拉乃寿"
+display_title: "アルフマン・ウラノス"
+title_zh: ""
 title_ja: "アルフマン・ウラノス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c64374"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alfman Uranos"
-  - "アルフマン・ウラノス"
 source_ids:
   vndb: "c64374"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c64374.webp"
 ---
 
-# 阿露芙真努拉乃寿
+# アルフマン・ウラノス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

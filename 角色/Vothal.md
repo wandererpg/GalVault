@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c48685"
 type: "character"
-display_title: "V奥T羽L"
-title_zh: "V奥T羽L"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Vothal"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c48685"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Vothal"
 source_ids:
   vndb: "c48685"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c48685.webp"
 ---
 
-# V奥T羽L
+# Vothal
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

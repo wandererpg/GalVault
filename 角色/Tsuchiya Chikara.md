@@ -5,7 +5,10 @@ display_title: "土屋主税"
 title_zh: "土屋主税"
 title_ja: "土屋 主税"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c63562"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsuchiya Chikara"
   - "土屋 主税"

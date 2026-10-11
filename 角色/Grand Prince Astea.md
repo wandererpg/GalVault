@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c116630"
 type: "character"
-display_title: "大公爵阿寿特阿"
-title_zh: "大公爵阿寿特阿"
+display_title: "大公爵アステア"
+title_zh: ""
 title_ja: "大公爵アステア"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116630"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Grand Prince Astea"
-  - "大公爵アステア"
 source_ids:
   vndb: "c116630"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c116630.webp"
 ---
 
-# 大公爵阿寿特阿
+# 大公爵アステア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

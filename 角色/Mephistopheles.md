@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17313"
 type: "character"
-display_title: "芽F伊寿斗F惠蕾寿"
-title_zh: "芽F伊寿斗F惠蕾寿"
+display_title: "メフィストフェレス"
+title_zh: ""
 title_ja: "メフィストフェレス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17313"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mephistopheles"
-  - "メフィストフェレス"
   - "Mephisto"
 source_ids:
   vndb: "c17313"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c17313.webp"
 ---
 
-# 芽F伊寿斗F惠蕾寿
+# メフィストフェレス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

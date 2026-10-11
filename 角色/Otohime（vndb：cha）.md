@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c92100"
 type: "character"
-display_title: "奥斗日芽"
-title_zh: "奥斗日芽"
+display_title: "オトヒメ"
+title_zh: ""
 title_ja: "オトヒメ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92100"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Otohime"
-  - "オトヒメ"
   - "ゴスロリ"
 source_ids:
   vndb: "c92100"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c92100.webp"
 ---
 
-# 奥斗日芽
+# オトヒメ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

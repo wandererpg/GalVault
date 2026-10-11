@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c103784"
 type: "character"
-display_title: "莉伊普久恩"
-title_zh: "莉伊普久恩"
+display_title: "リープくん"
+title_zh: ""
 title_ja: "リープくん"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103784"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Leep-kun"
-  - "リープくん"
 source_ids:
   vndb: "c103784"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c103784.webp"
 ---
 
-# 莉伊普久恩
+# リープくん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

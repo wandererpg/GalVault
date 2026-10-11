@@ -5,7 +5,10 @@ display_title: "渡濑逸树"
 title_zh: "渡濑逸树"
 title_ja: "渡瀬 逸樹"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c84674"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Watase Itsuki"
   - "渡瀬 逸樹"

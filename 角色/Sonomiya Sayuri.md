@@ -5,7 +5,10 @@ display_title: "园宫沙百合"
 title_zh: "园宫沙百合"
 title_ja: "園宮 沙百合"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c87116"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sonomiya Sayuri"
   - "園宮 沙百合"

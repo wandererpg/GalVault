@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125808"
 type: "character"
-display_title: "音子真太"
-title_zh: "音子真太"
+display_title: "ねこまた"
+title_zh: ""
 title_ja: "ねこまた"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125808"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nekomata"
-  - "ねこまた"
   - "Mighty Cat"
   - "Tama"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c125808.webp"
 ---
 
-# 音子真太
+# ねこまた
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

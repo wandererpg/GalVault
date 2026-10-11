@@ -5,7 +5,10 @@ display_title: "染谷友香"
 title_zh: "染谷友香"
 title_ja: "染谷 友香"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c70694"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Someya Yuka"
   - "染谷 友香"

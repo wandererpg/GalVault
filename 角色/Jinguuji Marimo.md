@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c111"
 type: "character"
-display_title: "神宫司真莉莫"
-title_zh: "神宫司真莉莫"
+display_title: "神宮司 まりも"
+title_zh: ""
 title_ja: "神宮司 まりも"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c111"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jinguuji Marimo"
-  - "神宮司 まりも"
   - "Mad Dog"
   - "狂犬"
   - "Kyouken"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c111.webp"
 ---
 
-# 神宫司真莉莫
+# 神宮司 まりも
 
 
 ## 角色画像

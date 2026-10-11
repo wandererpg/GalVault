@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c100089"
 type: "character"
-display_title: "巴X特R·阿L惠X阿恩德R·和RD"
-title_zh: "巴X特R·阿L惠X阿恩德R·和RD"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Baxter Alexander Ward"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c100089"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Baxter Alexander Ward"
 source_ids:
   vndb: "c100089"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c100089.webp"
 ---
 
-# 巴X特R·阿L惠X阿恩德R·和RD
+# Baxter Alexander Ward
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17383"
 type: "character"
-display_title: "濑露吉"
-title_zh: "濑露吉"
+display_title: "セルジ"
+title_zh: ""
 title_ja: "セルジ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17383"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sergi"
-  - "セルジ"
 source_ids:
   vndb: "c17383"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c17383.webp"
 ---
 
-# 濑露吉
+# セルジ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

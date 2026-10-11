@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c11296"
 type: "character"
-display_title: "沙恩达露F奥恩"
-title_zh: "沙恩达露F奥恩"
+display_title: "サンダルフォン"
+title_zh: ""
 title_ja: "サンダルフォン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c11296"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sandalphon"
-  - "サンダルフォン"
 source_ids:
   vndb: "c11296"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c11296.webp"
 ---
 
-# 沙恩达露F奥恩
+# サンダルフォン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

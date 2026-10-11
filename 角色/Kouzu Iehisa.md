@@ -5,7 +5,10 @@ display_title: "鸿洲家久"
 title_zh: "鸿洲家久"
 title_ja: "鴻洲 家久"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c66130"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kouzu Iehisa"
   - "鴻洲 家久"

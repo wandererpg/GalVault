@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c18182"
 type: "character"
-display_title: "三神莉莉娅"
-title_zh: "三神莉莉娅"
+display_title: "三神 リリア"
+title_zh: ""
 title_ja: "三神 リリア"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c18182"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mikami Lilia"
-  - "三神 リリア"
   - "アホブロンド"
   - "Stupid Blonde"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c18182.webp"
 ---
 
-# 三神莉莉娅
+# 三神 リリア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

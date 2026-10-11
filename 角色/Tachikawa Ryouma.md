@@ -5,7 +5,10 @@ display_title: "太刀川良马"
 title_zh: "太刀川良马"
 title_ja: "太刀川 良馬"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c118627"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tachikawa Ryouma"
   - "太刀川 良馬"

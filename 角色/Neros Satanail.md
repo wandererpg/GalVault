@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c35155"
 type: "character"
-display_title: "音洛寿沙太奈伊露"
-title_zh: "音洛寿沙太奈伊露"
+display_title: "ネロス・サタナイル"
+title_zh: ""
 title_ja: "ネロス・サタナイル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c35155"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Neros Satanail"
-  - "ネロス・サタナイル"
   - "Nerose Satanel"
   - "The Morning Star"
   - "明星"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c35155.webp"
 ---
 
-# 音洛寿沙太奈伊露
+# ネロス・サタナイル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c141161"
 type: "character"
-display_title: "真伊惠露佳拉雅阿"
-title_zh: "真伊惠露佳拉雅阿"
+display_title: "マイケル・ギャラガー"
+title_zh: ""
 title_ja: "マイケル・ギャラガー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141161"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Michael Gallagher"
-  - "マイケル・ギャラガー"
   - "Mike"
 source_ids:
   vndb: "c141161"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c141161.webp"
 ---
 
-# 真伊惠露佳拉雅阿
+# マイケル・ギャラガー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

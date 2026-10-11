@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38379"
 type: "character"
-display_title: "雅布莉惠露镝谷"
-title_zh: "雅布莉惠露镝谷"
+display_title: "ガブリエル 鏑谷"
+title_zh: ""
 title_ja: "ガブリエル 鏑谷"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38379"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gabriel Kaburaya"
-  - "ガブリエル 鏑谷"
 source_ids:
   vndb: "c38379"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c38379.webp"
 ---
 
-# 雅布莉惠露镝谷
+# ガブリエル 鏑谷
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

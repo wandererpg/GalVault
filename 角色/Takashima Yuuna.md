@@ -5,7 +5,10 @@ display_title: "高嶋友奈"
 title_zh: "高嶋友奈"
 title_ja: "高嶋 友奈"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c137957"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takashima Yuuna"
   - "高嶋 友奈"

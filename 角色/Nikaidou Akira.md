@@ -5,7 +5,10 @@ display_title: "二阶堂明"
 title_zh: "二阶堂明"
 title_ja: "二階堂 明"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c19899"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nikaidou Akira"
   - "二階堂 明"

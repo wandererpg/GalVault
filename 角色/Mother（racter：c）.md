@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c69869"
 type: "character"
-display_title: "母亲"
-title_zh: "母亲"
+display_title: "母さん"
+title_zh: ""
 title_ja: "母さん"
-title_zh_quality: "glossary"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c69869"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mother"
-  - "母さん"
   - "Mommy"
 source_ids:
   vndb: "c69869"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c69869.webp"
 ---
 
-# 母亲
+# 母さん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

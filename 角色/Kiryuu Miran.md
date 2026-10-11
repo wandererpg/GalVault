@@ -5,7 +5,10 @@ display_title: "桐生深兰"
 title_zh: "桐生深兰"
 title_ja: "桐生 深蘭"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c56246"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kiryuu Miran"
   - "桐生 深蘭"

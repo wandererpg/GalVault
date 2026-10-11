@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c129254"
 type: "character"
-display_title: "羽L"
-title_zh: "羽L"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Hal"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c129254"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Hal"
   - "Halitosis"
 source_ids:
   vndb: "c129254"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c129254.webp"
 ---
 
-# 羽L
+# Hal
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

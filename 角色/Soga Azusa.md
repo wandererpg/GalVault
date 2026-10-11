@@ -5,7 +5,10 @@ display_title: "曾我梓"
 title_zh: "曾我梓"
 title_ja: "曽我 梓"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c161957"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Soga Azusa"
   - "曽我 梓"

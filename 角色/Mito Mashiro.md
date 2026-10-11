@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c1562"
 type: "character"
-display_title: "泉户真诗洛"
-title_zh: "泉户真诗洛"
+display_title: "泉戸 ましろ"
+title_zh: ""
 title_ja: "泉戸 ましろ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c1562"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mito Mashiro"
-  - "泉戸 ましろ"
   - "Kikurami"
   - "Maro-Maro"
   - "White Beast"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c1562.webp"
 ---
 
-# 泉户真诗洛
+# 泉戸 ましろ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

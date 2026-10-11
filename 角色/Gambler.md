@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c135599"
 type: "character"
-display_title: "佳恩布拉阿"
-title_zh: "佳恩布拉阿"
+display_title: "ギャンブラー"
+title_zh: ""
 title_ja: "ギャンブラー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c135599"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gambler"
-  - "ギャンブラー"
   - "安藤淳宏"
   - "Ando Atsuhiro"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c135599.webp"
 ---
 
-# 佳恩布拉阿
+# ギャンブラー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16858"
 type: "character"
-display_title: "仲村尤里"
-title_zh: "仲村尤里"
+display_title: "仲村 ゆり"
+title_zh: ""
 title_ja: "仲村 ゆり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16858"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nakamura Yuri"
-  - "仲村 ゆり"
   - "ゆりっぺ"
   - "Yurippe"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c16858.webp"
 ---
 
-# 仲村尤里
+# 仲村 ゆり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

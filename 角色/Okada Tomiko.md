@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c59383"
 type: "character"
-display_title: "冈田斗美子"
-title_zh: "冈田斗美子"
+display_title: "岡田 とみ子"
+title_zh: ""
 title_ja: "岡田 とみ子"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c59383"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Okada Tomiko"
-  - "岡田 とみ子"
   - "Tomi-chin"
   - "Tomi-chan"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c59383.webp"
 ---
 
-# 冈田斗美子
+# 岡田 とみ子
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

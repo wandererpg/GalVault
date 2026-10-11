@@ -5,7 +5,10 @@ display_title: "宝财极灯"
 title_zh: "宝财极灯"
 title_ja: "宝財極 燈"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c82859"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Houzaigoku Akari"
   - "宝財極 燈"

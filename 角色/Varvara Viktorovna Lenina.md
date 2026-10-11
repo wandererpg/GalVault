@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c31359"
 type: "character"
-display_title: "V阿露V阿阿拉比久斗洛布奈蕾惠尼奈"
-title_zh: "V阿露V阿阿拉比久斗洛布奈蕾惠尼奈"
+display_title: "ヴァルヴァーラ・ビクトロブナ・レーニナ"
+title_zh: ""
 title_ja: "ヴァルヴァーラ・ビクトロブナ・レーニナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c31359"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Varvara Viktorovna Lenina"
-  - "ヴァルヴァーラ・ビクトロブナ・レーニナ"
   - "Ariya"
   - "アーリャ"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c31359.webp"
 ---
 
-# V阿露V阿阿拉比久斗洛布奈蕾惠尼奈
+# ヴァルヴァーラ・ビクトロブナ・レーニナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

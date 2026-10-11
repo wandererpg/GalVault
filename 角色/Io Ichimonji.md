@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c97527"
 type: "character"
-display_title: "伊奥·伊千莫恩吉"
-title_zh: "伊奥·伊千莫恩吉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Io Ichimonji"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97527"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Io Ichimonji"
 source_ids:
   vndb: "c97527"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c97527.webp"
 ---
 
-# 伊奥·伊千莫恩吉
+# Io Ichimonji
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

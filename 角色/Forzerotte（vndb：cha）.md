@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c24921"
 type: "character"
-display_title: "F奥奥泽洛T特"
-title_zh: "F奥奥泽洛T特"
+display_title: "フォーゼロッテ"
+title_zh: ""
 title_ja: "フォーゼロッテ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c24921"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Forzerotte"
-  - "フォーゼロッテ"
   - "Maou"
   - "Kozerotte"
   - "Forzelotte"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c24921.webp"
 ---
 
-# F奥奥泽洛T特
+# フォーゼロッテ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

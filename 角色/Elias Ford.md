@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c113635"
 type: "character"
-display_title: "惠L伊阿S·F奥RD"
-title_zh: "惠L伊阿S·F奥RD"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Elias Ford"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c113635"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Elias Ford"
 source_ids:
   vndb: "c113635"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c113635.webp"
 ---
 
-# 惠L伊阿S·F奥RD
+# Elias Ford
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

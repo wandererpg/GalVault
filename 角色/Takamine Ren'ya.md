@@ -5,7 +5,10 @@ display_title: "高峰莲夜"
 title_zh: "高峰莲夜"
 title_ja: "高峰 蓮夜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c67682"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takamine Ren'ya"
   - "高峰 蓮夜"

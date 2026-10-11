@@ -5,7 +5,10 @@ display_title: "岳画杀"
 title_zh: "岳画杀"
 title_ja: "岳画 殺"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2390"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takega Satsu"
   - "岳画 殺"

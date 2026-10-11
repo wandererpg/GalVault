@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c169824"
 type: "character"
-display_title: "T伊R露S"
-title_zh: "T伊R露S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Tirrus"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c169824"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Tirrus"
 source_ids:
   vndb: "c169824"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c169824.webp"
 ---
 
-# T伊R露S
+# Tirrus
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

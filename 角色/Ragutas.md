@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c25747"
 type: "character"
-display_title: "拉古太寿"
-title_zh: "拉古太寿"
+display_title: "ラグタス"
+title_zh: ""
 title_ja: "ラグタス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c25747"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ragutas"
-  - "ラグタス"
   - "Lagutas"
 source_ids:
   vndb: "c25747"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c25747.webp"
 ---
 
-# 拉古太寿
+# ラグタス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

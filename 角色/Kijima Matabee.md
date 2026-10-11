@@ -5,7 +5,10 @@ display_title: "来岛又兵卫"
 title_zh: "来岛又兵卫"
 title_ja: "来島 又兵衛"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c63487"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kijima Matabee"
   - "来島 又兵衛"

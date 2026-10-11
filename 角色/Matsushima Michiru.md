@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c571"
 type: "character"
-display_title: "松嶋美千露"
-title_zh: "松嶋美千露"
+display_title: "松嶋 みちる"
+title_zh: ""
 title_ja: "松嶋 みちる"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c571"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Matsushima Michiru"
-  - "松嶋 みちる"
   - "Diedrich"
   - "Mitcher"
   - "PT"
@@ -22,7 +24,7 @@ source_urls:
 portrait_image: "assets/characters/c571.webp"
 ---
 
-# 松嶋美千露
+# 松嶋 みちる
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

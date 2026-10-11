@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c149902"
 type: "character"
-display_title: "阿阿悟莉"
-title_zh: "阿阿悟莉"
+display_title: "アーゴリ"
+title_zh: ""
 title_ja: "アーゴリ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149902"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Agori"
-  - "アーゴリ"
 source_ids:
   vndb: "c149902"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c149902.webp"
 ---
 
-# 阿阿悟莉
+# アーゴリ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

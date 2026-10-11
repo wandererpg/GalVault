@@ -5,7 +5,10 @@ display_title: "花椿吾郎"
 title_zh: "花椿吾郎"
 title_ja: "花椿 吾郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1334"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hanatsubaki Gorou"
   - "花椿 吾郎"

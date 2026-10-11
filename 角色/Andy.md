@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c141507"
 type: "character"
-display_title: "阿恩DY"
-title_zh: "阿恩DY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Andy"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141507"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Andy"
 source_ids:
   vndb: "c141507"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c141507.webp"
 ---
 
-# 阿恩DY
+# Andy
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126764"
 type: "character"
-display_title: "V阿露希莉伊"
-title_zh: "V阿露希莉伊"
+display_title: "ヴァルキリー"
+title_zh: ""
 title_ja: "ヴァルキリー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126764"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Valkyrie"
-  - "ヴァルキリー"
   - "The Angel of War"
   - "Victoria"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c126764.webp"
 ---
 
-# V阿露希莉伊
+# ヴァルキリー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

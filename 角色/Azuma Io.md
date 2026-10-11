@@ -5,7 +5,10 @@ display_title: "东衣緖"
 title_zh: "东衣緖"
 title_ja: "東 衣緒"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43856"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Azuma Io"
   - "東 衣緒"

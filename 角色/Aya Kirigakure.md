@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c49302"
 type: "character"
-display_title: "阿雅希莉雅久蕾"
-title_zh: "阿雅希莉雅久蕾"
+display_title: "アヤ・キリガクレ"
+title_zh: ""
 title_ja: "アヤ・キリガクレ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c49302"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Aya Kirigakure"
-  - "アヤ・キリガクレ"
   - "Andromeda"
   - "鎖縛姫"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c49302.webp"
 ---
 
-# 阿雅希莉雅久蕾
+# アヤ・キリガクレ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

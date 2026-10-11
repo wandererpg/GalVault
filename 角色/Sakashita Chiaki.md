@@ -5,7 +5,10 @@ display_title: "坂下千秋"
 title_zh: "坂下千秋"
 title_ja: "坂下 千秋"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c588"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakashita Chiaki"
   - "坂下 千秋"

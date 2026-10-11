@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c118581"
 type: "character"
-display_title: "Q佩R尼希SS"
-title_zh: "Q佩R尼希SS"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "QPernikiss"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c118581"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "QPernikiss"
   - "Q-Pernikiss"
 source_ids:
   vndb: "c118581"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c118581.webp"
 ---
 
-# Q佩R尼希SS
+# QPernikiss
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

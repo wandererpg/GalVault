@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c2128"
 type: "character"
-display_title: "野咲寿美蕾"
-title_zh: "野咲寿美蕾"
+display_title: "野咲 すみれ"
+title_zh: ""
 title_ja: "野咲 すみれ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c2128"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nozaki Sumire"
-  - "野咲 すみれ"
 source_ids:
   vndb: "c2128"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c2128.webp"
 ---
 
-# 野咲寿美蕾
+# 野咲 すみれ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

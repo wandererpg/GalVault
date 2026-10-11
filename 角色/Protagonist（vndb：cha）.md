@@ -4,7 +4,10 @@ type: "character"
 display_title: "主人公"
 title_zh: "主人公"
 title_zh_quality: "glossary"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c132426"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Protagonist"
 source_ids:

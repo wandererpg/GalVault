@@ -5,7 +5,10 @@ display_title: "薛明＆薛影"
 title_zh: "薛明＆薛影"
 title_ja: "薛明＆薛影"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c172689"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Xuē Míng & Xuē Yǐng"
 source_ids:

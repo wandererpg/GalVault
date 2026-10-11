@@ -5,7 +5,10 @@ display_title: "宇城由树"
 title_zh: "宇城由树"
 title_ja: "宇城 由樹"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c92882"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ushiro Yuki"
   - "宇城 由樹"

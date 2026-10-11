@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c50767"
 type: "character"
-display_title: "达恩斗恩"
-title_zh: "达恩斗恩"
+display_title: "ダントン"
+title_zh: ""
 title_ja: "ダントン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c50767"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Danton"
-  - "ダントン"
 source_ids:
   vndb: "c50767"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c50767.webp"
 ---
 
-# 达恩斗恩
+# ダントン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

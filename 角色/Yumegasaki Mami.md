@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c95922"
 type: "character"
-display_title: "梦惠崎魔美"
-title_zh: "梦惠崎魔美"
+display_title: "夢ヶ崎 魔美"
+title_zh: ""
 title_ja: "夢ヶ崎 魔美"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c95922"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yumegasaki Mami"
-  - "夢ヶ崎 魔美"
 source_ids:
   vndb: "c95922"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c95922.webp"
 ---
 
-# 梦惠崎魔美
+# 夢ヶ崎 魔美
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

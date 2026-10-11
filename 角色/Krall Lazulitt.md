@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26463"
 type: "character"
-display_title: "久拉阿露拉兹莉T斗"
-title_zh: "久拉阿露拉兹莉T斗"
+display_title: "クラール・ラズリット"
+title_zh: ""
 title_ja: "クラール・ラズリット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26463"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Krall Lazulitt"
-  - "クラール・ラズリット"
 source_ids:
   vndb: "c26463"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c26463.webp"
 ---
 
-# 久拉阿露拉兹莉T斗
+# クラール・ラズリット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

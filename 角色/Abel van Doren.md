@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c112192"
 type: "character"
-display_title: "阿贝L·V阿恩·堂蕾恩"
-title_zh: "阿贝L·V阿恩·堂蕾恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Abel van Doren"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c112192"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Abel van Doren"
 source_ids:
   vndb: "c112192"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c112192.webp"
 ---
 
-# 阿贝L·V阿恩·堂蕾恩
+# Abel van Doren
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

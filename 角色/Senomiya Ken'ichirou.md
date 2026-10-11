@@ -5,7 +5,10 @@ display_title: "濑乃宫健一郎"
 title_zh: "濑乃宫健一郎"
 title_ja: "瀬乃宮 健一郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c132176"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Senomiya Ken'ichirou"
   - "瀬乃宮 健一郎"

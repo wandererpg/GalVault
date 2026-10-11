@@ -5,7 +5,10 @@ display_title: "田宫沙代"
 title_zh: "田宫沙代"
 title_ja: "田宮 沙代"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9716"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tamiya Sayo"
   - "田宮 沙代"

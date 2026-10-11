@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c111994"
 type: "character"
-display_title: "乔恩雅莉德布"
-title_zh: "乔恩雅莉德布"
+display_title: "ジョン・ガリデブ"
+title_zh: ""
 title_ja: "ジョン・ガリデブ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c111994"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "John Garidebu"
-  - "ジョン・ガリデブ"
 source_ids:
   vndb: "c111994"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c111994.webp"
 ---
 
-# 乔恩雅莉德布
+# ジョン・ガリデブ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c515"
 type: "character"
-display_title: "加伊梦阿寿斗蕾阿"
-title_zh: "加伊梦阿寿斗蕾阿"
+display_title: "カイム・アストレア"
+title_zh: ""
 title_ja: "カイム・アストレア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c515"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Caim Astraea"
-  - "カイム・アストレア"
 source_ids:
   vndb: "c515"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c515.webp"
 ---
 
-# 加伊梦阿寿斗蕾阿
+# カイム・アストレア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

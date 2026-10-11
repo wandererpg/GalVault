@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c24594"
 type: "character"
-display_title: "琴吹光"
-title_zh: "琴吹光"
+display_title: "琴吹 ヒカリ"
+title_zh: ""
 title_ja: "琴吹 ヒカリ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c24594"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kotobuki Hikari"
-  - "琴吹 ヒカリ"
 source_ids:
   vndb: "c24594"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c24594.webp"
 ---
 
-# 琴吹光
+# 琴吹 ヒカリ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

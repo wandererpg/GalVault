@@ -5,7 +5,10 @@ display_title: "河野通直"
 title_zh: "河野通直"
 title_ja: "河野 通直"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c31584"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kouno Michinao"
   - "河野 通直"

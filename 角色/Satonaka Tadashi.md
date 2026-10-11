@@ -5,7 +5,10 @@ display_title: "里中忠"
 title_zh: "里中忠"
 title_ja: "里中 忠"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c36265"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Satonaka Tadashi"
   - "里中 忠"

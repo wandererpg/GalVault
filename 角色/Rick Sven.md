@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43101"
 type: "character"
-display_title: "莉K久寿V惠恩"
-title_zh: "莉K久寿V惠恩"
+display_title: "リック・スヴェン"
+title_zh: ""
 title_ja: "リック・スヴェン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43101"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rick Sven"
-  - "リック・スヴェン"
 source_ids:
   vndb: "c43101"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43101.webp"
 ---
 
-# 莉K久寿V惠恩
+# リック・スヴェン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

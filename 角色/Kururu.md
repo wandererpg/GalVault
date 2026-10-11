@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c58873"
 type: "character"
-display_title: "久露露"
-title_zh: "久露露"
+display_title: "クルル"
+title_zh: ""
 title_ja: "クルル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c58873"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kururu"
-  - "クルル"
   - "クルシェンヌ・ルーセル"
   - "Klucienne Roussel"
   - "Kurushennu Roussel"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c58873.webp"
 ---
 
-# 久露露
+# クルル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

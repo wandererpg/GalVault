@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c89793"
 type: "character"
-display_title: "阿L惠恩C阿·悟FF伊L"
-title_zh: "阿L惠恩C阿·悟FF伊L"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Alenca Goffil"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c89793"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Alenca Goffil"
   - "Madralee"
   - "Rabbit"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c89793.webp"
 ---
 
-# 阿L惠恩C阿·悟FF伊L
+# Alenca Goffil
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

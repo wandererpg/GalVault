@@ -5,7 +5,10 @@ display_title: "美鸟"
 title_zh: "美鸟"
 title_ja: "美鳥"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16639"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Midori"
   - "美鳥"

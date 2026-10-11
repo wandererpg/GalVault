@@ -5,7 +5,10 @@ display_title: "玉泉日和子"
 title_zh: "玉泉日和子"
 title_ja: "玉泉 日和子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c8534"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tamaizumi Hiyoko"
   - "玉泉 日和子"

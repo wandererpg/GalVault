@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c56722"
 type: "character"
-display_title: "久K希伊"
-title_zh: "久K希伊"
+display_title: "クッキー"
+title_zh: ""
 title_ja: "クッキー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56722"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cookie"
-  - "クッキー"
   - "Cookie 4"
 source_ids:
   vndb: "c56722"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c56722.webp"
 ---
 
-# 久K希伊
+# クッキー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

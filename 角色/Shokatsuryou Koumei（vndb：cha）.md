@@ -5,7 +5,10 @@ display_title: "诸葛亮孔明"
 title_zh: "诸葛亮孔明"
 title_ja: "諸葛亮 孔明"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c328"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shokatsuryou Koumei"
   - "諸葛亮 孔明"

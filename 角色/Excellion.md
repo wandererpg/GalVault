@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c66039"
 type: "character"
-display_title: "惠久濑莉奥恩"
-title_zh: "惠久濑莉奥恩"
+display_title: "エクセリオン"
+title_zh: ""
 title_ja: "エクセリオン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c66039"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Excellion"
-  - "エクセリオン"
 source_ids:
   vndb: "c66039"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c66039.webp"
 ---
 
-# 惠久濑莉奥恩
+# エクセリオン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

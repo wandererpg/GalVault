@@ -5,7 +5,10 @@ display_title: "淡雪麻衣子"
 title_zh: "淡雪麻衣子"
 title_ja: "淡雪 麻衣子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c102758"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Awayuki Maiko"
   - "淡雪 麻衣子"

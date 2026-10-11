@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c42616"
 type: "character"
-display_title: "阿久根濑拉"
-title_zh: "阿久根濑拉"
+display_title: "阿久根 セラ"
+title_zh: ""
 title_ja: "阿久根 セラ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c42616"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Akune Sera"
-  - "阿久根 セラ"
 source_ids:
   vndb: "c42616"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c42616.webp"
 ---
 
-# 阿久根濑拉
+# 阿久根 セラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

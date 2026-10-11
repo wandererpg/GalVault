@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c27733"
 type: "character"
-display_title: "羽露"
-title_zh: "羽露"
+display_title: "ハル"
+title_zh: ""
 title_ja: "ハル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c27733"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Haru"
-  - "ハル"
 source_ids:
   vndb: "c27733"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c27733.webp"
 ---
 
-# 羽露
+# ハル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

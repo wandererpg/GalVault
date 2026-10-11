@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c145745"
 type: "character"
-display_title: "音乃寿乌拉乌"
-title_zh: "音乃寿乌拉乌"
+display_title: "ネノス・ウラウ"
+title_zh: ""
 title_ja: "ネノス・ウラウ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c145745"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nenohs Uraw"
-  - "ネノス・ウラウ"
 source_ids:
   vndb: "c145745"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c145745.webp"
 ---
 
-# 音乃寿乌拉乌
+# ネノス・ウラウ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

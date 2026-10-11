@@ -5,7 +5,10 @@ display_title: "梦之久作"
 title_zh: "梦之久作"
 title_ja: "夢之 久作"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c29359"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yumeno Kyuusaku"
   - "夢之 久作"

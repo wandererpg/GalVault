@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c140341"
 type: "character"
-display_title: "子露斗恩音伊D伊寿"
-title_zh: "子露斗恩音伊D伊寿"
+display_title: "コルトン・ネイディス"
+title_zh: ""
 title_ja: "コルトン・ネイディス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c140341"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Colton Naydis"
-  - "コルトン・ネイディス"
 source_ids:
   vndb: "c140341"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c140341.webp"
 ---
 
-# 子露斗恩音伊D伊寿
+# コルトン・ネイディス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

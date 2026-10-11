@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26477"
 type: "character"
-display_title: "巴蕾T斗"
-title_zh: "巴蕾T斗"
+display_title: "バレット"
+title_zh: ""
 title_ja: "バレット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26477"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Bullet"
-  - "バレット"
   - "Butt Person"
   - "Butt Floss"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c26477.webp"
 ---
 
-# 巴蕾T斗
+# バレット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

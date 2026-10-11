@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c125728"
 type: "character"
-display_title: "C阿芽洛恩·W伊L索恩"
-title_zh: "C阿芽洛恩·W伊L索恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Cameron Wilson"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125728"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Cameron Wilson"
   - "Cam"
 source_ids:
   vndb: "c125728"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c125728.webp"
 ---
 
-# C阿芽洛恩·W伊L索恩
+# Cameron Wilson
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

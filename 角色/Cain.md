@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c36006"
 type: "character"
-display_title: "加伊恩"
-title_zh: "加伊恩"
+display_title: "カイン"
+title_zh: ""
 title_ja: "カイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c36006"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cain"
-  - "カイン"
 source_ids:
   vndb: "c36006"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c36006.webp"
 ---
 
-# 加伊恩
+# カイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

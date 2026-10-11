@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c41557"
 type: "character"
-display_title: "V阿莉乌寿阿阿雅伊梦"
-title_zh: "V阿莉乌寿阿阿雅伊梦"
+display_title: "ヴァリウス・アーガイム"
+title_zh: ""
 title_ja: "ヴァリウス・アーガイム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c41557"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Varius Argaim"
-  - "ヴァリウス・アーガイム"
 source_ids:
   vndb: "c41557"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c41557.webp"
 ---
 
-# V阿莉乌寿阿阿雅伊梦
+# ヴァリウス・アーガイム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

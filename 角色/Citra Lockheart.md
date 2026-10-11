@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c95821"
 type: "character"
-display_title: "诗斗拉洛K久羽阿斗"
-title_zh: "诗斗拉洛K久羽阿斗"
+display_title: "シトラ・ロックハート"
+title_zh: ""
 title_ja: "シトラ・ロックハート"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c95821"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Citra Lockheart"
-  - "シトラ・ロックハート"
 source_ids:
   vndb: "c95821"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c95821.webp"
 ---
 
-# 诗斗拉洛K久羽阿斗
+# シトラ・ロックハート
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

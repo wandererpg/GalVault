@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c91420"
 type: "character"
-display_title: "洛博子"
-title_zh: "洛博子"
+display_title: "ロボコ"
+title_zh: ""
 title_ja: "ロボコ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c91420"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Roboco"
-  - "ロボコ"
 source_ids:
   vndb: "c91420"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c91420.webp"
 ---
 
-# 洛博子
+# ロボコ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

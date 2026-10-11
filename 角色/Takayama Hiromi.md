@@ -5,7 +5,10 @@ display_title: "鹰山广见"
 title_zh: "鹰山广见"
 title_ja: "鷹山 広見"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c11349"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takayama Hiromi"
   - "鷹山 広見"

@@ -5,7 +5,10 @@ display_title: "钉谷让二"
 title_zh: "钉谷让二"
 title_ja: "釘谷 譲二"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c101058"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kugitani Jouji"
   - "釘谷 譲二"

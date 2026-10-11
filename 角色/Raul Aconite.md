@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c89448"
 type: "character"
-display_title: "拉乌露阿子尼T斗"
-title_zh: "拉乌露阿子尼T斗"
+display_title: "ラウル・アコニット"
+title_zh: ""
 title_ja: "ラウル・アコニット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c89448"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Raul Aconite"
-  - "ラウル・アコニット"
   - "Hobby Parasite"
   - "Obsessed Parasite"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c89448.webp"
 ---
 
-# 拉乌露阿子尼T斗
+# ラウル・アコニット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

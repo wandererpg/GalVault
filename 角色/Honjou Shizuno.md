@@ -5,7 +5,10 @@ display_title: "本条静乃"
 title_zh: "本条静乃"
 title_ja: "本条 静乃"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16798"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Honjou Shizuno"
   - "本条 静乃"

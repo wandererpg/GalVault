@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c100441"
 type: "character"
-display_title: "斗BY"
-title_zh: "斗BY"
+display_title: "Тоби"
+title_zh: ""
 title_ja: "Тоби"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c100441"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Toby"
-  - "Тоби"
   - "Лисёнок"
 source_ids:
   vndb: "c100441"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c100441.webp"
 ---
 
-# 斗BY
+# Тоби
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

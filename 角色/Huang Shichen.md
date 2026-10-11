@@ -5,7 +5,10 @@ display_title: "黄世臣"
 title_zh: "黄世臣"
 title_ja: "黄世臣"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c150936"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Huang Shichen"
   - "Simon Goldstein"

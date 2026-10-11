@@ -5,7 +5,10 @@ display_title: "江川千富"
 title_zh: "江川千富"
 title_ja: "江川 千富"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c39295"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Egawa Chitomi"
   - "江川 千富"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c55392"
 type: "character"
-display_title: "加藤寿兹芽"
-title_zh: "加藤寿兹芽"
+display_title: "加藤 すずめ"
+title_zh: ""
 title_ja: "加藤 すずめ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c55392"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Katou Suzume"
-  - "加藤 すずめ"
 source_ids:
   vndb: "c55392"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c55392.webp"
 ---
 
-# 加藤寿兹芽
+# 加藤 すずめ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

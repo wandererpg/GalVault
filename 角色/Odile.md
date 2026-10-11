@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c42272"
 type: "character"
-display_title: "奥D伊伊露"
-title_zh: "奥D伊伊露"
+display_title: "オディール"
+title_zh: ""
 title_ja: "オディール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c42272"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Odile"
-  - "オディール"
 source_ids:
   vndb: "c42272"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c42272.webp"
 ---
 
-# 奥D伊伊露
+# オディール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c118658"
 type: "character"
-display_title: "古川奈阿寿"
-title_zh: "古川奈阿寿"
+display_title: "古川ナース"
+title_zh: ""
 title_ja: "古川ナース"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c118658"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nurse Furukawa"
-  - "古川ナース"
 source_ids:
   vndb: "c118658"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c118658.webp"
 ---
 
-# 古川奈阿寿
+# 古川ナース
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

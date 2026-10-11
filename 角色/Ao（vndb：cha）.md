@@ -5,7 +5,10 @@ display_title: "苍"
 title_zh: "苍"
 title_ja: "蒼"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c37232"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ao"
   - "蒼"

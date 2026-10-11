@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c21200"
 type: "character"
-display_title: "久拉伊布佳乃恩"
-title_zh: "久拉伊布佳乃恩"
+display_title: "クライブ・キャノン"
+title_zh: ""
 title_ja: "クライブ・キャノン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c21200"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Clive Canon"
-  - "クライブ・キャノン"
 source_ids:
   vndb: "c21200"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c21200.webp"
 ---
 
-# 久拉伊布佳乃恩
+# クライブ・キャノン
 
 
 ## 角色画像

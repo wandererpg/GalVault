@@ -5,7 +5,10 @@ display_title: "千里朱音"
 title_zh: "千里朱音"
 title_ja: "千里 朱音"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c272"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Senri Akane"
   - "千里 朱音"

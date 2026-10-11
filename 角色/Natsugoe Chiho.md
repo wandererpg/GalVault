@@ -5,7 +5,10 @@ display_title: "夏越千穗"
 title_zh: "夏越千穗"
 title_ja: "夏越 千穂"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c109794"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Natsugoe Chiho"
   - "夏越 千穂"

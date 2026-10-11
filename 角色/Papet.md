@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71225"
 type: "character"
-display_title: "帕佩T斗"
-title_zh: "帕佩T斗"
+display_title: "パペット"
+title_zh: ""
 title_ja: "パペット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71225"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Papet"
-  - "パペット"
 source_ids:
   vndb: "c71225"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71225.webp"
 ---
 
-# 帕佩T斗
+# パペット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

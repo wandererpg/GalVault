@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127036"
 type: "character"
-display_title: "惠莉扎贝惠斗"
-title_zh: "惠莉扎贝惠斗"
+display_title: "エリザベート"
+title_zh: ""
 title_ja: "エリザベート"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127036"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Elizabeth"
-  - "エリザベート"
 source_ids:
   vndb: "c127036"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c127036.webp"
 ---
 
-# 惠莉扎贝惠斗
+# エリザベート
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

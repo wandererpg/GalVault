@@ -5,7 +5,10 @@ display_title: "濑能透矢"
 title_zh: "濑能透矢"
 title_ja: "瀬能透矢"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c116665"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Senou Touya"
   - "瀬能透矢"

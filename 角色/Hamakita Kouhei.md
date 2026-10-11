@@ -5,7 +5,10 @@ display_title: "滨北航平"
 title_zh: "滨北航平"
 title_ja: "浜北 航平"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c31822"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hamakita Kouhei"
   - "浜北 航平"

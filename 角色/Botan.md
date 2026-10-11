@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c33899"
 type: "character"
-display_title: "博太恩"
-title_zh: "博太恩"
+display_title: "ボタン"
+title_zh: ""
 title_ja: "ボタン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33899"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Botan"
-  - "ボタン"
 source_ids:
   vndb: "c33899"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c33899.webp"
 ---
 
-# 博太恩
+# ボタン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

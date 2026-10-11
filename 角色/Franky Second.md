@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c133973"
 type: "character"
-display_title: "F拉恩KY·濑C奥恩D"
-title_zh: "F拉恩KY·濑C奥恩D"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Franky Second"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c133973"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Franky Second"
 source_ids:
   vndb: "c133973"
 source_urls:
   vndb: "https://vndb.org/c133973"
 ---
 
-# F拉恩KY·濑C奥恩D
+# Franky Second
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

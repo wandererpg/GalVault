@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c443"
 type: "character"
-display_title: "遥"
-title_zh: "遥"
+display_title: "ハルカ"
+title_zh: ""
 title_ja: "ハルカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c443"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Haruka"
-  - "ハルカ"
   - "友永遥香"
   - "Tomonaga Haruka"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c443.webp"
 ---
 
-# 遥
+# ハルカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

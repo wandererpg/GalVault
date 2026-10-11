@@ -5,7 +5,10 @@ display_title: "岚燐结骑"
 title_zh: "岚燐结骑"
 title_ja: "嵐燐結騎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c61990"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ranrin'yuiki"
   - "嵐燐結騎"

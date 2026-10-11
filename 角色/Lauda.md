@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87108"
 type: "character"
-display_title: "拉乌达"
-title_zh: "拉乌达"
+display_title: "ラウダ"
+title_zh: ""
 title_ja: "ラウダ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87108"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lauda"
-  - "ラウダ"
 source_ids:
   vndb: "c87108"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c87108.webp"
 ---
 
-# 拉乌达
+# ラウダ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

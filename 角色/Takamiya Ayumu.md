@@ -5,7 +5,10 @@ display_title: "鹰宫步"
 title_zh: "鹰宫步"
 title_ja: "鷹宮 歩"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16036"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takamiya Ayumu"
   - "鷹宮 歩"

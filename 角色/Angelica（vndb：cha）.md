@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c95720"
 type: "character"
-display_title: "阿恩吉惠莉加"
-title_zh: "阿恩吉惠莉加"
+display_title: "アンジエリカ"
+title_zh: ""
 title_ja: "アンジエリカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c95720"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Angelica"
-  - "アンジエリカ"
 source_ids:
   vndb: "c95720"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c95720.webp"
 ---
 
-# 阿恩吉惠莉加
+# アンジエリカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

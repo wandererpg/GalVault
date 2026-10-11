@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c81176"
 type: "character"
-display_title: "特乌太"
-title_zh: "特乌太"
+display_title: "テウタ"
+title_zh: ""
 title_ja: "テウタ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c81176"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Teuta Bridges"
-  - "テウタ"
 source_ids:
   vndb: "c81176"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c81176.webp"
 ---
 
-# 特乌太
+# テウタ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "久濑宏二"
 title_zh: "久濑宏二"
 title_ja: "久瀬 宏二"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c87864"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kuze Kouji"
   - "久瀬 宏二"

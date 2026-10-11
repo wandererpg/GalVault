@@ -5,7 +5,10 @@ display_title: "篝"
 title_zh: "篝"
 title_ja: "篝"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c5418"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kagari"
   - "Key"

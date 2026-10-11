@@ -5,7 +5,10 @@ display_title: "龙造寺晃"
 title_zh: "龙造寺晃"
 title_ja: "龍造寺 晃"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16827"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ryuuzouji Akira"
   - "龍造寺 晃"

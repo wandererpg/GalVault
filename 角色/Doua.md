@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c44135"
 type: "character"
-display_title: "堂乌乌阿"
-title_zh: "堂乌乌阿"
+display_title: "ドゥーア"
+title_zh: ""
 title_ja: "ドゥーア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c44135"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Doua"
-  - "ドゥーア"
 source_ids:
   vndb: "c44135"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c44135.webp"
 ---
 
-# 堂乌乌阿
+# ドゥーア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

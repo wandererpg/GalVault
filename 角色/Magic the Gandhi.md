@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c75983"
 type: "character"
-display_title: "真吉K久扎雅恩吉伊"
-title_zh: "真吉K久扎雅恩吉伊"
+display_title: "マジック・ザ・ガンジー"
+title_zh: ""
 title_ja: "マジック・ザ・ガンジー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c75983"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Magic the Gandhi"
-  - "マジック・ザ・ガンジー"
 source_ids:
   vndb: "c75983"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c75983.webp"
 ---
 
-# 真吉K久扎雅恩吉伊
+# マジック・ザ・ガンジー
 
 
 ## 角色画像

@@ -5,7 +5,10 @@ display_title: "凉波源一郎"
 title_zh: "凉波源一郎"
 title_ja: "涼波 源一郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c48387"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Suzunami Gen'ichirou"
   - "涼波 源一郎"

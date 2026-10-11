@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c97446"
 type: "character"
-display_title: "G穗ST·奥真恩"
-title_zh: "G穗ST·奥真恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ghost Woman"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97446"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ghost Woman"
 source_ids:
   vndb: "c97446"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c97446.webp"
 ---
 
-# G穗ST·奥真恩
+# Ghost Woman
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

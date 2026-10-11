@@ -5,7 +5,10 @@ display_title: "岩成友通"
 title_zh: "岩成友通"
 title_ja: "岩成 友通"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c49188"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Iwanari Tomomichi"
   - "岩成 友通"

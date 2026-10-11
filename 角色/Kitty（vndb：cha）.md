@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c136626"
 type: "character"
-display_title: "希TTY"
-title_zh: "希TTY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Kitty"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136626"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Kitty"
 source_ids:
   vndb: "c136626"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c136626.webp"
 ---
 
-# 希TTY
+# Kitty
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

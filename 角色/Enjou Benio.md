@@ -5,7 +5,10 @@ display_title: "圆城红緖"
 title_zh: "圆城红緖"
 title_ja: "円城 紅緒"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43119"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Enjou Benio"
   - "円城 紅緒"

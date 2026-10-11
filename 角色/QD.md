@@ -2,9 +2,12 @@
 entity_id: "vndb:character:c32888"
 type: "character"
 display_title: "QD"
-title_zh: "QD"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c32888"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Qu Dragon"
   - "Qoo Dragon"

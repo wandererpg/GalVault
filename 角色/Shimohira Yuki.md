@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90238"
 type: "character"
-display_title: "下平雪"
-title_zh: "下平雪"
+display_title: "下平 ゆき"
+title_zh: ""
 title_ja: "下平 ゆき"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90238"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shimohira Yuki"
-  - "下平 ゆき"
   - "YukiKazura"
 source_ids:
   vndb: "c90238"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c90238.webp"
 ---
 
-# 下平雪
+# 下平 ゆき
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

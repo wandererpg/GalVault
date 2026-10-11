@@ -5,7 +5,10 @@ display_title: "北城千绘梨"
 title_zh: "北城千绘梨"
 title_ja: "北城千絵梨"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c503"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Houjou Chieri"
   - "北城千絵梨"

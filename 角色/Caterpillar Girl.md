@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125880"
 type: "character"
-display_title: "伊莫梦诗娘"
-title_zh: "伊莫梦诗娘"
+display_title: "イモムシ娘"
+title_zh: ""
 title_ja: "イモムシ娘"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125880"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Caterpillar Girl"
-  - "イモムシ娘"
 source_ids:
   vndb: "c125880"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c125880.webp"
 ---
 
-# 伊莫梦诗娘
+# イモムシ娘
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

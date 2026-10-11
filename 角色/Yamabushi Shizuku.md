@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c147083"
 type: "character"
-display_title: "山伏诗兹久"
-title_zh: "山伏诗兹久"
+display_title: "山伏 しずく"
+title_zh: ""
 title_ja: "山伏 しずく"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c147083"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yamabushi Shizuku"
-  - "山伏 しずく"
 source_ids:
   vndb: "c147083"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c147083.webp"
 ---
 
-# 山伏诗兹久
+# 山伏 しずく
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c136580"
 type: "character"
-display_title: "佩P佩R"
-title_zh: "佩P佩R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Pepper"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136580"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Pepper"
 source_ids:
   vndb: "c136580"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c136580.webp"
 ---
 
-# 佩P佩R
+# Pepper
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

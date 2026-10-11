@@ -5,7 +5,10 @@ display_title: "奏大雅"
 title_zh: "奏大雅"
 title_ja: "奏 大雅"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c75943"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kanade Taiga"
   - "奏 大雅"

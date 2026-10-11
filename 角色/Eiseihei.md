@@ -5,7 +5,10 @@ display_title: "卫生兵"
 title_zh: "卫生兵"
 title_ja: "衛生兵"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c127205"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Eiseihei"
   - "衛生兵"

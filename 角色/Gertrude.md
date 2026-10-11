@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c123071"
 type: "character"
-display_title: "格RT露德"
-title_zh: "格RT露德"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Gertrude"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c123071"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Gertrude"
   - "Gerty"
 source_ids:
   vndb: "c123071"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c123071.webp"
 ---
 
-# 格RT露德
+# Gertrude
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

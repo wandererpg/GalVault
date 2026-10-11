@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c129738"
 type: "character"
-display_title: "真阿君"
-title_zh: "真阿君"
+display_title: "マー君"
+title_zh: ""
 title_ja: "マー君"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c129738"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Maa-kun"
-  - "マー君"
 source_ids:
   vndb: "c129738"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c129738.webp"
 ---
 
-# 真阿君
+# マー君
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "风美由飞"
 title_zh: "风美由飞"
 title_ja: "風美 由飛"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9898"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kazami Yui"
   - "風美 由飛"

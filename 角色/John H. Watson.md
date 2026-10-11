@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c48030"
 type: "character"
-display_title: "乔恩H和斗寿恩"
-title_zh: "乔恩H和斗寿恩"
+display_title: "ジョン・H・ワトスン"
+title_zh: ""
 title_ja: "ジョン・H・ワトスン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c48030"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "John H. Watson"
-  - "ジョン・H・ワトスン"
 source_ids:
   vndb: "c48030"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c48030.webp"
 ---
 
-# 乔恩H和斗寿恩
+# ジョン・H・ワトスン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

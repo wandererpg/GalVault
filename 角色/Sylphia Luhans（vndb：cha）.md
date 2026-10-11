@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30525"
 type: "character"
-display_title: "诗露F伊阿露乌羽恩寿"
-title_zh: "诗露F伊阿露乌羽恩寿"
+display_title: "シルフィア・ルーハンス"
+title_zh: ""
 title_ja: "シルフィア・ルーハンス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30525"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sylphia Luhans"
-  - "シルフィア・ルーハンス"
 source_ids:
   vndb: "c30525"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30525.webp"
 ---
 
-# 诗露F伊阿露乌羽恩寿
+# シルフィア・ルーハンス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

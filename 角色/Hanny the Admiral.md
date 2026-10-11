@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61318"
 type: "character"
-display_title: "羽尼伊扎阿堂美拉露"
-title_zh: "羽尼伊扎阿堂美拉露"
+display_title: "ハニー・ザ・アドミラル"
+title_zh: ""
 title_ja: "ハニー・ザ・アドミラル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61318"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hanny the Admiral"
-  - "ハニー・ザ・アドミラル"
 source_ids:
   vndb: "c61318"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61318.webp"
 ---
 
-# 羽尼伊扎阿堂美拉露
+# ハニー・ザ・アドミラル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

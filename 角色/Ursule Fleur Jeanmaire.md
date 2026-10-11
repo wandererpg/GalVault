@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c9484"
 type: "character"
-display_title: "优露修乌露＝芙露乌露＝嘉恩芽惠露"
-title_zh: "优露修乌露＝芙露乌露＝嘉恩芽惠露"
+display_title: "ユルシュール＝フルール＝ジャンメール"
+title_zh: ""
 title_ja: "ユルシュール＝フルール＝ジャンメール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c9484"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ursule Fleur Jeanmaire"
-  - "ユルシュール＝フルール＝ジャンメール"
   - "Swiss girl"
   - "Yuushe"
   - "スイスの人"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c9484.webp"
 ---
 
-# 优露修乌露＝芙露乌露＝嘉恩芽惠露
+# ユルシュール＝フルール＝ジャンメール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

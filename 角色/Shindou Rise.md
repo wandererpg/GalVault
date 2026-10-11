@@ -5,7 +5,10 @@ display_title: "进藤里濑"
 title_zh: "进藤里濑"
 title_ja: "進藤 里瀬"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c39780"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shindou Rise"
   - "進藤 里瀬"

@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c43687"
 type: "character"
-display_title: "久拉乌D伊阿久伊露恩羽伊梦"
-title_zh: "久拉乌D伊阿久伊露恩羽伊梦"
+display_title: "クラウディア・クイルンハイム"
+title_zh: ""
 title_ja: "クラウディア・クイルンハイム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43687"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Claudia Quirnheim"
-  - "クラウディア・クイルンハイム"
 source_ids:
   vndb: "c43687"
 source_urls:
   vndb: "https://vndb.org/c43687"
 ---
 
-# 久拉乌D伊阿久伊露恩羽伊梦
+# クラウディア・クイルンハイム
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

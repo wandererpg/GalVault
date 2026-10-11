@@ -5,7 +5,10 @@ display_title: "中野隼人"
 title_zh: "中野隼人"
 title_ja: "中野 隼人"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c65726"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nakano Hayato"
   - "中野 隼人"

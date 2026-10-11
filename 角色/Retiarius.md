@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c97415"
 type: "character"
-display_title: "蕾T伊阿莉乌S"
-title_zh: "蕾T伊阿莉乌S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Retiarius"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97415"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Retiarius"
   - "Gladiator A."
 source_ids:
   vndb: "c97415"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c97415.webp"
 ---
 
-# 蕾T伊阿莉乌S
+# Retiarius
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c55659"
 type: "character"
-display_title: "真达拉"
-title_zh: "真达拉"
+display_title: "マダラ"
+title_zh: ""
 title_ja: "マダラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c55659"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Madara"
-  - "マダラ"
 source_ids:
   vndb: "c55659"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c55659.webp"
 ---
 
-# 真达拉
+# マダラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

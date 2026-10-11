@@ -5,7 +5,10 @@ display_title: "垣见五郎兵卫"
 title_zh: "垣见五郎兵卫"
 title_ja: "垣見 五郎兵衛"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c63527"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kakimi Gorobee"
   - "垣見 五郎兵衛"

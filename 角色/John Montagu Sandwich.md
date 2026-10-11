@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17318"
 type: "character"
-display_title: "乔恩莫恩太久乌沙恩堂乌伊T千"
-title_zh: "乔恩莫恩太久乌沙恩堂乌伊T千"
+display_title: "ジョン・モンタギュー・サンドウィッチ"
+title_zh: ""
 title_ja: "ジョン・モンタギュー・サンドウィッチ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17318"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "John Montagu Sandwich"
-  - "ジョン・モンタギュー・サンドウィッチ"
   - "Count Sandwich"
 source_ids:
   vndb: "c17318"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c17318.webp"
 ---
 
-# 乔恩莫恩太久乌沙恩堂乌伊T千
+# ジョン・モンタギュー・サンドウィッチ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

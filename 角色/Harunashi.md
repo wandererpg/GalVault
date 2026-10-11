@@ -5,7 +5,10 @@ display_title: "夏秋冬"
 title_zh: "夏秋冬"
 title_ja: "夏秋冬"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c102757"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Harunashi"
   - "雷女"

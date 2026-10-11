@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c31111"
 type: "character"
-display_title: "魔神帕伊莫恩"
-title_zh: "魔神帕伊莫恩"
+display_title: "魔神パイモン"
+title_zh: ""
 title_ja: "魔神パイモン"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c31111"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Paimon"
-  - "魔神パイモン"
 source_ids:
   vndb: "c31111"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c31111.webp"
 ---
 
-# 魔神帕伊莫恩
+# 魔神パイモン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

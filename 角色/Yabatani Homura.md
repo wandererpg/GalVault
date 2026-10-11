@@ -5,7 +5,10 @@ display_title: "矢场谷炎邑"
 title_zh: "矢场谷炎邑"
 title_ja: "矢場谷 炎邑"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c91955"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yabatani Homura"
   - "矢場谷 炎邑"

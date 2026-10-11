@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125216"
 type: "character"
-display_title: "久莫娘"
-title_zh: "久莫娘"
+display_title: "クモ娘"
+title_zh: ""
 title_ja: "クモ娘"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125216"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Spider Girl"
-  - "クモ娘"
   - "Rachnee"
 source_ids:
   vndb: "c125216"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c125216.webp"
 ---
 
-# 久莫娘
+# クモ娘
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

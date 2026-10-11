@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14540"
 type: "character"
-display_title: "帕奥洛･皮阿乃"
-title_zh: "帕奥洛･皮阿乃"
+display_title: "パオロ･ピアノ"
+title_zh: ""
 title_ja: "パオロ･ピアノ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14540"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Paolo Piano"
-  - "パオロ･ピアノ"
 source_ids:
   vndb: "c14540"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c14540.webp"
 ---
 
-# 帕奥洛･皮阿乃
+# パオロ･ピアノ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

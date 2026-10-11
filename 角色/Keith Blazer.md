@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43102"
 type: "character"
-display_title: "希伊寿布蕾伊扎阿"
-title_zh: "希伊寿布蕾伊扎阿"
+display_title: "キース・ブレイザー"
+title_zh: ""
 title_ja: "キース・ブレイザー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43102"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Keith Blazer"
-  - "キース・ブレイザー"
 source_ids:
   vndb: "c43102"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43102.webp"
 ---
 
-# 希伊寿布蕾伊扎阿
+# キース・ブレイザー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

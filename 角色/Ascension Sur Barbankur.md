@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c6225"
 type: "character"
-display_title: "阿寿濑恩诗奥恩寿露巴露巴恩久乌露"
-title_zh: "阿寿濑恩诗奥恩寿露巴露巴恩久乌露"
+display_title: "アスセンシオン・スル・バルバンクール"
+title_zh: ""
 title_ja: "アスセンシオン・スル・バルバンクール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c6225"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ascension Sur Barbankur"
-  - "アスセンシオン・スル・バルバンクール"
   - "Beelzebub"
   - "Bel"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c6225.webp"
 ---
 
-# 阿寿濑恩诗奥恩寿露巴露巴恩久乌露
+# アスセンシオン・スル・バルバンクール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

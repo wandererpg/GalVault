@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c143505"
 type: "character"
-display_title: "嘉CK"
-title_zh: "嘉CK"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jack"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c143505"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jack"
 source_ids:
   vndb: "c143505"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c143505.webp"
 ---
 
-# 嘉CK
+# Jack
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

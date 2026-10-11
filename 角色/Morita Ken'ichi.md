@@ -5,7 +5,10 @@ display_title: "森田贤一"
 title_zh: "森田贤一"
 title_ja: "森田 賢一"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1383"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Morita Ken'ichi"
   - "森田 賢一"

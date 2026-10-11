@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c7694"
 type: "character"
-display_title: "惠莉·诗恩乔乌"
-title_zh: "惠莉·诗恩乔乌"
+display_title: "エリ シンジョウ"
+title_zh: ""
 title_ja: "エリ シンジョウ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c7694"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Eri Shinjou"
-  - "エリ シンジョウ"
 source_ids:
   vndb: "c7694"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c7694.webp"
 ---
 
-# 惠莉·诗恩乔乌
+# エリ シンジョウ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

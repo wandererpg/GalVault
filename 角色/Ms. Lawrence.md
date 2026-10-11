@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c106579"
 type: "character"
-display_title: "MS·L阿W蕾恩C惠"
-title_zh: "MS·L阿W蕾恩C惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ms. Lawrence"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c106579"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ms. Lawrence"
   - "Judy Louise Lawrence"
 source_ids:
   vndb: "c106579"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c106579.webp"
 ---
 
-# MS·L阿W蕾恩C惠
+# Ms. Lawrence
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

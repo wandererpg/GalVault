@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c97712"
 type: "character"
-display_title: "太真"
-title_zh: "太真"
+display_title: "タマ"
+title_zh: ""
 title_ja: "タマ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97712"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tama"
-  - "タマ"
 source_ids:
   vndb: "c97712"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c97712.webp"
 ---
 
-# 太真
+# タマ
 
 
 ## 角色画像

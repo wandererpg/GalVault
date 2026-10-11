@@ -5,7 +5,10 @@ display_title: "澄田景"
 title_zh: "澄田景"
 title_ja: "澄田 景"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c71701"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sumida Kei"
   - "澄田 景"

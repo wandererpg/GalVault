@@ -5,7 +5,10 @@ display_title: "祐天寺美汐"
 title_zh: "祐天寺美汐"
 title_ja: "祐天寺 美汐"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c12467"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yuutenji Mishio"
   - "祐天寺 美汐"

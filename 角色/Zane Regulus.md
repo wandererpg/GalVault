@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c171033"
 type: "character"
-display_title: "泽伊恩蕾古露寿"
-title_zh: "泽伊恩蕾古露寿"
+display_title: "ゼイン・レグルス"
+title_zh: ""
 title_ja: "ゼイン・レグルス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c171033"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Zane Regulus"
-  - "ゼイン・レグルス"
 source_ids:
   vndb: "c171033"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c171033.webp"
 ---
 
-# 泽伊恩蕾古露寿
+# ゼイン・レグルス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

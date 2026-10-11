@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c83763"
 type: "character"
-display_title: "F伊L伊P帕"
-title_zh: "F伊L伊P帕"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Filippa"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c83763"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Filippa"
 source_ids:
   vndb: "c83763"
 source_urls:
   vndb: "https://vndb.org/c83763"
 ---
 
-# F伊L伊P帕
+# Filippa
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

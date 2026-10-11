@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c25586"
 type: "character"
-display_title: "露乌诗伊"
-title_zh: "露乌诗伊"
+display_title: "ルーシー"
+title_zh: ""
 title_ja: "ルーシー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c25586"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lucy"
-  - "ルーシー"
   - "Kokou no Charisma Queen"
   - "Aloof Charisma Queen"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c25586.webp"
 ---
 
-# 露乌诗伊
+# ルーシー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

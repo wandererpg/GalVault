@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c37032"
 type: "character"
-display_title: "加朱恩＝F阿伊子T斗"
-title_zh: "加朱恩＝F阿伊子T斗"
+display_title: "カジュン＝ファイコット"
+title_zh: ""
 title_ja: "カジュン＝ファイコット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37032"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kajun Faycott"
-  - "カジュン＝ファイコット"
   - "Cajun Faycott"
 source_ids:
   vndb: "c37032"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c37032.webp"
 ---
 
-# 加朱恩＝F阿伊子T斗
+# カジュン＝ファイコット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

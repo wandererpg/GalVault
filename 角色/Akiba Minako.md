@@ -5,7 +5,10 @@ display_title: "秋叶美奈子"
 title_zh: "秋叶美奈子"
 title_ja: "秋葉 美奈子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c141291"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Akiba Minako"
   - "秋葉 美奈子"

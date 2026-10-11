@@ -5,7 +5,10 @@ display_title: "吕布奉先"
 title_zh: "吕布奉先"
 title_ja: "呂布 奉先"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c19321"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ryofu Housen"
   - "呂布 奉先"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c24686"
 type: "character"
-display_title: "乌露特伊尼阿"
-title_zh: "乌露特伊尼阿"
+display_title: "ウルティニア"
+title_zh: ""
 title_ja: "ウルティニア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c24686"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ultinia"
-  - "ウルティニア"
 source_ids:
   vndb: "c24686"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c24686.webp"
 ---
 
-# 乌露特伊尼阿
+# ウルティニア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

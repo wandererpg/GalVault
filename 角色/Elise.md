@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c81766"
 type: "character"
-display_title: "惠莉伊泽"
-title_zh: "惠莉伊泽"
+display_title: "エリーゼ"
+title_zh: ""
 title_ja: "エリーゼ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c81766"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Elise"
-  - "エリーゼ"
   - "R.U.R./G2Type2:Elise"
 source_ids:
   vndb: "c81766"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c81766.webp"
 ---
 
-# 惠莉伊泽
+# エリーゼ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

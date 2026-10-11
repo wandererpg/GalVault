@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c4660"
 type: "character"
-display_title: "苍井濑奈"
-title_zh: "苍井濑奈"
+display_title: "蒼井 セナ"
+title_zh: ""
 title_ja: "蒼井 セナ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c4660"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Aoi Sena"
-  - "蒼井 セナ"
   - "女子Ｂ"
   - "Girl B"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c4660.webp"
 ---
 
-# 苍井濑奈
+# 蒼井 セナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

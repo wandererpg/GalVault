@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c234"
 type: "character"
-display_title: "神山美子"
-title_zh: "神山美子"
+display_title: "神山 みこ"
+title_zh: ""
 title_ja: "神山 みこ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c234"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kamiyama Miko"
-  - "神山 みこ"
 source_ids:
   vndb: "c234"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c234.webp"
 ---
 
-# 神山美子
+# 神山 みこ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

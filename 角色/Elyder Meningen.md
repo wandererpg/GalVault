@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c113587"
 type: "character"
-display_title: "惠拉伊达阿芽尼恩格恩"
-title_zh: "惠拉伊达阿芽尼恩格恩"
+display_title: "エライダー・メニンゲン"
+title_zh: ""
 title_ja: "エライダー・メニンゲン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c113587"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Elyder Meningen"
-  - "エライダー・メニンゲン"
 source_ids:
   vndb: "c113587"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c113587.webp"
 ---
 
-# 惠拉伊达阿芽尼恩格恩
+# エライダー・メニンゲン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

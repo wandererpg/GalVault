@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c147894"
 type: "character"
-display_title: "美LL伊惠·CL阿R惠"
-title_zh: "美LL伊惠·CL阿R惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Millie Clarke"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c147894"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Millie Clarke"
 source_ids:
   vndb: "c147894"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c147894.webp"
 ---
 
-# 美LL伊惠·CL阿R惠
+# Millie Clarke
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

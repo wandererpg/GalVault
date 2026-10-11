@@ -5,7 +5,10 @@ display_title: "大成功"
 title_zh: "大成功"
 title_ja: "大成 功"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c109861"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Oonari Isao"
   - "大成 功"

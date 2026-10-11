@@ -5,7 +5,10 @@ display_title: "帘舞纪香"
 title_zh: "帘舞纪香"
 title_ja: "簾舞 紀香"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c49225"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Misumai Norika"
   - "簾舞 紀香"

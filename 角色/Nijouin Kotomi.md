@@ -5,7 +5,10 @@ display_title: "二条院琴美"
 title_zh: "二条院琴美"
 title_ja: "二条院 琴美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c55908"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nijouin Kotomi"
   - "二条院 琴美"

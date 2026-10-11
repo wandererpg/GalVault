@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c103763"
 type: "character"
-display_title: "惠莉扎贝寿女王"
-title_zh: "惠莉扎贝寿女王"
+display_title: "エリザベス女王"
+title_zh: ""
 title_ja: "エリザベス女王"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103763"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Queen Elizabeth"
-  - "エリザベス女王"
 source_ids:
   vndb: "c103763"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c103763.webp"
 ---
 
-# 惠莉扎贝寿女王
+# エリザベス女王
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

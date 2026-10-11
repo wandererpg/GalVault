@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c23390"
 type: "character"
-display_title: "优乃寿乃奥修太伊恩"
-title_zh: "优乃寿乃奥修太伊恩"
+display_title: "ユノ・スノーシュタイン"
+title_zh: ""
 title_ja: "ユノ・スノーシュタイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c23390"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Juno Snowstein"
-  - "ユノ・スノーシュタイン"
   - "Yuno"
 source_ids:
   vndb: "c23390"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c23390.webp"
 ---
 
-# 优乃寿乃奥修太伊恩
+# ユノ・スノーシュタイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

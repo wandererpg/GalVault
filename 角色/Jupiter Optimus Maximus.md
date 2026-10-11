@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c66033"
 type: "character"
-display_title: "优皮特露神"
-title_zh: "优皮特露神"
+display_title: "ユピテル神"
+title_zh: ""
 title_ja: "ユピテル神"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c66033"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jupiter Optimus Maximus"
-  - "ユピテル神"
 source_ids:
   vndb: "c66033"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c66033.webp"
 ---
 
-# 优皮特露神
+# ユピテル神
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

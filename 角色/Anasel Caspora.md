@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c97954"
 type: "character"
-display_title: "阿奈濑露加寿波奥拉"
-title_zh: "阿奈濑露加寿波奥拉"
+display_title: "アナセル・カスポーラ"
+title_zh: ""
 title_ja: "アナセル・カスポーラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97954"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Anasel Caspora"
-  - "アナセル・カスポーラ"
 source_ids:
   vndb: "c97954"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c97954.webp"
 ---
 
-# 阿奈濑露加寿波奥拉
+# アナセル・カスポーラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

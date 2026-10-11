@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c92041"
 type: "character"
-display_title: "FLY恩恩·莫奥蕾"
-title_zh: "FLY恩恩·莫奥蕾"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Flynn Moore"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92041"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Flynn Moore"
 source_ids:
   vndb: "c92041"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c92041.webp"
 ---
 
-# FLY恩恩·莫奥蕾
+# Flynn Moore
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c45319"
 type: "character"
-display_title: "濑露F伊伊音芙洛奥拉伊斗"
-title_zh: "濑露F伊伊音芙洛奥拉伊斗"
+display_title: "セルフィーネ・フローライト"
+title_zh: ""
 title_ja: "セルフィーネ・フローライト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c45319"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Selphine Flowlight"
-  - "セルフィーネ・フローライト"
 source_ids:
   vndb: "c45319"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c45319.webp"
 ---
 
-# 濑露F伊伊音芙洛奥拉伊斗
+# セルフィーネ・フローライト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

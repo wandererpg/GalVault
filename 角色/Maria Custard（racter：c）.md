@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c96906"
 type: "character"
-display_title: "真莉阿加寿太阿堂"
-title_zh: "真莉阿加寿太阿堂"
+display_title: "マリア・カスタード"
+title_zh: ""
 title_ja: "マリア・カスタード"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c96906"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Maria Custard"
-  - "マリア・カスタード"
 source_ids:
   vndb: "c96906"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c96906.webp"
 ---
 
-# 真莉阿加寿太阿堂
+# マリア・カスタード
 
 
 ## 角色画像

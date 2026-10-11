@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c41642"
 type: "character"
-display_title: "休乌雅吉洛"
-title_zh: "休乌雅吉洛"
+display_title: "ヒュウガ・ジロ"
+title_zh: ""
 title_ja: "ヒュウガ・ジロ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c41642"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hyuuga Jiro"
-  - "ヒュウガ・ジロ"
 source_ids:
   vndb: "c41642"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c41642.webp"
 ---
 
-# 休乌雅吉洛
+# ヒュウガ・ジロ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c41553"
 type: "character"
-display_title: "洛乌洛阿阿兹"
-title_zh: "洛乌洛阿阿兹"
+display_title: "ロウ・ロアーズ"
+title_zh: ""
 title_ja: "ロウ・ロアーズ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c41553"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Row Roarz"
-  - "ロウ・ロアーズ"
 source_ids:
   vndb: "c41553"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c41553.webp"
 ---
 
-# 洛乌洛阿阿兹
+# ロウ・ロアーズ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

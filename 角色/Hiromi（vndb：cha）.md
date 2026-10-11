@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c156621"
 type: "character"
-display_title: "日洛美"
-title_zh: "日洛美"
+display_title: "ひろ美"
+title_zh: ""
 title_ja: "ひろ美"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c156621"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hiromi"
-  - "ひろ美"
 source_ids:
   vndb: "c156621"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c156621.webp"
 ---
 
-# 日洛美
+# ひろ美
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "法正孝直"
 title_zh: "法正孝直"
 title_ja: "法正 孝直"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c50554"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Housei Kouchoku"
   - "法正 孝直"

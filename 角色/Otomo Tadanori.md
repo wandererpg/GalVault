@@ -5,7 +5,10 @@ display_title: "大伴忠范"
 title_zh: "大伴忠范"
 title_ja: "大伴忠範"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c127222"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Otomo Tadanori"
   - "大伴忠範"

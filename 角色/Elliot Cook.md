@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c131406"
 type: "character"
-display_title: "惠LL伊奥T·C奥奥K"
-title_zh: "惠LL伊奥T·C奥奥K"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Elliot Cook"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c131406"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Elliot Cook"
 source_ids:
   vndb: "c131406"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c131406.webp"
 ---
 
-# 惠LL伊奥T·C奥奥K
+# Elliot Cook
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

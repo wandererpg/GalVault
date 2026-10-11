@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c134474"
 type: "character"
-display_title: "莫露雅恩音V阿恩"
-title_zh: "莫露雅恩音V阿恩"
+display_title: "モルガン・ネヴァン"
+title_zh: ""
 title_ja: "モルガン・ネヴァン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c134474"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Morgan Nevan"
-  - "モルガン・ネヴァン"
 source_ids:
   vndb: "c134474"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c134474.webp"
 ---
 
-# 莫露雅恩音V阿恩
+# モルガン・ネヴァン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

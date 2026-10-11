@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c22384"
 type: "character"
-display_title: "夏乌拉巴阿恩修太伊恩"
-title_zh: "夏乌拉巴阿恩修太伊恩"
+display_title: "シャウラ・バーンシュタイン"
+title_zh: ""
 title_ja: "シャウラ・バーンシュタイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c22384"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shaula Bernstein"
-  - "シャウラ・バーンシュタイン"
 source_ids:
   vndb: "c22384"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c22384.webp"
 ---
 
-# 夏乌拉巴阿恩修太伊恩
+# シャウラ・バーンシュタイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

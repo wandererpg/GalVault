@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c97686"
 type: "character"
-display_title: "SKYL阿R·濑L乌恩D"
-title_zh: "SKYL阿R·濑L乌恩D"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Skylar Selund"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97686"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Skylar Selund"
 source_ids:
   vndb: "c97686"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c97686.webp"
 ---
 
-# SKYL阿R·濑L乌恩D
+# Skylar Selund
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

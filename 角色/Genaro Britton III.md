@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c51594"
 type: "character"
-display_title: "格奈洛·B莉T斗恩·伊伊伊"
-title_zh: "格奈洛·B莉T斗恩·伊伊伊"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Genaro Britton III"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c51594"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Genaro Britton III"
 source_ids:
   vndb: "c51594"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c51594.webp"
 ---
 
-# 格奈洛·B莉T斗恩·伊伊伊
+# Genaro Britton III
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

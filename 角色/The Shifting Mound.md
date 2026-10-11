@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c131814"
 type: "character"
-display_title: "T惠·诗FT伊恩G·莫乌恩D"
-title_zh: "T惠·诗FT伊恩G·莫乌恩D"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "The Shifting Mound"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c131814"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "The Shifting Mound"
   - "The Ebb and Flow"
   - "The Capacity to Change"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c131814.webp"
 ---
 
-# T惠·诗FT伊恩G·莫乌恩D
+# The Shifting Mound
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

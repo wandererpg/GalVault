@@ -5,7 +5,10 @@ display_title: "久远寺有珠"
 title_zh: "久远寺有珠"
 title_ja: "久遠寺 有珠"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c3928"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kuonji Arisu"
   - "久遠寺 有珠"

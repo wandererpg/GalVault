@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c75724"
 type: "character"
-display_title: "吉堂乌"
-title_zh: "吉堂乌"
+display_title: "ギドウ"
+title_zh: ""
 title_ja: "ギドウ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c75724"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gidou"
-  - "ギドウ"
 source_ids:
   vndb: "c75724"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c75724.webp"
 ---
 
-# 吉堂乌
+# ギドウ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

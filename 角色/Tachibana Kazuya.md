@@ -5,7 +5,10 @@ display_title: "橘一弥"
 title_zh: "橘一弥"
 title_ja: "橘 一弥"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c73903"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tachibana Kazuya"
   - "橘 一弥"

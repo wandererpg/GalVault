@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98795"
 type: "character"
-display_title: "复讐恰恩"
-title_zh: "复讐恰恩"
+display_title: "復讐ちゃん"
+title_zh: ""
 title_ja: "復讐ちゃん"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98795"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lil Avenger"
-  - "復讐ちゃん"
 source_ids:
   vndb: "c98795"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98795.webp"
 ---
 
-# 复讐恰恩
+# 復讐ちゃん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

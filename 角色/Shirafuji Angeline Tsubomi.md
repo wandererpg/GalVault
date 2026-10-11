@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10393"
 type: "character"
-display_title: "白藤阿恩吉惠莉伊努津博美"
-title_zh: "白藤阿恩吉惠莉伊努津博美"
+display_title: "白藤・アンジェリーヌ・つぼみ"
+title_zh: ""
 title_ja: "白藤・アンジェリーヌ・つぼみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10393"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shirafuji Angeline Tsubomi"
-  - "白藤・アンジェリーヌ・つぼみ"
 source_ids:
   vndb: "c10393"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c10393.webp"
 ---
 
-# 白藤阿恩吉惠莉伊努津博美
+# 白藤・アンジェリーヌ・つぼみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

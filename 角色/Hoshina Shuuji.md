@@ -5,7 +5,10 @@ display_title: "保科柊史"
 title_zh: "保科柊史"
 title_ja: "保科 柊史"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c41324"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hoshina Shuuji"
   - "保科 柊史"

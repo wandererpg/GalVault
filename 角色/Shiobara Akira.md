@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c97826"
 type: "character"
-display_title: "盐原阿希拉"
-title_zh: "盐原阿希拉"
+display_title: "塩原 アキラ"
+title_zh: ""
 title_ja: "塩原 アキラ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97826"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shiobara Akira"
-  - "塩原 アキラ"
 source_ids:
   vndb: "c97826"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c97826.webp"
 ---
 
-# 盐原阿希拉
+# 塩原 アキラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

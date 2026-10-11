@@ -5,7 +5,10 @@ display_title: "星名瑞穗"
 title_zh: "星名瑞穗"
 title_ja: "星名 瑞穂"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c33624"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hoshina Mizuho"
   - "星名 瑞穂"

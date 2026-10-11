@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26598"
 type: "character"
-display_title: "因幡芽古露"
-title_zh: "因幡芽古露"
+display_title: "因幡 めぐる"
+title_zh: ""
 title_ja: "因幡 めぐる"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26598"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Inaba Meguru"
-  - "因幡 めぐる"
 source_ids:
   vndb: "c26598"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c26598.webp"
 ---
 
-# 因幡芽古露
+# 因幡 めぐる
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

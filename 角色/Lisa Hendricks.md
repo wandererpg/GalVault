@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c109708"
 type: "character"
-display_title: "莉莎·惠恩D莉CKS"
-title_zh: "莉莎·惠恩D莉CKS"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Lisa Hendricks"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c109708"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Lisa Hendricks"
 source_ids:
   vndb: "c109708"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c109708.webp"
 ---
 
-# 莉莎·惠恩D莉CKS
+# Lisa Hendricks
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

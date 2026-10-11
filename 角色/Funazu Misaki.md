@@ -5,7 +5,10 @@ display_title: "船津美咲"
 title_zh: "船津美咲"
 title_ja: "船津 美咲"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43860"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Funazu Misaki"
   - "船津 美咲"

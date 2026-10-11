@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c1008"
 type: "character"
-display_title: "堂久太阿乌惠寿斗"
-title_zh: "堂久太阿乌惠寿斗"
+display_title: "ドクター・ウェスト"
+title_zh: ""
 title_ja: "ドクター・ウェスト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c1008"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Doctor West"
-  - "ドクター・ウェスト"
 source_ids:
   vndb: "c1008"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c1008.webp"
 ---
 
-# 堂久太阿乌惠寿斗
+# ドクター・ウェスト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

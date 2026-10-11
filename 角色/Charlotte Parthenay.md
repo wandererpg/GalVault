@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38245"
 type: "character"
-display_title: "夏露洛T斗帕露斗音惠"
-title_zh: "夏露洛T斗帕露斗音惠"
+display_title: "シャルロット・パルトネー"
+title_zh: ""
 title_ja: "シャルロット・パルトネー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38245"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Charlotte Parthenay"
-  - "シャルロット・パルトネー"
 source_ids:
   vndb: "c38245"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c38245.webp"
 ---
 
-# 夏露洛T斗帕露斗音惠
+# シャルロット・パルトネー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

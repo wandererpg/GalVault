@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c72280"
 type: "character"
-display_title: "眠莉姫"
-title_zh: "眠莉姫"
+display_title: "眠り姫"
+title_zh: ""
 title_ja: "眠り姫"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c72280"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nemurihime"
-  - "眠り姫"
   - "Nemu"
   - "Sleeping Beauty"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c72280.webp"
 ---
 
-# 眠莉姫
+# 眠り姫
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c37805"
 type: "character"
-display_title: "阿恩朱"
-title_zh: "阿恩朱"
+display_title: "アンジュ"
+title_zh: ""
 title_ja: "アンジュ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37805"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Anju"
-  - "アンジュ"
 source_ids:
   vndb: "c37805"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c37805.webp"
 ---
 
-# 阿恩朱
+# アンジュ
 
 
 ## 角色画像

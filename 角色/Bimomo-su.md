@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c134193"
 type: "character"
-display_title: "比莫莫＝寿"
-title_zh: "比莫莫＝寿"
+display_title: "ビモモ＝ス"
+title_zh: ""
 title_ja: "ビモモ＝ス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c134193"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Bimomo-su"
-  - "ビモモ＝ス"
 source_ids:
   vndb: "c134193"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c134193.webp"
 ---
 
-# 比莫莫＝寿
+# ビモモ＝ス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

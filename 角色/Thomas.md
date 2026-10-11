@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c172657"
 type: "character"
-display_title: "T穗真S"
-title_zh: "T穗真S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Thomas"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c172657"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Thomas"
 source_ids:
   vndb: "c172657"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c172657.webp"
 ---
 
-# T穗真S
+# Thomas
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

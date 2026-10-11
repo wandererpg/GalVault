@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125343"
 type: "character"
-display_title: "伊索吉恩恰久娘"
-title_zh: "伊索吉恩恰久娘"
+display_title: "イソギンチャク娘"
+title_zh: ""
 title_ja: "イソギンチャク娘"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125343"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sea Anemone Girl"
-  - "イソギンチャク娘"
   - "Isabelle"
 source_ids:
   vndb: "c125343"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c125343.webp"
 ---
 
-# 伊索吉恩恰久娘
+# イソギンチャク娘
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

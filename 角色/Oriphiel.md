@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30826"
 type: "character"
-display_title: "奥莉F伊惠露"
-title_zh: "奥莉F伊惠露"
+display_title: "オリフィエル"
+title_zh: ""
 title_ja: "オリフィエル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30826"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Oriphiel"
-  - "オリフィエル"
 source_ids:
   vndb: "c30826"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30826.webp"
 ---
 
-# 奥莉F伊惠露
+# オリフィエル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

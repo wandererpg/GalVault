@@ -5,7 +5,10 @@ display_title: "志藤由"
 title_zh: "志藤由"
 title_ja: "志藤 由"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c111594"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shidou Yuu"
   - "志藤 由"

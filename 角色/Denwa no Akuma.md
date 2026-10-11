@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c65847"
 type: "character"
-display_title: "电话乃恶魔"
-title_zh: "电话乃恶魔"
+display_title: "電話の悪魔"
+title_zh: ""
 title_ja: "電話の悪魔"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c65847"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Denwa no Akuma"
-  - "電話の悪魔"
   - "The Devil on the Line"
 source_ids:
   vndb: "c65847"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c65847.webp"
 ---
 
-# 电话乃恶魔
+# 電話の悪魔
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

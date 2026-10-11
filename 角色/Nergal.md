@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c161449"
 type: "character"
-display_title: "音露雅露"
-title_zh: "音露雅露"
+display_title: "ネルガル"
+title_zh: ""
 title_ja: "ネルガル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161449"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nergal"
-  - "ネルガル"
 source_ids:
   vndb: "c161449"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c161449.webp"
 ---
 
-# 音露雅露
+# ネルガル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

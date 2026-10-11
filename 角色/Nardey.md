@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c154691"
 type: "character"
-display_title: "奈R德Y"
-title_zh: "奈R德Y"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Nardey"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c154691"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Nardey"
 source_ids:
   vndb: "c154691"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c154691.webp"
 ---
 
-# 奈R德Y
+# Nardey
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c101247"
 type: "character"
-display_title: "密林乃虎"
-title_zh: "密林乃虎"
+display_title: "密林の虎"
+title_zh: ""
 title_ja: "密林の虎"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c101247"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tiger of the Jungle"
-  - "密林の虎"
   - "Mitsurin no Tora"
 source_ids:
   vndb: "c101247"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c101247.webp"
 ---
 
-# 密林乃虎
+# 密林の虎
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

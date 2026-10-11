@@ -5,7 +5,10 @@ display_title: "舞殿宫春熙亲王"
 title_zh: "舞殿宫春熙亲王"
 title_ja: "舞殿宮 春熙 親王"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21204"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Maidononomiya Haruhiro Shinnou"
   - "舞殿宮 春熙 親王"

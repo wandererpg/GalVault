@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c54"
 type: "character"
-display_title: "濑伊巴阿奥露太奈特伊布"
-title_zh: "濑伊巴阿奥露太奈特伊布"
+display_title: "セイバー・オルタナティブ"
+title_zh: ""
 title_ja: "セイバー・オルタナティブ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c54"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Saber Alter"
-  - "セイバー・オルタナティブ"
   - "Dark Saber"
 source_ids:
   vndb: "c54"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c54.webp"
 ---
 
-# 濑伊巴阿奥露太奈特伊布
+# セイバー・オルタナティブ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

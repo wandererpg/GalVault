@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8394"
 type: "character"
-display_title: "和阿贝"
-title_zh: "和阿贝"
+display_title: "ワーベ"
+title_zh: ""
 title_ja: "ワーベ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8394"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Waabe"
-  - "ワーベ"
 source_ids:
   vndb: "c8394"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c8394.webp"
 ---
 
-# 和阿贝
+# ワーベ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

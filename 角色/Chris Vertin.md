@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c18"
 type: "character"
-display_title: "久莉寿V惠露特伊恩"
-title_zh: "久莉寿V惠露特伊恩"
+display_title: "クリス・ヴェルティン"
+title_zh: ""
 title_ja: "クリス・ヴェルティン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c18"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chris Vertin"
-  - "クリス・ヴェルティン"
 source_ids:
   vndb: "c18"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c18.webp"
 ---
 
-# 久莉寿V惠露特伊恩
+# クリス・ヴェルティン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

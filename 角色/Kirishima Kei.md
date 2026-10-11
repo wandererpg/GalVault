@@ -5,7 +5,10 @@ display_title: "桐岛庆"
 title_zh: "桐岛庆"
 title_ja: "桐島 慶"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c13611"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kirishima Kei"
   - "桐島 慶"

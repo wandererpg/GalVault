@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c125732"
 type: "character"
-display_title: "B莉阿恩·D乌博伊S"
-title_zh: "B莉阿恩·D乌博伊S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Brian Dubois"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125732"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Brian Dubois"
 source_ids:
   vndb: "c125732"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c125732.webp"
 ---
 
-# B莉阿恩·D乌博伊S
+# Brian Dubois
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

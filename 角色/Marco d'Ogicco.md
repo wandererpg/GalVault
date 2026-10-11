@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c159705"
 type: "character"
-display_title: "真露子堂吉K子"
-title_zh: "真露子堂吉K子"
+display_title: "マルコ・ド・ジッコ"
+title_zh: ""
 title_ja: "マルコ・ド・ジッコ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159705"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Marco d'Ogicco"
-  - "マルコ・ド・ジッコ"
 source_ids:
   vndb: "c159705"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c159705.webp"
 ---
 
-# 真露子堂吉K子
+# マルコ・ド・ジッコ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

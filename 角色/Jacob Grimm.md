@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34947"
 type: "character"
-display_title: "雅阿子普古莉梦"
-title_zh: "雅阿子普古莉梦"
+display_title: "ヤーコプ・グリム"
+title_zh: ""
 title_ja: "ヤーコプ・グリム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34947"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jacob Grimm"
-  - "ヤーコプ・グリム"
 source_ids:
   vndb: "c34947"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c34947.webp"
 ---
 
-# 雅阿子普古莉梦
+# ヤーコプ・グリム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

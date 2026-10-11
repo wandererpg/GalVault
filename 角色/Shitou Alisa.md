@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c137428"
 type: "character"
-display_title: "紫藤阿莉沙"
-title_zh: "紫藤阿莉沙"
+display_title: "紫藤 アリサ"
+title_zh: ""
 title_ja: "紫藤 アリサ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c137428"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shitou Alisa"
-  - "紫藤 アリサ"
   - "Shito Alisa"
 source_ids:
   vndb: "c137428"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c137428.webp"
 ---
 
-# 紫藤阿莉沙
+# 紫藤 アリサ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c97734"
 type: "character"
-display_title: "沙WT蕾恩·L惠雅TL伊S"
-title_zh: "沙WT蕾恩·L惠雅TL伊S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Sawtren Legatlis"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97734"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Sawtren Legatlis"
 source_ids:
   vndb: "c97734"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c97734.webp"
 ---
 
-# 沙WT蕾恩·L惠雅TL伊S
+# Sawtren Legatlis
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

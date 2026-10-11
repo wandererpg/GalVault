@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c413"
 type: "character"
-display_title: "阿露露乌"
-title_zh: "阿露露乌"
+display_title: "アルルゥ"
+title_zh: ""
 title_ja: "アルルゥ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c413"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Aruruu"
-  - "アルルゥ"
   - "Aruruw"
   - "Aru-chan"
   - "アルちゃん"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c413.webp"
 ---
 
-# 阿露露乌
+# アルルゥ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

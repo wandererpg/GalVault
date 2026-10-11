@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14498"
 type: "character"
-display_title: "木乃宫子乃羽"
-title_zh: "木乃宫子乃羽"
+display_title: "木乃宮 このは"
+title_zh: ""
 title_ja: "木乃宮 このは"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14498"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kinomiya Konoha"
-  - "木乃宮 このは"
 source_ids:
   vndb: "c14498"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c14498.webp"
 ---
 
-# 木乃宫子乃羽
+# 木乃宮 このは
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

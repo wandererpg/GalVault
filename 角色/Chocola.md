@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c19704"
 type: "character"
-display_title: "翔子拉"
-title_zh: "翔子拉"
+display_title: "ショコラ"
+title_zh: ""
 title_ja: "ショコラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c19704"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chocola"
-  - "ショコラ"
 source_ids:
   vndb: "c19704"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c19704.webp"
 ---
 
-# 翔子拉
+# ショコラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

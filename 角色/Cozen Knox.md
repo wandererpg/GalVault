@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c104132"
 type: "character"
-display_title: "C奥泽恩·K乃X"
-title_zh: "C奥泽恩·K乃X"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Cozen Knox"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c104132"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Cozen Knox"
 source_ids:
   vndb: "c104132"
 source_urls:
   vndb: "https://vndb.org/c104132"
 ---
 
-# C奥泽恩·K乃X
+# Cozen Knox
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

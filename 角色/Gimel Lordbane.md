@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c141169"
 type: "character"
-display_title: "吉芽露洛奥堂贝伊恩"
-title_zh: "吉芽露洛奥堂贝伊恩"
+display_title: "ギメル・ロードベイン"
+title_zh: ""
 title_ja: "ギメル・ロードベイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141169"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gimel Lordbane"
-  - "ギメル・ロードベイン"
 source_ids:
   vndb: "c141169"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c141169.webp"
 ---
 
-# 吉芽露洛奥堂贝伊恩
+# ギメル・ロードベイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

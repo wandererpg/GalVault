@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c86241"
 type: "character"
-display_title: "樱"
-title_zh: "樱"
+display_title: "サクラ"
+title_zh: ""
 title_ja: "サクラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c86241"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sakura"
-  - "サクラ"
 source_ids:
   vndb: "c86241"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c86241.webp"
 ---
 
-# 樱
+# サクラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

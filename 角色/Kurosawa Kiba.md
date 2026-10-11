@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c83060"
 type: "character"
-display_title: "黑泽希巴"
-title_zh: "黑泽希巴"
+display_title: "黒澤 キバ"
+title_zh: ""
 title_ja: "黒澤 キバ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c83060"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kurosawa Kiba"
-  - "黒澤 キバ"
 source_ids:
   vndb: "c83060"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c83060.webp"
 ---
 
-# 黑泽希巴
+# 黒澤 キバ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

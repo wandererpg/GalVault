@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17384"
 type: "character"
-display_title: "达古"
-title_zh: "达古"
+display_title: "ダグ"
+title_zh: ""
 title_ja: "ダグ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17384"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Dag"
-  - "ダグ"
 source_ids:
   vndb: "c17384"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c17384.webp"
 ---
 
-# 达古
+# ダグ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

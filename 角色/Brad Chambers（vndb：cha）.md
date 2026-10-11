@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c174112"
 type: "character"
-display_title: "B拉D·恰M贝RS"
-title_zh: "B拉D·恰M贝RS"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Brad Chambers"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c174112"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Brad Chambers"
 source_ids:
   vndb: "c174112"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c174112.webp"
 ---
 
-# B拉D·恰M贝RS
+# Brad Chambers
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

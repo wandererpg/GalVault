@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c106578"
 type: "character"
-display_title: "惠美L·FL惠TC惠R"
-title_zh: "惠美L·FL惠TC惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Emil Fletcher"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c106578"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Emil Fletcher"
 source_ids:
   vndb: "c106578"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c106578.webp"
 ---
 
-# 惠美L·FL惠TC惠R
+# Emil Fletcher
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

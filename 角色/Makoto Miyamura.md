@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c89288"
 type: "character"
-display_title: "真子斗·美雅梦拉"
-title_zh: "真子斗·美雅梦拉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Makoto Miyamura"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c89288"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Makoto Miyamura"
   - "Class prez"
 source_ids:
   vndb: "c89288"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c89288.webp"
 ---
 
-# 真子斗·美雅梦拉
+# Makoto Miyamura
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c150644"
 type: "character"
-display_title: "惠伊太洛乌"
-title_zh: "惠伊太洛乌"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Keitarou"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c150644"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Keitarou"
 source_ids:
   vndb: "c150644"
 source_urls:
   vndb: "https://vndb.org/c150644"
 ---
 
-# 惠伊太洛乌
+# Keitarou
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

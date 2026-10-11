@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c85406"
 type: "character"
-display_title: "希拉拉"
-title_zh: "希拉拉"
+display_title: "キララ"
+title_zh: ""
 title_ja: "キララ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85406"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kirara"
-  - "キララ"
 source_ids:
   vndb: "c85406"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c85406.webp"
 ---
 
-# 希拉拉
+# キララ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

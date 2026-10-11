@@ -5,7 +5,10 @@ display_title: "藤宫千岁"
 title_zh: "藤宫千岁"
 title_ja: "藤宮 千歳"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c29832"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fujimiya Chitose"
   - "藤宮 千歳"

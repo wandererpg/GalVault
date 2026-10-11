@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c155626"
 type: "character"
-display_title: "月代雪"
-title_zh: "月代雪"
+display_title: "月代ユキ"
+title_zh: ""
 title_ja: "月代ユキ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155626"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tsukishiro Yuki"
-  - "月代ユキ"
   - "Great Witch"
   - "大魔女"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c155626.webp"
 ---
 
-# 月代雪
+# 月代ユキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

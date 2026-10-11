@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126849"
 type: "character"
-display_title: "代露"
-title_zh: "代露"
+display_title: "ヨル"
+title_zh: ""
 title_ja: "ヨル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126849"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yoru"
-  - "ヨル"
 source_ids:
   vndb: "c126849"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c126849.webp"
 ---
 
-# 代露
+# ヨル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

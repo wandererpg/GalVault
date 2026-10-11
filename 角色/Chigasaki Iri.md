@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c21205"
 type: "character"
-display_title: "千惠崎入莉"
-title_zh: "千惠崎入莉"
+display_title: "千ヶ崎 入莉"
+title_zh: ""
 title_ja: "千ヶ崎 入莉"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c21205"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chigasaki Iri"
-  - "千ヶ崎 入莉"
 source_ids:
   vndb: "c21205"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c21205.webp"
 ---
 
-# 千惠崎入莉
+# 千ヶ崎 入莉
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

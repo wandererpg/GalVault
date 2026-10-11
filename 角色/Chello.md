@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127483"
 type: "character"
-display_title: "C惠R洛"
-title_zh: "C惠R洛"
+display_title: "チェッロ"
+title_zh: ""
 title_ja: "チェッロ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127483"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chello"
-  - "チェッロ"
 source_ids:
   vndb: "c127483"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c127483.webp"
 ---
 
-# C惠R洛
+# チェッロ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

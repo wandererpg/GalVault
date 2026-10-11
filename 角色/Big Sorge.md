@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61276"
 type: "character"
-display_title: "比G古藏露格"
-title_zh: "比G古藏露格"
+display_title: "ビッグ・ゾルゲ"
+title_zh: ""
 title_ja: "ビッグ・ゾルゲ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61276"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Big Sorge"
-  - "ビッグ・ゾルゲ"
   - "Великий Зорге"
 source_ids:
   vndb: "c61276"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c61276.webp"
 ---
 
-# 比G古藏露格
+# ビッグ・ゾルゲ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

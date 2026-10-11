@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c153980"
 type: "character"
-display_title: "真阿久寿F奥恩蕾奥恩修太伊恩"
-title_zh: "真阿久寿F奥恩蕾奥恩修太伊恩"
+display_title: "マークス・フォン・レオンシュタイン"
+title_zh: ""
 title_ja: "マークス・フォン・レオンシュタイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c153980"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Markus von Leonstein"
-  - "マークス・フォン・レオンシュタイン"
 source_ids:
   vndb: "c153980"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c153980.webp"
 ---
 
-# 真阿久寿F奥恩蕾奥恩修太伊恩
+# マークス・フォン・レオンシュタイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

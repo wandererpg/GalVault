@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c161310"
 type: "character"
-display_title: "布拉D堂莉伊·贝伊恩"
-title_zh: "布拉D堂莉伊·贝伊恩"
+display_title: "ブラッドリー ベイン"
+title_zh: ""
 title_ja: "ブラッドリー ベイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161310"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Bradley Bain"
-  - "ブラッドリー ベイン"
 source_ids:
   vndb: "c161310"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c161310.webp"
 ---
 
-# 布拉D堂莉伊·贝伊恩
+# ブラッドリー ベイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

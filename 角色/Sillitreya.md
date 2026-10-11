@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c154411"
 type: "character"
-display_title: "S伊LL伊T蕾雅"
-title_zh: "S伊LL伊T蕾雅"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Sillitreya"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c154411"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Sillitreya"
 source_ids:
   vndb: "c154411"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c154411.webp"
 ---
 
-# S伊LL伊T蕾雅
+# Sillitreya
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

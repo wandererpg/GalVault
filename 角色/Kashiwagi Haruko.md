@@ -5,7 +5,10 @@ display_title: "柏木晴子"
 title_zh: "柏木晴子"
 title_ja: "柏木 晴子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c171"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kashiwagi Haruko"
   - "柏木 晴子"

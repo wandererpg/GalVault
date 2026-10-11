@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125454"
 type: "character"
-display_title: "F惠阿莉伊兹"
-title_zh: "F惠阿莉伊兹"
+display_title: "フェアリーズ"
+title_zh: ""
 title_ja: "フェアリーズ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125454"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Fairies"
-  - "フェアリーズ"
   - "Fairy A"
   - "Fairy B"
   - "Fairy C"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c125454.webp"
 ---
 
-# F惠阿莉伊兹
+# フェアリーズ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

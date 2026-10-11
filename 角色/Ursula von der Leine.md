@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c33693"
 type: "character"
-display_title: "乌R寿L阿·V奥恩·德R·L惠伊音"
-title_zh: "乌R寿L阿·V奥恩·德R·L惠伊音"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ursula von der Leine"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33693"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ursula von der Leine"
 source_ids:
   vndb: "c33693"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c33693.webp"
 ---
 
-# 乌R寿L阿·V奥恩·德R·L惠伊音
+# Ursula von der Leine
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90052"
 type: "character"
-display_title: "帕斗莉诗阿F奥恩久伊伊恩古拉寿"
-title_zh: "帕斗莉诗阿F奥恩久伊伊恩古拉寿"
+display_title: "パトリシア・フォン・クイーングラス"
+title_zh: ""
 title_ja: "パトリシア・フォン・クイーングラス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90052"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Patricia Von Queenglass"
-  - "パトリシア・フォン・クイーングラス"
   - "Patty"
   - "パティ"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c90052.webp"
 ---
 
-# 帕斗莉诗阿F奥恩久伊伊恩古拉寿
+# パトリシア・フォン・クイーングラス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

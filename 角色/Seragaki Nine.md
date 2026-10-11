@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c141504"
 type: "character"
-display_title: "濑良垣奈伊恩"
-title_zh: "濑良垣奈伊恩"
+display_title: "瀬良垣 ナイン"
+title_zh: ""
 title_ja: "瀬良垣 ナイン"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141504"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Seragaki Nine"
-  - "瀬良垣 ナイン"
 source_ids:
   vndb: "c141504"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c141504.webp"
 ---
 
-# 濑良垣奈伊恩
+# 瀬良垣 ナイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

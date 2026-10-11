@@ -5,7 +5,10 @@ display_title: "鼓法眼"
 title_zh: "鼓法眼"
 title_ja: "鼓 法眼"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c55656"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsuzumi Hougen"
   - "鼓 法眼"

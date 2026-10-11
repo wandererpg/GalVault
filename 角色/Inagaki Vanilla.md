@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c59696"
 type: "character"
-display_title: "稻垣巴尼拉"
-title_zh: "稻垣巴尼拉"
+display_title: "稲垣 バニラ"
+title_zh: ""
 title_ja: "稲垣 バニラ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c59696"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Inagaki Vanilla"
-  - "稲垣 バニラ"
 source_ids:
   vndb: "c59696"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c59696.webp"
 ---
 
-# 稻垣巴尼拉
+# 稲垣 バニラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

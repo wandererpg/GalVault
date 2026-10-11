@@ -5,7 +5,10 @@ display_title: "爱原奈都美"
 title_zh: "爱原奈都美"
 title_ja: "愛原 奈都美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c466"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Aibara Natsumi"
   - "愛原 奈都美"

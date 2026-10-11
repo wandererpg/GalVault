@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c25741"
 type: "character"
-display_title: "加露露久洛奥巴阿"
-title_zh: "加露露久洛奥巴阿"
+display_title: "カルル゠クローバー"
+title_zh: ""
 title_ja: "カルル゠クローバー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c25741"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Carl Clover"
-  - "カルル゠クローバー"
   - "Little Guy"
   - "Shorty"
   - "Violet Puppeteer"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c25741.webp"
 ---
 
-# 加露露久洛奥巴阿
+# カルル゠クローバー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "松原美璃亚"
 title_zh: "松原美璃亚"
 title_ja: "松原 美璃亜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c69682"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Matsubara Miria"
   - "松原 美璃亜"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c91577"
 type: "character"
-display_title: "莉伊芽伊"
-title_zh: "莉伊芽伊"
+display_title: "リーメイ"
+title_zh: ""
 title_ja: "リーメイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c91577"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Li-Mei"
-  - "リーメイ"
 source_ids:
   vndb: "c91577"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c91577.webp"
 ---
 
-# 莉伊芽伊
+# リーメイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

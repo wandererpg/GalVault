@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26481"
 type: "character"
-display_title: "诗诗雅美巴恩古"
-title_zh: "诗诗雅美巴恩古"
+display_title: "シシガミ゠バング"
+title_zh: ""
 title_ja: "シシガミ゠バング"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26481"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shishigami Bang"
-  - "シシガミ゠バング"
   - "Scruffy Guy"
   - "Scruffy-man"
   - "Scruffy Old Guy"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c26481.webp"
 ---
 
-# 诗诗雅美巴恩古
+# シシガミ゠バング
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

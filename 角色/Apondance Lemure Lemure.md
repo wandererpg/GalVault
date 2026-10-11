@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26527"
 type: "character"
-display_title: "阿波恩达恩寿蕾梦露蕾梦露"
-title_zh: "阿波恩达恩寿蕾梦露蕾梦露"
+display_title: "アポンダンス・レムル・レムル"
+title_zh: ""
 title_ja: "アポンダンス・レムル・レムル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26527"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Apondance Lemure Lemure"
-  - "アポンダンス・レムル・レムル"
 source_ids:
   vndb: "c26527"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c26527.webp"
 ---
 
-# 阿波恩达恩寿蕾梦露蕾梦露
+# アポンダンス・レムル・レムル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

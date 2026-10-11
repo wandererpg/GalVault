@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c105182"
 type: "character"
-display_title: "藏惠Y"
-title_zh: "藏惠Y"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Zoey"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c105182"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Zoey"
 source_ids:
   vndb: "c105182"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c105182.webp"
 ---
 
-# 藏惠Y
+# Zoey
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

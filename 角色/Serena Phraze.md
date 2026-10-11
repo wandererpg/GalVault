@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c142049"
 type: "character"
-display_title: "濑蕾惠奈芙蕾伊兹"
-title_zh: "濑蕾惠奈芙蕾伊兹"
+display_title: "セレーナ・フレイズ"
+title_zh: ""
 title_ja: "セレーナ・フレイズ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c142049"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Serena Phraze"
-  - "セレーナ・フレイズ"
 source_ids:
   vndb: "c142049"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c142049.webp"
 ---
 
-# 濑蕾惠奈芙蕾伊兹
+# セレーナ・フレイズ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

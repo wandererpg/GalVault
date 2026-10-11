@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c122648"
 type: "character"
-display_title: "真代R·莫奥蕾"
-title_zh: "真代R·莫奥蕾"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Mayor Moore"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c122648"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Mayor Moore"
   - "Auntie"
 source_ids:
   vndb: "c122648"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c122648.webp"
 ---
 
-# 真代R·莫奥蕾
+# Mayor Moore
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

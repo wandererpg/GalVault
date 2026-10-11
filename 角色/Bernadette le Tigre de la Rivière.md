@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38182"
 type: "character"
-display_title: "贝露奈德T斗露特伊古蕾堂拉莉V伊惠惠露"
-title_zh: "贝露奈德T斗露特伊古蕾堂拉莉V伊惠惠露"
+display_title: "ベルナデット・ル・ティグレ・ド・ラ・リヴィエール"
+title_zh: ""
 title_ja: "ベルナデット・ル・ティグレ・ド・ラ・リヴィエール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38182"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Bernadette le Tigre de la Rivière"
-  - "ベルナデット・ル・ティグレ・ド・ラ・リヴィエール"
 source_ids:
   vndb: "c38182"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c38182.webp"
 ---
 
-# 贝露奈德T斗露特伊古蕾堂拉莉V伊惠惠露
+# ベルナデット・ル・ティグレ・ド・ラ・リヴィエール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

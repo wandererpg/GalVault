@@ -5,7 +5,10 @@ display_title: "山科嘉笃"
 title_zh: "山科嘉笃"
 title_ja: "山科 嘉篤"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c164716"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yamashina Yoshiatsu"
   - "山科 嘉篤"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c132438"
 type: "character"
-display_title: "雅阿子芙堂露悟芙"
-title_zh: "雅阿子芙堂露悟芙"
+display_title: "ヤーコフ・ドルゴフ"
+title_zh: ""
 title_ja: "ヤーコフ・ドルゴフ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132438"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yakov Dolgov"
-  - "ヤーコフ・ドルゴフ"
 source_ids:
   vndb: "c132438"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c132438.webp"
 ---
 
-# 雅阿子芙堂露悟芙
+# ヤーコフ・ドルゴフ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

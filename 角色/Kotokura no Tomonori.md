@@ -5,7 +5,10 @@ display_title: "言藏智则"
 title_zh: "言藏智则"
 title_ja: "言蔵 智則"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c36351"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kotokura no Tomonori"
   - "言蔵 智則"

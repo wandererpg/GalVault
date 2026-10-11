@@ -5,7 +5,10 @@ display_title: "上社生枝"
 title_zh: "上社生枝"
 title_ja: "上社 生枝"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c37222"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kamiyashiro Ikue"
   - "上社 生枝"

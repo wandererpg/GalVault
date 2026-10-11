@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c41743"
 type: "character"
-display_title: "贝寿莉伊洛奥兹D伊兹莉伊"
-title_zh: "贝寿莉伊洛奥兹D伊兹莉伊"
+display_title: "ベスリー・ローズ・ディズリー"
+title_zh: ""
 title_ja: "ベスリー・ローズ・ディズリー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c41743"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Bethly Rose Daisley"
-  - "ベスリー・ローズ・ディズリー"
 source_ids:
   vndb: "c41743"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c41743.webp"
 ---
 
-# 贝寿莉伊洛奥兹D伊兹莉伊
+# ベスリー・ローズ・ディズリー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

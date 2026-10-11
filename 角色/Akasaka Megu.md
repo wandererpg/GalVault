@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c64876"
 type: "character"
-display_title: "赤坂芽古"
-title_zh: "赤坂芽古"
+display_title: "赤坂 めぐ"
+title_zh: ""
 title_ja: "赤坂 めぐ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c64876"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Akasaka Megu"
-  - "赤坂 めぐ"
 source_ids:
   vndb: "c64876"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c64876.webp"
 ---
 
-# 赤坂芽古
+# 赤坂 めぐ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

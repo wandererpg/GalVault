@@ -5,7 +5,10 @@ display_title: "十仓手鞠"
 title_zh: "十仓手鞠"
 title_ja: "十倉 手鞠"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c32646"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tokura Temari"
   - "十倉 手鞠"

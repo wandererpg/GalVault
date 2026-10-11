@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c66701"
 type: "character"
-display_title: "奥美代"
-title_zh: "奥美代"
+display_title: "お美代"
+title_zh: ""
 title_ja: "お美代"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c66701"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Omiyo"
-  - "お美代"
 source_ids:
   vndb: "c66701"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c66701.webp"
 ---
 
-# 奥美代
+# お美代
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

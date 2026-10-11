@@ -5,7 +5,10 @@ display_title: "早崎实樱"
 title_zh: "早崎实樱"
 title_ja: "早崎 実桜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21032"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hayasaki Mio"
   - "早崎 実桜"

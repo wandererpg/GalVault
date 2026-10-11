@@ -5,7 +5,10 @@ display_title: "渡边光夫"
 title_zh: "渡边光夫"
 title_ja: "渡辺 光夫"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c103757"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Watanabe Mitsuo"
   - "渡辺 光夫"

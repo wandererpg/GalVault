@@ -1,15 +1,18 @@
 ---
 entity_id: "vndb:character:c22365"
 type: "character"
-display_title: "羽莉奥恩古莉伊恩寿皮莉T斗"
-title_zh: "羽莉奥恩古莉伊恩寿皮莉T斗"
+display_title: "ハリオン・グリーンスピリット"
+title_zh: ""
 title_ja: "ハリオン・グリーンスピリット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c22365"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Halion Greenspirit"
-  - "ハリオン・グリーンスピリット"
   - "Halion of 'Oak'"
+  - "Halion of 'Oak"
 source_ids:
   vndb: "c22365"
 source_urls:
@@ -17,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c22365.webp"
 ---
 
-# 羽莉奥恩古莉伊恩寿皮莉T斗
+# ハリオン・グリーンスピリット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

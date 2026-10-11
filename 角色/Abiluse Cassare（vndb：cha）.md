@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30318"
 type: "character"
-display_title: "阿比露乌寿加S沙蕾"
-title_zh: "阿比露乌寿加S沙蕾"
+display_title: "アビルース・カッサレ"
+title_zh: ""
 title_ja: "アビルース・カッサレ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30318"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Abiluse Cassare"
-  - "アビルース・カッサレ"
 source_ids:
   vndb: "c30318"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30318.webp"
 ---
 
-# 阿比露乌寿加S沙蕾
+# アビルース・カッサレ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

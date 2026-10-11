@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c132177"
 type: "character"
-display_title: "CL阿拉·日LLF阿R"
-title_zh: "CL阿拉·日LLF阿R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Clara Hillfar"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132177"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Clara Hillfar"
   - "Fern"
   - "Pussyslayer69"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c132177.webp"
 ---
 
-# CL阿拉·日LLF阿R
+# Clara Hillfar
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

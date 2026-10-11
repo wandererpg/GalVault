@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90992"
 type: "character"
-display_title: "女神乌露修"
-title_zh: "女神乌露修"
+display_title: "女神 ウルシュ"
+title_zh: ""
 title_ja: "女神 ウルシュ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90992"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Megami Urushu"
-  - "女神 ウルシュ"
   - "Goddess Urushu"
 source_ids:
   vndb: "c90992"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c90992.webp"
 ---
 
-# 女神乌露修
+# 女神 ウルシュ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "八木泽萌花"
 title_zh: "八木泽萌花"
 title_ja: "八木沢 萌花"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c32604"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yagisawa Moeka"
   - "八木沢 萌花"

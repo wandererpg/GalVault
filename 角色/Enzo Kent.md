@@ -5,7 +5,10 @@ display_title: "恩佐·肯特"
 title_zh: "恩佐·肯特"
 title_ja: "恩佐·肯特"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c103259"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Enzo Kent"
 source_ids:

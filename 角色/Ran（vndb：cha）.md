@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39107"
 type: "character"
-display_title: "拉恩"
-title_zh: "拉恩"
+display_title: "らん"
+title_zh: ""
 title_ja: "らん"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39107"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ran"
-  - "らん"
 source_ids:
   vndb: "c39107"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c39107.webp"
 ---
 
-# 拉恩
+# らん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

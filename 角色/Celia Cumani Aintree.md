@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c6363"
 type: "character"
-display_title: "寿伊伊莉阿久真阿尼惠伊恩斗莉伊"
-title_zh: "寿伊伊莉阿久真阿尼惠伊恩斗莉伊"
+display_title: "スィーリア・クマーニ・エイントリー"
+title_zh: ""
 title_ja: "スィーリア・クマーニ・エイントリー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c6363"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Celia Cumani Aintree"
-  - "スィーリア・クマーニ・エイントリー"
   - "Celia Kumani Entory"
 source_ids:
   vndb: "c6363"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c6363.webp"
 ---
 
-# 寿伊伊莉阿久真阿尼惠伊恩斗莉伊
+# スィーリア・クマーニ・エイントリー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

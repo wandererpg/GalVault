@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c103758"
 type: "character"
-display_title: "蕾吉乌寿"
-title_zh: "蕾吉乌寿"
+display_title: "レギウス"
+title_zh: ""
 title_ja: "レギウス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103758"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rhegius"
-  - "レギウス"
   - "Great King of Darkness"
   - "闇の英雄王"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c103758.webp"
 ---
 
-# 蕾吉乌寿
+# レギウス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

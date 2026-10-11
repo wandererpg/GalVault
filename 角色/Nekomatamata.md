@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13480"
 type: "character"
-display_title: "音子真太真太"
-title_zh: "音子真太真太"
+display_title: "ねこまたまた"
+title_zh: ""
 title_ja: "ねこまたまた"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13480"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nekomatamata"
-  - "ねこまたまた"
 source_ids:
   vndb: "c13480"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c13480.webp"
 ---
 
-# 音子真太真太
+# ねこまたまた
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

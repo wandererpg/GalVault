@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c94445"
 type: "character"
-display_title: "扎加莉阿寿"
-title_zh: "扎加莉阿寿"
+display_title: "ザカリアス"
+title_zh: ""
 title_ja: "ザカリアス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94445"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Zacharias"
-  - "ザカリアス"
 source_ids:
   vndb: "c94445"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c94445.webp"
 ---
 
-# 扎加莉阿寿
+# ザカリアス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

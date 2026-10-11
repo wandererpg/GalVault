@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c129115"
 type: "character"
-display_title: "惠莉恩"
-title_zh: "惠莉恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Erin"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c129115"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Erin"
   - "Hero"
 source_ids:
   vndb: "c129115"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c129115.webp"
 ---
 
-# 惠莉恩
+# Erin
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

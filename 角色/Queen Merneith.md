@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c136569"
 type: "character"
-display_title: "Q乌惠惠恩·芽R音伊TH"
-title_zh: "Q乌惠惠恩·芽R音伊TH"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Queen Merneith"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136569"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Queen Merneith"
 source_ids:
   vndb: "c136569"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c136569.webp"
 ---
 
-# Q乌惠惠恩·芽R音伊TH
+# Queen Merneith
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

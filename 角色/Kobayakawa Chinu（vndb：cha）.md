@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c2876"
 type: "character"
-display_title: "小早川千努"
-title_zh: "小早川千努"
+display_title: "小早川 ちぬ"
+title_zh: ""
 title_ja: "小早川 ちぬ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c2876"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kobayakawa Chinu"
-  - "小早川 ちぬ"
 source_ids:
   vndb: "c2876"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c2876.webp"
 ---
 
-# 小早川千努
+# 小早川 ちぬ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

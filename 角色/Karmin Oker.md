@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71161"
 type: "character"
-display_title: "加阿真伊恩＝奥奥加阿"
-title_zh: "加阿真伊恩＝奥奥加阿"
+display_title: "カーマイン＝オーカー"
+title_zh: ""
 title_ja: "カーマイン＝オーカー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71161"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Karmin Oker"
-  - "カーマイン＝オーカー"
 source_ids:
   vndb: "c71161"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71161.webp"
 ---
 
-# 加阿真伊恩＝奥奥加阿
+# カーマイン＝オーカー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

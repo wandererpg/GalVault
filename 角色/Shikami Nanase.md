@@ -5,7 +5,10 @@ display_title: "鹿见奈々世"
 title_zh: "鹿见奈々世"
 title_ja: "鹿見 奈々世"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c155018"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shikami Nanase"
   - "鹿見 奈々世"

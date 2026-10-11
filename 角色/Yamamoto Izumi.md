@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c59699"
 type: "character"
-display_title: "山本伊兹美"
-title_zh: "山本伊兹美"
+display_title: "山本 イヅミ"
+title_zh: ""
 title_ja: "山本 イヅミ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c59699"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yamamoto Izumi"
-  - "山本 イヅミ"
   - "Mocchan"
   - "Mossan"
   - "Izu-chin"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c59699.webp"
 ---
 
-# 山本伊兹美
+# 山本 イヅミ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

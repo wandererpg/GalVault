@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43668"
 type: "character"
-display_title: "德伊露＝古拉恩"
-title_zh: "德伊露＝古拉恩"
+display_title: "デイル＝グラン"
+title_zh: ""
 title_ja: "デイル＝グラン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43668"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Dail Gran"
-  - "デイル＝グラン"
   - "Deiru Gran"
 source_ids:
   vndb: "c43668"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c43668.webp"
 ---
 
-# 德伊露＝古拉恩
+# デイル＝グラン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

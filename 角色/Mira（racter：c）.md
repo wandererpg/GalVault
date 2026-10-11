@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c31386"
 type: "character"
-display_title: "美拉"
-title_zh: "美拉"
+display_title: "ミラ"
+title_zh: ""
 title_ja: "ミラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c31386"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mira"
-  - "ミラ"
 source_ids:
   vndb: "c31386"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c31386.webp"
 ---
 
-# 美拉
+# ミラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

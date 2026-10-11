@@ -5,7 +5,10 @@ display_title: "广野凪"
 title_zh: "广野凪"
 title_ja: "広野 凪"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c59654"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hirono Nagi"
   - "広野 凪"

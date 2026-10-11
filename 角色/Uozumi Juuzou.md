@@ -5,7 +5,10 @@ display_title: "鱼住重藏"
 title_zh: "鱼住重藏"
 title_ja: "魚住 重蔵"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c63259"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Uozumi Juuzou"
   - "魚住 重蔵"

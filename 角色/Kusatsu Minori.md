@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c56846"
 type: "character"
-display_title: "草津美乃莉"
-title_zh: "草津美乃莉"
+display_title: "草津 みのり"
+title_zh: ""
 title_ja: "草津 みのり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56846"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kusatsu Minori"
-  - "草津 みのり"
 source_ids:
   vndb: "c56846"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c56846.webp"
 ---
 
-# 草津美乃莉
+# 草津 みのり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

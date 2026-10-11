@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87054"
 type: "character"
-display_title: "桃乃内寿莫莫"
-title_zh: "桃乃内寿莫莫"
+display_title: "桃ノ内 すもも"
+title_zh: ""
 title_ja: "桃ノ内 すもも"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87054"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Momonouchi Sumomo"
-  - "桃ノ内 すもも"
   - "ピーチ"
   - "ピーチ・ザ・ビッチ"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c87054.webp"
 ---
 
-# 桃乃内寿莫莫
+# 桃ノ内 すもも
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "东乡游马"
 title_zh: "东乡游马"
 title_ja: "東郷 遊馬"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c87455"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tougou Asuma"
   - "東郷 遊馬"

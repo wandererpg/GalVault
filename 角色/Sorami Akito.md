@@ -5,7 +5,10 @@ display_title: "宙见晓斗"
 title_zh: "宙见晓斗"
 title_ja: "宙見 暁斗"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c36076"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sorami Akito"
   - "宙見 暁斗"

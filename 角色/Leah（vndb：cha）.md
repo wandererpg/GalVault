@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c166469"
 type: "character"
-display_title: "L惠阿H"
-title_zh: "L惠阿H"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Leah"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c166469"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Leah"
 source_ids:
   vndb: "c166469"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c166469.webp"
 ---
 
-# L惠阿H
+# Leah
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

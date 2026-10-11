@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34813"
 type: "character"
-display_title: "天魔・奴奈比卖"
-title_zh: "天魔・奴奈比卖"
+display_title: "天魔・奴奈比売"
+title_zh: ""
 title_ja: "天魔・奴奈比売"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34813"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tenma Numahime"
-  - "天魔・奴奈比売"
 source_ids:
   vndb: "c34813"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c34813.webp"
 ---
 
-# 天魔・奴奈比卖
+# 天魔・奴奈比売
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

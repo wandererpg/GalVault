@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14535"
 type: "character"
-display_title: "瑠夏贝莉伊尼"
-title_zh: "瑠夏贝莉伊尼"
+display_title: "瑠夏・ベリーニ"
+title_zh: ""
 title_ja: "瑠夏・ベリーニ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14535"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Luka Bellini"
-  - "瑠夏・ベリーニ"
   - "Nanna Leone"
   - "Ruka Berrini"
   - "Sleeping lion"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c14535.webp"
 ---
 
-# 瑠夏贝莉伊尼
+# 瑠夏・ベリーニ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

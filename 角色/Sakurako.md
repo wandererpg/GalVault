@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c36261"
 type: "character"
-display_title: "沙久拉子"
-title_zh: "沙久拉子"
+display_title: "サクラコ"
+title_zh: ""
 title_ja: "サクラコ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c36261"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sakurako"
-  - "サクラコ"
 source_ids:
   vndb: "c36261"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c36261.webp"
 ---
 
-# 沙久拉子
+# サクラコ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "有马一"
 title_zh: "有马一"
 title_ja: "有馬 一"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c48288"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Arima Hajime"
   - "有馬 一"

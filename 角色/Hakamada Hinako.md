@@ -5,7 +5,10 @@ display_title: "袴田雏子"
 title_zh: "袴田雏子"
 title_ja: "袴田 雛子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c63473"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hakamada Hinako"
   - "袴田 雛子"

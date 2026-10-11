@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c37802"
 type: "character"
-display_title: "拉伊子乌"
-title_zh: "拉伊子乌"
+display_title: "ライコウ"
+title_zh: ""
 title_ja: "ライコウ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37802"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Raiko"
-  - "ライコウ"
   - "Raiko the Sage"
   - "Raikou"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c37802.webp"
 ---
 
-# 拉伊子乌
+# ライコウ
 
 
 ## 角色画像

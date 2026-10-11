@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c48348"
 type: "character"
-display_title: "嘉阿比寿"
-title_zh: "嘉阿比寿"
+display_title: "ジャービス"
+title_zh: ""
 title_ja: "ジャービス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c48348"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jervis"
-  - "ジャービス"
 source_ids:
   vndb: "c48348"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c48348.webp"
 ---
 
-# 嘉阿比寿
+# ジャービス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

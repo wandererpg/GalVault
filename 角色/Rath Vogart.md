@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c7046"
 type: "character"
-display_title: "拉寿V奥雅阿堂"
-title_zh: "拉寿V奥雅阿堂"
+display_title: "ラス・ヴォガード"
+title_zh: ""
 title_ja: "ラス・ヴォガード"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c7046"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rath Vogart"
-  - "ラス・ヴォガード"
 source_ids:
   vndb: "c7046"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c7046.webp"
 ---
 
-# 拉寿V奥雅阿堂
+# ラス・ヴォガード
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

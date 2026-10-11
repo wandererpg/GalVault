@@ -5,7 +5,10 @@ display_title: "襟尾纯"
 title_zh: "襟尾纯"
 title_ja: "襟尾 純"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c124610"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Erio Jun"
   - "襟尾 純"

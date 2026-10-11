@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43918"
 type: "character"
-display_title: "天惠濑茉緖"
-title_zh: "天惠濑茉緖"
+display_title: "天ヶ瀬 茉緒"
+title_zh: ""
 title_ja: "天ヶ瀬 茉緒"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43918"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Amagase Mao"
-  - "天ヶ瀬 茉緒"
 source_ids:
   vndb: "c43918"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43918.webp"
 ---
 
-# 天惠濑茉緖
+# 天ヶ瀬 茉緒
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

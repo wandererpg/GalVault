@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c132441"
 type: "character"
-display_title: "乔奥吉帕阿加阿"
-title_zh: "乔奥吉帕阿加阿"
+display_title: "ジョージ・パーカー"
+title_zh: ""
 title_ja: "ジョージ・パーカー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132441"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "George Parker"
-  - "ジョージ・パーカー"
 source_ids:
   vndb: "c132441"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c132441.webp"
 ---
 
-# 乔奥吉帕阿加阿
+# ジョージ・パーカー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

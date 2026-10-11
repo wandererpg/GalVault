@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c161450"
 type: "character"
-display_title: "巴阿寿"
-title_zh: "巴阿寿"
+display_title: "バース"
+title_zh: ""
 title_ja: "バース"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161450"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Bass"
-  - "バース"
 source_ids:
   vndb: "c161450"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c161450.webp"
 ---
 
-# 巴阿寿
+# バース
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

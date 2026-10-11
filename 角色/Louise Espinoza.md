@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c89226"
 type: "character"
-display_title: "L奥乌伊濑·惠S皮乃扎"
-title_zh: "L奥乌伊濑·惠S皮乃扎"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Louise Espinoza"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c89226"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Louise Espinoza"
 source_ids:
   vndb: "c89226"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c89226.webp"
 ---
 
-# L奥乌伊濑·惠S皮乃扎
+# Louise Espinoza
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c144901"
 type: "character"
-display_title: "拉拉芙乌莉奥"
-title_zh: "拉拉芙乌莉奥"
+display_title: "ララ・フーリオ"
+title_zh: ""
 title_ja: "ララ・フーリオ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c144901"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lara Furio"
-  - "ララ・フーリオ"
   - "ラーラ・フーリオ"
   - "Raura Furio"
 source_ids:
@@ -17,7 +19,7 @@ source_urls:
   vndb: "https://vndb.org/c144901"
 ---
 
-# 拉拉芙乌莉奥
+# ララ・フーリオ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

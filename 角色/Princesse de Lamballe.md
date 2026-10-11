@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c50778"
 type: "character"
-display_title: "拉恩巴阿露夫人"
-title_zh: "拉恩巴阿露夫人"
+display_title: "ランバール夫人"
+title_zh: ""
 title_ja: "ランバール夫人"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c50778"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Princesse de Lamballe"
-  - "ランバール夫人"
   - "Lamballe Fujin"
   - "Princess of Lamballe"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c50778.webp"
 ---
 
-# 拉恩巴阿露夫人
+# ランバール夫人
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

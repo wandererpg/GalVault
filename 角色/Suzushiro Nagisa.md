@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13783"
 type: "character"
-display_title: "铃白奈吉沙"
-title_zh: "铃白奈吉沙"
+display_title: "鈴白 なぎさ"
+title_zh: ""
 title_ja: "鈴白 なぎさ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13783"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Suzushiro Nagisa"
-  - "鈴白 なぎさ"
   - "Usagi Oppai"
   - "何者にも穢せぬ"
   - "銀白の魔術剣士"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c13783.webp"
 ---
 
-# 铃白奈吉沙
+# 鈴白 なぎさ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

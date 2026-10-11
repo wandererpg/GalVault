@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c141341"
 type: "character"
-display_title: "惠阿"
-title_zh: "惠阿"
+display_title: "エア"
+title_zh: ""
 title_ja: "エア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141341"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ea"
-  - "エア"
   - "Air"
 source_ids:
   vndb: "c141341"
@@ -16,7 +18,7 @@ source_urls:
   vndb: "https://vndb.org/c141341"
 ---
 
-# 惠阿
+# エア
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

@@ -5,7 +5,10 @@ display_title: "砂山"
 title_zh: "砂山"
 title_ja: "砂山"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c31760"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sazan"
 source_ids:

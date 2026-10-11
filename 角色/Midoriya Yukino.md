@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c19929"
 type: "character"
-display_title: "翠屋优希乃"
-title_zh: "翠屋优希乃"
+display_title: "翠屋ゆきの"
+title_zh: ""
 title_ja: "翠屋ゆきの"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c19929"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Midoriya Yukino"
-  - "翠屋ゆきの"
 source_ids:
   vndb: "c19929"
 source_urls:
   vndb: "https://vndb.org/c19929"
 ---
 
-# 翠屋优希乃
+# 翠屋ゆきの
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

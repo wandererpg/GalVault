@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c120759"
 type: "character"
-display_title: "希巴子"
-title_zh: "希巴子"
+display_title: "キバ子"
+title_zh: ""
 title_ja: "キバ子"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c120759"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kibako"
-  - "キバ子"
 source_ids:
   vndb: "c120759"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c120759.webp"
 ---
 
-# 希巴子
+# キバ子
 
 
 ## 角色画像

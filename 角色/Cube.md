@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c85115"
 type: "character"
-display_title: "久乌布"
-title_zh: "久乌布"
+display_title: "キューブ"
+title_zh: ""
 title_ja: "キューブ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85115"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cube"
-  - "キューブ"
 source_ids:
   vndb: "c85115"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c85115.webp"
 ---
 
-# 久乌布
+# キューブ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

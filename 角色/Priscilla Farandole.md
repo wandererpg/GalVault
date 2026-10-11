@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71146"
 type: "character"
-display_title: "普莉诗拉＝F阿拉恩堂奥露"
-title_zh: "普莉诗拉＝F阿拉恩堂奥露"
+display_title: "プリシラ＝ファランドール"
+title_zh: ""
 title_ja: "プリシラ＝ファランドール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71146"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Priscilla Farandole"
-  - "プリシラ＝ファランドール"
 source_ids:
   vndb: "c71146"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71146.webp"
 ---
 
-# 普莉诗拉＝F阿拉恩堂奥露
+# プリシラ＝ファランドール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

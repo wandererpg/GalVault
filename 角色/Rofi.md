@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c156494"
 type: "character"
-display_title: "洛F伊"
-title_zh: "洛F伊"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Rofi"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c156494"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Rofi"
 source_ids:
   vndb: "c156494"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c156494.webp"
 ---
 
-# 洛F伊
+# Rofi
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

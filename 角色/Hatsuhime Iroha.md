@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34523"
 type: "character"
-display_title: "初姫伊洛羽"
-title_zh: "初姫伊洛羽"
+display_title: "初姫 いろは"
+title_zh: ""
 title_ja: "初姫 いろは"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34523"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hatsuhime Iroha"
-  - "初姫 いろは"
   - "Icchan"
 source_ids:
   vndb: "c34523"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c34523.webp"
 ---
 
-# 初姫伊洛羽
+# 初姫 いろは
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

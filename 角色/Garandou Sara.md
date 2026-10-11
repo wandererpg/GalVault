@@ -5,7 +5,10 @@ display_title: "伽蓝堂纱罗"
 title_zh: "伽蓝堂纱罗"
 title_ja: "伽藍堂 紗羅"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c40662"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Garandou Sara"
   - "伽藍堂 紗羅"

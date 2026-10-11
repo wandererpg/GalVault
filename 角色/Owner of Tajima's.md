@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c147156"
 type: "character"
-display_title: "奥W音R·奥F·太吉真S"
-title_zh: "奥W音R·奥F·太吉真S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Owner of Tajima's"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c147156"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Owner of Tajima's"
 source_ids:
   vndb: "c147156"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c147156.webp"
 ---
 
-# 奥W音R·奥F·太吉真S
+# Owner of Tajima's
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

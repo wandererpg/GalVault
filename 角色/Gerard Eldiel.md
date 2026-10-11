@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c140347"
 type: "character"
-display_title: "吉惠拉露堂惠露D伊伊露"
-title_zh: "吉惠拉露堂惠露D伊伊露"
+display_title: "ジェラルド・エルディール"
+title_zh: ""
 title_ja: "ジェラルド・エルディール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c140347"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gerard Eldiel"
-  - "ジェラルド・エルディール"
 source_ids:
   vndb: "c140347"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c140347.webp"
 ---
 
-# 吉惠拉露堂惠露D伊伊露
+# ジェラルド・エルディール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

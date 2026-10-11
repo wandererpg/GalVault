@@ -5,7 +5,10 @@ display_title: "阳司"
 title_zh: "阳司"
 title_ja: "陽司"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c58951"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hitsuka"
   - "陽司"

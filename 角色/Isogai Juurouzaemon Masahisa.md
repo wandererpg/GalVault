@@ -5,7 +5,10 @@ display_title: "矶贝十郎左卫门正久"
 title_zh: "矶贝十郎左卫门正久"
 title_ja: "磯貝 十郎左衛門 正久"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16544"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Isogai Juurouzaemon Masahisa"
   - "磯貝 十郎左衛門 正久"

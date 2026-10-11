@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c95292"
 type: "character"
-display_title: "美伊美伊"
-title_zh: "美伊美伊"
+display_title: "ミーミー"
+title_zh: ""
 title_ja: "ミーミー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c95292"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mime"
-  - "ミーミー"
 source_ids:
   vndb: "c95292"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c95292.webp"
 ---
 
-# 美伊美伊
+# ミーミー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

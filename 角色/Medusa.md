@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125991"
 type: "character"
-display_title: "芽德优乌沙"
-title_zh: "芽德优乌沙"
+display_title: "メデューサ"
+title_zh: ""
 title_ja: "メデューサ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125991"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Medusa"
-  - "メデューサ"
   - "Diusa"
 source_ids:
   vndb: "c125991"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c125991.webp"
 ---
 
-# 芽德优乌沙
+# メデューサ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

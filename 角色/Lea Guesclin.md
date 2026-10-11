@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c124094"
 type: "character"
-display_title: "蕾阿格古拉恩"
-title_zh: "蕾阿格古拉恩"
+display_title: "レア・ゲグラン"
+title_zh: ""
 title_ja: "レア・ゲグラン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124094"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lea Guesclin"
-  - "レア・ゲグラン"
   - "Lea Gegranne"
 source_ids:
   vndb: "c124094"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c124094.webp"
 ---
 
-# 蕾阿格古拉恩
+# レア・ゲグラン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

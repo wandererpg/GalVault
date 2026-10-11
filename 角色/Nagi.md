@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c133203"
 type: "character"
-display_title: "奈吉"
-title_zh: "奈吉"
+display_title: "ナギ"
+title_zh: ""
 title_ja: "ナギ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c133203"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nagi"
-  - "ナギ"
 source_ids:
   vndb: "c133203"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c133203.webp"
 ---
 
-# 奈吉
+# ナギ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

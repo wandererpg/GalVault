@@ -5,7 +5,10 @@ display_title: "犀川铃"
 title_zh: "犀川铃"
 title_ja: "犀川 鈴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c133952"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Saikawa Suzu"
   - "犀川 鈴"

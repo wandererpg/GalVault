@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c80189"
 type: "character"
-display_title: "乔濑P日音·太YL奥R"
-title_zh: "乔濑P日音·太YL奥R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Josephine Taylor"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c80189"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Josephine Taylor"
   - "Jojo"
   - "Josy"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c80189.webp"
 ---
 
-# 乔濑P日音·太YL奥R
+# Josephine Taylor
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

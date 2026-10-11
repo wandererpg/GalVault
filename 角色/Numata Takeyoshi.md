@@ -5,7 +5,10 @@ display_title: "沼田岳义"
 title_zh: "沼田岳义"
 title_ja: "沼田 岳義"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c141256"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Numata Takeyoshi"
   - "沼田 岳義"

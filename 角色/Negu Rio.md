@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17732"
 type: "character"
-display_title: "音古拉伊奥"
-title_zh: "音古拉伊奥"
+display_title: "ネグ・ライオ"
+title_zh: ""
 title_ja: "ネグ・ライオ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17732"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Negu Rio"
-  - "ネグ・ライオ"
 source_ids:
   vndb: "c17732"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c17732.webp"
 ---
 
-# 音古拉伊奥
+# ネグ・ライオ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

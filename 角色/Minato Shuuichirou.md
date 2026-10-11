@@ -5,7 +5,10 @@ display_title: "凑柊一郎"
 title_zh: "凑柊一郎"
 title_ja: "湊 柊一郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c99563"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Minato Shuuichirou"
   - "湊 柊一郎"

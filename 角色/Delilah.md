@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c101515"
 type: "character"
-display_title: "德莉拉"
-title_zh: "德莉拉"
+display_title: "デリラ"
+title_zh: ""
 title_ja: "デリラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c101515"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Delilah"
-  - "デリラ"
 source_ids:
   vndb: "c101515"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c101515.webp"
 ---
 
-# 德莉拉
+# デリラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

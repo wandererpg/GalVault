@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38344"
 type: "character"
-display_title: "阿拉恩新卷"
-title_zh: "阿拉恩新卷"
+display_title: "アラン 新巻"
+title_zh: ""
 title_ja: "アラン 新巻"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38344"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alan Aramaki"
-  - "アラン 新巻"
   - "Daisuke Aramaki"
   - "Alan the Brawler"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c38344.webp"
 ---
 
-# 阿拉恩新卷
+# アラン 新巻
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

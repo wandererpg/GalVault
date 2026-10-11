@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c147143"
 type: "character"
-display_title: "MR·伊兹美"
-title_zh: "MR·伊兹美"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Mr. Izumi"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c147143"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Mr. Izumi"
 source_ids:
   vndb: "c147143"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c147143.webp"
 ---
 
-# MR·伊兹美
+# Mr. Izumi
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

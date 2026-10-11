@@ -5,7 +5,10 @@ display_title: "兎蛙智仁"
 title_zh: "兎蛙智仁"
 title_ja: "兎蛙 智仁"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c76328"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Toa Tomohito"
   - "兎蛙 智仁"

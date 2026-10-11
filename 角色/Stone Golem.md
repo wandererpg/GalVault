@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c149058"
 type: "character"
-display_title: "S斗音·悟L惠M"
-title_zh: "S斗音·悟L惠M"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Stone Golem"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149058"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Stone Golem"
 source_ids:
   vndb: "c149058"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c149058.webp"
 ---
 
-# S斗音·悟L惠M
+# Stone Golem
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

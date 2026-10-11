@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c84923"
 type: "character"
-display_title: "惠久寿特伊阿真吉加"
-title_zh: "惠久寿特伊阿真吉加"
+display_title: "エクスティア・マギカ"
+title_zh: ""
 title_ja: "エクスティア・マギカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c84923"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "ExS-TIA Magica"
-  - "エクスティア・マギカ"
   - "Exstia Magica"
 source_ids:
   vndb: "c84923"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c84923.webp"
 ---
 
-# 惠久寿特伊阿真吉加
+# エクスティア・マギカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

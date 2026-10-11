@@ -5,7 +5,10 @@ display_title: "日下可纯"
 title_zh: "日下可纯"
 title_ja: "日下 可純"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c79429"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kusaka Kasumi"
   - "日下 可純"

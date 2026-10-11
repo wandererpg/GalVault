@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c56518"
 type: "character"
-display_title: "F伊莉寿羽雅露惠露梦"
-title_zh: "F伊莉寿羽雅露惠露梦"
+display_title: "フィリス・ハガルヘルム"
+title_zh: ""
 title_ja: "フィリス・ハガルヘルム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56518"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Firis Hagerhelm"
-  - "フィリス・ハガルヘルム"
 source_ids:
   vndb: "c56518"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c56518.webp"
 ---
 
-# F伊莉寿羽雅露惠露梦
+# フィリス・ハガルヘルム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c135354"
 type: "character"
-display_title: "V阿音S沙·C阿DW惠LL"
-title_zh: "V阿音S沙·C阿DW惠LL"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Vanessa Cadwell"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c135354"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Vanessa Cadwell"
 source_ids:
   vndb: "c135354"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c135354.webp"
 ---
 
-# V阿音S沙·C阿DW惠LL
+# Vanessa Cadwell
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

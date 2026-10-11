@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13731"
 type: "character"
-display_title: "真莫恩"
-title_zh: "真莫恩"
+display_title: "マモン"
+title_zh: ""
 title_ja: "マモン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13731"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mammon"
-  - "マモン"
 source_ids:
   vndb: "c13731"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c13731.webp"
 ---
 
-# 真莫恩
+# マモン
 
 
 ## 角色画像

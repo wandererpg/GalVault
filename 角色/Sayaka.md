@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125353"
 type: "character"
-display_title: "沙雅加"
-title_zh: "沙雅加"
+display_title: "サヤカ"
+title_zh: ""
 title_ja: "サヤカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125353"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sayaka"
-  - "サヤカ"
 source_ids:
   vndb: "c125353"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c125353.webp"
 ---
 
-# 沙雅加
+# サヤカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

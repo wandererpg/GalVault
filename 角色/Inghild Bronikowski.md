@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43544"
 type: "character"
-display_title: "伊恩古日露斗布洛尼子芙寿希伊"
-title_zh: "伊恩古日露斗布洛尼子芙寿希伊"
+display_title: "イングヒルト・ブロニコフスキー"
+title_zh: ""
 title_ja: "イングヒルト・ブロニコフスキー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43544"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Inghild Bronikowski"
-  - "イングヒルト・ブロニコフスキー"
 source_ids:
   vndb: "c43544"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43544.webp"
 ---
 
-# 伊恩古日露斗布洛尼子芙寿希伊
+# イングヒルト・ブロニコフスキー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

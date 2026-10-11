@@ -5,7 +5,10 @@ display_title: "永冢纱季"
 title_zh: "永冢纱季"
 title_ja: "永塚 紗季"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c32366"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nagatsuka Saki"
   - "永塚 紗季"

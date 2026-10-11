@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c97691"
 type: "character"
-display_title: "V阿妮娅·悟FF伊L"
-title_zh: "V阿妮娅·悟FF伊L"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Vanya Goffil"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97691"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Vanya Goffil"
 source_ids:
   vndb: "c97691"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c97691.webp"
 ---
 
-# V阿妮娅·悟FF伊L
+# Vanya Goffil
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

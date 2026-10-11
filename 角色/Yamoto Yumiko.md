@@ -5,7 +5,10 @@ display_title: "矢本由美子"
 title_zh: "矢本由美子"
 title_ja: "矢本 由美子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21369"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yamoto Yumiko"
   - "矢本 由美子"

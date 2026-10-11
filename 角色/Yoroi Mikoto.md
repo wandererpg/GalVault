@@ -5,7 +5,10 @@ display_title: "铠衣尊人"
 title_zh: "铠衣尊人"
 title_ja: "鎧衣 尊人"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c134"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yoroi Mikoto"
   - "鎧衣 尊人"

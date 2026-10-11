@@ -5,7 +5,10 @@ display_title: "藤堂直人"
 title_zh: "藤堂直人"
 title_ja: "藤堂 直人"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c73108"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Toudou Naoto"
   - "藤堂 直人"

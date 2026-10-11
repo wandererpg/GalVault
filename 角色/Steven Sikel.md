@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c132278"
 type: "character"
-display_title: "S特V惠恩·S伊惠L"
-title_zh: "S特V惠恩·S伊惠L"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Steven Sikel"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132278"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Steven Sikel"
   - "Sikel Senior"
 source_ids:
   vndb: "c132278"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c132278.webp"
 ---
 
-# S特V惠恩·S伊惠L
+# Steven Sikel
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "京极彦一"
 title_zh: "京极彦一"
 title_ja: "京極 彦一"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c5871"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kyougoku Hikoichi"
   - "京極 彦一"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c112615"
 type: "character"
-display_title: "C奥阿CH·日LL"
-title_zh: "C奥阿CH·日LL"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Coach Hill"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c112615"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Coach Hill"
 source_ids:
   vndb: "c112615"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c112615.webp"
 ---
 
-# C奥阿CH·日LL
+# Coach Hill
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

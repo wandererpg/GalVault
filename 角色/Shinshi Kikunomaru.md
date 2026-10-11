@@ -5,7 +5,10 @@ display_title: "申子菊乃丸"
 title_zh: "申子菊乃丸"
 title_ja: "申子 菊乃丸"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c69148"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shinshi Kikunomaru"
   - "申子 菊乃丸"

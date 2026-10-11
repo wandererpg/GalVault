@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c137138"
 type: "character"
-display_title: "濑巴ST伊阿恩"
-title_zh: "濑巴ST伊阿恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Sebastian"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c137138"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Sebastian"
   - "Uncle Sebastian"
 source_ids:
   vndb: "c137138"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c137138.webp"
 ---
 
-# 濑巴ST伊阿恩
+# Sebastian
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c165932"
 type: "character"
-display_title: "惠L德R·拉达芽S"
-title_zh: "惠L德R·拉达芽S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Elder Radames"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c165932"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Elder Radames"
 source_ids:
   vndb: "c165932"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c165932.webp"
 ---
 
-# 惠L德R·拉达芽S
+# Elder Radames
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

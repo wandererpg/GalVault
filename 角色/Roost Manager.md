@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c94677"
 type: "character"
-display_title: "露乌寿斗店长"
-title_zh: "露乌寿斗店长"
+display_title: "ルースト店長"
+title_zh: ""
 title_ja: "ルースト店長"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94677"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Roost Manager"
-  - "ルースト店長"
 source_ids:
   vndb: "c94677"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c94677.webp"
 ---
 
-# 露乌寿斗店长
+# ルースト店長
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98437"
 type: "character"
-display_title: "蕾D伊"
-title_zh: "蕾D伊"
+display_title: "レディ"
+title_zh: ""
 title_ja: "レディ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98437"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lady"
-  - "レディ"
 source_ids:
   vndb: "c98437"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98437.webp"
 ---
 
-# 蕾D伊
+# レディ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

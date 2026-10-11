@@ -5,7 +5,10 @@ display_title: "江藤弘之"
 title_zh: "江藤弘之"
 title_ja: "江藤 弘之"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9502"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Eto Hiroyuki"
   - "江藤 弘之"

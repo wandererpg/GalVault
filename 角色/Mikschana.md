@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61488"
 type: "character"
-display_title: "美久修阿奈"
-title_zh: "美久修阿奈"
+display_title: "ミクシュアナ"
+title_zh: ""
 title_ja: "ミクシュアナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61488"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mikschana"
-  - "ミクシュアナ"
   - "天使さま (Iol)"
 source_ids:
   vndb: "c61488"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c61488.webp"
 ---
 
-# 美久修阿奈
+# ミクシュアナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

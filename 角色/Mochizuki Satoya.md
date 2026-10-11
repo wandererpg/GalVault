@@ -5,7 +5,10 @@ display_title: "望月理也"
 title_zh: "望月理也"
 title_ja: "望月 理也"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43165"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mochizuki Satoya"
   - "望月 理也"

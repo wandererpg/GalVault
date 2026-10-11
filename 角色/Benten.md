@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c80400"
 type: "character"
-display_title: "贝恩特恩"
-title_zh: "贝恩特恩"
+display_title: "べんてん"
+title_zh: ""
 title_ja: "べんてん"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c80400"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Benten"
-  - "べんてん"
 source_ids:
   vndb: "c80400"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c80400.webp"
 ---
 
-# 贝恩特恩
+# べんてん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

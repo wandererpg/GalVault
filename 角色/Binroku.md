@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c130161"
 type: "character"
-display_title: "比恩六"
-title_zh: "比恩六"
+display_title: "ビン六"
+title_zh: ""
 title_ja: "ビン六"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c130161"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Binroku"
-  - "ビン六"
 source_ids:
   vndb: "c130161"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c130161.webp"
 ---
 
-# 比恩六
+# ビン六
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

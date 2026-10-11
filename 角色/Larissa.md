@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c173652"
 type: "character"
-display_title: "L阿莉S沙"
-title_zh: "L阿莉S沙"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Larissa"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c173652"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Larissa"
 source_ids:
   vndb: "c173652"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c173652.webp"
 ---
 
-# L阿莉S沙
+# Larissa
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

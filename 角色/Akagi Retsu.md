@@ -5,7 +5,10 @@ display_title: "赤城烈"
 title_zh: "赤城烈"
 title_ja: "赤城 烈"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c83587"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Akagi Retsu"
   - "赤城 烈"

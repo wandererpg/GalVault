@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43681"
 type: "character"
-display_title: "穗露津阿阿羽恩尼巴露"
-title_zh: "穗露津阿阿羽恩尼巴露"
+display_title: "ホルツァー・ハンニバル"
+title_zh: ""
 title_ja: "ホルツァー・ハンニバル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43681"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Holzer Hannibal"
-  - "ホルツァー・ハンニバル"
 source_ids:
   vndb: "c43681"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43681.webp"
 ---
 
-# 穗露津阿阿羽恩尼巴露
+# ホルツァー・ハンニバル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

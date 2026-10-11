@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c6620"
 type: "character"
-display_title: "索尼阿音V阿阿真伊恩堂"
-title_zh: "索尼阿音V阿阿真伊恩堂"
+display_title: "ソニア・ネヴァーマインド"
+title_zh: ""
 title_ja: "ソニア・ネヴァーマインド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c6620"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sonia Nevermind"
-  - "ソニア・ネヴァーマインド"
   - "Ultimate Princess"
   - "超高校級の「王女」"
   - "Super High School Level Princess"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c6620.webp"
 ---
 
-# 索尼阿音V阿阿真伊恩堂
+# ソニア・ネヴァーマインド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

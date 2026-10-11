@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c159596"
 type: "character"
-display_title: "德美斗莉德美古拉寿希伊"
-title_zh: "德美斗莉德美古拉寿希伊"
+display_title: "デミトリ・デミグラスキー"
+title_zh: ""
 title_ja: "デミトリ・デミグラスキー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159596"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Dmitri Demiglaski"
-  - "デミトリ・デミグラスキー"
   - "6ゴウ"
   - "6 Gou"
   - "Juror No. 6"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c159596.webp"
 ---
 
-# 德美斗莉德美古拉寿希伊
+# デミトリ・デミグラスキー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

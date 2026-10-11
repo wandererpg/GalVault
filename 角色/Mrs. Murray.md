@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c134021"
 type: "character"
-display_title: "MRS·梦R拉Y"
-title_zh: "MRS·梦R拉Y"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Mrs. Murray"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c134021"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Mrs. Murray"
 source_ids:
   vndb: "c134021"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c134021.webp"
 ---
 
-# MRS·梦R拉Y
+# Mrs. Murray
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

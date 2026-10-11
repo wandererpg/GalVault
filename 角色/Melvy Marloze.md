@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c164942"
 type: "character"
-display_title: "芽露V伊真露洛奥泽"
-title_zh: "芽露V伊真露洛奥泽"
+display_title: "メルヴィ・マルローゼ"
+title_zh: ""
 title_ja: "メルヴィ・マルローゼ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c164942"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Melvy Marloze"
-  - "メルヴィ・マルローゼ"
 source_ids:
   vndb: "c164942"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c164942.webp"
 ---
 
-# 芽露V伊真露洛奥泽
+# メルヴィ・マルローゼ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "小河坂诗乃"
 title_zh: "小河坂诗乃"
 title_ja: "小河坂 詩乃"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c6160"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kogasaka Shino"
   - "小河坂 詩乃"

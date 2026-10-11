@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c141503"
 type: "character"
-display_title: "濑良垣遥"
-title_zh: "濑良垣遥"
+display_title: "瀬良垣 ハルカ"
+title_zh: ""
 title_ja: "瀬良垣 ハルカ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141503"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Seragaki Haruka"
-  - "瀬良垣 ハルカ"
 source_ids:
   vndb: "c141503"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c141503.webp"
 ---
 
-# 濑良垣遥
+# 瀬良垣 ハルカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

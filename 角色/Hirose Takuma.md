@@ -5,7 +5,10 @@ display_title: "弘濑琢磨"
 title_zh: "弘濑琢磨"
 title_ja: "弘瀬 琢磨"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c55034"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hirose Takuma"
   - "弘瀬 琢磨"

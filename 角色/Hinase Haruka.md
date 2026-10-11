@@ -5,7 +5,10 @@ display_title: "雏濑遥佳"
 title_zh: "雏濑遥佳"
 title_ja: "雛瀬 遥佳"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c12138"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hinase Haruka"
   - "雛瀬 遥佳"

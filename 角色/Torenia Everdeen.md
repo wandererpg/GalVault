@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c168324"
 type: "character"
-display_title: "斗蕾尼阿惠V阿阿D伊伊恩"
-title_zh: "斗蕾尼阿惠V阿阿D伊伊恩"
+display_title: "トレニア・エヴァーディーン"
+title_zh: ""
 title_ja: "トレニア・エヴァーディーン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c168324"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Torenia Everdeen"
-  - "トレニア・エヴァーディーン"
   - "ブルズアイ"
   - "Bullseye"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c168324.webp"
 ---
 
-# 斗蕾尼阿惠V阿阿D伊伊恩
+# トレニア・エヴァーディーン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

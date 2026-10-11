@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c28008"
 type: "character"
-display_title: "F伊伊奈"
-title_zh: "F伊伊奈"
+display_title: "フィーナ"
+title_zh: ""
 title_ja: "フィーナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c28008"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Feena"
-  - "フィーナ"
 source_ids:
   vndb: "c28008"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c28008.webp"
 ---
 
-# F伊伊奈
+# フィーナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

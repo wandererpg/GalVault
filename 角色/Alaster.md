@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c150138"
 type: "character"
-display_title: "阿L阿S特R"
-title_zh: "阿L阿S特R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Alaster"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c150138"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Alaster"
 source_ids:
   vndb: "c150138"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c150138.webp"
 ---
 
-# 阿L阿S特R
+# Alaster
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c174069"
 type: "character"
-display_title: "乔H恩·达V伊S"
-title_zh: "乔H恩·达V伊S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "John Davis"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c174069"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "John Davis"
   - "J-man"
 source_ids:
   vndb: "c174069"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c174069.webp"
 ---
 
-# 乔H恩·达V伊S
+# John Davis
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

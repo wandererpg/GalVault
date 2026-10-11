@@ -5,7 +5,10 @@ display_title: "田中雷藏"
 title_zh: "田中雷藏"
 title_ja: "田中 雷蔵"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c629"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tanaka Raizou"
   - "田中 雷蔵"

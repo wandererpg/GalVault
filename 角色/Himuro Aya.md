@@ -5,7 +5,10 @@ display_title: "氷室绫"
 title_zh: "氷室绫"
 title_ja: "氷室 綾"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c133948"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Himuro Aya"
   - "氷室 綾"

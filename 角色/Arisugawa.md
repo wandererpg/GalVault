@@ -5,7 +5,10 @@ display_title: "有栖川"
 title_zh: "有栖川"
 title_ja: "有栖川"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c98438"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Arisugawa"
   - "Arishugawa"

@@ -5,7 +5,10 @@ display_title: "花井三日月"
 title_zh: "花井三日月"
 title_ja: "花井 三日月"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c73018"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hanai Mikazuki"
   - "花井 三日月"

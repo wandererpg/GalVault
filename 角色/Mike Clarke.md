@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c127683"
 type: "character"
-display_title: "美惠·CL阿R惠"
-title_zh: "美惠·CL阿R惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Mike Clarke"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127683"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Mike Clarke"
 source_ids:
   vndb: "c127683"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c127683.webp"
 ---
 
-# 美惠·CL阿R惠
+# Mike Clarke
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

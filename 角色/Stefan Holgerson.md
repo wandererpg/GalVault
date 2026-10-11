@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c173653"
 type: "character"
-display_title: "S特F阿恩·穗L格R索恩"
-title_zh: "S特F阿恩·穗L格R索恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Stefan Holgerson"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c173653"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Stefan Holgerson"
 source_ids:
   vndb: "c173653"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c173653.webp"
 ---
 
-# S特F阿恩·穗L格R索恩
+# Stefan Holgerson
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

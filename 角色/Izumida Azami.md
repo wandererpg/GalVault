@@ -5,7 +5,10 @@ display_title: "泉田莇"
 title_zh: "泉田莇"
 title_ja: "泉田 莇"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c90181"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Izumida Azami"
   - "泉田 莇"

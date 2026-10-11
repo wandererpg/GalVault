@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c62394"
 type: "character"
-display_title: "诗恩加阿"
-title_zh: "诗恩加阿"
+display_title: "シンカー"
+title_zh: ""
 title_ja: "シンカー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c62394"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Thinker"
-  - "シンカー"
 source_ids:
   vndb: "c62394"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c62394.webp"
 ---
 
-# 诗恩加阿
+# シンカー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

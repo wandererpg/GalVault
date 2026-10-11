@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c91360"
 type: "character"
-display_title: "加露羽拉梦子音"
-title_zh: "加露羽拉梦子音"
+display_title: "カルハ・ラムコネ"
+title_zh: ""
 title_ja: "カルハ・ラムコネ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c91360"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Karuha Ramukone"
-  - "カルハ・ラムコネ"
 source_ids:
   vndb: "c91360"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c91360.webp"
 ---
 
-# 加露羽拉梦子音
+# カルハ・ラムコネ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

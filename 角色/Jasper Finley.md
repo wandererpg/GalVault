@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c98909"
 type: "character"
-display_title: "嘉S佩R·F伊恩L惠Y"
-title_zh: "嘉S佩R·F伊恩L惠Y"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jasper Finley"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98909"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jasper Finley"
 source_ids:
   vndb: "c98909"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c98909.webp"
 ---
 
-# 嘉S佩R·F伊恩L惠Y
+# Jasper Finley
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

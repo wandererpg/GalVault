@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125131"
 type: "character"
-display_title: "堂拉悟恩帕皮伊"
-title_zh: "堂拉悟恩帕皮伊"
+display_title: "ドラゴンパピー"
+title_zh: ""
 title_ja: "ドラゴンパピー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125131"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Dragon Pup"
-  - "ドラゴンパピー"
   - "Papi"
   - "Pup"
   - "Puppy"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c125131.webp"
 ---
 
-# 堂拉悟恩帕皮伊
+# ドラゴンパピー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

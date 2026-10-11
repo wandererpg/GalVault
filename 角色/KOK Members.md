@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c140453"
 type: "character"
-display_title: "子K·芽M贝RS"
-title_zh: "子K·芽M贝RS"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "KOK Members"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c140453"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "KOK Members"
   - "Studs of Shibuya (English acronym)"
 source_ids:
   vndb: "c140453"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c140453.webp"
 ---
 
-# 子K·芽M贝RS
+# KOK Members
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

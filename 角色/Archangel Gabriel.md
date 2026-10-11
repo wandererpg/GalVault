@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c172820"
 type: "character"
-display_title: "大天使雅布莉惠露"
-title_zh: "大天使雅布莉惠露"
+display_title: "大天使ガブリエル"
+title_zh: ""
 title_ja: "大天使ガブリエル"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c172820"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Archangel Gabriel"
-  - "大天使ガブリエル"
 source_ids:
   vndb: "c172820"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c172820.webp"
 ---
 
-# 大天使雅布莉惠露
+# 大天使ガブリエル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

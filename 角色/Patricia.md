@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c57944"
 type: "character"
-display_title: "帕斗莉诗阿"
-title_zh: "帕斗莉诗阿"
+display_title: "パトリシア"
+title_zh: ""
 title_ja: "パトリシア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c57944"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Patricia"
-  - "パトリシア"
 source_ids:
   vndb: "c57944"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c57944.webp"
 ---
 
-# 帕斗莉诗阿
+# パトリシア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "汐松子"
 title_zh: "汐松子"
 title_ja: "汐 松子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c118557"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shio Matsuko"
   - "汐 松子"

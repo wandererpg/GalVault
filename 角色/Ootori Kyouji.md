@@ -5,7 +5,10 @@ display_title: "凤京士"
 title_zh: "凤京士"
 title_ja: "鳳 京士"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c102674"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ootori Kyouji"
   - "鳳 京士"

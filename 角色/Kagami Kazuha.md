@@ -5,7 +5,10 @@ display_title: "加贺见和叶"
 title_zh: "加贺见和叶"
 title_ja: "加賀見 和葉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c44180"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kagami Kazuha"
   - "加賀見 和葉"

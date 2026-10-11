@@ -5,7 +5,10 @@ display_title: "野崎小百合"
 title_zh: "野崎小百合"
 title_ja: "野崎 小百合"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c89627"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nozaki Sayuri"
   - "野崎 小百合"

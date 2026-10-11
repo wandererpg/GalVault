@@ -5,7 +5,10 @@ display_title: "苏芳杏里咲"
 title_zh: "苏芳杏里咲"
 title_ja: "蘇芳 杏里咲"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c5460"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Suou Arisa"
   - "蘇芳 杏里咲"

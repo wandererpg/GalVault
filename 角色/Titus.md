@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12706"
 type: "character"
-display_title: "特伊斗乌寿"
-title_zh: "特伊斗乌寿"
+display_title: "ティトゥス"
+title_zh: ""
 title_ja: "ティトゥス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12706"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Titus"
-  - "ティトゥス"
 source_ids:
   vndb: "c12706"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c12706.webp"
 ---
 
-# 特伊斗乌寿
+# ティトゥス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

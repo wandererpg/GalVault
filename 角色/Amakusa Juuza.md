@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c120582"
 type: "character"
-display_title: "阿真久沙·朱乌扎"
-title_zh: "阿真久沙·朱乌扎"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Amakusa Juuza"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c120582"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Amakusa Juuza"
 source_ids:
   vndb: "c120582"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c120582.webp"
 ---
 
-# 阿真久沙·朱乌扎
+# Amakusa Juuza
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

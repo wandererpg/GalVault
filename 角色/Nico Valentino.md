@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c123093"
 type: "character"
-display_title: "尼C奥·V阿L惠恩T伊乃"
-title_zh: "尼C奥·V阿L惠恩T伊乃"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Nico Valentino"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c123093"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Nico Valentino"
 source_ids:
   vndb: "c123093"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c123093.webp"
 ---
 
-# 尼C奥·V阿L惠恩T伊乃
+# Nico Valentino
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39814"
 type: "character"
-display_title: "阿美伊·沙洛V阿阿拉"
-title_zh: "阿美伊·沙洛V阿阿拉"
+display_title: "アミィ サロヴァーラ"
+title_zh: ""
 title_ja: "アミィ サロヴァーラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39814"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Amy Salovaara"
-  - "アミィ サロヴァーラ"
   - "Mira"
 source_ids:
   vndb: "c39814"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c39814.webp"
 ---
 
-# 阿美伊·沙洛V阿阿拉
+# アミィ サロヴァーラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

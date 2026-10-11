@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c48682"
 type: "character"
-display_title: "露CKL惠"
-title_zh: "露CKL惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ruckle"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c48682"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ruckle"
 source_ids:
   vndb: "c48682"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c48682.webp"
 ---
 
-# 露CKL惠
+# Ruckle
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

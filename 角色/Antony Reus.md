@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c173627"
 type: "character"
-display_title: "阿恩斗恩Y·蕾乌S"
-title_zh: "阿恩斗恩Y·蕾乌S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Antony Reus"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c173627"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Antony Reus"
 source_ids:
   vndb: "c173627"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c173627.webp"
 ---
 
-# 阿恩斗恩Y·蕾乌S
+# Antony Reus
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

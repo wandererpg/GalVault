@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c150076"
 type: "character"
-display_title: "羽RRYS·乌恩奈芽D·吉RLF莉惠恩D"
-title_zh: "羽RRYS·乌恩奈芽D·吉RLF莉惠恩D"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Harry's unnamed girlfriend"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c150076"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Harry's unnamed girlfriend"
 source_ids:
   vndb: "c150076"
 source_urls:
   vndb: "https://vndb.org/c150076"
 ---
 
-# 羽RRYS·乌恩奈芽D·吉RLF莉惠恩D
+# Harry's unnamed girlfriend
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

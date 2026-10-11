@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127464"
 type: "character"
-display_title: "久伊伊恩羽阿皮伊"
-title_zh: "久伊伊恩羽阿皮伊"
+display_title: "クィーンハーピー"
+title_zh: ""
 title_ja: "クィーンハーピー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127464"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Queen Harpy"
-  - "クィーンハーピー"
   - "The War Goddess"
   - "Refletsia"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c127464.webp"
 ---
 
-# 久伊伊恩羽阿皮伊
+# クィーンハーピー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

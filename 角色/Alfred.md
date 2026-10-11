@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39738"
 type: "character"
-display_title: "阿露芙蕾惠堂"
-title_zh: "阿露芙蕾惠堂"
+display_title: "アルフレード"
+title_zh: ""
 title_ja: "アルフレード"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39738"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alfred"
-  - "アルフレード"
 source_ids:
   vndb: "c39738"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c39738.webp"
 ---
 
-# 阿露芙蕾惠堂
+# アルフレード
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

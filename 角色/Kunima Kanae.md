@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c153198"
 type: "character"
-display_title: "九沼加奈惠"
-title_zh: "九沼加奈惠"
+display_title: "九沼 カナエ"
+title_zh: ""
 title_ja: "九沼 カナエ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c153198"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kunima Kanae"
-  - "九沼 カナエ"
 source_ids:
   vndb: "c153198"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c153198.webp"
 ---
 
-# 九沼加奈惠
+# 九沼 カナエ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

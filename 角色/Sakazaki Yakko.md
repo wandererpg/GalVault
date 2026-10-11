@@ -5,7 +5,10 @@ display_title: "逆崎约子"
 title_zh: "逆崎约子"
 title_ja: "逆崎 約子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c124611"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakazaki Yakko"
   - "逆崎 約子"

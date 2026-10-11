@@ -5,7 +5,10 @@ display_title: "东海林修司"
 title_zh: "东海林修司"
 title_ja: "東海林 修司"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c115780"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tokairin Shuuji"
   - "東海林 修司"

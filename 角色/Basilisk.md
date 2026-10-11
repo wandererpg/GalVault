@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126194"
 type: "character"
-display_title: "巴吉莉寿久娘"
-title_zh: "巴吉莉寿久娘"
+display_title: "バジリスク娘"
+title_zh: ""
 title_ja: "バジリスク娘"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126194"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Basilisk"
-  - "バジリスク娘"
   - "Basilin"
 source_ids:
   vndb: "c126194"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c126194.webp"
 ---
 
-# 巴吉莉寿久娘
+# バジリスク娘
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

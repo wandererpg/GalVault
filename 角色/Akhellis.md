@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c154089"
 type: "character"
-display_title: "阿K惠LL伊S"
-title_zh: "阿K惠LL伊S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Akhellis"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c154089"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Akhellis"
 source_ids:
   vndb: "c154089"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c154089.webp"
 ---
 
-# 阿K惠LL伊S
+# Akhellis
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

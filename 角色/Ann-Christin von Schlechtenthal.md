@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c33704"
 type: "character"
-display_title: "阿恩恩·CH莉ST伊恩·V奥恩·SCHL惠CH特恩T羽L"
-title_zh: "阿恩恩·CH莉ST伊恩·V奥恩·SCHL惠CH特恩T羽L"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ann-Christin von Schlechtenthal"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33704"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ann-Christin von Schlechtenthal"
   - "Anni"
 source_ids:
   vndb: "c33704"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c33704.webp"
 ---
 
-# 阿恩恩·CH莉ST伊恩·V奥恩·SCHL惠CH特恩T羽L
+# Ann-Christin von Schlechtenthal
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

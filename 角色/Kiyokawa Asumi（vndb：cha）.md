@@ -5,7 +5,10 @@ display_title: "清川明日美"
 title_zh: "清川明日美"
 title_ja: "清川 明日美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c94697"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kiyokawa Asumi"
   - "清川 明日美"

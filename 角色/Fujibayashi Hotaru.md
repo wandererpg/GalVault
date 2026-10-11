@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26760"
 type: "character"
-display_title: "萤"
-title_zh: "萤"
+display_title: "ほたる"
+title_zh: ""
 title_ja: "ほたる"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26760"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Fujibayashi Hotaru"
-  - "ほたる"
   - "Kikyou"
   - "Shichisuke"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c26760.webp"
 ---
 
-# 萤
+# ほたる
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

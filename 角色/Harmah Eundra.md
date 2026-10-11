@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61268"
 type: "character"
-display_title: "羽露真惠乌恩堂拉"
-title_zh: "羽露真惠乌恩堂拉"
+display_title: "ハルマ・エウンドラ"
+title_zh: ""
 title_ja: "ハルマ・エウンドラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61268"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Harmah Eundra"
-  - "ハルマ・エウンドラ"
 source_ids:
   vndb: "c61268"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61268.webp"
 ---
 
-# 羽露真惠乌恩堂拉
+# ハルマ・エウンドラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

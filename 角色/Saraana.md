@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39106"
 type: "character"
-display_title: "沙拉阿奈"
-title_zh: "沙拉阿奈"
+display_title: "サラァナ"
+title_zh: ""
 title_ja: "サラァナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39106"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Saraana"
-  - "サラァナ"
 source_ids:
   vndb: "c39106"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c39106.webp"
 ---
 
-# 沙拉阿奈
+# サラァナ
 
 
 ## 角色画像

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c74744"
 type: "character"
-display_title: "杖乃男"
-title_zh: "杖乃男"
+display_title: "杖の男"
+title_zh: ""
 title_ja: "杖の男"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c74744"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tsue no Otoko"
-  - "杖の男"
   - "Kyozo Tateno"
   - "建野 京三"
   - "Tateno Kyouzou"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c74744.webp"
 ---
 
-# 杖乃男
+# 杖の男
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

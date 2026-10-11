@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c96908"
 type: "character"
-display_title: "洛奈惠寿千奈"
-title_zh: "洛奈惠寿千奈"
+display_title: "ロナ・ケスチナ"
+title_zh: ""
 title_ja: "ロナ・ケスチナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c96908"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rona Kestina"
-  - "ロナ・ケスチナ"
 source_ids:
   vndb: "c96908"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c96908.webp"
 ---
 
-# 洛奈惠寿千奈
+# ロナ・ケスチナ
 
 
 ## 角色画像

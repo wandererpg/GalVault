@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c149231"
 type: "character"
-display_title: "阿希拉·沙斗乌"
-title_zh: "阿希拉·沙斗乌"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Akira Satou"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149231"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Akira Satou"
 source_ids:
   vndb: "c149231"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c149231.webp"
 ---
 
-# 阿希拉·沙斗乌
+# Akira Satou
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

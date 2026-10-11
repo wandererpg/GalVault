@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30517"
 type: "character"
-display_title: "惠久莉阿F惠美莉恩寿"
-title_zh: "惠久莉阿F惠美莉恩寿"
+display_title: "エクリア・フェミリンス"
+title_zh: ""
 title_ja: "エクリア・フェミリンス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30517"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ekria Femilins"
-  - "エクリア・フェミリンス"
 source_ids:
   vndb: "c30517"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30517.webp"
 ---
 
-# 惠久莉阿F惠美莉恩寿
+# エクリア・フェミリンス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

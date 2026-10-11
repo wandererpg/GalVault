@@ -5,7 +5,10 @@ display_title: "橘平藏"
 title_zh: "橘平藏"
 title_ja: "橘 平蔵"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c102"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tachibana Heizou"
   - "橘 平蔵"

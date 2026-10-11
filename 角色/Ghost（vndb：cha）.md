@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c138983"
 type: "character"
-display_title: "G穗ST"
-title_zh: "G穗ST"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ghost"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138983"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ghost"
 source_ids:
   vndb: "c138983"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c138983.webp"
 ---
 
-# G穗ST
+# Ghost
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126172"
 type: "character"
-display_title: "沙久巴寿"
-title_zh: "沙久巴寿"
+display_title: "サキュバス"
+title_zh: ""
 title_ja: "サキュバス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126172"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Succubus"
-  - "サキュバス"
   - "Village Chief"
 source_ids:
   vndb: "c126172"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c126172.webp"
 ---
 
-# 沙久巴寿
+# サキュバス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

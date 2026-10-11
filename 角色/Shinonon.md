@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c37799"
 type: "character"
-display_title: "诗乃乃恩"
-title_zh: "诗乃乃恩"
+display_title: "シノノン"
+title_zh: ""
 title_ja: "シノノン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37799"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shinonon"
-  - "シノノン"
 source_ids:
   vndb: "c37799"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c37799.webp"
 ---
 
-# 诗乃乃恩
+# シノノン
 
 
 ## 角色画像

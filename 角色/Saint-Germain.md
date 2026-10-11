@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c20325"
 type: "character"
-display_title: "沙恩吉惠露真恩"
-title_zh: "沙恩吉惠露真恩"
+display_title: "サン・ジェルマン"
+title_zh: ""
 title_ja: "サン・ジェルマン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c20325"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Saint-Germain"
-  - "サン・ジェルマン"
   - "San"
   - "Saint-G"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c20325.webp"
 ---
 
-# 沙恩吉惠露真恩
+# サン・ジェルマン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

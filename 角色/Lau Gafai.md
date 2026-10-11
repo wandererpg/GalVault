@@ -5,7 +5,10 @@ display_title: "刘家辉"
 title_zh: "刘家辉"
 title_ja: "劉 家輝"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c7469"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Lau Gafai"
   - "劉 家輝"

@@ -5,7 +5,10 @@ display_title: "樱坂亚衣子"
 title_zh: "樱坂亚衣子"
 title_ja: "桜坂 亜衣子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c33265"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakurazaka Aiko"
   - "桜坂 亜衣子"

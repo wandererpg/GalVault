@@ -5,7 +5,10 @@ display_title: "石见梢"
 title_zh: "石见梢"
 title_ja: "石見 梢"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c83575"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Iwami Kozue"
   - "石見 梢"

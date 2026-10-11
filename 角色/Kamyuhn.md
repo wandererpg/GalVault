@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c152874"
 type: "character"
-display_title: "加缪恩"
-title_zh: "加缪恩"
+display_title: "カミュン"
+title_zh: ""
 title_ja: "カミュン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c152874"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kamyuhn"
-  - "カミュン"
   - "Maiden Sage"
 source_ids:
   vndb: "c152874"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c152874.webp"
 ---
 
-# 加缪恩
+# カミュン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

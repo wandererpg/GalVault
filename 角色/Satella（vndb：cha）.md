@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c97988"
 type: "character"
-display_title: "沙特拉"
-title_zh: "沙特拉"
+display_title: "サテラ"
+title_zh: ""
 title_ja: "サテラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97988"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Satella"
-  - "サテラ"
 source_ids:
   vndb: "c97988"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c97988.webp"
 ---
 
-# 沙特拉
+# サテラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "南星总一朗"
 title_zh: "南星总一朗"
 title_ja: "南星 総一朗"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c6162"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Minahoshi Souichirou"
   - "南星 総一朗"

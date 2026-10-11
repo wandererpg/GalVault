@@ -4,7 +4,10 @@ type: "character"
 display_title: "萨曼莎"
 title_zh: "萨曼莎"
 title_zh_quality: "manual_override"
-title_status: "machine_generated"
+title_status: "reviewed"
+title_zh_source: "按英文名 Samantha 的常见中文音译修正机翻残留；非官方译名"
+title_zh_confidence: "medium"
+title_zh_needs_review: false
 aliases:
   - "Samantha"
   - "Sam"

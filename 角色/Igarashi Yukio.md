@@ -5,7 +5,10 @@ display_title: "五十岚行雄"
 title_zh: "五十岚行雄"
 title_ja: "五十嵐 行雄"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c38739"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Igarashi Yukio"
   - "五十嵐 行雄"

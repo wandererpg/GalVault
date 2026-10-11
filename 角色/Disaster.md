@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c132449"
 type: "character"
-display_title: "D伊扎寿太阿"
-title_zh: "D伊扎寿太阿"
+display_title: "ディザスター"
+title_zh: ""
 title_ja: "ディザスター"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132449"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Disaster"
-  - "ディザスター"
 source_ids:
   vndb: "c132449"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c132449.webp"
 ---
 
-# D伊扎寿太阿
+# ディザスター
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

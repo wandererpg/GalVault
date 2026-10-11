@@ -5,7 +5,10 @@ display_title: "多田敷道夫"
 title_zh: "多田敷道夫"
 title_ja: "多田敷 道夫"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14178"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tadashiki Michio"
   - "多田敷 道夫"

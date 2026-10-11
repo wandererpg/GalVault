@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c153966"
 type: "character"
-display_title: "贝露加斗莉阿阿德"
-title_zh: "贝露加斗莉阿阿德"
+display_title: "ベルカ・トリアーデ"
+title_zh: ""
 title_ja: "ベルカ・トリアーデ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c153966"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Berka Triade"
-  - "ベルカ・トリアーデ"
 source_ids:
   vndb: "c153966"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c153966.webp"
 ---
 
-# 贝露加斗莉阿阿德
+# ベルカ・トリアーデ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

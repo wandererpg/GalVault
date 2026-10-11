@@ -5,7 +5,10 @@ display_title: "夏野晋次"
 title_zh: "夏野晋次"
 title_ja: "夏野 晋次"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c78318"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Natsuno Shinji"
   - "夏野 晋次"

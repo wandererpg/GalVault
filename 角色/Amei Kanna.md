@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87046"
 type: "character"
-display_title: "饴井加恩奈"
-title_zh: "饴井加恩奈"
+display_title: "飴井 カンナ"
+title_zh: ""
 title_ja: "飴井 カンナ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87046"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Amei Kanna"
-  - "飴井 カンナ"
 source_ids:
   vndb: "c87046"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c87046.webp"
 ---
 
-# 饴井加恩奈
+# 飴井 カンナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

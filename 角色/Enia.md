@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c104003"
 type: "character"
-display_title: "伊伊尼阿"
-title_zh: "伊伊尼阿"
+display_title: "イーニア"
+title_zh: ""
 title_ja: "イーニア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c104003"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Enia"
-  - "イーニア"
   - "Dancing Dragon Princess"
   - "舞踏竜姫"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c104003.webp"
 ---
 
-# 伊伊尼阿
+# イーニア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c25926"
 type: "character"
-display_title: "沙莉阿"
-title_zh: "沙莉阿"
+display_title: "サリア"
+title_zh: ""
 title_ja: "サリア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c25926"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Saria"
-  - "サリア"
 source_ids:
   vndb: "c25926"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c25926.webp"
 ---
 
-# 沙莉阿
+# サリア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

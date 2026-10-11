@@ -5,7 +5,10 @@ display_title: "美樱乃雫"
 title_zh: "美樱乃雫"
 title_ja: "美桜乃 雫"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c12463"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Miono Shizuku"
   - "美桜乃 雫"

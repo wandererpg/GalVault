@@ -5,7 +5,10 @@ display_title: "冈崎汐"
 title_zh: "冈崎汐"
 title_ja: "岡崎 汐"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c15867"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Okazaki Ushio"
   - "岡崎 汐"

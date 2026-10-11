@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c60283"
 type: "character"
-display_title: "加乃伊伊露久久露露普莉诗惠惠露"
-title_zh: "加乃伊伊露久久露露普莉诗惠惠露"
+display_title: "カノイール・ククルル・プリシェール"
+title_zh: ""
 title_ja: "カノイール・ククルル・プリシェール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c60283"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kanoyeel.kkll.Preciel"
-  - "カノイール・ククルル・プリシェール"
   - "Kanon"
   - "カノン"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c60283.webp"
 ---
 
-# 加乃伊伊露久久露露普莉诗惠惠露
+# カノイール・ククルル・プリシェール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

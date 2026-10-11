@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c76313"
 type: "character"
-display_title: "兎蛙阿兹咲"
-title_zh: "兎蛙阿兹咲"
+display_title: "兎蛙 あず咲"
+title_zh: ""
 title_ja: "兎蛙 あず咲"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c76313"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Toa Azusa"
-  - "兎蛙 あず咲"
 source_ids:
   vndb: "c76313"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c76313.webp"
 ---
 
-# 兎蛙阿兹咲
+# 兎蛙 あず咲
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

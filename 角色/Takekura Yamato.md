@@ -5,7 +5,10 @@ display_title: "武藏大和"
 title_zh: "武藏大和"
 title_ja: "武蔵 大和"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c72074"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takekura Yamato"
   - "武蔵 大和"

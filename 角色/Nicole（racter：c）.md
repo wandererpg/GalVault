@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c173643"
 type: "character"
-display_title: "尼C奥L惠"
-title_zh: "尼C奥L惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Nicole"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c173643"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Nicole"
 source_ids:
   vndb: "c173643"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c173643.webp"
 ---
 
-# 尼C奥L惠
+# Nicole
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

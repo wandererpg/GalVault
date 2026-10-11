@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c27814"
 type: "character"
-display_title: "莉寿特伊"
-title_zh: "莉寿特伊"
+display_title: "リスティ"
+title_zh: ""
 title_ja: "リスティ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c27814"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Risty"
-  - "リスティ"
 source_ids:
   vndb: "c27814"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c27814.webp"
 ---
 
-# 莉寿特伊
+# リスティ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

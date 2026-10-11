@@ -5,7 +5,10 @@ display_title: "菊水元町子"
 title_zh: "菊水元町子"
 title_ja: "菊水元 町子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c59835"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kikusuigen Machiko"
   - "菊水元 町子"

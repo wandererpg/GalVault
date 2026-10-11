@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c118562"
 type: "character"
-display_title: "阿奈·克拉拉·F惠露奈恩德寿"
-title_zh: "阿奈·克拉拉·F惠露奈恩德寿"
+display_title: "アナ クララ フェルナンデス"
+title_zh: ""
 title_ja: "アナ クララ フェルナンデス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c118562"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Anna Clara Fernandez"
-  - "アナ クララ フェルナンデス"
 source_ids:
   vndb: "c118562"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c118562.webp"
 ---
 
-# 阿奈·克拉拉·F惠露奈恩德寿
+# アナ クララ フェルナンデス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

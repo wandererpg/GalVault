@@ -5,7 +5,10 @@ display_title: "樱井宗介"
 title_zh: "樱井宗介"
 title_ja: "桜井 宗介"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c50690"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakurai Sousuke"
   - "桜井 宗介"

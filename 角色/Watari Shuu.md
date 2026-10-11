@@ -5,7 +5,10 @@ display_title: "渡利愁"
 title_zh: "渡利愁"
 title_ja: "渡利 愁"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c28287"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Watari Shuu"
   - "渡利 愁"

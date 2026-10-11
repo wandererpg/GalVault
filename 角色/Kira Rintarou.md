@@ -5,7 +5,10 @@ display_title: "吉良麟太郎"
 title_zh: "吉良麟太郎"
 title_ja: "吉良 麟太郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c39876"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kira Rintarou"
   - "吉良 麟太郎"

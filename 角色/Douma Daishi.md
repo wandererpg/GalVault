@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87441"
 type: "character"
-display_title: "道摩大师(堂乌真达伊诗)"
-title_zh: "道摩大师(堂乌真达伊诗)"
+display_title: "道摩 大師 (ドウマ ダイシ)"
+title_zh: ""
 title_ja: "道摩 大師 (ドウマ ダイシ)"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87441"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Douma Daishi"
-  - "道摩 大師 (ドウマ ダイシ)"
   - "Grand Master Douma"
 source_ids:
   vndb: "c87441"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c87441.webp"
 ---
 
-# 道摩大师(堂乌真达伊诗)
+# 道摩 大師 (ドウマ ダイシ)
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c127212"
 type: "character"
-display_title: "洛扎莉恩德布乌芙"
-title_zh: "洛扎莉恩德布乌芙"
+display_title: "ロザリンデ・ブーフ"
+title_zh: ""
 title_ja: "ロザリンデ・ブーフ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127212"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rosalinde Buch"
-  - "ロザリンデ・ブーフ"
 source_ids:
   vndb: "c127212"
 source_urls:
   vndb: "https://vndb.org/c127212"
 ---
 
-# 洛扎莉恩德布乌芙
+# ロザリンデ・ブーフ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

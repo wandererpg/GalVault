@@ -5,7 +5,10 @@ display_title: "泽·雷克"
 title_zh: "泽·雷克"
 title_ja: "泽·雷克"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c127903"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ze Lake"
 source_ids:

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c15786"
 type: "character"
-display_title: "C惠夏寿斗拉伊普"
-title_zh: "C惠夏寿斗拉伊普"
+display_title: "チェシャ・ストライプ"
+title_zh: ""
 title_ja: "チェシャ・ストライプ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c15786"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cheshire Stripe"
-  - "チェシャ・ストライプ"
 source_ids:
   vndb: "c15786"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c15786.webp"
 ---
 
-# C惠夏寿斗拉伊普
+# チェシャ・ストライプ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

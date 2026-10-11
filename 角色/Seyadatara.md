@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c2446"
 type: "character"
-display_title: "濑雅达太拉"
-title_zh: "濑雅达太拉"
+display_title: "セヤダタラ"
+title_zh: ""
 title_ja: "セヤダタラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c2446"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Seyadatara"
-  - "セヤダタラ"
 source_ids:
   vndb: "c2446"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c2446.webp"
 ---
 
-# 濑雅达太拉
+# セヤダタラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

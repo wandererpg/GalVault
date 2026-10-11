@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127072"
 type: "character"
-display_title: "主天使惠恩D伊惠露"
-title_zh: "主天使惠恩D伊惠露"
+display_title: "主天使エンディエル"
+title_zh: ""
 title_ja: "主天使エンディエル"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127072"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Dominion Endiel"
-  - "主天使エンディエル"
   - "The Angel Whore"
 source_ids:
   vndb: "c127072"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c127072.webp"
 ---
 
-# 主天使惠恩D伊惠露
+# 主天使エンディエル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

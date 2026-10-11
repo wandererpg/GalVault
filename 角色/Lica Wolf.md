@@ -5,7 +5,10 @@ display_title: "莉卡·沃尔夫"
 title_zh: "莉卡·沃尔夫"
 title_ja: "莉卡·沃尔夫"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c103074"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Lica Wolf"
   - "大姐头，妖女"

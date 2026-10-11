@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c166464"
 type: "character"
-display_title: "羽RSH·乃伊濑"
-title_zh: "羽RSH·乃伊濑"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Harsh Noise"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c166464"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Harsh Noise"
 source_ids:
   vndb: "c166464"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c166464.webp"
 ---
 
-# 羽RSH·乃伊濑
+# Harsh Noise
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

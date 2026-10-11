@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c107608"
 type: "character"
-display_title: "雅音T斗"
-title_zh: "雅音T斗"
+display_title: "ガネット"
+title_zh: ""
 title_ja: "ガネット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c107608"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gannet"
-  - "ガネット"
 source_ids:
   vndb: "c107608"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c107608.webp"
 ---
 
-# 雅音T斗
+# ガネット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

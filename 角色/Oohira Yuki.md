@@ -5,7 +5,10 @@ display_title: "大衡裕树"
 title_zh: "大衡裕树"
 title_ja: "大衡裕樹"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c18508"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Oohira Yuki"
   - "大衡裕樹"

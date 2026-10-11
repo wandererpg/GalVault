@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c154154"
 type: "character"
-display_title: "雷神蕾诗惠芙"
-title_zh: "雷神蕾诗惠芙"
+display_title: "雷神レシェフ"
+title_zh: ""
 title_ja: "雷神レシェフ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c154154"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Thunder God Resheph"
-  - "雷神レシェフ"
 source_ids:
   vndb: "c154154"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c154154.webp"
 ---
 
-# 雷神蕾诗惠芙
+# 雷神レシェフ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

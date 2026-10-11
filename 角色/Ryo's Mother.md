@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c130171"
 type: "character"
-display_title: "凉S·莫T惠R"
-title_zh: "凉S·莫T惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ryo's Mother"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c130171"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ryo's Mother"
 source_ids:
   vndb: "c130171"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c130171.webp"
 ---
 
-# 凉S·莫T惠R
+# Ryo's Mother
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

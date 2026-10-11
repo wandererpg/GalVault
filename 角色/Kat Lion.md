@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71015"
 type: "character"
-display_title: "加阿斗＝拉伊奥恩"
-title_zh: "加阿斗＝拉伊奥恩"
+display_title: "カート＝ライオン"
+title_zh: ""
 title_ja: "カート＝ライオン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71015"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kat Lion"
-  - "カート＝ライオン"
 source_ids:
   vndb: "c71015"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71015.webp"
 ---
 
-# 加阿斗＝拉伊奥恩
+# カート＝ライオン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

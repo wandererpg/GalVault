@@ -5,7 +5,10 @@ display_title: "如月律"
 title_zh: "如月律"
 title_ja: "如月 律"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c48090"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kisaragi Ritsu"
   - "如月 律"

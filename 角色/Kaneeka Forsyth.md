@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c165073"
 type: "character"
-display_title: "加音惠加·F奥RSYTH"
-title_zh: "加音惠加·F奥RSYTH"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Kaneeka Forsyth"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c165073"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Kaneeka Forsyth"
   - "Neeks"
 source_ids:
   vndb: "c165073"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c165073.webp"
 ---
 
-# 加音惠加·F奥RSYTH
+# Kaneeka Forsyth
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

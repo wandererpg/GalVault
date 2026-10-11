@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c133238"
 type: "character"
-display_title: "L奥伊C·阿RD"
-title_zh: "L奥伊C·阿RD"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Loic Ard"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c133238"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Loic Ard"
   - "The Florist"
   - "The Not-Quite-Customer"
 source_ids:
@@ -15,7 +17,7 @@ source_urls:
   vndb: "https://vndb.org/c133238"
 ---
 
-# L奥伊C·阿RD
+# Loic Ard
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c33690"
 type: "character"
-display_title: "沙S恰·T洛LL博"
-title_zh: "沙S恰·T洛LL博"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Sascha Trollbo"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33690"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Sascha Trollbo"
 source_ids:
   vndb: "c33690"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c33690.webp"
 ---
 
-# 沙S恰·T洛LL博
+# Sascha Trollbo
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

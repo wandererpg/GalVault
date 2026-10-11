@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c161074"
 type: "character"
-display_title: "真伊奈子奥露蕾伊恩"
-title_zh: "真伊奈子奥露蕾伊恩"
+display_title: "マイナ・コールレイン"
+title_zh: ""
 title_ja: "マイナ・コールレイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161074"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Maina Colerain"
-  - "マイナ・コールレイン"
   - "エウリュディケ"
   - "Eurydice"
   - "姉ちゃん"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c161074.webp"
 ---
 
-# 真伊奈子奥露蕾伊恩
+# マイナ・コールレイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

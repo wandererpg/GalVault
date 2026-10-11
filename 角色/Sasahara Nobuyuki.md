@@ -5,7 +5,10 @@ display_title: "笹原宣践"
 title_zh: "笹原宣践"
 title_ja: "笹原 宣践"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c57234"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sasahara Nobuyuki"
   - "笹原 宣践"

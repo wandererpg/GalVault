@@ -5,7 +5,10 @@ display_title: "里冢舞"
 title_zh: "里冢舞"
 title_ja: "里塚 舞"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c86429"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Satozuka Mai"
   - "里塚 舞"

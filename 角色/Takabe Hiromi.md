@@ -5,7 +5,10 @@ display_title: "高边博美"
 title_zh: "高边博美"
 title_ja: "高辺 博美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43132"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takabe Hiromi"
   - "高辺 博美"

@@ -5,7 +5,10 @@ display_title: "藤原泰衡"
 title_zh: "藤原泰衡"
 title_ja: "藤原 泰衡"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c26985"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fujiwara no Yasuhira"
   - "藤原 泰衡"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c91976"
 type: "character"
-display_title: "仙贺沙莉伊"
-title_zh: "仙贺沙莉伊"
+display_title: "仙賀 サリー"
+title_zh: ""
 title_ja: "仙賀 サリー"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c91976"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Senga Sally"
-  - "仙賀 サリー"
 source_ids:
   vndb: "c91976"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c91976.webp"
 ---
 
-# 仙贺沙莉伊
+# 仙賀 サリー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43146"
 type: "character"
-display_title: "橘木雅真斗"
-title_zh: "橘木雅真斗"
+display_title: "橘木 ヤマト"
+title_zh: ""
 title_ja: "橘木 ヤマト"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43146"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tachibana Yamato"
-  - "橘木 ヤマト"
 source_ids:
   vndb: "c43146"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43146.webp"
 ---
 
-# 橘木雅真斗
+# 橘木 ヤマト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

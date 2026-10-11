@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c97931"
 type: "character"
-display_title: "奈太莉阿"
-title_zh: "奈太莉阿"
+display_title: "ナタリア"
+title_zh: ""
 title_ja: "ナタリア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97931"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Natalia"
-  - "ナタリア"
 source_ids:
   vndb: "c97931"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c97931.webp"
 ---
 
-# 奈太莉阿
+# ナタリア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

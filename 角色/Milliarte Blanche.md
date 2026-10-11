@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c42627"
 type: "character"
-display_title: "美莉阿露特布拉恩诗惠"
-title_zh: "美莉阿露特布拉恩诗惠"
+display_title: "ミリアルテ・ブランシェ"
+title_zh: ""
 title_ja: "ミリアルテ・ブランシェ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c42627"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Milliarte Blanche"
-  - "ミリアルテ・ブランシェ"
   - "ミリィ"
 source_ids:
   vndb: "c42627"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c42627.webp"
 ---
 
-# 美莉阿露特布拉恩诗惠
+# ミリアルテ・ブランシェ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

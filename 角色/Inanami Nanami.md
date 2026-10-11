@@ -5,7 +5,10 @@ display_title: "稻波七海"
 title_zh: "稻波七海"
 title_ja: "稲波 七海"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c127177"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Inanami Nanami"
   - "稲波 七海"

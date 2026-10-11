@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c20320"
 type: "character"
-display_title: "加露吉伊阿"
-title_zh: "加露吉伊阿"
+display_title: "カルヂィア"
+title_zh: ""
 title_ja: "カルヂィア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c20320"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cardia"
-  - "カルヂィア"
 source_ids:
   vndb: "c20320"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c20320.webp"
 ---
 
-# 加露吉伊阿
+# カルヂィア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

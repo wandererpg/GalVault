@@ -5,7 +5,10 @@ display_title: "相泽祐一"
 title_zh: "相泽祐一"
 title_ja: "相沢 祐一"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2937"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Aizawa Yuuichi"
   - "相沢 祐一"

@@ -2,10 +2,13 @@
 entity_id: "vndb:character:c50303"
 type: "character"
 display_title: "夜・葵"
-title_zh: "夜・葵"
+title_zh: ""
 title_ja: "夜・葵"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c50303"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yoru Aoi"
 source_ids:

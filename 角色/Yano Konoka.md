@@ -5,7 +5,10 @@ display_title: "屋野好佳"
 title_zh: "屋野好佳"
 title_ja: "屋野 好佳"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c65122"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yano Konoka"
   - "屋野 好佳"

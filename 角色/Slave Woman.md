@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c97396"
 type: "character"
-display_title: "SL阿V惠·奥真恩"
-title_zh: "SL阿V惠·奥真恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Slave Woman"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97396"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Slave Woman"
 source_ids:
   vndb: "c97396"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c97396.webp"
 ---
 
-# SL阿V惠·奥真恩
+# Slave Woman
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

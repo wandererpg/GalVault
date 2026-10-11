@@ -5,7 +5,10 @@ display_title: "散樱花"
 title_zh: "散樱花"
 title_ja: "散桜花"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c79519"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Chiruouka"
   - "散桜花"

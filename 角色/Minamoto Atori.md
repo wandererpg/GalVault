@@ -5,7 +5,10 @@ display_title: "源鸦鸟"
 title_zh: "源鸦鸟"
 title_ja: "源 鴉鳥"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20147"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Minamoto Atori"
   - "源 鴉鳥"

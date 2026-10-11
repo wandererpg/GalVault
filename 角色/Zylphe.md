@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c126629"
 type: "character"
-display_title: "ZYLP惠"
-title_zh: "ZYLP惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Zylphe"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126629"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Zylphe"
 source_ids:
   vndb: "c126629"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c126629.webp"
 ---
 
-# ZYLP惠
+# Zylphe
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

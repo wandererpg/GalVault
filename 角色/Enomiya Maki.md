@@ -5,7 +5,10 @@ display_title: "爱宫真姫"
 title_zh: "爱宫真姫"
 title_ja: "愛宮 真姫"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c85223"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Enomiya Maki"
   - "愛宮 真姫"

@@ -5,7 +5,10 @@ display_title: "匂宫王海"
 title_zh: "匂宫王海"
 title_ja: "匂宮 王海"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c96149"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Niounomiya Omi"
   - "匂宮 王海"

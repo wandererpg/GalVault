@@ -5,7 +5,10 @@ display_title: "绫濑凉子"
 title_zh: "绫濑凉子"
 title_ja: "綾瀬 涼子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c6853"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ayase Ryouko"
   - "綾瀬 涼子"

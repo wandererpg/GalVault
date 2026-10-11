@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c123070"
 type: "character"
-display_title: "加伊奈恩"
-title_zh: "加伊奈恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Kainan"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c123070"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Kainan"
   - "Kai"
 source_ids:
   vndb: "c123070"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c123070.webp"
 ---
 
-# 加伊奈恩
+# Kainan
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

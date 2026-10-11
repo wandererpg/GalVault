@@ -5,7 +5,10 @@ display_title: "夕菅"
 title_zh: "夕菅"
 title_ja: "夕菅"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c161941"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yuusuge"
 source_ids:

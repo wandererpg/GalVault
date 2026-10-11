@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c7684"
 type: "character"
-display_title: "加兹真·芙莉伊堂"
-title_zh: "加兹真·芙莉伊堂"
+display_title: "カズマ フリード"
+title_zh: ""
 title_ja: "カズマ フリード"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c7684"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kazuma Furiido"
-  - "カズマ フリード"
 source_ids:
   vndb: "c7684"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c7684.webp"
 ---
 
-# 加兹真·芙莉伊堂
+# カズマ フリード
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

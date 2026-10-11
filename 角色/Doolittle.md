@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61226"
 type: "character"
-display_title: "堂奥莉斗露"
-title_zh: "堂奥莉斗露"
+display_title: "ドーリトル"
+title_zh: ""
 title_ja: "ドーリトル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61226"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Doolittle"
-  - "ドーリトル"
 source_ids:
   vndb: "c61226"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61226.webp"
 ---
 
-# 堂奥莉斗露
+# ドーリトル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

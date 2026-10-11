@@ -5,7 +5,10 @@ display_title: "长田圭子"
 title_zh: "长田圭子"
 title_ja: "長田 圭子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c8606"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Osada Keiko"
   - "長田 圭子"

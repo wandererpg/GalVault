@@ -5,7 +5,10 @@ display_title: "森近春树"
 title_zh: "森近春树"
 title_ja: "森近 春樹"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c98434"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Morichika Haruki"
   - "森近 春樹"

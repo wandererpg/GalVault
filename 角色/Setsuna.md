@@ -5,7 +5,10 @@ display_title: "刹那"
 title_zh: "刹那"
 title_ja: "刹那"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c123616"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Setsuna"
 source_ids:

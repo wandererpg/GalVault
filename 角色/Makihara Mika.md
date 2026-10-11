@@ -5,7 +5,10 @@ display_title: "莳原美佳"
 title_zh: "莳原美佳"
 title_ja: "蒔原 美佳"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c141168"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Makihara Mika"
   - "蒔原 美佳"

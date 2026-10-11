@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30464"
 type: "character"
-display_title: "奥莉日芽"
-title_zh: "奥莉日芽"
+display_title: "オリヒメ"
+title_zh: ""
 title_ja: "オリヒメ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30464"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Orihime"
-  - "オリヒメ"
 source_ids:
   vndb: "c30464"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30464.webp"
 ---
 
-# 奥莉日芽
+# オリヒメ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

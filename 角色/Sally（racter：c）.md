@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c21724"
 type: "character"
-display_title: "夏莉伊"
-title_zh: "夏莉伊"
+display_title: "シャリー"
+title_zh: ""
 title_ja: "シャリー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c21724"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sally"
-  - "シャリー"
 source_ids:
   vndb: "c21724"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c21724.webp"
 ---
 
-# 夏莉伊
+# シャリー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

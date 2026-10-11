@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c92757"
 type: "character"
-display_title: "千惠崎陶也"
-title_zh: "千惠崎陶也"
+display_title: "千ヶ崎 陶也"
+title_zh: ""
 title_ja: "千ヶ崎 陶也"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92757"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chigasaki Touya"
-  - "千ヶ崎 陶也"
 source_ids:
   vndb: "c92757"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c92757.webp"
 ---
 
-# 千惠崎陶也
+# 千ヶ崎 陶也
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

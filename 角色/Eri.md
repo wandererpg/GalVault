@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14669"
 type: "character"
-display_title: "惠莉"
-title_zh: "惠莉"
+display_title: "에리"
+title_zh: ""
 title_ja: "에리"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14669"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Eri"
-  - "에리"
   - "イリ"
   - "Master"
   - "Heroine"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c14669.webp"
 ---
 
-# 惠莉
+# 에리
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

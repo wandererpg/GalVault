@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c122747"
 type: "character"
-display_title: "加古津千壹型"
-title_zh: "加古津千壹型"
+display_title: "カグツチ 壱型"
+title_zh: ""
 title_ja: "カグツチ 壱型"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c122747"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kagutsuchi Type 1"
-  - "カグツチ 壱型"
   - "軻遇突智 壱型"
 source_ids:
   vndb: "c122747"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c122747.webp"
 ---
 
-# 加古津千壹型
+# カグツチ 壱型
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

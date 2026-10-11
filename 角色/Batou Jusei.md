@@ -5,7 +5,10 @@ display_title: "马腾寿成"
 title_zh: "马腾寿成"
 title_ja: "馬騰 寿成"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c48445"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Batou Jusei"
   - "馬騰 寿成"

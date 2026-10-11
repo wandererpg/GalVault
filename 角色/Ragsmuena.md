@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10553"
 type: "character"
-display_title: "拉古寿梦惠奈"
-title_zh: "拉古寿梦惠奈"
+display_title: "ラグスムエナ"
+title_zh: ""
 title_ja: "ラグスムエナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10553"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ragsmuena"
-  - "ラグスムエナ"
   - "Reaper"
 source_ids:
   vndb: "c10553"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c10553.webp"
 ---
 
-# 拉古寿梦惠奈
+# ラグスムエナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

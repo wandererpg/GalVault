@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c33685"
 type: "character"
-display_title: "C奥LL惠阿古惠·音乌芽Y惠R"
-title_zh: "C奥LL惠阿古惠·音乌芽Y惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Colleague Neumeyer"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33685"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Colleague Neumeyer"
 source_ids:
   vndb: "c33685"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c33685.webp"
 ---
 
-# C奥LL惠阿古惠·音乌芽Y惠R
+# Colleague Neumeyer
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

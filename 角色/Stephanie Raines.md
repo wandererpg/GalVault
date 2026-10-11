@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c125859"
 type: "character"
-display_title: "S特P羽尼惠·拉伊音S"
-title_zh: "S特P羽尼惠·拉伊音S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Stephanie Raines"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125859"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Stephanie Raines"
 source_ids:
   vndb: "c125859"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c125859.webp"
 ---
 
-# S特P羽尼惠·拉伊音S
+# Stephanie Raines
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

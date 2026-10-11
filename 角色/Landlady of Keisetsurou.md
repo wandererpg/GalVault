@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c155759"
 type: "character"
-display_title: "萤雪楼乃女将"
-title_zh: "萤雪楼乃女将"
+display_title: "螢雪楼の女将"
+title_zh: ""
 title_ja: "螢雪楼の女将"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155759"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Landlady of Keisetsurou"
-  - "螢雪楼の女将"
 source_ids:
   vndb: "c155759"
 source_urls:
   vndb: "https://vndb.org/c155759"
 ---
 
-# 萤雪楼乃女将
+# 螢雪楼の女将
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

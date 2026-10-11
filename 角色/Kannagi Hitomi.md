@@ -5,7 +5,10 @@ display_title: "神和瞳"
 title_zh: "神和瞳"
 title_ja: "神和 瞳"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c65462"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kannagi Hitomi"
   - "神和 瞳"

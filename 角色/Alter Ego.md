@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c47555"
 type: "character"
-display_title: "阿露太阿·惠悟"
-title_zh: "阿露太阿·惠悟"
+display_title: "アルター エゴ"
+title_zh: ""
 title_ja: "アルター エゴ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c47555"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alter Ego"
-  - "アルター エゴ"
 source_ids:
   vndb: "c47555"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c47555.webp"
 ---
 
-# 阿露太阿·惠悟
+# アルター エゴ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

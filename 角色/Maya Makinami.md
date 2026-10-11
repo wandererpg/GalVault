@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c89289"
 type: "character"
-display_title: "真雅·真希奈美"
-title_zh: "真雅·真希奈美"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Maya Makinami"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c89289"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Maya Makinami"
   - "61 6d 20 69 20 6f 6b 61 79"
 source_ids:
   vndb: "c89289"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c89289.webp"
 ---
 
-# 真雅·真希奈美
+# Maya Makinami
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

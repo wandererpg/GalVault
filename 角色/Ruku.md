@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c59973"
 type: "character"
-display_title: "露久"
-title_zh: "露久"
+display_title: "ルク"
+title_zh: ""
 title_ja: "ルク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c59973"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ruku"
-  - "ルク"
 source_ids:
   vndb: "c59973"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c59973.webp"
 ---
 
-# 露久
+# ルク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c125860"
 type: "character"
-display_title: "克里斯"
-title_zh: "克里斯"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Chris"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125860"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Chris"
 source_ids:
   vndb: "c125860"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c125860.webp"
 ---
 
-# 克里斯
+# Chris
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

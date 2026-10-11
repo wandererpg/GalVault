@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126989"
 type: "character"
-display_title: "真寿久堂子露博奥"
-title_zh: "真寿久堂子露博奥"
+display_title: "マスク・ド・コルボー"
+title_zh: ""
 title_ja: "マスク・ド・コルボー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126989"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Masque de Corbeau"
-  - "マスク・ド・コルボー"
 source_ids:
   vndb: "c126989"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c126989.webp"
 ---
 
-# 真寿久堂子露博奥
+# マスク・ド・コルボー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

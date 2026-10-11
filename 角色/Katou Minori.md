@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c20456"
 type: "character"
-display_title: "加藤美乃莉"
-title_zh: "加藤美乃莉"
+display_title: "加藤 みのり"
+title_zh: ""
 title_ja: "加藤 みのり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c20456"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Katou Minori"
-  - "加藤 みのり"
 source_ids:
   vndb: "c20456"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c20456.webp"
 ---
 
-# 加藤美乃莉
+# 加藤 みのり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17316"
 type: "character"
-display_title: "真莉伊恩露布洛恩"
-title_zh: "真莉伊恩露布洛恩"
+display_title: "マリーン・ルブロン"
+title_zh: ""
 title_ja: "マリーン・ルブロン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17316"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Maryn Rubron"
-  - "マリーン・ルブロン"
 source_ids:
   vndb: "c17316"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c17316.webp"
 ---
 
-# 真莉伊恩露布洛恩
+# マリーン・ルブロン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

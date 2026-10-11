@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c91536"
 type: "character"
-display_title: "奈兹奈"
-title_zh: "奈兹奈"
+display_title: "ナズナ"
+title_zh: ""
 title_ja: "ナズナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c91536"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nazuna"
-  - "ナズナ"
 source_ids:
   vndb: "c91536"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c91536.webp"
 ---
 
-# 奈兹奈
+# ナズナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c29705"
 type: "character"
-display_title: "惠露V阿恩索莉伊堂"
-title_zh: "惠露V阿恩索莉伊堂"
+display_title: "ケルヴァン・ソリード"
+title_zh: ""
 title_ja: "ケルヴァン・ソリード"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c29705"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kelvan Sollied"
-  - "ケルヴァン・ソリード"
 source_ids:
   vndb: "c29705"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c29705.webp"
 ---
 
-# 惠露V阿恩索莉伊堂
+# ケルヴァン・ソリード
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

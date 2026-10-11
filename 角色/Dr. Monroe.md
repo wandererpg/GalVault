@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c132458"
 type: "character"
-display_title: "DR·莫恩洛惠"
-title_zh: "DR·莫恩洛惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Dr. Monroe"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132458"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Dr. Monroe"
 source_ids:
   vndb: "c132458"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c132458.webp"
 ---
 
-# DR·莫恩洛惠
+# Dr. Monroe
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

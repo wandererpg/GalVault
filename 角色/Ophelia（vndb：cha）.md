@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c72227"
 type: "character"
-display_title: "奥F伊伊莉阿"
-title_zh: "奥F伊伊莉阿"
+display_title: "オフィーリア"
+title_zh: ""
 title_ja: "オフィーリア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c72227"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ophelia"
-  - "オフィーリア"
 source_ids:
   vndb: "c72227"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c72227.webp"
 ---
 
-# 奥F伊伊莉阿
+# オフィーリア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

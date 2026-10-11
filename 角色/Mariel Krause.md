@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c128705"
 type: "character"
-display_title: "真莉惠露久拉乌泽"
-title_zh: "真莉惠露久拉乌泽"
+display_title: "マリエル・クラウゼ"
+title_zh: ""
 title_ja: "マリエル・クラウゼ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c128705"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mariel Krause"
-  - "マリエル・クラウゼ"
 source_ids:
   vndb: "c128705"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c128705.webp"
 ---
 
-# 真莉惠露久拉乌泽
+# マリエル・クラウゼ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

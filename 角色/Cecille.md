@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c129113"
 type: "character"
-display_title: "C惠C伊LL惠"
-title_zh: "C惠C伊LL惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Cecille"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c129113"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Cecille"
 source_ids:
   vndb: "c129113"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c129113.webp"
 ---
 
-# C惠C伊LL惠
+# Cecille
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

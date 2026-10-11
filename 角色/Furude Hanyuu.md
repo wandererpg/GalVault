@@ -5,7 +5,10 @@ display_title: "古手羽入"
 title_zh: "古手羽入"
 title_ja: "古手 羽入"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c3817"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Furude Hanyuu"
   - "古手 羽入"

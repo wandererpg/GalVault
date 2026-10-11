@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c127210"
 type: "character"
-display_title: "洛吉伊音美露日"
-title_zh: "洛吉伊音美露日"
+display_title: "ロジーネ・ミルヒ"
+title_zh: ""
 title_ja: "ロジーネ・ミルヒ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127210"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rosine Milch"
-  - "ロジーネ・ミルヒ"
 source_ids:
   vndb: "c127210"
 source_urls:
   vndb: "https://vndb.org/c127210"
 ---
 
-# 洛吉伊音美露日
+# ロジーネ・ミルヒ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

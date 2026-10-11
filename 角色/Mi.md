@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c146643"
 type: "character"
-display_title: "美"
-title_zh: "美"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Mi"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c146643"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Mi"
   - "MEGAMAIDEN of BLOOD"
 source_ids:
   vndb: "c146643"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c146643.webp"
 ---
 
-# 美
+# Mi
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

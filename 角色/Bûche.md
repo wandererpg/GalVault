@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39108"
 type: "character"
-display_title: "B优S修"
-title_zh: "B优S修"
+display_title: "ビュッシュ"
+title_zh: ""
 title_ja: "ビュッシュ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39108"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Bûche"
-  - "ビュッシュ"
 source_ids:
   vndb: "c39108"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c39108.webp"
 ---
 
-# B优S修
+# ビュッシュ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

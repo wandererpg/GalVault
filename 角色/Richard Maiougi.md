@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38346"
 type: "character"
-display_title: "莉恰阿堂舞扇"
-title_zh: "莉恰阿堂舞扇"
+display_title: "リチャード 舞扇"
+title_zh: ""
 title_ja: "リチャード 舞扇"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38346"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Richard Maiougi"
-  - "リチャード 舞扇"
   - "Toshizou Maiougi"
   - "Consigliere"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c38346.webp"
 ---
 
-# 莉恰阿堂舞扇
+# リチャード 舞扇
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

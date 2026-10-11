@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90150"
 type: "character"
-display_title: "立花伊兹美"
-title_zh: "立花伊兹美"
+display_title: "立花 いづみ"
+title_zh: ""
 title_ja: "立花 いづみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90150"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tachibana Izumi"
-  - "立花 いづみ"
   - "Director"
   - "Currian"
   - "Invader From Planet Curry"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c90150.webp"
 ---
 
-# 立花伊兹美
+# 立花 いづみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "左门宗矩"
 title_zh: "左门宗矩"
 title_ja: "左門 宗矩"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c66980"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Samon Munenori"
   - "左門 宗矩"

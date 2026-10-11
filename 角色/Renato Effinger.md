@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c1050"
 type: "character"
-display_title: "蕾奈阿斗惠F伊恩嘉阿"
-title_zh: "蕾奈阿斗惠F伊恩嘉阿"
+display_title: "レナート・エフィンジャー"
+title_zh: ""
 title_ja: "レナート・エフィンジャー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c1050"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Renato Effinger"
-  - "レナート・エフィンジャー"
 source_ids:
   vndb: "c1050"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c1050.webp"
 ---
 
-# 蕾奈阿斗惠F伊恩嘉阿
+# レナート・エフィンジャー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c124006"
 type: "character"
-display_title: "加莉伊乃索蕾T太"
-title_zh: "加莉伊乃索蕾T太"
+display_title: "カリーノ・ソレッタ"
+title_zh: ""
 title_ja: "カリーノ・ソレッタ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124006"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Carino Soletta"
-  - "カリーノ・ソレッタ"
 source_ids:
   vndb: "c124006"
 source_urls:
   vndb: "https://vndb.org/c124006"
 ---
 
-# 加莉伊乃索蕾T太
+# カリーノ・ソレッタ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

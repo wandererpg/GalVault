@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c149565"
 type: "character"
-display_title: "吉惠芙惠恩泽露"
-title_zh: "吉惠芙惠恩泽露"
+display_title: "ジェフ・エンゼル"
+title_zh: ""
 title_ja: "ジェフ・エンゼル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149565"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jeff Angel"
-  - "ジェフ・エンゼル"
 source_ids:
   vndb: "c149565"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c149565.webp"
 ---
 
-# 吉惠芙惠恩泽露
+# ジェフ・エンゼル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c157920"
 type: "character"
-display_title: "露西"
-title_zh: "露西"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Lucy"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c157920"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Lucy"
 source_ids:
   vndb: "c157920"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c157920.webp"
 ---
 
-# 露西
+# Lucy
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

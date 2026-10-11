@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c150479"
 type: "character"
-display_title: "C惠恩"
-title_zh: "C惠恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Chen"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c150479"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Chen"
 source_ids:
   vndb: "c150479"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c150479.webp"
 ---
 
-# C惠恩
+# Chen
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

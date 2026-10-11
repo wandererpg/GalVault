@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c33490"
 type: "character"
-display_title: "沙梦翔奥太阿"
-title_zh: "沙梦翔奥太阿"
+display_title: "サム・ショーター"
+title_zh: ""
 title_ja: "サム・ショーター"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33490"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sam Shorter"
-  - "サム・ショーター"
 source_ids:
   vndb: "c33490"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c33490.webp"
 ---
 
-# 沙梦翔奥太阿
+# サム・ショーター
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

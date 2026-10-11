@@ -5,7 +5,10 @@ display_title: "古屋都"
 title_zh: "古屋都"
 title_ja: "古屋 都"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c646"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Furuya Miyako"
   - "古屋 都"

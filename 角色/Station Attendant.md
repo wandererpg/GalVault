@@ -5,7 +5,10 @@ display_title: "驿员"
 title_zh: "驿员"
 title_ja: "駅員"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c116362"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Station Attendant"
   - "駅員"

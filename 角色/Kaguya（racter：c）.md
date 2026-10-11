@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c28303"
 type: "character"
-display_title: "加古雅"
-title_zh: "加古雅"
+display_title: "かぐや"
+title_zh: ""
 title_ja: "かぐや"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c28303"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kaguya"
-  - "かぐや"
 source_ids:
   vndb: "c28303"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c28303.webp"
 ---
 
-# 加古雅
+# かぐや
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

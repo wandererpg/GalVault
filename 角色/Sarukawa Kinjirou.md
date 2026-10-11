@@ -5,7 +5,10 @@ display_title: "沙流川金次郎"
 title_zh: "沙流川金次郎"
 title_ja: "沙流川 金次郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c50697"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sarukawa Kinjirou"
   - "沙流川 金次郎"

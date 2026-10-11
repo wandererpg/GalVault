@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c118556"
 type: "character"
-display_title: "吉惠芙莉惠·乌奥恩"
-title_zh: "吉惠芙莉惠·乌奥恩"
+display_title: "ジェフリェ ウォン"
+title_zh: ""
 title_ja: "ジェフリェ ウォン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c118556"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jeffrey Wong"
-  - "ジェフリェ ウォン"
 source_ids:
   vndb: "c118556"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c118556.webp"
 ---
 
-# 吉惠芙莉惠·乌奥恩
+# ジェフリェ ウォン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

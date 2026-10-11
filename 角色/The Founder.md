@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c123005"
 type: "character"
-display_title: "T惠·F奥乌恩德R"
-title_zh: "T惠·F奥乌恩德R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "The Founder"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c123005"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "The Founder"
 source_ids:
   vndb: "c123005"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c123005.webp"
 ---
 
-# T惠·F奥乌恩德R
+# The Founder
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c74710"
 type: "character"
-display_title: "日流露加"
-title_zh: "日流露加"
+display_title: "日流 ルカ"
+title_zh: ""
 title_ja: "日流 ルカ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c74710"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hiryuu Ruka"
-  - "日流 ルカ"
 source_ids:
   vndb: "c74710"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c74710.webp"
 ---
 
-# 日流露加
+# 日流 ルカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

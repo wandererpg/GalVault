@@ -5,7 +5,10 @@ display_title: "仁志井晶"
 title_zh: "仁志井晶"
 title_ja: "仁志井 晶"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c33598"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nishii Akira"
   - "仁志井 晶"

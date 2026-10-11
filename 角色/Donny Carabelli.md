@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159766"
 type: "character"
-display_title: "堂恩恩Y·C阿拉贝LL伊"
-title_zh: "堂恩恩Y·C阿拉贝LL伊"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Donny Carabelli"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159766"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Donny Carabelli"
 source_ids:
   vndb: "c159766"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c159766.webp"
 ---
 
-# 堂恩恩Y·C阿拉贝LL伊
+# Donny Carabelli
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

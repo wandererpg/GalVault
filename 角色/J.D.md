@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c48142"
 type: "character"
-display_title: "J·D"
-title_zh: "J·D"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "J.D."
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c48142"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "J.D."
 source_ids:
   vndb: "c48142"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c48142.webp"
 ---
 
-# J·D
+# J.D.
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

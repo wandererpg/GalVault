@@ -5,7 +5,10 @@ display_title: "张宝"
 title_zh: "张宝"
 title_ja: "張宝"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c25779"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Chouhou"
   - "張宝"

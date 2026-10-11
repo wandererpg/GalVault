@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c90248"
 type: "character"
-display_title: "沙穗"
-title_zh: "沙穗"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Saho"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90248"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Saho"
 source_ids:
   vndb: "c90248"
 source_urls:
   vndb: "https://vndb.org/c90248"
 ---
 
-# 沙穗
+# Saho
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

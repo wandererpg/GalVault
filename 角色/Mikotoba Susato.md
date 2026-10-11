@@ -5,7 +5,10 @@ display_title: "御琴羽寿沙都"
 title_zh: "御琴羽寿沙都"
 title_ja: "御琴羽 寿沙都"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c17645"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mikotoba Susato"
   - "御琴羽 寿沙都"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c165387"
 type: "character"
-display_title: "MR·吉L贝RT"
-title_zh: "MR·吉L贝RT"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Mr Gilbert"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c165387"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Mr Gilbert"
 source_ids:
   vndb: "c165387"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c165387.webp"
 ---
 
-# MR·吉L贝RT
+# Mr Gilbert
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

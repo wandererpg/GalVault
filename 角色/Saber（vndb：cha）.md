@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c3524"
 type: "character"
-display_title: "濑伊巴阿"
-title_zh: "濑伊巴阿"
+display_title: "セイバー"
+title_zh: ""
 title_ja: "セイバー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c3524"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Saber"
-  - "セイバー"
   - "Saber Extra"
   - "ネロ・クラウディウス・カエサル・アウグストゥス・ゲルマニクス"
   - "Nero Claudius Caesar Augustus Germanicus"
@@ -23,7 +25,7 @@ source_urls:
 portrait_image: "assets/characters/c3524.webp"
 ---
 
-# 濑伊巴阿
+# セイバー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

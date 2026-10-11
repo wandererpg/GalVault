@@ -5,7 +5,10 @@ display_title: "千岁鹫介"
 title_zh: "千岁鹫介"
 title_ja: "千歳 鷲介"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9509"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Chitose Shuusuke"
   - "千歳 鷲介"

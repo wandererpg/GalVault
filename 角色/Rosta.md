@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c59978"
 type: "character"
-display_title: "洛寿太"
-title_zh: "洛寿太"
+display_title: "ロスタ"
+title_zh: ""
 title_ja: "ロスタ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c59978"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rosta"
-  - "ロスタ"
 source_ids:
   vndb: "c59978"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c59978.webp"
 ---
 
-# 洛寿太
+# ロスタ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39879"
 type: "character"
-display_title: "鬼惠岛日加露"
-title_zh: "鬼惠岛日加露"
+display_title: "鬼ヶ島 ひかる"
+title_zh: ""
 title_ja: "鬼ヶ島 ひかる"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39879"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Onigashima Hikaru"
-  - "鬼ヶ島 ひかる"
 source_ids:
   vndb: "c39879"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c39879.webp"
 ---
 
-# 鬼惠岛日加露
+# 鬼ヶ島 ひかる
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

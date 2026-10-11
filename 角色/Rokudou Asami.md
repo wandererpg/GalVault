@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c92339"
 type: "character"
-display_title: "六道阿沙美"
-title_zh: "六道阿沙美"
+display_title: "六道 あさみ"
+title_zh: ""
 title_ja: "六道 あさみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92339"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rokudou Asami"
-  - "六道 あさみ"
 source_ids:
   vndb: "c92339"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c92339.webp"
 ---
 
-# 六道阿沙美
+# 六道 あさみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

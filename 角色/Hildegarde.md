@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c85122"
 type: "character"
-display_title: "日露德雅露堂"
-title_zh: "日露德雅露堂"
+display_title: "ヒルデガルド"
+title_zh: ""
 title_ja: "ヒルデガルド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85122"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hildegarde"
-  - "ヒルデガルド"
 source_ids:
   vndb: "c85122"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c85122.webp"
 ---
 
-# 日露德雅露堂
+# ヒルデガルド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

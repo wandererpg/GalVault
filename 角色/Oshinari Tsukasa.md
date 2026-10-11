@@ -5,7 +5,10 @@ display_title: "忍成司"
 title_zh: "忍成司"
 title_ja: "忍成 司"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c92879"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Oshinari Tsukasa"
   - "忍成 司"

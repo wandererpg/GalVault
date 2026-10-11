@@ -5,7 +5,10 @@ display_title: "狮子舞凛火"
 title_zh: "狮子舞凛火"
 title_ja: "獅子舞 凛火"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c60242"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shishimai Rinka"
   - "獅子舞 凛火"

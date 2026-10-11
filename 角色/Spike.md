@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c135367"
 type: "character"
-display_title: "S皮惠"
-title_zh: "S皮惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Spike"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c135367"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Spike"
 source_ids:
   vndb: "c135367"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c135367.webp"
 ---
 
-# S皮惠
+# Spike
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

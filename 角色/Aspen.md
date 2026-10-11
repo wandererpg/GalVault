@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c99981"
 type: "character"
-display_title: "阿S佩恩"
-title_zh: "阿S佩恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Aspen"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c99981"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Aspen"
 source_ids:
   vndb: "c99981"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c99981.webp"
 ---
 
-# 阿S佩恩
+# Aspen
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

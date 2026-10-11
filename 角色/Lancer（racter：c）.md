@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38"
 type: "character"
-display_title: "拉恩沙阿"
-title_zh: "拉恩沙阿"
+display_title: "ランサー"
+title_zh: ""
 title_ja: "ランサー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lancer"
-  - "ランサー"
   - "クー・フーリン"
   - "Cu Chulainn"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c38.webp"
 ---
 
-# 拉恩沙阿
+# ランサー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

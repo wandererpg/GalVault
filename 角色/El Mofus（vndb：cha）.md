@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c68761"
 type: "character"
-display_title: "惠惠露莫芙寿"
-title_zh: "惠惠露莫芙寿"
+display_title: "エール・モフス"
+title_zh: ""
 title_ja: "エール・モフス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c68761"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "El Mofus"
-  - "エール・モフス"
 source_ids:
   vndb: "c68761"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c68761.webp"
 ---
 
-# 惠惠露莫芙寿
+# エール・モフス
 
 
 ## 角色画像

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c148450"
 type: "character"
-display_title: "L伊L伊阿奈·真LC阿T拉S"
-title_zh: "L伊L伊阿奈·真LC阿T拉S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Liliana Malcatras"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c148450"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Liliana Malcatras"
   - "Ana"
 source_ids:
   vndb: "c148450"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c148450.webp"
 ---
 
-# L伊L伊阿奈·真LC阿T拉S
+# Liliana Malcatras
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

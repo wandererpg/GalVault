@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c101352"
 type: "character"
-display_title: "芽伊露D伊阿寿"
-title_zh: "芽伊露D伊阿寿"
+display_title: "メイル・ディアス"
+title_zh: ""
 title_ja: "メイル・ディアス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c101352"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mael Diaz"
-  - "メイル・ディアス"
 source_ids:
   vndb: "c101352"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c101352.webp"
 ---
 
-# 芽伊露D伊阿寿
+# メイル・ディアス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

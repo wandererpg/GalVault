@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43510"
 type: "character"
-display_title: "伊伊悟莉贝莉娅阿惠芙"
-title_zh: "伊伊悟莉贝莉娅阿惠芙"
+display_title: "イーゴリ・ベリャーエフ"
+title_zh: ""
 title_ja: "イーゴリ・ベリャーエフ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43510"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Igor Belyaev"
-  - "イーゴリ・ベリャーエフ"
 source_ids:
   vndb: "c43510"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43510.webp"
 ---
 
-# 伊伊悟莉贝莉娅阿惠芙
+# イーゴリ・ベリャーエフ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

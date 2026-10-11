@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c48493"
 type: "character"
-display_title: "桑乃实加兹希"
-title_zh: "桑乃实加兹希"
+display_title: "桑乃実 カヅキ"
+title_zh: ""
 title_ja: "桑乃実 カヅキ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c48493"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kuwanomi Kazuki"
-  - "桑乃実 カヅキ"
 source_ids:
   vndb: "c48493"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c48493.webp"
 ---
 
-# 桑乃实加兹希
+# 桑乃実 カヅキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "蓝原果耶"
 title_zh: "蓝原果耶"
 title_ja: "藍原 果耶"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c116553"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Aihara Kaya"
   - "藍原 果耶"

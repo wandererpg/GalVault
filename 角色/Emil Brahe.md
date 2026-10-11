@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c118643"
 type: "character"
-display_title: "惠美伊露·布拉阿惠"
-title_zh: "惠美伊露·布拉阿惠"
+display_title: "エミール ブラーエ"
+title_zh: ""
 title_ja: "エミール ブラーエ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c118643"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Emil Brahe"
-  - "エミール ブラーエ"
 source_ids:
   vndb: "c118643"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c118643.webp"
 ---
 
-# 惠美伊露·布拉阿惠
+# エミール ブラーエ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

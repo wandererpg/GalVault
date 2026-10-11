@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c155197"
 type: "character"
-display_title: "加恩特拉乌堂"
-title_zh: "加恩特拉乌堂"
+display_title: "カンテ・ラウド"
+title_zh: ""
 title_ja: "カンテ・ラウド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155197"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gante Lowd"
-  - "カンテ・ラウド"
   - "Guan Yu"
   - "關特·雲德"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c155197.webp"
 ---
 
-# 加恩特拉乌堂
+# カンテ・ラウド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

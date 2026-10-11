@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43509"
 type: "character"
-display_title: "寿太尼寿拉芙尼子拉惠V伊T千泽蕾乃芙"
-title_zh: "寿太尼寿拉芙尼子拉惠V伊T千泽蕾乃芙"
+display_title: "スタニスラフ・ニコラエヴィッチ・ゼレノフ"
+title_zh: ""
 title_ja: "スタニスラフ・ニコラエヴィッチ・ゼレノフ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43509"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Stanislav Nikolayevich Zelenov"
-  - "スタニスラフ・ニコラエヴィッチ・ゼレノフ"
 source_ids:
   vndb: "c43509"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43509.webp"
 ---
 
-# 寿太尼寿拉芙尼子拉惠V伊T千泽蕾乃芙
+# スタニスラフ・ニコラエヴィッチ・ゼレノフ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

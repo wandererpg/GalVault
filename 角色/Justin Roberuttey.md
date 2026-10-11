@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16532"
 type: "character"
-display_title: "嘉寿特伊恩＝洛贝拉T特伊"
-title_zh: "嘉寿特伊恩＝洛贝拉T特伊"
+display_title: "ジャスティン＝ロベラッティ"
+title_zh: ""
 title_ja: "ジャスティン＝ロベラッティ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16532"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Justin Roberuttey"
-  - "ジャスティン＝ロベラッティ"
   - "Justin Roberatti"
 source_ids:
   vndb: "c16532"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c16532.webp"
 ---
 
-# 嘉寿特伊恩＝洛贝拉T特伊
+# ジャスティン＝ロベラッティ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

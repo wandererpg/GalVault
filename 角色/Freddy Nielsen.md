@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c47157"
 type: "character"
-display_title: "芙蕾D伊尼伊露濑恩"
-title_zh: "芙蕾D伊尼伊露濑恩"
+display_title: "フレディ・ニールセン"
+title_zh: ""
 title_ja: "フレディ・ニールセン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c47157"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Freddy Nielsen"
-  - "フレディ・ニールセン"
 source_ids:
   vndb: "c47157"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c47157.webp"
 ---
 
-# 芙蕾D伊尼伊露濑恩
+# フレディ・ニールセン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

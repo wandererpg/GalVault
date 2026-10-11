@@ -5,7 +5,10 @@ display_title: "冈崎真也"
 title_zh: "冈崎真也"
 title_ja: "岡崎 真也"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20686"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Okazaki Shin'ya"
   - "岡崎 真也"

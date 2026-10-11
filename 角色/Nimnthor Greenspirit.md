@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c32095"
 type: "character"
-display_title: "尼梦恩斗奥露古莉伊恩寿皮莉T斗"
-title_zh: "尼梦恩斗奥露古莉伊恩寿皮莉T斗"
+display_title: "ニムントール・グリーンスピリット"
+title_zh: ""
 title_ja: "ニムントール・グリーンスピリット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c32095"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nimnthor Greenspirit"
-  - "ニムントール・グリーンスピリット"
   - "Nimnthor of Dawn"
   - "Nim"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c32095.webp"
 ---
 
-# 尼梦恩斗奥露古莉伊恩寿皮莉T斗
+# ニムントール・グリーンスピリット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c53521"
 type: "character"
-display_title: "汤乃山莲"
-title_zh: "汤乃山莲"
+display_title: "湯ノ山 蓮"
+title_zh: ""
 title_ja: "湯ノ山 蓮"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c53521"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yunoyama Ren"
-  - "湯ノ山 蓮"
 source_ids:
   vndb: "c53521"
 source_urls:
   vndb: "https://vndb.org/c53521"
 ---
 
-# 汤乃山莲
+# 湯ノ山 蓮
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

@@ -5,7 +5,10 @@ display_title: "君冢翼"
 title_zh: "君冢翼"
 title_ja: "君塚 翼"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c48389"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kimizuka Tsubasa"
   - "君塚 翼"

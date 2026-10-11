@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c550"
 type: "character"
-display_title: "奈达露阿斗拉伊堂"
-title_zh: "奈达露阿斗拉伊堂"
+display_title: "ナダル・アトライド"
+title_zh: ""
 title_ja: "ナダル・アトライド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c550"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nudar Atraid"
-  - "ナダル・アトライド"
 source_ids:
   vndb: "c550"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c550.webp"
 ---
 
-# 奈达露阿斗拉伊堂
+# ナダル・アトライド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16613"
 type: "character"
-display_title: "惠露夏"
-title_zh: "惠露夏"
+display_title: "ヘルシャ"
+title_zh: ""
 title_ja: "ヘルシャ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16613"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hersha"
-  - "ヘルシャ"
   - "Herrscher"
 source_ids:
   vndb: "c16613"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c16613.webp"
 ---
 
-# 惠露夏
+# ヘルシャ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

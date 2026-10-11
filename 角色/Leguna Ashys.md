@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13067"
 type: "character"
-display_title: "蕾古奈阿阿阿诗惠寿"
-title_zh: "蕾古奈阿阿阿诗惠寿"
+display_title: "レグナー・アーシェス"
+title_zh: ""
 title_ja: "レグナー・アーシェス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13067"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Leguna Ashys"
-  - "レグナー・アーシェス"
 source_ids:
   vndb: "c13067"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c13067.webp"
 ---
 
-# 蕾古奈阿阿阿诗惠寿
+# レグナー・アーシェス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c6642"
 type: "character"
-display_title: "冬川子子洛"
-title_zh: "冬川子子洛"
+display_title: "冬川 こころ"
+title_zh: ""
 title_ja: "冬川 こころ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c6642"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Fuyukawa Kokoro"
-  - "冬川 こころ"
   - "Fuyukawa Cocoro"
   - "Kokoron"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c6642.webp"
 ---
 
-# 冬川子子洛
+# 冬川 こころ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

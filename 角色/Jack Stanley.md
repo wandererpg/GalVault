@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c74677"
 type: "character"
-display_title: "嘉K久寿太恩莉伊"
-title_zh: "嘉K久寿太恩莉伊"
+display_title: "ジャック・スタンリー"
+title_zh: ""
 title_ja: "ジャック・スタンリー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c74677"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jack Stanley"
-  - "ジャック・スタンリー"
 source_ids:
   vndb: "c74677"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c74677.webp"
 ---
 
-# 嘉K久寿太恩莉伊
+# ジャック・スタンリー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

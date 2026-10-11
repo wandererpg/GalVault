@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c95619"
 type: "character"
-display_title: "伊古奈诗奥加拉寿子"
-title_zh: "伊古奈诗奥加拉寿子"
+display_title: "イグナシオ・カラスコ"
+title_zh: ""
 title_ja: "イグナシオ・カラスコ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c95619"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ignacio Carrasco"
-  - "イグナシオ・カラスコ"
 source_ids:
   vndb: "c95619"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c95619.webp"
 ---
 
-# 伊古奈诗奥加拉寿子
+# イグナシオ・カラスコ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

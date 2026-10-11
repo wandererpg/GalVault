@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125978"
 type: "character"
-display_title: "寿久拉"
-title_zh: "寿久拉"
+display_title: "スキュラ"
+title_zh: ""
 title_ja: "スキュラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125978"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Scylla"
-  - "スキュラ"
   - "Cylla"
 source_ids:
   vndb: "c125978"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c125978.webp"
 ---
 
-# 寿久拉
+# スキュラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

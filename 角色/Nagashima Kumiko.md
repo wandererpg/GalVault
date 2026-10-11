@@ -5,7 +5,10 @@ display_title: "永岛久美子"
 title_zh: "永岛久美子"
 title_ja: "永島 久美子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20454"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nagashima Kumiko"
   - "永島 久美子"

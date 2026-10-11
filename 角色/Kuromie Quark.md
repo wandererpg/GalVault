@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8880"
 type: "character"
-display_title: "久洛美惠久和露久"
-title_zh: "久洛美惠久和露久"
+display_title: "クロミエ・クワルク"
+title_zh: ""
 title_ja: "クロミエ・クワルク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8880"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kuromie Quark"
-  - "クロミエ・クワルク"
 source_ids:
   vndb: "c8880"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c8880.webp"
 ---
 
-# 久洛美惠久和露久
+# クロミエ・クワルク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

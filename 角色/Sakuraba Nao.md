@@ -5,7 +5,10 @@ display_title: "樱庭渚緖"
 title_zh: "樱庭渚緖"
 title_ja: "桜庭 渚緒"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c36949"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakuraba Nao"
   - "桜庭 渚緒"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c100540"
 type: "character"
-display_title: "荣河日奈"
-title_zh: "荣河日奈"
+display_title: "栄河 ヒナ"
+title_zh: ""
 title_ja: "栄河 ヒナ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c100540"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sakaekawa Hina"
-  - "栄河 ヒナ"
 source_ids:
   vndb: "c100540"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c100540.webp"
 ---
 
-# 荣河日奈
+# 栄河 ヒナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

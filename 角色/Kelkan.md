@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c4770"
 type: "character"
-display_title: "惠露加恩"
-title_zh: "惠露加恩"
+display_title: "ケルカン"
+title_zh: ""
 title_ja: "ケルカン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c4770"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kelkan"
-  - "ケルカン"
 source_ids:
   vndb: "c4770"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c4770.webp"
 ---
 
-# 惠露加恩
+# ケルカン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

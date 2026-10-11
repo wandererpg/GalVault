@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17037"
 type: "character"
-display_title: "巴泽T斗芙拉雅真久蕾美T津"
-title_zh: "巴泽T斗芙拉雅真久蕾美T津"
+display_title: "バゼット・フラガ・マクレミッツ"
+title_zh: ""
 title_ja: "バゼット・フラガ・マクレミッツ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17037"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Bazett Fraga McRemitz"
-  - "バゼット・フラガ・マクレミッツ"
 source_ids:
   vndb: "c17037"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c17037.webp"
 ---
 
-# 巴泽T斗芙拉雅真久蕾美T津
+# バゼット・フラガ・マクレミッツ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

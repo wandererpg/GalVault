@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c41554"
 type: "character"
-display_title: "刀条美奈莫"
-title_zh: "刀条美奈莫"
+display_title: "刀條 みなも"
+title_zh: ""
 title_ja: "刀條 みなも"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c41554"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Toujou Minamo"
-  - "刀條 みなも"
 source_ids:
   vndb: "c41554"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c41554.webp"
 ---
 
-# 刀条美奈莫
+# 刀條 みなも
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

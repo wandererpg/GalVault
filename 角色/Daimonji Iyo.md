@@ -5,7 +5,10 @@ display_title: "大门寺伊代"
 title_zh: "大门寺伊代"
 title_ja: "大門寺 伊代"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c97439"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Daimonji Iyo"
   - "大門寺 伊代"

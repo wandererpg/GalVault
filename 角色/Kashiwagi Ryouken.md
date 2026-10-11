@@ -5,7 +5,10 @@ display_title: "柏木谅谦"
 title_zh: "柏木谅谦"
 title_ja: "柏木 諒謙"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c104312"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kashiwagi Ryouken"
   - "柏木 諒謙"

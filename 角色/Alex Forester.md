@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c109703"
 type: "character"
-display_title: "阿L惠X·F奥蕾S特R"
-title_zh: "阿L惠X·F奥蕾S特R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Alex Forester"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c109703"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Alex Forester"
   - "Alex Campbell"
   - "Gh0st Harambe"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c109703.webp"
 ---
 
-# 阿L惠X·F奥蕾S特R
+# Alex Forester
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

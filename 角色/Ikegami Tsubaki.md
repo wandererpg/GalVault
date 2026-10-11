@@ -5,7 +5,10 @@ display_title: "池上椿"
 title_zh: "池上椿"
 title_ja: "池上 椿"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c17187"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ikegami Tsubaki"
   - "池上 椿"

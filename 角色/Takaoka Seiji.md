@@ -5,7 +5,10 @@ display_title: "高冈诚二"
 title_zh: "高冈诚二"
 title_ja: "高岡 誠二"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43865"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takaoka Seiji"
   - "高岡 誠二"

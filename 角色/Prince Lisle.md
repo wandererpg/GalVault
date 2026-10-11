@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c37730"
 type: "character"
-display_title: "P莉恩C惠·L伊SL惠"
-title_zh: "P莉恩C惠·L伊SL惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Prince Lisle"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37730"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Prince Lisle"
 source_ids:
   vndb: "c37730"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c37730.webp"
 ---
 
-# P莉恩C惠·L伊SL惠
+# Prince Lisle
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

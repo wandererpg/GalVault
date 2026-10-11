@@ -5,7 +5,10 @@ display_title: "高科更文"
 title_zh: "高科更文"
 title_ja: "高科 更文"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c85470"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takashina Sarafumi"
   - "高科 更文"

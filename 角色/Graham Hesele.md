@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12765"
 type: "character"
-display_title: "古拉羽梦惠泽露"
-title_zh: "古拉羽梦惠泽露"
+display_title: "グラハム・ヘゼル"
+title_zh: ""
 title_ja: "グラハム・ヘゼル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12765"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Graham Hesele"
-  - "グラハム・ヘゼル"
 source_ids:
   vndb: "c12765"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c12765.webp"
 ---
 
-# 古拉羽梦惠泽露
+# グラハム・ヘゼル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

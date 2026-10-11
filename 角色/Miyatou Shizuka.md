@@ -5,7 +5,10 @@ display_title: "宫栋闲"
 title_zh: "宫栋闲"
 title_ja: "宮棟 閑"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c12526"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Miyatou Shizuka"
   - "宮棟 閑"

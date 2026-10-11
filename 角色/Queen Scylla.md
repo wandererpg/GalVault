@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127466"
 type: "character"
-display_title: "久伊伊恩寿久拉"
-title_zh: "久伊伊恩寿久拉"
+display_title: "クィーンスキュラ"
+title_zh: ""
 title_ja: "クィーンスキュラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127466"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Queen Scylla"
-  - "クィーンスキュラ"
   - "Zenovia"
 source_ids:
   vndb: "c127466"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c127466.webp"
 ---
 
-# 久伊伊恩寿久拉
+# クィーンスキュラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

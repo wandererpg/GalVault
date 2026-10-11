@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87815"
 type: "character"
-display_title: "阿斗莉"
-title_zh: "阿斗莉"
+display_title: "アトリ"
+title_zh: ""
 title_ja: "アトリ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87815"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Atri"
-  - "アトリ"
   - "Henchman"
   - "Atricchi"
   - "Toaster"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c87815.webp"
 ---
 
-# 阿斗莉
+# アトリ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

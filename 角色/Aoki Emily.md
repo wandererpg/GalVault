@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c133966"
 type: "character"
-display_title: "青木惠美莉"
-title_zh: "青木惠美莉"
+display_title: "青木 エミリ"
+title_zh: ""
 title_ja: "青木 エミリ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c133966"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Aoki Emily"
-  - "青木 エミリ"
 source_ids:
   vndb: "c133966"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c133966.webp"
 ---
 
-# 青木惠美莉
+# 青木 エミリ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

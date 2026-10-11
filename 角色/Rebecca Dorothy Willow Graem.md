@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c69158"
 type: "character"
-display_title: "丽贝卡·堂洛THY·W伊LL奥W·G拉惠M"
-title_zh: "丽贝卡·堂洛THY·W伊LL奥W·G拉惠M"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Rebecca Dorothy Willow Graem"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c69158"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Rebecca Dorothy Willow Graem"
   - "Becky"
   - "Dolores Haze"
   - "Dorothy Haze"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c69158.webp"
 ---
 
-# 丽贝卡·堂洛THY·W伊LL奥W·G拉惠M
+# Rebecca Dorothy Willow Graem
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

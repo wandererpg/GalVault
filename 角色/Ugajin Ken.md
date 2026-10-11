@@ -5,7 +5,10 @@ display_title: "宇贺神剑"
 title_zh: "宇贺神剑"
 title_ja: "宇賀神 剣"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14536"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ugajin Ken"
   - "宇賀神 剣"

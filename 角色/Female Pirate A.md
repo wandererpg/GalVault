@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c126220"
 type: "character"
-display_title: "F惠真L惠·皮拉特·阿"
-title_zh: "F惠真L惠·皮拉特·阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Female Pirate A"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126220"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Female Pirate A"
 source_ids:
   vndb: "c126220"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c126220.webp"
 ---
 
-# F惠真L惠·皮拉特·阿
+# Female Pirate A
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

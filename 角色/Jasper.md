@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c37626"
 type: "character"
-display_title: "嘉S佩R"
-title_zh: "嘉S佩R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jasper"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37626"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jasper"
 source_ids:
   vndb: "c37626"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c37626.webp"
 ---
 
-# 嘉S佩R
+# Jasper
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

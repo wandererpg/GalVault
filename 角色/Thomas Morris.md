@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c103769"
 type: "character"
-display_title: "斗奥真寿莫奥莉寿"
-title_zh: "斗奥真寿莫奥莉寿"
+display_title: "トーマス・モーリス"
+title_zh: ""
 title_ja: "トーマス・モーリス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103769"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Thomas Morris"
-  - "トーマス・モーリス"
 source_ids:
   vndb: "c103769"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c103769.webp"
 ---
 
-# 斗奥真寿莫奥莉寿
+# トーマス・モーリス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

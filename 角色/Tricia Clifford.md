@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c124905"
 type: "character"
-display_title: "斗莉诗阿久莉F奥奥堂"
-title_zh: "斗莉诗阿久莉F奥奥堂"
+display_title: "トリシア・クリフォード"
+title_zh: ""
 title_ja: "トリシア・クリフォード"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124905"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tricia Clifford"
-  - "トリシア・クリフォード"
 source_ids:
   vndb: "c124905"
 source_urls:
   vndb: "https://vndb.org/c124905"
 ---
 
-# 斗莉诗阿久莉F奥奥堂
+# トリシア・クリフォード
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

@@ -5,7 +5,10 @@ display_title: "九鬼隆久"
 title_zh: "九鬼隆久"
 title_ja: "九鬼 隆久"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c94719"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kuki Takahisa"
   - "九鬼 隆久"

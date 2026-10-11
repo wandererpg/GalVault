@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c86636"
 type: "character"
-display_title: "四谷古蕾恩嘉阿莉沙"
-title_zh: "四谷古蕾恩嘉阿莉沙"
+display_title: "四谷・グレンジャー・リサ"
+title_zh: ""
 title_ja: "四谷・グレンジャー・リサ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c86636"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yotsuya Granger Risa"
-  - "四谷・グレンジャー・リサ"
 source_ids:
   vndb: "c86636"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c86636.webp"
 ---
 
-# 四谷古蕾恩嘉阿莉沙
+# 四谷・グレンジャー・リサ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

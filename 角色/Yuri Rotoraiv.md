@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c57574"
 type: "character"
-display_title: "优乌莉洛斗拉伊V乌"
-title_zh: "优乌莉洛斗拉伊V乌"
+display_title: "ユーリ・ロトライヴ"
+title_zh: ""
 title_ja: "ユーリ・ロトライヴ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c57574"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yuri Rotoraiv"
-  - "ユーリ・ロトライヴ"
 source_ids:
   vndb: "c57574"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c57574.webp"
 ---
 
-# 优乌莉洛斗拉伊V乌
+# ユーリ・ロトライヴ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

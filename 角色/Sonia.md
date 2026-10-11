@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c11290"
 type: "character"
-display_title: "索奥妮娅"
-title_zh: "索奥妮娅"
+display_title: "ソーニャ"
+title_zh: ""
 title_ja: "ソーニャ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c11290"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sonia"
-  - "ソーニャ"
 source_ids:
   vndb: "c11290"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c11290.webp"
 ---
 
-# 索奥妮娅
+# ソーニャ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

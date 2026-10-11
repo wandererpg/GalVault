@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c164968"
 type: "character"
-display_title: "恩·阿·V·伊"
-title_zh: "恩·阿·V·伊"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "N.a.v.i."
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c164968"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "N.a.v.i."
 source_ids:
   vndb: "c164968"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c164968.webp"
 ---
 
-# 恩·阿·V·伊
+# N.a.v.i.
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

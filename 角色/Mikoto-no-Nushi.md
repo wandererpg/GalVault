@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c21387"
 type: "character"
-display_title: "美子斗乃主"
-title_zh: "美子斗乃主"
+display_title: "ミコトの主"
+title_zh: ""
 title_ja: "ミコトの主"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c21387"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mikoto-no-Nushi"
-  - "ミコトの主"
   - "Miko-sama"
 source_ids:
   vndb: "c21387"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c21387.webp"
 ---
 
-# 美子斗乃主
+# ミコトの主
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

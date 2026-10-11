@@ -5,7 +5,10 @@ display_title: "氷渡贵史"
 title_zh: "氷渡贵史"
 title_ja: "氷渡 貴史"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c48133"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hido Takafumi"
   - "氷渡 貴史"

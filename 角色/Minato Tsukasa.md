@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c89809"
 type: "character"
-display_title: "凑津加沙"
-title_zh: "凑津加沙"
+display_title: "湊 つかさ"
+title_zh: ""
 title_ja: "湊 つかさ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c89809"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Minato Tsukasa"
-  - "湊 つかさ"
 source_ids:
   vndb: "c89809"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c89809.webp"
 ---
 
-# 凑津加沙
+# 湊 つかさ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

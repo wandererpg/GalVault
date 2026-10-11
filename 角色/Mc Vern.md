@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c161451"
 type: "character"
-display_title: "真久V阿阿恩"
-title_zh: "真久V阿阿恩"
+display_title: "マクヴァーン"
+title_zh: ""
 title_ja: "マクヴァーン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161451"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mc Vern"
-  - "マクヴァーン"
 source_ids:
   vndb: "c161451"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c161451.webp"
 ---
 
-# 真久V阿阿恩
+# マクヴァーン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

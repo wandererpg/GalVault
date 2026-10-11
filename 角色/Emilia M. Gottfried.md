@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c40069"
 type: "character"
-display_title: "惠美莉阿M悟斗芙莉伊斗"
-title_zh: "惠美莉阿M悟斗芙莉伊斗"
+display_title: "エミリア・M・ゴトフリート"
+title_zh: ""
 title_ja: "エミリア・M・ゴトフリート"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c40069"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Emilia M. Gottfried"
-  - "エミリア・M・ゴトフリート"
   - "Emilia Gottfried"
   - "Emilia Munsterberg Gottfried"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c40069.webp"
 ---
 
-# 惠美莉阿M悟斗芙莉伊斗
+# エミリア・M・ゴトフリート
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

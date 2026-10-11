@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26550"
 type: "character"
-display_title: "沙莉伊恰恩"
-title_zh: "沙莉伊恰恩"
+display_title: "サリーちゃん"
+title_zh: ""
 title_ja: "サリーちゃん"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26550"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sally-chan"
-  - "サリーちゃん"
   - "Sari-chan"
   - "魔界のアイドル"
   - "Makai no Idol"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c26550.webp"
 ---
 
-# 沙莉伊恰恩
+# サリーちゃん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

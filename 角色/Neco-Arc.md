@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39258"
 type: "character"
-display_title: "音子阿露久"
-title_zh: "音子阿露久"
+display_title: "ネコアルク"
+title_zh: ""
 title_ja: "ネコアルク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39258"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Neco-Arc"
-  - "ネコアルク"
   - "猫 アルク"
 source_ids:
   vndb: "c39258"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c39258.webp"
 ---
 
-# 音子阿露久
+# ネコアルク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

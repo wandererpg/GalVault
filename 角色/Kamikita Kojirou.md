@@ -5,7 +5,10 @@ display_title: "神北小次郎"
 title_zh: "神北小次郎"
 title_ja: "神北 小次郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c6696"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kamikita Kojirou"
   - "神北 小次郎"

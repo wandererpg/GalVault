@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16531"
 type: "character"
-display_title: "惠堂和露堂＝乌伊恩芙莉伊"
-title_zh: "惠堂和露堂＝乌伊恩芙莉伊"
+display_title: "エドワルド＝ウィンフリー"
+title_zh: ""
 title_ja: "エドワルド＝ウィンフリー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16531"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Edvard Winfree"
-  - "エドワルド＝ウィンフリー"
   - "Eduardo Winfrey"
 source_ids:
   vndb: "c16531"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c16531.webp"
 ---
 
-# 惠堂和露堂＝乌伊恩芙莉伊
+# エドワルド＝ウィンフリー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c169049"
 type: "character"
-display_title: "诗惠伊D伊沙恩夏阿尼"
-title_zh: "诗惠伊D伊沙恩夏阿尼"
+display_title: "シェイディ・サンシャーニ"
+title_zh: ""
 title_ja: "シェイディ・サンシャーニ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c169049"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shaydi Sanshani"
-  - "シェイディ・サンシャーニ"
   - "シャドウ"
   - "Shadow"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c169049.webp"
 ---
 
-# 诗惠伊D伊沙恩夏阿尼
+# シェイディ・サンシャーニ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

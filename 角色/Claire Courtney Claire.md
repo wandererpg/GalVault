@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c55638"
 type: "character"
-display_title: "久蕾阿子奥斗尼伊久蕾阿"
-title_zh: "久蕾阿子奥斗尼伊久蕾阿"
+display_title: "クレア・コートニー・クレア"
+title_zh: ""
 title_ja: "クレア・コートニー・クレア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c55638"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Claire Courtney Claire"
-  - "クレア・コートニー・クレア"
 source_ids:
   vndb: "c55638"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c55638.webp"
 ---
 
-# 久蕾阿子奥斗尼伊久蕾阿
+# クレア・コートニー・クレア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

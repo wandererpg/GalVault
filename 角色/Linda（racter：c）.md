@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c94436"
 type: "character"
-display_title: "莉恩达"
-title_zh: "莉恩达"
+display_title: "リンダ"
+title_zh: ""
 title_ja: "リンダ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94436"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Linda"
-  - "リンダ"
 source_ids:
   vndb: "c94436"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c94436.webp"
 ---
 
-# 莉恩达
+# リンダ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

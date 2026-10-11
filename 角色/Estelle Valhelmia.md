@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16879"
 type: "character"
-display_title: "惠寿特露V阿露惠露美阿"
-title_zh: "惠寿特露V阿露惠露美阿"
+display_title: "エステル・ヴァルヘルミア"
+title_zh: ""
 title_ja: "エステル・ヴァルヘルミア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16879"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Estelle Valhelmia"
-  - "エステル・ヴァルヘルミア"
   - "Ester"
   - "Princess Knight"
   - "姫騎士"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c16879.webp"
 ---
 
-# 惠寿特露V阿露惠露美阿
+# エステル・ヴァルヘルミア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

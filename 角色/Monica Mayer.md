@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14730"
 type: "character"
-display_title: "莫尼加芽伊雅阿"
-title_zh: "莫尼加芽伊雅阿"
+display_title: "モニカ・メイヤー"
+title_zh: ""
 title_ja: "モニカ・メイヤー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14730"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Monica Mayer"
-  - "モニカ・メイヤー"
 source_ids:
   vndb: "c14730"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c14730.webp"
 ---
 
-# 莫尼加芽伊雅阿
+# モニカ・メイヤー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

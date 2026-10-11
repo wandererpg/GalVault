@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39277"
 type: "character"
-display_title: "浅木羽露"
-title_zh: "浅木羽露"
+display_title: "浅木 はる"
+title_zh: ""
 title_ja: "浅木 はる"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39277"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Asagi Haru"
-  - "浅木 はる"
 source_ids:
   vndb: "c39277"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c39277.webp"
 ---
 
-# 浅木羽露
+# 浅木 はる
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

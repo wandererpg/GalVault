@@ -5,7 +5,10 @@ display_title: "羽山克彦"
 title_zh: "羽山克彦"
 title_ja: "羽山 克彦"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c48381"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hayama Katsuhiko"
   - "羽山 克彦"

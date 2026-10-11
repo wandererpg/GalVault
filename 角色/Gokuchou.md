@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c148547"
 type: "character"
-display_title: "悟久绪奥"
-title_zh: "悟久绪奥"
+display_title: "ゴクチョー"
+title_zh: ""
 title_ja: "ゴクチョー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c148547"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gokuchou"
-  - "ゴクチョー"
   - "Prison warden"
 source_ids:
   vndb: "c148547"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c148547.webp"
 ---
 
-# 悟久绪奥
+# ゴクチョー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

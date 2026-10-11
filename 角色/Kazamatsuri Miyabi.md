@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c768"
 type: "character"
-display_title: "风祭美雅比"
-title_zh: "风祭美雅比"
+display_title: "風祭 みやび"
+title_zh: ""
 title_ja: "風祭 みやび"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c768"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kazamatsuri Miyabi"
-  - "風祭 みやび"
   - "Director"
 source_ids:
   vndb: "c768"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c768.webp"
 ---
 
-# 风祭美雅比
+# 風祭 みやび
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c143339"
 type: "character"
-display_title: "乔羽恩·奥RL阿恩堂"
-title_zh: "乔羽恩·奥RL阿恩堂"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Johan Orlando"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c143339"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Johan Orlando"
 source_ids:
   vndb: "c143339"
 source_urls:
   vndb: "https://vndb.org/c143339"
 ---
 
-# 乔羽恩·奥RL阿恩堂
+# Johan Orlando
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

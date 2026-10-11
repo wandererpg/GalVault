@@ -5,7 +5,10 @@ display_title: "花守章一"
 title_zh: "花守章一"
 title_ja: "花守 章一"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c36944"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hanamori Shouichi"
   - "花守 章一"

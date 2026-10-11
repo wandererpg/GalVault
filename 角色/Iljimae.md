@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c19867"
 type: "character"
-display_title: "伊L吉真惠"
-title_zh: "伊L吉真惠"
+display_title: "일지매"
+title_zh: ""
 title_ja: "일지매"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c19867"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Iljimae"
-  - "일지매"
   - "Ahn Garyeon"
   - "一支梅"
   - "안 가련"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c19867.webp"
 ---
 
-# 伊L吉真惠
+# 일지매
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

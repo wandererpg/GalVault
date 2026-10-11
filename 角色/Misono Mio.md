@@ -5,7 +5,10 @@ display_title: "三园未緖"
 title_zh: "三园未緖"
 title_ja: "三園 未緒"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c27536"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Misono Mio"
   - "三園 未緒"

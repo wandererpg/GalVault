@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98402"
 type: "character"
-display_title: "加奥露久伊恩诗伊神乐"
-title_zh: "加奥露久伊恩诗伊神乐"
+display_title: "カオル・クインシー・神楽"
+title_zh: ""
 title_ja: "カオル・クインシー・神楽"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98402"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kaoru Quincy Kagura"
-  - "カオル・クインシー・神楽"
 source_ids:
   vndb: "c98402"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98402.webp"
 ---
 
-# 加奥露久伊恩诗伊神乐
+# カオル・クインシー・神楽
 
 
 ## 角色画像

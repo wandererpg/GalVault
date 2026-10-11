@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26174"
 type: "character"
-display_title: "洛奥格"
-title_zh: "洛奥格"
+display_title: "ローゲ"
+title_zh: ""
 title_ja: "ローゲ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26174"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Loge"
-  - "ローゲ"
   - "The Most Malevolent Magus, Loge the Flame Magus"
 source_ids:
   vndb: "c26174"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c26174.webp"
 ---
 
-# 洛奥格
+# ローゲ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

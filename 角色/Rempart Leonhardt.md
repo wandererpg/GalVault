@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38213"
 type: "character"
-display_title: "拉恩帕阿露蕾奥恩羽露斗"
-title_zh: "拉恩帕阿露蕾奥恩羽露斗"
+display_title: "ランパール・レオンハルト"
+title_zh: ""
 title_ja: "ランパール・レオンハルト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38213"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rempart Leonhardt"
-  - "ランパール・レオンハルト"
   - "Leon"
 source_ids:
   vndb: "c38213"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c38213.webp"
 ---
 
-# 拉恩帕阿露蕾奥恩羽露斗
+# ランパール・レオンハルト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

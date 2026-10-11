@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c56991"
 type: "character"
-display_title: "一条惠莉"
-title_zh: "一条惠莉"
+display_title: "一条 エリ"
+title_zh: ""
 title_ja: "一条 エリ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56991"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ichijou Eri"
-  - "一条 エリ"
 source_ids:
   vndb: "c56991"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c56991.webp"
 ---
 
-# 一条惠莉
+# 一条 エリ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

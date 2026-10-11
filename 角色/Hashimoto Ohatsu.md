@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16529"
 type: "character"
-display_title: "桥本奥初"
-title_zh: "桥本奥初"
+display_title: "橋本 お初"
+title_zh: ""
 title_ja: "橋本 お初"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16529"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hashimoto Ohatsu"
-  - "橋本 お初"
   - "Hashimoto Hatsu (橋本 初)"
 source_ids:
   vndb: "c16529"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c16529.webp"
 ---
 
-# 桥本奥初
+# 橋本 お初
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

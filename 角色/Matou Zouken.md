@@ -5,7 +5,10 @@ display_title: "间桐脏砚"
 title_zh: "间桐脏砚"
 title_ja: "間桐 臓硯"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c51"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Matou Zouken"
   - "間桐 臓硯"

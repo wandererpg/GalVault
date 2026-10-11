@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126293"
 type: "character"
-display_title: "贝露泽巴布Ｂ"
-title_zh: "贝露泽巴布Ｂ"
+display_title: "ベルゼバブＢ"
+title_zh: ""
 title_ja: "ベルゼバブＢ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126293"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Beelzebub B"
-  - "ベルゼバブＢ"
   - "Striga"
 source_ids:
   vndb: "c126293"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c126293.webp"
 ---
 
-# 贝露泽巴布Ｂ
+# ベルゼバブＢ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

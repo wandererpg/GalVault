@@ -5,7 +5,10 @@ display_title: "吉川晃司"
 title_zh: "吉川晃司"
 title_ja: "吉川 晃司"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c78149"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yoshikawa Kouji"
   - "吉川 晃司"

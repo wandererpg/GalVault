@@ -5,7 +5,10 @@ display_title: "后藤稔"
 title_zh: "后藤稔"
 title_ja: "後藤 稔"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c236"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Gotou Minoru"
   - "後藤 稔"

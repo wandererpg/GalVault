@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c92593"
 type: "character"
-display_title: "雅恰雅恰真恩"
-title_zh: "雅恰雅恰真恩"
+display_title: "ガチャガチャマン"
+title_zh: ""
 title_ja: "ガチャガチャマン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92593"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gacha Gacha Man"
-  - "ガチャガチャマン"
 source_ids:
   vndb: "c92593"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c92593.webp"
 ---
 
-# 雅恰雅恰真恩
+# ガチャガチャマン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

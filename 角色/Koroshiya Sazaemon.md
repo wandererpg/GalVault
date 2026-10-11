@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14352"
 type: "character"
-display_title: "虎狼死家左々右惠门"
-title_zh: "虎狼死家左々右惠门"
+display_title: "虎狼死家 左々右エ門"
+title_zh: ""
 title_ja: "虎狼死家 左々右エ門"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14352"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Koroshiya Sazaemon"
-  - "虎狼死家 左々右エ門"
 source_ids:
   vndb: "c14352"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c14352.webp"
 ---
 
-# 虎狼死家左々右惠门
+# 虎狼死家 左々右エ門
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

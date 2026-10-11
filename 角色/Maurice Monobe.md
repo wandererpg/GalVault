@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38373"
 type: "character"
-display_title: "莫奥莉寿物部"
-title_zh: "莫奥莉寿物部"
+display_title: "モーリス・物部"
+title_zh: ""
 title_ja: "モーリス・物部"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38373"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Maurice Monobe"
-  - "モーリス・物部"
   - "Tetsurou Monobe"
 source_ids:
   vndb: "c38373"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c38373.webp"
 ---
 
-# 莫奥莉寿物部
+# モーリス・物部
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

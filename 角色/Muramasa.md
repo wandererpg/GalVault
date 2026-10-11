@@ -5,7 +5,10 @@ display_title: "二世村正"
 title_zh: "二世村正"
 title_ja: "二世村正"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c110017"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Muramasa"
   - "Nisei Muramasa"

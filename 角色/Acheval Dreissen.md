@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c72120"
 type: "character"
-display_title: "阿修巴露堂拉伊濑恩"
-title_zh: "阿修巴露堂拉伊濑恩"
+display_title: "アシュバル・ドライセン"
+title_zh: ""
 title_ja: "アシュバル・ドライセン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c72120"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Acheval Dreissen"
-  - "アシュバル・ドライセン"
 source_ids:
   vndb: "c72120"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c72120.webp"
 ---
 
-# 阿修巴露堂拉伊濑恩
+# アシュバル・ドライセン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

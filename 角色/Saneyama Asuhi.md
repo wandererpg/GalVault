@@ -5,7 +5,10 @@ display_title: "实山明日阳"
 title_zh: "实山明日阳"
 title_ja: "実山 明日陽"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c144696"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Saneyama Asuhi"
   - "実山 明日陽"

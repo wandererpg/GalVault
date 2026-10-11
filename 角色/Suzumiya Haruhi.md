@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c72530"
 type: "character"
-display_title: "凉宫羽露日"
-title_zh: "凉宫羽露日"
+display_title: "涼宮 ハルヒ"
+title_zh: ""
 title_ja: "涼宮 ハルヒ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c72530"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Suzumiya Haruhi"
-  - "涼宮 ハルヒ"
 source_ids:
   vndb: "c72530"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c72530.webp"
 ---
 
-# 凉宫羽露日
+# 涼宮 ハルヒ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

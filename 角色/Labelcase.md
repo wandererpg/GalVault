@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c142061"
 type: "character"
-display_title: "拉贝露惠惠寿"
-title_zh: "拉贝露惠惠寿"
+display_title: "ラベルケース"
+title_zh: ""
 title_ja: "ラベルケース"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c142061"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Labelcase"
-  - "ラベルケース"
 source_ids:
   vndb: "c142061"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c142061.webp"
 ---
 
-# 拉贝露惠惠寿
+# ラベルケース
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

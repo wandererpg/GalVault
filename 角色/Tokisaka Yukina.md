@@ -5,7 +5,10 @@ display_title: "常坂雪那"
 title_zh: "常坂雪那"
 title_ja: "常坂 雪那"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c113838"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tokisaka Yukina"
   - "常坂 雪那"

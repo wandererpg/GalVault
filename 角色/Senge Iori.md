@@ -5,7 +5,10 @@ display_title: "千家伊织"
 title_zh: "千家伊织"
 title_ja: "千家 伊織"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c18376"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Senge Iori"
   - "千家 伊織"

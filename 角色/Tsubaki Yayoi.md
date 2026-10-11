@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c25641"
 type: "character"
-display_title: "津巴希雅代伊"
-title_zh: "津巴希雅代伊"
+display_title: "ツバキ゠ヤヨイ"
+title_zh: ""
 title_ja: "ツバキ゠ヤヨイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c25641"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tsubaki Yayoi"
-  - "ツバキ゠ヤヨイ"
   - "Average Lady"
   - "Eye Woman"
   - "Red Lady"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c25641.webp"
 ---
 
-# 津巴希雅代伊
+# ツバキ゠ヤヨイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

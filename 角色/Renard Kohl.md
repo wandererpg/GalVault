@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c91953"
 type: "character"
-display_title: "蕾奈RD·子HL"
-title_zh: "蕾奈RD·子HL"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Renard Kohl"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c91953"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Renard Kohl"
 source_ids:
   vndb: "c91953"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c91953.webp"
 ---
 
-# 蕾奈RD·子HL
+# Renard Kohl
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

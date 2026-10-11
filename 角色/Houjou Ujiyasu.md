@@ -5,7 +5,10 @@ display_title: "北条氏康"
 title_zh: "北条氏康"
 title_ja: "北条 氏康"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c40924"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Houjou Ujiyasu"
   - "北条 氏康"

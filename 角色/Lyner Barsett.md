@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c3681"
 type: "character"
-display_title: "拉伊奈阿巴露濑露斗"
-title_zh: "拉伊奈阿巴露濑露斗"
+display_title: "ライナー・バルセルト"
+title_zh: ""
 title_ja: "ライナー・バルセルト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c3681"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lyner Barsett"
-  - "ライナー・バルセルト"
   - "Lyner Barsert"
 source_ids:
   vndb: "c3681"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c3681.webp"
 ---
 
-# 拉伊奈阿巴露濑露斗
+# ライナー・バルセルト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

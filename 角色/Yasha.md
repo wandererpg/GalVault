@@ -5,7 +5,10 @@ display_title: "夜叉"
 title_zh: "夜叉"
 title_ja: "夜叉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43641"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yasha"
 source_ids:

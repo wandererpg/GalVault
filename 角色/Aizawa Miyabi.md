@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c46121"
 type: "character"
-display_title: "爱泽美雅比"
-title_zh: "爱泽美雅比"
+display_title: "愛沢 みやび"
+title_zh: ""
 title_ja: "愛沢 みやび"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c46121"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Aizawa Miyabi"
-  - "愛沢 みやび"
 source_ids:
   vndb: "c46121"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c46121.webp"
 ---
 
-# 爱泽美雅比
+# 愛沢 みやび
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

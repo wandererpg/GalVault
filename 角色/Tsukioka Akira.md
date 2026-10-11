@@ -5,7 +5,10 @@ display_title: "月丘彰"
 title_zh: "月丘彰"
 title_ja: "月丘 彰"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c13085"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsukioka Akira"
   - "月丘 彰"

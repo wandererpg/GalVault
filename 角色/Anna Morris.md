@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c142522"
 type: "character"
-display_title: "安娜·莫R莉S"
-title_zh: "安娜·莫R莉S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Anna Morris"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c142522"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Anna Morris"
 source_ids:
   vndb: "c142522"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c142522.webp"
 ---
 
-# 安娜·莫R莉S
+# Anna Morris
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

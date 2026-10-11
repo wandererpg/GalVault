@@ -5,7 +5,10 @@ display_title: "常坂二乃"
 title_zh: "常坂二乃"
 title_ja: "常坂 二乃"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c77136"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tokisaka Nino"
   - "常坂 二乃"

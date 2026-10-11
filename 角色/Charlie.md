@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c100687"
 type: "character"
-display_title: "恰RL伊惠"
-title_zh: "恰RL伊惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Charlie"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c100687"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Charlie"
 source_ids:
   vndb: "c100687"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c100687.webp"
 ---
 
-# 恰RL伊惠
+# Charlie
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

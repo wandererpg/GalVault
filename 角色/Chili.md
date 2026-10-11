@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c165814"
 type: "character"
-display_title: "千L伊"
-title_zh: "千L伊"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Chili"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c165814"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Chili"
 source_ids:
   vndb: "c165814"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c165814.webp"
 ---
 
-# 千L伊
+# Chili
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

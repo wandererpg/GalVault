@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159828"
 type: "character"
-display_title: "真达芽·雅L阿M"
-title_zh: "真达芽·雅L阿M"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Madame Galam"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159828"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Madame Galam"
 source_ids:
   vndb: "c159828"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c159828.webp"
 ---
 
-# 真达芽·雅L阿M
+# Madame Galam
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

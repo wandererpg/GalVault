@@ -5,7 +5,10 @@ display_title: "浅仓奈緖子"
 title_zh: "浅仓奈緖子"
 title_ja: "浅倉 奈緒子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9954"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Asakura Naoko"
   - "浅倉 奈緒子"

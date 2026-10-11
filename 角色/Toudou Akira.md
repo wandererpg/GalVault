@@ -5,7 +5,10 @@ display_title: "藤堂晓"
 title_zh: "藤堂晓"
 title_ja: "藤堂 暁"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c93817"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Toudou Akira"
   - "藤堂 暁"

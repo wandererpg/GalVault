@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c88121"
 type: "character"
-display_title: "惠莉K·W伊L惠LM"
-title_zh: "惠莉K·W伊L惠LM"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Erik Wilhelm"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c88121"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Erik Wilhelm"
 source_ids:
   vndb: "c88121"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c88121.webp"
 ---
 
-# 惠莉K·W伊L惠LM
+# Erik Wilhelm
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

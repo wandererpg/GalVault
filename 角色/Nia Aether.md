@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c100157"
 type: "character"
-display_title: "尼阿·阿惠T惠R"
-title_zh: "尼阿·阿惠T惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Nia Aether"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c100157"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Nia Aether"
 source_ids:
   vndb: "c100157"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c100157.webp"
 ---
 
-# 尼阿·阿惠T惠R
+# Nia Aether
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

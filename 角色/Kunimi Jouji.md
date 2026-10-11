@@ -5,7 +5,10 @@ display_title: "国见穰二"
 title_zh: "国见穰二"
 title_ja: "国見 穣二"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c19640"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kunimi Jouji"
   - "国見 穣二"

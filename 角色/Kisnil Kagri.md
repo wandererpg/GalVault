@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c55451"
 type: "character"
-display_title: "希寿尼露加古莉"
-title_zh: "希寿尼露加古莉"
+display_title: "キスニル・カグリ"
+title_zh: ""
 title_ja: "キスニル・カグリ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c55451"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kisnil Kagri"
-  - "キスニル・カグリ"
 source_ids:
   vndb: "c55451"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c55451.webp"
 ---
 
-# 希寿尼露加古莉
+# キスニル・カグリ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

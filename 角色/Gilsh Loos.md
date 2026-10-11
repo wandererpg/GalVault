@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61997"
 type: "character"
-display_title: "吉露修露乌寿"
-title_zh: "吉露修露乌寿"
+display_title: "ギルシュ・ルース"
+title_zh: ""
 title_ja: "ギルシュ・ルース"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61997"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gilsh Loos"
-  - "ギルシュ・ルース"
   - "ギルシュ殿下 (Most of his subjects and subordinates)"
 source_ids:
   vndb: "c61997"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c61997.webp"
 ---
 
-# 吉露修露乌寿
+# ギルシュ・ルース
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

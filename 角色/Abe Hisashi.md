@@ -5,7 +5,10 @@ display_title: "阿部久志"
 title_zh: "阿部久志"
 title_ja: "阿部 久志"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c99840"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Abe Hisashi"
   - "阿部 久志"

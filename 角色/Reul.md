@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c133742"
 type: "character"
-display_title: "蕾乌L"
-title_zh: "蕾乌L"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Reul"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c133742"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Reul"
 source_ids:
   vndb: "c133742"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c133742.webp"
 ---
 
-# 蕾乌L
+# Reul
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

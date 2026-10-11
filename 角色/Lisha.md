@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c74681"
 type: "character"
-display_title: "L伊夏"
-title_zh: "L伊夏"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Lisha"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c74681"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Lisha"
   - "Miss Valedictorian"
 source_ids:
   vndb: "c74681"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c74681.webp"
 ---
 
-# L伊夏
+# Lisha
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

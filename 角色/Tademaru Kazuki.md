@@ -5,7 +5,10 @@ display_title: "蓼丸一贵"
 title_zh: "蓼丸一贵"
 title_ja: "蓼丸 一貴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c87453"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tademaru Kazuki"
   - "蓼丸 一貴"

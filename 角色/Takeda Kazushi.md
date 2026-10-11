@@ -5,7 +5,10 @@ display_title: "武田一志"
 title_zh: "武田一志"
 title_ja: "武田 一志"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c38354"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takeda Kazushi"
   - "武田 一志"

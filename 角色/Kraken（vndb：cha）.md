@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13603"
 type: "character"
-display_title: "久拉阿惠恩"
-title_zh: "久拉阿惠恩"
+display_title: "クラーケン"
+title_zh: ""
 title_ja: "クラーケン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13603"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kraken"
-  - "クラーケン"
 source_ids:
   vndb: "c13603"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c13603.webp"
 ---
 
-# 久拉阿惠恩
+# クラーケン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

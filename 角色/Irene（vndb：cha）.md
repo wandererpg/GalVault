@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39827"
 type: "character"
-display_title: "伊蕾惠音"
-title_zh: "伊蕾惠音"
+display_title: "イレーネ"
+title_zh: ""
 title_ja: "イレーネ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39827"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Irene"
-  - "イレーネ"
 source_ids:
   vndb: "c39827"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c39827.webp"
 ---
 
-# 伊蕾惠音
+# イレーネ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

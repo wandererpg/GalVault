@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c2426"
 type: "character"
-display_title: "高山悟露悟"
-title_zh: "高山悟露悟"
+display_title: "高山 ゴルゴ"
+title_zh: ""
 title_ja: "高山 ゴルゴ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c2426"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Takayama Golgo"
-  - "高山 ゴルゴ"
 source_ids:
   vndb: "c2426"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c2426.webp"
 ---
 
-# 高山悟露悟
+# 高山 ゴルゴ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

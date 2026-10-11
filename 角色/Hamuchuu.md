@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c85069"
 type: "character"
-display_title: "羽梦秋乌"
-title_zh: "羽梦秋乌"
+display_title: "ハムチュウ"
+title_zh: ""
 title_ja: "ハムチュウ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85069"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hamuchuu"
-  - "ハムチュウ"
 source_ids:
   vndb: "c85069"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c85069.webp"
 ---
 
-# 羽梦秋乌
+# ハムチュウ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

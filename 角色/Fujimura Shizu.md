@@ -5,7 +5,10 @@ display_title: "藤村静"
 title_zh: "藤村静"
 title_ja: "藤村 静"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9956"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fujimura Shizu"
   - "藤村 静"

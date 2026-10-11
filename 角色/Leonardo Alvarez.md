@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c92039"
 type: "character"
-display_title: "L惠奥奈R堂·阿LV阿蕾Z"
-title_zh: "L惠奥奈R堂·阿LV阿蕾Z"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Leonardo Alvarez"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92039"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Leonardo Alvarez"
   - "Leo"
 source_ids:
   vndb: "c92039"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c92039.webp"
 ---
 
-# L惠奥奈R堂·阿LV阿蕾Z
+# Leonardo Alvarez
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

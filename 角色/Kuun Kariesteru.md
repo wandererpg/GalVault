@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c101170"
 type: "character"
-display_title: "久乌恩加莉惠寿特露"
-title_zh: "久乌恩加莉惠寿特露"
+display_title: "クーン・カリエステル"
+title_zh: ""
 title_ja: "クーン・カリエステル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c101170"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kuun Kariesteru"
-  - "クーン・カリエステル"
 source_ids:
   vndb: "c101170"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c101170.webp"
 ---
 
-# 久乌恩加莉惠寿特露
+# クーン・カリエステル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

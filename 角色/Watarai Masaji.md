@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10955"
 type: "character"
-display_title: "度会真沙路"
-title_zh: "度会真沙路"
+display_title: "度會 まさ路"
+title_zh: ""
 title_ja: "度會 まさ路"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10955"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Watarai Masaji"
-  - "度會 まさ路"
 source_ids:
   vndb: "c10955"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c10955.webp"
 ---
 
-# 度会真沙路
+# 度會 まさ路
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

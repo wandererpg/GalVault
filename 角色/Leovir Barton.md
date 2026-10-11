@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c6224"
 type: "character"
-display_title: "蕾奥V伊露巴露斗恩"
-title_zh: "蕾奥V伊露巴露斗恩"
+display_title: "レオヴィル・バルトン"
+title_zh: ""
 title_ja: "レオヴィル・バルトン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c6224"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Leovir Barton"
-  - "レオヴィル・バルトン"
   - "Leo"
 source_ids:
   vndb: "c6224"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c6224.webp"
 ---
 
-# 蕾奥V伊露巴露斗恩
+# レオヴィル・バルトン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

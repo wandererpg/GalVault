@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c136992"
 type: "character"
-display_title: "C奥阿CH·美惠"
-title_zh: "C奥阿CH·美惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Coach Mike"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136992"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Coach Mike"
 source_ids:
   vndb: "c136992"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c136992.webp"
 ---
 
-# C奥阿CH·美惠
+# Coach Mike
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

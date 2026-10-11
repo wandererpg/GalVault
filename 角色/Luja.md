@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c146649"
 type: "character"
-display_title: "L乌嘉"
-title_zh: "L乌嘉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Luja"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c146649"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Luja"
 source_ids:
   vndb: "c146649"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c146649.webp"
 ---
 
-# L乌嘉
+# Luja
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

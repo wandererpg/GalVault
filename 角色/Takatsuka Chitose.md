@@ -5,7 +5,10 @@ display_title: "鹰司千岁"
 title_zh: "鹰司千岁"
 title_ja: "鷹司 千歳"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c50692"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takatsuka Chitose"
   - "鷹司 千歳"

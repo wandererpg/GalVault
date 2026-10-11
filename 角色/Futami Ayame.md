@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c20937"
 type: "character"
-display_title: "双见阿雅芽"
-title_zh: "双见阿雅芽"
+display_title: "双見 あやめ"
+title_zh: ""
 title_ja: "双見 あやめ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c20937"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Futami Ayame"
-  - "双見 あやめ"
 source_ids:
   vndb: "c20937"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c20937.webp"
 ---
 
-# 双见阿雅芽
+# 双見 あやめ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

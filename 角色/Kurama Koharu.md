@@ -5,7 +5,10 @@ display_title: "鞍马小春"
 title_zh: "鞍马小春"
 title_ja: "鞍馬 小春"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c44772"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kurama Koharu"
   - "鞍馬 小春"

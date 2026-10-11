@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c93063"
 type: "character"
-display_title: "乙部和加奈"
-title_zh: "乙部和加奈"
+display_title: "乙部 わかな"
+title_zh: ""
 title_ja: "乙部 わかな"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c93063"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Otobe Wakana"
-  - "乙部 わかな"
 source_ids:
   vndb: "c93063"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c93063.webp"
 ---
 
-# 乙部和加奈
+# 乙部 わかな
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

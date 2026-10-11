@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c66918"
 type: "character"
-display_title: "梦拉沙芽博士"
-title_zh: "梦拉沙芽博士"
+display_title: "ムラサメ博士"
+title_zh: ""
 title_ja: "ムラサメ博士"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c66918"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Dr. Murasame"
-  - "ムラサメ博士"
 source_ids:
   vndb: "c66918"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c66918.webp"
 ---
 
-# 梦拉沙芽博士
+# ムラサメ博士
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

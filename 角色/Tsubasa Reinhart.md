@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43122"
 type: "character"
-display_title: "翼＝蕾伊奈阿斗"
-title_zh: "翼＝蕾伊奈阿斗"
+display_title: "ツバサ＝レイナート"
+title_zh: ""
 title_ja: "ツバサ＝レイナート"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43122"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tsubasa Reinhart"
-  - "ツバサ＝レイナート"
 source_ids:
   vndb: "c43122"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43122.webp"
 ---
 
-# 翼＝蕾伊奈阿斗
+# ツバサ＝レイナート
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

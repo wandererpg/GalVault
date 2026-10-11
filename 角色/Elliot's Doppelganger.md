@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c171817"
 type: "character"
-display_title: "惠LL伊奥TS·堂P佩L雅恩格R"
-title_zh: "惠LL伊奥TS·堂P佩L雅恩格R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Elliot's Doppelganger"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c171817"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Elliot's Doppelganger"
 source_ids:
   vndb: "c171817"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c171817.webp"
 ---
 
-# 惠LL伊奥TS·堂P佩L雅恩格R
+# Elliot's Doppelganger
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "乳崎萌美奈"
 title_zh: "乳崎萌美奈"
 title_ja: "乳崎 萌美奈"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c146733"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Chichizaki Momina"
   - "乳崎 萌美奈"

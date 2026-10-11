@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71180"
 type: "character"
-display_title: "龙子乌"
-title_zh: "龙子乌"
+display_title: "リュコウ"
+title_zh: ""
 title_ja: "リュコウ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71180"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ryukou"
-  - "リュコウ"
 source_ids:
   vndb: "c71180"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71180.webp"
 ---
 
-# 龙子乌
+# リュコウ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c132199"
 type: "character"
-display_title: "嘉CKY"
-title_zh: "嘉CKY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jacky"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132199"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jacky"
 source_ids:
   vndb: "c132199"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c132199.webp"
 ---
 
-# 嘉CKY
+# Jacky
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

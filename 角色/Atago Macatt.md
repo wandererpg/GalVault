@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126915"
 type: "character"
-display_title: "阿太悟真加T斗"
-title_zh: "阿太悟真加T斗"
+display_title: "アタゴ・マカット"
+title_zh: ""
 title_ja: "アタゴ・マカット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126915"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Atago Macatt"
-  - "アタゴ・マカット"
   - "Atago McCart"
 source_ids:
   vndb: "c126915"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c126915.webp"
 ---
 
-# 阿太悟真加T斗
+# アタゴ・マカット
 
 
 ## 角色画像

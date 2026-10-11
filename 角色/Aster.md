@@ -5,7 +5,10 @@ display_title: "艾斯特"
 title_zh: "艾斯特"
 title_ja: "エスター"
 title_zh_quality: "manual_override"
-title_status: "machine_generated"
+title_status: "reviewed"
+title_zh_source: "按《新世界狂欢》中文资料中的角色名修正；参考 https://moegirl.icu/zh-hans/%E8%89%BE%E6%96%AF%E7%89%B9"
+title_zh_confidence: "medium"
+title_zh_needs_review: false
 aliases:
   - "Aster"
   - "エスター"

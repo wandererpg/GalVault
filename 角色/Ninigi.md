@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c106369"
 type: "character"
-display_title: "尼尼吉"
-title_zh: "尼尼吉"
+display_title: "ニニギ"
+title_zh: ""
 title_ja: "ニニギ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c106369"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ninigi"
-  - "ニニギ"
   - "天邇岐志国邇岐志天津日高日子番能邇邇芸命"
   - "amenigishikuninigishiamatsuhikohikohononiniginomikoto"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c106369.webp"
 ---
 
-# 尼尼吉
+# ニニギ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c60774"
 type: "character"
-display_title: "泽梦乃芙将军"
-title_zh: "泽梦乃芙将军"
+display_title: "ゼムノフ将軍"
+title_zh: ""
 title_ja: "ゼムノフ将軍"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c60774"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "General Zemnov"
-  - "ゼムノフ将軍"
 source_ids:
   vndb: "c60774"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c60774.webp"
 ---
 
-# 泽梦乃芙将军
+# ゼムノフ将軍
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

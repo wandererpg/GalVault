@@ -5,7 +5,10 @@ display_title: "小田氏治"
 title_zh: "小田氏治"
 title_ja: "小田 氏治"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c41079"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Oda Ujiharu"
   - "小田 氏治"

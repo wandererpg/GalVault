@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c29534"
 type: "character"
-display_title: "羽田代奥吉"
-title_zh: "羽田代奥吉"
+display_title: "羽田 ヨージ"
+title_zh: ""
 title_ja: "羽田 ヨージ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c29534"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Haneda Youji"
-  - "羽田 ヨージ"
 source_ids:
   vndb: "c29534"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c29534.webp"
 ---
 
-# 羽田代奥吉
+# 羽田 ヨージ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

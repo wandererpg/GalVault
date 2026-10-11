@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c127358"
 type: "character"
-display_title: "T洛奥佩洛伊D"
-title_zh: "T洛奥佩洛伊D"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Trooperoid"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127358"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Trooperoid"
   - "Number 67"
 source_ids:
   vndb: "c127358"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c127358.webp"
 ---
 
-# T洛奥佩洛伊D
+# Trooperoid
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

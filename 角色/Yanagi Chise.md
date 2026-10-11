@@ -5,7 +5,10 @@ display_title: "矢薙千星"
 title_zh: "矢薙千星"
 title_ja: "矢薙 千星"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c78127"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yanagi Chise"
   - "矢薙 千星"

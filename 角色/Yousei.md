@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c47199"
 type: "character"
-display_title: "妖精沙恩"
-title_zh: "妖精沙恩"
+display_title: "妖精さん"
+title_zh: ""
 title_ja: "妖精さん"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c47199"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yousei"
-  - "妖精さん"
 source_ids:
   vndb: "c47199"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c47199.webp"
 ---
 
-# 妖精沙恩
+# 妖精さん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

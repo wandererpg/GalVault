@@ -5,7 +5,10 @@ display_title: "对马馨"
 title_zh: "对马馨"
 title_ja: "対馬 馨"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c73017"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsushima Kei"
   - "対馬 馨"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c153274"
 type: "character"
-display_title: "W伊LLY·莫恩太古惠"
-title_zh: "W伊LLY·莫恩太古惠"
+display_title: "윌리 몬테규"
+title_zh: ""
 title_ja: "윌리 몬테규"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c153274"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Willy Montague"
-  - "윌리 몬테규"
 source_ids:
   vndb: "c153274"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c153274.webp"
 ---
 
-# W伊LLY·莫恩太古惠
+# 윌리 몬테규
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

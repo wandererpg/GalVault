@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c116944"
 type: "character"
-display_title: "代美乌莉·尼惠伊"
-title_zh: "代美乌莉·尼惠伊"
+display_title: "요미우리 니케이"
+title_zh: ""
 title_ja: "요미우리 니케이"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116944"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yomiuri Nikei"
-  - "요미우리 니케이"
   - "Super High School Level Journalist"
 source_ids:
   vndb: "c116944"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c116944.webp"
 ---
 
-# 代美乌莉·尼惠伊
+# 요미우리 니케이
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

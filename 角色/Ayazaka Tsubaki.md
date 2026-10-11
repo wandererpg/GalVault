@@ -5,7 +5,10 @@ display_title: "绚坂椿姫"
 title_zh: "绚坂椿姫"
 title_ja: "絢坂 椿姫"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c22569"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ayazaka Tsubaki"
   - "絢坂 椿姫"

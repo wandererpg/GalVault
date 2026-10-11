@@ -5,7 +5,10 @@ display_title: "​黄印莲"
 title_zh: "​黄印莲"
 title_ja: "​黄印 蓮"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c117645"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "​Kizirushi Ren"
   - "​黄印 蓮"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c85515"
 type: "character"
-display_title: "舞羽奈奈"
-title_zh: "舞羽奈奈"
+display_title: "舞羽 ナナ"
+title_zh: ""
 title_ja: "舞羽 ナナ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85515"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Maiba Nana"
-  - "舞羽 ナナ"
   - "My banana"
 source_ids:
   vndb: "c85515"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c85515.webp"
 ---
 
-# 舞羽奈奈
+# 舞羽 ナナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

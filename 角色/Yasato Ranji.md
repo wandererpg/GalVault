@@ -5,7 +5,10 @@ display_title: "八乡蓝视"
 title_zh: "八乡蓝视"
 title_ja: "八郷 藍視"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c81764"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yasato Ranji"
   - "八郷 藍視"

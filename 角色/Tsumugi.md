@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c136460"
 type: "character"
-display_title: "津梦吉"
-title_zh: "津梦吉"
+display_title: "ツムギ"
+title_zh: ""
 title_ja: "ツムギ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136460"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tsumugi"
-  - "ツムギ"
 source_ids:
   vndb: "c136460"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c136460.webp"
 ---
 
-# 津梦吉
+# ツムギ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

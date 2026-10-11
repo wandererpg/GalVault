@@ -5,7 +5,10 @@ display_title: "川之江让"
 title_zh: "川之江让"
 title_ja: "川之江 譲"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c121468"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kawanoe Yuzuru"
   - "川之江 譲"

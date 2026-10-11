@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c91049"
 type: "character"
-display_title: "索菲娅"
-title_zh: "索菲娅"
+display_title: "ソフィア"
+title_zh: ""
 title_ja: "ソフィア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c91049"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sofia"
-  - "ソフィア"
 source_ids:
   vndb: "c91049"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c91049.webp"
 ---
 
-# 索菲娅
+# ソフィア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

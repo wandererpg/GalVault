@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c161677"
 type: "character"
-display_title: "沙美伊特伊佩T斗"
-title_zh: "沙美伊特伊佩T斗"
+display_title: "サミー・ティペット"
+title_zh: ""
 title_ja: "サミー・ティペット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161677"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sammy Tippett"
-  - "サミー・ティペット"
 source_ids:
   vndb: "c161677"
 source_urls:
   vndb: "https://vndb.org/c161677"
 ---
 
-# 沙美伊特伊佩T斗
+# サミー・ティペット
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

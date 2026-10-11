@@ -5,7 +5,10 @@ display_title: "高桥菜々实"
 title_zh: "高桥菜々实"
 title_ja: "高橋 菜々実"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c93298"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takahashi Nanami"
   - "高橋 菜々実"

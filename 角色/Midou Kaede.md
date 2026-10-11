@@ -5,7 +5,10 @@ display_title: "御堂枫"
 title_zh: "御堂枫"
 title_ja: "御堂 楓"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c84171"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Midou Kaede"
   - "御堂 楓"

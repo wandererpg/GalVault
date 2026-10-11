@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c51596"
 type: "character"
-display_title: "惠芽L阿伊G音·W伊D德恩索V"
-title_zh: "惠芽L阿伊G音·W伊D德恩索V"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Emelaigne Widdensov"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c51596"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Emelaigne Widdensov"
 source_ids:
   vndb: "c51596"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c51596.webp"
 ---
 
-# 惠芽L阿伊G音·W伊D德恩索V
+# Emelaigne Widdensov
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

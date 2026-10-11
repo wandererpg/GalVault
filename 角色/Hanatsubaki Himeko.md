@@ -5,7 +5,10 @@ display_title: "花椿姫子"
 title_zh: "花椿姫子"
 title_ja: "花椿 姫子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1287"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hanatsubaki Himeko"
   - "花椿 姫子"

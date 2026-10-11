@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71173"
 type: "character"
-display_title: "美伊特伊露＝真伊恩"
-title_zh: "美伊特伊露＝真伊恩"
+display_title: "ミーティル＝マイン"
+title_zh: ""
 title_ja: "ミーティル＝マイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71173"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mittel Mine"
-  - "ミーティル＝マイン"
 source_ids:
   vndb: "c71173"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71173.webp"
 ---
 
-# 美伊特伊露＝真伊恩
+# ミーティル＝マイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

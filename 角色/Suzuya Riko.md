@@ -5,7 +5,10 @@ display_title: "铃谷梨子"
 title_zh: "铃谷梨子"
 title_ja: "鈴谷　梨子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c144198"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Suzuya Riko"
   - "鈴谷　梨子"

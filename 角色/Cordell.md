@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c22"
 type: "character"
-display_title: "子奥德露"
-title_zh: "子奥德露"
+display_title: "コーデル"
+title_zh: ""
 title_ja: "コーデル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c22"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cordell"
-  - "コーデル"
 source_ids:
   vndb: "c22"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c22.webp"
 ---
 
-# 子奥德露
+# コーデル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

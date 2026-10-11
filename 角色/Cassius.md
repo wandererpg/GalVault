@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c97007"
 type: "character"
-display_title: "C阿SS伊乌S"
-title_zh: "C阿SS伊乌S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Cassius"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97007"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Cassius"
 source_ids:
   vndb: "c97007"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c97007.webp"
 ---
 
-# C阿SS伊乌S
+# Cassius
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

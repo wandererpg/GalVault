@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c87377"
 type: "character"
-display_title: "奥RC"
-title_zh: "奥RC"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Orc"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87377"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Orc"
 source_ids:
   vndb: "c87377"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c87377.webp"
 ---
 
-# 奥RC
+# Orc
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

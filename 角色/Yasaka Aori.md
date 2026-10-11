@@ -5,7 +5,10 @@ display_title: "矢坂苍织"
 title_zh: "矢坂苍织"
 title_ja: "矢坂 蒼織"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c90710"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yasaka Aori"
   - "矢坂 蒼織"

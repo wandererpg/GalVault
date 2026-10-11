@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c15816"
 type: "character"
-display_title: "真蕾露"
-title_zh: "真蕾露"
+display_title: "マレル"
+title_zh: ""
 title_ja: "マレル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c15816"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Marelle"
-  - "マレル"
 source_ids:
   vndb: "c15816"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c15816.webp"
 ---
 
-# 真蕾露
+# マレル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

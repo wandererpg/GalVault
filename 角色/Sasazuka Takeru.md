@@ -5,7 +5,10 @@ display_title: "笹冢尊"
 title_zh: "笹冢尊"
 title_ja: "笹塚 尊"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c39733"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sasazuka Takeru"
   - "笹塚 尊"

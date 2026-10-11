@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c37798"
 type: "character"
-display_title: "雅久斗和露斗"
-title_zh: "雅久斗和露斗"
+display_title: "ヤクトワルト"
+title_zh: ""
 title_ja: "ヤクトワルト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37798"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jachdwalt"
-  - "ヤクトワルト"
   - "Yakutowaruto"
   - "Mirage Blade"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c37798.webp"
 ---
 
-# 雅久斗和露斗
+# ヤクトワルト
 
 
 ## 角色画像

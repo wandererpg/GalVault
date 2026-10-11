@@ -5,7 +5,10 @@ display_title: "万代大作"
 title_zh: "万代大作"
 title_ja: "万代 大作"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c104731"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Bandai Daisaku"
   - "万代 大作"

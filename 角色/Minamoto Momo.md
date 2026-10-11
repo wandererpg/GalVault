@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c147116"
 type: "character"
-display_title: "源莫莫"
-title_zh: "源莫莫"
+display_title: "源 モモ"
+title_zh: ""
 title_ja: "源 モモ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c147116"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Minamoto Momo"
-  - "源 モモ"
 source_ids:
   vndb: "c147116"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c147116.webp"
 ---
 
-# 源莫莫
+# 源 モモ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "宗像戒"
 title_zh: "宗像戒"
 title_ja: "宗像 戒"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c146088"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Munakata Kai"
   - "宗像 戒"

@@ -5,7 +5,10 @@ display_title: "老婆"
 title_zh: "老婆"
 title_ja: "老婆"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c17623"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Rooba"
 source_ids:

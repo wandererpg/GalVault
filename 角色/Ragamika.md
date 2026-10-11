@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c170854"
 type: "character"
-display_title: "拉雅美加"
-title_zh: "拉雅美加"
+display_title: "ラガミカ"
+title_zh: ""
 title_ja: "ラガミカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c170854"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ragamika"
-  - "ラガミカ"
 source_ids:
   vndb: "c170854"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c170854.webp"
 ---
 
-# 拉雅美加
+# ラガミカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

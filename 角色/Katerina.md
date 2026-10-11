@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c108259"
 type: "character"
-display_title: "加特莉奈"
-title_zh: "加特莉奈"
+display_title: "カテリナ"
+title_zh: ""
 title_ja: "カテリナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c108259"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Katerina"
-  - "カテリナ"
 source_ids:
   vndb: "c108259"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c108259.webp"
 ---
 
-# 加特莉奈
+# カテリナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

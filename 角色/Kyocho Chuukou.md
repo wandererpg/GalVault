@@ -5,7 +5,10 @@ display_title: "许緖仲康"
 title_zh: "许緖仲康"
 title_ja: "許緒 仲康"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c19319"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kyocho Chuukou"
   - "許緒 仲康"

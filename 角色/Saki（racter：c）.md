@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c7241"
 type: "character"
-display_title: "沙希"
-title_zh: "沙希"
+display_title: "サキ"
+title_zh: ""
 title_ja: "サキ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c7241"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Saki"
-  - "サキ"
 source_ids:
   vndb: "c7241"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c7241.webp"
 ---
 
-# 沙希
+# サキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

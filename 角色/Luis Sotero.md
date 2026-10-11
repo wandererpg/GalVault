@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c76333"
 type: "character"
-display_title: "露伊寿索特洛"
-title_zh: "露伊寿索特洛"
+display_title: "ルイス・ソテロ"
+title_zh: ""
 title_ja: "ルイス・ソテロ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c76333"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Luis Sotero"
-  - "ルイス・ソテロ"
 source_ids:
   vndb: "c76333"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c76333.webp"
 ---
 
-# 露伊寿索特洛
+# ルイス・ソテロ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

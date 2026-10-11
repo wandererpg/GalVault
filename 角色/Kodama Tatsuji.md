@@ -5,7 +5,10 @@ display_title: "儿玉达治"
 title_zh: "儿玉达治"
 title_ja: "児玉 達治"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c144419"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kodama Tatsuji"
   - "児玉 達治"

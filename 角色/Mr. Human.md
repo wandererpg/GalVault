@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c145846"
 type: "character"
-display_title: "人间乃男"
-title_zh: "人间乃男"
+display_title: "人間の男"
+title_zh: ""
 title_ja: "人間の男"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c145846"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mr. Human"
-  - "人間の男"
 source_ids:
   vndb: "c145846"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c145846.webp"
 ---
 
-# 人间乃男
+# 人間の男
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

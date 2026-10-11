@@ -5,7 +5,10 @@ display_title: "嶋雄三"
 title_zh: "嶋雄三"
 title_ja: "嶋 雄三"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c89701"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shima Yuuzou"
   - "嶋 雄三"

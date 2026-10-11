@@ -5,7 +5,10 @@ display_title: "山田诚二"
 title_zh: "山田诚二"
 title_ja: "山田 誠二"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c95412"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yamada Seiji"
   - "山田 誠二"

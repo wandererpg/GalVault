@@ -5,7 +5,10 @@ display_title: "横山洁"
 title_zh: "横山洁"
 title_ja: "横山 潔"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c64890"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yokoyama Kiyoshi"
   - "横山 潔"

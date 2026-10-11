@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13836"
 type: "character"
-display_title: "津久代美"
-title_zh: "津久代美"
+display_title: "ツクヨミ"
+title_zh: ""
 title_ja: "ツクヨミ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13836"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tsukuyomi"
-  - "ツクヨミ"
 source_ids:
   vndb: "c13836"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c13836.webp"
 ---
 
-# 津久代美
+# ツクヨミ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

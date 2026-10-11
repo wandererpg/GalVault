@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125185"
 type: "character"
-display_title: "美加惠拉"
-title_zh: "美加惠拉"
+display_title: "ミカエラ"
+title_zh: ""
 title_ja: "ミカエラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125185"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Micaela"
-  - "ミカエラ"
 source_ids:
   vndb: "c125185"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c125185.webp"
 ---
 
-# 美加惠拉
+# ミカエラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

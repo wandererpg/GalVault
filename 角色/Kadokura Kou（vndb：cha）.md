@@ -5,7 +5,10 @@ display_title: "门仓甲"
 title_zh: "门仓甲"
 title_ja: "門倉 甲"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c4558"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kadokura Kou"
   - "門倉 甲"

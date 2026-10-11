@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61306"
 type: "character"
-display_title: "美伊美露"
-title_zh: "美伊美露"
+display_title: "ミーミル"
+title_zh: ""
 title_ja: "ミーミル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61306"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mímir"
-  - "ミーミル"
   - "Мимир"
 source_ids:
   vndb: "c61306"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c61306.webp"
 ---
 
-# 美伊美露
+# ミーミル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

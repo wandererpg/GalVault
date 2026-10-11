@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c95822"
 type: "character"
-display_title: "羽皮音寿"
-title_zh: "羽皮音寿"
+display_title: "ハピネス"
+title_zh: ""
 title_ja: "ハピネス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c95822"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Harpyness"
-  - "ハピネス"
 source_ids:
   vndb: "c95822"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c95822.webp"
 ---
 
-# 羽皮音寿
+# ハピネス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

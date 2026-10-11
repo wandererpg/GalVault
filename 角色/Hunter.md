@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c156497"
 type: "character"
-display_title: "H乌恩特R"
-title_zh: "H乌恩特R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Hunter"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c156497"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Hunter"
 source_ids:
   vndb: "c156497"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c156497.webp"
 ---
 
-# H乌恩特R
+# Hunter
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

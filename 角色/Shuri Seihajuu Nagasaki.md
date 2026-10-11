@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c122461"
 type: "character"
-display_title: "修莉濑伊羽朱乌奈雅沙希"
-title_zh: "修莉濑伊羽朱乌奈雅沙希"
+display_title: "シュリ・セイハジュウ・ナガサキ"
+title_zh: ""
 title_ja: "シュリ・セイハジュウ・ナガサキ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c122461"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shuri Seihajuu Nagasaki"
-  - "シュリ・セイハジュウ・ナガサキ"
 source_ids:
   vndb: "c122461"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c122461.webp"
 ---
 
-# 修莉濑伊羽朱乌奈雅沙希
+# シュリ・セイハジュウ・ナガサキ
 
 
 ## 角色画像

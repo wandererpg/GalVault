@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c94623"
 type: "character"
-display_title: "夏露特伊伊奈露伊斗雅露斗"
-title_zh: "夏露特伊伊奈露伊斗雅露斗"
+display_title: "シャルティーナ・ルイトガルト"
+title_zh: ""
 title_ja: "シャルティーナ・ルイトガルト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94623"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chartina Luitgard"
-  - "シャルティーナ・ルイトガルト"
   - "Char"
   - "シャル"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c94623.webp"
 ---
 
-# 夏露特伊伊奈露伊斗雅露斗
+# シャルティーナ・ルイトガルト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

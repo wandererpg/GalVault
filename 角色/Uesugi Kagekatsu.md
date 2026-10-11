@@ -5,7 +5,10 @@ display_title: "上杉景胜"
 title_zh: "上杉景胜"
 title_ja: "上杉 景勝"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c40954"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Uesugi Kagekatsu"
   - "上杉 景勝"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c155419"
 type: "character"
-display_title: "巴R巴拉·莫恩太乌K"
-title_zh: "巴R巴拉·莫恩太乌K"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Barbara Montauk"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155419"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Barbara Montauk"
   - "Babs"
 source_ids:
   vndb: "c155419"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c155419.webp"
 ---
 
-# 巴R巴拉·莫恩太乌K
+# Barbara Montauk
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

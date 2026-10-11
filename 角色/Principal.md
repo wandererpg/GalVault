@@ -1,11 +1,14 @@
 ---
 entity_id: "vndb:character:c104093"
 type: "character"
-display_title: "校长"
-title_zh: "校长"
+display_title: "学院长"
+title_zh: "学院长"
 title_ja: "学院長"
-title_zh_quality: "glossary"
-title_status: "machine_generated"
+title_zh_quality: "converted_original"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c104093"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Principal"
   - "学院長"
@@ -16,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c104093.webp"
 ---
 
-# 校长
+# 学院长
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26989"
 type: "character"
-display_title: "莉莉伊布露和阿"
-title_zh: "莉莉伊布露和阿"
+display_title: "リリー・ブルワー"
+title_zh: ""
 title_ja: "リリー・ブルワー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26989"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lily Brewer"
-  - "リリー・ブルワー"
   - "Lily Buruwaa"
   - "Lily Bruwer"
   - "Lily Bulwer"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c26989.webp"
 ---
 
-# 莉莉伊布露和阿
+# リリー・ブルワー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

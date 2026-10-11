@@ -5,7 +5,10 @@ display_title: "中村丽华"
 title_zh: "中村丽华"
 title_ja: "中村 麗華"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c83960"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nakamura Reika"
   - "中村 麗華"

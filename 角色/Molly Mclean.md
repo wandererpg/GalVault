@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159518"
 type: "character"
-display_title: "莫LLY·MCL惠阿恩"
-title_zh: "莫LLY·MCL惠阿恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Molly Mclean"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159518"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Molly Mclean"
 source_ids:
   vndb: "c159518"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c159518.webp"
 ---
 
-# 莫LLY·MCL惠阿恩
+# Molly Mclean
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

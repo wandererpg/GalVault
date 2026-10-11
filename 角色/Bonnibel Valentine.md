@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c74509"
 type: "character"
-display_title: "博恩尼贝L·V阿L惠恩T伊音"
-title_zh: "博恩尼贝L·V阿L惠恩T伊音"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Bonnibel Valentine"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c74509"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Bonnibel Valentine"
   - "BonBon"
 source_ids:
   vndb: "c74509"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c74509.webp"
 ---
 
-# 博恩尼贝L·V阿L惠恩T伊音
+# Bonnibel Valentine
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c153278"
 type: "character"
-display_title: "莫RL奥·惠L洛Y"
-title_zh: "莫RL奥·惠L洛Y"
+display_title: "모로 엘로이"
+title_zh: ""
 title_ja: "모로 엘로이"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c153278"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Morlo Elroy"
-  - "모로 엘로이"
 source_ids:
   vndb: "c153278"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c153278.webp"
 ---
 
-# 莫RL奥·惠L洛Y
+# 모로 엘로이
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

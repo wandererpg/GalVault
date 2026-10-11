@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c52709"
 type: "character"
-display_title: "子露堂巴巴阿恩"
-title_zh: "子露堂巴巴阿恩"
+display_title: "コルドバ・バーン"
+title_zh: ""
 title_ja: "コルドバ・バーン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c52709"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cordoba Burn"
-  - "コルドバ・バーン"
   - "Blue Wall of Leazas"
 source_ids:
   vndb: "c52709"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c52709.webp"
 ---
 
-# 子露堂巴巴阿恩
+# コルドバ・バーン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

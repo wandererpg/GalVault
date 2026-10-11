@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c154383"
 type: "character"
-display_title: "莉莉伊"
-title_zh: "莉莉伊"
+display_title: "リリー"
+title_zh: ""
 title_ja: "リリー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c154383"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lily"
-  - "リリー"
 source_ids:
   vndb: "c154383"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c154383.webp"
 ---
 
-# 莉莉伊
+# リリー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

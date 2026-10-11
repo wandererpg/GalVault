@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c114226"
 type: "character"
-display_title: "比LLY"
-title_zh: "比LLY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Billy"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c114226"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Billy"
   - "Little Billy"
 source_ids:
   vndb: "c114226"
@@ -14,7 +16,7 @@ source_urls:
   vndb: "https://vndb.org/c114226"
 ---
 
-# 比LLY
+# Billy
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

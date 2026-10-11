@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c116916"
 type: "character"
-display_title: "索拉"
-title_zh: "索拉"
+display_title: "소라"
+title_zh: ""
 title_ja: "소라"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116916"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sora"
-  - "소라"
   - "Super High School Level ???"
 source_ids:
   vndb: "c116916"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c116916.webp"
 ---
 
-# 索拉
+# 소라
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

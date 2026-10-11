@@ -5,7 +5,10 @@ display_title: "北条胧纲成"
 title_zh: "北条胧纲成"
 title_ja: "北条 朧 綱成"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c40717"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Houjou Oboro Tsunashige"
   - "北条 朧 綱成"

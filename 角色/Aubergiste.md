@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159782"
 type: "character"
-display_title: "阿乌贝R吉S特"
-title_zh: "阿乌贝R吉S特"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Aubergiste"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159782"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Aubergiste"
 source_ids:
   vndb: "c159782"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c159782.webp"
 ---
 
-# 阿乌贝R吉S特
+# Aubergiste
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

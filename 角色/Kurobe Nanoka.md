@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c137427"
 type: "character"
-display_title: "黑部奈乃加"
-title_zh: "黑部奈乃加"
+display_title: "黒部 ナノカ"
+title_zh: ""
 title_ja: "黒部 ナノカ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c137427"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kurobe Nanoka"
-  - "黒部 ナノカ"
   - "なのちゃん"
   - "Nano-chan"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c137427.webp"
 ---
 
-# 黑部奈乃加
+# 黒部 ナノカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

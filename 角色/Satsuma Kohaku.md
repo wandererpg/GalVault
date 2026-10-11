@@ -5,7 +5,10 @@ display_title: "萨摩琥珀"
 title_zh: "萨摩琥珀"
 title_ja: "薩摩 琥珀"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c52851"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Satsuma Kohaku"
   - "薩摩 琥珀"

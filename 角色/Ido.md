@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c138893"
 type: "character"
-display_title: "伊堂"
-title_zh: "伊堂"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ido"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138893"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ido"
 source_ids:
   vndb: "c138893"
 source_urls:
   vndb: "https://vndb.org/c138893"
 ---
 
-# 伊堂
+# Ido
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

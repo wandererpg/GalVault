@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c131786"
 type: "character"
-display_title: "阿蕾久濑伊"
-title_zh: "阿蕾久濑伊"
+display_title: "アレクセイ"
+title_zh: ""
 title_ja: "アレクセイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c131786"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Aleksey"
-  - "アレクセイ"
   - "Alek"
 source_ids:
   vndb: "c131786"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c131786.webp"
 ---
 
-# 阿蕾久濑伊
+# アレクセイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

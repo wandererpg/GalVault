@@ -5,7 +5,10 @@ display_title: "森丘创"
 title_zh: "森丘创"
 title_ja: "森丘 創"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c53313"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Morioka Hajime"
   - "森丘 創"

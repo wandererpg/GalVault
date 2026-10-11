@@ -5,7 +5,10 @@ display_title: "坂田雅狩"
 title_zh: "坂田雅狩"
 title_ja: "坂田 雅狩"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c150454"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakada Masakari"
   - "坂田 雅狩"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c35979"
 type: "character"
-display_title: "真莉恩"
-title_zh: "真莉恩"
+display_title: "マリン"
+title_zh: ""
 title_ja: "マリン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c35979"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Marin"
-  - "マリン"
 source_ids:
   vndb: "c35979"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c35979.webp"
 ---
 
-# 真莉恩
+# マリン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

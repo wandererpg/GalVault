@@ -5,7 +5,10 @@ display_title: "青海"
 title_zh: "青海"
 title_ja: "青海"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c98654"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Aomi"
 source_ids:

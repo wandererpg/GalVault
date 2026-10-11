@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c45682"
 type: "character"
-display_title: "美L·羽RT羽G惠R"
-title_zh: "美L·羽RT羽G惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Mil Harthagher"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c45682"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Mil Harthagher"
 source_ids:
   vndb: "c45682"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c45682.webp"
 ---
 
-# 美L·羽RT羽G惠R
+# Mil Harthagher
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

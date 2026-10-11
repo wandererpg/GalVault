@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c162275"
 type: "character"
-display_title: "六弥奈吉"
-title_zh: "六弥奈吉"
+display_title: "六弥 ナギ"
+title_zh: ""
 title_ja: "六弥 ナギ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c162275"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rokuya Nagi"
-  - "六弥 ナギ"
   - "ナギっち"
   - "Nagicchi"
   - "ナギ・ヴァルハルト・フォン・ノースメイア"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c162275.webp"
 ---
 
-# 六弥奈吉
+# 六弥 ナギ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

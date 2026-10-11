@@ -5,7 +5,10 @@ display_title: "窓川芹香"
 title_zh: "窓川芹香"
 title_ja: "窓川 芹香"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c110736"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Madokawa Serika"
   - "窓川 芹香"

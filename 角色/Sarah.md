@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c132282"
 type: "character"
-display_title: "莎拉"
-title_zh: "莎拉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Sarah"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132282"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Sarah"
 source_ids:
   vndb: "c132282"
 source_urls:
   vndb: "https://vndb.org/c132282"
 ---
 
-# 莎拉
+# Sarah
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

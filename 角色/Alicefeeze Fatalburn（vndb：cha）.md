@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c53381"
 type: "character"
-display_title: "阿莉寿F伊伊兹F惠伊太露贝露恩"
-title_zh: "阿莉寿F伊伊兹F惠伊太露贝露恩"
+display_title: "アリスフィーズ・フェイタルベルン"
+title_zh: ""
 title_ja: "アリスフィーズ・フェイタルベルン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c53381"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alicefeeze Fatalburn"
-  - "アリスフィーズ・フェイタルベルン"
   - "Alice"
   - "Alipheese fateburn"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c53381.webp"
 ---
 
-# 阿莉寿F伊伊兹F惠伊太露贝露恩
+# アリスフィーズ・フェイタルベルン
 
 
 ## 角色画像

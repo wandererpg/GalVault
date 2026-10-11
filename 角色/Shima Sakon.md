@@ -5,7 +5,10 @@ display_title: "岛左近"
 title_zh: "岛左近"
 title_ja: "島 左近"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c12542"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shima Sakon"
   - "島 左近"

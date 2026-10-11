@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17613"
 type: "character"
-display_title: "爱丽丝"
-title_zh: "爱丽丝"
+display_title: "アリス"
+title_zh: ""
 title_ja: "アリス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17613"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alice"
-  - "アリス"
   - "Alas"
   - "All-Ice"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c17613.webp"
 ---
 
-# 爱丽丝
+# アリス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

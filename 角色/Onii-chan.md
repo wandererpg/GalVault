@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71190"
 type: "character"
-display_title: "奥兄恰恩"
-title_zh: "奥兄恰恩"
+display_title: "お兄ちゃん"
+title_zh: ""
 title_ja: "お兄ちゃん"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71190"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Onii-chan"
-  - "お兄ちゃん"
 source_ids:
   vndb: "c71190"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71190.webp"
 ---
 
-# 奥兄恰恩
+# お兄ちゃん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

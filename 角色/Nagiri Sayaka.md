@@ -5,7 +5,10 @@ display_title: "那雾清香"
 title_zh: "那雾清香"
 title_ja: "那霧 清香"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c13226"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nagiri Sayaka"
   - "那霧 清香"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c174087"
 type: "character"
-display_title: "濑津奈·奥太尼"
-title_zh: "濑津奈·奥太尼"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Setsuna Otani"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c174087"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Setsuna Otani"
 source_ids:
   vndb: "c174087"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c174087.webp"
 ---
 
-# 濑津奈·奥太尼
+# Setsuna Otani
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

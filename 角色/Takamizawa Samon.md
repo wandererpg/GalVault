@@ -5,7 +5,10 @@ display_title: "鹰见泽左门"
 title_zh: "鹰见泽左门"
 title_ja: "鷹見沢 左門"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1372"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takamizawa Samon"
   - "鷹見沢 左門"

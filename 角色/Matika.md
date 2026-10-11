@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c66045"
 type: "character"
-display_title: "真特伊加"
-title_zh: "真特伊加"
+display_title: "マティカ"
+title_zh: ""
 title_ja: "マティカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c66045"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Matika"
-  - "マティカ"
 source_ids:
   vndb: "c66045"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c66045.webp"
 ---
 
-# 真特伊加
+# マティカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

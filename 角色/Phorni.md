@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c1"
 type: "character"
-display_title: "F奥奥尼"
-title_zh: "F奥奥尼"
+display_title: "フォーニ"
+title_zh: ""
 title_ja: "フォーニ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c1"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Phorni"
-  - "フォーニ"
   - "Fairy of Music"
   - "Sprite of Music"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c1.webp"
 ---
 
-# F奥奥尼
+# フォーニ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "蒂姆·查克"
 title_zh: "蒂姆·查克"
 title_ja: "蒂姆·查克"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c103258"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tim Chuck"
 source_ids:

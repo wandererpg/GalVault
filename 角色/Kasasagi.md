@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c53773"
 type: "character"
-display_title: "加沙沙吉"
-title_zh: "加沙沙吉"
+display_title: "かささぎ"
+title_zh: ""
 title_ja: "かささぎ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c53773"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kasasagi"
-  - "かささぎ"
   - "Magpie"
   - "Maggy"
   - "Maddo"
@@ -21,7 +23,7 @@ source_urls:
 portrait_image: "assets/characters/c53773.webp"
 ---
 
-# 加沙沙吉
+# かささぎ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

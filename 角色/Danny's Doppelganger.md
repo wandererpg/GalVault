@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c171815"
 type: "character"
-display_title: "达恩恩YS·堂P佩L雅恩格R"
-title_zh: "达恩恩YS·堂P佩L雅恩格R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Danny's Doppelganger"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c171815"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Danny's Doppelganger"
 source_ids:
   vndb: "c171815"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c171815.webp"
 ---
 
-# 达恩恩YS·堂P佩L雅恩格R
+# Danny's Doppelganger
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

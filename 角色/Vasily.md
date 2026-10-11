@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c137143"
 type: "character"
-display_title: "V阿S伊LY"
-title_zh: "V阿S伊LY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Vasily"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c137143"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Vasily"
 source_ids:
   vndb: "c137143"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c137143.webp"
 ---
 
-# V阿S伊LY
+# Vasily
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

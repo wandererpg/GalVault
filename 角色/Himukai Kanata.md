@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c23365"
 type: "character"
-display_title: "日向加奈太"
-title_zh: "日向加奈太"
+display_title: "日向 かなた"
+title_zh: ""
 title_ja: "日向 かなた"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c23365"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Himukai Kanata"
-  - "日向 かなた"
 source_ids:
   vndb: "c23365"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c23365.webp"
 ---
 
-# 日向加奈太
+# 日向 かなた
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

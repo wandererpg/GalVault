@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c156495"
 type: "character"
-display_title: "T惠奥"
-title_zh: "T惠奥"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Theo"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c156495"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Theo"
   - "Theodore Donovan"
 source_ids:
   vndb: "c156495"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c156495.webp"
 ---
 
-# T惠奥
+# Theo
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

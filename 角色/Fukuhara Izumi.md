@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38223"
 type: "character"
-display_title: "福原伊兹美"
-title_zh: "福原伊兹美"
+display_title: "福原 いずみ"
+title_zh: ""
 title_ja: "福原 いずみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38223"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Fukuhara Izumi"
-  - "福原 いずみ"
   - "Фукухара Идзуми"
 source_ids:
   vndb: "c38223"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c38223.webp"
 ---
 
-# 福原伊兹美
+# 福原 いずみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

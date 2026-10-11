@@ -5,7 +5,10 @@ display_title: "五反田幸子"
 title_zh: "五反田幸子"
 title_ja: "五反田 幸子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43876"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Gotanda Sachiko"
   - "五反田 幸子"

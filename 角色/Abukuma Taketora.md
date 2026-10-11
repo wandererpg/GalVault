@@ -5,7 +5,10 @@ display_title: "阿武熊刚虎"
 title_zh: "阿武熊刚虎"
 title_ja: "阿武熊 剛虎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c86641"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Abukuma Taketora"
   - "阿武熊 剛虎"

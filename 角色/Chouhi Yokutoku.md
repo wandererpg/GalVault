@@ -5,7 +5,10 @@ display_title: "张飞翼德"
 title_zh: "张飞翼德"
 title_ja: "張飛 翼徳"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c203"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Chouhi Yokutoku"
   - "張飛 翼徳"

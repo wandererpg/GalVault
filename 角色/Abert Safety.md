@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98808"
 type: "character"
-display_title: "阿贝露斗濑芙特伊"
-title_zh: "阿贝露斗濑芙特伊"
+display_title: "アベルト・セフティ"
+title_zh: ""
 title_ja: "アベルト・セフティ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98808"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Abert Safety"
-  - "アベルト・セフティ"
 source_ids:
   vndb: "c98808"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98808.webp"
 ---
 
-# 阿贝露斗濑芙特伊
+# アベルト・セフティ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

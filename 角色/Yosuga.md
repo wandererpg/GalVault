@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c74517"
 type: "character"
-display_title: "缘(代寿雅)"
-title_zh: "缘(代寿雅)"
+display_title: "縁 (ヨスガ)"
+title_zh: ""
 title_ja: "縁 (ヨスガ)"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c74517"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yosuga"
-  - "縁 (ヨスガ)"
   - "地獄太夫"
   - "Jigoku-dayuu (lit. \"Steward of Hell\")"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c74517.webp"
 ---
 
-# 缘(代寿雅)
+# 縁 (ヨスガ)
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

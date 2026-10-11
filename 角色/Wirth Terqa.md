@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30229"
 type: "character"
-display_title: "V伊露斗特露加"
-title_zh: "V伊露斗特露加"
+display_title: "ヴィルト・テルカ"
+title_zh: ""
 title_ja: "ヴィルト・テルカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30229"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Wirth Terqa"
-  - "ヴィルト・テルカ"
 source_ids:
   vndb: "c30229"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30229.webp"
 ---
 
-# V伊露斗特露加
+# ヴィルト・テルカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

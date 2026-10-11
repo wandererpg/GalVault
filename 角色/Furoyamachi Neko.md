@@ -5,7 +5,10 @@ display_title: "风吕屋町眠子"
 title_zh: "风吕屋町眠子"
 title_ja: "風呂屋町 眠子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c22027"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Furoyamachi Neko"
   - "風呂屋町 眠子"

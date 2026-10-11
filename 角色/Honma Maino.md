@@ -5,7 +5,10 @@ display_title: "本间麻衣乃"
 title_zh: "本间麻衣乃"
 title_ja: "本間 麻衣乃"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c13886"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Honma Maino"
   - "本間 麻衣乃"

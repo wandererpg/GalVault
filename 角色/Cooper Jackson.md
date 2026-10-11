@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c147644"
 type: "character"
-display_title: "C奥奥佩R·嘉CK索恩"
-title_zh: "C奥奥佩R·嘉CK索恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Cooper Jackson"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c147644"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Cooper Jackson"
   - "Coop"
 source_ids:
   vndb: "c147644"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c147644.webp"
 ---
 
-# C奥奥佩R·嘉CK索恩
+# Cooper Jackson
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

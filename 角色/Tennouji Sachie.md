@@ -5,7 +5,10 @@ display_title: "天王寺幸枝"
 title_zh: "天王寺幸枝"
 title_ja: "天王寺 幸枝"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c153635"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tennouji Sachie"
   - "天王寺 幸枝"

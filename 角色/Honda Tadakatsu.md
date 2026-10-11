@@ -5,7 +5,10 @@ display_title: "本多忠胜"
 title_zh: "本多忠胜"
 title_ja: "本多 忠勝"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c31690"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Honda Tadakatsu"
   - "本多 忠勝"

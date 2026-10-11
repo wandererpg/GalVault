@@ -5,7 +5,10 @@ display_title: "白羽大地"
 title_zh: "白羽大地"
 title_ja: "白羽 大地"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c97045"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shirahane Daichi"
   - "白羽 大地"

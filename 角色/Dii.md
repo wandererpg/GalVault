@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8409"
 type: "character"
-display_title: "D伊伊"
-title_zh: "D伊伊"
+display_title: "ディー"
+title_zh: ""
 title_ja: "ディー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8409"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Dii"
-  - "ディー"
   - "Diy"
 source_ids:
   vndb: "c8409"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c8409.webp"
 ---
 
-# D伊伊
+# ディー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

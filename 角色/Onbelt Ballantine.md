@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c135519"
 type: "character"
-display_title: "奥恩贝露斗巴拉恩太伊恩"
-title_zh: "奥恩贝露斗巴拉恩太伊恩"
+display_title: "オンベルト・バランタイン"
+title_zh: ""
 title_ja: "オンベルト・バランタイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c135519"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Onbelt Ballantine"
-  - "オンベルト・バランタイン"
 source_ids:
   vndb: "c135519"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c135519.webp"
 ---
 
-# 奥恩贝露斗巴拉恩太伊恩
+# オンベルト・バランタイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

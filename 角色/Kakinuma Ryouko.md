@@ -5,7 +5,10 @@ display_title: "柿沼凉子"
 title_zh: "柿沼凉子"
 title_ja: "柿沼 涼子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c93381"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kakinuma Ryouko"
   - "柿沼 涼子"

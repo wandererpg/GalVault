@@ -5,7 +5,10 @@ display_title: "北条晓月氏规"
 title_zh: "北条晓月氏规"
 title_ja: "北条 暁月 氏規"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c40720"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Houjou Akatsuki Ujinori"
   - "北条 暁月 氏規"

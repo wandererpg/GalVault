@@ -5,7 +5,10 @@ display_title: "西木砂生"
 title_zh: "西木砂生"
 title_ja: "西木 砂生"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c135077"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Saiki Sunao"
   - "西木 砂生"

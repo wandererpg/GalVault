@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8495"
 type: "character"
-display_title: "宗本美乃莉"
-title_zh: "宗本美乃莉"
+display_title: "宗本 みのり"
+title_zh: ""
 title_ja: "宗本 みのり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8495"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Munemoto Minori"
-  - "宗本 みのり"
 source_ids:
   vndb: "c8495"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c8495.webp"
 ---
 
-# 宗本美乃莉
+# 宗本 みのり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

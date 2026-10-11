@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c170291"
 type: "character"
-display_title: "太加优希S·阿恩D·羽露加S·达乌GH特R"
-title_zh: "太加优希S·阿恩D·羽露加S·达乌GH特R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Takayuki's and Haruka's Daughter"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c170291"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Takayuki's and Haruka's Daughter"
 source_ids:
   vndb: "c170291"
 source_urls:
   vndb: "https://vndb.org/c170291"
 ---
 
-# 太加优希S·阿恩D·羽露加S·达乌GH特R
+# Takayuki's and Haruka's Daughter
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

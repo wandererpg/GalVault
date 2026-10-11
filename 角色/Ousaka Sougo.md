@@ -5,7 +5,10 @@ display_title: "逢坂壮五"
 title_zh: "逢坂壮五"
 title_ja: "逢坂 壮五"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c162273"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ousaka Sougo"
   - "逢坂 壮五"

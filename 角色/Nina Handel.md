@@ -5,7 +5,10 @@ display_title: "妮娜·汉德"
 title_zh: "妮娜·汉德"
 title_ja: "妮娜·汉德"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c127933"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nina Handel"
 source_ids:

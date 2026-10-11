@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c96711"
 type: "character"
-display_title: "羽伊吉帕恩久拉乌"
-title_zh: "羽伊吉帕恩久拉乌"
+display_title: "ハイジ・パンクラウ"
+title_zh: ""
 title_ja: "ハイジ・パンクラウ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c96711"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Heidi Pankrau"
-  - "ハイジ・パンクラウ"
   - "Heidi Bredeter"
 source_ids:
   vndb: "c96711"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c96711.webp"
 ---
 
-# 羽伊吉帕恩久拉乌
+# ハイジ・パンクラウ
 
 
 ## 角色画像

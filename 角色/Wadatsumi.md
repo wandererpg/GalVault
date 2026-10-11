@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c44479"
 type: "character"
-display_title: "和达津美"
-title_zh: "和达津美"
+display_title: "ワダツミ"
+title_zh: ""
 title_ja: "ワダツミ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c44479"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Wadatsumi"
-  - "ワダツミ"
 source_ids:
   vndb: "c44479"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c44479.webp"
 ---
 
-# 和达津美
+# ワダツミ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

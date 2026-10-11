@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c154137"
 type: "character"
-display_title: "惠LV惠奥S"
-title_zh: "惠LV惠奥S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Elveos"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c154137"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Elveos"
 source_ids:
   vndb: "c154137"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c154137.webp"
 ---
 
-# 惠LV惠奥S
+# Elveos
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

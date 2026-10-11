@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c134753"
 type: "character"
-display_title: "F阿洛嘉"
-title_zh: "F阿洛嘉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Faroja"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c134753"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Faroja"
 source_ids:
   vndb: "c134753"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c134753.webp"
 ---
 
-# F阿洛嘉
+# Faroja
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "魏延文长"
 title_zh: "魏延文长"
 title_ja: "魏延 文長"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c50558"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Gien Bunchou"
   - "魏延 文長"

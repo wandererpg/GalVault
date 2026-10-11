@@ -1,18 +1,21 @@
 ---
 entity_id: "vndb:character:c17644"
 type: "character"
-display_title: "成步堂龙乃介"
-title_zh: "成步堂龙乃介"
+display_title: "成歩堂 龍ノ介"
+title_zh: ""
 title_ja: "成歩堂 龍ノ介"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17644"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Naruhodou Ryuunosuke"
-  - "成歩堂 龍ノ介"
   - "'Oddo"
   - "Locum Student Mr. Naruhodo Esquire"
   - "Runo"
   - "Sunshine"
+  - "Oddo"
 source_ids:
   vndb: "c17644"
 source_urls:
@@ -20,7 +23,7 @@ source_urls:
 portrait_image: "assets/characters/c17644.webp"
 ---
 
-# 成步堂龙乃介
+# 成歩堂 龍ノ介
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

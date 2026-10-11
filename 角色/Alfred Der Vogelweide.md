@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34716"
 type: "character"
-display_title: "阿露芙蕾惠斗德阿F奥奥格露V阿伊德"
-title_zh: "阿露芙蕾惠斗德阿F奥奥格露V阿伊德"
+display_title: "アルフレート・デア・フォーゲルヴァイデ"
+title_zh: ""
 title_ja: "アルフレート・デア・フォーゲルヴァイデ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34716"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alfred Der Vogelweide"
-  - "アルフレート・デア・フォーゲルヴァイデ"
 source_ids:
   vndb: "c34716"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c34716.webp"
 ---
 
-# 阿露芙蕾惠斗德阿F奥奥格露V阿伊德
+# アルフレート・デア・フォーゲルヴァイデ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

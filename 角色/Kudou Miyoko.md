@@ -5,7 +5,10 @@ display_title: "工藤美代子"
 title_zh: "工藤美代子"
 title_ja: "工藤 美代子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c15115"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kudou Miyoko"
   - "工藤 美代子"

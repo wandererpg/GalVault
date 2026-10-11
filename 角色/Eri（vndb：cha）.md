@@ -5,7 +5,10 @@ display_title: "绘利"
 title_zh: "绘利"
 title_ja: "絵利"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c171894"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Eri"
   - "絵利"

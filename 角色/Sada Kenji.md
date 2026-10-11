@@ -5,7 +5,10 @@ display_title: "佐田贤治"
 title_zh: "佐田贤治"
 title_ja: "佐田 賢治"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c110895"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sada Kenji"
   - "佐田 賢治"

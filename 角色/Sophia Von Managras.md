@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c94628"
 type: "character"
-display_title: "索F伊阿F奥恩真奈古拉寿"
-title_zh: "索F伊阿F奥恩真奈古拉寿"
+display_title: "ソフィア・フォン・マナグラス"
+title_zh: ""
 title_ja: "ソフィア・フォン・マナグラス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94628"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sophia Von Managras"
-  - "ソフィア・フォン・マナグラス"
   - "ソフィ"
   - "Sophie"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c94628.webp"
 ---
 
-# 索F伊阿F奥恩真奈古拉寿
+# ソフィア・フォン・マナグラス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

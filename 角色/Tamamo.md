@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c5266"
 type: "character"
-display_title: "太真莫"
-title_zh: "太真莫"
+display_title: "たまも"
+title_zh: ""
 title_ja: "たまも"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c5266"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tamamo"
-  - "たまも"
   - "Mighty Fox"
 source_ids:
   vndb: "c5266"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c5266.webp"
 ---
 
-# 太真莫
+# たまも
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

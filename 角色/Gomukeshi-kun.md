@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10340"
 type: "character"
-display_title: "悟梦惠诗君"
-title_zh: "悟梦惠诗君"
+display_title: "ゴムケシ君"
+title_zh: ""
 title_ja: "ゴムケシ君"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10340"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gomukeshi-kun"
-  - "ゴムケシ君"
 source_ids:
   vndb: "c10340"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c10340.webp"
 ---
 
-# 悟梦惠诗君
+# ゴムケシ君
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

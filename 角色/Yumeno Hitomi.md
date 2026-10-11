@@ -5,7 +5,10 @@ display_title: "梦野瞳"
 title_zh: "梦野瞳"
 title_ja: "梦野 瞳"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c94168"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yumeno Hitomi"
   - "梦野 瞳"

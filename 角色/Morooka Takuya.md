@@ -5,7 +5,10 @@ display_title: "师冈卓也"
 title_zh: "师冈卓也"
 title_ja: "師岡 卓也"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c3890"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Morooka Takuya"
   - "師岡 卓也"

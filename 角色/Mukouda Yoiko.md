@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c5411"
 type: "character"
-display_title: "武孝田代伊子"
-title_zh: "武孝田代伊子"
+display_title: "武孝田 よい子"
+title_zh: ""
 title_ja: "武孝田 よい子"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c5411"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mukouda Yoiko"
-  - "武孝田 よい子"
   - "ヨイちゃん"
   - "Yoi-chan"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c5411.webp"
 ---
 
-# 武孝田代伊子
+# 武孝田 よい子
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

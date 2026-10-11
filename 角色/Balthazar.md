@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c86960"
 type: "character"
-display_title: "巴LT羽扎R"
-title_zh: "巴LT羽扎R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Balthazar"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c86960"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Balthazar"
 source_ids:
   vndb: "c86960"
 source_urls:
   vndb: "https://vndb.org/c86960"
 ---
 
-# 巴LT羽扎R
+# Balthazar
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

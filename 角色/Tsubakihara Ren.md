@@ -5,7 +5,10 @@ display_title: "椿原莲"
 title_zh: "椿原莲"
 title_ja: "椿原 蓮"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c5611"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsubakihara Ren"
   - "椿原 蓮"

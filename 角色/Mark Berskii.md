@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c122017"
 type: "character"
-display_title: "真RK·贝RS希伊"
-title_zh: "真RK·贝RS希伊"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Mark Berskii"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c122017"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Mark Berskii"
   - "Ultimate Music Producer"
   - "Mayhem"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c122017.webp"
 ---
 
-# 真RK·贝RS希伊
+# Mark Berskii
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

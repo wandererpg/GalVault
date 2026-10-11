@@ -5,7 +5,10 @@ display_title: "毛倡妓"
 title_zh: "毛倡妓"
 title_ja: "毛倡妓"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c127167"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kejourou"
   - "Tsubaki"

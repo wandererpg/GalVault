@@ -5,7 +5,10 @@ display_title: "当麻进"
 title_zh: "当麻进"
 title_ja: "当麻 進"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14399"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Touma Shin"
   - "当麻 進"

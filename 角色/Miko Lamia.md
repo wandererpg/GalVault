@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127158"
 type: "character"
-display_title: "巫女拉美阿"
-title_zh: "巫女拉美阿"
+display_title: "巫女ラミア"
+title_zh: ""
 title_ja: "巫女ラミア"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127158"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Miko Lamia"
-  - "巫女ラミア"
   - "Midzuki"
 source_ids:
   vndb: "c127158"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c127158.webp"
 ---
 
-# 巫女拉美阿
+# 巫女ラミア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

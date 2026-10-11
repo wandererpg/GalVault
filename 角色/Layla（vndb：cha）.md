@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c173641"
 type: "character"
-display_title: "L阿YL阿"
-title_zh: "L阿YL阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Layla"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c173641"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Layla"
 source_ids:
   vndb: "c173641"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c173641.webp"
 ---
 
-# L阿YL阿
+# Layla
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

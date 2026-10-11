@@ -5,7 +5,10 @@ display_title: "玖锭紫织"
 title_zh: "玖锭紫织"
 title_ja: "玖錠 紫織"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c34799"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kujou Shiori"
   - "玖錠 紫織"

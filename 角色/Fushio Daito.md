@@ -5,7 +5,10 @@ display_title: "伏尾大斗"
 title_zh: "伏尾大斗"
 title_ja: "伏尾 大斗"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c60976"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fushio Daito"
   - "伏尾 大斗"

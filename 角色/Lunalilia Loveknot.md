@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c116231"
 type: "character"
-display_title: "露奈莉莉阿拉布乃T斗"
-title_zh: "露奈莉莉阿拉布乃T斗"
+display_title: "ルナリリア・ラブノット"
+title_zh: ""
 title_ja: "ルナリリア・ラブノット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116231"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lunalilia Loveknot"
-  - "ルナリリア・ラブノット"
 source_ids:
   vndb: "c116231"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c116231.webp"
 ---
 
-# 露奈莉莉阿拉布乃T斗
+# ルナリリア・ラブノット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

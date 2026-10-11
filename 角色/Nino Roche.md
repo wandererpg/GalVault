@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c149998"
 type: "character"
-display_title: "尼乃·洛C惠"
-title_zh: "尼乃·洛C惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Nino Roche"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149998"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Nino Roche"
   - "The Fearless"
 source_ids:
   vndb: "c149998"
@@ -14,7 +16,7 @@ source_urls:
   vndb: "https://vndb.org/c149998"
 ---
 
-# 尼乃·洛C惠
+# Nino Roche
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

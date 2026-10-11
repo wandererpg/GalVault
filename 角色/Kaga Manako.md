@@ -5,7 +5,10 @@ display_title: "加贺爱子"
 title_zh: "加贺爱子"
 title_ja: "加賀 愛子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c129032"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kaga Manako"
   - "加賀 愛子"

@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c161676"
 type: "character"
-display_title: "莉K久莫奈羽恩"
-title_zh: "莉K久莫奈羽恩"
+display_title: "リック・モナハン"
+title_zh: ""
 title_ja: "リック・モナハン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161676"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rick Monaghan"
-  - "リック・モナハン"
 source_ids:
   vndb: "c161676"
 source_urls:
   vndb: "https://vndb.org/c161676"
 ---
 
-# 莉K久莫奈羽恩
+# リック・モナハン
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

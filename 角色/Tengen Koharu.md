@@ -5,7 +5,10 @@ display_title: "天元虎晴"
 title_zh: "天元虎晴"
 title_ja: "天元 虎晴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c144414"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tengen Koharu"
   - "天元 虎晴"

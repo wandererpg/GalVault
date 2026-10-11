@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c100150"
 type: "character"
-display_title: "阿阿诗惠拉巴拉恩久乌露"
-title_zh: "阿阿诗惠拉巴拉恩久乌露"
+display_title: "アーシェラ・バランクール"
+title_zh: ""
 title_ja: "アーシェラ・バランクール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c100150"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ashera Ballancourt"
-  - "アーシェラ・バランクール"
   - "Hero of the Divine Sword"
   - "神剣の勇者"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c100150.webp"
 ---
 
-# 阿阿诗惠拉巴拉恩久乌露
+# アーシェラ・バランクール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

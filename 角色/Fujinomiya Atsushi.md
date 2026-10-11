@@ -5,7 +5,10 @@ display_title: "文示宫笃"
 title_zh: "文示宫笃"
 title_ja: "文示宮 篤"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c156087"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fujinomiya Atsushi"
   - "文示宮 篤"

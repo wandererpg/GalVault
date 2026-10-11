@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61336"
 type: "character"
-display_title: "斗露乌真恩"
-title_zh: "斗露乌真恩"
+display_title: "トルーマン"
+title_zh: ""
 title_ja: "トルーマン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61336"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Truman"
-  - "トルーマン"
   - "Трумэн"
 source_ids:
   vndb: "c61336"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c61336.webp"
 ---
 
-# 斗露乌真恩
+# トルーマン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

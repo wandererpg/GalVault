@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c107034"
 type: "character"
-display_title: "芽露蕾藏恩"
-title_zh: "芽露蕾藏恩"
+display_title: "メル・レゾン"
+title_zh: ""
 title_ja: "メル・レゾン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c107034"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mell Raison"
-  - "メル・レゾン"
 source_ids:
   vndb: "c107034"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c107034.webp"
 ---
 
-# 芽露蕾藏恩
+# メル・レゾン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

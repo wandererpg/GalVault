@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c62839"
 type: "character"
-display_title: "芳乃樱"
-title_zh: "芳乃樱"
+display_title: "芳乃 さくら"
+title_zh: ""
 title_ja: "芳乃 さくら"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c62839"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yoshino Sakura"
-  - "芳乃 さくら"
 source_ids:
   vndb: "c62839"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c62839.webp"
 ---
 
-# 芳乃樱
+# 芳乃 さくら
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

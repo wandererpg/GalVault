@@ -5,7 +5,10 @@ display_title: "朝仓义景"
 title_zh: "朝仓义景"
 title_ja: "朝倉 義景"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2959"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Asakura Yoshikage"
   - "朝倉 義景"

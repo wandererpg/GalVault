@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159826"
 type: "character"
-display_title: "CRYS太LS·美ST蕾SS"
-title_zh: "CRYS太LS·美ST蕾SS"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Crystal's Mistress"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159826"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Crystal's Mistress"
 source_ids:
   vndb: "c159826"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c159826.webp"
 ---
 
-# CRYS太LS·美ST蕾SS
+# Crystal's Mistress
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

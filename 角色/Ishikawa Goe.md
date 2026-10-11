@@ -5,7 +5,10 @@ display_title: "石川五惠"
 title_zh: "石川五惠"
 title_ja: "石川 五恵"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c147120"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ishikawa Goe"
   - "石川 五恵"

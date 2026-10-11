@@ -5,7 +5,10 @@ display_title: "九条宗麟"
 title_zh: "九条宗麟"
 title_ja: "九条 宗麟"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2431"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kujou Sourin"
   - "九条 宗麟"

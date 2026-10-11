@@ -5,7 +5,10 @@ display_title: "绚濑陆"
 title_zh: "绚濑陆"
 title_ja: "絢瀬 陸"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c163537"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ayase Riku"
   - "絢瀬 陸"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61137"
 type: "character"
-display_title: "J惠蕾MY·惠德尼C"
-title_zh: "J惠蕾MY·惠德尼C"
+display_title: "제레미 에드닉"
+title_zh: ""
 title_ja: "제레미 에드닉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61137"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jeremy Edenic"
-  - "제레미 에드닉"
 source_ids:
   vndb: "c61137"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61137.webp"
 ---
 
-# J惠蕾MY·惠德尼C
+# 제레미 에드닉
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

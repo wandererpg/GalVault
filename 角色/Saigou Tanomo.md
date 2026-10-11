@@ -5,7 +5,10 @@ display_title: "西乡赖母"
 title_zh: "西乡赖母"
 title_ja: "西郷 頼母"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c66703"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Saigou Tanomo"
   - "西郷 頼母"

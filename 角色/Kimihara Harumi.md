@@ -5,7 +5,10 @@ display_title: "君原春美"
 title_zh: "君原春美"
 title_ja: "君原 春美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10941"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kimihara Harumi"
   - "君原 春美"

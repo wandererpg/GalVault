@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c59968"
 type: "character"
-display_title: "加露贝露特伊阿寿特阿"
-title_zh: "加露贝露特伊阿寿特阿"
+display_title: "カルベルティ・アステア"
+title_zh: ""
 title_ja: "カルベルティ・アステア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c59968"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Carlberti Astea"
-  - "カルベルティ・アステア"
   - "カル・アルベール"
   - "Carl Albert"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c59968.webp"
 ---
 
-# 加露贝露特伊阿寿特阿
+# カルベルティ・アステア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

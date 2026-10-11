@@ -5,7 +5,10 @@ display_title: "金久保奏"
 title_zh: "金久保奏"
 title_ja: "金久保奏"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c125753"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kanakubo Kanade"
 source_ids:

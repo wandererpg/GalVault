@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c4662"
 type: "character"
-display_title: "星来奥露吉惠露"
-title_zh: "星来奥露吉惠露"
+display_title: "星来 オルジェル"
+title_zh: ""
 title_ja: "星来 オルジェル"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c4662"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Seira Orgel"
-  - "星来 オルジェル"
   - "天之河 星来"
   - "Amanogawa Seira"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c4662.webp"
 ---
 
-# 星来奥露吉惠露
+# 星来 オルジェル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

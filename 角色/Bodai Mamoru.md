@@ -5,7 +5,10 @@ display_title: "牡丹井护"
 title_zh: "牡丹井护"
 title_ja: "牡丹井 護"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c86551"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Bodai Mamoru"
   - "牡丹井 護"

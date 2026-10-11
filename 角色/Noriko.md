@@ -5,7 +5,10 @@ display_title: "纪子"
 title_zh: "纪子"
 title_ja: "紀子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c48385"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Noriko"
   - "紀子"

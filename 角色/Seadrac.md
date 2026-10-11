@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c170850"
 type: "character"
-display_title: "濑阿堂拉久"
-title_zh: "濑阿堂拉久"
+display_title: "セアドラク"
+title_zh: ""
 title_ja: "セアドラク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c170850"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Seadrac"
-  - "セアドラク"
 source_ids:
   vndb: "c170850"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c170850.webp"
 ---
 
-# 濑阿堂拉久
+# セアドラク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

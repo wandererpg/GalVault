@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c130307"
 type: "character"
-display_title: "芙洛奥蕾恩寿＝M＝寿美寿"
-title_zh: "芙洛奥蕾恩寿＝M＝寿美寿"
+display_title: "フローレンス＝M＝スミス"
+title_zh: ""
 title_ja: "フローレンス＝M＝スミス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c130307"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Florence M. Smith"
-  - "フローレンス＝M＝スミス"
 source_ids:
   vndb: "c130307"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c130307.webp"
 ---
 
-# 芙洛奥蕾恩寿＝M＝寿美寿
+# フローレンス＝M＝スミス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

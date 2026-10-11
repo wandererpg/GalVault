@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14675"
 type: "character"
-display_title: "Y惠奥恩·穗"
-title_zh: "Y惠奥恩·穗"
+display_title: "연호"
+title_zh: ""
 title_ja: "연호"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14675"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yeon-ho"
-  - "연호"
   - "ヨンホ"
   - "Chick"
   - "Yellow"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c14675.webp"
 ---
 
-# Y惠奥恩·穗
+# 연호
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c174295"
 type: "character"
-display_title: "V伊LL阿格奥伊S"
-title_zh: "V伊LL阿格奥伊S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Villageois"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c174295"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Villageois"
 source_ids:
   vndb: "c174295"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c174295.webp"
 ---
 
-# V伊LL阿格奥伊S
+# Villageois
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

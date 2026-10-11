@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c11240"
 type: "character"
-display_title: "嵩宫芽古莉"
-title_zh: "嵩宫芽古莉"
+display_title: "嵩宮 めぐり"
+title_zh: ""
 title_ja: "嵩宮 めぐり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c11240"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Takamiya Meguri"
-  - "嵩宮 めぐり"
   - "ぐり子"
   - "Guriko"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c11240.webp"
 ---
 
-# 嵩宫芽古莉
+# 嵩宮 めぐり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "吉宫舞冬"
 title_zh: "吉宫舞冬"
 title_ja: "吉宮 舞冬"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c116556"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yoshimiya Mafuyu"
   - "吉宮 舞冬"

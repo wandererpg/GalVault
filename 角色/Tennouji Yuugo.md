@@ -5,7 +5,10 @@ display_title: "天王寺裕吾"
 title_zh: "天王寺裕吾"
 title_ja: "天王寺 裕吾"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c6495"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tennouji Yuugo"
   - "天王寺 裕吾"

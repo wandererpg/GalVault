@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c127719"
 type: "character"
-display_title: "美莉阿M·F蕾雅"
-title_zh: "美莉阿M·F蕾雅"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Miriam Frega"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127719"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Miriam Frega"
 source_ids:
   vndb: "c127719"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c127719.webp"
 ---
 
-# 美莉阿M·F蕾雅
+# Miriam Frega
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

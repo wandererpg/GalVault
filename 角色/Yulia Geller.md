@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c153123"
 type: "character"
-display_title: "优L伊阿·格LL惠R"
-title_zh: "优L伊阿·格LL惠R"
+display_title: "율리아 겔러"
+title_zh: ""
 title_ja: "율리아 겔러"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c153123"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yulia Geller"
-  - "율리아 겔러"
 source_ids:
   vndb: "c153123"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c153123.webp"
 ---
 
-# 优L伊阿·格LL惠R
+# 율리아 겔러
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

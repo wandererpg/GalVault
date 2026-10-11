@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c131332"
 type: "character"
-display_title: "DR·D乌·波恩T"
-title_zh: "DR·D乌·波恩T"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Dr. Du Pont"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c131332"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Dr. Du Pont"
 source_ids:
   vndb: "c131332"
 source_urls:
   vndb: "https://vndb.org/c131332"
 ---
 
-# DR·D乌·波恩T
+# Dr. Du Pont
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

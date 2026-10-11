@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c74679"
 type: "character"
-display_title: "乔洛乌"
-title_zh: "乔洛乌"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jorou"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c74679"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jorou"
   - "Jojo"
 source_ids:
   vndb: "c74679"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c74679.webp"
 ---
 
-# 乔洛乌
+# Jorou
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

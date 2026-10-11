@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c120176"
 type: "character"
-display_title: "古惠洛"
-title_zh: "古惠洛"
+display_title: "グエロ"
+title_zh: ""
 title_ja: "グエロ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c120176"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Guero Neruda"
-  - "グエロ"
 source_ids:
   vndb: "c120176"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c120176.webp"
 ---
 
-# 古惠洛
+# グエロ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

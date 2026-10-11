@@ -5,7 +5,10 @@ display_title: "平重衡"
 title_zh: "平重衡"
 title_ja: "平 重衡"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c90012"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Taira no Shigehira"
   - "平 重衡"

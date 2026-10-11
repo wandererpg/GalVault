@@ -5,7 +5,10 @@ display_title: "辉矢宗氏"
 title_zh: "辉矢宗氏"
 title_ja: "輝矢 宗氏"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c144395"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kaguya Muneuji"
   - "輝矢 宗氏"

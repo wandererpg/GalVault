@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17312"
 type: "character"
-display_title: "芙拉恩诗寿达S修乌D堂"
-title_zh: "芙拉恩诗寿达S修乌D堂"
+display_title: "フランシス・ダッシュウッド"
+title_zh: ""
 title_ja: "フランシス・ダッシュウッド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17312"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Francis Dashwood"
-  - "フランシス・ダッシュウッド"
   - "Agathion"
 source_ids:
   vndb: "c17312"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c17312.webp"
 ---
 
-# 芙拉恩诗寿达S修乌D堂
+# フランシス・ダッシュウッド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

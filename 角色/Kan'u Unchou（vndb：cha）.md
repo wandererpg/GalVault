@@ -5,7 +5,10 @@ display_title: "关羽云长"
 title_zh: "关羽云长"
 title_ja: "関羽 雲長"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c24322"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kan'u Unchou"
   - "関羽 雲長"

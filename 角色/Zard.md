@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71004"
 type: "character"
-display_title: "扎阿堂"
-title_zh: "扎阿堂"
+display_title: "ザード"
+title_zh: ""
 title_ja: "ザード"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71004"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Zard"
-  - "ザード"
 source_ids:
   vndb: "c71004"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71004.webp"
 ---
 
-# 扎阿堂
+# ザード
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

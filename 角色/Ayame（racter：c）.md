@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c24460"
 type: "character"
-display_title: "阿雅芽"
-title_zh: "阿雅芽"
+display_title: "アヤメ"
+title_zh: ""
 title_ja: "アヤメ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c24460"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ayame"
-  - "アヤメ"
   - "Best Onmyouji of the Eastern Country"
   - "The Eastern Number One Onmyouji"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c24460.webp"
 ---
 
-# 阿雅芽
+# アヤメ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

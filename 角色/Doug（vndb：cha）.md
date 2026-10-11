@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c62404"
 type: "character"
-display_title: "堂乌G"
-title_zh: "堂乌G"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Doug"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c62404"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Doug"
 source_ids:
   vndb: "c62404"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c62404.webp"
 ---
 
-# 堂乌G
+# Doug
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

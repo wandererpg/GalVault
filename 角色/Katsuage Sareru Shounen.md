@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c140265"
 type: "character"
-display_title: "加津阿格沙蕾露少年"
-title_zh: "加津阿格沙蕾露少年"
+display_title: "カツアゲされる少年"
+title_zh: ""
 title_ja: "カツアゲされる少年"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c140265"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Katsuage Sareru Shounen"
-  - "カツアゲされる少年"
 source_ids:
   vndb: "c140265"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c140265.webp"
 ---
 
-# 加津阿格沙蕾露少年
+# カツアゲされる少年
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

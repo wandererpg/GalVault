@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c83981"
 type: "character"
-display_title: "波堂洛莫寿贝露雅芽莉"
-title_zh: "波堂洛莫寿贝露雅芽莉"
+display_title: "ポドロモス・ベルガメリ"
+title_zh: ""
 title_ja: "ポドロモス・ベルガメリ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c83981"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Podoromos Bergameri"
-  - "ポドロモス・ベルガメリ"
 source_ids:
   vndb: "c83981"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c83981.webp"
 ---
 
-# 波堂洛莫寿贝露雅芽莉
+# ポドロモス・ベルガメリ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "铃村香帆"
 title_zh: "铃村香帆"
 title_ja: "鈴村 香帆"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c133947"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Suzumura Kaho"
   - "鈴村 香帆"

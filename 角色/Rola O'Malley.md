@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c113563"
 type: "character"
-display_title: "洛奥拉奥真阿莉"
-title_zh: "洛奥拉奥真阿莉"
+display_title: "ローラ・オマーリ"
+title_zh: ""
 title_ja: "ローラ・オマーリ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c113563"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rola O'Malley"
-  - "ローラ・オマーリ"
 source_ids:
   vndb: "c113563"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c113563.webp"
 ---
 
-# 洛奥拉奥真阿莉
+# ローラ・オマーリ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

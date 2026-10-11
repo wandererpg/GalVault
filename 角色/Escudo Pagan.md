@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c92515"
 type: "character"
-display_title: "惠寿久堂帕雅恩"
-title_zh: "惠寿久堂帕雅恩"
+display_title: "エスクド・パガン"
+title_zh: ""
 title_ja: "エスクド・パガン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92515"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Escudo Pagan"
-  - "エスクド・パガン"
 source_ids:
   vndb: "c92515"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c92515.webp"
 ---
 
-# 惠寿久堂帕雅恩
+# エスクド・パガン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

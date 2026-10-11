@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c2449"
 type: "character"
-display_title: "桃山莉恩达"
-title_zh: "桃山莉恩达"
+display_title: "桃山 リンダ"
+title_zh: ""
 title_ja: "桃山 リンダ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c2449"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Momoyama Linda"
-  - "桃山 リンダ"
 source_ids:
   vndb: "c2449"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c2449.webp"
 ---
 
-# 桃山莉恩达
+# 桃山 リンダ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

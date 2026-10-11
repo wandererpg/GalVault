@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98811"
 type: "character"
-display_title: "希梦千堂拉伊布"
-title_zh: "希梦千堂拉伊布"
+display_title: "キムチ・ドライブ"
+title_zh: ""
 title_ja: "キムチ・ドライブ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98811"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kimchi Drive"
-  - "キムチ・ドライブ"
 source_ids:
   vndb: "c98811"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98811.webp"
 ---
 
-# 希梦千堂拉伊布
+# キムチ・ドライブ
 
 
 ## 角色画像

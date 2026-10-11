@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c135600"
 type: "character"
-display_title: "京奥子"
-title_zh: "京奥子"
+display_title: "キョーコ"
+title_zh: ""
 title_ja: "キョーコ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c135600"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kyouko"
-  - "キョーコ"
 source_ids:
   vndb: "c135600"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c135600.webp"
 ---
 
-# 京奥子
+# キョーコ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

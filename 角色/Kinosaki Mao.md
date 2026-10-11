@@ -5,7 +5,10 @@ display_title: "城崎真生"
 title_zh: "城崎真生"
 title_ja: "城崎 真生"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c80057"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kinosaki Mao"
   - "城崎 真生"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c35444"
 type: "character"
-display_title: "桥本惠美"
-title_zh: "桥本惠美"
+display_title: "橋本 えみ"
+title_zh: ""
 title_ja: "橋本 えみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c35444"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hashimoto Emi"
-  - "橋本 えみ"
 source_ids:
   vndb: "c35444"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c35444.webp"
 ---
 
-# 桥本惠美
+# 橋本 えみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

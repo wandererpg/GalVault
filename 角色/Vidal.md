@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16881"
 type: "character"
-display_title: "V伊达露"
-title_zh: "V伊达露"
+display_title: "ヴィダル"
+title_zh: ""
 title_ja: "ヴィダル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16881"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Vidal"
-  - "ヴィダル"
 source_ids:
   vndb: "c16881"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c16881.webp"
 ---
 
-# V伊达露
+# ヴィダル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

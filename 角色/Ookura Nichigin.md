@@ -5,7 +5,10 @@ display_title: "大藏日懃"
 title_zh: "大藏日懃"
 title_ja: "大蔵 日懃"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c111629"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ookura Nichigin"
   - "大蔵 日懃"

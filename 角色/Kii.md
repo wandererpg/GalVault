@@ -5,7 +5,10 @@ display_title: "纪伊"
 title_zh: "纪伊"
 title_ja: "紀伊"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c170698"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kii"
   - "紀伊"

@@ -5,7 +5,10 @@ display_title: "雾切响子"
 title_zh: "雾切响子"
 title_ja: "霧切 響子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10197"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kirigiri Kyouko"
   - "霧切 響子"

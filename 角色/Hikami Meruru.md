@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c137432"
 type: "character"
-display_title: "氷上芽露露"
-title_zh: "氷上芽露露"
+display_title: "氷上 メルル"
+title_zh: ""
 title_ja: "氷上 メルル"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c137432"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hikami Meruru"
-  - "氷上 メルル"
   - "Merucchi"
   - "メルっち"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c137432.webp"
 ---
 
-# 氷上芽露露
+# 氷上 メルル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

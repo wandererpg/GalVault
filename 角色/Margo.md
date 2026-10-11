@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26804"
 type: "character"
-display_title: "真露悟奥"
-title_zh: "真露悟奥"
+display_title: "マルゴー"
+title_zh: ""
 title_ja: "マルゴー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26804"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Margo"
-  - "マルゴー"
 source_ids:
   vndb: "c26804"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c26804.webp"
 ---
 
-# 真露悟奥
+# マルゴー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "红野栗栖"
 title_zh: "红野栗栖"
 title_ja: "紅野 栗栖"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c29411"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kouno Kurisu"
   - "紅野 栗栖"

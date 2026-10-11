@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c37795"
 type: "character"
-display_title: "真洛洛"
-title_zh: "真洛洛"
+display_title: "マロロ"
+title_zh: ""
 title_ja: "マロロ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37795"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Maroro"
-  - "マロロ"
   - "Maro"
 source_ids:
   vndb: "c37795"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c37795.webp"
 ---
 
-# 真洛洛
+# マロロ
 
 
 ## 角色画像

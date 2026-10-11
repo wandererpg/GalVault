@@ -5,7 +5,10 @@ display_title: "早少女柚子"
 title_zh: "早少女柚子"
 title_ja: "早少女 柚子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20287"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Saotome Yuzu"
   - "早少女 柚子"

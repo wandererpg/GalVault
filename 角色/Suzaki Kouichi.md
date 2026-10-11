@@ -5,7 +5,10 @@ display_title: "须崎孝一"
 title_zh: "须崎孝一"
 title_ja: "須崎 孝一"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c65119"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Suzaki Kouichi"
   - "須崎 孝一"

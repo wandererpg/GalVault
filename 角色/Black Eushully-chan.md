@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c44715"
 type: "character"
-display_title: "布拉K久惠乌修莉伊恰恩"
-title_zh: "布拉K久惠乌修莉伊恰恩"
+display_title: "ブラックエウシュリーちゃん"
+title_zh: ""
 title_ja: "ブラックエウシュリーちゃん"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c44715"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Black Eushully-chan"
-  - "ブラックエウシュリーちゃん"
   - "Bエウシュリーちゃん"
   - "B. Eushully-chan"
   - "Bエウ娘"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c44715.webp"
 ---
 
-# 布拉K久惠乌修莉伊恰恩
+# ブラックエウシュリーちゃん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

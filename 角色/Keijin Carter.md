@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c142058"
 type: "character"
-display_title: "惠伊吉恩加阿太阿"
-title_zh: "惠伊吉恩加阿太阿"
+display_title: "ケイジン・カーター"
+title_zh: ""
 title_ja: "ケイジン・カーター"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c142058"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Keijin Carter"
-  - "ケイジン・カーター"
 source_ids:
   vndb: "c142058"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c142058.webp"
 ---
 
-# 惠伊吉恩加阿太阿
+# ケイジン・カーター
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

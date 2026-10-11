@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c72119"
 type: "character"
-display_title: "露伊恩希恩古惠德恩"
-title_zh: "露伊恩希恩古惠德恩"
+display_title: "ルイン・キング・エデン"
+title_zh: ""
 title_ja: "ルイン・キング・エデン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c72119"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Louin King Eden"
-  - "ルイン・キング・エデン"
 source_ids:
   vndb: "c72119"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c72119.webp"
 ---
 
-# 露伊恩希恩古惠德恩
+# ルイン・キング・エデン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

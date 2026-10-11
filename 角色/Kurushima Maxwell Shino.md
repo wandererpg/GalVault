@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c45525"
 type: "character"
-display_title: "来嶌真久寿乌惠露紫乃"
-title_zh: "来嶌真久寿乌惠露紫乃"
+display_title: "来嶌・マクスウェル・紫乃"
+title_zh: ""
 title_ja: "来嶌・マクスウェル・紫乃"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c45525"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kurushima Maxwell Shino"
-  - "来嶌・マクスウェル・紫乃"
 source_ids:
   vndb: "c45525"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c45525.webp"
 ---
 
-# 来嶌真久寿乌惠露紫乃
+# 来嶌・マクスウェル・紫乃
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

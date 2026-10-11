@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c81097"
 type: "character"
-display_title: "久露美扎和·子乌寿惠"
-title_zh: "久露美扎和·子乌寿惠"
+display_title: "クルミザワ コウスケ"
+title_zh: ""
 title_ja: "クルミザワ コウスケ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c81097"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kurumizawa Kousuke"
-  - "クルミザワ コウスケ"
 source_ids:
   vndb: "c81097"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c81097.webp"
 ---
 
-# 久露美扎和·子乌寿惠
+# クルミザワ コウスケ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

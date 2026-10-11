@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c9791"
 type: "character"
-display_title: "忍足阿兹美"
-title_zh: "忍足阿兹美"
+display_title: "忍足 あずみ"
+title_zh: ""
 title_ja: "忍足 あずみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c9791"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Oshitari Azumi"
-  - "忍足 あずみ"
   - "Lady Queen Bee Maid"
   - "Queen Bee"
   - "メイド"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c9791.webp"
 ---
 
-# 忍足阿兹美
+# 忍足 あずみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

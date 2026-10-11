@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c22949"
 type: "character"
-display_title: "凤月乌拉拉"
-title_zh: "凤月乌拉拉"
+display_title: "鳳月 うらら"
+title_zh: ""
 title_ja: "鳳月 うらら"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c22949"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Houzuki Urara"
-  - "鳳月 うらら"
 source_ids:
   vndb: "c22949"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c22949.webp"
 ---
 
-# 凤月乌拉拉
+# 鳳月 うらら
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71140"
 type: "character"
-display_title: "索尼伊＝希伊寿＝扎P帕阿加T斗"
-title_zh: "索尼伊＝希伊寿＝扎P帕阿加T斗"
+display_title: "ソニー＝キース＝ザッパーカット"
+title_zh: ""
 title_ja: "ソニー＝キース＝ザッパーカット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71140"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sonny Keith Zappercat"
-  - "ソニー＝キース＝ザッパーカット"
 source_ids:
   vndb: "c71140"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71140.webp"
 ---
 
-# 索尼伊＝希伊寿＝扎P帕阿加T斗
+# ソニー＝キース＝ザッパーカット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

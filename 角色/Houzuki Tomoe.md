@@ -5,7 +5,10 @@ display_title: "宝月巴"
 title_zh: "宝月巴"
 title_ja: "宝月 巴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14180"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Houzuki Tomoe"
   - "宝月 巴"

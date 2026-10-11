@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c97414"
 type: "character"
-display_title: "V伊莉斗S"
-title_zh: "V伊莉斗S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Viritos"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97414"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Viritos"
 source_ids:
   vndb: "c97414"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c97414.webp"
 ---
 
-# V伊莉斗S
+# Viritos
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

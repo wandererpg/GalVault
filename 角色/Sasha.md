@@ -5,7 +5,10 @@ display_title: "沙亚纱"
 title_zh: "沙亚纱"
 title_ja: "沙亜紗"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c64372"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sasha"
   - "沙亜紗"

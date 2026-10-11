@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c59983"
 type: "character"
-display_title: "博奥达阿雅洛阿"
-title_zh: "博奥达阿雅洛阿"
+display_title: "ボーダー・ガロア"
+title_zh: ""
 title_ja: "ボーダー・ガロア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c59983"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Border Galois"
-  - "ボーダー・ガロア"
 source_ids:
   vndb: "c59983"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c59983.webp"
 ---
 
-# 博奥达阿雅洛阿
+# ボーダー・ガロア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

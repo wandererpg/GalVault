@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30621"
 type: "character"
-display_title: "羽伊诗惠拉"
-title_zh: "羽伊诗惠拉"
+display_title: "ハイシェラ"
+title_zh: ""
 title_ja: "ハイシェラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30621"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Haishera"
-  - "ハイシェラ"
 source_ids:
   vndb: "c30621"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30621.webp"
 ---
 
-# 羽伊诗惠拉
+# ハイシェラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

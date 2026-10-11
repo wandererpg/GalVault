@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c161300"
 type: "character"
-display_title: "穗和伊斗"
-title_zh: "穗和伊斗"
+display_title: "ホワイト"
+title_zh: ""
 title_ja: "ホワイト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161300"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "White"
-  - "ホワイト"
 source_ids:
   vndb: "c161300"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c161300.webp"
 ---
 
-# 穗和伊斗
+# ホワイト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

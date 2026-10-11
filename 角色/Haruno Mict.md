@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c21317"
 type: "character"
-display_title: "羽露乃美久斗"
-title_zh: "羽露乃美久斗"
+display_title: "ハルノ・ミクト"
+title_zh: ""
 title_ja: "ハルノ・ミクト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c21317"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Haruno Mict"
-  - "ハルノ・ミクト"
   - "Mikkun"
 source_ids:
   vndb: "c21317"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c21317.webp"
 ---
 
-# 羽露乃美久斗
+# ハルノ・ミクト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

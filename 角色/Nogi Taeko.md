@@ -5,7 +5,10 @@ display_title: "乃木妙子"
 title_zh: "乃木妙子"
 title_ja: "乃木 妙子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c3995"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nogi Taeko"
   - "乃木 妙子"

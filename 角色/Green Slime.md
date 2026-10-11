@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125970"
 type: "character"
-display_title: "古莉伊恩寿拉伊梦"
-title_zh: "古莉伊恩寿拉伊梦"
+display_title: "グリーンスライム"
+title_zh: ""
 title_ja: "グリーンスライム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125970"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Green Slime"
-  - "グリーンスライム"
 source_ids:
   vndb: "c125970"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c125970.webp"
 ---
 
-# 古莉伊恩寿拉伊梦
+# グリーンスライム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

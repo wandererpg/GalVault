@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c100159"
 type: "character"
-display_title: "阿优阿·扎音"
-title_zh: "阿优阿·扎音"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ayua Zane"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c100159"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ayua Zane"
 source_ids:
   vndb: "c100159"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c100159.webp"
 ---
 
-# 阿优阿·扎音
+# Ayua Zane
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

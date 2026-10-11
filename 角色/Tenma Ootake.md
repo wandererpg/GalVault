@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34816"
 type: "character"
-display_title: "天魔・大狱"
-title_zh: "天魔・大狱"
+display_title: "天魔・大獄"
+title_zh: ""
 title_ja: "天魔・大獄"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34816"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tenma Ootake"
-  - "天魔・大獄"
 source_ids:
   vndb: "c34816"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c34816.webp"
 ---
 
-# 天魔・大狱
+# 天魔・大獄
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

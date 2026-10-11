@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c126864"
 type: "character"
-display_title: "惠LF·B"
-title_zh: "惠LF·B"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Elf B"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126864"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Elf B"
 source_ids:
   vndb: "c126864"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c126864.webp"
 ---
 
-# 惠LF·B
+# Elf B
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

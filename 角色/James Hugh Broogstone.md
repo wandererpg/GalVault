@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c110012"
 type: "character"
-display_title: "吉惠伊梦兹休乌布露G古寿斗奥恩"
-title_zh: "吉惠伊梦兹休乌布露G古寿斗奥恩"
+display_title: "ジェイムズ・ヒュー・ブルッグストーン"
+title_zh: ""
 title_ja: "ジェイムズ・ヒュー・ブルッグストーン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c110012"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "James Hugh Broogstone"
-  - "ジェイムズ・ヒュー・ブルッグストーン"
 source_ids:
   vndb: "c110012"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c110012.webp"
 ---
 
-# 吉惠伊梦兹休乌布露G古寿斗奥恩
+# ジェイムズ・ヒュー・ブルッグストーン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

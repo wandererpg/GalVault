@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c141164"
 type: "character"
-display_title: "希露寿特伊恩穗洛乌古蕾伊V乌"
-title_zh: "希露寿特伊恩穗洛乌古蕾伊V乌"
+display_title: "キルスティン・ホロウグレイヴ"
+title_zh: ""
 title_ja: "キルスティン・ホロウグレイヴ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141164"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kirsten Hollowgrave"
-  - "キルスティン・ホロウグレイヴ"
 source_ids:
   vndb: "c141164"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c141164.webp"
 ---
 
-# 希露寿特伊恩穗洛乌古蕾伊V乌
+# キルスティン・ホロウグレイヴ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34837"
 type: "character"
-display_title: "惠莉伊寿斗拉伊芙"
-title_zh: "惠莉伊寿斗拉伊芙"
+display_title: "エリー・ストライフ"
+title_zh: ""
 title_ja: "エリー・ストライフ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34837"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ellie Strife"
-  - "エリー・ストライフ"
 source_ids:
   vndb: "c34837"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c34837.webp"
 ---
 
-# 惠莉伊寿斗拉伊芙
+# エリー・ストライフ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

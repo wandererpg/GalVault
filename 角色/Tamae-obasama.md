@@ -5,7 +5,10 @@ display_title: "珠江叔母样"
 title_zh: "珠江叔母样"
 title_ja: "珠江叔母様"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c82042"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tamae-obasama"
   - "珠江叔母様"

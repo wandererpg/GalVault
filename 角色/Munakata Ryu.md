@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c163266"
 type: "character"
-display_title: "梦奈加太·龙"
-title_zh: "梦奈加太·龙"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Munakata Ryu"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c163266"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Munakata Ryu"
   - "Death-filing Special Agent"
 source_ids:
   vndb: "c163266"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c163266.webp"
 ---
 
-# 梦奈加太·龙
+# Munakata Ryu
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

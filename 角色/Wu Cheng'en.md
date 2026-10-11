@@ -5,7 +5,10 @@ display_title: "吴承恩"
 title_zh: "吴承恩"
 title_ja: "呉承恩"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c77102"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Wu Cheng'en"
   - "呉承恩"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10097"
 type: "character"
-display_title: "樱＝乌伊恩扎阿"
-title_zh: "樱＝乌伊恩扎阿"
+display_title: "サクラ＝ウィンザー"
+title_zh: ""
 title_ja: "サクラ＝ウィンザー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10097"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sakura Windsor"
-  - "サクラ＝ウィンザー"
 source_ids:
   vndb: "c10097"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c10097.webp"
 ---
 
-# 樱＝乌伊恩扎阿
+# サクラ＝ウィンザー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

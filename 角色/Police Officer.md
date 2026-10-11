@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c122214"
 type: "character"
-display_title: "波L伊C惠·奥FF伊C惠R"
-title_zh: "波L伊C惠·奥FF伊C惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Police Officer"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c122214"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Police Officer"
 source_ids:
   vndb: "c122214"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c122214.webp"
 ---
 
-# 波L伊C惠·奥FF伊C惠R
+# Police Officer
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

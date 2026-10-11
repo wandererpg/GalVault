@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c144488"
 type: "character"
-display_title: "法条真莉奈"
-title_zh: "法条真莉奈"
+display_title: "法条 まりな"
+title_zh: ""
 title_ja: "法条 まりな"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c144488"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Houjou Marina"
-  - "法条 まりな"
   - "\"The Enemy\""
 source_ids:
   vndb: "c144488"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c144488.webp"
 ---
 
-# 法条真莉奈
+# 法条 まりな
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "竹芝叶藏"
 title_zh: "竹芝叶藏"
 title_ja: "竹芝 葉蔵"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c98657"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takeshiba Yozo"
   - "竹芝 葉蔵"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34935"
 type: "character"
-display_title: "惠恩莉惠T太古莉梦"
-title_zh: "惠恩莉惠T太古莉梦"
+display_title: "ヘンリエッタ・グリム"
+title_zh: ""
 title_ja: "ヘンリエッタ・グリム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34935"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Henrietta Grimm"
-  - "ヘンリエッタ・グリム"
 source_ids:
   vndb: "c34935"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c34935.webp"
 ---
 
-# 惠恩莉惠T太古莉梦
+# ヘンリエッタ・グリム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

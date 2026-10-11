@@ -5,7 +5,10 @@ display_title: "高桥绍运"
 title_zh: "高桥绍运"
 title_ja: "高橋 紹運"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c41019"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takahashi Shouun"
   - "高橋 紹運"

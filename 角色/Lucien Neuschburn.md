@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c100667"
 type: "character"
-display_title: "露乌诗惠恩乃伊修巴阿恩"
-title_zh: "露乌诗惠恩乃伊修巴阿恩"
+display_title: "ルーシェン・ノイシュバーン"
+title_zh: ""
 title_ja: "ルーシェン・ノイシュバーン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c100667"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lucien Neuschburn"
-  - "ルーシェン・ノイシュバーン"
   - "Frigid Prince"
   - "Futile Prince"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c100667.webp"
 ---
 
-# 露乌诗惠恩乃伊修巴阿恩
+# ルーシェン・ノイシュバーン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

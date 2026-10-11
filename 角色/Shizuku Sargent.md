@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c49518"
 type: "character"
-display_title: "雫沙阿吉惠恩斗"
-title_zh: "雫沙阿吉惠恩斗"
+display_title: "雫・サージェント"
+title_zh: ""
 title_ja: "雫・サージェント"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c49518"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shizuku Sargent"
-  - "雫・サージェント"
 source_ids:
   vndb: "c49518"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c49518.webp"
 ---
 
-# 雫沙阿吉惠恩斗
+# 雫・サージェント
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

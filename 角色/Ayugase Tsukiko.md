@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17718"
 type: "character"
-display_title: "鲇惠濑月子"
-title_zh: "鲇惠濑月子"
+display_title: "鮎ヶ瀬 月子"
+title_zh: ""
 title_ja: "鮎ヶ瀬 月子"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17718"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ayugase Tsukiko"
-  - "鮎ヶ瀬 月子"
 source_ids:
   vndb: "c17718"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c17718.webp"
 ---
 
-# 鲇惠濑月子
+# 鮎ヶ瀬 月子
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

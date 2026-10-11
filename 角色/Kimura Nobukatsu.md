@@ -5,7 +5,10 @@ display_title: "木村信胜"
 title_zh: "木村信胜"
 title_ja: "木村 信勝"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c64884"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kimura Nobukatsu"
   - "木村 信勝"

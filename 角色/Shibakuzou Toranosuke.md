@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14422"
 type: "character"
-display_title: "芝九藏虎乃助"
-title_zh: "芝九藏虎乃助"
+display_title: "芝九蔵 虎ノ助"
+title_zh: ""
 title_ja: "芝九蔵 虎ノ助"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14422"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shibakuzou Toranosuke"
-  - "芝九蔵 虎ノ助"
   - "Don Tigre"
   - "Phoenix Wright (alias)"
   - "The Tiger"
@@ -24,7 +26,7 @@ source_urls:
 portrait_image: "assets/characters/c14422.webp"
 ---
 
-# 芝九藏虎乃助
+# 芝九蔵 虎ノ助
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

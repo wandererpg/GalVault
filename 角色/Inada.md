@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c135660"
 type: "character"
-display_title: "伊奈达"
-title_zh: "伊奈达"
+display_title: "イナダ"
+title_zh: ""
 title_ja: "イナダ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c135660"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Inada"
-  - "イナダ"
 source_ids:
   vndb: "c135660"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c135660.webp"
 ---
 
-# 伊奈达
+# イナダ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

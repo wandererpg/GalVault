@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c155767"
 type: "character"
-display_title: "千羽雅"
-title_zh: "千羽雅"
+display_title: "ちはや"
+title_zh: ""
 title_ja: "ちはや"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155767"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chihaya"
-  - "ちはや"
 source_ids:
   vndb: "c155767"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c155767.webp"
 ---
 
-# 千羽雅
+# ちはや
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

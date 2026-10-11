@@ -5,7 +5,10 @@ display_title: "大地苍太"
 title_zh: "大地苍太"
 title_ja: "大地 蒼太"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c26958"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Daiichi Souta"
   - "大地 蒼太"

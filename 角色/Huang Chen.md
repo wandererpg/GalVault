@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c157509"
 type: "character"
-display_title: "奥乌C惠恩"
-title_zh: "奥乌C惠恩"
+display_title: "オウ・チェン"
+title_zh: ""
 title_ja: "オウ・チェン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c157509"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Huang Chen"
-  - "オウ・チェン"
 source_ids:
   vndb: "c157509"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c157509.webp"
 ---
 
-# 奥乌C惠恩
+# オウ・チェン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

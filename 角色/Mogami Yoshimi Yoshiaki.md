@@ -5,7 +5,10 @@ display_title: "最上寿水义光"
 title_zh: "最上寿水义光"
 title_ja: "最上 寿水 義光"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c100053"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mogami Yoshimi Yoshiaki"
   - "最上 寿水 義光"

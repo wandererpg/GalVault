@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c105804"
 type: "character"
-display_title: "索C伊惠TY博Y"
-title_zh: "索C伊惠TY博Y"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Societyboy"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c105804"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Societyboy"
 source_ids:
   vndb: "c105804"
 source_urls:
   vndb: "https://vndb.org/c105804"
 ---
 
-# 索C伊惠TY博Y
+# Societyboy
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

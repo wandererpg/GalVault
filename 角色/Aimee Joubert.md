@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c83761"
 type: "character"
-display_title: "惠芽朱贝惠露"
-title_zh: "惠芽朱贝惠露"
+display_title: "エメ・ジュベール"
+title_zh: ""
 title_ja: "エメ・ジュベール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c83761"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Aimee Joubert"
-  - "エメ・ジュベール"
 source_ids:
   vndb: "c83761"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c83761.webp"
 ---
 
-# 惠芽朱贝惠露
+# エメ・ジュベール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

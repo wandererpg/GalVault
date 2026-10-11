@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c72069"
 type: "character"
-display_title: "美阿乌惠露千"
-title_zh: "美阿乌惠露千"
+display_title: "ミア・ウェルチ"
+title_zh: ""
 title_ja: "ミア・ウェルチ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c72069"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mia Welch"
-  - "ミア・ウェルチ"
 source_ids:
   vndb: "c72069"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c72069.webp"
 ---
 
-# 美阿乌惠露千
+# ミア・ウェルチ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

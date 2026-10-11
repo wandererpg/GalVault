@@ -5,7 +5,10 @@ display_title: "大迫力"
 title_zh: "大迫力"
 title_ja: "大迫 力"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1310"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Oosako Chikara"
   - "大迫 力"

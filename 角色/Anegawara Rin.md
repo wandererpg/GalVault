@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c11461"
 type: "character"
-display_title: "姉惠原凛"
-title_zh: "姉惠原凛"
+display_title: "姉ヶ原 凜"
+title_zh: ""
 title_ja: "姉ヶ原 凜"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c11461"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Anegawara Rin"
-  - "姉ヶ原 凜"
   - "Iron Vice Chairman"
   - "鉄の副会長"
   - "Tetsu no Fukukaichou"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c11461.webp"
 ---
 
-# 姉惠原凛
+# 姉ヶ原 凜
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

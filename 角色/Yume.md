@@ -5,7 +5,10 @@ display_title: "由女"
 title_zh: "由女"
 title_ja: "由女"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2436"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yume"
 source_ids:

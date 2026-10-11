@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c48969"
 type: "character"
-display_title: "露伊16世"
-title_zh: "露伊16世"
+display_title: "ルイ16世"
+title_zh: ""
 title_ja: "ルイ16世"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c48969"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Louis XVI"
-  - "ルイ16世"
   - "ジャック"
   - "Jack"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c48969.webp"
 ---
 
-# 露伊16世
+# ルイ16世
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "藤堂平助"
 title_zh: "藤堂平助"
 title_ja: "藤堂 平助"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c62885"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Toudou Heisuke"
   - "藤堂 平助"

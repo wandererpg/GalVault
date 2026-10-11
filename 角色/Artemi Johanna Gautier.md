@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c91589"
 type: "character"
-display_title: "阿R特美·乔羽恩奈·雅乌T伊惠R"
-title_zh: "阿R特美·乔羽恩奈·雅乌T伊惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Artemi Johanna Gautier"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c91589"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Artemi Johanna Gautier"
 source_ids:
   vndb: "c91589"
 source_urls:
   vndb: "https://vndb.org/c91589"
 ---
 
-# 阿R特美·乔羽恩奈·雅乌T伊惠R
+# Artemi Johanna Gautier
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

@@ -5,7 +5,10 @@ display_title: "嵯峨野"
 title_zh: "嵯峨野"
 title_ja: "嵯峨野"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21386"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sagano"
 source_ids:

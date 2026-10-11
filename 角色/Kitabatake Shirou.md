@@ -5,7 +5,10 @@ display_title: "北畠史郎"
 title_zh: "北畠史郎"
 title_ja: "北畠 史郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c56457"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kitabatake Shirou"
   - "北畠 史郎"

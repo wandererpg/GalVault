@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c99468"
 type: "character"
-display_title: "阿乃希阿莫惠莫惠寿莉恩"
-title_zh: "阿乃希阿莫惠莫惠寿莉恩"
+display_title: "アノキア・モエモエ・スリン"
+title_zh: ""
 title_ja: "アノキア・モエモエ・スリン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c99468"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Anokia Moemoe Slin"
-  - "アノキア・モエモエ・スリン"
 source_ids:
   vndb: "c99468"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c99468.webp"
 ---
 
-# 阿乃希阿莫惠莫惠寿莉恩
+# アノキア・モエモエ・スリン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

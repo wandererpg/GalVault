@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c124532"
 type: "character"
-display_title: "沙恩G·朱恩"
-title_zh: "沙恩G·朱恩"
+display_title: "상준"
+title_zh: ""
 title_ja: "상준"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124532"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sang-jun"
-  - "상준"
   - "Sangjoon"
 source_ids:
   vndb: "c124532"
@@ -16,7 +18,7 @@ source_urls:
   vndb: "https://vndb.org/c124532"
 ---
 
-# 沙恩G·朱恩
+# 상준
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c97417"
 type: "character"
-display_title: "真恩·奥F·堂洛尼乌M"
-title_zh: "真恩·奥F·堂洛尼乌M"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Man of Doronium"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97417"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Man of Doronium"
 source_ids:
   vndb: "c97417"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c97417.webp"
 ---
 
-# 真恩·奥F·堂洛尼乌M
+# Man of Doronium
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

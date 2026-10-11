@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c56995"
 type: "character"
-display_title: "斋藤代乌子"
-title_zh: "斋藤代乌子"
+display_title: "斎藤 ようこ"
+title_zh: ""
 title_ja: "斎藤 ようこ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56995"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Saitou Youko"
-  - "斎藤 ようこ"
 source_ids:
   vndb: "c56995"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c56995.webp"
 ---
 
-# 斋藤代乌子
+# 斎藤 ようこ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

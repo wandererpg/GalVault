@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c128706"
 type: "character"
-display_title: "德露F伊伊奈莉恩堂巴乌梦"
-title_zh: "德露F伊伊奈莉恩堂巴乌梦"
+display_title: "デルフィーナ・リンドバウム"
+title_zh: ""
 title_ja: "デルフィーナ・リンドバウム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c128706"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Delfina Lindbaum"
-  - "デルフィーナ・リンドバウム"
   - "フィーナ"
   - "Fina"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c128706.webp"
 ---
 
-# 德露F伊伊奈莉恩堂巴乌梦
+# デルフィーナ・リンドバウム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

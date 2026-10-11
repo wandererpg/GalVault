@@ -5,7 +5,10 @@ display_title: "藤原龙介"
 title_zh: "藤原龙介"
 title_ja: "藤原 竜介"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43116"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fujiwara Ryuusuke"
   - "藤原 竜介"

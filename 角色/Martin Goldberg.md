@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159517"
 type: "character"
-display_title: "真RT伊恩·悟LD贝RG"
-title_zh: "真RT伊恩·悟LD贝RG"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Martin Goldberg"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159517"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Martin Goldberg"
 source_ids:
   vndb: "c159517"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c159517.webp"
 ---
 
-# 真RT伊恩·悟LD贝RG
+# Martin Goldberg
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

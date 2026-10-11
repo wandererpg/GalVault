@@ -5,7 +5,10 @@ display_title: "长岭雅纪"
 title_zh: "长岭雅纪"
 title_ja: "長嶺 雅紀"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c48126"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nagamine Masanori"
   - "長嶺 雅紀"

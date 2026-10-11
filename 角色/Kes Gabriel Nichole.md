@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c111639"
 type: "character"
-display_title: "惠寿雅布莉惠露尼子露"
-title_zh: "惠寿雅布莉惠露尼子露"
+display_title: "ケス・ガブリエル・ニコル"
+title_zh: ""
 title_ja: "ケス・ガブリエル・ニコル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c111639"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kes Gabriel Nichole"
-  - "ケス・ガブリエル・ニコル"
 source_ids:
   vndb: "c111639"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c111639.webp"
 ---
 
-# 惠寿雅布莉惠露尼子露
+# ケス・ガブリエル・ニコル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

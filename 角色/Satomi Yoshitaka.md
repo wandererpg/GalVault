@@ -5,7 +5,10 @@ display_title: "里见义尧"
 title_zh: "里见义尧"
 title_ja: "里見 義堯"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c49206"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Satomi Yoshitaka"
   - "里見 義堯"

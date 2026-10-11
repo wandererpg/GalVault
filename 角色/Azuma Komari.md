@@ -5,7 +5,10 @@ display_title: "东妻小毬"
 title_zh: "东妻小毬"
 title_ja: "東妻 小毬"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c92337"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Azuma Komari"
   - "東妻 小毬"

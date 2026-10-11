@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17047"
 type: "character"
-display_title: "露奈特美寿"
-title_zh: "露奈特美寿"
+display_title: "ルナテミス"
+title_zh: ""
 title_ja: "ルナテミス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17047"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lunatemis"
-  - "ルナテミス"
   - "Perfect Maiden"
   - "パーフェクト・メイデン"
   - "Luluna VonBraun Moonland"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c17047.webp"
 ---
 
-# 露奈特美寿
+# ルナテミス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

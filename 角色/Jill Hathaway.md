@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c75397"
 type: "character"
-display_title: "吉露·羽沙乌惠伊"
-title_zh: "吉露·羽沙乌惠伊"
+display_title: "ジル  ハサウェイ"
+title_zh: ""
 title_ja: "ジル  ハサウェイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c75397"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jill Hathaway"
-  - "ジル  ハサウェイ"
   - "Jill"
   - "ジル"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c75397.webp"
 ---
 
-# 吉露·羽沙乌惠伊
+# ジル  ハサウェイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

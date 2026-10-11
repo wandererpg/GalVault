@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87107"
 type: "character"
-display_title: "莉莉恩达"
-title_zh: "莉莉恩达"
+display_title: "リリンダ"
+title_zh: ""
 title_ja: "リリンダ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87107"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lilynda"
-  - "リリンダ"
 source_ids:
   vndb: "c87107"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c87107.webp"
 ---
 
-# 莉莉恩达
+# リリンダ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

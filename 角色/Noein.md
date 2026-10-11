@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c59204"
 type: "character"
-display_title: "乃惠伊恩"
-title_zh: "乃惠伊恩"
+display_title: "ノエイン"
+title_zh: ""
 title_ja: "ノエイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c59204"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Noein"
-  - "ノエイン"
   - "Eden's Ritter Ashtaros"
   - "エデンズリッター・アシュタロス"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c59204.webp"
 ---
 
-# 乃惠伊恩
+# ノエイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

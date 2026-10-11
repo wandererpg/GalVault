@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c46933"
 type: "character"
-display_title: "寿太尼寿和芙"
-title_zh: "寿太尼寿和芙"
+display_title: "スタニスワフ"
+title_zh: ""
 title_ja: "スタニスワフ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c46933"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Stanislaw"
-  - "スタニスワフ"
 source_ids:
   vndb: "c46933"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c46933.webp"
 ---
 
-# 寿太尼寿和芙
+# スタニスワフ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

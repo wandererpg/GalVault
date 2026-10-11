@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c165966"
 type: "character"
-display_title: "子羽露父"
-title_zh: "子羽露父"
+display_title: "こはる父"
+title_zh: ""
 title_ja: "こはる父"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c165966"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Koharu Chichi"
-  - "こはる父"
 source_ids:
   vndb: "c165966"
 source_urls:
   vndb: "https://vndb.org/c165966"
 ---
 
-# 子羽露父
+# こはる父
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

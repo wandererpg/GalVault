@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c36546"
 type: "character"
-display_title: "古郡子奈"
-title_zh: "古郡子奈"
+display_title: "古郡 こな"
+title_zh: ""
 title_ja: "古郡 こな"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c36546"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Furugoori Kona"
-  - "古郡 こな"
   - "Koujiro Frau"
   - "FRAUKOUJIRO"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c36546.webp"
 ---
 
-# 古郡子奈
+# 古郡 こな
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

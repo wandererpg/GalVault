@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c136593"
 type: "character"
-display_title: "L奥RD·阿B拉X"
-title_zh: "L奥RD·阿B拉X"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Lord Abrax"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136593"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Lord Abrax"
   - "Zosar"
 source_ids:
   vndb: "c136593"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c136593.webp"
 ---
 
-# L奥RD·阿B拉X
+# Lord Abrax
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

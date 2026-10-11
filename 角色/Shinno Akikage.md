@@ -5,7 +5,10 @@ display_title: "神野明影"
 title_zh: "神野明影"
 title_ja: "神野 明影"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43635"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shinno Akikage"
   - "神野 明影"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c87378"
 type: "character"
-display_title: "GW惠恩堂L惠恩"
-title_zh: "GW惠恩堂L惠恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Gwendolen"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87378"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Gwendolen"
 source_ids:
   vndb: "c87378"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c87378.webp"
 ---
 
-# GW惠恩堂L惠恩
+# Gwendolen
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

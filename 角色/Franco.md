@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c140507"
 type: "character"
-display_title: "芙拉恩子"
-title_zh: "芙拉恩子"
+display_title: "フランコ"
+title_zh: ""
 title_ja: "フランコ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c140507"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Franco"
-  - "フランコ"
 source_ids:
   vndb: "c140507"
 source_urls:
   vndb: "https://vndb.org/c140507"
 ---
 
-# 芙拉恩子
+# フランコ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

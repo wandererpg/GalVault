@@ -5,7 +5,10 @@ display_title: "猿田犬男"
 title_zh: "猿田犬男"
 title_ja: "猿田 犬男"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c8147"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Saruta Inuo"
   - "猿田 犬男"

@@ -5,7 +5,10 @@ display_title: "毛利小平太"
 title_zh: "毛利小平太"
 title_ja: "毛利 小平太"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16527"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mouri Koheita"
   - "毛利 小平太"

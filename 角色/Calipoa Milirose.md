@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c97684"
 type: "character"
-display_title: "C阿L伊波阿·美L伊洛濑"
-title_zh: "C阿L伊波阿·美L伊洛濑"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Calipoa Milirose"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97684"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Calipoa Milirose"
   - "Cali"
 source_ids:
   vndb: "c97684"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c97684.webp"
 ---
 
-# C阿L伊波阿·美L伊洛濑
+# Calipoa Milirose
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

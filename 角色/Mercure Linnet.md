@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c28218"
 type: "character"
-display_title: "芽露久乌露莉音T斗"
-title_zh: "芽露久乌露莉音T斗"
+display_title: "メルキュール・リネット"
+title_zh: ""
 title_ja: "メルキュール・リネット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c28218"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mercure Linnet"
-  - "メルキュール・リネット"
 source_ids:
   vndb: "c28218"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c28218.webp"
 ---
 
-# 芽露久乌露莉音T斗
+# メルキュール・リネット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

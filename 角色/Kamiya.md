@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c111146"
 type: "character"
-display_title: "加美雅"
-title_zh: "加美雅"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Kamiya"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c111146"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Kamiya"
 source_ids:
   vndb: "c111146"
 source_urls:
   vndb: "https://vndb.org/c111146"
 ---
 
-# 加美雅
+# Kamiya
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

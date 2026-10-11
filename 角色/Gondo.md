@@ -5,7 +5,10 @@ display_title: "权藤"
 title_zh: "权藤"
 title_ja: "権藤"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c17509"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Gondo"
   - "権藤"

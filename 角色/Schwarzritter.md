@@ -5,7 +5,10 @@ display_title: "黑骑士"
 title_zh: "黑骑士"
 title_ja: "黒騎士"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14101"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Schwarzritter"
   - "黒騎士"

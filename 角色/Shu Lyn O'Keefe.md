@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c81178"
 type: "character"
-display_title: "修乌"
-title_zh: "修乌"
+display_title: "シュウ"
+title_zh: ""
 title_ja: "シュウ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c81178"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shu Lyn O'Keefe"
-  - "シュウ"
 source_ids:
   vndb: "c81178"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c81178.webp"
 ---
 
-# 修乌
+# シュウ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

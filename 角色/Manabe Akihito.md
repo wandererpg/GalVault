@@ -5,7 +5,10 @@ display_title: "真部章仁"
 title_zh: "真部章仁"
 title_ja: "真部 章仁"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c17869"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Manabe Akihito"
   - "真部 章仁"

@@ -5,7 +5,10 @@ display_title: "坛九重"
 title_zh: "坛九重"
 title_ja: "壇 九重"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43874"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Dan Kokonoe"
   - "壇 九重"

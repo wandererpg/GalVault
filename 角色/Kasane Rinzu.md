@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12144"
 type: "character"
-display_title: "累莉恩兹"
-title_zh: "累莉恩兹"
+display_title: "累 りんず"
+title_zh: ""
 title_ja: "累 りんず"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12144"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kasane Rinzu"
-  - "累 りんず"
   - "Kasane Lynn"
 source_ids:
   vndb: "c12144"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c12144.webp"
 ---
 
-# 累莉恩兹
+# 累 りんず
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

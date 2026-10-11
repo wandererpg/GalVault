@@ -5,7 +5,10 @@ display_title: "发长姫"
 title_zh: "发长姫"
 title_ja: "髪長姫"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c13602"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kaminagahime"
   - "髪長姫"

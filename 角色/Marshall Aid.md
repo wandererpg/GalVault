@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16533"
 type: "character"
-display_title: "真阿夏露＝惠伊堂"
-title_zh: "真阿夏露＝惠伊堂"
+display_title: "マーシャル＝エイド"
+title_zh: ""
 title_ja: "マーシャル＝エイド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16533"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Marshall Aid"
-  - "マーシャル＝エイド"
   - "Marshall Eid"
   - "Marshall Aido"
   - "Marshall Eido"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c16533.webp"
 ---
 
-# 真阿夏露＝惠伊堂
+# マーシャル＝エイド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

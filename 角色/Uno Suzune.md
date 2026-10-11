@@ -5,7 +5,10 @@ display_title: "宇野铃音"
 title_zh: "宇野铃音"
 title_ja: "宇野 鈴音"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c53311"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Uno Suzune"
   - "宇野 鈴音"

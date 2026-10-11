@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87444"
 type: "character"
-display_title: "月黄泉(津久代美)"
-title_zh: "月黄泉(津久代美)"
+display_title: "月黄泉 (ツクヨミ)"
+title_zh: ""
 title_ja: "月黄泉 (ツクヨミ)"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87444"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tsukuyomi"
-  - "月黄泉 (ツクヨミ)"
 source_ids:
   vndb: "c87444"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c87444.webp"
 ---
 
-# 月黄泉(津久代美)
+# 月黄泉 (ツクヨミ)
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

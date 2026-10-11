@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30210"
 type: "character"
-display_title: "修美音莉阿特露加"
-title_zh: "修美音莉阿特露加"
+display_title: "シュミネリア・テルカ"
+title_zh: ""
 title_ja: "シュミネリア・テルカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30210"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shuminelia Terqa"
-  - "シュミネリア・テルカ"
 source_ids:
   vndb: "c30210"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30210.webp"
 ---
 
-# 修美音莉阿特露加
+# シュミネリア・テルカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

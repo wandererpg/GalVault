@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c2447"
 type: "character"
-display_title: "伊羽比伊拉芽K子奥"
-title_zh: "伊羽比伊拉芽K子奥"
+display_title: "イハビーラ・メッコー"
+title_zh: ""
 title_ja: "イハビーラ・メッコー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c2447"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ehavilla Mecco"
-  - "イハビーラ・メッコー"
 source_ids:
   vndb: "c2447"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c2447.webp"
 ---
 
-# 伊羽比伊拉芽K子奥
+# イハビーラ・メッコー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

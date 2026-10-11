@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71169"
 type: "character"
-display_title: "达G雅阿＝博雅阿达恩"
-title_zh: "达G雅阿＝博雅阿达恩"
+display_title: "ダッガー＝ボガーダン"
+title_zh: ""
 title_ja: "ダッガー＝ボガーダン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71169"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Dagger Bogardan"
-  - "ダッガー＝ボガーダン"
 source_ids:
   vndb: "c71169"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71169.webp"
 ---
 
-# 达G雅阿＝博雅阿达恩
+# ダッガー＝ボガーダン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

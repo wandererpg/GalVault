@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10202"
 type: "character"
-display_title: "江乃岛盾子"
-title_zh: "江乃岛盾子"
+display_title: "江ノ島 盾子"
+title_zh: ""
 title_ja: "江ノ島 盾子"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10202"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Enoshima Junko"
-  - "江ノ島 盾子"
   - "Despair Sisters"
   - "True Ultimate Despair"
   - "Ultimate Fashionista"
@@ -23,7 +25,7 @@ source_urls:
 portrait_image: "assets/characters/c10202.webp"
 ---
 
-# 江乃岛盾子
+# 江ノ島 盾子
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

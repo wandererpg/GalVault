@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c104133"
 type: "character"
-display_title: "绪伊·希沙斗"
-title_zh: "绪伊·希沙斗"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Choi Kisato"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c104133"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Choi Kisato"
 source_ids:
   vndb: "c104133"
 source_urls:
   vndb: "https://vndb.org/c104133"
 ---
 
-# 绪伊·希沙斗
+# Choi Kisato
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

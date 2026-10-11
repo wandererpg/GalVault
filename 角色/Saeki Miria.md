@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c137425"
 type: "character"
-display_title: "佐伯美莉阿"
-title_zh: "佐伯美莉阿"
+display_title: "佐伯 ミリア"
+title_zh: ""
 title_ja: "佐伯 ミリア"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c137425"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Saeki Miria"
-  - "佐伯 ミリア"
   - "Old man"
   - "おじさん"
   - "Oji-san"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c137425.webp"
 ---
 
-# 佐伯美莉阿
+# 佐伯 ミリア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

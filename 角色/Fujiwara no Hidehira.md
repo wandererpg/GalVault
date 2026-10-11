@@ -5,7 +5,10 @@ display_title: "藤原秀衡"
 title_zh: "藤原秀衡"
 title_ja: "藤原秀衡"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c122155"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fujiwara no Hidehira"
 source_ids:

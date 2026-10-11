@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c49124"
 type: "character"
-display_title: "久K希伊4伊S"
-title_zh: "久K希伊4伊S"
+display_title: "クッキー4IS"
+title_zh: ""
 title_ja: "クッキー4IS"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c49124"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cookie 4IS"
-  - "クッキー4IS"
   - "Aies"
   - "アイエス"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c49124.webp"
 ---
 
-# 久K希伊4伊S
+# クッキー4IS
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

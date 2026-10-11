@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38363"
 type: "character"
-display_title: "阿露芙蕾D堂赤城"
-title_zh: "阿露芙蕾D堂赤城"
+display_title: "アルフレッド 赤城"
+title_zh: ""
 title_ja: "アルフレッド 赤城"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38363"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alfred Akagi"
-  - "アルフレッド 赤城"
   - "Tetsuya Akagi"
   - "Crazy Alfred"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c38363.webp"
 ---
 
-# 阿露芙蕾D堂赤城
+# アルフレッド 赤城
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

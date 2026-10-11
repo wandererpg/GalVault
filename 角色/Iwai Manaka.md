@@ -5,7 +5,10 @@ display_title: "居和井爱夏"
 title_zh: "居和井爱夏"
 title_ja: "居和井 愛夏"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c86550"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Iwai Manaka"
   - "居和井 愛夏"

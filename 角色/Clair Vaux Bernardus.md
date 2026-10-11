@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c22450"
 type: "character"
-display_title: "久蕾露V奥奥布贝露奈露堂乌寿"
-title_zh: "久蕾露V奥奥布贝露奈露堂乌寿"
+display_title: "クレル・ヴォーブ・ベルナルドゥス"
+title_zh: ""
 title_ja: "クレル・ヴォーブ・ベルナルドゥス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c22450"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Clair Vaux Bernardus"
-  - "クレル・ヴォーブ・ベルナルドゥス"
   - "Beatrice"
   - "Yasu"
   - "Yasuda"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c22450.webp"
 ---
 
-# 久蕾露V奥奥布贝露奈露堂乌寿
+# クレル・ヴォーブ・ベルナルドゥス
 
 
 ## 角色画像

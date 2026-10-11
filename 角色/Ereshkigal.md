@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c104010"
 type: "character"
-display_title: "惠蕾修希雅露"
-title_zh: "惠蕾修希雅露"
+display_title: "エレシュキガル"
+title_zh: ""
 title_ja: "エレシュキガル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c104010"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ereshkigal"
-  - "エレシュキガル"
   - "Sorceress of the Underworld"
   - "冥界の巫女"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c104010.webp"
 ---
 
-# 惠蕾修希雅露
+# エレシュキガル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

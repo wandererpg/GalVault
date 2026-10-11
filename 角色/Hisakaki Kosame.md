@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c3938"
 type: "character"
-display_title: "姫榊子沙芽"
-title_zh: "姫榊子沙芽"
+display_title: "姫榊 こさめ"
+title_zh: ""
 title_ja: "姫榊 こさめ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c3938"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hisakaki Kosame"
-  - "姫榊 こさめ"
   - "Komame"
 source_ids:
   vndb: "c3938"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c3938.webp"
 ---
 
-# 姫榊子沙芽
+# 姫榊 こさめ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

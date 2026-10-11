@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125457"
 type: "character"
-display_title: "沙巴沙王"
-title_zh: "沙巴沙王"
+display_title: "サバサ王"
+title_zh: ""
 title_ja: "サバサ王"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125457"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sabasa King"
-  - "サバサ王"
   - "Ninth King of Sabasa"
   - "Emperor of the Burning Sands"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c125457.webp"
 ---
 
-# 沙巴沙王
+# サバサ王
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

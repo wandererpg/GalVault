@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c19865"
 type: "character"
-display_title: "J惠·濑奥Y惠奥恩"
-title_zh: "J惠·濑奥Y惠奥恩"
+display_title: "제 서연"
+title_zh: ""
 title_ja: "제 서연"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c19865"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Je Seoyeon"
-  - "제 서연"
 source_ids:
   vndb: "c19865"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c19865.webp"
 ---
 
-# J惠·濑奥Y惠奥恩
+# 제 서연
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

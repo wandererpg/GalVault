@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c75925"
 type: "character"
-display_title: "伊寿斗莉阿"
-title_zh: "伊寿斗莉阿"
+display_title: "イストリア"
+title_zh: ""
 title_ja: "イストリア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c75925"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Historia"
-  - "イストリア"
   - "イストリア・エーナス・パラティリティス・アナグノースティス・ギデマン・エディトール"
   - "館長"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c75925.webp"
 ---
 
-# 伊寿斗莉阿
+# イストリア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

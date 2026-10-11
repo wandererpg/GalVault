@@ -5,7 +5,10 @@ display_title: "小河坂洋"
 title_zh: "小河坂洋"
 title_ja: "小河坂 洋"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c3882"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kogasaka You"
   - "小河坂 洋"

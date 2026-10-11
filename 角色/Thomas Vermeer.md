@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c96063"
 type: "character"
-display_title: "T穗真S·V惠R芽惠R"
-title_zh: "T穗真S·V惠R芽惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Thomas Vermeer"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c96063"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Thomas Vermeer"
 source_ids:
   vndb: "c96063"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c96063.webp"
 ---
 
-# T穗真S·V惠R芽惠R
+# Thomas Vermeer
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

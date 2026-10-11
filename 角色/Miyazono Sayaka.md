@@ -5,7 +5,10 @@ display_title: "宫园沙也加"
 title_zh: "宫园沙也加"
 title_ja: "宮園 沙也加"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c75718"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Miyazono Sayaka"
   - "宮園 沙也加"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34313"
 type: "character"
-display_title: "久拉恩堂洛寿V阿寿雅恩"
-title_zh: "久拉恩堂洛寿V阿寿雅恩"
+display_title: "ギュランドロス・ヴァスガン"
+title_zh: ""
 title_ja: "ギュランドロス・ヴァスガン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34313"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gulandross Vasgan"
-  - "ギュランドロス・ヴァスガン"
 source_ids:
   vndb: "c34313"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c34313.webp"
 ---
 
-# 久拉恩堂洛寿V阿寿雅恩
+# ギュランドロス・ヴァスガン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

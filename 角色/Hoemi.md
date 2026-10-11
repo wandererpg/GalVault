@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c83619"
 type: "character"
-display_title: "穗惠美伊"
-title_zh: "穗惠美伊"
+display_title: "ホエミー"
+title_zh: ""
 title_ja: "ホエミー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c83619"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hoemi"
-  - "ホエミー"
   - "Smiley lady"
   - "原井 笑理"
   - "Harai Emiri"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c83619.webp"
 ---
 
-# 穗惠美伊
+# ホエミー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

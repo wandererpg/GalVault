@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c167974"
 type: "character"
-display_title: "加T惠莉音"
-title_zh: "加T惠莉音"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Katherine"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c167974"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Katherine"
 source_ids:
   vndb: "c167974"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c167974.webp"
 ---
 
-# 加T惠莉音
+# Katherine
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125631"
 type: "character"
-display_title: "阿伊阿恩芽伊德恩"
-title_zh: "阿伊阿恩芽伊德恩"
+display_title: "アイアンメイデン"
+title_zh: ""
 title_ja: "アイアンメイデン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125631"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Iron Maiden"
-  - "アイアンメイデン"
   - "Maiden"
 source_ids:
   vndb: "c125631"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c125631.webp"
 ---
 
-# 阿伊阿恩芽伊德恩
+# アイアンメイデン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

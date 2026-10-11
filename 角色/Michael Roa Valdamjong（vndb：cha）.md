@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c135304"
 type: "character"
-display_title: "美羽伊露洛阿巴露达梦代奥恩"
-title_zh: "美羽伊露洛阿巴露达梦代奥恩"
+display_title: "ミハイル・ロア・バルダムヨォン"
+title_zh: ""
 title_ja: "ミハイル・ロア・バルダムヨォン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c135304"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Michael Roa Valdamjong"
-  - "ミハイル・ロア・バルダムヨォン"
   - "Serpent of Akasha"
   - "アカシャの蛇"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c135304.webp"
 ---
 
-# 美羽伊露洛阿巴露达梦代奥恩
+# ミハイル・ロア・バルダムヨォン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "榊宏"
 title_zh: "榊宏"
 title_ja: "榊 宏"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c36971"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakaki Hiro"
   - "榊 宏"

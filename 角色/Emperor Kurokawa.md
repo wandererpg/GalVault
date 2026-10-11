@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c141303"
 type: "character"
-display_title: "惠恩佩拉阿黑川"
-title_zh: "惠恩佩拉阿黑川"
+display_title: "エンペラー黒川"
+title_zh: ""
 title_ja: "エンペラー黒川"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141303"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Emperor Kurokawa"
-  - "エンペラー黒川"
 source_ids:
   vndb: "c141303"
 source_urls:
   vndb: "https://vndb.org/c141303"
 ---
 
-# 惠恩佩拉阿黑川
+# エンペラー黒川
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

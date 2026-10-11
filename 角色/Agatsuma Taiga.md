@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87457"
 type: "character"
-display_title: "我妻太伊雅"
-title_zh: "我妻太伊雅"
+display_title: "我妻 タイガ"
+title_zh: ""
 title_ja: "我妻 タイガ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87457"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Agatsuma Taiga"
-  - "我妻 タイガ"
 source_ids:
   vndb: "c87457"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c87457.webp"
 ---
 
-# 我妻太伊雅
+# 我妻 タイガ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

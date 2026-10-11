@@ -5,7 +5,10 @@ display_title: "土田宪实"
 title_zh: "土田宪实"
 title_ja: "土田 憲実"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21385"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsuchida Norizane"
   - "土田 憲実"

@@ -5,7 +5,10 @@ display_title: "浅野内匠头"
 title_zh: "浅野内匠头"
 title_ja: "浅野 内匠頭"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16502"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Asano Takumi no Kami"
   - "浅野 内匠頭"

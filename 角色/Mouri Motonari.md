@@ -5,7 +5,10 @@ display_title: "毛利元就"
 title_zh: "毛利元就"
 title_ja: "毛利 元就"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c123331"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mouri Motonari"
   - "毛利 元就"

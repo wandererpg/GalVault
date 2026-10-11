@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43504"
 type: "character"
-display_title: "古音惠诗恩"
-title_zh: "古音惠诗恩"
+display_title: "グネーシン"
+title_zh: ""
 title_ja: "グネーシン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43504"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gnessin"
-  - "グネーシン"
 source_ids:
   vndb: "c43504"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43504.webp"
 ---
 
-# 古音惠诗恩
+# グネーシン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

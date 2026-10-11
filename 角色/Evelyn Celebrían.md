@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c56517"
 type: "character"
-display_title: "伊V乌莉恩惠蕾布莉阿恩"
-title_zh: "伊V乌莉恩惠蕾布莉阿恩"
+display_title: "イヴリン・ケレブリアン"
+title_zh: ""
 title_ja: "イヴリン・ケレブリアン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56517"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Evelyn Celebrían"
-  - "イヴリン・ケレブリアン"
   - "Eve"
   - "イヴ"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c56517.webp"
 ---
 
-# 伊V乌莉恩惠蕾布莉阿恩
+# イヴリン・ケレブリアン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c33498"
 type: "character"
-display_title: "濑露V阿恩"
-title_zh: "濑露V阿恩"
+display_title: "セルヴァン"
+title_zh: ""
 title_ja: "セルヴァン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33498"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cervin"
-  - "セルヴァン"
 source_ids:
   vndb: "c33498"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c33498.webp"
 ---
 
-# 濑露V阿恩
+# セルヴァン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

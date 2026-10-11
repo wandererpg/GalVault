@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c104134"
 type: "character"
-display_title: "惠S特LL惠·音S斗R"
-title_zh: "惠S特LL惠·音S斗R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Estelle Nestor"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c104134"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Estelle Nestor"
 source_ids:
   vndb: "c104134"
 source_urls:
   vndb: "https://vndb.org/c104134"
 ---
 
-# 惠S特LL惠·音S斗R
+# Estelle Nestor
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

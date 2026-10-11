@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c778"
 type: "character"
-display_title: "斗乌伊伊堂露＝D伊伊"
-title_zh: "斗乌伊伊堂露＝D伊伊"
+display_title: "トゥイードル＝ディー"
+title_zh: ""
 title_ja: "トゥイードル＝ディー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c778"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tweedle Dee"
-  - "トゥイードル＝ディー"
   - "Bloody Twin"
 source_ids:
   vndb: "c778"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c778.webp"
 ---
 
-# 斗乌伊伊堂露＝D伊伊
+# トゥイードル＝ディー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

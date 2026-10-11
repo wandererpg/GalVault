@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c82829"
 type: "character"
-display_title: "睡魔伊乌濑斗"
-title_zh: "睡魔伊乌濑斗"
+display_title: "睡魔イウセト"
+title_zh: ""
 title_ja: "睡魔イウセト"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c82829"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Iucete"
-  - "睡魔イウセト"
 source_ids:
   vndb: "c82829"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c82829.webp"
 ---
 
-# 睡魔伊乌濑斗
+# 睡魔イウセト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

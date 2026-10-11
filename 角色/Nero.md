@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12697"
 type: "character"
-display_title: "音洛"
-title_zh: "音洛"
+display_title: "ネロ"
+title_zh: ""
 title_ja: "ネロ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12697"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nero"
-  - "ネロ"
   - "Ennea"
   - "エンネア"
   - "Rhapsodist"
@@ -22,7 +24,7 @@ source_urls:
 portrait_image: "assets/characters/c12697.webp"
 ---
 
-# 音洛
+# ネロ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

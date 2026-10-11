@@ -5,7 +5,10 @@ display_title: "铃见博美"
 title_zh: "铃见博美"
 title_ja: "鈴見 博美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c76389"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Suzumi Hiromi"
   - "鈴見 博美"

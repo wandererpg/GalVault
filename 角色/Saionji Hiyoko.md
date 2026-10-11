@@ -5,7 +5,10 @@ display_title: "西园寺日寄子"
 title_zh: "西园寺日寄子"
 title_ja: "西園寺 日寄子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c6621"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Saionji Hiyoko"
   - "西園寺 日寄子"

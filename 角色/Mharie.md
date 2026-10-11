@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c45468"
 type: "character"
-display_title: "真莉惠惠诗惠露"
-title_zh: "真莉惠惠诗惠露"
+display_title: "マリエーシェル"
+title_zh: ""
 title_ja: "マリエーシェル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c45468"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mharie"
-  - "マリエーシェル"
   - "Marie'shelle"
 source_ids:
   vndb: "c45468"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c45468.webp"
 ---
 
-# 真莉惠惠诗惠露
+# マリエーシェル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

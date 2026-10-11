@@ -5,7 +5,10 @@ display_title: "社霞"
 title_zh: "社霞"
 title_ja: "社 霞"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c178"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yashiro Kasumi"
   - "社 霞"

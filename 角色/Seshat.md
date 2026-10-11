@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c112209"
 type: "character"
-display_title: "濑夏斗"
-title_zh: "濑夏斗"
+display_title: "セシャト"
+title_zh: ""
 title_ja: "セシャト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c112209"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Seshat"
-  - "セシャト"
 source_ids:
   vndb: "c112209"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c112209.webp"
 ---
 
-# 濑夏斗
+# セシャト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

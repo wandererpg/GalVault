@@ -5,7 +5,10 @@ display_title: "奥田瞳"
 title_zh: "奥田瞳"
 title_ja: "奥田 瞳"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c124647"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Okuda Hitomi"
   - "奥田 瞳"

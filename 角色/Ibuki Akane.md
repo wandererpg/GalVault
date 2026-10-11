@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c144197"
 type: "character"
-display_title: "伊吹阿加音"
-title_zh: "伊吹阿加音"
+display_title: "伊吹　あかね"
+title_zh: ""
 title_ja: "伊吹　あかね"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c144197"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ibuki Akane"
-  - "伊吹　あかね"
 source_ids:
   vndb: "c144197"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c144197.webp"
 ---
 
-# 伊吹阿加音
+# 伊吹　あかね
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

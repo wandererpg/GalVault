@@ -5,7 +5,10 @@ display_title: "本城祭"
 title_zh: "本城祭"
 title_ja: "本城 祭"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2209"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Honjou Matsuri"
   - "本城 祭"

@@ -5,7 +5,10 @@ display_title: "千石夏华"
 title_zh: "千石夏华"
 title_ja: "千石 夏華"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c73693"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sengoku Natsuka"
   - "千石 夏華"

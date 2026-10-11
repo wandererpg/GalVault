@@ -5,7 +5,10 @@ display_title: "远野十夜"
 title_zh: "远野十夜"
 title_ja: "遠野 十夜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c26850"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Toono Tooya"
   - "遠野 十夜"

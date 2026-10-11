@@ -5,7 +5,10 @@ display_title: "团长"
 title_zh: "团长"
 title_ja: "団長"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c134194"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Chief"
   - "団長"

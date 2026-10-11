@@ -5,7 +5,10 @@ display_title: "鲇川圭太"
 title_zh: "鲇川圭太"
 title_ja: "鮎川 圭太"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c100452"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ayukawa Keita"
   - "鮎川 圭太"

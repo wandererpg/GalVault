@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c132204"
 type: "character"
-display_title: "太惠诗"
-title_zh: "太惠诗"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Takeshi"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132204"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Takeshi"
   - "Castle"
 source_ids:
   vndb: "c132204"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c132204.webp"
 ---
 
-# 太惠诗
+# Takeshi
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

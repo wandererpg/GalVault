@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c3866"
 type: "character"
-display_title: "高桥沙千穗"
-title_zh: "高桥沙千穗"
+display_title: "高橋 サチホ"
+title_zh: ""
 title_ja: "高橋 サチホ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c3866"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Takahashi Sachiho"
-  - "高橋 サチホ"
   - "さっちん"
   - "Sacchin"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c3866.webp"
 ---
 
-# 高桥沙千穗
+# 高橋 サチホ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

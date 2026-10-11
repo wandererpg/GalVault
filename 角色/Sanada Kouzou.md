@@ -5,7 +5,10 @@ display_title: "真田晃藏"
 title_zh: "真田晃藏"
 title_ja: "真田 晃蔵"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c42852"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sanada Kouzou"
   - "真田 晃蔵"

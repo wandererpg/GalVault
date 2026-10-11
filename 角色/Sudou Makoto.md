@@ -5,7 +5,10 @@ display_title: "须藤真琴"
 title_zh: "须藤真琴"
 title_ja: "須藤 真琴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c133951"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sudou Makoto"
   - "須藤 真琴"

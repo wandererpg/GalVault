@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c135338"
 type: "character"
-display_title: "惠V惠LY恩·羽WT穗R音"
-title_zh: "惠V惠LY恩·羽WT穗R音"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Evelyn Hawthorne"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c135338"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Evelyn Hawthorne"
 source_ids:
   vndb: "c135338"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c135338.webp"
 ---
 
-# 惠V惠LY恩·羽WT穗R音
+# Evelyn Hawthorne
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

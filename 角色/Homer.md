@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c18585"
 type: "character"
-display_title: "穗奥真阿"
-title_zh: "穗奥真阿"
+display_title: "ホーマー"
+title_zh: ""
 title_ja: "ホーマー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c18585"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Homer"
-  - "ホーマー"
 source_ids:
   vndb: "c18585"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c18585.webp"
 ---
 
-# 穗奥真阿
+# ホーマー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

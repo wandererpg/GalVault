@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c101346"
 type: "character"
-display_title: "帕阿加阿乃伊修巴阿恩"
-title_zh: "帕阿加阿乃伊修巴阿恩"
+display_title: "パーカー・ノイシュバーン"
+title_zh: ""
 title_ja: "パーカー・ノイシュバーン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c101346"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Parker Neuschburn"
-  - "パーカー・ノイシュバーン"
 source_ids:
   vndb: "c101346"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c101346.webp"
 ---
 
-# 帕阿加阿乃伊修巴阿恩
+# パーカー・ノイシュバーン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

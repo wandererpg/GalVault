@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126292"
 type: "character"
-display_title: "贝露泽巴布Ａ"
-title_zh: "贝露泽巴布Ａ"
+display_title: "ベルゼバブＡ"
+title_zh: ""
 title_ja: "ベルゼバブＡ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126292"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Beelzebub A"
-  - "ベルゼバブＡ"
   - "Barbarella"
 source_ids:
   vndb: "c126292"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c126292.webp"
 ---
 
-# 贝露泽巴布Ａ
+# ベルゼバブＡ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

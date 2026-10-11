@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c96909"
 type: "character"
-display_title: "扎恩寿莉伊扎寿"
-title_zh: "扎恩寿莉伊扎寿"
+display_title: "ザンス・リーザス"
+title_zh: ""
 title_ja: "ザンス・リーザス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c96909"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Zance Leazas"
-  - "ザンス・リーザス"
 source_ids:
   vndb: "c96909"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c96909.webp"
 ---
 
-# 扎恩寿莉伊扎寿
+# ザンス・リーザス
 
 
 ## 角色画像

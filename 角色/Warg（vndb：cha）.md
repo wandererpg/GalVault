@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98102"
 type: "character"
-display_title: "和阿古"
-title_zh: "和阿古"
+display_title: "ワーグ"
+title_zh: ""
 title_ja: "ワーグ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98102"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Warg"
-  - "ワーグ"
   - "ワーグ・赤"
 source_ids:
   vndb: "c98102"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c98102.webp"
 ---
 
-# 和阿古
+# ワーグ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

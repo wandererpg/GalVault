@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c135540"
 type: "character"
-display_title: "L阿V伊尼阿"
-title_zh: "L阿V伊尼阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Lavinia"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c135540"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Lavinia"
 source_ids:
   vndb: "c135540"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c135540.webp"
 ---
 
-# L阿V伊尼阿
+# Lavinia
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

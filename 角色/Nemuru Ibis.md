@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c168870"
 type: "character"
-display_title: "眠露伊比寿"
-title_zh: "眠露伊比寿"
+display_title: "眠るイビス"
+title_zh: ""
 title_ja: "眠るイビス"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c168870"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nemuru Ibis"
-  - "眠るイビス"
   - "アビゲール"
   - "Abigail"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c168870.webp"
 ---
 
-# 眠露伊比寿
+# 眠るイビス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

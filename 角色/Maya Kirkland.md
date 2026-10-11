@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c101344"
 type: "character"
-display_title: "真雅加阿久拉恩堂"
-title_zh: "真雅加阿久拉恩堂"
+display_title: "マヤ・カークランド"
+title_zh: ""
 title_ja: "マヤ・カークランド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c101344"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Maya Kirkland"
-  - "マヤ・カークランド"
 source_ids:
   vndb: "c101344"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c101344.webp"
 ---
 
-# 真雅加阿久拉恩堂
+# マヤ・カークランド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

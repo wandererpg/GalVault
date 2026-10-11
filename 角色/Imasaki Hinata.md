@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17995"
 type: "character"
-display_title: "今崎日向"
-title_zh: "今崎日向"
+display_title: "今崎 ひなた"
+title_zh: ""
 title_ja: "今崎 ひなた"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17995"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Imasaki Hinata"
-  - "今崎 ひなた"
 source_ids:
   vndb: "c17995"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c17995.webp"
 ---
 
-# 今崎日向
+# 今崎 ひなた
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

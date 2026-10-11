@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c154975"
 type: "character"
-display_title: "雅露梦"
-title_zh: "雅露梦"
+display_title: "ガルム"
+title_zh: ""
 title_ja: "ガルム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c154975"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Garm"
-  - "ガルム"
 source_ids:
   vndb: "c154975"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c154975.webp"
 ---
 
-# 雅露梦
+# ガルム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c32902"
 type: "character"
-display_title: "沙伊蕾恩斗"
-title_zh: "沙伊蕾恩斗"
+display_title: "サイレント"
+title_zh: ""
 title_ja: "サイレント"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c32902"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Silent"
-  - "サイレント"
 source_ids:
   vndb: "c32902"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c32902.webp"
 ---
 
-# 沙伊蕾恩斗
+# サイレント
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

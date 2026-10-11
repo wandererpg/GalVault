@@ -5,7 +5,10 @@ display_title: "伊泽先生"
 title_zh: "伊泽先生"
 title_ja: "伊沢先生"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c167276"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Izawa-sensei"
   - "伊沢先生"

@@ -5,7 +5,10 @@ display_title: "山野星雄"
 title_zh: "山野星雄"
 title_ja: "山野 星雄"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10880"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yamano Hoshio"
   - "山野 星雄"

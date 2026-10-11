@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c135340"
 type: "character"
-display_title: "奈太夏·夏W"
-title_zh: "奈太夏·夏W"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Natasha Shaw"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c135340"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Natasha Shaw"
   - "Office Shaw"
 source_ids:
   vndb: "c135340"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c135340.webp"
 ---
 
-# 奈太夏·夏W
+# Natasha Shaw
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "芦屋道满"
 title_zh: "芦屋道满"
 title_ja: "蘆屋 道満"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c165235"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ashiya Douman"
   - "蘆屋 道満"

@@ -5,7 +5,10 @@ display_title: "樱坂绊"
 title_zh: "樱坂绊"
 title_ja: "桜坂 絆"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c38565"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakurazaka Kizuna"
   - "桜坂 絆"

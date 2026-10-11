@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61227"
 type: "character"
-display_title: "露芽伊"
-title_zh: "露芽伊"
+display_title: "ルメイ"
+title_zh: ""
 title_ja: "ルメイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61227"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "LeMay"
-  - "ルメイ"
 source_ids:
   vndb: "c61227"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61227.webp"
 ---
 
-# 露芽伊
+# ルメイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

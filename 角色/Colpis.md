@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c73074"
 type: "character"
-display_title: "子露皮寿"
-title_zh: "子露皮寿"
+display_title: "コルピス"
+title_zh: ""
 title_ja: "コルピス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c73074"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Colpis"
-  - "コルピス"
 source_ids:
   vndb: "c73074"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c73074.webp"
 ---
 
-# 子露皮寿
+# コルピス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

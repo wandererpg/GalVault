@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c2492"
 type: "character"
-display_title: "比G古阿阿沙"
-title_zh: "比G古阿阿沙"
+display_title: "ビッグアーサ"
+title_zh: ""
 title_ja: "ビッグアーサ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c2492"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Big Arthur"
-  - "ビッグアーサ"
 source_ids:
   vndb: "c2492"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c2492.webp"
 ---
 
-# 比G古阿阿沙
+# ビッグアーサ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

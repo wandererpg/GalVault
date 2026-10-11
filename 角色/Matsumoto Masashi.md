@@ -5,7 +5,10 @@ display_title: "松本正志"
 title_zh: "松本正志"
 title_ja: "松本 正志"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c138993"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Matsumoto Masashi"
   - "松本 正志"

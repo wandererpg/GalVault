@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c91414"
 type: "character"
-display_title: "吉永望"
-title_zh: "吉永望"
+display_title: "吉永のぞみ"
+title_zh: ""
 title_ja: "吉永のぞみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c91414"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yoshinaga Nozomi"
-  - "吉永のぞみ"
   - "Non-chan"
 source_ids:
   vndb: "c91414"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c91414.webp"
 ---
 
-# 吉永望
+# 吉永のぞみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

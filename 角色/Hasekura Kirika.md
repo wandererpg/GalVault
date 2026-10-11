@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8142"
 type: "character"
-display_title: "支仓希莉加"
-title_zh: "支仓希莉加"
+display_title: "支倉 キリカ"
+title_zh: ""
 title_ja: "支倉 キリカ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8142"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hasekura Kirika"
-  - "支倉 キリカ"
 source_ids:
   vndb: "c8142"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c8142.webp"
 ---
 
-# 支仓希莉加
+# 支倉 キリカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

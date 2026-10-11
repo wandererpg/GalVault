@@ -5,7 +5,10 @@ display_title: "锹形拓马"
 title_zh: "锹形拓马"
 title_ja: "鍬形 拓馬"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c3989"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kuwagata Takuma"
   - "鍬形 拓馬"

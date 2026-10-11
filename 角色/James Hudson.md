@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c105668"
 type: "character"
-display_title: "嘉芽S·H乌D索恩"
-title_zh: "嘉芽S·H乌D索恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "James Hudson"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c105668"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "James Hudson"
 source_ids:
   vndb: "c105668"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c105668.webp"
 ---
 
-# 嘉芽S·H乌D索恩
+# James Hudson
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

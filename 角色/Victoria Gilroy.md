@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c132439"
 type: "character"
-display_title: "V伊久斗莉阿吉洛奥伊"
-title_zh: "V伊久斗莉阿吉洛奥伊"
+display_title: "ヴィクトリア・ギローイ"
+title_zh: ""
 title_ja: "ヴィクトリア・ギローイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132439"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Victoria Gilroy"
-  - "ヴィクトリア・ギローイ"
   - "ヴィッキー"
   - "Viccy"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c132439.webp"
 ---
 
-# V伊久斗莉阿吉洛奥伊
+# ヴィクトリア・ギローイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

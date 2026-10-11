@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16286"
 type: "character"
-display_title: "芳冈优伊"
-title_zh: "芳冈优伊"
+display_title: "芳岡 ユイ"
+title_zh: ""
 title_ja: "芳岡 ユイ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16286"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yoshioka Yui"
-  - "芳岡 ユイ"
   - "Yui-nyan"
 source_ids:
   vndb: "c16286"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c16286.webp"
 ---
 
-# 芳冈优伊
+# 芳岡 ユイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

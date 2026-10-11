@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c113891"
 type: "character"
-display_title: "萩原伊德阿"
-title_zh: "萩原伊德阿"
+display_title: "萩原 イデア"
+title_zh: ""
 title_ja: "萩原 イデア"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c113891"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hagihara Idea"
-  - "萩原 イデア"
 source_ids:
   vndb: "c113891"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c113891.webp"
 ---
 
-# 萩原伊德阿
+# 萩原 イデア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

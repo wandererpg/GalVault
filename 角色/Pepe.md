@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c85399"
 type: "character"
-display_title: "佩佩"
-title_zh: "佩佩"
+display_title: "ペペ"
+title_zh: ""
 title_ja: "ペペ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85399"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Pepe"
-  - "ペペ"
 source_ids:
   vndb: "c85399"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c85399.webp"
 ---
 
-# 佩佩
+# ペペ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

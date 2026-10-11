@@ -5,7 +5,10 @@ display_title: "直江景清"
 title_zh: "直江景清"
 title_ja: "直江 景清"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9893"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Naoe Kagekiyo"
   - "直江 景清"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126195"
 type: "character"
-display_title: "真达梦阿恩布蕾拉"
-title_zh: "真达梦阿恩布蕾拉"
+display_title: "マダムアンブレラ"
+title_zh: ""
 title_ja: "マダムアンブレラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126195"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Madame Umbrella"
-  - "マダムアンブレラ"
   - "Umbrella Lady"
   - "Sharon"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c126195.webp"
 ---
 
-# 真达梦阿恩布蕾拉
+# マダムアンブレラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

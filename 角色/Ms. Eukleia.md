@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c49417"
 type: "character"
-display_title: "惠乌久蕾伊阿沙恩"
-title_zh: "惠乌久蕾伊阿沙恩"
+display_title: "エウクレイアさん"
+title_zh: ""
 title_ja: "エウクレイアさん"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c49417"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ms. Eukleia"
-  - "エウクレイアさん"
 source_ids:
   vndb: "c49417"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c49417.webp"
 ---
 
-# 惠乌久蕾伊阿沙恩
+# エウクレイアさん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

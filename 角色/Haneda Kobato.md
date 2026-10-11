@@ -5,7 +5,10 @@ display_title: "羽田小鸠"
 title_zh: "羽田小鸠"
 title_ja: "羽田 小鳩"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c8536"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Haneda Kobato"
   - "羽田 小鳩"

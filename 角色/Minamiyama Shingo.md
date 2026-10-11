@@ -5,7 +5,10 @@ display_title: "南山慎吾"
 title_zh: "南山慎吾"
 title_ja: "南山 慎吾"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c65332"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Minamiyama Shingo"
   - "南山 慎吾"

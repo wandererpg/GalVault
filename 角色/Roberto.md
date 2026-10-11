@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c140509"
 type: "character"
-display_title: "洛贝露斗"
-title_zh: "洛贝露斗"
+display_title: "ロベルト"
+title_zh: ""
 title_ja: "ロベルト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c140509"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Roberto"
-  - "ロベルト"
 source_ids:
   vndb: "c140509"
 source_urls:
   vndb: "https://vndb.org/c140509"
 ---
 
-# 洛贝露斗
+# ロベルト
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

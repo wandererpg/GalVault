@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c113553"
 type: "character"
-display_title: "尼子美奈博露诗比T千"
-title_zh: "尼子美奈博露诗比T千"
+display_title: "ニコミナ・ボルシビッチ"
+title_zh: ""
 title_ja: "ニコミナ・ボルシビッチ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c113553"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nikomina Borchevic"
-  - "ニコミナ・ボルシビッチ"
   - "Grimesby Roylott"
   - "Nina"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c113553.webp"
 ---
 
-# 尼子美奈博露诗比T千
+# ニコミナ・ボルシビッチ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

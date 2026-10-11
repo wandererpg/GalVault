@@ -5,7 +5,10 @@ display_title: "支仓宇宙"
 title_zh: "支仓宇宙"
 title_ja: "支倉 宇宙"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c48124"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hasekura Sora"
   - "支倉 宇宙"

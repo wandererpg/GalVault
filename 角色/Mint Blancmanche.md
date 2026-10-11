@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c821"
 type: "character"
-display_title: "美恩斗布拉真恩修"
-title_zh: "美恩斗布拉真恩修"
+display_title: "ミント・ブラマンシュ"
+title_zh: ""
 title_ja: "ミント・ブラマンシュ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c821"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mint Blancmanche"
-  - "ミント・ブラマンシュ"
 source_ids:
   vndb: "c821"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c821.webp"
 ---
 
-# 美恩斗布拉真恩修
+# ミント・ブラマンシュ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

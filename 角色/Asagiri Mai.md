@@ -5,7 +5,10 @@ display_title: "朝雾麻衣"
 title_zh: "朝雾麻衣"
 title_ja: "朝霧 麻衣"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1361"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Asagiri Mai"
   - "朝霧 麻衣"

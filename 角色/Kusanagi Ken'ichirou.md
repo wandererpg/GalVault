@@ -5,7 +5,10 @@ display_title: "草薙健一郎"
 title_zh: "草薙健一郎"
 title_ja: "草薙 健一郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c55037"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kusanagi Ken'ichirou"
   - "草薙 健一郎"

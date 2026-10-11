@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14173"
 type: "character"
-display_title: "原灰寿寿梦"
-title_zh: "原灰寿寿梦"
+display_title: "原灰 ススム"
+title_zh: ""
 title_ja: "原灰 ススム"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14173"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Harabai Susumu"
-  - "原灰 ススム"
 source_ids:
   vndb: "c14173"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c14173.webp"
 ---
 
-# 原灰寿寿梦
+# 原灰 ススム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127286"
 type: "character"
-display_title: "阿拉久音洛奥堂"
-title_zh: "阿拉久音洛奥堂"
+display_title: "アラクネロード"
+title_zh: ""
 title_ja: "アラクネロード"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127286"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Arachne Lord"
-  - "アラクネロード"
   - "Aranje"
 source_ids:
   vndb: "c127286"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c127286.webp"
 ---
 
-# 阿拉久音洛奥堂
+# アラクネロード
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87695"
 type: "character"
-display_title: "堂洛奥美"
-title_zh: "堂洛奥美"
+display_title: "ドローミ"
+title_zh: ""
 title_ja: "ドローミ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87695"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Dromi"
-  - "ドローミ"
 source_ids:
   vndb: "c87695"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c87695.webp"
 ---
 
-# 堂洛奥美
+# ドローミ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

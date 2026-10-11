@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c62892"
 type: "character"
-display_title: "月野真诗洛"
-title_zh: "月野真诗洛"
+display_title: "月野 ましろ"
+title_zh: ""
 title_ja: "月野 ましろ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c62892"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tsukino Mashiro"
-  - "月野 ましろ"
 source_ids:
   vndb: "c62892"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c62892.webp"
 ---
 
-# 月野真诗洛
+# 月野 ましろ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c103053"
 type: "character"
-display_title: "SC阿RL惠TT"
-title_zh: "SC阿RL惠TT"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Scarlett"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103053"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Scarlett"
 source_ids:
   vndb: "c103053"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c103053.webp"
 ---
 
-# SC阿RL惠TT
+# Scarlett
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c163253"
 type: "character"
-display_title: "美子诗巴·惠恩太"
-title_zh: "美子诗巴·惠恩太"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Mikoshiba Kenta"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c163253"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Mikoshiba Kenta"
 source_ids:
   vndb: "c163253"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c163253.webp"
 ---
 
-# 美子诗巴·惠恩太
+# Mikoshiba Kenta
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

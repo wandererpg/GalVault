@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c19634"
 type: "character"
-display_title: "蕾阿"
-title_zh: "蕾阿"
+display_title: "レア"
+title_zh: ""
 title_ja: "レア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c19634"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rhea"
-  - "レア"
 source_ids:
   vndb: "c19634"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c19634.webp"
 ---
 
-# 蕾阿
+# レア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

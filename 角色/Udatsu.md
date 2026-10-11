@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c164058"
 type: "character"
-display_title: "乌达津"
-title_zh: "乌达津"
+display_title: "ウダツ"
+title_zh: ""
 title_ja: "ウダツ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c164058"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Udatsu"
-  - "ウダツ"
 source_ids:
   vndb: "c164058"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c164058.webp"
 ---
 
-# 乌达津
+# ウダツ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

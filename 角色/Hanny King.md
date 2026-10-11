@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c97872"
 type: "character"
-display_title: "羽尼伊希恩古"
-title_zh: "羽尼伊希恩古"
+display_title: "ハニー・キング"
+title_zh: ""
 title_ja: "ハニー・キング"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97872"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hanny King"
-  - "ハニー・キング"
 source_ids:
   vndb: "c97872"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c97872.webp"
 ---
 
-# 羽尼伊希恩古
+# ハニー・キング
 
 
 ## 角色画像

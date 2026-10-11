@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14296"
 type: "character"
-display_title: "大场加奥露"
-title_zh: "大场加奥露"
+display_title: "大場 カオル"
+title_zh: ""
 title_ja: "大場 カオル"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14296"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ooba Kaoru"
-  - "大場 カオル"
   - "Lê Thị Tám Nhiều"
   - "สมหญิง แก่ชลาลัย"
   - "Somying Kaechalalai"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c14296.webp"
 ---
 
-# 大场加奥露
+# 大場 カオル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

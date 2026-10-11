@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c163326"
 type: "character"
-display_title: "莉泽T斗阿露贝惠露"
-title_zh: "莉泽T斗阿露贝惠露"
+display_title: "リゼット゠アルベール"
+title_zh: ""
 title_ja: "リゼット゠アルベール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c163326"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lisette Albert"
-  - "リゼット゠アルベール"
 source_ids:
   vndb: "c163326"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c163326.webp"
 ---
 
-# 莉泽T斗阿露贝惠露
+# リゼット゠アルベール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

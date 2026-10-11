@@ -5,7 +5,10 @@ display_title: "小夜"
 title_zh: "小夜"
 title_ja: "小夜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c7471"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sayo"
 source_ids:

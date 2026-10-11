@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98806"
 type: "character"
-display_title: "惠美阿露F奥奥努"
-title_zh: "惠美阿露F奥奥努"
+display_title: "エミ・アルフォーヌ"
+title_zh: ""
 title_ja: "エミ・アルフォーヌ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98806"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Emi Alphorne"
-  - "エミ・アルフォーヌ"
 source_ids:
   vndb: "c98806"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98806.webp"
 ---
 
-# 惠美阿露F奥奥努
+# エミ・アルフォーヌ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c15874"
 type: "character"
-display_title: "堂拉乃奥露阿乃K久寿"
-title_zh: "堂拉乃奥露阿乃K久寿"
+display_title: "ドラノール・A・ノックス"
+title_zh: ""
 title_ja: "ドラノール・A・ノックス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c15874"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Dlanor A. Knox"
-  - "ドラノール・A・ノックス"
   - "Death Sentence Dlanor"
   - "Dlanor of the Ten Wedges"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c15874.webp"
 ---
 
-# 堂拉乃奥露阿乃K久寿
+# ドラノール・A・ノックス
 
 
 ## 角色画像

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c547"
 type: "character"
-display_title: "吉露巴露斗D伊寿巴露修太伊恩"
-title_zh: "吉露巴露斗D伊寿巴露修太伊恩"
+display_title: "ギルバルト・ディス・バルシュタイン"
+title_zh: ""
 title_ja: "ギルバルト・ディス・バルシュタイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c547"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gilbert dis Balstein"
-  - "ギルバルト・ディス・バルシュタイン"
 source_ids:
   vndb: "c547"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c547.webp"
 ---
 
-# 吉露巴露斗D伊寿巴露修太伊恩
+# ギルバルト・ディス・バルシュタイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

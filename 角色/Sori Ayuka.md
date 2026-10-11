@@ -5,7 +5,10 @@ display_title: "曾利步花"
 title_zh: "曾利步花"
 title_ja: "曽利 歩花"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c85766"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sori Ayuka"
   - "曽利 歩花"

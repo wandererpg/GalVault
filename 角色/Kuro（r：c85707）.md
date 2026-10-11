@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c85707"
 type: "character"
-display_title: "久洛"
-title_zh: "久洛"
+display_title: "クロ"
+title_zh: ""
 title_ja: "クロ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85707"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kuro"
-  - "クロ"
   - "光無"
   - "黒"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c85707.webp"
 ---
 
-# 久洛
+# クロ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

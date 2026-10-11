@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c94262"
 type: "character"
-display_title: "濑LF"
-title_zh: "濑LF"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Self"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94262"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Self"
   - "That Guy, David, Transcendental Will."
 source_ids:
   vndb: "c94262"
@@ -14,7 +16,7 @@ source_urls:
   vndb: "https://vndb.org/c94262"
 ---
 
-# 濑LF
+# Self
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

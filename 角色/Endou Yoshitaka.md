@@ -5,7 +5,10 @@ display_title: "远藤庆隆"
 title_zh: "远藤庆隆"
 title_ja: "遠藤 慶隆"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c66704"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Endou Yoshitaka"
   - "遠藤 慶隆"

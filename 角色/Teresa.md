@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c18586"
 type: "character"
-display_title: "特蕾沙"
-title_zh: "特蕾沙"
+display_title: "テレサ"
+title_zh: ""
 title_ja: "テレサ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c18586"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Teresa"
-  - "テレサ"
   - "Abbess"
 source_ids:
   vndb: "c18586"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c18586.webp"
 ---
 
-# 特蕾沙
+# テレサ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

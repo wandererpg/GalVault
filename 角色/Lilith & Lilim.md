@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126175"
 type: "character"
-display_title: "莉莉丝&莉莉梦"
-title_zh: "莉莉丝&莉莉梦"
+display_title: "リリス&リリム"
+title_zh: ""
 title_ja: "リリス&リリム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126175"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lilith & Lilim"
-  - "リリス&リリム"
   - "The Great Whore of Babylon"
 source_ids:
   vndb: "c126175"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c126175.webp"
 ---
 
-# 莉莉丝&莉莉梦
+# リリス&リリム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

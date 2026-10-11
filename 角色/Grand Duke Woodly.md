@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c40351"
 type: "character"
-display_title: "G拉恩D·D乌惠·奥奥DLY"
-title_zh: "G拉恩D·D乌惠·奥奥DLY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Grand Duke Woodly"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c40351"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Grand Duke Woodly"
 source_ids:
   vndb: "c40351"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c40351.webp"
 ---
 
-# G拉恩D·D乌惠·奥奥DLY
+# Grand Duke Woodly
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

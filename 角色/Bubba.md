@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c141682"
 type: "character"
-display_title: "布B巴"
-title_zh: "布B巴"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Bubba"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141682"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Bubba"
 source_ids:
   vndb: "c141682"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c141682.webp"
 ---
 
-# 布B巴
+# Bubba
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "柊圣十郎"
 title_zh: "柊圣十郎"
 title_ja: "柊　聖十郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43634"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hiiragi Seijuurou"
   - "柊　聖十郎"

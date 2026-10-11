@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c96488"
 type: "character"
-display_title: "乌濑RMCS久LL"
-title_zh: "乌濑RMCS久LL"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "UserMCSkull"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c96488"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "UserMCSkull"
   - "Luigi"
 source_ids:
   vndb: "c96488"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c96488.webp"
 ---
 
-# 乌濑RMCS久LL
+# UserMCSkull
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

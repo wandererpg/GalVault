@@ -5,7 +5,10 @@ display_title: "狩野琴绘"
 title_zh: "狩野琴绘"
 title_ja: "狩野 琴絵"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c49950"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kanou Kotoe"
   - "狩野 琴絵"

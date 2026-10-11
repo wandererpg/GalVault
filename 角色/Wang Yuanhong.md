@@ -5,7 +5,10 @@ display_title: "王元洪"
 title_zh: "王元洪"
 title_ja: "王 元洪"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c38376"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Wang Yuanhong"
   - "王 元洪"

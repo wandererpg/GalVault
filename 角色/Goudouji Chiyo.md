@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90698"
 type: "character"
-display_title: "乡堂寺千代"
-title_zh: "乡堂寺千代"
+display_title: "郷堂寺 ちよ"
+title_zh: ""
 title_ja: "郷堂寺 ちよ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90698"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Goudouji Chiyo"
-  - "郷堂寺 ちよ"
   - "チヨ子"
   - "鳳凰ヶ原 ヒミコ"
   - "Houougahara Himiko"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c90698.webp"
 ---
 
-# 乡堂寺千代
+# 郷堂寺 ちよ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

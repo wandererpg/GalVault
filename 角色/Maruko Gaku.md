@@ -5,7 +5,10 @@ display_title: "丸子乐"
 title_zh: "丸子乐"
 title_ja: "丸子 楽"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c150822"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Maruko Gaku"
   - "丸子 楽"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c22324"
 type: "character"
-display_title: "莉奥"
-title_zh: "莉奥"
+display_title: "リオ"
+title_zh: ""
 title_ja: "リオ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c22324"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rio"
-  - "リオ"
 source_ids:
   vndb: "c22324"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c22324.webp"
 ---
 
-# 莉奥
+# リオ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

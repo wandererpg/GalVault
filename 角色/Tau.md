@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c83586"
 type: "character"
-display_title: "太乌"
-title_zh: "太乌"
+display_title: "タウ"
+title_zh: ""
 title_ja: "タウ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c83586"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tau"
-  - "タウ"
 source_ids:
   vndb: "c83586"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c83586.webp"
 ---
 
-# 太乌
+# タウ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

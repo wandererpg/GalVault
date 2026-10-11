@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c132435"
 type: "character"
-display_title: "羽伊恩津芙莉伊堂蕾奥恩羽露斗"
-title_zh: "羽伊恩津芙莉伊堂蕾奥恩羽露斗"
+display_title: "ハインツ・フリード・レオンハルト"
+title_zh: ""
 title_ja: "ハインツ・フリード・レオンハルト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132435"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Heinz Fried Leonhardt"
-  - "ハインツ・フリード・レオンハルト"
 source_ids:
   vndb: "c132435"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c132435.webp"
 ---
 
-# 羽伊恩津芙莉伊堂蕾奥恩羽露斗
+# ハインツ・フリード・レオンハルト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

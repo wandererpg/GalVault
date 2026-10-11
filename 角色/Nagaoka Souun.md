@@ -5,7 +5,10 @@ display_title: "卧龙冈早云"
 title_zh: "卧龙冈早云"
 title_ja: "臥龍岡 早雲"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c34597"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nagaoka Souun"
   - "臥龍岡 早雲"

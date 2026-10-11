@@ -5,7 +5,10 @@ display_title: "羽柴空"
 title_zh: "羽柴空"
 title_ja: "羽柴 空"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2207"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hashiba Sora"
   - "羽柴 空"

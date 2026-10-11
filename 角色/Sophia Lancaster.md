@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c161704"
 type: "character"
-display_title: "索F伊阿拉恩加寿太阿"
-title_zh: "索F伊阿拉恩加寿太阿"
+display_title: "ソフィア・ランカスター"
+title_zh: ""
 title_ja: "ソフィア・ランカスター"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161704"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sophia Lancaster"
-  - "ソフィア・ランカスター"
 source_ids:
   vndb: "c161704"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c161704.webp"
 ---
 
-# 索F伊阿拉恩加寿太阿
+# ソフィア・ランカスター
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

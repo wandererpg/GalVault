@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30528"
 type: "character"
-display_title: "沙恩达阿"
-title_zh: "沙恩达阿"
+display_title: "サンダー"
+title_zh: ""
 title_ja: "サンダー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30528"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Thunder"
-  - "サンダー"
 source_ids:
   vndb: "c30528"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30528.webp"
 ---
 
-# 沙恩达阿
+# サンダー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

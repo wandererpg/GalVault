@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c157505"
 type: "character"
-display_title: "莉伊布音"
-title_zh: "莉伊布音"
+display_title: "リー・ブンエ"
+title_zh: ""
 title_ja: "リー・ブンエ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c157505"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lee Wenyu"
-  - "リー・ブンエ"
   - "Zhang Liao"
 source_ids:
   vndb: "c157505"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c157505.webp"
 ---
 
-# 莉伊布音
+# リー・ブンエ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

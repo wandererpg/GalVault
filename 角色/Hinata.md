@@ -5,7 +5,10 @@ display_title: "灯向"
 title_zh: "灯向"
 title_ja: "灯向"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c155769"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hinata"
 source_ids:

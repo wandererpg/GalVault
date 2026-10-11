@@ -5,7 +5,10 @@ display_title: "橘枫花"
 title_zh: "橘枫花"
 title_ja: "橘 楓花"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c51196"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tachibana Fuuka"
   - "橘 楓花"

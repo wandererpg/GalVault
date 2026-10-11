@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c104732"
 type: "character"
-display_title: "苗木子真露"
-title_zh: "苗木子真露"
+display_title: "苗木 こまる"
+title_zh: ""
 title_ja: "苗木 こまる"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c104732"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Naegi Komaru"
-  - "苗木 こまる"
   - "Dekomaru"
   - "Makoto Naegi's Little Sister"
   - "Normal Girl"
@@ -21,7 +23,7 @@ source_urls:
 portrait_image: "assets/characters/c104732.webp"
 ---
 
-# 苗木子真露
+# 苗木 こまる
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30205"
 type: "character"
-display_title: "濑美音太蕾伊阿"
-title_zh: "濑美音太蕾伊阿"
+display_title: "セミネ・タレイア"
+title_zh: ""
 title_ja: "セミネ・タレイア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30205"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Semine Thalia"
-  - "セミネ・タレイア"
 source_ids:
   vndb: "c30205"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30205.webp"
 ---
 
-# 濑美音太蕾伊阿
+# セミネ・タレイア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

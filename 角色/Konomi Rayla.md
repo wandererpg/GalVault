@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c21316"
 type: "character"
-display_title: "子乃美蕾伊拉"
-title_zh: "子乃美蕾伊拉"
+display_title: "コノミ・レイラ"
+title_zh: ""
 title_ja: "コノミ・レイラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c21316"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Konomi Rayla"
-  - "コノミ・レイラ"
 source_ids:
   vndb: "c21316"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c21316.webp"
 ---
 
-# 子乃美蕾伊拉
+# コノミ・レイラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

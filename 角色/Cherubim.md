@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c124902"
 type: "character"
-display_title: "惠露比梦"
-title_zh: "惠露比梦"
+display_title: "ケルビム"
+title_zh: ""
 title_ja: "ケルビム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124902"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cherubim"
-  - "ケルビム"
 source_ids:
   vndb: "c124902"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c124902.webp"
 ---
 
-# 惠露比梦
+# ケルビム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

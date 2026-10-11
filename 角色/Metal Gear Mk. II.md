@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c47146"
 type: "character"
-display_title: "芽太露吉阿·Ｍｋ．Ⅱ"
-title_zh: "芽太露吉阿·Ｍｋ．Ⅱ"
+display_title: "メタルギア Ｍｋ．Ⅱ"
+title_zh: ""
 title_ja: "メタルギア Ｍｋ．Ⅱ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c47146"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Metal Gear Mk. II"
-  - "メタルギア Ｍｋ．Ⅱ"
 source_ids:
   vndb: "c47146"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c47146.webp"
 ---
 
-# 芽太露吉阿·Ｍｋ．Ⅱ
+# メタルギア Ｍｋ．Ⅱ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

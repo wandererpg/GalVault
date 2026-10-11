@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14732"
 type: "character"
-display_title: "惠伊斗希恩巴莉伊"
-title_zh: "惠伊斗希恩巴莉伊"
+display_title: "ケイト・キンバリー"
+title_zh: ""
 title_ja: "ケイト・キンバリー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14732"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kate Kimberly"
-  - "ケイト・キンバリー"
 source_ids:
   vndb: "c14732"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c14732.webp"
 ---
 
-# 惠伊斗希恩巴莉伊
+# ケイト・キンバリー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

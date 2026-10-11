@@ -5,7 +5,10 @@ display_title: "九条都"
 title_zh: "九条都"
 title_ja: "九條 都"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c51033"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kujou Miyako"
   - "九條 都"

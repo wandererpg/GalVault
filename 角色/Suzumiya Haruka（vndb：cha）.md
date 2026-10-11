@@ -5,7 +5,10 @@ display_title: "凉宫遥"
 title_zh: "凉宫遥"
 title_ja: "涼宮 遙"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c94340"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Suzumiya Haruka"
   - "涼宮 遙"

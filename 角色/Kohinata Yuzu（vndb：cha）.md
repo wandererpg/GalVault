@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c5971"
 type: "character"
-display_title: "小日向优兹"
-title_zh: "小日向优兹"
+display_title: "小日向 ゆず"
+title_zh: ""
 title_ja: "小日向 ゆず"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c5971"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kohinata Yuzu"
-  - "小日向 ゆず"
 source_ids:
   vndb: "c5971"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c5971.webp"
 ---
 
-# 小日向优兹
+# 小日向 ゆず
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

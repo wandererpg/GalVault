@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17310"
 type: "character"
-display_title: "美羽惠露拉恩芙斗"
-title_zh: "美羽惠露拉恩芙斗"
+display_title: "ミハエル・ランフト"
+title_zh: ""
 title_ja: "ミハエル・ランフト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17310"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mikhail Ramphet"
-  - "ミハエル・ランフト"
 source_ids:
   vndb: "c17310"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c17310.webp"
 ---
 
-# 美羽惠露拉恩芙斗
+# ミハエル・ランフト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

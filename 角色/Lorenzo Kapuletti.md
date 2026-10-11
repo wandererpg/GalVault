@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c151369"
 type: "character"
-display_title: "L奥蕾恩藏·加普L惠TT伊"
-title_zh: "L奥蕾恩藏·加普L惠TT伊"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Lorenzo Kapuletti"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c151369"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Lorenzo Kapuletti"
 source_ids:
   vndb: "c151369"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c151369.webp"
 ---
 
-# L奥蕾恩藏·加普L惠TT伊
+# Lorenzo Kapuletti
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26211"
 type: "character"
-display_title: "惠伊"
-title_zh: "惠伊"
+display_title: "ケイ"
+title_zh: ""
 title_ja: "ケイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26211"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kei"
-  - "ケイ"
 source_ids:
   vndb: "c26211"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c26211.webp"
 ---
 
-# 惠伊
+# ケイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

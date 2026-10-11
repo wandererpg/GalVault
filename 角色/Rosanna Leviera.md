@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c49564"
 type: "character"
-display_title: "洛沙奈蕾比惠拉"
-title_zh: "洛沙奈蕾比惠拉"
+display_title: "ロサナ・レビエラ"
+title_zh: ""
 title_ja: "ロサナ・レビエラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c49564"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rosanna Leviera"
-  - "ロサナ・レビエラ"
 source_ids:
   vndb: "c49564"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c49564.webp"
 ---
 
-# 洛沙奈蕾比惠拉
+# ロサナ・レビエラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

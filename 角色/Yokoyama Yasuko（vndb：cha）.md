@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c92504"
 type: "character"
-display_title: "横山雅寿子"
-title_zh: "横山雅寿子"
+display_title: "横山 やす子"
+title_zh: ""
 title_ja: "横山 やす子"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92504"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yokoyama Yasuko"
-  - "横山 やす子"
   - "12番目 使徒"
   - "the 12th Apostle"
   - "イスカリオテのユダ"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c92504.webp"
 ---
 
-# 横山雅寿子
+# 横山 やす子
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c94627"
 type: "character"
-display_title: "洛扎莉奈拉F阿惠洛寿"
-title_zh: "洛扎莉奈拉F阿惠洛寿"
+display_title: "ロザリナ・ラファエロス"
+title_zh: ""
 title_ja: "ロザリナ・ラファエロス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94627"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rosalina Rafaelos"
-  - "ロザリナ・ラファエロス"
 source_ids:
   vndb: "c94627"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c94627.webp"
 ---
 
-# 洛扎莉奈拉F阿惠洛寿
+# ロザリナ・ラファエロス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

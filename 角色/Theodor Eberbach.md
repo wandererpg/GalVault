@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c42204"
 type: "character"
-display_title: "特奥堂奥露惠惠贝露巴H羽"
-title_zh: "特奥堂奥露惠惠贝露巴H羽"
+display_title: "テオドール・エーベルバッハ"
+title_zh: ""
 title_ja: "テオドール・エーベルバッハ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c42204"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Theodor Eberbach"
-  - "テオドール・エーベルバッハ"
   - "Schwarzesmarken 08"
 source_ids:
   vndb: "c42204"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c42204.webp"
 ---
 
-# 特奥堂奥露惠惠贝露巴H羽
+# テオドール・エーベルバッハ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

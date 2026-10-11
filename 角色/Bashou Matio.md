@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c124240"
 type: "character"
-display_title: "巴翔乌·真T伊奥"
-title_zh: "巴翔乌·真T伊奥"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Bashou Matio"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124240"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Bashou Matio"
   - "Minister of Economy"
 source_ids:
   vndb: "c124240"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c124240.webp"
 ---
 
-# 巴翔乌·真T伊奥
+# Bashou Matio
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

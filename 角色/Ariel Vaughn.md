@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c99883"
 type: "character"
-display_title: "阿莉惠L·V阿乌GH恩"
-title_zh: "阿莉惠L·V阿乌GH恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ariel Vaughn"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c99883"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ariel Vaughn"
   - "Ari"
 source_ids:
   vndb: "c99883"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c99883.webp"
 ---
 
-# 阿莉惠L·V阿乌GH恩
+# Ariel Vaughn
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

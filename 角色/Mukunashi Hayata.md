@@ -5,7 +5,10 @@ display_title: "椋梨隼太"
 title_zh: "椋梨隼太"
 title_ja: "椋梨 隼太"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c41339"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mukunashi Hayata"
   - "椋梨 隼太"

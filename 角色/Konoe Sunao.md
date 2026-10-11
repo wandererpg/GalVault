@@ -5,7 +5,10 @@ display_title: "近卫素奈緖"
 title_zh: "近卫素奈緖"
 title_ja: "近衛 素奈緒"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c42557"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Konoe Sunao"
   - "近衛 素奈緒"

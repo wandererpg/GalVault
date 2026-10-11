@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c116931"
 type: "character"
-display_title: "沙恩乃吉·美加堂"
-title_zh: "沙恩乃吉·美加堂"
+display_title: "산노지 미카도"
+title_zh: ""
 title_ja: "산노지 미카도"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116931"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sannoji Mikado"
-  - "산노지 미카도"
   - "Super High School Level Wizard"
 source_ids:
   vndb: "c116931"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c116931.webp"
 ---
 
-# 沙恩乃吉·美加堂
+# 산노지 미카도
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

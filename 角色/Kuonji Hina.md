@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c78930"
 type: "character"
-display_title: "久远寺日奈"
-title_zh: "久远寺日奈"
+display_title: "久遠寺 ひな"
+title_zh: ""
 title_ja: "久遠寺 ひな"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c78930"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kuonji Hina"
-  - "久遠寺 ひな"
 source_ids:
   vndb: "c78930"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c78930.webp"
 ---
 
-# 久远寺日奈
+# 久遠寺 ひな
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c19866"
 type: "character"
-display_title: "S伊M·朱·H乌伊"
-title_zh: "S伊M·朱·H乌伊"
+display_title: "심 주희"
+title_zh: ""
 title_ja: "심 주희"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c19866"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sim Ju-hui"
-  - "심 주희"
   - "Shim Juhee"
 source_ids:
   vndb: "c19866"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c19866.webp"
 ---
 
-# S伊M·朱·H乌伊
+# 심 주희
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

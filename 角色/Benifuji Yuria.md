@@ -5,7 +5,10 @@ display_title: "红藤友梨亚"
 title_zh: "红藤友梨亚"
 title_ja: "紅藤 友梨亜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c18314"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Benifuji Yuria"
   - "紅藤 友梨亜"

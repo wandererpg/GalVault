@@ -5,7 +5,10 @@ display_title: "广田将"
 title_zh: "广田将"
 title_ja: "広田 将"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c73906"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hirota Susumu"
   - "広田 将"

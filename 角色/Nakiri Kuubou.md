@@ -5,7 +5,10 @@ display_title: "百鬼空亡"
 title_zh: "百鬼空亡"
 title_ja: "百鬼 空亡"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43642"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nakiri Kuubou"
   - "百鬼 空亡"

@@ -5,7 +5,10 @@ display_title: "志水桂一"
 title_zh: "志水桂一"
 title_ja: "志水 桂一"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c47451"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shimizu Keiichi"
   - "志水 桂一"

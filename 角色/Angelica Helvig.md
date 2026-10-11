@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c106576"
 type: "character"
-display_title: "阿恩格L伊C阿·惠LV伊G"
-title_zh: "阿恩格L伊C阿·惠LV伊G"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Angelica Helvig"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c106576"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Angelica Helvig"
   - "Andi"
 source_ids:
   vndb: "c106576"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c106576.webp"
 ---
 
-# 阿恩格L伊C阿·惠LV伊G
+# Angelica Helvig
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

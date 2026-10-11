@@ -5,7 +5,10 @@ display_title: "十河泉"
 title_zh: "十河泉"
 title_ja: "十河 泉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c77731"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sogou Izumi"
   - "十河 泉"

@@ -5,7 +5,10 @@ display_title: "睦实介"
 title_zh: "睦实介"
 title_ja: "睦実 介"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c85479"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mutsumi Kai"
   - "睦実 介"

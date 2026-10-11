@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c144515"
 type: "character"
-display_title: "这伊巴伊男"
-title_zh: "这伊巴伊男"
+display_title: "這いばい男"
+title_zh: ""
 title_ja: "這いばい男"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c144515"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mr. Crawling"
-  - "這いばい男"
 source_ids:
   vndb: "c144515"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c144515.webp"
 ---
 
-# 这伊巴伊男
+# 這いばい男
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

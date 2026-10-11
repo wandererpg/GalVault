@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c128675"
 type: "character"
-display_title: "DYS"
-title_zh: "DYS"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Dys"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c128675"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Dys"
   - "Dysthymia"
 source_ids:
   vndb: "c128675"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c128675.webp"
 ---
 
-# DYS
+# Dys
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

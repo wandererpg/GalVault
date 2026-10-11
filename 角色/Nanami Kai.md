@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c2212"
 type: "character"
-display_title: "七海加伊"
-title_zh: "七海加伊"
+display_title: "七海 かい"
+title_zh: ""
 title_ja: "七海 かい"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c2212"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nanami Kai"
-  - "七海 かい"
 source_ids:
   vndb: "c2212"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c2212.webp"
 ---
 
-# 七海加伊
+# 七海 かい
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

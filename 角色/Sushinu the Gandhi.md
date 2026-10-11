@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c122211"
 type: "character"
-display_title: "寿诗努扎雅恩吉伊"
-title_zh: "寿诗努扎雅恩吉伊"
+display_title: "スシヌ・ザ・ガンジー"
+title_zh: ""
 title_ja: "スシヌ・ザ・ガンジー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c122211"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sushinu the Gandhi"
-  - "スシヌ・ザ・ガンジー"
 source_ids:
   vndb: "c122211"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c122211.webp"
 ---
 
-# 寿诗努扎雅恩吉伊
+# スシヌ・ザ・ガンジー
 
 
 ## 角色画像

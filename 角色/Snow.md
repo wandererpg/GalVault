@@ -5,7 +5,10 @@ display_title: "思诺"
 title_zh: "思诺"
 title_ja: "スノウ"
 title_zh_quality: "manual_override"
-title_status: "machine_generated"
+title_status: "reviewed"
+title_zh_source: "按《魔法使的约定》中文角色名修正；参考 https://wiki.biligame.com/mahoyaku/Snow"
+title_zh_confidence: "medium"
+title_zh_needs_review: false
 aliases:
   - "Snow"
   - "スノウ"

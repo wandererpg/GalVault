@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c412"
 type: "character"
-display_title: "惠露露乌"
-title_zh: "惠露露乌"
+display_title: "エルルゥ"
+title_zh: ""
 title_ja: "エルルゥ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c412"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Eruruu"
-  - "エルルゥ"
   - "Eruruw"
   - "Erungaa"
   - "エルンガア"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c412.webp"
 ---
 
-# 惠露露乌
+# エルルゥ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

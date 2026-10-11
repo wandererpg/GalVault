@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c20672"
 type: "character"
-display_title: "伊露梦芙莉伊斗=布露久羽露斗"
-title_zh: "伊露梦芙莉伊斗=布露久羽露斗"
+display_title: "イルムフリート=ブルクハルト"
+title_zh: ""
 title_ja: "イルムフリート=ブルクハルト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c20672"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Irmfrid Burkhard"
-  - "イルムフリート=ブルクハルト"
   - "Knight Commander (騎士団長)"
   - "The First Seat (第一席)"
   - "輝ける城楯"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c20672.webp"
 ---
 
-# 伊露梦芙莉伊斗=布露久羽露斗
+# イルムフリート=ブルクハルト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

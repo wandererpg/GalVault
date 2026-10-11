@@ -5,7 +5,10 @@ display_title: "香山水依"
 title_zh: "香山水依"
 title_ja: "香山 水依"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c23983"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kayama Sui"
   - "香山 水依"

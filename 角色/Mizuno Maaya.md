@@ -5,7 +5,10 @@ display_title: "瑞乃真绫"
 title_zh: "瑞乃真绫"
 title_ja: "瑞乃 真綾"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c84004"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mizuno Maaya"
   - "瑞乃 真綾"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c94621"
 type: "character"
-display_title: "佳露露蕾寿斗拉梦"
-title_zh: "佳露露蕾寿斗拉梦"
+display_title: "キャルル・レストラム"
+title_zh: ""
 title_ja: "キャルル・レストラム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94621"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Calulu Restram"
-  - "キャルル・レストラム"
 source_ids:
   vndb: "c94621"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c94621.webp"
 ---
 
-# 佳露露蕾寿斗拉梦
+# キャルル・レストラム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "角仓翔"
 title_zh: "角仓翔"
 title_ja: "角倉 翔"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c132669"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kadokura Shou"
   - "角倉 翔"

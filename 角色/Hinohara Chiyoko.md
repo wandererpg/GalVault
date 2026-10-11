@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c77135"
 type: "character"
-display_title: "日野原千代子"
-title_zh: "日野原千代子"
+display_title: "日野原 ちよ子"
+title_zh: ""
 title_ja: "日野原 ちよ子"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c77135"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hinohara Chiyoko"
-  - "日野原 ちよ子"
   - "CHOCO"
   - "ちょこ"
   - "Choko"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c77135.webp"
 ---
 
-# 日野原千代子
+# 日野原 ちよ子
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

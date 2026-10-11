@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26346"
 type: "character"
-display_title: "皮阿寿＝V伊莉惠"
-title_zh: "皮阿寿＝V伊莉惠"
+display_title: "ピアス＝ヴィリエ"
+title_zh: ""
 title_ja: "ピアス＝ヴィリエ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26346"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Pierce Villiers"
-  - "ピアス＝ヴィリエ"
 source_ids:
   vndb: "c26346"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c26346.webp"
 ---
 
-# 皮阿寿＝V伊莉惠
+# ピアス＝ヴィリエ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

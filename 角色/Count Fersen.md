@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c48970"
 type: "character"
-display_title: "F惠露濑恩伯爵"
-title_zh: "F惠露濑恩伯爵"
+display_title: "フェルセン伯爵"
+title_zh: ""
 title_ja: "フェルセン伯爵"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c48970"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Count Fersen"
-  - "フェルセン伯爵"
   - "Fersen Hakushaku"
 source_ids:
   vndb: "c48970"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c48970.webp"
 ---
 
-# F惠露濑恩伯爵
+# フェルセン伯爵
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

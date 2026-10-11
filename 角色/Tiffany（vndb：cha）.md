@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c137656"
 type: "character"
-display_title: "T伊FF阿恩Y"
-title_zh: "T伊FF阿恩Y"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Tiffany"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c137656"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Tiffany"
 source_ids:
   vndb: "c137656"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c137656.webp"
 ---
 
-# T伊FF阿恩Y
+# Tiffany
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

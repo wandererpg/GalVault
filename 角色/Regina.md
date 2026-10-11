@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c131367"
 type: "character"
-display_title: "蕾吉奈"
-title_zh: "蕾吉奈"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Regina"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c131367"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Regina"
 source_ids:
   vndb: "c131367"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c131367.webp"
 ---
 
-# 蕾吉奈
+# Regina
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

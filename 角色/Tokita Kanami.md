@@ -5,7 +5,10 @@ display_title: "鸨田奏海"
 title_zh: "鸨田奏海"
 title_ja: "鴇田 奏海"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c39035"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tokita Kanami"
   - "鴇田 奏海"

@@ -5,7 +5,10 @@ display_title: "坂卷守"
 title_zh: "坂卷守"
 title_ja: "坂巻 守"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c79910"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakamaki Mamoru"
   - "坂巻 守"

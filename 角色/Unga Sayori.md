@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c55377"
 type: "character"
-display_title: "运河沙代莉"
-title_zh: "运河沙代莉"
+display_title: "運河 さより"
+title_zh: ""
 title_ja: "運河 さより"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c55377"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Unga Sayori"
-  - "運河 さより"
 source_ids:
   vndb: "c55377"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c55377.webp"
 ---
 
-# 运河沙代莉
+# 運河 さより
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

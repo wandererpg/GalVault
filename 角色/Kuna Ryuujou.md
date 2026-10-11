@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c161457"
 type: "character"
-display_title: "柳城久奈"
-title_zh: "柳城久奈"
+display_title: "柳城クナ"
+title_zh: ""
 title_ja: "柳城クナ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161457"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kuna Ryuujou"
-  - "柳城クナ"
 source_ids:
   vndb: "c161457"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c161457.webp"
 ---
 
-# 柳城久奈
+# 柳城クナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

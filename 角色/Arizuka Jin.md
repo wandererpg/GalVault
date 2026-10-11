@@ -5,7 +5,10 @@ display_title: "有冢阵"
 title_zh: "有冢阵"
 title_ja: "有塚 陣"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14489"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Arizuka Jin"
   - "有塚 陣"

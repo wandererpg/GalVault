@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c302"
 type: "character"
-display_title: "此花露千阿"
-title_zh: "此花露千阿"
+display_title: "此花 ルチア"
+title_zh: ""
 title_ja: "此花 ルチア"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c302"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Konohana Lucia"
-  - "此花 ルチア"
   - "Class Rep"
   - "Key"
   - "アサヒ・ハルカ"
@@ -24,7 +26,7 @@ source_urls:
 portrait_image: "assets/characters/c302.webp"
 ---
 
-# 此花露千阿
+# 此花 ルチア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c127755"
 type: "character"
-display_title: "T拉C惠R"
-title_zh: "T拉C惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Tracker"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127755"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Tracker"
 source_ids:
   vndb: "c127755"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c127755.webp"
 ---
 
-# T拉C惠R
+# Tracker
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c81379"
 type: "character"
-display_title: "莫美吉"
-title_zh: "莫美吉"
+display_title: "もみじ"
+title_zh: ""
 title_ja: "もみじ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c81379"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Momiji"
-  - "もみじ"
 source_ids:
   vndb: "c81379"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c81379.webp"
 ---
 
-# 莫美吉
+# もみじ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

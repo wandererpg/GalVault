@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c40129"
 type: "character"
-display_title: "惠久寿特伊阿修V阿莉惠"
-title_zh: "惠久寿特伊阿修V阿莉惠"
+display_title: "エクスティア・シュヴァリエ"
+title_zh: ""
 title_ja: "エクスティア・シュヴァリエ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c40129"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "ExS-TIA Chevalier"
-  - "エクスティア・シュヴァリエ"
   - "Exstia Chevalier"
 source_ids:
   vndb: "c40129"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c40129.webp"
 ---
 
-# 惠久寿特伊阿修V阿莉惠
+# エクスティア・シュヴァリエ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

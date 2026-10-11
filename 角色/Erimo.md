@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c32344"
 type: "character"
-display_title: "惠莉莫"
-title_zh: "惠莉莫"
+display_title: "エリモ"
+title_zh: ""
 title_ja: "エリモ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c32344"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Erimo"
-  - "エリモ"
 source_ids:
   vndb: "c32344"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c32344.webp"
 ---
 
-# 惠莉莫
+# エリモ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

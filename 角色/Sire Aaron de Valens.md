@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159840"
 type: "character"
-display_title: "S伊蕾·阿阿洛恩·德·V阿L惠恩S"
-title_zh: "S伊蕾·阿阿洛恩·德·V阿L惠恩S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Sire Aaron de Valens"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159840"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Sire Aaron de Valens"
 source_ids:
   vndb: "c159840"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c159840.webp"
 ---
 
-# S伊蕾·阿阿洛恩·德·V阿L惠恩S
+# Sire Aaron de Valens
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

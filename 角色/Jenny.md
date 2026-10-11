@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c103045"
 type: "character"
-display_title: "J惠恩恩Y"
-title_zh: "J惠恩恩Y"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jenny"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103045"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jenny"
 source_ids:
   vndb: "c103045"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c103045.webp"
 ---
 
-# J惠恩恩Y
+# Jenny
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

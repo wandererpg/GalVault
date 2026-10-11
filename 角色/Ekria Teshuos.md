@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c27827"
 type: "character"
-display_title: "惠久莉阿特修奥寿"
-title_zh: "惠久莉阿特修奥寿"
+display_title: "エクリア・テシュオス"
+title_zh: ""
 title_ja: "エクリア・テシュオス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c27827"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ekria Teshuos"
-  - "エクリア・テシュオス"
 source_ids:
   vndb: "c27827"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c27827.webp"
 ---
 
-# 惠久莉阿特修奥寿
+# エクリア・テシュオス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c28988"
 type: "character"
-display_title: "V阿蕾莉阿斗莉F阿"
-title_zh: "V阿蕾莉阿斗莉F阿"
+display_title: "ヴァレリア・トリファ"
+title_zh: ""
 title_ja: "ヴァレリア・トリファ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c28988"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Valeria Trifa"
-  - "ヴァレリア・トリファ"
   - "Kristoff Lohengrin"
   - "The Divine Vessel"
   - "Valerian Trifa"
@@ -22,7 +24,7 @@ source_urls:
 portrait_image: "assets/characters/c28988.webp"
 ---
 
-# V阿蕾莉阿斗莉F阿
+# ヴァレリア・トリファ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

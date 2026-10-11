@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43790"
 type: "character"
-display_title: "阿蕾久诗寿蕾寿希音恩"
-title_zh: "阿蕾久诗寿蕾寿希音恩"
+display_title: "アレクシス・レスキネン"
+title_zh: ""
 title_ja: "アレクシス・レスキネン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43790"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alexis Leskinen"
-  - "アレクシス・レスキネン"
 source_ids:
   vndb: "c43790"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43790.webp"
 ---
 
-# 阿蕾久诗寿蕾寿希音恩
+# アレクシス・レスキネン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

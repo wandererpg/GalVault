@@ -5,7 +5,10 @@ display_title: "锦织志织"
 title_zh: "锦织志织"
 title_ja: "錦織 志織"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c37227"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nishikiori Shiori"
   - "錦織 志織"

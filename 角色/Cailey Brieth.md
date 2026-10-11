@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c140346"
 type: "character"
-display_title: "惠伊莉伊布拉伊阿寿"
-title_zh: "惠伊莉伊布拉伊阿寿"
+display_title: "ケイリー・ブライアス"
+title_zh: ""
 title_ja: "ケイリー・ブライアス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c140346"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cailey Brieth"
-  - "ケイリー・ブライアス"
 source_ids:
   vndb: "c140346"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c140346.webp"
 ---
 
-# 惠伊莉伊布拉伊阿寿
+# ケイリー・ブライアス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

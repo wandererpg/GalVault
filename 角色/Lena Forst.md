@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c88123"
 type: "character"
-display_title: "L惠奈·F奥RST"
-title_zh: "L惠奈·F奥RST"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Lena Forst"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c88123"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Lena Forst"
 source_ids:
   vndb: "c88123"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c88123.webp"
 ---
 
-# L惠奈·F奥RST
+# Lena Forst
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

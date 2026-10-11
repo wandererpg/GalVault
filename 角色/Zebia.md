@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10319"
 type: "character"
-display_title: "泽比阿"
-title_zh: "泽比阿"
+display_title: "ゼビア"
+title_zh: ""
 title_ja: "ゼビア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10319"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Zebia"
-  - "ゼビア"
   - "Dark elf"
 source_ids:
   vndb: "c10319"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c10319.webp"
 ---
 
-# 泽比阿
+# ゼビア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

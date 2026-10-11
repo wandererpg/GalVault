@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c96266"
 type: "character"
-display_title: "芳乃莉K加"
-title_zh: "芳乃莉K加"
+display_title: "芳乃 リッカ"
+title_zh: ""
 title_ja: "芳乃 リッカ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c96266"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yoshino Ricca"
-  - "芳乃 リッカ"
 source_ids:
   vndb: "c96266"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c96266.webp"
 ---
 
-# 芳乃莉K加
+# 芳乃 リッカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

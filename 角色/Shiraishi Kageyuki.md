@@ -5,7 +5,10 @@ display_title: "白石景之"
 title_zh: "白石景之"
 title_ja: "白石 景之"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c39734"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shiraishi Kageyuki"
   - "白石 景之"

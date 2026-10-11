@@ -5,7 +5,10 @@ display_title: "根方宗次"
 title_zh: "根方宗次"
 title_ja: "根方 宗次"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10793"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nekata Munetsugu"
   - "根方 宗次"

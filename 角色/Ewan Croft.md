@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c89307"
 type: "character"
-display_title: "惠和恩·C洛FT"
-title_zh: "惠和恩·C洛FT"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ewan Croft"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c89307"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ewan Croft"
 source_ids:
   vndb: "c89307"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c89307.webp"
 ---
 
-# 惠和恩·C洛FT
+# Ewan Croft
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

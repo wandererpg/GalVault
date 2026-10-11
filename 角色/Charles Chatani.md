@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38352"
 type: "character"
-display_title: "恰阿露兹茶谷"
-title_zh: "恰阿露兹茶谷"
+display_title: "チャールズ 茶谷"
+title_zh: ""
 title_ja: "チャールズ 茶谷"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38352"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Charles Chatani"
-  - "チャールズ 茶谷"
   - "Kaoru Chatani"
 source_ids:
   vndb: "c38352"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c38352.webp"
 ---
 
-# 恰阿露兹茶谷
+# チャールズ 茶谷
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "多岐川葵"
 title_zh: "多岐川葵"
 title_ja: "多岐川 葵"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c11429"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takigawa Aoi"
   - "多岐川 葵"

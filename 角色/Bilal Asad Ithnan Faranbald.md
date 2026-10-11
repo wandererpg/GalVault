@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39813"
 type: "character"
-display_title: "比拉阿露·阿沙堂·伊寿奈阿恩·F阿拉恩巴露堂"
-title_zh: "比拉阿露·阿沙堂·伊寿奈阿恩·F阿拉恩巴露堂"
+display_title: "ビラール アサド イスナーン ファランバルド"
+title_zh: ""
 title_ja: "ビラール アサド イスナーン ファランバルド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39813"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Bilal Asad Ithnan Faranbald"
-  - "ビラール アサド イスナーン ファランバルド"
 source_ids:
   vndb: "c39813"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c39813.webp"
 ---
 
-# 比拉阿露·阿沙堂·伊寿奈阿恩·F阿拉恩巴露堂
+# ビラール アサド イスナーン ファランバルド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

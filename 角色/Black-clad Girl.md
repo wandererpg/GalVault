@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26529"
 type: "character"
-display_title: "久洛吉努乃子"
-title_zh: "久洛吉努乃子"
+display_title: "くろぎぬの子"
+title_zh: ""
 title_ja: "くろぎぬの子"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26529"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Black-clad Girl"
-  - "くろぎぬの子"
   - "Kuro-chan"
 source_ids:
   vndb: "c26529"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c26529.webp"
 ---
 
-# 久洛吉努乃子
+# くろぎぬの子
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "伊音响"
 title_zh: "伊音响"
 title_ja: "伊音 響"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c123165"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ioto Hibiki"
   - "伊音 響"

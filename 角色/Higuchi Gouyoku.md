@@ -5,7 +5,10 @@ display_title: "樋口豪欲"
 title_zh: "樋口豪欲"
 title_ja: "樋口 豪欲"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c61289"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Higuchi Gouyoku"
   - "樋口 豪欲"

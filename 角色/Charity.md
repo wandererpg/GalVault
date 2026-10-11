@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c163573"
 type: "character"
-display_title: "恰莉TY"
-title_zh: "恰莉TY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Charity"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c163573"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Charity"
 source_ids:
   vndb: "c163573"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c163573.webp"
 ---
 
-# 恰莉TY
+# Charity
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

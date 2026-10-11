@@ -5,7 +5,10 @@ display_title: "苍树千晴"
 title_zh: "苍树千晴"
 title_ja: "蒼樹 千晴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1331"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Aoki Chiharu"
   - "蒼樹 千晴"

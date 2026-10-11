@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c107032"
 type: "character"
-display_title: "嘉恩蕾奥"
-title_zh: "嘉恩蕾奥"
+display_title: "ジャン・レオ"
+title_zh: ""
 title_ja: "ジャン・レオ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c107032"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jean Leo"
-  - "ジャン・レオ"
 source_ids:
   vndb: "c107032"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c107032.webp"
 ---
 
-# 嘉恩蕾奥
+# ジャン・レオ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

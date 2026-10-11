@@ -5,7 +5,10 @@ display_title: "四月一日奏步"
 title_zh: "四月一日奏步"
 title_ja: "四月一日 奏歩"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c81771"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Watanuki Kaho"
   - "四月一日 奏歩"

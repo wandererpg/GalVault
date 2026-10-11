@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c77104"
 type: "character"
-display_title: "加古雅"
-title_zh: "加古雅"
+display_title: "かぐや"
+title_zh: ""
 title_ja: "かぐや"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c77104"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kaguya"
-  - "かぐや"
   - "ぐや(ちゃん) [Lupin, Tale]"
   - "ぐーや (Yumetuber persona)"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c77104.webp"
 ---
 
-# 加古雅
+# かぐや
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

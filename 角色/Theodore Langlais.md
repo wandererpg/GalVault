@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c149995"
 type: "character"
-display_title: "T惠奥堂蕾·L阿恩GL阿伊S"
-title_zh: "T惠奥堂蕾·L阿恩GL阿伊S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Theodore Langlais"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149995"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Theodore Langlais"
   - "The Hunter"
 source_ids:
   vndb: "c149995"
@@ -14,7 +16,7 @@ source_urls:
   vndb: "https://vndb.org/c149995"
 ---
 
-# T惠奥堂蕾·L阿恩GL阿伊S
+# Theodore Langlais
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61261"
 type: "character"
-display_title: "加蕾惠加莉伊"
-title_zh: "加蕾惠加莉伊"
+display_title: "カレーカリー"
+title_zh: ""
 title_ja: "カレーカリー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61261"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Currycurrey"
-  - "カレーカリー"
 source_ids:
   vndb: "c61261"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61261.webp"
 ---
 
-# 加蕾惠加莉伊
+# カレーカリー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

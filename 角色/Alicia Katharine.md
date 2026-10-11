@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c18803"
 type: "character"
-display_title: "阿莉诗阿=加特莉伊音"
-title_zh: "阿莉诗阿=加特莉伊音"
+display_title: "アリシア=カテリーネ"
+title_zh: ""
 title_ja: "アリシア=カテリーネ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c18803"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alicia Katharine"
-  - "アリシア=カテリーネ"
   - "Alice"
   - "The Fifth Seat"
   - "第五席"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c18803.webp"
 ---
 
-# 阿莉诗阿=加特莉伊音
+# アリシア=カテリーネ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

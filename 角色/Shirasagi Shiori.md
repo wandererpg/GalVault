@@ -5,7 +5,10 @@ display_title: "白鹭诗织"
 title_zh: "白鹭诗织"
 title_ja: "白鷺 詩織"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c19097"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shirasagi Shiori"
   - "白鷺 詩織"

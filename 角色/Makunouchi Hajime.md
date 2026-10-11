@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c116926"
 type: "character"
-display_title: "真久乃乌千·羽吉芽"
-title_zh: "真久乃乌千·羽吉芽"
+display_title: "마쿠노우치 하지메"
+title_zh: ""
 title_ja: "마쿠노우치 하지메"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116926"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Makunouchi Hajime"
-  - "마쿠노우치 하지메"
   - "Super High School Level Boxing Athlete"
   - "Super High School Level Boxer"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c116926.webp"
 ---
 
-# 真久乃乌千·羽吉芽
+# 마쿠노우치 하지메
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

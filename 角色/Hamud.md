@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c91486"
 type: "character"
-display_title: "羽梦堂"
-title_zh: "羽梦堂"
+display_title: "ハムド"
+title_zh: ""
 title_ja: "ハムド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c91486"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hamud"
-  - "ハムド"
   - "The Cunning Chancellor of the Empire"
 source_ids:
   vndb: "c91486"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c91486.webp"
 ---
 
-# 羽梦堂
+# ハムド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

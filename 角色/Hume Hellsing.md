@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c5872"
 type: "character"
-display_title: "休乌梦惠露诗恩古"
-title_zh: "休乌梦惠露诗恩古"
+display_title: "ヒューム・ヘルシング"
+title_zh: ""
 title_ja: "ヒューム・ヘルシング"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c5872"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hume Hellsing"
-  - "ヒューム・ヘルシング"
   - "Hyumu Hellsing"
   - "Mr. Hyumu"
   - "ヒュームさん"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c5872.webp"
 ---
 
-# 休乌梦惠露诗恩古
+# ヒューム・ヘルシング
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

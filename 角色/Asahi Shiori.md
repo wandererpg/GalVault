@@ -5,7 +5,10 @@ display_title: "朝日栞"
 title_zh: "朝日栞"
 title_ja: "朝日 栞"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c52850"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Asahi Shiori"
   - "朝日 栞"

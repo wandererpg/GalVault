@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10668"
 type: "character"
-display_title: "露奈寿特伊阿阿寿特伊伊露"
-title_zh: "露奈寿特伊阿阿寿特伊伊露"
+display_title: "ルナスティア・アスティール"
+title_zh: ""
 title_ja: "ルナスティア・アスティール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10668"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lunastia Astyr"
-  - "ルナスティア・アスティール"
   - "Luna"
 source_ids:
   vndb: "c10668"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c10668.webp"
 ---
 
-# 露奈寿特伊阿阿寿特伊伊露
+# ルナスティア・アスティール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

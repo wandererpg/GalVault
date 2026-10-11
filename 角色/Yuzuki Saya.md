@@ -5,7 +5,10 @@ display_title: "柚月沙耶"
 title_zh: "柚月沙耶"
 title_ja: "柚月 沙耶"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c642"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yuzuki Saya"
   - "柚月 沙耶"

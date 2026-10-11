@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90047"
 type: "character"
-display_title: "露乌F阿寿扎恩布蕾伊布"
-title_zh: "露乌F阿寿扎恩布蕾伊布"
+display_title: "ルーファス・ザンブレイブ"
+title_zh: ""
 title_ja: "ルーファス・ザンブレイブ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90047"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rufus Xnbrave"
-  - "ルーファス・ザンブレイブ"
   - "雷鳴福音"
   - "Rufus Braun"
   - "ルーファス・ブラウン"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c90047.webp"
 ---
 
-# 露乌F阿寿扎恩布蕾伊布
+# ルーファス・ザンブレイブ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

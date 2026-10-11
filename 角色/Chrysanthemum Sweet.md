@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c172744"
 type: "character"
-display_title: "CHRY沙恩T惠梦M·SW惠惠T"
-title_zh: "CHRY沙恩T惠梦M·SW惠惠T"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Chrysanthemum Sweet"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c172744"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Chrysanthemum Sweet"
   - "Kris"
 source_ids:
   vndb: "c172744"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c172744.webp"
 ---
 
-# CHRY沙恩T惠梦M·SW惠惠T
+# Chrysanthemum Sweet
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

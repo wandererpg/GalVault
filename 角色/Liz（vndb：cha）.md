@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c67410"
 type: "character"
-display_title: "L伊Z"
-title_zh: "L伊Z"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Liz"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c67410"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Liz"
 source_ids:
   vndb: "c67410"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c67410.webp"
 ---
 
-# L伊Z
+# Liz
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

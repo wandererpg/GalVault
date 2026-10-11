@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159790"
 type: "character"
-display_title: "PY莉阿"
-title_zh: "PY莉阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Pyria"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159790"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Pyria"
 source_ids:
   vndb: "c159790"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c159790.webp"
 ---
 
-# PY莉阿
+# Pyria
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c121995"
 type: "character"
-display_title: "C阿SS伊DY·阿M贝R"
-title_zh: "C阿SS伊DY·阿M贝R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Cassidy Amber"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c121995"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Cassidy Amber"
   - "Ultimate Pro Gamer"
 source_ids:
   vndb: "c121995"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c121995.webp"
 ---
 
-# C阿SS伊DY·阿M贝R
+# Cassidy Amber
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

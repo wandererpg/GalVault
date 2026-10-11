@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c122999"
 type: "character"
-display_title: "贝恩嘉美恩·达W索恩"
-title_zh: "贝恩嘉美恩·达W索恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Benjamin Dawson"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c122999"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Benjamin Dawson"
   - "Benja"
 source_ids:
   vndb: "c122999"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c122999.webp"
 ---
 
-# 贝恩嘉美恩·达W索恩
+# Benjamin Dawson
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

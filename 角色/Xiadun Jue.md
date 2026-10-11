@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c157502"
 type: "character"
-display_title: "加斗纽惠"
-title_zh: "加斗纽惠"
+display_title: "カトン・ユエ"
+title_zh: ""
 title_ja: "カトン・ユエ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c157502"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Xiadun Jue"
-  - "カトン・ユエ"
   - "Xiahou Dun"
 source_ids:
   vndb: "c157502"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c157502.webp"
 ---
 
-# 加斗纽惠
+# カトン・ユエ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

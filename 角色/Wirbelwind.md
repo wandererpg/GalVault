@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61203"
 type: "character"
-display_title: "V伊露贝露V伊恩斗"
-title_zh: "V伊露贝露V伊恩斗"
+display_title: "ヴィルベルヴィント"
+title_zh: ""
 title_ja: "ヴィルベルヴィント"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61203"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Wirbelwind"
-  - "ヴィルベルヴィント"
 source_ids:
   vndb: "c61203"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61203.webp"
 ---
 
-# V伊露贝露V伊恩斗
+# ヴィルベルヴィント
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

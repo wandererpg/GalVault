@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159842"
 type: "character"
-display_title: "真R乔L阿伊音"
-title_zh: "真R乔L阿伊音"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Marjolaine"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159842"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Marjolaine"
 source_ids:
   vndb: "c159842"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c159842.webp"
 ---
 
-# 真R乔L阿伊音
+# Marjolaine
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

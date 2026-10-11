@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c113559"
 type: "character"
-display_title: "奥寿加阿F惠阿普蕾伊"
-title_zh: "奥寿加阿F惠阿普蕾伊"
+display_title: "オスカー・フェアプレイ"
+title_zh: ""
 title_ja: "オスカー・フェアプレイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c113559"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Oscar Fairplay"
-  - "オスカー・フェアプレイ"
   - "1ゴウ"
   - "1 Gou"
   - "Foreman"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c113559.webp"
 ---
 
-# 奥寿加阿F惠阿普蕾伊
+# オスカー・フェアプレイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

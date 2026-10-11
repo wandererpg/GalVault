@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c59833"
 type: "character"
-display_title: "月寒寿美蕾"
-title_zh: "月寒寿美蕾"
+display_title: "月寒 すみれ"
+title_zh: ""
 title_ja: "月寒 すみれ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c59833"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tsukisamu Sumire"
-  - "月寒 すみれ"
 source_ids:
   vndb: "c59833"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c59833.webp"
 ---
 
-# 月寒寿美蕾
+# 月寒 すみれ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

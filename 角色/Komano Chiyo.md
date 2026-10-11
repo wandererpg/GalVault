@@ -5,7 +5,10 @@ display_title: "驹野千代"
 title_zh: "驹野千代"
 title_ja: "駒野 千代"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c48302"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Komano Chiyo"
   - "駒野 千代"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98817"
 type: "character"
-display_title: "芽雅德寿莫洛美"
-title_zh: "芽雅德寿莫洛美"
+display_title: "メガデス・モロミ"
+title_zh: ""
 title_ja: "メガデス・モロミ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98817"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Megadeath Moromi"
-  - "メガデス・モロミ"
 source_ids:
   vndb: "c98817"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98817.webp"
 ---
 
-# 芽雅德寿莫洛美
+# メガデス・モロミ
 
 
 ## 角色画像

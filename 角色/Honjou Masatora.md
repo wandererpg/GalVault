@@ -5,7 +5,10 @@ display_title: "本条政虎"
 title_zh: "本条政虎"
 title_ja: "本条 政虎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c48297"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Honjou Masatora"
   - "本条 政虎"

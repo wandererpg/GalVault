@@ -5,7 +5,10 @@ display_title: "樱内义之"
 title_zh: "樱内义之"
 title_ja: "桜内 義之"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c4059"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakurai Yoshiyuki"
   - "桜内 義之"

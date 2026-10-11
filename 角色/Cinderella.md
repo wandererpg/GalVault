@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c28300"
 type: "character"
-display_title: "诗恩德蕾拉"
-title_zh: "诗恩德蕾拉"
+display_title: "シンデレラ"
+title_zh: ""
 title_ja: "シンデレラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c28300"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cinderella"
-  - "シンデレラ"
 source_ids:
   vndb: "c28300"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c28300.webp"
 ---
 
-# 诗恩德蕾拉
+# シンデレラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

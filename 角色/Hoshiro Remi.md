@@ -5,7 +5,10 @@ display_title: "保城丽水"
 title_zh: "保城丽水"
 title_ja: "保城 麗水"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c113577"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hoshiro Remi"
   - "保城 麗水"

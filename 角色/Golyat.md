@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38935"
 type: "character"
-display_title: "悟莉阿特"
-title_zh: "悟莉阿特"
+display_title: "ゴリアテ"
+title_zh: ""
 title_ja: "ゴリアテ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38935"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Golyat"
-  - "ゴリアテ"
 source_ids:
   vndb: "c38935"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c38935.webp"
 ---
 
-# 悟莉阿特
+# ゴリアテ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

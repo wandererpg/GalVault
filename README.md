@@ -83,7 +83,18 @@ python -m pip install -r 系统/工具/character-name-requirements.txt
 python 系统/工具/localize_character_names.py
 ```
 
-脚本从 VNDB 补齐原文名和别名，并生成简体中文显示标题。角色文件名和内部链接不会改变。自动音译不等同于官方译名；可在 `系统/角色中文化/中文名修订.csv` 中加入人工修订后重跑。详见[生成报告](系统/角色中文化/生成报告.md)。
+脚本从 VNDB 补齐原文名和别名，优先采用按角色 ID 记录的人工修订，并保留页面上已有的手工修正。纯汉字姓名做保守字形转换；假名、罗马音或混合姓名不再猜写汉字，改用原名显示，`title_zh` 留空并标记 `needs_review`。角色文件名、正文关系和内部链接不会改变。
+
+页面属性新增 `title_zh_source`（来源）、`title_zh_confidence`（可信度）和 `title_zh_needs_review`（待校对）。汉字转换仅是候选，不等同于官方译名；人工修订也不自动视为官方名。可在 `系统/角色中文化/待校对.csv` 中筛选低可信度条目，核实后把 `entity_id,title_zh,notes` 填入 `中文名修订.csv`（同一 ID 只保留一条，notes 记录出处）。不要把没有填好的待校对清单直接覆盖修订表。
+
+仅使用现有缓存时，可先预演，再正式更新：
+
+```powershell
+python 系统/工具/localize_character_names.py --offline --dry-run
+python 系统/工具/localize_character_names.py --offline
+```
+
+正式更新前会在知识库旁的 `GalVault-maintenance-backups/` 创建并校验角色页 ZIP 备份。详见[生成报告](系统/角色中文化/生成报告.md)。
 
 ## 导入作品简介
 

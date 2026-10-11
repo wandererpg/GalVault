@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16483"
 type: "character"
-display_title: "矢惠崎文博"
-title_zh: "矢惠崎文博"
+display_title: "矢ヶ崎 文博"
+title_zh: ""
 title_ja: "矢ヶ崎 文博"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16483"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yagasaki Fumihiro"
-  - "矢ヶ崎 文博"
   - "Fumi-kun"
   - "Glasses"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c16483.webp"
 ---
 
-# 矢惠崎文博
+# 矢ヶ崎 文博
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c111602"
 type: "character"
-display_title: "通贩沙恩"
-title_zh: "通贩沙恩"
+display_title: "通販さん"
+title_zh: ""
 title_ja: "通販さん"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c111602"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tsuuhan-san"
-  - "通販さん"
 source_ids:
   vndb: "c111602"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c111602.webp"
 ---
 
-# 通贩沙恩
+# 通販さん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

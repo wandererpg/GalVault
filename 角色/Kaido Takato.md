@@ -5,7 +5,10 @@ display_title: "海棠鹰斗"
 title_zh: "海棠鹰斗"
 title_ja: "海棠 鷹斗"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c33119"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kaido Takato"
   - "海棠 鷹斗"

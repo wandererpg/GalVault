@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c146652"
 type: "character"
-display_title: "P羽恩斗M·伊洛嘉"
-title_zh: "P羽恩斗M·伊洛嘉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "PHANTOM Iroja"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c146652"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "PHANTOM Iroja"
   - "Fake Iroja"
 source_ids:
   vndb: "c146652"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c146652.webp"
 ---
 
-# P羽恩斗M·伊洛嘉
+# PHANTOM Iroja
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

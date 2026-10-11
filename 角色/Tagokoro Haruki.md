@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c153177"
 type: "character"
-display_title: "田心羽露希"
-title_zh: "田心羽露希"
+display_title: "田心 ハルキ"
+title_zh: ""
 title_ja: "田心 ハルキ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c153177"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tagokoro Haruki"
-  - "田心 ハルキ"
 source_ids:
   vndb: "c153177"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c153177.webp"
 ---
 
-# 田心羽露希
+# 田心 ハルキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

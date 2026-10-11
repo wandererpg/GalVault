@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c154910"
 type: "character"
-display_title: "拉伊濑"
-title_zh: "拉伊濑"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Raise"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c154910"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Raise"
 source_ids:
   vndb: "c154910"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c154910.webp"
 ---
 
-# 拉伊濑
+# Raise
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

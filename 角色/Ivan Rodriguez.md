@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c47154"
 type: "character"
-display_title: "伊和恩洛堂莉格寿"
-title_zh: "伊和恩洛堂莉格寿"
+display_title: "イワン・ロドリゲス"
+title_zh: ""
 title_ja: "イワン・ロドリゲス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c47154"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ivan Rodriguez"
-  - "イワン・ロドリゲス"
   - "Ivan Rodorigez"
 source_ids:
   vndb: "c47154"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c47154.webp"
 ---
 
-# 伊和恩洛堂莉格寿
+# イワン・ロドリゲス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71220"
 type: "character"
-display_title: "阿阿寿"
-title_zh: "阿阿寿"
+display_title: "アース"
+title_zh: ""
 title_ja: "アース"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71220"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Earth"
-  - "アース"
 source_ids:
   vndb: "c71220"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71220.webp"
 ---
 
-# 阿阿寿
+# アース
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

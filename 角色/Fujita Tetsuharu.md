@@ -5,7 +5,10 @@ display_title: "藤田铁治"
 title_zh: "藤田铁治"
 title_ja: "藤田 鉄治"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c132223"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fujita Tetsuharu"
   - "藤田 鉄治"

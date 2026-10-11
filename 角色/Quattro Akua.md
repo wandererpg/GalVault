@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61273"
 type: "character"
-display_title: "久和斗洛亚空"
-title_zh: "久和斗洛亚空"
+display_title: "クワトロ 亜空"
+title_zh: ""
 title_ja: "クワトロ 亜空"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61273"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Quattro Akua"
-  - "クワトロ 亜空"
   - "Colonel Quattro Akua"
   - "Quattro Akuu"
   - "Haspar Rojio"
@@ -22,7 +24,7 @@ source_urls:
 portrait_image: "assets/characters/c61273.webp"
 ---
 
-# 久和斗洛亚空
+# クワトロ 亜空
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

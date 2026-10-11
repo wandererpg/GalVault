@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c122217"
 type: "character"
-display_title: "伊蕾奈·日LL"
-title_zh: "伊蕾奈·日LL"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Irena Hill"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c122217"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Irena Hill"
   - "Ire"
 source_ids:
   vndb: "c122217"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c122217.webp"
 ---
 
-# 伊蕾奈·日LL
+# Irena Hill
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

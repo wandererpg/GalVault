@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c93217"
 type: "character"
-display_title: "拉沙伊泽露"
-title_zh: "拉沙伊泽露"
+display_title: "ラ・サイゼル"
+title_zh: ""
 title_ja: "ラ・サイゼル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c93217"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "La Saizel"
-  - "ラ・サイゼル"
 source_ids:
   vndb: "c93217"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c93217.webp"
 ---
 
-# 拉沙伊泽露
+# ラ・サイゼル
 
 
 ## 角色画像

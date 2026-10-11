@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c118552"
 type: "character"
-display_title: "惠莉伊·穗和伊斗"
-title_zh: "惠莉伊·穗和伊斗"
+display_title: "エリー ホワイト"
+title_zh: ""
 title_ja: "エリー ホワイト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c118552"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Elly White"
-  - "エリー ホワイト"
   - "Asahi"
   - "Beluha"
   - "アサヒ"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c118552.webp"
 ---
 
-# 惠莉伊·穗和伊斗
+# エリー ホワイト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

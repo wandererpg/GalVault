@@ -5,7 +5,10 @@ display_title: "刑事"
 title_zh: "刑事"
 title_ja: "刑事"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c110899"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Detective"
 source_ids:

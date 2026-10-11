@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13462"
 type: "character"
-display_title: "加芽子"
-title_zh: "加芽子"
+display_title: "かめ子"
+title_zh: ""
 title_ja: "かめ子"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13462"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kameko"
-  - "かめ子"
 source_ids:
   vndb: "c13462"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c13462.webp"
 ---
 
-# 加芽子
+# かめ子
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

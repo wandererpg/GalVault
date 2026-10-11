@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c82702"
 type: "character"
-display_title: "羽LL惠Y"
-title_zh: "羽LL惠Y"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Halley"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c82702"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Halley"
 source_ids:
   vndb: "c82702"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c82702.webp"
 ---
 
-# 羽LL惠Y
+# Halley
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

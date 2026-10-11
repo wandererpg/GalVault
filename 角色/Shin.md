@@ -5,7 +5,10 @@ display_title: "秦"
 title_zh: "秦"
 title_ja: "秦"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c12522"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shin"
 source_ids:

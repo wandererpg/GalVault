@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125442"
 type: "character"
-display_title: "津伊恩兹F惠阿莉伊"
-title_zh: "津伊恩兹F惠阿莉伊"
+display_title: "ツインズフェアリー"
+title_zh: ""
 title_ja: "ツインズフェアリー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125442"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Twin Fairies"
-  - "ツインズフェアリー"
   - "Fairy A"
   - "Fairy B"
   - "Milly & Liru"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c125442.webp"
 ---
 
-# 津伊恩兹F惠阿莉伊
+# ツインズフェアリー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

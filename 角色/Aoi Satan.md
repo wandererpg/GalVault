@@ -5,7 +5,10 @@ display_title: "葵叉丹"
 title_zh: "葵叉丹"
 title_ja: "葵 叉丹"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c123618"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Aoi Satan"
   - "葵 叉丹"

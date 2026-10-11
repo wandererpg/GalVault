@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c127749"
 type: "character"
-display_title: "羽洛LD·羽洛LD索恩"
-title_zh: "羽洛LD·羽洛LD索恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Harold Haroldson"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127749"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Harold Haroldson"
 source_ids:
   vndb: "c127749"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c127749.webp"
 ---
 
-# 羽洛LD·羽洛LD索恩
+# Harold Haroldson
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

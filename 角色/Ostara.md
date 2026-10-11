@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c140350"
 type: "character"
-display_title: "奥寿太拉"
-title_zh: "奥寿太拉"
+display_title: "オスタラ"
+title_zh: ""
 title_ja: "オスタラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c140350"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ostara"
-  - "オスタラ"
 source_ids:
   vndb: "c140350"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c140350.webp"
 ---
 
-# 奥寿太拉
+# オスタラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c80125"
 type: "character"
-display_title: "真诗洛"
-title_zh: "真诗洛"
+display_title: "ましろ"
+title_zh: ""
 title_ja: "ましろ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c80125"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mashiro"
-  - "ましろ"
   - "夜の女王"
 source_ids:
   vndb: "c80125"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c80125.webp"
 ---
 
-# 真诗洛
+# ましろ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

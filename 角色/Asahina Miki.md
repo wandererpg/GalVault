@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c6037"
 type: "character"
-display_title: "朝比奈美希"
-title_zh: "朝比奈美希"
+display_title: "朝比奈 ミキ"
+title_zh: ""
 title_ja: "朝比奈 ミキ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c6037"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Asahina Miki"
-  - "朝比奈 ミキ"
 source_ids:
   vndb: "c6037"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c6037.webp"
 ---
 
-# 朝比奈美希
+# 朝比奈 ミキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

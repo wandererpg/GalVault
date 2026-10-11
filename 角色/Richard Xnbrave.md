@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90048"
 type: "character"
-display_title: "莉恰阿堂扎恩布蕾伊布"
-title_zh: "莉恰阿堂扎恩布蕾伊布"
+display_title: "リチャード・ザンブレイブ"
+title_zh: ""
 title_ja: "リチャード・ザンブレイブ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90048"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Richard Xnbrave"
-  - "リチャード・ザンブレイブ"
   - "Richard Braun"
   - "リチャード・ブラウン"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c90048.webp"
 ---
 
-# 莉恰阿堂扎恩布蕾伊布
+# リチャード・ザンブレイブ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c1177"
 type: "character"
-display_title: "津奈美加拉尼子芙"
-title_zh: "津奈美加拉尼子芙"
+display_title: "ツナミ・カラニコフ"
+title_zh: ""
 title_ja: "ツナミ・カラニコフ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c1177"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tsunami Karanikov"
-  - "ツナミ・カラニコフ"
 source_ids:
   vndb: "c1177"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c1177.webp"
 ---
 
-# 津奈美加拉尼子芙
+# ツナミ・カラニコフ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

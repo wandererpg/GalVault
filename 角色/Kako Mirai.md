@@ -5,7 +5,10 @@ display_title: "加古未来"
 title_zh: "加古未来"
 title_ja: "加古 未来"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2414"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kako Mirai"
   - "加古 未来"

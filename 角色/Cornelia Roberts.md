@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c174086"
 type: "character"
-display_title: "C奥R音L伊阿·洛贝RTS"
-title_zh: "C奥R音L伊阿·洛贝RTS"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Cornelia Roberts"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c174086"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Cornelia Roberts"
   - "Corny"
 source_ids:
   vndb: "c174086"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c174086.webp"
 ---
 
-# C奥R音L伊阿·洛贝RTS
+# Cornelia Roberts
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

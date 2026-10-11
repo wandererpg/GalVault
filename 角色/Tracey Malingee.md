@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159522"
 type: "character"
-display_title: "T拉C惠Y·真L伊恩格惠"
-title_zh: "T拉C惠Y·真L伊恩格惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Tracey Malingee"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159522"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Tracey Malingee"
   - "Trinity"
 source_ids:
   vndb: "c159522"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c159522.webp"
 ---
 
-# T拉C惠Y·真L伊恩格惠
+# Tracey Malingee
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

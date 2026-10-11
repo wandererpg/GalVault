@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c87382"
 type: "character"
-display_title: "阿S沙SS伊恩"
-title_zh: "阿S沙SS伊恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Assassin"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87382"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Assassin"
 source_ids:
   vndb: "c87382"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c87382.webp"
 ---
 
-# 阿S沙SS伊恩
+# Assassin
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

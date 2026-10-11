@@ -5,7 +5,10 @@ display_title: "将军"
 title_zh: "将军"
 title_ja: "将軍"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c4664"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shogun"
   - "将軍"

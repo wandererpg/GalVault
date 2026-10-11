@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c129259"
 type: "character"
-display_title: "濑惠Q"
-title_zh: "濑惠Q"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Seeq"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c129259"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Seeq"
   - "Obsequious"
 source_ids:
   vndb: "c129259"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c129259.webp"
 ---
 
-# 濑惠Q
+# Seeq
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

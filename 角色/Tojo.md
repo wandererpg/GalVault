@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c44128"
 type: "character"
-display_title: "斗奥乔"
-title_zh: "斗奥乔"
+display_title: "トージョ"
+title_zh: ""
 title_ja: "トージョ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c44128"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tojo"
-  - "トージョ"
 source_ids:
   vndb: "c44128"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c44128.webp"
 ---
 
-# 斗奥乔
+# トージョ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

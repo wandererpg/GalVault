@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34484"
 type: "character"
-display_title: "莉阿音寿"
-title_zh: "莉阿音寿"
+display_title: "リ・アネス"
+title_zh: ""
 title_ja: "リ・アネス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34484"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Li Anes"
-  - "リ・アネス"
 source_ids:
   vndb: "c34484"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c34484.webp"
 ---
 
-# 莉阿音寿
+# リ・アネス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

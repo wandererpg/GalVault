@@ -5,7 +5,10 @@ display_title: "东条凑"
 title_zh: "东条凑"
 title_ja: "東條 湊"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c98433"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Toujou Minato"
   - "東條 湊"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12930"
 type: "character"
-display_title: "惠波奈"
-title_zh: "惠波奈"
+display_title: "エポナ"
+title_zh: ""
 title_ja: "エポナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12930"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Epona"
-  - "エポナ"
 source_ids:
   vndb: "c12930"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c12930.webp"
 ---
 
-# 惠波奈
+# エポナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

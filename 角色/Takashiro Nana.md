@@ -5,7 +5,10 @@ display_title: "高城七七"
 title_zh: "高城七七"
 title_ja: "高城 七七"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16800"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takashiro Nana"
   - "高城 七七"

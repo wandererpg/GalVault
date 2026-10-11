@@ -5,7 +5,10 @@ display_title: "月神优衣"
 title_zh: "月神优衣"
 title_ja: "月神 優衣"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c125236"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsukigami Yui"
   - "月神 優衣"

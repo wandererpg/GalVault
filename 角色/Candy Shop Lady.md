@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c150648"
 type: "character"
-display_title: "C阿恩DY·翔P·L阿DY"
-title_zh: "C阿恩DY·翔P·L阿DY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Candy Shop Lady"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c150648"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Candy Shop Lady"
 source_ids:
   vndb: "c150648"
 source_urls:
   vndb: "https://vndb.org/c150648"
 ---
 
-# C阿恩DY·翔P·L阿DY
+# Candy Shop Lady
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61194"
 type: "character"
-display_title: "栗田阿寿帕拉"
-title_zh: "栗田阿寿帕拉"
+display_title: "栗田 アスパラ"
+title_zh: ""
 title_ja: "栗田 アスパラ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61194"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kurita Aspara"
-  - "栗田 アスパラ"
 source_ids:
   vndb: "c61194"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61194.webp"
 ---
 
-# 栗田阿寿帕拉
+# 栗田 アスパラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

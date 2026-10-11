@@ -5,7 +5,10 @@ display_title: "早乙女美铃"
 title_zh: "早乙女美铃"
 title_ja: "早乙女 美鈴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2407"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Saotome Misuzu"
   - "早乙女 美鈴"

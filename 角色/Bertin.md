@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c50781"
 type: "character"
-display_title: "贝露太恩夫人"
-title_zh: "贝露太恩夫人"
+display_title: "ベルタン夫人"
+title_zh: ""
 title_ja: "ベルタン夫人"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c50781"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Bertin"
-  - "ベルタン夫人"
   - "Bertin Fujin"
 source_ids:
   vndb: "c50781"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c50781.webp"
 ---
 
-# 贝露太恩夫人
+# ベルタン夫人
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

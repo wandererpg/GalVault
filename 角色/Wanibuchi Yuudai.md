@@ -5,7 +5,10 @@ display_title: "鳄渊雄大"
 title_zh: "鳄渊雄大"
 title_ja: "鰐淵 雄大"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c101238"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Wanibuchi Yuudai"
   - "鰐淵 雄大"

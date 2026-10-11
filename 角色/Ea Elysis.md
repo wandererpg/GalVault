@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c73211"
 type: "character"
-display_title: "惠阿＝惠莉伊诗寿"
-title_zh: "惠阿＝惠莉伊诗寿"
+display_title: "エア＝エリーシス"
+title_zh: ""
 title_ja: "エア＝エリーシス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c73211"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ea Elysis"
-  - "エア＝エリーシス"
 source_ids:
   vndb: "c73211"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c73211.webp"
 ---
 
-# 惠阿＝惠莉伊诗寿
+# エア＝エリーシス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

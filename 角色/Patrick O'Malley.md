@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c113562"
 type: "character"
-display_title: "帕斗莉K久奥真阿莉"
-title_zh: "帕斗莉K久奥真阿莉"
+display_title: "パトリック・オマーリ"
+title_zh: ""
 title_ja: "パトリック・オマーリ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c113562"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Patrick O'Malley"
-  - "パトリック・オマーリ"
 source_ids:
   vndb: "c113562"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c113562.webp"
 ---
 
-# 帕斗莉K久奥真阿莉
+# パトリック・オマーリ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

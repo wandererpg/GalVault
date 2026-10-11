@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c105801"
 type: "character"
-display_title: "比GL阿DY"
-title_zh: "比GL阿DY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "BIGLADY"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c105801"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "BIGLADY"
 source_ids:
   vndb: "c105801"
 source_urls:
   vndb: "https://vndb.org/c105801"
 ---
 
-# 比GL阿DY
+# BIGLADY
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

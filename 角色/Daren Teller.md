@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c169827"
 type: "character"
-display_title: "达蕾恩·特LL惠R"
-title_zh: "达蕾恩·特LL惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Daren Teller"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c169827"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Daren Teller"
 source_ids:
   vndb: "c169827"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c169827.webp"
 ---
 
-# 达蕾恩·特LL惠R
+# Daren Teller
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

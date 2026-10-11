@@ -5,7 +5,10 @@ display_title: "水无月琴子"
 title_zh: "水无月琴子"
 title_ja: "水無月 琴子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2139"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Minazuki Kotoko"
   - "水無月 琴子"

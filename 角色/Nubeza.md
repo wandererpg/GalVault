@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c94317"
 type: "character"
-display_title: "努贝惠扎"
-title_zh: "努贝惠扎"
+display_title: "ヌベーザ"
+title_zh: ""
 title_ja: "ヌベーザ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94317"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nubeza"
-  - "ヌベーザ"
 source_ids:
   vndb: "c94317"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c94317.webp"
 ---
 
-# 努贝惠扎
+# ヌベーザ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

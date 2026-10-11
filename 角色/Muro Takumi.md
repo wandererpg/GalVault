@@ -5,7 +5,10 @@ display_title: "室匠"
 title_zh: "室匠"
 title_ja: "室 匠"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c87373"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Muro Takumi"
   - "室 匠"

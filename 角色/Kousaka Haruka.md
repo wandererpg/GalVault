@@ -5,7 +5,10 @@ display_title: "香坂春风"
 title_zh: "香坂春风"
 title_ja: "香坂 春風"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c51034"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kousaka Haruka"
   - "香坂 春風"

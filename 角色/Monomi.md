@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c6627"
 type: "character"
-display_title: "莫乃美"
-title_zh: "莫乃美"
+display_title: "モノミ"
+title_zh: ""
 title_ja: "モノミ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c6627"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Monomi"
-  - "モノミ"
   - "Stufatly"
   - "ウサミ"
   - "Usami"
@@ -21,7 +23,7 @@ source_urls:
 portrait_image: "assets/characters/c6627.webp"
 ---
 
-# 莫乃美
+# モノミ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

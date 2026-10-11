@@ -5,7 +5,10 @@ display_title: "甲佐一魅"
 title_zh: "甲佐一魅"
 title_ja: "甲佐 一魅"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16636"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kousa Kazumi"
   - "甲佐 一魅"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c78783"
 type: "character"
-display_title: "莉伊寿莉恩古远山"
-title_zh: "莉伊寿莉恩古远山"
+display_title: "リースリング 遠山"
+title_zh: ""
 title_ja: "リースリング 遠山"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c78783"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Riesling Tooyama"
-  - "リースリング 遠山"
   - "民子"
 source_ids:
   vndb: "c78783"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c78783.webp"
 ---
 
-# 莉伊寿莉恩古远山
+# リースリング 遠山
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

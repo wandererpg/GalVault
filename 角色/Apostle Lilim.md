@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c95547"
 type: "character"
-display_title: "使徒莉莉梦"
-title_zh: "使徒莉莉梦"
+display_title: "使徒 リリム"
+title_zh: ""
 title_ja: "使徒 リリム"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c95547"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Apostle Lilim"
-  - "使徒 リリム"
 source_ids:
   vndb: "c95547"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c95547.webp"
 ---
 
-# 使徒莉莉梦
+# 使徒 リリム
 
 
 ## 角色画像

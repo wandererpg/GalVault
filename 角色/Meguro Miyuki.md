@@ -5,7 +5,10 @@ display_title: "目黑御幸"
 title_zh: "目黑御幸"
 title_ja: "目黒 御幸"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c76917"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Meguro Miyuki"
   - "目黒 御幸"

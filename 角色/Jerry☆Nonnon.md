@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c35976"
 type: "character"
-display_title: "吉惠莉伊☆乃恩乃恩"
-title_zh: "吉惠莉伊☆乃恩乃恩"
+display_title: "ジェリー☆ノンノン"
+title_zh: ""
 title_ja: "ジェリー☆ノンノン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c35976"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jerry☆Nonnon"
-  - "ジェリー☆ノンノン"
 source_ids:
   vndb: "c35976"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c35976.webp"
 ---
 
-# 吉惠莉伊☆乃恩乃恩
+# ジェリー☆ノンノン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

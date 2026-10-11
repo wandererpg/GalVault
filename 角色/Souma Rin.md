@@ -5,7 +5,10 @@ display_title: "相马鳞"
 title_zh: "相马鳞"
 title_ja: "相馬 鱗"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2462"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Souma Rin"
   - "相馬 鱗"

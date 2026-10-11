@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c99977"
 type: "character"
-display_title: "达V惠·ST莉德R"
-title_zh: "达V惠·ST莉德R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Dave Strider"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c99977"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Dave Strider"
   - "Akwete Purrmusk"
   - "turntechGodhead"
   - "Knight of Time"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c99977.webp"
 ---
 
-# 达V惠·ST莉德R
+# Dave Strider
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

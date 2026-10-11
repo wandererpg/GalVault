@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c1357"
 type: "character"
-display_title: "穗积沙雅加"
-title_zh: "穗积沙雅加"
+display_title: "穂積 さやか"
+title_zh: ""
 title_ja: "穂積 さやか"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c1357"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hozumi Sayaka"
-  - "穂積 さやか"
 source_ids:
   vndb: "c1357"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c1357.webp"
 ---
 
-# 穗积沙雅加
+# 穂積 さやか
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

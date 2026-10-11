@@ -5,7 +5,10 @@ display_title: "仓敷丽华"
 title_zh: "仓敷丽华"
 title_ja: "倉敷 麗華"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c146497"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kurashiki Reika"
   - "倉敷 麗華"

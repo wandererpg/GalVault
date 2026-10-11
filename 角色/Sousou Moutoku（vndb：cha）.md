@@ -5,7 +5,10 @@ display_title: "曹操孟德"
 title_zh: "曹操孟德"
 title_ja: "曹操 孟徳"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c24318"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sousou Moutoku"
   - "曹操 孟徳"

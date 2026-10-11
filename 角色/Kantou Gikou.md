@@ -5,7 +5,10 @@ display_title: "韩当义公"
 title_zh: "韩当义公"
 title_ja: "韓当 義公"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c50564"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kantou Gikou"
   - "韓当 義公"

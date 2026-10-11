@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c110900"
 type: "character"
-display_title: "少女"
-title_zh: "少女"
+display_title: "女の子"
+title_zh: ""
 title_ja: "女の子"
-title_zh_quality: "glossary"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c110900"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Girl"
-  - "女の子"
 source_ids:
   vndb: "c110900"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c110900.webp"
 ---
 
-# 少女
+# 女の子
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

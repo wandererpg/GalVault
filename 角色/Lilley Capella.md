@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16537"
 type: "character"
-display_title: "莉莉伊＝加佩拉"
-title_zh: "莉莉伊＝加佩拉"
+display_title: "リリー＝カペラ"
+title_zh: ""
 title_ja: "リリー＝カペラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16537"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lilley Capella"
-  - "リリー＝カペラ"
   - "Lily Capella"
 source_ids:
   vndb: "c16537"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c16537.webp"
 ---
 
-# 莉莉伊＝加佩拉
+# リリー＝カペラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "仙道隼人"
 title_zh: "仙道隼人"
 title_ja: "仙道 隼人"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c92332"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sendou Hayato"
   - "仙道 隼人"

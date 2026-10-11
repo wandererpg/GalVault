@@ -5,7 +5,10 @@ display_title: "大羽惠"
 title_zh: "大羽惠"
 title_ja: "大羽 恵"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c94408"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ooba Kei"
   - "大羽 恵"

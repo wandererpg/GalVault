@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c57432"
 type: "character"
-display_title: "布拉扎阿雅拉羽D堂"
-title_zh: "布拉扎阿雅拉羽D堂"
+display_title: "ブラザー・ガラハッド"
+title_zh: ""
 title_ja: "ブラザー・ガラハッド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c57432"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Brother Galahad"
-  - "ブラザー・ガラハッド"
   - "Mjolnir"
   - "ミョルニル"
   - "豪槌磊落"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c57432.webp"
 ---
 
-# 布拉扎阿雅拉羽D堂
+# ブラザー・ガラハッド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

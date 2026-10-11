@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8878"
 type: "character"
-display_title: "久蕾惠太比寿久伊"
-title_zh: "久蕾惠太比寿久伊"
+display_title: "クレータ・ビスキュイ"
+title_zh: ""
 title_ja: "クレータ・ビスキュイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8878"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Creta Biscuit"
-  - "クレータ・ビスキュイ"
 source_ids:
   vndb: "c8878"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c8878.webp"
 ---
 
-# 久蕾惠太比寿久伊
+# クレータ・ビスキュイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

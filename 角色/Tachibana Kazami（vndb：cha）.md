@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90876"
 type: "character"
-display_title: "立花加扎美"
-title_zh: "立花加扎美"
+display_title: "立花 かざみ"
+title_zh: ""
 title_ja: "立花 かざみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90876"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tachibana Kazami"
-  - "立花 かざみ"
 source_ids:
   vndb: "c90876"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c90876.webp"
 ---
 
-# 立花加扎美
+# 立花 かざみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c25740"
 type: "character"
-display_title: "拉伊千F惠伊莉恩"
-title_zh: "拉伊千F惠伊莉恩"
+display_title: "ライチ゠フェイ゠リン"
+title_zh: ""
 title_ja: "ライチ゠フェイ゠リン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c25740"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Litchi Faye-Ling"
-  - "ライチ゠フェイ゠リン"
   - "Boobie Lady"
   - "Sensei"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c25740.webp"
 ---
 
-# 拉伊千F惠伊莉恩
+# ライチ゠フェイ゠リン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

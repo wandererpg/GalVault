@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c152909"
 type: "character"
-display_title: "C阿乌C阿寿S·B莉娅恩"
-title_zh: "C阿乌C阿寿S·B莉娅恩"
+display_title: "코카서스 브리안"
+title_zh: ""
 title_ja: "코카서스 브리안"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c152909"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Caucasus Bryan"
-  - "코카서스 브리안"
 source_ids:
   vndb: "c152909"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c152909.webp"
 ---
 
-# C阿乌C阿寿S·B莉娅恩
+# 코카서스 브리안
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

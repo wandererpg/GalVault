@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98376"
 type: "character"
-display_title: "露乌诗阿"
-title_zh: "露乌诗阿"
+display_title: "ルーシア"
+title_zh: ""
 title_ja: "ルーシア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98376"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lucia"
-  - "ルーシア"
 source_ids:
   vndb: "c98376"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98376.webp"
 ---
 
-# 露乌诗阿
+# ルーシア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13554"
 type: "character"
-display_title: "保坂优希子"
-title_zh: "保坂优希子"
+display_title: "保坂 ゆきこ"
+title_zh: ""
 title_ja: "保坂 ゆきこ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13554"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hosaka Yukiko"
-  - "保坂 ゆきこ"
 source_ids:
   vndb: "c13554"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c13554.webp"
 ---
 
-# 保坂优希子
+# 保坂 ゆきこ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

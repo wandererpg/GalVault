@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c6045"
 type: "character"
-display_title: "优乌子·诗拉加和"
-title_zh: "优乌子·诗拉加和"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Yuuko Shirakawa"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c6045"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Yuuko Shirakawa"
 source_ids:
   vndb: "c6045"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c6045.webp"
 ---
 
-# 优乌子·诗拉加和
+# Yuuko Shirakawa
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c94325"
 type: "character"
-display_title: "C奥V惠·嘉芽S·穗L德恩"
-title_zh: "C奥V惠·嘉芽S·穗L德恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Cove James Holden"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94325"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Cove James Holden"
   - "Romeo"
   - "Space Cadet"
   - "Bucko"
@@ -21,7 +23,7 @@ source_urls:
 portrait_image: "assets/characters/c94325.webp"
 ---
 
-# C奥V惠·嘉芽S·穗L德恩
+# Cove James Holden
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

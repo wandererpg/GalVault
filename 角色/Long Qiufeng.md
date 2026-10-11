@@ -5,7 +5,10 @@ display_title: "龙秋风"
 title_zh: "龙秋风"
 title_ja: "龙秋风"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c141763"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Long Qiufeng"
 source_ids:

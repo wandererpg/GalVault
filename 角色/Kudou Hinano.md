@@ -5,7 +5,10 @@ display_title: "工藤日奈乃"
 title_zh: "工藤日奈乃"
 title_ja: "工藤 日奈乃"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c672"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kudou Hinano"
   - "工藤 日奈乃"

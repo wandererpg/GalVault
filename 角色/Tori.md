@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c136995"
 type: "character"
-display_title: "斗莉"
-title_zh: "斗莉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Tori"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136995"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Tori"
   - "Victoria"
 source_ids:
   vndb: "c136995"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c136995.webp"
 ---
 
-# 斗莉
+# Tori
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

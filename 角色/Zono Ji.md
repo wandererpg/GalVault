@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30231"
 type: "character"
-display_title: "藏乃吉"
-title_zh: "藏乃吉"
+display_title: "ゾノ・ジ"
+title_zh: ""
 title_ja: "ゾノ・ジ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30231"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Zono Ji"
-  - "ゾノ・ジ"
 source_ids:
   vndb: "c30231"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30231.webp"
 ---
 
-# 藏乃吉
+# ゾノ・ジ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

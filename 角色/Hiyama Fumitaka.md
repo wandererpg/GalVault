@@ -5,7 +5,10 @@ display_title: "桧山史隆"
 title_zh: "桧山史隆"
 title_ja: "桧山 史隆"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c126466"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hiyama Fumitaka"
   - "桧山 史隆"

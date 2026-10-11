@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c50774"
 type: "character"
-display_title: "芽露诗伊伯爵"
-title_zh: "芽露诗伊伯爵"
+display_title: "メルシー伯爵"
+title_zh: ""
 title_ja: "メルシー伯爵"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c50774"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Comte de Mercy-Argenteau"
-  - "メルシー伯爵"
   - "Mercy Hakushaku"
   - "Count Mercy"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c50774.webp"
 ---
 
-# 芽露诗伊伯爵
+# メルシー伯爵
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

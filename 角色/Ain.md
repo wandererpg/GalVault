@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c136564"
 type: "character"
-display_title: "阿伊恩"
-title_zh: "阿伊恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ain"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136564"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ain"
 source_ids:
   vndb: "c136564"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c136564.webp"
 ---
 
-# 阿伊恩
+# Ain
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

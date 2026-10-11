@@ -5,7 +5,10 @@ display_title: "壹原时尭"
 title_zh: "壹原时尭"
 title_ja: "壱原 時尭"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c41454"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ichihara Tokitaka"
   - "壱原 時尭"

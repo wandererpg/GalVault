@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14862"
 type: "character"
-display_title: "乃惠露真阿蕾寿阿寿子T斗"
-title_zh: "乃惠露真阿蕾寿阿寿子T斗"
+display_title: "ノエル・マーレス・アスコット"
+title_zh: ""
 title_ja: "ノエル・マーレス・アスコット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14862"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Noel Marres Ascot"
-  - "ノエル・マーレス・アスコット"
 source_ids:
   vndb: "c14862"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c14862.webp"
 ---
 
-# 乃惠露真阿蕾寿阿寿子T斗
+# ノエル・マーレス・アスコット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

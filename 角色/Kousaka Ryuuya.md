@@ -5,7 +5,10 @@ display_title: "高坂龙也"
 title_zh: "高坂龙也"
 title_ja: "高坂 龍也"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16794"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kousaka Ryuuya"
   - "高坂 龍也"

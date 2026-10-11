@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c106287"
 type: "character"
-display_title: "尼K希·莫R雅恩"
-title_zh: "尼K希·莫R雅恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Nikki Morgan"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c106287"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Nikki Morgan"
   - "Nik"
   - "Niks"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c106287.webp"
 ---
 
-# 尼K希·莫R雅恩
+# Nikki Morgan
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

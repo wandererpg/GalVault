@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8386"
 type: "character"
-display_title: "古拉阿"
-title_zh: "古拉阿"
+display_title: "グラァ"
+title_zh: ""
 title_ja: "グラァ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8386"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Guraa"
-  - "グラァ"
 source_ids:
   vndb: "c8386"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c8386.webp"
 ---
 
-# 古拉阿
+# グラァ
 
 
 ## 角色画像

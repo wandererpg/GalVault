@@ -5,7 +5,10 @@ display_title: "东乡毅"
 title_zh: "东乡毅"
 title_ja: "東郷 毅"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c612"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tougou Tsuyoshi"
   - "東郷 毅"

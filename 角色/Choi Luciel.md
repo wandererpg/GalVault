@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c35138"
 type: "character"
-display_title: "绪伊·L乌C伊惠L"
-title_zh: "绪伊·L乌C伊惠L"
+display_title: "최 루시엘"
+title_zh: ""
 title_ja: "최 루시엘"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c35138"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Choi Luciel"
-  - "최 루시엘"
   - "707"
   - "Seven"
   - "최세영"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c35138.webp"
 ---
 
-# 绪伊·L乌C伊惠L
+# 최 루시엘
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

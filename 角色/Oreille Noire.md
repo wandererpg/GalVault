@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c173892"
 type: "character"
-display_title: "奥蕾伊LL惠·乃伊蕾"
-title_zh: "奥蕾伊LL惠·乃伊蕾"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Oreille Noire"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c173892"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Oreille Noire"
 source_ids:
   vndb: "c173892"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c173892.webp"
 ---
 
-# 奥蕾伊LL惠·乃伊蕾
+# Oreille Noire
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

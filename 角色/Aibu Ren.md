@@ -5,7 +5,10 @@ display_title: "爱武恋"
 title_zh: "爱武恋"
 title_ja: "愛武 恋"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c8498"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Aibu Ren"
   - "愛武 恋"

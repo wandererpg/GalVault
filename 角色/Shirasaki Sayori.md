@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c11431"
 type: "character"
-display_title: "白崎沙代莉"
-title_zh: "白崎沙代莉"
+display_title: "白崎 さより"
+title_zh: ""
 title_ja: "白崎 さより"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c11431"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shirasaki Sayori"
-  - "白崎 さより"
 source_ids:
   vndb: "c11431"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c11431.webp"
 ---
 
-# 白崎沙代莉
+# 白崎 さより
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

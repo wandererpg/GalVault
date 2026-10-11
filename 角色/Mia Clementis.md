@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c1359"
 type: "character"
-display_title: "美阿久蕾芽恩特伊寿"
-title_zh: "美阿久蕾芽恩特伊寿"
+display_title: "ミア・クレメンティス"
+title_zh: ""
 title_ja: "ミア・クレメンティス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c1359"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mia Clementis"
-  - "ミア・クレメンティス"
 source_ids:
   vndb: "c1359"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c1359.webp"
 ---
 
-# 美阿久蕾芽恩特伊寿
+# ミア・クレメンティス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

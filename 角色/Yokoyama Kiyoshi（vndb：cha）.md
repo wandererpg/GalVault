@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c94722"
 type: "character"
-display_title: "横山希代诗"
-title_zh: "横山希代诗"
+display_title: "横山 きよし"
+title_zh: ""
 title_ja: "横山 きよし"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94722"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yokoyama Kiyoshi"
-  - "横山 きよし"
 source_ids:
   vndb: "c94722"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c94722.webp"
 ---
 
-# 横山希代诗
+# 横山 きよし
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c87381"
 type: "character"
-display_title: "伊SH太R·伊"
-title_zh: "伊SH太R·伊"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ishtar I"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87381"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ishtar I"
   - "The king of the elves"
 source_ids:
   vndb: "c87381"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c87381.webp"
 ---
 
-# 伊SH太R·伊
+# Ishtar I
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

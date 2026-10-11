@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c18190"
 type: "character"
-display_title: "真露V伊奈久露沙阿堂"
-title_zh: "真露V伊奈久露沙阿堂"
+display_title: "マルヴィナ・クルサード"
+title_zh: ""
 title_ja: "マルヴィナ・クルサード"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c18190"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Malvina Coulthard"
-  - "マルヴィナ・クルサード"
 source_ids:
   vndb: "c18190"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c18190.webp"
 ---
 
-# 真露V伊奈久露沙阿堂
+# マルヴィナ・クルサード
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

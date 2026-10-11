@@ -5,7 +5,10 @@ display_title: "黑泽石燕"
 title_zh: "黑泽石燕"
 title_ja: "黒澤 石燕"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c83061"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kurosawa Sekien"
   - "黒澤 石燕"

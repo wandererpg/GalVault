@@ -5,7 +5,10 @@ display_title: "万理"
 title_zh: "万理"
 title_ja: "万理"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c133205"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mari"
 source_ids:

@@ -5,7 +5,10 @@ display_title: "常见明子"
 title_zh: "常见明子"
 title_ja: "常見 明子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c131943"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsunemi Haruko"
   - "常見 明子"

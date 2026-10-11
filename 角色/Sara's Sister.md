@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c155761"
 type: "character"
-display_title: "咲来乃姉"
-title_zh: "咲来乃姉"
+display_title: "咲來の姉"
+title_zh: ""
 title_ja: "咲來の姉"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155761"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sara's Sister"
-  - "咲來の姉"
 source_ids:
   vndb: "c155761"
 source_urls:
   vndb: "https://vndb.org/c155761"
 ---
 
-# 咲来乃姉
+# 咲來の姉
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

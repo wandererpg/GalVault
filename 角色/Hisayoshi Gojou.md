@@ -5,7 +5,10 @@ display_title: "五条久良"
 title_zh: "五条久良"
 title_ja: "五條久良"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c161460"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hisayoshi Gojou"
   - "五條久良"

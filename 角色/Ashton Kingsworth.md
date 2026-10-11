@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c73525"
 type: "character"
-display_title: "阿修斗恩＝希恩古寿和阿寿"
-title_zh: "阿修斗恩＝希恩古寿和阿寿"
+display_title: "アシュトン＝キングスワース"
+title_zh: ""
 title_ja: "アシュトン＝キングスワース"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c73525"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ashton Kingsworth"
-  - "アシュトン＝キングスワース"
   - "Ash"
   - "アシュー"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c73525.webp"
 ---
 
-# 阿修斗恩＝希恩古寿和阿寿
+# アシュトン＝キングスワース
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

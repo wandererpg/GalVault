@@ -5,7 +5,10 @@ display_title: "浮木々猿吉"
 title_zh: "浮木々猿吉"
 title_ja: "浮木々 猿吉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c98113"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ukiki Saruyoshi"
   - "浮木々 猿吉"

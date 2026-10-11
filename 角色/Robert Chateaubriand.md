@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c124002"
 type: "character"
-display_title: "洛贝惠露夏斗奥布莉阿恩"
-title_zh: "洛贝惠露夏斗奥布莉阿恩"
+display_title: "ロベール・シャトーブリアン"
+title_zh: ""
 title_ja: "ロベール・シャトーブリアン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124002"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Robert Chateaubriand"
-  - "ロベール・シャトーブリアン"
 source_ids:
   vndb: "c124002"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c124002.webp"
 ---
 
-# 洛贝惠露夏斗奥布莉阿恩
+# ロベール・シャトーブリアン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

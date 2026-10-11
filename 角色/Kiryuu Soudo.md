@@ -5,7 +5,10 @@ display_title: "雾生双奴"
 title_zh: "雾生双奴"
 title_ja: "霧生 双奴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c163968"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kiryuu Soudo"
   - "霧生 双奴"

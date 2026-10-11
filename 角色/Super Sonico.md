@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c3643"
 type: "character"
-display_title: "寿乌帕阿索尼子"
-title_zh: "寿乌帕阿索尼子"
+display_title: "すーぱーそに子"
+title_zh: ""
 title_ja: "すーぱーそに子"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c3643"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Super Sonico"
-  - "すーぱーそに子"
   - "Sonico"
   - "Soniko"
   - "Nico-chan"
@@ -21,7 +23,7 @@ source_urls:
 portrait_image: "assets/characters/c3643.webp"
 ---
 
-# 寿乌帕阿索尼子
+# すーぱーそに子
 
 
 ## 角色画像

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c28148"
 type: "character"
-display_title: "尼伊奈久奥帕寿"
-title_zh: "尼伊奈久奥帕寿"
+display_title: "ニーナ・クオパス"
+title_zh: ""
 title_ja: "ニーナ・クオパス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c28148"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nina Kuopas"
-  - "ニーナ・クオパス"
 source_ids:
   vndb: "c28148"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c28148.webp"
 ---
 
-# 尼伊奈久奥帕寿
+# ニーナ・クオパス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

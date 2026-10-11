@@ -5,7 +5,10 @@ display_title: "右田日々姫"
 title_zh: "右田日々姫"
 title_ja: "右田 日々姫"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c39200"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Migita Hibiki"
   - "右田 日々姫"

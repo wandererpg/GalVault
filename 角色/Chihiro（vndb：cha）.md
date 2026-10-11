@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c25593"
 type: "character"
-display_title: "千日洛"
-title_zh: "千日洛"
+display_title: "チヒロ"
+title_zh: ""
 title_ja: "チヒロ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c25593"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chihiro"
-  - "チヒロ"
   - "Berry-chan"
   - "Hime"
   - "Princess"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c25593.webp"
 ---
 
-# 千日洛
+# チヒロ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

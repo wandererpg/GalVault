@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c51404"
 type: "character"
-display_title: "南条阿莉寿"
-title_zh: "南条阿莉寿"
+display_title: "南条 ありす"
+title_zh: ""
 title_ja: "南条 ありす"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c51404"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nanjou Arisu"
-  - "南条 ありす"
   - "Nanjou Alice"
 source_ids:
   vndb: "c51404"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c51404.webp"
 ---
 
-# 南条阿莉寿
+# 南条 ありす
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

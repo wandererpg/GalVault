@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127235"
 type: "character"
-display_title: "寿拉伊梦贝寿娘"
-title_zh: "寿拉伊梦贝寿娘"
+display_title: "スライムベス娘"
+title_zh: ""
 title_ja: "スライムベス娘"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127235"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Slime Bess"
-  - "スライムベス娘"
   - "Bess"
 source_ids:
   vndb: "c127235"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c127235.webp"
 ---
 
-# 寿拉伊梦贝寿娘
+# スライムベス娘
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

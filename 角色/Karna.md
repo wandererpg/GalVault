@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13963"
 type: "character"
-display_title: "加露奈"
-title_zh: "加露奈"
+display_title: "カルナ"
+title_zh: ""
 title_ja: "カルナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13963"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Karna"
-  - "カルナ"
 source_ids:
   vndb: "c13963"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c13963.webp"
 ---
 
-# 加露奈
+# カルナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

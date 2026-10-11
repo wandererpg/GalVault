@@ -5,7 +5,10 @@ display_title: "弥坂奏壹"
 title_zh: "弥坂奏壹"
 title_ja: "弥坂 奏壱"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c146090"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yasaka Soichi"
   - "弥坂 奏壱"

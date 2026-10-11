@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c32583"
 type: "character"
-display_title: "藤枝音莉"
-title_zh: "藤枝音莉"
+display_title: "藤枝 ネリ"
+title_zh: ""
 title_ja: "藤枝 ネリ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c32583"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Fujieda Neri"
-  - "藤枝 ネリ"
 source_ids:
   vndb: "c32583"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c32583.webp"
 ---
 
-# 藤枝音莉
+# 藤枝 ネリ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

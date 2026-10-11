@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c127213"
 type: "character"
-display_title: "加太莉伊奈D伊伊格露真恩"
-title_zh: "加太莉伊奈D伊伊格露真恩"
+display_title: "カタリーナ・ディーゲルマン"
+title_zh: ""
 title_ja: "カタリーナ・ディーゲルマン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127213"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Catalina Diegelmann"
-  - "カタリーナ・ディーゲルマン"
 source_ids:
   vndb: "c127213"
 source_urls:
   vndb: "https://vndb.org/c127213"
 ---
 
-# 加太莉伊奈D伊伊格露真恩
+# カタリーナ・ディーゲルマン
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

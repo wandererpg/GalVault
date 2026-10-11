@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c3891"
 type: "character"
-display_title: "V惠露=濑伊恩"
-title_zh: "V惠露=濑伊恩"
+display_title: "ヴェル=セイン"
+title_zh: ""
 title_ja: "ヴェル=セイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c3891"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Vell Sain"
-  - "ヴェル=セイン"
   - "Hime-san"
   - "The Black Wings of the Demon Realm"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c3891.webp"
 ---
 
-# V惠露=濑伊恩
+# ヴェル=セイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

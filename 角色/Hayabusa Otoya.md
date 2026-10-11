@@ -5,7 +5,10 @@ display_title: "隼乙矢"
 title_zh: "隼乙矢"
 title_ja: "隼 乙矢"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21328"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hayabusa Otoya"
   - "隼 乙矢"

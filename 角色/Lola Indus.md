@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c36799"
 type: "character"
-display_title: "洛奥拉伊恩达寿"
-title_zh: "洛奥拉伊恩达寿"
+display_title: "ローラ・インダス"
+title_zh: ""
 title_ja: "ローラ・インダス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c36799"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lola Indus"
-  - "ローラ・インダス"
 source_ids:
   vndb: "c36799"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c36799.webp"
 ---
 
-# 洛奥拉伊恩达寿
+# ローラ・インダス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "水野"
 title_zh: "水野"
 title_ja: "水野"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c94668"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mizuno"
   - "桐きり原はら 望"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c89043"
 type: "character"
-display_title: "星乃阿雅芽"
-title_zh: "星乃阿雅芽"
+display_title: "星乃 あやめ"
+title_zh: ""
 title_ja: "星乃 あやめ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c89043"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hoshino Ayame"
-  - "星乃 あやめ"
 source_ids:
   vndb: "c89043"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c89043.webp"
 ---
 
-# 星乃阿雅芽
+# 星乃 あやめ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

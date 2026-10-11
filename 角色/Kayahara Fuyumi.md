@@ -5,7 +5,10 @@ display_title: "茅原冬见"
 title_zh: "茅原冬见"
 title_ja: "茅原 冬見"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c11392"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kayahara Fuyumi"
   - "茅原 冬見"

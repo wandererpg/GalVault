@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43125"
 type: "character"
-display_title: "羽阿皮伊"
-title_zh: "羽阿皮伊"
+display_title: "ハーピー"
+title_zh: ""
 title_ja: "ハーピー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43125"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Harpy"
-  - "ハーピー"
 source_ids:
   vndb: "c43125"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43125.webp"
 ---
 
-# 羽阿皮伊
+# ハーピー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

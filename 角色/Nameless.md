@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c51655"
 type: "character"
-display_title: "奈芽L惠SS"
-title_zh: "奈芽L惠SS"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Nameless"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c51655"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Nameless"
   - "???"
 source_ids:
   vndb: "c51655"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c51655.webp"
 ---
 
-# 奈芽L惠SS
+# Nameless
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

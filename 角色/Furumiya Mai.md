@@ -5,7 +5,10 @@ display_title: "古宫舞"
 title_zh: "古宫舞"
 title_ja: "古宮 舞"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c7247"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Furumiya Mai"
   - "古宮 舞"

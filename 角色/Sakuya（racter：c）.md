@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c72810"
 type: "character"
-display_title: "沙久雅"
-title_zh: "沙久雅"
+display_title: "サクヤ"
+title_zh: ""
 title_ja: "サクヤ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c72810"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sakuya"
-  - "サクヤ"
 source_ids:
   vndb: "c72810"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c72810.webp"
 ---
 
-# 沙久雅
+# サクヤ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

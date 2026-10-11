@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34717"
 type: "character"
-display_title: "吉伊久莉恩德惠惠贝露V阿伊恩"
-title_zh: "吉伊久莉恩德惠惠贝露V阿伊恩"
+display_title: "ジークリンデ・エーベルヴァイン"
+title_zh: ""
 title_ja: "ジークリンデ・エーベルヴァイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34717"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sieglinde Eberwein"
-  - "ジークリンデ・エーベルヴァイン"
 source_ids:
   vndb: "c34717"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c34717.webp"
 ---
 
-# 吉伊久莉恩德惠惠贝露V阿伊恩
+# ジークリンデ・エーベルヴァイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

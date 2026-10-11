@@ -5,7 +5,10 @@ display_title: "久野里澪"
 title_zh: "久野里澪"
 title_ja: "久野里 澪"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c26322"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kunosato Mio"
   - "久野里 澪"

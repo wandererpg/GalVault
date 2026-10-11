@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c136145"
 type: "character"
-display_title: "D伊RK·ST莉德R"
-title_zh: "D伊RK·ST莉德R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Dirk Strider"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136145"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Dirk Strider"
   - "Di-Stri"
   - "timaeusTestified"
   - "Prince of Heart"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c136145.webp"
 ---
 
-# D伊RK·ST莉德R
+# Dirk Strider
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

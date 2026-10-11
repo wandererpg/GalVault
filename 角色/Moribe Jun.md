@@ -5,7 +5,10 @@ display_title: "守部洵"
 title_zh: "守部洵"
 title_ja: "守部 洵"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14558"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Moribe Jun"
   - "守部 洵"

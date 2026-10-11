@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8284"
 type: "character"
-display_title: "乌惠露兹"
-title_zh: "乌惠露兹"
+display_title: "ウェルズ"
+title_zh: ""
 title_ja: "ウェルズ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8284"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Wells"
-  - "ウェルズ"
   - "ウェルズ・ボロンテ"
   - "Wells Bronte"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c8284.webp"
 ---
 
-# 乌惠露兹
+# ウェルズ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

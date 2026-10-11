@@ -5,7 +5,10 @@ display_title: "泽村夕纪"
 title_zh: "泽村夕纪"
 title_ja: "澤村 夕紀"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c8605"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sawamura Yuki"
   - "澤村 夕紀"

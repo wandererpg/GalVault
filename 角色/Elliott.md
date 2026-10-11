@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c118621"
 type: "character"
-display_title: "惠莉奥T斗"
-title_zh: "惠莉奥T斗"
+display_title: "エリオット"
+title_zh: ""
 title_ja: "エリオット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c118621"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Elliott"
-  - "エリオット"
 source_ids:
   vndb: "c118621"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c118621.webp"
 ---
 
-# 惠莉奥T斗
+# エリオット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

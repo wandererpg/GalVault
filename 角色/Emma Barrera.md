@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c89294"
 type: "character"
-display_title: "惠M真·巴R蕾拉"
-title_zh: "惠M真·巴R蕾拉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Emma Barrera"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c89294"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Emma Barrera"
 source_ids:
   vndb: "c89294"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c89294.webp"
 ---
 
-# 惠M真·巴R蕾拉
+# Emma Barrera
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

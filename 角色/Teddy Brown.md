@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c124659"
 type: "character"
-display_title: "特D伊布拉乌恩"
-title_zh: "特D伊布拉乌恩"
+display_title: "テディ・ブラウン"
+title_zh: ""
 title_ja: "テディ・ブラウン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124659"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Teddy Brown"
-  - "テディ・ブラウン"
 source_ids:
   vndb: "c124659"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c124659.webp"
 ---
 
-# 特D伊布拉乌恩
+# テディ・ブラウン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

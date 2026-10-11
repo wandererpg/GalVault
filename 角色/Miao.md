@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c118640"
 type: "character"
-display_title: "米娅奥"
-title_zh: "米娅奥"
+display_title: "ミャオ"
+title_zh: ""
 title_ja: "ミャオ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c118640"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Miao"
-  - "ミャオ"
 source_ids:
   vndb: "c118640"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c118640.webp"
 ---
 
-# 米娅奥
+# ミャオ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

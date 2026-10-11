@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c653"
 type: "character"
-display_title: "姫萩羽露奈"
-title_zh: "姫萩羽露奈"
+display_title: "姫萩 はるな"
+title_zh: ""
 title_ja: "姫萩 はるな"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c653"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Himehagi Haruna"
-  - "姫萩 はるな"
 source_ids:
   vndb: "c653"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c653.webp"
 ---
 
-# 姫萩羽露奈
+# 姫萩 はるな
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

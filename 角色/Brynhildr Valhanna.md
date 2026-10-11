@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c116235"
 type: "character"
-display_title: "布龙恩日露堂V阿露羽恩奈"
-title_zh: "布龙恩日露堂V阿露羽恩奈"
+display_title: "ブリュンヒルド・ヴァルハンナ"
+title_zh: ""
 title_ja: "ブリュンヒルド・ヴァルハンナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116235"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Brynhildr Valhanna"
-  - "ブリュンヒルド・ヴァルハンナ"
 source_ids:
   vndb: "c116235"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c116235.webp"
 ---
 
-# 布龙恩日露堂V阿露羽恩奈
+# ブリュンヒルド・ヴァルハンナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

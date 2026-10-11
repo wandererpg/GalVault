@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c5291"
 type: "character"
-display_title: "真加洛恩"
-title_zh: "真加洛恩"
+display_title: "マカロン"
+title_zh: ""
 title_ja: "マカロン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c5291"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Macaroon"
-  - "マカロン"
   - "チビスケ"
   - "Chibisuke"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c5291.webp"
 ---
 
-# 真加洛恩
+# マカロン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

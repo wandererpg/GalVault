@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c80193"
 type: "character"
-display_title: "C阿美L阿"
-title_zh: "C阿美L阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Camila"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c80193"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Camila"
   - "Cammy"
 source_ids:
   vndb: "c80193"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c80193.webp"
 ---
 
-# C阿美L阿
+# Camila
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

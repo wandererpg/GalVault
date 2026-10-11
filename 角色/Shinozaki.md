@@ -5,7 +5,10 @@ display_title: "筿崎"
 title_zh: "筿崎"
 title_ja: "篠崎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c73028"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shinozaki"
   - "篠崎"

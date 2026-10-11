@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c139763"
 type: "character"
-display_title: "卡莲·丽贝卡·乔H恩索恩"
-title_zh: "卡莲·丽贝卡·乔H恩索恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Karen Rebecca Johnson"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c139763"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Karen Rebecca Johnson"
   - "KRJ"
 source_ids:
   vndb: "c139763"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c139763.webp"
 ---
 
-# 卡莲·丽贝卡·乔H恩索恩
+# Karen Rebecca Johnson
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c100154"
 type: "character"
-display_title: "奈美·CY露S"
-title_zh: "奈美·CY露S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Nami Cyrus"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c100154"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Nami Cyrus"
   - "Cheeto, Phoenix Nami"
 source_ids:
   vndb: "c100154"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c100154.webp"
 ---
 
-# 奈美·CY露S
+# Nami Cyrus
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

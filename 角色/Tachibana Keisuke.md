@@ -5,7 +5,10 @@ display_title: "橘敬介"
 title_zh: "橘敬介"
 title_ja: "橘 敬介"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9997"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tachibana Keisuke"
   - "橘 敬介"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c10978"
 type: "character"
-display_title: "美希·美乌拉"
-title_zh: "美希·美乌拉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Miki Miura"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10978"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Miki Miura"
 source_ids:
   vndb: "c10978"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c10978.webp"
 ---
 
-# 美希·美乌拉
+# Miki Miura
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

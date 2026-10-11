@@ -5,7 +5,10 @@ display_title: "苍月卫人"
 title_zh: "苍月卫人"
 title_ja: "蒼月 衛人"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c150821"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Aotsuki Eito"
   - "蒼月 衛人"

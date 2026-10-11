@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c134180"
 type: "character"
-display_title: "拉久修"
-title_zh: "拉久修"
+display_title: "ラクシュ"
+title_zh: ""
 title_ja: "ラクシュ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c134180"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Laksh"
-  - "ラクシュ"
 source_ids:
   vndb: "c134180"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c134180.webp"
 ---
 
-# 拉久修
+# ラクシュ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

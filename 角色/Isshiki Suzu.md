@@ -5,7 +5,10 @@ display_title: "一色铃"
 title_zh: "一色铃"
 title_ja: "一色 鈴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c85108"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Isshiki Suzu"
   - "一色 鈴"

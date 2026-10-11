@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159837"
 type: "character"
-display_title: "寿R·LYS伊阿"
-title_zh: "寿R·LYS伊阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Sœur Lysia"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159837"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Sœur Lysia"
 source_ids:
   vndb: "c159837"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c159837.webp"
 ---
 
-# 寿R·LYS伊阿
+# Sœur Lysia
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

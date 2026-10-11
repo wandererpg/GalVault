@@ -5,7 +5,10 @@ display_title: "吉良希"
 title_zh: "吉良希"
 title_ja: "吉良　希"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c47894"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kira Nozomi"
   - "吉良　希"

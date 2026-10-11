@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c97999"
 type: "character"
-display_title: "美音巴真阿雅蕾T斗"
-title_zh: "美音巴真阿雅蕾T斗"
+display_title: "ミネバ・マーガレット"
+title_zh: ""
 title_ja: "ミネバ・マーガレット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97999"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mineva Margaret"
-  - "ミネバ・マーガレット"
 source_ids:
   vndb: "c97999"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c97999.webp"
 ---
 
-# 美音巴真阿雅蕾T斗
+# ミネバ・マーガレット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

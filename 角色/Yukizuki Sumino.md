@@ -5,7 +5,10 @@ display_title: "雪月澄乃"
 title_zh: "雪月澄乃"
 title_ja: "雪月 澄乃"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10470"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yukizuki Sumino"
   - "雪月 澄乃"

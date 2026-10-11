@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c149049"
 type: "character"
-display_title: "阿S惠R·D伊奥SC乌莉"
-title_zh: "阿S惠R·D伊奥SC乌莉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Asher Dioscuri"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149049"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Asher Dioscuri"
 source_ids:
   vndb: "c149049"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c149049.webp"
 ---
 
-# 阿S惠R·D伊奥SC乌莉
+# Asher Dioscuri
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c77109"
 type: "character"
-display_title: "泽洛·SR"
-title_zh: "泽洛·SR"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Zero Sr."
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c77109"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Zero Sr."
 source_ids:
   vndb: "c77109"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c77109.webp"
 ---
 
-# 泽洛·SR
+# Zero Sr.
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c97145"
 type: "character"
-display_title: "蕾莫奈"
-title_zh: "蕾莫奈"
+display_title: "レモナ"
+title_zh: ""
 title_ja: "レモナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97145"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lemona"
-  - "レモナ"
 source_ids:
   vndb: "c97145"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c97145.webp"
 ---
 
-# 蕾莫奈
+# レモナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

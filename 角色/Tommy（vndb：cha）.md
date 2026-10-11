@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c150143"
 type: "character"
-display_title: "斗MMY"
-title_zh: "斗MMY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Tommy"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c150143"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Tommy"
 source_ids:
   vndb: "c150143"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c150143.webp"
 ---
 
-# 斗MMY
+# Tommy
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

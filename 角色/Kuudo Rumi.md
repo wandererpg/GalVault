@@ -5,7 +5,10 @@ display_title: "工藤留美"
 title_zh: "工藤留美"
 title_ja: "工藤 留美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c129766"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kuudo Rumi"
   - "工藤 留美"

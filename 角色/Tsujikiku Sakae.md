@@ -5,7 +5,10 @@ display_title: "辻菊荣"
 title_zh: "辻菊荣"
 title_ja: "辻菊 栄"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c131948"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsujikiku Sakae"
   - "辻菊 栄"

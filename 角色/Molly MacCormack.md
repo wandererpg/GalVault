@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c93230"
 type: "character"
-display_title: "莫LLY·真CC奥R真CK"
-title_zh: "莫LLY·真CC奥R真CK"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Molly MacCormack"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c93230"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Molly MacCormack"
   - "Moyra"
   - "Gem of the Emerald Isle"
   - "Emerald Guardian of the Crystal Forest"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c93230.webp"
 ---
 
-# 莫LLY·真CC奥R真CK
+# Molly MacCormack
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

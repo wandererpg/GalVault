@@ -5,7 +5,10 @@ display_title: "御堂宁々"
 title_zh: "御堂宁々"
 title_ja: "御堂 寧々"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43847"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Midou Nene"
   - "御堂 寧々"

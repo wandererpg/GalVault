@@ -5,7 +5,10 @@ display_title: "速水龙生"
 title_zh: "速水龙生"
 title_ja: "速水 竜生"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c71330"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hayami Tatsuki"
   - "速水 竜生"

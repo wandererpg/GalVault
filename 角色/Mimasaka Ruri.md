@@ -5,7 +5,10 @@ display_title: "美作瑠璃"
 title_zh: "美作瑠璃"
 title_ja: "美作 瑠璃"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c18188"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mimasaka Ruri"
   - "美作 瑠璃"

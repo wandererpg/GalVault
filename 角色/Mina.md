@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98449"
 type: "character"
-display_title: "美伊奈"
-title_zh: "美伊奈"
+display_title: "みーな"
+title_zh: ""
 title_ja: "みーな"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98449"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mina"
-  - "みーな"
   - "Cinderella Maid"
 source_ids:
   vndb: "c98449"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c98449.webp"
 ---
 
-# 美伊奈
+# みーな
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

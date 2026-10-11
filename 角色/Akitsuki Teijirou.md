@@ -5,7 +5,10 @@ display_title: "秋月悌次郎"
 title_zh: "秋月悌次郎"
 title_ja: "秋月 悌次郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c63374"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Akitsuki Teijirou"
   - "秋月 悌次郎"

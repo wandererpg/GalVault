@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c143500"
 type: "character"
-display_title: "J惠恩T惠"
-title_zh: "J惠恩T惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jenthe"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c143500"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jenthe"
 source_ids:
   vndb: "c143500"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c143500.webp"
 ---
 
-# J惠恩T惠
+# Jenthe
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c118026"
 type: "character"
-display_title: "阿尼真"
-title_zh: "阿尼真"
+display_title: "アニマ"
+title_zh: ""
 title_ja: "アニマ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c118026"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Anima"
-  - "アニマ"
   - "榊 美奈"
   - "Sakaki Mina"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c118026.webp"
 ---
 
-# 阿尼真
+# アニマ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

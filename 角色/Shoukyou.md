@@ -5,7 +5,10 @@ display_title: "小乔"
 title_zh: "小乔"
 title_ja: "小喬"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c50536"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shoukyou"
   - "小喬"

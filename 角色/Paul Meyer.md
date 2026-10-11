@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c59759"
 type: "character"
-display_title: "帕乌露真伊雅阿"
-title_zh: "帕乌露真伊雅阿"
+display_title: "パウル・マイヤー"
+title_zh: ""
 title_ja: "パウル・マイヤー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c59759"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Paul Meyer"
-  - "パウル・マイヤー"
 source_ids:
   vndb: "c59759"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c59759.webp"
 ---
 
-# 帕乌露真伊雅阿
+# パウル・マイヤー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

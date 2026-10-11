@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c5244"
 type: "character"
-display_title: "阿兹真夜"
-title_zh: "阿兹真夜"
+display_title: "あずま 夜"
+title_zh: ""
 title_ja: "あずま 夜"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c5244"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Azuma Yoru"
-  - "あずま 夜"
   - "Yocchan"
   - "呪いの姫"
   - "Curse Princess"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c5244.webp"
 ---
 
-# 阿兹真夜
+# あずま 夜
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

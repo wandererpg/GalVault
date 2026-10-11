@@ -5,7 +5,10 @@ display_title: "御所院冬桦"
 title_zh: "御所院冬桦"
 title_ja: "御所院 冬樺"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c136805"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Goshoin Touka"
   - "御所院 冬樺"

@@ -5,7 +5,10 @@ display_title: "长野业正"
 title_zh: "长野业正"
 title_ja: "長野 業正"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c49205"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nagano Narimasa"
   - "長野 業正"

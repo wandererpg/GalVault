@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c164945"
 type: "character"
-display_title: "嘉K久乔奥恩兹"
-title_zh: "嘉K久乔奥恩兹"
+display_title: "ジャック・ジョーンズ"
+title_zh: ""
 title_ja: "ジャック・ジョーンズ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c164945"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jack Jones"
-  - "ジャック・ジョーンズ"
 source_ids:
   vndb: "c164945"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c164945.webp"
 ---
 
-# 嘉K久乔奥恩兹
+# ジャック・ジョーンズ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

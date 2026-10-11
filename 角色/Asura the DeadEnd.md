@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c45831"
 type: "character"
-display_title: "阿寿拉扎德D堂惠恩堂"
-title_zh: "阿寿拉扎德D堂惠恩堂"
+display_title: "アスラ・ザ・デッドエンド"
+title_zh: ""
 title_ja: "アスラ・ザ・デッドエンド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c45831"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Asura the DeadEnd"
-  - "アスラ・ザ・デッドエンド"
   - "Strayed"
   - "色即絶空"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c45831.webp"
 ---
 
-# 阿寿拉扎德D堂惠恩堂
+# アスラ・ザ・デッドエンド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8405"
 type: "character"
-display_title: "德莉穗乌拉伊"
-title_zh: "德莉穗乌拉伊"
+display_title: "デリホウライ"
+title_zh: ""
 title_ja: "デリホウライ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8405"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Derihourai"
-  - "デリホウライ"
 source_ids:
   vndb: "c8405"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c8405.webp"
 ---
 
-# 德莉穗乌拉伊
+# デリホウライ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

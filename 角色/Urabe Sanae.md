@@ -5,7 +5,10 @@ display_title: "占部沙奈绘"
 title_zh: "占部沙奈绘"
 title_ja: "占部 沙奈絵"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c11306"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Urabe Sanae"
   - "占部 沙奈絵"

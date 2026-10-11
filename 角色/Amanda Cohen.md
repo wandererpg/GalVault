@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c109719"
 type: "character"
-display_title: "阿真恩达·C奥惠恩"
-title_zh: "阿真恩达·C奥惠恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Amanda Cohen"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c109719"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Amanda Cohen"
   - "Peanut"
 source_ids:
   vndb: "c109719"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c109719.webp"
 ---
 
-# 阿真恩达·C奥惠恩
+# Amanda Cohen
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

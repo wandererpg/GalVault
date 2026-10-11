@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c32476"
 type: "character"
-display_title: "子乃惠＝阿＝真阿久莉伊"
-title_zh: "子乃惠＝阿＝真阿久莉伊"
+display_title: "コノエ＝A＝マーキュリー"
+title_zh: ""
 title_ja: "コノエ＝A＝マーキュリー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c32476"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Konoe A. Mercury"
-  - "コノエ＝A＝マーキュリー"
   - "Nine"
   - "Great Magister Nine"
   - "Great Mage Nine"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c32476.webp"
 ---
 
-# 子乃惠＝阿＝真阿久莉伊
+# コノエ＝A＝マーキュリー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

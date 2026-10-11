@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71183"
 type: "character"
-display_title: "加美拉"
-title_zh: "加美拉"
+display_title: "カミラ"
+title_zh: ""
 title_ja: "カミラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71183"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kamilla"
-  - "カミラ"
 source_ids:
   vndb: "c71183"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71183.webp"
 ---
 
-# 加美拉
+# カミラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

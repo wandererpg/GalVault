@@ -5,7 +5,10 @@ display_title: "近衞基熙"
 title_zh: "近衞基熙"
 title_ja: "近衞 基熙"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c66719"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Konoe Motohiro"
   - "近衞 基熙"

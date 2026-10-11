@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8834"
 type: "character"
-display_title: "V阿伊恩"
-title_zh: "V阿伊恩"
+display_title: "ヴァイン"
+title_zh: ""
 title_ja: "ヴァイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8834"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Wein"
-  - "ヴァイン"
 source_ids:
   vndb: "c8834"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c8834.webp"
 ---
 
-# V阿伊恩
+# ヴァイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

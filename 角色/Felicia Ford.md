@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c112177"
 type: "character"
-display_title: "F惠L伊C伊阿·F奥RD"
-title_zh: "F惠L伊C伊阿·F奥RD"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Felicia Ford"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c112177"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Felicia Ford"
 source_ids:
   vndb: "c112177"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c112177.webp"
 ---
 
-# F惠L伊C伊阿·F奥RD
+# Felicia Ford
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

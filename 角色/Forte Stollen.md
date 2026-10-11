@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c822"
 type: "character"
-display_title: "F奥露特修斗奥蕾恩"
-title_zh: "F奥露特修斗奥蕾恩"
+display_title: "フォルテ・シュトーレン"
+title_zh: ""
 title_ja: "フォルテ・シュトーレン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c822"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Forte Stollen"
-  - "フォルテ・シュトーレン"
 source_ids:
   vndb: "c822"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c822.webp"
 ---
 
-# F奥露特修斗奥蕾恩
+# フォルテ・シュトーレン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c156585"
 type: "character"
-display_title: "莫绪P皮伊"
-title_zh: "莫绪P皮伊"
+display_title: "モチョッピィ"
+title_zh: ""
 title_ja: "モチョッピィ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c156585"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mochoppy"
-  - "モチョッピィ"
   - "佐藤"
   - "Satou"
 source_ids:
@@ -17,7 +19,7 @@ source_urls:
   vndb: "https://vndb.org/c156585"
 ---
 
-# 莫绪P皮伊
+# モチョッピィ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c35980"
 type: "character"
-display_title: "乌沙子"
-title_zh: "乌沙子"
+display_title: "ウサ子"
+title_zh: ""
 title_ja: "ウサ子"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c35980"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Usako"
-  - "ウサ子"
 source_ids:
   vndb: "c35980"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c35980.webp"
 ---
 
-# 乌沙子
+# ウサ子
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

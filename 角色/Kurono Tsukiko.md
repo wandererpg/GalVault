@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87517"
 type: "character"
-display_title: "黑野津希子"
-title_zh: "黑野津希子"
+display_title: "黒野 つきこ"
+title_zh: ""
 title_ja: "黒野 つきこ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87517"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kurono Tsukiko"
-  - "黒野 つきこ"
 source_ids:
   vndb: "c87517"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c87517.webp"
 ---
 
-# 黑野津希子
+# 黒野 つきこ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "五十岚伊吹"
 title_zh: "五十岚伊吹"
 title_ja: "五十嵐 伊吹"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c121608"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Igarashi Ibuki"
   - "五十嵐 伊吹"

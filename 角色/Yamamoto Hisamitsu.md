@@ -5,7 +5,10 @@ display_title: "山本玖光"
 title_zh: "山本玖光"
 title_ja: "山本 玖光"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c92325"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yamamoto Hisamitsu"
   - "山本 玖光"

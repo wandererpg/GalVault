@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c171032"
 type: "character"
-display_title: "优乌蕾恩"
-title_zh: "优乌蕾恩"
+display_title: "ユーレン"
+title_zh: ""
 title_ja: "ユーレン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c171032"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Euren"
-  - "ユーレン"
 source_ids:
   vndb: "c171032"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c171032.webp"
 ---
 
-# 优乌蕾恩
+# ユーレン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

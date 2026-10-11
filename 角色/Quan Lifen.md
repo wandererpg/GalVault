@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71141"
 type: "character"
-display_title: "久奥恩＝莉伊F惠恩"
-title_zh: "久奥恩＝莉伊F惠恩"
+display_title: "クォン＝リーフェン"
+title_zh: ""
 title_ja: "クォン＝リーフェン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71141"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Quan Lifen"
-  - "クォン＝リーフェン"
 source_ids:
   vndb: "c71141"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71141.webp"
 ---
 
-# 久奥恩＝莉伊F惠恩
+# クォン＝リーフェン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

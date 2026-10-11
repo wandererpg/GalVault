@@ -5,7 +5,10 @@ display_title: "天草十三"
 title_zh: "天草十三"
 title_ja: "天草 十三"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c15875"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Amakusa Juuza"
   - "天草 十三"

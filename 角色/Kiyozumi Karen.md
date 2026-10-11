@@ -5,7 +5,10 @@ display_title: "清澄姫恋"
 title_zh: "清澄姫恋"
 title_ja: "清澄 姫恋"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c99423"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kiyozumi Karen"
   - "清澄 姫恋"

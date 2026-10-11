@@ -5,7 +5,10 @@ display_title: "由高鸟子"
 title_zh: "由高鸟子"
 title_ja: "由高 鳥子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c7482"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yutaka Toriko"
   - "由高 鳥子"

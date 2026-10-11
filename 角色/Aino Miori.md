@@ -5,7 +5,10 @@ display_title: "蓝野深织"
 title_zh: "蓝野深织"
 title_ja: "藍野 深織"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c76318"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Aino Miori"
   - "藍野 深織"

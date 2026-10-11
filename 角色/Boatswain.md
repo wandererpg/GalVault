@@ -5,7 +5,10 @@ display_title: "水夫长"
 title_zh: "水夫长"
 title_ja: "水夫長"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c42856"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Boatswain"
   - "水夫長"

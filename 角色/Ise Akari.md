@@ -5,7 +5,10 @@ display_title: "伊势朱莉"
 title_zh: "伊势朱莉"
 title_ja: "伊勢 朱莉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c83574"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ise Akari"
   - "伊勢 朱莉"

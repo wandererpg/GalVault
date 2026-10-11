@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10550"
 type: "character"
-display_title: "久蕾惠露"
-title_zh: "久蕾惠露"
+display_title: "クレール"
+title_zh: ""
 title_ja: "クレール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10550"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Crayl"
-  - "クレール"
 source_ids:
   vndb: "c10550"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c10550.webp"
 ---
 
-# 久蕾惠露
+# クレール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

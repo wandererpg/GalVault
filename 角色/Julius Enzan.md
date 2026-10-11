@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10122"
 type: "character"
-display_title: "优莉乌寿猿山"
-title_zh: "优莉乌寿猿山"
+display_title: "ユリウス 猿山"
+title_zh: ""
 title_ja: "ユリウス 猿山"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10122"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Julius Enzan"
-  - "ユリウス 猿山"
 source_ids:
   vndb: "c10122"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c10122.webp"
 ---
 
-# 优莉乌寿猿山
+# ユリウス 猿山
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

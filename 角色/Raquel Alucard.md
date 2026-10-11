@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c48038"
 type: "character"
-display_title: "拉惠露=阿露加阿堂"
-title_zh: "拉惠露=阿露加阿堂"
+display_title: "ラケル=アルカード"
+title_zh: ""
 title_ja: "ラケル=アルカード"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c48038"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Raquel Alucard"
-  - "ラケル=アルカード"
 source_ids:
   vndb: "c48038"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c48038.webp"
 ---
 
-# 拉惠露=阿露加阿堂
+# ラケル=アルカード
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

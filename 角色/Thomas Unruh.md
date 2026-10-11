@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c161675"
 type: "character"
-display_title: "斗奥真寿阿恩露乌"
-title_zh: "斗奥真寿阿恩露乌"
+display_title: "トーマス・アンルー"
+title_zh: ""
 title_ja: "トーマス・アンルー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161675"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Thomas Unruh"
-  - "トーマス・アンルー"
 source_ids:
   vndb: "c161675"
 source_urls:
   vndb: "https://vndb.org/c161675"
 ---
 
-# 斗奥真寿阿恩露乌
+# トーマス・アンルー
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

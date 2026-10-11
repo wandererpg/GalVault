@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c116400"
 type: "character"
-display_title: "惠拉莉伊巴阿恩兹"
-title_zh: "惠拉莉伊巴阿恩兹"
+display_title: "エラリィ・バーンズ"
+title_zh: ""
 title_ja: "エラリィ・バーンズ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116400"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Eralee Barnes"
-  - "エラリィ・バーンズ"
 source_ids:
   vndb: "c116400"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c116400.webp"
 ---
 
-# 惠拉莉伊巴阿恩兹
+# エラリィ・バーンズ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "平野国臣"
 title_zh: "平野国臣"
 title_ja: "平野 国臣"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c64157"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hirano Kuniomi"
   - "平野 国臣"

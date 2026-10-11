@@ -5,7 +5,10 @@ display_title: "九鬼局"
 title_zh: "九鬼局"
 title_ja: "九鬼 局"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9892"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kuki Tsubone"
   - "九鬼 局"

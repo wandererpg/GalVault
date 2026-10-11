@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10942"
 type: "character"
-display_title: "巴久诗伊久莉寿特恩濑恩"
-title_zh: "巴久诗伊久莉寿特恩濑恩"
+display_title: "バクシー・クリステンセン"
+title_zh: ""
 title_ja: "バクシー・クリステンセン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10942"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Bakshi Christensen"
-  - "バクシー・クリステンセン"
 source_ids:
   vndb: "c10942"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c10942.webp"
 ---
 
-# 巴久诗伊久莉寿特恩濑恩
+# バクシー・クリステンセン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

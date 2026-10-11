@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c57899"
 type: "character"
-display_title: "达尼惠露雅露诗阿"
-title_zh: "达尼惠露雅露诗阿"
+display_title: "ダニエル・ガルシア"
+title_zh: ""
 title_ja: "ダニエル・ガルシア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c57899"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Daniel Garcia"
-  - "ダニエル・ガルシア"
   - "Danny"
 source_ids:
   vndb: "c57899"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c57899.webp"
 ---
 
-# 达尼惠露雅露诗阿
+# ダニエル・ガルシア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

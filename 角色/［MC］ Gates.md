@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c155396"
 type: "character"
-display_title: "MC·雅特S"
-title_zh: "MC·雅特S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "[MC] Gates"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155396"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "[MC] Gates"
   - "Jon"
   - "Mr. Wellhung"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c155396.webp"
 ---
 
-# MC·雅特S
+# [MC] Gates
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

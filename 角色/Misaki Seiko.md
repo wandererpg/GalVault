@@ -5,7 +5,10 @@ display_title: "美咲圣子"
 title_zh: "美咲圣子"
 title_ja: "美咲 聖子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c87111"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Misaki Seiko"
   - "美咲 聖子"

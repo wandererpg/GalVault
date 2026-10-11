@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c55450"
 type: "character"
-display_title: "F伊阿"
-title_zh: "F伊阿"
+display_title: "フィア"
+title_zh: ""
 title_ja: "フィア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c55450"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Fia"
-  - "フィア"
   - "Kami-sama"
   - "神様"
   - "神さま (Iol)"
@@ -23,7 +25,7 @@ source_urls:
 portrait_image: "assets/characters/c55450.webp"
 ---
 
-# F伊阿
+# フィア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

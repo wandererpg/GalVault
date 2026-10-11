@@ -5,7 +5,10 @@ display_title: "女王虫"
 title_zh: "女王虫"
 title_ja: "女王蟲"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c134195"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Insect Queen"
   - "女王蟲"

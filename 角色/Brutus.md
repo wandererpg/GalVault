@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159839"
 type: "character"
-display_title: "B露T乌S"
-title_zh: "B露T乌S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Brutus"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159839"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Brutus"
 source_ids:
   vndb: "c159839"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c159839.webp"
 ---
 
-# B露T乌S
+# Brutus
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

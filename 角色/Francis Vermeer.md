@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c143510"
 type: "character"
-display_title: "弗朗西斯·V惠R芽惠R"
-title_zh: "弗朗西斯·V惠R芽惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Francis Vermeer"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c143510"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Francis Vermeer"
   - "Mayor's wife"
 source_ids:
   vndb: "c143510"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c143510.webp"
 ---
 
-# 弗朗西斯·V惠R芽惠R
+# Francis Vermeer
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "沙雾尚哉"
 title_zh: "沙雾尚哉"
 title_ja: "沙霧 尚哉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c180"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sagiri Naoya"
   - "沙霧 尚哉"

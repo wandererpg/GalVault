@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159510"
 type: "character"
-display_title: "J惠恩尼F惠R·W蕾恩"
-title_zh: "J惠恩尼F惠R·W蕾恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jennifer Wren"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159510"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jennifer Wren"
 source_ids:
   vndb: "c159510"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c159510.webp"
 ---
 
-# J惠恩尼F惠R·W蕾恩
+# Jennifer Wren
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

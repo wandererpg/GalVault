@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c541"
 type: "character"
-display_title: "露希乌寿D伊寿美蕾伊优"
-title_zh: "露希乌寿D伊寿美蕾伊优"
+display_title: "ルキウス・ディス・ミレイユ"
+title_zh: ""
 title_ja: "ルキウス・ディス・ミレイユ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c541"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lucius dis Mireille"
-  - "ルキウス・ディス・ミレイユ"
   - "アイム・アストレア"
   - "Iaim Astraea"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c541.webp"
 ---
 
-# 露希乌寿D伊寿美蕾伊优
+# ルキウス・ディス・ミレイユ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

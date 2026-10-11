@@ -5,7 +5,10 @@ display_title: "献帝"
 title_zh: "献帝"
 title_ja: "献帝"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c62466"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kentei"
   - "Paitan"

@@ -5,7 +5,10 @@ display_title: "犬饲隆文"
 title_zh: "犬饲隆文"
 title_ja: "犬飼 隆文"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c4808"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Inukai Takafumi"
   - "犬飼 隆文"

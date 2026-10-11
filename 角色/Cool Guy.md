@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c149402"
 type: "character"
-display_title: "涩伊男"
-title_zh: "涩伊男"
+display_title: "渋い男"
+title_zh: ""
 title_ja: "渋い男"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149402"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cool Guy"
-  - "渋い男"
 source_ids:
   vndb: "c149402"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c149402.webp"
 ---
 
-# 涩伊男
+# 渋い男
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

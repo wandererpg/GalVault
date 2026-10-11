@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c109869"
 type: "character"
-display_title: "奈恩CY"
-title_zh: "奈恩CY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Nancy"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c109869"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Nancy"
 source_ids:
   vndb: "c109869"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c109869.webp"
 ---
 
-# 奈恩CY
+# Nancy
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

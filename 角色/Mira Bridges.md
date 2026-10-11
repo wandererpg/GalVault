@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43103"
 type: "character"
-display_title: "美拉布莉J吉寿"
-title_zh: "美拉布莉J吉寿"
+display_title: "ミラ・ブリッジス"
+title_zh: ""
 title_ja: "ミラ・ブリッジス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43103"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mira Bridges"
-  - "ミラ・ブリッジス"
 source_ids:
   vndb: "c43103"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43103.webp"
 ---
 
-# 美拉布莉J吉寿
+# ミラ・ブリッジス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c82924"
 type: "character"
-display_title: "上嶋露露"
-title_zh: "上嶋露露"
+display_title: "上嶋 ルル"
+title_zh: ""
 title_ja: "上嶋 ルル"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c82924"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kamishima Lulu"
-  - "上嶋 ルル"
   - "Ruru"
 source_ids:
   vndb: "c82924"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c82924.webp"
 ---
 
-# 上嶋露露
+# 上嶋 ルル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

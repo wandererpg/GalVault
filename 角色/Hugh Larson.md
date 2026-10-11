@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159509"
 type: "character"
-display_title: "H乌GH·L阿R索恩"
-title_zh: "H乌GH·L阿R索恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Hugh Larson"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159509"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Hugh Larson"
 source_ids:
   vndb: "c159509"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c159509.webp"
 ---
 
-# H乌GH·L阿R索恩
+# Hugh Larson
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

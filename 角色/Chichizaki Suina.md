@@ -5,7 +5,10 @@ display_title: "乳崎翠那"
 title_zh: "乳崎翠那"
 title_ja: "乳崎 翠那"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c149530"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Chichizaki Suina"
   - "乳崎 翠那"

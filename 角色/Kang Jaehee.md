@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c35140"
 type: "character"
-display_title: "加恩G·嘉惠惠惠"
-title_zh: "加恩G·嘉惠惠惠"
+display_title: "강 제희"
+title_zh: ""
 title_ja: "강 제희"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c35140"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kang Jaehee"
-  - "강 제희"
 source_ids:
   vndb: "c35140"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c35140.webp"
 ---
 
-# 加恩G·嘉惠惠惠
+# 강 제희
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

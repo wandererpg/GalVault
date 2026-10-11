@@ -5,7 +5,10 @@ display_title: "东乡美森"
 title_zh: "东乡美森"
 title_ja: "東郷 美森"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c26514"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tougou Mimori"
   - "東郷 美森"

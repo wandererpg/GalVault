@@ -5,7 +5,10 @@ display_title: "花村辉々"
 title_zh: "花村辉々"
 title_ja: "花村 輝々"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c6615"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hanamura Teruteru"
   - "花村 輝々"

@@ -5,7 +5,10 @@ display_title: "篁祐唯"
 title_zh: "篁祐唯"
 title_ja: "篁 祐唯"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c42855"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takamura Masatada"
   - "篁 祐唯"

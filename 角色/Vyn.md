@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c112481"
 type: "character"
-display_title: "VY恩"
-title_zh: "VY恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Vyn"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c112481"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Vyn"
 source_ids:
   vndb: "c112481"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c112481.webp"
 ---
 
-# VY恩
+# Vyn
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

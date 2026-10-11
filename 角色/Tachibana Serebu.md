@@ -5,7 +5,10 @@ display_title: "橘濑丽武"
 title_zh: "橘濑丽武"
 title_ja: "橘 瀬麗武"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c42567"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tachibana Serebu"
   - "橘 瀬麗武"

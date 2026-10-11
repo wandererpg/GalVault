@@ -5,7 +5,10 @@ display_title: "北条三日月氏照"
 title_zh: "北条三日月氏照"
 title_ja: "北条 三日月 氏照"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c40719"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Houjou Mikazuki Ujiteru"
   - "北条 三日月 氏照"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c107127"
 type: "character"
-display_title: "久拉伊堂羽阿D伊恩古"
-title_zh: "久拉伊堂羽阿D伊恩古"
+display_title: "クライド・ハーディング"
+title_zh: ""
 title_ja: "クライド・ハーディング"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c107127"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Clyde Harding"
-  - "クライド・ハーディング"
 source_ids:
   vndb: "c107127"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c107127.webp"
 ---
 
-# 久拉伊堂羽阿D伊恩古
+# クライド・ハーディング
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

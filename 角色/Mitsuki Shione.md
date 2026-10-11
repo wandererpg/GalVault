@@ -5,7 +5,10 @@ display_title: "深月汐音"
 title_zh: "深月汐音"
 title_ja: "深月 汐音"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c11313"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mitsuki Shione"
   - "深月 汐音"

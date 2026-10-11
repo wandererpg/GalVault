@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8782"
 type: "character"
-display_title: "夏梦诗惠露夏羽露"
-title_zh: "夏梦诗惠露夏羽露"
+display_title: "シャムシェルシャハル"
+title_zh: ""
 title_ja: "シャムシェルシャハル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8782"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shamsiel Shaharl"
-  - "シャムシェルシャハル"
   - "Shaharl"
 source_ids:
   vndb: "c8782"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c8782.webp"
 ---
 
-# 夏梦诗惠露夏羽露
+# シャムシェルシャハル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34087"
 type: "character"
-display_title: "D伊奥恩"
-title_zh: "D伊奥恩"
+display_title: "ディオン"
+title_zh: ""
 title_ja: "ディオン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34087"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Dion"
-  - "ディオン"
   - "Diogenes"
   - "ディオゲネス"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c34087.webp"
 ---
 
-# D伊奥恩
+# ディオン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

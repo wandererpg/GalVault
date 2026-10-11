@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c21329"
 type: "character"
-display_title: "隼优伊"
-title_zh: "隼优伊"
+display_title: "隼 ゆい"
+title_zh: ""
 title_ja: "隼 ゆい"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c21329"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hayabusa Yui"
-  - "隼 ゆい"
 source_ids:
   vndb: "c21329"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c21329.webp"
 ---
 
-# 隼优伊
+# 隼 ゆい
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

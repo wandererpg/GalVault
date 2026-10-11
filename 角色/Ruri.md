@@ -5,7 +5,10 @@ display_title: "瑠璃"
 title_zh: "瑠璃"
 title_ja: "瑠璃"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c148476"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ruri"
 source_ids:

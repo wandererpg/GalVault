@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c118577"
 type: "character"
-display_title: "HY惠奥恩·阿"
-title_zh: "HY惠奥恩·阿"
+display_title: "현아"
+title_zh: ""
 title_ja: "현아"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c118577"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hyeon-a"
-  - "현아"
   - "Hyeon-ah"
 source_ids:
   vndb: "c118577"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c118577.webp"
 ---
 
-# HY惠奥恩·阿
+# 현아
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c168365"
 type: "character"
-display_title: "久拉拉拉恩加寿太阿"
-title_zh: "久拉拉拉恩加寿太阿"
+display_title: "クララ・ランカスター"
+title_zh: ""
 title_ja: "クララ・ランカスター"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c168365"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Clara Lancaster"
-  - "クララ・ランカスター"
 source_ids:
   vndb: "c168365"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c168365.webp"
 ---
 
-# 久拉拉拉恩加寿太阿
+# クララ・ランカスター
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

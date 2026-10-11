@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c126366"
 type: "character"
-display_title: "和RT穗GS·ST乌德恩T·伊伊"
-title_zh: "和RT穗GS·ST乌德恩T·伊伊"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Warthogs Student (II)"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126366"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Warthogs Student (II)"
 source_ids:
   vndb: "c126366"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c126366.webp"
 ---
 
-# 和RT穗GS·ST乌德恩T·伊伊
+# Warthogs Student (II)
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c77022"
 type: "character"
-display_title: "V惠莉斗奥露＝巴修斗拉"
-title_zh: "V惠莉斗奥露＝巴修斗拉"
+display_title: "ヴェリトール＝バシュトラ"
+title_zh: ""
 title_ja: "ヴェリトール＝バシュトラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c77022"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Vrtor Vashutra"
-  - "ヴェリトール＝バシュトラ"
   - "Black Ogre of the Battlefield"
 source_ids:
   vndb: "c77022"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c77022.webp"
 ---
 
-# V惠莉斗奥露＝巴修斗拉
+# ヴェリトール＝バシュトラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

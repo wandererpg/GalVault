@@ -5,7 +5,10 @@ display_title: "冲浦联珠"
 title_zh: "冲浦联珠"
 title_ja: "沖浦 連珠"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c86028"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Okiura Renju"
   - "沖浦 連珠"

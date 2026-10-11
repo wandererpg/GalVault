@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14283"
 type: "character"
-display_title: "大泽木奈津美"
-title_zh: "大泽木奈津美"
+display_title: "大沢木 ナツミ"
+title_zh: ""
 title_ja: "大沢木 ナツミ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14283"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Oosawagi Natsumi"
-  - "大沢木 ナツミ"
   - "Hà Hữu Tâm"
   - "ยัมฮา ชาริฟ"
   - "Yamha Charip"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c14283.webp"
 ---
 
-# 大泽木奈津美
+# 大沢木 ナツミ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

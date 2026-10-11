@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c11459"
 type: "character"
-display_title: "四扇日伊奈"
-title_zh: "四扇日伊奈"
+display_title: "四扇 ひいな"
+title_zh: ""
 title_ja: "四扇 ひいな"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c11459"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shiougi Hiina"
-  - "四扇 ひいな"
 source_ids:
   vndb: "c11459"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c11459.webp"
 ---
 
-# 四扇日伊奈
+# 四扇 ひいな
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

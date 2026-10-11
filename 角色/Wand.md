@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c123947"
 type: "character"
-display_title: "和恩堂"
-title_zh: "和恩堂"
+display_title: "ワンド"
+title_zh: ""
 title_ja: "ワンド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c123947"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Wand"
-  - "ワンド"
 source_ids:
   vndb: "c123947"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c123947.webp"
 ---
 
-# 和恩堂
+# ワンド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

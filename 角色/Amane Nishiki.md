@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30640"
 type: "character"
-display_title: "阿真音尼诗希"
-title_zh: "阿真音尼诗希"
+display_title: "アマネ゠ニシキ"
+title_zh: ""
 title_ja: "アマネ゠ニシキ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30640"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Amane Nishiki"
-  - "アマネ゠ニシキ"
   - "Uzume"
 source_ids:
   vndb: "c30640"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c30640.webp"
 ---
 
-# 阿真音尼诗希
+# アマネ゠ニシキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

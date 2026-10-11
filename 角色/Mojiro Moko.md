@@ -1,17 +1,20 @@
 ---
 entity_id: "vndb:character:c150819"
 type: "character"
-display_title: "丧白莫子"
-title_zh: "丧白莫子"
+display_title: "喪白 もこ"
+title_zh: ""
 title_ja: "喪白 もこ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c150819"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mojiro Moko"
-  - "喪白 もこ"
   - "'Cheerful and Lively' Super Wrestler"
   - "Apocalyptic Maiden of Destruction"
   - "什肆 (Fourteen)"
+  - "Cheerful and Lively' Super Wrestler"
 source_ids:
   vndb: "c150819"
 source_urls:
@@ -19,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c150819.webp"
 ---
 
-# 丧白莫子
+# 喪白 もこ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

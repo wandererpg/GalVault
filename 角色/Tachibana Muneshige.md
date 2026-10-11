@@ -5,7 +5,10 @@ display_title: "立花宗茂"
 title_zh: "立花宗茂"
 title_ja: "立花 宗茂"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c41022"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tachibana Muneshige"
   - "立花 宗茂"

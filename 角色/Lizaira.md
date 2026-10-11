@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c56376"
 type: "character"
-display_title: "莉扎伊拉"
-title_zh: "莉扎伊拉"
+display_title: "リザイラ"
+title_zh: ""
 title_ja: "リザイラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56376"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lizaira"
-  - "リザイラ"
 source_ids:
   vndb: "c56376"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c56376.webp"
 ---
 
-# 莉扎伊拉
+# リザイラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

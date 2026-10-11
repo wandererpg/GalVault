@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c38367"
 type: "character"
-display_title: "C阿L惠B·惠伊蕾伊吉"
-title_zh: "C阿L惠B·惠伊蕾伊吉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Caleb Keireiji"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38367"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Caleb Keireiji"
   - "Souhei Keireiji"
   - "Father Caleb"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c38367.webp"
 ---
 
-# C阿L惠B·惠伊蕾伊吉
+# Caleb Keireiji
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

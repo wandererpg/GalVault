@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12932"
 type: "character"
-display_title: "拉寿特伊"
-title_zh: "拉寿特伊"
+display_title: "ラスティ"
+title_zh: ""
 title_ja: "ラスティ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12932"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rathty"
-  - "ラスティ"
 source_ids:
   vndb: "c12932"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c12932.webp"
 ---
 
-# 拉寿特伊
+# ラスティ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

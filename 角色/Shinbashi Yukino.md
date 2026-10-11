@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c108505"
 type: "character"
-display_title: "新桥雪乃"
-title_zh: "新桥雪乃"
+display_title: "新橋 ゆき乃"
+title_zh: ""
 title_ja: "新橋 ゆき乃"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c108505"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shinbashi Yukino"
-  - "新橋 ゆき乃"
   - "ゆきぴん"
   - "Yuki-pin"
 source_ids:
@@ -17,7 +19,7 @@ source_urls:
   vndb: "https://vndb.org/c108505"
 ---
 
-# 新桥雪乃
+# 新橋 ゆき乃
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

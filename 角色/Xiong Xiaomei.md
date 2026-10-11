@@ -5,7 +5,10 @@ display_title: "熊小梅"
 title_zh: "熊小梅"
 title_ja: "熊小梅"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c143563"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Xiong Xiaomei"
   - "Plum Swift"

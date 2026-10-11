@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c84027"
 type: "character"
-display_title: "汤谷日向"
-title_zh: "汤谷日向"
+display_title: "湯谷 ひなた"
+title_zh: ""
 title_ja: "湯谷 ひなた"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c84027"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yutani Hinata"
-  - "湯谷 ひなた"
 source_ids:
   vndb: "c84027"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c84027.webp"
 ---
 
-# 汤谷日向
+# 湯谷 ひなた
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

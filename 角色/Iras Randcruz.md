@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26889"
 type: "character"
-display_title: "阿伊拉寿拉恩堂久露寿"
-title_zh: "阿伊拉寿拉恩堂久露寿"
+display_title: "アイラス・ランドクルス"
+title_zh: ""
 title_ja: "アイラス・ランドクルス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26889"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Iras Randcruz"
-  - "アイラス・ランドクルス"
 source_ids:
   vndb: "c26889"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c26889.webp"
 ---
 
-# 阿伊拉寿拉恩堂久露寿
+# アイラス・ランドクルス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

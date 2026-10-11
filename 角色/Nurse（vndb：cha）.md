@@ -1,11 +1,14 @@
 ---
 entity_id: "vndb:character:c73742"
 type: "character"
-display_title: "护士"
-title_zh: "护士"
+display_title: "看护师"
+title_zh: "看护师"
 title_ja: "看護師"
-title_zh_quality: "glossary"
-title_status: "machine_generated"
+title_zh_quality: "converted_original"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c73742"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nurse"
   - "看護師"
@@ -15,7 +18,7 @@ source_urls:
   vndb: "https://vndb.org/c73742"
 ---
 
-# 护士
+# 看护师
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

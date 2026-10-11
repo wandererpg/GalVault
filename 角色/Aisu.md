@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c118560"
 type: "character"
-display_title: "阿伊寿"
-title_zh: "阿伊寿"
+display_title: "アイス"
+title_zh: ""
 title_ja: "アイス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c118560"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Aisu"
-  - "アイス"
 source_ids:
   vndb: "c118560"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c118560.webp"
 ---
 
-# 阿伊寿
+# アイス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

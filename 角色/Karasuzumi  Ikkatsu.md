@@ -5,7 +5,10 @@ display_title: "鸦济五胜"
 title_zh: "鸦济五胜"
 title_ja: "鴉済 五勝"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c41455"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Karasuzumi Ikkatsu"
   - "鴉済 五勝"

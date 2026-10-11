@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c51600"
 type: "character"
-display_title: "朱莉惠恩·V阿L伊惠恩特"
-title_zh: "朱莉惠恩·V阿L伊惠恩特"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jurien Valiente"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c51600"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jurien Valiente"
 source_ids:
   vndb: "c51600"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c51600.webp"
 ---
 
-# 朱莉惠恩·V阿L伊惠恩特
+# Jurien Valiente
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

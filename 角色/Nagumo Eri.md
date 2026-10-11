@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30087"
 type: "character"
-display_title: "南云惠莉"
-title_zh: "南云惠莉"
+display_title: "南雲 えり"
+title_zh: ""
 title_ja: "南雲 えり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30087"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nagumo Eri"
-  - "南雲 えり"
 source_ids:
   vndb: "c30087"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30087.webp"
 ---
 
-# 南云惠莉
+# 南雲 えり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

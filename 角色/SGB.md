@@ -2,9 +2,12 @@
 entity_id: "vndb:character:c94656"
 type: "character"
 display_title: "SGB"
-title_zh: "SGB"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94656"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
 source_ids:
   vndb: "c94656"

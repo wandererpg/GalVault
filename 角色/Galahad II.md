@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87374"
 type: "character"
-display_title: "雅拉羽T斗2世"
-title_zh: "雅拉羽T斗2世"
+display_title: "ガラハット2世"
+title_zh: ""
 title_ja: "ガラハット2世"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87374"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Galahad II"
-  - "ガラハット2世"
   - "His Majesty"
 source_ids:
   vndb: "c87374"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c87374.webp"
 ---
 
-# 雅拉羽T斗2世
+# ガラハット2世
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

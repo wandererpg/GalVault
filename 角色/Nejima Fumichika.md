@@ -5,7 +5,10 @@ display_title: "根岛史周"
 title_zh: "根岛史周"
 title_ja: "根島 史周"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c124649"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nejima Fumichika"
   - "根島 史周"

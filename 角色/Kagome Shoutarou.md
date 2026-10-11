@@ -5,7 +5,10 @@ display_title: "笼目正太郎"
 title_zh: "笼目正太郎"
 title_ja: "籠目 正太郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c85105"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kagome Shoutarou"
   - "籠目 正太郎"

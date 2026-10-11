@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c115778"
 type: "character"
-display_title: "朱莉奥芙乌莉奥"
-title_zh: "朱莉奥芙乌莉奥"
+display_title: "ジュリオ・フーリオ"
+title_zh: ""
 title_ja: "ジュリオ・フーリオ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c115778"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Julio Furio"
-  - "ジュリオ・フーリオ"
 source_ids:
   vndb: "c115778"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c115778.webp"
 ---
 
-# 朱莉奥芙乌莉奥
+# ジュリオ・フーリオ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

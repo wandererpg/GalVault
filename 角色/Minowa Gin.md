@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c67052"
 type: "character"
-display_title: "三乃轮银"
-title_zh: "三乃轮银"
+display_title: "三ノ輪 銀"
+title_zh: ""
 title_ja: "三ノ輪 銀"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c67052"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Minowa Gin"
-  - "三ノ輪 銀"
   - "Mino-san"
 source_ids:
   vndb: "c67052"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c67052.webp"
 ---
 
-# 三乃轮银
+# 三ノ輪 銀
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

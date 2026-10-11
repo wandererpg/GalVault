@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c48891"
 type: "character"
-display_title: "贝L加·V阿L惠恩T伊奈"
-title_zh: "贝L加·V阿L惠恩T伊奈"
+display_title: "Белка Валентина"
+title_zh: ""
 title_ja: "Белка Валентина"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c48891"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Belka Valentina"
-  - "Белка Валентина"
   - "ヴェルカ・ヴァレンティーナ"
 source_ids:
   vndb: "c48891"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c48891.webp"
 ---
 
-# 贝L加·V阿L惠恩T伊奈
+# Белка Валентина
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

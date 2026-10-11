@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39802"
 type: "character"
-display_title: "D伊露久"
-title_zh: "D伊露久"
+display_title: "ディルク"
+title_zh: ""
 title_ja: "ディルク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39802"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Dirk"
-  - "ディルク"
 source_ids:
   vndb: "c39802"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c39802.webp"
 ---
 
-# D伊露久
+# ディルク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

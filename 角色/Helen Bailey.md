@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c140249"
 type: "character"
-display_title: "惠L惠恩·巴伊L惠Y"
-title_zh: "惠L惠恩·巴伊L惠Y"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Helen Bailey"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c140249"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Helen Bailey"
 source_ids:
   vndb: "c140249"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c140249.webp"
 ---
 
-# 惠L惠恩·巴伊L惠Y
+# Helen Bailey
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

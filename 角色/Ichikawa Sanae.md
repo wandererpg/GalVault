@@ -5,7 +5,10 @@ display_title: "市川早苗"
 title_zh: "市川早苗"
 title_ja: "市川 早苗"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c65746"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ichikawa Sanae"
   - "市川 早苗"

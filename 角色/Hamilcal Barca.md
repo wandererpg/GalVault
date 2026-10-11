@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34081"
 type: "character"
-display_title: "羽美露加露巴露加"
-title_zh: "羽美露加露巴露加"
+display_title: "ハミルカル・バルカ"
+title_zh: ""
 title_ja: "ハミルカル・バルカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34081"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hamilcal Barca"
-  - "ハミルカル・バルカ"
   - "Hamil"
 source_ids:
   vndb: "c34081"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c34081.webp"
 ---
 
-# 羽美露加露巴露加
+# ハミルカル・バルカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

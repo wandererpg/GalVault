@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c36710"
 type: "character"
-display_title: "高坂真优希"
-title_zh: "高坂真优希"
+display_title: "高坂 まゆき"
+title_zh: ""
 title_ja: "高坂 まゆき"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c36710"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kousaka Mayuki"
-  - "高坂 まゆき"
 source_ids:
   vndb: "c36710"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c36710.webp"
 ---
 
-# 高坂真优希
+# 高坂 まゆき
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

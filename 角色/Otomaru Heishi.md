@@ -5,7 +5,10 @@ display_title: "乙丸平士"
 title_zh: "乙丸平士"
 title_ja: "乙丸 平士"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c30373"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Otomaru Heishi"
   - "乙丸 平士"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c27382"
 type: "character"
-display_title: "崎田太久斗"
-title_zh: "崎田太久斗"
+display_title: "崎田 タクト"
+title_zh: ""
 title_ja: "崎田 タクト"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c27382"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sakita Takuto"
-  - "崎田 タクト"
 source_ids:
   vndb: "c27382"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c27382.webp"
 ---
 
-# 崎田太久斗
+# 崎田 タクト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

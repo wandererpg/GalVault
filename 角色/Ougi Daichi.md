@@ -5,7 +5,10 @@ display_title: "扇大地"
 title_zh: "扇大地"
 title_ja: "扇 大地"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c132355"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ougi Daichi"
   - "扇 大地"

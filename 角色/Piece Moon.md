@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17063"
 type: "character"
-display_title: "皮伊寿梦乌恩"
-title_zh: "皮伊寿梦乌恩"
+display_title: "ピースムーン"
+title_zh: ""
 title_ja: "ピースムーン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17063"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Piece Moon"
-  - "ピースムーン"
 source_ids:
   vndb: "c17063"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c17063.webp"
 ---
 
-# 皮伊寿梦乌恩
+# ピースムーン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

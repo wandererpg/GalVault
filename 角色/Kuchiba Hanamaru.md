@@ -5,7 +5,10 @@ display_title: "朽叶花丸"
 title_zh: "朽叶花丸"
 title_ja: "朽 葉  花 丸"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c99622"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kuchiba Hanamaru"
   - "朽 葉  花 丸"

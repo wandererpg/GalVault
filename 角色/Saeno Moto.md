@@ -5,7 +5,10 @@ display_title: "冴野望都"
 title_zh: "冴野望都"
 title_ja: "冴野 望都"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c55055"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Saeno Moto"
   - "冴野 望都"

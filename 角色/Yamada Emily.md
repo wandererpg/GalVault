@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c164524"
 type: "character"
-display_title: "山田惠美莉伊"
-title_zh: "山田惠美莉伊"
+display_title: "山田 エミリー"
+title_zh: ""
 title_ja: "山田 エミリー"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c164524"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yamada Emily"
-  - "山田 エミリー"
 source_ids:
   vndb: "c164524"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c164524.webp"
 ---
 
-# 山田惠美莉伊
+# 山田 エミリー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

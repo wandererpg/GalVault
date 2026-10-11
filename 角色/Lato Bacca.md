@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c104159"
 type: "character"
-display_title: "拉斗巴K加"
-title_zh: "拉斗巴K加"
+display_title: "ラト・バッカ"
+title_zh: ""
 title_ja: "ラト・バッカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c104159"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lato Bacca"
-  - "ラト・バッカ"
 source_ids:
   vndb: "c104159"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c104159.webp"
 ---
 
-# 拉斗巴K加
+# ラト・バッカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

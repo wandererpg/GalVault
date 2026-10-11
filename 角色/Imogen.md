@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c155610"
 type: "character"
-display_title: "伊莫格恩"
-title_zh: "伊莫格恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Imogen"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155610"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Imogen"
   - "Genny"
 source_ids:
   vndb: "c155610"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c155610.webp"
 ---
 
-# 伊莫格恩
+# Imogen
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

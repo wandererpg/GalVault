@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c67413"
 type: "character"
-display_title: "惠S特R"
-title_zh: "惠S特R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ester"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c67413"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ester"
 source_ids:
   vndb: "c67413"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c67413.webp"
 ---
 
-# 惠S特R
+# Ester
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "保坂实里"
 title_zh: "保坂实里"
 title_ja: "保坂 実里"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c22804"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hosaka Minori"
   - "保坂 実里"

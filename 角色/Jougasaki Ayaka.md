@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c64309"
 type: "character"
-display_title: "城惠崎绚华"
-title_zh: "城惠崎绚华"
+display_title: "城ヶ崎 絢華"
+title_zh: ""
 title_ja: "城ヶ崎 絢華"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c64309"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jougasaki Ayaka"
-  - "城ヶ崎 絢華"
   - "Ayaya"
   - "あーちゃん"
   - "A-chan"
@@ -21,7 +23,7 @@ source_urls:
 portrait_image: "assets/characters/c64309.webp"
 ---
 
-# 城惠崎绚华
+# 城ヶ崎 絢華
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

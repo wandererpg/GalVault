@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c141414"
 type: "character"
-display_title: "KYL伊惠"
-title_zh: "KYL伊惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Kylie"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141414"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Kylie"
 source_ids:
   vndb: "c141414"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c141414.webp"
 ---
 
-# KYL伊惠
+# Kylie
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

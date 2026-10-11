@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c101355"
 type: "character"
-display_title: "惠恩达阿沙恩"
-title_zh: "惠恩达阿沙恩"
+display_title: "エンダーさん"
+title_zh: ""
 title_ja: "エンダーさん"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c101355"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mr. Endy"
-  - "エンダーさん"
 source_ids:
   vndb: "c101355"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c101355.webp"
 ---
 
-# 惠恩达阿沙恩
+# エンダーさん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

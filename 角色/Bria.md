@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c51661"
 type: "character"
-display_title: "B莉阿"
-title_zh: "B莉阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Bria"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c51661"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Bria"
 source_ids:
   vndb: "c51661"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c51661.webp"
 ---
 
-# B莉阿
+# Bria
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

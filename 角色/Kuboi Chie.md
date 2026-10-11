@@ -5,7 +5,10 @@ display_title: "洼井千绘"
 title_zh: "洼井千绘"
 title_ja: "窪井 千絵"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c92962"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kuboi Chie"
   - "窪井 千絵"

@@ -5,7 +5,10 @@ display_title: "渚春树"
 title_zh: "渚春树"
 title_ja: "渚 春樹"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c6831"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nagisa Haruki"
   - "渚 春樹"

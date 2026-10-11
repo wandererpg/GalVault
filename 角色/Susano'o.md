@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c54080"
 type: "character"
-display_title: "寿沙乃奥"
-title_zh: "寿沙乃奥"
+display_title: "スサノオ"
+title_zh: ""
 title_ja: "スサノオ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c54080"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Susano'o"
-  - "スサノオ"
 source_ids:
   vndb: "c54080"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c54080.webp"
 ---
 
-# 寿沙乃奥
+# スサノオ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "梶井义巳"
 title_zh: "梶井义巳"
 title_ja: "梶井 義巳"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c31284"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kajii Yoshimi"
   - "梶井 義巳"

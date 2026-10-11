@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12464"
 type: "character"
-display_title: "诗露V伊奥奥露拉恩D伊"
-title_zh: "诗露V伊奥奥露拉恩D伊"
+display_title: "シルヴィオ・オルランディ"
+title_zh: ""
 title_ja: "シルヴィオ・オルランディ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12464"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Silvio Orlandi"
-  - "シルヴィオ・オルランディ"
 source_ids:
   vndb: "c12464"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c12464.webp"
 ---
 
-# 诗露V伊奥奥露拉恩D伊
+# シルヴィオ・オルランディ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

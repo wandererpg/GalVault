@@ -5,7 +5,10 @@ display_title: "御剑姫子"
 title_zh: "御剑姫子"
 title_ja: "御剣 姫子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c18479"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mitsurugi Himeko"
   - "御剣 姫子"

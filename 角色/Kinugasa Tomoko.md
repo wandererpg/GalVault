@@ -5,7 +5,10 @@ display_title: "衣笠智子"
 title_zh: "衣笠智子"
 title_ja: "衣笠 智子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2391"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kinugasa Tomoko"
   - "衣笠 智子"

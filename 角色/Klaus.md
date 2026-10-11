@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39741"
 type: "character"
-display_title: "久拉乌寿"
-title_zh: "久拉乌寿"
+display_title: "クラウス"
+title_zh: ""
 title_ja: "クラウス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39741"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Klaus"
-  - "クラウス"
 source_ids:
   vndb: "c39741"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c39741.webp"
 ---
 
-# 久拉乌寿
+# クラウス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

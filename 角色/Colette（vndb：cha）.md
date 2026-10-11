@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16874"
 type: "character"
-display_title: "子蕾T斗"
-title_zh: "子蕾T斗"
+display_title: "コレット"
+title_zh: ""
 title_ja: "コレット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16874"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Colette"
-  - "コレット"
 source_ids:
   vndb: "c16874"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c16874.webp"
 ---
 
-# 子蕾T斗
+# コレット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

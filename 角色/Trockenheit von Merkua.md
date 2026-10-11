@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c31365"
 type: "character"
-display_title: "斗洛K惠恩羽伊斗F奥恩芽露久乌阿"
-title_zh: "斗洛K惠恩羽伊斗F奥恩芽露久乌阿"
+display_title: "トロッケンハイト・フォン・メルクーア"
+title_zh: ""
 title_ja: "トロッケンハイト・フォン・メルクーア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c31365"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Trockenheit von Merkua"
-  - "トロッケンハイト・フォン・メルクーア"
 source_ids:
   vndb: "c31365"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c31365.webp"
 ---
 
-# 斗洛K惠恩羽伊斗F奥恩芽露久乌阿
+# トロッケンハイト・フォン・メルクーア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

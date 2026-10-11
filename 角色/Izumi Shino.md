@@ -5,7 +5,10 @@ display_title: "泉诗乃"
 title_zh: "泉诗乃"
 title_ja: "泉 詩乃"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21362"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Izumi Shino"
   - "泉 詩乃"

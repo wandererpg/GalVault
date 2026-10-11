@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c84855"
 type: "character"
-display_title: "吉良斗乌雅"
-title_zh: "吉良斗乌雅"
+display_title: "吉良トウヤ"
+title_zh: ""
 title_ja: "吉良トウヤ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c84855"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kira Touya"
-  - "吉良トウヤ"
 source_ids:
   vndb: "c84855"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c84855.webp"
 ---
 
-# 吉良斗乌雅
+# 吉良トウヤ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

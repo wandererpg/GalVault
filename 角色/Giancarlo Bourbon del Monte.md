@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10825"
 type: "character"
-display_title: "嘉恩加露洛･布露博恩･德露･莫恩"
-title_zh: "嘉恩加露洛･布露博恩･德露･莫恩"
+display_title: "ジャンカルロ･ブルボン･デル･モン"
+title_zh: ""
 title_ja: "ジャンカルロ･ブルボン･デル･モン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10825"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Giancarlo Bourbon del Monte"
-  - "ジャンカルロ･ブルボン･デル･モン"
   - "Bad Dog"
   - "Gian"
   - "Gian Carlo"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c10825.webp"
 ---
 
-# 嘉恩加露洛･布露博恩･德露･莫恩
+# ジャンカルロ･ブルボン･デル･モン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

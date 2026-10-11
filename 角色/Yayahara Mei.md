@@ -5,7 +5,10 @@ display_title: "稍原芽依"
 title_zh: "稍原芽依"
 title_ja: "稍原 芽依"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c12442"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yayahara Mei"
   - "稍原 芽依"

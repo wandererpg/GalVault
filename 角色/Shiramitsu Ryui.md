@@ -5,7 +5,10 @@ display_title: "白光琉衣"
 title_zh: "白光琉衣"
 title_ja: "白光 琉衣"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c144404"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shiramitsu Ryui"
   - "白光 琉衣"

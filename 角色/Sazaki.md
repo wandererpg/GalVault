@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c27120"
 type: "character"
-display_title: "沙扎希"
-title_zh: "沙扎希"
+display_title: "サザキ"
+title_zh: ""
 title_ja: "サザキ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c27120"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sazaki"
-  - "サザキ"
 source_ids:
   vndb: "c27120"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c27120.webp"
 ---
 
-# 沙扎希
+# サザキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

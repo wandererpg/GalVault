@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c127000"
 type: "character"
-display_title: "莉T"
-title_zh: "莉T"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Rit"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127000"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Rit"
 source_ids:
   vndb: "c127000"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c127000.webp"
 ---
 
-# 莉T
+# Rit
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

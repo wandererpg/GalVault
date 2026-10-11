@@ -5,7 +5,10 @@ display_title: "御法川基弦"
 title_zh: "御法川基弦"
 title_ja: "御法川 基絃"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c92880"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Minorikawa Kiito"
   - "御法川 基絃"

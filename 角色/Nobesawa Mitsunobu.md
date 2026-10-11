@@ -5,7 +5,10 @@ display_title: "延泽满延"
 title_zh: "延泽满延"
 title_ja: "延沢 満延"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c60515"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nobesawa Mitsunobu"
   - "延沢 満延"

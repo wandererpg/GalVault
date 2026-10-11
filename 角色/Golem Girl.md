@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125992"
 type: "character"
-display_title: "悟奥蕾梦娘"
-title_zh: "悟奥蕾梦娘"
+display_title: "ゴーレム娘"
+title_zh: ""
 title_ja: "ゴーレム娘"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125992"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Golem Girl"
-  - "ゴーレム娘"
   - "Emeth"
 source_ids:
   vndb: "c125992"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c125992.webp"
 ---
 
-# 悟奥蕾梦娘
+# ゴーレム娘
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "风魔环太郎"
 title_zh: "风魔环太郎"
 title_ja: "風魔 環太郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1059"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fuuma Kantarou"
   - "風魔 環太郎"

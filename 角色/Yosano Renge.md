@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c113892"
 type: "character"
-display_title: "与谢野蕾恩格"
-title_zh: "与谢野蕾恩格"
+display_title: "与謝野 レンゲ"
+title_zh: ""
 title_ja: "与謝野 レンゲ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c113892"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yosano Renge"
-  - "与謝野 レンゲ"
 source_ids:
   vndb: "c113892"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c113892.webp"
 ---
 
-# 与谢野蕾恩格
+# 与謝野 レンゲ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

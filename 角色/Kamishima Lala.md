@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c82922"
 type: "character"
-display_title: "上嶋拉拉"
-title_zh: "上嶋拉拉"
+display_title: "上嶋 ララ"
+title_zh: ""
 title_ja: "上嶋 ララ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c82922"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kamishima Lala"
-  - "上嶋 ララ"
   - "Rara"
 source_ids:
   vndb: "c82922"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c82922.webp"
 ---
 
-# 上嶋拉拉
+# 上嶋 ララ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c93432"
 type: "character"
-display_title: "芽修雅阿"
-title_zh: "芽修雅阿"
+display_title: "メシュガー"
+title_zh: ""
 title_ja: "メシュガー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c93432"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Meshuggah"
-  - "メシュガー"
 source_ids:
   vndb: "c93432"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c93432.webp"
 ---
 
-# 芽修雅阿
+# メシュガー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c49920"
 type: "character"
-display_title: "色摩音音"
-title_zh: "色摩音音"
+display_title: "色摩 ネネ"
+title_zh: ""
 title_ja: "色摩 ネネ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c49920"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shikima Nene"
-  - "色摩 ネネ"
 source_ids:
   vndb: "c49920"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c49920.webp"
 ---
 
-# 色摩音音
+# 色摩 ネネ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

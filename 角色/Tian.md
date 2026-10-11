@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c82832"
 type: "character"
-display_title: "特伊阿恩"
-title_zh: "特伊阿恩"
+display_title: "ティアン"
+title_zh: ""
 title_ja: "ティアン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c82832"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tian"
-  - "ティアン"
 source_ids:
   vndb: "c82832"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c82832.webp"
 ---
 
-# 特伊阿恩
+# ティアン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

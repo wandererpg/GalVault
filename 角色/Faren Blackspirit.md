@@ -1,15 +1,18 @@
 ---
 entity_id: "vndb:character:c22367"
 type: "character"
-display_title: "F阿阿蕾惠恩布拉K久寿皮莉T斗"
-title_zh: "F阿阿蕾惠恩布拉K久寿皮莉T斗"
+display_title: "ファーレーン・ブラックスピリット"
+title_zh: ""
 title_ja: "ファーレーン・ブラックスピリット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c22367"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Faren Blackspirit"
-  - "ファーレーン・ブラックスピリット"
   - "Faren of 'Moonlight'"
+  - "Faren of 'Moonlight"
 source_ids:
   vndb: "c22367"
 source_urls:
@@ -17,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c22367.webp"
 ---
 
-# F阿阿蕾惠恩布拉K久寿皮莉T斗
+# ファーレーン・ブラックスピリット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

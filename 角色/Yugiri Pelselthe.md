@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87428"
 type: "character"
-display_title: "优吉莉佩露濑露特"
-title_zh: "优吉莉佩露濑露特"
+display_title: "ユギリ・ペルセルテ"
+title_zh: ""
 title_ja: "ユギリ・ペルセルテ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87428"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yugiri Pelselthe"
-  - "ユギリ・ペルセルテ"
 source_ids:
   vndb: "c87428"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c87428.webp"
 ---
 
-# 优吉莉佩露濑露特
+# ユギリ・ペルセルテ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

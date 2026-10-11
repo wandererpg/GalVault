@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c91901"
 type: "character"
-display_title: "G拉恩D真"
-title_zh: "G拉恩D真"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Grandma"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c91901"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Grandma"
 source_ids:
   vndb: "c91901"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c91901.webp"
 ---
 
-# G拉恩D真
+# Grandma
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

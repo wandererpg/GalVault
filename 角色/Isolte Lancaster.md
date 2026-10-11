@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c169047"
 type: "character"
-display_title: "伊藏露特拉恩加寿太阿"
-title_zh: "伊藏露特拉恩加寿太阿"
+display_title: "イゾルテ・ランカスター"
+title_zh: ""
 title_ja: "イゾルテ・ランカスター"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c169047"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Isolte Lancaster"
-  - "イゾルテ・ランカスター"
   - "セレスティアル"
   - "Celestial"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c169047.webp"
 ---
 
-# 伊藏露特拉恩加寿太阿
+# イゾルテ・ランカスター
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

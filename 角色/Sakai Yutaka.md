@@ -5,7 +5,10 @@ display_title: "酒井丰"
 title_zh: "酒井丰"
 title_ja: "酒井 豊"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c46164"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakai Yutaka"
   - "酒井 豊"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c11833"
 type: "character"
-display_title: "惠伊美伊真阿千"
-title_zh: "惠伊美伊真阿千"
+display_title: "エイミー・マーチ"
+title_zh: ""
 title_ja: "エイミー・マーチ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c11833"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Amy March"
-  - "エイミー・マーチ"
 source_ids:
   vndb: "c11833"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c11833.webp"
 ---
 
-# 惠伊美伊真阿千
+# エイミー・マーチ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

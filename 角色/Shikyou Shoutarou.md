@@ -5,7 +5,10 @@ display_title: "示侨翔太朗"
 title_zh: "示侨翔太朗"
 title_ja: "示僑 翔太朗"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c116171"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shikyou Shoutarou"
   - "示僑 翔太朗"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127360"
 type: "character"
-display_title: "代莫津诗子芽"
-title_zh: "代莫津诗子芽"
+display_title: "ヨモツシコメ"
+title_zh: ""
 title_ja: "ヨモツシコメ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127360"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yomotsu-Shikome"
-  - "ヨモツシコメ"
 source_ids:
   vndb: "c127360"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c127360.webp"
 ---
 
-# 代莫津诗子芽
+# ヨモツシコメ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43489"
 type: "character"
-display_title: "母亲"
-title_zh: "母亲"
+display_title: "マザー"
+title_zh: ""
 title_ja: "マザー"
-title_zh_quality: "glossary"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43489"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mother"
-  - "マザー"
 source_ids:
   vndb: "c43489"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43489.webp"
 ---
 
-# 母亲
+# マザー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "志贺海人"
 title_zh: "志贺海人"
 title_ja: "志賀 海人"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c78134"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shiga Kaito"
   - "志賀 海人"

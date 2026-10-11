@@ -5,7 +5,10 @@ display_title: "七香"
 title_zh: "七香"
 title_ja: "七香"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c3664"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nanaka"
 source_ids:

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c171365"
 type: "character"
-display_title: "L阿音"
-title_zh: "L阿音"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Lane"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c171365"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Lane"
 source_ids:
   vndb: "c171365"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c171365.webp"
 ---
 
-# L阿音
+# Lane
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

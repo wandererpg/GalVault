@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127071"
 type: "character"
-display_title: "力天使诗露希惠露"
-title_zh: "力天使诗露希惠露"
+display_title: "力天使シルキエル"
+title_zh: ""
 title_ja: "力天使シルキエル"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127071"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Virtue Silkiel"
-  - "力天使シルキエル"
 source_ids:
   vndb: "c127071"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c127071.webp"
 ---
 
-# 力天使诗露希惠露
+# 力天使シルキエル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

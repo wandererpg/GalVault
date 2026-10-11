@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c53693"
 type: "character"
-display_title: "惠伊F阿"
-title_zh: "惠伊F阿"
+display_title: "ケイファ"
+title_zh: ""
 title_ja: "ケイファ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c53693"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Keifa"
-  - "ケイファ"
 source_ids:
   vndb: "c53693"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c53693.webp"
 ---
 
-# 惠伊F阿
+# ケイファ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

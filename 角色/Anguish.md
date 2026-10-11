@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71181"
 type: "character"
-display_title: "阿阿吉S修"
-title_zh: "阿阿吉S修"
+display_title: "アーギッシュ"
+title_zh: ""
 title_ja: "アーギッシュ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71181"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Anguish"
-  - "アーギッシュ"
   - "The Hero Hunter"
 source_ids:
   vndb: "c71181"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c71181.webp"
 ---
 
-# 阿阿吉S修
+# アーギッシュ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

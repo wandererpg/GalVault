@@ -5,7 +5,10 @@ display_title: "夏侯渊妙才"
 title_zh: "夏侯渊妙才"
 title_ja: "夏侯淵 妙才"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c19305"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kakouen Myousai"
   - "夏侯淵 妙才"

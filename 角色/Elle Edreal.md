@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71154"
 type: "character"
-display_title: "惠露＝惠堂莉阿露"
-title_zh: "惠露＝惠堂莉阿露"
+display_title: "エル＝エドリアル"
+title_zh: ""
 title_ja: "エル＝エドリアル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71154"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Elle Edreal"
-  - "エル＝エドリアル"
 source_ids:
   vndb: "c71154"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71154.webp"
 ---
 
-# 惠露＝惠堂莉阿露
+# エル＝エドリアル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

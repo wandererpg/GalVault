@@ -5,7 +5,10 @@ display_title: "白河静流"
 title_zh: "白河静流"
 title_ja: "白河 静流"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c11630"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shirakawa Shizuru"
   - "白河 静流"

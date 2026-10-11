@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126067"
 type: "character"
-display_title: "阿莉娘"
-title_zh: "阿莉娘"
+display_title: "アリ娘"
+title_zh: ""
 title_ja: "アリ娘"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126067"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ant Girls"
-  - "アリ娘"
   - "Ant Girl A"
   - "Ant Girl B"
   - "Ant Girl C"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c126067.webp"
 ---
 
-# 阿莉娘
+# アリ娘
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

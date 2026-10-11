@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61234"
 type: "character"
-display_title: "V伊久斗莉伊音露索恩"
-title_zh: "V伊久斗莉伊音露索恩"
+display_title: "ヴィクトリー・ネルソン"
+title_zh: ""
 title_ja: "ヴィクトリー・ネルソン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61234"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Victory Nelson"
-  - "ヴィクトリー・ネルソン"
 source_ids:
   vndb: "c61234"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61234.webp"
 ---
 
-# V伊久斗莉伊音露索恩
+# ヴィクトリー・ネルソン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

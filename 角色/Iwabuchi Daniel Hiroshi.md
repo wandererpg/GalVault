@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c144412"
 type: "character"
-display_title: "岩渕达尼惠露比吕士"
-title_zh: "岩渕达尼惠露比吕士"
+display_title: "岩渕ダニエル比呂士"
+title_zh: ""
 title_ja: "岩渕ダニエル比呂士"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c144412"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Iwabuchi Daniel Hiroshi"
-  - "岩渕ダニエル比呂士"
 source_ids:
   vndb: "c144412"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c144412.webp"
 ---
 
-# 岩渕达尼惠露比吕士
+# 岩渕ダニエル比呂士
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

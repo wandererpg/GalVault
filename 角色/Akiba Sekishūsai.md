@@ -5,7 +5,10 @@ display_title: "秋叶石洲斋"
 title_zh: "秋叶石洲斋"
 title_ja: "秋葉  石洲斎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c165750"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Akiba Sekishūsai"
   - "秋葉  石洲斎"

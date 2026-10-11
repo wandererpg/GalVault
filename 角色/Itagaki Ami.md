@@ -5,7 +5,10 @@ display_title: "板垣亚巳"
 title_zh: "板垣亚巳"
 title_ja: "板垣 亜巳"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9798"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Itagaki Ami"
   - "板垣 亜巳"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c138696"
 type: "character"
-display_title: "S特P惠恩·布R惠"
-title_zh: "S特P惠恩·布R惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Stephen Burke"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138696"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Stephen Burke"
   - "Burke, Principal Burke"
 source_ids:
   vndb: "c138696"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c138696.webp"
 ---
 
-# S特P惠恩·布R惠
+# Stephen Burke
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

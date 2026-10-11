@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159783"
 type: "character"
-display_title: "C阿R芽恩·BL阿泽"
-title_zh: "C阿R芽恩·BL阿泽"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Carmen Blaze"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159783"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Carmen Blaze"
   - "Lady Blaze"
   - "The Red Lady"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c159783.webp"
 ---
 
-# C阿R芽恩·BL阿泽
+# Carmen Blaze
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c45318"
 type: "character"
-display_title: "特伊阿奈羽阿F惠露音惠德露拉恩斗"
-title_zh: "特伊阿奈羽阿F惠露音惠德露拉恩斗"
+display_title: "ティアナ・ハーフェル・ネーデルラント"
+title_zh: ""
 title_ja: "ティアナ・ハーフェル・ネーデルラント"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c45318"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tiana Havel Netherlands"
-  - "ティアナ・ハーフェル・ネーデルラント"
 source_ids:
   vndb: "c45318"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c45318.webp"
 ---
 
-# 特伊阿奈羽阿F惠露音惠德露拉恩斗
+# ティアナ・ハーフェル・ネーデルラント
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

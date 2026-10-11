@@ -5,7 +5,10 @@ display_title: "唐红"
 title_zh: "唐红"
 title_ja: "唐紅"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c26656"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Karakurenai"
   - "唐紅"

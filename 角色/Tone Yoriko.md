@@ -5,7 +5,10 @@ display_title: "刀根依子"
 title_zh: "刀根依子"
 title_ja: "刀根 依子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c55056"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tone Yoriko"
   - "刀根 依子"

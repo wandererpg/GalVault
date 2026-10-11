@@ -5,7 +5,10 @@ display_title: "松平容保"
 title_zh: "松平容保"
 title_ja: "松平 容保"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c63475"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Matsudaira Katamori"
   - "松平 容保"

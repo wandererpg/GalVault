@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159843"
 type: "character"
-display_title: "皮惠R蕾"
-title_zh: "皮惠R蕾"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Pierre"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159843"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Pierre"
 source_ids:
   vndb: "c159843"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c159843.webp"
 ---
 
-# 皮惠R蕾
+# Pierre
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

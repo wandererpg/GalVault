@@ -5,7 +5,10 @@ display_title: "皆木缀"
 title_zh: "皆木缀"
 title_ja: "皆木 綴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c90161"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Minagi Tsuzuru"
   - "皆木 綴"

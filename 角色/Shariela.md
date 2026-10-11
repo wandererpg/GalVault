@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c124858"
 type: "character"
-display_title: "夏莉惠拉"
-title_zh: "夏莉惠拉"
+display_title: "シャリエラ"
+title_zh: ""
 title_ja: "シャリエラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124858"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shariela"
-  - "シャリエラ"
 source_ids:
   vndb: "c124858"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c124858.webp"
 ---
 
-# 夏莉惠拉
+# シャリエラ
 
 
 ## 角色画像

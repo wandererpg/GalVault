@@ -5,7 +5,10 @@ display_title: "凤院坊了贤"
 title_zh: "凤院坊了贤"
 title_ja: "鳳院坊 了賢"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c19275"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Houinbou Ryouken"
   - "鳳院坊 了賢"

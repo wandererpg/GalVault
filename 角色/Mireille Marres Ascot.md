@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c22047"
 type: "character"
-display_title: "美蕾伊优真阿蕾寿阿寿子T斗"
-title_zh: "美蕾伊优真阿蕾寿阿寿子T斗"
+display_title: "ミレイユ・マーレス・アスコット"
+title_zh: ""
 title_ja: "ミレイユ・マーレス・アスコット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c22047"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mireille Marres Ascot"
-  - "ミレイユ・マーレス・アスコット"
 source_ids:
   vndb: "c22047"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c22047.webp"
 ---
 
-# 美蕾伊优真阿蕾寿阿寿子T斗
+# ミレイユ・マーレス・アスコット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

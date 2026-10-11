@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c2363"
 type: "character"
-display_title: "伊修太露"
-title_zh: "伊修太露"
+display_title: "イシュタル"
+title_zh: ""
 title_ja: "イシュタル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c2363"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ishtar"
-  - "イシュタル"
 source_ids:
   vndb: "c2363"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c2363.webp"
 ---
 
-# 伊修太露
+# イシュタル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

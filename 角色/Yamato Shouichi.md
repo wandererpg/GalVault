@@ -5,7 +5,10 @@ display_title: "大和庄一"
 title_zh: "大和庄一"
 title_ja: "大和 庄一"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c83669"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yamato Shouichi"
   - "大和 庄一"

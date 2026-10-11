@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c25722"
 type: "character"
-display_title: "尼伊奈＝奥奥太梦"
-title_zh: "尼伊奈＝奥奥太梦"
+display_title: "ニーナ＝オータム"
+title_zh: ""
 title_ja: "ニーナ＝オータム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c25722"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nina Autumn"
-  - "ニーナ＝オータム"
 source_ids:
   vndb: "c25722"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c25722.webp"
 ---
 
-# 尼伊奈＝奥奥太梦
+# ニーナ＝オータム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

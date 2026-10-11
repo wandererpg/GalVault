@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c97392"
 type: "character"
-display_title: "惠V伊L·S皮莉T"
-title_zh: "惠V伊L·S皮莉T"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Evil Spirit"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97392"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Evil Spirit"
 source_ids:
   vndb: "c97392"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c97392.webp"
 ---
 
-# 惠V伊L·S皮莉T
+# Evil Spirit
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

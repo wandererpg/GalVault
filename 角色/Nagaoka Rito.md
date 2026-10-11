@@ -5,7 +5,10 @@ display_title: "长冈璃灯"
 title_zh: "长冈璃灯"
 title_ja: "長岡 璃燈"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c98077"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nagaoka Rito"
   - "長岡 璃燈"

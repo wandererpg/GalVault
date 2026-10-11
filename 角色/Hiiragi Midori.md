@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c2370"
 type: "character"
-display_title: "柊绿"
-title_zh: "柊绿"
+display_title: "柊 みどり"
+title_zh: ""
 title_ja: "柊 みどり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c2370"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hiiragi Midori"
-  - "柊 みどり"
 source_ids:
   vndb: "c2370"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c2370.webp"
 ---
 
-# 柊绿
+# 柊 みどり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

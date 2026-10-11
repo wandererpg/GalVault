@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c135511"
 type: "character"
-display_title: "泽R莫S"
-title_zh: "泽R莫S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Zermos"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c135511"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Zermos"
 source_ids:
   vndb: "c135511"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c135511.webp"
 ---
 
-# 泽R莫S
+# Zermos
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

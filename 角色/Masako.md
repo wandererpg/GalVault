@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c156620"
 type: "character"
-display_title: "真沙子"
-title_zh: "真沙子"
+display_title: "まさ子"
+title_zh: ""
 title_ja: "まさ子"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c156620"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Masako"
-  - "まさ子"
 source_ids:
   vndb: "c156620"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c156620.webp"
 ---
 
-# 真沙子
+# まさ子
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

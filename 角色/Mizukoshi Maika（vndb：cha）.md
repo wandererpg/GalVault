@@ -5,7 +5,10 @@ display_title: "水越舞佳"
 title_zh: "水越舞佳"
 title_ja: "水越 舞佳"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c7082"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mizukoshi Maika"
   - "水越 舞佳"

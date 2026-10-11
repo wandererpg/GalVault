@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c23307"
 type: "character"
-display_title: "星川子羽露"
-title_zh: "星川子羽露"
+display_title: "星川 こはる"
+title_zh: ""
 title_ja: "星川 こはる"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c23307"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hoshikawa Koharu"
-  - "星川 こはる"
   - "Wankoharu"
   - "Koha-chan"
   - "須賀川 こはる"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c23307.webp"
 ---
 
-# 星川子羽露
+# 星川 こはる
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

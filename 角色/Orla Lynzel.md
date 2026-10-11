@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c101348"
 type: "character"
-display_title: "奥奥拉莉恩泽露"
-title_zh: "奥奥拉莉恩泽露"
+display_title: "オーラ・リンゼル"
+title_zh: ""
 title_ja: "オーラ・リンゼル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c101348"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Orla Lynzel"
-  - "オーラ・リンゼル"
 source_ids:
   vndb: "c101348"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c101348.webp"
 ---
 
-# 奥奥拉莉恩泽露
+# オーラ・リンゼル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

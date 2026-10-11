@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159961"
 type: "character"
-display_title: "V阿D伊M·雅莉恩"
-title_zh: "V阿D伊M·雅莉恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Vadim Garin"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159961"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Vadim Garin"
   - "Vadik"
 source_ids:
   vndb: "c159961"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c159961.webp"
 ---
 
-# V阿D伊M·雅莉恩
+# Vadim Garin
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39836"
 type: "character"
-display_title: "惠堂雅阿布拉伊阿阿寿"
-title_zh: "惠堂雅阿布拉伊阿阿寿"
+display_title: "エドガー・ブライアース"
+title_zh: ""
 title_ja: "エドガー・ブライアース"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39836"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Edgar Briers"
-  - "エドガー・ブライアース"
   - "Ratt"
 source_ids:
   vndb: "c39836"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c39836.webp"
 ---
 
-# 惠堂雅阿布拉伊阿阿寿
+# エドガー・ブライアース
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

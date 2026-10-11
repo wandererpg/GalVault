@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43105"
 type: "character"
-display_title: "寿特拉布蕾惠芽露"
-title_zh: "寿特拉布蕾惠芽露"
+display_title: "ステラ・ブレーメル"
+title_zh: ""
 title_ja: "ステラ・ブレーメル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43105"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Stella Bremer"
-  - "ステラ・ブレーメル"
 source_ids:
   vndb: "c43105"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43105.webp"
 ---
 
-# 寿特拉布蕾惠芽露
+# ステラ・ブレーメル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

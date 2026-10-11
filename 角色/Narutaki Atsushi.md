@@ -5,7 +5,10 @@ display_title: "鸣泷淳士"
 title_zh: "鸣泷淳士"
 title_ja: "鳴滝 淳士"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c15825"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Narutaki Atsushi"
   - "鳴滝 淳士"

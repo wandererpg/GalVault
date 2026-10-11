@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c3684"
 type: "character"
-display_title: "修蕾莉阿"
-title_zh: "修蕾莉阿"
+display_title: "シュレリア"
+title_zh: ""
 title_ja: "シュレリア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c3684"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shurelia"
-  - "シュレリア"
   - "Eoria"
   - "エオリア"
   - "Syureria"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c3684.webp"
 ---
 
-# 修蕾莉阿
+# シュレリア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c66035"
 type: "character"
-display_title: "真露寿"
-title_zh: "真露寿"
+display_title: "マルス"
+title_zh: ""
 title_ja: "マルス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c66035"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mars Gradivus"
-  - "マルス"
 source_ids:
   vndb: "c66035"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c66035.webp"
 ---
 
-# 真露寿
+# マルス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

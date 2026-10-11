@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c168313"
 type: "character"
-display_title: "久洛奥D伊阿奥露羽古蕾伊乌奥奥久"
-title_zh: "久洛奥D伊阿奥露羽古蕾伊乌奥奥久"
+display_title: "クローディア・オルハ・グレイウォーク"
+title_zh: ""
 title_ja: "クローディア・オルハ・グレイウォーク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c168313"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Claudia Orha Greywalk"
-  - "クローディア・オルハ・グレイウォーク"
   - "クロ先輩"
   - "Kuro-Senpai"
   - "スプリーム"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c168313.webp"
 ---
 
-# 久洛奥D伊阿奥露羽古蕾伊乌奥奥久
+# クローディア・オルハ・グレイウォーク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

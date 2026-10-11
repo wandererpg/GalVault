@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30203"
 type: "character"
-display_title: "加美伊努濑T特"
-title_zh: "加美伊努濑T特"
+display_title: "カミーヌ・セッテ"
+title_zh: ""
 title_ja: "カミーヌ・セッテ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30203"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kaminu Sette"
-  - "カミーヌ・セッテ"
 source_ids:
   vndb: "c30203"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30203.webp"
 ---
 
-# 加美伊努濑T特
+# カミーヌ・セッテ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

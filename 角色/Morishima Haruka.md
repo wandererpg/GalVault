@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8749"
 type: "character"
-display_title: "森岛遥"
-title_zh: "森岛遥"
+display_title: "森島 はるか"
+title_zh: ""
 title_ja: "森島 はるか"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8749"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Morishima Haruka"
-  - "森島 はるか"
   - "Morishima Lovely Haruka"
   - "森島・ラブリー・はるか"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c8749.webp"
 ---
 
-# 森岛遥
+# 森島 はるか
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

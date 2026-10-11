@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c11625"
 type: "character"
-display_title: "白河萤"
-title_zh: "白河萤"
+display_title: "白河 ほたる"
+title_zh: ""
 title_ja: "白河 ほたる"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c11625"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shirakawa Hotaru"
-  - "白河 ほたる"
   - "たるたる"
   - "Tarutaru"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c11625.webp"
 ---
 
-# 白河萤
+# 白河 ほたる
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

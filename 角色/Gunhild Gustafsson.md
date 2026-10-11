@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c85770"
 type: "character"
-display_title: "久恩日露堂古寿太芙索恩"
-title_zh: "久恩日露堂古寿太芙索恩"
+display_title: "ギュンヒルド・グスタフソン"
+title_zh: ""
 title_ja: "ギュンヒルド・グスタフソン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85770"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gunhild Gustafsson"
-  - "ギュンヒルド・グスタフソン"
 source_ids:
   vndb: "c85770"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c85770.webp"
 ---
 
-# 久恩日露堂古寿太芙索恩
+# ギュンヒルド・グスタフソン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

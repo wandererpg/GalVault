@@ -5,7 +5,10 @@ display_title: "桥本雄大"
 title_zh: "桥本雄大"
 title_ja: "橋本 雄大"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c87413"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hashimoto Yuudai"
   - "橋本 雄大"

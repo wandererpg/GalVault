@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13837"
 type: "character"
-display_title: "丸城户沙堂"
-title_zh: "丸城户沙堂"
+display_title: "丸城戸 サド"
+title_zh: ""
 title_ja: "丸城戸 サド"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13837"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Marukido Sado"
-  - "丸城戸 サド"
 source_ids:
   vndb: "c13837"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c13837.webp"
 ---
 
-# 丸城户沙堂
+# 丸城戸 サド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

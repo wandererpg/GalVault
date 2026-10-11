@@ -5,7 +5,10 @@ display_title: "伊村千代子"
 title_zh: "伊村千代子"
 title_ja: "伊村 千代子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c39312"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Imura Chiyoko"
   - "伊村 千代子"

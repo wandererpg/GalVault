@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c47136"
 type: "character"
-display_title: "伊莉阿寿"
-title_zh: "伊莉阿寿"
+display_title: "イリアス"
+title_zh: ""
 title_ja: "イリアス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c47136"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ilias"
-  - "イリアス"
 source_ids:
   vndb: "c47136"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c47136.webp"
 ---
 
-# 伊莉阿寿
+# イリアス
 
 
 ## 角色画像

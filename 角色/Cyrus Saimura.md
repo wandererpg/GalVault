@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38349"
 type: "character"
-display_title: "沙伊拉寿斋村"
-title_zh: "沙伊拉寿斋村"
+display_title: "サイラス 斎村"
+title_zh: ""
 title_ja: "サイラス 斎村"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38349"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cyrus Saimura"
-  - "サイラス 斎村"
   - "Toyo Saimura"
 source_ids:
   vndb: "c38349"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c38349.webp"
 ---
 
-# 沙伊拉寿斋村
+# サイラス 斎村
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

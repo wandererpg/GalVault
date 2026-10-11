@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c2874"
 type: "character"
-display_title: "毛利特露"
-title_zh: "毛利特露"
+display_title: "毛利 てる"
+title_zh: ""
 title_ja: "毛利 てる"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c2874"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mouri Teru"
-  - "毛利 てる"
 source_ids:
   vndb: "c2874"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c2874.webp"
 ---
 
-# 毛利特露
+# 毛利 てる
 
 
 ## 角色画像

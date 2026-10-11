@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c154153"
 type: "character"
-display_title: "羽美羽美"
-title_zh: "羽美羽美"
+display_title: "ハミハミ"
+title_zh: ""
 title_ja: "ハミハミ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c154153"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hamihami"
-  - "ハミハミ"
 source_ids:
   vndb: "c154153"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c154153.webp"
 ---
 
-# 羽美羽美
+# ハミハミ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

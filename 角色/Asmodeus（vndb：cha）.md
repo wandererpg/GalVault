@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14589"
 type: "character"
-display_title: "阿寿莫德乌寿"
-title_zh: "阿寿莫德乌寿"
+display_title: "アスモデウス"
+title_zh: ""
 title_ja: "アスモデウス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14589"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Asmodeus"
-  - "アスモデウス"
   - "Solomon's Deadly Sin"
   - "Great Lust"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c14589.webp"
 ---
 
-# 阿寿莫德乌寿
+# アスモデウス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

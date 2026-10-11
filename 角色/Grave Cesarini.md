@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c27006"
 type: "character"
-display_title: "古拉阿V惠C惠扎莉伊尼"
-title_zh: "古拉阿V惠C惠扎莉伊尼"
+display_title: "グラーヴェ・チェザリーニ"
+title_zh: ""
 title_ja: "グラーヴェ・チェザリーニ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c27006"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Grave Cesarini"
-  - "グラーヴェ・チェザリーニ"
 source_ids:
   vndb: "c27006"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c27006.webp"
 ---
 
-# 古拉阿V惠C惠扎莉伊尼
+# グラーヴェ・チェザリーニ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

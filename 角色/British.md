@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c97459"
 type: "character"
-display_title: "布莉特伊修"
-title_zh: "布莉特伊修"
+display_title: "ブリティシュ"
+title_zh: ""
 title_ja: "ブリティシュ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97459"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "British"
-  - "ブリティシュ"
   - "Concrete Man"
 source_ids:
   vndb: "c97459"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c97459.webp"
 ---
 
-# 布莉特伊修
+# ブリティシュ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "橘落叶"
 title_zh: "橘落叶"
 title_ja: "橘 落葉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c17042"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tachibana Ochiba"
   - "橘 落葉"

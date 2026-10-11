@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c93746"
 type: "character"
-display_title: "达恩恩Y·真RSH"
-title_zh: "达恩恩Y·真RSH"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Danny Marsh"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c93746"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Danny Marsh"
 source_ids:
   vndb: "c93746"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c93746.webp"
 ---
 
-# 达恩恩Y·真RSH
+# Danny Marsh
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

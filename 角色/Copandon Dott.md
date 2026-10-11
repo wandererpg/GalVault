@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c58184"
 type: "character"
-display_title: "子帕恩堂恩堂T斗"
-title_zh: "子帕恩堂恩堂T斗"
+display_title: "コパンドン・ドット"
+title_zh: ""
 title_ja: "コパンドン・ドット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c58184"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Copandon Dott"
-  - "コパンドン・ドット"
   - "Copandon Dot"
 source_ids:
   vndb: "c58184"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c58184.webp"
 ---
 
-# 子帕恩堂恩堂T斗
+# コパンドン・ドット
 
 
 ## 角色画像

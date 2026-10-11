@@ -5,7 +5,10 @@ display_title: "远近彰骏"
 title_zh: "远近彰骏"
 title_ja: "遠近 彰駿"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c81381"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tochika Akitoshi"
   - "遠近 彰駿"

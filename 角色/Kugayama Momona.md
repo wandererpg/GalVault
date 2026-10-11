@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c15784"
 type: "character"
-display_title: "久我山莫莫奈"
-title_zh: "久我山莫莫奈"
+display_title: "久我山 ももな"
+title_zh: ""
 title_ja: "久我山 ももな"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c15784"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kugayama Momona"
-  - "久我山 ももな"
 source_ids:
   vndb: "c15784"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c15784.webp"
 ---
 
-# 久我山莫莫奈
+# 久我山 ももな
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

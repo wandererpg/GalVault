@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61275"
 type: "character"
-display_title: "乌奈吉巴恩拉阿"
-title_zh: "乌奈吉巴恩拉阿"
+display_title: "ウナギ・バンラー"
+title_zh: ""
 title_ja: "ウナギ・バンラー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61275"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Unagi Banra"
-  - "ウナギ・バンラー"
   - "Unagi Banla"
   - "Унаги Банра"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c61275.webp"
 ---
 
-# 乌奈吉巴恩拉阿
+# ウナギ・バンラー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

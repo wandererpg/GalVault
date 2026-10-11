@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c149898"
 type: "character"
-display_title: "惠露泽希露１世"
-title_zh: "惠露泽希露１世"
+display_title: "エルゼキル１世"
+title_zh: ""
 title_ja: "エルゼキル１世"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149898"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ezekiel I"
-  - "エルゼキル１世"
 source_ids:
   vndb: "c149898"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c149898.webp"
 ---
 
-# 惠露泽希露１世
+# エルゼキル１世
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

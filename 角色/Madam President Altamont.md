@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c113586"
 type: "character"
-display_title: "阿露太莫恩斗社长夫人"
-title_zh: "阿露太莫恩斗社长夫人"
+display_title: "アルタモント社長夫人"
+title_zh: ""
 title_ja: "アルタモント社長夫人"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c113586"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Madam President Altamont"
-  - "アルタモント社長夫人"
   - "アルタモント夫人"
   - "Madam Altamont"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c113586.webp"
 ---
 
-# 阿露太莫恩斗社长夫人
+# アルタモント社長夫人
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

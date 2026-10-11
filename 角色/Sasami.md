@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c85012"
 type: "character"
-display_title: "沙沙美"
-title_zh: "沙沙美"
+display_title: "ササミ"
+title_zh: ""
 title_ja: "ササミ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85012"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sasami"
-  - "ササミ"
 source_ids:
   vndb: "c85012"
 source_urls:
   vndb: "https://vndb.org/c85012"
 ---
 
-# 沙沙美
+# ササミ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

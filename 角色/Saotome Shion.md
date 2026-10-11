@@ -5,7 +5,10 @@ display_title: "早乙女诗音"
 title_zh: "早乙女诗音"
 title_ja: "早乙女 詩音"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c17185"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Saotome Shion"
   - "早乙女 詩音"

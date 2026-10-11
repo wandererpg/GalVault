@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c131400"
 type: "character"
-display_title: "嘉S佩R·和G音R"
-title_zh: "嘉S佩R·和G音R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jasper Wagner"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c131400"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jasper Wagner"
   - "Colonel Wagner"
 source_ids:
   vndb: "c131400"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c131400.webp"
 ---
 
-# 嘉S佩R·和G音R
+# Jasper Wagner
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c150525"
 type: "character"
-display_title: "寺本太希"
-title_zh: "寺本太希"
+display_title: "寺本 タキ"
+title_zh: ""
 title_ja: "寺本 タキ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c150525"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Teramoto Taki"
-  - "寺本 タキ"
 source_ids:
   vndb: "c150525"
 source_urls:
   vndb: "https://vndb.org/c150525"
 ---
 
-# 寺本太希
+# 寺本 タキ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

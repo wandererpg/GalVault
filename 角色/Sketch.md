@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10491"
 type: "character"
-display_title: "寿惠T千"
-title_zh: "寿惠T千"
+display_title: "スケッチ"
+title_zh: ""
 title_ja: "スケッチ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10491"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sketch"
-  - "スケッチ"
 source_ids:
   vndb: "c10491"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c10491.webp"
 ---
 
-# 寿惠T千
+# スケッチ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

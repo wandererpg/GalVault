@@ -5,7 +5,10 @@ display_title: "狐森缀"
 title_zh: "狐森缀"
 title_ja: "狐森 綴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c24988"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Komori Tsuzuri"
   - "狐森 綴"

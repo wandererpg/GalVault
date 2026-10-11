@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16039"
 type: "character"
-display_title: "伊莉伊奈惠斗露寿太雅"
-title_zh: "伊莉伊奈惠斗露寿太雅"
+display_title: "イリーナ・E・トルスタヤ"
+title_zh: ""
 title_ja: "イリーナ・E・トルスタヤ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16039"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Irina E. Tolstaya"
-  - "イリーナ・E・トルスタヤ"
 source_ids:
   vndb: "c16039"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c16039.webp"
 ---
 
-# 伊莉伊奈惠斗露寿太雅
+# イリーナ・E・トルスタヤ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

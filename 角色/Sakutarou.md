@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17350"
 type: "character"
-display_title: "沙久太洛乌"
-title_zh: "沙久太洛乌"
+display_title: "さくたろう"
+title_zh: ""
 title_ja: "さくたろう"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17350"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sakutarou"
-  - "さくたろう"
 source_ids:
   vndb: "c17350"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c17350.webp"
 ---
 
-# 沙久太洛乌
+# さくたろう
 
 
 ## 角色画像

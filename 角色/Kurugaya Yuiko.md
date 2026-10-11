@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c1874"
 type: "character"
-display_title: "来惠谷唯湖"
-title_zh: "来惠谷唯湖"
+display_title: "来ヶ谷 唯湖"
+title_zh: ""
 title_ja: "来ヶ谷 唯湖"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c1874"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kurugaya Yuiko"
-  - "来ヶ谷 唯湖"
   - "Elizabeth"
   - "Lizbeth"
   - "ゆいちゃん"
@@ -22,7 +24,7 @@ source_urls:
 portrait_image: "assets/characters/c1874.webp"
 ---
 
-# 来惠谷唯湖
+# 来ヶ谷 唯湖
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

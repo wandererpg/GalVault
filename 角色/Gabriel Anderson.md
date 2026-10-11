@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c132183"
 type: "character"
-display_title: "雅B莉惠L·阿恩德R索恩"
-title_zh: "雅B莉惠L·阿恩德R索恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Gabriel Anderson"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132183"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Gabriel Anderson"
   - "Gab"
 source_ids:
   vndb: "c132183"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c132183.webp"
 ---
 
-# 雅B莉惠L·阿恩德R索恩
+# Gabriel Anderson
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

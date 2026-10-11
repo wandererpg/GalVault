@@ -5,7 +5,10 @@ display_title: "夏目圭"
 title_zh: "夏目圭"
 title_ja: "夏目 圭"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c35358"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Natsume Kei"
   - "夏目 圭"

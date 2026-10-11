@@ -5,7 +5,10 @@ display_title: "凑斗光"
 title_zh: "凑斗光"
 title_ja: "湊斗 光"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20987"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Minato Hikaru"
   - "湊斗 光"

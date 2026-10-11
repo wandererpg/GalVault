@@ -5,7 +5,10 @@ display_title: "成岛奈月"
 title_zh: "成岛奈月"
 title_ja: "成島 奈月"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14582"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Narushima Natsuki"
   - "成島 奈月"

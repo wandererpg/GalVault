@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87368"
 type: "character"
-display_title: "羽伊音寿"
-title_zh: "羽伊音寿"
+display_title: "ハイネス"
+title_zh: ""
 title_ja: "ハイネス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87368"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Haynes"
-  - "ハイネス"
   - "Prince Haynes"
 source_ids:
   vndb: "c87368"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c87368.webp"
 ---
 
-# 羽伊音寿
+# ハイネス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

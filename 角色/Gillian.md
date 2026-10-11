@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c143503"
 type: "character"
-display_title: "吉LL伊阿恩"
-title_zh: "吉LL伊阿恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Gillian"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c143503"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Gillian"
 source_ids:
   vndb: "c143503"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c143503.webp"
 ---
 
-# 吉LL伊阿恩
+# Gillian
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

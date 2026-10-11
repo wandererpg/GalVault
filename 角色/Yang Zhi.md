@@ -5,7 +5,10 @@ display_title: "杨志"
 title_zh: "杨志"
 title_ja: "楊志"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9953"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yang Zhi"
   - "楊志"

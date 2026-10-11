@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c107666"
 type: "character"
-display_title: "V阿蕾恩特伊奈"
-title_zh: "V阿蕾恩特伊奈"
+display_title: "ヴァレンティナ"
+title_zh: ""
 title_ja: "ヴァレンティナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c107666"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Valentina"
-  - "ヴァレンティナ"
   - "Tina"
 source_ids:
   vndb: "c107666"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c107666.webp"
 ---
 
-# V阿蕾恩特伊奈
+# ヴァレンティナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61218"
 type: "character"
-display_title: "德比D堂佳努穗奥久"
-title_zh: "德比D堂佳努穗奥久"
+display_title: "デビッド・キャヌホーク"
+title_zh: ""
 title_ja: "デビッド・キャヌホーク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61218"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "David Keanuhawk"
-  - "デビッド・キャヌホーク"
 source_ids:
   vndb: "c61218"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61218.webp"
 ---
 
-# 德比D堂佳努穗奥久
+# デビッド・キャヌホーク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

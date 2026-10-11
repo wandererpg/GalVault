@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61260"
 type: "character"
-display_title: "阿古尼普乌夏恩"
-title_zh: "阿古尼普乌夏恩"
+display_title: "アグニ・プーシャン"
+title_zh: ""
 title_ja: "アグニ・プーシャン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61260"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Agni Pushan"
-  - "アグニ・プーシャン"
 source_ids:
   vndb: "c61260"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61260.webp"
 ---
 
-# 阿古尼普乌夏恩
+# アグニ・プーシャン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

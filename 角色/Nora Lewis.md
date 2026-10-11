@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c89303"
 type: "character"
-display_title: "乃拉·L惠W伊S"
-title_zh: "乃拉·L惠W伊S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Nora Lewis"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c89303"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Nora Lewis"
   - "Little Red"
 source_ids:
   vndb: "c89303"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c89303.webp"
 ---
 
-# 乃拉·L惠W伊S
+# Nora Lewis
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c28998"
 type: "character"
-display_title: "芽露久莉乌寿"
-title_zh: "芽露久莉乌寿"
+display_title: "メルクリウス"
+title_zh: ""
 title_ja: "メルクリウス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c28998"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mercurius"
-  - "メルクリウス"
   - "Alessandro di Cagliostro"
   - "Count of St Germain"
   - "Hermes Trismegistus"
@@ -23,7 +25,7 @@ source_urls:
 portrait_image: "assets/characters/c28998.webp"
 ---
 
-# 芽露久莉乌寿
+# メルクリウス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

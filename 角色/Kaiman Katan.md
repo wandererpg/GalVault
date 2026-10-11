@@ -5,7 +5,10 @@ display_title: "海漫华淡"
 title_zh: "海漫华淡"
 title_ja: "海漫 華淡"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c161703"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kaiman Katan"
   - "海漫 華淡"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c166143"
 type: "character"
-display_title: "野乃原日芽"
-title_zh: "野乃原日芽"
+display_title: "野ノ原ヒメ"
+title_zh: ""
 title_ja: "野ノ原ヒメ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c166143"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nonohara Hime"
-  - "野ノ原ヒメ"
 source_ids:
   vndb: "c166143"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c166143.webp"
 ---
 
-# 野乃原日芽
+# 野ノ原ヒメ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

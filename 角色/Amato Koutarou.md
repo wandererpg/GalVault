@@ -5,7 +5,10 @@ display_title: "天户香太郎"
 title_zh: "天户香太郎"
 title_ja: "天戸 香太郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2428"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Amato Koutarou"
   - "天戸 香太郎"

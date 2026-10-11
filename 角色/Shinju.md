@@ -5,7 +5,10 @@ display_title: "真珠"
 title_zh: "真珠"
 title_ja: "真珠"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c151515"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shinju"
 source_ids:

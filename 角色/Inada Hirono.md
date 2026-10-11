@@ -5,7 +5,10 @@ display_title: "稻田比吕乃"
 title_zh: "稻田比吕乃"
 title_ja: "稲田 比呂乃"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c28950"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Inada Hirono"
   - "稲田 比呂乃"

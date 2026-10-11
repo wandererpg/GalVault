@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c97534"
 type: "character"
-display_title: "奥沙子·奥沙加"
-title_zh: "奥沙子·奥沙加"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Osako Osaka"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97534"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Osako Osaka"
 source_ids:
   vndb: "c97534"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c97534.webp"
 ---
 
-# 奥沙子·奥沙加
+# Osako Osaka
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "月白静"
 title_zh: "月白静"
 title_ja: "月白 静"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43154"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsukishiro Shizuka"
   - "月白 静"

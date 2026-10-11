@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c172918"
 type: "character"
-display_title: "伊修"
-title_zh: "伊修"
+display_title: "イシュ"
+title_zh: ""
 title_ja: "イシュ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c172918"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ish"
-  - "イシュ"
 source_ids:
   vndb: "c172918"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c172918.webp"
 ---
 
-# 伊修
+# イシュ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "晴山太一郎"
 title_zh: "晴山太一郎"
 title_ja: "晴山太一郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c90814"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Haruyama Taichirou"
 source_ids:

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c83404"
 type: "character"
-display_title: "伊露F阿堂德莉惠"
-title_zh: "伊露F阿堂德莉惠"
+display_title: "イル・ファド・デ・リエ"
+title_zh: ""
 title_ja: "イル・ファド・デ・リエ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c83404"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Il Fado de Rie"
-  - "イル・ファド・デ・リエ"
 source_ids:
   vndb: "c83404"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c83404.webp"
 ---
 
-# 伊露F阿堂德莉惠
+# イル・ファド・デ・リエ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

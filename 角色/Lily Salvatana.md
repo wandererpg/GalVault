@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8237"
 type: "character"
-display_title: "莉莉伊沙露巴太阿奈"
-title_zh: "莉莉伊沙露巴太阿奈"
+display_title: "リリィ・サルバターナ"
+title_zh: ""
 title_ja: "リリィ・サルバターナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8237"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lily Salvatana"
-  - "リリィ・サルバターナ"
   - "Vulture"
   - "サルバターナ特務大尉"
   - "Special Lieutenant Salvatana"
@@ -21,7 +23,7 @@ source_urls:
 portrait_image: "assets/characters/c8237.webp"
 ---
 
-# 莉莉伊沙露巴太阿奈
+# リリィ・サルバターナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

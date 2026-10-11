@@ -5,7 +5,10 @@ display_title: "冢田理"
 title_zh: "冢田理"
 title_ja: "塚田 理"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c127765"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsukada Osamu"
   - "塚田 理"

@@ -5,7 +5,10 @@ display_title: "亚内武土"
 title_zh: "亚内武土"
 title_ja: "亜内 武土"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c30294"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Auchi Taketsuchi"
   - "亜内 武土"

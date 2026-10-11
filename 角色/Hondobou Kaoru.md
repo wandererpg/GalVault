@@ -5,7 +5,10 @@ display_title: "本土坊薰"
 title_zh: "本土坊薰"
 title_ja: "本土坊 薫"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14419"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hondobou Kaoru"
   - "本土坊 薫"

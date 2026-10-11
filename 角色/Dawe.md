@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c139761"
 type: "character"
-display_title: "达W惠"
-title_zh: "达W惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Dawe"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c139761"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Dawe"
 source_ids:
   vndb: "c139761"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c139761.webp"
 ---
 
-# 达W惠
+# Dawe
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

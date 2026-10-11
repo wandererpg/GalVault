@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c37630"
 type: "character"
-display_title: "T惠·真TCH真惠R"
-title_zh: "T惠·真TCH真惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "The Matchmaker"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37630"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "The Matchmaker"
 source_ids:
   vndb: "c37630"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c37630.webp"
 ---
 
-# T惠·真TCH真惠R
+# The Matchmaker
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

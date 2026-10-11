@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c60822"
 type: "character"
-display_title: "子久莉子"
-title_zh: "子久莉子"
+display_title: "コクリコ"
+title_zh: ""
 title_ja: "コクリコ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c60822"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Coquelicot"
-  - "コクリコ"
 source_ids:
   vndb: "c60822"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c60822.webp"
 ---
 
-# 子久莉子
+# コクリコ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

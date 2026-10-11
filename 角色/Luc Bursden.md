@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c166395"
 type: "character"
-display_title: "拉K久巴阿寿德恩"
-title_zh: "拉K久巴阿寿德恩"
+display_title: "ラック・バースデン"
+title_zh: ""
 title_ja: "ラック・バースデン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c166395"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Luc Bursden"
-  - "ラック・バースデン"
 source_ids:
   vndb: "c166395"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c166395.webp"
 ---
 
-# 拉K久巴阿寿德恩
+# ラック・バースデン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

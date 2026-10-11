@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c55889"
 type: "character"
-display_title: "格恩悟洛奥"
-title_zh: "格恩悟洛奥"
+display_title: "ゲンゴロー"
+title_zh: ""
 title_ja: "ゲンゴロー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c55889"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gengorou"
-  - "ゲンゴロー"
   - "Goro"
 source_ids:
   vndb: "c55889"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c55889.webp"
 ---
 
-# 格恩悟洛奥
+# ゲンゴロー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

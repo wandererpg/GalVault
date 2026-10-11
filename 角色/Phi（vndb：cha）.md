@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c83585"
 type: "character"
-display_title: "F伊伊"
-title_zh: "F伊伊"
+display_title: "フィー"
+title_zh: ""
 title_ja: "フィー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c83585"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Phi"
-  - "フィー"
 source_ids:
   vndb: "c83585"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c83585.webp"
 ---
 
-# F伊伊
+# フィー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "光"
 title_zh: "光"
 title_ja: "光"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c101460"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hikari"
 source_ids:

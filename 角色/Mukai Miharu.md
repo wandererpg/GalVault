@@ -5,7 +5,10 @@ display_title: "迎美阳"
 title_zh: "迎美阳"
 title_ja: "迎 美陽"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c36248"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mukai Miharu"
   - "迎 美陽"

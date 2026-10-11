@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43112"
 type: "character"
-display_title: "天衣美露久"
-title_zh: "天衣美露久"
+display_title: "天衣 みるく"
+title_zh: ""
 title_ja: "天衣 みるく"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43112"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Amai Miruku"
-  - "天衣 みるく"
   - "美乳"
 source_ids:
   vndb: "c43112"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c43112.webp"
 ---
 
-# 天衣美露久
+# 天衣 みるく
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

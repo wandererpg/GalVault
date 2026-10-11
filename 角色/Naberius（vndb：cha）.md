@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30622"
 type: "character"
-display_title: "奈贝莉乌寿"
-title_zh: "奈贝莉乌寿"
+display_title: "ナベリウス"
+title_zh: ""
 title_ja: "ナベリウス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30622"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Naberius"
-  - "ナベリウス"
 source_ids:
   vndb: "c30622"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30622.webp"
 ---
 
-# 奈贝莉乌寿
+# ナベリウス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

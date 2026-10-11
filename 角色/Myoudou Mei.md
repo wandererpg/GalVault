@@ -5,7 +5,10 @@ display_title: "明堂萌依"
 title_zh: "明堂萌依"
 title_ja: "明堂 萌依"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c116127"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Myoudou Mei"
   - "明堂 萌依"

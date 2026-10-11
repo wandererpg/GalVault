@@ -5,7 +5,10 @@ display_title: "橘真由美"
 title_zh: "橘真由美"
 title_ja: "橘 真由美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c248"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tachibana Mayumi"
   - "橘 真由美"

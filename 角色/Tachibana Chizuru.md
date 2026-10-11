@@ -5,7 +5,10 @@ display_title: "立花智鹤"
 title_zh: "立花智鹤"
 title_ja: "立花 智鶴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c36735"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tachibana Chizuru"
   - "立花 智鶴"

@@ -5,7 +5,10 @@ display_title: "时雨宗右卫门"
 title_zh: "时雨宗右卫门"
 title_ja: "時雨 宗右衛門"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c154999"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shigure Souemon"
   - "時雨 宗右衛門"

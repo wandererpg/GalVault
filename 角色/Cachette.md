@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c25728"
 type: "character"
-display_title: "加诗惠T斗"
-title_zh: "加诗惠T斗"
+display_title: "カシェット"
+title_zh: ""
 title_ja: "カシェット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c25728"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cachette"
-  - "カシェット"
 source_ids:
   vndb: "c25728"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c25728.webp"
 ---
 
-# 加诗惠T斗
+# カシェット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

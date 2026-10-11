@@ -5,7 +5,10 @@ display_title: "片濑美希"
 title_zh: "片濑美希"
 title_ja: "片瀬 美希"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c28755"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Katase Miki"
   - "片瀬 美希"

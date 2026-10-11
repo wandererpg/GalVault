@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c69596"
 type: "character"
-display_title: "古拉阿音古乌露"
-title_zh: "古拉阿音古乌露"
+display_title: "グラァネ・グール"
+title_zh: ""
 title_ja: "グラァネ・グール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c69596"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Grani Ghoul"
-  - "グラァネ・グール"
 source_ids:
   vndb: "c69596"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c69596.webp"
 ---
 
-# 古拉阿音古乌露
+# グラァネ・グール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

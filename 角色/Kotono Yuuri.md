@@ -5,7 +5,10 @@ display_title: "琴乃悠里"
 title_zh: "琴乃悠里"
 title_ja: "琴乃 悠里"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14496"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kotono Yuuri"
   - "琴乃 悠里"

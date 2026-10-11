@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34414"
 type: "character"
-display_title: "雅露梦寿古莉兹拉阿"
-title_zh: "雅露梦寿古莉兹拉阿"
+display_title: "ガルムス・グリズラー"
+title_zh: ""
 title_ja: "ガルムス・グリズラー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34414"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Garmus Grizzler"
-  - "ガルムス・グリズラー"
 source_ids:
   vndb: "c34414"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c34414.webp"
 ---
 
-# 雅露梦寿古莉兹拉阿
+# ガルムス・グリズラー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

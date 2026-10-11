@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39308"
 type: "character"
-display_title: "本条院斗希"
-title_zh: "本条院斗希"
+display_title: "本条院 トキ"
+title_zh: ""
 title_ja: "本条院 トキ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39308"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Honjouin Toki"
-  - "本条院 トキ"
 source_ids:
   vndb: "c39308"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c39308.webp"
 ---
 
-# 本条院斗希
+# 本条院 トキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

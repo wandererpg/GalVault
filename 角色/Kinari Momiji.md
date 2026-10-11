@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c63711"
 type: "character"
-display_title: "木那里莫美吉"
-title_zh: "木那里莫美吉"
+display_title: "木那里 もみじ"
+title_zh: ""
 title_ja: "木那里 もみじ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c63711"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kinari Momiji"
-  - "木那里 もみじ"
 source_ids:
   vndb: "c63711"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c63711.webp"
 ---
 
-# 木那里莫美吉
+# 木那里 もみじ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

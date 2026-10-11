@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30530"
 type: "character"
-display_title: "伊莉伊奈真阿诗露恩"
-title_zh: "伊莉伊奈真阿诗露恩"
+display_title: "イリーナ・マーシルン"
+title_zh: ""
 title_ja: "イリーナ・マーシルン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30530"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Irina Marcillen"
-  - "イリーナ・マーシルン"
 source_ids:
   vndb: "c30530"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30530.webp"
 ---
 
-# 伊莉伊奈真阿诗露恩
+# イリーナ・マーシルン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

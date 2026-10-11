@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c141478"
 type: "character"
-display_title: "吉MMY"
-title_zh: "吉MMY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jimmy"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141478"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jimmy"
 source_ids:
   vndb: "c141478"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c141478.webp"
 ---
 
-# 吉MMY
+# Jimmy
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

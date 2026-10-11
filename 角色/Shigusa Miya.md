@@ -5,7 +5,10 @@ display_title: "祠草未夜"
 title_zh: "祠草未夜"
 title_ja: "祠草 未夜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c11253"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shigusa Miya"
   - "祠草 未夜"

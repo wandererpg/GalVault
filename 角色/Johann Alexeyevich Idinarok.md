@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c6845"
 type: "character"
-display_title: "代羽奈蕾久濑惠惠V伊千伊D伊奈洛奥久"
-title_zh: "代羽奈蕾久濑惠惠V伊千伊D伊奈洛奥久"
+display_title: "ヨハン・アレクセーエヴィチ・イディナローク"
+title_zh: ""
 title_ja: "ヨハン・アレクセーエヴィチ・イディナローク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c6845"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Johann Alexeyevich Idinarok"
-  - "ヨハン・アレクセーエヴィチ・イディナローク"
   - "Иоанн Алексеевич Единорог"
 source_ids:
   vndb: "c6845"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c6845.webp"
 ---
 
-# 代羽奈蕾久濑惠惠V伊千伊D伊奈洛奥久
+# ヨハン・アレクセーエヴィチ・イディナローク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

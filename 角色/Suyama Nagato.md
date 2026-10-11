@@ -5,7 +5,10 @@ display_title: "须山流人"
 title_zh: "须山流人"
 title_ja: "須山 流人"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c38360"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Suyama Ryuto"
   - "須山 流人"

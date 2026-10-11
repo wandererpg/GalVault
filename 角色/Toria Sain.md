@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c51746"
 type: "character"
-display_title: "斗莉阿＝濑伊恩"
-title_zh: "斗莉阿＝濑伊恩"
+display_title: "トリア＝セイン"
+title_zh: ""
 title_ja: "トリア＝セイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c51746"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Toria Sain"
-  - "トリア＝セイン"
   - "Full-Automatic Meat Grinder"
   - "Jet-black War Demon"
   - "Massacre Mage"
@@ -23,7 +25,7 @@ source_urls:
 portrait_image: "assets/characters/c51746.webp"
 ---
 
-# 斗莉阿＝濑伊恩
+# トリア＝セイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

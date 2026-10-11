@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12334"
 type: "character"
-display_title: "露奈莉阿"
-title_zh: "露奈莉阿"
+display_title: "ルナリア"
+title_zh: ""
 title_ja: "ルナリア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12334"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lunaria"
-  - "ルナリア"
 source_ids:
   vndb: "c12334"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c12334.webp"
 ---
 
-# 露奈莉阿
+# ルナリア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

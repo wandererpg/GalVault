@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c88422"
 type: "character"
-display_title: "右田光"
-title_zh: "右田光"
+display_title: "右田 ひかり"
+title_zh: ""
 title_ja: "右田 ひかり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c88422"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Migita Hikari"
-  - "右田 ひかり"
 source_ids:
   vndb: "c88422"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c88422.webp"
 ---
 
-# 右田光
+# 右田 ひかり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

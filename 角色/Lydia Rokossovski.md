@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38250"
 type: "character"
-display_title: "莉D伊阿洛子索芙寿希"
-title_zh: "莉D伊阿洛子索芙寿希"
+display_title: "リディア・ロコソフスキ"
+title_zh: ""
 title_ja: "リディア・ロコソフスキ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38250"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lydia Rokossovski"
-  - "リディア・ロコソフスキ"
   - "Lydiya Rokossovskaya"
   - "Лидия Рокоссовская"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c38250.webp"
 ---
 
-# 莉D伊阿洛子索芙寿希
+# リディア・ロコソフスキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

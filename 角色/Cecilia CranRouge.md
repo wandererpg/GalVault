@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c141172"
 type: "character"
-display_title: "濑诗莉阿久拉恩露乌朱"
-title_zh: "濑诗莉阿久拉恩露乌朱"
+display_title: "セシリア・クランルージュ"
+title_zh: ""
 title_ja: "セシリア・クランルージュ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141172"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cecilia CranRouge"
-  - "セシリア・クランルージュ"
 source_ids:
   vndb: "c141172"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c141172.webp"
 ---
 
-# 濑诗莉阿久拉恩露乌朱
+# セシリア・クランルージュ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

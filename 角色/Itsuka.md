@@ -5,7 +5,10 @@ display_title: "伊津佳"
 title_zh: "伊津佳"
 title_ja: "伊津佳"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c72622"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Itsuka"
 source_ids:

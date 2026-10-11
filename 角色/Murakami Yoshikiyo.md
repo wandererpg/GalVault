@@ -5,7 +5,10 @@ display_title: "村上义清"
 title_zh: "村上义清"
 title_ja: "村上 義清"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c31607"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Murakami Yoshikiyo"
   - "村上 義清"

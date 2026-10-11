@@ -5,7 +5,10 @@ display_title: "浅井新九郎真琴长政"
 title_zh: "浅井新九郎真琴长政"
 title_ja: "浅井 新九郎 眞琴 長政"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20591"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Azai Shinkurou Makoto Nagamasa"
   - "浅井 新九郎 眞琴 長政"

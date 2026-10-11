@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98333"
 type: "character"
-display_title: "蕾莉子芙惠露真恩"
-title_zh: "蕾莉子芙惠露真恩"
+display_title: "レリコフ・ヘルマン"
+title_zh: ""
 title_ja: "レリコフ・ヘルマン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98333"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lelikov Helman"
-  - "レリコフ・ヘルマン"
 source_ids:
   vndb: "c98333"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98333.webp"
 ---
 
-# 蕾莉子芙惠露真恩
+# レリコフ・ヘルマン
 
 
 ## 角色画像

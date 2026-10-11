@@ -2,9 +2,12 @@
 entity_id: "vndb:character:c163255"
 type: "character"
 display_title: "K"
-title_zh: "K"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c163255"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Format Kamui"
   - "King of Crime"

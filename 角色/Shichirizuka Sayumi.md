@@ -5,7 +5,10 @@ display_title: "七里冢早弓"
 title_zh: "七里冢早弓"
 title_ja: "七里塚 早弓"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c63094"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shichirizuka Sayumi"
   - "七里塚 早弓"

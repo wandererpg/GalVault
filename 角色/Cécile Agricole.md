@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c111635"
 type: "character"
-display_title: "濑诗露阿古莉子露"
-title_zh: "濑诗露阿古莉子露"
+display_title: "セシル・アグリコル"
+title_zh: ""
 title_ja: "セシル・アグリコル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c111635"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cécile Agricole"
-  - "セシル・アグリコル"
   - "Landlady"
   - "大家"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c111635.webp"
 ---
 
-# 濑诗露阿古莉子露
+# セシル・アグリコル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

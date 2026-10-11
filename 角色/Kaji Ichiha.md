@@ -5,7 +5,10 @@ display_title: "加地壹波"
 title_zh: "加地壹波"
 title_ja: "加地 壱波"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c32586"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kaji Ichiha"
   - "加地 壱波"

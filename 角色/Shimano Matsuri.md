@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c47406"
 type: "character"
-display_title: "嶋乃真津莉"
-title_zh: "嶋乃真津莉"
+display_title: "嶋乃 まつり"
+title_zh: ""
 title_ja: "嶋乃 まつり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c47406"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shimano Matsuri"
-  - "嶋乃 まつり"
 source_ids:
   vndb: "c47406"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c47406.webp"
 ---
 
-# 嶋乃真津莉
+# 嶋乃 まつり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

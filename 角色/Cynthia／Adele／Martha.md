@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39835"
 type: "character"
-display_title: "诗恩诗阿阿德惠蕾真阿沙"
-title_zh: "诗恩诗阿阿德惠蕾真阿沙"
+display_title: "シンシア・アデーレ・マーサ"
+title_zh: ""
 title_ja: "シンシア・アデーレ・マーサ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39835"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cynthia/Adele/Martha"
-  - "シンシア・アデーレ・マーサ"
   - "Lily"
   - "Sary"
   - "Ary"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c39835.webp"
 ---
 
-# 诗恩诗阿阿德惠蕾真阿沙
+# シンシア・アデーレ・マーサ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

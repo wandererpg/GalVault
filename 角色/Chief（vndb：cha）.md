@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c136469"
 type: "character"
-display_title: "太努希乃旦那"
-title_zh: "太努希乃旦那"
+display_title: "タヌキの旦那"
+title_zh: ""
 title_ja: "タヌキの旦那"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136469"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chief"
-  - "タヌキの旦那"
 source_ids:
   vndb: "c136469"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c136469.webp"
 ---
 
-# 太努希乃旦那
+# タヌキの旦那
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

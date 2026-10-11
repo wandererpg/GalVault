@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c76317"
 type: "character"
-display_title: "美城阿莉寿"
-title_zh: "美城阿莉寿"
+display_title: "美城 ありす"
+title_zh: ""
 title_ja: "美城 ありす"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c76317"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mishiro Alice"
-  - "美城 ありす"
 source_ids:
   vndb: "c76317"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c76317.webp"
 ---
 
-# 美城阿莉寿
+# 美城 ありす
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

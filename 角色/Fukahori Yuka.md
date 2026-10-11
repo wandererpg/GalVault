@@ -5,7 +5,10 @@ display_title: "深堀由香"
 title_zh: "深堀由香"
 title_ja: "深堀 由香"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c164530"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fukahori Yuka"
   - "深堀 由香"

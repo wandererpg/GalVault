@@ -5,7 +5,10 @@ display_title: "越路美穗"
 title_zh: "越路美穗"
 title_ja: "越路 美穂"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c76806"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Koshiji Miho"
   - "越路 美穂"

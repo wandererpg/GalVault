@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c89284"
 type: "character"
-display_title: "莉恩·洛久羽拉"
-title_zh: "莉恩·洛久羽拉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Rin Rokuhara"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c89284"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Rin Rokuhara"
   - "Nithhala"
 source_ids:
   vndb: "c89284"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c89284.webp"
 ---
 
-# 莉恩·洛久羽拉
+# Rin Rokuhara
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

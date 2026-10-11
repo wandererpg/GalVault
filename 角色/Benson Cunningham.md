@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c47149"
 type: "character"
-display_title: "贝恩索恩加尼恩雅梦"
-title_zh: "贝恩索恩加尼恩雅梦"
+display_title: "ベンソン・カニンガム"
+title_zh: ""
 title_ja: "ベンソン・カニンガム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c47149"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Benson Cunningham"
-  - "ベンソン・カニンガム"
   - "Benson Cunningum"
 source_ids:
   vndb: "c47149"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c47149.webp"
 ---
 
-# 贝恩索恩加尼恩雅梦
+# ベンソン・カニンガム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

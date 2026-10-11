@@ -5,7 +5,10 @@ display_title: "汤田中雄也"
 title_zh: "汤田中雄也"
 title_ja: "湯田中 雄也"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c165815"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yudanaka Yuuya"
   - "湯田中 雄也"

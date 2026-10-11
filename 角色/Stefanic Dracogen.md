@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c127731"
 type: "character"
-display_title: "S特F阿尼C·D拉C奥格恩"
-title_zh: "S特F阿尼C·D拉C奥格恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Stefanic Dracogen"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127731"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Stefanic Dracogen"
 source_ids:
   vndb: "c127731"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c127731.webp"
 ---
 
-# S特F阿尼C·D拉C奥格恩
+# Stefanic Dracogen
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c162500"
 type: "character"
-display_title: "F拉恩C奥伊S·S乃W"
-title_zh: "F拉恩C奥伊S·S乃W"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Francois Snow"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c162500"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Francois Snow"
   - "Fran"
 source_ids:
   vndb: "c162500"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c162500.webp"
 ---
 
-# F拉恩C奥伊S·S乃W
+# Francois Snow
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

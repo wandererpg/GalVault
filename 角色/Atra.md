@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71165"
 type: "character"
-display_title: "阿斗拉"
-title_zh: "阿斗拉"
+display_title: "アトラ"
+title_zh: ""
 title_ja: "アトラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71165"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Atra"
-  - "アトラ"
 source_ids:
   vndb: "c71165"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71165.webp"
 ---
 
-# 阿斗拉
+# アトラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

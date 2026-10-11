@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17442"
 type: "character"
-display_title: "奥兹和露堂"
-title_zh: "奥兹和露堂"
+display_title: "オズワルド"
+title_zh: ""
 title_ja: "オズワルド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17442"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Oswald"
-  - "オズワルド"
 source_ids:
   vndb: "c17442"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c17442.webp"
 ---
 
-# 奥兹和露堂
+# オズワルド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

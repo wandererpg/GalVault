@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c159795"
 type: "character"
-display_title: "日伊寿久蕾濑恩斗"
-title_zh: "日伊寿久蕾濑恩斗"
+display_title: "ヒース・クレセント"
+title_zh: ""
 title_ja: "ヒース・クレセント"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159795"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Heath Crescent"
-  - "ヒース・クレセント"
   - "アンファンテリアの騎士"
   - "Enfanterre Knight"
   - "ルネ"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c159795.webp"
 ---
 
-# 日伊寿久蕾濑恩斗
+# ヒース・クレセント
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

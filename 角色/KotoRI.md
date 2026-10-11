@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c77732"
 type: "character"
-display_title: "子斗莉"
-title_zh: "子斗莉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "KotoRI"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c77732"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "KotoRI"
   - "ことり"
 source_ids:
   vndb: "c77732"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c77732.webp"
 ---
 
-# 子斗莉
+# KotoRI
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

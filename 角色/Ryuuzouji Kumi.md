@@ -5,7 +5,10 @@ display_title: "龙造寺久美"
 title_zh: "龙造寺久美"
 title_ja: "龍造寺 久美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16831"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ryuuzouji Kumi"
   - "龍造寺 久美"

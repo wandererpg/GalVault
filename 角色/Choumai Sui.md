@@ -5,7 +5,10 @@ display_title: "蝶舞翠"
 title_zh: "蝶舞翠"
 title_ja: "蝶舞 翠"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c154183"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Choumai Sui"
   - "蝶舞 翠"

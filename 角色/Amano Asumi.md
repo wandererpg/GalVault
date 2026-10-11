@@ -5,7 +5,10 @@ display_title: "天野明日海"
 title_zh: "天野明日海"
 title_ja: "天野　明日海"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c97932"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Amano Asumi"
   - "天野　明日海"

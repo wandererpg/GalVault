@@ -5,7 +5,10 @@ display_title: "凪风三奈子"
 title_zh: "凪风三奈子"
 title_ja: "凪風 三奈子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c15789"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nagikaze Minako"
   - "凪風 三奈子"

@@ -5,7 +5,10 @@ display_title: "丝锯圭介"
 title_zh: "丝锯圭介"
 title_ja: "糸鋸 圭介"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10834"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Itonokogiri Keisuke"
   - "糸鋸 圭介"

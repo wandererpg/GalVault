@@ -5,7 +5,10 @@ display_title: "室户鼎"
 title_zh: "室户鼎"
 title_ja: "室戸 鼎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c29283"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Muroto Kanae"
   - "室戸 鼎"

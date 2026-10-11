@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34085"
 type: "character"
-display_title: "达芙尼寿"
-title_zh: "达芙尼寿"
+display_title: "ダフニス"
+title_zh: ""
 title_ja: "ダフニス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34085"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Daphnis"
-  - "ダフニス"
 source_ids:
   vndb: "c34085"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c34085.webp"
 ---
 
-# 达芙尼寿
+# ダフニス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

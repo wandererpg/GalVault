@@ -1,11 +1,14 @@
 ---
 entity_id: "vndb:character:c43503"
 type: "character"
-display_title: "主人"
-title_zh: "主人"
+display_title: "指导者"
+title_zh: "指导者"
 title_ja: "指導者"
-title_zh_quality: "glossary"
-title_status: "machine_generated"
+title_zh_quality: "converted_original"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43503"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Master"
   - "指導者"
@@ -16,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c43503.webp"
 ---
 
-# 主人
+# 指导者
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

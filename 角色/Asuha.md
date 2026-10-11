@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87447"
 type: "character"
-display_title: "明日羽(阿寿羽)"
-title_zh: "明日羽(阿寿羽)"
+display_title: "明日羽 (アスハ)"
+title_zh: ""
 title_ja: "明日羽 (アスハ)"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87447"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Asuha"
-  - "明日羽 (アスハ)"
 source_ids:
   vndb: "c87447"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c87447.webp"
 ---
 
-# 明日羽(阿寿羽)
+# 明日羽 (アスハ)
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

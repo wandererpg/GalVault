@@ -5,7 +5,10 @@ display_title: "关矢尚人"
 title_zh: "关矢尚人"
 title_ja: "関矢 尚人"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c65117"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sekiya Naoto"
   - "関矢 尚人"

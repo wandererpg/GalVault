@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c166693"
 type: "character"
-display_title: "父亲"
-title_zh: "父亲"
+display_title: "お父さま"
+title_zh: ""
 title_ja: "お父さま"
-title_zh_quality: "glossary"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c166693"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Father"
-  - "お父さま"
 source_ids:
   vndb: "c166693"
 source_urls:
   vndb: "https://vndb.org/c166693"
 ---
 
-# 父亲
+# お父さま
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c69748"
 type: "character"
-display_title: "格奥RGY"
-title_zh: "格奥RGY"
+display_title: "Георгий"
+title_zh: ""
 title_ja: "Георгий"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c69748"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Georgy"
-  - "Георгий"
 source_ids:
   vndb: "c69748"
 source_urls:
   vndb: "https://vndb.org/c69748"
 ---
 
-# 格奥RGY
+# Георгий
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c167240"
 type: "character"
-display_title: "D乌惠·C阿LL奥和Y"
-title_zh: "D乌惠·C阿LL奥和Y"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Duke Calloway"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c167240"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Duke Calloway"
 source_ids:
   vndb: "c167240"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c167240.webp"
 ---
 
-# D乌惠·C阿LL奥和Y
+# Duke Calloway
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

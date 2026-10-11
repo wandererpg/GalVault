@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c64302"
 type: "character"
-display_title: "诗露V伊阿露久露寿久拉乌恩索露特伊蕾惠朱诗寿阿"
-title_zh: "诗露V伊阿露久露寿久拉乌恩索露特伊蕾惠朱诗寿阿"
+display_title: "シルヴィア・ル・クルスクラウン・ソルティレージュ・シスア"
+title_zh: ""
 title_ja: "シルヴィア・ル・クルスクラウン・ソルティレージュ・シスア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c64302"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sylvia le Cruzcrown Sortilège Sisua"
-  - "シルヴィア・ル・クルスクラウン・ソルティレージュ・シスア"
   - "Sylvi"
   - "シル"
   - "Syl"
@@ -21,7 +23,7 @@ source_urls:
 portrait_image: "assets/characters/c64302.webp"
 ---
 
-# 诗露V伊阿露久露寿久拉乌恩索露特伊蕾惠朱诗寿阿
+# シルヴィア・ル・クルスクラウン・ソルティレージュ・シスア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

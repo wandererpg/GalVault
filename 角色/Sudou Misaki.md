@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c164948"
 type: "character"
-display_title: "须藤美沙希"
-title_zh: "须藤美沙希"
+display_title: "須藤 みさき"
+title_zh: ""
 title_ja: "須藤 みさき"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c164948"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sudou Misaki"
-  - "須藤 みさき"
 source_ids:
   vndb: "c164948"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c164948.webp"
 ---
 
-# 须藤美沙希
+# 須藤 みさき
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

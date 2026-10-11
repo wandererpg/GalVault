@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c147641"
 type: "character"
-display_title: "W伊L伊阿M·巴特S"
-title_zh: "W伊L伊阿M·巴特S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Wiliam Bates"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c147641"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Wiliam Bates"
   - "Professor Bates"
 source_ids:
   vndb: "c147641"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c147641.webp"
 ---
 
-# W伊L伊阿M·巴特S
+# Wiliam Bates
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c57596"
 type: "character"
-display_title: "嘉K久"
-title_zh: "嘉K久"
+display_title: "ジャック"
+title_zh: ""
 title_ja: "ジャック"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c57596"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jack"
-  - "ジャック"
 source_ids:
   vndb: "c57596"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c57596.webp"
 ---
 
-# 嘉K久
+# ジャック
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

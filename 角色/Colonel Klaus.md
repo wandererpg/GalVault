@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8286"
 type: "character"
-display_title: "久拉乌寿大佐"
-title_zh: "久拉乌寿大佐"
+display_title: "クラウス大佐"
+title_zh: ""
 title_ja: "クラウス大佐"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8286"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Colonel Klaus"
-  - "クラウス大佐"
   - "黒のフランコ"
   - "Franco Il Nero"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c8286.webp"
 ---
 
-# 久拉乌寿大佐
+# クラウス大佐
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

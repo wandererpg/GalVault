@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12376"
 type: "character"
-display_title: "F阿比奥"
-title_zh: "F阿比奥"
+display_title: "ファビオ"
+title_zh: ""
 title_ja: "ファビオ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12376"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Fabio"
-  - "ファビオ"
 source_ids:
   vndb: "c12376"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c12376.webp"
 ---
 
-# F阿比奥
+# ファビオ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

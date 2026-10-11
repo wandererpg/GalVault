@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c174117"
 type: "character"
-display_title: "优乌奈·雅真诗太"
-title_zh: "优乌奈·雅真诗太"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Yuuna Yamashita"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c174117"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Yuuna Yamashita"
 source_ids:
   vndb: "c174117"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c174117.webp"
 ---
 
-# 优乌奈·雅真诗太
+# Yuuna Yamashita
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

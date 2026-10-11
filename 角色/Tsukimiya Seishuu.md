@@ -5,7 +5,10 @@ display_title: "筑宫清修"
 title_zh: "筑宫清修"
 title_ja: "築宮 清修"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c40075"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsukimiya Seishuu"
   - "築宮 清修"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c75997"
 type: "character"
-display_title: "蕾希诗恩斗恩"
-title_zh: "蕾希诗恩斗恩"
+display_title: "レキシントン"
+title_zh: ""
 title_ja: "レキシントン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c75997"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lexington"
-  - "レキシントン"
 source_ids:
   vndb: "c75997"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c75997.webp"
 ---
 
-# 蕾希诗恩斗恩
+# レキシントン
 
 
 ## 角色画像

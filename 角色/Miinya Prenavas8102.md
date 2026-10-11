@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c146732"
 type: "character"
-display_title: "美伊妮娅普蕾奈巴寿8102"
-title_zh: "美伊妮娅普蕾奈巴寿8102"
+display_title: "ミーニャ・プレナバス8102"
+title_zh: ""
 title_ja: "ミーニャ・プレナバス8102"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c146732"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Miinya Prenavas8102"
-  - "ミーニャ・プレナバス8102"
 source_ids:
   vndb: "c146732"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c146732.webp"
 ---
 
-# 美伊妮娅普蕾奈巴寿8102
+# ミーニャ・プレナバス8102
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

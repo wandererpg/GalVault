@@ -5,7 +5,10 @@ display_title: "齐藤贵子"
 title_zh: "齐藤贵子"
 title_ja: "斉藤 貴子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c42853"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Saitou Takako"
   - "斉藤 貴子"

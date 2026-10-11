@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12360"
 type: "character"
-display_title: "阿尼惠寿佳蕾T斗"
-title_zh: "阿尼惠寿佳蕾T斗"
+display_title: "アニエス・ギャレット"
+title_zh: ""
 title_ja: "アニエス・ギャレット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12360"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Agnes Garrett"
-  - "アニエス・ギャレット"
   - "Captain Garrett"
   - "ギャレット大尉"
   - "Annie"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c12360.webp"
 ---
 
-# 阿尼惠寿佳蕾T斗
+# アニエス・ギャレット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

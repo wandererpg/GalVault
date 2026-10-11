@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125115"
 type: "character"
-display_title: "V阿恩帕伊阿雅阿露"
-title_zh: "V阿恩帕伊阿雅阿露"
+display_title: "ヴァンパイアガール"
+title_zh: ""
 title_ja: "ヴァンパイアガール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125115"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Vampire Girl"
-  - "ヴァンパイアガール"
   - "Vampy"
   - "Vanilla"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c125115.webp"
 ---
 
-# V阿恩帕伊阿雅阿露
+# ヴァンパイアガール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

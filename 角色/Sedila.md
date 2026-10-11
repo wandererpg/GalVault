@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c169149"
 type: "character"
-display_title: "濑D伊L阿"
-title_zh: "濑D伊L阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Sedila"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c169149"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Sedila"
 source_ids:
   vndb: "c169149"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c169149.webp"
 ---
 
-# 濑D伊L阿
+# Sedila
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

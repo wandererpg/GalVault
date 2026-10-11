@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c85397"
 type: "character"
-display_title: "V阿蕾莉伊"
-title_zh: "V阿蕾莉伊"
+display_title: "ヴァレリー"
+title_zh: ""
 title_ja: "ヴァレリー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85397"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Valerie"
-  - "ヴァレリー"
 source_ids:
   vndb: "c85397"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c85397.webp"
 ---
 
-# V阿蕾莉伊
+# ヴァレリー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

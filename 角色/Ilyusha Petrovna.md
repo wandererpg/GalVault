@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c102745"
 type: "character"
-display_title: "伊龙乌夏佩斗洛V乌奈"
-title_zh: "伊龙乌夏佩斗洛V乌奈"
+display_title: "イリューシャ・ペトロヴナ"
+title_zh: ""
 title_ja: "イリューシャ・ペトロヴナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c102745"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ilyusha Petrovna"
-  - "イリューシャ・ペトロヴナ"
 source_ids:
   vndb: "c102745"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c102745.webp"
 ---
 
-# 伊龙乌夏佩斗洛V乌奈
+# イリューシャ・ペトロヴナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

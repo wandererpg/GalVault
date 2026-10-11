@@ -5,7 +5,10 @@ display_title: "露卡·弗莱贝格"
 title_zh: "露卡·弗莱贝格"
 title_ja: "露卡·弗莱贝格"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c127938"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Luca Fryberg"
 source_ids:

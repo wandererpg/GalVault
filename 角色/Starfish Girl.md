@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126291"
 type: "character"
-display_title: "日斗德娘"
-title_zh: "日斗德娘"
+display_title: "ヒトデ娘"
+title_zh: ""
 title_ja: "ヒトデ娘"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126291"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Starfish Girl"
-  - "ヒトデ娘"
   - "Asta"
 source_ids:
   vndb: "c126291"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c126291.webp"
 ---
 
-# 日斗德娘
+# ヒトデ娘
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

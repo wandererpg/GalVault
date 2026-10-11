@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c128678"
 type: "character"
-display_title: "太MMY"
-title_zh: "太MMY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Tammy"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c128678"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Tammy"
   - "Aspartame"
 source_ids:
   vndb: "c128678"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c128678.webp"
 ---
 
-# 太MMY
+# Tammy
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c9998"
 type: "character"
-display_title: "波特斗"
-title_zh: "波特斗"
+display_title: "ポテト"
+title_zh: ""
 title_ja: "ポテト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c9998"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Potato"
-  - "ポテト"
 source_ids:
   vndb: "c9998"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c9998.webp"
 ---
 
-# 波特斗
+# ポテト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "乃木坂凛"
 title_zh: "乃木坂凛"
 title_ja: "乃木坂 凛"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43114"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nogizaka Rin"
   - "乃木坂 凛"

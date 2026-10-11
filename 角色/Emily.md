@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126197"
 type: "character"
-display_title: "惠美莉"
-title_zh: "惠美莉"
+display_title: "エミリ"
+title_zh: ""
 title_ja: "エミリ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126197"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Emily"
-  - "エミリ"
   - "Refined Girl"
 source_ids:
   vndb: "c126197"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c126197.webp"
 ---
 
-# 惠美莉
+# エミリ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

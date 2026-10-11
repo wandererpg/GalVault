@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c32710"
 type: "character"
-display_title: "阿奈"
-title_zh: "阿奈"
+display_title: "アナ"
+title_zh: ""
 title_ja: "アナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c32710"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ana"
-  - "アナ"
 source_ids:
   vndb: "c32710"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c32710.webp"
 ---
 
-# 阿奈
+# アナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

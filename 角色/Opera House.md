@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c6049"
 type: "character"
-display_title: "奥佩拉＝羽乌寿"
-title_zh: "奥佩拉＝羽乌寿"
+display_title: "オペラ＝ハウス"
+title_zh: ""
 title_ja: "オペラ＝ハウス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c6049"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Opera House"
-  - "オペラ＝ハウス"
   - "Meido-chan"
 source_ids:
   vndb: "c6049"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c6049.webp"
 ---
 
-# 奥佩拉＝羽乌寿
+# オペラ＝ハウス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c123214"
 type: "character"
-display_title: "嘉ST伊C乌S·T惠·德C阿皮太斗R"
-title_zh: "嘉ST伊C乌S·T惠·德C阿皮太斗R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jasticus The Decapitator"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c123214"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jasticus The Decapitator"
 source_ids:
   vndb: "c123214"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c123214.webp"
 ---
 
-# 嘉ST伊C乌S·T惠·德C阿皮太斗R
+# Jasticus The Decapitator
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

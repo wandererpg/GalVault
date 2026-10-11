@@ -5,7 +5,10 @@ display_title: "猿藤吾郎"
 title_zh: "猿藤吾郎"
 title_ja: "猿藤 吾郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c70343"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Endou Gorou"
   - "猿藤 吾郎"

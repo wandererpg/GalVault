@@ -5,7 +5,10 @@ display_title: "京极庆吾"
 title_zh: "京极庆吾"
 title_ja: "京極 慶吾"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c124010"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kyougoku Keigo"
   - "京極 慶吾"

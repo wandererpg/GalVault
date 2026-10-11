@@ -5,7 +5,10 @@ display_title: "地狱谷咲来"
 title_zh: "地狱谷咲来"
 title_ja: "地獄谷 咲來"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c116373"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Jigokudani Sara"
   - "地獄谷 咲來"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30215"
 type: "character"
-display_title: "久露乌吉惠"
-title_zh: "久露乌吉惠"
+display_title: "クルージェ"
+title_zh: ""
 title_ja: "クルージェ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30215"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Krouge"
-  - "クルージェ"
 source_ids:
   vndb: "c30215"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30215.webp"
 ---
 
-# 久露乌吉惠
+# クルージェ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

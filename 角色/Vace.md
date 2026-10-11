@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c128680"
 type: "character"
-display_title: "V阿C惠"
-title_zh: "V阿C惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Vace"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c128680"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Vace"
   - "Olivaceous"
 source_ids:
   vndb: "c128680"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c128680.webp"
 ---
 
-# V阿C惠
+# Vace
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

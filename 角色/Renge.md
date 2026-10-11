@@ -5,7 +5,10 @@ display_title: "莲华"
 title_zh: "莲华"
 title_ja: "蓮華"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c4063"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Renge"
   - "蓮華"

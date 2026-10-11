@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c67215"
 type: "character"
-display_title: "久乌"
-title_zh: "久乌"
+display_title: "クゥ"
+title_zh: ""
 title_ja: "クゥ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c67215"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kuu"
-  - "クゥ"
   - "XN-A12-X4R-S001/AN79"
 source_ids:
   vndb: "c67215"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c67215.webp"
 ---
 
-# 久乌
+# クゥ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

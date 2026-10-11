@@ -5,7 +5,10 @@ display_title: "珠濑玄丞斋"
 title_zh: "珠濑玄丞斋"
 title_ja: "珠瀬 玄丞斎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c173"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tamase Genjousai"
   - "珠瀬 玄丞斎"

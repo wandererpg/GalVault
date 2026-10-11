@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c113880"
 type: "character"
-display_title: "F阿拉H·蕾Y惠S"
-title_zh: "F阿拉H·蕾Y惠S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Farah Reyes"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c113880"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Farah Reyes"
   - "Detective Reyes"
   - "Sunshine"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c113880.webp"
 ---
 
-# F阿拉H·蕾Y惠S
+# Farah Reyes
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

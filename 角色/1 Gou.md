@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c159559"
 type: "character"
-display_title: "1悟乌"
-title_zh: "1悟乌"
+display_title: "1ゴウ"
+title_zh: ""
 title_ja: "1ゴウ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159559"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "1 Gou"
-  - "1ゴウ"
   - "Foreman"
 source_ids:
   vndb: "c159559"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c159559.webp"
 ---
 
-# 1悟乌
+# 1ゴウ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

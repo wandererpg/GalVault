@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c50770"
 type: "character"
-display_title: "德优巴莉伊夫人"
-title_zh: "德优巴莉伊夫人"
+display_title: "デュ・バリー夫人"
+title_zh: ""
 title_ja: "デュ・バリー夫人"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c50770"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Madame du Barry"
-  - "デュ・バリー夫人"
   - "Du Barry Fujin"
 source_ids:
   vndb: "c50770"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c50770.webp"
 ---
 
-# 德优巴莉伊夫人
+# デュ・バリー夫人
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

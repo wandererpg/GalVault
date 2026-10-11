@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c138963"
 type: "character"
-display_title: "阿MY"
-title_zh: "阿MY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Amy"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138963"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Amy"
 source_ids:
   vndb: "c138963"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c138963.webp"
 ---
 
-# 阿MY
+# Amy
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

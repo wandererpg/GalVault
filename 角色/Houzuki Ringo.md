@@ -5,7 +5,10 @@ display_title: "崩月林檎"
 title_zh: "崩月林檎"
 title_ja: "崩月 林檎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c168265"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Houzuki Ringo"
   - "崩月 林檎"

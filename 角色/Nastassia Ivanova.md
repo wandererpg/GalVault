@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43334"
 type: "character"
-display_title: "奈寿太阿夏伊V阿乃和"
-title_zh: "奈寿太阿夏伊V阿乃和"
+display_title: "ナスターシャ・イヴァノワ"
+title_zh: ""
 title_ja: "ナスターシャ・イヴァノワ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43334"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nastassia Ivanova"
-  - "ナスターシャ・イヴァノワ"
   - "Tasha"
 source_ids:
   vndb: "c43334"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c43334.webp"
 ---
 
-# 奈寿太阿夏伊V阿乃和
+# ナスターシャ・イヴァノワ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

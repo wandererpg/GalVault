@@ -5,7 +5,10 @@ display_title: "壬生终名"
 title_zh: "壬生终名"
 title_ja: "壬生 終名"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c99422"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mibu Tsuina"
   - "壬生 終名"

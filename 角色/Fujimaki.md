@@ -5,7 +5,10 @@ display_title: "藤卷"
 title_zh: "藤卷"
 title_ja: "藤巻"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c25342"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fujimaki"
   - "藤巻"

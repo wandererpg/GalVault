@@ -5,7 +5,10 @@ display_title: "曹纯子和"
 title_zh: "曹纯子和"
 title_ja: "曹純 子和"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c59792"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Soujun Shiwa"
   - "曹純 子和"

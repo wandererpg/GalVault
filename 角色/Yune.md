@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c72807"
 type: "character"
-display_title: "优音"
-title_zh: "优音"
+display_title: "ユネ"
+title_zh: ""
 title_ja: "ユネ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c72807"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yune"
-  - "ユネ"
 source_ids:
   vndb: "c72807"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c72807.webp"
 ---
 
-# 优音
+# ユネ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

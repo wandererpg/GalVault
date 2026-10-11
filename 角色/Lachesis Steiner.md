@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71188"
 type: "character"
-display_title: "拉惠诗寿＝修太伊奈阿"
-title_zh: "拉惠诗寿＝修太伊奈阿"
+display_title: "ラケシス＝シュタイナー"
+title_zh: ""
 title_ja: "ラケシス＝シュタイナー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71188"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lachesis Steiner"
-  - "ラケシス＝シュタイナー"
 source_ids:
   vndb: "c71188"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71188.webp"
 ---
 
-# 拉惠诗寿＝修太伊奈阿
+# ラケシス＝シュタイナー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

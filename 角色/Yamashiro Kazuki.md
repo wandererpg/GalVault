@@ -5,7 +5,10 @@ display_title: "山城和树"
 title_zh: "山城和树"
 title_ja: "山城 和樹"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c22159"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yamashiro Kazuki"
   - "山城 和樹"

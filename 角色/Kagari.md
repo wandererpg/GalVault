@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c15509"
 type: "character"
-display_title: "加雅莉"
-title_zh: "加雅莉"
+display_title: "カガリ"
+title_zh: ""
 title_ja: "カガリ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c15509"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kagari"
-  - "カガリ"
 source_ids:
   vndb: "c15509"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c15509.webp"
 ---
 
-# 加雅莉
+# カガリ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

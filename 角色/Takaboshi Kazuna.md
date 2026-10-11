@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c1045"
 type: "character"
-display_title: "鹰星加兹奈"
-title_zh: "鹰星加兹奈"
+display_title: "鷹星 カズナ"
+title_zh: ""
 title_ja: "鷹星 カズナ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c1045"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Takaboshi Kazuna"
-  - "鷹星 カズナ"
 source_ids:
   vndb: "c1045"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c1045.webp"
 ---
 
-# 鹰星加兹奈
+# 鷹星 カズナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

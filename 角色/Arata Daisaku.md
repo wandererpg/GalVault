@@ -5,7 +5,10 @@ display_title: "荒田大作"
 title_zh: "荒田大作"
 title_ja: "荒田 大作"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c42833"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Arata Daisaku"
   - "荒田 大作"

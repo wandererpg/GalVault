@@ -5,7 +5,10 @@ display_title: "八代让叶"
 title_zh: "八代让叶"
 title_ja: "八代 譲葉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16866"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yatsushiro Yuzuriha"
   - "八代 譲葉"

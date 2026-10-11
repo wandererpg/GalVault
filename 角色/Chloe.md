@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c124485"
 type: "character"
-display_title: "CHL奥惠"
-title_zh: "CHL奥惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Chloe"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124485"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Chloe"
 source_ids:
   vndb: "c124485"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c124485.webp"
 ---
 
-# CHL奥惠
+# Chloe
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

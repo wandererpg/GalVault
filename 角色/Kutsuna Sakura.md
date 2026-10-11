@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c49918"
 type: "character"
-display_title: "忽那樱"
-title_zh: "忽那樱"
+display_title: "忽那 サクラ"
+title_zh: ""
 title_ja: "忽那 サクラ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c49918"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kutsuna Sakura"
-  - "忽那 サクラ"
 source_ids:
   vndb: "c49918"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c49918.webp"
 ---
 
-# 忽那樱
+# 忽那 サクラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

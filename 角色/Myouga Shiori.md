@@ -5,7 +5,10 @@ display_title: "冥加枝织"
 title_zh: "冥加枝织"
 title_ja: "冥加 枝織"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c48136"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Myouga Shiori"
   - "冥加 枝織"

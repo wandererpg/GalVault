@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c126315"
 type: "character"
-display_title: "吉D格T·博R德LL惠"
-title_zh: "吉D格T·博R德LL惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Gidget Bordelle"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126315"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Gidget Bordelle"
   - "Gidget Francene Bordelle"
 source_ids:
   vndb: "c126315"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c126315.webp"
 ---
 
-# 吉D格T·博R德LL惠
+# Gidget Bordelle
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

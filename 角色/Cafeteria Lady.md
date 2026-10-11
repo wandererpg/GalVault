@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c150660"
 type: "character"
-display_title: "C阿F惠特莉阿·L阿DY"
-title_zh: "C阿F惠特莉阿·L阿DY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Cafeteria Lady"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c150660"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Cafeteria Lady"
 source_ids:
   vndb: "c150660"
 source_urls:
   vndb: "https://vndb.org/c150660"
 ---
 
-# C阿F惠特莉阿·L阿DY
+# Cafeteria Lady
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

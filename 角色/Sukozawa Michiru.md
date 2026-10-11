@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c129739"
 type: "character"
-display_title: "州小泽美千露"
-title_zh: "州小泽美千露"
+display_title: "州小沢 みちる"
+title_zh: ""
 title_ja: "州小沢 みちる"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c129739"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sukozawa Michiru"
-  - "州小沢 みちる"
 source_ids:
   vndb: "c129739"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c129739.webp"
 ---
 
-# 州小泽美千露
+# 州小沢 みちる
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

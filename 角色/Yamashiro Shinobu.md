@@ -5,7 +5,10 @@ display_title: "山城忍"
 title_zh: "山城忍"
 title_ja: "山城 忍"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c83577"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yamashiro Shinobu"
   - "山城 忍"

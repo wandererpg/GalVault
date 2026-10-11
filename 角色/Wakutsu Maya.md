@@ -5,7 +5,10 @@ display_title: "和久津真耶"
 title_zh: "和久津真耶"
 title_ja: "和久津 真耶"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c87093"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Wakutsu Maya"
   - "和久津 真耶"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127324"
 type: "character"
-display_title: "奈阿久巴寿"
-title_zh: "奈阿久巴寿"
+display_title: "ナーキュバス"
+title_zh: ""
 title_ja: "ナーキュバス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127324"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Naccubus"
-  - "ナーキュバス"
   - "Nabisu"
 source_ids:
   vndb: "c127324"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c127324.webp"
 ---
 
-# 奈阿久巴寿
+# ナーキュバス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

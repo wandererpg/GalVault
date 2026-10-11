@@ -5,7 +5,10 @@ display_title: "北岛行德"
 title_zh: "北岛行德"
 title_ja: "北島 行徳"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c129745"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kitajima Yukinori"
   - "北島 行徳"

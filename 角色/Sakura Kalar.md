@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c121208"
 type: "character"
-display_title: "沙久拉加拉阿"
-title_zh: "沙久拉加拉阿"
+display_title: "サクラ・カラー"
+title_zh: ""
 title_ja: "サクラ・カラー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c121208"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sakura Kalar"
-  - "サクラ・カラー"
 source_ids:
   vndb: "c121208"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c121208.webp"
 ---
 
-# 沙久拉加拉阿
+# サクラ・カラー
 
 
 ## 角色画像

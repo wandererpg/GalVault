@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c99431"
 type: "character"
-display_title: "诗伊扎阿"
-title_zh: "诗伊扎阿"
+display_title: "シーザー"
+title_zh: ""
 title_ja: "シーザー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c99431"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Caesar"
-  - "シーザー"
 source_ids:
   vndb: "c99431"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c99431.webp"
 ---
 
-# 诗伊扎阿
+# シーザー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

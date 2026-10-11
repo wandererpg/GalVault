@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c70973"
 type: "character"
-display_title: "安娜＝真阿贝莉K久"
-title_zh: "安娜＝真阿贝莉K久"
+display_title: "アンナ＝マーベリック"
+title_zh: ""
 title_ja: "アンナ＝マーベリック"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c70973"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Anna Maverick"
-  - "アンナ＝マーベリック"
 source_ids:
   vndb: "c70973"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c70973.webp"
 ---
 
-# 安娜＝真阿贝莉K久
+# アンナ＝マーベリック
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "福岛正则"
 title_zh: "福岛正则"
 title_ja: "福島 正則"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c40937"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fukushima Masanori"
   - "福島 正則"

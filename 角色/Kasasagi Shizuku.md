@@ -5,7 +5,10 @@ display_title: "鹊雫"
 title_zh: "鹊雫"
 title_ja: "鵲 雫"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c29536"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kasasagi Shizuku"
   - "鵲 雫"

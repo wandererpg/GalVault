@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c161678"
 type: "character"
-display_title: "羽莉寿恩V奥奥恩"
-title_zh: "羽莉寿恩V奥奥恩"
+display_title: "ハリスン・ヴォーン"
+title_zh: ""
 title_ja: "ハリスン・ヴォーン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161678"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Harrison Vaughan"
-  - "ハリスン・ヴォーン"
 source_ids:
   vndb: "c161678"
 source_urls:
   vndb: "https://vndb.org/c161678"
 ---
 
-# 羽莉寿恩V奥奥恩
+# ハリスン・ヴォーン
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

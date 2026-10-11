@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c57976"
 type: "character"
-display_title: "阿古F阿寿布洛乌尼恩"
-title_zh: "阿古F阿寿布洛乌尼恩"
+display_title: "アグファス・ブロウニン"
+title_zh: ""
 title_ja: "アグファス・ブロウニン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c57976"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Agfas Blonin"
-  - "アグファス・ブロウニン"
 source_ids:
   vndb: "c57976"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c57976.webp"
 ---
 
-# 阿古F阿寿布洛乌尼恩
+# アグファス・ブロウニン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

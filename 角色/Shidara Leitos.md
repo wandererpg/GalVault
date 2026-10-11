@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c109881"
 type: "character"
-display_title: "诗达拉蕾伊斗寿"
-title_zh: "诗达拉蕾伊斗寿"
+display_title: "シダラ・レイトス"
+title_zh: ""
 title_ja: "シダラ・レイトス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c109881"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shidara Leitos"
-  - "シダラ・レイトス"
 source_ids:
   vndb: "c109881"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c109881.webp"
 ---
 
-# 诗达拉蕾伊斗寿
+# シダラ・レイトス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

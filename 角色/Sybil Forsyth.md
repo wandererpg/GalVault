@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c165141"
 type: "character"
-display_title: "SY比L·F奥RSYTH"
-title_zh: "SY比L·F奥RSYTH"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Sybil Forsyth"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c165141"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Sybil Forsyth"
   - "Carmilla"
   - "Maeve"
   - "The Witch"
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c165141.webp"
 ---
 
-# SY比L·F奥RSYTH
+# Sybil Forsyth
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

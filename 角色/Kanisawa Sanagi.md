@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c20633"
 type: "character"
-display_title: "蟹泽沙奈吉"
-title_zh: "蟹泽沙奈吉"
+display_title: "蟹沢 さなぎ"
+title_zh: ""
 title_ja: "蟹沢 さなぎ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c20633"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kanisawa Sanagi"
-  - "蟹沢 さなぎ"
   - "Nagi"
   - "Sana"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c20633.webp"
 ---
 
-# 蟹泽沙奈吉
+# 蟹沢 さなぎ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

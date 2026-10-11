@@ -5,7 +5,10 @@ display_title: "福田富雄"
 title_zh: "福田富雄"
 title_ja: "福田 富雄"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c99322"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tomio Fukuda"
   - "福田 富雄"

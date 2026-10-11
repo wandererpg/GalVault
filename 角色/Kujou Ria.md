@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c3804"
 type: "character"
-display_title: "九净莉阿"
-title_zh: "九净莉阿"
+display_title: "九浄 リア"
+title_zh: ""
 title_ja: "九浄 リア"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c3804"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kujou Ria"
-  - "九浄 リア"
   - "Senpai-san"
   - "Paladienne"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c3804.webp"
 ---
 
-# 九净莉阿
+# 九浄 リア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

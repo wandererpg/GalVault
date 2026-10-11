@@ -5,7 +5,10 @@ display_title: "山林吹雪"
 title_zh: "山林吹雪"
 title_ja: "山林 吹雪"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2458"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sanrin Fubuki"
   - "山林 吹雪"

@@ -5,7 +5,10 @@ display_title: "名凪星华"
 title_zh: "名凪星华"
 title_ja: "名凪 星華"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1410"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nanagi Seika"
   - "名凪 星華"

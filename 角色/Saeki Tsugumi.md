@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c56480"
 type: "character"
-display_title: "佐伯津古美"
-title_zh: "佐伯津古美"
+display_title: "佐伯 つぐみ"
+title_zh: ""
 title_ja: "佐伯 つぐみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56480"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Saeki Tsugumi"
-  - "佐伯 つぐみ"
   - "橘 つぐみ"
   - "Tachibana Tsugumi"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c56480.webp"
 ---
 
-# 佐伯津古美
+# 佐伯 つぐみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

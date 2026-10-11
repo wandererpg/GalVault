@@ -5,7 +5,10 @@ display_title: "庄田安利"
 title_zh: "庄田安利"
 title_ja: "庄田 安利"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c63558"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shouda Yasutoshi"
   - "庄田 安利"

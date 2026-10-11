@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43869"
 type: "character"
-display_title: "胡蝶津巴芽"
-title_zh: "胡蝶津巴芽"
+display_title: "胡蝶 つばめ"
+title_zh: ""
 title_ja: "胡蝶 つばめ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43869"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kochou Tsubame"
-  - "胡蝶 つばめ"
 source_ids:
   vndb: "c43869"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43869.webp"
 ---
 
-# 胡蝶津巴芽
+# 胡蝶 つばめ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

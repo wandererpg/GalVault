@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c78564"
 type: "character"
-display_title: "特伊阿＝惠莉伊诗寿"
-title_zh: "特伊阿＝惠莉伊诗寿"
+display_title: "ティア＝エリーシス"
+title_zh: ""
 title_ja: "ティア＝エリーシス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c78564"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tia Elysis"
-  - "ティア＝エリーシス"
 source_ids:
   vndb: "c78564"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c78564.webp"
 ---
 
-# 特伊阿＝惠莉伊诗寿
+# ティア＝エリーシス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

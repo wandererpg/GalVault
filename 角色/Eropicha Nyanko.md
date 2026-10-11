@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c99081"
 type: "character"
-display_title: "惠洛皮恰妮娅恩子"
-title_zh: "惠洛皮恰妮娅恩子"
+display_title: "エロピチャ・ニャンコ"
+title_zh: ""
 title_ja: "エロピチャ・ニャンコ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c99081"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Eropicha Nyanko"
-  - "エロピチャ・ニャンコ"
 source_ids:
   vndb: "c99081"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c99081.webp"
 ---
 
-# 惠洛皮恰妮娅恩子
+# エロピチャ・ニャンコ
 
 
 ## 角色画像

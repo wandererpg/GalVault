@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c11680"
 type: "character"
-display_title: "芙洛奥拉伊斗=阿露V惠雅"
-title_zh: "芙洛奥拉伊斗=阿露V惠雅"
+display_title: "フローライト=アルヴェガ"
+title_zh: ""
 title_ja: "フローライト=アルヴェガ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c11680"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Fluorite Alvega"
-  - "フローライト=アルヴェガ"
 source_ids:
   vndb: "c11680"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c11680.webp"
 ---
 
-# 芙洛奥拉伊斗=阿露V惠雅
+# フローライト=アルヴェガ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c47150"
 type: "character"
-display_title: "嘉恩嘉K久吉布寿恩"
-title_zh: "嘉恩嘉K久吉布寿恩"
+display_title: "ジャン・ジャック・ギブスン"
+title_zh: ""
 title_ja: "ジャン・ジャック・ギブスン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c47150"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jean-Jacques Gibson"
-  - "ジャン・ジャック・ギブスン"
   - "Jean Jack Gibson"
 source_ids:
   vndb: "c47150"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c47150.webp"
 ---
 
-# 嘉恩嘉K久吉布寿恩
+# ジャン・ジャック・ギブスン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

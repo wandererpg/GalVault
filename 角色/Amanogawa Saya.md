@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c35176"
 type: "character"
-display_title: "天乃川沙夜"
-title_zh: "天乃川沙夜"
+display_title: "天ノ川 沙夜"
+title_zh: ""
 title_ja: "天ノ川 沙夜"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c35176"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Amanogawa Saya"
-  - "天ノ川 沙夜"
   - "通い妻ちゃん"
   - "Albireo Princess"
   - "Commuter Wife"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c35176.webp"
 ---
 
-# 天乃川沙夜
+# 天ノ川 沙夜
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

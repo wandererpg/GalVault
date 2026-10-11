@@ -5,7 +5,10 @@ display_title: "神样"
 title_zh: "神样"
 title_ja: "神様"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c24990"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kami-sama"
   - "神様"

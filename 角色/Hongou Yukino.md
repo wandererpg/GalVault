@@ -5,7 +5,10 @@ display_title: "本乡雪乃"
 title_zh: "本乡雪乃"
 title_ja: "本郷 雪乃"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c50393"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hongou Yukino"
   - "本郷 雪乃"

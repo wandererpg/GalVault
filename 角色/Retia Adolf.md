@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c648"
 type: "character"
-display_title: "蕾惠特伊阿阿堂露芙"
-title_zh: "蕾惠特伊阿阿堂露芙"
+display_title: "レーティア・アドルフ"
+title_zh: ""
 title_ja: "レーティア・アドルフ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c648"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Retia Adolf"
-  - "レーティア・アドルフ"
 source_ids:
   vndb: "c648"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c648.webp"
 ---
 
-# 蕾惠特伊阿阿堂露芙
+# レーティア・アドルフ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

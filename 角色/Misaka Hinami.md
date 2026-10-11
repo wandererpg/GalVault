@@ -5,7 +5,10 @@ display_title: "三坂妃洋"
 title_zh: "三坂妃洋"
 title_ja: "三坂 妃洋"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c167034"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Misaka Hinami"
   - "三坂 妃洋"

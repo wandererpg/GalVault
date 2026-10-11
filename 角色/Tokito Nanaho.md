@@ -5,7 +5,10 @@ display_title: "时任七穗"
 title_zh: "时任七穗"
 title_ja: "時任 七穂"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c24015"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tokito Nanaho"
   - "時任 七穂"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c134637"
 type: "character"
-display_title: "T惠·贝阿ST"
-title_zh: "T惠·贝阿ST"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "The Beast"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c134637"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "The Beast"
 source_ids:
   vndb: "c134637"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c134637.webp"
 ---
 
-# T惠·贝阿ST
+# The Beast
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

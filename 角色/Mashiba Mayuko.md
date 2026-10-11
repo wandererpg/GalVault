@@ -5,7 +5,10 @@ display_title: "真柴麻优子"
 title_zh: "真柴麻优子"
 title_ja: "眞柴 麻優子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c24416"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mashiba Mayuko"
   - "眞柴 麻優子"

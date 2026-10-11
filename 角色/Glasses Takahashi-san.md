@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c36738"
 type: "character"
-display_title: "芽雅音乃高桥沙恩"
-title_zh: "芽雅音乃高桥沙恩"
+display_title: "めがねの高橋さん"
+title_zh: ""
 title_ja: "めがねの高橋さん"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c36738"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Glasses Takahashi-san"
-  - "めがねの高橋さん"
   - "Megane no Takahashi-san"
 source_ids:
   vndb: "c36738"
@@ -16,7 +18,7 @@ source_urls:
   vndb: "https://vndb.org/c36738"
 ---
 
-# 芽雅音乃高桥沙恩
+# めがねの高橋さん
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

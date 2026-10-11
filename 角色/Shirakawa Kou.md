@@ -5,7 +5,10 @@ display_title: "白川红"
 title_zh: "白川红"
 title_ja: "白川 紅"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c3889"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shirakawa Kou"
   - "白川 紅"

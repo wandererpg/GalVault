@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90033"
 type: "character"
-display_title: "久拉莉寿特伊阿"
-title_zh: "久拉莉寿特伊阿"
+display_title: "クラリス・ティア"
+title_zh: ""
 title_ja: "クラリス・ティア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90033"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Claris Tia"
-  - "クラリス・ティア"
 source_ids:
   vndb: "c90033"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c90033.webp"
 ---
 
-# 久拉莉寿特伊阿
+# クラリス・ティア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

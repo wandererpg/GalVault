@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c155398"
 type: "character"
-display_title: "B拉恩DY·真T惠RS"
-title_zh: "B拉恩DY·真T惠RS"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Brandy Mathers"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155398"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Brandy Mathers"
 source_ids:
   vndb: "c155398"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c155398.webp"
 ---
 
-# B拉恩DY·真T惠RS
+# Brandy Mathers
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

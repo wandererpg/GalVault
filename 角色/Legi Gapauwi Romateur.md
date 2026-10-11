@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c83788"
 type: "character"
-display_title: "蕾吉雅帕乌伊洛真斗乌露"
-title_zh: "蕾吉雅帕乌伊洛真斗乌露"
+display_title: "レギ・ガパウィ・ロマトゥル"
+title_zh: ""
 title_ja: "レギ・ガパウィ・ロマトゥル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c83788"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Legi Gapauwi Romateur"
-  - "レギ・ガパウィ・ロマトゥル"
 source_ids:
   vndb: "c83788"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c83788.webp"
 ---
 
-# 蕾吉雅帕乌伊洛真斗乌露
+# レギ・ガパウィ・ロマトゥル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

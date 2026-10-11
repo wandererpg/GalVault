@@ -5,7 +5,10 @@ display_title: "赤羽怜史"
 title_zh: "赤羽怜史"
 title_ja: "赤羽 怜史"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c130747"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Akabane Reiji"
   - "赤羽 怜史"

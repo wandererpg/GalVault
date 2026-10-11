@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c91341"
 type: "character"
-display_title: "翔伊千·乌拉太"
-title_zh: "翔伊千·乌拉太"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Shoichi Urata"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c91341"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Shoichi Urata"
 source_ids:
   vndb: "c91341"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c91341.webp"
 ---
 
-# 翔伊千·乌拉太
+# Shoichi Urata
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

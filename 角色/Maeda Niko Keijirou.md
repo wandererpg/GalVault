@@ -5,7 +5,10 @@ display_title: "前田仁虎庆次郎"
 title_zh: "前田仁虎庆次郎"
 title_ja: "前田 仁虎 慶次郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c100055"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Maeda Niko Keijirou"
   - "前田 仁虎 慶次郎"

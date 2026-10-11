@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c159792"
 type: "character"
-display_title: "代露加优乌露乌D堂"
-title_zh: "代露加优乌露乌D堂"
+display_title: "ヨルカ・ユールウッド"
+title_zh: ""
 title_ja: "ヨルカ・ユールウッド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159792"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yolca Yulewood"
-  - "ヨルカ・ユールウッド"
 source_ids:
   vndb: "c159792"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c159792.webp"
 ---
 
-# 代露加优乌露乌D堂
+# ヨルカ・ユールウッド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "仓科亚美"
 title_zh: "仓科亚美"
 title_ja: "倉科 亜美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c141290"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kurashina Ami"
   - "倉科 亜美"

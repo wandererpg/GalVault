@@ -5,7 +5,10 @@ display_title: "道明寺凯"
 title_zh: "道明寺凯"
 title_ja: "道明寺 凱"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c36133"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Doumyouji Gai"
   - "道明寺 凱"

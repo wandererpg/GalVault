@@ -5,7 +5,10 @@ display_title: "希咲美樱"
 title_zh: "希咲美樱"
 title_ja: "希咲 美桜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14860"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kisaki Mio"
   - "希咲 美桜"

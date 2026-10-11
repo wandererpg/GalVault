@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c105202"
 type: "character"
-display_title: "惠诗伊"
-title_zh: "惠诗伊"
+display_title: "ケシー"
+title_zh: ""
 title_ja: "ケシー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c105202"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Quincy"
-  - "ケシー"
   - "Keshi"
 source_ids:
   vndb: "c105202"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c105202.webp"
 ---
 
-# 惠诗伊
+# ケシー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

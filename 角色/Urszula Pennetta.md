@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c92972"
 type: "character"
-display_title: "乌露修拉佩恩音T太"
-title_zh: "乌露修拉佩恩音T太"
+display_title: "ウルシュラ・ペンネッタ"
+title_zh: ""
 title_ja: "ウルシュラ・ペンネッタ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92972"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Urszula Pennetta"
-  - "ウルシュラ・ペンネッタ"
 source_ids:
   vndb: "c92972"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c92972.webp"
 ---
 
-# 乌露修拉佩恩音T太
+# ウルシュラ・ペンネッタ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

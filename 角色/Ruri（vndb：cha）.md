@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c40542"
 type: "character"
-display_title: "露莉"
-title_zh: "露莉"
+display_title: "るり"
+title_zh: ""
 title_ja: "るり"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c40542"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ruri"
-  - "るり"
 source_ids:
   vndb: "c40542"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c40542.webp"
 ---
 
-# 露莉
+# るり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

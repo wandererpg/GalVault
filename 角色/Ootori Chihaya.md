@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c303"
 type: "character"
-display_title: "凤千羽雅"
-title_zh: "凤千羽雅"
+display_title: "鳳 ちはや"
+title_zh: ""
 title_ja: "鳳 ちはや"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c303"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ootori Chihaya"
-  - "鳳 ちはや"
   - "Cherry"
   - "Chi"
   - "Chi-chan"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c303.webp"
 ---
 
-# 凤千羽雅
+# 鳳 ちはや
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125709"
 type: "character"
-display_title: "惠露贝洛寿娘"
-title_zh: "惠露贝洛寿娘"
+display_title: "ケルベロス娘"
+title_zh: ""
 title_ja: "ケルベロス娘"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125709"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cerberus"
-  - "ケルベロス娘"
   - "Caesar"
 source_ids:
   vndb: "c125709"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c125709.webp"
 ---
 
-# 惠露贝洛寿娘
+# ケルベロス娘
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c109710"
 type: "character"
-display_title: "莎拉·惠·F奥蕾S特R"
-title_zh: "莎拉·惠·F奥蕾S特R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Sarah E. Forester"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c109710"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Sarah E. Forester"
   - "Dr. Forester"
   - "Dr. Sarah Campbell"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c109710.webp"
 ---
 
-# 莎拉·惠·F奥蕾S特R
+# Sarah E. Forester
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

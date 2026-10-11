@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c36247"
 type: "character"
-display_title: "阿音寿"
-title_zh: "阿音寿"
+display_title: "アネス"
+title_zh: ""
 title_ja: "アネス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c36247"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Anes"
-  - "アネス"
 source_ids:
   vndb: "c36247"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c36247.webp"
 ---
 
-# 阿音寿
+# アネス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

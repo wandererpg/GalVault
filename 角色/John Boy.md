@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c138148"
 type: "character"
-display_title: "乔H恩·博Y"
-title_zh: "乔H恩·博Y"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "John Boy"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138148"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "John Boy"
   - "JB"
 source_ids:
   vndb: "c138148"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c138148.webp"
 ---
 
-# 乔H恩·博Y
+# John Boy
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

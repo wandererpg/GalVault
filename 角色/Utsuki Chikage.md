@@ -5,7 +5,10 @@ display_title: "卯木千景"
 title_zh: "卯木千景"
 title_ja: "卯木 千景"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c90164"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Utsuki Chikage"
   - "卯木 千景"

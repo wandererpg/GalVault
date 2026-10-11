@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c122894"
 type: "character"
-display_title: "L奥雅恩·C洛FT"
-title_zh: "L奥雅恩·C洛FT"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Logan Croft"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c122894"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Logan Croft"
 source_ids:
   vndb: "c122894"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c122894.webp"
 ---
 
-# L奥雅恩·C洛FT
+# Logan Croft
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

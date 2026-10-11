@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10196"
 type: "character"
-display_title: "舞园沙雅加"
-title_zh: "舞园沙雅加"
+display_title: "舞園 さやか"
+title_zh: ""
 title_ja: "舞園 さやか"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10196"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Maizono Sayaka"
-  - "舞園 さやか"
   - "Ultimate Pop Sensation"
   - "超高校級の「アイドル」"
   - "Super High School Level Idol"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c10196.webp"
 ---
 
-# 舞园沙雅加
+# 舞園 さやか
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c31114"
 type: "character"
-display_title: "奈S索寿"
-title_zh: "奈S索寿"
+display_title: "ナッソス"
+title_zh: ""
 title_ja: "ナッソス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c31114"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nassos"
-  - "ナッソス"
 source_ids:
   vndb: "c31114"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c31114.webp"
 ---
 
-# 奈S索寿
+# ナッソス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

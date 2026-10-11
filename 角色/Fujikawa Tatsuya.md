@@ -5,7 +5,10 @@ display_title: "藤川达也"
 title_zh: "藤川达也"
 title_ja: "藤川 達也"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c100580"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fujikawa Tatsuya"
   - "藤川 達也"

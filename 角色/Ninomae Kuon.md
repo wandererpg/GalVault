@@ -5,7 +5,10 @@ display_title: "一久远"
 title_zh: "一久远"
 title_ja: "一 久遠"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c59653"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ninomae Kuon"
   - "一 久遠"

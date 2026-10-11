@@ -5,7 +5,10 @@ display_title: "张袷俊乂"
 title_zh: "张袷俊乂"
 title_ja: "張袷 儁乂"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c63336"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Choukou Shungai"
   - "張袷 儁乂"

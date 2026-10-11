@@ -5,7 +5,10 @@ display_title: "矢张政志"
 title_zh: "矢张政志"
 title_ja: "矢張 政志"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10836"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yahari Masashi"
   - "矢張 政志"

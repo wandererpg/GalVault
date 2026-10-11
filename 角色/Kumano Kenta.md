@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c141267"
 type: "character"
-display_title: "久真野健太"
-title_zh: "久真野健太"
+display_title: "クマ野 健太"
+title_zh: ""
 title_ja: "クマ野 健太"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141267"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kumano Kenta"
-  - "クマ野 健太"
 source_ids:
   vndb: "c141267"
 source_urls:
   vndb: "https://vndb.org/c141267"
 ---
 
-# 久真野健太
+# クマ野 健太
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

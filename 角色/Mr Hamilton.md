@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c165278"
 type: "character"
-display_title: "MR·羽美L斗恩"
-title_zh: "MR·羽美L斗恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Mr Hamilton"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c165278"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Mr Hamilton"
 source_ids:
   vndb: "c165278"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c165278.webp"
 ---
 
-# MR·羽美L斗恩
+# Mr Hamilton
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

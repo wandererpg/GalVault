@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c51503"
 type: "character"
-display_title: "扎伊吉代奥伊恩奈奥希"
-title_zh: "扎伊吉代奥伊恩奈奥希"
+display_title: "ザイジヨーイン・ナオキ"
+title_zh: ""
 title_ja: "ザイジヨーイン・ナオキ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c51503"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Zaijouin Naoki"
-  - "ザイジヨーイン・ナオキ"
 source_ids:
   vndb: "c51503"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c51503.webp"
 ---
 
-# 扎伊吉代奥伊恩奈奥希
+# ザイジヨーイン・ナオキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c153275"
 type: "character"
-display_title: "佩特R·美LL惠R"
-title_zh: "佩特R·美LL惠R"
+display_title: "피터 밀러"
+title_zh: ""
 title_ja: "피터 밀러"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c153275"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Peter Miller"
-  - "피터 밀러"
 source_ids:
   vndb: "c153275"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c153275.webp"
 ---
 
-# 佩特R·美LL惠R
+# 피터 밀러
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

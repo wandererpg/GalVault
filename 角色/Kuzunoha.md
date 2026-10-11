@@ -5,7 +5,10 @@ display_title: "葛叶"
 title_zh: "葛叶"
 title_ja: "葛葉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c60636"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kuzunoha"
   - "葛葉"

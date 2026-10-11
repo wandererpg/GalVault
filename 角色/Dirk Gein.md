@@ -5,7 +5,10 @@ display_title: "德里克·盖恩"
 title_zh: "德里克·盖恩"
 title_ja: "德里克·盖恩"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c104210"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Dirk Gein"
   - "毒蛇"

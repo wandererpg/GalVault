@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8411"
 type: "character"
-display_title: "美兹诗真"
-title_zh: "美兹诗真"
+display_title: "ミズシマ"
+title_zh: ""
 title_ja: "ミズシマ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8411"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mizushima"
-  - "ミズシマ"
 source_ids:
   vndb: "c8411"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c8411.webp"
 ---
 
-# 美兹诗真
+# ミズシマ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

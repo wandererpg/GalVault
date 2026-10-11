@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c124378"
 type: "character"
-display_title: "美K久寿斗奥"
-title_zh: "美K久寿斗奥"
+display_title: "ミックス・トー"
+title_zh: ""
 title_ja: "ミックス・トー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124378"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mix Tou"
-  - "ミックス・トー"
 source_ids:
   vndb: "c124378"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c124378.webp"
 ---
 
-# 美K久寿斗奥
+# ミックス・トー
 
 
 ## 角色画像

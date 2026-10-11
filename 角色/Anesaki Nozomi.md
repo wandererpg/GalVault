@@ -5,7 +5,10 @@ display_title: "姉崎希美"
 title_zh: "姉崎希美"
 title_ja: "姉崎 希美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21634"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Anesaki Nozomi"
   - "姉崎 希美"

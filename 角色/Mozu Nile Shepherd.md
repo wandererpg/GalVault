@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c81184"
 type: "character"
-display_title: "莫兹"
-title_zh: "莫兹"
+display_title: "モズ"
+title_zh: ""
 title_ja: "モズ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c81184"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mozu Nile Shepherd"
-  - "モズ"
 source_ids:
   vndb: "c81184"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c81184.webp"
 ---
 
-# 莫兹
+# モズ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

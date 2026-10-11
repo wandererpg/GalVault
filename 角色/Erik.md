@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39740"
 type: "character"
-display_title: "惠莉久"
-title_zh: "惠莉久"
+display_title: "エリク"
+title_zh: ""
 title_ja: "エリク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39740"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Erik"
-  - "エリク"
   - "Eric"
 source_ids:
   vndb: "c39740"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c39740.webp"
 ---
 
-# 惠莉久
+# エリク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

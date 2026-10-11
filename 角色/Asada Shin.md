@@ -5,7 +5,10 @@ display_title: "浅田真"
 title_zh: "浅田真"
 title_ja: "浅田 真"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c62700"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Asada Shin"
   - "浅田 真"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c100156"
 type: "character"
-display_title: "美L阿·S特伊音R"
-title_zh: "美L阿·S特伊音R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Mila Steiner"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c100156"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Mila Steiner"
 source_ids:
   vndb: "c100156"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c100156.webp"
 ---
 
-# 美L阿·S特伊音R
+# Mila Steiner
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

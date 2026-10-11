@@ -5,7 +5,10 @@ display_title: "纪伊国屋将"
 title_zh: "纪伊国屋将"
 title_ja: "紀伊国屋 将"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c63832"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kinokuniya Masaru"
   - "紀伊国屋 将"

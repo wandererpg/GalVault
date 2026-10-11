@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c146637"
 type: "character"
-display_title: "P莉恩C惠沙"
-title_zh: "P莉恩C惠沙"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Princesa"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c146637"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Princesa"
 source_ids:
   vndb: "c146637"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c146637.webp"
 ---
 
-# P莉恩C惠沙
+# Princesa
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

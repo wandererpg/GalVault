@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c15496"
 type: "character"
-display_title: "V惠露古"
-title_zh: "V惠露古"
+display_title: "ヴェルグ"
+title_zh: ""
 title_ja: "ヴェルグ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c15496"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Verg"
-  - "ヴェルグ"
   - "Devil of Pleasure"
 source_ids:
   vndb: "c15496"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c15496.webp"
 ---
 
-# V惠露古
+# ヴェルグ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

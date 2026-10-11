@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c163267"
 type: "character"
-display_title: "雅比恩"
-title_zh: "雅比恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Gabin"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c163267"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Gabin"
 source_ids:
   vndb: "c163267"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c163267.webp"
 ---
 
-# 雅比恩
+# Gabin
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

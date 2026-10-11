@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c28306"
 type: "character"
-display_title: "魔法使伊"
-title_zh: "魔法使伊"
+display_title: "魔法使い"
+title_zh: ""
 title_ja: "魔法使い"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c28306"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mahoutsukai"
-  - "魔法使い"
   - "Wizard"
 source_ids:
   vndb: "c28306"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c28306.webp"
 ---
 
-# 魔法使伊
+# 魔法使い
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c91363"
 type: "character"
-display_title: "吉比惠"
-title_zh: "吉比惠"
+display_title: "ジビエ"
+title_zh: ""
 title_ja: "ジビエ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c91363"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gibier"
-  - "ジビエ"
   - "ジェニファー・メニーオーダー"
   - "Jennifer Manyorder"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c91363.webp"
 ---
 
-# 吉比惠
+# ジビエ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

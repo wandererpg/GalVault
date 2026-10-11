@@ -5,7 +5,10 @@ display_title: "松本了"
 title_zh: "松本了"
 title_ja: "松本 了"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c8135"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Matsumoto Ryou"
   - "松本 了"

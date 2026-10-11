@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c105883"
 type: "character"
-display_title: "阿莫恩D伊希巴希"
-title_zh: "阿莫恩D伊希巴希"
+display_title: "アモンディ・キバキ"
+title_zh: ""
 title_ja: "アモンディ・キバキ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c105883"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Amondi Kibaki"
-  - "アモンディ・キバキ"
 source_ids:
   vndb: "c105883"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c105883.webp"
 ---
 
-# 阿莫恩D伊希巴希
+# アモンディ・キバキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13039"
 type: "character"
-display_title: "久露诗惠惠蕾恩D伊阿"
-title_zh: "久露诗惠惠蕾恩D伊阿"
+display_title: "クルシェ・エレンディア"
+title_zh: ""
 title_ja: "クルシェ・エレンディア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13039"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Krusche Elendia"
-  - "クルシェ・エレンディア"
   - "Cursye Elendia"
 source_ids:
   vndb: "c13039"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c13039.webp"
 ---
 
-# 久露诗惠惠蕾恩D伊阿
+# クルシェ・エレンディア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

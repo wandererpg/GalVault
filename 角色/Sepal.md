@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c124806"
 type: "character"
-display_title: "泽帕露"
-title_zh: "泽帕露"
+display_title: "ゼパル"
+title_zh: ""
 title_ja: "ゼパル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124806"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sepal"
-  - "ゼパル"
 source_ids:
   vndb: "c124806"
 source_urls:
   vndb: "https://vndb.org/c124806"
 ---
 
-# 泽帕露
+# ゼパル
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

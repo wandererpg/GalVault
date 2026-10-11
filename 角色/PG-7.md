@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c98464"
 type: "character"
-display_title: "PG·7"
-title_zh: "PG·7"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "PG-7"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98464"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "PG-7"
   - "Perfect Girl 7"
   - "Nana"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98464.webp"
 ---
 
-# PG·7
+# PG-7
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

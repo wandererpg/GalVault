@@ -5,7 +5,10 @@ display_title: "二波织歌"
 title_zh: "二波织歌"
 title_ja: "二波 織歌"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c55911"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Futami Orika"
   - "二波 織歌"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c6625"
 type: "character"
-display_title: "边古山佩子"
-title_zh: "边古山佩子"
+display_title: "辺古山 ペコ"
+title_zh: ""
 title_ja: "辺古山 ペコ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c6625"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Pekoyama Peko"
-  - "辺古山 ペコ"
   - "Ultimate Swordswoman"
   - "超高校級の「剣道家」"
   - "Super High School Level Kendo Practitioner"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c6625.webp"
 ---
 
-# 边古山佩子
+# 辺古山 ペコ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "神崎雏子"
 title_zh: "神崎雏子"
 title_ja: "神崎 雛子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c124000"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kanzaki Hinako"
   - "神崎 雛子"

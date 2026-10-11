@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c155410"
 type: "character"
-display_title: "羽恩奈H·C奥LL伊恩S"
-title_zh: "羽恩奈H·C奥LL伊恩S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Hannah Collins"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155410"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Hannah Collins"
 source_ids:
   vndb: "c155410"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c155410.webp"
 ---
 
-# 羽恩奈H·C奥LL伊恩S
+# Hannah Collins
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

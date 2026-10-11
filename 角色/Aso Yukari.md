@@ -5,7 +5,10 @@ display_title: "阿苏由香里"
 title_zh: "阿苏由香里"
 title_ja: "阿蘇 由香里"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c165799"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Aso Yukari"
   - "阿蘇 由香里"

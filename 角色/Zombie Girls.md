@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125386"
 type: "character"
-display_title: "藏恩比娘"
-title_zh: "藏恩比娘"
+display_title: "ゾンビ娘"
+title_zh: ""
 title_ja: "ゾンビ娘"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125386"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Zombie Girls"
-  - "ゾンビ娘"
   - "Zombie Girl A"
   - "Zombie Girl B"
   - "Zombie Girl C"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c125386.webp"
 ---
 
-# 藏恩比娘
+# ゾンビ娘
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

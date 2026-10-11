@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c31126"
 type: "character"
-display_title: "魔神扎羽阿尼乌"
-title_zh: "魔神扎羽阿尼乌"
+display_title: "魔神ザハーニウ"
+title_zh: ""
 title_ja: "魔神ザハーニウ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c31126"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Zahanyu"
-  - "魔神ザハーニウ"
 source_ids:
   vndb: "c31126"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c31126.webp"
 ---
 
-# 魔神扎羽阿尼乌
+# 魔神ザハーニウ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

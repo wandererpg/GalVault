@@ -5,7 +5,10 @@ display_title: "松永荣一"
 title_zh: "松永荣一"
 title_ja: "松永 栄一"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c95674"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Matsunaga Eiichi"
   - "松永 栄一"

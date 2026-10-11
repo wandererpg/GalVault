@@ -5,7 +5,10 @@ display_title: "久我山昌信"
 title_zh: "久我山昌信"
 title_ja: "久我山 昌信"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c12095"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kugayama Masanobu"
   - "久我山 昌信"

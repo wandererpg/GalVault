@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c95108"
 type: "character"
-display_title: "F伊莉寿"
-title_zh: "F伊莉寿"
+display_title: "フィリス"
+title_zh: ""
 title_ja: "フィリス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c95108"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Philis"
-  - "フィリス"
 source_ids:
   vndb: "c95108"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c95108.webp"
 ---
 
-# F伊莉寿
+# フィリス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

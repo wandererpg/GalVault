@@ -5,7 +5,10 @@ display_title: "竹内义人"
 title_zh: "竹内义人"
 title_ja: "竹内 義人"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16792"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takeuchi Yoshito"
   - "竹内 義人"

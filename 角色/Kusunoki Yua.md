@@ -5,7 +5,10 @@ display_title: "楠优爱"
 title_zh: "楠优爱"
 title_ja: "楠 優愛"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c4659"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kusunoki Yua"
   - "楠 優愛"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c124840"
 type: "character"
-display_title: "真千露达真特乌莉"
-title_zh: "真千露达真特乌莉"
+display_title: "マチルダ・マテウリ"
+title_zh: ""
 title_ja: "マチルダ・マテウリ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124840"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Matilda Mateuri"
-  - "マチルダ・マテウリ"
 source_ids:
   vndb: "c124840"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c124840.webp"
 ---
 
-# 真千露达真特乌莉
+# マチルダ・マテウリ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

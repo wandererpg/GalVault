@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c111176"
 type: "character"
-display_title: "巴露格寿"
-title_zh: "巴露格寿"
+display_title: "バルゲス"
+title_zh: ""
 title_ja: "バルゲス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c111176"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Barges"
-  - "バルゲス"
 source_ids:
   vndb: "c111176"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c111176.webp"
 ---
 
-# 巴露格寿
+# バルゲス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

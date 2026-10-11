@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c141410"
 type: "character"
-display_title: "B拉恩D伊"
-title_zh: "B拉恩D伊"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Brandi"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141410"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Brandi"
 source_ids:
   vndb: "c141410"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c141410.webp"
 ---
 
-# B拉恩D伊
+# Brandi
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

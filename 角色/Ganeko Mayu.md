@@ -5,7 +5,10 @@ display_title: "我如古茧"
 title_zh: "我如古茧"
 title_ja: "我如古 繭"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c22809"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ganeko Mayu"
   - "我如古 繭"

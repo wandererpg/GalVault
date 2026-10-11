@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c85773"
 type: "character"
-display_title: "莉莉娅V伊莉雅加伊音恩"
-title_zh: "莉莉娅V伊莉雅加伊音恩"
+display_title: "リリャ・ヴィリヤカイネン"
+title_zh: ""
 title_ja: "リリャ・ヴィリヤカイネン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85773"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lilja Viljakainen"
-  - "リリャ・ヴィリヤカイネン"
 source_ids:
   vndb: "c85773"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c85773.webp"
 ---
 
-# 莉莉娅V伊莉雅加伊音恩
+# リリャ・ヴィリヤカイネン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

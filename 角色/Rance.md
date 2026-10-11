@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c52689"
 type: "character"
-display_title: "拉恩寿"
-title_zh: "拉恩寿"
+display_title: "ランス"
+title_zh: ""
 title_ja: "ランス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c52689"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rance"
-  - "ランス"
   - "Rance Clear, Rance Super King, Darling"
 source_ids:
   vndb: "c52689"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c52689.webp"
 ---
 
-# 拉恩寿
+# ランス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

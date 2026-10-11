@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13036"
 type: "character"
-display_title: "芙拉乌斗洛寿洛莉阿"
-title_zh: "芙拉乌斗洛寿洛莉阿"
+display_title: "フラウト・ロス・ロリア"
+title_zh: ""
 title_ja: "フラウト・ロス・ロリア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13036"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Flute Ross Loria"
-  - "フラウト・ロス・ロリア"
 source_ids:
   vndb: "c13036"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c13036.webp"
 ---
 
-# 芙拉乌斗洛寿洛莉阿
+# フラウト・ロス・ロリア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

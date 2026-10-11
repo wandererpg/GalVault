@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c146655"
 type: "character"
-display_title: "C奥音乔·惠SS"
-title_zh: "C奥音乔·惠SS"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Conejo-ess"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c146655"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Conejo-ess"
   - "Motherly Rabbitmaiden"
 source_ids:
   vndb: "c146655"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c146655.webp"
 ---
 
-# C奥音乔·惠SS
+# Conejo-ess
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

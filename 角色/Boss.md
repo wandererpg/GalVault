@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c85775"
 type: "character"
-display_title: "博寿"
-title_zh: "博寿"
+display_title: "ボス"
+title_zh: ""
 title_ja: "ボス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85775"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Boss"
-  - "ボス"
   - "Shizue Kuranushi"
   - "暮主 静枝"
   - "Kuranushi Shizue"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c85775.webp"
 ---
 
-# 博寿
+# ボス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

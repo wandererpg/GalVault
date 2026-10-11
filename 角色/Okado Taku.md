@@ -5,7 +5,10 @@ display_title: "大门拓"
 title_zh: "大门拓"
 title_ja: "大門 拓"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c129744"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Okado Taku"
   - "大門 拓"

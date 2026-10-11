@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43872"
 type: "character"
-display_title: "太特羽"
-title_zh: "太特羽"
+display_title: "たては"
+title_zh: ""
 title_ja: "たては"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43872"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tatewa"
-  - "たては"
 source_ids:
   vndb: "c43872"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43872.webp"
 ---
 
-# 太特羽
+# たては
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

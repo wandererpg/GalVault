@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c125480"
 type: "character"
-display_title: "千芽拉·D莉娅D"
-title_zh: "千芽拉·D莉娅D"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Chimera Dryad"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125480"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Chimera Dryad"
 source_ids:
   vndb: "c125480"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c125480.webp"
 ---
 
-# 千芽拉·D莉娅D
+# Chimera Dryad
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

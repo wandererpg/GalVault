@@ -5,7 +5,10 @@ display_title: "汀薰子"
 title_zh: "汀薰子"
 title_ja: "汀 薫子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c31821"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Migiwa Kaoruko"
   - "汀 薫子"

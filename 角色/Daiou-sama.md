@@ -5,7 +5,10 @@ display_title: "大王样"
 title_zh: "大王样"
 title_ja: "大王様"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2460"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Daiou-sama"
   - "大王様"

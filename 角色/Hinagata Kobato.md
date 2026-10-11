@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16137"
 type: "character"
-display_title: "雏形子巴斗"
-title_zh: "雏形子巴斗"
+display_title: "雛形 こばと"
+title_zh: ""
 title_ja: "雛形 こばと"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16137"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hinagata Kobato"
-  - "雛形 こばと"
 source_ids:
   vndb: "c16137"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c16137.webp"
 ---
 
-# 雏形子巴斗
+# 雛形 こばと
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

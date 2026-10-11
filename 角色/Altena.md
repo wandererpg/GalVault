@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71168"
 type: "character"
-display_title: "阿露特奈"
-title_zh: "阿露特奈"
+display_title: "アルテナ"
+title_zh: ""
 title_ja: "アルテナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71168"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Altena"
-  - "アルテナ"
 source_ids:
   vndb: "c71168"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71168.webp"
 ---
 
-# 阿露特奈
+# アルテナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

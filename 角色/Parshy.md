@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c44140"
 type: "character"
-display_title: "帕阿诗"
-title_zh: "帕阿诗"
+display_title: "パーシ"
+title_zh: ""
 title_ja: "パーシ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c44140"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Parshy"
-  - "パーシ"
 source_ids:
   vndb: "c44140"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c44140.webp"
 ---
 
-# 帕阿诗
+# パーシ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

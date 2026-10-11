@@ -5,7 +5,10 @@ display_title: "远野明日翔"
 title_zh: "远野明日翔"
 title_ja: "遠野 明日翔"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c36531"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Toono Asuka"
   - "遠野 明日翔"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c22631"
 type: "character"
-display_title: "星辰日芽美雅"
-title_zh: "星辰日芽美雅"
+display_title: "星辰 ひめみや"
+title_zh: ""
 title_ja: "星辰 ひめみや"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c22631"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Seishin Himemiya"
-  - "星辰 ひめみや"
   - "ご開祖ちゃん"
   - "Gokaiso-chan"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c22631.webp"
 ---
 
-# 星辰日芽美雅
+# 星辰 ひめみや
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "畔美岬"
 title_zh: "畔美岬"
 title_ja: "畔 美岬"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c71529"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hotori Misaki"
   - "畔 美岬"

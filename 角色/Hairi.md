@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87446"
 type: "character"
-display_title: "海浬(羽伊莉)"
-title_zh: "海浬(羽伊莉)"
+display_title: "海浬 (ハイリ)"
+title_zh: ""
 title_ja: "海浬 (ハイリ)"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87446"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hairi"
-  - "海浬 (ハイリ)"
 source_ids:
   vndb: "c87446"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c87446.webp"
 ---
 
-# 海浬(羽伊莉)
+# 海浬 (ハイリ)
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

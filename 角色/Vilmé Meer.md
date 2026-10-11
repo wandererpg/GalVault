@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61299"
 type: "character"
-display_title: "比露芽米娅阿"
-title_zh: "比露芽米娅阿"
+display_title: "ビルメ・ミャー"
+title_zh: ""
 title_ja: "ビルメ・ミャー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61299"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Vilmé Meer"
-  - "ビルメ・ミャー"
 source_ids:
   vndb: "c61299"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61299.webp"
 ---
 
-# 比露芽米娅阿
+# ビルメ・ミャー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

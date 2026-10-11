@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127265"
 type: "character"
-display_title: "阿雅诗土蜘蛛"
-title_zh: "阿雅诗土蜘蛛"
+display_title: "あやし土蜘蛛"
+title_zh: ""
 title_ja: "あやし土蜘蛛"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127265"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tsuchigumo"
-  - "あやし土蜘蛛"
   - "Mizuki"
 source_ids:
   vndb: "c127265"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c127265.webp"
 ---
 
-# 阿雅诗土蜘蛛
+# あやし土蜘蛛
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

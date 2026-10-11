@@ -5,7 +5,10 @@ display_title: "桐原一叶"
 title_zh: "桐原一叶"
 title_ja: "桐原 一葉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c7244"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kirihara Hitoha"
   - "桐原 一葉"

@@ -5,7 +5,10 @@ display_title: "中山多惠子"
 title_zh: "中山多惠子"
 title_ja: "中山 多恵子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c8127"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nakayama Taeko"
   - "中山 多恵子"

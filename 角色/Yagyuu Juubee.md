@@ -5,7 +5,10 @@ display_title: "柳生十兵卫"
 title_zh: "柳生十兵卫"
 title_ja: "柳生 十兵衛"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c23389"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yagyuu Juubee"
   - "柳生 十兵衛"

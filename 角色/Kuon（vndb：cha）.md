@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c37789"
 type: "character"
-display_title: "久奥恩"
-title_zh: "久奥恩"
+display_title: "クオン"
+title_zh: ""
 title_ja: "クオン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37789"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kuon"
-  - "クオン"
 source_ids:
   vndb: "c37789"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c37789.webp"
 ---
 
-# 久奥恩
+# クオン
 
 
 ## 角色画像

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12819"
 type: "character"
-display_title: "阿久濑拉"
-title_zh: "阿久濑拉"
+display_title: "アクセラ"
+title_zh: ""
 title_ja: "アクセラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12819"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Accela"
-  - "アクセラ"
   - "Akusera"
 source_ids:
   vndb: "c12819"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c12819.webp"
 ---
 
-# 阿久濑拉
+# アクセラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

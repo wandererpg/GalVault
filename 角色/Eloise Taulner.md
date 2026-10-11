@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c122011"
 type: "character"
-display_title: "惠L奥伊濑·太乌L音R"
-title_zh: "惠L奥伊濑·太乌L音R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Eloise Taulner"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c122011"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Eloise Taulner"
   - "Ultimate Fencer"
 source_ids:
   vndb: "c122011"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c122011.webp"
 ---
 
-# 惠L奥伊濑·太乌L音R
+# Eloise Taulner
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

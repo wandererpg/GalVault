@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26534"
 type: "character"
-display_title: "代修阿"
-title_zh: "代修阿"
+display_title: "ヨシュア"
+title_zh: ""
 title_ja: "ヨシュア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26534"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Joshua"
-  - "ヨシュア"
 source_ids:
   vndb: "c26534"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c26534.webp"
 ---
 
-# 代修阿
+# ヨシュア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

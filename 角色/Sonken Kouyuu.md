@@ -5,7 +5,10 @@ display_title: "孙干公祐"
 title_zh: "孙干公祐"
 title_ja: "孫乾 公祐"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c62465"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sonken Kouyuu"
   - "孫乾 公祐"

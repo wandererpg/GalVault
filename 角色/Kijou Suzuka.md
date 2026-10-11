@@ -5,7 +5,10 @@ display_title: "鬼上铃鹿"
 title_zh: "鬼上铃鹿"
 title_ja: "鬼上 鈴鹿"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c69589"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kijou Suzuka"
   - "鬼上 鈴鹿"

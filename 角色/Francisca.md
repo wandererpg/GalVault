@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26531"
 type: "character"
-display_title: "芙拉恩诗寿加"
-title_zh: "芙拉恩诗寿加"
+display_title: "フランシスカ"
+title_zh: ""
 title_ja: "フランシスカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26531"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Francisca"
-  - "フランシスカ"
 source_ids:
   vndb: "c26531"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c26531.webp"
 ---
 
-# 芙拉恩诗寿加
+# フランシスカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

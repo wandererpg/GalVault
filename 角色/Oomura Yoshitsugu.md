@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c9946"
 type: "character"
-display_title: "大村代诗津古"
-title_zh: "大村代诗津古"
+display_title: "大村 ヨシツグ"
+title_zh: ""
 title_ja: "大村 ヨシツグ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c9946"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Oomura Yoshitsugu"
-  - "大村 ヨシツグ"
   - "ヨッシー"
   - "Yosshi"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c9946.webp"
 ---
 
-# 大村代诗津古
+# 大村 ヨシツグ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

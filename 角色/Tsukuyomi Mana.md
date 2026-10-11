@@ -5,7 +5,10 @@ display_title: "月咏真那"
 title_zh: "月咏真那"
 title_ja: "月詠 真那"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c127"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsukuyomi Mana"
   - "月詠 真那"

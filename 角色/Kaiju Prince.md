@@ -5,7 +5,10 @@ display_title: "怪兽王子"
 title_zh: "怪兽王子"
 title_ja: "怪獣王子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c62925"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kaiju Prince"
   - "怪獣王子"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71160"
 type: "character"
-display_title: "V阿阿美莉奥恩＝真阿加寿"
-title_zh: "V阿阿美莉奥恩＝真阿加寿"
+display_title: "ヴァーミリオン＝マーカス"
+title_zh: ""
 title_ja: "ヴァーミリオン＝マーカス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71160"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Vermillion Marcus"
-  - "ヴァーミリオン＝マーカス"
 source_ids:
   vndb: "c71160"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71160.webp"
 ---
 
-# V阿阿美莉奥恩＝真阿加寿
+# ヴァーミリオン＝マーカス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

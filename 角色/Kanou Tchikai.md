@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c21318"
 type: "character"
-display_title: "加乃乌千加伊"
-title_zh: "加乃乌千加伊"
+display_title: "カノウ・チカイ"
+title_zh: ""
 title_ja: "カノウ・チカイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c21318"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kanou Tchikai"
-  - "カノウ・チカイ"
   - "Chika"
 source_ids:
   vndb: "c21318"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c21318.webp"
 ---
 
-# 加乃乌千加伊
+# カノウ・チカイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

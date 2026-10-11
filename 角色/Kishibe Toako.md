@@ -5,7 +5,10 @@ display_title: "岸边斗亚子"
 title_zh: "岸边斗亚子"
 title_ja: "岸辺 斗亞子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43863"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kishibe Toako"
   - "岸辺 斗亞子"

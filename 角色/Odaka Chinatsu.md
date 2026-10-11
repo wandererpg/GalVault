@@ -5,7 +5,10 @@ display_title: "尾高千夏"
 title_zh: "尾高千夏"
 title_ja: "尾高 千夏"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c57227"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Odaka Chinatsu"
   - "尾高 千夏"

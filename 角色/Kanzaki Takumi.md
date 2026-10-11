@@ -5,7 +5,10 @@ display_title: "神崎匡"
 title_zh: "神崎匡"
 title_ja: "神崎 匡"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c143305"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kanzaki Takumi"
   - "神崎 匡"

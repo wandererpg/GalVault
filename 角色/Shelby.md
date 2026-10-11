@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c103054"
 type: "character"
-display_title: "S惠LBY"
-title_zh: "S惠LBY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Shelby"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103054"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Shelby"
 source_ids:
   vndb: "c103054"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c103054.webp"
 ---
 
-# S惠LBY
+# Shelby
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

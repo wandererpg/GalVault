@@ -5,7 +5,10 @@ display_title: "神风"
 title_zh: "神风"
 title_ja: "神風"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c13601"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kamikaze"
   - "神風"

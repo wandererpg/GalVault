@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c44745"
 type: "character"
-display_title: "奥奥久寿斗洛达恩"
-title_zh: "奥奥久寿斗洛达恩"
+display_title: "オーギュスト・ロダン"
+title_zh: ""
 title_ja: "オーギュスト・ロダン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c44745"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Auguste Rodin"
-  - "オーギュスト・ロダン"
 source_ids:
   vndb: "c44745"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c44745.webp"
 ---
 
-# 奥奥久寿斗洛达恩
+# オーギュスト・ロダン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

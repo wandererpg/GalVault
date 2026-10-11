@@ -5,7 +5,10 @@ display_title: "植城隆一"
 title_zh: "植城隆一"
 title_ja: "植城 隆一"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20445"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ueshiro Ryuuichi"
   - "植城 隆一"

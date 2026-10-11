@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c3984"
 type: "character"
-display_title: "八坂阿洛惠"
-title_zh: "八坂阿洛惠"
+display_title: "八坂 あろえ"
+title_zh: ""
 title_ja: "八坂 あろえ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c3984"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yasaka Aroe"
-  - "八坂 あろえ"
 source_ids:
   vndb: "c3984"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c3984.webp"
 ---
 
-# 八坂阿洛惠
+# 八坂 あろえ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

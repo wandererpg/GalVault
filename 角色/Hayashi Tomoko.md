@@ -5,7 +5,10 @@ display_title: "林朋子"
 title_zh: "林朋子"
 title_ja: "林 朋子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c65120"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hayashi Tomoko"
   - "林 朋子"

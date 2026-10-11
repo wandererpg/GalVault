@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c89326"
 type: "character"
-display_title: "伊阿恩·和TTS"
-title_zh: "伊阿恩·和TTS"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ian Watts"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c89326"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ian Watts"
 source_ids:
   vndb: "c89326"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c89326.webp"
 ---
 
-# 伊阿恩·和TTS
+# Ian Watts
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

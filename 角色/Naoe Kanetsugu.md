@@ -5,7 +5,10 @@ display_title: "直江兼续"
 title_zh: "直江兼续"
 title_ja: "直江 兼続"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c40957"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Naoe Kanetsugu"
   - "直江 兼続"

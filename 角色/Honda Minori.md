@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c51197"
 type: "character"
-display_title: "本田美乃莉"
-title_zh: "本田美乃莉"
+display_title: "本田 みのり"
+title_zh: ""
 title_ja: "本田 みのり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c51197"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Honda Minori"
-  - "本田 みのり"
 source_ids:
   vndb: "c51197"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c51197.webp"
 ---
 
-# 本田美乃莉
+# 本田 みのり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

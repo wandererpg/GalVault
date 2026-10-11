@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c141266"
 type: "character"
-display_title: "加巴泽猛"
-title_zh: "加巴泽猛"
+display_title: "カバ沢 猛"
+title_zh: ""
 title_ja: "カバ沢 猛"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141266"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kabasawa Takeshi"
-  - "カバ沢 猛"
 source_ids:
   vndb: "c141266"
 source_urls:
   vndb: "https://vndb.org/c141266"
 ---
 
-# 加巴泽猛
+# カバ沢 猛
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

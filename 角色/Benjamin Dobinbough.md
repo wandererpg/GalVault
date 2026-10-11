@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c113590"
 type: "character"
-display_title: "贝恩嘉美恩堂比恩博奥"
-title_zh: "贝恩嘉美恩堂比恩博奥"
+display_title: "ベンジャミン・ドビンボー"
+title_zh: ""
 title_ja: "ベンジャミン・ドビンボー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c113590"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Benjamin Dobinbough"
-  - "ベンジャミン・ドビンボー"
   - "Professor Bunnybrain"
 source_ids:
   vndb: "c113590"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c113590.webp"
 ---
 
-# 贝恩嘉美恩堂比恩博奥
+# ベンジャミン・ドビンボー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

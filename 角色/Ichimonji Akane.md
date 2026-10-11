@@ -5,7 +5,10 @@ display_title: "一文字茜"
 title_zh: "一文字茜"
 title_ja: "一文字 茜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2132"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ichimonji Akane"
   - "一文字 茜"

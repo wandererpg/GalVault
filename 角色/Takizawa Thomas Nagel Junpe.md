@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c55022"
 type: "character"
-display_title: "太希扎和斗奥真寿音惠格露朱恩佩惠"
-title_zh: "太希扎和斗奥真寿音惠格露朱恩佩惠"
+display_title: "タキザワ・トーマス・ネーゲル・ジュンペー"
+title_zh: ""
 title_ja: "タキザワ・トーマス・ネーゲル・ジュンペー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c55022"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Takizawa Thomas Nagel Junpe"
-  - "タキザワ・トーマス・ネーゲル・ジュンペー"
 source_ids:
   vndb: "c55022"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c55022.webp"
 ---
 
-# 太希扎和斗奥真寿音惠格露朱恩佩惠
+# タキザワ・トーマス・ネーゲル・ジュンペー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

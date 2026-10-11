@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c48134"
 type: "character"
-display_title: "阿蕾久濑伊朱乌子芙"
-title_zh: "阿蕾久濑伊朱乌子芙"
+display_title: "アレクセイ・ジューコフ"
+title_zh: ""
 title_ja: "アレクセイ・ジューコフ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c48134"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alexei Zhukov"
-  - "アレクセイ・ジューコフ"
 source_ids:
   vndb: "c48134"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c48134.webp"
 ---
 
-# 阿蕾久濑伊朱乌子芙
+# アレクセイ・ジューコフ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

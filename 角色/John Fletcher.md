@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c165215"
 type: "character"
-display_title: "乔H恩·FL惠TC惠R"
-title_zh: "乔H恩·FL惠TC惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "John Fletcher"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c165215"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "John Fletcher"
 source_ids:
   vndb: "c165215"
 source_urls:
   vndb: "https://vndb.org/c165215"
 ---
 
-# 乔H恩·FL惠TC惠R
+# John Fletcher
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

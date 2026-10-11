@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c65893"
 type: "character"
-display_title: "柴田雪"
-title_zh: "柴田雪"
+display_title: "柴田 ゆき"
+title_zh: ""
 title_ja: "柴田 ゆき"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c65893"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shibata Yuki"
-  - "柴田 ゆき"
 source_ids:
   vndb: "c65893"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c65893.webp"
 ---
 
-# 柴田雪
+# 柴田 ゆき
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

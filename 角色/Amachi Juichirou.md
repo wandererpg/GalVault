@@ -5,7 +5,10 @@ display_title: "天知寿一郎"
 title_zh: "天知寿一郎"
 title_ja: "天知 寿一郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c41458"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Amachi Juichirou"
   - "天知 寿一郎"

@@ -5,7 +5,10 @@ display_title: "名波凛々花"
 title_zh: "名波凛々花"
 title_ja: "名波 凜々花"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c89233"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nanami Ririka"
   - "名波 凜々花"

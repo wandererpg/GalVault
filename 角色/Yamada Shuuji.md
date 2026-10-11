@@ -5,7 +5,10 @@ display_title: "山田修司"
 title_zh: "山田修司"
 title_ja: "山田修司"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1668"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yamada Shuuji"
 source_ids:

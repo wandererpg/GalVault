@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c123245"
 type: "character"
-display_title: "贝恩尼惠·雅R莉恩G斗恩"
-title_zh: "贝恩尼惠·雅R莉恩G斗恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Bennie Garrington"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c123245"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Bennie Garrington"
 source_ids:
   vndb: "c123245"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c123245.webp"
 ---
 
-# 贝恩尼惠·雅R莉恩G斗恩
+# Bennie Garrington
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

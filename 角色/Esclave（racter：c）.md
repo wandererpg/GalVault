@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c174091"
 type: "character"
-display_title: "惠SCL阿V惠"
-title_zh: "惠SCL阿V惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Esclave"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c174091"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Esclave"
 source_ids:
   vndb: "c174091"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c174091.webp"
 ---
 
-# 惠SCL阿V惠
+# Esclave
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

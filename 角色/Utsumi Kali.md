@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c6651"
 type: "character"
-display_title: "内海加阿莉伊"
-title_zh: "内海加阿莉伊"
+display_title: "内海 カーリー"
+title_zh: ""
 title_ja: "内海 カーリー"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c6651"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Utsumi Kali"
-  - "内海 カーリー"
 source_ids:
   vndb: "c6651"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c6651.webp"
 ---
 
-# 内海加阿莉伊
+# 内海 カーリー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

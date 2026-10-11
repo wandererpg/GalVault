@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30204"
 type: "character"
-display_title: "芽莉惠露寿伊F惠"
-title_zh: "芽莉惠露寿伊F惠"
+display_title: "メリエル・スイフェ"
+title_zh: ""
 title_ja: "メリエル・スイフェ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30204"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Meriel Suife"
-  - "メリエル・スイフェ"
 source_ids:
   vndb: "c30204"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30204.webp"
 ---
 
-# 芽莉惠露寿伊F惠
+# メリエル・スイフェ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

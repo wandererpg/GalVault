@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c146636"
 type: "character"
-display_title: "太"
-title_zh: "太"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ta"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c146636"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ta"
   - "MEGAMAIDEN of DEPTH"
 source_ids:
   vndb: "c146636"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c146636.webp"
 ---
 
-# 太
+# Ta
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c167041"
 type: "character"
-display_title: "伊V阿莉S"
-title_zh: "伊V阿莉S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ivaris"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c167041"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ivaris"
 source_ids:
   vndb: "c167041"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c167041.webp"
 ---
 
-# 伊V阿莉S
+# Ivaris
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

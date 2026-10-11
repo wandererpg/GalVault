@@ -5,7 +5,10 @@ display_title: "鞘师十郎"
 title_zh: "鞘师十郎"
 title_ja: "鞘師 十郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c85109"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sayashi Juurou"
   - "鞘師 十郎"

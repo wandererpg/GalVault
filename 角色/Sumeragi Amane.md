@@ -5,7 +5,10 @@ display_title: "皇天音"
 title_zh: "皇天音"
 title_ja: "皇 天音"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c806"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sumeragi Amane"
   - "皇 天音"

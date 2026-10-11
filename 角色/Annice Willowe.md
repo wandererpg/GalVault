@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c51602"
 type: "character"
-display_title: "阿恩尼C惠·W伊LL奥W惠"
-title_zh: "阿恩尼C惠·W伊LL奥W惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Annice Willowe"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c51602"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Annice Willowe"
 source_ids:
   vndb: "c51602"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c51602.webp"
 ---
 
-# 阿恩尼C惠·W伊LL奥W惠
+# Annice Willowe
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

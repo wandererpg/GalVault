@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38207"
 type: "character"
-display_title: "吉美伊阿阿蕾寿太阿"
-title_zh: "吉美伊阿阿蕾寿太阿"
+display_title: "ジミー・A・アレスター"
+title_zh: ""
 title_ja: "ジミー・A・アレスター"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38207"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jimmy A. Aleister"
-  - "ジミー・A・アレスター"
 source_ids:
   vndb: "c38207"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c38207.webp"
 ---
 
-# 吉美伊阿阿蕾寿太阿
+# ジミー・A・アレスター
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

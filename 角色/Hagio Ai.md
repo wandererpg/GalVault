@@ -5,7 +5,10 @@ display_title: "萩尾杏依"
 title_zh: "萩尾杏依"
 title_ja: "萩尾 杏依"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43151"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hagio Ai"
   - "萩尾 杏依"

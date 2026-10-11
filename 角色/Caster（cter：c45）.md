@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c45"
 type: "character"
-display_title: "佳寿太阿"
-title_zh: "佳寿太阿"
+display_title: "キャスター"
+title_zh: ""
 title_ja: "キャスター"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c45"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Caster"
-  - "キャスター"
   - "メデイア"
   - "Medea"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c45.webp"
 ---
 
-# 佳寿太阿
+# キャスター
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

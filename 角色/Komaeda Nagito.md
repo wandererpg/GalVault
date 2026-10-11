@@ -5,7 +5,10 @@ display_title: "狛枝凪斗"
 title_zh: "狛枝凪斗"
 title_ja: "狛枝 凪斗"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c6611"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Komaeda Nagito"
   - "狛枝 凪斗"

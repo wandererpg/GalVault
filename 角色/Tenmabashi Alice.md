@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c97362"
 type: "character"
-display_title: "天满桥阿莉寿"
-title_zh: "天满桥阿莉寿"
+display_title: "天満橋 ありす"
+title_zh: ""
 title_ja: "天満橋 ありす"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97362"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tenmabashi Alice"
-  - "天満橋 ありす"
 source_ids:
   vndb: "c97362"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c97362.webp"
 ---
 
-# 天满桥阿莉寿
+# 天満橋 ありす
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

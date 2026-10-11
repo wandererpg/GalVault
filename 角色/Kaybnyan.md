@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98290"
 type: "character"
-display_title: "惠伊布妮娅恩"
-title_zh: "惠伊布妮娅恩"
+display_title: "ケイブニャン"
+title_zh: ""
 title_ja: "ケイブニャン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98290"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kaybnyan"
-  - "ケイブニャン"
 source_ids:
   vndb: "c98290"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98290.webp"
 ---
 
-# 惠伊布妮娅恩
+# ケイブニャン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

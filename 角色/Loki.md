@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14100"
 type: "character"
-display_title: "洛希"
-title_zh: "洛希"
+display_title: "ロキ"
+title_zh: ""
 title_ja: "ロキ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14100"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Loki"
-  - "ロキ"
   - "Yoshino Reiji"
 source_ids:
   vndb: "c14100"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c14100.webp"
 ---
 
-# 洛希
+# ロキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "有坂真白"
 title_zh: "有坂真白"
 title_ja: "有坂 真白"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c22769"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Arisaka Mashiro"
   - "有坂 真白"

@@ -5,7 +5,10 @@ display_title: "静野咲良"
 title_zh: "静野咲良"
 title_ja: "静野 咲良"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c15818"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shizuno Sakura"
   - "静野 咲良"

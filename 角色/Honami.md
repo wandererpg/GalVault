@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c94678"
 type: "character"
-display_title: "穗奈美"
-title_zh: "穗奈美"
+display_title: "ホナミ"
+title_zh: ""
 title_ja: "ホナミ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94678"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Honami"
-  - "ホナミ"
 source_ids:
   vndb: "c94678"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c94678.webp"
 ---
 
-# 穗奈美
+# ホナミ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

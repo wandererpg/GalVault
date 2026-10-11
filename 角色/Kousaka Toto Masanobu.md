@@ -5,7 +5,10 @@ display_title: "高坂兎々昌信"
 title_zh: "高坂兎々昌信"
 title_ja: "高坂 兎々 昌信"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20749"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kousaka Toto Masanobu"
   - "高坂 兎々 昌信"

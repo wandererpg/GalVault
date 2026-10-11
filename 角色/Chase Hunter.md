@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c92028"
 type: "character"
-display_title: "恰濑·H乌恩特R"
-title_zh: "恰濑·H乌恩特R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Chase Hunter"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92028"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Chase Hunter"
   - "Chula"
   - "Muskshit"
   - "some gay otter idk"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c92028.webp"
 ---
 
-# 恰濑·H乌恩特R
+# Chase Hunter
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

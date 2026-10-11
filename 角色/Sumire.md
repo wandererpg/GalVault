@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8567"
 type: "character"
-display_title: "寿美蕾"
-title_zh: "寿美蕾"
+display_title: "スミレ"
+title_zh: ""
 title_ja: "スミレ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8567"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sumire"
-  - "スミレ"
   - "Mamma"
 source_ids:
   vndb: "c8567"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c8567.webp"
 ---
 
-# 寿美蕾
+# スミレ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

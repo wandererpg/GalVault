@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c28665"
 type: "character"
-display_title: "惠莉扎布莉特恩"
-title_zh: "惠莉扎布莉特恩"
+display_title: "エリザ・ブリテン"
+title_zh: ""
 title_ja: "エリザ・ブリテン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c28665"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Eliza Britain"
-  - "エリザ・ブリテン"
 source_ids:
   vndb: "c28665"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c28665.webp"
 ---
 
-# 惠莉扎布莉特恩
+# エリザ・ブリテン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

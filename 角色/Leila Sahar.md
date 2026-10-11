@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c128704"
 type: "character"
-display_title: "蕾伊拉沙羽露"
-title_zh: "蕾伊拉沙羽露"
+display_title: "レイラ・サハル"
+title_zh: ""
 title_ja: "レイラ・サハル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c128704"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Leila Sahar"
-  - "レイラ・サハル"
 source_ids:
   vndb: "c128704"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c128704.webp"
 ---
 
-# 蕾伊拉沙羽露
+# レイラ・サハル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

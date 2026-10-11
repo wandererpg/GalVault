@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c44478"
 type: "character"
-display_title: "日比"
-title_zh: "日比"
+display_title: "ヒビ"
+title_zh: ""
 title_ja: "ヒビ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c44478"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hibi"
-  - "ヒビ"
 source_ids:
   vndb: "c44478"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c44478.webp"
 ---
 
-# 日比
+# ヒビ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

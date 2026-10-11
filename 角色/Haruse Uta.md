@@ -5,7 +5,10 @@ display_title: "春濑歌"
 title_zh: "春濑歌"
 title_ja: "春瀬 歌"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9202"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Haruse Uta"
   - "春瀬 歌"

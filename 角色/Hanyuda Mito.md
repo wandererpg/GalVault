@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c166147"
 type: "character"
-display_title: "羽生田美斗"
-title_zh: "羽生田美斗"
+display_title: "羽生田ミト"
+title_zh: ""
 title_ja: "羽生田ミト"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c166147"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hanyuda Mito"
-  - "羽生田ミト"
 source_ids:
   vndb: "c166147"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c166147.webp"
 ---
 
-# 羽生田美斗
+# 羽生田ミト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

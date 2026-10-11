@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c2958"
 type: "character"
-display_title: "今川阿恩子"
-title_zh: "今川阿恩子"
+display_title: "今川 あんこ"
+title_zh: ""
 title_ja: "今川 あんこ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c2958"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Imagawa Anko"
-  - "今川 あんこ"
 source_ids:
   vndb: "c2958"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c2958.webp"
 ---
 
-# 今川阿恩子
+# 今川 あんこ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

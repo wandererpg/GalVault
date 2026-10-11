@@ -5,7 +5,10 @@ display_title: "谢亮"
 title_zh: "谢亮"
 title_ja: "謝 亮"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c118483"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Xie Liang"
   - "謝 亮"

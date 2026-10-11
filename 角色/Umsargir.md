@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c169821"
 type: "character"
-display_title: "乌M沙R吉R"
-title_zh: "乌M沙R吉R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Umsargir"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c169821"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Umsargir"
 source_ids:
   vndb: "c169821"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c169821.webp"
 ---
 
-# 乌M沙R吉R
+# Umsargir
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

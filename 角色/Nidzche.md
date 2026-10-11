@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c48687"
 type: "character"
-display_title: "尼DZC惠"
-title_zh: "尼DZC惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Nidzche"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c48687"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Nidzche"
 source_ids:
   vndb: "c48687"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c48687.webp"
 ---
 
-# 尼DZC惠
+# Nidzche
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

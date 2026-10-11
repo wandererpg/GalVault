@@ -5,7 +5,10 @@ display_title: "右田双铁"
 title_zh: "右田双铁"
 title_ja: "右田 双鉄"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c42285"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Migita Soutetsu"
   - "右田 双鉄"

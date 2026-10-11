@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8382"
 type: "character"
-display_title: "特奥洛"
-title_zh: "特奥洛"
+display_title: "テオロ"
+title_zh: ""
 title_ja: "テオロ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8382"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Teoro"
-  - "テオロ"
 source_ids:
   vndb: "c8382"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c8382.webp"
 ---
 
-# 特奥洛
+# テオロ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

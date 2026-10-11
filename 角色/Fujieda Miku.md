@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12540"
 type: "character"
-display_title: "藤枝美久"
-title_zh: "藤枝美久"
+display_title: "藤枝 ミク"
+title_zh: ""
 title_ja: "藤枝 ミク"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12540"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Fujieda Miku"
-  - "藤枝 ミク"
 source_ids:
   vndb: "c12540"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c12540.webp"
 ---
 
-# 藤枝美久
+# 藤枝 ミク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c37632"
 type: "character"
-display_title: "L奥RD·CL阿R莫恩T"
-title_zh: "L奥RD·CL阿R莫恩T"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Lord Clarmont"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37632"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Lord Clarmont"
 source_ids:
   vndb: "c37632"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c37632.webp"
 ---
 
-# L奥RD·CL阿R莫恩T
+# Lord Clarmont
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

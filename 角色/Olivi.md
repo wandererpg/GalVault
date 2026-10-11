@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c88421"
 type: "character"
-display_title: "奥莉V伊"
-title_zh: "奥莉V伊"
+display_title: "オリヴィ"
+title_zh: ""
 title_ja: "オリヴィ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c88421"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Olivi"
-  - "オリヴィ"
   - "Olivi-chan"
 source_ids:
   vndb: "c88421"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c88421.webp"
 ---
 
-# 奥莉V伊
+# オリヴィ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

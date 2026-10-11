@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c119887"
 type: "character"
-display_title: "G莉FF"
-title_zh: "G莉FF"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Griff"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c119887"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Griff"
 source_ids:
   vndb: "c119887"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c119887.webp"
 ---
 
-# G莉FF
+# Griff
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

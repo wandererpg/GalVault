@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c37397"
 type: "character"
-display_title: "大空寺阿优"
-title_zh: "大空寺阿优"
+display_title: "大空寺 あゆ"
+title_zh: ""
 title_ja: "大空寺 あゆ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37397"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Daikuuji Ayu"
-  - "大空寺 あゆ"
 source_ids:
   vndb: "c37397"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c37397.webp"
 ---
 
-# 大空寺阿优
+# 大空寺 あゆ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

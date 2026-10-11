@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c161554"
 type: "character"
-display_title: "F莉阿莫濑·T洛Y"
-title_zh: "F莉阿莫濑·T洛Y"
+display_title: "프리아모스 트로이"
+title_zh: ""
 title_ja: "프리아모스 트로이"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161554"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Friamose Troy"
-  - "프리아모스 트로이"
 source_ids:
   vndb: "c161554"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c161554.webp"
 ---
 
-# F莉阿莫濑·T洛Y
+# 프리아모스 트로이
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

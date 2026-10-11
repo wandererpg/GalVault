@@ -5,7 +5,10 @@ display_title: "明日叶阳介"
 title_zh: "明日叶阳介"
 title_ja: "明日葉 陽介"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c12081"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ashitaba Yousuke"
   - "明日葉 陽介"

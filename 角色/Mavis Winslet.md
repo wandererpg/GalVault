@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c85074"
 type: "character"
-display_title: "芽伊V伊寿乌伊恩寿蕾T斗"
-title_zh: "芽伊V伊寿乌伊恩寿蕾T斗"
+display_title: "メイヴィス・ウィンスレット"
+title_zh: ""
 title_ja: "メイヴィス・ウィンスレット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85074"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mavis Winslet"
-  - "メイヴィス・ウィンスレット"
 source_ids:
   vndb: "c85074"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c85074.webp"
 ---
 
-# 芽伊V伊寿乌伊恩寿蕾T斗
+# メイヴィス・ウィンスレット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

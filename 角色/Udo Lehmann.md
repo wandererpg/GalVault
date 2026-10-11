@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127216"
 type: "character"
-display_title: "乌堂蕾惠真恩"
-title_zh: "乌堂蕾惠真恩"
+display_title: "ウド・レーマン"
+title_zh: ""
 title_ja: "ウド・レーマン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127216"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Udo Lehmann"
-  - "ウド・レーマン"
 source_ids:
   vndb: "c127216"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c127216.webp"
 ---
 
-# 乌堂蕾惠真恩
+# ウド・レーマン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

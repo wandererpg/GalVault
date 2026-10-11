@@ -5,7 +5,10 @@ display_title: "近藤勇"
 title_zh: "近藤勇"
 title_ja: "近藤 勇"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c60136"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kondou Isami"
   - "近藤 勇"

@@ -5,7 +5,10 @@ display_title: "景胜"
 title_zh: "景胜"
 title_ja: "景勝"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c98793"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kagekatsu"
   - "景勝"

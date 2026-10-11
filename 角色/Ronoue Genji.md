@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c276"
 type: "character"
-display_title: "吕乃上源次"
-title_zh: "吕乃上源次"
+display_title: "呂ノ上 源次"
+title_zh: ""
 title_ja: "呂ノ上 源次"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c276"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ronoue Genji"
-  - "呂ノ上 源次"
 source_ids:
   vndb: "c276"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c276.webp"
 ---
 
-# 吕乃上源次
+# 呂ノ上 源次
 
 
 ## 角色画像

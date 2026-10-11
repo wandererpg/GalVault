@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c56355"
 type: "character"
-display_title: "休乌"
-title_zh: "休乌"
+display_title: "ヒュー"
+title_zh: ""
 title_ja: "ヒュー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56355"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hugh"
-  - "ヒュー"
   - "Ash"
   - "Haku"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c56355.webp"
 ---
 
-# 休乌
+# ヒュー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

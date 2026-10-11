@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c134179"
 type: "character"
-display_title: "长老沙真"
-title_zh: "长老沙真"
+display_title: "長老さま"
+title_zh: ""
 title_ja: "長老さま"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c134179"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "The Elder"
-  - "長老さま"
 source_ids:
   vndb: "c134179"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c134179.webp"
 ---
 
-# 长老沙真
+# 長老さま
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

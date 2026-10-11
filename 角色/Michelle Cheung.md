@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c90590"
 type: "character"
-display_title: "美C惠LL惠·C惠乌恩G"
-title_zh: "美C惠LL惠·C惠乌恩G"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Michelle Cheung"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90590"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Michelle Cheung"
   - "張 鳳霞"
   - "Cheung Fong Ha"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c90590.webp"
 ---
 
-# 美C惠LL惠·C惠乌恩G
+# Michelle Cheung
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

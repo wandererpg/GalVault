@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c124302"
 type: "character"
-display_title: "惠美L·德·露西亚"
-title_zh: "惠美L·德·露西亚"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Emil de Lucia"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124302"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Emil de Lucia"
   - "Princess Emil de Lucia"
 source_ids:
   vndb: "c124302"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c124302.webp"
 ---
 
-# 惠美L·德·露西亚
+# Emil de Lucia
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

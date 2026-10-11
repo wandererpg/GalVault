@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c159656"
 type: "character"
-display_title: "露恩巴真露真T千"
-title_zh: "露恩巴真露真T千"
+display_title: "ルンバ・マルマッチ"
+title_zh: ""
 title_ja: "ルンバ・マルマッチ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159656"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rumba Malmacci"
-  - "ルンバ・マルマッチ"
 source_ids:
   vndb: "c159656"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c159656.webp"
 ---
 
-# 露恩巴真露真T千
+# ルンバ・マルマッチ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

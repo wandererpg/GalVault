@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c45466"
 type: "character"
-display_title: "洛T斗加阿真伊恩"
-title_zh: "洛T斗加阿真伊恩"
+display_title: "ロットカーマイン"
+title_zh: ""
 title_ja: "ロットカーマイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c45466"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lotte Carmine"
-  - "ロットカーマイン"
   - "Roy"
   - "ロイ"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c45466.webp"
 ---
 
-# 洛T斗加阿真伊恩
+# ロットカーマイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "夏野诗子"
 title_zh: "夏野诗子"
 title_ja: "夏野 詩子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c78316"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Natsuno Utako"
   - "夏野 詩子"

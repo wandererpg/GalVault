@@ -5,7 +5,10 @@ display_title: "关口春菜"
 title_zh: "关口春菜"
 title_ja: "関口 春菜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c34192"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sekiguchi Haruna"
   - "関口 春菜"

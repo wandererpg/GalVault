@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c22436"
 type: "character"
-display_title: "东方乃乃"
-title_zh: "东方乃乃"
+display_title: "東方 のの"
+title_zh: ""
 title_ja: "東方 のの"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c22436"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Agata Nono"
-  - "東方 のの"
 source_ids:
   vndb: "c22436"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c22436.webp"
 ---
 
-# 东方乃乃
+# 東方 のの
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

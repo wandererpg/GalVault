@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98161"
 type: "character"
-display_title: "索美伊太加拉阿"
-title_zh: "索美伊太加拉阿"
+display_title: "ソミータ・カラー"
+title_zh: ""
 title_ja: "ソミータ・カラー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98161"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Somita Kalar"
-  - "ソミータ・カラー"
 source_ids:
   vndb: "c98161"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98161.webp"
 ---
 
-# 索美伊太加拉阿
+# ソミータ・カラー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

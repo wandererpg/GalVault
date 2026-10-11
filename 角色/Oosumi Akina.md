@@ -5,7 +5,10 @@ display_title: "大寿美明菜"
 title_zh: "大寿美明菜"
 title_ja: "大寿美 明菜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c79912"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Oosumi Akina"
   - "大寿美 明菜"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87386"
 type: "character"
-display_title: "泽美奈莉奥"
-title_zh: "泽美奈莉奥"
+display_title: "ゼミナリオ"
+title_zh: ""
 title_ja: "ゼミナリオ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87386"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Zeminario"
-  - "ゼミナリオ"
 source_ids:
   vndb: "c87386"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c87386.webp"
 ---
 
-# 泽美奈莉奥
+# ゼミナリオ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

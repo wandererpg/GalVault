@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c146632"
 type: "character"
-display_title: "优露古恩斗"
-title_zh: "优露古恩斗"
+display_title: "ユルグント"
+title_zh: ""
 title_ja: "ユルグント"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c146632"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yurgund"
-  - "ユルグント"
 source_ids:
   vndb: "c146632"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c146632.webp"
 ---
 
-# 优露古恩斗
+# ユルグント
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

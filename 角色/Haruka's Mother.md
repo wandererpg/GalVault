@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c147732"
 type: "character"
-display_title: "羽露加S·莫T惠R"
-title_zh: "羽露加S·莫T惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Haruka's Mother"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c147732"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Haruka's Mother"
   - "Haruka's and Kanata's Mother"
 source_ids:
   vndb: "c147732"
@@ -14,7 +16,7 @@ source_urls:
   vndb: "https://vndb.org/c147732"
 ---
 
-# 羽露加S·莫T惠R
+# Haruka's Mother
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

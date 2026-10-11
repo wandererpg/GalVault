@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c157328"
 type: "character"
-display_title: "濑蕾奈"
-title_zh: "濑蕾奈"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Serena"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c157328"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Serena"
 source_ids:
   vndb: "c157328"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c157328.webp"
 ---
 
-# 濑蕾奈
+# Serena
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

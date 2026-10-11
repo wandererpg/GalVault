@@ -5,7 +5,10 @@ display_title: "簸川健昭"
 title_zh: "簸川健昭"
 title_ja: "簸川 健昭"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c132626"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hinokawa Takeaki"
   - "簸川 健昭"

@@ -5,7 +5,10 @@ display_title: "相马主计"
 title_zh: "相马主计"
 title_ja: "相馬 主計"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c62702"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Souma Kazue"
   - "相馬 主計"

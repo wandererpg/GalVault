@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90234"
 type: "character"
-display_title: "诗吉乃"
-title_zh: "诗吉乃"
+display_title: "シギノ"
+title_zh: ""
 title_ja: "シギノ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90234"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shigino"
-  - "シギノ"
 source_ids:
   vndb: "c90234"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c90234.webp"
 ---
 
-# 诗吉乃
+# シギノ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

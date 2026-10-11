@@ -5,7 +5,10 @@ display_title: "真行寺茉清"
 title_zh: "真行寺茉清"
 title_ja: "真行寺 茉清"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10774"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shingyouji Makiyo"
   - "真行寺 茉清"

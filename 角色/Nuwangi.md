@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8390"
 type: "character"
-display_title: "努和恩吉"
-title_zh: "努和恩吉"
+display_title: "ヌワンギ"
+title_zh: ""
 title_ja: "ヌワンギ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8390"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nuwangi"
-  - "ヌワンギ"
   - "Fog"
   - "クリ霧"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c8390.webp"
 ---
 
-# 努和恩吉
+# ヌワンギ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

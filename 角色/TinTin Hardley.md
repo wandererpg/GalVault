@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c169057"
 type: "character"
-display_title: "特伊恩特伊恩羽阿德莉伊"
-title_zh: "特伊恩特伊恩羽阿德莉伊"
+display_title: "ティンティン・ハーデリー"
+title_zh: ""
 title_ja: "ティンティン・ハーデリー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c169057"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "TinTin Hardley"
-  - "ティンティン・ハーデリー"
   - "シェーカ"
   - "Shaker"
   - "ティーちゃん"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c169057.webp"
 ---
 
-# 特伊恩特伊恩羽阿德莉伊
+# ティンティン・ハーデリー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

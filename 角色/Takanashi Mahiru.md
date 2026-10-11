@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c5967"
 type: "character"
-display_title: "小鸟游真日露"
-title_zh: "小鸟游真日露"
+display_title: "小鳥遊 まひる"
+title_zh: ""
 title_ja: "小鳥遊 まひる"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c5967"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Takanashi Mahiru"
-  - "小鳥遊 まひる"
 source_ids:
   vndb: "c5967"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c5967.webp"
 ---
 
-# 小鸟游真日露
+# 小鳥遊 まひる
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

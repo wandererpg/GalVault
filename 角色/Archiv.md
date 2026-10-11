@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87384"
 type: "character"
-display_title: "阿露日伊芙"
-title_zh: "阿露日伊芙"
+display_title: "アルヒーフ"
+title_zh: ""
 title_ja: "アルヒーフ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87384"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Archiv"
-  - "アルヒーフ"
   - "The Archbishop"
 source_ids:
   vndb: "c87384"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c87384.webp"
 ---
 
-# 阿露日伊芙
+# アルヒーフ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

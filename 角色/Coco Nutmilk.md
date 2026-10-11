@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8877"
 type: "character"
-display_title: "子子奈T津美露久"
-title_zh: "子子奈T津美露久"
+display_title: "ココ・ナッツミルク"
+title_zh: ""
 title_ja: "ココ・ナッツミルク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8877"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Coco Nutmilk"
-  - "ココ・ナッツミルク"
 source_ids:
   vndb: "c8877"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c8877.webp"
 ---
 
-# 子子奈T津美露久
+# ココ・ナッツミルク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

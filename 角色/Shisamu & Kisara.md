@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c24907"
 type: "character"
-display_title: "诗沙梦＆希沙拉"
-title_zh: "诗沙梦＆希沙拉"
+display_title: "シサム＆キサラ"
+title_zh: ""
 title_ja: "シサム＆キサラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c24907"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shisamu & Kisara"
-  - "シサム＆キサラ"
 source_ids:
   vndb: "c24907"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c24907.webp"
 ---
 
-# 诗沙梦＆希沙拉
+# シサム＆キサラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

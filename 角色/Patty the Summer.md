@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c50974"
 type: "character"
-display_title: "帕特伊扎沙真阿"
-title_zh: "帕特伊扎沙真阿"
+display_title: "パティ・ザ・サマー"
+title_zh: ""
 title_ja: "パティ・ザ・サマー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c50974"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Patty the Summer"
-  - "パティ・ザ・サマー"
   - "Patricia Friday"
 source_ids:
   vndb: "c50974"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c50974.webp"
 ---
 
-# 帕特伊扎沙真阿
+# パティ・ザ・サマー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

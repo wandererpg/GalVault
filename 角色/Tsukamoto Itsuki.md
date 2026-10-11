@@ -5,7 +5,10 @@ display_title: "冢本斋"
 title_zh: "冢本斋"
 title_ja: "塚本 斎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c42508"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsukamoto Itsuki"
   - "塚本 斎"

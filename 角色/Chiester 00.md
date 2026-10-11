@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26220"
 type: "character"
-display_title: "诗惠寿太00"
-title_zh: "诗惠寿太00"
+display_title: "シエスタ00"
+title_zh: ""
 title_ja: "シエスタ00"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26220"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chiester 00"
-  - "シエスタ00"
   - "Siesta 00"
 source_ids:
   vndb: "c26220"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c26220.webp"
 ---
 
-# 诗惠寿太00
+# シエスタ00
 
 
 ## 角色画像

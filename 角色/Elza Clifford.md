@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c29736"
 type: "character"
-display_title: "惠露扎久莉F奥奥堂"
-title_zh: "惠露扎久莉F奥奥堂"
+display_title: "エルザ・クリフォード"
+title_zh: ""
 title_ja: "エルザ・クリフォード"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c29736"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Elza Clifford"
-  - "エルザ・クリフォード"
 source_ids:
   vndb: "c29736"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c29736.webp"
 ---
 
-# 惠露扎久莉F奥奥堂
+# エルザ・クリフォード
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

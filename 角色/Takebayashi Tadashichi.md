@@ -5,7 +5,10 @@ display_title: "武林唯七"
 title_zh: "武林唯七"
 title_ja: "武林 唯七"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16521"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takebayashi Tadashichi"
   - "武林 唯七"

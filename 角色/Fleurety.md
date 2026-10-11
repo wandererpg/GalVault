@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c75570"
 type: "character"
-display_title: "芙露乌蕾特伊"
-title_zh: "芙露乌蕾特伊"
+display_title: "フルーレティ"
+title_zh: ""
 title_ja: "フルーレティ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c75570"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Fleurety"
-  - "フルーレティ"
 source_ids:
   vndb: "c75570"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c75570.webp"
 ---
 
-# 芙露乌蕾特伊
+# フルーレティ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

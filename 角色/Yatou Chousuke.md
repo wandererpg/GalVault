@@ -5,7 +5,10 @@ display_title: "矢头长助"
 title_zh: "矢头长助"
 title_ja: "矢頭 長助"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c63521"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yatou Chousuke"
   - "矢頭 長助"

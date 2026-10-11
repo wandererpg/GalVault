@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38206"
 type: "character"
-display_title: "惠露洛K久翔露芽"
-title_zh: "惠露洛K久翔露芽"
+display_title: "エルロック・ショルメ"
+title_zh: ""
 title_ja: "エルロック・ショルメ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38206"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Herlock Sholmes"
-  - "エルロック・ショルメ"
 source_ids:
   vndb: "c38206"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c38206.webp"
 ---
 
-# 惠露洛K久翔露芽
+# エルロック・ショルメ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

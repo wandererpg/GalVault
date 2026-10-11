@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c56521"
 type: "character"
-display_title: "惠露达巴露蕾D堂"
-title_zh: "惠露达巴露蕾D堂"
+display_title: "エルダ・バルレッド"
+title_zh: ""
 title_ja: "エルダ・バルレッド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56521"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Elda Ballad"
-  - "エルダ・バルレッド"
 source_ids:
   vndb: "c56521"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c56521.webp"
 ---
 
-# 惠露达巴露蕾D堂
+# エルダ・バルレッド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

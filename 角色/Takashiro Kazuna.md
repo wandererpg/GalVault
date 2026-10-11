@@ -5,7 +5,10 @@ display_title: "高城和菜"
 title_zh: "高城和菜"
 title_ja: "高城 和菜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c4087"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takashiro Kazuna"
   - "高城 和菜"

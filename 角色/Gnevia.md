@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c95393"
 type: "character"
-display_title: "古音V伊阿"
-title_zh: "古音V伊阿"
+display_title: "グネヴィア"
+title_zh: ""
 title_ja: "グネヴィア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c95393"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gnevia"
-  - "グネヴィア"
 source_ids:
   vndb: "c95393"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c95393.webp"
 ---
 
-# 古音V伊阿
+# グネヴィア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

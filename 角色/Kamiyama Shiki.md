@@ -5,7 +5,10 @@ display_title: "神山识"
 title_zh: "神山识"
 title_ja: "神山 識"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c87360"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kamiyama Shiki"
   - "神山 識"

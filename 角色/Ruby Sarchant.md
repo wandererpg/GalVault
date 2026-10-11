@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c21059"
 type: "character"
-display_title: "露乌比伊沙修阿恩斗"
-title_zh: "露乌比伊沙修阿恩斗"
+display_title: "ルービィ・サシュアント"
+title_zh: ""
 title_ja: "ルービィ・サシュアント"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c21059"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ruby Sarchant"
-  - "ルービィ・サシュアント"
 source_ids:
   vndb: "c21059"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c21059.webp"
 ---
 
-# 露乌比伊沙修阿恩斗
+# ルービィ・サシュアント
 
 
 ## 角色画像

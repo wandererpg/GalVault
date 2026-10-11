@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159965"
 type: "character"
-display_title: "斗S雅"
-title_zh: "斗S雅"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Tosya"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159965"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Tosya"
 source_ids:
   vndb: "c159965"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c159965.webp"
 ---
 
-# 斗S雅
+# Tosya
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

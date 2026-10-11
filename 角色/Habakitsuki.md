@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c55658"
 type: "character"
-display_title: "羽巴希凭希"
-title_zh: "羽巴希凭希"
+display_title: "ハバキ憑き"
+title_zh: ""
 title_ja: "ハバキ憑き"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c55658"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Habakitsuki"
-  - "ハバキ憑き"
 source_ids:
   vndb: "c55658"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c55658.webp"
 ---
 
-# 羽巴希凭希
+# ハバキ憑き
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c137115"
 type: "character"
-display_title: "T惠·G蕾Y"
-title_zh: "T惠·G蕾Y"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "The Grey"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c137115"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "The Grey"
   - "The Drowned Grey"
 source_ids:
   vndb: "c137115"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c137115.webp"
 ---
 
-# T惠·G蕾Y
+# The Grey
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

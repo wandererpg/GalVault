@@ -5,7 +5,10 @@ display_title: "本多正信"
 title_zh: "本多正信"
 title_ja: "本多 正信"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c12543"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Honda Masanobu"
   - "本多 正信"

@@ -5,7 +5,10 @@ display_title: "黄天祥"
 title_zh: "黄天祥"
 title_ja: "黄 天祥"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c118634"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Wong Tianxiang"
   - "黄 天祥"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c76915"
 type: "character"
-display_title: "田町真日露"
-title_zh: "田町真日露"
+display_title: "田町 まひる"
+title_zh: ""
 title_ja: "田町 まひる"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c76915"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tamachi Mahiru"
-  - "田町 まひる"
 source_ids:
   vndb: "c76915"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c76915.webp"
 ---
 
-# 田町真日露
+# 田町 まひる
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

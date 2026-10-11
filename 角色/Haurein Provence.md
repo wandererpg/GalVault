@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c52711"
 type: "character"
-display_title: "羽乌蕾惠恩普洛V阿恩寿"
-title_zh: "羽乌蕾惠恩普洛V阿恩寿"
+display_title: "ハウレーン・プロヴァンス"
+title_zh: ""
 title_ja: "ハウレーン・プロヴァンス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c52711"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Haurein Provence"
-  - "ハウレーン・プロヴァンス"
 source_ids:
   vndb: "c52711"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c52711.webp"
 ---
 
-# 羽乌蕾惠恩普洛V阿恩寿
+# ハウレーン・プロヴァンス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

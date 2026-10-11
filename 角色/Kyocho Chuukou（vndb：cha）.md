@@ -5,7 +5,10 @@ display_title: "许猪仲康"
 title_zh: "许猪仲康"
 title_ja: "許猪 仲康"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c49978"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kyocho Chuukou"
   - "許猪 仲康"

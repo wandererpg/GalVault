@@ -5,7 +5,10 @@ display_title: "楢崎响"
 title_zh: "楢崎响"
 title_ja: "楢崎 響"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c57886"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Narasaki Hibiki"
   - "楢崎 響"

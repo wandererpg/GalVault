@@ -5,7 +5,10 @@ display_title: "权田桥晋作"
 title_zh: "权田桥晋作"
 title_ja: "権田橋 晋作"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c69540"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Gontabashi Shinsaku"
   - "権田橋 晋作"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c165067"
 type: "character"
-display_title: "沙M·和Y音"
-title_zh: "沙M·和Y音"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Sam Wayne"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c165067"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Sam Wayne"
   - "The Entity"
 source_ids:
   vndb: "c165067"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c165067.webp"
 ---
 
-# 沙M·和Y音
+# Sam Wayne
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

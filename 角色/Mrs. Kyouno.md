@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c169365"
 type: "character"
-display_title: "乡野沙恩"
-title_zh: "乡野沙恩"
+display_title: "郷野さん"
+title_zh: ""
 title_ja: "郷野さん"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c169365"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mrs. Kyouno"
-  - "郷野さん"
   - "母さん"
   - "Mother"
 source_ids:
@@ -17,7 +19,7 @@ source_urls:
   vndb: "https://vndb.org/c169365"
 ---
 
-# 乡野沙恩
+# 郷野さん
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

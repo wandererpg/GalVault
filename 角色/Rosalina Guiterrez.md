@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c167239"
 type: "character"
-display_title: "洛沙L伊奈·古伊特R蕾Z"
-title_zh: "洛沙L伊奈·古伊特R蕾Z"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Rosalina Guiterrez"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c167239"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Rosalina Guiterrez"
 source_ids:
   vndb: "c167239"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c167239.webp"
 ---
 
-# 洛沙L伊奈·古伊特R蕾Z
+# Rosalina Guiterrez
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c153473"
 type: "character"
-display_title: "惠R真恩恩·莫恩D"
-title_zh: "惠R真恩恩·莫恩D"
+display_title: "헤르만 몬드"
+title_zh: ""
 title_ja: "헤르만 몬드"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c153473"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hermann Mond"
-  - "헤르만 몬드"
 source_ids:
   vndb: "c153473"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c153473.webp"
 ---
 
-# 惠R真恩恩·莫恩D
+# 헤르만 몬드
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

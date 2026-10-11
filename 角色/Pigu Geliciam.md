@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98327"
 type: "character"
-display_title: "皮古吉莉诗阿梦"
-title_zh: "皮古吉莉诗阿梦"
+display_title: "ピグ・ギリシアム"
+title_zh: ""
 title_ja: "ピグ・ギリシアム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98327"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Pigu Geliciam"
-  - "ピグ・ギリシアム"
   - "Prototype Squid Human v4 Arrangement Puryo + Carrot A334PlGU"
 source_ids:
   vndb: "c98327"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c98327.webp"
 ---
 
-# 皮古吉莉诗阿梦
+# ピグ・ギリシアム
 
 
 ## 角色画像

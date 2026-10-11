@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c42513"
 type: "character"
-display_title: "南蕾伊"
-title_zh: "南蕾伊"
+display_title: "南 レイ"
+title_zh: ""
 title_ja: "南 レイ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c42513"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Minami Rei"
-  - "南 レイ"
   - "Ghost"
 source_ids:
   vndb: "c42513"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c42513.webp"
 ---
 
-# 南蕾伊
+# 南 レイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10730"
 type: "character"
-display_title: "鱼沼沙恩"
-title_zh: "鱼沼沙恩"
+display_title: "魚沼さん"
+title_zh: ""
 title_ja: "魚沼さん"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10730"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Uonuma-san"
-  - "魚沼さん"
 source_ids:
   vndb: "c10730"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c10730.webp"
 ---
 
-# 鱼沼沙恩
+# 魚沼さん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

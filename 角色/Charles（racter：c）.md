@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c85120"
 type: "character"
-display_title: "夏露露"
-title_zh: "夏露露"
+display_title: "シャルル"
+title_zh: ""
 title_ja: "シャルル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85120"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Charles"
-  - "シャルル"
 source_ids:
   vndb: "c85120"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c85120.webp"
 ---
 
-# 夏露露
+# シャルル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

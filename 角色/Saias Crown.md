@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98208"
 type: "character"
-display_title: "沙伊阿寿久拉乌恩"
-title_zh: "沙伊阿寿久拉乌恩"
+display_title: "サイアス・クラウン"
+title_zh: ""
 title_ja: "サイアス・クラウン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98208"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Saias Crown"
-  - "サイアス・クラウン"
 source_ids:
   vndb: "c98208"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98208.webp"
 ---
 
-# 沙伊阿寿久拉乌恩
+# サイアス・クラウン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

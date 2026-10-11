@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90051"
 type: "character"
-display_title: "莉奈希莉雅久蕾"
-title_zh: "莉奈希莉雅久蕾"
+display_title: "リナ・キリガクレ"
+title_zh: ""
 title_ja: "リナ・キリガクレ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90051"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rina Kirigakure"
-  - "リナ・キリガクレ"
   - "震砕角笛"
 source_ids:
   vndb: "c90051"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c90051.webp"
 ---
 
-# 莉奈希莉雅久蕾
+# リナ・キリガクレ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

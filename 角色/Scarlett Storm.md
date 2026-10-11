@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c169038"
 type: "character"
-display_title: "SC阿RL惠TT·S斗RM"
-title_zh: "SC阿RL惠TT·S斗RM"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Scarlett Storm"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c169038"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Scarlett Storm"
 source_ids:
   vndb: "c169038"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c169038.webp"
 ---
 
-# SC阿RL惠TT·S斗RM
+# Scarlett Storm
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126986"
 type: "character"
-display_title: "皮斗恩"
-title_zh: "皮斗恩"
+display_title: "ピトン"
+title_zh: ""
 title_ja: "ピトン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126986"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Python"
-  - "ピトン"
 source_ids:
   vndb: "c126986"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c126986.webp"
 ---
 
-# 皮斗恩
+# ピトン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159788"
 type: "character"
-display_title: "V伊LL阿格奥伊濑"
-title_zh: "V伊LL阿格奥伊濑"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Villageoise"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159788"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Villageoise"
 source_ids:
   vndb: "c159788"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c159788.webp"
 ---
 
-# V伊LL阿格奥伊濑
+# Villageoise
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

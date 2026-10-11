@@ -5,7 +5,10 @@ display_title: "舞渕明阳"
 title_zh: "舞渕明阳"
 title_ja: "舞渕 明陽"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c90413"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mabuchi Meiyou"
   - "舞渕 明陽"

@@ -5,7 +5,10 @@ display_title: "矢田美穗子"
 title_zh: "矢田美穗子"
 title_ja: "矢田 美穂子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c15114"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yada Mihoko"
   - "矢田 美穂子"

@@ -5,7 +5,10 @@ display_title: "天羽结子"
 title_zh: "天羽结子"
 title_ja: "天羽 結子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c5293"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Amaha Yuiko"
   - "天羽 結子"

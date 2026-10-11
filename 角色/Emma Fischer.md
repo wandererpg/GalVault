@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c164946"
 type: "character"
-display_title: "惠真F伊S夏阿"
-title_zh: "惠真F伊S夏阿"
+display_title: "エマ・フィッシャー"
+title_zh: ""
 title_ja: "エマ・フィッシャー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c164946"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Emma Fischer"
-  - "エマ・フィッシャー"
 source_ids:
   vndb: "c164946"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c164946.webp"
 ---
 
-# 惠真F伊S夏阿
+# エマ・フィッシャー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c88124"
 type: "character"
-display_title: "伊索L达·雅伊LL阿RD"
-title_zh: "伊索L达·雅伊LL阿RD"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Isolda Gaillard"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c88124"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Isolda Gaillard"
 source_ids:
   vndb: "c88124"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c88124.webp"
 ---
 
-# 伊索L达·雅伊LL阿RD
+# Isolda Gaillard
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

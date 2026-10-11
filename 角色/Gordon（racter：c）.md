@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c154152"
 type: "character"
-display_title: "悟奥堂恩"
-title_zh: "悟奥堂恩"
+display_title: "ゴードン"
+title_zh: ""
 title_ja: "ゴードン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c154152"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gordon"
-  - "ゴードン"
 source_ids:
   vndb: "c154152"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c154152.webp"
 ---
 
-# 悟奥堂恩
+# ゴードン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

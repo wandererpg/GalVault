@@ -5,7 +5,10 @@ display_title: "冈岛瑞树"
 title_zh: "冈岛瑞树"
 title_ja: "岡島 瑞樹"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c85147"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Okajima Mizuki"
   - "岡島 瑞樹"

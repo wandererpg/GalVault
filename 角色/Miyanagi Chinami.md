@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14412"
 type: "character"
-display_title: "美柳千奈美"
-title_zh: "美柳千奈美"
+display_title: "美柳 ちなみ"
+title_zh: ""
 title_ja: "美柳 ちなみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14412"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Miyanagi Chinami"
-  - "美柳 ちなみ"
   - "Dollie"
   - "Melissa Foster"
   - "ちいちゃん"
@@ -22,7 +24,7 @@ source_urls:
 portrait_image: "assets/characters/c14412.webp"
 ---
 
-# 美柳千奈美
+# 美柳 ちなみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c129270"
 type: "character"
-display_title: "阿L"
-title_zh: "阿L"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Al"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c129270"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Al"
   - "Aluminium"
 source_ids:
   vndb: "c129270"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c129270.webp"
 ---
 
-# 阿L
+# Al
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

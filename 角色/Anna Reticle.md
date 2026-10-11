@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c21617"
 type: "character"
-display_title: "阿恩奈蕾特伊久露"
-title_zh: "阿恩奈蕾特伊久露"
+display_title: "アンナ・レティクル"
+title_zh: ""
 title_ja: "アンナ・レティクル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c21617"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Anna Reticle"
-  - "アンナ・レティクル"
   - "闇の女王陛下"
   - "Queen of Darkness"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c21617.webp"
 ---
 
-# 阿恩奈蕾特伊久露
+# アンナ・レティクル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

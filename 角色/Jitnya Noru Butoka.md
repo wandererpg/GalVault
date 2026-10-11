@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c6220"
 type: "character"
-display_title: "吉斗妮娅乃露布斗加"
-title_zh: "吉斗妮娅乃露布斗加"
+display_title: "ジトニャ・ノル・ブトカ"
+title_zh: ""
 title_ja: "ジトニャ・ノル・ブトカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c6220"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jitnya Noru Butoka"
-  - "ジトニャ・ノル・ブトカ"
   - "ジッタ"
   - "Jitta"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c6220.webp"
 ---
 
-# 吉斗妮娅乃露布斗加
+# ジトニャ・ノル・ブトカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

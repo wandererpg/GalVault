@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c167976"
 type: "character"
-display_title: "F阿比阿音"
-title_zh: "F阿比阿音"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Fabiane"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c167976"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Fabiane"
 source_ids:
   vndb: "c167976"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c167976.webp"
 ---
 
-# F阿比阿音
+# Fabiane
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

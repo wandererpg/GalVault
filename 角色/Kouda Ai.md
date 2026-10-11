@@ -5,7 +5,10 @@ display_title: "香田亚衣"
 title_zh: "香田亚衣"
 title_ja: "香田 亜衣"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c8541"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kouda Ai"
   - "香田 亜衣"

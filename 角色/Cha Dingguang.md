@@ -5,7 +5,10 @@ display_title: "茶定光"
 title_zh: "茶定光"
 title_ja: "茶定光"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c150813"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Cha Dingguang"
   - "Gram Lemon"

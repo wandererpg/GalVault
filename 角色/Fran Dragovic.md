@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c94183"
 type: "character"
-display_title: "F拉恩·D拉悟V伊C"
-title_zh: "F拉恩·D拉悟V伊C"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Fran Dragovic"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94183"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Fran Dragovic"
   - "Franciszek, Franziska"
 source_ids:
   vndb: "c94183"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c94183.webp"
 ---
 
-# F拉恩·D拉悟V伊C
+# Fran Dragovic
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

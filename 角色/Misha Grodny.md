@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c105010"
 type: "character"
-display_title: "美伊夏古洛堂努伊"
-title_zh: "美伊夏古洛堂努伊"
+display_title: "ミーシャ・グロドヌイ"
+title_zh: ""
 title_ja: "ミーシャ・グロドヌイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c105010"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Misha Grodny"
-  - "ミーシャ・グロドヌイ"
 source_ids:
   vndb: "c105010"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c105010.webp"
 ---
 
-# 美伊夏古洛堂努伊
+# ミーシャ・グロドヌイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

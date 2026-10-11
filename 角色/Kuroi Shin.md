@@ -5,7 +5,10 @@ display_title: "黑井深"
 title_zh: "黑井深"
 title_ja: "黒井 深"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1870"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kuroi Shin"
   - "黒井 深"

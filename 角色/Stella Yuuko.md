@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c108073"
 type: "character"
-display_title: "寿特拉优子"
-title_zh: "寿特拉优子"
+display_title: "ステラ 優子"
+title_zh: ""
 title_ja: "ステラ 優子"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c108073"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Stella Yuuko"
-  - "ステラ 優子"
 source_ids:
   vndb: "c108073"
 source_urls:
   vndb: "https://vndb.org/c108073"
 ---
 
-# 寿特拉优子
+# ステラ 優子
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

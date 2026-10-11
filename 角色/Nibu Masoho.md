@@ -5,7 +5,10 @@ display_title: "丹生真朱"
 title_zh: "丹生真朱"
 title_ja: "丹生 真朱"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20279"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nibu Masoho"
   - "丹生 真朱"

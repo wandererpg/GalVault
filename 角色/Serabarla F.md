@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c142067"
 type: "character"
-display_title: "濑拉巴阿拉·F"
-title_zh: "濑拉巴阿拉·F"
+display_title: "セラバーラ F"
+title_zh: ""
 title_ja: "セラバーラ F"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c142067"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Serabarla F"
-  - "セラバーラ F"
 source_ids:
   vndb: "c142067"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c142067.webp"
 ---
 
-# 濑拉巴阿拉·F
+# セラバーラ F
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

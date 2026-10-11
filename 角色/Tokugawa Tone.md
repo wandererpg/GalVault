@@ -5,7 +5,10 @@ display_title: "德川深根"
 title_zh: "德川深根"
 title_ja: "徳川 深根"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c93188"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tokugawa Tone"
   - "徳川 深根"

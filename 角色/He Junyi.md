@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c157506"
 type: "character"
-display_title: "子乌诗尼伊"
-title_zh: "子乌诗尼伊"
+display_title: "コウ・シンイー"
+title_zh: ""
 title_ja: "コウ・シンイー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c157506"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "He Junyi"
-  - "コウ・シンイー"
   - "Xu You"
 source_ids:
   vndb: "c157506"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c157506.webp"
 ---
 
-# 子乌诗尼伊
+# コウ・シンイー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "牧濑红莉栖"
 title_zh: "牧濑红莉栖"
 title_ja: "牧瀬 紅莉栖"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c6487"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Makise Kurisu"
   - "牧瀬 紅莉栖"

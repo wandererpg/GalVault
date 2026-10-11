@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c146640"
 type: "character"
-display_title: "阿乃恩Y莫乌S"
-title_zh: "阿乃恩Y莫乌S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Anonymous"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c146640"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Anonymous"
 source_ids:
   vndb: "c146640"
 source_urls:
   vndb: "https://vndb.org/c146640"
 ---
 
-# 阿乃恩Y莫乌S
+# Anonymous
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

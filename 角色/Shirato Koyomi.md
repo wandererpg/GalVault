@@ -5,7 +5,10 @@ display_title: "白渡小咏"
 title_zh: "白渡小咏"
 title_ja: "白渡 小詠"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c133788"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shirato Koyomi"
   - "白渡 小詠"

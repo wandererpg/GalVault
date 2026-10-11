@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c119859"
 type: "character"
-display_title: "C伊R露S"
-title_zh: "C伊R露S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Cirrus"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c119859"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Cirrus"
 source_ids:
   vndb: "c119859"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c119859.webp"
 ---
 
-# C伊R露S
+# Cirrus
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

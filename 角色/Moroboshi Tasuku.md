@@ -5,7 +5,10 @@ display_title: "诸星翼"
 title_zh: "诸星翼"
 title_ja: "諸星 翼"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c129210"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Moroboshi Tasuku"
   - "諸星 翼"

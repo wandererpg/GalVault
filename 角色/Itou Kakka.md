@@ -5,7 +5,10 @@ display_title: "伊藤阁下"
 title_zh: "伊藤阁下"
 title_ja: "伊藤 閣下"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c61205"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Itou Kakka"
   - "伊藤 閣下"

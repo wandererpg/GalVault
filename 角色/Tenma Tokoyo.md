@@ -2,10 +2,13 @@
 entity_id: "vndb:character:c34814"
 type: "character"
 display_title: "天魔・常世"
-title_zh: "天魔・常世"
+title_zh: ""
 title_ja: "天魔・常世"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34814"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tenma Tokoyo"
 source_ids:

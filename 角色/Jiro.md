@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c138892"
 type: "character"
-display_title: "吉洛"
-title_zh: "吉洛"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jiro"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138892"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jiro"
 source_ids:
   vndb: "c138892"
 source_urls:
   vndb: "https://vndb.org/c138892"
 ---
 
-# 吉洛
+# Jiro
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

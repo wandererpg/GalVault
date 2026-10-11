@@ -5,7 +5,10 @@ display_title: "灯无荞麦"
 title_zh: "灯无荞麦"
 title_ja: "燈無蕎麦"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c124697"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Akarinashi Soba"
   - "燈無蕎麦"

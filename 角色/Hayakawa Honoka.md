@@ -5,7 +5,10 @@ display_title: "速川穗乃夏"
 title_zh: "速川穗乃夏"
 title_ja: "速川 穂乃夏"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c168323"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hayakawa Honoka"
   - "速川 穂乃夏"

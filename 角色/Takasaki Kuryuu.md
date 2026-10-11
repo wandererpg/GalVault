@@ -5,7 +5,10 @@ display_title: "高崎玖龙"
 title_zh: "高崎玖龙"
 title_ja: "高崎 玖龍"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c91181"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takasaki Kuryuu"
   - "高崎 玖龍"

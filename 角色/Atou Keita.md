@@ -5,7 +5,10 @@ display_title: "阿藤启太"
 title_zh: "阿藤启太"
 title_ja: "阿藤 啓太"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c48132"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Atou Keita"
   - "阿藤 啓太"

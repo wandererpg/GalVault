@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c22896"
 type: "character"
-display_title: "露乌斗V伊日莉T太阿F奥恩V阿伊恩贝露雅阿"
-title_zh: "露乌斗V伊日莉T太阿F奥恩V阿伊恩贝露雅阿"
+display_title: "ルートヴィヒ・リッター・フォン・ヴァインベルガー"
+title_zh: ""
 title_ja: "ルートヴィヒ・リッター・フォン・ヴァインベルガー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c22896"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ludwig Ritter von Weinberger"
-  - "ルートヴィヒ・リッター・フォン・ヴァインベルガー"
   - "ルイ"
   - "Louis"
   - "Eyepatch"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c22896.webp"
 ---
 
-# 露乌斗V伊日莉T太阿F奥恩V阿伊恩贝露雅阿
+# ルートヴィヒ・リッター・フォン・ヴァインベルガー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

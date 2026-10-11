@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c6626"
 type: "character"
-display_title: "莫乃久真"
-title_zh: "莫乃久真"
+display_title: "モノクマ"
+title_zh: ""
 title_ja: "モノクマ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c6626"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Monokuma"
-  - "モノクマ"
   - "Monobear"
   - "Psychopop Magician"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c6626.webp"
 ---
 
-# 莫乃久真
+# モノクマ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

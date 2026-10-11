@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127219"
 type: "character"
-display_title: "播音员"
-title_zh: "播音员"
+display_title: "アナウンサー"
+title_zh: ""
 title_ja: "アナウンサー"
-title_zh_quality: "glossary"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127219"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Announcer"
-  - "アナウンサー"
 source_ids:
   vndb: "c127219"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c127219.webp"
 ---
 
-# 播音员
+# アナウンサー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

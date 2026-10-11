@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87693"
 type: "character"
-display_title: "御门乃助手"
-title_zh: "御门乃助手"
+display_title: "御門の助手"
+title_zh: ""
 title_ja: "御門の助手"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87693"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mikado's Assistant"
-  - "御門の助手"
   - "Mikado no Joshu"
 source_ids:
   vndb: "c87693"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c87693.webp"
 ---
 
-# 御门乃助手
+# 御門の助手
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

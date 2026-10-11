@@ -5,7 +5,10 @@ display_title: "足柄叶月"
 title_zh: "足柄叶月"
 title_ja: "足柄 葉月"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c17981"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ashigara Hazuki"
   - "足柄 葉月"

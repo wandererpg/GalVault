@@ -5,7 +5,10 @@ display_title: "奥野薪人"
 title_zh: "奥野薪人"
 title_ja: "奥野 薪人"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c18185"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ouno Makito"
   - "奥野 薪人"

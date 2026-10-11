@@ -5,7 +5,10 @@ display_title: "泥眼"
 title_zh: "泥眼"
 title_ja: "泥眼"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43640"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Deigan"
 source_ids:

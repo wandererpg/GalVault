@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c54929"
 type: "character"
-display_title: "阿V伊堂久露德惠蕾"
-title_zh: "阿V伊堂久露德惠蕾"
+display_title: "アヴィド・クルデーレ"
+title_zh: ""
 title_ja: "アヴィド・クルデーレ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c54929"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Avido Crudele"
-  - "アヴィド・クルデーレ"
 source_ids:
   vndb: "c54929"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c54929.webp"
 ---
 
-# 阿V伊堂久露德惠蕾
+# アヴィド・クルデーレ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "杜氏优枝"
 title_zh: "杜氏优枝"
 title_ja: "杜氏 優枝"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c29836"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Touji Yue"
   - "杜氏 優枝"

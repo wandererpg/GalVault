@@ -5,7 +5,10 @@ display_title: "刘志寰"
 title_zh: "刘志寰"
 title_ja: "劉 志寰"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c88429"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ryuu Shikan"
   - "劉 志寰"

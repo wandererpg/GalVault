@@ -5,7 +5,10 @@ display_title: "御园苺华"
 title_zh: "御园苺华"
 title_ja: "御園 苺華"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c85516"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Misono Ichika"
   - "御園 苺華"

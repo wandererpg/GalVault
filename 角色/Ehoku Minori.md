@@ -5,7 +5,10 @@ display_title: "江北实"
 title_zh: "江北实"
 title_ja: "江北 実"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c66129"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ehoku Minori"
   - "江北 実"

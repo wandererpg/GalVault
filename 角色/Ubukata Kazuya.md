@@ -5,7 +5,10 @@ display_title: "生方和哉"
 title_zh: "生方和哉"
 title_ja: "生方 和哉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c22319"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ubukata Kazuya"
   - "生方 和哉"

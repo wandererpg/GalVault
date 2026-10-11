@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14538"
 type: "character"
-display_title: "羽伊诗惠拉"
-title_zh: "羽伊诗惠拉"
+display_title: "ハイシェラ"
+title_zh: ""
 title_ja: "ハイシェラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14538"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Haishera"
-  - "ハイシェラ"
   - "Majin of Earth (地の魔神)"
 source_ids:
   vndb: "c14538"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c14538.webp"
 ---
 
-# 羽伊诗惠拉
+# ハイシェラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

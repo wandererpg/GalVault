@@ -5,7 +5,10 @@ display_title: "铃谷夏希"
 title_zh: "铃谷夏希"
 title_ja: "鈴谷 夏希"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c84111"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Suzutani Natsuki"
   - "鈴谷 夏希"

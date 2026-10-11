@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c96968"
 type: "character"
-display_title: "奥奥吉露洛T斗修太伊恩"
-title_zh: "奥奥吉露洛T斗修太伊恩"
+display_title: "オーギル・ロット・シュタイン"
+title_zh: ""
 title_ja: "オーギル・ロット・シュタイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c96968"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ogier Lott Stein"
-  - "オーギル・ロット・シュタイン"
 source_ids:
   vndb: "c96968"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c96968.webp"
 ---
 
-# 奥奥吉露洛T斗修太伊恩
+# オーギル・ロット・シュタイン
 
 
 ## 角色画像

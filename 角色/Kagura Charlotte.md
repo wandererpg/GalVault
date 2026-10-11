@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c7692"
 type: "character"
-display_title: "加古拉·夏阿洛T斗"
-title_zh: "加古拉·夏阿洛T斗"
+display_title: "カグラ シャーロット"
+title_zh: ""
 title_ja: "カグラ シャーロット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c7692"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kagura Charlotte"
-  - "カグラ シャーロット"
 source_ids:
   vndb: "c7692"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c7692.webp"
 ---
 
-# 加古拉·夏阿洛T斗
+# カグラ シャーロット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

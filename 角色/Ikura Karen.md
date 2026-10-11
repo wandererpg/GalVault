@@ -5,7 +5,10 @@ display_title: "郁良华恋"
 title_zh: "郁良华恋"
 title_ja: "郁良 華恋"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c148624"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ikura Karen"
   - "郁良 華恋"

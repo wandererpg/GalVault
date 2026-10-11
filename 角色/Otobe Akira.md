@@ -5,7 +5,10 @@ display_title: "乙部彰"
 title_zh: "乙部彰"
 title_ja: "乙部 彰"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c85344"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Otobe Akira"
   - "乙部 彰"

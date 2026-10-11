@@ -5,7 +5,10 @@ display_title: "鸣濑瞳"
 title_zh: "鸣濑瞳"
 title_ja: "鳴瀬 瞳"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c155588"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Naruse Hitomi"
   - "鳴瀬 瞳"

@@ -5,7 +5,10 @@ display_title: "宇都木涅沙"
 title_zh: "宇都木涅沙"
 title_ja: "宇都木 涅沙"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c94345"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Utsuki Nessa"
   - "宇都木 涅沙"

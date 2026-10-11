@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c150827"
 type: "character"
-display_title: "柏宫加露阿"
-title_zh: "柏宫加露阿"
+display_title: "柏宮 カルア"
+title_zh: ""
 title_ja: "柏宮 カルア"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c150827"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kashimiya Karua"
-  - "柏宮 カルア"
 source_ids:
   vndb: "c150827"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c150827.webp"
 ---
 
-# 柏宫加露阿
+# 柏宮 カルア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

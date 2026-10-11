@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c132430"
 type: "character"
-display_title: "阿阿洛恩·阿L阿比"
-title_zh: "阿阿洛恩·阿L阿比"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Aaron Alabi"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132430"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Aaron Alabi"
 source_ids:
   vndb: "c132430"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c132430.webp"
 ---
 
-# 阿阿洛恩·阿L阿比
+# Aaron Alabi
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

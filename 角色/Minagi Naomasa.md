@@ -5,7 +5,10 @@ display_title: "御凪直政"
 title_zh: "御凪直政"
 title_ja: "御凪 直政"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c157593"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Minagi Naomasa"
   - "御凪 直政"

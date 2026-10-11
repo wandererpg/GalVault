@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c173660"
 type: "character"
-display_title: "S伊LV伊惠"
-title_zh: "S伊LV伊惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Silvie"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c173660"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Silvie"
 source_ids:
   vndb: "c173660"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c173660.webp"
 ---
 
-# S伊LV伊惠
+# Silvie
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

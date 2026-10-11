@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c92889"
 type: "character"
-display_title: "安西阿希加"
-title_zh: "安西阿希加"
+display_title: "安西 アキカ"
+title_zh: ""
 title_ja: "安西 アキカ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92889"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Anzai Akika"
-  - "安西 アキカ"
 source_ids:
   vndb: "c92889"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c92889.webp"
 ---
 
-# 安西阿希加
+# 安西 アキカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "崩月水仙"
 title_zh: "崩月水仙"
 title_ja: "崩月 水仙"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c161705"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Houzuki Suisen"
   - "崩月 水仙"

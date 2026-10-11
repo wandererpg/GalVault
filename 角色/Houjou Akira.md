@@ -5,7 +5,10 @@ display_title: "方城昌"
 title_zh: "方城昌"
 title_ja: "方城 昌"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c11342"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Houjou Akira"
   - "方城 昌"

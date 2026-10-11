@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c41478"
 type: "character"
-display_title: "久拉乌D伊阿伊惠露扎蕾梦"
-title_zh: "久拉乌D伊阿伊惠露扎蕾梦"
+display_title: "クラウディア・イェルザレム"
+title_zh: ""
 title_ja: "クラウディア・イェルザレム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c41478"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Claudia Jerusalem"
-  - "クラウディア・イェルザレム"
   - "Metatron"
 source_ids:
   vndb: "c41478"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c41478.webp"
 ---
 
-# 久拉乌D伊阿伊惠露扎蕾梦
+# クラウディア・イェルザレム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

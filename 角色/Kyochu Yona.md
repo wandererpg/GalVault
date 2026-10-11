@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c157503"
 type: "character"
-display_title: "希代千代奈"
-title_zh: "希代千代奈"
+display_title: "キヨチ・ヨナ"
+title_zh: ""
 title_ja: "キヨチ・ヨナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c157503"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kyochu Yona"
-  - "キヨチ・ヨナ"
   - "Dian Wei"
 source_ids:
   vndb: "c157503"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c157503.webp"
 ---
 
-# 希代千代奈
+# キヨチ・ヨナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

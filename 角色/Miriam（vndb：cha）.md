@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c168723"
 type: "character"
-display_title: "美莉阿M"
-title_zh: "美莉阿M"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Miriam"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c168723"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Miriam"
 source_ids:
   vndb: "c168723"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c168723.webp"
 ---
 
-# 美莉阿M
+# Miriam
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

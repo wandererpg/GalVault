@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c56483"
 type: "character"
-display_title: "乌伊莉寿藤崎"
-title_zh: "乌伊莉寿藤崎"
+display_title: "ウィリス・藤崎"
+title_zh: ""
 title_ja: "ウィリス・藤崎"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56483"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Willis Fujisaki"
-  - "ウィリス・藤崎"
 source_ids:
   vndb: "c56483"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c56483.webp"
 ---
 
-# 乌伊莉寿藤崎
+# ウィリス・藤崎
 
 
 ## 角色画像

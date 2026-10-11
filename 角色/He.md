@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c1163"
 type: "character"
-display_title: "日伊"
-title_zh: "日伊"
+display_title: "ヒィ"
+title_zh: ""
 title_ja: "ヒィ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c1163"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "He"
-  - "ヒィ"
 source_ids:
   vndb: "c1163"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c1163.webp"
 ---
 
-# 日伊
+# ヒィ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c42283"
 type: "character"
-display_title: "希露惠修太伊恩穗芙"
-title_zh: "希露惠修太伊恩穗芙"
+display_title: "キルケ・シュタインホフ"
+title_zh: ""
 title_ja: "キルケ・シュタインホフ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c42283"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Circe Steinhoff"
-  - "キルケ・シュタインホフ"
   - "Kirce Steinhoff"
   - "Kirke"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c42283.webp"
 ---
 
-# 希露惠修太伊恩穗芙
+# キルケ・シュタインホフ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "架桥琥珀"
 title_zh: "架桥琥珀"
 title_ja: "架橋 琥珀"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c93415"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kakehashi Kohaku"
   - "架橋 琥珀"

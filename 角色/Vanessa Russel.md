@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c174105"
 type: "character"
-display_title: "V阿音S沙·露S濑L"
-title_zh: "V阿音S沙·露S濑L"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Vanessa Russel"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c174105"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Vanessa Russel"
 source_ids:
   vndb: "c174105"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c174105.webp"
 ---
 
-# V阿音S沙·露S濑L
+# Vanessa Russel
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

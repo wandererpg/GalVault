@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c167978"
 type: "character"
-display_title: "洛XY"
-title_zh: "洛XY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Roxy"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c167978"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Roxy"
 source_ids:
   vndb: "c167978"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c167978.webp"
 ---
 
-# 洛XY
+# Roxy
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

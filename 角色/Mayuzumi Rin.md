@@ -5,7 +5,10 @@ display_title: "黛铃"
 title_zh: "黛铃"
 title_ja: "黛 鈴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c6649"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mayuzumi Rin"
   - "黛 鈴"

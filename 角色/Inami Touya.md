@@ -5,7 +5,10 @@ display_title: "伊波冬矢"
 title_zh: "伊波冬矢"
 title_ja: "伊波 冬矢"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c48874"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Inami Touya"
   - "伊波 冬矢"

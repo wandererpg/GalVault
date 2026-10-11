@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26232"
 type: "character"
-display_title: "太努惠"
-title_zh: "太努惠"
+display_title: "たぬ恵"
+title_zh: ""
 title_ja: "たぬ恵"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26232"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tanue"
-  - "たぬ恵"
 source_ids:
   vndb: "c26232"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c26232.webp"
 ---
 
-# 太努惠
+# たぬ恵
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

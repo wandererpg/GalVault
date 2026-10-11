@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34599"
 type: "character"
-display_title: "宝形伊莉阿"
-title_zh: "宝形伊莉阿"
+display_title: "宝形 イリア"
+title_zh: ""
 title_ja: "宝形 イリア"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34599"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hougyou Iria"
-  - "宝形 イリア"
   - "Hougyou Ilia"
 source_ids:
   vndb: "c34599"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c34599.webp"
 ---
 
-# 宝形伊莉阿
+# 宝形 イリア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

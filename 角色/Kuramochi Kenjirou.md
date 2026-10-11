@@ -5,7 +5,10 @@ display_title: "仓持剑次郎"
 title_zh: "仓持剑次郎"
 title_ja: "倉持 剣次郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c38772"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kuramochi Kenjirou"
   - "倉持 剣次郎"

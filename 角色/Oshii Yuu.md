@@ -5,7 +5,10 @@ display_title: "押井有"
 title_zh: "押井有"
 title_ja: "押井 有"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c33625"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Oshii Yuu"
   - "押井 有"

@@ -5,7 +5,10 @@ display_title: "司狼"
 title_zh: "司狼"
 title_ja: "司狼"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c36003"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shirou"
 source_ids:

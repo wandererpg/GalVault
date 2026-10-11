@@ -5,7 +5,10 @@ display_title: "浦名久仁子"
 title_zh: "浦名久仁子"
 title_ja: "浦名 久仁子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c59747"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Urana Kuniko"
   - "浦名 久仁子"

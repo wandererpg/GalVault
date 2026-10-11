@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c133909"
 type: "character"
-display_title: "特RRY·B洛奥K"
-title_zh: "特RRY·B洛奥K"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Terry Brook"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c133909"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Terry Brook"
   - "Terri Brook"
 source_ids:
   vndb: "c133909"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c133909.webp"
 ---
 
-# 特RRY·B洛奥K
+# Terry Brook
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c85772"
 type: "character"
-display_title: "子奥修加"
-title_zh: "子奥修加"
+display_title: "コーシュカ"
+title_zh: ""
 title_ja: "コーシュカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85772"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Koshka"
-  - "コーシュカ"
   - "Кошка"
 source_ids:
   vndb: "c85772"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c85772.webp"
 ---
 
-# 子奥修加
+# コーシュカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

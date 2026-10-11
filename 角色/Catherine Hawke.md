@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c64840"
 type: "character"
-display_title: "C阿T惠莉音·羽W惠"
-title_zh: "C阿T惠莉音·羽W惠"
+display_title: "캐서린 호크"
+title_zh: ""
 title_ja: "캐서린 호크"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c64840"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Catherine Hawke"
-  - "캐서린 호크"
 source_ids:
   vndb: "c64840"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c64840.webp"
 ---
 
-# C阿T惠莉音·羽W惠
+# 캐서린 호크
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

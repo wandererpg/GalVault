@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c741"
 type: "character"
-display_title: "伊伊吉寿加拉阿"
-title_zh: "伊伊吉寿加拉阿"
+display_title: "イージス・カラー"
+title_zh: ""
 title_ja: "イージス・カラー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c741"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Aegis Kalar"
-  - "イージス・カラー"
 source_ids:
   vndb: "c741"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c741.webp"
 ---
 
-# 伊伊吉寿加拉阿
+# イージス・カラー
 
 
 ## 角色画像

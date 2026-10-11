@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c138239"
 type: "character"
-display_title: "奈千洛乌X·C奥L贝RT"
-title_zh: "奈千洛乌X·C奥L贝RT"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Nachiroux Colbert"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138239"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Nachiroux Colbert"
   - "Roux, Nachi"
 source_ids:
   vndb: "c138239"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c138239.webp"
 ---
 
-# 奈千洛乌X·C奥L贝RT
+# Nachiroux Colbert
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

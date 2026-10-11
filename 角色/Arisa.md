@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c77869"
 type: "character"
-display_title: "阿莉沙"
-title_zh: "阿莉沙"
+display_title: "アリサ"
+title_zh: ""
 title_ja: "アリサ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c77869"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Arisa"
-  - "アリサ"
   - "Hound Girl"
   - "ハウンドガール"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c77869.webp"
 ---
 
-# 阿莉沙
+# アリサ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

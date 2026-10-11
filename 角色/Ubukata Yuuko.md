@@ -5,7 +5,10 @@ display_title: "生方木绵子"
 title_zh: "生方木绵子"
 title_ja: "生方 木綿子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c22321"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ubukata Yuuko"
   - "生方 木綿子"

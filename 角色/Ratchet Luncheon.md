@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c96870"
 type: "character"
-display_title: "拉C惠T斗拉恩绪恩"
-title_zh: "拉C惠T斗拉恩绪恩"
+display_title: "ラチェット・ランチョン"
+title_zh: ""
 title_ja: "ラチェット・ランチョン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c96870"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ratchet Luncheon"
-  - "ラチェット・ランチョン"
   - "Rachett Luncheon"
 source_ids:
   vndb: "c96870"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c96870.webp"
 ---
 
-# 拉C惠T斗拉恩绪恩
+# ラチェット・ランチョン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

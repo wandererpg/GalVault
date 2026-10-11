@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17216"
 type: "character"
-display_title: "高原美阿"
-title_zh: "高原美阿"
+display_title: "高原 みあ"
+title_zh: ""
 title_ja: "高原 みあ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17216"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Takahara Mia"
-  - "高原 みあ"
 source_ids:
   vndb: "c17216"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c17216.webp"
 ---
 
-# 高原美阿
+# 高原 みあ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

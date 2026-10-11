@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c55458"
 type: "character"
-display_title: "F伊伊音贝露久真恩"
-title_zh: "F伊伊音贝露久真恩"
+display_title: "フィーネ・ベルクマン"
+title_zh: ""
 title_ja: "フィーネ・ベルクマン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c55458"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Fine Bergmann"
-  - "フィーネ・ベルクマン"
 source_ids:
   vndb: "c55458"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c55458.webp"
 ---
 
-# F伊伊音贝露久真恩
+# フィーネ・ベルクマン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

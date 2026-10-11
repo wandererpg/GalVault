@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c56315"
 type: "character"
-display_title: "藏兹真贝露F惠悟奥露"
-title_zh: "藏兹真贝露F惠悟奥露"
+display_title: "ゾズマ・ベルフェゴール"
+title_zh: ""
 title_ja: "ゾズマ・ベルフェゴール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56315"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Zozma Belphegor"
-  - "ゾズマ・ベルフェゴール"
 source_ids:
   vndb: "c56315"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c56315.webp"
 ---
 
-# 藏兹真贝露F惠悟奥露
+# ゾズマ・ベルフェゴール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

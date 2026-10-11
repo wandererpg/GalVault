@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c165384"
 type: "character"
-display_title: "C阿S沙恩D拉·羽美L斗恩"
-title_zh: "C阿S沙恩D拉·羽美L斗恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Cassandra Hamilton"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c165384"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Cassandra Hamilton"
 source_ids:
   vndb: "c165384"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c165384.webp"
 ---
 
-# C阿S沙恩D拉·羽美L斗恩
+# Cassandra Hamilton
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

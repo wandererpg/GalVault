@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c97246"
 type: "character"
-display_title: "和代索贝恩比伊露"
-title_zh: "和代索贝恩比伊露"
+display_title: "ワヨソ・ベンビール"
+title_zh: ""
 title_ja: "ワヨソ・ベンビール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97246"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Wayoso Benville"
-  - "ワヨソ・ベンビール"
 source_ids:
   vndb: "c97246"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c97246.webp"
 ---
 
-# 和代索贝恩比伊露
+# ワヨソ・ベンビール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

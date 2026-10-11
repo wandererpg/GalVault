@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c96394"
 type: "character"
-display_title: "弓冢沙津希"
-title_zh: "弓冢沙津希"
+display_title: "弓塚 さつき"
+title_zh: ""
 title_ja: "弓塚 さつき"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c96394"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yumizuka Satsuki"
-  - "弓塚 さつき"
   - "Sacchin"
 source_ids:
   vndb: "c96394"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c96394.webp"
 ---
 
-# 弓冢沙津希
+# 弓塚 さつき
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

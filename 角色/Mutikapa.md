@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c8412"
 type: "character"
-display_title: "梦T伊加帕"
-title_zh: "梦T伊加帕"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Mutikapa"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8412"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Mutikapa"
 source_ids:
   vndb: "c8412"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c8412.webp"
 ---
 
-# 梦T伊加帕
+# Mutikapa
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

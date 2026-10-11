@@ -5,7 +5,10 @@ display_title: "黑井"
 title_zh: "黑井"
 title_ja: "黒井"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c122087"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kuroi"
   - "黒井"

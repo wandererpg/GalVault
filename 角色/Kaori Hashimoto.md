@@ -5,7 +5,10 @@ display_title: "桥本香织"
 title_zh: "桥本香织"
 title_ja: "橋本香織"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c153470"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kaori Hashimoto"
   - "橋本香織"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c41603"
 type: "character"
-display_title: "莉伊泽莉T斗"
-title_zh: "莉伊泽莉T斗"
+display_title: "リーゼリット"
+title_zh: ""
 title_ja: "リーゼリット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c41603"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Leysritt"
-  - "リーゼリット"
   - "リズ"
   - "Liz"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c41603.webp"
 ---
 
-# 莉伊泽莉T斗
+# リーゼリット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

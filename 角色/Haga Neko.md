@@ -5,7 +5,10 @@ display_title: "刃牙音子"
 title_zh: "刃牙音子"
 title_ja: "刃牙 音子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20635"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Haga Neko"
   - "刃牙 音子"

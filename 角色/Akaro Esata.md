@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c92788"
 type: "character"
-display_title: "阿加洛·惠沙太"
-title_zh: "阿加洛·惠沙太"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Akaro Esata"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92788"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Akaro Esata"
   - "Atase"
 source_ids:
   vndb: "c92788"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c92788.webp"
 ---
 
-# 阿加洛·惠沙太
+# Akaro Esata
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

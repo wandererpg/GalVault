@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c15835"
 type: "character"
-display_title: "恰阿莉伊阿露真恩"
-title_zh: "恰阿莉伊阿露真恩"
+display_title: "チャーリー・アルマン"
+title_zh: ""
 title_ja: "チャーリー・アルマン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c15835"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Charlie Armand"
-  - "チャーリー・アルマン"
 source_ids:
   vndb: "c15835"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c15835.webp"
 ---
 
-# 恰阿莉伊阿露真恩
+# チャーリー・アルマン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

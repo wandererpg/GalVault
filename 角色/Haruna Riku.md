@@ -5,7 +5,10 @@ display_title: "榛名陆"
 title_zh: "榛名陆"
 title_ja: "榛名 陸"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c24584"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Haruna Riku"
   - "榛名 陸"

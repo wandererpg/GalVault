@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c113477"
 type: "character"
-display_title: "加津奥"
-title_zh: "加津奥"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Katsuo"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c113477"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Katsuo"
 source_ids:
   vndb: "c113477"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c113477.webp"
 ---
 
-# 加津奥
+# Katsuo
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

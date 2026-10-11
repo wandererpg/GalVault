@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c53301"
 type: "character"
-display_title: "濑良阿希斗"
-title_zh: "濑良阿希斗"
+display_title: "瀬良 あきと"
+title_zh: ""
 title_ja: "瀬良 あきと"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c53301"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sera Akito"
-  - "瀬良 あきと"
 source_ids:
   vndb: "c53301"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c53301.webp"
 ---
 
-# 濑良阿希斗
+# 瀬良 あきと
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c73251"
 type: "character"
-display_title: "特伊露斗"
-title_zh: "特伊露斗"
+display_title: "ティルト"
+title_zh: ""
 title_ja: "ティルト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c73251"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tilt"
-  - "ティルト"
 source_ids:
   vndb: "c73251"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c73251.webp"
 ---
 
-# 特伊露斗
+# ティルト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c157507"
 type: "character"
-display_title: "乌恩吉优恩洛恩"
-title_zh: "乌恩吉优恩洛恩"
+display_title: "ウンジ・ユンロン"
+title_zh: ""
 title_ja: "ウンジ・ユンロン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c157507"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yunzi Yulong"
-  - "ウンジ・ユンロン"
   - "Zhao Yun"
 source_ids:
   vndb: "c157507"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c157507.webp"
 ---
 
-# 乌恩吉优恩洛恩
+# ウンジ・ユンロン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

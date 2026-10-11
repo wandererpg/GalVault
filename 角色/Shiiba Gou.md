@@ -5,7 +5,10 @@ display_title: "椎叶刚"
 title_zh: "椎叶刚"
 title_ja: "椎葉 剛"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c42610"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shiiba Gou"
   - "椎葉 剛"

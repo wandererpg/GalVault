@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c74701"
 type: "character"
-display_title: "诗F奥恩真久堂乌乌雅露"
-title_zh: "诗F奥恩真久堂乌乌雅露"
+display_title: "シフォン・マクドゥーガル"
+title_zh: ""
 title_ja: "シフォン・マクドゥーガル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c74701"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chiffon MacDougall"
-  - "シフォン・マクドゥーガル"
 source_ids:
   vndb: "c74701"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c74701.webp"
 ---
 
-# 诗F奥恩真久堂乌乌雅露
+# シフォン・マクドゥーガル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

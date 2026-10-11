@@ -5,7 +5,10 @@ display_title: "山县昌景"
 title_zh: "山县昌景"
 title_ja: "山県 昌景"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2885"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yamagata Masakage"
   - "山県 昌景"

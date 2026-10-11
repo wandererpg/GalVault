@@ -5,7 +5,10 @@ display_title: "御手洗武士"
 title_zh: "御手洗武士"
 title_ja: "御手洗 武士"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c46914"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mitarai Takeshi"
   - "御手洗 武士"

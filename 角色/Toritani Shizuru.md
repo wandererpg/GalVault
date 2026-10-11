@@ -5,7 +5,10 @@ display_title: "鸟谷静流"
 title_zh: "鸟谷静流"
 title_ja: "鳥谷 静流"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c83959"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Toritani Shizuru"
   - "鳥谷 静流"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c78511"
 type: "character"
-display_title: "伊恩古乌伊露"
-title_zh: "伊恩古乌伊露"
+display_title: "イングウィル"
+title_zh: ""
 title_ja: "イングウィル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c78511"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ingwill"
-  - "イングウィル"
 source_ids:
   vndb: "c78511"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c78511.webp"
 ---
 
-# 伊恩古乌伊露
+# イングウィル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

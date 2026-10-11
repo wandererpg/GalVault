@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c36191"
 type: "character"
-display_title: "锦织阿莉沙"
-title_zh: "锦织阿莉沙"
+display_title: "錦織 アリサ"
+title_zh: ""
 title_ja: "錦織 アリサ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c36191"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nishikiori Arisa"
-  - "錦織 アリサ"
 source_ids:
   vndb: "c36191"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c36191.webp"
 ---
 
-# 锦织阿莉沙
+# 錦織 アリサ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

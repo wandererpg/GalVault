@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34616"
 type: "character"
-display_title: "美莉伊奈莉莉阿阿乃"
-title_zh: "美莉伊奈莉莉阿阿乃"
+display_title: "ミリーナ・リリアーノ"
+title_zh: ""
 title_ja: "ミリーナ・リリアーノ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34616"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mirina Liliano"
-  - "ミリーナ・リリアーノ"
 source_ids:
   vndb: "c34616"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c34616.webp"
 ---
 
-# 美莉伊奈莉莉阿阿乃
+# ミリーナ・リリアーノ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

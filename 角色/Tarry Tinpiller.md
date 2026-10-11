@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c113584"
 type: "character"
-display_title: "太莉伊特伊恩皮拉阿"
-title_zh: "太莉伊特伊恩皮拉阿"
+display_title: "タリー・ティンピラー"
+title_zh: ""
 title_ja: "タリー・ティンピラー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c113584"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tarry Tinpiller"
-  - "タリー・ティンピラー"
 source_ids:
   vndb: "c113584"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c113584.webp"
 ---
 
-# 太莉伊特伊恩皮拉阿
+# タリー・ティンピラー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

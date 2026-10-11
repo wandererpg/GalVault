@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c36251"
 type: "character"
-display_title: "阿阿久"
-title_zh: "阿阿久"
+display_title: "アーク"
+title_zh: ""
 title_ja: "アーク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c36251"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Arc"
-  - "アーク"
   - "Archbolt Awful Haigh"
 source_ids:
   vndb: "c36251"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c36251.webp"
 ---
 
-# 阿阿久
+# アーク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

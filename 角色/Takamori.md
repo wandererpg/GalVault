@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c164057"
 type: "character"
-display_title: "太加莫莉"
-title_zh: "太加莫莉"
+display_title: "タカモリ"
+title_zh: ""
 title_ja: "タカモリ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c164057"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Takamori"
-  - "タカモリ"
 source_ids:
   vndb: "c164057"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c164057.webp"
 ---
 
-# 太加莫莉
+# タカモリ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

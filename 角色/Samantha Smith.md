@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c69738"
 type: "character"
-display_title: "沙真恩T羽·S美TH"
-title_zh: "沙真恩T羽·S美TH"
+display_title: "Саманта Смит"
+title_zh: ""
 title_ja: "Саманта Смит"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c69738"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Samantha Smith"
-  - "Саманта Смит"
   - "Сэм"
 source_ids:
   vndb: "c69738"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c69738.webp"
 ---
 
-# 沙真恩T羽·S美TH
+# Саманта Смит
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

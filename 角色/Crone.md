@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c92510"
 type: "character"
-display_title: "久洛音"
-title_zh: "久洛音"
+display_title: "クロネ"
+title_zh: ""
 title_ja: "クロネ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92510"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Crone"
-  - "クロネ"
 source_ids:
   vndb: "c92510"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c92510.webp"
 ---
 
-# 久洛音
+# クロネ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

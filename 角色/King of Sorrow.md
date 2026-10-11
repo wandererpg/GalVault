@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c109620"
 type: "character"
-display_title: "叹希乃王"
-title_zh: "叹希乃王"
+display_title: "嘆きの王"
+title_zh: ""
 title_ja: "嘆きの王"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c109620"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "King of Sorrow"
-  - "嘆きの王"
 source_ids:
   vndb: "c109620"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c109620.webp"
 ---
 
-# 叹希乃王
+# 嘆きの王
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c65007"
 type: "character"
-display_title: "代莉诗洛久恩"
-title_zh: "代莉诗洛久恩"
+display_title: "ヨリシロくん"
+title_zh: ""
 title_ja: "ヨリシロくん"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c65007"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yorishiro-kun"
-  - "ヨリシロくん"
   - "Hiraga Densan Rei-Shiki Shikou-ki YSR-04E"
   - "平賀電算霊式試行機ＹＳＲ－０４Ｅ"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c65007.webp"
 ---
 
-# 代莉诗洛久恩
+# ヨリシロくん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

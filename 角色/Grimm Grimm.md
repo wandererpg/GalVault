@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c117219"
 type: "character"
-display_title: "古莉梦＝古莉梦"
-title_zh: "古莉梦＝古莉梦"
+display_title: "グリム＝グリム"
+title_zh: ""
 title_ja: "グリム＝グリム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c117219"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Grimm Grimm"
-  - "グリム＝グリム"
   - "道化師"
   - "The Clown"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c117219.webp"
 ---
 
-# 古莉梦＝古莉梦
+# グリム＝グリム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

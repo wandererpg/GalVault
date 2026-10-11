@@ -5,7 +5,10 @@ display_title: "恩田雾乃"
 title_zh: "恩田雾乃"
 title_ja: "恩田 霧乃"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c55035"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Onda Kirino"
   - "恩田 霧乃"

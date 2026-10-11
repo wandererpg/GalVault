@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c514"
 type: "character"
-display_title: "优乌寿特伊阿阿寿斗蕾阿"
-title_zh: "优乌寿特伊阿阿寿斗蕾阿"
+display_title: "ユースティア・アストレア"
+title_zh: ""
 title_ja: "ユースティア・アストレア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c514"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Eustia Astraea"
-  - "ユースティア・アストレア"
   - "Tia"
   - "ティア"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c514.webp"
 ---
 
-# 优乌寿特伊阿阿寿斗蕾阿
+# ユースティア・アストレア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

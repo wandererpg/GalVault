@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c7056"
 type: "character"
-display_title: "优莉阿恩"
-title_zh: "优莉阿恩"
+display_title: "ユリアン"
+title_zh: ""
 title_ja: "ユリアン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c7056"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Julian"
-  - "ユリアン"
 source_ids:
   vndb: "c7056"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c7056.webp"
 ---
 
-# 优莉阿恩
+# ユリアン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

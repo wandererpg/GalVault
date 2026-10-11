@@ -5,7 +5,10 @@ display_title: "铃木隆史"
 title_zh: "铃木隆史"
 title_ja: "鈴木 隆史"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c100604"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Suzuki Takashi"
   - "鈴木 隆史"

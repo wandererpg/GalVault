@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17386"
 type: "character"
-display_title: "子奥音露"
-title_zh: "子奥音露"
+display_title: "コーネル"
+title_zh: ""
 title_ja: "コーネル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17386"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cornel"
-  - "コーネル"
 source_ids:
   vndb: "c17386"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c17386.webp"
 ---
 
-# 子奥音露
+# コーネル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

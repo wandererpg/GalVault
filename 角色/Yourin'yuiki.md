@@ -5,7 +5,10 @@ display_title: "溶燐结骑"
 title_zh: "溶燐结骑"
 title_ja: "溶燐結騎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c61992"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yourin'yuiki"
   - "溶燐結騎"

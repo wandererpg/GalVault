@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26425"
 type: "character"
-display_title: "惠乃濑拉＝F奥恩＝久洛伊津惠露"
-title_zh: "惠乃濑拉＝F奥恩＝久洛伊津惠露"
+display_title: "エノセラ＝フォン＝クロイツェル"
+title_zh: ""
 title_ja: "エノセラ＝フォン＝クロイツェル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26425"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Enosera Von Kreutzer"
-  - "エノセラ＝フォン＝クロイツェル"
 source_ids:
   vndb: "c26425"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c26425.webp"
 ---
 
-# 惠乃濑拉＝F奥恩＝久洛伊津惠露
+# エノセラ＝フォン＝クロイツェル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "星乃文緖"
 title_zh: "星乃文緖"
 title_ja: "星乃 文緒"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c37395"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hoshino Fumio"
   - "星乃 文緒"

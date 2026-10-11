@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c138296"
 type: "character"
-display_title: "简·C洛C惠R"
-title_zh: "简·C洛C惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jane Crocker"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138296"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jane Crocker"
   - "gutsyGumshoe"
   - "Maid of Life"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c138296.webp"
 ---
 
-# 简·C洛C惠R
+# Jane Crocker
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

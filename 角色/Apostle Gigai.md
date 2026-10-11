@@ -5,7 +5,10 @@ display_title: "使徒戏骸"
 title_zh: "使徒戏骸"
 title_ja: "使徒 戯骸"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c95551"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Apostle Gigai"
   - "使徒 戯骸"

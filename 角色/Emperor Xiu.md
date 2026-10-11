@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c28667"
 type: "character"
-display_title: "修乌皇帝"
-title_zh: "修乌皇帝"
+display_title: "シュウ 皇帝"
+title_zh: ""
 title_ja: "シュウ 皇帝"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c28667"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Emperor Xiu"
-  - "シュウ 皇帝"
   - "Emperor Shuu"
   - "Император Сю"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c28667.webp"
 ---
 
-# 修乌皇帝
+# シュウ 皇帝
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

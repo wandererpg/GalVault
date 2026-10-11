@@ -5,7 +5,10 @@ display_title: "淡雪瑞海"
 title_zh: "淡雪瑞海"
 title_ja: "淡雪 瑞海"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c92098"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Awayuki Mizumi"
   - "淡雪 瑞海"

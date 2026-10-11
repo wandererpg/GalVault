@@ -5,7 +5,10 @@ display_title: "日之世武尊"
 title_zh: "日之世武尊"
 title_ja: "日之世 武尊"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c53688"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hinose Takeru"
   - "日之世 武尊"

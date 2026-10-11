@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c106303"
 type: "character"
-display_title: "阿L惠X阿恩D拉·巴R堂T"
-title_zh: "阿L惠X阿恩D拉·巴R堂T"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Alexandra Bardot"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c106303"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Alexandra Bardot"
   - "Alex"
 source_ids:
   vndb: "c106303"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c106303.webp"
 ---
 
-# 阿L惠X阿恩D拉·巴R堂T
+# Alexandra Bardot
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

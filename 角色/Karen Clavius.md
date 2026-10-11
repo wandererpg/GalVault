@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c1360"
 type: "character"
-display_title: "加蕾恩久拉V伊乌寿"
-title_zh: "加蕾恩久拉V伊乌寿"
+display_title: "カレン・クラヴィウス"
+title_zh: ""
 title_ja: "カレン・クラヴィウス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c1360"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Karen Clavius"
-  - "カレン・クラヴィウス"
   - "Karen Kuraviusu"
 source_ids:
   vndb: "c1360"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c1360.webp"
 ---
 
-# 加蕾恩久拉V伊乌寿
+# カレン・クラヴィウス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

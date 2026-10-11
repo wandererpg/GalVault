@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c122008"
 type: "character"
-display_title: "斗诗子·加优拉"
-title_zh: "斗诗子·加优拉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Toshiko Kayura"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c122008"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Toshiko Kayura"
   - "Ultimate Matchmaker"
 source_ids:
   vndb: "c122008"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c122008.webp"
 ---
 
-# 斗诗子·加优拉
+# Toshiko Kayura
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

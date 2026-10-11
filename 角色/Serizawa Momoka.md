@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c166144"
 type: "character"
-display_title: "芹泽莫莫加"
-title_zh: "芹泽莫莫加"
+display_title: "芹沢モモカ"
+title_zh: ""
 title_ja: "芹沢モモカ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c166144"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Serizawa Momoka"
-  - "芹沢モモカ"
 source_ids:
   vndb: "c166144"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c166144.webp"
 ---
 
-# 芹泽莫莫加
+# 芹沢モモカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

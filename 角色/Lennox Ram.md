@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c161322"
 type: "character"
-display_title: "蕾乃K久寿·拉梦"
-title_zh: "蕾乃K久寿·拉梦"
+display_title: "レノックス ラム"
+title_zh: ""
 title_ja: "レノックス ラム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161322"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lennox Ram"
-  - "レノックス ラム"
 source_ids:
   vndb: "c161322"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c161322.webp"
 ---
 
-# 蕾乃K久寿·拉梦
+# レノックス ラム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

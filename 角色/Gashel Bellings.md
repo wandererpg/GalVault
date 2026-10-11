@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c77021"
 type: "character"
-display_title: "雅诗惠露＝贝莉恩古寿"
-title_zh: "雅诗惠露＝贝莉恩古寿"
+display_title: "ガシェル＝ベリングス"
+title_zh: ""
 title_ja: "ガシェル＝ベリングス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c77021"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gashel Bellings"
-  - "ガシェル＝ベリングス"
 source_ids:
   vndb: "c77021"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c77021.webp"
 ---
 
-# 雅诗惠露＝贝莉恩古寿
+# ガシェル＝ベリングス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c161459"
 type: "character"
-display_title: "真阿奈"
-title_zh: "真阿奈"
+display_title: "マァナ"
+title_zh: ""
 title_ja: "マァナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161459"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mana"
-  - "マァナ"
 source_ids:
   vndb: "c161459"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c161459.webp"
 ---
 
-# 真阿奈
+# マァナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

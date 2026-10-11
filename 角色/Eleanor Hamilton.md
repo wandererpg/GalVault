@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c165378"
 type: "character"
-display_title: "惠L惠阿乃R·羽美L斗恩"
-title_zh: "惠L惠阿乃R·羽美L斗恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Eleanor Hamilton"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c165378"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Eleanor Hamilton"
 source_ids:
   vndb: "c165378"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c165378.webp"
 ---
 
-# 惠L惠阿乃R·羽美L斗恩
+# Eleanor Hamilton
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c91957"
 type: "character"
-display_title: "露阿恩"
-title_zh: "露阿恩"
+display_title: "ルアン"
+title_zh: ""
 title_ja: "ルアン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c91957"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Luan"
-  - "ルアン"
   - "Wully"
 source_ids:
   vndb: "c91957"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c91957.webp"
 ---
 
-# 露阿恩
+# ルアン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

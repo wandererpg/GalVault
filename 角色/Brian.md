@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c149383"
 type: "character"
-display_title: "B莉阿恩"
-title_zh: "B莉阿恩"
+display_title: "Браян"
+title_zh: ""
 title_ja: "Браян"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149383"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Brian"
-  - "Браян"
 source_ids:
   vndb: "c149383"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c149383.webp"
 ---
 
-# B莉阿恩
+# Браян
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

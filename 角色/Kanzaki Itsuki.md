@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c108253"
 type: "character"
-display_title: "神埼伊津希"
-title_zh: "神埼伊津希"
+display_title: "神埼 イツキ"
+title_zh: ""
 title_ja: "神埼 イツキ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c108253"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kanzaki Itsuki"
-  - "神埼 イツキ"
 source_ids:
   vndb: "c108253"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c108253.webp"
 ---
 
-# 神埼伊津希
+# 神埼 イツキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

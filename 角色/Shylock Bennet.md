@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c161315"
 type: "character"
-display_title: "夏伊洛K久·贝音T斗"
-title_zh: "夏伊洛K久·贝音T斗"
+display_title: "シャイロック ベネット"
+title_zh: ""
 title_ja: "シャイロック ベネット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161315"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shylock Bennet"
-  - "シャイロック ベネット"
 source_ids:
   vndb: "c161315"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c161315.webp"
 ---
 
-# 夏伊洛K久·贝音T斗
+# シャイロック ベネット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125342"
 type: "character"
-display_title: "久拉格娘"
-title_zh: "久拉格娘"
+display_title: "クラゲ娘"
+title_zh: ""
 title_ja: "クラゲ娘"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125342"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jellyfish Girl"
-  - "クラゲ娘"
   - "Kurage"
 source_ids:
   vndb: "c125342"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c125342.webp"
 ---
 
-# 久拉格娘
+# クラゲ娘
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

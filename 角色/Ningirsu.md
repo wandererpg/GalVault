@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c2367"
 type: "character"
-display_title: "尼恩吉露寿"
-title_zh: "尼恩吉露寿"
+display_title: "ニンギルス"
+title_zh: ""
 title_ja: "ニンギルス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c2367"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ningirsu"
-  - "ニンギルス"
 source_ids:
   vndb: "c2367"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c2367.webp"
 ---
 
-# 尼恩吉露寿
+# ニンギルス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

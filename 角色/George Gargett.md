@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c36675"
 type: "character"
-display_title: "乔奥吉雅阿格T斗"
-title_zh: "乔奥吉雅阿格T斗"
+display_title: "ジョージ・ガーゲット"
+title_zh: ""
 title_ja: "ジョージ・ガーゲット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c36675"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "George Gargett"
-  - "ジョージ・ガーゲット"
 source_ids:
   vndb: "c36675"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c36675.webp"
 ---
 
-# 乔奥吉雅阿格T斗
+# ジョージ・ガーゲット
 
 
 ## 角色画像

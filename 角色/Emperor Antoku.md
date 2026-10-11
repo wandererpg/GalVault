@@ -5,7 +5,10 @@ display_title: "安德天皇"
 title_zh: "安德天皇"
 title_ja: "安徳天皇"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c59579"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Emperor Antoku"
   - "安徳天皇"

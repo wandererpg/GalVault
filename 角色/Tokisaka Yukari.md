@@ -5,7 +5,10 @@ display_title: "时坂紫"
 title_zh: "时坂紫"
 title_ja: "時坂 紫"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c4079"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tokisaka Yukari"
   - "時坂 紫"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c72795"
 type: "character"
-display_title: "赤兹希恩"
-title_zh: "赤兹希恩"
+display_title: "赤ずきん"
+title_zh: ""
 title_ja: "赤ずきん"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c72795"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Akazukin"
-  - "赤ずきん"
   - "Little Red Riding Hood"
 source_ids:
   vndb: "c72795"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c72795.webp"
 ---
 
-# 赤兹希恩
+# 赤ずきん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

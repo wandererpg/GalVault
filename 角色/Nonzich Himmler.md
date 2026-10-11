@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61201"
 type: "character"
-display_title: "乃恩津伊日日梦拉阿"
-title_zh: "乃恩津伊日日梦拉阿"
+display_title: "ノンツィヒ・ヒムラー"
+title_zh: ""
 title_ja: "ノンツィヒ・ヒムラー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61201"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nonzich Himmler"
-  - "ノンツィヒ・ヒムラー"
 source_ids:
   vndb: "c61201"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61201.webp"
 ---
 
-# 乃恩津伊日日梦拉阿
+# ノンツィヒ・ヒムラー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

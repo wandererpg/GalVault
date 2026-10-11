@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c166609"
 type: "character"
-display_title: "日达D伊LLY"
-title_zh: "日达D伊LLY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Hidadilly"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c166609"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Hidadilly"
   - "The JOP overlord"
 source_ids:
   vndb: "c166609"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c166609.webp"
 ---
 
-# 日达D伊LLY
+# Hidadilly
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

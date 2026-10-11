@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13709"
 type: "character"
-display_title: "古户惠莉加"
-title_zh: "古户惠莉加"
+display_title: "古戸 ヱリカ"
+title_zh: ""
 title_ja: "古戸 ヱリカ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13709"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Furudo Erika"
-  - "古戸 ヱリカ"
 source_ids:
   vndb: "c13709"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c13709.webp"
 ---
 
-# 古户惠莉加
+# 古戸 ヱリカ
 
 
 ## 角色画像

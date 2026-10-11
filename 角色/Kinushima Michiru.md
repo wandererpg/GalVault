@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c48491"
 type: "character"
-display_title: "绢岛美千露"
-title_zh: "绢岛美千露"
+display_title: "絹島 ミチル"
+title_zh: ""
 title_ja: "絹島 ミチル"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c48491"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kinushima Michiru"
-  - "絹島 ミチル"
 source_ids:
   vndb: "c48491"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c48491.webp"
 ---
 
-# 绢岛美千露
+# 絹島 ミチル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

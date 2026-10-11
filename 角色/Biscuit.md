@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c163153"
 type: "character"
-display_title: "比SC乌伊T"
-title_zh: "比SC乌伊T"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Biscuit"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c163153"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Biscuit"
 source_ids:
   vndb: "c163153"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c163153.webp"
 ---
 
-# 比SC乌伊T
+# Biscuit
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

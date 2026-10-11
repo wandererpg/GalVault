@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c171810"
 type: "character"
-display_title: "加雅·C阿L伊B"
-title_zh: "加雅·C阿L伊B"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Kaya Calib"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c171810"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Kaya Calib"
 source_ids:
   vndb: "c171810"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c171810.webp"
 ---
 
-# 加雅·C阿L伊B
+# Kaya Calib
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

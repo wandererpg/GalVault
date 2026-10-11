@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c150643"
 type: "character"
-display_title: "沙布洛乌"
-title_zh: "沙布洛乌"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Saburou"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c150643"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Saburou"
 source_ids:
   vndb: "c150643"
 source_urls:
   vndb: "https://vndb.org/c150643"
 ---
 
-# 沙布洛乌
+# Saburou
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

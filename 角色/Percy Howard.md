@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c124004"
 type: "character"
-display_title: "帕阿诗伊穗和阿堂"
-title_zh: "帕阿诗伊穗和阿堂"
+display_title: "パーシー・ホワード"
+title_zh: ""
 title_ja: "パーシー・ホワード"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124004"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Percy Howard"
-  - "パーシー・ホワード"
 source_ids:
   vndb: "c124004"
 source_urls:
   vndb: "https://vndb.org/c124004"
 ---
 
-# 帕阿诗伊穗和阿堂
+# パーシー・ホワード
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

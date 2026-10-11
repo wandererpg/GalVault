@@ -5,7 +5,10 @@ display_title: "验体004"
 title_zh: "验体004"
 title_ja: "験体004"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c127305"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kentai 004"
   - "験体004"

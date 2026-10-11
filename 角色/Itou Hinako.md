@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c5949"
 type: "character"
-display_title: "伊东日奈子"
-title_zh: "伊东日奈子"
+display_title: "伊東 ひなこ"
+title_zh: ""
 title_ja: "伊東 ひなこ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c5949"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Itou Hinako"
-  - "伊東 ひなこ"
 source_ids:
   vndb: "c5949"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c5949.webp"
 ---
 
-# 伊东日奈子
+# 伊東 ひなこ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

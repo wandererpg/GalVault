@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c95410"
 type: "character"
-display_title: "P活奥吉沙恩"
-title_zh: "P活奥吉沙恩"
+display_title: "P活おじさん"
+title_zh: ""
 title_ja: "P活おじさん"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c95410"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sugar Daddy Old Man"
-  - "P活おじさん"
 source_ids:
   vndb: "c95410"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c95410.webp"
 ---
 
-# P活奥吉沙恩
+# P活おじさん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

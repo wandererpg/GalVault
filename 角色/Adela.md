@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c163570"
 type: "character"
-display_title: "阿德L阿"
-title_zh: "阿德L阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Adela"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c163570"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Adela"
 source_ids:
   vndb: "c163570"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c163570.webp"
 ---
 
-# 阿德L阿
+# Adela
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c138300"
 type: "character"
-display_title: "惠Q乌伊乌S·扎H羽K"
-title_zh: "惠Q乌伊乌S·扎H羽K"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Equius Zahhak"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138300"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Equius Zahhak"
   - "centaursTesticle"
   - "Heir of Void"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c138300.webp"
 ---
 
-# 惠Q乌伊乌S·扎H羽K
+# Equius Zahhak
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

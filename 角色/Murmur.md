@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c22361"
 type: "character"
-display_title: "梦露梦露"
-title_zh: "梦露梦露"
+display_title: "ムルムル"
+title_zh: ""
 title_ja: "ムルムル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c22361"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Murmur"
-  - "ムルムル"
 source_ids:
   vndb: "c22361"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c22361.webp"
 ---
 
-# 梦露梦露
+# ムルムル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

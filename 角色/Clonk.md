@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c131402"
 type: "character"
-display_title: "CL奥恩K"
-title_zh: "CL奥恩K"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Clonk"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c131402"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Clonk"
 source_ids:
   vndb: "c131402"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c131402.webp"
 ---
 
-# CL奥恩K
+# Clonk
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

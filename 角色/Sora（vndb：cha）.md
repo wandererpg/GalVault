@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c137938"
 type: "character"
-display_title: "索拉"
-title_zh: "索拉"
+display_title: "ソラ"
+title_zh: ""
 title_ja: "ソラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c137938"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sora"
-  - "ソラ"
 source_ids:
   vndb: "c137938"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c137938.webp"
 ---
 
-# 索拉
+# ソラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

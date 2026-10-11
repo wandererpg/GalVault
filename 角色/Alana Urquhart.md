@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c135569"
 type: "character"
-display_title: "阿L阿奈·乌RQ乌羽RT"
-title_zh: "阿L阿奈·乌RQ乌羽RT"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Alana Urquhart"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c135569"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Alana Urquhart"
 source_ids:
   vndb: "c135569"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c135569.webp"
 ---
 
-# 阿L阿奈·乌RQ乌羽RT
+# Alana Urquhart
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

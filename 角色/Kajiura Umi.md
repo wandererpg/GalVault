@@ -5,7 +5,10 @@ display_title: "梶浦海美"
 title_zh: "梶浦海美"
 title_ja: "梶浦 海美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14443"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kajiura Umi"
   - "梶浦 海美"

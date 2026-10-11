@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c86961"
 type: "character"
-display_title: "皮伊寿"
-title_zh: "皮伊寿"
+display_title: "ピース"
+title_zh: ""
 title_ja: "ピース"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c86961"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Piece"
-  - "ピース"
 source_ids:
   vndb: "c86961"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c86961.webp"
 ---
 
-# 皮伊寿
+# ピース
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

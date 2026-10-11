@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c51744"
 type: "character"
-display_title: "沙恩＝美莉奥"
-title_zh: "沙恩＝美莉奥"
+display_title: "サン＝ミリオ"
+title_zh: ""
 title_ja: "サン＝ミリオ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c51744"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "San Mirio"
-  - "サン＝ミリオ"
 source_ids:
   vndb: "c51744"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c51744.webp"
 ---
 
-# 沙恩＝美莉奥
+# サン＝ミリオ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c109618"
 type: "character"
-display_title: "寿特F阿尼阿"
-title_zh: "寿特F阿尼阿"
+display_title: "ステファニア"
+title_zh: ""
 title_ja: "ステファニア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c109618"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Stephania"
-  - "ステファニア"
 source_ids:
   vndb: "c109618"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c109618.webp"
 ---
 
-# 寿特F阿尼阿
+# ステファニア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "九鬼朱火"
 title_zh: "九鬼朱火"
 title_ja: "九鬼 朱火"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c37611"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kuki Akebi"
   - "九鬼 朱火"

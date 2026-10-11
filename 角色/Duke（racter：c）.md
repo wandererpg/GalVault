@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c95204"
 type: "character"
-display_title: "D乌惠"
-title_zh: "D乌惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Duke"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c95204"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Duke"
 source_ids:
   vndb: "c95204"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c95204.webp"
 ---
 
-# D乌惠
+# Duke
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

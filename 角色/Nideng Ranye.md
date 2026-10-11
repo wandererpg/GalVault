@@ -5,7 +5,10 @@ display_title: "霓灯染夜"
 title_zh: "霓灯染夜"
 title_ja: "霓灯染夜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c136026"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nideng Ranye"
 source_ids:

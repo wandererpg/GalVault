@@ -5,7 +5,10 @@ display_title: "天竺天音"
 title_zh: "天竺天音"
 title_ja: "天竺 天音"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c113576"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tenjiku Amane"
   - "天竺 天音"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c154146"
 type: "character"
-display_title: "尼拉V惠L"
-title_zh: "尼拉V惠L"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Niravel"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c154146"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Niravel"
 source_ids:
   vndb: "c154146"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c154146.webp"
 ---
 
-# 尼拉V惠L
+# Niravel
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

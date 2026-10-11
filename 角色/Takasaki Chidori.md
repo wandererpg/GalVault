@@ -5,7 +5,10 @@ display_title: "考崎千鸟"
 title_zh: "考崎千鸟"
 title_ja: "考崎 千鳥"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c22037"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takasaki Chidori"
   - "考崎 千鳥"

@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c92623"
 type: "character"
-display_title: "V奥露芙雅恩古·日露"
-title_zh: "V奥露芙雅恩古·日露"
+display_title: "ヴォルフガング　ヒル"
+title_zh: ""
 title_ja: "ヴォルフガング　ヒル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92623"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Wolfgang Hill"
-  - "ヴォルフガング　ヒル"
 source_ids:
   vndb: "c92623"
 source_urls:
   vndb: "https://vndb.org/c92623"
 ---
 
-# V奥露芙雅恩古·日露
+# ヴォルフガング　ヒル
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

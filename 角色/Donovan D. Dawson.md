@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c69157"
 type: "character"
-display_title: "堂乃V阿恩·D·达W索恩"
-title_zh: "堂乃V阿恩·D·达W索恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Donovan D. Dawson"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c69157"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Donovan D. Dawson"
   - "Boss"
   - "Mr. Dawson"
   - "Mr. Donovan"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c69157.webp"
 ---
 
-# 堂乃V阿恩·D·达W索恩
+# Donovan D. Dawson
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

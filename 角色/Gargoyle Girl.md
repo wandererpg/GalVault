@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127525"
 type: "character"
-display_title: "雅阿悟伊露娘"
-title_zh: "雅阿悟伊露娘"
+display_title: "ガーゴイル娘"
+title_zh: ""
 title_ja: "ガーゴイル娘"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127525"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gargoyle Girl"
-  - "ガーゴイル娘"
 source_ids:
   vndb: "c127525"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c127525.webp"
 ---
 
-# 雅阿悟伊露娘
+# ガーゴイル娘
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

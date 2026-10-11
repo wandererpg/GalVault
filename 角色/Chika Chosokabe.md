@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c89287"
 type: "character"
-display_title: "千加·绪索加贝"
-title_zh: "千加·绪索加贝"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Chika Chosokabe"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c89287"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Chika Chosokabe"
 source_ids:
   vndb: "c89287"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c89287.webp"
 ---
 
-# 千加·绪索加贝
+# Chika Chosokabe
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

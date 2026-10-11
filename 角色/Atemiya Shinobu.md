@@ -5,7 +5,10 @@ display_title: "贵宫忍"
 title_zh: "贵宫忍"
 title_ja: "貴宮 忍"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c42503"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Atemiya Shinobu"
   - "貴宮 忍"

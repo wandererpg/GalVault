@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c163575"
 type: "character"
-display_title: "惠乌S太C惠"
-title_zh: "惠乌S太C惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Eustace"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c163575"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Eustace"
 source_ids:
   vndb: "c163575"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c163575.webp"
 ---
 
-# 惠乌S太C惠
+# Eustace
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

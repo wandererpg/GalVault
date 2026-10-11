@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c149571"
 type: "character"
-display_title: "露伊寿芙拉恩子"
-title_zh: "露伊寿芙拉恩子"
+display_title: "ルイス・フランコ"
+title_zh: ""
 title_ja: "ルイス・フランコ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149571"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Louis Franco"
-  - "ルイス・フランコ"
   - "Louis DeNonno"
 source_ids:
   vndb: "c149571"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c149571.webp"
 ---
 
-# 露伊寿芙拉恩子
+# ルイス・フランコ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c99814"
 type: "character"
-display_title: "寿太阿蕾贝露样"
-title_zh: "寿太阿蕾贝露样"
+display_title: "スターレベル様"
+title_zh: ""
 title_ja: "スターレベル様"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c99814"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Starlevel The Great"
-  - "スターレベル様"
   - "Mars The Great"
 source_ids:
   vndb: "c99814"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c99814.webp"
 ---
 
-# 寿太阿蕾贝露样
+# スターレベル様
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

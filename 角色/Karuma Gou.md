@@ -5,7 +5,10 @@ display_title: "狩魔豪"
 title_zh: "狩魔豪"
 title_ja: "狩魔 豪"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14292"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Karuma Gou"
   - "狩魔 豪"

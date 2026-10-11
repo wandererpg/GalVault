@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126065"
 type: "character"
-display_title: "真D堂悟奥蕾梦娘"
-title_zh: "真D堂悟奥蕾梦娘"
+display_title: "マッドゴーレム娘"
+title_zh: ""
 title_ja: "マッドゴーレム娘"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126065"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mud Golem Girl"
-  - "マッドゴーレム娘"
   - "Knog"
 source_ids:
   vndb: "c126065"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c126065.webp"
 ---
 
-# 真D堂悟奥蕾梦娘
+# マッドゴーレム娘
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

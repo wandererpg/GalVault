@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c42859"
 type: "character"
-display_title: "洛K久F奥奥露王和"
-title_zh: "洛K久F奥奥露王和"
+display_title: "ロックフォール・王ワ"
+title_zh: ""
 title_ja: "ロックフォール・王ワ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c42859"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rochefor Wang"
-  - "ロックフォール・王ワ"
   - "機関長"
   - "Chief Engineer"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c42859.webp"
 ---
 
-# 洛K久F奥奥露王和
+# ロックフォール・王ワ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

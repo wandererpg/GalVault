@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c112173"
 type: "character"
-display_title: "恰RL惠S·子HL惠R"
-title_zh: "恰RL惠S·子HL惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Charles Kohler"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c112173"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Charles Kohler"
   - "Dr. Chuck"
 source_ids:
   vndb: "c112173"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c112173.webp"
 ---
 
-# 恰RL惠S·子HL惠R
+# Charles Kohler
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

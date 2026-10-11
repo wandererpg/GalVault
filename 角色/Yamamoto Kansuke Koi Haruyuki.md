@@ -5,7 +5,10 @@ display_title: "山本勘助湖衣晴幸"
 title_zh: "山本勘助湖衣晴幸"
 title_ja: "山本 勘助 湖衣 晴幸"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20751"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yamamoto Kansuke Koi Haruyuki"
   - "山本 勘助 湖衣 晴幸"

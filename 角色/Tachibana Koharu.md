@@ -5,7 +5,10 @@ display_title: "橘小春"
 title_zh: "橘小春"
 title_ja: "橘 小春"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c157591"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tachibana Koharu"
   - "橘 小春"

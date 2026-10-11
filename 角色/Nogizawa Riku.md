@@ -5,7 +5,10 @@ display_title: "野木泽绿"
 title_zh: "野木泽绿"
 title_ja: "野木沢 緑"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c154186"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nogizawa Riku"
   - "野木沢 緑"

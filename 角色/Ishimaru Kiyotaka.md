@@ -5,7 +5,10 @@ display_title: "石丸清多夏"
 title_zh: "石丸清多夏"
 title_ja: "石丸 清多夏"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10190"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ishimaru Kiyotaka"
   - "石丸 清多夏"

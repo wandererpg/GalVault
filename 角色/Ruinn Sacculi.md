@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c33469"
 type: "character"
-display_title: "露伊伊音沙阿久莉伊"
-title_zh: "露伊伊音沙阿久莉伊"
+display_title: "ルイーネ・サーキュリー"
+title_zh: ""
 title_ja: "ルイーネ・サーキュリー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33469"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ruinn Sacculi"
-  - "ルイーネ・サーキュリー"
 source_ids:
   vndb: "c33469"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c33469.webp"
 ---
 
-# 露伊伊音沙阿久莉伊
+# ルイーネ・サーキュリー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

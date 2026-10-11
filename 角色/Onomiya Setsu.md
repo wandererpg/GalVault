@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c137815"
 type: "character"
-display_title: "小野宫濑津"
-title_zh: "小野宫濑津"
+display_title: "小野宮 セツ"
+title_zh: ""
 title_ja: "小野宮 セツ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c137815"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Onomiya Setsu"
-  - "小野宮 セツ"
 source_ids:
   vndb: "c137815"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c137815.webp"
 ---
 
-# 小野宫濑津
+# 小野宮 セツ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

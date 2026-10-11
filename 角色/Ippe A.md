@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c169820"
 type: "character"
-display_title: "伊P佩·阿"
-title_zh: "伊P佩·阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ippe A"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c169820"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ippe A"
 source_ids:
   vndb: "c169820"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c169820.webp"
 ---
 
-# 伊P佩·阿
+# Ippe A
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

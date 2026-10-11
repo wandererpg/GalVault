@@ -5,7 +5,10 @@ display_title: "星咲姫"
 title_zh: "星咲姫"
 title_ja: "星咲 姫"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16206"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hoshizaki Hime"
   - "星咲 姫"

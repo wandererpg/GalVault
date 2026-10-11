@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c32069"
 type: "character"
-display_title: "阿寿太莉寿久"
-title_zh: "阿寿太莉寿久"
+display_title: "アスタリスク"
+title_zh: ""
 title_ja: "アスタリスク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c32069"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Asterisk"
-  - "アスタリスク"
   - "Dick boy"
   - "アスタ"
   - "Aster"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c32069.webp"
 ---
 
-# 阿寿太莉寿久
+# アスタリスク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

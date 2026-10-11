@@ -5,7 +5,10 @@ display_title: "曲垣雪"
 title_zh: "曲垣雪"
 title_ja: "曲垣雪"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c137867"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Magaki Yuki"
 source_ids:

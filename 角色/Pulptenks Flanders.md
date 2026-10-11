@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c50975"
 type: "character"
-display_title: "帕露普特恩久寿芙拉恩达阿寿"
-title_zh: "帕露普特恩久寿芙拉恩达阿寿"
+display_title: "パルプテンクス・フランダース"
+title_zh: ""
 title_ja: "パルプテンクス・フランダース"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c50975"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Pulptenks Flanders"
-  - "パルプテンクス・フランダース"
 source_ids:
   vndb: "c50975"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c50975.webp"
 ---
 
-# 帕露普特恩久寿芙拉恩达阿寿
+# パルプテンクス・フランダース
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

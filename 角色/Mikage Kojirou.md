@@ -5,7 +5,10 @@ display_title: "御影小次郎"
 title_zh: "御影小次郎"
 title_ja: "御影 小次郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c85524"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mikage Kojirou"
   - "御影 小次郎"

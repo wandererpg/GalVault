@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c109706"
 type: "character"
-display_title: "嘉Y惠·C阿MP贝LL"
-title_zh: "嘉Y惠·C阿MP贝LL"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jaye Campbell"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c109706"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jaye Campbell"
   - "J"
 source_ids:
   vndb: "c109706"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c109706.webp"
 ---
 
-# 嘉Y惠·C阿MP贝LL
+# Jaye Campbell
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

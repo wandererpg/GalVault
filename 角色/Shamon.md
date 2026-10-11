@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c79330"
 type: "character"
-display_title: "夏莫恩"
-title_zh: "夏莫恩"
+display_title: "シャモン"
+title_zh: ""
 title_ja: "シャモン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c79330"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shamon"
-  - "シャモン"
 source_ids:
   vndb: "c79330"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c79330.webp"
 ---
 
-# 夏莫恩
+# シャモン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14356"
 type: "character"
-display_title: "须々木真子"
-title_zh: "须々木真子"
+display_title: "須々木 マコ"
+title_zh: ""
 title_ja: "須々木 マコ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14356"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Suzuki Mako"
-  - "須々木 マコ"
   - "Maggie Byrde (misnomer)"
   - "Magui Loiseau (misnomer)"
   - "鈴木 マコ"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c14356.webp"
 ---
 
-# 须々木真子
+# 須々木 マコ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

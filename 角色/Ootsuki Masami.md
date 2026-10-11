@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c112797"
 type: "character"
-display_title: "大槻真沙美"
-title_zh: "大槻真沙美"
+display_title: "大槻 まさみ"
+title_zh: ""
 title_ja: "大槻 まさみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c112797"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ootsuki Masami"
-  - "大槻 まさみ"
 source_ids:
   vndb: "c112797"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c112797.webp"
 ---
 
-# 大槻真沙美
+# 大槻 まさみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

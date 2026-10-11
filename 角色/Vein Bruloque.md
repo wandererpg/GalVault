@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c140340"
 type: "character"
-display_title: "V惠伊恩布露洛奥久"
-title_zh: "V惠伊恩布露洛奥久"
+display_title: "ヴェイン・ブルローク"
+title_zh: ""
 title_ja: "ヴェイン・ブルローク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c140340"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Vein Bruloque"
-  - "ヴェイン・ブルローク"
   - "Vayne"
 source_ids:
   vndb: "c140340"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c140340.webp"
 ---
 
-# V惠伊恩布露洛奥久
+# ヴェイン・ブルローク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

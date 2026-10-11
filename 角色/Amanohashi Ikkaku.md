@@ -5,7 +5,10 @@ display_title: "天之桥一鹤"
 title_zh: "天之桥一鹤"
 title_ja: "天之橋 一鶴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1330"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Amanohashi Ikkaku"
   - "天之橋 一鶴"

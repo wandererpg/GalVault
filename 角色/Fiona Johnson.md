@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c135339"
 type: "character"
-display_title: "F伊奥奈·乔H恩索恩"
-title_zh: "F伊奥奈·乔H恩索恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Fiona Johnson"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c135339"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Fiona Johnson"
 source_ids:
   vndb: "c135339"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c135339.webp"
 ---
 
-# F伊奥奈·乔H恩索恩
+# Fiona Johnson
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

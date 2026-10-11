@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c24530"
 type: "character"
-display_title: "嘉寿特伊伊努阿芽莉拉古拉恩吉惠"
-title_zh: "嘉寿特伊伊努阿芽莉拉古拉恩吉惠"
+display_title: "ジャスティーヌ・アメリ・ラグランジェ"
+title_zh: ""
 title_ja: "ジャスティーヌ・アメリ・ラグランジェ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c24530"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Justine Amelie Lagrange"
-  - "ジャスティーヌ・アメリ・ラグランジェ"
   - "Jusko"
 source_ids:
   vndb: "c24530"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c24530.webp"
 ---
 
-# 嘉寿特伊伊努阿芽莉拉古拉恩吉惠
+# ジャスティーヌ・アメリ・ラグランジェ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

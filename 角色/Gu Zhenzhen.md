@@ -5,7 +5,10 @@ display_title: "顾真真"
 title_zh: "顾真真"
 title_ja: "顾 真真"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c94167"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Gu Zhenzhen"
   - "顾 真真"

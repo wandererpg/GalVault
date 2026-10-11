@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c52607"
 type: "character"
-display_title: "莫兹努"
-title_zh: "莫兹努"
+display_title: "モズヌ"
+title_zh: ""
 title_ja: "モズヌ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c52607"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Moznu"
-  - "モズヌ"
 source_ids:
   vndb: "c52607"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c52607.webp"
 ---
 
-# 莫兹努
+# モズヌ
 
 
 ## 角色画像

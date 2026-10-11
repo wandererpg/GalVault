@@ -5,7 +5,10 @@ display_title: "森道梦明"
 title_zh: "森道梦明"
 title_ja: "森道 夢明"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c165910"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Morimichi Yumeakira"
   - "森道 夢明"

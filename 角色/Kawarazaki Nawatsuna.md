@@ -5,7 +5,10 @@ display_title: "河原崎绳纲"
 title_zh: "河原崎绳纲"
 title_ja: "河原崎 縄綱"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c292"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kawarazaki Nawatsuna"
   - "河原崎 縄綱"

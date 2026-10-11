@@ -5,7 +5,10 @@ display_title: "秋叶雄三"
 title_zh: "秋叶雄三"
 title_ja: "秋葉 雄三"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c141293"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Akbina Yuuzou"
   - "秋葉 雄三"

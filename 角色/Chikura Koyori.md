@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10940"
 type: "character"
-display_title: "千仓子代莉"
-title_zh: "千仓子代莉"
+display_title: "千倉 こより"
+title_zh: ""
 title_ja: "千倉 こより"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10940"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chikura Koyori"
-  - "千倉 こより"
 source_ids:
   vndb: "c10940"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c10940.webp"
 ---
 
-# 千仓子代莉
+# 千倉 こより
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

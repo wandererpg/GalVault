@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c167275"
 type: "character"
-display_title: "皮阿乃乃先生"
-title_zh: "皮阿乃乃先生"
+display_title: "ピアノの先生"
+title_zh: ""
 title_ja: "ピアノの先生"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c167275"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Piano Teacher"
-  - "ピアノの先生"
 source_ids:
   vndb: "c167275"
 source_urls:
   vndb: "https://vndb.org/c167275"
 ---
 
-# 皮阿乃乃先生
+# ピアノの先生
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

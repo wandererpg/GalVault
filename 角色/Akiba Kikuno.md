@@ -5,7 +5,10 @@ display_title: "秋叶菊乃"
 title_zh: "秋叶菊乃"
 title_ja: "秋葉 菊乃"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c165748"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Akiba Kikuno"
   - "秋葉 菊乃"

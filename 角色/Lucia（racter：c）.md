@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39739"
 type: "character"
-display_title: "露诗阿"
-title_zh: "露诗阿"
+display_title: "ルシア"
+title_zh: ""
 title_ja: "ルシア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39739"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lucia"
-  - "ルシア"
 source_ids:
   vndb: "c39739"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c39739.webp"
 ---
 
-# 露诗阿
+# ルシア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13600"
 type: "character"
-display_title: "羽兹蕾女"
-title_zh: "羽兹蕾女"
+display_title: "はずれ女"
+title_zh: ""
 title_ja: "はずれ女"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13600"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hazure Onna"
-  - "はずれ女"
 source_ids:
   vndb: "c13600"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c13600.webp"
 ---
 
-# 羽兹蕾女
+# はずれ女
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

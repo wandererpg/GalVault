@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c5295"
 type: "character"
-display_title: "惠美莉奈"
-title_zh: "惠美莉奈"
+display_title: "エミリナ"
+title_zh: ""
 title_ja: "エミリナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c5295"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Amyrina"
-  - "エミリナ"
 source_ids:
   vndb: "c5295"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c5295.webp"
 ---
 
-# 惠美莉奈
+# エミリナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

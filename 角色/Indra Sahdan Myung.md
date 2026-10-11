@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c186"
 type: "character"
-display_title: "伊恩堂拉沙阿达恩缪恩"
-title_zh: "伊恩堂拉沙阿达恩缪恩"
+display_title: "インドラ・サーダン・ミュン"
+title_zh: ""
 title_ja: "インドラ・サーダン・ミュン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c186"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Indra Sahdan Myung"
-  - "インドラ・サーダン・ミュン"
   - "Female Gorilla"
 source_ids:
   vndb: "c186"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c186.webp"
 ---
 
-# 伊恩堂拉沙阿达恩缪恩
+# インドラ・サーダン・ミュン
 
 
 ## 角色画像

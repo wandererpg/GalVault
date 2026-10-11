@@ -5,7 +5,10 @@ display_title: "箕轮斗々丸"
 title_zh: "箕轮斗々丸"
 title_ja: "箕輪 斗々丸"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c39874"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Minowa Totomaru"
   - "箕輪 斗々丸"

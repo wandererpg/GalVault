@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16037"
 type: "character"
-display_title: "向惠丘夏奈"
-title_zh: "向惠丘夏奈"
+display_title: "向ヶ丘 夏奈"
+title_zh: ""
 title_ja: "向ヶ丘 夏奈"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16037"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mukougaoka Kana"
-  - "向ヶ丘 夏奈"
   - "Nymph's Thigh"
 source_ids:
   vndb: "c16037"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c16037.webp"
 ---
 
-# 向惠丘夏奈
+# 向ヶ丘 夏奈
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

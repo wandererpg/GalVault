@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c136468"
 type: "character"
-display_title: "希津音乃奥沙恩"
-title_zh: "希津音乃奥沙恩"
+display_title: "キツネの奥さん"
+title_zh: ""
 title_ja: "キツネの奥さん"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136468"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lady"
-  - "キツネの奥さん"
 source_ids:
   vndb: "c136468"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c136468.webp"
 ---
 
-# 希津音乃奥沙恩
+# キツネの奥さん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

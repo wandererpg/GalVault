@@ -5,7 +5,10 @@ display_title: "宇喜多秀家"
 title_zh: "宇喜多秀家"
 title_ja: "宇喜多 秀家"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c40985"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ukita Hideie"
   - "宇喜多 秀家"

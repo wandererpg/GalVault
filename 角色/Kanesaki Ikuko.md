@@ -5,7 +5,10 @@ display_title: "金崎郁子"
 title_zh: "金崎郁子"
 title_ja: "金崎 郁子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c49629"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kanesaki Ikuko"
   - "金崎 郁子"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c80171"
 type: "character"
-display_title: "索露"
-title_zh: "索露"
+display_title: "ソル"
+title_zh: ""
 title_ja: "ソル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c80171"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sol"
-  - "ソル"
   - "Andou Kazuma"
 source_ids:
   vndb: "c80171"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c80171.webp"
 ---
 
-# 索露
+# ソル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

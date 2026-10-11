@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c52690"
 type: "character"
-display_title: "惠恩斗乌阿"
-title_zh: "惠恩斗乌阿"
+display_title: "エントゥア"
+title_zh: ""
 title_ja: "エントゥア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c52690"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Entua"
-  - "エントゥア"
 source_ids:
   vndb: "c52690"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c52690.webp"
 ---
 
-# 惠恩斗乌阿
+# エントゥア
 
 
 ## 角色画像

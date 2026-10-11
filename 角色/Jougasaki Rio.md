@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c83716"
 type: "character"
-display_title: "娘惠崎莉音"
-title_zh: "娘惠崎莉音"
+display_title: "嬢ヶ崎 莉音"
+title_zh: ""
 title_ja: "嬢ヶ崎 莉音"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c83716"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jougasaki Rio"
-  - "嬢ヶ崎 莉音"
 source_ids:
   vndb: "c83716"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c83716.webp"
 ---
 
-# 娘惠崎莉音
+# 嬢ヶ崎 莉音
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

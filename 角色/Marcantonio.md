@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12380"
 type: "character"
-display_title: "真露加恩斗尼奥"
-title_zh: "真露加恩斗尼奥"
+display_title: "マルカントニオ"
+title_zh: ""
 title_ja: "マルカントニオ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12380"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Marcantonio"
-  - "マルカントニオ"
 source_ids:
   vndb: "c12380"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c12380.webp"
 ---
 
-# 真露加恩斗尼奥
+# マルカントニオ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

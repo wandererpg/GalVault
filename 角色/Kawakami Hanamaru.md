@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c124658"
 type: "character"
-display_title: "加和加美​羽奈真露"
-title_zh: "加和加美​羽奈真露"
+display_title: "カワカミ​・ハナマル"
+title_zh: ""
 title_ja: "カワカミ​・ハナマル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124658"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kawakami Hanamaru"
-  - "カワカミ​・ハナマル"
 source_ids:
   vndb: "c124658"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c124658.webp"
 ---
 
-# 加和加美​羽奈真露
+# カワカミ​・ハナマル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

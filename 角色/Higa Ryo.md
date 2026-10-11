@@ -5,7 +5,10 @@ display_title: "比嘉凉"
 title_zh: "比嘉凉"
 title_ja: "比嘉 涼"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c104268"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Higa Ryo"
   - "比嘉 涼"

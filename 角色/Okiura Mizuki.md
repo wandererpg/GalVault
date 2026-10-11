@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c85763"
 type: "character"
-display_title: "冲浦美兹希"
-title_zh: "冲浦美兹希"
+display_title: "沖浦 みずき"
+title_zh: ""
 title_ja: "沖浦 みずき"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85763"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Okiura Mizuki"
-  - "沖浦 みずき"
   - "Mizuki Date"
   - "伊達"
   - "Date Mizuki"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c85763.webp"
 ---
 
-# 冲浦美兹希
+# 沖浦 みずき
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

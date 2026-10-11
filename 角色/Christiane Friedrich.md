@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c3510"
 type: "character"
-display_title: "久莉寿特伊阿阿音·芙莉伊堂莉日"
-title_zh: "久莉寿特伊阿阿音·芙莉伊堂莉日"
+display_title: "クリスティアーネ ・フリードリヒ"
+title_zh: ""
 title_ja: "クリスティアーネ ・フリードリヒ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c3510"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Christiane Friedrich"
-  - "クリスティアーネ ・フリードリヒ"
   - "クリ"
   - "Kuri"
   - "クリス"
@@ -22,7 +24,7 @@ source_urls:
 portrait_image: "assets/characters/c3510.webp"
 ---
 
-# 久莉寿特伊阿阿音·芙莉伊堂莉日
+# クリスティアーネ ・フリードリヒ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

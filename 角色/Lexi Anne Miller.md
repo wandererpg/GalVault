@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c143335"
 type: "character"
-display_title: "L惠X伊·安妮·美LL惠R"
-title_zh: "L惠X伊·安妮·美LL惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Lexi Anne Miller"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c143335"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Lexi Anne Miller"
 source_ids:
   vndb: "c143335"
 source_urls:
   vndb: "https://vndb.org/c143335"
 ---
 
-# L惠X伊·安妮·美LL惠R
+# Lexi Anne Miller
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

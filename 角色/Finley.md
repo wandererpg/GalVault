@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c143502"
 type: "character"
-display_title: "F伊恩L惠Y"
-title_zh: "F伊恩L惠Y"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Finley"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c143502"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Finley"
 source_ids:
   vndb: "c143502"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c143502.webp"
 ---
 
-# F伊恩L惠Y
+# Finley
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

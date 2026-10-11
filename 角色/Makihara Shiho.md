@@ -5,7 +5,10 @@ display_title: "牧原志帆"
 title_zh: "牧原志帆"
 title_ja: "牧原 志帆"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c32331"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Makihara Shiho"
   - "牧原 志帆"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8285"
 type: "character"
-display_title: "惠G雅阿"
-title_zh: "惠G雅阿"
+display_title: "エッガー"
+title_zh: ""
 title_ja: "エッガー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8285"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Egger"
-  - "エッガー"
   - "ジョゼフ・エッガー"
   - "Joseph Egger"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c8285.webp"
 ---
 
-# 惠G雅阿
+# エッガー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

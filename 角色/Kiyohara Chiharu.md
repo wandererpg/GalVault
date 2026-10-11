@@ -5,7 +5,10 @@ display_title: "清原千春"
 title_zh: "清原千春"
 title_ja: "清原 千春"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c3799"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kiyohara Chiharu"
   - "清原 千春"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c75557"
 type: "character"
-display_title: "莉莉加露诗特伊伊音"
-title_zh: "莉莉加露诗特伊伊音"
+display_title: "リリカ・ルシティーネ"
+title_zh: ""
 title_ja: "リリカ・ルシティーネ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c75557"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lilica Rcitine"
-  - "リリカ・ルシティーネ"
 source_ids:
   vndb: "c75557"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c75557.webp"
 ---
 
-# 莉莉加露诗特伊伊音
+# リリカ・ルシティーネ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

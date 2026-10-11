@@ -5,7 +5,10 @@ display_title: "右代宫雾江"
 title_zh: "右代宫雾江"
 title_ja: "右代宮 霧江"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1342"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ushiromiya Kyrie"
   - "右代宮 霧江"

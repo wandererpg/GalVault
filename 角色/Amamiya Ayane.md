@@ -5,7 +5,10 @@ display_title: "雨宫绫音"
 title_zh: "雨宫绫音"
 title_ja: "雨宮 綾音"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14089"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Amamiya Ayane"
   - "雨宮 綾音"

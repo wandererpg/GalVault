@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c89305"
 type: "character"
-display_title: "惠LL伊奥T·达美阿尼"
-title_zh: "惠LL伊奥T·达美阿尼"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Elliot Damiani"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c89305"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Elliot Damiani"
   - "Mozzie"
   - "Momo"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c89305.webp"
 ---
 
-# 惠LL伊奥T·达美阿尼
+# Elliot Damiani
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

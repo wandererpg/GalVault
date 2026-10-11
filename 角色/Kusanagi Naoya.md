@@ -5,7 +5,10 @@ display_title: "草薙直哉"
 title_zh: "草薙直哉"
 title_ja: "草薙 直哉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c33065"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kusanagi Naoya"
   - "草薙 直哉"

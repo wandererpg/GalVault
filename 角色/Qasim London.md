@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c113882"
 type: "character"
-display_title: "Q阿S伊M·L奥恩堂恩"
-title_zh: "Q阿S伊M·L奥恩堂恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Qasim London"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c113882"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Qasim London"
   - "Detective London"
 source_ids:
   vndb: "c113882"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c113882.webp"
 ---
 
-# Q阿S伊M·L奥恩堂恩
+# Qasim London
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

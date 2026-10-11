@@ -5,7 +5,10 @@ display_title: "潜入搜查官"
 title_zh: "潜入搜查官"
 title_ja: "潜入捜査官"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c129747"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sen'nyuu Sousa-kan"
   - "潜入捜査官"

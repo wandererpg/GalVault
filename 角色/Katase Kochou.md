@@ -5,7 +5,10 @@ display_title: "片濑胡蝶"
 title_zh: "片濑胡蝶"
 title_ja: "片瀬 胡蝶"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c11619"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Katase Kochou"
   - "片瀬 胡蝶"

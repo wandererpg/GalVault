@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c69689"
 type: "character"
-display_title: "芙美子S·巴BY"
-title_zh: "芙美子S·巴BY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Fumiko's Baby"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c69689"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Fumiko's Baby"
 source_ids:
   vndb: "c69689"
 source_urls:
   vndb: "https://vndb.org/c69689"
 ---
 
-# 芙美子S·巴BY
+# Fumiko's Baby
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

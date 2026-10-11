@@ -5,7 +5,10 @@ display_title: "渡濑乙叶"
 title_zh: "渡濑乙叶"
 title_ja: "渡瀬 乙葉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c84601"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Watase Otoha"
   - "渡瀬 乙葉"

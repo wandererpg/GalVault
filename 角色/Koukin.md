@@ -5,7 +5,10 @@ display_title: "公瑾"
 title_zh: "公瑾"
 title_ja: "公瑾"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c32191"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Koukin"
   - "周 公瑾"

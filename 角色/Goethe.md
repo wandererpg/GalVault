@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c77105"
 type: "character"
-display_title: "格惠特"
-title_zh: "格惠特"
+display_title: "ゲーテ"
+title_zh: ""
 title_ja: "ゲーテ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c77105"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Goethe"
-  - "ゲーテ"
   - "Johann Wolfgang von Goethe"
   - "ヨハン・ヴォルフガング・フォン・ゲーテ"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c77105.webp"
 ---
 
-# 格惠特
+# ゲーテ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

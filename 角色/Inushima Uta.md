@@ -5,7 +5,10 @@ display_title: "犬嶌谣"
 title_zh: "犬嶌谣"
 title_ja: "犬嶌 謡"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c24981"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Inushima Uta"
   - "犬嶌 謡"

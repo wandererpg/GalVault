@@ -5,7 +5,10 @@ display_title: "春日真由美"
 title_zh: "春日真由美"
 title_ja: "春日 真由美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c46884"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kasuga Mayumi"
   - "春日 真由美"

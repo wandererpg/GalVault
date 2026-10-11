@@ -5,7 +5,10 @@ display_title: "八木泽雪广"
 title_zh: "八木泽雪广"
 title_ja: "八木沢 雪広"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c48098"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yagisawa Yukihiro"
   - "八木沢 雪広"

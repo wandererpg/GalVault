@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c37801"
 type: "character"
-display_title: "美加兹千"
-title_zh: "美加兹千"
+display_title: "ミカヅチ"
+title_zh: ""
 title_ja: "ミカヅチ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37801"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mikazuchi"
-  - "ミカヅチ"
 source_ids:
   vndb: "c37801"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c37801.webp"
 ---
 
-# 美加兹千
+# ミカヅチ
 
 
 ## 角色画像

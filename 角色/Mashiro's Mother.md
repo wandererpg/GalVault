@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c116364"
 type: "character"
-display_title: "真白乃母"
-title_zh: "真白乃母"
+display_title: "真白の母"
+title_zh: ""
 title_ja: "真白の母"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116364"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mashiro's Mother"
-  - "真白の母"
 source_ids:
   vndb: "c116364"
 source_urls:
   vndb: "https://vndb.org/c116364"
 ---
 
-# 真白乃母
+# 真白の母
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

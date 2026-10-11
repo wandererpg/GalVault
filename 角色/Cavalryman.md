@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c97443"
 type: "character"
-display_title: "C阿V阿LRY真恩"
-title_zh: "C阿V阿LRY真恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Cavalryman"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97443"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Cavalryman"
 source_ids:
   vndb: "c97443"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c97443.webp"
 ---
 
-# C阿V阿LRY真恩
+# Cavalryman
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26064"
 type: "character"
-display_title: "布莉吉T斗濑恩斗蕾阿惠音诗伊"
-title_zh: "布莉吉T斗濑恩斗蕾阿惠音诗伊"
+display_title: "ブリジット・セントレア・ヘネシー"
+title_zh: ""
 title_ja: "ブリジット・セントレア・ヘネシー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26064"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Brigitte Centrair Hennessy"
-  - "ブリジット・セントレア・ヘネシー"
 source_ids:
   vndb: "c26064"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c26064.webp"
 ---
 
-# 布莉吉T斗濑恩斗蕾阿惠音诗伊
+# ブリジット・セントレア・ヘネシー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

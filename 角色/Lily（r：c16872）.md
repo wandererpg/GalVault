@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16872"
 type: "character"
-display_title: "莉莉伊"
-title_zh: "莉莉伊"
+display_title: "リリィ"
+title_zh: ""
 title_ja: "リリィ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16872"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lily"
-  - "リリィ"
   - "少女リリィ"
 source_ids:
   vndb: "c16872"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c16872.webp"
 ---
 
-# 莉莉伊
+# リリィ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "星野此方"
 title_zh: "星野此方"
 title_ja: "星野 此方"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c36136"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hoshino Konata"
   - "星野 此方"

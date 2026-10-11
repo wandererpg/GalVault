@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c174076"
 type: "character"
-display_title: "优伊·雅真诗太"
-title_zh: "优伊·雅真诗太"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Yui Yamashita"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c174076"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Yui Yamashita"
 source_ids:
   vndb: "c174076"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c174076.webp"
 ---
 
-# 优伊·雅真诗太
+# Yui Yamashita
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

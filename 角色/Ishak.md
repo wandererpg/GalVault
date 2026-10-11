@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c107605"
 type: "character"
-display_title: "伊夏久"
-title_zh: "伊夏久"
+display_title: "イシャク"
+title_zh: ""
 title_ja: "イシャク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c107605"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ishak"
-  - "イシャク"
 source_ids:
   vndb: "c107605"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c107605.webp"
 ---
 
-# 伊夏久
+# イシャク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

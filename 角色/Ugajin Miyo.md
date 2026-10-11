@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c1319"
 type: "character"
-display_title: "宇贺神美代"
-title_zh: "宇贺神美代"
+display_title: "宇賀神 みよ"
+title_zh: ""
 title_ja: "宇賀神 みよ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c1319"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ugajin Miyo"
-  - "宇賀神 みよ"
 source_ids:
   vndb: "c1319"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c1319.webp"
 ---
 
-# 宇贺神美代
+# 宇賀神 みよ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

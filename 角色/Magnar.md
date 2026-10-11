@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c80190"
 type: "character"
-display_title: "真G奈R"
-title_zh: "真G奈R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Magnar"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c80190"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Magnar"
 source_ids:
   vndb: "c80190"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c80190.webp"
 ---
 
-# 真G奈R
+# Magnar
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

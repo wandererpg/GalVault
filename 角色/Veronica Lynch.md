@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c112179"
 type: "character"
-display_title: "V惠洛尼C阿·LY恩CH"
-title_zh: "V惠洛尼C阿·LY恩CH"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Veronica Lynch"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c112179"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Veronica Lynch"
 source_ids:
   vndb: "c112179"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c112179.webp"
 ---
 
-# V惠洛尼C阿·LY恩CH
+# Veronica Lynch
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

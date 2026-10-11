@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c48364"
 type: "character"
-display_title: "加莉恩博尼莉恩久洛恩芽莉恩"
-title_zh: "加莉恩博尼莉恩久洛恩芽莉恩"
+display_title: "カリン・ボニリン・クロンメリン"
+title_zh: ""
 title_ja: "カリン・ボニリン・クロンメリン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c48364"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kalin Bonnylyn Crommelin"
-  - "カリン・ボニリン・クロンメリン"
 source_ids:
   vndb: "c48364"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c48364.webp"
 ---
 
-# 加莉恩博尼莉恩久洛恩芽莉恩
+# カリン・ボニリン・クロンメリン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

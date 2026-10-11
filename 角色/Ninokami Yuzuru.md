@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30427"
 type: "character"
-display_title: "二乃神弓鹤"
-title_zh: "二乃神弓鹤"
+display_title: "二ノ神 弓鶴"
+title_zh: ""
 title_ja: "二ノ神 弓鶴"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30427"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ninokami Yuzuru"
-  - "二ノ神 弓鶴"
 source_ids:
   vndb: "c30427"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30427.webp"
 ---
 
-# 二乃神弓鹤
+# 二ノ神 弓鶴
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

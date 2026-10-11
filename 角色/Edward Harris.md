@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c103772"
 type: "character"
-display_title: "惠堂和阿堂羽莉寿"
-title_zh: "惠堂和阿堂羽莉寿"
+display_title: "エドワード・ハリス"
+title_zh: ""
 title_ja: "エドワード・ハリス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103772"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Edward Harris"
-  - "エドワード・ハリス"
   - "Ed"
   - "エド"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c103772.webp"
 ---
 
-# 惠堂和阿堂羽莉寿
+# エドワード・ハリス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

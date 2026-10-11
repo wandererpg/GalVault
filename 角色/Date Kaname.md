@@ -5,7 +5,10 @@ display_title: "伊达键"
 title_zh: "伊达键"
 title_ja: "伊達 鍵"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c85451"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Date Kaname"
   - "伊達 鍵"

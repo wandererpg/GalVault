@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c143495"
 type: "character"
-display_title: "真RC惠L"
-title_zh: "真RC惠L"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Marcel"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c143495"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Marcel"
 source_ids:
   vndb: "c143495"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c143495.webp"
 ---
 
-# 真RC惠L
+# Marcel
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

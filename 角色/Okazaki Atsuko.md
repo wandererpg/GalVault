@@ -5,7 +5,10 @@ display_title: "冈崎敦子"
 title_zh: "冈崎敦子"
 title_ja: "岡崎 敦子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c148727"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Okazaki Atsuko"
   - "岡崎 敦子"

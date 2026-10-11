@@ -5,7 +5,10 @@ display_title: "平德子"
 title_zh: "平德子"
 title_ja: "平 徳子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c122159"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Taira no Tokuko"
   - "平 徳子"

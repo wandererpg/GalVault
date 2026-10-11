@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c28944"
 type: "character"
-display_title: "阿伊扎K久·和伊兹芽露"
-title_zh: "阿伊扎K久·和伊兹芽露"
+display_title: "アイザック ワイズメル"
+title_zh: ""
 title_ja: "アイザック ワイズメル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c28944"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Isaac Wisemel"
-  - "アイザック ワイズメル"
 source_ids:
   vndb: "c28944"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c28944.webp"
 ---
 
-# 阿伊扎K久·和伊兹芽露
+# アイザック ワイズメル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c132237"
 type: "character"
-display_title: "GL奥莉阿"
-title_zh: "GL奥莉阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Gloria"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132237"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Gloria"
 source_ids:
   vndb: "c132237"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c132237.webp"
 ---
 
-# GL奥莉阿
+# Gloria
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

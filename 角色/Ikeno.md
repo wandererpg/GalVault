@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c42276"
 type: "character"
-display_title: "伊惠乃"
-title_zh: "伊惠乃"
+display_title: "イケノ"
+title_zh: ""
 title_ja: "イケノ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c42276"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ikeno"
-  - "イケノ"
 source_ids:
   vndb: "c42276"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c42276.webp"
 ---
 
-# 伊惠乃
+# イケノ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

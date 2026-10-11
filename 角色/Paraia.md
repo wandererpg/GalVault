@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c140730"
 type: "character"
-display_title: "帕拉伊阿"
-title_zh: "帕拉伊阿"
+display_title: "パライア"
+title_zh: ""
 title_ja: "パライア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c140730"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Paraia"
-  - "パライア"
   - "フィウシア (Fiushia)"
 source_ids:
   vndb: "c140730"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c140730.webp"
 ---
 
-# 帕拉伊阿
+# パライア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

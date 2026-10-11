@@ -5,7 +5,10 @@ display_title: "久住美里"
 title_zh: "久住美里"
 title_ja: "久住 美里"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c40541"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kuzumi Misato"
   - "久住 美里"

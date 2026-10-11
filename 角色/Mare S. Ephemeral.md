@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c3930"
 type: "character"
-display_title: "芽阿＝S＝惠F惠芽拉露"
-title_zh: "芽阿＝S＝惠F惠芽拉露"
+display_title: "メア＝S＝エフェメラル"
+title_zh: ""
 title_ja: "メア＝S＝エフェメラル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c3930"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mare S. Ephemeral"
-  - "メア＝S＝エフェメラル"
   - "Mea"
   - "Spring Ephemeral"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c3930.webp"
 ---
 
-# 芽阿＝S＝惠F惠芽拉露
+# メア＝S＝エフェメラル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

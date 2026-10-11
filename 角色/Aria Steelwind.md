@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c127693"
 type: "character"
-display_title: "艾莉亚·S特惠LW伊恩D"
-title_zh: "艾莉亚·S特惠LW伊恩D"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Aria Steelwind"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127693"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Aria Steelwind"
 source_ids:
   vndb: "c127693"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c127693.webp"
 ---
 
-# 艾莉亚·S特惠LW伊恩D
+# Aria Steelwind
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

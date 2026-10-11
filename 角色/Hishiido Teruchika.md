@@ -5,7 +5,10 @@ display_title: "菱井户辉周"
 title_zh: "菱井户辉周"
 title_ja: "菱井戸輝周"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c137866"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hishiido Teruchika"
   - "菱井戸輝周"

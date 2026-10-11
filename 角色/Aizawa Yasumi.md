@@ -5,7 +5,10 @@ display_title: "相泽保美"
 title_zh: "相泽保美"
 title_ja: "相沢 保美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c353"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Aizawa Yasumi"
   - "相沢 保美"

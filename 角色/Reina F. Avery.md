@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c22046"
 type: "character"
-display_title: "玲奈・F惠伊V阿莉伊"
-title_zh: "玲奈・F惠伊V阿莉伊"
+display_title: "玲奈・F・エイヴァリー"
+title_zh: ""
 title_ja: "玲奈・F・エイヴァリー"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c22046"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Reina F. Avery"
-  - "玲奈・F・エイヴァリー"
 source_ids:
   vndb: "c22046"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c22046.webp"
 ---
 
-# 玲奈・F惠伊V阿莉伊
+# 玲奈・F・エイヴァリー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

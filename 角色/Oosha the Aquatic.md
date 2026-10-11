@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61270"
 type: "character"
-display_title: "水生人乌乌夏"
-title_zh: "水生人乌乌夏"
+display_title: "水生人 ウーシャ"
+title_zh: ""
 title_ja: "水生人 ウーシャ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61270"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Oosha the Aquatic"
-  - "水生人 ウーシャ"
 source_ids:
   vndb: "c61270"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61270.webp"
 ---
 
-# 水生人乌乌夏
+# 水生人 ウーシャ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c131396"
 type: "character"
-display_title: "L乌C阿S"
-title_zh: "L乌C阿S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Lucas"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c131396"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Lucas"
 source_ids:
   vndb: "c131396"
 source_urls:
   vndb: "https://vndb.org/c131396"
 ---
 
-# L乌C阿S
+# Lucas
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

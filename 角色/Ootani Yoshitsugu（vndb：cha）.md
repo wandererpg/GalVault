@@ -5,7 +5,10 @@ display_title: "大谷吉继"
 title_zh: "大谷吉继"
 title_ja: "大谷 吉継"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c31611"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ootani Yoshitsugu"
   - "大谷 吉継"

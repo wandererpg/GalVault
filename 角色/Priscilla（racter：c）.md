@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c161453"
 type: "character"
-display_title: "普莉诗拉"
-title_zh: "普莉诗拉"
+display_title: "プリシラ"
+title_zh: ""
 title_ja: "プリシラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161453"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Priscilla"
-  - "プリシラ"
 source_ids:
   vndb: "c161453"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c161453.webp"
 ---
 
-# 普莉诗拉
+# プリシラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

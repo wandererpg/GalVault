@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c132201"
 type: "character"
-display_title: "P莉恩C伊帕L·巴RCKLY"
-title_zh: "P莉恩C伊帕L·巴RCKLY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Principal Barckly"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132201"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Principal Barckly"
 source_ids:
   vndb: "c132201"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c132201.webp"
 ---
 
-# P莉恩C伊帕L·巴RCKLY
+# Principal Barckly
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

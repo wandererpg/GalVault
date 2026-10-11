@@ -5,7 +5,10 @@ display_title: "柿崎弥次郎柘榴景家"
 title_zh: "柿崎弥次郎柘榴景家"
 title_ja: "柿崎 弥次郎 柘榴 景家"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20666"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kakizaki Yajirou Zakuro Kageie"
   - "柿崎 弥次郎 柘榴 景家"

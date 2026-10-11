@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c155436"
 type: "character"
-display_title: "DR·F阿乌ST"
-title_zh: "DR·F阿乌ST"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Dr. Faust"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155436"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Dr. Faust"
 source_ids:
   vndb: "c155436"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c155436.webp"
 ---
 
-# DR·F阿乌ST
+# Dr. Faust
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

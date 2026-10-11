@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98073"
 type: "character"
-display_title: "月岛加拉寿"
-title_zh: "月岛加拉寿"
+display_title: "月島 カラス"
+title_zh: ""
 title_ja: "月島 カラス"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98073"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tsukishima Karasu"
-  - "月島 カラス"
 source_ids:
   vndb: "c98073"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98073.webp"
 ---
 
-# 月岛加拉寿
+# 月島 カラス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

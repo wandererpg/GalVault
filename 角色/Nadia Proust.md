@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c97367"
 type: "character"
-display_title: "奈D伊阿普露乌寿斗"
-title_zh: "奈D伊阿普露乌寿斗"
+display_title: "ナディア・プルースト"
+title_zh: ""
 title_ja: "ナディア・プルースト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97367"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nadia Proust"
-  - "ナディア・プルースト"
 source_ids:
   vndb: "c97367"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c97367.webp"
 ---
 
-# 奈D伊阿普露乌寿斗
+# ナディア・プルースト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

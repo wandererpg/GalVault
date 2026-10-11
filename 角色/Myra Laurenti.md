@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c170289"
 type: "character"
-display_title: "MY拉·L阿乌蕾恩T伊"
-title_zh: "MY拉·L阿乌蕾恩T伊"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Myra Laurenti"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c170289"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Myra Laurenti"
 source_ids:
   vndb: "c170289"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c170289.webp"
 ---
 
-# MY拉·L阿乌蕾恩T伊
+# Myra Laurenti
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

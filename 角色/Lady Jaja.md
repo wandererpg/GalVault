@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c146641"
 type: "character"
-display_title: "L阿DY·嘉嘉"
-title_zh: "L阿DY·嘉嘉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Lady Jaja"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c146641"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Lady Jaja"
   - "Wonderful Golden Rabbit"
 source_ids:
   vndb: "c146641"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c146641.webp"
 ---
 
-# L阿DY·嘉嘉
+# Lady Jaja
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

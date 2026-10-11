@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13887"
 type: "character"
-display_title: "绯乃宫黎"
-title_zh: "绯乃宫黎"
+display_title: "緋ノ宮 黎"
+title_zh: ""
 title_ja: "緋ノ宮 黎"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13887"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hinomiya Rei"
-  - "緋ノ宮 黎"
 source_ids:
   vndb: "c13887"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c13887.webp"
 ---
 
-# 绯乃宫黎
+# 緋ノ宮 黎
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

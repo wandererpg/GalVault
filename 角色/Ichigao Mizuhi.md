@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c21052"
 type: "character"
-display_title: "一惠尾瑞阳"
-title_zh: "一惠尾瑞阳"
+display_title: "一ヶ尾 瑞陽"
+title_zh: ""
 title_ja: "一ヶ尾 瑞陽"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c21052"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ichigao Mizuhi"
-  - "一ヶ尾 瑞陽"
   - "Bandit Captain"
   - "Bandit Leader"
   - "山賊の首領"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c21052.webp"
 ---
 
-# 一惠尾瑞阳
+# 一ヶ尾 瑞陽
 
 
 ## 角色画像

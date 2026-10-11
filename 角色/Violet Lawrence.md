@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c106573"
 type: "character"
-display_title: "V伊奥L惠T·L阿W蕾恩C惠"
-title_zh: "V伊奥L惠T·L阿W蕾恩C惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Violet Lawrence"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c106573"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Violet Lawrence"
   - "Vi"
 source_ids:
   vndb: "c106573"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c106573.webp"
 ---
 
-# V伊奥L惠T·L阿W蕾恩C惠
+# Violet Lawrence
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

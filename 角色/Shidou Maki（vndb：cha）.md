@@ -5,7 +5,10 @@ display_title: "狮童真希"
 title_zh: "狮童真希"
 title_ja: "獅童 真希"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c87777"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shidou Maki"
   - "獅童 真希"

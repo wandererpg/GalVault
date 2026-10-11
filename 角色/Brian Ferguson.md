@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c137201"
 type: "character"
-display_title: "B莉阿恩·F惠R古索恩"
-title_zh: "B莉阿恩·F惠R古索恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Brian Ferguson"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c137201"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Brian Ferguson"
 source_ids:
   vndb: "c137201"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c137201.webp"
 ---
 
-# B莉阿恩·F惠R古索恩
+# Brian Ferguson
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

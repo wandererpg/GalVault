@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c146638"
 type: "character"
-display_title: "D伊V阿"
-title_zh: "D伊V阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Diva"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c146638"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Diva"
 source_ids:
   vndb: "c146638"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c146638.webp"
 ---
 
-# D伊V阿
+# Diva
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

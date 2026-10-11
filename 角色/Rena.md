@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c100437"
 type: "character"
-display_title: "蕾奈"
-title_zh: "蕾奈"
+display_title: "Рена"
+title_zh: ""
 title_ja: "Рена"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c100437"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rena"
-  - "Рена"
 source_ids:
   vndb: "c100437"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c100437.webp"
 ---
 
-# 蕾奈
+# Рена
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

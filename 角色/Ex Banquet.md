@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c52708"
 type: "character"
-display_title: "惠久寿巴恩惠T斗"
-title_zh: "惠久寿巴恩惠T斗"
+display_title: "エクス・バンケット"
+title_zh: ""
 title_ja: "エクス・バンケット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c52708"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ex Banquet"
-  - "エクス・バンケット"
   - "Literary General"
 source_ids:
   vndb: "c52708"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c52708.webp"
 ---
 
-# 惠久寿巴恩惠T斗
+# エクス・バンケット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

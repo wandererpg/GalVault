@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c37031"
 type: "character"
-display_title: "真伊＝奈津芽"
-title_zh: "真伊＝奈津芽"
+display_title: "マイ＝ナツメ"
+title_zh: ""
 title_ja: "マイ＝ナツメ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37031"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mai Natsume"
-  - "マイ＝ナツメ"
   - "Mai Hazuki"
   - "Maimai"
   - "Ribbon Girl"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c37031.webp"
 ---
 
-# 真伊＝奈津芽
+# マイ＝ナツメ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

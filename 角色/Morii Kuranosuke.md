@@ -5,7 +5,10 @@ display_title: "森井藏之助"
 title_zh: "森井藏之助"
 title_ja: "森井 蔵之助"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c6227"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Morii Kuranosuke"
   - "森井 蔵之助"

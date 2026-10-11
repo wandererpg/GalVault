@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c53112"
 type: "character"
-display_title: "夜长阿恩吉伊"
-title_zh: "夜长阿恩吉伊"
+display_title: "夜長 アンジー"
+title_zh: ""
 title_ja: "夜長 アンジー"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c53112"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yonaga Angie"
-  - "夜長 アンジー"
   - "Ultimate Artist"
   - "超高校級の「美術部」"
   - "Super High School Level Art Club Member"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c53112.webp"
 ---
 
-# 夜长阿恩吉伊
+# 夜長 アンジー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

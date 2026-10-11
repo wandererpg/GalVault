@@ -5,7 +5,10 @@ display_title: "蒲田源治"
 title_zh: "蒲田源治"
 title_ja: "蒲田 源治"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c65720"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kamata Genji"
   - "蒲田 源治"

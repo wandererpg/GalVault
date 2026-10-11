@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c35977"
 type: "character"
-display_title: "帕太帕太"
-title_zh: "帕太帕太"
+display_title: "パタパタ"
+title_zh: ""
 title_ja: "パタパタ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c35977"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Patpat"
-  - "パタパタ"
 source_ids:
   vndb: "c35977"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c35977.webp"
 ---
 
-# 帕太帕太
+# パタパタ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

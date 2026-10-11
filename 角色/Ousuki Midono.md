@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c69145"
 type: "character"
-display_title: "樱守姫美堂乃"
-title_zh: "樱守姫美堂乃"
+display_title: "桜守姫 みどの"
+title_zh: ""
 title_ja: "桜守姫 みどの"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c69145"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ousuki Midono"
-  - "桜守姫 みどの"
 source_ids:
   vndb: "c69145"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c69145.webp"
 ---
 
-# 樱守姫美堂乃
+# 桜守姫 みどの
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

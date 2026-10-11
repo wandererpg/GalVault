@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c163260"
 type: "character"
-display_title: "芙露雅·斗莫乃莉"
-title_zh: "芙露雅·斗莫乃莉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Furuya Tomonori"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c163260"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Furuya Tomonori"
   - "oldman"
 source_ids:
   vndb: "c163260"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c163260.webp"
 ---
 
-# 芙露雅·斗莫乃莉
+# Furuya Tomonori
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

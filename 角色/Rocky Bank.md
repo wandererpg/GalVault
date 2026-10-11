@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98809"
 type: "character"
-display_title: "洛K希伊巴恩久"
-title_zh: "洛K希伊巴恩久"
+display_title: "ロッキー・バンク"
+title_zh: ""
 title_ja: "ロッキー・バンク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98809"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rocky Bank"
-  - "ロッキー・バンク"
 source_ids:
   vndb: "c98809"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98809.webp"
 ---
 
-# 洛K希伊巴恩久
+# ロッキー・バンク
 
 
 ## 角色画像

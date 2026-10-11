@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c47405"
 type: "character"
-display_title: "初音惠丘优衣"
-title_zh: "初音惠丘优衣"
+display_title: "初音ヶ丘 優衣"
+title_zh: ""
 title_ja: "初音ヶ丘 優衣"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c47405"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hatsunegaoka Yui"
-  - "初音ヶ丘 優衣"
 source_ids:
   vndb: "c47405"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c47405.webp"
 ---
 
-# 初音惠丘优衣
+# 初音ヶ丘 優衣
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

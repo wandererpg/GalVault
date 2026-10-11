@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c69533"
 type: "character"
-display_title: "女未寿美"
-title_zh: "女未寿美"
+display_title: "女未 すみ"
+title_zh: ""
 title_ja: "女未 すみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c69533"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Onami Sumi"
-  - "女未 すみ"
   - "みー"
 source_ids:
   vndb: "c69533"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c69533.webp"
 ---
 
-# 女未寿美
+# 女未 すみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

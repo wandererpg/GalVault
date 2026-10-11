@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c165817"
 type: "character"
-display_title: "土桥子真"
-title_zh: "土桥子真"
+display_title: "土橋 こま"
+title_zh: ""
 title_ja: "土橋 こま"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c165817"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tsuchihashi Koma"
-  - "土橋 こま"
   - "土橋ばあ"
   - "Tsuchihashi Baa"
 source_ids:
@@ -17,7 +19,7 @@ source_urls:
   vndb: "https://vndb.org/c165817"
 ---
 
-# 土桥子真
+# 土橋 こま
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

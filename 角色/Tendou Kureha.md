@@ -5,7 +5,10 @@ display_title: "天堂红华"
 title_zh: "天堂红华"
 title_ja: "天堂 紅華"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c123164"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tendou Kureha"
   - "天堂 紅華"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c72206"
 type: "character"
-display_title: "F惠露斗恩"
-title_zh: "F惠露斗恩"
+display_title: "フェルトン"
+title_zh: ""
 title_ja: "フェルトン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c72206"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Felton"
-  - "フェルトン"
   - "Prince Fe"
 source_ids:
   vndb: "c72206"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c72206.webp"
 ---
 
-# F惠露斗恩
+# フェルトン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

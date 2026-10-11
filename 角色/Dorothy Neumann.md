@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c630"
 type: "character"
-display_title: "堂洛诗伊乃伊真恩"
-title_zh: "堂洛诗伊乃伊真恩"
+display_title: "ドロシー・ノイマン"
+title_zh: ""
 title_ja: "ドロシー・ノイマン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c630"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Dorothy Neumann"
-  - "ドロシー・ノイマン"
 source_ids:
   vndb: "c630"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c630.webp"
 ---
 
-# 堂洛诗伊乃伊真恩
+# ドロシー・ノイマン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

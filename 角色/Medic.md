@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c136627"
 type: "character"
-display_title: "芽D伊C"
-title_zh: "芽D伊C"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Medic"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136627"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Medic"
 source_ids:
   vndb: "c136627"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c136627.webp"
 ---
 
-# 芽D伊C
+# Medic
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

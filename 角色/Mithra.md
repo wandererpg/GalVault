@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c161301"
 type: "character"
-display_title: "美寿拉"
-title_zh: "美寿拉"
+display_title: "ミスラ"
+title_zh: ""
 title_ja: "ミスラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161301"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mithra"
-  - "ミスラ"
 source_ids:
   vndb: "c161301"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c161301.webp"
 ---
 
-# 美寿拉
+# ミスラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

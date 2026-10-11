@@ -5,7 +5,10 @@ display_title: "独眼流政宗"
 title_zh: "独眼流政宗"
 title_ja: "独眼流 政宗"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c120938"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Dokuganryuu Masamune"
   - "独眼流 政宗"

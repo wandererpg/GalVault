@@ -5,7 +5,10 @@ display_title: "二见原美里"
 title_zh: "二见原美里"
 title_ja: "二見原 美里"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c163324"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Futamihara Misato"
   - "二見原 美里"

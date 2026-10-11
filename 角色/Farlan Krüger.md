@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c173806"
 type: "character"
-display_title: "F阿RL阿恩·KR格R"
-title_zh: "F阿RL阿恩·KR格R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Farlan Krüger"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c173806"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Farlan Krüger"
 source_ids:
   vndb: "c173806"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c173806.webp"
 ---
 
-# F阿RL阿恩·KR格R
+# Farlan Krüger
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

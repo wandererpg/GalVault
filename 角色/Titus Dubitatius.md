@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c126519"
 type: "character"
-display_title: "T伊T乌S·D乌比太T伊乌S"
-title_zh: "T伊T乌S·D乌比太T伊乌S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Titus Dubitatius"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126519"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Titus Dubitatius"
 source_ids:
   vndb: "c126519"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c126519.webp"
 ---
 
-# T伊T乌S·D乌比太T伊乌S
+# Titus Dubitatius
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16417"
 type: "character"
-display_title: "右代宫贝阿斗莉伊C惠"
-title_zh: "右代宫贝阿斗莉伊C惠"
+display_title: "右代宮 ベアトリーチェ"
+title_zh: ""
 title_ja: "右代宮 ベアトリーチェ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16417"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ushiromiya Beatrice"
-  - "右代宮 ベアトリーチェ"
   - "Beatrice II"
   - "Kuwadorian-Beatrice"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c16417.webp"
 ---
 
-# 右代宫贝阿斗莉伊C惠
+# 右代宮 ベアトリーチェ
 
 
 ## 角色画像

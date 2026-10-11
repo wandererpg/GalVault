@@ -5,7 +5,10 @@ display_title: "原田望"
 title_zh: "原田望"
 title_ja: "原田 望"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c40543"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Harada Nozomi"
   - "原田 望"

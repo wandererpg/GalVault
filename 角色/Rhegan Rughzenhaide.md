@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c62582"
 type: "character"
-display_title: "莉雅恩露泽恩羽伊堂"
-title_zh: "莉雅恩露泽恩羽伊堂"
+display_title: "リガン・ルゼンハイド"
+title_zh: ""
 title_ja: "リガン・ルゼンハイド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c62582"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rhegan Rughzenhaide"
-  - "リガン・ルゼンハイド"
 source_ids:
   vndb: "c62582"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c62582.webp"
 ---
 
-# 莉雅恩露泽恩羽伊堂
+# リガン・ルゼンハイド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

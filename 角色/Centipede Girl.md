@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125954"
 type: "character"
-display_title: "梦加德娘"
-title_zh: "梦加德娘"
+display_title: "ムカデ娘"
+title_zh: ""
 title_ja: "ムカデ娘"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125954"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Centipede Girl"
-  - "ムカデ娘"
   - "Vanessa"
 source_ids:
   vndb: "c125954"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c125954.webp"
 ---
 
-# 梦加德娘
+# ムカデ娘
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

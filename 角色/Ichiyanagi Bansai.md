@@ -5,7 +5,10 @@ display_title: "一柳万才"
 title_zh: "一柳万才"
 title_ja: "一柳 万才"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c19567"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ichiyanagi Bansai"
   - "一柳 万才"

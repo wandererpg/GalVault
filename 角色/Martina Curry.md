@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98436"
 type: "character"
-display_title: "真露千奈加蕾惠"
-title_zh: "真露千奈加蕾惠"
+display_title: "マルチナ・カレー"
+title_zh: ""
 title_ja: "マルチナ・カレー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98436"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Martina Curry"
-  - "マルチナ・カレー"
 source_ids:
   vndb: "c98436"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98436.webp"
 ---
 
-# 真露千奈加蕾惠
+# マルチナ・カレー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

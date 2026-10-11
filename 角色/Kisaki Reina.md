@@ -5,7 +5,10 @@ display_title: "妃玲奈"
 title_zh: "妃玲奈"
 title_ja: "妃 玲奈"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c64303"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kisaki Reina"
   - "妃 玲奈"

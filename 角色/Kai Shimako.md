@@ -5,7 +5,10 @@ display_title: "甲斐志摩子"
 title_zh: "甲斐志摩子"
 title_ja: "甲斐 志摩子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c42846"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kai Shimako"
   - "甲斐 志摩子"

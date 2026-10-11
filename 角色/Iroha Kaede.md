@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c11299"
 type: "character"
-display_title: "伊吕波加惠德"
-title_zh: "伊吕波加惠德"
+display_title: "伊呂波 かえで"
+title_zh: ""
 title_ja: "伊呂波 かえで"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c11299"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Iroha Kaede"
-  - "伊呂波 かえで"
 source_ids:
   vndb: "c11299"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c11299.webp"
 ---
 
-# 伊吕波加惠德
+# 伊呂波 かえで
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

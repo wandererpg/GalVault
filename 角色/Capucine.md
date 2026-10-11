@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c97368"
 type: "character"
-display_title: "加普诗伊努"
-title_zh: "加普诗伊努"
+display_title: "カプシーヌ"
+title_zh: ""
 title_ja: "カプシーヌ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97368"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Capucine"
-  - "カプシーヌ"
   - "Minister"
 source_ids:
   vndb: "c97368"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c97368.webp"
 ---
 
-# 加普诗伊努
+# カプシーヌ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

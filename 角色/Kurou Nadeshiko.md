@@ -5,7 +5,10 @@ display_title: "九楼抚子"
 title_zh: "九楼抚子"
 title_ja: "九楼 撫子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c33120"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kurou Nadeshiko"
   - "九楼 撫子"

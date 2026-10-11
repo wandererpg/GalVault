@@ -5,7 +5,10 @@ display_title: "雨宫明良"
 title_zh: "雨宫明良"
 title_ja: "雨宮 明良"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c59814"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Amamiya Akira"
   - "雨宮 明良"

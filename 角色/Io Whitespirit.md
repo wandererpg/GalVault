@@ -1,15 +1,18 @@
 ---
 entity_id: "vndb:character:c33862"
 type: "character"
-display_title: "伊奥穗和伊斗寿皮莉T斗"
-title_zh: "伊奥穗和伊斗寿皮莉T斗"
+display_title: "イオ・ホワイトスピリット"
+title_zh: ""
 title_ja: "イオ・ホワイトスピリット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33862"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Io Whitespirit"
-  - "イオ・ホワイトスピリット"
   - "Io of 'Utopia'"
+  - "Io of 'Utopia"
 source_ids:
   vndb: "c33862"
 source_urls:
@@ -17,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c33862.webp"
 ---
 
-# 伊奥穗和伊斗寿皮莉T斗
+# イオ・ホワイトスピリット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

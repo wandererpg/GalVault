@@ -5,7 +5,10 @@ display_title: "砾川杰"
 title_zh: "砾川杰"
 title_ja: "礫川 傑"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c153705"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Koishikawa Suguru"
   - "礫川 傑"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c740"
 type: "character"
-display_title: "诗伊露普拉伊恩"
-title_zh: "诗伊露普拉伊恩"
+display_title: "シィル・プライン"
+title_zh: ""
 title_ja: "シィル・プライン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c740"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sill Plain"
-  - "シィル・プライン"
 source_ids:
   vndb: "c740"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c740.webp"
 ---
 
-# 诗伊露普拉伊恩
+# シィル・プライン
 
 
 ## 角色画像

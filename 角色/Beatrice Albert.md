@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c69155"
 type: "character"
-display_title: "贝阿T莉C惠·阿L贝RT"
-title_zh: "贝阿T莉C惠·阿L贝RT"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Beatrice Albert"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c69155"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Beatrice Albert"
   - "Betty"
 source_ids:
   vndb: "c69155"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c69155.webp"
 ---
 
-# 贝阿T莉C惠·阿L贝RT
+# Beatrice Albert
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

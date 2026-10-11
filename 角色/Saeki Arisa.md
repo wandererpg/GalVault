@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c54962"
 type: "character"
-display_title: "佐伯阿莉沙"
-title_zh: "佐伯阿莉沙"
+display_title: "佐伯 ありさ"
+title_zh: ""
 title_ja: "佐伯 ありさ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c54962"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Saeki Arisa"
-  - "佐伯 ありさ"
 source_ids:
   vndb: "c54962"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c54962.webp"
 ---
 
-# 佐伯阿莉沙
+# 佐伯 ありさ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

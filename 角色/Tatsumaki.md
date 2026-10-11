@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c44130"
 type: "character"
-display_title: "太津真希"
-title_zh: "太津真希"
+display_title: "タツマキ"
+title_zh: ""
 title_ja: "タツマキ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c44130"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tatsumaki"
-  - "タツマキ"
 source_ids:
   vndb: "c44130"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c44130.webp"
 ---
 
-# 太津真希
+# タツマキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

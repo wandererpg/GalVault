@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17159"
 type: "character"
-display_title: "洛加露乌寿子奥斗"
-title_zh: "洛加露乌寿子奥斗"
+display_title: "ロカ・ルースコート"
+title_zh: ""
 title_ja: "ロカ・ルースコート"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17159"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Roka Luscort"
-  - "ロカ・ルースコート"
 source_ids:
   vndb: "c17159"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c17159.webp"
 ---
 
-# 洛加露乌寿子奥斗
+# ロカ・ルースコート
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

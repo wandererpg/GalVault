@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c118044"
 type: "character"
-display_title: "主人"
-title_zh: "主人"
+display_title: "マスター"
+title_zh: ""
 title_ja: "マスター"
-title_zh_quality: "glossary"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c118044"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Master"
-  - "マスター"
 source_ids:
   vndb: "c118044"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c118044.webp"
 ---
 
-# 主人
+# マスター
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

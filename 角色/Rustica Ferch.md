@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c161319"
 type: "character"
-display_title: "拉寿特伊加·F惠露千"
-title_zh: "拉寿特伊加·F惠露千"
+display_title: "ラスティカ フェルチ"
+title_zh: ""
 title_ja: "ラスティカ フェルチ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161319"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rustica Ferch"
-  - "ラスティカ フェルチ"
 source_ids:
   vndb: "c161319"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c161319.webp"
 ---
 
-# 拉寿特伊加·F惠露千
+# ラスティカ フェルチ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

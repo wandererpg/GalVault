@@ -5,7 +5,10 @@ display_title: "犬嶌咏"
 title_zh: "犬嶌咏"
 title_ja: "犬嶌 詠"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c24982"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Inushima Yomi"
   - "犬嶌 詠"

@@ -5,7 +5,10 @@ display_title: "槻司鸢丸"
 title_zh: "槻司鸢丸"
 title_ja: "槻司 鳶丸"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c6173"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsukiji Tobimaru"
   - "槻司 鳶丸"

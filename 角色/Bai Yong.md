@@ -5,7 +5,10 @@ display_title: "白永"
 title_zh: "白永"
 title_ja: "白永"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c135610"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Bai Yong"
 source_ids:

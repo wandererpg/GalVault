@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c51595"
 type: "character"
-display_title: "奥P惠L伊阿·W伊D德恩索V"
-title_zh: "奥P惠L伊阿·W伊D德恩索V"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ophelia Widdensov"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c51595"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ophelia Widdensov"
 source_ids:
   vndb: "c51595"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c51595.webp"
 ---
 
-# 奥P惠L伊阿·W伊D德恩索V
+# Ophelia Widdensov
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

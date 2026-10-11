@@ -5,7 +5,10 @@ display_title: "高村仁"
 title_zh: "高村仁"
 title_ja: "高村 仁"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c94364"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takamura Hitoshi"
   - "高村 仁"

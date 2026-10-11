@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c134641"
 type: "character"
-display_title: "T惠·拉藏R"
-title_zh: "T惠·拉藏R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "The Razor"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c134641"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "The Razor"
 source_ids:
   vndb: "c134641"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c134641.webp"
 ---
 
-# T惠·拉藏R
+# The Razor
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

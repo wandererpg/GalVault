@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c126316"
 type: "character"
-display_title: "布XL惠Y·K莉LLS"
-title_zh: "布XL惠Y·K莉LLS"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Buxley Krills"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126316"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Buxley Krills"
   - "Bucks"
 source_ids:
   vndb: "c126316"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c126316.webp"
 ---
 
-# 布XL惠Y·K莉LLS
+# Buxley Krills
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

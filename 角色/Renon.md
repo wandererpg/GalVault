@@ -5,7 +5,10 @@ display_title: "恋音"
 title_zh: "恋音"
 title_ja: "恋音"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c26198"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Renon"
 source_ids:

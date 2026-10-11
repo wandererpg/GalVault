@@ -5,7 +5,10 @@ display_title: "财前舞"
 title_zh: "财前舞"
 title_ja: "財前 舞"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c85148"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Zaizen Mai"
   - "財前 舞"

@@ -5,7 +5,10 @@ display_title: "小泽久弥"
 title_zh: "小泽久弥"
 title_ja: "小沢 久彌"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c182"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kozawa Hisaya"
   - "小沢 久彌"

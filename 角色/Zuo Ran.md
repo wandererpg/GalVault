@@ -5,7 +5,10 @@ display_title: "左然"
 title_zh: "左然"
 title_ja: "左然"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c96085"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Zuo Ran"
   - "Tả Nhiên"

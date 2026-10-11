@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c43685"
 type: "character"
-display_title: "斗奥真寿穗奥惠恩修太伊恩"
-title_zh: "斗奥真寿穗奥惠恩修太伊恩"
+display_title: "トーマス・ホーエンシュタイン"
+title_zh: ""
 title_ja: "トーマス・ホーエンシュタイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43685"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Thomas Hohenstein"
-  - "トーマス・ホーエンシュタイン"
 source_ids:
   vndb: "c43685"
 source_urls:
   vndb: "https://vndb.org/c43685"
 ---
 
-# 斗奥真寿穗奥惠恩修太伊恩
+# トーマス・ホーエンシュタイン
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

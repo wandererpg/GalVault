@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c45832"
 type: "character"
-display_title: "诗恩拉恩寿洛奥"
-title_zh: "诗恩拉恩寿洛奥"
+display_title: "シン・ランスロー"
+title_zh: ""
 title_ja: "シン・ランスロー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c45832"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shinn Lancerow"
-  - "シン・ランスロー"
 source_ids:
   vndb: "c45832"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c45832.webp"
 ---
 
-# 诗恩拉恩寿洛奥
+# シン・ランスロー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

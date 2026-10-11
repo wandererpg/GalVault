@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c162498"
 type: "character"
-display_title: "J惠SS伊C阿·S太RL伊恩G"
-title_zh: "J惠SS伊C阿·S太RL伊恩G"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jessica Starling"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c162498"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jessica Starling"
 source_ids:
   vndb: "c162498"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c162498.webp"
 ---
 
-# J惠SS伊C阿·S太RL伊恩G
+# Jessica Starling
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

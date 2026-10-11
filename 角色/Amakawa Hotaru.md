@@ -5,7 +5,10 @@ display_title: "天川萤"
 title_zh: "天川萤"
 title_ja: "天川 蛍"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c37394"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Amakawa Hotaru"
   - "天川 蛍"

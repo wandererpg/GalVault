@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c97695"
 type: "character"
-display_title: "拉沙G音·美L伊洛濑"
-title_zh: "拉沙G音·美L伊洛濑"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Rasagne Milirose"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97695"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Rasagne Milirose"
 source_ids:
   vndb: "c97695"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c97695.webp"
 ---
 
-# 拉沙G音·美L伊洛濑
+# Rasagne Milirose
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90039"
 type: "character"
-display_title: "濑诗露莉贝拉阿特伊"
-title_zh: "濑诗露莉贝拉阿特伊"
+display_title: "セシル・リベラーティ"
+title_zh: ""
 title_ja: "セシル・リベラーティ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90039"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cecile Liberati"
-  - "セシル・リベラーティ"
 source_ids:
   vndb: "c90039"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c90039.webp"
 ---
 
-# 濑诗露莉贝拉阿特伊
+# セシル・リベラーティ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

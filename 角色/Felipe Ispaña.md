@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61303"
 type: "character"
-display_title: "F惠莉佩伊寿帕阿妮娅"
-title_zh: "F惠莉佩伊寿帕阿妮娅"
+display_title: "フェリペ・イスパーニャ"
+title_zh: ""
 title_ja: "フェリペ・イスパーニャ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61303"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Felipe Ispaña"
-  - "フェリペ・イスパーニャ"
 source_ids:
   vndb: "c61303"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61303.webp"
 ---
 
-# F惠莉佩伊寿帕阿妮娅
+# フェリペ・イスパーニャ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

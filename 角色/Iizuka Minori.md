@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c102746"
 type: "character"
-display_title: "饭冢美乃莉"
-title_zh: "饭冢美乃莉"
+display_title: "飯塚 みのり"
+title_zh: ""
 title_ja: "飯塚 みのり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c102746"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Iizuka Minori"
-  - "飯塚 みのり"
 source_ids:
   vndb: "c102746"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c102746.webp"
 ---
 
-# 饭冢美乃莉
+# 飯塚 みのり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

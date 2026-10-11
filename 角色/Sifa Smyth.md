@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c155414"
 type: "character"
-display_title: "S伊F阿·SMYTH"
-title_zh: "S伊F阿·SMYTH"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Sifa Smyth"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155414"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Sifa Smyth"
 source_ids:
   vndb: "c155414"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c155414.webp"
 ---
 
-# S伊F阿·SMYTH
+# Sifa Smyth
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

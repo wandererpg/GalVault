@@ -1,11 +1,14 @@
 ---
 entity_id: "vndb:character:c108362"
 type: "character"
-display_title: "会长"
-title_zh: "会长"
+display_title: "委员长"
+title_zh: "委员长"
 title_ja: "委員長"
-title_zh_quality: "glossary"
-title_status: "machine_generated"
+title_zh_quality: "converted_original"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c108362"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "President"
   - "委員長"
@@ -16,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c108362.webp"
 ---
 
-# 会长
+# 委员长
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

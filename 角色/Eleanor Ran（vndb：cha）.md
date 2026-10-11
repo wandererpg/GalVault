@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c56512"
 type: "character"
-display_title: "惠蕾乃阿拉恩"
-title_zh: "惠蕾乃阿拉恩"
+display_title: "エレノア・ラン"
+title_zh: ""
 title_ja: "エレノア・ラン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56512"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Eleanor Ran"
-  - "エレノア・ラン"
   - "Elenoa Ran"
 source_ids:
   vndb: "c56512"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c56512.webp"
 ---
 
-# 惠蕾乃阿拉恩
+# エレノア・ラン
 
 
 ## 角色画像

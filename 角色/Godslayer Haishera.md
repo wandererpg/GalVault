@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30188"
 type: "character"
-display_title: "神杀诗羽伊修拉"
-title_zh: "神杀诗羽伊修拉"
+display_title: "神殺しハイシュラ"
+title_zh: ""
 title_ja: "神殺しハイシュラ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30188"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Godslayer Haishera"
-  - "神殺しハイシュラ"
 source_ids:
   vndb: "c30188"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30188.webp"
 ---
 
-# 神杀诗羽伊修拉
+# 神殺しハイシュラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

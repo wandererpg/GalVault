@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c41298"
 type: "character"
-display_title: "椎菜乃巴阿恰恩"
-title_zh: "椎菜乃巴阿恰恩"
+display_title: "椎菜のばあちゃん"
+title_zh: ""
 title_ja: "椎菜のばあちゃん"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c41298"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shiina's Grandmother"
-  - "椎菜のばあちゃん"
 source_ids:
   vndb: "c41298"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c41298.webp"
 ---
 
-# 椎菜乃巴阿恰恩
+# 椎菜のばあちゃん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

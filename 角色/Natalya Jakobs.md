@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c147650"
 type: "character"
-display_title: "奈太L雅·嘉子BS"
-title_zh: "奈太L雅·嘉子BS"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Natalya Jakobs"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c147650"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Natalya Jakobs"
 source_ids:
   vndb: "c147650"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c147650.webp"
 ---
 
-# 奈太L雅·嘉子BS
+# Natalya Jakobs
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

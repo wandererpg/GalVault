@@ -5,7 +5,10 @@ display_title: "涡久丸九郎丸"
 title_zh: "涡久丸九郎丸"
 title_ja: "渦久丸 九郎丸"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c113550"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Uzukumaru Kuroumaru"
   - "渦久丸 九郎丸"

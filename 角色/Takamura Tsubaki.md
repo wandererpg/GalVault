@@ -5,7 +5,10 @@ display_title: "高村椿"
 title_zh: "高村椿"
 title_ja: "高村 椿"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c123613"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takamura Tsubaki"
   - "高村 椿"

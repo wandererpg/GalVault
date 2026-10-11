@@ -5,7 +5,10 @@ display_title: "鹫尾须美"
 title_zh: "鹫尾须美"
 title_ja: "鷲尾 須美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c147090"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Washio Sumi"
   - "鷲尾 須美"

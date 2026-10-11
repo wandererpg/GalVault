@@ -5,7 +5,10 @@ display_title: "田中太郎"
 title_zh: "田中太郎"
 title_ja: "田中 太郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14353"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tanaka Tarou"
   - "田中 太郎"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c153277"
 type: "character"
-display_title: "诗阿·贝莉F伊恩"
-title_zh: "诗阿·贝莉F伊恩"
+display_title: "사이아 베리핀"
+title_zh: ""
 title_ja: "사이아 베리핀"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c153277"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shia Berifin"
-  - "사이아 베리핀"
 source_ids:
   vndb: "c153277"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c153277.webp"
 ---
 
-# 诗阿·贝莉F伊恩
+# 사이아 베리핀
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

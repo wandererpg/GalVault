@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c27712"
 type: "character"
-display_title: "莉乌伊真阿诗露恩"
-title_zh: "莉乌伊真阿诗露恩"
+display_title: "リウイ・マーシルン"
+title_zh: ""
 title_ja: "リウイ・マーシルン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c27712"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Louie Marcillen"
-  - "リウイ・マーシルン"
 source_ids:
   vndb: "c27712"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c27712.webp"
 ---
 
-# 莉乌伊真阿诗露恩
+# リウイ・マーシルン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "风见亮二"
 title_zh: "风见亮二"
 title_ja: "風見 亮二"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c7409"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kazami Ryouji"
   - "風見 亮二"

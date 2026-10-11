@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c161811"
 type: "character"
-display_title: "L雅LL·惠伊T羽恩"
-title_zh: "L雅LL·惠伊T羽恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Lyall Keithan"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161811"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Lyall Keithan"
 source_ids:
   vndb: "c161811"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c161811.webp"
 ---
 
-# L雅LL·惠伊T羽恩
+# Lyall Keithan
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

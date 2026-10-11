@@ -5,7 +5,10 @@ display_title: "我妻盛夫"
 title_zh: "我妻盛夫"
 title_ja: "我妻 盛夫"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c70187"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Azuma Morio"
   - "我妻 盛夫"

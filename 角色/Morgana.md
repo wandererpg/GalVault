@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c138988"
 type: "character"
-display_title: "莫R雅奈"
-title_zh: "莫R雅奈"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Morgana"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138988"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Morgana"
 source_ids:
   vndb: "c138988"
 source_urls:
   vndb: "https://vndb.org/c138988"
 ---
 
-# 莫R雅奈
+# Morgana
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c155762"
 type: "character"
-display_title: "咲来乃姉乃夫"
-title_zh: "咲来乃姉乃夫"
+display_title: "咲來の姉の夫"
+title_zh: ""
 title_ja: "咲來の姉の夫"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155762"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sara's Brother-in-Law"
-  - "咲來の姉の夫"
 source_ids:
   vndb: "c155762"
 source_urls:
   vndb: "https://vndb.org/c155762"
 ---
 
-# 咲来乃姉乃夫
+# 咲來の姉の夫
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

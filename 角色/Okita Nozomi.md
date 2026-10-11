@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127159"
 type: "character"
-display_title: "冲田望"
-title_zh: "冲田望"
+display_title: "沖田 のぞみ"
+title_zh: ""
 title_ja: "沖田 のぞみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127159"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Okita Nozomi"
-  - "沖田 のぞみ"
 source_ids:
   vndb: "c127159"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c127159.webp"
 ---
 
-# 冲田望
+# 沖田 のぞみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

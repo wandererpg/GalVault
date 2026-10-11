@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c137424"
 type: "character"
-display_title: "莲见蕾伊阿"
-title_zh: "莲见蕾伊阿"
+display_title: "蓮見 レイア"
+title_zh: ""
 title_ja: "蓮見 レイア"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c137424"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hasumi Leia"
-  - "蓮見 レイア"
 source_ids:
   vndb: "c137424"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c137424.webp"
 ---
 
-# 莲见蕾伊阿
+# 蓮見 レイア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

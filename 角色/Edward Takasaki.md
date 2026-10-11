@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c32591"
 type: "character"
-display_title: "惠堂和阿堂高崎"
-title_zh: "惠堂和阿堂高崎"
+display_title: "エドワード 高崎"
+title_zh: ""
 title_ja: "エドワード 高崎"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c32591"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Edward Takasaki"
-  - "エドワード 高崎"
   - "Ed-sensei"
 source_ids:
   vndb: "c32591"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c32591.webp"
 ---
 
-# 惠堂和阿堂高崎
+# エドワード 高崎
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

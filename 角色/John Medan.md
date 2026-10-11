@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c153474"
 type: "character"
-display_title: "乔H恩·芽达恩"
-title_zh: "乔H恩·芽达恩"
+display_title: "존 메단"
+title_zh: ""
 title_ja: "존 메단"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c153474"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "John Medan"
-  - "존 메단"
 source_ids:
   vndb: "c153474"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c153474.webp"
 ---
 
-# 乔H恩·芽达恩
+# 존 메단
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

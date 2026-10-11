@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c97089"
 type: "character"
-display_title: "玉井津古美"
-title_zh: "玉井津古美"
+display_title: "玉井 つぐみ"
+title_zh: ""
 title_ja: "玉井 つぐみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97089"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tamai Tsugumi"
-  - "玉井 つぐみ"
 source_ids:
   vndb: "c97089"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c97089.webp"
 ---
 
-# 玉井津古美
+# 玉井 つぐみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

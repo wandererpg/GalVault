@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c134325"
 type: "character"
-display_title: "布蕾T斗莉恩泽露"
-title_zh: "布蕾T斗莉恩泽露"
+display_title: "ブレット・リンゼル"
+title_zh: ""
 title_ja: "ブレット・リンゼル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c134325"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Brett Lynzel"
-  - "ブレット・リンゼル"
 source_ids:
   vndb: "c134325"
 source_urls:
   vndb: "https://vndb.org/c134325"
 ---
 
-# 布蕾T斗莉恩泽露
+# ブレット・リンゼル
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

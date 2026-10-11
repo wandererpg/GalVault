@@ -5,7 +5,10 @@ display_title: "马场美浓守春日信房"
 title_zh: "马场美浓守春日信房"
 title_ja: "馬場 美濃守 春日 信房"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20718"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Baba Minonokami Kasuga Nobufusa"
   - "馬場 美濃守 春日 信房"

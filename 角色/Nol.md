@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c56519"
 type: "character"
-display_title: "乃露"
-title_zh: "乃露"
+display_title: "ノル"
+title_zh: ""
 title_ja: "ノル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56519"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nol"
-  - "ノル"
 source_ids:
   vndb: "c56519"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c56519.webp"
 ---
 
-# 乃露
+# ノル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

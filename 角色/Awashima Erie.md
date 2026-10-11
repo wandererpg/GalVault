@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c31823"
 type: "character"
-display_title: "淡岛惠莉"
-title_zh: "淡岛惠莉"
+display_title: "淡島 エリ"
+title_zh: ""
 title_ja: "淡島 エリ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c31823"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Awashima Erie"
-  - "淡島 エリ"
 source_ids:
   vndb: "c31823"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c31823.webp"
 ---
 
-# 淡岛惠莉
+# 淡島 エリ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

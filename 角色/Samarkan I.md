@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c60772"
 type: "character"
-display_title: "沙真露加恩1世"
-title_zh: "沙真露加恩1世"
+display_title: "サマルカン1世"
+title_zh: ""
 title_ja: "サマルカン1世"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c60772"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Samarkan I"
-  - "サマルカン1世"
 source_ids:
   vndb: "c60772"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c60772.webp"
 ---
 
-# 沙真露加恩1世
+# サマルカン1世
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

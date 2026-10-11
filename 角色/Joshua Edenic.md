@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61135"
 type: "character"
-display_title: "乔修阿·惠德尼C"
-title_zh: "乔修阿·惠德尼C"
+display_title: "조슈아 에드닉"
+title_zh: ""
 title_ja: "조슈아 에드닉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61135"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Joshua Edenic"
-  - "조슈아 에드닉"
 source_ids:
   vndb: "c61135"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61135.webp"
 ---
 
-# 乔修阿·惠德尼C
+# 조슈아 에드닉
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

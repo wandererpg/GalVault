@@ -5,7 +5,10 @@ display_title: "村云静春"
 title_zh: "村云静春"
 title_ja: "村雲 静春"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c22029"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Murakumo Shizuka"
   - "村雲 静春"

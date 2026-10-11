@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98052"
 type: "character"
-display_title: "加秋乌夏博S修"
-title_zh: "加秋乌夏博S修"
+display_title: "カチューシャ・ボッシュ"
+title_zh: ""
 title_ja: "カチューシャ・ボッシュ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98052"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Katyusha Bosch"
-  - "カチューシャ・ボッシュ"
 source_ids:
   vndb: "c98052"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98052.webp"
 ---
 
-# 加秋乌夏博S修
+# カチューシャ・ボッシュ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c173628"
 type: "character"
-display_title: "阿Z伊Z"
-title_zh: "阿Z伊Z"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Aziz"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c173628"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Aziz"
 source_ids:
   vndb: "c173628"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c173628.webp"
 ---
 
-# 阿Z伊Z
+# Aziz
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

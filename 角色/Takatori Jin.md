@@ -5,7 +5,10 @@ display_title: "鹰取迅"
 title_zh: "鹰取迅"
 title_ja: "鷹取 迅"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c53653"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takatori Jin"
   - "鷹取 迅"

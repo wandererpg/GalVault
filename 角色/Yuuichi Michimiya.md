@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c91342"
 type: "character"
-display_title: "优乌伊千·美千美雅"
-title_zh: "优乌伊千·美千美雅"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Yuuichi Michimiya"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c91342"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Yuuichi Michimiya"
   - "Name may be changed by the player"
 source_ids:
   vndb: "c91342"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c91342.webp"
 ---
 
-# 优乌伊千·美千美雅
+# Yuuichi Michimiya
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

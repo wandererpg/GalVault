@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c62913"
 type: "character"
-display_title: "羽乌濑寿奈阿寿"
-title_zh: "羽乌濑寿奈阿寿"
+display_title: "ハウセスナース"
+title_zh: ""
 title_ja: "ハウセスナース"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c62913"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Housesnurse"
-  - "ハウセスナース"
 source_ids:
   vndb: "c62913"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c62913.webp"
 ---
 
-# 羽乌濑寿奈阿寿
+# ハウセスナース
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127204"
 type: "character"
-display_title: "堂莉阿阿堂"
-title_zh: "堂莉阿阿堂"
+display_title: "ドリアード"
+title_zh: ""
 title_ja: "ドリアード"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127204"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Dryad"
-  - "ドリアード"
   - "Doria"
   - "Dorie"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c127204.webp"
 ---
 
-# 堂莉阿阿堂
+# ドリアード
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

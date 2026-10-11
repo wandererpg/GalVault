@@ -5,7 +5,10 @@ display_title: "酿田近望"
 title_zh: "酿田近望"
 title_ja: "醸田 近望"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c87372"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kamoshida Chikamochi"
   - "醸田 近望"

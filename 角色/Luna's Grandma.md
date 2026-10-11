@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c131347"
 type: "character"
-display_title: "L乌奈S·G拉恩D真"
-title_zh: "L乌奈S·G拉恩D真"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Luna's Grandma"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c131347"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Luna's Grandma"
 source_ids:
   vndb: "c131347"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c131347.webp"
 ---
 
-# L乌奈S·G拉恩D真
+# Luna's Grandma
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

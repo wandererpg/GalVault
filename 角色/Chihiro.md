@@ -5,7 +5,10 @@ display_title: "千比吕"
 title_zh: "千比吕"
 title_ja: "千比呂"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c148477"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Chihiro"
   - "千比呂"

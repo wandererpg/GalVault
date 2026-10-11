@@ -5,7 +5,10 @@ display_title: "斋野一花"
 title_zh: "斋野一花"
 title_ja: "斎野 一花"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c156085"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Itsukino Ichika"
   - "斎野 一花"

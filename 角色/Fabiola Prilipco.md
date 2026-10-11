@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c141563"
 type: "character"
-display_title: "F阿比奥拉普莉莉K子"
-title_zh: "F阿比奥拉普莉莉K子"
+display_title: "ファビオラ・プリリッコ"
+title_zh: ""
 title_ja: "ファビオラ・プリリッコ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141563"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Fabiola Prilipco"
-  - "ファビオラ・プリリッコ"
 source_ids:
   vndb: "c141563"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c141563.webp"
 ---
 
-# F阿比奥拉普莉莉K子
+# ファビオラ・プリリッコ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c27731"
 type: "character"
-display_title: "向日葵"
-title_zh: "向日葵"
+display_title: "向日 アオイ"
+title_zh: ""
 title_ja: "向日 アオイ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c27731"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mukou Aoi"
-  - "向日 アオイ"
 source_ids:
   vndb: "c27731"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c27731.webp"
 ---
 
-# 向日葵
+# 向日 アオイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

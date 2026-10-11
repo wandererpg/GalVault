@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c44712"
 type: "character"
-display_title: "惠伊达＝久洛奥巴阿"
-title_zh: "惠伊达＝久洛奥巴阿"
+display_title: "エイダ＝クローバー"
+title_zh: ""
 title_ja: "エイダ＝クローバー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c44712"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ada Clover"
-  - "エイダ＝クローバー"
   - "Nirvana"
   - "Deus Machina: Nirvana"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c44712.webp"
 ---
 
-# 惠伊达＝久洛奥巴阿
+# エイダ＝クローバー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

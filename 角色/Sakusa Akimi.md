@@ -5,7 +5,10 @@ display_title: "佐草阳水"
 title_zh: "佐草阳水"
 title_ja: "佐草 陽水"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c31394"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakusa Akimi"
   - "佐草 陽水"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c76000"
 type: "character"
-display_title: "芽D伊乌沙"
-title_zh: "芽D伊乌沙"
+display_title: "メディウサ"
+title_zh: ""
 title_ja: "メディウサ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c76000"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Medusa"
-  - "メディウサ"
 source_ids:
   vndb: "c76000"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c76000.webp"
 ---
 
-# 芽D伊乌沙
+# メディウサ
 
 
 ## 角色画像

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c21330"
 type: "character"
-display_title: "曙美乃莉"
-title_zh: "曙美乃莉"
+display_title: "曙 みのり"
+title_zh: ""
 title_ja: "曙 みのり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c21330"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Akebono Minori"
-  - "曙 みのり"
 source_ids:
   vndb: "c21330"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c21330.webp"
 ---
 
-# 曙美乃莉
+# 曙 みのり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

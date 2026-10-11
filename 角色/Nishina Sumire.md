@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c11311"
 type: "character"
-display_title: "仁科寿美蕾"
-title_zh: "仁科寿美蕾"
+display_title: "仁科 すみれ"
+title_zh: ""
 title_ja: "仁科 すみれ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c11311"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nishina Sumire"
-  - "仁科 すみれ"
 source_ids:
   vndb: "c11311"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c11311.webp"
 ---
 
-# 仁科寿美蕾
+# 仁科 すみれ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

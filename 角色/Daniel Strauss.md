@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c166250"
 type: "character"
-display_title: "达尼惠露寿斗拉乌寿"
-title_zh: "达尼惠露寿斗拉乌寿"
+display_title: "ダニエル・ストラウス"
+title_zh: ""
 title_ja: "ダニエル・ストラウス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c166250"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Daniel Strauss"
-  - "ダニエル・ストラウス"
 source_ids:
   vndb: "c166250"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c166250.webp"
 ---
 
-# 达尼惠露寿斗拉乌寿
+# ダニエル・ストラウス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

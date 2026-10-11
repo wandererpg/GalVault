@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30434"
 type: "character"
-display_title: "猫神太真"
-title_zh: "猫神太真"
+display_title: "猫神 タマ"
+title_zh: ""
 title_ja: "猫神 タマ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30434"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nekogami Tama"
-  - "猫神 タマ"
 source_ids:
   vndb: "c30434"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30434.webp"
 ---
 
-# 猫神太真
+# 猫神 タマ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

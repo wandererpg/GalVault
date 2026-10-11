@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c126735"
 type: "character"
-display_title: "MYS特莉奥乌S·奥真恩"
-title_zh: "MYS特莉奥乌S·奥真恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Mysterious Woman"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126735"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Mysterious Woman"
 source_ids:
   vndb: "c126735"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c126735.webp"
 ---
 
-# MYS特莉奥乌S·奥真恩
+# Mysterious Woman
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

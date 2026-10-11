@@ -5,7 +5,10 @@ display_title: "泽嶋姫緖"
 title_zh: "泽嶋姫緖"
 title_ja: "澤嶋 姫緒"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c6240"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sawashima Himeo"
   - "澤嶋 姫緒"

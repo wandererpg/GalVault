@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43126"
 type: "character"
-display_title: "女神阿芙洛D伊伊特"
-title_zh: "女神阿芙洛D伊伊特"
+display_title: "女神アフロディーテ"
+title_zh: ""
 title_ja: "女神アフロディーテ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43126"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Goddess Aphrodite"
-  - "女神アフロディーテ"
 source_ids:
   vndb: "c43126"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43126.webp"
 ---
 
-# 女神阿芙洛D伊伊特
+# 女神アフロディーテ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

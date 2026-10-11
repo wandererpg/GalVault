@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c161314"
 type: "character"
-display_title: "音洛·太阿奈阿"
-title_zh: "音洛·太阿奈阿"
+display_title: "ネロ ターナー"
+title_zh: ""
 title_ja: "ネロ ターナー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161314"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nero Turner"
-  - "ネロ ターナー"
 source_ids:
   vndb: "c161314"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c161314.webp"
 ---
 
-# 音洛·太阿奈阿
+# ネロ ターナー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

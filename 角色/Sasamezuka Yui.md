@@ -5,7 +5,10 @@ display_title: "笹目冢结衣"
 title_zh: "笹目冢结衣"
 title_ja: "笹目塚 結衣"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c24417"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sasamezuka Yui"
   - "笹目塚 結衣"

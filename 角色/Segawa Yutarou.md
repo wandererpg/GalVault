@@ -5,7 +5,10 @@ display_title: "濑川汤太郎"
 title_zh: "濑川汤太郎"
 title_ja: "瀬川 湯太郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c93375"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Segawa Yutarou"
   - "瀬川 湯太郎"

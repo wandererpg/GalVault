@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c32662"
 type: "character"
-display_title: "蕾乃真阿恩"
-title_zh: "蕾乃真阿恩"
+display_title: "レノマーン"
+title_zh: ""
 title_ja: "レノマーン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c32662"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Renoman"
-  - "レノマーン"
 source_ids:
   vndb: "c32662"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c32662.webp"
 ---
 
-# 蕾乃真阿恩
+# レノマーン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "鸣子里子"
 title_zh: "鸣子里子"
 title_ja: "鳴子 里子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c92969"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Naruko Satoko"
   - "鳴子 里子"

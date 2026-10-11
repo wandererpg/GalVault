@@ -5,7 +5,10 @@ display_title: "矶鹫凉芽"
 title_zh: "矶鹫凉芽"
 title_ja: "磯鷲 涼芽"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9581"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Isowashi Suzume"
   - "磯鷲 涼芽"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c88900"
 type: "character"
-display_title: "斗比阿寿古蕾古索恩"
-title_zh: "斗比阿寿古蕾古索恩"
+display_title: "トビアス・グレグソン"
+title_zh: ""
 title_ja: "トビアス・グレグソン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c88900"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tobias Gregson"
-  - "トビアス・グレグソン"
   - "Gregsy"
   - "Sulky Skulkin (misnomer)"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c88900.webp"
 ---
 
-# 斗比阿寿古蕾古索恩
+# トビアス・グレグソン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

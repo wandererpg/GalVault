@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c42515"
 type: "character"
-display_title: "夏阿莉伊矶下"
-title_zh: "夏阿莉伊矶下"
+display_title: "シャーリー 磯下"
+title_zh: ""
 title_ja: "シャーリー 磯下"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c42515"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shirley Isoshita"
-  - "シャーリー 磯下"
 source_ids:
   vndb: "c42515"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c42515.webp"
 ---
 
-# 夏阿莉伊矶下
+# シャーリー 磯下
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

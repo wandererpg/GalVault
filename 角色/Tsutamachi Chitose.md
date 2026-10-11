@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c84585"
 type: "character"
-display_title: "茑町千斗濑"
-title_zh: "茑町千斗濑"
+display_title: "蔦町 ちとせ"
+title_zh: ""
 title_ja: "蔦町 ちとせ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c84585"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tsutamachi Chitose"
-  - "蔦町 ちとせ"
   - "Chitose Tutamachi"
 source_ids:
   vndb: "c84585"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c84585.webp"
 ---
 
-# 茑町千斗濑
+# 蔦町 ちとせ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

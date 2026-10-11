@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125556"
 type: "character"
-display_title: "美伊拉娘"
-title_zh: "美伊拉娘"
+display_title: "ミイラ娘"
+title_zh: ""
 title_ja: "ミイラ娘"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125556"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mummy Girl"
-  - "ミイラ娘"
   - "Patra"
 source_ids:
   vndb: "c125556"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c125556.webp"
 ---
 
-# 美伊拉娘
+# ミイラ娘
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

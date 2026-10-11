@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c84054"
 type: "character"
-display_title: "魔神寿斗拉寿"
-title_zh: "魔神寿斗拉寿"
+display_title: "魔神ストラス"
+title_zh: ""
 title_ja: "魔神ストラス"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c84054"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Stolas"
-  - "魔神ストラス"
 source_ids:
   vndb: "c84054"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c84054.webp"
 ---
 
-# 魔神寿斗拉寿
+# 魔神ストラス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

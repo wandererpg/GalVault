@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c137554"
 type: "character"
-display_title: "拉恩贝露斗雅露D伊"
-title_zh: "拉恩贝露斗雅露D伊"
+display_title: "ランベルト・ガルディ"
+title_zh: ""
 title_ja: "ランベルト・ガルディ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c137554"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lamberto Gardi"
-  - "ランベルト・ガルディ"
 source_ids:
   vndb: "c137554"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c137554.webp"
 ---
 
-# 拉恩贝露斗雅露D伊
+# ランベルト・ガルディ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

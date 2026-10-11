@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90697"
 type: "character"
-display_title: "三枝真伊"
-title_zh: "三枝真伊"
+display_title: "三枝 マイ"
+title_zh: ""
 title_ja: "三枝 マイ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90697"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Saegusa Mai"
-  - "三枝 マイ"
 source_ids:
   vndb: "c90697"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c90697.webp"
 ---
 
-# 三枝真伊
+# 三枝 マイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

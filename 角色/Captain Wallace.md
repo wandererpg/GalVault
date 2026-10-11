@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c157716"
 type: "character"
-display_title: "C阿P太伊恩·和LL阿C惠"
-title_zh: "C阿P太伊恩·和LL阿C惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Captain Wallace"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c157716"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Captain Wallace"
 source_ids:
   vndb: "c157716"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c157716.webp"
 ---
 
-# C阿P太伊恩·和LL阿C惠
+# Captain Wallace
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

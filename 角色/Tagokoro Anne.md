@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c153178"
 type: "character"
-display_title: "田心阿恩"
-title_zh: "田心阿恩"
+display_title: "田心 アン"
+title_zh: ""
 title_ja: "田心 アン"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c153178"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tagokoro Anne"
-  - "田心 アン"
 source_ids:
   vndb: "c153178"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c153178.webp"
 ---
 
-# 田心阿恩
+# 田心 アン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

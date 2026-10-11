@@ -5,7 +5,10 @@ display_title: "琵琶法师"
 title_zh: "琵琶法师"
 title_ja: "琵琶法師"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c28044"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Biwa Player"
   - "琵琶法師"

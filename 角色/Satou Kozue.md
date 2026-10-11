@@ -5,7 +5,10 @@ display_title: "佐藤梢"
 title_zh: "佐藤梢"
 title_ja: "佐藤 梢"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c66125"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Satou Kozue"
   - "佐藤 梢"

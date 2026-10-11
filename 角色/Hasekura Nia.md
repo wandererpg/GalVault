@@ -5,7 +5,10 @@ display_title: "支仓仁亚"
 title_zh: "支仓仁亚"
 title_ja: "支倉 仁亜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c48121"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hasekura Nia"
   - "支倉 仁亜"

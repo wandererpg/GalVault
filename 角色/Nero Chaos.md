@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c91"
 type: "character"
-display_title: "音洛加奥寿"
-title_zh: "音洛加奥寿"
+display_title: "ネロ・カオス"
+title_zh: ""
 title_ja: "ネロ・カオス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c91"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nero Chaos"
-  - "ネロ・カオス"
   - "#10 of the 27 Ancestors of Dead Apostles"
   - "Fabro Rowan"
   - "Nrvnqsr Chaos"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c91.webp"
 ---
 
-# 音洛加奥寿
+# ネロ・カオス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

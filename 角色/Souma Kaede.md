@@ -5,7 +5,10 @@ display_title: "相马枫"
 title_zh: "相马枫"
 title_ja: "相馬 楓"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c38826"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Souma Kaede"
   - "相馬 楓"

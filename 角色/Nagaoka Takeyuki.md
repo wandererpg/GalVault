@@ -5,7 +5,10 @@ display_title: "卧龙冈武雪"
 title_zh: "卧龙冈武雪"
 title_ja: "臥龍岡 武雪"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c165927"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nagaoka Takeyuki"
   - "臥龍岡 武雪"

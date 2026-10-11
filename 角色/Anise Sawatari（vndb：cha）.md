@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98397"
 type: "character"
-display_title: "阿尼寿泽渡"
-title_zh: "阿尼寿泽渡"
+display_title: "アニス・沢渡"
+title_zh: ""
 title_ja: "アニス・沢渡"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98397"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Anise Sawatari"
-  - "アニス・沢渡"
   - "Annis Sawatari"
 source_ids:
   vndb: "c98397"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c98397.webp"
 ---
 
-# 阿尼寿泽渡
+# アニス・沢渡
 
 
 ## 角色画像

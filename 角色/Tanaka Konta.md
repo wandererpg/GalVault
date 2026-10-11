@@ -5,7 +5,10 @@ display_title: "田中绀太"
 title_zh: "田中绀太"
 title_ja: "田中 紺太"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c118587"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tanaka Konta"
   - "田中 紺太"

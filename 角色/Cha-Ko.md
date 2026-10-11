@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c153184"
 type: "character"
-display_title: "恰阿子"
-title_zh: "恰阿子"
+display_title: "ちゃーこ"
+title_zh: ""
 title_ja: "ちゃーこ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c153184"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cha-Ko"
-  - "ちゃーこ"
   - "Taofen(タオフェン)"
 source_ids:
   vndb: "c153184"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c153184.webp"
 ---
 
-# 恰阿子
+# ちゃーこ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

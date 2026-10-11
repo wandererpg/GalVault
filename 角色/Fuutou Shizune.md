@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c69758"
 type: "character"
-display_title: "风冬诗兹音"
-title_zh: "风冬诗兹音"
+display_title: "風冬 しずね"
+title_zh: ""
 title_ja: "風冬 しずね"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c69758"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Fuutou Shizune"
-  - "風冬 しずね"
 source_ids:
   vndb: "c69758"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c69758.webp"
 ---
 
-# 风冬诗兹音
+# 風冬 しずね
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

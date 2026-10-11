@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c15692"
 type: "character"
-display_title: "阿恩特莉阿梦堂梦阿努乌"
-title_zh: "阿恩特莉阿梦堂梦阿努乌"
+display_title: "アンテリアム・ド・ムァヌー"
+title_zh: ""
 title_ja: "アンテリアム・ド・ムァヌー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c15692"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Anteriam Du Muanu"
-  - "アンテリアム・ド・ムァヌー"
   - "Muena"
   - "まな"
   - "Mana"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c15692.webp"
 ---
 
-# 阿恩特莉阿梦堂梦阿努乌
+# アンテリアム・ド・ムァヌー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

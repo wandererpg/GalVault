@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c126996"
 type: "character"
-display_title: "佳恩古乃博寿"
-title_zh: "佳恩古乃博寿"
+display_title: "ギャングのボス"
+title_zh: ""
 title_ja: "ギャングのボス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126996"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gang Boss"
-  - "ギャングのボス"
 source_ids:
   vndb: "c126996"
 source_urls:
   vndb: "https://vndb.org/c126996"
 ---
 
-# 佳恩古乃博寿
+# ギャングのボス
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c82923"
 type: "character"
-display_title: "上嶋莉莉"
-title_zh: "上嶋莉莉"
+display_title: "上嶋 リリ"
+title_zh: ""
 title_ja: "上嶋 リリ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c82923"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kamishima Lili"
-  - "上嶋 リリ"
   - "Riri"
   - "Lily"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c82923.webp"
 ---
 
-# 上嶋莉莉
+# 上嶋 リリ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

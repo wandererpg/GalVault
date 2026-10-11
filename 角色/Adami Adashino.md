@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c144514"
 type: "character"
-display_title: "化之阿达美"
-title_zh: "化之阿达美"
+display_title: "化之 あだみ"
+title_zh: ""
 title_ja: "化之 あだみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c144514"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Adami Adashino"
-  - "化之 あだみ"
 source_ids:
   vndb: "c144514"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c144514.webp"
 ---
 
-# 化之阿达美
+# 化之 あだみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

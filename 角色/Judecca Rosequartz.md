@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c24421"
 type: "character"
-display_title: "朱德K加洛奥兹久奥奥津"
-title_zh: "朱德K加洛奥兹久奥奥津"
+display_title: "ジュデッカ・ローズクォーツ"
+title_zh: ""
 title_ja: "ジュデッカ・ローズクォーツ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c24421"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Judecca Rosequartz"
-  - "ジュデッカ・ローズクォーツ"
   - "The Ice Beauty"
 source_ids:
   vndb: "c24421"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c24421.webp"
 ---
 
-# 朱德K加洛奥兹久奥奥津
+# ジュデッカ・ローズクォーツ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

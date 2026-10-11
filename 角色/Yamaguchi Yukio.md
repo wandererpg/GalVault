@@ -5,7 +5,10 @@ display_title: "山口幸雄"
 title_zh: "山口幸雄"
 title_ja: "山口幸雄"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2836"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yamaguchi Yukio"
 source_ids:

@@ -5,7 +5,10 @@ display_title: "前田又左卫门犬子利家"
 title_zh: "前田又左卫门犬子利家"
 title_ja: "前田 又左衛門 犬子 利家"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20569"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Maeda Matazaemon Wanko Toshiie"
   - "前田 又左衛門 犬子 利家"

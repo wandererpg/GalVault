@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126991"
 type: "character"
-display_title: "沙龙"
-title_zh: "沙龙"
+display_title: "サリュ"
+title_zh: ""
 title_ja: "サリュ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126991"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Salut"
-  - "サリュ"
 source_ids:
   vndb: "c126991"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c126991.webp"
 ---
 
-# 沙龙
+# サリュ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

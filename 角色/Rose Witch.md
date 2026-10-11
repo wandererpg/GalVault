@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c33487"
 type: "character"
-display_title: "蔷薇乃魔女"
-title_zh: "蔷薇乃魔女"
+display_title: "薔薇の魔女"
+title_zh: ""
 title_ja: "薔薇の魔女"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33487"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rose Witch"
-  - "薔薇の魔女"
 source_ids:
   vndb: "c33487"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c33487.webp"
 ---
 
-# 蔷薇乃魔女
+# 薔薇の魔女
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

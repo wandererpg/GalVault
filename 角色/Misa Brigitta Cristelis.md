@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c3803"
 type: "character"
-display_title: "圣沙布莉吉T太久莉寿特蕾寿"
-title_zh: "圣沙布莉吉T太久莉寿特蕾寿"
+display_title: "聖沙・ブリジッタ・クリステレス"
+title_zh: ""
 title_ja: "聖沙・ブリジッタ・クリステレス"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c3803"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Misa Brigitta Cristelis"
-  - "聖沙・ブリジッタ・クリステレス"
   - "ヒス"
   - "Hiss"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c3803.webp"
 ---
 
-# 圣沙布莉吉T太久莉寿特蕾寿
+# 聖沙・ブリジッタ・クリステレス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

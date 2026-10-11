@@ -5,7 +5,10 @@ display_title: "冈崎契"
 title_zh: "冈崎契"
 title_ja: "岡崎 契"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c39731"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Okazaki Kei"
   - "岡崎 契"

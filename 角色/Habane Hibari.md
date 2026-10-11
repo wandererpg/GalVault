@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c9339"
 type: "character"
-display_title: "羽々音日巴莉"
-title_zh: "羽々音日巴莉"
+display_title: "羽々音 ひばり"
+title_zh: ""
 title_ja: "羽々音 ひばり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c9339"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Habane Hibari"
-  - "羽々音 ひばり"
 source_ids:
   vndb: "c9339"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c9339.webp"
 ---
 
-# 羽々音日巴莉
+# 羽々音 ひばり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

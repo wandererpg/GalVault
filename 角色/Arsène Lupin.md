@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c20321"
 type: "character"
-display_title: "阿露濑惠努露帕恩"
-title_zh: "阿露濑惠努露帕恩"
+display_title: "アルセーヌ・ルパン"
+title_zh: ""
 title_ja: "アルセーヌ・ルパン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c20321"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Arsène Lupin"
-  - "アルセーヌ・ルパン"
   - "Arsene Lupin"
 source_ids:
   vndb: "c20321"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c20321.webp"
 ---
 
-# 阿露濑惠努露帕恩
+# アルセーヌ・ルパン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

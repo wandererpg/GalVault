@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39779"
 type: "character"
-display_title: "莉堂莉伊乌惠露修"
-title_zh: "莉堂莉伊乌惠露修"
+display_title: "リドリィ・ウェルシュ"
+title_zh: ""
 title_ja: "リドリィ・ウェルシュ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39779"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ridley Welsh"
-  - "リドリィ・ウェルシュ"
 source_ids:
   vndb: "c39779"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c39779.webp"
 ---
 
-# 莉堂莉伊乌惠露修
+# リドリィ・ウェルシュ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

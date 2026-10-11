@@ -5,7 +5,10 @@ display_title: "姉崎隼"
 title_zh: "姉崎隼"
 title_ja: "姉崎 隼"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21635"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Anesaki Shun"
   - "姉崎 隼"

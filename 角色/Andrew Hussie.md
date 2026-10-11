@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c136136"
 type: "character"
-display_title: "阿恩D蕾W·H乌SS伊惠"
-title_zh: "阿恩D蕾W·H乌SS伊惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Andrew Hussie"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136136"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Andrew Hussie"
   - "The Orange Guy"
 source_ids:
   vndb: "c136136"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c136136.webp"
 ---
 
-# 阿恩D蕾W·H乌SS伊惠
+# Andrew Hussie
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

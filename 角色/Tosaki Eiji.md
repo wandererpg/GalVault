@@ -5,7 +5,10 @@ display_title: "户崎瑛迩"
 title_zh: "户崎瑛迩"
 title_ja: "戸崎 瑛邇"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c72621"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tosaki Eiji"
   - "戸崎 瑛邇"

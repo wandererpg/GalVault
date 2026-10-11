@@ -5,7 +5,10 @@ display_title: "曹仁子孝"
 title_zh: "曹仁子孝"
 title_ja: "曹仁 子孝"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c59791"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Soujin Shikou"
   - "曹仁 子孝"

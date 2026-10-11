@@ -5,7 +5,10 @@ display_title: "茅沼里香"
 title_zh: "茅沼里香"
 title_ja: "茅沼 里香"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1674"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kayanuma Rika"
   - "茅沼 里香"

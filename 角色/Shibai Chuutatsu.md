@@ -5,7 +5,10 @@ display_title: "司马懿仲达"
 title_zh: "司马懿仲达"
 title_ja: "司馬懿 仲達"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c63354"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shibai Chuutatsu"
   - "司馬懿 仲達"

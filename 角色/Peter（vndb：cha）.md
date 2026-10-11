@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c59760"
 type: "character"
-display_title: "佩惠太阿"
-title_zh: "佩惠太阿"
+display_title: "ペーター"
+title_zh: ""
 title_ja: "ペーター"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c59760"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Peter"
-  - "ペーター"
 source_ids:
   vndb: "c59760"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c59760.webp"
 ---
 
-# 佩惠太阿
+# ペーター
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

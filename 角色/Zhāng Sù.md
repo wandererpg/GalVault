@@ -5,7 +5,10 @@ display_title: "张素/张素"
 title_zh: "张素/张素"
 title_ja: "张素/張素"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c172690"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Zhāng Sù"
   - "张素/張素"

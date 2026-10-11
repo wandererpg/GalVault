@@ -5,7 +5,10 @@ display_title: "毛利辉元"
 title_zh: "毛利辉元"
 title_ja: "毛利 輝元"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14256"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mouri Terumoto"
   - "毛利 輝元"

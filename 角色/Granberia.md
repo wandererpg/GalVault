@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c5264"
 type: "character"
-display_title: "古拉恩贝莉阿"
-title_zh: "古拉恩贝莉阿"
+display_title: "グランベリア"
+title_zh: ""
 title_ja: "グランベリア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c5264"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Granberia"
-  - "グランベリア"
   - "Granberry"
   - "Swordswoman of Fire"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c5264.webp"
 ---
 
-# 古拉恩贝莉阿
+# グランベリア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "菜夏"
 title_zh: "菜夏"
 title_ja: "菜夏"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c63552"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nana"
 source_ids:

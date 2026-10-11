@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c149378"
 type: "character"
-display_title: "C奥R德L伊阿"
-title_zh: "C奥R德L伊阿"
+display_title: "Корделия"
+title_zh: ""
 title_ja: "Корделия"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149378"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cordelia"
-  - "Корделия"
 source_ids:
   vndb: "c149378"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c149378.webp"
 ---
 
-# C奥R德L伊阿
+# Корделия
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

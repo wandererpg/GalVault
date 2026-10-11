@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c103"
 type: "character"
-display_title: "土永沙恩"
-title_zh: "土永沙恩"
+display_title: "土永さん"
+title_zh: ""
 title_ja: "土永さん"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tsuchinaga-san"
-  - "土永さん"
 source_ids:
   vndb: "c103"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c103.webp"
 ---
 
-# 土永沙恩
+# 土永さん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13605"
 type: "character"
-display_title: "希拉"
-title_zh: "希拉"
+display_title: "キラ"
+title_zh: ""
 title_ja: "キラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13605"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kira"
-  - "キラ"
 source_ids:
   vndb: "c13605"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c13605.webp"
 ---
 
-# 希拉
+# キラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

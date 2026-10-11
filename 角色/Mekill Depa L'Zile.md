@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c96997"
 type: "character"
-display_title: "美伊希露德帕拉吉伊露"
-title_zh: "美伊希露德帕拉吉伊露"
+display_title: "ミーキル・デパ・ラジール"
+title_zh: ""
 title_ja: "ミーキル・デパ・ラジール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c96997"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mekill Depa L'Zile"
-  - "ミーキル・デパ・ラジール"
   - "Mikiru Depa L'Zile"
 source_ids:
   vndb: "c96997"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c96997.webp"
 ---
 
-# 美伊希露德帕拉吉伊露
+# ミーキル・デパ・ラジール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

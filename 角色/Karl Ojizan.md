@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c124254"
 type: "character"
-display_title: "加阿露奥吉扎恩"
-title_zh: "加阿露奥吉扎恩"
+display_title: "カール・オジザン"
+title_zh: ""
 title_ja: "カール・オジザン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124254"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Karl Ojizan"
-  - "カール・オジザン"
   - "Lieutenant General Karl"
   - "Lieutenant General of the First Army of Helman"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c124254.webp"
 ---
 
-# 加阿露奥吉扎恩
+# カール・オジザン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

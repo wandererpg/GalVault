@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c149562"
 type: "character"
-display_title: "达尼恩古寿美寿"
-title_zh: "达尼恩古寿美寿"
+display_title: "ダニング・スミス"
+title_zh: ""
 title_ja: "ダニング・スミス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149562"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Dunning Smith"
-  - "ダニング・スミス"
   - "Marcel Osterzone"
 source_ids:
   vndb: "c149562"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c149562.webp"
 ---
 
-# 达尼恩古寿美寿
+# ダニング・スミス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

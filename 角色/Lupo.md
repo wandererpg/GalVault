@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c46934"
 type: "character"
-display_title: "露波"
-title_zh: "露波"
+display_title: "ルポ"
+title_zh: ""
 title_ja: "ルポ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c46934"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lupo"
-  - "ルポ"
 source_ids:
   vndb: "c46934"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c46934.webp"
 ---
 
-# 露波
+# ルポ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

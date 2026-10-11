@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c58127"
 type: "character"
-display_title: "加蕾恩久露津"
-title_zh: "加蕾恩久露津"
+display_title: "カレン・クルツ"
+title_zh: ""
 title_ja: "カレン・クルツ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c58127"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Karin Kurz"
-  - "カレン・クルツ"
   - "Lemon"
 source_ids:
   vndb: "c58127"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c58127.webp"
 ---
 
-# 加蕾恩久露津
+# カレン・クルツ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

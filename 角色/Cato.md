@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c97004"
 type: "character"
-display_title: "C阿斗"
-title_zh: "C阿斗"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Cato"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97004"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Cato"
 source_ids:
   vndb: "c97004"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c97004.webp"
 ---
 
-# C阿斗
+# Cato
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

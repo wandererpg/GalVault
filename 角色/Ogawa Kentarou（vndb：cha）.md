@@ -5,7 +5,10 @@ display_title: "小川健太郎"
 title_zh: "小川健太郎"
 title_ja: "小川 健太郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c53096"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ogawa Kentarou"
   - "小川 健太郎"

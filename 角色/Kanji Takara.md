@@ -5,7 +5,10 @@ display_title: "柑子宝"
 title_zh: "柑子宝"
 title_ja: "柑子 宝"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c97106"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kanji Takara"
   - "柑子 宝"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c15879"
 type: "character"
-display_title: "F惠扎莉伊努阿乌古寿斗乌寿阿乌洛奥拉"
-title_zh: "F惠扎莉伊努阿乌古寿斗乌寿阿乌洛奥拉"
+display_title: "フェザリーヌ・アウグストゥス・アウローラ"
+title_zh: ""
 title_ja: "フェザリーヌ・アウグストゥス・アウローラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c15879"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Featherine Augustus Aurora"
-  - "フェザリーヌ・アウグストゥス・アウローラ"
   - "Auaurora"
   - "The Witch of Theatergoing, Drama and Spectating"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c15879.webp"
 ---
 
-# F惠扎莉伊努阿乌古寿斗乌寿阿乌洛奥拉
+# フェザリーヌ・アウグストゥス・アウローラ
 
 
 ## 角色画像

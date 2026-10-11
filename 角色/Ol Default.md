@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c129418"
 type: "character"
-display_title: "奥露德F奥露斗"
-title_zh: "奥露德F奥露斗"
+display_title: "オル・デフォルト"
+title_zh: ""
 title_ja: "オル・デフォルト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c129418"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ol Default"
-  - "オル・デフォルト"
 source_ids:
   vndb: "c129418"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c129418.webp"
 ---
 
-# 奥露德F奥露斗
+# オル・デフォルト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

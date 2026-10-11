@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c147136"
 type: "character"
-display_title: "羽雅斗"
-title_zh: "羽雅斗"
+display_title: "ハヤト"
+title_zh: ""
 title_ja: "ハヤト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c147136"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hayato"
-  - "ハヤト"
 source_ids:
   vndb: "c147136"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c147136.webp"
 ---
 
-# 羽雅斗
+# ハヤト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

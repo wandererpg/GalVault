@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c101350"
 type: "character"
-display_title: "美T千惠露穗和阿堂"
-title_zh: "美T千惠露穗和阿堂"
+display_title: "ミッチェル・ホワード"
+title_zh: ""
 title_ja: "ミッチェル・ホワード"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c101350"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mitchell Howard"
-  - "ミッチェル・ホワード"
 source_ids:
   vndb: "c101350"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c101350.webp"
 ---
 
-# 美T千惠露穗和阿堂
+# ミッチェル・ホワード
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

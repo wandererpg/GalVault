@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c441"
 type: "character"
-display_title: "穗诗乃·优芽美"
-title_zh: "穗诗乃·优芽美"
+display_title: "ほしの ゆめみ"
+title_zh: ""
 title_ja: "ほしの ゆめみ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c441"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hoshino Yumemi"
-  - "ほしの ゆめみ"
   - "Planetarian"
   - "Reverie"
   - "Dream"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c441.webp"
 ---
 
-# 穗诗乃·优芽美
+# ほしの ゆめみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

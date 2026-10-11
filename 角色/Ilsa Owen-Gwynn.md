@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c141565"
 type: "character"
-display_title: "伊露扎奥奥乌惠恩古乌伊恩"
-title_zh: "伊露扎奥奥乌惠恩古乌伊恩"
+display_title: "イルザ・オーウェン・グウィン"
+title_zh: ""
 title_ja: "イルザ・オーウェン・グウィン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141565"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ilsa Owen-Gwynn"
-  - "イルザ・オーウェン・グウィン"
 source_ids:
   vndb: "c141565"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c141565.webp"
 ---
 
-# 伊露扎奥奥乌惠恩古乌伊恩
+# イルザ・オーウェン・グウィン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

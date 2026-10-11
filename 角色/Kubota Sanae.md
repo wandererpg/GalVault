@@ -5,7 +5,10 @@ display_title: "洼田早苗"
 title_zh: "洼田早苗"
 title_ja: "窪田 早苗"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c28949"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kubota Sanae"
   - "窪田 早苗"

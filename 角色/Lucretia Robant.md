@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30514"
 type: "character"
-display_title: "露久蕾T特伊阿洛奥巴恩斗"
-title_zh: "露久蕾T特伊阿洛奥巴恩斗"
+display_title: "ルクレッティア・ローバント"
+title_zh: ""
 title_ja: "ルクレッティア・ローバント"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30514"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lucretia Robant"
-  - "ルクレッティア・ローバント"
 source_ids:
   vndb: "c30514"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30514.webp"
 ---
 
-# 露久蕾T特伊阿洛奥巴恩斗
+# ルクレッティア・ローバント
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

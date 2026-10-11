@@ -5,7 +5,10 @@ display_title: "熊谷胜也"
 title_zh: "熊谷胜也"
 title_ja: "熊谷 勝也"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14333"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kumagai Katsuya"
   - "熊谷 勝也"

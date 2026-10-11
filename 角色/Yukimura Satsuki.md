@@ -5,7 +5,10 @@ display_title: "雪村沙月"
 title_zh: "雪村沙月"
 title_ja: "雪村　沙月"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c144196"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yukimura Satsuki"
   - "雪村　沙月"

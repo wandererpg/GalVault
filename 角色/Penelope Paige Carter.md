@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c106305"
 type: "character"
-display_title: "佩音L奥佩·帕伊格·C阿R特R"
-title_zh: "佩音L奥佩·帕伊格·C阿R特R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Penelope Paige Carter"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c106305"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Penelope Paige Carter"
   - "Penny"
 source_ids:
   vndb: "c106305"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c106305.webp"
 ---
 
-# 佩音L奥佩·帕伊格·C阿R特R
+# Penelope Paige Carter
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

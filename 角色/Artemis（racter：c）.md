@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c70868"
 type: "character"
-display_title: "阿露特美寿"
-title_zh: "阿露特美寿"
+display_title: "アルテミス"
+title_zh: ""
 title_ja: "アルテミス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c70868"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Artemis"
-  - "アルテミス"
 source_ids:
   vndb: "c70868"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c70868.webp"
 ---
 
-# 阿露特美寿
+# アルテミス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

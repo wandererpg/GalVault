@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13612"
 type: "character"
-display_title: "土岐望"
-title_zh: "土岐望"
+display_title: "土岐 のぞみ"
+title_zh: ""
 title_ja: "土岐 のぞみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13612"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Toki Nozomi"
-  - "土岐 のぞみ"
 source_ids:
   vndb: "c13612"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c13612.webp"
 ---
 
-# 土岐望
+# 土岐 のぞみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

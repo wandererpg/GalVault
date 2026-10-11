@@ -5,7 +5,10 @@ display_title: "片桐奈々濑"
 title_zh: "片桐奈々濑"
 title_ja: "片桐 奈々瀬"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c71528"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Katagiri Nanase"
   - "片桐 奈々瀬"

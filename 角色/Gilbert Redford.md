@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c64021"
 type: "character"
-display_title: "吉露巴阿斗蕾D堂F奥奥堂"
-title_zh: "吉露巴阿斗蕾D堂F奥奥堂"
+display_title: "ギルバート・レッドフォード"
+title_zh: ""
 title_ja: "ギルバート・レッドフォード"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c64021"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gilbert Redford"
-  - "ギルバート・レッドフォード"
 source_ids:
   vndb: "c64021"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c64021.webp"
 ---
 
-# 吉露巴阿斗蕾D堂F奥奥堂
+# ギルバート・レッドフォード
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "药师院神威"
 title_zh: "药师院神威"
 title_ja: "薬師院 神威"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c55662"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yakushiin Kamui"
   - "薬師院 神威"

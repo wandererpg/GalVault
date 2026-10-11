@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c155199"
 type: "character"
-display_title: "索D伊K久莫音"
-title_zh: "索D伊K久莫音"
+display_title: "ソディック・モネ"
+title_zh: ""
 title_ja: "ソディック・モネ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155199"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sodyk Mun"
-  - "ソディック・モネ"
   - "Cao Cao"
   - "曹德·孟奈"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c155199.webp"
 ---
 
-# 索D伊K久莫音
+# ソディック・モネ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

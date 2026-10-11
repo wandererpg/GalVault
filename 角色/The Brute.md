@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c136601"
 type: "character"
-display_title: "T惠·B露特"
-title_zh: "T惠·B露特"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "The Brute"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136601"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "The Brute"
 source_ids:
   vndb: "c136601"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c136601.webp"
 ---
 
-# T惠·B露特
+# The Brute
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

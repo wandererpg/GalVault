@@ -5,7 +5,10 @@ display_title: "蒲生忠三郎梅赋秀"
 title_zh: "蒲生忠三郎梅赋秀"
 title_ja: "蒲生 忠三郎 梅 賦秀"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20604"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Gamou Chuuzaburou Ume Masuhide"
   - "蒲生 忠三郎 梅 賦秀"

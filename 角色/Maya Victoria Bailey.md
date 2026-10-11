@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c80186"
 type: "character"
-display_title: "真雅·维多利亚·巴伊L惠Y"
-title_zh: "真雅·维多利亚·巴伊L惠Y"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Maya Victoria Bailey"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c80186"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Maya Victoria Bailey"
 source_ids:
   vndb: "c80186"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c80186.webp"
 ---
 
-# 真雅·维多利亚·巴伊L惠Y
+# Maya Victoria Bailey
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

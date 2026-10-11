@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c93291"
 type: "character"
-display_title: "岳见加乃乃"
-title_zh: "岳见加乃乃"
+display_title: "嶽見 かのの"
+title_zh: ""
 title_ja: "嶽見 かのの"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c93291"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Takemi Kanono"
-  - "嶽見 かのの"
 source_ids:
   vndb: "c93291"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c93291.webp"
 ---
 
-# 岳见加乃乃
+# 嶽見 かのの
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "小松贞宗"
 title_zh: "小松贞宗"
 title_ja: "小松 貞宗"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c165706"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Komatsu Sadamune"
   - "小松 貞宗"

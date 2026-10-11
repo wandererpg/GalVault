@@ -5,7 +5,10 @@ display_title: "陈宫公台"
 title_zh: "陈宫公台"
 title_ja: "陳宮 公台"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c50557"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Chinkyuu Koudai"
   - "陳宮 公台"

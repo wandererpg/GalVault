@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38356"
 type: "character"
-display_title: "筿冈音音"
-title_zh: "筿冈音音"
+display_title: "篠岡 ねね"
+title_zh: ""
 title_ja: "篠岡 ねね"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38356"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shinooka Nene"
-  - "篠岡 ねね"
 source_ids:
   vndb: "c38356"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c38356.webp"
 ---
 
-# 筿冈音音
+# 篠岡 ねね
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

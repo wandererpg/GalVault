@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c97365"
 type: "character"
-display_title: "休乌悟"
-title_zh: "休乌悟"
+display_title: "ヒューゴ"
+title_zh: ""
 title_ja: "ヒューゴ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97365"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hugo"
-  - "ヒューゴ"
 source_ids:
   vndb: "c97365"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c97365.webp"
 ---
 
-# 休乌悟
+# ヒューゴ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

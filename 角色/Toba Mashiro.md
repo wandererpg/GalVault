@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14556"
 type: "character"
-display_title: "鸟羽真诗洛"
-title_zh: "鸟羽真诗洛"
+display_title: "鳥羽 ましろ"
+title_zh: ""
 title_ja: "鳥羽 ましろ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14556"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Toba Mashiro"
-  - "鳥羽 ましろ"
   - "ましろん"
   - "Mashiron"
   - "監視対象マ号"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c14556.webp"
 ---
 
-# 鸟羽真诗洛
+# 鳥羽 ましろ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

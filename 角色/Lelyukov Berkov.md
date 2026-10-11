@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c124252"
 type: "character"
-display_title: "L惠L优子V·贝R子V"
-title_zh: "L惠L优子V·贝R子V"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Lelyukov Berkov"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124252"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Lelyukov Berkov"
   - "General of the First Army of Helman"
   - "General Lelyukov"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c124252.webp"
 ---
 
-# L惠L优子V·贝R子V
+# Lelyukov Berkov
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

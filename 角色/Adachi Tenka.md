@@ -5,7 +5,10 @@ display_title: "足立甜花"
 title_zh: "足立甜花"
 title_ja: "足立 甜花"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c29524"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Adachi Tenka"
   - "足立 甜花"

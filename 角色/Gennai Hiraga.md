@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17320"
 type: "character"
-display_title: "格恩奈伊日拉雅"
-title_zh: "格恩奈伊日拉雅"
+display_title: "ゲンナイ・ヒラガ"
+title_zh: ""
 title_ja: "ゲンナイ・ヒラガ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17320"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gennai Hiraga"
-  - "ゲンナイ・ヒラガ"
 source_ids:
   vndb: "c17320"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c17320.webp"
 ---
 
-# 格恩奈伊日拉雅
+# ゲンナイ・ヒラガ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

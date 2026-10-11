@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159768"
 type: "character"
-display_title: "C伊恩DY·泽尼TH"
-title_zh: "C伊恩DY·泽尼TH"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Cindy Zenith"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159768"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Cindy Zenith"
   - "Cindy Capland"
 source_ids:
   vndb: "c159768"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c159768.webp"
 ---
 
-# C伊恩DY·泽尼TH
+# Cindy Zenith
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

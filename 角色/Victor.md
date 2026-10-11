@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c122256"
 type: "character"
-display_title: "V伊久斗露"
-title_zh: "V伊久斗露"
+display_title: "ヴィクトル"
+title_zh: ""
 title_ja: "ヴィクトル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c122256"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Victor"
-  - "ヴィクトル"
 source_ids:
   vndb: "c122256"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c122256.webp"
 ---
 
-# V伊久斗露
+# ヴィクトル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

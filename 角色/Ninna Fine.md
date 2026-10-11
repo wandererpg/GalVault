@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c20693"
 type: "character"
-display_title: "尼恩奈F伊伊音"
-title_zh: "尼恩奈F伊伊音"
+display_title: "ニンナ・フィーネ"
+title_zh: ""
 title_ja: "ニンナ・フィーネ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c20693"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ninna Fine"
-  - "ニンナ・フィーネ"
   - "Mrs. Fine"
   - "Granny"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c20693.webp"
 ---
 
-# 尼恩奈F伊伊音
+# ニンナ・フィーネ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

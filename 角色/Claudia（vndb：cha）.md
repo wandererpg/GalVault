@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c543"
 type: "character"
-display_title: "久洛奥D伊阿"
-title_zh: "久洛奥D伊阿"
+display_title: "クローディア"
+title_zh: ""
 title_ja: "クローディア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c543"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Claudia"
-  - "クローディア"
   - "クロ"
 source_ids:
   vndb: "c543"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c543.webp"
 ---
 
-# 久洛奥D伊阿
+# クローディア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

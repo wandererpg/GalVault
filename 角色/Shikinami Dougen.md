@@ -5,7 +5,10 @@ display_title: "敷浪道眼"
 title_zh: "敷浪道眼"
 title_ja: "敷浪 道眼"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c40090"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shikinami Dougen"
   - "敷浪 道眼"

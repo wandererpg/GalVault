@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c168504"
 type: "character"
-display_title: "F阿Y惠"
-title_zh: "F阿Y惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Faye"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c168504"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Faye"
 source_ids:
   vndb: "c168504"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c168504.webp"
 ---
 
-# F阿Y惠
+# Faye
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

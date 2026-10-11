@@ -5,7 +5,10 @@ display_title: "金本信"
 title_zh: "金本信"
 title_ja: "金本 信"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c110894"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kanamoto Shin"
   - "金本 信"

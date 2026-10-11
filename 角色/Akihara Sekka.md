@@ -5,7 +5,10 @@ display_title: "秋原雪花"
 title_zh: "秋原雪花"
 title_ja: "秋原 雪花"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c66906"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Akihara Sekka"
   - "秋原 雪花"

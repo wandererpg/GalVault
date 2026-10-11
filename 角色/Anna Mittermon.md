@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c159650"
 type: "character"
-display_title: "阿恩奈美特露莫恩"
-title_zh: "阿恩奈美特露莫恩"
+display_title: "アンナ・ミテルモン"
+title_zh: ""
 title_ja: "アンナ・ミテルモン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159650"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Anna Mittermon"
-  - "アンナ・ミテルモン"
   - "2ゴウ"
   - "2 Gou"
   - "Juror No. 2"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c159650.webp"
 ---
 
-# 阿恩奈美特露莫恩
+# アンナ・ミテルモン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

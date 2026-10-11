@@ -5,7 +5,10 @@ display_title: "雫原比留子"
 title_zh: "雫原比留子"
 title_ja: "雫原 比留子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c150812"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shizuhara Hiruko"
   - "雫原 比留子"

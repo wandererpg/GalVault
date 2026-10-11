@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c138985"
 type: "character"
-display_title: "阿R比特R"
-title_zh: "阿R比特R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Arbiter"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138985"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Arbiter"
   - "Ari"
 source_ids:
   vndb: "c138985"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c138985.webp"
 ---
 
-# 阿R比特R
+# Arbiter
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

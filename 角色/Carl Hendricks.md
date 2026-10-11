@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c92040"
 type: "character"
-display_title: "C阿RL·惠恩D莉CKS"
-title_zh: "C阿RL·惠恩D莉CKS"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Carl Hendricks"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92040"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Carl Hendricks"
 source_ids:
   vndb: "c92040"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c92040.webp"
 ---
 
-# C阿RL·惠恩D莉CKS
+# Carl Hendricks
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

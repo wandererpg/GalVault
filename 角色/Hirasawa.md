@@ -5,7 +5,10 @@ display_title: "平泽"
 title_zh: "平泽"
 title_ja: "平沢"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c154744"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hirasawa"
   - "平沢"

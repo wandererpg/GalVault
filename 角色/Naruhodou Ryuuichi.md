@@ -5,7 +5,10 @@ display_title: "成步堂龙一"
 title_zh: "成步堂龙一"
 title_ja: "成歩堂 龍一"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c3941"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Naruhodou Ryuuichi"
   - "成歩堂 龍一"

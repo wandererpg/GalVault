@@ -5,7 +5,10 @@ display_title: "上月未羽"
 title_zh: "上月未羽"
 title_ja: "上月 未羽"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c55910"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kouzuki Miu"
   - "上月 未羽"

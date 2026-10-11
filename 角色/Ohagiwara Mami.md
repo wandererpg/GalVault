@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c153196"
 type: "character"
-display_title: "尾萩原真美"
-title_zh: "尾萩原真美"
+display_title: "尾萩原 マミ"
+title_zh: ""
 title_ja: "尾萩原 マミ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c153196"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ohagiwara Mami"
-  - "尾萩原 マミ"
   - "Ohagi-san (おはぎさん)"
 source_ids:
   vndb: "c153196"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c153196.webp"
 ---
 
-# 尾萩原真美
+# 尾萩原 マミ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c109721"
 type: "character"
-display_title: "艾莉卡·美LL惠R"
-title_zh: "艾莉卡·美LL惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Erica Miller"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c109721"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Erica Miller"
   - "Rikki"
 source_ids:
   vndb: "c109721"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c109721.webp"
 ---
 
-# 艾莉卡·美LL惠R
+# Erica Miller
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

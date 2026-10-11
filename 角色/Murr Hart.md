@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c161317"
 type: "character"
-display_title: "梦露·羽阿斗"
-title_zh: "梦露·羽阿斗"
+display_title: "ムル ハート"
+title_zh: ""
 title_ja: "ムル ハート"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161317"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Murr Hart"
-  - "ムル ハート"
 source_ids:
   vndb: "c161317"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c161317.webp"
 ---
 
-# 梦露·羽阿斗
+# ムル ハート
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

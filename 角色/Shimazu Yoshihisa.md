@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c2896"
 type: "character"
-display_title: "岛津代诗日沙"
-title_zh: "岛津代诗日沙"
+display_title: "島津 ヨシヒサ"
+title_zh: ""
 title_ja: "島津 ヨシヒサ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c2896"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shimazu Yoshihisa"
-  - "島津 ヨシヒサ"
 source_ids:
   vndb: "c2896"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c2896.webp"
 ---
 
-# 岛津代诗日沙
+# 島津 ヨシヒサ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

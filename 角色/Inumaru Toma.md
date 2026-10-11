@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c164112"
 type: "character"
-display_title: "狗丸斗乌真"
-title_zh: "狗丸斗乌真"
+display_title: "狗丸トウマ"
+title_zh: ""
 title_ja: "狗丸トウマ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c164112"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Inumaru Toma"
-  - "狗丸トウマ"
 source_ids:
   vndb: "c164112"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c164112.webp"
 ---
 
-# 狗丸斗乌真
+# 狗丸トウマ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

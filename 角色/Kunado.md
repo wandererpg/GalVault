@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c69397"
 type: "character"
-display_title: "久奈堂"
-title_zh: "久奈堂"
+display_title: "クナド"
+title_zh: ""
 title_ja: "クナド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c69397"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kunado"
-  - "クナド"
 source_ids:
   vndb: "c69397"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c69397.webp"
 ---
 
-# 久奈堂
+# クナド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

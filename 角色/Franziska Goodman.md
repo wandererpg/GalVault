@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c15838"
 type: "character"
-display_title: "芙拉恩津伊寿加古D堂真恩"
-title_zh: "芙拉恩津伊寿加古D堂真恩"
+display_title: "フランツィスカ・グッドマン"
+title_zh: ""
 title_ja: "フランツィスカ・グッドマン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c15838"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Franziska Goodman"
-  - "フランツィスカ・グッドマン"
   - "Fran"
   - "フラン"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c15838.webp"
 ---
 
-# 芙拉恩津伊寿加古D堂真恩
+# フランツィスカ・グッドマン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

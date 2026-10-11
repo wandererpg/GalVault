@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c621"
 type: "character"
-display_title: "古贺日斗美"
-title_zh: "古贺日斗美"
+display_title: "古賀 ひとみ"
+title_zh: ""
 title_ja: "古賀 ひとみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c621"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Koga Hitomi"
-  - "古賀 ひとみ"
   - "Кога Хитоми"
 source_ids:
   vndb: "c621"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c621.webp"
 ---
 
-# 古贺日斗美
+# 古賀 ひとみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

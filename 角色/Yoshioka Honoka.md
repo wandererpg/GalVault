@@ -5,7 +5,10 @@ display_title: "吉冈帆乃香"
 title_zh: "吉冈帆乃香"
 title_ja: "吉岡 帆乃香"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c39195"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yoshioka Honoka"
   - "吉岡 帆乃香"

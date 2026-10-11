@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c27784"
 type: "character"
-display_title: "莉斗奈蕾伊恩V阿寿太"
-title_zh: "莉斗奈蕾伊恩V阿寿太"
+display_title: "リトナ・レインヴァスタ"
+title_zh: ""
 title_ja: "リトナ・レインヴァスタ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c27784"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ritona Reighnvhasta"
-  - "リトナ・レインヴァスタ"
 source_ids:
   vndb: "c27784"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c27784.webp"
 ---
 
-# 莉斗奈蕾伊恩V阿寿太
+# リトナ・レインヴァスタ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "筑川宇佐美"
 title_zh: "筑川宇佐美"
 title_ja: "築川 宇佐美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c64889"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsukikawa Usami"
   - "築川 宇佐美"

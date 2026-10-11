@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c149515"
 type: "character"
-display_title: "真莉惠露纽恩8181"
-title_zh: "真莉惠露纽恩8181"
+display_title: "マリエル・ニュン8181"
+title_zh: ""
 title_ja: "マリエル・ニュン8181"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149515"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mariel Nyun8181"
-  - "マリエル・ニュン8181"
 source_ids:
   vndb: "c149515"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c149515.webp"
 ---
 
-# 真莉惠露纽恩8181
+# マリエル・ニュン8181
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

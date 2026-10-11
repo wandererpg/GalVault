@@ -5,7 +5,10 @@ display_title: "绫地宁々"
 title_zh: "绫地宁々"
 title_ja: "綾地 寧々"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c26597"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ayachi Nene"
   - "綾地 寧々"

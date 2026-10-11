@@ -5,7 +5,10 @@ display_title: "鲁肃子敬"
 title_zh: "鲁肃子敬"
 title_ja: "魯粛 子敬"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c62472"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Roshuku Shikei"
   - "魯粛 子敬"

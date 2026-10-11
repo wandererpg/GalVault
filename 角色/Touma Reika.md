@@ -5,7 +5,10 @@ display_title: "当麻零佳"
 title_zh: "当麻零佳"
 title_ja: "当麻 零佳"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14401"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Touma Reika"
   - "当麻 零佳"

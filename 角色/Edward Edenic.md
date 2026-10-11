@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61136"
 type: "character"
-display_title: "惠D和RD·惠德尼C"
-title_zh: "惠D和RD·惠德尼C"
+display_title: "에드워드 에드닉"
+title_zh: ""
 title_ja: "에드워드 에드닉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61136"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Edward Edenic"
-  - "에드워드 에드닉"
 source_ids:
   vndb: "c61136"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61136.webp"
 ---
 
-# 惠D和RD·惠德尼C
+# 에드워드 에드닉
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

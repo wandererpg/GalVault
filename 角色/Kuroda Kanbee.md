@@ -5,7 +5,10 @@ display_title: "黑田官兵卫"
 title_zh: "黑田官兵卫"
 title_ja: "黒田 官兵衛"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c31810"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kuroda Kanbee"
   - "黒田 官兵衛"

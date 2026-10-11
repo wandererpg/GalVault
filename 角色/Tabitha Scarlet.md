@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c165008"
 type: "character"
-display_title: "太比T羽·SC阿RL惠T"
-title_zh: "太比T羽·SC阿RL惠T"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Tabitha Scarlet"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c165008"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Tabitha Scarlet"
   - "Tabby"
   - "Tabitha Chrysanthemum Scarlet"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c165008.webp"
 ---
 
-# 太比T羽·SC阿RL惠T
+# Tabitha Scarlet
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

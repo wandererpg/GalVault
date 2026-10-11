@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c135124"
 type: "character"
-display_title: "莉阿"
-title_zh: "莉阿"
+display_title: "リア"
+title_zh: ""
 title_ja: "リア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c135124"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lia"
-  - "リア"
 source_ids:
   vndb: "c135124"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c135124.webp"
 ---
 
-# 莉阿
+# リア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

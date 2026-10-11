@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c59761"
 type: "character"
-display_title: "羽恩寿"
-title_zh: "羽恩寿"
+display_title: "ハンス"
+title_zh: ""
 title_ja: "ハンス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c59761"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hans"
-  - "ハンス"
 source_ids:
   vndb: "c59761"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c59761.webp"
 ---
 
-# 羽恩寿
+# ハンス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

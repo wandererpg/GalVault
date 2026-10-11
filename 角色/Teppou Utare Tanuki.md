@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c22593"
 type: "character"
-display_title: "铁砲击蕾狸"
-title_zh: "铁砲击蕾狸"
+display_title: "鉄砲撃レ狸"
+title_zh: ""
 title_ja: "鉄砲撃レ狸"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c22593"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Teppou Utare Tanuki"
-  - "鉄砲撃レ狸"
 source_ids:
   vndb: "c22593"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c22593.webp"
 ---
 
-# 铁砲击蕾狸
+# 鉄砲撃レ狸
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

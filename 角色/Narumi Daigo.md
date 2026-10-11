@@ -5,7 +5,10 @@ display_title: "成海大吾"
 title_zh: "成海大吾"
 title_ja: "成海 大吾"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14825"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Narumi Daigo"
   - "成海 大吾"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c132209"
 type: "character"
-display_title: "F阿比阿乃"
-title_zh: "F阿比阿乃"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Fabiano"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132209"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Fabiano"
 source_ids:
   vndb: "c132209"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c132209.webp"
 ---
 
-# F阿比阿乃
+# Fabiano
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

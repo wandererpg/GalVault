@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c29708"
 type: "character"
-display_title: "沙伊莫芙羽露乌伊恩"
-title_zh: "沙伊莫芙羽露乌伊恩"
+display_title: "サイモフ・ハルーイン"
+title_zh: ""
 title_ja: "サイモフ・ハルーイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c29708"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Saimof Haruin"
-  - "サイモフ・ハルーイン"
 source_ids:
   vndb: "c29708"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c29708.webp"
 ---
 
-# 沙伊莫芙羽露乌伊恩
+# サイモフ・ハルーイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c3097"
 type: "character"
-display_title: "远野遥"
-title_zh: "远野遥"
+display_title: "遠野 はるか"
+title_zh: ""
 title_ja: "遠野 はるか"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c3097"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Toono Haruka"
-  - "遠野 はるか"
 source_ids:
   vndb: "c3097"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c3097.webp"
 ---
 
-# 远野遥
+# 遠野 はるか
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

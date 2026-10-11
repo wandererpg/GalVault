@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c134639"
 type: "character"
-display_title: "T惠·尼GHT真蕾"
-title_zh: "T惠·尼GHT真蕾"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "The Nightmare"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c134639"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "The Nightmare"
 source_ids:
   vndb: "c134639"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c134639.webp"
 ---
 
-# T惠·尼GHT真蕾
+# The Nightmare
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c129767"
 type: "character"
-display_title: "真阿君乃彼女"
-title_zh: "真阿君乃彼女"
+display_title: "マー君の彼女"
+title_zh: ""
 title_ja: "マー君の彼女"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c129767"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Maa-kun no kanojo"
-  - "マー君の彼女"
 source_ids:
   vndb: "c129767"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c129767.webp"
 ---
 
-# 真阿君乃彼女
+# マー君の彼女
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

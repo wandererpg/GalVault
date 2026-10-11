@@ -5,7 +5,10 @@ display_title: "睦越七枝美"
 title_zh: "睦越七枝美"
 title_ja: "睦越 七枝美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c36536"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mutsukoshi Naemi"
   - "睦越 七枝美"

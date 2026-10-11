@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c103764"
 type: "character"
-display_title: "乔恩诗惠伊久寿皮阿"
-title_zh: "乔恩诗惠伊久寿皮阿"
+display_title: "ジョン・シェイクスピア"
+title_zh: ""
 title_ja: "ジョン・シェイクスピア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103764"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "John Shakespeare"
-  - "ジョン・シェイクスピア"
 source_ids:
   vndb: "c103764"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c103764.webp"
 ---
 
-# 乔恩诗惠伊久寿皮阿
+# ジョン・シェイクスピア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

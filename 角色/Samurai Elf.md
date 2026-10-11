@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125828"
 type: "character"
-display_title: "沙梦拉伊惠露芙"
-title_zh: "沙梦拉伊惠露芙"
+display_title: "サムライエルフ"
+title_zh: ""
 title_ja: "サムライエルフ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125828"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Samurai Elf"
-  - "サムライエルフ"
   - "Gekka"
 source_ids:
   vndb: "c125828"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c125828.webp"
 ---
 
-# 沙梦拉伊惠露芙
+# サムライエルフ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

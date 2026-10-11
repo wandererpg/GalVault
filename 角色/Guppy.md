@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c99223"
 type: "character"
-display_title: "古P皮伊"
-title_zh: "古P皮伊"
+display_title: "ぐっぴー"
+title_zh: ""
 title_ja: "ぐっぴー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c99223"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Guppy"
-  - "ぐっぴー"
 source_ids:
   vndb: "c99223"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c99223.webp"
 ---
 
-# 古P皮伊
+# ぐっぴー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "史罗乄"
 title_zh: "史罗乄"
 title_ja: "史羅 乄"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c61328"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shira Shimeru"
   - "史羅 乄"

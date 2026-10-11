@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c112315"
 type: "character"
-display_title: "洛音T斗"
-title_zh: "洛音T斗"
+display_title: "ロネット"
+title_zh: ""
 title_ja: "ロネット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c112315"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ronnette"
-  - "ロネット"
 source_ids:
   vndb: "c112315"
 source_urls:
   vndb: "https://vndb.org/c112315"
 ---
 
-# 洛音T斗
+# ロネット
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

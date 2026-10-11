@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8236"
 type: "character"
-display_title: "黑乃芙拉恩子"
-title_zh: "黑乃芙拉恩子"
+display_title: "黒のフランコ"
+title_zh: ""
 title_ja: "黒のフランコ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8236"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Franco Il Nero"
-  - "黒のフランコ"
   - "Black Franco"
   - "Kuro no Franco"
   - "イライザ・ウォーロック"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c8236.webp"
 ---
 
-# 黑乃芙拉恩子
+# 黒のフランコ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

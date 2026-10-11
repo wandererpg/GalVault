@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61243"
 type: "character"
-display_title: "子恩帕寿"
-title_zh: "子恩帕寿"
+display_title: "コンパス"
+title_zh: ""
 title_ja: "コンパス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61243"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Compass"
-  - "コンパス"
 source_ids:
   vndb: "c61243"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61243.webp"
 ---
 
-# 子恩帕寿
+# コンパス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

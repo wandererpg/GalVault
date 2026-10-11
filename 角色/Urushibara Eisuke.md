@@ -5,7 +5,10 @@ display_title: "漆原荣辅"
 title_zh: "漆原荣辅"
 title_ja: "漆原 栄輔"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c97423"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Urushibara Eisuke"
   - "漆原 栄輔"

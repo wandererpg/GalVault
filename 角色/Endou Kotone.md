@@ -5,7 +5,10 @@ display_title: "远藤琴音"
 title_zh: "远藤琴音"
 title_ja: "遠藤 琴音"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c129946"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Endou Kotone"
   - "遠藤 琴音"

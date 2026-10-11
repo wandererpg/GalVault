@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c62420"
 type: "character"
-display_title: "贝露贝T斗"
-title_zh: "贝露贝T斗"
+display_title: "ベルベット"
+title_zh: ""
 title_ja: "ベルベット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c62420"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Velvet"
-  - "ベルベット"
   - "Vel"
 source_ids:
   vndb: "c62420"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c62420.webp"
 ---
 
-# 贝露贝T斗
+# ベルベット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c173560"
 type: "character"
-display_title: "王女阿寿加"
-title_zh: "王女阿寿加"
+display_title: "王女アスカ"
+title_zh: ""
 title_ja: "王女アスカ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c173560"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Princess Asuka"
-  - "王女アスカ"
 source_ids:
   vndb: "c173560"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c173560.webp"
 ---
 
-# 王女阿寿加
+# 王女アスカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

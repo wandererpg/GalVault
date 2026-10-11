@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c167042"
 type: "character"
-display_title: "阿DD伊T伊奥奈L·V奥伊C惠S"
-title_zh: "阿DD伊T伊奥奈L·V奥伊C惠S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Additional voices"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c167042"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Additional voices"
 source_ids:
   vndb: "c167042"
 source_urls:
   vndb: "https://vndb.org/c167042"
 ---
 
-# 阿DD伊T伊奥奈L·V奥伊C惠S
+# Additional voices
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

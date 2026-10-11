@@ -5,7 +5,10 @@ display_title: "寿美幸"
 title_zh: "寿美幸"
 title_ja: "寿 美幸"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2137"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kotobuki Miyuki"
   - "寿 美幸"

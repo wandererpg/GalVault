@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c154642"
 type: "character"
-display_title: "C阿恩DY·S斗蕾·G拉恩恩Y"
-title_zh: "C阿恩DY·S斗蕾·G拉恩恩Y"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Candy Store Granny"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c154642"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Candy Store Granny"
 source_ids:
   vndb: "c154642"
 source_urls:
   vndb: "https://vndb.org/c154642"
 ---
 
-# C阿恩DY·S斗蕾·G拉恩恩Y
+# Candy Store Granny
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

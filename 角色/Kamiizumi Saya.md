@@ -5,7 +5,10 @@ display_title: "上和泉樱夜"
 title_zh: "上和泉樱夜"
 title_ja: "上和泉 桜夜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c62573"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kamiizumi Saya"
   - "上和泉 桜夜"

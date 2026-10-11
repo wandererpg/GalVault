@@ -5,7 +5,10 @@ display_title: "家寿田静子"
 title_zh: "家寿田静子"
 title_ja: "家寿田 静子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c39309"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yasuda Shizuko"
   - "家寿田 静子"

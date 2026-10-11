@@ -5,7 +5,10 @@ display_title: "霞俊希"
 title_zh: "霞俊希"
 title_ja: "霞 俊希"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c95672"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kasumi Toshiki"
   - "霞 俊希"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c132241"
 type: "character"
-display_title: "D伊阿"
-title_zh: "D伊阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Dia"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132241"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Dia"
 source_ids:
   vndb: "c132241"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c132241.webp"
 ---
 
-# D伊阿
+# Dia
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

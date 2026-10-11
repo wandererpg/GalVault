@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12336"
 type: "character"
-display_title: "加露芽洛"
-title_zh: "加露芽洛"
+display_title: "カルメロ"
+title_zh: ""
 title_ja: "カルメロ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12336"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Carmelo"
-  - "カルメロ"
 source_ids:
   vndb: "c12336"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c12336.webp"
 ---
 
-# 加露芽洛
+# カルメロ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

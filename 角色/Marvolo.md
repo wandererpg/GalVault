@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c123207"
 type: "character"
-display_title: "真RV奥L奥"
-title_zh: "真RV奥L奥"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Marvolo"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c123207"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Marvolo"
 source_ids:
   vndb: "c123207"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c123207.webp"
 ---
 
-# 真RV奥L奥
+# Marvolo
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

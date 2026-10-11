@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c135603"
 type: "character"
-display_title: "夏斗露少女"
-title_zh: "夏斗露少女"
+display_title: "シャトル少女"
+title_zh: ""
 title_ja: "シャトル少女"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c135603"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shuttle Girl"
-  - "シャトル少女"
   - "壽寧"
   - "Hisane"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c135603.webp"
 ---
 
-# 夏斗露少女
+# シャトル少女
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

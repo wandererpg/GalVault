@@ -5,7 +5,10 @@ display_title: "鹭泽有里咲"
 title_zh: "鹭泽有里咲"
 title_ja: "鷺澤 有里咲"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c93625"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sagisawa Arisa"
   - "鷺澤 有里咲"

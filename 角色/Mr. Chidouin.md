@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c99620"
 type: "character"
-display_title: "MR·千堂乌伊恩"
-title_zh: "MR·千堂乌伊恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Mr. Chidouin"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c99620"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Mr. Chidouin"
   - "Father"
   - "Dad"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c99620.webp"
 ---
 
-# MR·千堂乌伊恩
+# Mr. Chidouin
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

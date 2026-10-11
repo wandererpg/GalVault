@@ -5,7 +5,10 @@ display_title: "天羽翼"
 title_zh: "天羽翼"
 title_ja: "天羽 翼"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c4802"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Amaha Tsubasa"
   - "天羽 翼"

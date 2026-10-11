@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c6840"
 type: "character"
-display_title: "狮子堂・千晴芙拉梦寿特伊伊堂"
-title_zh: "狮子堂・千晴芙拉梦寿特伊伊堂"
+display_title: "獅子堂・千晴・フラムスティード"
+title_zh: ""
 title_ja: "獅子堂・千晴・フラムスティード"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c6840"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shishidou Chiharu Flamsteed"
-  - "獅子堂・千晴・フラムスティード"
 source_ids:
   vndb: "c6840"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c6840.webp"
 ---
 
-# 狮子堂・千晴芙拉梦寿特伊伊堂
+# 獅子堂・千晴・フラムスティード
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

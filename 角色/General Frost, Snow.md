@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38252"
 type: "character"
-display_title: "冬将军寿乃奥"
-title_zh: "冬将军寿乃奥"
+display_title: "冬将軍 スノー"
+title_zh: ""
 title_ja: "冬将軍 スノー"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38252"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "General Frost, Snow"
-  - "冬将軍 スノー"
   - "Winter General Snow"
   - "Снегурочка, генерал Мороз"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c38252.webp"
 ---
 
-# 冬将军寿乃奥
+# 冬将軍 スノー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

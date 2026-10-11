@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61799"
 type: "character"
-display_title: "名波沙希"
-title_zh: "名波沙希"
+display_title: "名波 サキ"
+title_zh: ""
 title_ja: "名波 サキ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61799"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nanami Saki"
-  - "名波 サキ"
 source_ids:
   vndb: "c61799"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61799.webp"
 ---
 
-# 名波沙希
+# 名波 サキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

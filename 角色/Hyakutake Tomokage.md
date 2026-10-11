@@ -5,7 +5,10 @@ display_title: "百武贤兼"
 title_zh: "百武贤兼"
 title_ja: "百武 賢兼"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c76355"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hyakutake Tomokage"
   - "百武 賢兼"

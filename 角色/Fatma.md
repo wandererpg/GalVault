@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c109617"
 type: "character"
-display_title: "F阿斗真"
-title_zh: "F阿斗真"
+display_title: "ファトマ"
+title_zh: ""
 title_ja: "ファトマ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c109617"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Fatma"
-  - "ファトマ"
 source_ids:
   vndb: "c109617"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c109617.webp"
 ---
 
-# F阿斗真
+# ファトマ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c121837"
 type: "character"
-display_title: "黛安娜"
-title_zh: "黛安娜"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Diana"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c121837"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Diana"
 source_ids:
   vndb: "c121837"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c121837.webp"
 ---
 
-# 黛安娜
+# Diana
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

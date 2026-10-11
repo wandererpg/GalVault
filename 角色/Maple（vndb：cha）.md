@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c99618"
 type: "character"
-display_title: "芽伊普露"
-title_zh: "芽伊普露"
+display_title: "メイプル"
+title_zh: ""
 title_ja: "メイプル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c99618"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Maple"
-  - "メイプル"
   - "The Obstructor Maple"
 source_ids:
   vndb: "c99618"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c99618.webp"
 ---
 
-# 芽伊普露
+# メイプル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

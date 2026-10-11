@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c131602"
 type: "character"
-display_title: "P莉恩C惠SS"
-title_zh: "P莉恩C惠SS"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Princess"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c131602"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Princess"
 source_ids:
   vndb: "c131602"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c131602.webp"
 ---
 
-# P莉恩C惠SS
+# Princess
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

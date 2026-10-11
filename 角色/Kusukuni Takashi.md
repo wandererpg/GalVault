@@ -5,7 +5,10 @@ display_title: "楠国高司"
 title_zh: "楠国高司"
 title_ja: "楠国 高司"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c113568"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kusukuni Takashi"
   - "楠国 高司"

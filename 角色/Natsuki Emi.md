@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c137505"
 type: "character"
-display_title: "夏木惠美"
-title_zh: "夏木惠美"
+display_title: "夏木 えみ"
+title_zh: ""
 title_ja: "夏木 えみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c137505"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Natsuki Emi"
-  - "夏木 えみ"
 source_ids:
   vndb: "c137505"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c137505.webp"
 ---
 
-# 夏木惠美
+# 夏木 えみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

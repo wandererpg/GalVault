@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c159657"
 type: "character"
-display_title: "V伊露惠露梦悟T津拉伊日吉吉寿莫恩斗奥露梦修太伊恩"
-title_zh: "V伊露惠露梦悟T津拉伊日吉吉寿莫恩斗奥露梦修太伊恩"
+display_title: "ヴィルヘルム・ゴッツライヒ・ジギスモント・オルムシュタイン"
+title_zh: ""
 title_ja: "ヴィルヘルム・ゴッツライヒ・ジギスモント・オルムシュタイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159657"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Wilhelm Gottsreich Sigismond Ormstein"
-  - "ヴィルヘルム・ゴッツライヒ・ジギスモント・オルムシュタイン"
   - "Bohemian Boy"
   - "ゴッツ"
   - "Gotts"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c159657.webp"
 ---
 
-# V伊露惠露梦悟T津拉伊日吉吉寿莫恩斗奥露梦修太伊恩
+# ヴィルヘルム・ゴッツライヒ・ジギスモント・オルムシュタイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c54820"
 type: "character"
-display_title: "雅露雅堂"
-title_zh: "雅露雅堂"
+display_title: "ガルガド"
+title_zh: ""
 title_ja: "ガルガド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c54820"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gargado"
-  - "ガルガド"
 source_ids:
   vndb: "c54820"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c54820.webp"
 ---
 
-# 雅露雅堂
+# ガルガド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

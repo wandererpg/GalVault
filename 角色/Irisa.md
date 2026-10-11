@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c138989"
 type: "character"
-display_title: "伊莉沙"
-title_zh: "伊莉沙"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Irisa"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138989"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Irisa"
   - "Iri"
 source_ids:
   vndb: "c138989"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c138989.webp"
 ---
 
-# 伊莉沙
+# Irisa
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

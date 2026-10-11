@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c88078"
 type: "character"
-display_title: "濑惠蕾寿"
-title_zh: "濑惠蕾寿"
+display_title: "セーレス"
+title_zh: ""
 title_ja: "セーレス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c88078"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sayless"
-  - "セーレス"
   - "Celes"
 source_ids:
   vndb: "c88078"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c88078.webp"
 ---
 
-# 濑惠蕾寿
+# セーレス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

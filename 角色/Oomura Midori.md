@@ -5,7 +5,10 @@ display_title: "大村翠"
 title_zh: "大村翠"
 title_ja: "大村 翠"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9862"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Oomura Midori"
   - "大村 翠"

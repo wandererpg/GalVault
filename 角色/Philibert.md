@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c174010"
 type: "character"
-display_title: "P日L伊贝RT"
-title_zh: "P日L伊贝RT"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Philibert"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c174010"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Philibert"
 source_ids:
   vndb: "c174010"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c174010.webp"
 ---
 
-# P日L伊贝RT
+# Philibert
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

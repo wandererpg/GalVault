@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c149893"
 type: "character"
-display_title: "暗杀者阿BC"
-title_zh: "暗杀者阿BC"
+display_title: "暗殺者ABC"
+title_zh: ""
 title_ja: "暗殺者ABC"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149893"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Assassin ABC"
-  - "暗殺者ABC"
 source_ids:
   vndb: "c149893"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c149893.webp"
 ---
 
-# 暗杀者阿BC
+# 暗殺者ABC
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

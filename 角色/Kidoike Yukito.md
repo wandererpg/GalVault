@@ -5,7 +5,10 @@ display_title: "木户池幸人"
 title_zh: "木户池幸人"
 title_ja: "木戸池 幸人"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c161008"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kidoike Yukito"
   - "木戸池 幸人"

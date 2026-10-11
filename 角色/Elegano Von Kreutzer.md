@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c25724"
 type: "character"
-display_title: "惠蕾雅乃＝F奥恩＝久洛伊津惠露"
-title_zh: "惠蕾雅乃＝F奥恩＝久洛伊津惠露"
+display_title: "エレガノ＝フォン＝クロイツェル"
+title_zh: ""
 title_ja: "エレガノ＝フォン＝クロイツェル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c25724"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Elegano Von Kreutzer"
-  - "エレガノ＝フォン＝クロイツェル"
 source_ids:
   vndb: "c25724"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c25724.webp"
 ---
 
-# 惠蕾雅乃＝F奥恩＝久洛伊津惠露
+# エレガノ＝フォン＝クロイツェル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

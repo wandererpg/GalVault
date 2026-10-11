@@ -5,7 +5,10 @@ display_title: "稻本美夕"
 title_zh: "稻本美夕"
 title_ja: "稲本 美夕"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10875"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Inamoto Miyu"
   - "稲本 美夕"

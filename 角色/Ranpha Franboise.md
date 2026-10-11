@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c820"
 type: "character"
-display_title: "兰花芙拉恩博和阿兹"
-title_zh: "兰花芙拉恩博和阿兹"
+display_title: "蘭花・フランボワーズ"
+title_zh: ""
 title_ja: "蘭花・フランボワーズ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c820"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ranpha Franboise"
-  - "蘭花・フランボワーズ"
 source_ids:
   vndb: "c820"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c820.webp"
 ---
 
-# 兰花芙拉恩博和阿兹
+# 蘭花・フランボワーズ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c62894"
 type: "character"
-display_title: "濑子奈奥T斗"
-title_zh: "濑子奈奥T斗"
+display_title: "セコナオット"
+title_zh: ""
 title_ja: "セコナオット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c62894"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Seconaot"
-  - "セコナオット"
 source_ids:
   vndb: "c62894"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c62894.webp"
 ---
 
-# 濑子奈奥T斗
+# セコナオット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

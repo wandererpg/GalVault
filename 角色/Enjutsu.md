@@ -5,7 +5,10 @@ display_title: "袁术"
 title_zh: "袁术"
 title_ja: "袁術"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c33346"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Enjutsu"
   - "袁術"

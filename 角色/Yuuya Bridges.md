@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c149"
 type: "character"
-display_title: "优乌雅布莉J吉寿"
-title_zh: "优乌雅布莉J吉寿"
+display_title: "ユウヤ・ブリッジス"
+title_zh: ""
 title_ja: "ユウヤ・ブリッジス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yuuya Bridges"
-  - "ユウヤ・ブリッジス"
   - "Top Gun"
 source_ids:
   vndb: "c149"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c149.webp"
 ---
 
-# 优乌雅布莉J吉寿
+# ユウヤ・ブリッジス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

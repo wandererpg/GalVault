@@ -5,7 +5,10 @@ display_title: "今宫新"
 title_zh: "今宫新"
 title_ja: "今宮 新"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c6291"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Imamiya Arata"
   - "今宮 新"

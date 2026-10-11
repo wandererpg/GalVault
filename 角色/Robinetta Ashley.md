@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c828"
 type: "character"
-display_title: "洛比音T太阿修蕾伊"
-title_zh: "洛比音T太阿修蕾伊"
+display_title: "ロビネッタ・アシュレイ"
+title_zh: ""
 title_ja: "ロビネッタ・アシュレイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c828"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Robinetta Ashley"
-  - "ロビネッタ・アシュレイ"
   - "Robi"
   - "ロビィ"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c828.webp"
 ---
 
-# 洛比音T太阿修蕾伊
+# ロビネッタ・アシュレイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

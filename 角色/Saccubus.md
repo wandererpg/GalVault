@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c126788"
 type: "character"
-display_title: "沙CC乌布S"
-title_zh: "沙CC乌布S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Saccubus"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126788"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Saccubus"
 source_ids:
   vndb: "c126788"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c126788.webp"
 ---
 
-# 沙CC乌布S
+# Saccubus
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c161461"
 type: "character"
-display_title: "阿拉音阿"
-title_zh: "阿拉音阿"
+display_title: "アラネア"
+title_zh: ""
 title_ja: "アラネア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161461"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Aranea"
-  - "アラネア"
 source_ids:
   vndb: "c161461"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c161461.webp"
 ---
 
-# 阿拉音阿
+# アラネア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c136622"
 type: "character"
-display_title: "嘉Z美恩"
-title_zh: "嘉Z美恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jazmin"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136622"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jazmin"
 source_ids:
   vndb: "c136622"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c136622.webp"
 ---
 
-# 嘉Z美恩
+# Jazmin
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "杜屋希美"
 title_zh: "杜屋希美"
 title_ja: "杜屋 希美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c33600"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Moriya Nozomi"
   - "杜屋 希美"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c134754"
 type: "character"
-display_title: "波嘉"
-title_zh: "波嘉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Poja"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c134754"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Poja"
 source_ids:
   vndb: "c134754"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c134754.webp"
 ---
 
-# 波嘉
+# Poja
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

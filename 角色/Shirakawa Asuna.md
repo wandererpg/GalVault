@@ -5,7 +5,10 @@ display_title: "白川明日菜"
 title_zh: "白川明日菜"
 title_ja: "白川 明日菜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43849"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shirakawa Asuna"
   - "白川 明日菜"

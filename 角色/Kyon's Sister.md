@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c85141"
 type: "character"
-display_title: "京恩乃妹"
-title_zh: "京恩乃妹"
+display_title: "キョンの妹"
+title_zh: ""
 title_ja: "キョンの妹"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85141"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kyon's Sister"
-  - "キョンの妹"
 source_ids:
   vndb: "c85141"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c85141.webp"
 ---
 
-# 京恩乃妹
+# キョンの妹
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

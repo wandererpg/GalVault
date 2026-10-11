@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c131619"
 type: "character"
-display_title: "惠LLY"
-title_zh: "惠LLY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Kelly"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c131619"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Kelly"
 source_ids:
   vndb: "c131619"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c131619.webp"
 ---
 
-# 惠LLY
+# Kelly
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

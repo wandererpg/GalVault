@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38088"
 type: "character"
-display_title: "阿露露乌"
-title_zh: "阿露露乌"
+display_title: "アルルゥ"
+title_zh: ""
 title_ja: "アルルゥ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38088"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Aruruu"
-  - "アルルゥ"
 source_ids:
   vndb: "c38088"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c38088.webp"
 ---
 
-# 阿露露乌
+# アルルゥ
 
 
 ## 角色画像

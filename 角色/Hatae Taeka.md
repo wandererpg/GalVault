@@ -5,7 +5,10 @@ display_title: "波多江妙花"
 title_zh: "波多江妙花"
 title_ja: "波多江 妙花"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c99566"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hatae Taeka"
   - "波多江 妙花"

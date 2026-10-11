@@ -5,7 +5,10 @@ display_title: "弦马晶"
 title_zh: "弦马晶"
 title_ja: "弦馬 晶"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c78929"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsuruma Akira"
   - "弦馬 晶"

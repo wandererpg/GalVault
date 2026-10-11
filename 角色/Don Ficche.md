@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c32661"
 type: "character"
-display_title: "堂恩F伊T千惠"
-title_zh: "堂恩F伊T千惠"
+display_title: "ドン・フィッチェ"
+title_zh: ""
 title_ja: "ドン・フィッチェ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c32661"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Don Ficche"
-  - "ドン・フィッチェ"
 source_ids:
   vndb: "c32661"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c32661.webp"
 ---
 
-# 堂恩F伊T千惠
+# ドン・フィッチェ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

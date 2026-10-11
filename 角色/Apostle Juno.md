@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c95534"
 type: "character"
-display_title: "使徒朱乃奥"
-title_zh: "使徒朱乃奥"
+display_title: "使徒 ジュノー"
+title_zh: ""
 title_ja: "使徒 ジュノー"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c95534"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Apostle Juno"
-  - "使徒 ジュノー"
 source_ids:
   vndb: "c95534"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c95534.webp"
 ---
 
-# 使徒朱乃奥
+# 使徒 ジュノー
 
 
 ## 角色画像

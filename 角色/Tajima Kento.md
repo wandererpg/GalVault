@@ -5,7 +5,10 @@ display_title: "田岛贤斗"
 title_zh: "田岛贤斗"
 title_ja: "田島 賢斗"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c77884"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tajima Kento"
   - "田島 賢斗"

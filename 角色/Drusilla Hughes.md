@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c155289"
 type: "character"
-display_title: "D露S伊LL阿·H乌G惠S"
-title_zh: "D露S伊LL阿·H乌G惠S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Drusilla Hughes"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155289"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Drusilla Hughes"
   - "Dru"
 source_ids:
   vndb: "c155289"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c155289.webp"
 ---
 
-# D露S伊LL阿·H乌G惠S
+# Drusilla Hughes
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

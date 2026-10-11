@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c129269"
 type: "character"
-display_title: "T伊拉H"
-title_zh: "T伊拉H"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Tirah"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c129269"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Tirah"
   - "Auntie Tirah"
   - "Tiramisu"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c129269.webp"
 ---
 
-# T伊拉H
+# Tirah
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

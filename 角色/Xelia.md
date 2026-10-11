@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c166468"
 type: "character"
-display_title: "X惠L伊阿"
-title_zh: "X惠L伊阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Xelia"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c166468"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Xelia"
 source_ids:
   vndb: "c166468"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c166468.webp"
 ---
 
-# X惠L伊阿
+# Xelia
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

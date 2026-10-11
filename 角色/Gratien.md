@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c69687"
 type: "character"
-display_title: "古拉诗阿恩"
-title_zh: "古拉诗阿恩"
+display_title: "グラシアン"
+title_zh: ""
 title_ja: "グラシアン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c69687"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gratien"
-  - "グラシアン"
 source_ids:
   vndb: "c69687"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c69687.webp"
 ---
 
-# 古拉诗阿恩
+# グラシアン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

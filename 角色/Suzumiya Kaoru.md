@@ -5,7 +5,10 @@ display_title: "凉宫薰"
 title_zh: "凉宫薰"
 title_ja: "涼宮 薫"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c94342"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Suzumiya Kaoru"
   - "涼宮 薫"

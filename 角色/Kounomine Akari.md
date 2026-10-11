@@ -5,7 +5,10 @@ display_title: "神峰灯"
 title_zh: "神峰灯"
 title_ja: "神峯 灯"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c56721"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kounomine Akari"
   - "神峯 灯"

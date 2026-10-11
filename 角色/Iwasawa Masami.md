@@ -5,7 +5,10 @@ display_title: "岩泽雅美"
 title_zh: "岩泽雅美"
 title_ja: "岩沢 雅美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16284"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Iwasawa Masami"
   - "岩沢 雅美"

@@ -5,7 +5,10 @@ display_title: "见土道夫"
 title_zh: "见土道夫"
 title_ja: "見土 道夫"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c118585"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mido Michio"
   - "見土 道夫"

@@ -5,7 +5,10 @@ display_title: "凶月咲耶"
 title_zh: "凶月咲耶"
 title_ja: "凶月 咲耶"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c34803"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kyougetsu Sakuya"
   - "凶月 咲耶"

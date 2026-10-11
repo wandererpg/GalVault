@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c127717"
 type: "character"
-display_title: "C阿T惠莉音·贝LLW惠T惠R"
-title_zh: "C阿T惠莉音·贝LLW惠T惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Catherine Bellwether"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127717"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Catherine Bellwether"
 source_ids:
   vndb: "c127717"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c127717.webp"
 ---
 
-# C阿T惠莉音·贝LLW惠T惠R
+# Catherine Bellwether
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

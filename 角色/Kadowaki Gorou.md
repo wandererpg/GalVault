@@ -5,7 +5,10 @@ display_title: "门协梧郎"
 title_zh: "门协梧郎"
 title_ja: "門協 梧郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c31283"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kadowaki Gorou"
   - "門協 梧郎"

@@ -5,7 +5,10 @@ display_title: "皇木怜"
 title_zh: "皇木怜"
 title_ja: "皇木 怜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c67951"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sumeragi Rei"
   - "皇木 怜"

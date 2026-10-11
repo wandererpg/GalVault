@@ -5,7 +5,10 @@ display_title: "羽邪鬼"
 title_zh: "羽邪鬼"
 title_ja: "羽邪鬼"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c46127"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hajaki"
 source_ids:

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c132459"
 type: "character"
-display_title: "恰RL惠S"
-title_zh: "恰RL惠S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Charles"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132459"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Charles"
 source_ids:
   vndb: "c132459"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c132459.webp"
 ---
 
-# 恰RL惠S
+# Charles
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

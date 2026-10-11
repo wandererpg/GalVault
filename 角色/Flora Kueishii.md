@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c5969"
 type: "character"
-display_title: "芙洛奥拉久惠伊诗伊"
-title_zh: "芙洛奥拉久惠伊诗伊"
+display_title: "フローラ・クエイシー"
+title_zh: ""
 title_ja: "フローラ・クエイシー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c5969"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Flora Kueishii"
-  - "フローラ・クエイシー"
 source_ids:
   vndb: "c5969"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c5969.webp"
 ---
 
-# 芙洛奥拉久惠伊诗伊
+# フローラ・クエイシー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

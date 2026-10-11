@@ -5,7 +5,10 @@ display_title: "法花堂姫"
 title_zh: "法花堂姫"
 title_ja: "法花堂 姫"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c147204"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hokkedou Hime"
   - "法花堂 姫"

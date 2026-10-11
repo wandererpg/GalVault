@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c46929"
 type: "character"
-display_title: "久洛K久久拉K久久洛奥梦"
-title_zh: "久洛K久久拉K久久洛奥梦"
+display_title: "クロック・クラック・クローム"
+title_zh: ""
 title_ja: "クロック・クラック・クローム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c46929"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Clock Crack Chrome"
-  - "クロック・クラック・クローム"
   - "時計の男"
   - "Man with Watch"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c46929.webp"
 ---
 
-# 久洛K久久拉K久久洛奥梦
+# クロック・クラック・クローム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

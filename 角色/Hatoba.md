@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90257"
 type: "character"
-display_title: "羽斗巴"
-title_zh: "羽斗巴"
+display_title: "ハトバ"
+title_zh: ""
 title_ja: "ハトバ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90257"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hatoba"
-  - "ハトバ"
 source_ids:
   vndb: "c90257"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c90257.webp"
 ---
 
-# 羽斗巴
+# ハトバ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

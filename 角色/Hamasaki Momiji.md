@@ -5,7 +5,10 @@ display_title: "滨咲椛"
 title_zh: "滨咲椛"
 title_ja: "浜咲 椛"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c144407"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hamasaki Momiji"
   - "浜咲 椛"

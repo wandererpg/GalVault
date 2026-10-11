@@ -5,7 +5,10 @@ display_title: "项天天"
 title_zh: "项天天"
 title_ja: "項 天天"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c61291"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Xiang Tiantian"
   - "項 天天"

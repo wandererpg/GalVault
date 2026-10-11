@@ -5,7 +5,10 @@ display_title: "苇原大辉"
 title_zh: "苇原大辉"
 title_ja: "葦原 大輝"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c34422"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ashihara Daiki"
   - "葦原 大輝"

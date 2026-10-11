@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c157028"
 type: "character"
-display_title: "中邑樱"
-title_zh: "中邑樱"
+display_title: "中邑 さくら"
+title_zh: ""
 title_ja: "中邑 さくら"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c157028"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nakamura Sakura"
-  - "中邑 さくら"
 source_ids:
   vndb: "c157028"
 source_urls:
   vndb: "https://vndb.org/c157028"
 ---
 
-# 中邑樱
+# 中邑 さくら
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

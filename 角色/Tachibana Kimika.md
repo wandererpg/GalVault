@@ -5,7 +5,10 @@ display_title: "橘希实香"
 title_zh: "橘希实香"
 title_ja: "橘 希実香"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c3563"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tachibana Kimika"
   - "橘 希実香"

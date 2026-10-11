@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c50272"
 type: "character"
-display_title: "诗诗巴"
-title_zh: "诗诗巴"
+display_title: "シシバ"
+title_zh: ""
 title_ja: "シシバ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c50272"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shishiba"
-  - "シシバ"
 source_ids:
   vndb: "c50272"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c50272.webp"
 ---
 
-# 诗诗巴
+# シシバ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

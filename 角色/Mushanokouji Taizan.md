@@ -5,7 +5,10 @@ display_title: "武者小路泰山"
 title_zh: "武者小路泰山"
 title_ja: "武者小路 泰山"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c83064"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mushanokouji Taizan"
   - "武者小路 泰山"

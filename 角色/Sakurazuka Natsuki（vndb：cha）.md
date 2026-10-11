@@ -5,7 +5,10 @@ display_title: "樱冢名月"
 title_zh: "樱冢名月"
 title_ja: "桜塚 名月"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10021"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakurazuka Natsuki"
   - "桜塚 名月"

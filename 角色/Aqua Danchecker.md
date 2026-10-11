@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c1048"
 type: "character"
-display_title: "阿久阿达恩C惠K加阿"
-title_zh: "阿久阿达恩C惠K加阿"
+display_title: "アクア・ダンチェッカー"
+title_zh: ""
 title_ja: "アクア・ダンチェッカー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c1048"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Aqua Danchecker"
-  - "アクア・ダンチェッカー"
 source_ids:
   vndb: "c1048"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c1048.webp"
 ---
 
-# 阿久阿达恩C惠K加阿
+# アクア・ダンチェッカー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

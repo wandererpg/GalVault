@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c40384"
 type: "character"
-display_title: "藏奥惠"
-title_zh: "藏奥惠"
+display_title: "ゾーエ"
+title_zh: ""
 title_ja: "ゾーエ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c40384"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Zoe"
-  - "ゾーエ"
 source_ids:
   vndb: "c40384"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c40384.webp"
 ---
 
-# 藏奥惠
+# ゾーエ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

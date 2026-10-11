@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c21708"
 type: "character"
-display_title: "惠莉伊泽洛奥泽恩太阿露"
-title_zh: "惠莉伊泽洛奥泽恩太阿露"
+display_title: "エリーゼ・ローゼンタール"
+title_zh: ""
 title_ja: "エリーゼ・ローゼンタール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c21708"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Elise Rosenthal"
-  - "エリーゼ・ローゼンタール"
 source_ids:
   vndb: "c21708"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c21708.webp"
 ---
 
-# 惠莉伊泽洛奥泽恩太阿露
+# エリーゼ・ローゼンタール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

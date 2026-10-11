@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c72262"
 type: "character"
-display_title: "濑惠德寿"
-title_zh: "濑惠德寿"
+display_title: "セーデス"
+title_zh: ""
 title_ja: "セーデス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c72262"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Seydes"
-  - "セーデス"
 source_ids:
   vndb: "c72262"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c72262.webp"
 ---
 
-# 濑惠德寿
+# セーデス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

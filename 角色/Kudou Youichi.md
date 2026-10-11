@@ -5,7 +5,10 @@ display_title: "工藤阳一"
 title_zh: "工藤阳一"
 title_ja: "工藤 陽一"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c676"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kudou Youichi"
   - "工藤 陽一"

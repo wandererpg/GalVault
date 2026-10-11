@@ -5,7 +5,10 @@ display_title: "伊万莉都子"
 title_zh: "伊万莉都子"
 title_ja: "伊万莉 都子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c11467"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Imari Miyako"
   - "伊万莉 都子"

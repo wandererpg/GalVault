@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c132434"
 type: "character"
-display_title: "惠恩莉惠T太F奥恩V伊露蕾惠贝恩"
-title_zh: "惠恩莉惠T太F奥恩V伊露蕾惠贝恩"
+display_title: "ヘンリエッタ・フォン・ヴィルレーベン"
+title_zh: ""
 title_ja: "ヘンリエッタ・フォン・ヴィルレーベン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132434"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Henrietta von Willleben"
-  - "ヘンリエッタ・フォン・ヴィルレーベン"
 source_ids:
   vndb: "c132434"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c132434.webp"
 ---
 
-# 惠恩莉惠T太F奥恩V伊露蕾惠贝恩
+# ヘンリエッタ・フォン・ヴィルレーベン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

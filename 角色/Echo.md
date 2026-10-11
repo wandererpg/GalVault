@@ -5,7 +5,10 @@ display_title: "艾可"
 title_zh: "艾可"
 title_ja: "エコ"
 title_zh_quality: "manual_override"
-title_status: "machine_generated"
+title_status: "reviewed"
+title_zh_source: "按原名エコ/英文 Echo 修正机翻音译；非官方译名"
+title_zh_confidence: "medium"
+title_zh_needs_review: false
 aliases:
   - "Echo"
   - "エコ"

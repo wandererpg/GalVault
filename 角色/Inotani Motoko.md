@@ -5,7 +5,10 @@ display_title: "猪谷心子"
 title_zh: "猪谷心子"
 title_ja: "猪谷 心子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c57812"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Inotani Motoko"
   - "猪谷 心子"

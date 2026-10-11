@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c97538"
 type: "character"
-display_title: "津加沙·津希奥加"
-title_zh: "津加沙·津希奥加"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Tsukasa Tsukioka"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97538"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Tsukasa Tsukioka"
 source_ids:
   vndb: "c97538"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c97538.webp"
 ---
 
-# 津加沙·津希奥加
+# Tsukasa Tsukioka
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

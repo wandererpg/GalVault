@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c36808"
 type: "character"
-display_title: "濑皮阿拉恩堂寿太阿"
-title_zh: "濑皮阿拉恩堂寿太阿"
+display_title: "セピア・ランドスター"
+title_zh: ""
 title_ja: "セピア・ランドスター"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c36808"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sepia Landstarr"
-  - "セピア・ランドスター"
 source_ids:
   vndb: "c36808"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c36808.webp"
 ---
 
-# 濑皮阿拉恩堂寿太阿
+# セピア・ランドスター
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

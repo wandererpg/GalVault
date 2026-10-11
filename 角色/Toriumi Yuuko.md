@@ -5,7 +5,10 @@ display_title: "鸟海有子"
 title_zh: "鸟海有子"
 title_ja: "鳥海 有子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c17217"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Toriumi Yuuko"
   - "鳥海 有子"

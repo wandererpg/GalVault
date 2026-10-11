@@ -5,7 +5,10 @@ display_title: "大崎陆"
 title_zh: "大崎陆"
 title_ja: "大崎 陸"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21738"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Oosaki Riku"
   - "大崎 陸"

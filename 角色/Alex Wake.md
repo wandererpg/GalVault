@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61133"
 type: "character"
-display_title: "阿L惠X·和惠"
-title_zh: "阿L惠X·和惠"
+display_title: "알렉스 웨이크"
+title_zh: ""
 title_ja: "알렉스 웨이크"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61133"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alex Wake"
-  - "알렉스 웨이크"
 source_ids:
   vndb: "c61133"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61133.webp"
 ---
 
-# 阿L惠X·和惠
+# 알렉스 웨이크
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

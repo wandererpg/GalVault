@@ -5,7 +5,10 @@ display_title: "米勒·杨"
 title_zh: "米勒·杨"
 title_ja: "米勒·杨"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c103256"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Miller Yang"
 source_ids:

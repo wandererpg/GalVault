@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c18904"
 type: "character"
-display_title: "洛扎阿莉阿加V阿R莉"
-title_zh: "洛扎阿莉阿加V阿R莉"
+display_title: "ロザーリア・カヴァッリ"
+title_zh: ""
 title_ja: "ロザーリア・カヴァッリ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c18904"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rosalia Cavalli"
-  - "ロザーリア・カヴァッリ"
 source_ids:
   vndb: "c18904"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c18904.webp"
 ---
 
-# 洛扎阿莉阿加V阿R莉
+# ロザーリア・カヴァッリ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

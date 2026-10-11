@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c132212"
 type: "character"
-display_title: "T惠·博SS"
-title_zh: "T惠·博SS"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "The Boss"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132212"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "The Boss"
   - "Evil Nerd"
 source_ids:
   vndb: "c132212"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c132212.webp"
 ---
 
-# T惠·博SS
+# The Boss
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c55398"
 type: "character"
-display_title: "书库乃幽灵"
-title_zh: "书库乃幽灵"
+display_title: "書庫の幽霊"
+title_zh: ""
 title_ja: "書庫の幽霊"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c55398"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Library Ghost"
-  - "書庫の幽霊"
 source_ids:
   vndb: "c55398"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c55398.webp"
 ---
 
-# 书库乃幽灵
+# 書庫の幽霊
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

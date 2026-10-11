@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c150359"
 type: "character"
-display_title: "太伊雅希屋乃奥雅吉"
-title_zh: "太伊雅希屋乃奥雅吉"
+display_title: "たいやき屋のおやじ"
+title_zh: ""
 title_ja: "たいやき屋のおやじ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c150359"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Taiyakiya no Oyaji"
-  - "たいやき屋のおやじ"
   - "The Old Man From the Taiyaki Shop"
 source_ids:
   vndb: "c150359"
@@ -16,7 +18,7 @@ source_urls:
   vndb: "https://vndb.org/c150359"
 ---
 
-# 太伊雅希屋乃奥雅吉
+# たいやき屋のおやじ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

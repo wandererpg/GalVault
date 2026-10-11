@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c45457"
 type: "character"
-display_title: "馆乃女中"
-title_zh: "馆乃女中"
+display_title: "館の女中"
+title_zh: ""
 title_ja: "館の女中"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c45457"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "The Maid"
-  - "館の女中"
   - "ジゼル"
   - "Giselle"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c45457.webp"
 ---
 
-# 馆乃女中
+# 館の女中
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

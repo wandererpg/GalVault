@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98001"
 type: "character"
-display_title: "休乌巴阿斗莉普斗恩"
-title_zh: "休乌巴阿斗莉普斗恩"
+display_title: "ヒューバート・リプトン"
+title_zh: ""
 title_ja: "ヒューバート・リプトン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98001"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hubert Lipton"
-  - "ヒューバート・リプトン"
   - "Red Beard"
 source_ids:
   vndb: "c98001"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c98001.webp"
 ---
 
-# 休乌巴阿斗莉普斗恩
+# ヒューバート・リプトン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

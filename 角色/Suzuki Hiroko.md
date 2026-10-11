@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c101554"
 type: "character"
-display_title: "铃木日洛子"
-title_zh: "铃木日洛子"
+display_title: "鈴木 ひろ子"
+title_zh: ""
 title_ja: "鈴木 ひろ子"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c101554"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Suzuki Hiroko"
-  - "鈴木 ひろ子"
 source_ids:
   vndb: "c101554"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c101554.webp"
 ---
 
-# 铃木日洛子
+# 鈴木 ひろ子
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

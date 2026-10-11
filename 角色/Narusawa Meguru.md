@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c70185"
 type: "character"
-display_title: "鸣泽芽古露"
-title_zh: "鸣泽芽古露"
+display_title: "鳴沢 めぐる"
+title_zh: ""
 title_ja: "鳴沢 めぐる"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c70185"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Narusawa Meguru"
-  - "鳴沢 めぐる"
   - "Model 2-chan"
 source_ids:
   vndb: "c70185"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c70185.webp"
 ---
 
-# 鸣泽芽古露
+# 鳴沢 めぐる
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

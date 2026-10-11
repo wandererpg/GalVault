@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c127715"
 type: "character"
-display_title: "和LL阿C惠·尼GHTG拉V惠"
-title_zh: "和LL阿C惠·尼GHTG拉V惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Wallace Nightgrave"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127715"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Wallace Nightgrave"
 source_ids:
   vndb: "c127715"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c127715.webp"
 ---
 
-# 和LL阿C惠·尼GHTG拉V惠
+# Wallace Nightgrave
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

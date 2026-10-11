@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c138289"
 type: "character"
-display_title: "阿拉D伊阿·芽吉堂"
-title_zh: "阿拉D伊阿·芽吉堂"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Aradia Megido"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138289"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Aradia Megido"
   - "apocalypseArisen"
   - "Maid of Time"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c138289.webp"
 ---
 
-# 阿拉D伊阿·芽吉堂
+# Aradia Megido
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

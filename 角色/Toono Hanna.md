@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c137430"
 type: "character"
-display_title: "远野羽恩奈"
-title_zh: "远野羽恩奈"
+display_title: "遠野 ハンナ"
+title_zh: ""
 title_ja: "遠野 ハンナ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c137430"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Toono Hanna"
-  - "遠野 ハンナ"
   - "Tono Hanna"
 source_ids:
   vndb: "c137430"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c137430.webp"
 ---
 
-# 远野羽恩奈
+# 遠野 ハンナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

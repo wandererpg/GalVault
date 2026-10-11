@@ -5,7 +5,10 @@ display_title: "芹泽水结"
 title_zh: "芹泽水结"
 title_ja: "芹沢 水結"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9358"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Serizawa Miyu"
   - "芹沢 水結"

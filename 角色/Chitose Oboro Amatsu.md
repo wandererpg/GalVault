@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c42832"
 type: "character"
-display_title: "千斗濑胧阿真津"
-title_zh: "千斗濑胧阿真津"
+display_title: "チトセ・朧・アマツ"
+title_zh: ""
 title_ja: "チトセ・朧・アマツ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c42832"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chitose Oboro Amatsu"
-  - "チトセ・朧・アマツ"
   - "Astrea"
   - "裁剣女神"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c42832.webp"
 ---
 
-# 千斗濑胧阿真津
+# チトセ・朧・アマツ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

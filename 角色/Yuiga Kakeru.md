@@ -5,7 +5,10 @@ display_title: "结贺驱"
 title_zh: "结贺驱"
 title_ja: "結賀 駆"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c30140"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yuiga Kakeru"
   - "結賀 駆"

@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c143336"
 type: "character"
-display_title: "藏惠·LY恩·C阿MP贝LL"
-title_zh: "藏惠·LY恩·C阿MP贝LL"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Zoe Lyn Campbell"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c143336"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Zoe Lyn Campbell"
 source_ids:
   vndb: "c143336"
 source_urls:
   vndb: "https://vndb.org/c143336"
 ---
 
-# 藏惠·LY恩·C阿MP贝LL
+# Zoe Lyn Campbell
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

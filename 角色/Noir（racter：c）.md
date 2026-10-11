@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c91359"
 type: "character"
-display_title: "乃和阿露"
-title_zh: "乃和阿露"
+display_title: "ノワール"
+title_zh: ""
 title_ja: "ノワール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c91359"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Noir"
-  - "ノワール"
 source_ids:
   vndb: "c91359"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c91359.webp"
 ---
 
-# 乃和阿露
+# ノワール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

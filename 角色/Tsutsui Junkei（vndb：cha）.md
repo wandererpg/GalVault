@@ -5,7 +5,10 @@ display_title: "筒井顺庆"
 title_zh: "筒井顺庆"
 title_ja: "筒井 順慶"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c41005"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsutsui Junkei"
   - "筒井 順慶"

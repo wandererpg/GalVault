@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c85010"
 type: "character"
-display_title: "帕K希伊"
-title_zh: "帕K希伊"
+display_title: "パッキー"
+title_zh: ""
 title_ja: "パッキー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85010"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Paqy"
-  - "パッキー"
   - "Packy"
   - "大賢者"
   - "Dai Kenja"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c85010.webp"
 ---
 
-# 帕K希伊
+# パッキー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

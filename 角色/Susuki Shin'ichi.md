@@ -5,7 +5,10 @@ display_title: "须々木心一"
 title_zh: "须々木心一"
 title_ja: "須々木 心一"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c27729"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Susuki Shin'ichi"
   - "須々木 心一"

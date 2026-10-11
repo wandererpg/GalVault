@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8391"
 type: "character"
-display_title: "沙沙恩特"
-title_zh: "沙沙恩特"
+display_title: "ササンテ"
+title_zh: ""
 title_ja: "ササンテ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8391"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sasante"
-  - "ササンテ"
 source_ids:
   vndb: "c8391"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c8391.webp"
 ---
 
-# 沙沙恩特
+# ササンテ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

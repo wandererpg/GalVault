@@ -5,7 +5,10 @@ display_title: "玉野唯"
 title_zh: "玉野唯"
 title_ja: "玉野 唯"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c34476"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tamano Yui"
   - "玉野 唯"

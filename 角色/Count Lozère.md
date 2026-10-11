@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c54535"
 type: "character"
-display_title: "洛泽惠露伯爵"
-title_zh: "洛泽惠露伯爵"
+display_title: "ロゼール 伯爵"
+title_zh: ""
 title_ja: "ロゼール 伯爵"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c54535"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Count Lozère"
-  - "ロゼール 伯爵"
 source_ids:
   vndb: "c54535"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c54535.webp"
 ---
 
-# 洛泽惠露伯爵
+# ロゼール 伯爵
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

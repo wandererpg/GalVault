@@ -5,7 +5,10 @@ display_title: "野吕濑玄一"
 title_zh: "野吕濑玄一"
 title_ja: "野呂瀬 玄一"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c64650"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Norose Gen'ichi"
   - "野呂瀬 玄一"

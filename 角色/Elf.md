@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125441"
 type: "character"
-display_title: "惠露芙"
-title_zh: "惠露芙"
+display_title: "エルフ"
+title_zh: ""
 title_ja: "エルフ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125441"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Elf"
-  - "エルフ"
   - "Big Elfy"
   - "Claudia"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c125441.webp"
 ---
 
-# 惠露芙
+# エルフ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

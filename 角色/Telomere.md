@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c52848"
 type: "character"
-display_title: "特洛芽阿"
-title_zh: "特洛芽阿"
+display_title: "テロメア"
+title_zh: ""
 title_ja: "テロメア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c52848"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Telomere"
-  - "テロメア"
 source_ids:
   vndb: "c52848"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c52848.webp"
 ---
 
-# 特洛芽阿
+# テロメア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

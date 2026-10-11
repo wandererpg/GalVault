@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c142080"
 type: "character"
-display_title: "阿诗加"
-title_zh: "阿诗加"
+display_title: "アシカ"
+title_zh: ""
 title_ja: "アシカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c142080"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ashika"
-  - "アシカ"
 source_ids:
   vndb: "c142080"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c142080.webp"
 ---
 
-# 阿诗加
+# アシカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

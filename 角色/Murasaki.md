@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c92320"
 type: "character"
-display_title: "梦拉沙希"
-title_zh: "梦拉沙希"
+display_title: "ムラサキ"
+title_zh: ""
 title_ja: "ムラサキ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92320"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Murasaki"
-  - "ムラサキ"
   - "村崎"
 source_ids:
   vndb: "c92320"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c92320.webp"
 ---
 
-# 梦拉沙希
+# ムラサキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

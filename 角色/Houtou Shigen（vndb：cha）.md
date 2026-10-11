@@ -5,7 +5,10 @@ display_title: "凤统士元"
 title_zh: "凤统士元"
 title_ja: "鳳統 士元"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c50546"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Houtou Shigen"
   - "鳳統 士元"

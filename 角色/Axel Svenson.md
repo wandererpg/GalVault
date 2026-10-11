@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c89159"
 type: "character"
-display_title: "阿X惠L·SV惠恩索恩"
-title_zh: "阿X惠L·SV惠恩索恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Axel Svenson"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c89159"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Axel Svenson"
 source_ids:
   vndb: "c89159"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c89159.webp"
 ---
 
-# 阿X惠L·SV惠恩索恩
+# Axel Svenson
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

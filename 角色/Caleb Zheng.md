@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c99887"
 type: "character"
-display_title: "C阿L惠B·Z惠恩G"
-title_zh: "C阿L惠B·Z惠恩G"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Caleb Zheng"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c99887"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Caleb Zheng"
   - "Gryphon"
 source_ids:
   vndb: "c99887"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c99887.webp"
 ---
 
-# C阿L惠B·Z惠恩G
+# Caleb Zheng
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

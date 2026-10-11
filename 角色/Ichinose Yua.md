@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12778"
 type: "character"
-display_title: "一乃濑结爱"
-title_zh: "一乃濑结爱"
+display_title: "一ノ瀬 結愛"
+title_zh: ""
 title_ja: "一ノ瀬 結愛"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12778"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ichinose Yua"
-  - "一ノ瀬 結愛"
 source_ids:
   vndb: "c12778"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c12778.webp"
 ---
 
-# 一乃濑结爱
+# 一ノ瀬 結愛
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

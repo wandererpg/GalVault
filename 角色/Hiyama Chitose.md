@@ -5,7 +5,10 @@ display_title: "桧山千岁"
 title_zh: "桧山千岁"
 title_ja: "檜山 千歳"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c84424"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hiyama Chitose"
   - "檜山 千歳"

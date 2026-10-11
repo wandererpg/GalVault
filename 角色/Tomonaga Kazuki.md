@@ -5,7 +5,10 @@ display_title: "友永和树"
 title_zh: "友永和树"
 title_ja: "友永和樹"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c439"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tomonaga Kazuki"
   - "友永和樹"

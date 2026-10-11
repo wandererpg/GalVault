@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c113588"
 type: "character"
-display_title: "斗比伊"
-title_zh: "斗比伊"
+display_title: "トビー"
+title_zh: ""
 title_ja: "トビー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c113588"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Toby"
-  - "トビー"
   - "Chief Inspector Toby"
 source_ids:
   vndb: "c113588"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c113588.webp"
 ---
 
-# 斗比伊
+# トビー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

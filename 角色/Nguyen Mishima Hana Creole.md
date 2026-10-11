@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39784"
 type: "character"
-display_title: "古惠恩三嶋・华久蕾奥奥露"
-title_zh: "古惠恩三嶋・华久蕾奥奥露"
+display_title: "グエン・三嶋・華・クレオール"
+title_zh: ""
 title_ja: "グエン・三嶋・華・クレオール"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39784"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nguyen Mishima Hana Creole"
-  - "グエン・三嶋・華・クレオール"
   - "Ngyen Mishima Hana Creole"
 source_ids:
   vndb: "c39784"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c39784.webp"
 ---
 
-# 古惠恩三嶋・华久蕾奥奥露
+# グエン・三嶋・華・クレオール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

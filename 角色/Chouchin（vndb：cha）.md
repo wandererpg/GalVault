@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13464"
 type: "character"
-display_title: "绪奥千恩"
-title_zh: "绪奥千恩"
+display_title: "ちょーちん"
+title_zh: ""
 title_ja: "ちょーちん"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13464"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chouchin"
-  - "ちょーちん"
 source_ids:
   vndb: "c13464"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c13464.webp"
 ---
 
-# 绪奥千恩
+# ちょーちん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

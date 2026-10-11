@@ -5,7 +5,10 @@ display_title: "瓜生晋平"
 title_zh: "瓜生晋平"
 title_ja: "瓜生 晋平"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c100561"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Uryuu Shinpei"
   - "瓜生 晋平"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c136956"
 type: "character"
-display_title: "MR·C奥L惠真恩"
-title_zh: "MR·C奥L惠真恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Mr Coleman"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136956"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Mr Coleman"
 source_ids:
   vndb: "c136956"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c136956.webp"
 ---
 
-# MR·C奥L惠真恩
+# Mr Coleman
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

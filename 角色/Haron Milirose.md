@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c76745"
 type: "character"
-display_title: "羽洛恩·美L伊洛濑"
-title_zh: "羽洛恩·美L伊洛濑"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Haron Milirose"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c76745"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Haron Milirose"
 source_ids:
   vndb: "c76745"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c76745.webp"
 ---
 
-# 羽洛恩·美L伊洛濑
+# Haron Milirose
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

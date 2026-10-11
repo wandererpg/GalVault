@@ -5,7 +5,10 @@ display_title: "郑大干"
 title_zh: "郑大干"
 title_ja: "郑大乾"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c151037"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Zheng Daqian"
   - "郑大乾"

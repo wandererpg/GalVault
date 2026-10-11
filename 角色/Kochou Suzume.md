@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43870"
 type: "character"
-display_title: "胡蝶寿兹芽"
-title_zh: "胡蝶寿兹芽"
+display_title: "胡蝶 すずめ"
+title_zh: ""
 title_ja: "胡蝶 すずめ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43870"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kochou Suzume"
-  - "胡蝶 すずめ"
 source_ids:
   vndb: "c43870"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43870.webp"
 ---
 
-# 胡蝶寿兹芽
+# 胡蝶 すずめ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

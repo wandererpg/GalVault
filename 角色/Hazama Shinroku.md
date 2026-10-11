@@ -5,7 +5,10 @@ display_title: "间新六"
 title_zh: "间新六"
 title_ja: "間 新六"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16520"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hazama Shinroku"
   - "間 新六"

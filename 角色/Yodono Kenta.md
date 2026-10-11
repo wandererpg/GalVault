@@ -5,7 +5,10 @@ display_title: "淀野健太"
 title_zh: "淀野健太"
 title_ja: "淀野 健太"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c155924"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yodono Kenta"
   - "淀野 健太"

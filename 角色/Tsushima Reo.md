@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c60"
 type: "character"
-display_title: "对马蕾奥"
-title_zh: "对马蕾奥"
+display_title: "対馬レオ"
+title_zh: ""
 title_ja: "対馬レオ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c60"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tsushima Reo"
-  - "対馬レオ"
   - "Tsushima Leo"
 source_ids:
   vndb: "c60"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c60.webp"
 ---
 
-# 对马蕾奥
+# 対馬レオ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

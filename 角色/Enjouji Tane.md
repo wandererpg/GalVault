@@ -5,7 +5,10 @@ display_title: "圆城寺胤"
 title_zh: "圆城寺胤"
 title_ja: "円城寺 胤"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c49198"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Enjouji Tane"
   - "円城寺 胤"

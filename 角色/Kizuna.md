@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12818"
 type: "character"
-display_title: "希兹奈"
-title_zh: "希兹奈"
+display_title: "キズナ"
+title_zh: ""
 title_ja: "キズナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12818"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kizuna"
-  - "キズナ"
 source_ids:
   vndb: "c12818"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c12818.webp"
 ---
 
-# 希兹奈
+# キズナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

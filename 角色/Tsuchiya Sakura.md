@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10948"
 type: "character"
-display_title: "土屋樱"
-title_zh: "土屋樱"
+display_title: "土屋 さくら"
+title_zh: ""
 title_ja: "土屋 さくら"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10948"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tsuchiya Sakura"
-  - "土屋 さくら"
   - "Tsutchii"
   - "つっちー"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c10948.webp"
 ---
 
-# 土屋樱
+# 土屋 さくら
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

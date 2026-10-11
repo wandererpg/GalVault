@@ -5,7 +5,10 @@ display_title: "椿夜市"
 title_zh: "椿夜市"
 title_ja: "椿 夜市"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21394"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsubaki Yaichi"
   - "椿 夜市"

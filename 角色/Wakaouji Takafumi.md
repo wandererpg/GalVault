@@ -5,7 +5,10 @@ display_title: "若王子贵文"
 title_zh: "若王子贵文"
 title_ja: "若王子 貴文"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1273"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Wakaouji Takafumi"
   - "若王子 貴文"

@@ -5,7 +5,10 @@ display_title: "大鸟香奈枝"
 title_zh: "大鸟香奈枝"
 title_ja: "大鳥 香奈枝"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c17150"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ootori Kanae"
   - "大鳥 香奈枝"

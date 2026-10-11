@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c128101"
 type: "character"
-display_title: "佳洛莉芽伊斗"
-title_zh: "佳洛莉芽伊斗"
+display_title: "キャロリ・メイト"
+title_zh: ""
 title_ja: "キャロリ・メイト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c128101"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Carolie Mate"
-  - "キャロリ・メイト"
   - "Calory Mate"
 source_ids:
   vndb: "c128101"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c128101.webp"
 ---
 
-# 佳洛莉芽伊斗
+# キャロリ・メイト
 
 
 ## 角色画像

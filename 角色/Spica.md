@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c31385"
 type: "character"
-display_title: "寿皮加"
-title_zh: "寿皮加"
+display_title: "スピカ"
+title_zh: ""
 title_ja: "スピカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c31385"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Spica"
-  - "スピカ"
 source_ids:
   vndb: "c31385"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c31385.webp"
 ---
 
-# 寿皮加
+# スピカ
 
 
 ## 角色画像

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c141484"
 type: "character"
-display_title: "P日L伊P·穗FF"
-title_zh: "P日L伊P·穗FF"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Philip Hoff"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141484"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Philip Hoff"
   - "Professor Hoff"
 source_ids:
   vndb: "c141484"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c141484.webp"
 ---
 
-# P日L伊P·穗FF
+# Philip Hoff
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

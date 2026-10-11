@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71089"
 type: "character"
-display_title: "乔修阿久莉F奥奥堂"
-title_zh: "乔修阿久莉F奥奥堂"
+display_title: "ジョシュア・クリフォード"
+title_zh: ""
 title_ja: "ジョシュア・クリフォード"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71089"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Joshua Clifford"
-  - "ジョシュア・クリフォード"
   - "ジョシュ"
   - "Josh"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c71089.webp"
 ---
 
-# 乔修阿久莉F奥奥堂
+# ジョシュア・クリフォード
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

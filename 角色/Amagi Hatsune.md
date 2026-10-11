@@ -5,7 +5,10 @@ display_title: "天城初音"
 title_zh: "天城初音"
 title_ja: "天城 初音"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c17169"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Amagi Hatsune"
   - "天城 初音"

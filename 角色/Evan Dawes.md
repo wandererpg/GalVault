@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c162476"
 type: "character"
-display_title: "惠V阿恩·达W惠S"
-title_zh: "惠V阿恩·达W惠S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Evan Dawes"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c162476"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Evan Dawes"
 source_ids:
   vndb: "c162476"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c162476.webp"
 ---
 
-# 惠V阿恩·达W惠S
+# Evan Dawes
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c78563"
 type: "character"
-display_title: "芽露吉伊二"
-title_zh: "芽露吉伊二"
+display_title: "メルジー二"
+title_zh: ""
 title_ja: "メルジー二"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c78563"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Melgenie"
-  - "メルジー二"
 source_ids:
   vndb: "c78563"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c78563.webp"
 ---
 
-# 芽露吉伊二
+# メルジー二
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

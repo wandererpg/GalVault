@@ -5,7 +5,10 @@ display_title: "山田浅右卫门"
 title_zh: "山田浅右卫门"
 title_ja: "山田 浅右衛門"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16526"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yamada Asaemon"
   - "山田 浅右衛門"

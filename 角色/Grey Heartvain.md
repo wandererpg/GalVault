@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c57431"
 type: "character"
-display_title: "古蕾伊羽阿斗V惠伊恩"
-title_zh: "古蕾伊羽阿斗V惠伊恩"
+display_title: "グレイ・ハートヴェイン"
+title_zh: ""
 title_ja: "グレイ・ハートヴェイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c57431"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Grey Heartvain"
-  - "グレイ・ハートヴェイン"
 source_ids:
   vndb: "c57431"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c57431.webp"
 ---
 
-# 古蕾伊羽阿斗V惠伊恩
+# グレイ・ハートヴェイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

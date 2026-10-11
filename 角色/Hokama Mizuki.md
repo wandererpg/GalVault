@@ -5,7 +5,10 @@ display_title: "外间瑞希"
 title_zh: "外间瑞希"
 title_ja: "外間 瑞希"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c85952"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hokama Mizuki"
   - "外間 瑞希"

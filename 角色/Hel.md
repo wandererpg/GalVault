@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c74686"
 type: "character"
-display_title: "惠L"
-title_zh: "惠L"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Hel"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c74686"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Hel"
 source_ids:
   vndb: "c74686"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c74686.webp"
 ---
 
-# 惠L
+# Hel
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

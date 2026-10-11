@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c132240"
 type: "character"
-display_title: "蕾恩"
-title_zh: "蕾恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ren"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132240"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ren"
 source_ids:
   vndb: "c132240"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c132240.webp"
 ---
 
-# 蕾恩
+# Ren
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

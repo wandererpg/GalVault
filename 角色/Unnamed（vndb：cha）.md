@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c6690"
 type: "character"
-display_title: "乌恩奈芽D"
-title_zh: "乌恩奈芽D"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Unnamed"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c6690"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Unnamed"
 source_ids:
   vndb: "c6690"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c6690.webp"
 ---
 
-# 乌恩奈芽D
+# Unnamed
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

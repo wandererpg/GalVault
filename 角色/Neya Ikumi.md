@@ -5,7 +5,10 @@ display_title: "祢矢郁美"
 title_zh: "祢矢郁美"
 title_ja: "禰矢 郁美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c106847"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Neya Ikumi"
   - "禰矢 郁美"

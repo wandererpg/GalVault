@@ -5,7 +5,10 @@ display_title: "花泽"
 title_zh: "花泽"
 title_ja: "花澤"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c29353"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hanazawa"
   - "花澤"

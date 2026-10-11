@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126796"
 type: "character"
-display_title: "实验体阿-3"
-title_zh: "实验体阿-3"
+display_title: "実験体A-3"
+title_zh: ""
 title_ja: "実験体A-3"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126796"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Experimental Organism A-3"
-  - "実験体A-3"
   - "A-3"
   - "Flappy"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c126796.webp"
 ---
 
-# 实验体阿-3
+# 実験体A-3
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

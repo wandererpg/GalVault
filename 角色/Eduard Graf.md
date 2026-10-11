@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c59754"
 type: "character"
-display_title: "惠堂V阿露堂古拉阿芙"
-title_zh: "惠堂V阿露堂古拉阿芙"
+display_title: "エドヴァルド・グラーフ"
+title_zh: ""
 title_ja: "エドヴァルド・グラーフ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c59754"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Eduard Graf"
-  - "エドヴァルド・グラーフ"
 source_ids:
   vndb: "c59754"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c59754.webp"
 ---
 
-# 惠堂V阿露堂古拉阿芙
+# エドヴァルド・グラーフ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

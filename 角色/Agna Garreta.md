@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c75563"
 type: "character"
-display_title: "阿古奈雅蕾惠太"
-title_zh: "阿古奈雅蕾惠太"
+display_title: "アグナ・ガレータ"
+title_zh: ""
 title_ja: "アグナ・ガレータ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c75563"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Agna Garreta"
-  - "アグナ・ガレータ"
 source_ids:
   vndb: "c75563"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c75563.webp"
 ---
 
-# 阿古奈雅蕾惠太
+# アグナ・ガレータ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

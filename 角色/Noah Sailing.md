@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c36802"
 type: "character"
-display_title: "乃阿濑惠莉恩古"
-title_zh: "乃阿濑惠莉恩古"
+display_title: "ノア・セーリング"
+title_zh: ""
 title_ja: "ノア・セーリング"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c36802"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Noah Sailing"
-  - "ノア・セーリング"
   - "Noa"
   - "Noah Hakobune"
   - "ノア・ハコブネ"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c36802.webp"
 ---
 
-# 乃阿濑惠莉恩古
+# ノア・セーリング
 
 
 ## 角色画像

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14510"
 type: "character"
-display_title: "三乃宫露伊伊兹优衣"
-title_zh: "三乃宫露伊伊兹优衣"
+display_title: "三ノ宮 ルイーズ 優衣"
+title_zh: ""
 title_ja: "三ノ宮 ルイーズ 優衣"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14510"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sannomiya Louise Yui"
-  - "三ノ宮 ルイーズ 優衣"
   - "サリュ"
   - "Salyu"
   - "優衣"
@@ -24,7 +26,7 @@ source_urls:
 portrait_image: "assets/characters/c14510.webp"
 ---
 
-# 三乃宫露伊伊兹优衣
+# 三ノ宮 ルイーズ 優衣
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c140471"
 type: "character"
-display_title: "芙拉恩久寿太恩莉伊"
-title_zh: "芙拉恩久寿太恩莉伊"
+display_title: "フランク・スタンリー"
+title_zh: ""
 title_ja: "フランク・スタンリー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c140471"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Frank Stanley"
-  - "フランク・スタンリー"
 source_ids:
   vndb: "c140471"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c140471.webp"
 ---
 
-# 芙拉恩久寿太恩莉伊
+# フランク・スタンリー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

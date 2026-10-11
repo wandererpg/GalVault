@@ -5,7 +5,10 @@ display_title: "青井有纪"
 title_zh: "青井有纪"
 title_ja: "青井 有紀"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c54882"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Aoi Yuki"
   - "青井 有紀"

@@ -5,7 +5,10 @@ display_title: "宇佐美沙织"
 title_zh: "宇佐美沙织"
 title_ja: "宇佐美 沙織"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c12470"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Usami Saori"
   - "宇佐美 沙織"

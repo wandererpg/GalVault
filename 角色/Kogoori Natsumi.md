@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c100259"
 type: "character"
-display_title: "古郡奈津美"
-title_zh: "古郡奈津美"
+display_title: "古郡 なつみ"
+title_zh: ""
 title_ja: "古郡 なつみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c100259"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kogoori Natsumi"
-  - "古郡 なつみ"
 source_ids:
   vndb: "c100259"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c100259.webp"
 ---
 
-# 古郡奈津美
+# 古郡 なつみ
 
 
 ## 角色画像

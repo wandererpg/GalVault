@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c42277"
 type: "character"
-display_title: "阿音T斗穗奥泽恩F惠露斗"
-title_zh: "阿音T斗穗奥泽恩F惠露斗"
+display_title: "アネット・ホーゼンフェルト"
+title_zh: ""
 title_ja: "アネット・ホーゼンフェルト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c42277"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Anett Hosenfeld"
-  - "アネット・ホーゼンフェルト"
   - "Schwarz 06"
   - "Gendai no Elizabeth Bathory"
   - "Ryōkiteki Eishi"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c42277.webp"
 ---
 
-# 阿音T斗穗奥泽恩F惠露斗
+# アネット・ホーゼンフェルト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

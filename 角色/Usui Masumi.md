@@ -5,7 +5,10 @@ display_title: "碓氷真澄"
 title_zh: "碓氷真澄"
 title_ja: "碓氷 真澄"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c90160"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Usui Masumi"
   - "碓氷 真澄"

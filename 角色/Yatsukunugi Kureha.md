@@ -5,7 +5,10 @@ display_title: "八椚红叶"
 title_zh: "八椚红叶"
 title_ja: "八椚 紅葉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c56720"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yatsukunugi Kureha"
   - "八椚 紅葉"

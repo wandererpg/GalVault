@@ -5,7 +5,10 @@ display_title: "真木晶"
 title_zh: "真木晶"
 title_ja: "真木 晶"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c161324"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Masaki Akira"
   - "真木 晶"

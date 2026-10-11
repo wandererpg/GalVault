@@ -5,7 +5,10 @@ display_title: "首藤大诚"
 title_zh: "首藤大诚"
 title_ja: "首藤 大誠"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c69393"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shudou Taisei"
   - "首藤 大誠"

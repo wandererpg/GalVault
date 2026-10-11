@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c127771"
 type: "character"
-display_title: "蕾梦S·V伊R吉L阿惠"
-title_zh: "蕾梦S·V伊R吉L阿惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Remus Virgilae"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127771"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Remus Virgilae"
 source_ids:
   vndb: "c127771"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c127771.webp"
 ---
 
-# 蕾梦S·V伊R吉L阿惠
+# Remus Virgilae
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126992"
 type: "character"
-display_title: "洛拉恩寿洛拉恩"
-title_zh: "洛拉恩寿洛拉恩"
+display_title: "ロランス・ロラン"
+title_zh: ""
 title_ja: "ロランス・ロラン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126992"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Laurence Roland"
-  - "ロランス・ロラン"
 source_ids:
   vndb: "c126992"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c126992.webp"
 ---
 
-# 洛拉恩寿洛拉恩
+# ロランス・ロラン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

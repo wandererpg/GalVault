@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c146656"
 type: "character"
-display_title: "特嘉·L阿·V惠努S"
-title_zh: "特嘉·L阿·V惠努S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Teja La Venus"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c146656"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Teja La Venus"
   - "Lovey Dovey Rabbitmaiden"
 source_ids:
   vndb: "c146656"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c146656.webp"
 ---
 
-# 特嘉·L阿·V惠努S
+# Teja La Venus
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "田中右宙为"
 title_zh: "田中右宙为"
 title_ja: "田中右 宙為"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c92884"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tanakamigi Chuui"
   - "田中右 宙為"

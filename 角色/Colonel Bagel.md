@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c86906"
 type: "character"
-display_title: "贝惠古露大佐"
-title_zh: "贝惠古露大佐"
+display_title: "ベーグル大佐"
+title_zh: ""
 title_ja: "ベーグル大佐"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c86906"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Colonel Bagel"
-  - "ベーグル大佐"
 source_ids:
   vndb: "c86906"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c86906.webp"
 ---
 
-# 贝惠古露大佐
+# ベーグル大佐
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c79180"
 type: "character"
-display_title: "加寿特拉"
-title_zh: "加寿特拉"
+display_title: "カステラ"
+title_zh: ""
 title_ja: "カステラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c79180"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Castilla"
-  - "カステラ"
 source_ids:
   vndb: "c79180"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c79180.webp"
 ---
 
-# 加寿特拉
+# カステラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

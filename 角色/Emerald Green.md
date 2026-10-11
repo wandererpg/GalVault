@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c70976"
 type: "character"
-display_title: "惠芽拉露堂＝古莉伊恩"
-title_zh: "惠芽拉露堂＝古莉伊恩"
+display_title: "エメラルド＝グリーン"
+title_zh: ""
 title_ja: "エメラルド＝グリーン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c70976"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Emerald Green"
-  - "エメラルド＝グリーン"
 source_ids:
   vndb: "c70976"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c70976.webp"
 ---
 
-# 惠芽拉露堂＝古莉伊恩
+# エメラルド＝グリーン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

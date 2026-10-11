@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c118590"
 type: "character"
-display_title: "美优希"
-title_zh: "美优希"
+display_title: "ミユキ"
+title_zh: ""
 title_ja: "ミユキ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c118590"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Miyuki"
-  - "ミユキ"
 source_ids:
   vndb: "c118590"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c118590.webp"
 ---
 
-# 美优希
+# ミユキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

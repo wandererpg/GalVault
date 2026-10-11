@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c60285"
 type: "character"
-display_title: "吉莉莉乌梦"
-title_zh: "吉莉莉乌梦"
+display_title: "ジリリウム"
+title_zh: ""
 title_ja: "ジリリウム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c60285"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Zillillium Rimonite"
-  - "ジリリウム"
   - "Zill"
   - "ジル"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c60285.webp"
 ---
 
-# 吉莉莉乌梦
+# ジリリウム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

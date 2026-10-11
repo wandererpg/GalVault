@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c57977"
 type: "character"
-display_title: "真露K久寿太恩蕾惠"
-title_zh: "真露K久寿太恩蕾惠"
+display_title: "マルック・スタンレー"
+title_zh: ""
 title_ja: "マルック・スタンレー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c57977"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Marc Stanley"
-  - "マルック・スタンレー"
 source_ids:
   vndb: "c57977"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c57977.webp"
 ---
 
-# 真露K久寿太恩蕾惠
+# マルック・スタンレー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c131333"
 type: "character"
-display_title: "阿L阿S斗R·L伊努S"
-title_zh: "阿L阿S斗R·L伊努S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Alastor Linus"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c131333"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Alastor Linus"
 source_ids:
   vndb: "c131333"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c131333.webp"
 ---
 
-# 阿L阿S斗R·L伊努S
+# Alastor Linus
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

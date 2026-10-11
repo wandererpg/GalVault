@@ -5,7 +5,10 @@ display_title: "甘粕真与"
 title_zh: "甘粕真与"
 title_ja: "甘粕 真与"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9785"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Amakasu Mayo"
   - "甘粕 真与"

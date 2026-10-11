@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c3102"
 type: "character"
-display_title: "月岛真沙希"
-title_zh: "月岛真沙希"
+display_title: "月島 まさき"
+title_zh: ""
 title_ja: "月島 まさき"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c3102"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tsukishima Masaki"
-  - "月島 まさき"
 source_ids:
   vndb: "c3102"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c3102.webp"
 ---
 
-# 月岛真沙希
+# 月島 まさき
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

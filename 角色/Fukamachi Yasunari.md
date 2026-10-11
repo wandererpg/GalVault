@@ -5,7 +5,10 @@ display_title: "深町康哉"
 title_zh: "深町康哉"
 title_ja: "深町 康哉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c17868"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fukamachi Yasunari"
   - "深町 康哉"

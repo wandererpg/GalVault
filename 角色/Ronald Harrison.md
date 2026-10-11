@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c143341"
 type: "character"
-display_title: "洛奈LD·羽R莉索恩"
-title_zh: "洛奈LD·羽R莉索恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ronald Harrison"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c143341"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ronald Harrison"
 source_ids:
   vndb: "c143341"
 source_urls:
   vndb: "https://vndb.org/c143341"
 ---
 
-# 洛奈LD·羽R莉索恩
+# Ronald Harrison
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

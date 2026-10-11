@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c56830"
 type: "character"
-display_title: "斗奥真莉普斗恩"
-title_zh: "斗奥真莉普斗恩"
+display_title: "トーマ・リプトン"
+title_zh: ""
 title_ja: "トーマ・リプトン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56830"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Thoma Lipton"
-  - "トーマ・リプトン"
   - "Toma"
 source_ids:
   vndb: "c56830"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c56830.webp"
 ---
 
-# 斗奥真莉普斗恩
+# トーマ・リプトン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

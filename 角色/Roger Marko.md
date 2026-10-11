@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c44131"
 type: "character"
-display_title: "洛嘉阿真露子"
-title_zh: "洛嘉阿真露子"
+display_title: "ロジャーマルコ"
+title_zh: ""
 title_ja: "ロジャーマルコ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c44131"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Roger Marko"
-  - "ロジャーマルコ"
 source_ids:
   vndb: "c44131"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c44131.webp"
 ---
 
-# 洛嘉阿真露子
+# ロジャーマルコ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

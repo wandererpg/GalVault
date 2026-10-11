@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12338"
 type: "character"
-display_title: "佩露拉"
-title_zh: "佩露拉"
+display_title: "ペルラ"
+title_zh: ""
 title_ja: "ペルラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12338"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Perla"
-  - "ペルラ"
 source_ids:
   vndb: "c12338"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c12338.webp"
 ---
 
-# 佩露拉
+# ペルラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

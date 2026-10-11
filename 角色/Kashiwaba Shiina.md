@@ -5,7 +5,10 @@ display_title: "柏叶椎菜"
 title_zh: "柏叶椎菜"
 title_ja: "柏葉 椎菜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c79210"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kashiwaba Shiina"
   - "柏葉 椎菜"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c74506"
 type: "character"
-display_title: "美奥·F阿R洛W"
-title_zh: "美奥·F阿R洛W"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Mio Farrow"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c74506"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Mio Farrow"
 source_ids:
   vndb: "c74506"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c74506.webp"
 ---
 
-# 美奥·F阿R洛W
+# Mio Farrow
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

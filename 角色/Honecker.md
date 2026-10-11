@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c161982"
 type: "character"
-display_title: "穗奥音K加阿"
-title_zh: "穗奥音K加阿"
+display_title: "ホーネッカー"
+title_zh: ""
 title_ja: "ホーネッカー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161982"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Honecker"
-  - "ホーネッカー"
 source_ids:
   vndb: "c161982"
 source_urls:
   vndb: "https://vndb.org/c161982"
 ---
 
-# 穗奥音K加阿
+# ホーネッカー
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

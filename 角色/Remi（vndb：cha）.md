@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c138975"
 type: "character"
-display_title: "蕾美"
-title_zh: "蕾美"
+display_title: "レミ"
+title_zh: ""
 title_ja: "レミ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138975"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Remi"
-  - "レミ"
   - "Remi-kun"
 source_ids:
   vndb: "c138975"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c138975.webp"
 ---
 
-# 蕾美
+# レミ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

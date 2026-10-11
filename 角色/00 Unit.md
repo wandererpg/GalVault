@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c110"
 type: "character"
-display_title: "00优尼T斗"
-title_zh: "00优尼T斗"
+display_title: "00ユニット"
+title_zh: ""
 title_ja: "00ユニット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c110"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "00 Unit"
-  - "00ユニット"
   - "鑑 純夏"
   - "Kagami Sumika"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c110.webp"
 ---
 
-# 00优尼T斗
+# 00ユニット
 
 
 ## 角色画像

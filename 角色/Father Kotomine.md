@@ -5,7 +5,10 @@ display_title: "言峰神父"
 title_zh: "言峰神父"
 title_ja: "言峰 神父"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c140536"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Father Kotomine"
   - "言峰 神父"

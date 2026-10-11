@@ -5,7 +5,10 @@ display_title: "宵待白子"
 title_zh: "宵待白子"
 title_ja: "宵待 白子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c40068"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yoimachi Shirako"
   - "宵待 白子"

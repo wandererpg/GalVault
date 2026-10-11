@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c64304"
 type: "character"
-display_title: "惠洛伊奈D伊加巴莉惠洛伊寿太"
-title_zh: "惠洛伊奈D伊加巴莉惠洛伊寿太"
+display_title: "エロイナ・ディ・カバリェロ・イスタ"
+title_zh: ""
 title_ja: "エロイナ・ディ・カバリェロ・イスタ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c64304"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Heroina di Caballero istaa"
-  - "エロイナ・ディ・カバリェロ・イスタ"
   - "エル"
   - "Elle"
   - "エルちん"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c64304.webp"
 ---
 
-# 惠洛伊奈D伊加巴莉惠洛伊寿太
+# エロイナ・ディ・カバリェロ・イスタ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

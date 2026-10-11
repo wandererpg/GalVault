@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127328"
 type: "character"
-display_title: "椿阿加音"
-title_zh: "椿阿加音"
+display_title: "椿あかね"
+title_zh: ""
 title_ja: "椿あかね"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127328"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tsubaki Akane"
-  - "椿あかね"
 source_ids:
   vndb: "c127328"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c127328.webp"
 ---
 
-# 椿阿加音
+# 椿あかね
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

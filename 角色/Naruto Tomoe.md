@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39543"
 type: "character"
-display_title: "鸣门斗莫惠"
-title_zh: "鸣门斗莫惠"
+display_title: "鳴門 ともえ"
+title_zh: ""
 title_ja: "鳴門 ともえ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39543"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Naruto Tomoe"
-  - "鳴門 ともえ"
 source_ids:
   vndb: "c39543"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c39543.webp"
 ---
 
-# 鸣门斗莫惠
+# 鳴門 ともえ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

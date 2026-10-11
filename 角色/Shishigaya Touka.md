@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c53941"
 type: "character"
-display_title: "狮子惠谷桐花"
-title_zh: "狮子惠谷桐花"
+display_title: "獅子ヶ谷 桐花"
+title_zh: ""
 title_ja: "獅子ヶ谷 桐花"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c53941"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shishigaya Touka"
-  - "獅子ヶ谷 桐花"
   - "トーカ"
   - "Tohka"
   - "Major Killjoy"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c53941.webp"
 ---
 
-# 狮子惠谷桐花
+# 獅子ヶ谷 桐花
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c138141"
 type: "character"
-display_title: "露S濑LL·布RG芽伊S特R"
-title_zh: "露S濑LL·布RG芽伊S特R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Russell Burgmeister"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138141"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Russell Burgmeister"
   - "Rusty"
 source_ids:
   vndb: "c138141"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c138141.webp"
 ---
 
-# 露S濑LL·布RG芽伊S特R
+# Russell Burgmeister
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

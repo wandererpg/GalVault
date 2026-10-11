@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159513"
 type: "character"
-display_title: "L惠K羽"
-title_zh: "L惠K羽"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Lekha"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159513"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Lekha"
 source_ids:
   vndb: "c159513"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c159513.webp"
 ---
 
-# L惠K羽
+# Lekha
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

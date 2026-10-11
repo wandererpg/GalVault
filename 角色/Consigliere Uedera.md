@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c38371"
 type: "character"
-display_title: "C奥恩S伊GL伊惠蕾·乌惠德拉"
-title_zh: "C奥恩S伊GL伊惠蕾·乌惠德拉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Consigliere Uedera"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38371"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Consigliere Uedera"
   - "Mad Dog Wayne"
   - "Wayne Uedera"
   - "Kouta Uedera"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c38371.webp"
 ---
 
-# C奥恩S伊GL伊惠蕾·乌惠德拉
+# Consigliere Uedera
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

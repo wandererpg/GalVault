@@ -5,7 +5,10 @@ display_title: "有坂牡丹"
 title_zh: "有坂牡丹"
 title_ja: "有坂 牡丹"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c22806"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Arisaka Botan"
   - "有坂 牡丹"

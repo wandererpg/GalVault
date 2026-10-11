@@ -5,7 +5,10 @@ display_title: "岩谷荣二"
 title_zh: "岩谷荣二"
 title_ja: "巌谷 榮二"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c42854"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Iwaya Eiji"
   - "巌谷 榮二"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c76978"
 type: "character"
-display_title: "久拉拉"
-title_zh: "久拉拉"
+display_title: "くらら"
+title_zh: ""
 title_ja: "くらら"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c76978"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kurara"
-  - "くらら"
 source_ids:
   vndb: "c76978"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c76978.webp"
 ---
 
-# 久拉拉
+# くらら
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

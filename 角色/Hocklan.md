@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c167843"
 type: "character"
-display_title: "穗CKL阿恩"
-title_zh: "穗CKL阿恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Hocklan"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c167843"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Hocklan"
 source_ids:
   vndb: "c167843"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c167843.webp"
 ---
 
-# 穗CKL阿恩
+# Hocklan
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71176"
 type: "character"
-display_title: "乃露特伊寿＝乌露F阿恩古"
-title_zh: "乃露特伊寿＝乌露F阿恩古"
+display_title: "ノルティス＝ウルファング"
+title_zh: ""
 title_ja: "ノルティス＝ウルファング"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71176"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nortis Wolfang"
-  - "ノルティス＝ウルファング"
 source_ids:
   vndb: "c71176"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71176.webp"
 ---
 
-# 乃露特伊寿＝乌露F阿恩古
+# ノルティス＝ウルファング
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

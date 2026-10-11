@@ -5,7 +5,10 @@ display_title: "门仓永二"
 title_zh: "门仓永二"
 title_ja: "門倉 永二"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20518"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kadokura Eiji"
   - "門倉 永二"

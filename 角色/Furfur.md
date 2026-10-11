@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12267"
 type: "character"
-display_title: "芙露芙露"
-title_zh: "芙露芙露"
+display_title: "フルフル"
+title_zh: ""
 title_ja: "フルフル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12267"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Furfur"
-  - "フルフル"
 source_ids:
   vndb: "c12267"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c12267.webp"
 ---
 
-# 芙露芙露
+# フルフル
 
 
 ## 角色画像

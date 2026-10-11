@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8144"
 type: "character"
-display_title: "伊露拉加梦伊"
-title_zh: "伊露拉加梦伊"
+display_title: "イルラカムイ"
+title_zh: ""
 title_ja: "イルラカムイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8144"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ilulakamui"
-  - "イルラカムイ"
 source_ids:
   vndb: "c8144"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c8144.webp"
 ---
 
-# 伊露拉加梦伊
+# イルラカムイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

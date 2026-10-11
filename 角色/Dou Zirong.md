@@ -5,7 +5,10 @@ display_title: "窦紫蓉"
 title_zh: "窦紫蓉"
 title_ja: "窦紫蓉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c151082"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Dou Zirong"
   - "Moony Beans"

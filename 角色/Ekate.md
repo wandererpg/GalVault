@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c24683"
 type: "character"
-display_title: "惠加特惠"
-title_zh: "惠加特惠"
+display_title: "エカテー"
+title_zh: ""
 title_ja: "エカテー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c24683"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ekate"
-  - "エカテー"
 source_ids:
   vndb: "c24683"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c24683.webp"
 ---
 
-# 惠加特惠
+# エカテー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

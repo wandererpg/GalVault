@@ -5,7 +5,10 @@ display_title: "才城莲"
 title_zh: "才城莲"
 title_ja: "才城 蓮"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c27535"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Saijou Ren"
   - "才城 蓮"

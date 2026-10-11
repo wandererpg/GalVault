@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c88127"
 type: "character"
-display_title: "奈太L雅·佩T洛V奈·V奥L子V阿"
-title_zh: "奈太L雅·佩T洛V奈·V奥L子V阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Natalya Petrovna Volkova"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c88127"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Natalya Petrovna Volkova"
   - "Natasha"
 source_ids:
   vndb: "c88127"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c88127.webp"
 ---
 
-# 奈太L雅·佩T洛V奈·V奥L子V阿
+# Natalya Petrovna Volkova
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

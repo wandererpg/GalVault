@@ -5,7 +5,10 @@ display_title: "邱诺亚/邱诺亚"
 title_zh: "邱诺亚/邱诺亚"
 title_ja: "邱诺亚/邱諾亞"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c172688"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Qiū Nuóyà"
   - "邱诺亚/邱諾亞"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c649"
 type: "character"
-display_title: "宇垣樱"
-title_zh: "宇垣樱"
+display_title: "宇垣 さくら"
+title_zh: ""
 title_ja: "宇垣 さくら"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c649"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ugaki Sakura"
-  - "宇垣 さくら"
 source_ids:
   vndb: "c649"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c649.webp"
 ---
 
-# 宇垣樱
+# 宇垣 さくら
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

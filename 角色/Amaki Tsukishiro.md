@@ -5,7 +5,10 @@ display_title: "天木月代"
 title_zh: "天木月代"
 title_ja: "天木 月代"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20048"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Amaki Tsukishiro"
   - "天木 月代"

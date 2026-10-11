@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c163941"
 type: "character"
-display_title: "云居阿扎美"
-title_zh: "云居阿扎美"
+display_title: "雲居 アザミ"
+title_zh: ""
 title_ja: "雲居 アザミ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c163941"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kumoi Azami"
-  - "雲居 アザミ"
 source_ids:
   vndb: "c163941"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c163941.webp"
 ---
 
-# 云居阿扎美
+# 雲居 アザミ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

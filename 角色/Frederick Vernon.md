@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c153124"
 type: "character"
-display_title: "F蕾德莉CK·V惠R乃恩"
-title_zh: "F蕾德莉CK·V惠R乃恩"
+display_title: "프레드릭 버논"
+title_zh: ""
 title_ja: "프레드릭 버논"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c153124"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Frederick Vernon"
-  - "프레드릭 버논"
 source_ids:
   vndb: "c153124"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c153124.webp"
 ---
 
-# F蕾德莉CK·V惠R乃恩
+# 프레드릭 버논
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

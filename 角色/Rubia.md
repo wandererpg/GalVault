@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c138973"
 type: "character"
-display_title: "露比阿"
-title_zh: "露比阿"
+display_title: "ルビア"
+title_zh: ""
 title_ja: "ルビア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138973"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rubia"
-  - "ルビア"
   - "Rubia-chan"
 source_ids:
   vndb: "c138973"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c138973.webp"
 ---
 
-# 露比阿
+# ルビア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

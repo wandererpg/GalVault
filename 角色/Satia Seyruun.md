@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14320"
 type: "character"
-display_title: "沙特伊阿濑伊露乌恩"
-title_zh: "沙特伊阿濑伊露乌恩"
+display_title: "サティア・セイルーン"
+title_zh: ""
 title_ja: "サティア・セイルーン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14320"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Satia Seyruun"
-  - "サティア・セイルーン"
   - "Satia Seiruun"
 source_ids:
   vndb: "c14320"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c14320.webp"
 ---
 
-# 沙特伊阿濑伊露乌恩
+# サティア・セイルーン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

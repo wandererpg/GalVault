@@ -5,7 +5,10 @@ display_title: "小木曾孝宏"
 title_zh: "小木曾孝宏"
 title_ja: "小木曽 孝宏"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c71194"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ogiso Takahiro"
   - "小木曽 孝宏"

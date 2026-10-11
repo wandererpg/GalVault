@@ -5,7 +5,10 @@ display_title: "山神水緖里"
 title_zh: "山神水緖里"
 title_ja: "山神 水緒里"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c48081"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yamagami Miori"
   - "山神 水緒里"

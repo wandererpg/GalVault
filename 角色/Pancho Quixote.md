@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c72122"
 type: "character"
-display_title: "帕恩绪希穗奥特"
-title_zh: "帕恩绪希穗奥特"
+display_title: "パンチョ・キホーテ"
+title_zh: ""
 title_ja: "パンチョ・キホーテ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c72122"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Pancho Quixote"
-  - "パンチョ・キホーテ"
 source_ids:
   vndb: "c72122"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c72122.webp"
 ---
 
-# 帕恩绪希穗奥特
+# パンチョ・キホーテ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

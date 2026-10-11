@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61272"
 type: "character"
-display_title: "真洛恩子恩堂拉C惠恩子"
-title_zh: "真洛恩子恩堂拉C惠恩子"
+display_title: "マロン・コンドラチェンコ"
+title_zh: ""
 title_ja: "マロン・コンドラチェンコ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61272"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Miron Kondratenko"
-  - "マロン・コンドラチェンコ"
   - "Maron Kondratenko"
   - "Мирон Кондратенко"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c61272.webp"
 ---
 
-# 真洛恩子恩堂拉C惠恩子
+# マロン・コンドラチェンコ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

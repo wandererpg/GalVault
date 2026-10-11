@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c110006"
 type: "character"
-display_title: "蕾伊莫恩堂乃奥真恩"
-title_zh: "蕾伊莫恩堂乃奥真恩"
+display_title: "レイモンド・ノーマン"
+title_zh: ""
 title_ja: "レイモンド・ノーマン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c110006"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Reymond Norman"
-  - "レイモンド・ノーマン"
 source_ids:
   vndb: "c110006"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c110006.webp"
 ---
 
-# 蕾伊莫恩堂乃奥真恩
+# レイモンド・ノーマン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

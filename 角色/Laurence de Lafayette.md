@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61138"
 type: "character"
-display_title: "L阿乌蕾恩C惠·德·L阿F阿Y惠T特"
-title_zh: "L阿乌蕾恩C惠·德·L阿F阿Y惠T特"
+display_title: "로렌스 드 라파에트"
+title_zh: ""
 title_ja: "로렌스 드 라파에트"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61138"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Laurence de Lafayette"
-  - "로렌스 드 라파에트"
   - "Laurent"
 source_ids:
   vndb: "c61138"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c61138.webp"
 ---
 
-# L阿乌蕾恩C惠·德·L阿F阿Y惠T特
+# 로렌스 드 라파에트
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "筿原圣良"
 title_zh: "筿原圣良"
 title_ja: "篠原 聖良"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9836"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shinohara Sera"
   - "篠原 聖良"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c63712"
 type: "character"
-display_title: "笹浦寿兹奈"
-title_zh: "笹浦寿兹奈"
+display_title: "笹浦 すずな"
+title_zh: ""
 title_ja: "笹浦 すずな"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c63712"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sasaura Suzuna"
-  - "笹浦 すずな"
 source_ids:
   vndb: "c63712"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c63712.webp"
 ---
 
-# 笹浦寿兹奈
+# 笹浦 すずな
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

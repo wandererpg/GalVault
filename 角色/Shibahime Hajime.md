@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c102608"
 type: "character"
-display_title: "芝姫羽吉芽"
-title_zh: "芝姫羽吉芽"
+display_title: "芝姫 はじめ"
+title_zh: ""
 title_ja: "芝姫 はじめ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c102608"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shibahime Hajime"
-  - "芝姫 はじめ"
 source_ids:
   vndb: "c102608"
 source_urls:
   vndb: "https://vndb.org/c102608"
 ---
 
-# 芝姫羽吉芽
+# 芝姫 はじめ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

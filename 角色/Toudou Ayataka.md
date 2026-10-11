@@ -5,7 +5,10 @@ display_title: "藤堂绫鹰"
 title_zh: "藤堂绫鹰"
 title_ja: "藤堂 綾鷹"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c15778"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Toudou Ayataka"
   - "藤堂 綾鷹"

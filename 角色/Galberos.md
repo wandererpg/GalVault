@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c85126"
 type: "character"
-display_title: "雅露贝洛寿"
-title_zh: "雅露贝洛寿"
+display_title: "ガルベロス"
+title_zh: ""
 title_ja: "ガルベロス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85126"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Galberos"
-  - "ガルベロス"
 source_ids:
   vndb: "c85126"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c85126.webp"
 ---
 
-# 雅露贝洛寿
+# ガルベロス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

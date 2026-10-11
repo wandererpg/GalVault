@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c132597"
 type: "character"
-display_title: "露TH"
-title_zh: "露TH"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ruth"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132597"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ruth"
 source_ids:
   vndb: "c132597"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c132597.webp"
 ---
 
-# 露TH
+# Ruth
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

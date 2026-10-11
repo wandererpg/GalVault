@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125346"
 type: "character"
-display_title: "芽伊阿"
-title_zh: "芽伊阿"
+display_title: "メイア"
+title_zh: ""
 title_ja: "メイア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125346"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Meia"
-  - "メイア"
 source_ids:
   vndb: "c125346"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c125346.webp"
 ---
 
-# 芽伊阿
+# メイア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

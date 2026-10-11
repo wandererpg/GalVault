@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c124612"
 type: "character"
-display_title: "黑铃美奥"
-title_zh: "黑铃美奥"
+display_title: "黒鈴 ミヲ"
+title_zh: ""
 title_ja: "黒鈴 ミヲ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124612"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kurosuzu Mio"
-  - "黒鈴 ミヲ"
 source_ids:
   vndb: "c124612"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c124612.webp"
 ---
 
-# 黑铃美奥
+# 黒鈴 ミヲ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71182"
 type: "character"
-display_title: "加梦伊"
-title_zh: "加梦伊"
+display_title: "カムイ"
+title_zh: ""
 title_ja: "カムイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71182"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kamui"
-  - "カムイ"
 source_ids:
   vndb: "c71182"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71182.webp"
 ---
 
-# 加梦伊
+# カムイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43106"
 type: "character"
-display_title: "V阿蕾莉奥吉阿子奥扎"
-title_zh: "V阿蕾莉奥吉阿子奥扎"
+display_title: "ヴァレリオ・ジアコーザ"
+title_zh: ""
 title_ja: "ヴァレリオ・ジアコーザ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43106"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Valerio Giacosa"
-  - "ヴァレリオ・ジアコーザ"
   - "VG"
 source_ids:
   vndb: "c43106"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c43106.webp"
 ---
 
-# V阿蕾莉奥吉阿子奥扎
+# ヴァレリオ・ジアコーザ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

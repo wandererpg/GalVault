@@ -5,7 +5,10 @@ display_title: "绫里千寻"
 title_zh: "绫里千寻"
 title_ja: "綾里 千尋"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c3942"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ayasato Chihiro"
   - "綾里 千尋"

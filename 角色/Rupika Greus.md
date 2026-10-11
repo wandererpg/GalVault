@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c48676"
 type: "character"
-display_title: "露皮加·G蕾乌S"
-title_zh: "露皮加·G蕾乌S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Rupika Greus"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c48676"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Rupika Greus"
 source_ids:
   vndb: "c48676"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c48676.webp"
 ---
 
-# 露皮加·G蕾乌S
+# Rupika Greus
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

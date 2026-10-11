@@ -5,7 +5,10 @@ display_title: "阿良句宁子"
 title_zh: "阿良句宁子"
 title_ja: "阿良句 寧子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c103228"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Arach Neiko"
   - "阿良句 寧子"

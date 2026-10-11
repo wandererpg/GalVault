@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c47030"
 type: "character"
-display_title: "南光坊惠惠莉加天海"
-title_zh: "南光坊惠惠莉加天海"
+display_title: "南光坊 エーリカ 天海"
+title_zh: ""
 title_ja: "南光坊 エーリカ 天海"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c47030"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nankoubou Érica Tenkai"
-  - "南光坊 エーリカ 天海"
   - "エーリカ"
   - "Érica"
   - "天海"
@@ -22,7 +24,7 @@ source_urls:
 portrait_image: "assets/characters/c47030.webp"
 ---
 
-# 南光坊惠惠莉加天海
+# 南光坊 エーリカ 天海
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

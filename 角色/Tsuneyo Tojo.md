@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c93231"
 type: "character"
-display_title: "津音代·斗乔"
-title_zh: "津音代·斗乔"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Tsuneyo Tojo"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c93231"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Tsuneyo Tojo"
   - "Samurai of Flavor"
   - "Soup Warrior"
   - "Pork Woman"
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c93231.webp"
 ---
 
-# 津音代·斗乔
+# Tsuneyo Tojo
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

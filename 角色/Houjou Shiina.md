@@ -5,7 +5,10 @@ display_title: "凤城诗名"
 title_zh: "凤城诗名"
 title_ja: "鳳城 詩名"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c77133"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Houjou Shiina"
   - "鳳城 詩名"

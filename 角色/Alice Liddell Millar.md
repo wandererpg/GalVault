@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c49305"
 type: "character"
-display_title: "阿莉寿L美拉阿"
-title_zh: "阿莉寿L美拉阿"
+display_title: "アリス・L・ミラー"
+title_zh: ""
 title_ja: "アリス・L・ミラー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c49305"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alice Liddell Millar"
-  - "アリス・L・ミラー"
   - "Scylla"
   - "スキュラ"
   - "妖貴妃"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c49305.webp"
 ---
 
-# 阿莉寿L美拉阿
+# アリス・L・ミラー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

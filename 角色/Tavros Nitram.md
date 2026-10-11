@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c138290"
 type: "character"
-display_title: "太V洛S·尼T拉M"
-title_zh: "太V洛S·尼T拉M"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Tavros Nitram"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138290"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Tavros Nitram"
   - "adiosToreador"
   - "Page of Breath"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c138290.webp"
 ---
 
-# 太V洛S·尼T拉M
+# Tavros Nitram
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

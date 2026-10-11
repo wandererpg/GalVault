@@ -5,7 +5,10 @@ display_title: "片平步"
 title_zh: "片平步"
 title_ja: "片平 歩"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c133969"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Katahira Ayumu"
   - "片平 歩"

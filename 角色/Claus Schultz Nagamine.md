@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c1425"
 type: "character"
-display_title: "久拉乌寿＝修露津＝长岭"
-title_zh: "久拉乌寿＝修露津＝长岭"
+display_title: "クラウス＝シュルツ＝長嶺"
+title_zh: ""
 title_ja: "クラウス＝シュルツ＝長嶺"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c1425"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Claus Schultz Nagamine"
-  - "クラウス＝シュルツ＝長嶺"
   - "Kurausu Shurutsu Nagamine"
 source_ids:
   vndb: "c1425"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c1425.webp"
 ---
 
-# 久拉乌寿＝修露津＝长岭
+# クラウス＝シュルツ＝長嶺
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

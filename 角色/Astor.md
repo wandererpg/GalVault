@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c95394"
 type: "character"
-display_title: "阿寿斗露"
-title_zh: "阿寿斗露"
+display_title: "アストル"
+title_zh: ""
 title_ja: "アストル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c95394"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Astor"
-  - "アストル"
 source_ids:
   vndb: "c95394"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c95394.webp"
 ---
 
-# 阿寿斗露
+# アストル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c78016"
 type: "character"
-display_title: "羽莉真奥"
-title_zh: "羽莉真奥"
+display_title: "はりまお"
+title_zh: ""
 title_ja: "はりまお"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c78016"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Harimao"
-  - "はりまお"
 source_ids:
   vndb: "c78016"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c78016.webp"
 ---
 
-# 羽莉真奥
+# はりまお
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

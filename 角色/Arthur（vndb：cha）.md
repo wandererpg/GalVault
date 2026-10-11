@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c91951"
 type: "character"
-display_title: "亚瑟"
-title_zh: "亚瑟"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Arthur"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c91951"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Arthur"
 source_ids:
   vndb: "c91951"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c91951.webp"
 ---
 
-# 亚瑟
+# Arthur
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

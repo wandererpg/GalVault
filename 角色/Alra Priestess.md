@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125887"
 type: "character"
-display_title: "阿露拉普莉惠寿特寿"
-title_zh: "阿露拉普莉惠寿特寿"
+display_title: "アルラ・プリエステス"
+title_zh: ""
 title_ja: "アルラ・プリエステス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125887"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alra Priestess"
-  - "アルラ・プリエステス"
   - "Priestess"
 source_ids:
   vndb: "c125887"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c125887.webp"
 ---
 
-# 阿露拉普莉惠寿特寿
+# アルラ・プリエステス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

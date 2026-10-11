@@ -5,7 +5,10 @@ display_title: "翠屋辰树"
 title_zh: "翠屋辰树"
 title_ja: "翠屋辰樹"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1872"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Midoriya Tatsuki"
   - "翠屋辰樹"

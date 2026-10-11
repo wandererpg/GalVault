@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c125729"
 type: "character"
-display_title: "德V奥恩·奥R特雅"
-title_zh: "德V奥恩·奥R特雅"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Devon Ortega"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125729"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Devon Ortega"
   - "Dev"
 source_ids:
   vndb: "c125729"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c125729.webp"
 ---
 
-# 德V奥恩·奥R特雅
+# Devon Ortega
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

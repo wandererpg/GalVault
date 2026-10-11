@@ -5,7 +5,10 @@ display_title: "敷岛莲也"
 title_zh: "敷岛莲也"
 title_ja: "敷島 蓮也"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c41214"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shikishima Ren'ya"
   - "敷島 蓮也"

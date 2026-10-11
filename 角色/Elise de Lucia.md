@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159089"
 type: "character"
-display_title: "惠L伊濑·德·露西亚"
-title_zh: "惠L伊濑·德·露西亚"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Elise de Lucia"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159089"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Elise de Lucia"
   - "Princess Elise de Lucia"
 source_ids:
   vndb: "c159089"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c159089.webp"
 ---
 
-# 惠L伊濑·德·露西亚
+# Elise de Lucia
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

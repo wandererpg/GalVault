@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c172948"
 type: "character"
-display_title: "惠恩藏·莫恩洛惠·阿LL惠G拉"
-title_zh: "惠恩藏·莫恩洛惠·阿LL惠G拉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Enzo Monroe-Allegra"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c172948"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Enzo Monroe-Allegra"
   - "Freakin' Zo"
 source_ids:
   vndb: "c172948"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c172948.webp"
 ---
 
-# 惠恩藏·莫恩洛惠·阿LL惠G拉
+# Enzo Monroe-Allegra
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

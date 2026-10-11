@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c66966"
 type: "character"
-display_title: "乔L惠音"
-title_zh: "乔L惠音"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jolene"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c66966"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jolene"
   - "Jojo"
 source_ids:
   vndb: "c66966"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c66966.webp"
 ---
 
-# 乔L惠音
+# Jolene
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

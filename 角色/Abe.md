@@ -5,7 +5,10 @@ display_title: "足部"
 title_zh: "足部"
 title_ja: "足部"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c81378"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Abe"
 source_ids:

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30274"
 type: "character"
-display_title: "特斗莉"
-title_zh: "特斗莉"
+display_title: "テトリ"
+title_zh: ""
 title_ja: "テトリ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30274"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tetori"
-  - "テトリ"
 source_ids:
   vndb: "c30274"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30274.webp"
 ---
 
-# 特斗莉
+# テトリ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

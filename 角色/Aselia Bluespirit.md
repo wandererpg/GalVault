@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c2910"
 type: "character"
-display_title: "阿濑莉阿布露乌寿皮莉T斗"
-title_zh: "阿濑莉阿布露乌寿皮莉T斗"
+display_title: "アセリア・ブルースピリット"
+title_zh: ""
 title_ja: "アセリア・ブルースピリット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c2910"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Aselia Bluespirit"
-  - "アセリア・ブルースピリット"
   - "Aselia"
   - "Aselia Lasfolt"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c2910.webp"
 ---
 
-# 阿濑莉阿布露乌寿皮莉T斗
+# アセリア・ブルースピリット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

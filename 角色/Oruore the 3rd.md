@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98323"
 type: "character"
-display_title: "奥露奥蕾扎沙阿堂"
-title_zh: "奥露奥蕾扎沙阿堂"
+display_title: "オルオレ・ザ・サード"
+title_zh: ""
 title_ja: "オルオレ・ザ・サード"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98323"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Oruore the 3rd"
-  - "オルオレ・ザ・サード"
 source_ids:
   vndb: "c98323"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98323.webp"
 ---
 
-# 奥露奥蕾扎沙阿堂
+# オルオレ・ザ・サード
 
 
 ## 角色画像

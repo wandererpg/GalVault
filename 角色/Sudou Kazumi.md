@@ -5,7 +5,10 @@ display_title: "须藤一海"
 title_zh: "须藤一海"
 title_ja: "須藤 一海"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c173167"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sudou Kazumi"
   - "須藤 一海"

@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c2543"
 type: "character"
-display_title: "惠恩太洛乌"
-title_zh: "惠恩太洛乌"
+display_title: "けんたろう"
+title_zh: ""
 title_ja: "けんたろう"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c2543"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kentarou"
-  - "けんたろう"
 source_ids:
   vndb: "c2543"
 source_urls:
   vndb: "https://vndb.org/c2543"
 ---
 
-# 惠恩太洛乌
+# けんたろう
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

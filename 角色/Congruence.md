@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c129258"
 type: "character"
-display_title: "C奥恩G露惠恩C惠"
-title_zh: "C奥恩G露惠恩C惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Congruence"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c129258"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Congruence"
 source_ids:
   vndb: "c129258"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c129258.webp"
 ---
 
-# C奥恩G露惠恩C惠
+# Congruence
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

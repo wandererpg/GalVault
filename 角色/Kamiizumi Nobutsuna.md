@@ -5,7 +5,10 @@ display_title: "上泉信纲"
 title_zh: "上泉信纲"
 title_ja: "上泉 信綱"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c49204"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kamiizumi Nobutsuna"
   - "上泉 信綱"

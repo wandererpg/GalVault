@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c786"
 type: "character"
-display_title: "优莉乌寿＝莫恩蕾惠"
-title_zh: "优莉乌寿＝莫恩蕾惠"
+display_title: "ユリウス＝モンレー"
+title_zh: ""
 title_ja: "ユリウス＝モンレー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c786"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Julius Monrey"
-  - "ユリウス＝モンレー"
 source_ids:
   vndb: "c786"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c786.webp"
 ---
 
-# 优莉乌寿＝莫恩蕾惠
+# ユリウス＝モンレー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

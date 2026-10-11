@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126738"
 type: "character"
-display_title: "久乌皮D堂"
-title_zh: "久乌皮D堂"
+display_title: "キューピッド"
+title_zh: ""
 title_ja: "キューピッド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126738"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cupid"
-  - "キューピッド"
   - "Cupi"
 source_ids:
   vndb: "c126738"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c126738.webp"
 ---
 
-# 久乌皮D堂
+# キューピッド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c54370"
 type: "character"
-display_title: "奈伊恩＝扎＝F阿恩斗梦"
-title_zh: "奈伊恩＝扎＝F阿恩斗梦"
+display_title: "ナイン＝ザ＝ファントム"
+title_zh: ""
 title_ja: "ナイン＝ザ＝ファントム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c54370"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nine the Phantom"
-  - "ナイン＝ザ＝ファントム"
 source_ids:
   vndb: "c54370"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c54370.webp"
 ---
 
-# 奈伊恩＝扎＝F阿恩斗梦
+# ナイン＝ザ＝ファントム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

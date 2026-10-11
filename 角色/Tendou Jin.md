@@ -5,7 +5,10 @@ display_title: "天童壬"
 title_zh: "天童壬"
 title_ja: "天童 壬"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1332"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tendou Jin"
   - "天童 壬"

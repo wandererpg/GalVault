@@ -5,7 +5,10 @@ display_title: "朝露砂夜子"
 title_zh: "朝露砂夜子"
 title_ja: "朝露 砂夜子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43231"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Asatsuyu Sayoko"
   - "朝露 砂夜子"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c64678"
 type: "character"
-display_title: "高田乃布千加"
-title_zh: "高田乃布千加"
+display_title: "高田 ノブチカ"
+title_zh: ""
 title_ja: "高田 ノブチカ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c64678"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Takada Nobuchika"
-  - "高田 ノブチカ"
 source_ids:
   vndb: "c64678"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c64678.webp"
 ---
 
-# 高田乃布千加
+# 高田 ノブチカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

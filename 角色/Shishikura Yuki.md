@@ -5,7 +5,10 @@ display_title: "鹿仓忧姫"
 title_zh: "鹿仓忧姫"
 title_ja: "鹿倉 憂姫"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c85689"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shishikura Yuki"
   - "鹿倉 憂姫"

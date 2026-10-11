@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c54391"
 type: "character"
-display_title: "朱L伊阿恩音·奈太L伊惠·ST伊恩G拉Y"
-title_zh: "朱L伊阿恩音·奈太L伊惠·ST伊恩G拉Y"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Julianne Natalie Stingray"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c54391"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Julianne Natalie Stingray"
   - "Bartender"
   - "Doomlord420"
   - "Flat Bartender"
@@ -27,7 +29,7 @@ source_urls:
 portrait_image: "assets/characters/c54391.webp"
 ---
 
-# 朱L伊阿恩音·奈太L伊惠·ST伊恩G拉Y
+# Julianne Natalie Stingray
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "睦月凪"
 title_zh: "睦月凪"
 title_ja: "睦月 凪"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c4126"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mutsuki Nagi"
   - "睦月 凪"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c116133"
 type: "character"
-display_title: "真希奈露布拉恩诗惠T斗"
-title_zh: "真希奈露布拉恩诗惠T斗"
+display_title: "マキナ・ル・ブランシェット"
+title_zh: ""
 title_ja: "マキナ・ル・ブランシェット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116133"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Makina Le Blanchette"
-  - "マキナ・ル・ブランシェット"
   - "マキ"
   - "Maki"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c116133.webp"
 ---
 
-# 真希奈露布拉恩诗惠T斗
+# マキナ・ル・ブランシェット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c48672"
 type: "character"
-display_title: "美伊夏露古露寿"
-title_zh: "美伊夏露古露寿"
+display_title: "ミィシャ・ルグルス"
+title_zh: ""
 title_ja: "ミィシャ・ルグルス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c48672"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Misha Rugulus"
-  - "ミィシャ・ルグルス"
 source_ids:
   vndb: "c48672"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c48672.webp"
 ---
 
-# 美伊夏露古露寿
+# ミィシャ・ルグルス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

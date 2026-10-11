@@ -5,7 +5,10 @@ display_title: "藤泽月子"
 title_zh: "藤泽月子"
 title_ja: "藤澤 月子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c38438"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fujisawa Tsukiko"
   - "藤澤 月子"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c149230"
 type: "character"
-display_title: "L伊LLY·沙斗乌"
-title_zh: "L伊LLY·沙斗乌"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Lilly Satou"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149230"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Lilly Satou"
 source_ids:
   vndb: "c149230"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c149230.webp"
 ---
 
-# L伊LLY·沙斗乌
+# Lilly Satou
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

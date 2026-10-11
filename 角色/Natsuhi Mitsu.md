@@ -5,7 +5,10 @@ display_title: "夏日照"
 title_zh: "夏日照"
 title_ja: "夏日 照"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c31357"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Natsuhi Mitsu"
   - "夏日 照"

@@ -5,7 +5,10 @@ display_title: "薮井"
 title_zh: "薮井"
 title_ja: "藪井"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c61864"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yabui"
   - "藪井"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43333"
 type: "character"
-display_title: "伊惠吉伊沙恩达阿久"
-title_zh: "伊惠吉伊沙恩达阿久"
+display_title: "イェジー・サンダーク"
+title_zh: ""
 title_ja: "イェジー・サンダーク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43333"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jerzy Sandek"
-  - "イェジー・サンダーク"
 source_ids:
   vndb: "c43333"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43333.webp"
 ---
 
-# 伊惠吉伊沙恩达阿久
+# イェジー・サンダーク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

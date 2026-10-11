@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c104910"
 type: "character"
-display_title: "芽阿阿修莉伊佩K加阿"
-title_zh: "芽阿阿修莉伊佩K加阿"
+display_title: "メア・アシュリーペッカー"
+title_zh: ""
 title_ja: "メア・アシュリーペッカー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c104910"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mare Ashley-Pecker"
-  - "メア・アシュリーペッカー"
 source_ids:
   vndb: "c104910"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c104910.webp"
 ---
 
-# 芽阿阿修莉伊佩K加阿
+# メア・アシュリーペッカー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

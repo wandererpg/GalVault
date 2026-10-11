@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c28666"
 type: "character"
-display_title: "真莉伊布莉特恩"
-title_zh: "真莉伊布莉特恩"
+display_title: "マリー・ブリテン"
+title_zh: ""
 title_ja: "マリー・ブリテン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c28666"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mary Britain"
-  - "マリー・ブリテン"
 source_ids:
   vndb: "c28666"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c28666.webp"
 ---
 
-# 真莉伊布莉特恩
+# マリー・ブリテン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

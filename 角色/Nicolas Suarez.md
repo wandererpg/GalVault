@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c133910"
 type: "character"
-display_title: "尼C奥L阿S·寿阿蕾Z"
-title_zh: "尼C奥L阿S·寿阿蕾Z"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Nicolas Suarez"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c133910"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Nicolas Suarez"
 source_ids:
   vndb: "c133910"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c133910.webp"
 ---
 
-# 尼C奥L阿S·寿阿蕾Z
+# Nicolas Suarez
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

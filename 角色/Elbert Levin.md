@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39830"
 type: "character"
-display_title: "惠露巴阿斗蕾V伊恩"
-title_zh: "惠露巴阿斗蕾V伊恩"
+display_title: "エルバート・レヴィン"
+title_zh: ""
 title_ja: "エルバート・レヴィン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39830"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Elbert Levin"
-  - "エルバート・レヴィン"
   - "Erwin"
 source_ids:
   vndb: "c39830"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c39830.webp"
 ---
 
-# 惠露巴阿斗蕾V伊恩
+# エルバート・レヴィン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "陆奥高富"
 title_zh: "陆奥高富"
 title_ja: "陸奥 高富"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c72075"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mutsu Takatomi"
   - "陸奥 高富"

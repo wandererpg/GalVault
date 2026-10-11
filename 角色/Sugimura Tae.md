@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39296"
 type: "character"
-display_title: "杉村太惠"
-title_zh: "杉村太惠"
+display_title: "杉村 たえ"
+title_zh: ""
 title_ja: "杉村 たえ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39296"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sugimura Tae"
-  - "杉村 たえ"
 source_ids:
   vndb: "c39296"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c39296.webp"
 ---
 
-# 杉村太惠
+# 杉村 たえ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

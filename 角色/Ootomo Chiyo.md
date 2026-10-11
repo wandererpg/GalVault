@@ -5,7 +5,10 @@ display_title: "大伴千代"
 title_zh: "大伴千代"
 title_ja: "大伴 千代"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20645"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ootomo Chiyo"
   - "大伴 千代"

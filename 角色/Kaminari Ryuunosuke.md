@@ -5,7 +5,10 @@ display_title: "神成龙之介"
 title_zh: "神成龙之介"
 title_ja: "神成 龍之介"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c26990"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kaminari Ryuunosuke"
   - "神成 龍之介"

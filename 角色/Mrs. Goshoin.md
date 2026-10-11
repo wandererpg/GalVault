@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c169511"
 type: "character"
-display_title: "御所院沙恩"
-title_zh: "御所院沙恩"
+display_title: "御所院さん"
+title_zh: ""
 title_ja: "御所院さん"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c169511"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mrs. Goshoin"
-  - "御所院さん"
   - "冬樺母"
   - "Touka's Mother"
 source_ids:
@@ -17,7 +19,7 @@ source_urls:
   vndb: "https://vndb.org/c169511"
 ---
 
-# 御所院沙恩
+# 御所院さん
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

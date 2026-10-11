@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c141477"
 type: "character"
-display_title: "乔H恩"
-title_zh: "乔H恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "John"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141477"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "John"
 source_ids:
   vndb: "c141477"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c141477.webp"
 ---
 
-# 乔H恩
+# John
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

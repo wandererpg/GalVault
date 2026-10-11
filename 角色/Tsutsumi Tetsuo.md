@@ -5,7 +5,10 @@ display_title: "津诘彻生"
 title_zh: "津诘彻生"
 title_ja: "津詰 徹生"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c124600"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsutsumi Tetsuo"
   - "津詰 徹生"

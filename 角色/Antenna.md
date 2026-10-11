@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c92327"
 type: "character"
-display_title: "阿恩特奈"
-title_zh: "阿恩特奈"
+display_title: "アンテナ"
+title_zh: ""
 title_ja: "アンテナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92327"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Antenna"
-  - "アンテナ"
 source_ids:
   vndb: "c92327"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c92327.webp"
 ---
 
-# 阿恩特奈
+# アンテナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

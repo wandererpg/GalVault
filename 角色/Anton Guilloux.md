@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c92974"
 type: "character"
-display_title: "阿恩斗恩久乌"
-title_zh: "阿恩斗恩久乌"
+display_title: "アントン・ギュー"
+title_zh: ""
 title_ja: "アントン・ギュー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92974"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Anton Guilloux"
-  - "アントン・ギュー"
 source_ids:
   vndb: "c92974"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c92974.webp"
 ---
 
-# 阿恩斗恩久乌
+# アントン・ギュー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

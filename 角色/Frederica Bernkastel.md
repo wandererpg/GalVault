@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c113187"
 type: "character"
-display_title: "芙蕾德莉加贝露恩加寿特露"
-title_zh: "芙蕾德莉加贝露恩加寿特露"
+display_title: "フレデリカ・ベルンカステル"
+title_zh: ""
 title_ja: "フレデリカ・ベルンカステル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c113187"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Frederica Bernkastel"
-  - "フレデリカ・ベルンカステル"
 source_ids:
   vndb: "c113187"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c113187.webp"
 ---
 
-# 芙蕾德莉加贝露恩加寿特露
+# フレデリカ・ベルンカステル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

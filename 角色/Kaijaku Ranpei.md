@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c91898"
 type: "character"
-display_title: "加伊嘉久·拉恩佩伊"
-title_zh: "加伊嘉久·拉恩佩伊"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Kaijaku Ranpei"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c91898"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Kaijaku Ranpei"
   - "Yumeno Kyuusaku"
 source_ids:
   vndb: "c91898"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c91898.webp"
 ---
 
-# 加伊嘉久·拉恩佩伊
+# Kaijaku Ranpei
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

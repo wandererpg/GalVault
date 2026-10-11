@@ -5,7 +5,10 @@ display_title: "和田和雄"
 title_zh: "和田和雄"
 title_ja: "和田 和雄"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c146189"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Wada Kazuo"
   - "和田 和雄"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38693"
 type: "character"
-display_title: "索奈太"
-title_zh: "索奈太"
+display_title: "ソナタ"
+title_zh: ""
 title_ja: "ソナタ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38693"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sonata"
-  - "ソナタ"
 source_ids:
   vndb: "c38693"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c38693.webp"
 ---
 
-# 索奈太
+# ソナタ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

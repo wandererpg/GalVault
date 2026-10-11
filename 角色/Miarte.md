@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c24672"
 type: "character"
-display_title: "美阿露特"
-title_zh: "美阿露特"
+display_title: "ミアルテ"
+title_zh: ""
 title_ja: "ミアルテ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c24672"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Miarte"
-  - "ミアルテ"
 source_ids:
   vndb: "c24672"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c24672.webp"
 ---
 
-# 美阿露特
+# ミアルテ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

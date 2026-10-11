@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c47280"
 type: "character"
-display_title: "吉莉莉乌梦莉莫奈伊斗"
-title_zh: "吉莉莉乌梦莉莫奈伊斗"
+display_title: "ジリリウム・リモナイト"
+title_zh: ""
 title_ja: "ジリリウム・リモナイト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c47280"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Zillillium Rimonite"
-  - "ジリリウム・リモナイト"
   - "Zill"
   - "ジル"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c47280.webp"
 ---
 
-# 吉莉莉乌梦莉莫奈伊斗
+# ジリリウム・リモナイト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

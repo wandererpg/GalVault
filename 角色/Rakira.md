@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c142077"
 type: "character"
-display_title: "拉希拉"
-title_zh: "拉希拉"
+display_title: "ラキラ"
+title_zh: ""
 title_ja: "ラキラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c142077"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rakira"
-  - "ラキラ"
 source_ids:
   vndb: "c142077"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c142077.webp"
 ---
 
-# 拉希拉
+# ラキラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

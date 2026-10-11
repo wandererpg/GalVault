@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c56522"
 type: "character"
-display_title: "美兹莉伊寿特恩斗蕾惠梦"
-title_zh: "美兹莉伊寿特恩斗蕾惠梦"
+display_title: "ミズリィ・ステントレーム"
+title_zh: ""
 title_ja: "ミズリィ・ステントレーム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56522"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Misery Stentrem"
-  - "ミズリィ・ステントレーム"
 source_ids:
   vndb: "c56522"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c56522.webp"
 ---
 
-# 美兹莉伊寿特恩斗蕾惠梦
+# ミズリィ・ステントレーム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

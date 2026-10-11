@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c1356"
 type: "character"
-display_title: "F伊伊奈F阿梦阿阿修拉伊斗"
-title_zh: "F伊伊奈F阿梦阿阿修拉伊斗"
+display_title: "フィーナ・ファム・アーシュライト"
+title_zh: ""
 title_ja: "フィーナ・ファム・アーシュライト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c1356"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Feena Fam Earthlight"
-  - "フィーナ・ファム・アーシュライト"
 source_ids:
   vndb: "c1356"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c1356.webp"
 ---
 
-# F伊伊奈F阿梦阿阿修拉伊斗
+# フィーナ・ファム・アーシュライト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

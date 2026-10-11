@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c70870"
 type: "character"
-display_title: "希露真子寿"
-title_zh: "希露真子寿"
+display_title: "キルマコス"
+title_zh: ""
 title_ja: "キルマコス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c70870"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kilmakos"
-  - "キルマコス"
 source_ids:
   vndb: "c70870"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c70870.webp"
 ---
 
-# 希露真子寿
+# キルマコス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

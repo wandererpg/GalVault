@@ -5,7 +5,10 @@ display_title: "春日森明乃"
 title_zh: "春日森明乃"
 title_ja: "春日森 明乃"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10015"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kasugamori Akeno"
   - "春日森 明乃"

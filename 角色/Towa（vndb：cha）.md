@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c88345"
 type: "character"
-display_title: "斗和"
-title_zh: "斗和"
+display_title: "トワ"
+title_zh: ""
 title_ja: "トワ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c88345"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Towa"
-  - "トワ"
   - "euphoria"
   - "櫻木 悠斗"
   - "Sakuragi Haruto"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c88345.webp"
 ---
 
-# 斗和
+# トワ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c136574"
 type: "character"
-display_title: "KY拉"
-title_zh: "KY拉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Kyra"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136574"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Kyra"
 source_ids:
   vndb: "c136574"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c136574.webp"
 ---
 
-# KY拉
+# Kyra
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

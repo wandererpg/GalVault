@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c92317"
 type: "character"
-display_title: "希拉希拉"
-title_zh: "希拉希拉"
+display_title: "キラキラ"
+title_zh: ""
 title_ja: "キラキラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92317"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kirakira"
-  - "キラキラ"
   - "Macaron Shinomiya"
   - "篠宮 舞香桜音"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c92317.webp"
 ---
 
-# 希拉希拉
+# キラキラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c140504"
 type: "character"
-display_title: "沙露V阿斗奥蕾"
-title_zh: "沙露V阿斗奥蕾"
+display_title: "サルヴァトーレ"
+title_zh: ""
 title_ja: "サルヴァトーレ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c140504"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Salvatore"
-  - "サルヴァトーレ"
 source_ids:
   vndb: "c140504"
 source_urls:
   vndb: "https://vndb.org/c140504"
 ---
 
-# 沙露V阿斗奥蕾
+# サルヴァトーレ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

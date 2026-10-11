@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c103768"
 type: "character"
-display_title: "希希"
-title_zh: "希希"
+display_title: "キキ"
+title_zh: ""
 title_ja: "キキ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103768"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kiki"
-  - "キキ"
   - "Thomas Craig"
 source_ids:
   vndb: "c103768"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c103768.webp"
 ---
 
-# 希希
+# キキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

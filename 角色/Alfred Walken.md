@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c121"
 type: "character"
-display_title: "阿露芙蕾D堂乌奥奥惠恩"
-title_zh: "阿露芙蕾D堂乌奥奥惠恩"
+display_title: "アルフレッド・ウォーケン"
+title_zh: ""
 title_ja: "アルフレッド・ウォーケン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c121"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alfred Walken"
-  - "アルフレッド・ウォーケン"
 source_ids:
   vndb: "c121"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c121.webp"
 ---
 
-# 阿露芙蕾D堂乌奥奥惠恩
+# アルフレッド・ウォーケン
 
 
 ## 角色画像

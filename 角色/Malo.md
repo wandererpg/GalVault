@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c163269"
 type: "character"
-display_title: "真L奥"
-title_zh: "真L奥"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Malo"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c163269"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Malo"
 source_ids:
   vndb: "c163269"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c163269.webp"
 ---
 
-# 真L奥
+# Malo
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

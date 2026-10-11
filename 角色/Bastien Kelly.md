@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c104162"
 type: "character"
-display_title: "巴寿特伊恩惠莉伊"
-title_zh: "巴寿特伊恩惠莉伊"
+display_title: "バスティン・ケリー"
+title_zh: ""
 title_ja: "バスティン・ケリー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c104162"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Bastien Kelly"
-  - "バスティン・ケリー"
 source_ids:
   vndb: "c104162"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c104162.webp"
 ---
 
-# 巴寿特伊恩惠莉伊
+# バスティン・ケリー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

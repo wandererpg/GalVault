@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c138355"
 type: "character"
-display_title: "惠莉达恩·阿M波拉"
-title_zh: "惠莉达恩·阿M波拉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Eridan Ampora"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138355"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Eridan Ampora"
   - "caligulasAquarium"
   - "Prince of Hope"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c138355.webp"
 ---
 
-# 惠莉达恩·阿M波拉
+# Eridan Ampora
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c103033"
 type: "character"
-display_title: "阿LYS沙"
-title_zh: "阿LYS沙"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Alyssa"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103033"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Alyssa"
 source_ids:
   vndb: "c103033"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c103033.webp"
 ---
 
-# 阿LYS沙
+# Alyssa
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

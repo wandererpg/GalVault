@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c153868"
 type: "character"
-display_title: "夏乃优加太"
-title_zh: "夏乃优加太"
+display_title: "夏乃 ゆかた"
+title_zh: ""
 title_ja: "夏乃 ゆかた"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c153868"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Natsuno Yukata"
-  - "夏乃 ゆかた"
   - "ゆか"
   - "Yuka"
   - "ゆかたん"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c153868.webp"
 ---
 
-# 夏乃优加太
+# 夏乃 ゆかた
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

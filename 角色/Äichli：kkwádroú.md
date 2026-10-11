@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c50208"
 type: "character"
-display_title: "惠伊R莉伊久久和D堂乌洛津乌"
-title_zh: "惠伊R莉伊久久和D堂乌洛津乌"
+display_title: "エィッリィククワッドゥロッウ"
+title_zh: ""
 title_ja: "エィッリィククワッドゥロッウ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c50208"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Äichli:kkwádroú"
-  - "エィッリィククワッドゥロッウ"
   - "Eichli:kkwadrouu"
 source_ids:
   vndb: "c50208"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c50208.webp"
 ---
 
-# 惠伊R莉伊久久和D堂乌洛津乌
+# エィッリィククワッドゥロッウ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

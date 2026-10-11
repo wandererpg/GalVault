@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c154008"
 type: "character"
-display_title: "阿扎莉惠S·阿M音拉"
-title_zh: "阿扎莉惠S·阿M音拉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Azaries Amnera"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c154008"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Azaries Amnera"
   - "Azemia Azumnera"
   - "Little Sunbeam"
   - "Overevai, Aneterai"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c154008.webp"
 ---
 
-# 阿扎莉惠S·阿M音拉
+# Azaries Amnera
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

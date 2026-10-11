@@ -5,7 +5,10 @@ display_title: "贾驱文和"
 title_zh: "贾驱文和"
 title_ja: "賈駆 文和"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c19318"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kaku Bunwa"
   - "賈駆 文和"

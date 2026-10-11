@@ -5,7 +5,10 @@ display_title: "化野八郎"
 title_zh: "化野八郎"
 title_ja: "化野 八郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c48876"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Adashino Hachirou"
   - "化野 八郎"

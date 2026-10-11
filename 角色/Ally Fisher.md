@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c122896"
 type: "character"
-display_title: "阿LLY·F伊S惠R"
-title_zh: "阿LLY·F伊S惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ally Fisher"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c122896"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ally Fisher"
 source_ids:
   vndb: "c122896"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c122896.webp"
 ---
 
-# 阿LLY·F伊S惠R
+# Ally Fisher
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

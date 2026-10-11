@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c137008"
 type: "character"
-display_title: "D伊惠悟"
-title_zh: "D伊惠悟"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Diego"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c137008"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Diego"
 source_ids:
   vndb: "c137008"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c137008.webp"
 ---
 
-# D伊惠悟
+# Diego
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

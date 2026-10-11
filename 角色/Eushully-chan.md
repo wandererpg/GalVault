@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c44505"
 type: "character"
-display_title: "惠乌修莉伊恰恩"
-title_zh: "惠乌修莉伊恰恩"
+display_title: "エウシュリーちゃん"
+title_zh: ""
 title_ja: "エウシュリーちゃん"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c44505"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Eushully-chan"
-  - "エウシュリーちゃん"
   - "White Eushully"
   - "エウ娘"
   - "白エウ娘"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c44505.webp"
 ---
 
-# 惠乌修莉伊恰恩
+# エウシュリーちゃん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "吕蒙子明"
 title_zh: "吕蒙子明"
 title_ja: "呂蒙 子明"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c25786"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ryomou Shimei"
   - "呂蒙 子明"

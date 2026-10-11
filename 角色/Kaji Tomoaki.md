@@ -5,7 +5,10 @@ display_title: "梶智明"
 title_zh: "梶智明"
 title_ja: "梶 智明"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c12703"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kaji Tomoaki"
   - "梶 智明"

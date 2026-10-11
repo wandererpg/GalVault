@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c116132"
 type: "character"
-display_title: "久莉梦日露德V阿露羽恩奈"
-title_zh: "久莉梦日露德V阿露羽恩奈"
+display_title: "クリムヒルデ・ヴァルハンナ"
+title_zh: ""
 title_ja: "クリムヒルデ・ヴァルハンナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116132"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kriemhild Valhanna"
-  - "クリムヒルデ・ヴァルハンナ"
   - "クリム"
   - "Kriem"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c116132.webp"
 ---
 
-# 久莉梦日露德V阿露羽恩奈
+# クリムヒルデ・ヴァルハンナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

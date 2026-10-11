@@ -5,7 +5,10 @@ display_title: "深山由纪子"
 title_zh: "深山由纪子"
 title_ja: "深山 由紀子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c88141"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Miyama Yukiko"
   - "深山 由紀子"

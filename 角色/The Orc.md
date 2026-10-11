@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c99649"
 type: "character"
-display_title: "T惠·奥RC"
-title_zh: "T惠·奥RC"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "The Orc"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c99649"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "The Orc"
 source_ids:
   vndb: "c99649"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c99649.webp"
 ---
 
-# T惠·奥RC
+# The Orc
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

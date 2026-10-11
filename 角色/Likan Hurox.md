@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c97735"
 type: "character"
-display_title: "L伊加恩·H乌洛X"
-title_zh: "L伊加恩·H乌洛X"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Likan Hurox"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97735"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Likan Hurox"
 source_ids:
   vndb: "c97735"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c97735.webp"
 ---
 
-# L伊加恩·H乌洛X
+# Likan Hurox
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

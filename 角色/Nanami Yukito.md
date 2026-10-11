@@ -5,7 +5,10 @@ display_title: "名波行人"
 title_zh: "名波行人"
 title_ja: "名波 行人"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14544"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nanami Yukito"
   - "名波 行人"

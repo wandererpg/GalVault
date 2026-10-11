@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10326"
 type: "character"
-display_title: "长谷川光"
-title_zh: "长谷川光"
+display_title: "長谷川 ひかり"
+title_zh: ""
 title_ja: "長谷川 ひかり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10326"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hasegawa Hikari"
-  - "長谷川 ひかり"
 source_ids:
   vndb: "c10326"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c10326.webp"
 ---
 
-# 长谷川光
+# 長谷川 ひかり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

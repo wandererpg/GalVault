@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17311"
 type: "character"
-display_title: "雅恩F阿恩龙乌寿布露古"
-title_zh: "雅恩F阿恩龙乌寿布露古"
+display_title: "ヤン・ファン・リュースブルグ"
+title_zh: ""
 title_ja: "ヤン・ファン・リュースブルグ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17311"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jan Van Ruthberg"
-  - "ヤン・ファン・リュースブルグ"
   - "Ruth"
 source_ids:
   vndb: "c17311"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c17311.webp"
 ---
 
-# 雅恩F阿恩龙乌寿布露古
+# ヤン・ファン・リュースブルグ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

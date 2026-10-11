@@ -5,7 +5,10 @@ display_title: "久井奈圣"
 title_zh: "久井奈圣"
 title_ja: "久井奈 聖"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c98128"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kuina Hijiri"
   - "久井奈 聖"

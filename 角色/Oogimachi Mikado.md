@@ -5,7 +5,10 @@ display_title: "正亲町"
 title_zh: "正亲町"
 title_ja: "正親町"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c86651"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Oogimachi Mikado"
   - "正親町"

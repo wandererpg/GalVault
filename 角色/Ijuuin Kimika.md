@@ -5,7 +5,10 @@ display_title: "伊集院贵美香"
 title_zh: "伊集院贵美香"
 title_ja: "伊集院 貴美香"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c78150"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ijuuin Kimika"
   - "伊集院 貴美香"

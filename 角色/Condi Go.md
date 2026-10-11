@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c2454"
 type: "character"
-display_title: "子恩D伊悟"
-title_zh: "子恩D伊悟"
+display_title: "コンディ・ゴ"
+title_zh: ""
 title_ja: "コンディ・ゴ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c2454"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Condi Go"
-  - "コンディ・ゴ"
 source_ids:
   vndb: "c2454"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c2454.webp"
 ---
 
-# 子恩D伊悟
+# コンディ・ゴ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

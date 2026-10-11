@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c174077"
 type: "character"
-display_title: "加T莉奈·莫R雅恩"
-title_zh: "加T莉奈·莫R雅恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Katrina Morgan"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c174077"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Katrina Morgan"
   - "Keith"
 source_ids:
   vndb: "c174077"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c174077.webp"
 ---
 
-# 加T莉奈·莫R雅恩
+# Katrina Morgan
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

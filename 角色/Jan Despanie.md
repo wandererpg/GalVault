@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17319"
 type: "character"
-display_title: "嘉恩德寿帕尼惠"
-title_zh: "嘉恩德寿帕尼惠"
+display_title: "ジャン・デスパニエ"
+title_zh: ""
 title_ja: "ジャン・デスパニエ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17319"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jan Despanie"
-  - "ジャン・デスパニエ"
 source_ids:
   vndb: "c17319"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c17319.webp"
 ---
 
-# 嘉恩德寿帕尼惠
+# ジャン・デスパニエ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

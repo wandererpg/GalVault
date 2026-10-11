@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61309"
 type: "character"
-display_title: "寿加阿蕾T斗东乡"
-title_zh: "寿加阿蕾T斗东乡"
+display_title: "スカーレット・東郷"
+title_zh: ""
 title_ja: "スカーレット・東郷"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61309"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Scarlett Tougou"
-  - "スカーレット・東郷"
 source_ids:
   vndb: "c61309"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61309.webp"
 ---
 
-# 寿加阿蕾T斗东乡
+# スカーレット・東郷
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

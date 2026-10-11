@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17795"
 type: "character"
-display_title: "露乌加寿布露久缪拉阿"
-title_zh: "露乌加寿布露久缪拉阿"
+display_title: "ルーカス・ブルクミュラー"
+title_zh: ""
 title_ja: "ルーカス・ブルクミュラー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17795"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lucas Burgmuller"
-  - "ルーカス・ブルクミュラー"
   - "Lukas Burgmuller"
 source_ids:
   vndb: "c17795"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c17795.webp"
 ---
 
-# 露乌加寿布露久缪拉阿
+# ルーカス・ブルクミュラー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

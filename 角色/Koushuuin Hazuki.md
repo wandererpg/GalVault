@@ -5,7 +5,10 @@ display_title: "甲州院叶月"
 title_zh: "甲州院叶月"
 title_ja: "甲州院 葉月"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c50944"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Koushuuin Hazuki"
   - "甲州院 葉月"

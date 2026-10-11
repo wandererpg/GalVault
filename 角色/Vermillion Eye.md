@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c116849"
 type: "character"
-display_title: "V阿阿美莉奥奈伊"
-title_zh: "V阿阿美莉奥奈伊"
+display_title: "ヴァーミリオンアイ"
+title_zh: ""
 title_ja: "ヴァーミリオンアイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116849"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Vermillion Eye"
-  - "ヴァーミリオンアイ"
   - "Ｖｅｒ君、Ver-kun"
 source_ids:
   vndb: "c116849"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c116849.webp"
 ---
 
-# V阿阿美莉奥奈伊
+# ヴァーミリオンアイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

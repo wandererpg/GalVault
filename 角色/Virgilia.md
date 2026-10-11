@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13724"
 type: "character"
-display_title: "和露吉莉阿"
-title_zh: "和露吉莉阿"
+display_title: "ワルギリア"
+title_zh: ""
 title_ja: "ワルギリア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13724"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Virgilia"
-  - "ワルギリア"
   - "Lia"
   - "Publius Virgillia Maro"
   - "The Witch of the Finite"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c13724.webp"
 ---
 
-# 和露吉莉阿
+# ワルギリア
 
 
 ## 角色画像

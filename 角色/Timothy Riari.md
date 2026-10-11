@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17317"
 type: "character"
-display_title: "特伊莫诗伊莉阿莉伊"
-title_zh: "特伊莫诗伊莉阿莉伊"
+display_title: "ティモシー・リアリー"
+title_zh: ""
 title_ja: "ティモシー・リアリー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17317"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Timothy Riari"
-  - "ティモシー・リアリー"
 source_ids:
   vndb: "c17317"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c17317.webp"
 ---
 
-# 特伊莫诗伊莉阿莉伊
+# ティモシー・リアリー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

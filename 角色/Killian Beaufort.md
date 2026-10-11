@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c112183"
 type: "character"
-display_title: "希LL伊阿恩·贝阿乌F奥RT"
-title_zh: "希LL伊阿恩·贝阿乌F奥RT"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Killian Beaufort"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c112183"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Killian Beaufort"
   - "Ian"
 source_ids:
   vndb: "c112183"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c112183.webp"
 ---
 
-# 希LL伊阿恩·贝阿乌F奥RT
+# Killian Beaufort
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

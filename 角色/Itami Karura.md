@@ -5,7 +5,10 @@ display_title: "伊丹伽楼罗"
 title_zh: "伊丹伽楼罗"
 title_ja: "伊丹 伽楼羅"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c60179"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Itami Karura"
   - "伊丹 伽楼羅"

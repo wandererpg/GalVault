@@ -5,7 +5,10 @@ display_title: "樱川寿"
 title_zh: "樱川寿"
 title_ja: "桜川 寿"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c53298"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakuragawa Kotoho"
   - "桜川 寿"

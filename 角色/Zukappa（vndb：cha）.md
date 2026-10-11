@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13485"
 type: "character"
-display_title: "兹加P帕"
-title_zh: "兹加P帕"
+display_title: "ずかっぱ"
+title_zh: ""
 title_ja: "ずかっぱ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13485"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Zukappa"
-  - "ずかっぱ"
 source_ids:
   vndb: "c13485"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c13485.webp"
 ---
 
-# 兹加P帕
+# ずかっぱ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

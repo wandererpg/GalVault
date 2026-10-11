@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c37932"
 type: "character"
-display_title: "桐岛蕾伊恩"
-title_zh: "桐岛蕾伊恩"
+display_title: "桐島 レイン"
+title_zh: ""
 title_ja: "桐島 レイン"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37932"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kirishima Rain"
-  - "桐島 レイン"
 source_ids:
   vndb: "c37932"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c37932.webp"
 ---
 
-# 桐岛蕾伊恩
+# 桐島 レイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159834"
 type: "character"
-display_title: "堂恩·阿恩格L奥·V奥恩·S伊芽奥音·SL伊德·索恩佩G乃L奥"
-title_zh: "堂恩·阿恩格L奥·V奥恩·S伊芽奥音·SL伊德·索恩佩G乃L奥"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Don Angelo Von Simeone Slide Sonpegnolo"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159834"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Don Angelo Von Simeone Slide Sonpegnolo"
 source_ids:
   vndb: "c159834"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c159834.webp"
 ---
 
-# 堂恩·阿恩格L奥·V奥恩·S伊芽奥音·SL伊德·索恩佩G乃L奥
+# Don Angelo Von Simeone Slide Sonpegnolo
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

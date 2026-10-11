@@ -5,7 +5,10 @@ display_title: "宫藤阳向"
 title_zh: "宫藤阳向"
 title_ja: "宮藤 陽向"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10773"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kudou Hinata"
   - "宮藤 陽向"

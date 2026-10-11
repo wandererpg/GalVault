@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c48295"
 type: "character"
-display_title: "露乌堂羽阿音"
-title_zh: "露乌堂羽阿音"
+display_title: "ルードハーネ"
+title_zh: ""
 title_ja: "ルードハーネ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c48295"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rudkhane"
-  - "ルードハーネ"
   - "Ludo"
 source_ids:
   vndb: "c48295"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c48295.webp"
 ---
 
-# 露乌堂羽阿音
+# ルードハーネ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c83610"
 type: "character"
-display_title: "巴阿雅阿巴阿古Q太郎"
-title_zh: "巴阿雅阿巴阿古Q太郎"
+display_title: "バーガーバーグ Q太郎"
+title_zh: ""
 title_ja: "バーガーバーグ Q太郎"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c83610"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Burgerberg Q-tarou"
-  - "バーガーバーグ Q太郎"
   - "Muscle Gorilla"
   - "Mr. Q-taro"
   - "Cubetaro Hamburger"
@@ -22,7 +24,7 @@ source_urls:
 portrait_image: "assets/characters/c83610.webp"
 ---
 
-# 巴阿雅阿巴阿古Q太郎
+# バーガーバーグ Q太郎
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

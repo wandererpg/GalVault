@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c1073"
 type: "character"
-display_title: "波奥露千音千T太朱尼阿"
-title_zh: "波奥露千音千T太朱尼阿"
+display_title: "ポール・チネチッタ・ジュニア"
+title_zh: ""
 title_ja: "ポール・チネチッタ・ジュニア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c1073"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Paul Cinecitta Jr."
-  - "ポール・チネチッタ・ジュニア"
   - "Doggie Teacher"
   - "ポチ先生"
   - "校長先生"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c1073.webp"
 ---
 
-# 波奥露千音千T太朱尼阿
+# ポール・チネチッタ・ジュニア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

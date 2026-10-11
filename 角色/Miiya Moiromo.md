@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c101070"
 type: "character"
-display_title: "美伊雅·莫伊洛莫"
-title_zh: "美伊雅·莫伊洛莫"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Miiya Moiromo"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c101070"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Miiya Moiromo"
   - "Tanya"
 source_ids:
   vndb: "c101070"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c101070.webp"
 ---
 
-# 美伊雅·莫伊洛莫
+# Miiya Moiromo
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

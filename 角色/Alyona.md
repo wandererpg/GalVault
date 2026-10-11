@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c69747"
 type: "character"
-display_title: "阿L代奈"
-title_zh: "阿L代奈"
+display_title: "Алёна"
+title_zh: ""
 title_ja: "Алёна"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c69747"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alyona"
-  - "Алёна"
 source_ids:
   vndb: "c69747"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c69747.webp"
 ---
 
-# 阿L代奈
+# Алёна
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

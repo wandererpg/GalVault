@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c74514"
 type: "character"
-display_title: "玄叶(久洛巴)"
-title_zh: "玄叶(久洛巴)"
+display_title: "玄葉 (クロバ)"
+title_zh: ""
 title_ja: "玄葉 (クロバ)"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c74514"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kuroba"
-  - "玄葉 (クロバ)"
 source_ids:
   vndb: "c74514"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c74514.webp"
 ---
 
-# 玄叶(久洛巴)
+# 玄葉 (クロバ)
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

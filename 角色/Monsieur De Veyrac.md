@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c163170"
 type: "character"
-display_title: "莫恩S伊惠乌R·德·V惠Y拉C"
-title_zh: "莫恩S伊惠乌R·德·V惠Y拉C"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Monsieur De Veyrac"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c163170"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Monsieur De Veyrac"
 source_ids:
   vndb: "c163170"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c163170.webp"
 ---
 
-# 莫恩S伊惠乌R·德·V惠Y拉C
+# Monsieur De Veyrac
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

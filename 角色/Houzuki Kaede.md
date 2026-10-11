@@ -5,7 +5,10 @@ display_title: "崩月清枫"
 title_zh: "崩月清枫"
 title_ja: "崩月 清楓"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c164970"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Houzuki Kaede"
   - "崩月 清楓"

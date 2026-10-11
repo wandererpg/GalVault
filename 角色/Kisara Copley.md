@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c73481"
 type: "character"
-display_title: "希沙拉子普莉"
-title_zh: "希沙拉子普莉"
+display_title: "キサラ・コプリ"
+title_zh: ""
 title_ja: "キサラ・コプリ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c73481"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kisara Copley"
-  - "キサラ・コプリ"
   - "Kisara Copri"
 source_ids:
   vndb: "c73481"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c73481.webp"
 ---
 
-# 希沙拉子普莉
+# キサラ・コプリ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

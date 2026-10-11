@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c174100"
 type: "character"
-display_title: "穗LLY·达V伊S"
-title_zh: "穗LLY·达V伊S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Holly Davis"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c174100"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Holly Davis"
 source_ids:
   vndb: "c174100"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c174100.webp"
 ---
 
-# 穗LLY·达V伊S
+# Holly Davis
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

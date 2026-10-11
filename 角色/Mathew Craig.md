@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39834"
 type: "character"
-display_title: "真修乌久蕾伊古"
-title_zh: "真修乌久蕾伊古"
+display_title: "マシュー・クレイグ"
+title_zh: ""
 title_ja: "マシュー・クレイグ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39834"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mathew Craig"
-  - "マシュー・クレイグ"
   - "Grom"
 source_ids:
   vndb: "c39834"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c39834.webp"
 ---
 
-# 真修乌久蕾伊古
+# マシュー・クレイグ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

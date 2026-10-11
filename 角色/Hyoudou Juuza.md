@@ -5,7 +5,10 @@ display_title: "兵头十座"
 title_zh: "兵头十座"
 title_ja: "兵頭 十座"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c90172"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hyoudou Juuza"
   - "兵頭 十座"

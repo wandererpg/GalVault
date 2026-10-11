@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34618"
 type: "character"
-display_title: "莉兹莉伊真久达乌惠露"
-title_zh: "莉兹莉伊真久达乌惠露"
+display_title: "リズリー・マクダウェル"
+title_zh: ""
 title_ja: "リズリー・マクダウェル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34618"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lisley McDowell"
-  - "リズリー・マクダウェル"
 source_ids:
   vndb: "c34618"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c34618.webp"
 ---
 
-# 莉兹莉伊真久达乌惠露
+# リズリー・マクダウェル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

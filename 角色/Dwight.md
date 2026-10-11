@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c173637"
 type: "character"
-display_title: "DW伊GHT"
-title_zh: "DW伊GHT"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Dwight"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c173637"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Dwight"
 source_ids:
   vndb: "c173637"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c173637.webp"
 ---
 
-# DW伊GHT
+# Dwight
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

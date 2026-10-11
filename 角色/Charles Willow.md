@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c21201"
 type: "character"
-display_title: "恰阿露兹乌伊洛奥"
-title_zh: "恰阿露兹乌伊洛奥"
+display_title: "チャールズ・ウィロー"
+title_zh: ""
 title_ja: "チャールズ・ウィロー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c21201"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Charles Willow"
-  - "チャールズ・ウィロー"
 source_ids:
   vndb: "c21201"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c21201.webp"
 ---
 
-# 恰阿露兹乌伊洛奥
+# チャールズ・ウィロー
 
 
 ## 角色画像

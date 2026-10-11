@@ -5,7 +5,10 @@ display_title: "佐々木柚香"
 title_zh: "佐々木柚香"
 title_ja: "佐々木 柚香"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c3991"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sasaki Yuka"
   - "佐々木 柚香"

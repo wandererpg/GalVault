@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c116950"
 type: "character"
-display_title: "加雅莉恩·尤里"
-title_zh: "加雅莉恩·尤里"
+display_title: "카가린 유리"
+title_zh: ""
 title_ja: "카가린 유리"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116950"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kagarin Yuri"
-  - "카가린 유리"
   - "Super High School Level Spaceman"
 source_ids:
   vndb: "c116950"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c116950.webp"
 ---
 
-# 加雅莉恩·尤里
+# 카가린 유리
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

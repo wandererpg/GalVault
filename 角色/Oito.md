@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26773"
 type: "character"
-display_title: "奥丝"
-title_zh: "奥丝"
+display_title: "お糸"
+title_zh: ""
 title_ja: "お糸"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26773"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Oito"
-  - "お糸"
 source_ids:
   vndb: "c26773"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c26773.webp"
 ---
 
-# 奥丝
+# お糸
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "成濑真人"
 title_zh: "成濑真人"
 title_ja: "成瀬 真人"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c39735"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Naruse Masato"
   - "成瀬 真人"

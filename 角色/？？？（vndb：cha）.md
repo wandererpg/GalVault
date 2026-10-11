@@ -2,9 +2,12 @@
 entity_id: "vndb:character:c144000"
 type: "character"
 display_title: "???"
-title_zh: "???"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c144000"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Amaterasu"
   - "天照"

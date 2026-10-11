@@ -5,7 +5,10 @@ display_title: "加藤大尉"
 title_zh: "加藤大尉"
 title_ja: "加藤大尉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c91578"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Captain Katou"
 source_ids:

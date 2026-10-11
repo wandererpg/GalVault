@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71171"
 type: "character"
-display_title: "夏恩津阿伊"
-title_zh: "夏恩津阿伊"
+display_title: "シャンツアイ"
+title_zh: ""
 title_ja: "シャンツアイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71171"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shaun Tsuai"
-  - "シャンツアイ"
 source_ids:
   vndb: "c71171"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71171.webp"
 ---
 
-# 夏恩津阿伊
+# シャンツアイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

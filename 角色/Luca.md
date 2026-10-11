@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8563"
 type: "character"
-display_title: "露加"
-title_zh: "露加"
+display_title: "ルカ"
+title_zh: ""
 title_ja: "ルカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8563"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Luca"
-  - "ルカ"
 source_ids:
   vndb: "c8563"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c8563.webp"
 ---
 
-# 露加
+# ルカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

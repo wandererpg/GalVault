@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c172826"
 type: "character"
-display_title: "宇佐美奈奈"
-title_zh: "宇佐美奈奈"
+display_title: "宇佐美なな"
+title_zh: ""
 title_ja: "宇佐美なな"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c172826"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Usami Nana"
-  - "宇佐美なな"
 source_ids:
   vndb: "c172826"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c172826.webp"
 ---
 
-# 宇佐美奈奈
+# 宇佐美なな
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

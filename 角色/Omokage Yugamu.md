@@ -5,7 +5,10 @@ display_title: "面影歪"
 title_zh: "面影歪"
 title_ja: "面影 歪"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c150825"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Omokage Yugamu"
   - "面影 歪"

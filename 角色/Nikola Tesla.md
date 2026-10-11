@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26328"
 type: "character"
-display_title: "尼子拉特寿拉"
-title_zh: "尼子拉特寿拉"
+display_title: "ニコラ・テスラ"
+title_zh: ""
 title_ja: "ニコラ・テスラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26328"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nikola Tesla"
-  - "ニコラ・テスラ"
 source_ids:
   vndb: "c26328"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c26328.webp"
 ---
 
-# 尼子拉特寿拉
+# ニコラ・テスラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c132179"
 type: "character"
-display_title: "L伊阿M·阿恩德R索恩"
-title_zh: "L伊阿M·阿恩德R索恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Liam Anderson"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132179"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Liam Anderson"
   - "Angst"
 source_ids:
   vndb: "c132179"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c132179.webp"
 ---
 
-# L伊阿M·阿恩德R索恩
+# Liam Anderson
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

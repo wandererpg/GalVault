@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16859"
 type: "character"
-display_title: "立华奏"
-title_zh: "立华奏"
+display_title: "立華 かなで"
+title_zh: ""
 title_ja: "立華 かなで"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16859"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tachibana Kanade"
-  - "立華 かなで"
   - "Angel"
   - "天使"
   - "Tenshi"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c16859.webp"
 ---
 
-# 立华奏
+# 立華 かなで
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

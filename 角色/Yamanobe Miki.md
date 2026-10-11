@@ -5,7 +5,10 @@ display_title: "山边美希"
 title_zh: "山边美希"
 title_ja: "山辺 美希"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c3661"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yamanobe Miki"
   - "山辺 美希"

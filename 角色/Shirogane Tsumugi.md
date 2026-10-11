@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c53209"
 type: "character"
-display_title: "白银津梦吉"
-title_zh: "白银津梦吉"
+display_title: "白銀 つむぎ"
+title_zh: ""
 title_ja: "白銀 つむぎ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c53209"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shirogane Tsumugi"
-  - "白銀 つむぎ"
   - "New Ultimate Despair"
   - "Ultimate Cosplayer"
   - "ニュー超高校級の「絶望」"
@@ -24,7 +26,7 @@ source_urls:
 portrait_image: "assets/characters/c53209.webp"
 ---
 
-# 白银津梦吉
+# 白銀 つむぎ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

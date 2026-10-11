@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c104320"
 type: "character"
-display_title: "美莉阿"
-title_zh: "美莉阿"
+display_title: "ミリア"
+title_zh: ""
 title_ja: "ミリア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c104320"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Miria"
-  - "ミリア"
   - "Succubus Miria"
 source_ids:
   vndb: "c104320"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c104320.webp"
 ---
 
-# 美莉阿
+# ミリア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

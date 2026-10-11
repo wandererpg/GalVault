@@ -5,7 +5,10 @@ display_title: "加贺城雀"
 title_zh: "加贺城雀"
 title_ja: "加賀城 雀"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c147084"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kagajou Suzume"
   - "加賀城 雀"

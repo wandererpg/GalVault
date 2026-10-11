@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8401"
 type: "character"
-display_title: "格恩吉真露"
-title_zh: "格恩吉真露"
+display_title: "ゲンジマル"
+title_zh: ""
 title_ja: "ゲンジマル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8401"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Genjimaru"
-  - "ゲンジマル"
 source_ids:
   vndb: "c8401"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c8401.webp"
 ---
 
-# 格恩吉真露
+# ゲンジマル
 
 
 ## 角色画像

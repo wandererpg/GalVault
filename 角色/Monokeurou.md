@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c116958"
 type: "character"
-display_title: "莫乃惠乌洛乌"
-title_zh: "莫乃惠乌洛乌"
+display_title: "모노크로우"
+title_zh: ""
 title_ja: "모노크로우"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116958"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Monokeurou"
-  - "모노크로우"
   - "Monocrow"
 source_ids:
   vndb: "c116958"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c116958.webp"
 ---
 
-# 莫乃惠乌洛乌
+# 모노크로우
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

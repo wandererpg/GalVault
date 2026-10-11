@@ -5,7 +5,10 @@ display_title: "野守摩耶"
 title_zh: "野守摩耶"
 title_ja: "野守 摩耶"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c126545"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nomori Maya"
   - "野守 摩耶"

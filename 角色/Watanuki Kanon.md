@@ -5,7 +5,10 @@ display_title: "四月一日奏音"
 title_zh: "四月一日奏音"
 title_ja: "四月一日 奏音"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c81770"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Watanuki Kanon"
   - "四月一日 奏音"

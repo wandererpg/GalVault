@@ -5,7 +5,10 @@ display_title: "东乡正嗣"
 title_zh: "东乡正嗣"
 title_ja: "東郷 正嗣"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c90816"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tougou Masatsugu"
   - "東郷 正嗣"

@@ -5,7 +5,10 @@ display_title: "望田政信"
 title_zh: "望田政信"
 title_ja: "望田 政信"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c53297"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mochida Masanobu"
   - "望田 政信"

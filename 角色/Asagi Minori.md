@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c37582"
 type: "character"
-display_title: "浅葱美乃莉"
-title_zh: "浅葱美乃莉"
+display_title: "浅葱 みのり"
+title_zh: ""
 title_ja: "浅葱 みのり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37582"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Asagi Minori"
-  - "浅葱 みのり"
 source_ids:
   vndb: "c37582"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c37582.webp"
 ---
 
-# 浅葱美乃莉
+# 浅葱 みのり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

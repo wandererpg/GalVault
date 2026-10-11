@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c74631"
 type: "character"
-display_title: "太莉久加拉和恩"
-title_zh: "太莉久加拉和恩"
+display_title: "タリク・カラワン"
+title_zh: ""
 title_ja: "タリク・カラワン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c74631"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tariq Al-Karawan"
-  - "タリク・カラワン"
 source_ids:
   vndb: "c74631"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c74631.webp"
 ---
 
-# 太莉久加拉和恩
+# タリク・カラワン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

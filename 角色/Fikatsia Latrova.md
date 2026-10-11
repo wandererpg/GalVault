@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43335"
 type: "character"
-display_title: "F伊加阿津伊阿拉斗洛和"
-title_zh: "F伊加阿津伊阿拉斗洛和"
+display_title: "フィカーツィア・ラトロワ"
+title_zh: ""
 title_ja: "フィカーツィア・ラトロワ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43335"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Fikatsia Latrova"
-  - "フィカーツィア・ラトロワ"
   - "Ficarzia Ratorowa"
 source_ids:
   vndb: "c43335"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c43335.webp"
 ---
 
-# F伊加阿津伊阿拉斗洛和
+# フィカーツィア・ラトロワ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

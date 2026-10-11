@@ -5,7 +5,10 @@ display_title: "尼子晴"
 title_zh: "尼子晴"
 title_ja: "尼子 晴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c36584"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Amago Haru"
   - "尼子 晴"

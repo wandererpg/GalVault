@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90516"
 type: "character"
-display_title: "阿奥雅真"
-title_zh: "阿奥雅真"
+display_title: "アオヤマ"
+title_zh: ""
 title_ja: "アオヤマ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90516"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Aoyama"
-  - "アオヤマ"
   - "Blue"
   - "青"
   - "Ao"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c90516.webp"
 ---
 
-# 阿奥雅真
+# アオヤマ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

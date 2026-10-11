@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c28994"
 type: "character"
-display_title: "惠蕾奥乃奥蕾F奥恩V伊T特恩布露古"
-title_zh: "惠蕾奥乃奥蕾F奥恩V伊T特恩布露古"
+display_title: "エレオノーレ・フォン・ヴィッテンブルグ"
+title_zh: ""
 title_ja: "エレオノーレ・フォン・ヴィッテンブルグ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c28994"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Eleonore von Wittenburg"
-  - "エレオノーレ・フォン・ヴィッテンブルグ"
   - "Samiel Zentaur"
   - "Einherjar Rubedo"
   - "魔操砲兵"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c28994.webp"
 ---
 
-# 惠蕾奥乃奥蕾F奥恩V伊T特恩布露古
+# エレオノーレ・フォン・ヴィッテンブルグ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

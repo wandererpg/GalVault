@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c96000"
 type: "character"
-display_title: "百々濑加古雅"
-title_zh: "百々濑加古雅"
+display_title: "百々瀬 かぐや"
+title_zh: ""
 title_ja: "百々瀬 かぐや"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c96000"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Momose Kaguya"
-  - "百々瀬 かぐや"
 source_ids:
   vndb: "c96000"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c96000.webp"
 ---
 
-# 百々濑加古雅
+# 百々瀬 かぐや
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

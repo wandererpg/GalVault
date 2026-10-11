@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c75559"
 type: "character"
-display_title: "优斗蕾日伊斗"
-title_zh: "优斗蕾日伊斗"
+display_title: "ユトレ・ヒート"
+title_zh: ""
 title_ja: "ユトレ・ヒート"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c75559"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Eutre Hyte"
-  - "ユトレ・ヒート"
 source_ids:
   vndb: "c75559"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c75559.webp"
 ---
 
-# 优斗蕾日伊斗
+# ユトレ・ヒート
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

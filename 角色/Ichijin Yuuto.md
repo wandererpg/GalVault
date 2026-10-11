@@ -5,7 +5,10 @@ display_title: "一阵优翔"
 title_zh: "一阵优翔"
 title_ja: "一陣 優翔"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c39583"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ichijin Yuuto"
   - "一陣 優翔"

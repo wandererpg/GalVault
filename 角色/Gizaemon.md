@@ -5,7 +5,10 @@ display_title: "仪左右卫门"
 title_zh: "仪左右卫门"
 title_ja: "儀左右衛門"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9356"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Gizaemon"
   - "儀左右衛門"

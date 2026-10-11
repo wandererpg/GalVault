@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c36734"
 type: "character"
-display_title: "梳田加寿美"
-title_zh: "梳田加寿美"
+display_title: "梳田 かすみ"
+title_zh: ""
 title_ja: "梳田 かすみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c36734"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Suda Kasumi"
-  - "梳田 かすみ"
 source_ids:
   vndb: "c36734"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c36734.webp"
 ---
 
-# 梳田加寿美
+# 梳田 かすみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

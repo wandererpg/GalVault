@@ -5,7 +5,10 @@ display_title: "八分雨澪子"
 title_zh: "八分雨澪子"
 title_ja: "八分雨 澪子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c83613"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yabusame Reko"
   - "八分雨 澪子"

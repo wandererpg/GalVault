@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c155200"
 type: "character"
-display_title: "索恩真诗洛"
-title_zh: "索恩真诗洛"
+display_title: "ソン・マシロ"
+title_zh: ""
 title_ja: "ソン・マシロ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155200"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sun Maslo"
-  - "ソン・マシロ"
   - "Sun Quan"
   - "Vice"
   - "孫·真白"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c155200.webp"
 ---
 
-# 索恩真诗洛
+# ソン・マシロ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

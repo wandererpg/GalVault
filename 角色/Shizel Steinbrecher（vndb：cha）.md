@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c20523"
 type: "character"
-display_title: "诗泽露寿特伊恩布蕾S诗惠露"
-title_zh: "诗泽露寿特伊恩布蕾S诗惠露"
+display_title: "シゼル・ステインブレッシェル"
+title_zh: ""
 title_ja: "シゼル・ステインブレッシェル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c20523"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shizel Steinbrecher"
-  - "シゼル・ステインブレッシェル"
   - "Major"
 source_ids:
   vndb: "c20523"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c20523.webp"
 ---
 
-# 诗泽露寿特伊恩布蕾S诗惠露
+# シゼル・ステインブレッシェル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

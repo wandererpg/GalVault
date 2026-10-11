@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126408"
 type: "character"
-display_title: "希芽拉比伊寿斗"
-title_zh: "希芽拉比伊寿斗"
+display_title: "キメラビースト"
+title_zh: ""
 title_ja: "キメラビースト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126408"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chimera Beast"
-  - "キメラビースト"
   - "Gabby"
 source_ids:
   vndb: "c126408"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c126408.webp"
 ---
 
-# 希芽拉比伊寿斗
+# キメラビースト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

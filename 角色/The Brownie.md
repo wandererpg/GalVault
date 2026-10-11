@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c171811"
 type: "character"
-display_title: "T惠·B洛W尼惠"
-title_zh: "T惠·B洛W尼惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "The Brownie"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c171811"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "The Brownie"
   - "Bartholomew yn Ddryslydfollen"
 source_ids:
   vndb: "c171811"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c171811.webp"
 ---
 
-# T惠·B洛W尼惠
+# The Brownie
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

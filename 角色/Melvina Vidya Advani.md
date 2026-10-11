@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c20054"
 type: "character"
-display_title: "芽露V伊奈V伊D伊雅阿阿堂V阿尼伊"
-title_zh: "芽露V伊奈V伊D伊雅阿阿堂V阿尼伊"
+display_title: "メルヴィナ・ヴィディヤ・アードヴァニー"
+title_zh: ""
 title_ja: "メルヴィナ・ヴィディヤ・アードヴァニー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c20054"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Melvina Vidya Advani"
-  - "メルヴィナ・ヴィディヤ・アードヴァニー"
   - "Mel"
 source_ids:
   vndb: "c20054"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c20054.webp"
 ---
 
-# 芽露V伊奈V伊D伊雅阿阿堂V阿尼伊
+# メルヴィナ・ヴィディヤ・アードヴァニー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

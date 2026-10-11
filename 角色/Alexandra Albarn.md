@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c92516"
 type: "character"
-display_title: "阿蕾久沙恩堂拉阿露巴阿恩"
-title_zh: "阿蕾久沙恩堂拉阿露巴阿恩"
+display_title: "アレクサンドラ・アルバーン"
+title_zh: ""
 title_ja: "アレクサンドラ・アルバーン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92516"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alexandra Albarn"
-  - "アレクサンドラ・アルバーン"
 source_ids:
   vndb: "c92516"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c92516.webp"
 ---
 
-# 阿蕾久沙恩堂拉阿露巴阿恩
+# アレクサンドラ・アルバーン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "里村春花"
 title_zh: "里村春花"
 title_ja: "里村 春花"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14488"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Satomura Haruka"
   - "里村 春花"

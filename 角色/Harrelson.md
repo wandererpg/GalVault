@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c74706"
 type: "character"
-display_title: "羽阿露索恩"
-title_zh: "羽阿露索恩"
+display_title: "ハールソン"
+title_zh: ""
 title_ja: "ハールソン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c74706"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Harrelson"
-  - "ハールソン"
 source_ids:
   vndb: "c74706"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c74706.webp"
 ---
 
-# 羽阿露索恩
+# ハールソン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "枢都守继"
 title_zh: "枢都守继"
 title_ja: "枢都 守継"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c42661"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kurutsu Moritsugu"
   - "枢都 守継"

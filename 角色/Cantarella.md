@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c64584"
 type: "character"
-display_title: "加恩太蕾拉"
-title_zh: "加恩太蕾拉"
+display_title: "カンタレラ"
+title_zh: ""
 title_ja: "カンタレラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c64584"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cantarella"
-  - "カンタレラ"
 source_ids:
   vndb: "c64584"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c64584.webp"
 ---
 
-# 加恩太蕾拉
+# カンタレラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

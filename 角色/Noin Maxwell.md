@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71164"
 type: "character"
-display_title: "乃伊恩＝真久寿乌惠露"
-title_zh: "乃伊恩＝真久寿乌惠露"
+display_title: "ノイン＝マクスウェル"
+title_zh: ""
 title_ja: "ノイン＝マクスウェル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71164"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Noin Maxwell"
-  - "ノイン＝マクスウェル"
 source_ids:
   vndb: "c71164"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71164.webp"
 ---
 
-# 乃伊恩＝真久寿乌惠露
+# ノイン＝マクスウェル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

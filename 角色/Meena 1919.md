@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c116129"
 type: "character"
-display_title: "美伊奈·１９１９"
-title_zh: "美伊奈·１９１９"
+display_title: "ミーナ １９１９"
+title_zh: ""
 title_ja: "ミーナ １９１９"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116129"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Meena 1919"
-  - "ミーナ １９１９"
 source_ids:
   vndb: "c116129"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c116129.webp"
 ---
 
-# 美伊奈·１９１９
+# ミーナ １９１９
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

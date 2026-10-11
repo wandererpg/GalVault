@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c103067"
 type: "character"
-display_title: "L伊ZZ伊惠"
-title_zh: "L伊ZZ伊惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Lizzie"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103067"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Lizzie"
 source_ids:
   vndb: "c103067"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c103067.webp"
 ---
 
-# L伊ZZ伊惠
+# Lizzie
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

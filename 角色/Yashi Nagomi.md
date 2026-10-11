@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c42569"
 type: "character"
-display_title: "椰子奈悟美"
-title_zh: "椰子奈悟美"
+display_title: "椰子 なごみ"
+title_zh: ""
 title_ja: "椰子 なごみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c42569"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yashi Nagomi"
-  - "椰子 なごみ"
 source_ids:
   vndb: "c42569"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c42569.webp"
 ---
 
-# 椰子奈悟美
+# 椰子 なごみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

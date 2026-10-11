@@ -5,7 +5,10 @@ display_title: "楠响"
 title_zh: "楠响"
 title_ja: "楠 響"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c6117"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kusunoki Hibiki"
   - "楠 響"

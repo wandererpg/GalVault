@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c47637"
 type: "character"
-display_title: "百濑日洛斗"
-title_zh: "百濑日洛斗"
+display_title: "百瀬 ひろと"
+title_zh: ""
 title_ja: "百瀬 ひろと"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c47637"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Momose Hiroto"
-  - "百瀬 ひろと"
 source_ids:
   vndb: "c47637"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c47637.webp"
 ---
 
-# 百濑日洛斗
+# 百瀬 ひろと
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

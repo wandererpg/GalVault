@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13487"
 type: "character"
-display_title: "海乃沙千"
-title_zh: "海乃沙千"
+display_title: "海のサチ"
+title_zh: ""
 title_ja: "海のサチ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13487"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Umi no Sachi"
-  - "海のサチ"
 source_ids:
   vndb: "c13487"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c13487.webp"
 ---
 
-# 海乃沙千
+# 海のサチ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

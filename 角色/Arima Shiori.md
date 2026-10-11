@@ -5,7 +5,10 @@ display_title: "有马汐梨"
 title_zh: "有马汐梨"
 title_ja: "有馬 汐梨"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c56957"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Arima Shiori"
   - "有馬 汐梨"

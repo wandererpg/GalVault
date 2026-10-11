@@ -5,7 +5,10 @@ display_title: "门司"
 title_zh: "门司"
 title_ja: "門司"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c117260"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Moji"
   - "門司"

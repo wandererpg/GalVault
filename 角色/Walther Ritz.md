@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39967"
 type: "character"
-display_title: "V阿露太阿莉T津"
-title_zh: "V阿露太阿莉T津"
+display_title: "ヴァルター・リッツ"
+title_zh: ""
 title_ja: "ヴァルター・リッツ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39967"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Walther Ritz"
-  - "ヴァルター・リッツ"
 source_ids:
   vndb: "c39967"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c39967.webp"
 ---
 
-# V阿露太阿莉T津
+# ヴァルター・リッツ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

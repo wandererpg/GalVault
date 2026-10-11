@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c41252"
 type: "character"
-display_title: "索露"
-title_zh: "索露"
+display_title: "ソル"
+title_zh: ""
 title_ja: "ソル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c41252"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sol Harthagher"
-  - "ソル"
 source_ids:
   vndb: "c41252"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c41252.webp"
 ---
 
-# 索露
+# ソル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

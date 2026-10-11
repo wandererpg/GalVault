@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c76743"
 type: "character"
-display_title: "L阿C惠阿雅·达R羽L"
-title_zh: "L阿C惠阿雅·达R羽L"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Laceaga Darhal"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c76743"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Laceaga Darhal"
   - "Lacey"
 source_ids:
   vndb: "c76743"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c76743.webp"
 ---
 
-# L阿C惠阿雅·达R羽L
+# Laceaga Darhal
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

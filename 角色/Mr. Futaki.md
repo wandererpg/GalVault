@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c150147"
 type: "character"
-display_title: "MR·芙太希"
-title_zh: "MR·芙太希"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Mr. Futaki"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c150147"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Mr. Futaki"
 source_ids:
   vndb: "c150147"
 source_urls:
   vndb: "https://vndb.org/c150147"
 ---
 
-# MR·芙太希
+# Mr. Futaki
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

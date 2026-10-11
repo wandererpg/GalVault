@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c41463"
 type: "character"
-display_title: "阿奈贝寿乌伊莉阿梦真阿堂K久JR"
-title_zh: "阿奈贝寿乌伊莉阿梦真阿堂K久JR"
+display_title: "アナベス・ウィリアム・マードックJr"
+title_zh: ""
 title_ja: "アナベス・ウィリアム・マードックJr"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c41463"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Annabeth William Murdoch Jr"
-  - "アナベス・ウィリアム・マードックJr"
 source_ids:
   vndb: "c41463"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c41463.webp"
 ---
 
-# 阿奈贝寿乌伊莉阿梦真阿堂K久JR
+# アナベス・ウィリアム・マードックJr
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

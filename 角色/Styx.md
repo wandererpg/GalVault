@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c132217"
 type: "character"
-display_title: "STYX"
-title_zh: "STYX"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Styx"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132217"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Styx"
 source_ids:
   vndb: "c132217"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c132217.webp"
 ---
 
-# STYX
+# Styx
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

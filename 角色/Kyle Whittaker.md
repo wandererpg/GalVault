@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c137936"
 type: "character"
-display_title: "加伊露乌伊特伊加阿"
-title_zh: "加伊露乌伊特伊加阿"
+display_title: "カイル・ウィティカー"
+title_zh: ""
 title_ja: "カイル・ウィティカー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c137936"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kyle Whittaker"
-  - "カイル・ウィティカー"
 source_ids:
   vndb: "c137936"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c137936.webp"
 ---
 
-# 加伊露乌伊特伊加阿
+# カイル・ウィティカー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

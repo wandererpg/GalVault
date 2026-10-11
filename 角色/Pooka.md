@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c169753"
 type: "character"
-display_title: "普乌加"
-title_zh: "普乌加"
+display_title: "プーカ"
+title_zh: ""
 title_ja: "プーカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c169753"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Pooka"
-  - "プーカ"
   - "宇佐美風花"
   - "Usami Fuuka"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c169753.webp"
 ---
 
-# 普乌加
+# プーカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

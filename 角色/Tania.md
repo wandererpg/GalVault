@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c141512"
 type: "character"
-display_title: "太尼阿"
-title_zh: "太尼阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Tania"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141512"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Tania"
 source_ids:
   vndb: "c141512"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c141512.webp"
 ---
 
-# 太尼阿
+# Tania
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

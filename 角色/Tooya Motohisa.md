@@ -5,7 +5,10 @@ display_title: "远矢基久"
 title_zh: "远矢基久"
 title_ja: "遠矢 基久"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c44178"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tooya Motohisa"
   - "遠矢 基久"

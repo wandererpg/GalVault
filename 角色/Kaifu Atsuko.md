@@ -5,7 +5,10 @@ display_title: "海部敦子"
 title_zh: "海部敦子"
 title_ja: "海部 敦子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43855"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kaifu Atsuko"
   - "海部 敦子"

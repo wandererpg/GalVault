@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c76836"
 type: "character"
-display_title: "P莉恩C伊帕L·S希恩音R"
-title_zh: "P莉恩C伊帕L·S希恩音R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Principal Skinner"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c76836"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Principal Skinner"
 source_ids:
   vndb: "c76836"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c76836.webp"
 ---
 
-# P莉恩C伊帕L·S希恩音R
+# Principal Skinner
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

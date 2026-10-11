@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61252"
 type: "character"
-display_title: "长老尼尼加斗"
-title_zh: "长老尼尼加斗"
+display_title: "長老 ニニカト"
+title_zh: ""
 title_ja: "長老 ニニカト"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61252"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ninikato the Elder"
-  - "長老 ニニカト"
 source_ids:
   vndb: "c61252"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61252.webp"
 ---
 
-# 长老尼尼加斗
+# 長老 ニニカト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "日伞女"
 title_zh: "日伞女"
 title_ja: "日傘女"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c80401"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Parasol Woman"
   - "日傘女"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c40411"
 type: "character"
-display_title: "反田乃拉"
-title_zh: "反田乃拉"
+display_title: "反田 ノラ"
+title_zh: ""
 title_ja: "反田 ノラ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c40411"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Handa Nora"
-  - "反田 ノラ"
   - "December"
 source_ids:
   vndb: "c40411"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c40411.webp"
 ---
 
-# 反田乃拉
+# 反田 ノラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

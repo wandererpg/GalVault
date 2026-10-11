@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c170840"
 type: "character"
-display_title: "L伊L阿·阿奥雅真"
-title_zh: "L伊L阿·阿奥雅真"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Lila Aoyama"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c170840"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Lila Aoyama"
 source_ids:
   vndb: "c170840"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c170840.webp"
 ---
 
-# L伊L阿·阿奥雅真
+# Lila Aoyama
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

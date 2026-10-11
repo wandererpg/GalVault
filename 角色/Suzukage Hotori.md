@@ -5,7 +5,10 @@ display_title: "凉荫穗鸟"
 title_zh: "凉荫穗鸟"
 title_ja: "涼蔭　穂鳥"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c6660"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Suzukage Hotori"
   - "涼蔭　穂鳥"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98813"
 type: "character"
-display_title: "阿露芙拉蕾伊"
-title_zh: "阿露芙拉蕾伊"
+display_title: "アルフラ・レイ"
+title_zh: ""
 title_ja: "アルフラ・レイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98813"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alfra Ray"
-  - "アルフラ・レイ"
 source_ids:
   vndb: "c98813"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98813.webp"
 ---
 
-# 阿露芙拉蕾伊
+# アルフラ・レイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

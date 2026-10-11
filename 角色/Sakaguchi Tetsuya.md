@@ -5,7 +5,10 @@ display_title: "坂口哲弥"
 title_zh: "坂口哲弥"
 title_ja: "坂口 哲弥"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c50952"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakaguchi Tetsuya"
   - "坂口 哲弥"

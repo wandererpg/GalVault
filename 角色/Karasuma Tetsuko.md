@@ -5,7 +5,10 @@ display_title: "乌丸铁子"
 title_zh: "乌丸铁子"
 title_ja: "烏丸 鉄子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c6849"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Karasuma Tetsuko"
   - "烏丸 鉄子"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c65075"
 type: "character"
-display_title: "惠恩莉C奥"
-title_zh: "惠恩莉C奥"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Enrico"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c65075"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Enrico"
 source_ids:
   vndb: "c65075"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c65075.webp"
 ---
 
-# 惠恩莉C奥
+# Enrico
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

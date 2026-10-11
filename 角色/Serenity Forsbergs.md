@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c173808"
 type: "character"
-display_title: "濑蕾尼TY·F奥RS贝RGS"
-title_zh: "濑蕾尼TY·F奥RS贝RGS"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Serenity Forsbergs"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c173808"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Serenity Forsbergs"
 source_ids:
   vndb: "c173808"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c173808.webp"
 ---
 
-# 濑蕾尼TY·F奥RS贝RGS
+# Serenity Forsbergs
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

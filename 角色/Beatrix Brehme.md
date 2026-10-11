@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c42282"
 type: "character"
-display_title: "贝阿斗莉久寿布蕾惠芽"
-title_zh: "贝阿斗莉久寿布蕾惠芽"
+display_title: "ベアトリクス・ブレーメ"
+title_zh: ""
 title_ja: "ベアトリクス・ブレーメ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c42282"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Beatrix Brehme"
-  - "ベアトリクス・ブレーメ"
   - "Bea"
   - "Wehrwolf 01"
   - "Danziger's Rose Maiden"
@@ -21,7 +23,7 @@ source_urls:
 portrait_image: "assets/characters/c42282.webp"
 ---
 
-# 贝阿斗莉久寿布蕾惠芽
+# ベアトリクス・ブレーメ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

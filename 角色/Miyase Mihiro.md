@@ -5,7 +5,10 @@ display_title: "宫濑未寻"
 title_zh: "宫濑未寻"
 title_ja: "宮瀬 未尋"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c37366"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Miyase Mihiro"
   - "宮瀬 未尋"

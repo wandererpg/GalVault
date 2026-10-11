@@ -5,7 +5,10 @@ display_title: "北川亚季"
 title_zh: "北川亚季"
 title_ja: "北川 亜季"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c85531"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kitagawa Aki"
   - "北川 亜季"

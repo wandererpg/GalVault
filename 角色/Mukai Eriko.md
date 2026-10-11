@@ -5,7 +5,10 @@ display_title: "向井绘里子"
 title_zh: "向井绘里子"
 title_ja: "向井 絵里子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c53305"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mukai Eriko"
   - "向井 絵里子"

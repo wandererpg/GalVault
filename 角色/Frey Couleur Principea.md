@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16640"
 type: "character"
-display_title: "芙蕾伊久露乌露普莉恩诗佩阿"
-title_zh: "芙蕾伊久露乌露普莉恩诗佩阿"
+display_title: "フレイ・クルール・プリンシペア"
+title_zh: ""
 title_ja: "フレイ・クルール・プリンシペア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16640"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Frey Couleur Principea"
-  - "フレイ・クルール・プリンシペア"
 source_ids:
   vndb: "c16640"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c16640.webp"
 ---
 
-# 芙蕾伊久露乌露普莉恩诗佩阿
+# フレイ・クルール・プリンシペア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

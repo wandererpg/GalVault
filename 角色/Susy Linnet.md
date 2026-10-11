@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c155415"
 type: "character"
-display_title: "寿SY·L伊恩音T"
-title_zh: "寿SY·L伊恩音T"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Susy Linnet"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155415"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Susy Linnet"
 source_ids:
   vndb: "c155415"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c155415.webp"
 ---
 
-# 寿SY·L伊恩音T
+# Susy Linnet
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

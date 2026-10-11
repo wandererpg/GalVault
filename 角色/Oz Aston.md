@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c153125"
 type: "character"
-display_title: "奥Z·阿S斗恩"
-title_zh: "奥Z·阿S斗恩"
+display_title: "오즈 에스턴"
+title_zh: ""
 title_ja: "오즈 에스턴"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c153125"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Oz Aston"
-  - "오즈 에스턴"
 source_ids:
   vndb: "c153125"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c153125.webp"
 ---
 
-# 奥Z·阿S斗恩
+# 오즈 에스턴
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

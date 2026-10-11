@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c81177"
 type: "character"
-display_title: "莉恩博"
-title_zh: "莉恩博"
+display_title: "リンボ"
+title_zh: ""
 title_ja: "リンボ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c81177"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Limbo Scott Fitzgerald"
-  - "リンボ"
 source_ids:
   vndb: "c81177"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c81177.webp"
 ---
 
-# 莉恩博
+# リンボ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

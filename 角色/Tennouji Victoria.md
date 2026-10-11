@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c92307"
 type: "character"
-display_title: "天王寺V伊久斗莉阿"
-title_zh: "天王寺V伊久斗莉阿"
+display_title: "天王寺 ヴィクトリア"
+title_zh: ""
 title_ja: "天王寺 ヴィクトリア"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92307"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tennouji Victoria"
-  - "天王寺 ヴィクトリア"
 source_ids:
   vndb: "c92307"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c92307.webp"
 ---
 
-# 天王寺V伊久斗莉阿
+# 天王寺 ヴィクトリア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c165081"
 type: "character"
-display_title: "斯黛拉·莉CH莫恩D"
-title_zh: "斯黛拉·莉CH莫恩D"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Stella Richmond"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c165081"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Stella Richmond"
 source_ids:
   vndb: "c165081"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c165081.webp"
 ---
 
-# 斯黛拉·莉CH莫恩D
+# Stella Richmond
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

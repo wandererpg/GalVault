@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c33700"
 type: "character"
-display_title: "阿伊夏·比恩T·阿布·巴KR"
-title_zh: "阿伊夏·比恩T·阿布·巴KR"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Aisha bint Abu Bakr"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33700"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Aisha bint Abu Bakr"
 source_ids:
   vndb: "c33700"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c33700.webp"
 ---
 
-# 阿伊夏·比恩T·阿布·巴KR
+# Aisha bint Abu Bakr
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

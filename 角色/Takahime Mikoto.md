@@ -5,7 +5,10 @@ display_title: "高姫美琴"
 title_zh: "高姫美琴"
 title_ja: "高姫 美琴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c4614"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takahime Mikoto"
   - "高姫 美琴"

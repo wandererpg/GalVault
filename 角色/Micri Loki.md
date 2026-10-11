@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c75561"
 type: "character"
-display_title: "美久莉洛希"
-title_zh: "美久莉洛希"
+display_title: "ミクリ・ロキ"
+title_zh: ""
 title_ja: "ミクリ・ロキ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c75561"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Micri Loki"
-  - "ミクリ・ロキ"
 source_ids:
   vndb: "c75561"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c75561.webp"
 ---
 
-# 美久莉洛希
+# ミクリ・ロキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

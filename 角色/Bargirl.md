@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c42861"
 type: "character"
-display_title: "酒场乃奥姉沙恩"
-title_zh: "酒场乃奥姉沙恩"
+display_title: "酒場のお姉さん"
+title_zh: ""
 title_ja: "酒場のお姉さん"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c42861"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Bargirl"
-  - "酒場のお姉さん"
 source_ids:
   vndb: "c42861"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c42861.webp"
 ---
 
-# 酒场乃奥姉沙恩
+# 酒場のお姉さん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

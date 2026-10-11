@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c107037"
 type: "character"
-display_title: "蕾奈阿堂"
-title_zh: "蕾奈阿堂"
+display_title: "レナード"
+title_zh: ""
 title_ja: "レナード"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c107037"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Leonard"
-  - "レナード"
 source_ids:
   vndb: "c107037"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c107037.webp"
 ---
 
-# 蕾奈阿堂
+# レナード
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

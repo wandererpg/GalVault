@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71536"
 type: "character"
-display_title: "淡色乃发乃少女"
-title_zh: "淡色乃发乃少女"
+display_title: "淡色の髪の少女"
+title_zh: ""
 title_ja: "淡色の髪の少女"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71536"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "The White-Haired Girl"
-  - "淡色の髪の少女"
 source_ids:
   vndb: "c71536"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71536.webp"
 ---
 
-# 淡色乃发乃少女
+# 淡色の髪の少女
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

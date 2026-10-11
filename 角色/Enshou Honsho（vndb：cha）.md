@@ -5,7 +5,10 @@ display_title: "袁绍本初"
 title_zh: "袁绍本初"
 title_ja: "袁紹 本初"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c25122"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Enshou Honsho"
   - "袁紹 本初"

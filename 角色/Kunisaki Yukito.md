@@ -5,7 +5,10 @@ display_title: "国崎往人"
 title_zh: "国崎往人"
 title_ja: "国崎 往人"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9990"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kunisaki Yukito"
   - "国崎 往人"

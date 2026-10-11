@@ -5,7 +5,10 @@ display_title: "西崎纪子"
 title_zh: "西崎纪子"
 title_ja: "西崎 紀子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c82943"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nishizaki Noriko"
   - "西崎 紀子"

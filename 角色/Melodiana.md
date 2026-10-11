@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c7215"
 type: "character"
-display_title: "芽洛D伊阿阿奈"
-title_zh: "芽洛D伊阿阿奈"
+display_title: "メロディアーナ"
+title_zh: ""
 title_ja: "メロディアーナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c7215"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Melodiana"
-  - "メロディアーナ"
   - "Melodieana"
 source_ids:
   vndb: "c7215"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c7215.webp"
 ---
 
-# 芽洛D伊阿阿奈
+# メロディアーナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

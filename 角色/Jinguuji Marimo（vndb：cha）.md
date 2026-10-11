@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c112"
 type: "character"
-display_title: "神宫司真莉莫"
-title_zh: "神宫司真莉莫"
+display_title: "神宮司 まりも"
+title_zh: ""
 title_ja: "神宮司 まりも"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c112"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jinguuji Marimo"
-  - "神宮司 まりも"
 source_ids:
   vndb: "c112"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c112.webp"
 ---
 
-# 神宫司真莉莫
+# 神宮司 まりも
 
 
 ## 角色画像

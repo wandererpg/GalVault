@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c55650"
 type: "character"
-display_title: "茅惠崎夕樱"
-title_zh: "茅惠崎夕樱"
+display_title: "茅ヶ崎 夕桜"
+title_zh: ""
 title_ja: "茅ヶ崎 夕桜"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c55650"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chigasaki Yuura"
-  - "茅ヶ崎 夕桜"
 source_ids:
   vndb: "c55650"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c55650.webp"
 ---
 
-# 茅惠崎夕樱
+# 茅ヶ崎 夕桜
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

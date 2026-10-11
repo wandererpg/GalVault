@@ -5,7 +5,10 @@ display_title: "间桐樱"
 title_zh: "间桐樱"
 title_ja: "間桐 桜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c35"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Matou Sakura"
   - "間桐 桜"

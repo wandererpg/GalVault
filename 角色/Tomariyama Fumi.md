@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c24017"
 type: "character"
-display_title: "止山芙美"
-title_zh: "止山芙美"
+display_title: "止山 ふみ"
+title_zh: ""
 title_ja: "止山 ふみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c24017"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tomariyama Fumi"
-  - "止山 ふみ"
 source_ids:
   vndb: "c24017"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c24017.webp"
 ---
 
-# 止山芙美
+# 止山 ふみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

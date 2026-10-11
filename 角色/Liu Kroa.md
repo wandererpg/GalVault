@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c155196"
 type: "character"
-display_title: "龙乌久洛阿"
-title_zh: "龙乌久洛阿"
+display_title: "リュウ・クロア"
+title_zh: ""
 title_ja: "リュウ・クロア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155196"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Liu Kroa"
-  - "リュウ・クロア"
   - "Liu Bei"
   - "劉·玄婭"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c155196.webp"
 ---
 
-# 龙乌久洛阿
+# リュウ・クロア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

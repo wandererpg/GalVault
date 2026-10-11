@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43021"
 type: "character"
-display_title: "F惠伊寿"
-title_zh: "F惠伊寿"
+display_title: "フェイス"
+title_zh: ""
 title_ja: "フェイス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43021"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Faith"
-  - "フェイス"
 source_ids:
   vndb: "c43021"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43021.webp"
 ---
 
-# F惠伊寿
+# フェイス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

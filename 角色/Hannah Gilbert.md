@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c165221"
 type: "character"
-display_title: "羽恩奈H·吉L贝RT"
-title_zh: "羽恩奈H·吉L贝RT"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Hannah Gilbert"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c165221"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Hannah Gilbert"
 source_ids:
   vndb: "c165221"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c165221.webp"
 ---
 
-# 羽恩奈H·吉L贝RT
+# Hannah Gilbert
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

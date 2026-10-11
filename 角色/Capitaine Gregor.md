@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159833"
 type: "character"
-display_title: "C阿皮太伊音·G蕾悟R"
-title_zh: "C阿皮太伊音·G蕾悟R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Capitaine Gregor"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159833"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Capitaine Gregor"
 source_ids:
   vndb: "c159833"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c159833.webp"
 ---
 
-# C阿皮太伊音·G蕾悟R
+# Capitaine Gregor
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

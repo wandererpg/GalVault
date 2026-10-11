@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126876"
 type: "character"
-display_title: "大天使真莉惠露"
-title_zh: "大天使真莉惠露"
+display_title: "大天使マリエル"
+title_zh: ""
 title_ja: "大天使マリエル"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126876"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Archangel Mariel"
-  - "大天使マリエル"
 source_ids:
   vndb: "c126876"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c126876.webp"
 ---
 
-# 大天使真莉惠露
+# 大天使マリエル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "北大路花火"
 title_zh: "北大路花火"
 title_ja: "北大路 花火"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c60824"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kitaooji Hanabi"
   - "北大路 花火"

@@ -5,7 +5,10 @@ display_title: "吉川绘理"
 title_zh: "吉川绘理"
 title_ja: "吉川 絵理"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2232"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yoshikawa Eri"
   - "吉川 絵理"

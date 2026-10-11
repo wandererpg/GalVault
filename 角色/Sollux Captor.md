@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c138291"
 type: "character"
-display_title: "索LL乌X·C阿P斗R"
-title_zh: "索LL乌X·C阿P斗R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Sollux Captor"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138291"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Sollux Captor"
   - "twinArmageddons"
   - "Mage of Doom"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c138291.webp"
 ---
 
-# 索LL乌X·C阿P斗R
+# Sollux Captor
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c113554"
 type: "character"
-display_title: "美斗洛芙寿斗洛雅乃芙"
-title_zh: "美斗洛芙寿斗洛雅乃芙"
+display_title: "ミトロフ・ストロガノフ"
+title_zh: ""
 title_ja: "ミトロフ・ストロガノフ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c113554"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mitrov Stroganov"
-  - "ミトロフ・ストロガノフ"
 source_ids:
   vndb: "c113554"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c113554.webp"
 ---
 
-# 美斗洛芙寿斗洛雅乃芙
+# ミトロフ・ストロガノフ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

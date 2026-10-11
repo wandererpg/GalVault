@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c36010"
 type: "character"
-display_title: "羽露F阿寿"
-title_zh: "羽露F阿寿"
+display_title: "ハルファス"
+title_zh: ""
 title_ja: "ハルファス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c36010"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Halphas"
-  - "ハルファス"
 source_ids:
   vndb: "c36010"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c36010.webp"
 ---
 
-# 羽露F阿寿
+# ハルファス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

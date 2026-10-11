@@ -5,7 +5,10 @@ display_title: "月冈䌷"
 title_zh: "月冈䌷"
 title_ja: "月岡 紬"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c90182"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsukioka Tsumugi"
   - "月岡 紬"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c92784"
 type: "character"
-display_title: "诗洛雅·美拉奈"
-title_zh: "诗洛雅·美拉奈"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Shiroya Mirana"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92784"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Shiroya Mirana"
   - "Tanya"
 source_ids:
   vndb: "c92784"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c92784.webp"
 ---
 
-# 诗洛雅·美拉奈
+# Shiroya Mirana
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

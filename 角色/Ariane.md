@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c127209"
 type: "character"
-display_title: "阿莉阿音"
-title_zh: "阿莉阿音"
+display_title: "アリアネ"
+title_zh: ""
 title_ja: "アリアネ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127209"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ariane"
-  - "アリアネ"
 source_ids:
   vndb: "c127209"
 source_urls:
   vndb: "https://vndb.org/c127209"
 ---
 
-# 阿莉阿音
+# アリアネ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

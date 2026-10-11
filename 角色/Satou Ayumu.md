@@ -5,7 +5,10 @@ display_title: "佐东步"
 title_zh: "佐东步"
 title_ja: "佐東 歩"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c4090"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Satou Ayumu"
   - "佐東 歩"

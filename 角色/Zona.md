@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c146634"
 type: "character"
-display_title: "藏奈"
-title_zh: "藏奈"
+display_title: "ゾナ"
+title_zh: ""
 title_ja: "ゾナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c146634"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Zona"
-  - "ゾナ"
   - "Xona"
 source_ids:
   vndb: "c146634"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c146634.webp"
 ---
 
-# 藏奈
+# ゾナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

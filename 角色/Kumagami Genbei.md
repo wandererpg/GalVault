@@ -5,7 +5,10 @@ display_title: "熊神严平"
 title_zh: "熊神严平"
 title_ja: "熊神 厳平"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c30436"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kumagami Genbei"
   - "熊神 厳平"

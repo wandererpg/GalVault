@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c520"
 type: "character"
-display_title: "F伊奥音诗露V阿莉阿"
-title_zh: "F伊奥音诗露V阿莉阿"
+display_title: "フィオネ・シルヴァリア"
+title_zh: ""
 title_ja: "フィオネ・シルヴァリア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c520"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Fione Silvaria"
-  - "フィオネ・シルヴァリア"
 source_ids:
   vndb: "c520"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c520.webp"
 ---
 
-# F伊奥音诗露V阿莉阿
+# フィオネ・シルヴァリア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

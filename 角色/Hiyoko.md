@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c88423"
 type: "character"
-display_title: "日代子"
-title_zh: "日代子"
+display_title: "ひよこ"
+title_zh: ""
 title_ja: "ひよこ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c88423"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hiyoko"
-  - "ひよこ"
 source_ids:
   vndb: "c88423"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c88423.webp"
 ---
 
-# 日代子
+# ひよこ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

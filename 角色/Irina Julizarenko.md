@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c60769"
 type: "character"
-display_title: "伊莉伊奈优莉扎蕾恩子"
-title_zh: "伊莉伊奈优莉扎蕾恩子"
+display_title: "イリーナ・ユリザレンコ"
+title_zh: ""
 title_ja: "イリーナ・ユリザレンコ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c60769"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Irina Julizarenko"
-  - "イリーナ・ユリザレンコ"
 source_ids:
   vndb: "c60769"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c60769.webp"
 ---
 
-# 伊莉伊奈优莉扎蕾恩子
+# イリーナ・ユリザレンコ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

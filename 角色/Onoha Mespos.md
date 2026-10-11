@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127387"
 type: "character"
-display_title: "奥乃羽芽寿波寿"
-title_zh: "奥乃羽芽寿波寿"
+display_title: "オノハ・メスポス"
+title_zh: ""
 title_ja: "オノハ・メスポス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127387"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Onoha Mespos"
-  - "オノハ・メスポス"
 source_ids:
   vndb: "c127387"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c127387.webp"
 ---
 
-# 奥乃羽芽寿波寿
+# オノハ・メスポス
 
 
 ## 角色画像

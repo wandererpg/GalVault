@@ -5,7 +5,10 @@ display_title: "星永星莉佳"
 title_zh: "星永星莉佳"
 title_ja: "星永 星莉佳"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c155017"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hoshinaga Serika"
   - "星永 星莉佳"

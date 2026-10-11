@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c36541"
 type: "character"
-display_title: "达恩D伊"
-title_zh: "达恩D伊"
+display_title: "ダンディ"
+title_zh: ""
 title_ja: "ダンディ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c36541"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Dandy"
-  - "ダンディ"
 source_ids:
   vndb: "c36541"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c36541.webp"
 ---
 
-# 达恩D伊
+# ダンディ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

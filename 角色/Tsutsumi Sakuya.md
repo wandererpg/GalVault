@@ -5,7 +5,10 @@ display_title: "堤咲弥"
 title_zh: "堤咲弥"
 title_ja: "堤 咲弥"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21711"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsutsumi Sakuya"
   - "堤 咲弥"

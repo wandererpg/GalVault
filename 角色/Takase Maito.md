@@ -5,7 +5,10 @@ display_title: "高濑舞斗"
 title_zh: "高濑舞斗"
 title_ja: "高瀬 舞斗"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c89988"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takase Maito"
   - "高瀬 舞斗"

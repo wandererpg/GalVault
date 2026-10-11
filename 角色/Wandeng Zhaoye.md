@@ -5,7 +5,10 @@ display_title: "晚灯照夜"
 title_zh: "晚灯照夜"
 title_ja: "晚灯照夜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c135994"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Wandeng Zhaoye"
 source_ids:

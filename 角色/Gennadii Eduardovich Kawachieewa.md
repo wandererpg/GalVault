@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17426"
 type: "character"
-display_title: "格恩奈吉伊惠堂乌阿露斗V伊T千加和千惠惠和"
-title_zh: "格恩奈吉伊惠堂乌阿露斗V伊T千加和千惠惠和"
+display_title: "ゲンナジー・エドゥアルトヴィッチ・カワチエーワ"
+title_zh: ""
 title_ja: "ゲンナジー・エドゥアルトヴィッチ・カワチエーワ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17426"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gennadii Eduardovich Kawachieewa"
-  - "ゲンナジー・エドゥアルトヴィッチ・カワチエーワ"
   - "Gen-san"
   - "Mr. Dee"
   - "Mr. Gen"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c17426.webp"
 ---
 
-# 格恩奈吉伊惠堂乌阿露斗V伊T千加和千惠惠和
+# ゲンナジー・エドゥアルトヴィッチ・カワチエーワ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

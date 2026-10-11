@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30408"
 type: "character"
-display_title: "诗惠拉惠露沙莉寿"
-title_zh: "诗惠拉惠露沙莉寿"
+display_title: "シェラ・エルサリス"
+title_zh: ""
 title_ja: "シェラ・エルサリス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30408"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shera Elsaris"
-  - "シェラ・エルサリス"
   - "SG-2R"
 source_ids:
   vndb: "c30408"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c30408.webp"
 ---
 
-# 诗惠拉惠露沙莉寿
+# シェラ・エルサリス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

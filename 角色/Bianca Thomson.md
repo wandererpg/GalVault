@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c141409"
 type: "character"
-display_title: "比阿恩C阿·T穗M索恩"
-title_zh: "比阿恩C阿·T穗M索恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Bianca Thomson"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141409"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Bianca Thomson"
 source_ids:
   vndb: "c141409"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c141409.webp"
 ---
 
-# 比阿恩C阿·T穗M索恩
+# Bianca Thomson
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

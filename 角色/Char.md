@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c25332"
 type: "character"
-display_title: "恰阿"
-title_zh: "恰阿"
+display_title: "チャー"
+title_zh: ""
 title_ja: "チャー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c25332"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Char"
-  - "チャー"
 source_ids:
   vndb: "c25332"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c25332.webp"
 ---
 
-# 恰阿
+# チャー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c124906"
 type: "character"
-display_title: "吉惠诗加布露K久"
-title_zh: "吉惠诗加布露K久"
+display_title: "ジェシカ・ブルック"
+title_zh: ""
 title_ja: "ジェシカ・ブルック"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124906"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jessica Brooke"
-  - "ジェシカ・ブルック"
 source_ids:
   vndb: "c124906"
 source_urls:
   vndb: "https://vndb.org/c124906"
 ---
 
-# 吉惠诗加布露K久
+# ジェシカ・ブルック
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

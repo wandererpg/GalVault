@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c157330"
 type: "character"
-display_title: "加T伊惠·加F斗恩"
-title_zh: "加T伊惠·加F斗恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Katie Kafton"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c157330"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Katie Kafton"
 source_ids:
   vndb: "c157330"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c157330.webp"
 ---
 
-# 加T伊惠·加F斗恩
+# Katie Kafton
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

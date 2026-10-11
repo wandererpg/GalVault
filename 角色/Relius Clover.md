@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26279"
 type: "character"
-display_title: "蕾莉乌寿久洛奥巴阿"
-title_zh: "蕾莉乌寿久洛奥巴阿"
+display_title: "レリウス゠クローバー"
+title_zh: ""
 title_ja: "レリウス゠クローバー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26279"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Relius Clover"
-  - "レリウス゠クローバー"
   - "Puppeteer"
   - "The Mad Puppeteer"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c26279.webp"
 ---
 
-# 蕾莉乌寿久洛奥巴阿
+# レリウス゠クローバー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

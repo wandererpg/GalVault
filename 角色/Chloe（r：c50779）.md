@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c50779"
 type: "character"
-display_title: "久洛惠"
-title_zh: "久洛惠"
+display_title: "クロエ"
+title_zh: ""
 title_ja: "クロエ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c50779"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chloe"
-  - "クロエ"
   - "Chroe"
 source_ids:
   vndb: "c50779"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c50779.webp"
 ---
 
-# 久洛惠
+# クロエ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

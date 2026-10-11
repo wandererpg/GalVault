@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c161106"
 type: "character"
-display_title: "羽露希·子伊兹美"
-title_zh: "羽露希·子伊兹美"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Haruki Koizumi"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161106"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Haruki Koizumi"
 source_ids:
   vndb: "c161106"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c161106.webp"
 ---
 
-# 羽露希·子伊兹美
+# Haruki Koizumi
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

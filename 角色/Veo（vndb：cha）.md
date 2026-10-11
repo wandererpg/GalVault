@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c153981"
 type: "character"
-display_title: "V惠奥"
-title_zh: "V惠奥"
+display_title: "ヴェオ"
+title_zh: ""
 title_ja: "ヴェオ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c153981"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Veo"
-  - "ヴェオ"
 source_ids:
   vndb: "c153981"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c153981.webp"
 ---
 
-# V惠奥
+# ヴェオ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

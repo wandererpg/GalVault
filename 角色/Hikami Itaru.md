@@ -5,7 +5,10 @@ display_title: "氷上格"
 title_zh: "氷上格"
 title_ja: "氷上 格"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1274"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hikami Itaru"
   - "氷上 格"

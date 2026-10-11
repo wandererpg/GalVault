@@ -5,7 +5,10 @@ display_title: "十河一存"
 title_zh: "十河一存"
 title_ja: "十河 一存"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c76335"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sogou Kazumasa"
   - "十河 一存"

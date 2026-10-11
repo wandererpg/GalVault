@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c1061"
 type: "character"
-display_title: "V奥露惠伊乃"
-title_zh: "V奥露惠伊乃"
+display_title: "ヴォルケイノ"
+title_zh: ""
 title_ja: "ヴォルケイノ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c1061"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Volcano"
-  - "ヴォルケイノ"
   - "噴火"
 source_ids:
   vndb: "c1061"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c1061.webp"
 ---
 
-# V奥露惠伊乃
+# ヴォルケイノ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

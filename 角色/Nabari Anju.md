@@ -5,7 +5,10 @@ display_title: "隐杏珠"
 title_zh: "隐杏珠"
 title_ja: "隠 杏珠"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c153624"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nabari Anju"
   - "隠 杏珠"

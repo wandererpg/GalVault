@@ -5,7 +5,10 @@ display_title: "朝比奈晴"
 title_zh: "朝比奈晴"
 title_ja: "朝比奈 晴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14745"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Asahina Shin"
   - "朝比奈 晴"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34315"
 type: "character"
-display_title: "吉露太尼阿F伊兹芽露希阿阿奈"
-title_zh: "吉露太尼阿F伊兹芽露希阿阿奈"
+display_title: "ジルタニア・フィズ・メルキアーナ"
+title_zh: ""
 title_ja: "ジルタニア・フィズ・メルキアーナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34315"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jilltania Fizz Melkiana"
-  - "ジルタニア・フィズ・メルキアーナ"
 source_ids:
   vndb: "c34315"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c34315.webp"
 ---
 
-# 吉露太尼阿F伊兹芽露希阿阿奈
+# ジルタニア・フィズ・メルキアーナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

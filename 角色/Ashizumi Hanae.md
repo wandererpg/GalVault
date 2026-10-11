@@ -5,7 +5,10 @@ display_title: "芦角花惠"
 title_zh: "芦角花惠"
 title_ja: "芦角 花恵"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c31939"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ashizumi Hanae"
   - "芦角 花恵"

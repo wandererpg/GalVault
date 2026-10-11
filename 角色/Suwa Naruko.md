@@ -5,7 +5,10 @@ display_title: "诹访成子"
 title_zh: "诹访成子"
 title_ja: "諏訪 成子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21247"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Suwa Naruko"
   - "諏訪 成子"

@@ -5,7 +5,10 @@ display_title: "凌统公绩"
 title_zh: "凌统公绩"
 title_ja: "凌統 公績"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c63353"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ryoutou Kouseki"
   - "凌統 公績"

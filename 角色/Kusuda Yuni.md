@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c6658"
 type: "character"
-display_title: "楠田优尼"
-title_zh: "楠田优尼"
+display_title: "楠田 ゆに"
+title_zh: ""
 title_ja: "楠田 ゆに"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c6658"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kusuda Yuni"
-  - "楠田 ゆに"
   - "Kusuda Uni"
 source_ids:
   vndb: "c6658"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c6658.webp"
 ---
 
-# 楠田优尼
+# 楠田 ゆに
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

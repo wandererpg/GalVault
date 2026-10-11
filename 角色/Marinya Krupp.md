@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30380"
 type: "character"
-display_title: "真莉伊妮娅久露P普"
-title_zh: "真莉伊妮娅久露P普"
+display_title: "マリーニャ・クルップ"
+title_zh: ""
 title_ja: "マリーニャ・クルップ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30380"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Marinya Krupp"
-  - "マリーニャ・クルップ"
 source_ids:
   vndb: "c30380"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30380.webp"
 ---
 
-# 真莉伊妮娅久露P普
+# マリーニャ・クルップ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

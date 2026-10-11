@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c115167"
 type: "character"
-display_title: "诗加"
-title_zh: "诗加"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Shika"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c115167"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Shika"
 source_ids:
   vndb: "c115167"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c115167.webp"
 ---
 
-# 诗加
+# Shika
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12082"
 type: "character"
-display_title: "久我山子乃加"
-title_zh: "久我山子乃加"
+display_title: "久我山 このか"
+title_zh: ""
 title_ja: "久我山 このか"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12082"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kugayama Konoka"
-  - "久我山 このか"
 source_ids:
   vndb: "c12082"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c12082.webp"
 ---
 
-# 久我山子乃加
+# 久我山 このか
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

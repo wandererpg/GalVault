@@ -5,7 +5,10 @@ display_title: "福永叶子"
 title_zh: "福永叶子"
 title_ja: "福永 葉子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c124597"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fukunaga Youko"
   - "福永 葉子"

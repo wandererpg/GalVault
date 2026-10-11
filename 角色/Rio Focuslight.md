@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c5968"
 type: "character"
-display_title: "莉奥F奥奥加寿拉伊斗"
-title_zh: "莉奥F奥奥加寿拉伊斗"
+display_title: "リオ・フォーカスライト"
+title_zh: ""
 title_ja: "リオ・フォーカスライト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c5968"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rio Focuslight"
-  - "リオ・フォーカスライト"
 source_ids:
   vndb: "c5968"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c5968.webp"
 ---
 
-# 莉奥F奥奥加寿拉伊斗
+# リオ・フォーカスライト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c83065"
 type: "character"
-display_title: "山形沙恩"
-title_zh: "山形沙恩"
+display_title: "山形さん"
+title_zh: ""
 title_ja: "山形さん"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c83065"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yamagata-san"
-  - "山形さん"
 source_ids:
   vndb: "c83065"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c83065.webp"
 ---
 
-# 山形沙恩
+# 山形さん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

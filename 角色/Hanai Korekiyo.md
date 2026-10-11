@@ -5,7 +5,10 @@ display_title: "花井是清"
 title_zh: "花井是清"
 title_ja: "花井 是清"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c73021"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hanai Korekiyo"
   - "花井 是清"

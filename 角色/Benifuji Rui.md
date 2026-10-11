@@ -5,7 +5,10 @@ display_title: "红藤瑠伟"
 title_zh: "红藤瑠伟"
 title_ja: "紅藤 瑠偉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c48144"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Benifuji Rui"
   - "紅藤 瑠偉"

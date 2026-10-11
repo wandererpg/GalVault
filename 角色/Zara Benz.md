@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c100165"
 type: "character"
-display_title: "扎拉·贝恩Z"
-title_zh: "扎拉·贝恩Z"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Zara Benz"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c100165"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Zara Benz"
 source_ids:
   vndb: "c100165"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c100165.webp"
 ---
 
-# 扎拉·贝恩Z
+# Zara Benz
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

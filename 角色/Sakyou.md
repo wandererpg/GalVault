@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87451"
 type: "character"
-display_title: "叉梗(沙京乌)"
-title_zh: "叉梗(沙京乌)"
+display_title: "叉梗 (サキョウ)"
+title_zh: ""
 title_ja: "叉梗 (サキョウ)"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87451"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sakyou"
-  - "叉梗 (サキョウ)"
   - "Sakyo"
 source_ids:
   vndb: "c87451"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c87451.webp"
 ---
 
-# 叉梗(沙京乌)
+# 叉梗 (サキョウ)
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c56359"
 type: "character"
-display_title: "惠露莉K久"
-title_zh: "惠露莉K久"
+display_title: "エルリック"
+title_zh: ""
 title_ja: "エルリック"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56359"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Elric"
-  - "エルリック"
 source_ids:
   vndb: "c56359"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c56359.webp"
 ---
 
-# 惠露莉K久
+# エルリック
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

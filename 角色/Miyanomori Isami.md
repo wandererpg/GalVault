@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39279"
 type: "character"
-display_title: "宫乃杜勇"
-title_zh: "宫乃杜勇"
+display_title: "宮ノ杜 勇"
+title_zh: ""
 title_ja: "宮ノ杜 勇"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39279"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Miyanomori Isami"
-  - "宮ノ杜 勇"
 source_ids:
   vndb: "c39279"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c39279.webp"
 ---
 
-# 宫乃杜勇
+# 宮ノ杜 勇
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

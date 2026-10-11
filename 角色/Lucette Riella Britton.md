@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c51563"
 type: "character"
-display_title: "L乌C惠T特·莉惠LL阿·B莉T斗恩"
-title_zh: "L乌C惠T特·莉惠LL阿·B莉T斗恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Lucette Riella Britton"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c51563"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Lucette Riella Britton"
   - "Ice Princess"
   - "Little Star"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c51563.webp"
 ---
 
-# L乌C惠T特·莉惠LL阿·B莉T斗恩
+# Lucette Riella Britton
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c127753"
 type: "character"
-display_title: "L乌C伊奥·S特惠LW伊恩D"
-title_zh: "L乌C伊奥·S特惠LW伊恩D"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Lucio Steelwind"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127753"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Lucio Steelwind"
 source_ids:
   vndb: "c127753"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c127753.webp"
 ---
 
-# L乌C伊奥·S特惠LW伊恩D
+# Lucio Steelwind
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

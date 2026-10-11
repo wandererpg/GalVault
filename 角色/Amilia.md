@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c171366"
 type: "character"
-display_title: "阿美L伊阿"
-title_zh: "阿美L伊阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Amilia"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c171366"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Amilia"
 source_ids:
   vndb: "c171366"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c171366.webp"
 ---
 
-# 阿美L伊阿
+# Amilia
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

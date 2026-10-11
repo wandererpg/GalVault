@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c45018"
 type: "character"
-display_title: "阿阿德露羽伊斗F奥恩贝露久修斗拉阿濑"
-title_zh: "阿阿德露羽伊斗F奥恩贝露久修斗拉阿濑"
+display_title: "アーデルハイト・フォン・ベルクシュトラーセ"
+title_zh: ""
 title_ja: "アーデルハイト・フォン・ベルクシュトラーセ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c45018"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Adelheid von Bergstrasse"
-  - "アーデルハイト・フォン・ベルクシュトラーセ"
   - "あーちゃん"
   - "Aa-chan"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c45018.webp"
 ---
 
-# 阿阿德露羽伊斗F奥恩贝露久修斗拉阿濑
+# アーデルハイト・フォン・ベルクシュトラーセ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

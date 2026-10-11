@@ -5,7 +5,10 @@ display_title: "深泽聪"
 title_zh: "深泽聪"
 title_ja: "深沢 聡"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c118636"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fukazawa Satoshi"
   - "深沢 聡"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c85395"
 type: "character"
-display_title: "加露芽恩"
-title_zh: "加露芽恩"
+display_title: "カルメン"
+title_zh: ""
 title_ja: "カルメン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85395"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Carmen"
-  - "カルメン"
   - "Car"
 source_ids:
   vndb: "c85395"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c85395.webp"
 ---
 
-# 加露芽恩
+# カルメン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

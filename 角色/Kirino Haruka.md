@@ -5,7 +5,10 @@ display_title: "雾乃遥"
 title_zh: "雾乃遥"
 title_ja: "霧乃 遙"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10982"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kirino Haruka"
   - "霧乃 遙"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c53027"
 type: "character"
-display_title: "佩雅沙寿F奥奥堂"
-title_zh: "佩雅沙寿F奥奥堂"
+display_title: "ペガサス・フォード"
+title_zh: ""
 title_ja: "ペガサス・フォード"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c53027"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Pegasus Fort"
-  - "ペガサス・フォード"
   - "Mr. Pega"
 source_ids:
   vndb: "c53027"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c53027.webp"
 ---
 
-# 佩雅沙寿F奥奥堂
+# ペガサス・フォード
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38381"
 type: "character"
-display_title: "特希伊拉的场"
-title_zh: "特希伊拉的场"
+display_title: "テキーラ 的場"
+title_zh: ""
 title_ja: "テキーラ 的場"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38381"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tequilla Matoba"
-  - "テキーラ 的場"
   - "Seita Matoba"
 source_ids:
   vndb: "c38381"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c38381.webp"
 ---
 
-# 特希伊拉的场
+# テキーラ 的場
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

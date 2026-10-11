@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16608"
 type: "character"
-display_title: "乌沙吉莫堂希"
-title_zh: "乌沙吉莫堂希"
+display_title: "ウサギモドキ"
+title_zh: ""
 title_ja: "ウサギモドキ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16608"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Usagimodoki"
-  - "ウサギモドキ"
   - "Pseudo-rabbit"
 source_ids:
   vndb: "c16608"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c16608.webp"
 ---
 
-# 乌沙吉莫堂希
+# ウサギモドキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

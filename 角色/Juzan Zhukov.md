@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61271"
 type: "character"
-display_title: "朱扎恩朱乌子芙"
-title_zh: "朱扎恩朱乌子芙"
+display_title: "ジュザン・ジューコフ"
+title_zh: ""
 title_ja: "ジュザン・ジューコフ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61271"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Juzan Zhukov"
-  - "ジュザン・ジューコフ"
   - "Zsuzsan Zhukov"
   - "Жузан Жуков"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c61271.webp"
 ---
 
-# 朱扎恩朱乌子芙
+# ジュザン・ジューコフ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

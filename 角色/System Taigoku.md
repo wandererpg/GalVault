@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c168872"
 type: "character"
-display_title: "诗寿特梦－大狱"
-title_zh: "诗寿特梦－大狱"
+display_title: "システム－大獄"
+title_zh: ""
 title_ja: "システム－大獄"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c168872"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "System Taigoku"
-  - "システム－大獄"
 source_ids:
   vndb: "c168872"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c168872.webp"
 ---
 
-# 诗寿特梦－大狱
+# システム－大獄
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17"
 type: "character"
-display_title: "斗露特伊尼太F伊伊音"
-title_zh: "斗露特伊尼太F伊伊音"
+display_title: "トルティニタ・フィーネ"
+title_zh: ""
 title_ja: "トルティニタ・フィーネ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tortinita Fine"
-  - "トルティニタ・フィーネ"
   - "トルタ"
   - "Torta"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c17.webp"
 ---
 
-# 斗露特伊尼太F伊伊音
+# トルティニタ・フィーネ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

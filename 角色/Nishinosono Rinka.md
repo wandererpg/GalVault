@@ -5,7 +5,10 @@ display_title: "西之园凛华"
 title_zh: "西之园凛华"
 title_ja: "西之園凛華"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c96844"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nishinosono Rinka"
   - "西之園凛華"

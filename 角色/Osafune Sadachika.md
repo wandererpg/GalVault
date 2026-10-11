@@ -5,7 +5,10 @@ display_title: "长船贞亲"
 title_zh: "长船贞亲"
 title_ja: "長船 貞親"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c76347"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Osafune Sadachika"
   - "長船 貞親"

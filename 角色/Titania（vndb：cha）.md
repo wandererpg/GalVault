@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87691"
 type: "character"
-display_title: "特伊太阿尼阿"
-title_zh: "特伊太阿尼阿"
+display_title: "ティターニア"
+title_zh: ""
 title_ja: "ティターニア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87691"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Titania"
-  - "ティターニア"
 source_ids:
   vndb: "c87691"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c87691.webp"
 ---
 
-# 特伊太阿尼阿
+# ティターニア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

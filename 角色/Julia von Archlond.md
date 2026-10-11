@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c24461"
 type: "character"
-display_title: "朱莉阿F奥奈阿久洛恩堂"
-title_zh: "朱莉阿F奥奈阿久洛恩堂"
+display_title: "ジュリア・フォン・アークロンド"
+title_zh: ""
 title_ja: "ジュリア・フォン・アークロンド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c24461"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Julia von Archlond"
-  - "ジュリア・フォン・アークロンド"
   - "Noble Flame Dragon King"
   - "The Prideful Firedrake Lord"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c24461.webp"
 ---
 
-# 朱莉阿F奥奈阿久洛恩堂
+# ジュリア・フォン・アークロンド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

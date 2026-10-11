@@ -5,7 +5,10 @@ display_title: "戎美凪"
 title_zh: "戎美凪"
 title_ja: "戎 美凪"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c137"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ebisu Minagi"
   - "戎 美凪"

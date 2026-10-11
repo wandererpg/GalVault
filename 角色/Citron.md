@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90163"
 type: "character"
-display_title: "诗斗洛恩"
-title_zh: "诗斗洛恩"
+display_title: "シトロン"
+title_zh: ""
 title_ja: "シトロン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90163"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Citron"
-  - "シトロン"
   - "Foreign Swindler"
   - "Ron-ron"
   - "His Highness"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c90163.webp"
 ---
 
-# 诗斗洛恩
+# シトロン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

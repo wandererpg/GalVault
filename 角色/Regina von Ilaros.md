@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159770"
 type: "character"
-display_title: "蕾吉奈·V奥恩·伊L阿洛S"
-title_zh: "蕾吉奈·V奥恩·伊L阿洛S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Regina von Ilaros"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159770"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Regina von Ilaros"
 source_ids:
   vndb: "c159770"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c159770.webp"
 ---
 
-# 蕾吉奈·V奥恩·伊L阿洛S
+# Regina von Ilaros
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

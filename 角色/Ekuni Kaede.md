@@ -5,7 +5,10 @@ display_title: "江国枫"
 title_zh: "江国枫"
 title_ja: "江國 楓"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c95670"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ekuni Kaede"
   - "江國 楓"

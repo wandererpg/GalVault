@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c151"
 type: "character"
-display_title: "久莉寿加比娅阿C惠乃和"
-title_zh: "久莉寿加比娅阿C惠乃和"
+display_title: "クリスカ・ビャーチェノワ"
+title_zh: ""
 title_ja: "クリスカ・ビャーチェノワ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c151"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cryska Barchenowa"
-  - "クリスカ・ビャーチェノワ"
   - "Scarlet Twin"
 source_ids:
   vndb: "c151"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c151.webp"
 ---
 
-# 久莉寿加比娅阿C惠乃和
+# クリスカ・ビャーチェノワ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

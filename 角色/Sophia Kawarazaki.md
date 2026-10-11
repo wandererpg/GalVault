@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c41459"
 type: "character"
-display_title: "索F伊阿河原崎"
-title_zh: "索F伊阿河原崎"
+display_title: "ソフィア・河原崎"
+title_zh: ""
 title_ja: "ソフィア・河原崎"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c41459"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sophia Kawarazaki"
-  - "ソフィア・河原崎"
 source_ids:
   vndb: "c41459"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c41459.webp"
 ---
 
-# 索F伊阿河原崎
+# ソフィア・河原崎
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

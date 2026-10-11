@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c146629"
 type: "character"
-display_title: "索尼阿"
-title_zh: "索尼阿"
+display_title: "ソニア"
+title_zh: ""
 title_ja: "ソニア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c146629"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sonia"
-  - "ソニア"
 source_ids:
   vndb: "c146629"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c146629.webp"
 ---
 
-# 索尼阿
+# ソニア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

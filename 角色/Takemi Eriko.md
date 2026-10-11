@@ -5,7 +5,10 @@ display_title: "竹见依里子"
 title_zh: "竹见依里子"
 title_ja: "竹見 依里子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c64030"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takemi Eriko"
   - "竹見 依里子"

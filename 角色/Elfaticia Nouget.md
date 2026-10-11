@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34413"
 type: "character"
-display_title: "惠露F阿特伊诗阿乃乌格惠斗"
-title_zh: "惠露F阿特伊诗阿乃乌格惠斗"
+display_title: "エルファティシア・ノウゲート"
+title_zh: ""
 title_ja: "エルファティシア・ノウゲート"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34413"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Elfaticia Nouget"
-  - "エルファティシア・ノウゲート"
 source_ids:
   vndb: "c34413"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c34413.webp"
 ---
 
-# 惠露F阿特伊诗阿乃乌格惠斗
+# エルファティシア・ノウゲート
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

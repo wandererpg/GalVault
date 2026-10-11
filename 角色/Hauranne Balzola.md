@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16538"
 type: "character"
-display_title: "奥拉恩努＝巴露索奥拉"
-title_zh: "奥拉恩努＝巴露索奥拉"
+display_title: "オランヌ＝バルソーラ"
+title_zh: ""
 title_ja: "オランヌ＝バルソーラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16538"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hauranne Balzola"
-  - "オランヌ＝バルソーラ"
   - "Oran'nu Balsora"
   - "Oran'nu Barusora"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c16538.webp"
 ---
 
-# 奥拉恩努＝巴露索奥拉
+# オランヌ＝バルソーラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

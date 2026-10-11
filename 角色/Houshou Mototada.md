@@ -5,7 +5,10 @@ display_title: "宝生元忠"
 title_zh: "宝生元忠"
 title_ja: "宝生 元忠"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c87976"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Houshou Mototada"
   - "宝生 元忠"

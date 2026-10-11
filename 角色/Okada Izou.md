@@ -5,7 +5,10 @@ display_title: "冈田以藏"
 title_zh: "冈田以藏"
 title_ja: "岡田 以蔵"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c63372"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Okada Izou"
   - "岡田 以蔵"

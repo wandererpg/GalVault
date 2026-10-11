@@ -5,7 +5,10 @@ display_title: "英央"
 title_zh: "英央"
 title_ja: "英 央"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c33124"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hanabusa Nakaba"
   - "英 央"

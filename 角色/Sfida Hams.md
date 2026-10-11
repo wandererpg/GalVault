@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30224"
 type: "character"
-display_title: "寿F伊伊达羽梦寿"
-title_zh: "寿F伊伊达羽梦寿"
+display_title: "スフィーダ・ハムス"
+title_zh: ""
 title_ja: "スフィーダ・ハムス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30224"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sfida Hams"
-  - "スフィーダ・ハムス"
 source_ids:
   vndb: "c30224"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30224.webp"
 ---
 
-# 寿F伊伊达羽梦寿
+# スフィーダ・ハムス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43873"
 type: "character"
-display_title: "濑濑莉"
-title_zh: "濑濑莉"
+display_title: "せせり"
+title_zh: ""
 title_ja: "せせり"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43873"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Seseri"
-  - "せせり"
 source_ids:
   vndb: "c43873"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43873.webp"
 ---
 
-# 濑濑莉
+# せせり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

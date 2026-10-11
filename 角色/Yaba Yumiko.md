@@ -5,7 +5,10 @@ display_title: "矢场弓子"
 title_zh: "矢场弓子"
 title_ja: "矢場 弓子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9809"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yaba Yumiko"
   - "矢場 弓子"

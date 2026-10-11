@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c21116"
 type: "character"
-display_title: "代奥泽芙·芽恩格蕾"
-title_zh: "代奥泽芙·芽恩格蕾"
+display_title: "ヨーゼフ メンゲレ"
+title_zh: ""
 title_ja: "ヨーゼフ メンゲレ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c21116"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Josef Mengele"
-  - "ヨーゼフ メンゲレ"
 source_ids:
   vndb: "c21116"
 source_urls:
   vndb: "https://vndb.org/c21116"
 ---
 
-# 代奥泽芙·芽恩格蕾
+# ヨーゼフ メンゲレ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

@@ -5,7 +5,10 @@ display_title: "野崎博也"
 title_zh: "野崎博也"
 title_ja: "野崎 博也"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c46163"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nozaki Hiroya"
   - "野崎 博也"

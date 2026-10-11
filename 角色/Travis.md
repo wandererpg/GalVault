@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c100436"
 type: "character"
-display_title: "T拉V伊S"
-title_zh: "T拉V伊S"
+display_title: "Трэвис"
+title_zh: ""
 title_ja: "Трэвис"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c100436"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Travis"
-  - "Трэвис"
   - "Trev"
   - "T r a v e l e r"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c100436.webp"
 ---
 
-# T拉V伊S
+# Трэвис
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

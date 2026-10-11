@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16796"
 type: "character"
-display_title: "立花玛丽亚"
-title_zh: "立花玛丽亚"
+display_title: "立花 マリア"
+title_zh: ""
 title_ja: "立花 マリア"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16796"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tachibana Maria"
-  - "立花 マリア"
 source_ids:
   vndb: "c16796"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c16796.webp"
 ---
 
-# 立花玛丽亚
+# 立花 マリア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

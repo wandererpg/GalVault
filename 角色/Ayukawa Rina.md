@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c108255"
 type: "character"
-display_title: "鲇川莉奈"
-title_zh: "鲇川莉奈"
+display_title: "鮎川 リナ"
+title_zh: ""
 title_ja: "鮎川 リナ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c108255"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ayukawa Rina"
-  - "鮎川 リナ"
 source_ids:
   vndb: "c108255"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c108255.webp"
 ---
 
-# 鲇川莉奈
+# 鮎川 リナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

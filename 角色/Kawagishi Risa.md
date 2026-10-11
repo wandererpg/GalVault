@@ -5,7 +5,10 @@ display_title: "川岸理沙"
 title_zh: "川岸理沙"
 title_ja: "川岸 理沙"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c29412"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kawagishi Risa"
   - "川岸 理沙"

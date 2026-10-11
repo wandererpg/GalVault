@@ -5,7 +5,10 @@ display_title: "小森健"
 title_zh: "小森健"
 title_ja: "小森 健"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c158911"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Komori Ken"
   - "小森 健"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125241"
 type: "character"
-display_title: "商人真阿芽伊堂"
-title_zh: "商人真阿芽伊堂"
+display_title: "商人マーメイド"
+title_zh: ""
 title_ja: "商人マーメイド"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125241"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mermaid Merchant"
-  - "商人マーメイド"
 source_ids:
   vndb: "c125241"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c125241.webp"
 ---
 
-# 商人真阿芽伊堂
+# 商人マーメイド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

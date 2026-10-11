@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c109208"
 type: "character"
-display_title: "乔濑T斗达恩贝露久"
-title_zh: "乔濑T斗达恩贝露久"
+display_title: "ジョセット・ダンベルク"
+title_zh: ""
 title_ja: "ジョセット・ダンベルク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c109208"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Josset Danbellecoux"
-  - "ジョセット・ダンベルク"
   - "Josse"
 source_ids:
   vndb: "c109208"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c109208.webp"
 ---
 
-# 乔濑T斗达恩贝露久
+# ジョセット・ダンベルク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

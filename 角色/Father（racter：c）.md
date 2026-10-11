@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30823"
 type: "character"
-display_title: "父亲"
-title_zh: "父亲"
+display_title: "ファーザー"
+title_zh: ""
 title_ja: "ファーザー"
-title_zh_quality: "glossary"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30823"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Father"
-  - "ファーザー"
 source_ids:
   vndb: "c30823"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30823.webp"
 ---
 
-# 父亲
+# ファーザー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

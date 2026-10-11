@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c23392"
 type: "character"
-display_title: "近卫阿希斗"
-title_zh: "近卫阿希斗"
+display_title: "近衛 アキト"
+title_zh: ""
 title_ja: "近衛 アキト"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c23392"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Konoe Akito"
-  - "近衛 アキト"
 source_ids:
   vndb: "c23392"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c23392.webp"
 ---
 
-# 近卫阿希斗
+# 近衛 アキト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

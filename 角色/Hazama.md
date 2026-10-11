@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c20688"
 type: "character"
-display_title: "羽扎真"
-title_zh: "羽扎真"
+display_title: "ハザマ"
+title_zh: ""
 title_ja: "ハザマ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c20688"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hazama"
-  - "ハザマ"
   - "Green Guy"
   - "Scary Guy"
   - "Hipster Person"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c20688.webp"
 ---
 
-# 羽扎真
+# ハザマ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

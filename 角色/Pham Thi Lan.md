@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c42279"
 type: "character"
-display_title: "F阿梦特伊拉恩"
-title_zh: "F阿梦特伊拉恩"
+display_title: "ファム・ティ・ラン"
+title_zh: ""
 title_ja: "ファム・ティ・ラン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c42279"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Pham Thi Lan"
-  - "ファム・ティ・ラン"
   - "Schwarz 02"
   - "Schwesterherz"
   - "Big Sis"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c42279.webp"
 ---
 
-# F阿梦特伊拉恩
+# ファム・ティ・ラン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "李典曼成"
 title_zh: "李典曼成"
 title_ja: "李典 曼成"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c25771"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Riten Mansei"
   - "李典 曼成"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38248"
 type: "character"
-display_title: "美伊莉娅"
-title_zh: "美伊莉娅"
+display_title: "ミーリャ"
+title_zh: ""
 title_ja: "ミーリャ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38248"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Milya"
-  - "ミーリャ"
   - "Миля"
 source_ids:
   vndb: "c38248"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c38248.webp"
 ---
 
-# 美伊莉娅
+# ミーリャ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

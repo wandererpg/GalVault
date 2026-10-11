@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c87399"
 type: "character"
-display_title: "达惠莫尼C·索LD伊惠R"
-title_zh: "达惠莫尼C·索LD伊惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Daemonic Soldier"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87399"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Daemonic Soldier"
 source_ids:
   vndb: "c87399"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c87399.webp"
 ---
 
-# 达惠莫尼C·索LD伊惠R
+# Daemonic Soldier
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

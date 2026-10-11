@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c105009"
 type: "character"
-display_title: "阿露美奈古洛堂努伊"
-title_zh: "阿露美奈古洛堂努伊"
+display_title: "アルミナ・グロドヌイ"
+title_zh: ""
 title_ja: "アルミナ・グロドヌイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c105009"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alumina Grodny"
-  - "アルミナ・グロドヌイ"
 source_ids:
   vndb: "c105009"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c105009.webp"
 ---
 
-# 阿露美奈古洛堂努伊
+# アルミナ・グロドヌイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

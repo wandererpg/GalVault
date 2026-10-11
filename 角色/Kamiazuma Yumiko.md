@@ -5,7 +5,10 @@ display_title: "守东由美子"
 title_zh: "守东由美子"
 title_ja: "守東 由美子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43845"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kamiazuma Yumiko"
   - "守東 由美子"

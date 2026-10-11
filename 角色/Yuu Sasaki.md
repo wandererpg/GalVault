@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c99890"
 type: "character"
-display_title: "优乌·沙沙希"
-title_zh: "优乌·沙沙希"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Yuu Sasaki"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c99890"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Yuu Sasaki"
   - "Faust"
 source_ids:
   vndb: "c99890"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c99890.webp"
 ---
 
-# 优乌·沙沙希
+# Yuu Sasaki
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

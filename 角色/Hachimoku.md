@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c55660"
 type: "character"
-display_title: "羽千莫久"
-title_zh: "羽千莫久"
+display_title: "ハチモク"
+title_zh: ""
 title_ja: "ハチモク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c55660"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hachimoku"
-  - "ハチモク"
 source_ids:
   vndb: "c55660"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c55660.webp"
 ---
 
-# 羽千莫久
+# ハチモク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

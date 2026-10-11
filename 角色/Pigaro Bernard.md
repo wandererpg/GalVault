@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c92514"
 type: "character"
-display_title: "皮雅洛贝露奈露堂"
-title_zh: "皮雅洛贝露奈露堂"
+display_title: "ピガロ・ベルナルド"
+title_zh: ""
 title_ja: "ピガロ・ベルナルド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92514"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Pigaro Bernard"
-  - "ピガロ・ベルナルド"
 source_ids:
   vndb: "c92514"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c92514.webp"
 ---
 
-# 皮雅洛贝露奈露堂
+# ピガロ・ベルナルド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

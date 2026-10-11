@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38239"
 type: "character"
-display_title: "德雅奈乌伊达"
-title_zh: "德雅奈乌伊达"
+display_title: "デガナウィダ"
+title_zh: ""
 title_ja: "デガナウィダ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38239"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Deganawida"
-  - "デガナウィダ"
 source_ids:
   vndb: "c38239"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c38239.webp"
 ---
 
-# 德雅奈乌伊达
+# デガナウィダ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "藤林玲于奈"
 title_zh: "藤林玲于奈"
 title_ja: "藤林 玲於奈"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c34191"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fujibayashi Reona"
   - "藤林 玲於奈"

@@ -5,7 +5,10 @@ display_title: "石原千手"
 title_zh: "石原千手"
 title_ja: "石原 千手"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2489"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ishihara Senju"
   - "石原 千手"

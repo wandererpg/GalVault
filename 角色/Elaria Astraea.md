@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16051"
 type: "character"
-display_title: "惠露阿莉阿阿寿斗蕾伊阿"
-title_zh: "惠露阿莉阿阿寿斗蕾伊阿"
+display_title: "エルアリア・アストレイア"
+title_zh: ""
 title_ja: "エルアリア・アストレイア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16051"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Elaria Astraea"
-  - "エルアリア・アストレイア"
 source_ids:
   vndb: "c16051"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c16051.webp"
 ---
 
-# 惠露阿莉阿阿寿斗蕾伊阿
+# エルアリア・アストレイア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

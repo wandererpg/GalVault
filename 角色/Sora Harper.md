@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c113688"
 type: "character"
-display_title: "索拉·羽R佩R"
-title_zh: "索拉·羽R佩R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Sora Harper"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c113688"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Sora Harper"
 source_ids:
   vndb: "c113688"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c113688.webp"
 ---
 
-# 索拉·羽R佩R
+# Sora Harper
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

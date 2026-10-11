@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16611"
 type: "character"
-display_title: "美奥"
-title_zh: "美奥"
+display_title: "ミオ"
+title_zh: ""
 title_ja: "ミオ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16611"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mio"
-  - "ミオ"
 source_ids:
   vndb: "c16611"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c16611.webp"
 ---
 
-# 美奥
+# ミオ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

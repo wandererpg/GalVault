@@ -5,7 +5,10 @@ display_title: "内藤舞亚"
 title_zh: "内藤舞亚"
 title_ja: "内藤 舞亜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c11600"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Naitou Maia"
   - "内藤 舞亜"

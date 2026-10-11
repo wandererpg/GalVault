@@ -5,7 +5,10 @@ display_title: "池田盛周"
 title_zh: "池田盛周"
 title_ja: "池田 盛周"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c76354"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ikeda Morichika"
   - "池田 盛周"

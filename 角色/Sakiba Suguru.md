@@ -5,7 +5,10 @@ display_title: "崎羽精炎"
 title_zh: "崎羽精炎"
 title_ja: "崎羽 精炎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c94631"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakiba Suguru"
   - "崎羽 精炎"

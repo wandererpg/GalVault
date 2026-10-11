@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c126878"
 type: "character"
-display_title: "G乃真蕾恩"
-title_zh: "G乃真蕾恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Gnomaren"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126878"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Gnomaren"
 source_ids:
   vndb: "c126878"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c126878.webp"
 ---
 
-# G乃真蕾恩
+# Gnomaren
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

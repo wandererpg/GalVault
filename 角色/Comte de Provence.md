@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c50776"
 type: "character"
-display_title: "普洛V阿恩寿伯爵"
-title_zh: "普洛V阿恩寿伯爵"
+display_title: "プロヴァンス伯爵"
+title_zh: ""
 title_ja: "プロヴァンス伯爵"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c50776"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Comte de Provence"
-  - "プロヴァンス伯爵"
   - "Provence Hakushaku"
   - "Count of Provence"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c50776.webp"
 ---
 
-# 普洛V阿恩寿伯爵
+# プロヴァンス伯爵
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

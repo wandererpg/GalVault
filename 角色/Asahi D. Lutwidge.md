@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17215"
 type: "character"
-display_title: "朝日・D露乌斗乌伊J吉"
-title_zh: "朝日・D露乌斗乌伊J吉"
+display_title: "朝日・D・ルートウィッジ"
+title_zh: ""
 title_ja: "朝日・D・ルートウィッジ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17215"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Asahi D. Lutwidge"
-  - "朝日・D・ルートウィッジ"
   - "Asahi Dodgson Lutwidge"
 source_ids:
   vndb: "c17215"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c17215.webp"
 ---
 
-# 朝日・D露乌斗乌伊J吉
+# 朝日・D・ルートウィッジ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

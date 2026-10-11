@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c103802"
 type: "character"
-display_title: "盗贼乃头"
-title_zh: "盗贼乃头"
+display_title: "盗賊の頭"
+title_zh: ""
 title_ja: "盗賊の頭"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103802"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Bandit Leader"
-  - "盗賊の頭"
 source_ids:
   vndb: "c103802"
 source_urls:
   vndb: "https://vndb.org/c103802"
 ---
 
-# 盗贼乃头
+# 盗賊の頭
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

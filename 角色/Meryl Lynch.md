@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12430"
 type: "character"
-display_title: "芽莉露莉恩千"
-title_zh: "芽莉露莉恩千"
+display_title: "メリル・リンチ"
+title_zh: ""
 title_ja: "メリル・リンチ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12430"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Meryl Lynch"
-  - "メリル・リンチ"
 source_ids:
   vndb: "c12430"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c12430.webp"
 ---
 
-# 芽莉露莉恩千
+# メリル・リンチ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

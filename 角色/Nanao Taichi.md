@@ -5,7 +5,10 @@ display_title: "七尾太一"
 title_zh: "七尾太一"
 title_ja: "七尾 太一"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c90173"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nanao Taichi"
   - "七尾 太一"

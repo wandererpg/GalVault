@@ -5,11 +5,15 @@ display_title: "高岭佳织"
 title_zh: "高岭佳织"
 title_ja: "高嶺 佳織"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2925"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takamine Kaori"
   - "高嶺 佳織"
   - "Kaori of 'Desire'"
+  - "Kaori of 'Desire"
 source_ids:
   vndb: "c2925"
 source_urls:

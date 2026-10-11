@@ -5,7 +5,10 @@ display_title: "一色一人"
 title_zh: "一色一人"
 title_ja: "一色 一人"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c78130"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Isshiki Kazuto"
   - "一色 一人"

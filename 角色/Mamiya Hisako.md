@@ -5,7 +5,10 @@ display_title: "马宫久子"
 title_zh: "马宫久子"
 title_ja: "馬宮 久子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c87412"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mamiya Hisako"
   - "馬宮 久子"

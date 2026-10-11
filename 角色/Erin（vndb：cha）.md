@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c47557"
 type: "character"
-display_title: "惠莉恩"
-title_zh: "惠莉恩"
+display_title: "エリン"
+title_zh: ""
 title_ja: "エリン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c47557"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Erin"
-  - "エリン"
 source_ids:
   vndb: "c47557"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c47557.webp"
 ---
 
-# 惠莉恩
+# エリン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

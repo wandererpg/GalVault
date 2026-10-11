@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c161004"
 type: "character"
-display_title: "沓野沙恩"
-title_zh: "沓野沙恩"
+display_title: "沓野さん"
+title_zh: ""
 title_ja: "沓野さん"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161004"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mrs. Kutsuno"
-  - "沓野さん"
   - "奏の祖母"
   - "Kanade's grandmother"
 source_ids:
@@ -17,7 +19,7 @@ source_urls:
   vndb: "https://vndb.org/c161004"
 ---
 
-# 沓野沙恩
+# 沓野さん
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

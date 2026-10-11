@@ -5,7 +5,10 @@ display_title: "孔明"
 title_zh: "孔明"
 title_ja: "孔明"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c32192"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Koumei"
   - "諸葛 孔明"

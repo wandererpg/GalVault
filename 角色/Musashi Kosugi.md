@@ -5,7 +5,10 @@ display_title: "武藏小杉"
 title_zh: "武藏小杉"
 title_ja: "武蔵 小杉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9808"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Musashi Kosugi"
   - "武蔵 小杉"

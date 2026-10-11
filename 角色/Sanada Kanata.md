@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c674"
 type: "character"
-display_title: "真田加奈太"
-title_zh: "真田加奈太"
+display_title: "真田 かなた"
+title_zh: ""
 title_ja: "真田 かなた"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c674"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sanada Kanata"
-  - "真田 かなた"
 source_ids:
   vndb: "c674"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c674.webp"
 ---
 
-# 真田加奈太
+# 真田 かなた
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

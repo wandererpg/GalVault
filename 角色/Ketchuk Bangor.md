@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c124248"
 type: "character"
-display_title: "惠恰K久巴恩悟奥"
-title_zh: "惠恰K久巴恩悟奥"
+display_title: "ケチャック・バンゴー"
+title_zh: ""
 title_ja: "ケチャック・バンゴー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124248"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ketchuk Bangor"
-  - "ケチャック・バンゴー"
   - "Commander General Ketchuk"
   - "Commander General of Helman"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c124248.webp"
 ---
 
-# 惠恰K久巴恩悟奥
+# ケチャック・バンゴー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

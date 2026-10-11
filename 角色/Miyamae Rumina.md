@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30930"
 type: "character"
-display_title: "宫前露美奈"
-title_zh: "宫前露美奈"
+display_title: "宮前 るみな"
+title_zh: ""
 title_ja: "宮前 るみな"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30930"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Miyamae Rumina"
-  - "宮前 るみな"
 source_ids:
   vndb: "c30930"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30930.webp"
 ---
 
-# 宫前露美奈
+# 宮前 るみな
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

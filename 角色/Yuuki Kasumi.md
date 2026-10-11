@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c156088"
 type: "character"
-display_title: "佑姫加寿美"
-title_zh: "佑姫加寿美"
+display_title: "佑姫 カスミ"
+title_zh: ""
 title_ja: "佑姫 カスミ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c156088"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yuuki Kasumi"
-  - "佑姫 カスミ"
 source_ids:
   vndb: "c156088"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c156088.webp"
 ---
 
-# 佑姫加寿美
+# 佑姫 カスミ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

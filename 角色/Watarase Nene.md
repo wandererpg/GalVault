@@ -5,7 +5,10 @@ display_title: "渡良濑宁々"
 title_zh: "渡良濑宁々"
 title_ja: "渡良瀬 寧々"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c110682"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Watarase Nene"
   - "渡良瀬 寧々"

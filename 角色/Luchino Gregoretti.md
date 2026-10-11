@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10829"
 type: "character"
-display_title: "露希伊乃古蕾悟蕾T特伊"
-title_zh: "露希伊乃古蕾悟蕾T特伊"
+display_title: "ルキーノ・グレゴレッティ"
+title_zh: ""
 title_ja: "ルキーノ・グレゴレッティ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10829"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Luchino Gregoretti"
-  - "ルキーノ・グレゴレッティ"
 source_ids:
   vndb: "c10829"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c10829.webp"
 ---
 
-# 露希伊乃古蕾悟蕾T特伊
+# ルキーノ・グレゴレッティ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

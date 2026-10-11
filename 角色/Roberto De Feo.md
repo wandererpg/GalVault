@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c70679"
 type: "character"
-display_title: "洛贝露斗德F惠奥"
-title_zh: "洛贝露斗德F惠奥"
+display_title: "ロベルト・デ・フェオ"
+title_zh: ""
 title_ja: "ロベルト・デ・フェオ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c70679"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Roberto De Feo"
-  - "ロベルト・デ・フェオ"
 source_ids:
   vndb: "c70679"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c70679.webp"
 ---
 
-# 洛贝露斗德F惠奥
+# ロベルト・デ・フェオ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

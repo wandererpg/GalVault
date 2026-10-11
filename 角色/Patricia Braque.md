@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c164053"
 type: "character"
-display_title: "帕斗莉诗阿=布拉K久"
-title_zh: "帕斗莉诗阿=布拉K久"
+display_title: "パトリシア=ブラック"
+title_zh: ""
 title_ja: "パトリシア=ブラック"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c164053"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Patricia Braque"
-  - "パトリシア=ブラック"
 source_ids:
   vndb: "c164053"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c164053.webp"
 ---
 
-# 帕斗莉诗阿=布拉K久
+# パトリシア=ブラック
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

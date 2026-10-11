@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c145746"
 type: "character"
-display_title: "奥S沙阿乌D堂拉恩堂"
-title_zh: "奥S沙阿乌D堂拉恩堂"
+display_title: "オッサー・ウッドランド"
+title_zh: ""
 title_ja: "オッサー・ウッドランド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c145746"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Osser Woodland"
-  - "オッサー・ウッドランド"
 source_ids:
   vndb: "c145746"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c145746.webp"
 ---
 
-# 奥S沙阿乌D堂拉恩堂
+# オッサー・ウッドランド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

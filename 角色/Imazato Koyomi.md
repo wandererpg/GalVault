@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c60634"
 type: "character"
-display_title: "今里子代美"
-title_zh: "今里子代美"
+display_title: "今里 こよみ"
+title_zh: ""
 title_ja: "今里 こよみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c60634"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Imazato Koyomi"
-  - "今里 こよみ"
 source_ids:
   vndb: "c60634"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c60634.webp"
 ---
 
-# 今里子代美
+# 今里 こよみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

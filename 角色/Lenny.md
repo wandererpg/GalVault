@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c165281"
 type: "character"
-display_title: "L惠恩恩Y"
-title_zh: "L惠恩恩Y"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Lenny"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c165281"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Lenny"
 source_ids:
   vndb: "c165281"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c165281.webp"
 ---
 
-# L惠恩恩Y
+# Lenny
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

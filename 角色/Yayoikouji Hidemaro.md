@@ -5,7 +5,10 @@ display_title: "弥生小路秀麻吕"
 title_zh: "弥生小路秀麻吕"
 title_ja: "弥生小路 秀麻呂"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c11469"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yayoikouji Hidemaro"
   - "弥生小路 秀麻呂"

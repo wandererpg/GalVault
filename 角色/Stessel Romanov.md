@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c124201"
 type: "character"
-display_title: "S特S濑L·洛真乃V"
-title_zh: "S特S濑L·洛真乃V"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Stessel Romanov"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124201"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Stessel Romanov"
   - "Stessel Ignon"
 source_ids:
   vndb: "c124201"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c124201.webp"
 ---
 
-# S特S濑L·洛真乃V
+# Stessel Romanov
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

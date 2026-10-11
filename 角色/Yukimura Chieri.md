@@ -5,7 +5,10 @@ display_title: "雪村千绘莉"
 title_zh: "雪村千绘莉"
 title_ja: "雪村 千絵莉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c85518"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yukimura Chieri"
   - "雪村 千絵莉"

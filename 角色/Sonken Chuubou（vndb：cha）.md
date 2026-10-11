@@ -5,7 +5,10 @@ display_title: "孙权仲谋"
 title_zh: "孙权仲谋"
 title_ja: "孫権 仲謀"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c376"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sonken Chuubou"
   - "孫権 仲謀"

@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c141270"
 type: "character"
-display_title: "惠比原真莉子"
-title_zh: "惠比原真莉子"
+display_title: "エビ原 マリ子"
+title_zh: ""
 title_ja: "エビ原 マリ子"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141270"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ebihara Mariko"
-  - "エビ原 マリ子"
 source_ids:
   vndb: "c141270"
 source_urls:
   vndb: "https://vndb.org/c141270"
 ---
 
-# 惠比原真莉子
+# エビ原 マリ子
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

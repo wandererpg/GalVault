@@ -5,7 +5,10 @@ display_title: "濑户旭"
 title_zh: "濑户旭"
 title_ja: "瀬戸 旭"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c101213"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Seto Asahi"
   - "瀬戸 旭"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c170842"
 type: "character"
-display_title: "奥吉沙恩"
-title_zh: "奥吉沙恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ojisan"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c170842"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ojisan"
 source_ids:
   vndb: "c170842"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c170842.webp"
 ---
 
-# 奥吉沙恩
+# Ojisan
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

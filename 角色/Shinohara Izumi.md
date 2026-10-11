@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c20458"
 type: "character"
-display_title: "筿原伊兹美"
-title_zh: "筿原伊兹美"
+display_title: "篠原 いずみ"
+title_zh: ""
 title_ja: "篠原 いずみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c20458"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shinohara Izumi"
-  - "篠原 いずみ"
 source_ids:
   vndb: "c20458"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c20458.webp"
 ---
 
-# 筿原伊兹美
+# 篠原 いずみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

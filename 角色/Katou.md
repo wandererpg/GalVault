@@ -5,7 +5,10 @@ display_title: "加东"
 title_zh: "加东"
 title_ja: "加東"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c31756"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Katou"
   - "加東"

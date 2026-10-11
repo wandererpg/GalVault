@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34089"
 type: "character"
-display_title: "蕾莉乌寿"
-title_zh: "蕾莉乌寿"
+display_title: "レリウス"
+title_zh: ""
 title_ja: "レリウス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34089"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Laelius"
-  - "レリウス"
 source_ids:
   vndb: "c34089"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c34089.webp"
 ---
 
-# 蕾莉乌寿
+# レリウス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

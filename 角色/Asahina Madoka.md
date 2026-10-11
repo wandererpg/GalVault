@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c56987"
 type: "character"
-display_title: "朝比奈真堂加"
-title_zh: "朝比奈真堂加"
+display_title: "朝比奈 まどか"
+title_zh: ""
 title_ja: "朝比奈 まどか"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56987"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Asahina Madoka"
-  - "朝比奈 まどか"
 source_ids:
   vndb: "c56987"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c56987.webp"
 ---
 
-# 朝比奈真堂加
+# 朝比奈 まどか
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

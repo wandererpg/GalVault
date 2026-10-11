@@ -5,7 +5,10 @@ display_title: "香织"
 title_zh: "香织"
 title_ja: "香織"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c90870"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kaori"
   - "香織"

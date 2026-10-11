@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c124241"
 type: "character"
-display_title: "古蕾巴伊斗F奥露洛奥蕾恩"
-title_zh: "古蕾巴伊斗F奥露洛奥蕾恩"
+display_title: "グレバイト・フォル・ローレン"
+title_zh: ""
 title_ja: "グレバイト・フォル・ローレン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124241"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Greveit Fohl Lorrain"
-  - "グレバイト・フォル・ローレン"
 source_ids:
   vndb: "c124241"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c124241.webp"
 ---
 
-# 古蕾巴伊斗F奥露洛奥蕾恩
+# グレバイト・フォル・ローレン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

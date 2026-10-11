@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c60821"
 type: "character"
-display_title: "古莉诗伊努布露乌芽惠露"
-title_zh: "古莉诗伊努布露乌芽惠露"
+display_title: "グリシーヌ・ブルーメール"
+title_zh: ""
 title_ja: "グリシーヌ・ブルーメール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c60821"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Glycine Bleumer"
-  - "グリシーヌ・ブルーメール"
 source_ids:
   vndb: "c60821"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c60821.webp"
 ---
 
-# 古莉诗伊努布露乌芽惠露
+# グリシーヌ・ブルーメール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

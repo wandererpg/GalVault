@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c174118"
 type: "character"
-display_title: "SC阿RL惠T·莫R雅恩"
-title_zh: "SC阿RL惠T·莫R雅恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Scarlet Morgan"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c174118"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Scarlet Morgan"
 source_ids:
   vndb: "c174118"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c174118.webp"
 ---
 
-# SC阿RL惠T·莫R雅恩
+# Scarlet Morgan
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

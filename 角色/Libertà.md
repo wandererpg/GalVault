@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8559"
 type: "character"
-display_title: "莉贝露太"
-title_zh: "莉贝露太"
+display_title: "リベルタ"
+title_zh: ""
 title_ja: "リベルタ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8559"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Libertà"
-  - "リベルタ"
   - "Liberta"
 source_ids:
   vndb: "c8559"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c8559.webp"
 ---
 
-# 莉贝露太
+# リベルタ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61256"
 type: "character"
-display_title: "嘉加露太"
-title_zh: "嘉加露太"
+display_title: "ジャカルタ"
+title_zh: ""
 title_ja: "ジャカルタ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61256"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jakarta"
-  - "ジャカルタ"
 source_ids:
   vndb: "c61256"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61256.webp"
 ---
 
-# 嘉加露太
+# ジャカルタ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

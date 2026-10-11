@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c158876"
 type: "character"
-display_title: "达伊寿太阿"
-title_zh: "达伊寿太阿"
+display_title: "ダイスター"
+title_zh: ""
 title_ja: "ダイスター"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c158876"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Deister"
-  - "ダイスター"
 source_ids:
   vndb: "c158876"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c158876.webp"
 ---
 
-# 达伊寿太阿
+# ダイスター
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

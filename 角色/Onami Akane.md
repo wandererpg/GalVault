@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c69532"
 type: "character"
-display_title: "女未阿加音"
-title_zh: "女未阿加音"
+display_title: "女未 あかね"
+title_zh: ""
 title_ja: "女未 あかね"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c69532"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Onami Akane"
-  - "女未 あかね"
   - "あか姉"
 source_ids:
   vndb: "c69532"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c69532.webp"
 ---
 
-# 女未阿加音
+# 女未 あかね
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

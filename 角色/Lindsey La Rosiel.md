@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c146955"
 type: "character"
-display_title: "莉恩吉伊拉洛诗惠露"
-title_zh: "莉恩吉伊拉洛诗惠露"
+display_title: "リンジー・ラ・ロシエル"
+title_zh: ""
 title_ja: "リンジー・ラ・ロシエル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c146955"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lindsey La Rosiel"
-  - "リンジー・ラ・ロシエル"
 source_ids:
   vndb: "c146955"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c146955.webp"
 ---
 
-# 莉恩吉伊拉洛诗惠露
+# リンジー・ラ・ロシエル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

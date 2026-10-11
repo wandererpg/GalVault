@@ -5,7 +5,10 @@ display_title: "玄冬"
 title_zh: "玄冬"
 title_ja: "玄冬"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c56506"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kuroto"
 source_ids:

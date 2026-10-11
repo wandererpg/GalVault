@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c86263"
 type: "character"
-display_title: "边出斗莫露"
-title_zh: "边出斗莫露"
+display_title: "辺出 トモル"
+title_zh: ""
 title_ja: "辺出 トモル"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c86263"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hende Tomoru"
-  - "辺出 トモル"
 source_ids:
   vndb: "c86263"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c86263.webp"
 ---
 
-# 边出斗莫露
+# 辺出 トモル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c64313"
 type: "character"
-display_title: "真莉阿比翔P普"
-title_zh: "真莉阿比翔P普"
+display_title: "マリア・ビショップ"
+title_zh: ""
 title_ja: "マリア・ビショップ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c64313"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Maria Bishop"
-  - "マリア・ビショップ"
 source_ids:
   vndb: "c64313"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c64313.webp"
 ---
 
-# 真莉阿比翔P普
+# マリア・ビショップ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

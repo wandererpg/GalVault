@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c56353"
 type: "character"
-display_title: "蕾比"
-title_zh: "蕾比"
+display_title: "レビ"
+title_zh: ""
 title_ja: "レビ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56353"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Levi"
-  - "レビ"
 source_ids:
   vndb: "c56353"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c56353.webp"
 ---
 
-# 蕾比
+# レビ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

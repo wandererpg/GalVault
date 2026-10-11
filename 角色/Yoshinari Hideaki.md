@@ -5,7 +5,10 @@ display_title: "吉成秀明"
 title_zh: "吉成秀明"
 title_ja: "吉成 秀明"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c53304"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yoshinari Hideaki"
   - "吉成 秀明"

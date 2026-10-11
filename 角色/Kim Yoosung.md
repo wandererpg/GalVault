@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c35139"
 type: "character"
-display_title: "希M·代奥寿恩G"
-title_zh: "希M·代奥寿恩G"
+display_title: "김 유성"
+title_zh: ""
 title_ja: "김 유성"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c35139"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kim Yoosung"
-  - "김 유성"
   - "Yoosung★"
 source_ids:
   vndb: "c35139"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c35139.webp"
 ---
 
-# 希M·代奥寿恩G
+# 김 유성
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

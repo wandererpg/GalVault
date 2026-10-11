@@ -5,7 +5,10 @@ display_title: "楢冈魅月"
 title_zh: "楢冈魅月"
 title_ja: "楢岡 魅月"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21709"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Naraoka Mitsuki"
   - "楢岡 魅月"

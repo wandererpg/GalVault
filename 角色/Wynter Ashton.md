@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c117557"
 type: "character"
-display_title: "WY恩特R·阿SH斗恩"
-title_zh: "WY恩特R·阿SH斗恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Wynter Ashton"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c117557"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Wynter Ashton"
 source_ids:
   vndb: "c117557"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c117557.webp"
 ---
 
-# WY恩特R·阿SH斗恩
+# Wynter Ashton
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

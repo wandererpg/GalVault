@@ -5,7 +5,10 @@ display_title: "村山律"
 title_zh: "村山律"
 title_ja: "村山 律"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c57433"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Murayama Ritsu"
   - "村山 律"

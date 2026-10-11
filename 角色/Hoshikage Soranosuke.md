@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10957"
 type: "character"
-display_title: "星影宇宙乃介"
-title_zh: "星影宇宙乃介"
+display_title: "星影 宇宙ノ介"
+title_zh: ""
 title_ja: "星影 宇宙ノ介"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10957"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hoshikage Soranosuke"
-  - "星影 宇宙ノ介"
   - "Lương Sơn Phát"
   - "ภูผา มหาพิบูลย์"
   - "Phupha Maha-phibun"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c10957.webp"
 ---
 
-# 星影宇宙乃介
+# 星影 宇宙ノ介
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

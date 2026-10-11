@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c4658"
 type: "character"
-display_title: "岸本阿雅濑"
-title_zh: "岸本阿雅濑"
+display_title: "岸本 あやせ"
+title_zh: ""
 title_ja: "岸本 あやせ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c4658"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kishimoto Ayase"
-  - "岸本 あやせ"
   - "FES"
   - "デンパ女"
   - "Denpa Onna"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c4658.webp"
 ---
 
-# 岸本阿雅濑
+# 岸本 あやせ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

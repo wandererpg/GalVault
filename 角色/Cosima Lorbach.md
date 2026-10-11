@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c55456"
 type: "character"
-display_title: "子吉真洛露巴H羽"
-title_zh: "子吉真洛露巴H羽"
+display_title: "コジマ・ロルバッハ"
+title_zh: ""
 title_ja: "コジマ・ロルバッハ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c55456"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cosima Lorbach"
-  - "コジマ・ロルバッハ"
   - "Cosie"
   - "コジ"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c55456.webp"
 ---
 
-# 子吉真洛露巴H羽
+# コジマ・ロルバッハ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

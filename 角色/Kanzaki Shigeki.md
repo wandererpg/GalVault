@@ -5,7 +5,10 @@ display_title: "神崎重树"
 title_zh: "神崎重树"
 title_ja: "神崎 重樹"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c123999"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kanzaki Shigeki"
   - "神崎 重樹"

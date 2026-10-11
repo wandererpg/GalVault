@@ -5,7 +5,10 @@ display_title: "张飞"
 title_zh: "张飞"
 title_ja: "張飛"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c33332"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Chouhi"
   - "張飛"

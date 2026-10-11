@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c104866"
 type: "character"
-display_title: "惠伊斗"
-title_zh: "惠伊斗"
+display_title: "エイト"
+title_zh: ""
 title_ja: "エイト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c104866"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Eiden"
-  - "エイト"
   - "Eight, Master, Little Devil"
 source_ids:
   vndb: "c104866"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c104866.webp"
 ---
 
-# 惠伊斗
+# エイト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

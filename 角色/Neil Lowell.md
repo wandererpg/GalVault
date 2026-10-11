@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c18380"
 type: "character"
-display_title: "尼伊露洛奥乌惠露"
-title_zh: "尼伊露洛奥乌惠露"
+display_title: "ニール・ローウェル"
+title_zh: ""
 title_ja: "ニール・ローウェル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c18380"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Neil Lowell"
-  - "ニール・ローウェル"
   - "ベリアル"
   - "Belial"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c18380.webp"
 ---
 
-# 尼伊露洛奥乌惠露
+# ニール・ローウェル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

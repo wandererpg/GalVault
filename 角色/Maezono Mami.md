@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c84842"
 type: "character"
-display_title: "前园真美"
-title_zh: "前园真美"
+display_title: "前園マミ"
+title_zh: ""
 title_ja: "前園マミ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c84842"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Maezono Mami"
-  - "前園マミ"
 source_ids:
   vndb: "c84842"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c84842.webp"
 ---
 
-# 前园真美
+# 前園マミ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c105878"
 type: "character"
-display_title: "L奥V惠LYL奥L阿"
-title_zh: "L奥V惠LYL奥L阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "LovelyLola"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c105878"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "LovelyLola"
 source_ids:
   vndb: "c105878"
 source_urls:
   vndb: "https://vndb.org/c105878"
 ---
 
-# L奥V惠LYL奥L阿
+# LovelyLola
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

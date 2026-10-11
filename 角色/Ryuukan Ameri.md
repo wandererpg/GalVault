@@ -5,7 +5,10 @@ display_title: "龙闲天梨"
 title_zh: "龙闲天梨"
 title_ja: "竜閑 天梨"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c91566"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ryuukan Ameri"
   - "竜閑 天梨"

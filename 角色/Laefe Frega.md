@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c127751"
 type: "character"
-display_title: "L阿惠F惠·F蕾雅"
-title_zh: "L阿惠F惠·F蕾雅"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Laefe Frega"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127751"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Laefe Frega"
 source_ids:
   vndb: "c127751"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c127751.webp"
 ---
 
-# L阿惠F惠·F蕾雅
+# Laefe Frega
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c33717"
 type: "character"
-display_title: "劳拉·贝L阿乃V阿"
-title_zh: "劳拉·贝L阿乃V阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Laura Belanova"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33717"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Laura Belanova"
 source_ids:
   vndb: "c33717"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c33717.webp"
 ---
 
-# 劳拉·贝L阿乃V阿
+# Laura Belanova
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

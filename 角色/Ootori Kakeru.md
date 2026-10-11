@@ -5,7 +5,10 @@ display_title: "凤翔"
 title_zh: "凤翔"
 title_ja: "鳳 翔"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9504"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ootori Kakeru"
   - "鳳 翔"

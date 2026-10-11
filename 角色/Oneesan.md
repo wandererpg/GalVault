@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c51508"
 type: "character"
-display_title: "奥音惠沙恩"
-title_zh: "奥音惠沙恩"
+display_title: "をねぇさん"
+title_zh: ""
 title_ja: "をねぇさん"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c51508"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Oneesan"
-  - "をねぇさん"
 source_ids:
   vndb: "c51508"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c51508.webp"
 ---
 
-# 奥音惠沙恩
+# をねぇさん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

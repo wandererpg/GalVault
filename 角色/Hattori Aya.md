@@ -5,7 +5,10 @@ display_title: "服部彩"
 title_zh: "服部彩"
 title_ja: "服部 彩"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9837"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hattori Aya"
   - "服部 彩"

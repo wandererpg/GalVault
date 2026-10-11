@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c111117"
 type: "character"
-display_title: "CH莉ST伊音·T穗M索恩"
-title_zh: "CH莉ST伊音·T穗M索恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Christine Thomson"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c111117"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Christine Thomson"
   - "Sea"
 source_ids:
   vndb: "c111117"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c111117.webp"
 ---
 
-# CH莉ST伊音·T穗M索恩
+# Christine Thomson
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

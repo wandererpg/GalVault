@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c172947"
 type: "character"
-display_title: "达尼惠L阿·拉美蕾Z"
-title_zh: "达尼惠L阿·拉美蕾Z"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Daniela Ramirez"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c172947"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Daniela Ramirez"
   - "Dani"
 source_ids:
   vndb: "c172947"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c172947.webp"
 ---
 
-# 达尼惠L阿·拉美蕾Z
+# Daniela Ramirez
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

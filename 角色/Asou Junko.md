@@ -5,7 +5,10 @@ display_title: "麻生纯子"
 title_zh: "麻生纯子"
 title_ja: "麻生 純子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c446"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Asou Junko"
   - "麻生 純子"

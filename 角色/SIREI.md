@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c150758"
 type: "character"
-display_title: "S伊蕾伊"
-title_zh: "S伊蕾伊"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "SIREI"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c150758"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "SIREI"
   - "Commanding Officer"
   - "Sir"
   - "Sirei"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c150758.webp"
 ---
 
-# S伊蕾伊
+# SIREI
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

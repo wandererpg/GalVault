@@ -5,7 +5,10 @@ display_title: "南条辉正"
 title_zh: "南条辉正"
 title_ja: "南條 輝正"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1341"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nanjou Terumasa"
   - "南條 輝正"

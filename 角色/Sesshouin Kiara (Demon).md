@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14133"
 type: "character"
-display_title: "杀生院希阿拉"
-title_zh: "杀生院希阿拉"
+display_title: "殺生院キアラ"
+title_zh: ""
 title_ja: "殺生院キアラ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14133"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sesshouin Kiara (Demon)"
-  - "殺生院キアラ"
   - "Heaven's Hole"
 source_ids:
   vndb: "c14133"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c14133.webp"
 ---
 
-# 杀生院希阿拉
+# 殺生院キアラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

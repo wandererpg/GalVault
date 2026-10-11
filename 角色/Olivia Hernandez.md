@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c138794"
 type: "character"
-display_title: "奥莉维亚·惠R奈恩德Z"
-title_zh: "奥莉维亚·惠R奈恩德Z"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Olivia Hernandez"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138794"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Olivia Hernandez"
 source_ids:
   vndb: "c138794"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c138794.webp"
 ---
 
-# 奥莉维亚·惠R奈恩德Z
+# Olivia Hernandez
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

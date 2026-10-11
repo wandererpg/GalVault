@@ -5,7 +5,10 @@ display_title: "吉次信高"
 title_zh: "吉次信高"
 title_ja: "吉次 信高"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c122161"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kichiji Nobutaka"
   - "吉次 信高"

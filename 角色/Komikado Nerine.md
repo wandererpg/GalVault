@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16867"
 type: "character"
-display_title: "小御门音莉音"
-title_zh: "小御门音莉音"
+display_title: "小御門 ネリネ"
+title_zh: ""
 title_ja: "小御門 ネリネ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16867"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Komikado Nerine"
-  - "小御門 ネリネ"
   - "Neri"
 source_ids:
   vndb: "c16867"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c16867.webp"
 ---
 
-# 小御门音莉音
+# 小御門 ネリネ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

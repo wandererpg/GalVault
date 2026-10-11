@@ -5,7 +5,10 @@ display_title: "星野奈津江"
 title_zh: "星野奈津江"
 title_ja: "星野 奈津江"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c48384"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hoshino Natsue"
   - "星野 奈津江"

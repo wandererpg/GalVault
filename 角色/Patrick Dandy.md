@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c141300"
 type: "character"
-display_title: "帕斗莉K久达恩D伊"
-title_zh: "帕斗莉K久达恩D伊"
+display_title: "パトリック・ダンディ"
+title_zh: ""
 title_ja: "パトリック・ダンディ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141300"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Patrick Dandy"
-  - "パトリック・ダンディ"
 source_ids:
   vndb: "c141300"
 source_urls:
   vndb: "https://vndb.org/c141300"
 ---
 
-# 帕斗莉K久达恩D伊
+# パトリック・ダンディ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

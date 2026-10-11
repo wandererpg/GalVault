@@ -5,7 +5,10 @@ display_title: "杏野云"
 title_zh: "杏野云"
 title_ja: "杏野 雲"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c132440"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Anno Kumo"
   - "杏野 雲"

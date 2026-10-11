@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13590"
 type: "character"
-display_title: "羽莉真奥奥"
-title_zh: "羽莉真奥奥"
+display_title: "はりまおー"
+title_zh: ""
 title_ja: "はりまおー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13590"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Harimaou"
-  - "はりまおー"
 source_ids:
   vndb: "c13590"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c13590.webp"
 ---
 
-# 羽莉真奥奥
+# はりまおー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

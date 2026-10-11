@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c150671"
 type: "character"
-display_title: "C惠露努诗加寿斗露雅津加雅"
-title_zh: "C惠露努诗加寿斗露雅津加雅"
+display_title: "チェルヌシカ・ストルガツカヤ"
+title_zh: ""
 title_ja: "チェルヌシカ・ストルガツカヤ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c150671"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chernushka Strugaskaya"
-  - "チェルヌシカ・ストルガツカヤ"
   - "Chernushka Ivanova Strugaskaya"
 source_ids:
   vndb: "c150671"
@@ -16,7 +18,7 @@ source_urls:
   vndb: "https://vndb.org/c150671"
 ---
 
-# C惠露努诗加寿斗露雅津加雅
+# チェルヌシカ・ストルガツカヤ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

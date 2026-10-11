@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c135337"
 type: "character"
-display_title: "阿S惠·羽WT穗R音"
-title_zh: "阿S惠·羽WT穗R音"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ashe Hawthorne"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c135337"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ashe Hawthorne"
   - "Pumpkin"
   - "Genie"
   - "Shorty"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c135337.webp"
 ---
 
-# 阿S惠·羽WT穗R音
+# Ashe Hawthorne
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "水无月夕凪"
 title_zh: "水无月夕凪"
 title_ja: "水無月 夕凪"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c37610"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Minazuki Yuunagi"
   - "水無月 夕凪"

@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c70492"
 type: "character"
-display_title: "伊羽拉·奈奥优希"
-title_zh: "伊羽拉·奈奥优希"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ihara Naoyuki"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c70492"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ihara Naoyuki"
 source_ids:
   vndb: "c70492"
 source_urls:
   vndb: "https://vndb.org/c70492"
 ---
 
-# 伊羽拉·奈奥优希
+# Ihara Naoyuki
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

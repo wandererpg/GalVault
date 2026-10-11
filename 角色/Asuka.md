@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39540"
 type: "character"
-display_title: "阿寿加"
-title_zh: "阿寿加"
+display_title: "アスカ"
+title_zh: ""
 title_ja: "アスカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39540"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Asuka"
-  - "アスカ"
   - "飛鳥 維織"
   - "Asuka Iori"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c39540.webp"
 ---
 
-# 阿寿加
+# アスカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

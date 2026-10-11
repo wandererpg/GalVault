@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c104862"
 type: "character"
-display_title: "季雪沙希"
-title_zh: "季雪沙希"
+display_title: "季雪 さき"
+title_zh: ""
 title_ja: "季雪 さき"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c104862"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kiyuki Saki"
-  - "季雪 さき"
 source_ids:
   vndb: "c104862"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c104862.webp"
 ---
 
-# 季雪沙希
+# 季雪 さき
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

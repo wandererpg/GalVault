@@ -5,7 +5,10 @@ display_title: "莲间香苗"
 title_zh: "莲间香苗"
 title_ja: "蓮間 香苗"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2512"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hasuma Kanae"
   - "蓮間 香苗"

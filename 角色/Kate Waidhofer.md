@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c112620"
 type: "character"
-display_title: "凯特·和伊D穗F惠R"
-title_zh: "凯特·和伊D穗F惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Kate Waidhofer"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c112620"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Kate Waidhofer"
 source_ids:
   vndb: "c112620"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c112620.webp"
 ---
 
-# 凯特·和伊D穗F惠R
+# Kate Waidhofer
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

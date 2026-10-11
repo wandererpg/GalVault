@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90235"
 type: "character"
-display_title: "羽伊吉真·美津希"
-title_zh: "羽伊吉真·美津希"
+display_title: "ハイジマ ミツキ"
+title_zh: ""
 title_ja: "ハイジマ ミツキ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90235"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Haijima Mitsuki"
-  - "ハイジマ ミツキ"
   - "Heidi"
   - "ハイジ"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c90235.webp"
 ---
 
-# 羽伊吉真·美津希
+# ハイジマ ミツキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

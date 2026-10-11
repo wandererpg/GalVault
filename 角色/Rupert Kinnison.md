@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c102748"
 type: "character"
-display_title: "露帕阿斗希尼寿恩"
-title_zh: "露帕阿斗希尼寿恩"
+display_title: "ルパート・キニスン"
+title_zh: ""
 title_ja: "ルパート・キニスン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c102748"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rupert Kinnison"
-  - "ルパート・キニスン"
 source_ids:
   vndb: "c102748"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c102748.webp"
 ---
 
-# 露帕阿斗希尼寿恩
+# ルパート・キニスン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

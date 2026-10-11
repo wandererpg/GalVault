@@ -5,7 +5,10 @@ display_title: "藤村江利子"
 title_zh: "藤村江利子"
 title_ja: "藤村 江利子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c23004"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fujimura Eriko"
   - "藤村 江利子"

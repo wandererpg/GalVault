@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c163268"
 type: "character"
-display_title: "雅S帕RD"
-title_zh: "雅S帕RD"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Gaspard"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c163268"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Gaspard"
 source_ids:
   vndb: "c163268"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c163268.webp"
 ---
 
-# 雅S帕RD
+# Gaspard
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

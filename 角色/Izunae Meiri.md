@@ -5,7 +5,10 @@ display_title: "伊豆苗芽依理"
 title_zh: "伊豆苗芽依理"
 title_ja: "伊豆苗 芽依理"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c11446"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Izunae Meiri"
   - "伊豆苗 芽依理"

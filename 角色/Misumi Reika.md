@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125237"
 type: "character"
-display_title: "美住蕾伊加"
-title_zh: "美住蕾伊加"
+display_title: "美住 レイカ"
+title_zh: ""
 title_ja: "美住 レイカ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125237"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Misumi Reika"
-  - "美住 レイカ"
 source_ids:
   vndb: "c125237"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c125237.webp"
 ---
 
-# 美住蕾伊加
+# 美住 レイカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

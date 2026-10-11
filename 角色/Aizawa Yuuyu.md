@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c46120"
 type: "character"
-display_title: "爱泽优乌优"
-title_zh: "爱泽优乌优"
+display_title: "愛沢 ゆうゆ"
+title_zh: ""
 title_ja: "愛沢 ゆうゆ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c46120"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Aizawa Yuuyu"
-  - "愛沢 ゆうゆ"
 source_ids:
   vndb: "c46120"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c46120.webp"
 ---
 
-# 爱泽优乌优
+# 愛沢 ゆうゆ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

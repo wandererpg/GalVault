@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126336"
 type: "character"
-display_title: "久伊伊音露芙"
-title_zh: "久伊伊音露芙"
+display_title: "クィーンエルフ"
+title_zh: ""
 title_ja: "クィーンエルフ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126336"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Queen Elf"
-  - "クィーンエルフ"
   - "Freya"
 source_ids:
   vndb: "c126336"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c126336.webp"
 ---
 
-# 久伊伊音露芙
+# クィーンエルフ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c104169"
 type: "character"
-display_title: "奈K久修太伊恩"
-title_zh: "奈K久修太伊恩"
+display_title: "ナック・シュタイン"
+title_zh: ""
 title_ja: "ナック・シュタイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c104169"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nac Stein"
-  - "ナック・シュタイン"
 source_ids:
   vndb: "c104169"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c104169.webp"
 ---
 
-# 奈K久修太伊恩
+# ナック・シュタイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

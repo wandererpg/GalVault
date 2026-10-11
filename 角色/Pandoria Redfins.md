@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c152910"
 type: "character"
-display_title: "帕恩堂莉阿·蕾DF伊恩S"
-title_zh: "帕恩堂莉阿·蕾DF伊恩S"
+display_title: "판도리아 레드핀즈"
+title_zh: ""
 title_ja: "판도리아 레드핀즈"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c152910"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Pandoria Redfins"
-  - "판도리아 레드핀즈"
   - "Pandy"
   - "パニ"
   - "Pani"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c152910.webp"
 ---
 
-# 帕恩堂莉阿·蕾DF伊恩S
+# 판도리아 레드핀즈
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

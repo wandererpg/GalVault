@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c152842"
 type: "character"
-display_title: "V惠诗音寿"
-title_zh: "V惠诗音寿"
+display_title: "ヴェシネス"
+title_zh: ""
 title_ja: "ヴェシネス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c152842"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "V'ehxness"
-  - "ヴェシネス"
   - "Dictator"
   - "Little Black Riding Hood"
   - "Paragon of Hope"
@@ -21,7 +23,7 @@ source_urls:
 portrait_image: "assets/characters/c152842.webp"
 ---
 
-# V惠诗音寿
+# ヴェシネス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

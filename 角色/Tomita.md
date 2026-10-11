@@ -5,7 +5,10 @@ display_title: "富田"
 title_zh: "富田"
 title_ja: "富田"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c78857"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tomita"
   - "Manager"

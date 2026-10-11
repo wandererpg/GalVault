@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c7053"
 type: "character"
-display_title: "奥奥吉惠F奥恩雅巴露D伊"
-title_zh: "奥奥吉惠F奥恩雅巴露D伊"
+display_title: "オージェ・フォン・ガバルディ"
+title_zh: ""
 title_ja: "オージェ・フォン・ガバルディ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c7053"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Auger von Garibaldi"
-  - "オージェ・フォン・ガバルディ"
 source_ids:
   vndb: "c7053"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c7053.webp"
 ---
 
-# 奥奥吉惠F奥恩雅巴露D伊
+# オージェ・フォン・ガバルディ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

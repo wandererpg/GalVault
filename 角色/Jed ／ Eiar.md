@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c56350"
 type: "character"
-display_title: "吉惠堂·/·惠阿露"
-title_zh: "吉惠堂·/·惠阿露"
+display_title: "ジェド / エアル"
+title_zh: ""
 title_ja: "ジェド / エアル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56350"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jed / Eiar"
-  - "ジェド / エアル"
 source_ids:
   vndb: "c56350"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c56350.webp"
 ---
 
-# 吉惠堂·/·惠阿露
+# ジェド / エアル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

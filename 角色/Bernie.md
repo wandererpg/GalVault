@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c129271"
 type: "character"
-display_title: "贝R尼惠"
-title_zh: "贝R尼惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Bernie"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c129271"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Bernie"
   - "Burnish"
 source_ids:
   vndb: "c129271"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c129271.webp"
 ---
 
-# 贝R尼惠
+# Bernie
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

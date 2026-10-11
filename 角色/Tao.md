@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c156696"
 type: "character"
-display_title: "太奥"
-title_zh: "太奥"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Tao"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c156696"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Tao"
 source_ids:
   vndb: "c156696"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c156696.webp"
 ---
 
-# 太奥
+# Tao
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

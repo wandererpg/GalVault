@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61337"
 type: "character"
-display_title: "真K希恩莉伊"
-title_zh: "真K希恩莉伊"
+display_title: "マッキンリー"
+title_zh: ""
 title_ja: "マッキンリー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61337"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "McKinley"
-  - "マッキンリー"
   - "Мак-Кинли"
 source_ids:
   vndb: "c61337"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c61337.webp"
 ---
 
-# 真K希恩莉伊
+# マッキンリー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

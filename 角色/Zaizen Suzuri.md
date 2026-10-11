@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c27538"
 type: "character"
-display_title: "财前寿兹莉"
-title_zh: "财前寿兹莉"
+display_title: "財前 すずり"
+title_zh: ""
 title_ja: "財前 すずり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c27538"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Zaizen Suzuri"
-  - "財前 すずり"
 source_ids:
   vndb: "c27538"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c27538.webp"
 ---
 
-# 财前寿兹莉
+# 財前 すずり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

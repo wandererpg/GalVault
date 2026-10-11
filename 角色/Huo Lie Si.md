@@ -5,7 +5,10 @@ display_title: "霍列斯"
 title_zh: "霍列斯"
 title_ja: "霍列斯"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c98146"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Huo Lie Si"
   - "Holles"

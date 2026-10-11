@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10554"
 type: "character"
-display_title: "惠莉扎寿蕾伊恩"
-title_zh: "惠莉扎寿蕾伊恩"
+display_title: "エリザスレイン"
+title_zh: ""
 title_ja: "エリザスレイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10554"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Elizasleyn"
-  - "エリザスレイン"
   - "Elizasrain"
 source_ids:
   vndb: "c10554"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c10554.webp"
 ---
 
-# 惠莉扎寿蕾伊恩
+# エリザスレイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

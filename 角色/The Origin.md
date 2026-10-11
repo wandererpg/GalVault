@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c57674"
 type: "character"
-display_title: "原初乃接触者"
-title_zh: "原初乃接触者"
+display_title: "原初の接触者"
+title_zh: ""
 title_ja: "原初の接触者"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c57674"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "The Origin"
-  - "原初の接触者"
   - "Master Unit: Amaterasu"
 source_ids:
   vndb: "c57674"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c57674.webp"
 ---
 
-# 原初乃接触者
+# 原初の接触者
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

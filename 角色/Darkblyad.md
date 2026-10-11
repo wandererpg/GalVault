@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c132211"
 type: "character"
-display_title: "达RKBL雅D"
-title_zh: "达RKBL雅D"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Darkblyad"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132211"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Darkblyad"
 source_ids:
   vndb: "c132211"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c132211.webp"
 ---
 
-# 达RKBL雅D
+# Darkblyad
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "鸣海兎亚"
 title_zh: "鸣海兎亚"
 title_ja: "鳴海 兎亜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c34928"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Narumi Toa"
   - "鳴海 兎亜"

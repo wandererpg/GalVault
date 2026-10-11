@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c33296"
 type: "character"
-display_title: "奥露F阿恩扎伊露乌堂"
-title_zh: "奥露F阿恩扎伊露乌堂"
+display_title: "オルファン・ザイルード"
+title_zh: ""
 title_ja: "オルファン・ザイルード"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33296"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Olfan Zairud"
-  - "オルファン・ザイルード"
 source_ids:
   vndb: "c33296"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c33296.webp"
 ---
 
-# 奥露F阿恩扎伊露乌堂
+# オルファン・ザイルード
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "笹仓未来"
 title_zh: "笹仓未来"
 title_ja: "笹倉 未来"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14749"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sasakura Mirai"
   - "笹倉 未来"

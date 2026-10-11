@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c33672"
 type: "character"
-display_title: "巴惠R·BTT音R"
-title_zh: "巴惠R·BTT音R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Baker Büttner"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33672"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Baker Büttner"
 source_ids:
   vndb: "c33672"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c33672.webp"
 ---
 
-# 巴惠R·BTT音R
+# Baker Büttner
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

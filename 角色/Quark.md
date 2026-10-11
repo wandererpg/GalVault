@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17619"
 type: "character"
-display_title: "久奥奥久"
-title_zh: "久奥奥久"
+display_title: "クォーク"
+title_zh: ""
 title_ja: "クォーク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17619"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Quark"
-  - "クォーク"
   - "Quirk"
 source_ids:
   vndb: "c17619"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c17619.webp"
 ---
 
-# 久奥奥久
+# クォーク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

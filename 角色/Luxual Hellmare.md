@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c95721"
 type: "character"
-display_title: "拉古朱阿露惠露真阿蕾"
-title_zh: "拉古朱阿露惠露真阿蕾"
+display_title: "ラグジュアル・ヘルマーレ"
+title_zh: ""
 title_ja: "ラグジュアル・ヘルマーレ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c95721"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Luxual Hellmare"
-  - "ラグジュアル・ヘルマーレ"
   - "ラグ"
   - "Lux"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c95721.webp"
 ---
 
-# 拉古朱阿露惠露真阿蕾
+# ラグジュアル・ヘルマーレ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

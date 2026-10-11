@@ -5,7 +5,10 @@ display_title: "北见聪子"
 title_zh: "北见聪子"
 title_ja: "北見 聡子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c64879"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kitami Satoko"
   - "北見 聡子"

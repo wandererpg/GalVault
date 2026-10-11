@@ -5,7 +5,10 @@ display_title: "小金井球纪"
 title_zh: "小金井球纪"
 title_ja: "小金井 球紀"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c44371"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Koganei Tamaki"
   - "小金井 球紀"

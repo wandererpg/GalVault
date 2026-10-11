@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c1593"
 type: "character"
-display_title: "宫村美雅子"
-title_zh: "宫村美雅子"
+display_title: "宮村 みやこ"
+title_zh: ""
 title_ja: "宮村 みやこ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c1593"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Miyamura Miyako"
-  - "宮村 みやこ"
   - "みやみや"
   - "Miyamiya"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c1593.webp"
 ---
 
-# 宫村美雅子
+# 宮村 みやこ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c96984"
 type: "character"
-display_title: "加寿美K.香澄"
-title_zh: "加寿美K.香澄"
+display_title: "カスミ K. 香澄"
+title_zh: ""
 title_ja: "カスミ K. 香澄"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c96984"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kasumi K. Kasumi"
-  - "カスミ K. 香澄"
 source_ids:
   vndb: "c96984"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c96984.webp"
 ---
 
-# 加寿美K.香澄
+# カスミ K. 香澄
 
 
 ## 角色画像

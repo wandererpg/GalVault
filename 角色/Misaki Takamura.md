@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c165275"
 type: "character"
-display_title: "美沙希·太加梦拉"
-title_zh: "美沙希·太加梦拉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Misaki Takamura"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c165275"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Misaki Takamura"
   - "Miss Takamura"
 source_ids:
   vndb: "c165275"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c165275.webp"
 ---
 
-# 美沙希·太加梦拉
+# Misaki Takamura
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

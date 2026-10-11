@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c128708"
 type: "character"
-display_title: "阿伊阿恩洛伊津"
-title_zh: "阿伊阿恩洛伊津"
+display_title: "アイアン・ロイツ"
+title_zh: ""
 title_ja: "アイアン・ロイツ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c128708"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Iron Roitz"
-  - "アイアン・ロイツ"
   - "アイン"
   - "Ein"
 source_ids:
@@ -17,7 +19,7 @@ source_urls:
   vndb: "https://vndb.org/c128708"
 ---
 
-# 阿伊阿恩洛伊津
+# アイアン・ロイツ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

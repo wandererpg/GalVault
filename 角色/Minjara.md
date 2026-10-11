@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c92512"
 type: "character"
-display_title: "美恩嘉拉"
-title_zh: "美恩嘉拉"
+display_title: "ミンジャラ"
+title_zh: ""
 title_ja: "ミンジャラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92512"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Minjara"
-  - "ミンジャラ"
 source_ids:
   vndb: "c92512"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c92512.webp"
 ---
 
-# 美恩嘉拉
+# ミンジャラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

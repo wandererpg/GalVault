@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c33683"
 type: "character"
-display_title: "加RL·古S太V·V奥恩·SCHL惠CH特恩T羽L"
-title_zh: "加RL·古S太V·V奥恩·SCHL惠CH特恩T羽L"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Karl-Gustav von Schlechtenthal"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33683"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Karl-Gustav von Schlechtenthal"
 source_ids:
   vndb: "c33683"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c33683.webp"
 ---
 
-# 加RL·古S太V·V奥恩·SCHL惠CH特恩T羽L
+# Karl-Gustav von Schlechtenthal
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

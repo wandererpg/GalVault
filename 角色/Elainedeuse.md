@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c111166"
 type: "character"
-display_title: "惠蕾伊恩堂乌乌寿"
-title_zh: "惠蕾伊恩堂乌乌寿"
+display_title: "エレインドゥース"
+title_zh: ""
 title_ja: "エレインドゥース"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c111166"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Elainedeuse"
-  - "エレインドゥース"
   - "エレイン"
   - "Elaine"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c111166.webp"
 ---
 
-# 惠蕾伊恩堂乌乌寿
+# エレインドゥース
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

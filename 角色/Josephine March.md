@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c11831"
 type: "character"
-display_title: "乔濑F伊恩真阿千"
-title_zh: "乔濑F伊恩真阿千"
+display_title: "ジョセフィン・マーチ"
+title_zh: ""
 title_ja: "ジョセフィン・マーチ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c11831"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Josephine March"
-  - "ジョセフィン・マーチ"
   - "Jo"
 source_ids:
   vndb: "c11831"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c11831.webp"
 ---
 
-# 乔濑F伊恩真阿千
+# ジョセフィン・マーチ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

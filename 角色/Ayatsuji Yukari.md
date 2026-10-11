@@ -5,7 +5,10 @@ display_title: "绚辻缘"
 title_zh: "绚辻缘"
 title_ja: "絢辻 縁"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c141160"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ayatsuji Yukari"
   - "絢辻 縁"

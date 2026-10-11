@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c165214"
 type: "character"
-display_title: "嘉CK·FL惠TC惠R"
-title_zh: "嘉CK·FL惠TC惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jack Fletcher"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c165214"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jack Fletcher"
 source_ids:
   vndb: "c165214"
 source_urls:
   vndb: "https://vndb.org/c165214"
 ---
 
-# 嘉CK·FL惠TC惠R
+# Jack Fletcher
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

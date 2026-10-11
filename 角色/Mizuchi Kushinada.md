@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c78566"
 type: "character"
-display_title: "瑞治＝久诗奈达"
-title_zh: "瑞治＝久诗奈达"
+display_title: "瑞治＝クシナダ"
+title_zh: ""
 title_ja: "瑞治＝クシナダ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c78566"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mizuchi Kushinada"
-  - "瑞治＝クシナダ"
 source_ids:
   vndb: "c78566"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c78566.webp"
 ---
 
-# 瑞治＝久诗奈达
+# 瑞治＝クシナダ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

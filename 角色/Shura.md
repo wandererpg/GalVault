@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c20240"
 type: "character"
-display_title: "修拉"
-title_zh: "修拉"
+display_title: "シュラ"
+title_zh: ""
 title_ja: "シュラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c20240"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shura"
-  - "シュラ"
 source_ids:
   vndb: "c20240"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c20240.webp"
 ---
 
-# 修拉
+# シュラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

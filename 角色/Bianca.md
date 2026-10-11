@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c137173"
 type: "character"
-display_title: "比阿恩C阿"
-title_zh: "比阿恩C阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Bianca"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c137173"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Bianca"
   - "Bi"
   - "Aunt Bianca"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c137173.webp"
 ---
 
-# 比阿恩C阿
+# Bianca
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

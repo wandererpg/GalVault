@@ -5,7 +5,10 @@ display_title: "雪白东"
 title_zh: "雪白东"
 title_ja: "雪白 東"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c90186"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yukishiro Azuma"
   - "雪白 東"

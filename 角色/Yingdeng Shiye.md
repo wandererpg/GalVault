@@ -5,7 +5,10 @@ display_title: "影灯蚀夜"
 title_zh: "影灯蚀夜"
 title_ja: "影灯蚀夜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c135985"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yingdeng Shiye"
 source_ids:

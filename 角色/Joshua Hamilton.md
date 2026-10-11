@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c18247"
 type: "character"
-display_title: "乔修阿羽美露斗恩"
-title_zh: "乔修阿羽美露斗恩"
+display_title: "ジョシュア・ハミルトン"
+title_zh: ""
 title_ja: "ジョシュア・ハミルトン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c18247"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Joshua Hamilton"
-  - "ジョシュア・ハミルトン"
 source_ids:
   vndb: "c18247"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c18247.webp"
 ---
 
-# 乔修阿羽美露斗恩
+# ジョシュア・ハミルトン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

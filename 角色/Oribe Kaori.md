@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87375"
 type: "character"
-display_title: "织部香织"
-title_zh: "织部香织"
+display_title: "織部 かおり"
+title_zh: ""
 title_ja: "織部 かおり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87375"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Oribe Kaori"
-  - "織部 かおり"
   - "Old Hag"
   - "ババア"
   - "Babaa"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c87375.webp"
 ---
 
-# 织部香织
+# 織部 かおり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

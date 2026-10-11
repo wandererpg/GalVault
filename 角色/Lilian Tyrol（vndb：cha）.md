@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c85004"
 type: "character"
-display_title: "莉莉阿恩千洛露"
-title_zh: "莉莉阿恩千洛露"
+display_title: "リリアン・チロル"
+title_zh: ""
 title_ja: "リリアン・チロル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85004"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lilian Tyrol"
-  - "リリアン・チロル"
   - "Lillian"
 source_ids:
   vndb: "c85004"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c85004.webp"
 ---
 
-# 莉莉阿恩千洛露
+# リリアン・チロル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

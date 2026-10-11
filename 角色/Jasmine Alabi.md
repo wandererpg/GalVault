@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c103088"
 type: "character"
-display_title: "嘉S美音·阿L阿比"
-title_zh: "嘉S美音·阿L阿比"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jasmine Alabi"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103088"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jasmine Alabi"
 source_ids:
   vndb: "c103088"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c103088.webp"
 ---
 
-# 嘉S美音·阿L阿比
+# Jasmine Alabi
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

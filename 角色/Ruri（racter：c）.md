@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c83863"
 type: "character"
-display_title: "露莉"
-title_zh: "露莉"
+display_title: "ルリ"
+title_zh: ""
 title_ja: "ルリ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c83863"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ruri"
-  - "ルリ"
   - "Carousel Girl"
 source_ids:
   vndb: "c83863"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c83863.webp"
 ---
 
-# 露莉
+# ルリ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c143337"
 type: "character"
-display_title: "沙希·奈津芽"
-title_zh: "沙希·奈津芽"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Saki Natsume"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c143337"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Saki Natsume"
 source_ids:
   vndb: "c143337"
 source_urls:
   vndb: "https://vndb.org/c143337"
 ---
 
-# 沙希·奈津芽
+# Saki Natsume
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c140130"
 type: "character"
-display_title: "音伊L·美LL惠R"
-title_zh: "音伊L·美LL惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Neil Miller"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c140130"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Neil Miller"
   - "Dad"
 source_ids:
   vndb: "c140130"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c140130.webp"
 ---
 
-# 音伊L·美LL惠R
+# Neil Miller
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

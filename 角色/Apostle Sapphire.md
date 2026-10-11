@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c37025"
 type: "character"
-display_title: "使徒沙F阿伊阿"
-title_zh: "使徒沙F阿伊阿"
+display_title: "使徒 サファイア"
+title_zh: ""
 title_ja: "使徒 サファイア"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37025"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Apostle Sapphire"
-  - "使徒 サファイア"
   - "Nurse"
 source_ids:
   vndb: "c37025"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c37025.webp"
 ---
 
-# 使徒沙F阿伊阿
+# 使徒 サファイア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

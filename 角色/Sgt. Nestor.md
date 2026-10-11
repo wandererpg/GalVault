@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c141174"
 type: "character"
-display_title: "音寿太阿军曹"
-title_zh: "音寿太阿军曹"
+display_title: "ネスター軍曹"
+title_zh: ""
 title_ja: "ネスター軍曹"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141174"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sgt. Nestor"
-  - "ネスター軍曹"
 source_ids:
   vndb: "c141174"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c141174.webp"
 ---
 
-# 音寿太阿军曹
+# ネスター軍曹
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

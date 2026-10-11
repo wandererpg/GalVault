@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c57437"
 type: "character"
-display_title: "惠莉奥寿-α"
-title_zh: "惠莉奥寿-α"
+display_title: "ヘリオス-α"
+title_zh: ""
 title_ja: "ヘリオス-α"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c57437"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Helios Alpha"
-  - "ヘリオス-α"
   - "煌翼"
   - "Savior"
   - "救世主"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c57437.webp"
 ---
 
-# 惠莉奥寿-α
+# ヘリオス-α
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30815"
 type: "character"
-display_title: "御柱希莉斗"
-title_zh: "御柱希莉斗"
+display_title: "御柱 キリト"
+title_zh: ""
 title_ja: "御柱 キリト"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30815"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Onbashira Kirito"
-  - "御柱 キリト"
 source_ids:
   vndb: "c30815"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30815.webp"
 ---
 
-# 御柱希莉斗
+# 御柱 キリト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

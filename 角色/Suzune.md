@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c137448"
 type: "character"
-display_title: "寿兹音"
-title_zh: "寿兹音"
+display_title: "すず音"
+title_zh: ""
 title_ja: "すず音"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c137448"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Suzune"
-  - "すず音"
 source_ids:
   vndb: "c137448"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c137448.webp"
 ---
 
-# 寿兹音
+# すず音
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

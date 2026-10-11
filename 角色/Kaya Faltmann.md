@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c32431"
 type: "character"
-display_title: "加雅F阿露斗真恩"
-title_zh: "加雅F阿露斗真恩"
+display_title: "カヤ・ファルトマン"
+title_zh: ""
 title_ja: "カヤ・ファルトマン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c32431"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kaya Faltmann"
-  - "カヤ・ファルトマン"
   - "Kaja Vartmann"
 source_ids:
   vndb: "c32431"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c32431.webp"
 ---
 
-# 加雅F阿露斗真恩
+# カヤ・ファルトマン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

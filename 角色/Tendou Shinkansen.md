@@ -5,7 +5,10 @@ display_title: "天道新干线"
 title_zh: "天道新干线"
 title_ja: "天道 新幹線"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c30422"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tendou Shinkansen"
   - "天道 新幹線"

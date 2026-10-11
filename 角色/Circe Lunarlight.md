@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c163967"
 type: "character"
-display_title: "希露惠露奈―拉伊斗"
-title_zh: "希露惠露奈―拉伊斗"
+display_title: "キルケ・ルナ―ライト"
+title_zh: ""
 title_ja: "キルケ・ルナ―ライト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c163967"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Circe Lunarlight"
-  - "キルケ・ルナ―ライト"
 source_ids:
   vndb: "c163967"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c163967.webp"
 ---
 
-# 希露惠露奈―拉伊斗
+# キルケ・ルナ―ライト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

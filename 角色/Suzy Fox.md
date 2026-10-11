@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c124299"
 type: "character"
-display_title: "寿ZY·F奥X"
-title_zh: "寿ZY·F奥X"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Suzy Fox"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124299"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Suzy Fox"
 source_ids:
   vndb: "c124299"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c124299.webp"
 ---
 
-# 寿ZY·F奥X
+# Suzy Fox
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

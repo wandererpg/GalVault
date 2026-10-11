@@ -5,7 +5,10 @@ display_title: "泷川琴莉"
 title_zh: "泷川琴莉"
 title_ja: "滝川 琴莉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c22090"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takigawa Kotori"
   - "滝川 琴莉"

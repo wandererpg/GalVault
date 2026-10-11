@@ -5,7 +5,10 @@ display_title: "其扇晟寻"
 title_zh: "其扇晟寻"
 title_ja: "其扇 晟尋"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c87452"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sonogi Akihiro"
   - "其扇 晟尋"

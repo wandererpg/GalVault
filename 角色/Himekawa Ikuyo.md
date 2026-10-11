@@ -5,7 +5,10 @@ display_title: "姫川育代"
 title_zh: "姫川育代"
 title_ja: "姫川 育代"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c83991"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Himekawa Ikuyo"
   - "姫川 育代"

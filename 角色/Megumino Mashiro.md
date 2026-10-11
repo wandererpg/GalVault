@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8490"
 type: "character"
-display_title: "惠美野真诗洛"
-title_zh: "惠美野真诗洛"
+display_title: "恵美野 ましろ"
+title_zh: ""
 title_ja: "恵美野 ましろ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8490"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Megumino Mashiro"
-  - "恵美野 ましろ"
 source_ids:
   vndb: "c8490"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c8490.webp"
 ---
 
-# 惠美野真诗洛
+# 恵美野 ましろ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c84393"
 type: "character"
-display_title: "吉蕾泽露"
-title_zh: "吉蕾泽露"
+display_title: "ギレゼル"
+title_zh: ""
 title_ja: "ギレゼル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c84393"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gillezel"
-  - "ギレゼル"
 source_ids:
   vndb: "c84393"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c84393.webp"
 ---
 
-# 吉蕾泽露
+# ギレゼル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

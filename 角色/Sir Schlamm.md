@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c53894"
 type: "character"
-display_title: "修拉梦卿"
-title_zh: "修拉梦卿"
+display_title: "シュラム卿"
+title_zh: ""
 title_ja: "シュラム卿"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c53894"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sir Schlamm"
-  - "シュラム卿"
 source_ids:
   vndb: "c53894"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c53894.webp"
 ---
 
-# 修拉梦卿
+# シュラム卿
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

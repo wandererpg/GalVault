@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127193"
 type: "character"
-display_title: "和露拉乌音"
-title_zh: "和露拉乌音"
+display_title: "ワルラウネ"
+title_zh: ""
 title_ja: "ワルラウネ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127193"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Walraune"
-  - "ワルラウネ"
   - "Belladonna"
 source_ids:
   vndb: "c127193"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c127193.webp"
 ---
 
-# 和露拉乌音
+# ワルラウネ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

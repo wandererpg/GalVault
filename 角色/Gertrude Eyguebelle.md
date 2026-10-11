@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26065"
 type: "character"
-display_title: "雅阿斗露乌堂惠久贝露"
-title_zh: "雅阿斗露乌堂惠久贝露"
+display_title: "ガートルード・エキュベル"
+title_zh: ""
 title_ja: "ガートルード・エキュベル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26065"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gertrude Eyguebelle"
-  - "ガートルード・エキュベル"
 source_ids:
   vndb: "c26065"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c26065.webp"
 ---
 
-# 雅阿斗露乌堂惠久贝露
+# ガートルード・エキュベル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

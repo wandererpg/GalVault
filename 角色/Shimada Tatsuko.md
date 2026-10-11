@@ -5,7 +5,10 @@ display_title: "岛田辰子"
 title_zh: "岛田辰子"
 title_ja: "島田 辰子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c131949"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shimada Tatsuko"
   - "島田 辰子"

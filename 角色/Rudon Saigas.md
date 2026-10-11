@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c51871"
 type: "character"
-display_title: "露堂奥恩沙伊雅寿"
-title_zh: "露堂奥恩沙伊雅寿"
+display_title: "ルドーン・サイガス"
+title_zh: ""
 title_ja: "ルドーン・サイガス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c51871"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rudon Saigas"
-  - "ルドーン・サイガス"
 source_ids:
   vndb: "c51871"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c51871.webp"
 ---
 
-# 露堂奥恩沙伊雅寿
+# ルドーン・サイガス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

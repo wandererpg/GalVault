@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c55651"
 type: "character"
-display_title: "小不动优露吉"
-title_zh: "小不动优露吉"
+display_title: "小不動 ゆるぎ"
+title_zh: ""
 title_ja: "小不動 ゆるぎ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c55651"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Koyurugi Yurugi"
-  - "小不動 ゆるぎ"
 source_ids:
   vndb: "c55651"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c55651.webp"
 ---
 
-# 小不动优露吉
+# 小不動 ゆるぎ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

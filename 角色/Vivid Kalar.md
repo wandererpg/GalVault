@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c121206"
 type: "character"
-display_title: "比比D堂加拉阿"
-title_zh: "比比D堂加拉阿"
+display_title: "ビビッド・カラー"
+title_zh: ""
 title_ja: "ビビッド・カラー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c121206"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Vivid Kalar"
-  - "ビビッド・カラー"
 source_ids:
   vndb: "c121206"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c121206.webp"
 ---
 
-# 比比D堂加拉阿
+# ビビッド・カラー
 
 
 ## 角色画像

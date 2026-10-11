@@ -5,7 +5,10 @@ display_title: "泰特·伊文斯"
 title_zh: "泰特·伊文斯"
 title_ja: "泰特·伊文斯"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c103180"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tate Evans"
 source_ids:

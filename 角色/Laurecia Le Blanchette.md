@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c116245"
 type: "character"
-display_title: "洛奥蕾诗阿露布拉恩诗惠T斗"
-title_zh: "洛奥蕾诗阿露布拉恩诗惠T斗"
+display_title: "ローレシア・ル・ブランシェット"
+title_zh: ""
 title_ja: "ローレシア・ル・ブランシェット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116245"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Laurecia Le Blanchette"
-  - "ローレシア・ル・ブランシェット"
   - "Laure"
   - "ロレ"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c116245.webp"
 ---
 
-# 洛奥蕾诗阿露布拉恩诗惠T斗
+# ローレシア・ル・ブランシェット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

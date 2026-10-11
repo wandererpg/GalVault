@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c168364"
 type: "character"
-display_title: "夏阿洛T斗拉恩加寿太阿"
-title_zh: "夏阿洛T斗拉恩加寿太阿"
+display_title: "シャーロット・ランカスター"
+title_zh: ""
 title_ja: "シャーロット・ランカスター"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c168364"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Charlotte Lancaster"
-  - "シャーロット・ランカスター"
 source_ids:
   vndb: "c168364"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c168364.webp"
 ---
 
-# 夏阿洛T斗拉恩加寿太阿
+# シャーロット・ランカスター
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

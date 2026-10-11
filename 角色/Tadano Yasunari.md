@@ -5,7 +5,10 @@ display_title: "只埜康成"
 title_zh: "只埜康成"
 title_ja: "只埜 康成"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c70432"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tadano Yasunari"
   - "只埜 康成"

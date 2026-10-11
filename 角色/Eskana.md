@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c28021"
 type: "character"
-display_title: "惠寿加阿奈"
-title_zh: "惠寿加阿奈"
+display_title: "エスカーナ"
+title_zh: ""
 title_ja: "エスカーナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c28021"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Eskana"
-  - "エスカーナ"
 source_ids:
   vndb: "c28021"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c28021.webp"
 ---
 
-# 惠寿加阿奈
+# エスカーナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

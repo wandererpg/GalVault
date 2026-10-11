@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c1790"
 type: "character"
-display_title: "皆元露伊"
-title_zh: "皆元露伊"
+display_title: "皆元 るい"
+title_zh: ""
 title_ja: "皆元 るい"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c1790"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Minamoto Rui"
-  - "皆元 るい"
 source_ids:
   vndb: "c1790"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c1790.webp"
 ---
 
-# 皆元露伊
+# 皆元 るい
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

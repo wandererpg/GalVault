@@ -5,7 +5,10 @@ display_title: "牛尾朱美"
 title_zh: "牛尾朱美"
 title_ja: "牛尾 朱美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c143907"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ushio Akemi"
   - "牛尾 朱美"

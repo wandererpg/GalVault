@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c32664"
 type: "character"
-display_title: "古T千伊"
-title_zh: "古T千伊"
+display_title: "グッチィ"
+title_zh: ""
 title_ja: "グッチィ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c32664"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gucchi"
-  - "グッチィ"
 source_ids:
   vndb: "c32664"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c32664.webp"
 ---
 
-# 古T千伊
+# グッチィ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

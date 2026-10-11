@@ -5,7 +5,10 @@ display_title: "周瑜公瑾"
 title_zh: "周瑜公瑾"
 title_ja: "周瑜 公瑾"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c63355"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shuuyu Koukin"
   - "周瑜 公瑾"

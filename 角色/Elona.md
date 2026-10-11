@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c172828"
 type: "character"
-display_title: "惠洛奥"
-title_zh: "惠洛奥"
+display_title: "エロー"
+title_zh: ""
 title_ja: "エロー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c172828"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Elona"
-  - "エロー"
 source_ids:
   vndb: "c172828"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c172828.webp"
 ---
 
-# 惠洛奥
+# エロー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

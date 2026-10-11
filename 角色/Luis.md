@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c138171"
 type: "character"
-display_title: "露伊寿"
-title_zh: "露伊寿"
+display_title: "ルイス"
+title_zh: ""
 title_ja: "ルイス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138171"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Luis"
-  - "ルイス"
 source_ids:
   vndb: "c138171"
 source_urls:
   vndb: "https://vndb.org/c138171"
 ---
 
-# 露伊寿
+# ルイス
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

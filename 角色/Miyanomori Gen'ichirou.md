@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39286"
 type: "character"
-display_title: "宫乃杜玄一郎"
-title_zh: "宫乃杜玄一郎"
+display_title: "宮ノ杜 玄一郎"
+title_zh: ""
 title_ja: "宮ノ杜 玄一郎"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39286"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Miyanomori Gen'ichirou"
-  - "宮ノ杜 玄一郎"
 source_ids:
   vndb: "c39286"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c39286.webp"
 ---
 
-# 宫乃杜玄一郎
+# 宮ノ杜 玄一郎
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

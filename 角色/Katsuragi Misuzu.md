@@ -5,7 +5,10 @@ display_title: "桂木美铃"
 title_zh: "桂木美铃"
 title_ja: "桂木 美鈴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c97340"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Katsuragi Misuzu"
   - "桂木 美鈴"

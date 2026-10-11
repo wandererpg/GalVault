@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c173634"
 type: "character"
-display_title: "达美阿恩"
-title_zh: "达美阿恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Damian"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c173634"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Damian"
 source_ids:
   vndb: "c173634"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c173634.webp"
 ---
 
-# 达美阿恩
+# Damian
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

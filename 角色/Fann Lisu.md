@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c157514"
 type: "character"
-display_title: "F阿恩莉修"
-title_zh: "F阿恩莉修"
+display_title: "ファン・リシュ"
+title_zh: ""
 title_ja: "ファン・リシュ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c157514"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Fann Lisu"
-  - "ファン・リシュ"
 source_ids:
   vndb: "c157514"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c157514.webp"
 ---
 
-# F阿恩莉修
+# ファン・リシュ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

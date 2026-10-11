@@ -5,7 +5,10 @@ display_title: "柑子誉"
 title_zh: "柑子誉"
 title_ja: "柑子 誉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c97598"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kanji Homare"
   - "柑子 誉"

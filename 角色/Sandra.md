@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c102613"
 type: "character"
-display_title: "沙恩D拉"
-title_zh: "沙恩D拉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Sandra"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c102613"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Sandra"
 source_ids:
   vndb: "c102613"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c102613.webp"
 ---
 
-# 沙恩D拉
+# Sandra
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

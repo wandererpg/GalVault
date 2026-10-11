@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c78195"
 type: "character"
-display_title: "拉V乌久拉芙斗"
-title_zh: "拉V乌久拉芙斗"
+display_title: "ラヴクラフト"
+title_zh: ""
 title_ja: "ラヴクラフト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c78195"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lovecraft"
-  - "ラヴクラフト"
   - "ハワード・フィリップス・ラヴクラフト"
   - "Howard Phillips Lovecraft"
   - "ラヴィ"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c78195.webp"
 ---
 
-# 拉V乌久拉芙斗
+# ラヴクラフト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

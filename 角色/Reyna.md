@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c165884"
 type: "character"
-display_title: "蕾Y奈"
-title_zh: "蕾Y奈"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Reyna"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c165884"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Reyna"
 source_ids:
   vndb: "c165884"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c165884.webp"
 ---
 
-# 蕾Y奈
+# Reyna
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

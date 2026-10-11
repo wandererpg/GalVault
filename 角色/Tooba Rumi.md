@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c99127"
 type: "character"
-display_title: "冬叶露美"
-title_zh: "冬叶露美"
+display_title: "冬葉ルミ"
+title_zh: ""
 title_ja: "冬葉ルミ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c99127"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tooba Rumi"
-  - "冬葉ルミ"
   - "Tohba Rumi"
 source_ids:
   vndb: "c99127"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c99127.webp"
 ---
 
-# 冬叶露美
+# 冬葉ルミ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

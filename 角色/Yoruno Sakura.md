@@ -5,7 +5,10 @@ display_title: "夜乃樱"
 title_zh: "夜乃樱"
 title_ja: "夜乃 桜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c161702"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yoruno Sakura"
   - "夜乃 桜"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c83949"
 type: "character"
-display_title: "巴洛K久·巴恩吉伊久寿"
-title_zh: "巴洛K久·巴恩吉伊久寿"
+display_title: "バロック・ バンジークス"
+title_zh: ""
 title_ja: "バロック・ バンジークス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c83949"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Barok van Zieks"
-  - "バロック・ バンジークス"
 source_ids:
   vndb: "c83949"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c83949.webp"
 ---
 
-# 巴洛K久·巴恩吉伊久寿
+# バロック・ バンジークス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

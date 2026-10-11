@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c1179"
 type: "character"
-display_title: "布拉扎阿恰佩K久"
-title_zh: "布拉扎阿恰佩K久"
+display_title: "ブラザー・チャペック"
+title_zh: ""
 title_ja: "ブラザー・チャペック"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c1179"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Brother Capek"
-  - "ブラザー・チャペック"
 source_ids:
   vndb: "c1179"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c1179.webp"
 ---
 
-# 布拉扎阿恰佩K久
+# ブラザー・チャペック
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c78565"
 type: "character"
-display_title: "优莉阿恩＝惠莉伊诗寿"
-title_zh: "优莉阿恩＝惠莉伊诗寿"
+display_title: "ユリアン＝エリーシス"
+title_zh: ""
 title_ja: "ユリアン＝エリーシス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c78565"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Julian Elysis"
-  - "ユリアン＝エリーシス"
 source_ids:
   vndb: "c78565"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c78565.webp"
 ---
 
-# 优莉阿恩＝惠莉伊诗寿
+# ユリアン＝エリーシス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

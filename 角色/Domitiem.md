@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c111181"
 type: "character"
-display_title: "堂美特伊惠梦"
-title_zh: "堂美特伊惠梦"
+display_title: "ドミティエム"
+title_zh: ""
 title_ja: "ドミティエム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c111181"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Domitiem"
-  - "ドミティエム"
 source_ids:
   vndb: "c111181"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c111181.webp"
 ---
 
-# 堂美特伊惠梦
+# ドミティエム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

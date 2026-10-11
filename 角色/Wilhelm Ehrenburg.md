@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c28990"
 type: "character"
-display_title: "V伊露惠露梦惠惠蕾恩布露古"
-title_zh: "V伊露惠露梦惠惠蕾恩布露古"
+display_title: "ヴィルヘルム・エーレンブルグ"
+title_zh: ""
 title_ja: "ヴィルヘルム・エーレンブルグ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c28990"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Wilhelm Ehrenburg"
-  - "ヴィルヘルム・エーレンブルグ"
   - "Kazıklı Bey"
   - "Kaziklu Bey"
   - "串刺し公"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c28990.webp"
 ---
 
-# V伊露惠露梦惠惠蕾恩布露古
+# ヴィルヘルム・エーレンブルグ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

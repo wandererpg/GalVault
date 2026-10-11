@@ -5,7 +5,10 @@ display_title: "鹫崎阳香"
 title_zh: "鹫崎阳香"
 title_ja: "鷲崎 陽香"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c128456"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Washizaki Haruka"
   - "鷲崎 陽香"

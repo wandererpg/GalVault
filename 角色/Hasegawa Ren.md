@@ -5,7 +5,10 @@ display_title: "长谷川恋"
 title_zh: "长谷川恋"
 title_ja: "長谷川 恋"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16797"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hasegawa Ren"
   - "長谷川 恋"

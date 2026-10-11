@@ -5,7 +5,10 @@ display_title: "鹭原左京"
 title_zh: "鹭原左京"
 title_ja: "鷺原 左京"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c26427"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sagihara Sakyou"
   - "鷺原 左京"

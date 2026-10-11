@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c131623"
 type: "character"
-display_title: "尼CK·贝恩Z"
-title_zh: "尼CK·贝恩Z"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Nick Benz"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c131623"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Nick Benz"
 source_ids:
   vndb: "c131623"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c131623.webp"
 ---
 
-# 尼CK·贝恩Z
+# Nick Benz
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17103"
 type: "character"
-display_title: "露乌朱"
-title_zh: "露乌朱"
+display_title: "ルージュ"
+title_zh: ""
 title_ja: "ルージュ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17103"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rouge"
-  - "ルージュ"
 source_ids:
   vndb: "c17103"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c17103.webp"
 ---
 
-# 露乌朱
+# ルージュ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "斋栞"
 title_zh: "斋栞"
 title_ja: "斎 栞"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c36961"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Itsuki Shiori"
   - "斎 栞"

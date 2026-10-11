@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c53698"
 type: "character"
-display_title: "寿伊伊斗久拉乌恩"
-title_zh: "寿伊伊斗久拉乌恩"
+display_title: "スイートクラウン"
+title_zh: ""
 title_ja: "スイートクラウン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c53698"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sweet Clown"
-  - "スイートクラウン"
 source_ids:
   vndb: "c53698"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c53698.webp"
 ---
 
-# 寿伊伊斗久拉乌恩
+# スイートクラウン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

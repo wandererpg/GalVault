@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127369"
 type: "character"
-display_title: "蕾贝K加子普莉"
-title_zh: "蕾贝K加子普莉"
+display_title: "レベッカ・コプリ"
+title_zh: ""
 title_ja: "レベッカ・コプリ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127369"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rebecca Copley"
-  - "レベッカ・コプリ"
   - "Rebecca Copri"
 source_ids:
   vndb: "c127369"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c127369.webp"
 ---
 
-# 蕾贝K加子普莉
+# レベッカ・コプリ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

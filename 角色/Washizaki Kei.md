@@ -5,7 +5,10 @@ display_title: "鹫崎慧"
 title_zh: "鹫崎慧"
 title_ja: "鷲崎 慧"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c128455"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Washizaki Kei"
   - "鷲崎 慧"

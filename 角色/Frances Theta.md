@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c157363"
 type: "character"
-display_title: "芙拉恩诗寿θ"
-title_zh: "芙拉恩诗寿θ"
+display_title: "フランシスθ"
+title_zh: ""
 title_ja: "フランシスθ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c157363"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Frances Theta"
-  - "フランシスθ"
   - "Fran"
   - "Frances"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c157363.webp"
 ---
 
-# 芙拉恩诗寿θ
+# フランシスθ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "哘雅乐乃"
 title_zh: "哘雅乐乃"
 title_ja: "哘 雅楽乃"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10769"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sasou Utano"
   - "哘 雅楽乃"

@@ -5,7 +5,10 @@ display_title: "唯井静"
 title_zh: "唯井静"
 title_ja: "唯井 静"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c69146"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ii Shizuka"
   - "唯井 静"

@@ -5,7 +5,10 @@ display_title: "田丰元皓"
 title_zh: "田丰元皓"
 title_ja: "田豊 元皓"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c62473"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Denhou Genkou"
   - "田豊 元皓"

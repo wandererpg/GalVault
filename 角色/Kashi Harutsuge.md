@@ -5,7 +5,10 @@ display_title: "㭴春告"
 title_zh: "㭴春告"
 title_ja: "樫 春告"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c947"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kashi Harutsuge"
   - "樫 春告"

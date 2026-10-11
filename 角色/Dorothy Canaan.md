@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125899"
 type: "character"
-display_title: "堂洛奥诗伊"
-title_zh: "堂洛奥诗伊"
+display_title: "ドローシー"
+title_zh: ""
 title_ja: "ドローシー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125899"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Dorothy Canaan"
-  - "ドローシー"
 source_ids:
   vndb: "c125899"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c125899.webp"
 ---
 
-# 堂洛奥诗伊
+# ドローシー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

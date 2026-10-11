@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c73595"
 type: "character"
-display_title: "加雅莉"
-title_zh: "加雅莉"
+display_title: "かがり"
+title_zh: ""
 title_ja: "かがり"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c73595"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kagari"
-  - "かがり"
   - "椎名 かがり"
   - "Shiina Kagari"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c73595.webp"
 ---
 
-# 加雅莉
+# かがり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

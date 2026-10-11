@@ -5,7 +5,10 @@ display_title: "龙峰"
 title_zh: "龙峰"
 title_ja: "竜峰"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16603"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ryuuhou"
   - "竜峰"

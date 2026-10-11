@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8383"
 type: "character"
-display_title: "索波久"
-title_zh: "索波久"
+display_title: "ソポク"
+title_zh: ""
 title_ja: "ソポク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8383"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sopoku"
-  - "ソポク"
 source_ids:
   vndb: "c8383"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c8383.webp"
 ---
 
-# 索波久
+# ソポク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

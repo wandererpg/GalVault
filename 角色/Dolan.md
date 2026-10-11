@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c170928"
 type: "character"
-display_title: "堂奥拉恩"
-title_zh: "堂奥拉恩"
+display_title: "ドーラン"
+title_zh: ""
 title_ja: "ドーラン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c170928"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Dolan"
-  - "ドーラン"
 source_ids:
   vndb: "c170928"
 source_urls:
   vndb: "https://vndb.org/c170928"
 ---
 
-# 堂奥拉恩
+# ドーラン
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

@@ -5,7 +5,10 @@ display_title: "渡良濑恭平"
 title_zh: "渡良濑恭平"
 title_ja: "渡良瀬 恭平"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c59183"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Watarase Kyouhei"
   - "渡良瀬 恭平"

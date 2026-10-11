@@ -5,7 +5,10 @@ display_title: "鸟谷纱希"
 title_zh: "鸟谷纱希"
 title_ja: "鳥谷 紗希"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c55040"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Toritani Saki"
   - "鳥谷 紗希"

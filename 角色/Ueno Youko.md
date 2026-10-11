@@ -5,7 +5,10 @@ display_title: "上野阳子"
 title_zh: "上野阳子"
 title_ja: "上野 陽子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c30256"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ueno Youko"
   - "上野 陽子"

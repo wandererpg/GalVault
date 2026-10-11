@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c52704"
 type: "character"
-display_title: "莉K久阿D伊寿恩"
-title_zh: "莉K久阿D伊寿恩"
+display_title: "リック・アディスン"
+title_zh: ""
 title_ja: "リック・アディスン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c52704"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rick Addison"
-  - "リック・アディスン"
   - "Red Death of Leazas, Red Reaper of Leazas"
 source_ids:
   vndb: "c52704"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c52704.webp"
 ---
 
-# 莉K久阿D伊寿恩
+# リック・アディスン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

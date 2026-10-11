@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c49921"
 type: "character"
-display_title: "小鸟游真莉"
-title_zh: "小鸟游真莉"
+display_title: "小鳥遊 マリ"
+title_zh: ""
 title_ja: "小鳥遊 マリ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c49921"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Takanashi Mari"
-  - "小鳥遊 マリ"
 source_ids:
   vndb: "c49921"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c49921.webp"
 ---
 
-# 小鸟游真莉
+# 小鳥遊 マリ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

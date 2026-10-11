@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c174114"
 type: "character"
-display_title: "C阿S沙恩D拉·W莉GHT"
-title_zh: "C阿S沙恩D拉·W莉GHT"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Cassandra Wright"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c174114"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Cassandra Wright"
   - "Cassie"
 source_ids:
   vndb: "c174114"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c174114.webp"
 ---
 
-# C阿S沙恩D拉·W莉GHT
+# Cassandra Wright
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

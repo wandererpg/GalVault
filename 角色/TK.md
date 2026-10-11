@@ -2,9 +2,12 @@
 entity_id: "vndb:character:c25334"
 type: "character"
 display_title: "TK"
-title_zh: "TK"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c25334"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Totally Crazy"
 source_ids:

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c88494"
 type: "character"
-display_title: "涩川伊千加"
-title_zh: "涩川伊千加"
+display_title: "渋川 いちか"
+title_zh: ""
 title_ja: "渋川 いちか"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c88494"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shibukawa Ichika"
-  - "渋川 いちか"
 source_ids:
   vndb: "c88494"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c88494.webp"
 ---
 
-# 涩川伊千加
+# 渋川 いちか
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

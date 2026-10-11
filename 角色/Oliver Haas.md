@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c67723"
 type: "character"
-display_title: "奥莉V阿阿羽阿寿"
-title_zh: "奥莉V阿阿羽阿寿"
+display_title: "オリヴァー・ハース"
+title_zh: ""
 title_ja: "オリヴァー・ハース"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c67723"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Oliver Haas"
-  - "オリヴァー・ハース"
 source_ids:
   vndb: "c67723"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c67723.webp"
 ---
 
-# 奥莉V阿阿羽阿寿
+# オリヴァー・ハース
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

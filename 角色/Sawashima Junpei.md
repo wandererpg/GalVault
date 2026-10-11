@@ -5,7 +5,10 @@ display_title: "泽嶋顺平"
 title_zh: "泽嶋顺平"
 title_ja: "澤嶋 順平"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c36514"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sawashima Junpei"
   - "澤嶋 順平"

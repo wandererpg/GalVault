@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c53692"
 type: "character"
-display_title: "真莉寿"
-title_zh: "真莉寿"
+display_title: "マリス"
+title_zh: ""
 title_ja: "マリス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c53692"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Maris"
-  - "マリス"
 source_ids:
   vndb: "c53692"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c53692.webp"
 ---
 
-# 真莉寿
+# マリス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

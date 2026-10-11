@@ -5,7 +5,10 @@ display_title: "帝堂雪华"
 title_zh: "帝堂雪华"
 title_ja: "帝堂 雪華"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c36325"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Teidou Setsuka"
   - "帝堂 雪華"

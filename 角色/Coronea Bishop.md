@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61311"
 type: "character"
-display_title: "子洛音阿比翔P普"
-title_zh: "子洛音阿比翔P普"
+display_title: "コロネア・ビショップ"
+title_zh: ""
 title_ja: "コロネア・ビショップ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61311"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Coronea Bishop"
-  - "コロネア・ビショップ"
   - "Коронея Бишоп"
 source_ids:
   vndb: "c61311"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c61311.webp"
 ---
 
-# 子洛音阿比翔P普
+# コロネア・ビショップ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

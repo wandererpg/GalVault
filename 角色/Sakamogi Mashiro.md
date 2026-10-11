@@ -5,7 +5,10 @@ display_title: "逆茂木真城"
 title_zh: "逆茂木真城"
 title_ja: "逆茂木 真城"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c136068"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakamogi Mashiro"
   - "逆茂木 真城"

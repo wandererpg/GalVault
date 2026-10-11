@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c76744"
 type: "character"
-display_title: "V阿德Y恩·美L伊洛濑"
-title_zh: "V阿德Y恩·美L伊洛濑"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Vadeyn Milirose"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c76744"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Vadeyn Milirose"
 source_ids:
   vndb: "c76744"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c76744.webp"
 ---
 
-# V阿德Y恩·美L伊洛濑
+# Vadeyn Milirose
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

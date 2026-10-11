@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c58877"
 type: "character"
-display_title: "春日卡莲"
-title_zh: "春日卡莲"
+display_title: "春日 かれん"
+title_zh: ""
 title_ja: "春日 かれん"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c58877"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kasuga Karen"
-  - "春日 かれん"
 source_ids:
   vndb: "c58877"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c58877.webp"
 ---
 
-# 春日卡莲
+# 春日 かれん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

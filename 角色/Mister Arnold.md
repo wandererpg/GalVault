@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c118537"
 type: "character"
-display_title: "美寿太阿·阿阿乃露堂"
-title_zh: "美寿太阿·阿阿乃露堂"
+display_title: "ミスター アーノルド"
+title_zh: ""
 title_ja: "ミスター アーノルド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c118537"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mister Arnold"
-  - "ミスター アーノルド"
 source_ids:
   vndb: "c118537"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c118537.webp"
 ---
 
-# 美寿太阿·阿阿乃露堂
+# ミスター アーノルド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

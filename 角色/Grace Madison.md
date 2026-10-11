@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c121988"
 type: "character"
-display_title: "格蕾丝·真D伊索恩"
-title_zh: "格蕾丝·真D伊索恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Grace Madison"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c121988"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Grace Madison"
   - "Ultimate Golfer"
 source_ids:
   vndb: "c121988"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c121988.webp"
 ---
 
-# 格蕾丝·真D伊索恩
+# Grace Madison
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

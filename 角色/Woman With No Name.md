@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8238"
 type: "character"
-display_title: "名前乃奈伊女"
-title_zh: "名前乃奈伊女"
+display_title: "名前のない女"
+title_zh: ""
 title_ja: "名前のない女"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8238"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Woman With No Name"
-  - "名前のない女"
   - "Jane Doe"
   - "Namae no Nai Onna"
   - "コールダー・ベンスン"
@@ -28,7 +30,7 @@ source_urls:
 portrait_image: "assets/characters/c8238.webp"
 ---
 
-# 名前乃奈伊女
+# 名前のない女
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

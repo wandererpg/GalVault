@@ -5,7 +5,10 @@ display_title: "本宫匡"
 title_zh: "本宫匡"
 title_ja: "本宮 匡"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c100948"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Motomiya Tasuku"
   - "本宮 匡"

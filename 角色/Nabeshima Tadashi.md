@@ -5,7 +5,10 @@ display_title: "锅岛正"
 title_zh: "锅岛正"
 title_ja: "鍋島 正"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9948"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nabeshima Tadashi"
   - "鍋島 正"

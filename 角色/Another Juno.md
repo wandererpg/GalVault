@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c41556"
 type: "character"
-display_title: "莫乌一人乃优乃"
-title_zh: "莫乌一人乃优乃"
+display_title: "もう一人のユノ"
+title_zh: ""
 title_ja: "もう一人のユノ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c41556"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Another Juno"
-  - "もう一人のユノ"
 source_ids:
   vndb: "c41556"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c41556.webp"
 ---
 
-# 莫乌一人乃优乃
+# もう一人のユノ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

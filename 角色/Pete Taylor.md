@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c140129"
 type: "character"
-display_title: "佩特·太YL奥R"
-title_zh: "佩特·太YL奥R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Pete Taylor"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c140129"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Pete Taylor"
 source_ids:
   vndb: "c140129"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c140129.webp"
 ---
 
-# 佩特·太YL奥R
+# Pete Taylor
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

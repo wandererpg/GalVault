@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c69749"
 type: "character"
-display_title: "妮娜·真R子V奈"
-title_zh: "妮娜·真R子V奈"
+display_title: "Нина Марковна"
+title_zh: ""
 title_ja: "Нина Марковна"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c69749"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nina Markovna"
-  - "Нина Марковна"
 source_ids:
   vndb: "c69749"
 source_urls:
   vndb: "https://vndb.org/c69749"
 ---
 
-# 妮娜·真R子V奈
+# Нина Марковна
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

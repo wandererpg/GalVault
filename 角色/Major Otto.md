@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61204"
 type: "character"
-display_title: "奥T斗奥少佐"
-title_zh: "奥T斗奥少佐"
+display_title: "オットー 少佐"
+title_zh: ""
 title_ja: "オットー 少佐"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61204"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Major Otto"
-  - "オットー 少佐"
   - "Майор Отто"
 source_ids:
   vndb: "c61204"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c61204.webp"
 ---
 
-# 奥T斗奥少佐
+# オットー 少佐
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

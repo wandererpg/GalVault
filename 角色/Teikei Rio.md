@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c41969"
 type: "character"
-display_title: "帝萤莉奥"
-title_zh: "帝萤莉奥"
+display_title: "帝螢 リオ"
+title_zh: ""
 title_ja: "帝螢 リオ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c41969"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Teikei Rio"
-  - "帝螢 リオ"
 source_ids:
   vndb: "c41969"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c41969.webp"
 ---
 
-# 帝萤莉奥
+# 帝螢 リオ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

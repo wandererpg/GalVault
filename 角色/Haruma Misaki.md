@@ -5,7 +5,10 @@ display_title: "春间三咲"
 title_zh: "春间三咲"
 title_ja: "春間 三咲"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c79520"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Haruma Misaki"
   - "春間 三咲"

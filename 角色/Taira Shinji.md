@@ -5,7 +5,10 @@ display_title: "平慎二"
 title_zh: "平慎二"
 title_ja: "平 慎二"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c37393"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Taira Shinji"
   - "平 慎二"

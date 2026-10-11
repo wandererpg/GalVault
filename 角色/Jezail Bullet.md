@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c111989"
 type: "character"
-display_title: "吉惠泽惠露布蕾T斗"
-title_zh: "吉惠泽惠露布蕾T斗"
+display_title: "ジェゼール・ブレット"
+title_zh: ""
 title_ja: "ジェゼール・ブレット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c111989"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jezail Bullet"
-  - "ジェゼール・ブレット"
   - "Asa Shinn"
   - "Jezail Brett (EN fanTL)"
   - "アンサッシャー"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c111989.webp"
 ---
 
-# 吉惠泽惠露布蕾T斗
+# ジェゼール・ブレット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

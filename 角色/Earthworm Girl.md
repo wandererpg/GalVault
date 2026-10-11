@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125102"
 type: "character"
-display_title: "美美兹娘"
-title_zh: "美美兹娘"
+display_title: "ミミズ娘"
+title_zh: ""
 title_ja: "ミミズ娘"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125102"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Earthworm Girl"
-  - "ミミズ娘"
   - "Mimi"
 source_ids:
   vndb: "c125102"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c125102.webp"
 ---
 
-# 美美兹娘
+# ミミズ娘
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

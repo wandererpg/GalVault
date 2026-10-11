@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126922"
 type: "character"
-display_title: "能天使梦兹希惠露"
-title_zh: "能天使梦兹希惠露"
+display_title: "能天使ムズキエル"
+title_zh: ""
 title_ja: "能天使ムズキエル"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126922"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Power Muzukiel"
-  - "能天使ムズキエル"
 source_ids:
   vndb: "c126922"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c126922.webp"
 ---
 
-# 能天使梦兹希惠露
+# 能天使ムズキエル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "佐久间恒"
 title_zh: "佐久间恒"
 title_ja: "佐久間 恒"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c47556"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakuma Wataru"
   - "佐久間 恒"

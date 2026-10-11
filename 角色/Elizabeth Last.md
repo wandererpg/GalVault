@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c89892"
 type: "character"
-display_title: "伊丽莎白·L阿ST"
-title_zh: "伊丽莎白·L阿ST"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Elizabeth Last"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c89892"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Elizabeth Last"
   - "Lizzie"
   - "Liz"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c89892.webp"
 ---
 
-# 伊丽莎白·L阿ST
+# Elizabeth Last
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

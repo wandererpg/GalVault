@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c153204"
 type: "character"
-display_title: "洞边美斗莉"
-title_zh: "洞边美斗莉"
+display_title: "洞辺 みとり"
+title_zh: ""
 title_ja: "洞辺 みとり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c153204"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Horabe Midori"
-  - "洞辺 みとり"
 source_ids:
   vndb: "c153204"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c153204.webp"
 ---
 
-# 洞边美斗莉
+# 洞辺 みとり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "尹央辉"
 title_zh: "尹央辉"
 title_ja: "尹 央輝"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c4105"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yun Yenfei"
   - "尹 央輝"

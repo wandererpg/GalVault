@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71712"
 type: "character"
-display_title: "南井真堂加"
-title_zh: "南井真堂加"
+display_title: "南井 まどか"
+title_zh: ""
 title_ja: "南井 まどか"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71712"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Minai Madoka"
-  - "南井 まどか"
 source_ids:
   vndb: "c71712"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71712.webp"
 ---
 
-# 南井真堂加
+# 南井 まどか
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

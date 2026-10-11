@@ -5,7 +5,10 @@ display_title: "和仓贤一"
 title_zh: "和仓贤一"
 title_ja: "和倉 賢一"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c86238"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Wakura Ken'ichi"
   - "和倉 賢一"

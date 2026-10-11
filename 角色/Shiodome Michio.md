@@ -5,7 +5,10 @@ display_title: "汐留道雄"
 title_zh: "汐留道雄"
 title_ja: "汐留 道雄"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c98660"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shiodome Michio"
   - "汐留 道雄"

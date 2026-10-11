@@ -5,7 +5,10 @@ display_title: "果心居士"
 title_zh: "果心居士"
 title_ja: "果心 居士"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c40991"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kashin Koji"
   - "果心 居士"

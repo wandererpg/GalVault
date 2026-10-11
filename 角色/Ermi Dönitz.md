@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38216"
 type: "character"
-display_title: "惠露美伊德惠尼T津"
-title_zh: "惠露美伊德惠尼T津"
+display_title: "エルミー・デーニッツ"
+title_zh: ""
 title_ja: "エルミー・デーニッツ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38216"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ermi Dönitz"
-  - "エルミー・デーニッツ"
 source_ids:
   vndb: "c38216"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c38216.webp"
 ---
 
-# 惠露美伊德惠尼T津
+# エルミー・デーニッツ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

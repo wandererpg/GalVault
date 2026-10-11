@@ -5,7 +5,10 @@ display_title: "市场前"
 title_zh: "市场前"
 title_ja: "市場前"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c98659"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shijoumae"
   - "市場前"

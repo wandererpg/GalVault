@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12441"
 type: "character"
-display_title: "水名莉音"
-title_zh: "水名莉音"
+display_title: "水名 りね"
+title_zh: ""
 title_ja: "水名 りね"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12441"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mizuna Rine"
-  - "水名 りね"
 source_ids:
   vndb: "c12441"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c12441.webp"
 ---
 
-# 水名莉音
+# 水名 りね
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

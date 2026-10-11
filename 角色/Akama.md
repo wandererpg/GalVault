@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90515"
 type: "character"
-display_title: "阿加真"
-title_zh: "阿加真"
+display_title: "アカマ"
+title_zh: ""
 title_ja: "アカマ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90515"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Akama"
-  - "アカマ"
   - "Red"
   - "赤"
   - "Aka"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c90515.webp"
 ---
 
-# 阿加真
+# アカマ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

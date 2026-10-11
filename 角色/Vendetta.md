@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c42600"
 type: "character"
-display_title: "V惠恩德T太"
-title_zh: "V惠恩德T太"
+display_title: "ヴェンデッタ"
+title_zh: ""
 title_ja: "ヴェンデッタ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c42600"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Vendetta"
-  - "ヴェンデッタ"
   - "Eurydice"
   - "Veti"
   - "ヴェティ"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c42600.webp"
 ---
 
-# V惠恩德T太
+# ヴェンデッタ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

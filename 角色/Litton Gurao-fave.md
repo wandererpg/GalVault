@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17731"
 type: "character"
-display_title: "莉T斗恩古拉奥F阿阿贝"
-title_zh: "莉T斗恩古拉奥F阿阿贝"
+display_title: "リットン・グラオ・ファーベ"
+title_zh: ""
 title_ja: "リットン・グラオ・ファーベ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17731"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Litton Gurao-fave"
-  - "リットン・グラオ・ファーベ"
 source_ids:
   vndb: "c17731"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c17731.webp"
 ---
 
-# 莉T斗恩古拉奥F阿阿贝
+# リットン・グラオ・ファーベ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

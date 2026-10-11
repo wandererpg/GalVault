@@ -5,7 +5,10 @@ display_title: "橘千鹤"
 title_zh: "橘千鹤"
 title_ja: "橘 千鶴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c578"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tachibana Chizuru"
   - "橘 千鶴"

@@ -5,7 +5,10 @@ display_title: "空小路织衣"
 title_zh: "空小路织衣"
 title_ja: "空小路 織衣"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c11556"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Karakouji Orie"
   - "空小路 織衣"

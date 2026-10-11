@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c153182"
 type: "character"
-display_title: "针叶雪/"
-title_zh: "针叶雪/"
+display_title: "針葉 ユキ/"
+title_zh: ""
 title_ja: "針葉 ユキ/"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c153182"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hariba Yukino"
-  - "針葉 ユキ/"
 source_ids:
   vndb: "c153182"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c153182.webp"
 ---
 
-# 针叶雪/
+# 針葉 ユキ/
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

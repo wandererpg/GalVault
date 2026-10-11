@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13492"
 type: "character"
-display_title: "真吉夏恩"
-title_zh: "真吉夏恩"
+display_title: "まじしゃん"
+title_zh: ""
 title_ja: "まじしゃん"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13492"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Magician"
-  - "まじしゃん"
 source_ids:
   vndb: "c13492"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c13492.webp"
 ---
 
-# 真吉夏恩
+# まじしゃん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

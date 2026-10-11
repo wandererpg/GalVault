@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c91531"
 type: "character"
-display_title: "蕾吉伊奈"
-title_zh: "蕾吉伊奈"
+display_title: "レジーナ"
+title_zh: ""
 title_ja: "レジーナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c91531"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Regina"
-  - "レジーナ"
 source_ids:
   vndb: "c91531"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c91531.webp"
 ---
 
-# 蕾吉伊奈
+# レジーナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c7054"
 type: "character"
-display_title: "音S索雅阿拉恩堂"
-title_zh: "音S索雅阿拉恩堂"
+display_title: "ネッソ・ガーランド"
+title_zh: ""
 title_ja: "ネッソ・ガーランド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c7054"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nesso Galland"
-  - "ネッソ・ガーランド"
 source_ids:
   vndb: "c7054"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c7054.webp"
 ---
 
-# 音S索雅阿拉恩堂
+# ネッソ・ガーランド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

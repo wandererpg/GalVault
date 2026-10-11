@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c152750"
 type: "character"
-display_title: "亲音兹美"
-title_zh: "亲音兹美"
+display_title: "親ネズミ"
+title_zh: ""
 title_ja: "親ネズミ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c152750"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Oya Nezumi"
-  - "親ネズミ"
 source_ids:
   vndb: "c152750"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c152750.webp"
 ---
 
-# 亲音兹美
+# 親ネズミ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

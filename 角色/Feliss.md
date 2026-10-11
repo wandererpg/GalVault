@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c25631"
 type: "character"
-display_title: "F惠莉寿"
-title_zh: "F惠莉寿"
+display_title: "フェリス"
+title_zh: ""
 title_ja: "フェリス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c25631"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Feliss"
-  - "フェリス"
   - "Ferris"
 source_ids:
   vndb: "c25631"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c25631.webp"
 ---
 
-# F惠莉寿
+# フェリス
 
 
 ## 角色画像

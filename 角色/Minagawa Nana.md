@@ -5,7 +5,10 @@ display_title: "皆川奈々"
 title_zh: "皆川奈々"
 title_ja: "皆川 奈々"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c250"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Minagawa Nana"
   - "皆川 奈々"

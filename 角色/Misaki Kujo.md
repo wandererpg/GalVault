@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90038"
 type: "character"
-display_title: "美沙希久乔乌"
-title_zh: "美沙希久乔乌"
+display_title: "ミサキ・クジョウ"
+title_zh: ""
 title_ja: "ミサキ・クジョウ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90038"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Misaki Kujo"
-  - "ミサキ・クジョウ"
 source_ids:
   vndb: "c90038"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c90038.webp"
 ---
 
-# 美沙希久乔乌
+# ミサキ・クジョウ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

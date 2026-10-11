@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c75872"
 type: "character"
-display_title: "惠V伊恩"
-title_zh: "惠V伊恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Kevin"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c75872"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Kevin"
 source_ids:
   vndb: "c75872"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c75872.webp"
 ---
 
-# 惠V伊恩
+# Kevin
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

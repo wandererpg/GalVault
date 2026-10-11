@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c125071"
 type: "character"
-display_title: "拉乌L"
-title_zh: "拉乌L"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Raul"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125071"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Raul"
 source_ids:
   vndb: "c125071"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c125071.webp"
 ---
 
-# 拉乌L
+# Raul
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

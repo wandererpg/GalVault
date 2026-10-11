@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c118648"
 type: "character"
-display_title: "CY露S"
-title_zh: "CY露S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Cyrus"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c118648"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Cyrus"
 source_ids:
   vndb: "c118648"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c118648.webp"
 ---
 
-# CY露S
+# Cyrus
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

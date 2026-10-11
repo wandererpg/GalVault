@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c325"
 type: "character"
-display_title: "宇佐美羽露"
-title_zh: "宇佐美羽露"
+display_title: "宇佐美 ハル"
+title_zh: ""
 title_ja: "宇佐美 ハル"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c325"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Usami Haru"
-  - "宇佐美 ハル"
   - "Hero"
   - "Oharu-chan"
   - "Usamin"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c325.webp"
 ---
 
-# 宇佐美羽露
+# 宇佐美 ハル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

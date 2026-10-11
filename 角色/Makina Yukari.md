@@ -5,7 +5,10 @@ display_title: "真境名紫莉"
 title_zh: "真境名紫莉"
 title_ja: "真境名 紫莉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c155028"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Makina Yukari"
   - "真境名 紫莉"

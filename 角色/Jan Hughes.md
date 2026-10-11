@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c127720"
 type: "character"
-display_title: "嘉恩·H乌G惠S"
-title_zh: "嘉恩·H乌G惠S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jan Hughes"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127720"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jan Hughes"
 source_ids:
   vndb: "c127720"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c127720.webp"
 ---
 
-# 嘉恩·H乌G惠S
+# Jan Hughes
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

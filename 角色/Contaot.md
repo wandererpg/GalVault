@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c62896"
 type: "character"
-display_title: "子恩太奥T斗"
-title_zh: "子恩太奥T斗"
+display_title: "コンタオット"
+title_zh: ""
 title_ja: "コンタオット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c62896"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Contaot"
-  - "コンタオット"
 source_ids:
   vndb: "c62896"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c62896.webp"
 ---
 
-# 子恩太奥T斗
+# コンタオット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

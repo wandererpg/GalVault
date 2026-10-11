@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c83998"
 type: "character"
-display_title: "美伊夏＝伊V阿修子和"
-title_zh: "美伊夏＝伊V阿修子和"
+display_title: "ミーシャ＝イヴァシュコワ"
+title_zh: ""
 title_ja: "ミーシャ＝イヴァシュコワ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c83998"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Misha Ivashkova"
-  - "ミーシャ＝イヴァシュコワ"
   - "Ивашкова Миша"
 source_ids:
   vndb: "c83998"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c83998.webp"
 ---
 
-# 美伊夏＝伊V阿修子和
+# ミーシャ＝イヴァシュコワ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

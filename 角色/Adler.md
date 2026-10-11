@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34052"
 type: "character"
-display_title: "阿阿堂拉"
-title_zh: "阿阿堂拉"
+display_title: "アードラ"
+title_zh: ""
 title_ja: "アードラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34052"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Adler"
-  - "アードラ"
 source_ids:
   vndb: "c34052"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c34052.webp"
 ---
 
-# 阿阿堂拉
+# アードラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

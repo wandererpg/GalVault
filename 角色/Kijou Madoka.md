@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c1326"
 type: "character"
-display_title: "姫条真堂加"
-title_zh: "姫条真堂加"
+display_title: "姫条 まどか"
+title_zh: ""
 title_ja: "姫条 まどか"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c1326"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kijou Madoka"
-  - "姫条 まどか"
 source_ids:
   vndb: "c1326"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c1326.webp"
 ---
 
-# 姫条真堂加
+# 姫条 まどか
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

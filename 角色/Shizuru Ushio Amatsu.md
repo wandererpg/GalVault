@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c49304"
 type: "character"
-display_title: "诗兹露潮阿真津"
-title_zh: "诗兹露潮阿真津"
+display_title: "シズル・潮・アマツ"
+title_zh: ""
 title_ja: "シズル・潮・アマツ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c49304"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shizuru Ushio Amatsu"
-  - "シズル・潮・アマツ"
 source_ids:
   vndb: "c49304"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c49304.webp"
 ---
 
-# 诗兹露潮阿真津
+# シズル・潮・アマツ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "樱花"
 title_zh: "樱花"
 title_ja: "桜花"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c29531"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ouka"
   - "桜花"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c146737"
 type: "character"
-display_title: "阿莉寿特伊伊音美洛诗惠露"
-title_zh: "阿莉寿特伊伊音美洛诗惠露"
+display_title: "アリスティーネ・ミ・ロシエル"
+title_zh: ""
 title_ja: "アリスティーネ・ミ・ロシエル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c146737"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alistine Mi Rosiel"
-  - "アリスティーネ・ミ・ロシエル"
   - "アリス"
   - "Alice"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c146737.webp"
 ---
 
-# 阿莉寿特伊伊音美洛诗惠露
+# アリスティーネ・ミ・ロシエル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

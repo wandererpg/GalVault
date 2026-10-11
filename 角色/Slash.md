@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87867"
 type: "character"
-display_title: "寿拉S修"
-title_zh: "寿拉S修"
+display_title: "スラッシュ"
+title_zh: ""
 title_ja: "スラッシュ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87867"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Slash"
-  - "スラッシュ"
   - "/"
 source_ids:
   vndb: "c87867"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c87867.webp"
 ---
 
-# 寿拉S修
+# スラッシュ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

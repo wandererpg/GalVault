@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c164522"
 type: "character"
-display_title: "月野加古雅"
-title_zh: "月野加古雅"
+display_title: "月野 かぐや"
+title_zh: ""
 title_ja: "月野 かぐや"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c164522"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tsukino Kaguya"
-  - "月野 かぐや"
   - "先生"
   - "Sensei"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c164522.webp"
 ---
 
-# 月野加古雅
+# 月野 かぐや
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

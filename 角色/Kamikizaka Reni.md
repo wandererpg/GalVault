@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90193"
 type: "character"
-display_title: "神木坂蕾尼"
-title_zh: "神木坂蕾尼"
+display_title: "神木坂 レニ"
+title_zh: ""
 title_ja: "神木坂 レニ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90193"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kamikizaka Reni"
-  - "神木坂 レニ"
 source_ids:
   vndb: "c90193"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c90193.webp"
 ---
 
-# 神木坂蕾尼
+# 神木坂 レニ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

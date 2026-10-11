@@ -5,7 +5,10 @@ display_title: "緖方"
 title_zh: "緖方"
 title_ja: "緒方"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c38823"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ogata"
   - "緒方"

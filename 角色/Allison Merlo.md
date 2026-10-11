@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c123423"
 type: "character"
-display_title: "阿LL伊索恩·芽RL奥"
-title_zh: "阿LL伊索恩·芽RL奥"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Allison Merlo"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c123423"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Allison Merlo"
 source_ids:
   vndb: "c123423"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c123423.webp"
 ---
 
-# 阿LL伊索恩·芽RL奥
+# Allison Merlo
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

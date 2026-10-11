@@ -5,7 +5,10 @@ display_title: "上音真白"
 title_zh: "上音真白"
 title_ja: "上音 真白"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10390"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kamine Mashiro"
   - "上音 真白"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16943"
 type: "character"
-display_title: "羽川原伊洛羽"
-title_zh: "羽川原伊洛羽"
+display_title: "羽川原 いろは"
+title_zh: ""
 title_ja: "羽川原 いろは"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16943"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ugawara Iroha"
-  - "羽川原 いろは"
 source_ids:
   vndb: "c16943"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c16943.webp"
 ---
 
-# 羽川原伊洛羽
+# 羽川原 いろは
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

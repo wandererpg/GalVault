@@ -5,7 +5,10 @@ display_title: "沼田"
 title_zh: "沼田"
 title_ja: "沼田"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c64885"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Numata"
 source_ids:

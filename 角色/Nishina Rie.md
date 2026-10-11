@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c56693"
 type: "character"
-display_title: "仁科莉惠"
-title_zh: "仁科莉惠"
+display_title: "仁科 りえ"
+title_zh: ""
 title_ja: "仁科 りえ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56693"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nishina Rie"
-  - "仁科 りえ"
 source_ids:
   vndb: "c56693"
 source_urls:
   vndb: "https://vndb.org/c56693"
 ---
 
-# 仁科莉惠
+# 仁科 りえ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

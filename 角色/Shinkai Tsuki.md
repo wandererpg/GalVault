@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c80801"
 type: "character"
-display_title: "津希·诗恩加伊"
-title_zh: "津希·诗恩加伊"
+display_title: "ツキ シンカイ"
+title_zh: ""
 title_ja: "ツキ シンカイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c80801"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tsuki Shinkai"
-  - "ツキ シンカイ"
 source_ids:
   vndb: "c80801"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c80801.webp"
 ---
 
-# 津希·诗恩加伊
+# ツキ シンカイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "上杉谦信"
 title_zh: "上杉谦信"
 title_ja: "上杉 謙信"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c40888"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Uesugi Kenshin"
   - "上杉 謙信"

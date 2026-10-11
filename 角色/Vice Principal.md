@@ -5,7 +5,10 @@ display_title: "教头"
 title_zh: "教头"
 title_ja: "教頭"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c172456"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Vice Principal"
   - "教頭"

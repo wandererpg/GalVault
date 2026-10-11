@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98851"
 type: "character"
-display_title: "真阿莉奥乌嘉R洛贝寿特伊伊乃"
-title_zh: "真阿莉奥乌嘉R洛贝寿特伊伊乃"
+display_title: "マーリオゥ・ジャッロ・ベスティーノ"
+title_zh: ""
 title_ja: "マーリオゥ・ジャッロ・ベスティーノ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98851"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mario Gallo Bestino"
-  - "マーリオゥ・ジャッロ・ベスティーノ"
 source_ids:
   vndb: "c98851"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98851.webp"
 ---
 
-# 真阿莉奥乌嘉R洛贝寿特伊伊乃
+# マーリオゥ・ジャッロ・ベスティーノ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "天野大和"
 title_zh: "天野大和"
 title_ja: "天野 大和"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c89439"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Amano Yamato"
   - "天野 大和"

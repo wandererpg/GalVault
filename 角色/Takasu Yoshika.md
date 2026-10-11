@@ -5,7 +5,10 @@ display_title: "高鹫佳伽"
 title_zh: "高鹫佳伽"
 title_ja: "高鷲 佳伽"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c98079"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takasu Yoshika"
   - "高鷲 佳伽"

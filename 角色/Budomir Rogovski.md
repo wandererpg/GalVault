@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43336"
 type: "character"
-display_title: "布堂美伊露洛悟芙寿希伊"
-title_zh: "布堂美伊露洛悟芙寿希伊"
+display_title: "ブドミール・ロゴフスキー"
+title_zh: ""
 title_ja: "ブドミール・ロゴフスキー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43336"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Budomir Rogovski"
-  - "ブドミール・ロゴフスキー"
 source_ids:
   vndb: "c43336"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43336.webp"
 ---
 
-# 布堂美伊露洛悟芙寿希伊
+# ブドミール・ロゴフスキー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

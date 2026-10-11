@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c153129"
 type: "character"
-display_title: "L伊扎·莫子"
-title_zh: "L伊扎·莫子"
+display_title: "리자 모코"
+title_zh: ""
 title_ja: "리자 모코"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c153129"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Liza Moko"
-  - "리자 모코"
 source_ids:
   vndb: "c153129"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c153129.webp"
 ---
 
-# L伊扎·莫子
+# 리자 모코
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

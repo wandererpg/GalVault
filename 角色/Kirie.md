@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c72808"
 type: "character"
-display_title: "希莉惠"
-title_zh: "希莉惠"
+display_title: "キリエ"
+title_zh: ""
 title_ja: "キリエ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c72808"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kirie"
-  - "キリエ"
 source_ids:
   vndb: "c72808"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c72808.webp"
 ---
 
-# 希莉惠
+# キリエ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

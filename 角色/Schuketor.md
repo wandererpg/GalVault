@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c140729"
 type: "character"
-display_title: "修惠斗露"
-title_zh: "修惠斗露"
+display_title: "シュケトル"
+title_zh: ""
 title_ja: "シュケトル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c140729"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Schuketor"
-  - "シュケトル"
 source_ids:
   vndb: "c140729"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c140729.webp"
 ---
 
-# 修惠斗露
+# シュケトル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "宁桐雨"
 title_zh: "宁桐雨"
 title_ja: "宁 桐雨"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c145553"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ning Tongyu"
   - "宁 桐雨"

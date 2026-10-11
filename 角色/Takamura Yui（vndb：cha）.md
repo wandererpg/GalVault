@@ -5,7 +5,10 @@ display_title: "篁唯依"
 title_zh: "篁唯依"
 title_ja: "篁 唯依"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c42841"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takamura Yui"
   - "篁 唯依"

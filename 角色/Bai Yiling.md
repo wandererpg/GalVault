@@ -5,7 +5,10 @@ display_title: "白忆玲"
 title_zh: "白忆玲"
 title_ja: "白忆玲"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c150937"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Bai Yiling"
   - "Remily White"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12431"
 type: "character"
-display_title: "布龙惠T斗尼子蕾T斗普拉恩惠T斗"
-title_zh: "布龙惠T斗尼子蕾T斗普拉恩惠T斗"
+display_title: "ブリュエット・ニコレット・プランケット"
+title_zh: ""
 title_ja: "ブリュエット・ニコレット・プランケット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12431"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Bluette Nicolette Planquette"
-  - "ブリュエット・ニコレット・プランケット"
   - "Ette"
 source_ids:
   vndb: "c12431"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c12431.webp"
 ---
 
-# 布龙惠T斗尼子蕾T斗普拉恩惠T斗
+# ブリュエット・ニコレット・プランケット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

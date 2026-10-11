@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c74510"
 type: "character"
-display_title: "芙美·ZW惠伊H恩德R"
-title_zh: "芙美·ZW惠伊H恩德R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Fumi Zweihänder"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c74510"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Fumi Zweihänder"
 source_ids:
   vndb: "c74510"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c74510.webp"
 ---
 
-# 芙美·ZW惠伊H恩德R
+# Fumi Zweihänder
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

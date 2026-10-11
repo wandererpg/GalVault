@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c154947"
 type: "character"
-display_title: "巴L伊阿R奈S"
-title_zh: "巴L伊阿R奈S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Baliarnas"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c154947"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Baliarnas"
 source_ids:
   vndb: "c154947"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c154947.webp"
 ---
 
-# 巴L伊阿R奈S
+# Baliarnas
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

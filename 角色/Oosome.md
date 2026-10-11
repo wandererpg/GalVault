@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c173282"
 type: "character"
-display_title: "奥奥索芽"
-title_zh: "奥奥索芽"
+display_title: "オオソメ"
+title_zh: ""
 title_ja: "オオソメ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c173282"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Oosome"
-  - "オオソメ"
 source_ids:
   vndb: "c173282"
 source_urls:
   vndb: "https://vndb.org/c173282"
 ---
 
-# 奥奥索芽
+# オオソメ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

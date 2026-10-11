@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159504"
 type: "character"
-display_title: "C乌RT伊S·G蕾惠音"
-title_zh: "C乌RT伊S·G蕾惠音"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Curtis Greene"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159504"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Curtis Greene"
 source_ids:
   vndb: "c159504"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c159504.webp"
 ---
 
-# C乌RT伊S·G蕾惠音
+# Curtis Greene
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

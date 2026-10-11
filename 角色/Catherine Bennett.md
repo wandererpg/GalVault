@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c165274"
 type: "character"
-display_title: "C阿T惠莉音·贝恩音TT"
-title_zh: "C阿T惠莉音·贝恩音TT"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Catherine Bennett"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c165274"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Catherine Bennett"
 source_ids:
   vndb: "c165274"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c165274.webp"
 ---
 
-# C阿T惠莉音·贝恩音TT
+# Catherine Bennett
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

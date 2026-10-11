@@ -5,7 +5,10 @@ display_title: "西九条真之介"
 title_zh: "西九条真之介"
 title_ja: "西九条 真之介"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16055"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nishikujou Shinnosuke"
   - "西九条 真之介"

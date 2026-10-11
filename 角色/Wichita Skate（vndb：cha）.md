@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98403"
 type: "character"
-display_title: "乌伊千太寿惠惠斗"
-title_zh: "乌伊千太寿惠惠斗"
+display_title: "ウィチタ・スケート"
+title_zh: ""
 title_ja: "ウィチタ・スケート"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98403"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Wichita Skate"
-  - "ウィチタ・スケート"
 source_ids:
   vndb: "c98403"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98403.webp"
 ---
 
-# 乌伊千太寿惠惠斗
+# ウィチタ・スケート
 
 
 ## 角色画像

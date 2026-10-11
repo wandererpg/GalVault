@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c156586"
 type: "character"
-display_title: "青叶沙恩"
-title_zh: "青叶沙恩"
+display_title: "青葉さん"
+title_zh: ""
 title_ja: "青葉さん"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c156586"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ms. Aoba"
-  - "青葉さん"
   - "Mom"
   - "母ちゃん"
 source_ids:
@@ -17,7 +19,7 @@ source_urls:
   vndb: "https://vndb.org/c156586"
 ---
 
-# 青叶沙恩
+# 青葉さん
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

@@ -5,7 +5,10 @@ display_title: "佐々木恭吾"
 title_zh: "佐々木恭吾"
 title_ja: "佐々木 恭吾"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c136010"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sasaki Kyougo"
   - "佐々木 恭吾"

@@ -5,7 +5,10 @@ display_title: "森三左卫门桐琴可成"
 title_zh: "森三左卫门桐琴可成"
 title_ja: "森 三左衛門 桐琴 可成"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20593"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mori Sanzaemon Touko Yoshinari"
   - "森 三左衛門 桐琴 可成"

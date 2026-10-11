@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c118956"
 type: "character"
-display_title: "吉伊乃"
-title_zh: "吉伊乃"
+display_title: "ジーノ"
+title_zh: ""
 title_ja: "ジーノ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c118956"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gino"
-  - "ジーノ"
 source_ids:
   vndb: "c118956"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c118956.webp"
 ---
 
-# 吉伊乃
+# ジーノ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

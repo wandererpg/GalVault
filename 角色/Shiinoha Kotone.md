@@ -5,7 +5,10 @@ display_title: "椎叶古杜音"
 title_zh: "椎叶古杜音"
 title_ja: "椎葉 古杜音"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c39036"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shiinoha Kotone"
   - "椎葉 古杜音"

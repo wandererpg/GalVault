@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c126444"
 type: "character"
-display_title: "惠L德R·寿CC乌布S"
-title_zh: "惠L德R·寿CC乌布S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Elder Succubus"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126444"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Elder Succubus"
 source_ids:
   vndb: "c126444"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c126444.webp"
 ---
 
-# 惠L德R·寿CC乌布S
+# Elder Succubus
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

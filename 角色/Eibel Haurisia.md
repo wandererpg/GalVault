@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c116128"
 type: "character"
-display_title: "惠伊贝露羽乌莉诗阿"
-title_zh: "惠伊贝露羽乌莉诗阿"
+display_title: "エイベル・ハウリシア"
+title_zh: ""
 title_ja: "エイベル・ハウリシア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116128"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Eibel Haurisia"
-  - "エイベル・ハウリシア"
   - "ベル"
   - "Bel"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c116128.webp"
 ---
 
-# 惠伊贝露羽乌莉诗阿
+# エイベル・ハウリシア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

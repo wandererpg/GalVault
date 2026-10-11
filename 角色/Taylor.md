@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c91543"
 type: "character"
-display_title: "太YL奥R"
-title_zh: "太YL奥R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Taylor"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c91543"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Taylor"
   - "Boy Scout"
   - "Princess"
   - "Your Character"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c91543.webp"
 ---
 
-# 太YL奥R
+# Taylor
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38204"
 type: "character"
-display_title: "F伊伊尼寿"
-title_zh: "F伊伊尼寿"
+display_title: "フィーニス"
+title_zh: ""
 title_ja: "フィーニス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38204"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Finis"
-  - "フィーニス"
 source_ids:
   vndb: "c38204"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c38204.webp"
 ---
 
-# F伊伊尼寿
+# フィーニス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

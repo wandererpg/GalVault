@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61607"
 type: "character"
-display_title: "芽莉梦津惠惠露"
-title_zh: "芽莉梦津惠惠露"
+display_title: "メリム・ツェール"
+title_zh: ""
 title_ja: "メリム・ツェール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61607"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Merim Tser"
-  - "メリム・ツェール"
 source_ids:
   vndb: "c61607"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61607.webp"
 ---
 
-# 芽莉梦津惠惠露
+# メリム・ツェール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

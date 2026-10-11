@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c80191"
 type: "character"
-display_title: "德蕾K·巴伊L惠Y"
-title_zh: "德蕾K·巴伊L惠Y"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Derek Bailey"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c80191"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Derek Bailey"
   - "D-Boy, Sir Earl Grey."
 source_ids:
   vndb: "c80191"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c80191.webp"
 ---
 
-# 德蕾K·巴伊L惠Y
+# Derek Bailey
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

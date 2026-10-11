@@ -2,10 +2,13 @@
 entity_id: "vndb:character:c25650"
 type: "character"
 display_title: "左女郎・右女郎"
-title_zh: "左女郎・右女郎"
+title_zh: ""
 title_ja: "左女郎・右女郎"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c25650"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hidarijorou & Migijorou"
 source_ids:

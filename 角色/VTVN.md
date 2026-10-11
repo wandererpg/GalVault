@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c61200"
 type: "character"
-display_title: "VTV恩"
-title_zh: "VTV恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "VTVN"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61200"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "VTVN"
 source_ids:
   vndb: "c61200"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c61200.webp"
 ---
 
-# VTV恩
+# VTVN
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

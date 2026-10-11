@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c91059"
 type: "character"
-display_title: "阿恩莉拉恩贝惠露"
-title_zh: "阿恩莉拉恩贝惠露"
+display_title: "アンリ・ランベール"
+title_zh: ""
 title_ja: "アンリ・ランベール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c91059"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Henri Lambert"
-  - "アンリ・ランベール"
 source_ids:
   vndb: "c91059"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c91059.webp"
 ---
 
-# 阿恩莉拉恩贝惠露
+# アンリ・ランベール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

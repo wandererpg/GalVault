@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c131313"
 type: "character"
-display_title: "阿ST洛C奥RP·惠MPL奥Y惠惠"
-title_zh: "阿ST洛C奥RP·惠MPL奥Y惠惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Astrocorp Employee"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c131313"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Astrocorp Employee"
 source_ids:
   vndb: "c131313"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c131313.webp"
 ---
 
-# 阿ST洛C奥RP·惠MPL奥Y惠惠
+# Astrocorp Employee
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

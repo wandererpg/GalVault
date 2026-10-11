@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c46822"
 type: "character"
-display_title: "如月乃惠"
-title_zh: "如月乃惠"
+display_title: "如月 のえ"
+title_zh: ""
 title_ja: "如月 のえ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c46822"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kisaragi Noe"
-  - "如月 のえ"
   - "Noe-sensei"
   - "Noe-chin"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c46822.webp"
 ---
 
-# 如月乃惠
+# 如月 のえ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

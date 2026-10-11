@@ -5,7 +5,10 @@ display_title: "高顺"
 title_zh: "高顺"
 title_ja: "高順"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c49988"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Koujun"
   - "高順"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c24424"
 type: "character"
-display_title: "加露V伊阿久露露濑V乌尼"
-title_zh: "加露V伊阿久露露濑V乌尼"
+display_title: "カルヴィア・クルルセヴニ"
+title_zh: ""
 title_ja: "カルヴィア・クルルセヴニ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c24424"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Karvia Kurlsevni"
-  - "カルヴィア・クルルセヴニ"
   - "The Dark Emperor of All Creation"
   - "The Demon Emperor"
   - "Almighty Empress"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c24424.webp"
 ---
 
-# 加露V伊阿久露露濑V乌尼
+# カルヴィア・クルルセヴニ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

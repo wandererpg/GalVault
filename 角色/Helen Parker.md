@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c149564"
 type: "character"
-display_title: "惠蕾恩帕阿加阿"
-title_zh: "惠蕾恩帕阿加阿"
+display_title: "ヘレン・パーカー"
+title_zh: ""
 title_ja: "ヘレン・パーカー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149564"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Helen Parker"
-  - "ヘレン・パーカー"
   - "Grandma Patch"
 source_ids:
   vndb: "c149564"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c149564.webp"
 ---
 
-# 惠蕾恩帕阿加阿
+# ヘレン・パーカー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

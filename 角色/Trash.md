@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c62846"
 type: "character"
-display_title: "T拉SH"
-title_zh: "T拉SH"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Trash"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c62846"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Trash"
   - "Carlito"
 source_ids:
   vndb: "c62846"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c62846.webp"
 ---
 
-# T拉SH
+# Trash
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

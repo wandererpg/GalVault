@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39748"
 type: "character"
-display_title: "谜乃兎"
-title_zh: "谜乃兎"
+display_title: "謎の兎"
+title_zh: ""
 title_ja: "謎の兎"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39748"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mysterious Rabbit"
-  - "謎の兎"
 source_ids:
   vndb: "c39748"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c39748.webp"
 ---
 
-# 谜乃兎
+# 謎の兎
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13832"
 type: "character"
-display_title: "子洛奈"
-title_zh: "子洛奈"
+display_title: "コロナ"
+title_zh: ""
 title_ja: "コロナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13832"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Corona"
-  - "コロナ"
 source_ids:
   vndb: "c13832"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c13832.webp"
 ---
 
-# 子洛奈
+# コロナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

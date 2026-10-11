@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c25723"
 type: "character"
-display_title: "阿真莉＝奈＝贝梦贝＝贝露贝露"
-title_zh: "阿真莉＝奈＝贝梦贝＝贝露贝露"
+display_title: "アマリ＝ナ＝ベムベ＝ベルベル"
+title_zh: ""
 title_ja: "アマリ＝ナ＝ベムベ＝ベルベル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c25723"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Amari Na Bembe Berbel"
-  - "アマリ＝ナ＝ベムベ＝ベルベル"
 source_ids:
   vndb: "c25723"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c25723.webp"
 ---
 
-# 阿真莉＝奈＝贝梦贝＝贝露贝露
+# アマリ＝ナ＝ベムベ＝ベルベル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

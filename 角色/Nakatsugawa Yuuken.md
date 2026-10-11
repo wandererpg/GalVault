@@ -5,7 +5,10 @@ display_title: "中津川祐见"
 title_zh: "中津川祐见"
 title_ja: "中津川 祐見"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c22601"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nakatsugawa Yuuken"
   - "中津川 祐見"

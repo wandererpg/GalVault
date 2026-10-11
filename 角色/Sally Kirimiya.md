@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16038"
 type: "character"
-display_title: "沙莉伊雾宫"
-title_zh: "沙莉伊雾宫"
+display_title: "サリー・霧宮"
+title_zh: ""
 title_ja: "サリー・霧宮"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16038"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sally Kirimiya"
-  - "サリー・霧宮"
 source_ids:
   vndb: "c16038"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c16038.webp"
 ---
 
-# 沙莉伊雾宫
+# サリー・霧宮
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

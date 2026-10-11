@@ -5,7 +5,10 @@ display_title: "八代理子"
 title_zh: "八代理子"
 title_ja: "八代 理子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c59328"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yashiro Riko"
   - "八代 理子"

@@ -5,7 +5,10 @@ display_title: "佐仓广梦"
 title_zh: "佐仓广梦"
 title_ja: "佐倉 広夢"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2210"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakura Hiromu"
   - "佐倉 広夢"

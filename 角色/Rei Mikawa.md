@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c74683"
 type: "character"
-display_title: "蕾伊·美加和"
-title_zh: "蕾伊·美加和"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Rei Mikawa"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c74683"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Rei Mikawa"
 source_ids:
   vndb: "c74683"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c74683.webp"
 ---
 
-# 蕾伊·美加和
+# Rei Mikawa
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

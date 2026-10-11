@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c121205"
 type: "character"
-display_title: "莫达恩加拉阿"
-title_zh: "莫达恩加拉阿"
+display_title: "モダン・カラー"
+title_zh: ""
 title_ja: "モダン・カラー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c121205"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Modern Kalar"
-  - "モダン・カラー"
 source_ids:
   vndb: "c121205"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c121205.webp"
 ---
 
-# 莫达恩加拉阿
+# モダン・カラー
 
 
 ## 角色画像

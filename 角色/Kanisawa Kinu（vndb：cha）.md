@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c57"
 type: "character"
-display_title: "蟹泽希努"
-title_zh: "蟹泽希努"
+display_title: "蟹沢 きぬ"
+title_zh: ""
 title_ja: "蟹沢 きぬ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c57"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kanisawa Kinu"
-  - "蟹沢 きぬ"
   - "Kani"
   - "Koukakurui"
   - "カニっち"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c57.webp"
 ---
 
-# 蟹泽希努
+# 蟹沢 きぬ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

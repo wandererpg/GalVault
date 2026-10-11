@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c5400"
 type: "character"
-display_title: "腰越真希"
-title_zh: "腰越真希"
+display_title: "腰越 マキ"
+title_zh: ""
 title_ja: "腰越 マキ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c5400"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Koshigoe Maki"
-  - "腰越 マキ"
   - "Gokurakuin Maki"
   - "Makiemon"
   - "Massacre Maki"
@@ -23,7 +25,7 @@ source_urls:
 portrait_image: "assets/characters/c5400.webp"
 ---
 
-# 腰越真希
+# 腰越 マキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

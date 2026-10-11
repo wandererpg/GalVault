@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12335"
 type: "character"
-display_title: "蕾贝K加"
-title_zh: "蕾贝K加"
+display_title: "レベッカ"
+title_zh: ""
 title_ja: "レベッカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12335"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rebecca"
-  - "レベッカ"
 source_ids:
   vndb: "c12335"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c12335.webp"
 ---
 
-# 蕾贝K加
+# レベッカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

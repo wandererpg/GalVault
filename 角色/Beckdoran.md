@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c62893"
 type: "character"
-display_title: "贝久堂拉恩"
-title_zh: "贝久堂拉恩"
+display_title: "ベクドラン"
+title_zh: ""
 title_ja: "ベクドラン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c62893"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Beckdoran"
-  - "ベクドラン"
 source_ids:
   vndb: "c62893"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c62893.webp"
 ---
 
-# 贝久堂拉恩
+# ベクドラン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

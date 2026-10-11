@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c97421"
 type: "character"
-display_title: "C惠R贝洛S"
-title_zh: "C惠R贝洛S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Cerberos"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97421"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Cerberos"
 source_ids:
   vndb: "c97421"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c97421.webp"
 ---
 
-# C惠R贝洛S
+# Cerberos
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

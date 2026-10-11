@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c89280"
 type: "character"
-display_title: "W惠恩·L伊阿恩G"
-title_zh: "W惠恩·L伊阿恩G"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Wen Liang"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c89280"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Wen Liang"
 source_ids:
   vndb: "c89280"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c89280.webp"
 ---
 
-# W惠恩·L伊阿恩G
+# Wen Liang
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

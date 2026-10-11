@@ -5,7 +5,10 @@ display_title: "尹三"
 title_zh: "尹三"
 title_ja: "尹三"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c161190"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yin San"
 source_ids:

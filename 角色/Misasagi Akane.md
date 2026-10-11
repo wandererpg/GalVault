@@ -5,7 +5,10 @@ display_title: "御陵彩锦"
 title_zh: "御陵彩锦"
 title_ja: "御陵 彩錦"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c3865"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Misasagi Akane"
   - "御陵 彩錦"

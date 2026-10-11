@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c5500"
 type: "character"
-display_title: "寿美"
-title_zh: "寿美"
+display_title: "すみ"
+title_zh: ""
 title_ja: "すみ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c5500"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sumi"
-  - "すみ"
 source_ids:
   vndb: "c5500"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c5500.webp"
 ---
 
-# 寿美
+# すみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

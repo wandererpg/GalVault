@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c48419"
 type: "character"
-display_title: "羽比"
-title_zh: "羽比"
+display_title: "ハビ"
+title_zh: ""
 title_ja: "ハビ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c48419"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Habi"
-  - "ハビ"
   - "Javi"
 source_ids:
   vndb: "c48419"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c48419.webp"
 ---
 
-# 羽比
+# ハビ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c149996"
 type: "character"
-display_title: "L惠L伊阿·阿RD"
-title_zh: "L惠L伊阿·阿RD"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Lelia Ard"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149996"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Lelia Ard"
   - "Lia"
   - "The Dreamer"
 source_ids:
@@ -15,7 +17,7 @@ source_urls:
   vndb: "https://vndb.org/c149996"
 ---
 
-# L惠L伊阿·阿RD
+# Lelia Ard
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

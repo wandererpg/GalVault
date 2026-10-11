@@ -5,7 +5,10 @@ display_title: "小粥莉瑠"
 title_zh: "小粥莉瑠"
 title_ja: "小粥 莉瑠"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c96449"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Okayu Riru"
   - "小粥 莉瑠"

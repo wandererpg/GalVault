@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125975"
 type: "character"
-display_title: "帕阿普露寿拉伊梦"
-title_zh: "帕阿普露寿拉伊梦"
+display_title: "パープルスライム"
+title_zh: ""
 title_ja: "パープルスライム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125975"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Purple Slime"
-  - "パープルスライム"
 source_ids:
   vndb: "c125975"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c125975.webp"
 ---
 
-# 帕阿普露寿拉伊梦
+# パープルスライム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

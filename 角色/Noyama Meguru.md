@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8138"
 type: "character"
-display_title: "野山芽古露"
-title_zh: "野山芽古露"
+display_title: "野山 めぐる"
+title_zh: ""
 title_ja: "野山 めぐる"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8138"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Noyama Meguru"
-  - "野山 めぐる"
 source_ids:
   vndb: "c8138"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c8138.webp"
 ---
 
-# 野山芽古露
+# 野山 めぐる
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

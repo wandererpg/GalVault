@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c69161"
 type: "character"
-display_title: "伊恩G拉M·MC堂乌雅L"
-title_zh: "伊恩G拉M·MC堂乌雅L"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ingram McDougal"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c69161"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ingram McDougal"
 source_ids:
   vndb: "c69161"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c69161.webp"
 ---
 
-# 伊恩G拉M·MC堂乌雅L
+# Ingram McDougal
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

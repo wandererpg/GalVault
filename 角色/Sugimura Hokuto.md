@@ -5,7 +5,10 @@ display_title: "杉村北斗"
 title_zh: "杉村北斗"
 title_ja: "杉村 北斗"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9489"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sugimura Hokuto"
   - "杉村 北斗"

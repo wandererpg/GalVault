@@ -5,7 +5,10 @@ display_title: "天马美咲"
 title_zh: "天马美咲"
 title_ja: "天馬 美咲"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c147203"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tenma Misaki"
   - "天馬 美咲"

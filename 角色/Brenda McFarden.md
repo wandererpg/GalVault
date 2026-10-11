@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c150845"
 type: "character"
-display_title: "B蕾恩达·MCF阿R德恩"
-title_zh: "B蕾恩达·MCF阿R德恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Brenda McFarden"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c150845"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Brenda McFarden"
   - "Pastor McFarden"
 source_ids:
   vndb: "c150845"
@@ -14,7 +16,7 @@ source_urls:
   vndb: "https://vndb.org/c150845"
 ---
 
-# B蕾恩达·MCF阿R德恩
+# Brenda McFarden
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

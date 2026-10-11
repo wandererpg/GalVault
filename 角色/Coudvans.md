@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c62248"
 type: "character"
-display_title: "久乌堂V阿恩寿"
-title_zh: "久乌堂V阿恩寿"
+display_title: "クードヴァンス"
+title_zh: ""
 title_ja: "クードヴァンス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c62248"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Coudvans"
-  - "クードヴァンス"
   - "大司教様"
 source_ids:
   vndb: "c62248"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c62248.webp"
 ---
 
-# 久乌堂V阿恩寿
+# クードヴァンス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

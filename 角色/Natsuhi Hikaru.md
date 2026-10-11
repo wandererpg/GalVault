@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c31355"
 type: "character"
-display_title: "夏日日加露"
-title_zh: "夏日日加露"
+display_title: "夏日 ひかる"
+title_zh: ""
 title_ja: "夏日 ひかる"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c31355"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Natsuhi Hikaru"
-  - "夏日 ひかる"
 source_ids:
   vndb: "c31355"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c31355.webp"
 ---
 
-# 夏日日加露
+# 夏日 ひかる
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c155742"
 type: "character"
-display_title: "阿子"
-title_zh: "阿子"
+display_title: "アコ"
+title_zh: ""
 title_ja: "アコ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155742"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ako"
-  - "アコ"
 source_ids:
   vndb: "c155742"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c155742.webp"
 ---
 
-# 阿子
+# アコ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

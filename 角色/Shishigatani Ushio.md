@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c11210"
 type: "character"
-display_title: "鹿惠谷忧緖"
-title_zh: "鹿惠谷忧緖"
+display_title: "鹿ケ谷 憂緒"
+title_zh: ""
 title_ja: "鹿ケ谷 憂緒"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c11210"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shishigatani Ushio"
-  - "鹿ケ谷 憂緒"
   - "Moo-chan"
   - "モー子"
   - "Mooko"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c11210.webp"
 ---
 
-# 鹿惠谷忧緖
+# 鹿ケ谷 憂緒
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

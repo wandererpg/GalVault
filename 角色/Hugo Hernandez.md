@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c131346"
 type: "character"
-display_title: "H乌悟·惠R奈恩德Z"
-title_zh: "H乌悟·惠R奈恩德Z"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Hugo Hernandez"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c131346"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Hugo Hernandez"
 source_ids:
   vndb: "c131346"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c131346.webp"
 ---
 
-# H乌悟·惠R奈恩德Z
+# Hugo Hernandez
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

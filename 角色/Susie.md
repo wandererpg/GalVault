@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c131329"
 type: "character"
-display_title: "寿S伊惠"
-title_zh: "寿S伊惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Susie"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c131329"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Susie"
 source_ids:
   vndb: "c131329"
 source_urls:
   vndb: "https://vndb.org/c131329"
 ---
 
-# 寿S伊惠
+# Susie
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

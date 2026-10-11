@@ -5,7 +5,10 @@ display_title: "四月一日恋舞"
 title_zh: "四月一日恋舞"
 title_ja: "四月一日 恋舞"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c100532"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Watanuki Renbu"
   - "四月一日 恋舞"

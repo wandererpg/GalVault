@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c6221"
 type: "character"
-display_title: "芽伊夏奥诗伊加奥莉娅恩秋乌"
-title_zh: "芽伊夏奥诗伊加奥莉娅恩秋乌"
+display_title: "メイシャオ・シー・カオリャンチュウ"
+title_zh: ""
 title_ja: "メイシャオ・シー・カオリャンチュウ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c6221"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Meishao Shii Kaoryanchuu"
-  - "メイシャオ・シー・カオリャンチュウ"
   - "Astaroth"
   - "May"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c6221.webp"
 ---
 
-# 芽伊夏奥诗伊加奥莉娅恩秋乌
+# メイシャオ・シー・カオリャンチュウ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

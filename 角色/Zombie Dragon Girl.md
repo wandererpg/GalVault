@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c127463"
 type: "character"
-display_title: "藏M比惠·D拉悟恩·吉RL"
-title_zh: "藏M比惠·D拉悟恩·吉RL"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Zombie Dragon Girl"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127463"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Zombie Dragon Girl"
 source_ids:
   vndb: "c127463"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c127463.webp"
 ---
 
-# 藏M比惠·D拉悟恩·吉RL
+# Zombie Dragon Girl
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

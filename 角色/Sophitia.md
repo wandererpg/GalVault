@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c60023"
 type: "character"
-display_title: "索F伊伊特伊阿"
-title_zh: "索F伊伊特伊阿"
+display_title: "ソフィーティア"
+title_zh: ""
 title_ja: "ソフィーティア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c60023"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sophitia"
-  - "ソフィーティア"
   - "Sophie"
   - "ソフィ"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c60023.webp"
 ---
 
-# 索F伊伊特伊阿
+# ソフィーティア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

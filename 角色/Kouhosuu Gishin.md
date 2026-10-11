@@ -5,7 +5,10 @@ display_title: "皇甫嵩义真"
 title_zh: "皇甫嵩义真"
 title_ja: "皇甫嵩 義真"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c62469"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kouhosuu Gishin"
   - "皇甫嵩 義真"

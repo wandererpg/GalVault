@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30431"
 type: "character"
-display_title: "坂神庄左惠门赖仁"
-title_zh: "坂神庄左惠门赖仁"
+display_title: "坂神 庄左エ門 頼仁"
+title_zh: ""
 title_ja: "坂神 庄左エ門 頼仁"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30431"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sakagami Shouzaemon Yorihito"
-  - "坂神 庄左エ門 頼仁"
 source_ids:
   vndb: "c30431"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30431.webp"
 ---
 
-# 坂神庄左惠门赖仁
+# 坂神 庄左エ門 頼仁
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

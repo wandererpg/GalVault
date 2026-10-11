@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c137420"
 type: "character"
-display_title: "樱羽惠真"
-title_zh: "樱羽惠真"
+display_title: "桜羽 エマ"
+title_zh: ""
 title_ja: "桜羽 エマ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c137420"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sakuraba Ema"
-  - "桜羽 エマ"
 source_ids:
   vndb: "c137420"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c137420.webp"
 ---
 
-# 樱羽惠真
+# 桜羽 エマ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

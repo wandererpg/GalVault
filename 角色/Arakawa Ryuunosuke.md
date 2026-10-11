@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c85346"
 type: "character"
-display_title: "荒川龙乃介"
-title_zh: "荒川龙乃介"
+display_title: "荒川 龍ノ介"
+title_zh: ""
 title_ja: "荒川 龍ノ介"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85346"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Arakawa Ryuunosuke"
-  - "荒川 龍ノ介"
 source_ids:
   vndb: "c85346"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c85346.webp"
 ---
 
-# 荒川龙乃介
+# 荒川 龍ノ介
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c20463"
 type: "character"
-display_title: "川尻阿希拉"
-title_zh: "川尻阿希拉"
+display_title: "川尻 あきら"
+title_zh: ""
 title_ja: "川尻 あきら"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c20463"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kawajiri Akira"
-  - "川尻 あきら"
 source_ids:
   vndb: "c20463"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c20463.webp"
 ---
 
-# 川尻阿希拉
+# 川尻 あきら
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

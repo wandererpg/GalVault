@@ -5,7 +5,10 @@ display_title: "直枝理树"
 title_zh: "直枝理树"
 title_ja: "直枝 理樹"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c192"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Naoe Riki"
   - "直枝 理樹"

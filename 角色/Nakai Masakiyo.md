@@ -5,7 +5,10 @@ display_title: "中井正清"
 title_zh: "中井正清"
 title_ja: "中井 正清"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c66722"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nakai Masakiyo"
   - "中井 正清"

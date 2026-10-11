@@ -5,7 +5,10 @@ display_title: "大槻千寻"
 title_zh: "大槻千寻"
 title_ja: "大槻 千尋"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c112798"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ootsuki Chihiro"
   - "大槻 千尋"

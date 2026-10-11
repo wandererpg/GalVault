@@ -5,7 +5,10 @@ display_title: "香椎爱莉"
 title_zh: "香椎爱莉"
 title_ja: "香椎 愛莉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c32368"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kashii Airi"
   - "香椎 愛莉"

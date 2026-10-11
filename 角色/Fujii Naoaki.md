@@ -5,7 +5,10 @@ display_title: "藤井直明"
 title_zh: "藤井直明"
 title_ja: "藤井 直明"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c66705"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fujii Naoaki"
   - "藤井 直明"

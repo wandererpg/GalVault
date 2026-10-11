@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c6050"
 type: "character"
-display_title: "F奥恩＝特露梦"
-title_zh: "F奥恩＝特露梦"
+display_title: "フォン＝テルム"
+title_zh: ""
 title_ja: "フォン＝テルム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c6050"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Fon Terum"
-  - "フォン＝テルム"
   - "Foncchicchi"
   - "Ryuuma no Koujin (The Draco-Demonic Crimson Blade)"
   - "Shinigami"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c6050.webp"
 ---
 
-# F奥恩＝特露梦
+# フォン＝テルム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

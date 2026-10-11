@@ -5,7 +5,10 @@ display_title: "尚树"
 title_zh: "尚树"
 title_ja: "尚樹"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c78882"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Naoki"
   - "尚樹"

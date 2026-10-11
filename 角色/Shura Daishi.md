@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87443"
 type: "character"
-display_title: "珠蓝大姉(修拉达伊诗)"
-title_zh: "珠蓝大姉(修拉达伊诗)"
+display_title: "珠藍 大姉 (シュラ ダイシ)"
+title_zh: ""
 title_ja: "珠藍 大姉 (シュラ ダイシ)"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87443"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shura Daishi"
-  - "珠藍 大姉 (シュラ ダイシ)"
   - "Elder Sister Shura"
 source_ids:
   vndb: "c87443"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c87443.webp"
 ---
 
-# 珠蓝大姉(修拉达伊诗)
+# 珠藍 大姉 (シュラ ダイシ)
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

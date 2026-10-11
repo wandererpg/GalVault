@@ -5,7 +5,10 @@ display_title: "神月小夜"
 title_zh: "神月小夜"
 title_ja: "神月 小夜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c97271"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kouzuki Sayo"
   - "神月 小夜"

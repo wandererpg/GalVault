@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c540"
 type: "character"
-display_title: "芽露斗洛古特伊惠"
-title_zh: "芽露斗洛古特伊惠"
+display_title: "メルト・ログティエ"
+title_zh: ""
 title_ja: "メルト・ログティエ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c540"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Melt Logtie"
-  - "メルト・ログティエ"
 source_ids:
   vndb: "c540"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c540.webp"
 ---
 
-# 芽露斗洛古特伊惠
+# メルト・ログティエ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

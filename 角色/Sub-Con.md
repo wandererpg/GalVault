@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c58191"
 type: "character"
-display_title: "沙布子恩"
-title_zh: "沙布子恩"
+display_title: "サブコン"
+title_zh: ""
 title_ja: "サブコン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c58191"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sub-Con"
-  - "サブコン"
   - "Substance-Concept"
 source_ids:
   vndb: "c58191"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c58191.webp"
 ---
 
-# 沙布子恩
+# サブコン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

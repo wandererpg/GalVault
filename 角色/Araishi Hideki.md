@@ -5,7 +5,10 @@ display_title: "新石英树"
 title_zh: "新石英树"
 title_ja: "新石 英樹"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c124620"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Araishi Hideki"
   - "新石 英樹"

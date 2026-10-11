@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98322"
 type: "character"
-display_title: "阿美斗寿阿美特惠吉"
-title_zh: "阿美斗寿阿美特惠吉"
+display_title: "アミトス・アミテージ"
+title_zh: ""
 title_ja: "アミトス・アミテージ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98322"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Amitos Armitage"
-  - "アミトス・アミテージ"
 source_ids:
   vndb: "c98322"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98322.webp"
 ---
 
-# 阿美斗寿阿美特惠吉
+# アミトス・アミテージ
 
 
 ## 角色画像

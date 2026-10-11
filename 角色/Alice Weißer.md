@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c33671"
 type: "character"
-display_title: "爱丽丝·W惠伊惠R"
-title_zh: "爱丽丝·W惠伊惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Alice Weißer"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33671"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Alice Weißer"
 source_ids:
   vndb: "c33671"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c33671.webp"
 ---
 
-# 爱丽丝·W惠伊惠R
+# Alice Weißer
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

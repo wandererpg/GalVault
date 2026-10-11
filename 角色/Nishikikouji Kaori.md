@@ -5,7 +5,10 @@ display_title: "锦小路霞织"
 title_zh: "锦小路霞织"
 title_ja: "錦小路 霞織"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c19095"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nishikikouji Kaori"
   - "錦小路 霞織"

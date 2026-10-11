@@ -5,7 +5,10 @@ display_title: "美咲恋乃香"
 title_zh: "美咲恋乃香"
 title_ja: "美咲 恋乃香"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c83737"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Misaki Konoka"
   - "美咲 恋乃香"

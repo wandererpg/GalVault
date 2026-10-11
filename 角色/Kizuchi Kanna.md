@@ -5,7 +5,10 @@ display_title: "木津池神奈"
 title_zh: "木津池神奈"
 title_ja: "木津池 神奈"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c83608"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kizuchi Kanna"
   - "木津池 神奈"

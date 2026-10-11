@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c37022"
 type: "character"
-display_title: "洛泽加堂"
-title_zh: "洛泽加堂"
+display_title: "ロゼ・カド"
+title_zh: ""
 title_ja: "ロゼ・カド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37022"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rose Card"
-  - "ロゼ・カド"
   - "Rosé Cadot"
 source_ids:
   vndb: "c37022"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c37022.webp"
 ---
 
-# 洛泽加堂
+# ロゼ・カド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

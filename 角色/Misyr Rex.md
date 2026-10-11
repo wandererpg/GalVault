@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c83402"
 type: "character"
-display_title: "美诗惠露阿蕾K久寿"
-title_zh: "美诗惠露阿蕾K久寿"
+display_title: "ミシェル・アレックス"
+title_zh: ""
 title_ja: "ミシェル・アレックス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c83402"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Misyr Rex"
-  - "ミシェル・アレックス"
 source_ids:
   vndb: "c83402"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c83402.webp"
 ---
 
-# 美诗惠露阿蕾K久寿
+# ミシェル・アレックス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

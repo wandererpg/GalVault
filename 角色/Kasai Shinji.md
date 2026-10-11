@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c116946"
 type: "character"
-display_title: "加沙伊·诗恩吉"
-title_zh: "加沙伊·诗恩吉"
+display_title: "카사이 신지"
+title_zh: ""
 title_ja: "카사이 신지"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116946"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kasai Shinji"
-  - "카사이 신지"
   - "Big Bro"
   - "Super High School Level Firefighter"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c116946.webp"
 ---
 
-# 加沙伊·诗恩吉
+# 카사이 신지
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

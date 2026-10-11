@@ -5,7 +5,10 @@ display_title: "石见安艺"
 title_zh: "石见安艺"
 title_ja: "石見 安芸"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c42847"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Iwami Aki"
   - "石見 安芸"

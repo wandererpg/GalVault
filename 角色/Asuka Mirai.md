@@ -5,7 +5,10 @@ display_title: "飞鸟未来"
 title_zh: "飞鸟未来"
 title_ja: "飛鳥 未来"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c6158"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Asuka Mirai"
   - "飛鳥 未来"

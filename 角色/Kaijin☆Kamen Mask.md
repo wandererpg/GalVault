@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14411"
 type: "character"
-display_title: "怪人☆假面真寿久"
-title_zh: "怪人☆假面真寿久"
+display_title: "怪人☆仮面マスク"
+title_zh: ""
 title_ja: "怪人☆仮面マスク"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14411"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kaijin☆Kamen Mask"
-  - "怪人☆仮面マスク"
 source_ids:
   vndb: "c14411"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c14411.webp"
 ---
 
-# 怪人☆假面真寿久
+# 怪人☆仮面マスク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "新井白石"
 title_zh: "新井白石"
 title_ja: "新井 白石"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c66696"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Arai Hakuseki"
   - "新井 白石"

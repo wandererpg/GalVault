@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71145"
 type: "character"
-display_title: "惠堂＝太阿拉恩吉"
-title_zh: "惠堂＝太阿拉恩吉"
+display_title: "エド＝ターランジ"
+title_zh: ""
 title_ja: "エド＝ターランジ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71145"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ed Tarange"
-  - "エド＝ターランジ"
 source_ids:
   vndb: "c71145"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71145.webp"
 ---
 
-# 惠堂＝太阿拉恩吉
+# エド＝ターランジ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

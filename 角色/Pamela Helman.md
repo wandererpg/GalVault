@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c119333"
 type: "character"
-display_title: "帕芽拉惠露真恩"
-title_zh: "帕芽拉惠露真恩"
+display_title: "パメラ・ヘルマン"
+title_zh: ""
 title_ja: "パメラ・ヘルマン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c119333"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Pamela Helman"
-  - "パメラ・ヘルマン"
 source_ids:
   vndb: "c119333"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c119333.webp"
 ---
 
-# 帕芽拉惠露真恩
+# パメラ・ヘルマン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

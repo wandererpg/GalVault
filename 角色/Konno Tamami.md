@@ -5,7 +5,10 @@ display_title: "绀野珠美"
 title_zh: "绀野珠美"
 title_ja: "紺野 珠美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1336"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Konno Tamami"
   - "紺野 珠美"

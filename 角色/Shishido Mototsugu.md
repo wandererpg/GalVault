@@ -5,7 +5,10 @@ display_title: "宍户元续"
 title_zh: "宍户元续"
 title_ja: "宍戸 元続"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c66726"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shishido Mototsugu"
   - "宍戸 元続"

@@ -5,7 +5,10 @@ display_title: "樱守姫此芽"
 title_zh: "樱守姫此芽"
 title_ja: "桜守姫 此芽"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c469"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ousuki Konome"
   - "桜守姫 此芽"

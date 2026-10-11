@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c46014"
 type: "character"
-display_title: "爱泽阿奥伊"
-title_zh: "爱泽阿奥伊"
+display_title: "愛沢 あをい"
+title_zh: ""
 title_ja: "愛沢 あをい"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c46014"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Aizawa Aoi"
-  - "愛沢 あをい"
 source_ids:
   vndb: "c46014"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c46014.webp"
 ---
 
-# 爱泽阿奥伊
+# 愛沢 あをい
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

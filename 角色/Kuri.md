@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c122847"
 type: "character"
-display_title: "久莉"
-title_zh: "久莉"
+display_title: "クリ"
+title_zh: ""
 title_ja: "クリ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c122847"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kuri"
-  - "クリ"
   - "クリちゃん"
   - "Kuri-chan"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c122847.webp"
 ---
 
-# 久莉
+# クリ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

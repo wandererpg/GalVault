@@ -5,7 +5,10 @@ display_title: "今井市子"
 title_zh: "今井市子"
 title_ja: "今井 市子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c81383"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Imai Ichiko"
   - "今井 市子"

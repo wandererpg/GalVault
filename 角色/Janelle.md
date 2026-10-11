@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c103043"
 type: "character"
-display_title: "嘉音LL惠"
-title_zh: "嘉音LL惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Janelle"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103043"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Janelle"
   - "Janelle Seger"
 source_ids:
   vndb: "c103043"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c103043.webp"
 ---
 
-# 嘉音LL惠
+# Janelle
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127540"
 type: "character"
-display_title: "堂P佩露娘"
-title_zh: "堂P佩露娘"
+display_title: "ドッペル娘"
+title_zh: ""
 title_ja: "ドッペル娘"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127540"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Doppel Luka"
-  - "ドッペル娘"
 source_ids:
   vndb: "c127540"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c127540.webp"
 ---
 
-# 堂P佩露娘
+# ドッペル娘
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

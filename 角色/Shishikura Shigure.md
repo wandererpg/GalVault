@@ -5,7 +5,10 @@ display_title: "鹿仓时雨"
 title_zh: "鹿仓时雨"
 title_ja: "鹿倉 時雨"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c85685"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shishikura Shigure"
   - "鹿倉 時雨"

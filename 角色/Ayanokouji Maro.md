@@ -5,7 +5,10 @@ display_title: "绫小路麻吕"
 title_zh: "绫小路麻吕"
 title_ja: "綾小路 麻呂"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9802"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ayanokouji Maro"
   - "綾小路 麻呂"

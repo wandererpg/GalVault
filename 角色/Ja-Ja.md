@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c91952"
 type: "character"
-display_title: "嘉·嘉"
-title_zh: "嘉·嘉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ja-Ja"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c91952"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ja-Ja"
   - "Sasaki Kozue"
 source_ids:
   vndb: "c91952"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c91952.webp"
 ---
 
-# 嘉·嘉
+# Ja-Ja
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

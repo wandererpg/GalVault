@@ -5,7 +5,10 @@ display_title: "河濑千春"
 title_zh: "河濑千春"
 title_ja: "河瀬 千春"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c158910"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kawase Chiharu"
   - "河瀬 千春"

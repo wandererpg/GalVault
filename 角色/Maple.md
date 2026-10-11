@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c132265"
 type: "character"
-display_title: "真PL惠"
-title_zh: "真PL惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Maple"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132265"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Maple"
 source_ids:
   vndb: "c132265"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c132265.webp"
 ---
 
-# 真PL惠
+# Maple
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

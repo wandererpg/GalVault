@@ -5,7 +5,10 @@ display_title: "酒井兵库"
 title_zh: "酒井兵库"
 title_ja: "酒井 兵庫"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c65638"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakai Hyougo"
   - "酒井 兵庫"

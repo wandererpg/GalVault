@@ -5,7 +5,10 @@ display_title: "圣莉々子"
 title_zh: "圣莉々子"
 title_ja: "聖 莉々子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c91569"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hijiri Ririko"
   - "聖 莉々子"

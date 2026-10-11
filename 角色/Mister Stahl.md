@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c173630"
 type: "character"
-display_title: "美S特R·S太HL"
-title_zh: "美S特R·S太HL"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Mister Stahl"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c173630"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Mister Stahl"
   - "Coach Stahl"
 source_ids:
   vndb: "c173630"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c173630.webp"
 ---
 
-# 美S特R·S太HL
+# Mister Stahl
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

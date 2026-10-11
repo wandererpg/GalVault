@@ -5,7 +5,10 @@ display_title: "高崎郁人"
 title_zh: "高崎郁人"
 title_ja: "高崎 郁人"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c91180"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takasaki Ikuto"
   - "高崎 郁人"

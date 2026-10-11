@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125319"
 type: "character"
-display_title: "拉美阿"
-title_zh: "拉美阿"
+display_title: "ラミア"
+title_zh: ""
 title_ja: "ラミア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125319"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lamia"
-  - "ラミア"
   - "Anastasia"
 source_ids:
   vndb: "c125319"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c125319.webp"
 ---
 
-# 拉美阿
+# ラミア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

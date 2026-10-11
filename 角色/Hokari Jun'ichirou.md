@@ -5,7 +5,10 @@ display_title: "穗刈纯一郎"
 title_zh: "穗刈纯一郎"
 title_ja: "穂刈 純一郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10273"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hokari Jun'ichirou"
   - "穂刈 純一郎"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c95535"
 type: "character"
-display_title: "使徒夏洛恩"
-title_zh: "使徒夏洛恩"
+display_title: "使徒 シャロン"
+title_zh: ""
 title_ja: "使徒 シャロン"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c95535"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Apostle Sharon"
-  - "使徒 シャロン"
 source_ids:
   vndb: "c95535"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c95535.webp"
 ---
 
-# 使徒夏洛恩
+# 使徒 シャロン
 
 
 ## 角色画像

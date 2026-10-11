@@ -5,7 +5,10 @@ display_title: "轰木钢"
 title_zh: "轰木钢"
 title_ja: "轟木 鋼"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21322"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Todoroki Hagane"
   - "轟木 鋼"

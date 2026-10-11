@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c21614"
 type: "character"
-display_title: "大房日代里"
-title_zh: "大房日代里"
+display_title: "大房 ひよ里"
+title_zh: ""
 title_ja: "大房 ひよ里"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c21614"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Oofusa Hiyori"
-  - "大房 ひよ里"
 source_ids:
   vndb: "c21614"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c21614.webp"
 ---
 
-# 大房日代里
+# 大房 ひよ里
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

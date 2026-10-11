@@ -2,10 +2,13 @@
 entity_id: "vndb:character:c89479"
 type: "character"
 display_title: "少女F"
-title_zh: "少女F"
+title_zh: ""
 title_ja: "少女F"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c89479"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Girl F"
 source_ids:

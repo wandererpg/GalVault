@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c168494"
 type: "character"
-display_title: "地罚乃神官"
-title_zh: "地罚乃神官"
+display_title: "地罰の神官"
+title_zh: ""
 title_ja: "地罰の神官"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c168494"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chibatsu no Shinkan"
-  - "地罰の神官"
 source_ids:
   vndb: "c168494"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c168494.webp"
 ---
 
-# 地罚乃神官
+# 地罰の神官
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "有田喜助"
 title_zh: "有田喜助"
 title_ja: "有田 喜助"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c39285"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Arita Kisuke"
   - "有田 喜助"

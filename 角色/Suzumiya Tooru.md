@@ -5,7 +5,10 @@ display_title: "铃宫冲"
 title_zh: "铃宫冲"
 title_ja: "鈴宮 沖"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c47209"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Suzumiya Tooru"
   - "鈴宮 沖"

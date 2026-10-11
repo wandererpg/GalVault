@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c85137"
 type: "character"
-display_title: "京恩"
-title_zh: "京恩"
+display_title: "キョン"
+title_zh: ""
 title_ja: "キョン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85137"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kyon"
-  - "キョン"
 source_ids:
   vndb: "c85137"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c85137.webp"
 ---
 
-# 京恩
+# キョン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

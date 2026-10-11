@@ -5,7 +5,10 @@ display_title: "木户䌷贵"
 title_zh: "木户䌷贵"
 title_ja: "木戸 紬貴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c122752"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kido Tsumugi"
   - "木戸 紬貴"

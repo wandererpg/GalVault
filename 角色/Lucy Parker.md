@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c136212"
 type: "character"
-display_title: "露西·帕R惠R"
-title_zh: "露西·帕R惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Lucy Parker"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136212"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Lucy Parker"
   - "Lu"
   - "Luce"
   - "Lulu"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c136212.webp"
 ---
 
-# 露西·帕R惠R
+# Lucy Parker
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

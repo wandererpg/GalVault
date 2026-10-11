@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c626"
 type: "character"
-display_title: "帕阿加阿男"
-title_zh: "帕阿加阿男"
+display_title: "パーカー男"
+title_zh: ""
 title_ja: "パーカー男"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c626"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hoodie Guy"
-  - "パーカー男"
   - "Parka Otoko"
   - "Parka Guy"
   - "響一哉"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c626.webp"
 ---
 
-# 帕阿加阿男
+# パーカー男
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

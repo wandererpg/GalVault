@@ -5,7 +5,10 @@ display_title: "久我野静女"
 title_zh: "久我野静女"
 title_ja: "久我野 静女"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c28142"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kugano Shizume"
   - "久我野 静女"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c111116"
 type: "character"
-display_title: "贝恩嘉美恩·T穗M索恩"
-title_zh: "贝恩嘉美恩·T穗M索恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Benjamin Thomson"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c111116"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Benjamin Thomson"
   - "Abdul-Ghafar Anwar"
 source_ids:
   vndb: "c111116"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c111116.webp"
 ---
 
-# 贝恩嘉美恩·T穗M索恩
+# Benjamin Thomson
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

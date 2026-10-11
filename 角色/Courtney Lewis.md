@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c123045"
 type: "character"
-display_title: "C奥乌RT音Y·L惠W伊S"
-title_zh: "C奥乌RT音Y·L惠W伊S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Courtney Lewis"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c123045"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Courtney Lewis"
 source_ids:
   vndb: "c123045"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c123045.webp"
 ---
 
-# C奥乌RT音Y·L惠W伊S
+# Courtney Lewis
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

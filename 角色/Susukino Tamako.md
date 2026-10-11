@@ -5,7 +5,10 @@ display_title: "薄野珠子"
 title_zh: "薄野珠子"
 title_ja: "薄野 珠子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c74708"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Susukino Tamako"
   - "薄野 珠子"

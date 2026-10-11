@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c62551"
 type: "character"
-display_title: "达V惠·美LL惠R"
-title_zh: "达V惠·美LL惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Dave Miller"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c62551"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Dave Miller"
   - "Afton"
   - "Aubergine"
   - "Grape Man"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c62551.webp"
 ---
 
-# 达V惠·美LL惠R
+# Dave Miller
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

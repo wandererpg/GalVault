@@ -5,7 +5,10 @@ display_title: "朗·希尔"
 title_zh: "朗·希尔"
 title_ja: "朗·希尔"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c127905"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Lon Hill"
   - "Ron"

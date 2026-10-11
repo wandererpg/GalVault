@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c73607"
 type: "character"
-display_title: "D伊D伊惠博拉恩吉惠"
-title_zh: "D伊D伊惠博拉恩吉惠"
+display_title: "ディディエ・ボランジェ"
+title_zh: ""
 title_ja: "ディディエ・ボランジェ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c73607"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Didier Bollinger"
-  - "ディディエ・ボランジェ"
   - "Dee"
 source_ids:
   vndb: "c73607"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c73607.webp"
 ---
 
-# D伊D伊惠博拉恩吉惠
+# ディディエ・ボランジェ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

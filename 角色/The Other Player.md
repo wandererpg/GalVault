@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c87974"
 type: "character"
-display_title: "T惠·奥T惠R·PL阿Y惠R"
-title_zh: "T惠·奥T惠R·PL阿Y惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "The Other Player"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87974"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "The Other Player"
 source_ids:
   vndb: "c87974"
 source_urls:
   vndb: "https://vndb.org/c87974"
 ---
 
-# T惠·奥T惠R·PL阿Y惠R
+# The Other Player
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

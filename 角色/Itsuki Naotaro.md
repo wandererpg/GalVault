@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c86243"
 type: "character"
-display_title: "伊津希直太郎"
-title_zh: "伊津希直太郎"
+display_title: "イツキ 直太郎"
+title_zh: ""
 title_ja: "イツキ 直太郎"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c86243"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Itsuki Naotaro"
-  - "イツキ 直太郎"
   - "ITSUKI∞"
 source_ids:
   vndb: "c86243"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c86243.webp"
 ---
 
-# 伊津希直太郎
+# イツキ 直太郎
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

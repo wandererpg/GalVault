@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c109712"
 type: "character"
-display_title: "太拉·加T莉恩SDTT伊R"
-title_zh: "太拉·加T莉恩SDTT伊R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Tara Katrinsdóttir"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c109712"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Tara Katrinsdóttir"
   - "Tarebear"
 source_ids:
   vndb: "c109712"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c109712.webp"
 ---
 
-# 太拉·加T莉恩SDTT伊R
+# Tara Katrinsdóttir
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "京极千太郎"
 title_zh: "京极千太郎"
 title_ja: "京極 千太郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c95673"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kyougoku Sentarou"
   - "京極 千太郎"

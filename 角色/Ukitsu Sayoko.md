@@ -5,7 +5,10 @@ display_title: "乌橘沙世子"
 title_zh: "乌橘沙世子"
 title_ja: "烏橘 沙世子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10776"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ukitsu Sayoko"
   - "烏橘 沙世子"

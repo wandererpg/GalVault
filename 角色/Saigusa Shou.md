@@ -5,7 +5,10 @@ display_title: "三枝晶"
 title_zh: "三枝晶"
 title_ja: "三枝 晶"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c149372"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Saigusa Shou"
   - "三枝 晶"

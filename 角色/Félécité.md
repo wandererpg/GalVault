@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c173809"
 type: "character"
-display_title: "FLC伊T"
-title_zh: "FLC伊T"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Félécité"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c173809"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Félécité"
 source_ids:
   vndb: "c173809"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c173809.webp"
 ---
 
-# FLC伊T
+# Félécité
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

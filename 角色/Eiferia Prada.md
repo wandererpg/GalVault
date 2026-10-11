@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c31909"
 type: "character"
-display_title: "惠伊F惠莉阿普拉达"
-title_zh: "惠伊F惠莉阿普拉达"
+display_title: "エイフェリア・プラダ"
+title_zh: ""
 title_ja: "エイフェリア・プラダ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c31909"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Eiferia Prada"
-  - "エイフェリア・プラダ"
 source_ids:
   vndb: "c31909"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c31909.webp"
 ---
 
-# 惠伊F惠莉阿普拉达
+# エイフェリア・プラダ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

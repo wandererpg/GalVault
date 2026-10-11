@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c112182"
 type: "character"
-display_title: "美奈·羽R佩R"
-title_zh: "美奈·羽R佩R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Mina Harper"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c112182"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Mina Harper"
 source_ids:
   vndb: "c112182"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c112182.webp"
 ---
 
-# 美奈·羽R佩R
+# Mina Harper
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

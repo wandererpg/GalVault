@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c32478"
 type: "character"
-display_title: "加古拉梦津希"
-title_zh: "加古拉梦津希"
+display_title: "カグラ゠ムツキ"
+title_zh: ""
 title_ja: "カグラ゠ムツキ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c32478"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kagura Mutsuki"
-  - "カグラ゠ムツキ"
   - "Black Gale"
   - "Dark Man"
   - "Kagura the Black Knight"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c32478.webp"
 ---
 
-# 加古拉梦津希
+# カグラ゠ムツキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

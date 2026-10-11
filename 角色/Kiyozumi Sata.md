@@ -5,7 +5,10 @@ display_title: "清澄沙汰"
 title_zh: "清澄沙汰"
 title_ja: "清澄 沙汰"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c101132"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kiyozumi Sata"
   - "清澄 沙汰"

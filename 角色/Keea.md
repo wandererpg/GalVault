@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c4768"
 type: "character"
-display_title: "希伊阿"
-title_zh: "希伊阿"
+display_title: "キーア"
+title_zh: ""
 title_ja: "キーア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c4768"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Keea"
-  - "キーア"
   - "Kia"
 source_ids:
   vndb: "c4768"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c4768.webp"
 ---
 
-# 希伊阿
+# キーア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "龙藏寺幸三"
 title_zh: "龙藏寺幸三"
 title_ja: "龍蔵寺 幸三"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c3851"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ryuuzouji Kouzou"
   - "龍蔵寺 幸三"

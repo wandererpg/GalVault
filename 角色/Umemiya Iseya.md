@@ -5,7 +5,10 @@ display_title: "梅宫伊濑也"
 title_zh: "梅宫伊濑也"
 title_ja: "梅宮 伊瀬也"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c24532"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Umemiya Iseya"
   - "梅宮 伊瀬也"

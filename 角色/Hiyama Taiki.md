@@ -5,7 +5,10 @@ display_title: "桧山大树"
 title_zh: "桧山大树"
 title_ja: "檜山 大樹"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c84426"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hiyama Taiki"
   - "檜山 大樹"

@@ -5,7 +5,10 @@ display_title: "板东太郎"
 title_zh: "板东太郎"
 title_ja: "板東 太郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c5406"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Bandou Tarou"
   - "板東 太郎"

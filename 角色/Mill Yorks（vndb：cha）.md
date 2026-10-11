@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c56513"
 type: "character"
-display_title: "美露代奥久寿"
-title_zh: "美露代奥久寿"
+display_title: "ミル・ヨークス"
+title_zh: ""
 title_ja: "ミル・ヨークス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56513"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mill Yorks"
-  - "ミル・ヨークス"
 source_ids:
   vndb: "c56513"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c56513.webp"
 ---
 
-# 美露代奥久寿
+# ミル・ヨークス
 
 
 ## 角色画像

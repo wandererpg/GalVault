@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c92042"
 type: "character"
-display_title: "斗比阿S·J惠D伊D伊阿H·惠SS"
-title_zh: "斗比阿S·J惠D伊D伊阿H·惠SS"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Tobias Jedidiah Hess"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92042"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Tobias Jedidiah Hess"
   - "TJ"
   - "Teej"
   - "Toby"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c92042.webp"
 ---
 
-# 斗比阿S·J惠D伊D伊阿H·惠SS
+# Tobias Jedidiah Hess
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

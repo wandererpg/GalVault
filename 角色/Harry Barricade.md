@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c159701"
 type: "character"
-display_title: "羽莉伊巴莉惠惠堂"
-title_zh: "羽莉伊巴莉惠惠堂"
+display_title: "ハリー・バリケード"
+title_zh: ""
 title_ja: "ハリー・バリケード"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159701"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Harry Barricade"
-  - "ハリー・バリケード"
 source_ids:
   vndb: "c159701"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c159701.webp"
 ---
 
-# 羽莉伊巴莉惠惠堂
+# ハリー・バリケード
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "不二卫哉"
 title_zh: "不二卫哉"
 title_ja: "不二 衛哉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c153707"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fuji Morichika"
   - "不二 衛哉"

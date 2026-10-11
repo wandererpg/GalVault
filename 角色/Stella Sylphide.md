@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c70975"
 type: "character"
-display_title: "寿特拉＝诗露F伊伊堂"
-title_zh: "寿特拉＝诗露F伊伊堂"
+display_title: "ステラ＝シルフィード"
+title_zh: ""
 title_ja: "ステラ＝シルフィード"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c70975"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Stella Sylphide"
-  - "ステラ＝シルフィード"
 source_ids:
   vndb: "c70975"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c70975.webp"
 ---
 
-# 寿特拉＝诗露F伊伊堂
+# ステラ＝シルフィード
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

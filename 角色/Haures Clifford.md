@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c104165"
 type: "character"
-display_title: "羽乌蕾寿久莉F奥奥堂"
-title_zh: "羽乌蕾寿久莉F奥奥堂"
+display_title: "ハウレス・クリフォード"
+title_zh: ""
 title_ja: "ハウレス・クリフォード"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c104165"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Haures Clifford"
-  - "ハウレス・クリフォード"
 source_ids:
   vndb: "c104165"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c104165.webp"
 ---
 
-# 羽乌蕾寿久莉F奥奥堂
+# ハウレス・クリフォード
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

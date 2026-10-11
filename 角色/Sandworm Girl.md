@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125639"
 type: "character"
-display_title: "沙恩堂和阿梦娘"
-title_zh: "沙恩堂和阿梦娘"
+display_title: "サンドワーム娘"
+title_zh: ""
 title_ja: "サンドワーム娘"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125639"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sandworm Girl"
-  - "サンドワーム娘"
   - "Dahlia"
 source_ids:
   vndb: "c125639"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c125639.webp"
 ---
 
-# 沙恩堂和阿梦娘
+# サンドワーム娘
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

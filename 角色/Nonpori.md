@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12608"
 type: "character"
-display_title: "乃恩波莉"
-title_zh: "乃恩波莉"
+display_title: "ノンポリ"
+title_zh: ""
 title_ja: "ノンポリ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12608"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nonpori"
-  - "ノンポリ"
 source_ids:
   vndb: "c12608"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c12608.webp"
 ---
 
-# 乃恩波莉
+# ノンポリ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

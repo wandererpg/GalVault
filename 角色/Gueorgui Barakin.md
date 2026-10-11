@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43341"
 type: "character"
-display_title: "格惠奥露吉伊巴拉希恩"
-title_zh: "格惠奥露吉伊巴拉希恩"
+display_title: "ゲーオルギー・バラキン"
+title_zh: ""
 title_ja: "ゲーオルギー・バラキン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43341"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gueorgui Barakin"
-  - "ゲーオルギー・バラキン"
 source_ids:
   vndb: "c43341"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43341.webp"
 ---
 
-# 格惠奥露吉伊巴拉希恩
+# ゲーオルギー・バラキン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

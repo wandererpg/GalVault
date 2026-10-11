@@ -5,7 +5,10 @@ display_title: "泽崎都"
 title_zh: "泽崎都"
 title_ja: "沢崎 都"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10328"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sawazaki Miyako"
   - "沢崎 都"

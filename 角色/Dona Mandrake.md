@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c123206"
 type: "character"
-display_title: "堂奈·真恩D拉惠"
-title_zh: "堂奈·真恩D拉惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Dona Mandrake"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c123206"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Dona Mandrake"
 source_ids:
   vndb: "c123206"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c123206.webp"
 ---
 
-# 堂奈·真恩D拉惠
+# Dona Mandrake
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

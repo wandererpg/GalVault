@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c7689"
 type: "character"
-display_title: "阿修莉伊·芙莉伊堂"
-title_zh: "阿修莉伊·芙莉伊堂"
+display_title: "アシュリー フリード"
+title_zh: ""
 title_ja: "アシュリー フリード"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c7689"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ashley Furiido"
-  - "アシュリー フリード"
 source_ids:
   vndb: "c7689"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c7689.webp"
 ---
 
-# 阿修莉伊·芙莉伊堂
+# アシュリー フリード
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

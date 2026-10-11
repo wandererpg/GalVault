@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10461"
 type: "character"
-display_title: "北里诗古蕾"
-title_zh: "北里诗古蕾"
+display_title: "北里 しぐれ"
+title_zh: ""
 title_ja: "北里 しぐれ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10461"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kitazato Shigure"
-  - "北里 しぐれ"
 source_ids:
   vndb: "c10461"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c10461.webp"
 ---
 
-# 北里诗古蕾
+# 北里 しぐれ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

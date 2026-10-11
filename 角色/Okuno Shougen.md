@@ -5,7 +5,10 @@ display_title: "奥野将监"
 title_zh: "奥野将监"
 title_ja: "奥野 将監"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16624"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Okuno Shougen"
   - "奥野 将監"

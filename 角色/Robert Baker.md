@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c103771"
 type: "character"
-display_title: "洛巴阿斗贝伊加阿"
-title_zh: "洛巴阿斗贝伊加阿"
+display_title: "ロバート・ベイカー"
+title_zh: ""
 title_ja: "ロバート・ベイカー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103771"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Robert Baker"
-  - "ロバート・ベイカー"
 source_ids:
   vndb: "c103771"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c103771.webp"
 ---
 
-# 洛巴阿斗贝伊加阿
+# ロバート・ベイカー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

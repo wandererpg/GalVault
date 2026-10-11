@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c59755"
 type: "character"
-display_title: "F阿露加缪乌蕾恩加恩普"
-title_zh: "F阿露加缪乌蕾恩加恩普"
+display_title: "ファルカ・ミューレンカンプ"
+title_zh: ""
 title_ja: "ファルカ・ミューレンカンプ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c59755"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Farka Mühlenkamp"
-  - "ファルカ・ミューレンカンプ"
   - "Wehrwolf 06"
   - "Lion"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c59755.webp"
 ---
 
-# F阿露加缪乌蕾恩加恩普
+# ファルカ・ミューレンカンプ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

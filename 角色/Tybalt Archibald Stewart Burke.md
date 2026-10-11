@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c138149"
 type: "character"
-display_title: "TY巴LT·阿R千巴LD·S特和RT·布R惠"
-title_zh: "TY巴LT·阿R千巴LD·S特和RT·布R惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Tybalt Archibald Stewart Burke"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138149"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Tybalt Archibald Stewart Burke"
   - "Tybbie, Tyballs."
 source_ids:
   vndb: "c138149"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c138149.webp"
 ---
 
-# TY巴LT·阿R千巴LD·S特和RT·布R惠
+# Tybalt Archibald Stewart Burke
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

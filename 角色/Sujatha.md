@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c105873"
 type: "character"
-display_title: "寿嘉阿太"
-title_zh: "寿嘉阿太"
+display_title: "スジャータ"
+title_zh: ""
 title_ja: "スジャータ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c105873"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sujatha"
-  - "スジャータ"
 source_ids:
   vndb: "c105873"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c105873.webp"
 ---
 
-# 寿嘉阿太
+# スジャータ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

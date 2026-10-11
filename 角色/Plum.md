@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c109547"
 type: "character"
-display_title: "普拉梦"
-title_zh: "普拉梦"
+display_title: "プラム"
+title_zh: ""
 title_ja: "プラム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c109547"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Plum"
-  - "プラム"
 source_ids:
   vndb: "c109547"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c109547.webp"
 ---
 
-# 普拉梦
+# プラム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

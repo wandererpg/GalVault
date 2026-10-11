@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c107609"
 type: "character"
-display_title: "真莉阿奈"
-title_zh: "真莉阿奈"
+display_title: "マリアナ"
+title_zh: ""
 title_ja: "マリアナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c107609"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mariana"
-  - "マリアナ"
 source_ids:
   vndb: "c107609"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c107609.webp"
 ---
 
-# 真莉阿奈
+# マリアナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

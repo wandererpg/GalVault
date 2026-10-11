@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39808"
 type: "character"
-display_title: "优莉乌寿F奥露斗奈阿"
-title_zh: "优莉乌寿F奥露斗奈阿"
+display_title: "ユリウス・フォルトナー"
+title_zh: ""
 title_ja: "ユリウス・フォルトナー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39808"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Julius Fortner"
-  - "ユリウス・フォルトナー"
 source_ids:
   vndb: "c39808"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c39808.webp"
 ---
 
-# 优莉乌寿F奥露斗奈阿
+# ユリウス・フォルトナー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

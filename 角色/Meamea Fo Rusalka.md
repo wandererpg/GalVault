@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c146729"
 type: "character"
-display_title: "芽阿芽阿F奥露沙阿露加"
-title_zh: "芽阿芽阿F奥露沙阿露加"
+display_title: "メアメア・フォ・ルサールカ"
+title_zh: ""
 title_ja: "メアメア・フォ・ルサールカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c146729"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Meamea Fo Rusalka"
-  - "メアメア・フォ・ルサールカ"
   - "メア"
   - "Mea"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c146729.webp"
 ---
 
-# 芽阿芽阿F奥露沙阿露加
+# メアメア・フォ・ルサールカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

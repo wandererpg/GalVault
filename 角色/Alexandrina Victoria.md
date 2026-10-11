@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38209"
 type: "character"
-display_title: "阿蕾久沙恩堂莉奈V伊久斗莉阿"
-title_zh: "阿蕾久沙恩堂莉奈V伊久斗莉阿"
+display_title: "アレクサンドリナ・ヴィクトリア"
+title_zh: ""
 title_ja: "アレクサンドリナ・ヴィクトリア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38209"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alexandrina Victoria"
-  - "アレクサンドリナ・ヴィクトリア"
 source_ids:
   vndb: "c38209"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c38209.webp"
 ---
 
-# 阿蕾久沙恩堂莉奈V伊久斗莉阿
+# アレクサンドリナ・ヴィクトリア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

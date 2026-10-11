@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c111995"
 type: "character"
-display_title: "羽T千乌伊恩德巴恩久"
-title_zh: "羽T千乌伊恩德巴恩久"
+display_title: "ハッチ・ウィンデバンク"
+title_zh: ""
 title_ja: "ハッチ・ウィンデバンク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c111995"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hatch Windibank"
-  - "ハッチ・ウィンデバンク"
 source_ids:
   vndb: "c111995"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c111995.webp"
 ---
 
-# 羽T千乌伊恩德巴恩久
+# ハッチ・ウィンデバンク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

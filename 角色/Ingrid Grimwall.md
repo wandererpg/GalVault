@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c122012"
 type: "character"
-display_title: "伊恩G莉D·G莉M和LL"
-title_zh: "伊恩G莉D·G莉M和LL"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ingrid Grimwall"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c122012"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ingrid Grimwall"
   - "Ultimate Blacksmith"
 source_ids:
   vndb: "c122012"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c122012.webp"
 ---
 
-# 伊恩G莉D·G莉M和LL
+# Ingrid Grimwall
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

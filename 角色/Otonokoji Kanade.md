@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c116928"
 type: "character"
-display_title: "奥斗乃子吉·加奈德"
-title_zh: "奥斗乃子吉·加奈德"
+display_title: "오토노코지 카나데"
+title_zh: ""
 title_ja: "오토노코지 카나데"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116928"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Otonokoji Kanade"
-  - "오토노코지 카나데"
   - "Super High School Level Guitarist"
 source_ids:
   vndb: "c116928"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c116928.webp"
 ---
 
-# 奥斗乃子吉·加奈德
+# 오토노코지 카나데
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

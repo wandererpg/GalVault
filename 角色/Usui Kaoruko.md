@@ -5,7 +5,10 @@ display_title: "臼井薰子"
 title_zh: "臼井薰子"
 title_ja: "臼井 薫子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c132244"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Usui Kaoruko"
   - "臼井 薫子"

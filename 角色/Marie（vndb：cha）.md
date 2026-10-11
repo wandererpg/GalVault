@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c29001"
 type: "character"
-display_title: "真莉伊"
-title_zh: "真莉伊"
+display_title: "マリィ"
+title_zh: ""
 title_ja: "マリィ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c29001"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Marie"
-  - "マリィ"
   - "Marguerite Breuilh"
   - "Twilight"
   - "黄昏"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c29001.webp"
 ---
 
-# 真莉伊
+# マリィ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

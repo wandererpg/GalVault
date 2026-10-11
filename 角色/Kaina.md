@@ -5,7 +5,10 @@ display_title: "灰名"
 title_zh: "灰名"
 title_ja: "灰名"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c77033"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kaina"
 source_ids:

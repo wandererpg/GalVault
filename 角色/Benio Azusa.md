@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c42505"
 type: "character"
-display_title: "红緖阿兹沙"
-title_zh: "红緖阿兹沙"
+display_title: "紅緒 あずさ"
+title_zh: ""
 title_ja: "紅緒 あずさ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c42505"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Benio Azusa"
-  - "紅緒 あずさ"
   - "あずき"
   - "Azuki"
   - "あずさん"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c42505.webp"
 ---
 
-# 红緖阿兹沙
+# 紅緒 あずさ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

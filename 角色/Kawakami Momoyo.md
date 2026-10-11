@@ -5,7 +5,10 @@ display_title: "川神百代"
 title_zh: "川神百代"
 title_ja: "川神 百代"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c3507"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kawakami Momoyo"
   - "川神 百代"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10729"
 type: "character"
-display_title: "优乌F奥莉阿斗莉尼特伊"
-title_zh: "优乌F奥莉阿斗莉尼特伊"
+display_title: "ユーフォリア・トリニティ"
+title_zh: ""
 title_ja: "ユーフォリア・トリニティ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10729"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Euphoria Trinity"
-  - "ユーフォリア・トリニティ"
   - "Yufi"
   - "Euphy"
   - "ユフィ"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c10729.webp"
 ---
 
-# 优乌F奥莉阿斗莉尼特伊
+# ユーフォリア・トリニティ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

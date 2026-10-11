@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c120838"
 type: "character"
-display_title: "达莫恩·真伊津"
-title_zh: "达莫恩·真伊津"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Damon Maitsu"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c120838"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Damon Maitsu"
   - "Ultimate Debater, bargain bin"
 source_ids:
   vndb: "c120838"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c120838.webp"
 ---
 
-# 达莫恩·真伊津
+# Damon Maitsu
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

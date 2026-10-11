@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c120173"
 type: "character"
-display_title: "猫恰恩"
-title_zh: "猫恰恩"
+display_title: "猫ちゃん"
+title_zh: ""
 title_ja: "猫ちゃん"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c120173"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Stray Cat"
-  - "猫ちゃん"
 source_ids:
   vndb: "c120173"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c120173.webp"
 ---
 
-# 猫恰恩
+# 猫ちゃん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

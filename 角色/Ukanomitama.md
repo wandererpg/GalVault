@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43822"
 type: "character"
-display_title: "乌加乃美太真"
-title_zh: "乌加乃美太真"
+display_title: "ウカノミタマ"
+title_zh: ""
 title_ja: "ウカノミタマ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43822"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ukanomitama"
-  - "ウカノミタマ"
 source_ids:
   vndb: "c43822"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43822.webp"
 ---
 
-# 乌加乃美太真
+# ウカノミタマ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34936"
 type: "character"
-display_title: "露乌斗V伊H日古莉梦"
-title_zh: "露乌斗V伊H日古莉梦"
+display_title: "ルートヴィッヒ・グリム"
+title_zh: ""
 title_ja: "ルートヴィッヒ・グリム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34936"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ludwig Grimm"
-  - "ルートヴィッヒ・グリム"
 source_ids:
   vndb: "c34936"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c34936.webp"
 ---
 
-# 露乌斗V伊H日古莉梦
+# ルートヴィッヒ・グリム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

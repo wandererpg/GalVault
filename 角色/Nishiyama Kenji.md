@@ -5,7 +5,10 @@ display_title: "西山健二"
 title_zh: "西山健二"
 title_ja: "西山 健二"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c47041"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nishiyama Kenji"
   - "西山 健二"

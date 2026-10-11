@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c22715"
 type: "character"
-display_title: "津美"
-title_zh: "津美"
+display_title: "つみ"
+title_zh: ""
 title_ja: "つみ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c22715"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tsumi"
-  - "つみ"
 source_ids:
   vndb: "c22715"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c22715.webp"
 ---
 
-# 津美
+# つみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

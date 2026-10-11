@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c809"
 type: "character"
-display_title: "美露F伊伊优樱叶"
-title_zh: "美露F伊伊优樱叶"
+display_title: "ミルフィーユ・桜葉"
+title_zh: ""
 title_ja: "ミルフィーユ・桜葉"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c809"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Milfeulle Sakuraba"
-  - "ミルフィーユ・桜葉"
   - "Milfie"
 source_ids:
   vndb: "c809"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c809.webp"
 ---
 
-# 美露F伊伊优樱叶
+# ミルフィーユ・桜葉
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

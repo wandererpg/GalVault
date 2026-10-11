@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13038"
 type: "character"
-display_title: "嘉K久羽美露斗恩"
-title_zh: "嘉K久羽美露斗恩"
+display_title: "ジャック・ハミルトン"
+title_zh: ""
 title_ja: "ジャック・ハミルトン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13038"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jack Hamilton"
-  - "ジャック・ハミルトン"
 source_ids:
   vndb: "c13038"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c13038.webp"
 ---
 
-# 嘉K久羽美露斗恩
+# ジャック・ハミルトン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

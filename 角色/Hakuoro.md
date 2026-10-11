@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c411"
 type: "character"
-display_title: "羽久奥洛"
-title_zh: "羽久奥洛"
+display_title: "ハクオロ"
+title_zh: ""
 title_ja: "ハクオロ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c411"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hakuoro"
-  - "ハクオロ"
 source_ids:
   vndb: "c411"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c411.webp"
 ---
 
-# 羽久奥洛
+# ハクオロ
 
 
 ## 角色画像

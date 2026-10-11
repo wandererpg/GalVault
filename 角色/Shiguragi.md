@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c55665"
 type: "character"
-display_title: "诗古拉吉"
-title_zh: "诗古拉吉"
+display_title: "シグラギ"
+title_zh: ""
 title_ja: "シグラギ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c55665"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shiguragi"
-  - "シグラギ"
 source_ids:
   vndb: "c55665"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c55665.webp"
 ---
 
-# 诗古拉吉
+# シグラギ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

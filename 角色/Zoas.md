@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c95293"
 type: "character"
-display_title: "藏阿寿"
-title_zh: "藏阿寿"
+display_title: "ゾアス"
+title_zh: ""
 title_ja: "ゾアス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c95293"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Zoas"
-  - "ゾアス"
 source_ids:
   vndb: "c95293"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c95293.webp"
 ---
 
-# 藏阿寿
+# ゾアス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "亚麻乃雏"
 title_zh: "亚麻乃雏"
 title_ja: "亜麻乃 雛"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c42607"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Amano Hina"
   - "亜麻乃 雛"

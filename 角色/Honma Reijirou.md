@@ -5,7 +5,10 @@ display_title: "本间礼次郎"
 title_zh: "本间礼次郎"
 title_ja: "本間 礼次郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c83961"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Honma Reijirou"
   - "本間 礼次郎"

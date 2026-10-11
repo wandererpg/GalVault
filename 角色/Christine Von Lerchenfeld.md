@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c22381"
 type: "character"
-display_title: "久莉寿特伊伊音F奥恩·蕾露日惠恩F惠露斗"
-title_zh: "久莉寿特伊伊音F奥恩·蕾露日惠恩F惠露斗"
+display_title: "クリスティーネ・フォン・ レルヒェンフェルト"
+title_zh: ""
 title_ja: "クリスティーネ・フォン・ レルヒェンフェルト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c22381"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Christine Von Lerchenfeld"
-  - "クリスティーネ・フォン・ レルヒェンフェルト"
 source_ids:
   vndb: "c22381"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c22381.webp"
 ---
 
-# 久莉寿特伊伊音F奥恩·蕾露日惠恩F惠露斗
+# クリスティーネ・フォン・ レルヒェンフェルト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

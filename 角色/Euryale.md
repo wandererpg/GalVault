@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c41601"
 type: "character"
-display_title: "惠乌龙阿蕾"
-title_zh: "惠乌龙阿蕾"
+display_title: "エウリュアレ"
+title_zh: ""
 title_ja: "エウリュアレ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c41601"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Euryale"
-  - "エウリュアレ"
 source_ids:
   vndb: "c41601"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c41601.webp"
 ---
 
-# 惠乌龙阿蕾
+# エウリュアレ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

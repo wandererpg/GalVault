@@ -5,7 +5,10 @@ display_title: "三月静香"
 title_zh: "三月静香"
 title_ja: "三月 静香"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c61060"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mitsuki Shizuka"
   - "三月 静香"

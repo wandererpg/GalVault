@@ -5,7 +5,10 @@ display_title: "柾木真之介"
 title_zh: "柾木真之介"
 title_ja: "柾木 真之介"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c36127"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Masaki Shinnosuke"
   - "柾木 真之介"

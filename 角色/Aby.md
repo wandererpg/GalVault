@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17385"
 type: "character"
-display_title: "阿比伊"
-title_zh: "阿比伊"
+display_title: "アビー"
+title_zh: ""
 title_ja: "アビー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17385"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Aby"
-  - "アビー"
 source_ids:
   vndb: "c17385"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c17385.webp"
 ---
 
-# 阿比伊
+# アビー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

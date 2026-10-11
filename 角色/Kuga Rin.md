@@ -5,7 +5,10 @@ display_title: "久我燐"
 title_zh: "久我燐"
 title_ja: "久我　燐"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c144200"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kuga Rin"
   - "久我　燐"

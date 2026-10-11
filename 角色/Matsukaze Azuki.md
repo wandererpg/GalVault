@@ -5,7 +5,10 @@ display_title: "松风梓姫"
 title_zh: "松风梓姫"
 title_ja: "松風 梓姫"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c87047"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Matsukaze Azuki"
   - "松風 梓姫"

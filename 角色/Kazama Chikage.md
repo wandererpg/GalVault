@@ -5,7 +5,10 @@ display_title: "风间千景"
 title_zh: "风间千景"
 title_ja: "風間 千景"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c6972"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kazama Chikage"
   - "風間 千景"

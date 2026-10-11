@@ -5,7 +5,10 @@ display_title: "月社妃"
 title_zh: "月社妃"
 title_ja: "月社 妃"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c23363"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsukiyashiro Kisaki"
   - "月社 妃"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c143515"
 type: "character"
-display_title: "佩特R·P蕾STL惠Y"
-title_zh: "佩特R·P蕾STL惠Y"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Peter Prestley"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c143515"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Peter Prestley"
 source_ids:
   vndb: "c143515"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c143515.webp"
 ---
 
-# 佩特R·P蕾STL惠Y
+# Peter Prestley
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

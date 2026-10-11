@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13042"
 type: "character"
-display_title: "芽伊芽伊"
-title_zh: "芽伊芽伊"
+display_title: "メイメイ"
+title_zh: ""
 title_ja: "メイメイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13042"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mei Mei"
-  - "メイメイ"
   - "Meimei"
 source_ids:
   vndb: "c13042"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c13042.webp"
 ---
 
-# 芽伊芽伊
+# メイメイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

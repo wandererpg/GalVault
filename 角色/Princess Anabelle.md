@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c125711"
 type: "character"
-display_title: "P莉恩C惠SS·阿奈贝LL惠"
-title_zh: "P莉恩C惠SS·阿奈贝LL惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Princess Anabelle"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125711"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Princess Anabelle"
 source_ids:
   vndb: "c125711"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c125711.webp"
 ---
 
-# P莉恩C惠SS·阿奈贝LL惠
+# Princess Anabelle
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

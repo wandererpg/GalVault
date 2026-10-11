@@ -5,7 +5,10 @@ display_title: "近藤正义"
 title_zh: "近藤正义"
 title_ja: "近藤 正義"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21377"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kondou Masayoshi"
   - "近藤 正義"

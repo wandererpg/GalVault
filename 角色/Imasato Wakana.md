@@ -5,7 +5,10 @@ display_title: "今里和奏"
 title_zh: "今里和奏"
 title_ja: "今里 和奏"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1378"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Imasato Wakana"
   - "今里 和奏"

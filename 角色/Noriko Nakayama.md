@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c97530"
 type: "character"
-display_title: "乃莉子·奈加雅真"
-title_zh: "乃莉子·奈加雅真"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Noriko Nakayama"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97530"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Noriko Nakayama"
 source_ids:
   vndb: "c97530"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c97530.webp"
 ---
 
-# 乃莉子·奈加雅真
+# Noriko Nakayama
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

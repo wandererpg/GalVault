@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159775"
 type: "character"
-display_title: "伊奈恩奈"
-title_zh: "伊奈恩奈"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Inanna"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159775"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Inanna"
   - "Aphrodite"
   - "Goddess of Vengeance, War, and Lust"
   - "Ishtar"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c159775.webp"
 ---
 
-# 伊奈恩奈
+# Inanna
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

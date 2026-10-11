@@ -5,7 +5,10 @@ display_title: "王伟"
 title_zh: "王伟"
 title_ja: "王 偉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14542"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Wong Wei"
   - "王 偉"

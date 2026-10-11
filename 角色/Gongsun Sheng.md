@@ -5,7 +5,10 @@ display_title: "公孙胜"
 title_zh: "公孙胜"
 title_ja: "公孫勝"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c56410"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Gongsun Sheng"
   - "公孫勝"

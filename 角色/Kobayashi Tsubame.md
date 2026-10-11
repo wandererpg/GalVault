@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c104848"
 type: "character"
-display_title: "小林津巴芽"
-title_zh: "小林津巴芽"
+display_title: "小林 つばめ"
+title_zh: ""
 title_ja: "小林 つばめ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c104848"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kobayashi Tsubame"
-  - "小林 つばめ"
 source_ids:
   vndb: "c104848"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c104848.webp"
 ---
 
-# 小林津巴芽
+# 小林 つばめ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

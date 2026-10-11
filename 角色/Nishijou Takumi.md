@@ -5,7 +5,10 @@ display_title: "西条拓巳"
 title_zh: "西条拓巳"
 title_ja: "西條 拓巳"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c4655"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nishijou Takumi"
   - "西條 拓巳"

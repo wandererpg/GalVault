@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16641"
 type: "character"
-display_title: "古蕾恩古蕾伊布洛"
-title_zh: "古蕾恩古蕾伊布洛"
+display_title: "グレン・グレイブロ"
+title_zh: ""
 title_ja: "グレン・グレイブロ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16641"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Glenn Graverow"
-  - "グレン・グレイブロ"
 source_ids:
   vndb: "c16641"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c16641.webp"
 ---
 
-# 古蕾恩古蕾伊布洛
+# グレン・グレイブロ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

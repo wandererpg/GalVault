@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c21103"
 type: "character"
-display_title: "肆则乃莉加"
-title_zh: "肆则乃莉加"
+display_title: "肆則 のりか"
+title_zh: ""
 title_ja: "肆則 のりか"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c21103"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shisoku Norika"
-  - "肆則 のりか"
   - "靑姉"
 source_ids:
   vndb: "c21103"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c21103.webp"
 ---
 
-# 肆则乃莉加
+# 肆則 のりか
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

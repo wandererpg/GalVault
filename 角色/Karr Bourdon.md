@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c129419"
 type: "character"
-display_title: "加阿布露堂恩"
-title_zh: "加阿布露堂恩"
+display_title: "カー・ブルドン"
+title_zh: ""
 title_ja: "カー・ブルドン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c129419"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Karr Bourdon"
-  - "カー・ブルドン"
 source_ids:
   vndb: "c129419"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c129419.webp"
 ---
 
-# 加阿布露堂恩
+# カー・ブルドン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

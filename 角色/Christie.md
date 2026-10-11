@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c141411"
 type: "character"
-display_title: "CH莉ST伊惠"
-title_zh: "CH莉ST伊惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Christie"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141411"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Christie"
 source_ids:
   vndb: "c141411"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c141411.webp"
 ---
 
-# CH莉ST伊惠
+# Christie
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

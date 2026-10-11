@@ -5,7 +5,10 @@ display_title: "铃木佑快"
 title_zh: "铃木佑快"
 title_ja: "鈴木 佑快"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c361"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Suzuki Yuukai"
   - "鈴木 佑快"

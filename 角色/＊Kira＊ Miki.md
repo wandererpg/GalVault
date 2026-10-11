@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c80881"
 type: "character"
-display_title: "希拉·美希"
-title_zh: "希拉·美希"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "*Kira* Miki"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c80881"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "*Kira* Miki"
   - "Big Tittied Lilim"
   - "Michelle Kingston"
   - "Ms. Idol"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c80881.webp"
 ---
 
-# 希拉·美希
+# *Kira* Miki
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

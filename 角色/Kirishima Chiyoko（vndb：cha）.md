@@ -5,7 +5,10 @@ display_title: "雾岛千代子"
 title_zh: "雾岛千代子"
 title_ja: "霧島 千代子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c84060"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kirishima Chiyoko"
   - "霧島 千代子"

@@ -5,7 +5,10 @@ display_title: "坂上明乃"
 title_zh: "坂上明乃"
 title_ja: "坂上 明乃"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c146585"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakagami Akeno"
   - "坂上 明乃"

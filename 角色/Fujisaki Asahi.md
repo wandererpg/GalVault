@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c502"
 type: "character"
-display_title: "藤崎阿沙日"
-title_zh: "藤崎阿沙日"
+display_title: "藤崎 あさひ"
+title_zh: ""
 title_ja: "藤崎 あさひ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c502"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Fujisaki Asahi"
-  - "藤崎 あさひ"
 source_ids:
   vndb: "c502"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c502.webp"
 ---
 
-# 藤崎阿沙日
+# 藤崎 あさひ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

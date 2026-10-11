@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c5561"
 type: "character"
-display_title: "千真"
-title_zh: "千真"
+display_title: "ちま"
+title_zh: ""
 title_ja: "ちま"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c5561"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chima"
-  - "ちま"
 source_ids:
   vndb: "c5561"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c5561.webp"
 ---
 
-# 千真
+# ちま
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

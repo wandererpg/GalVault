@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c115781"
 type: "character"
-display_title: "伊V阿恩加蕾寿斗蕾伊吉"
-title_zh: "伊V阿恩加蕾寿斗蕾伊吉"
+display_title: "イヴァンカ・レストレイジ"
+title_zh: ""
 title_ja: "イヴァンカ・レストレイジ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c115781"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ivanka Lestrage"
-  - "イヴァンカ・レストレイジ"
   - "テレサ・バーゲンスタイン"
   - "Teresa Bergenstein"
   - "テレージア"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c115781.webp"
 ---
 
-# 伊V阿恩加蕾寿斗蕾伊吉
+# イヴァンカ・レストレイジ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "相泽荣一"
 title_zh: "相泽荣一"
 title_ja: "相沢 栄一"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c410"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Aizawa Eiichi"
   - "相沢 栄一"

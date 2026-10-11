@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c20935"
 type: "character"
-display_title: "永仓沙代"
-title_zh: "永仓沙代"
+display_title: "永倉 さよ"
+title_zh: ""
 title_ja: "永倉 さよ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c20935"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nagakura Sayo"
-  - "永倉 さよ"
   - "ばあや"
   - "Baaya"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c20935.webp"
 ---
 
-# 永仓沙代
+# 永倉 さよ
 
 
 ## 角色画像

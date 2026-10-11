@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c27788"
 type: "character"
-display_title: "露堂泽V伊津"
-title_zh: "露堂泽V伊津"
+display_title: "ルド・ゼヴィツ"
+title_zh: ""
 title_ja: "ルド・ゼヴィツ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c27788"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rudo Zhevitz"
-  - "ルド・ゼヴィツ"
 source_ids:
   vndb: "c27788"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c27788.webp"
 ---
 
-# 露堂泽V伊津
+# ルド・ゼヴィツ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

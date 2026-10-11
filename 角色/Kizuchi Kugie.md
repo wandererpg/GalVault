@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c99616"
 type: "character"
-display_title: "木津池久吉惠"
-title_zh: "木津池久吉惠"
+display_title: "木津池 クギエ"
+title_zh: ""
 title_ja: "木津池 クギエ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c99616"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kizuchi Kugie"
-  - "木津池 クギエ"
   - "Kanna’s sister"
   - "Sister"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c99616.webp"
 ---
 
-# 木津池久吉惠
+# 木津池 クギエ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "鹤见义春"
 title_zh: "鹤见义春"
 title_ja: "鶴見 義春"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c65719"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsurumi Yoshiharu"
   - "鶴見 義春"

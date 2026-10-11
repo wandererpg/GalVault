@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c127103"
 type: "character"
-display_title: "TYP穗恩·吉RL"
-title_zh: "TYP穗恩·吉RL"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Typhon Girl"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127103"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Typhon Girl"
 source_ids:
   vndb: "c127103"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c127103.webp"
 ---
 
-# TYP穗恩·吉RL
+# Typhon Girl
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

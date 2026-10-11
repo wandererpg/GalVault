@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c94186"
 type: "character"
-display_title: "荞麦屋乃娘"
-title_zh: "荞麦屋乃娘"
+display_title: "蕎麦屋の娘"
+title_zh: ""
 title_ja: "蕎麦屋の娘"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94186"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Soba Restaurant Waitress"
-  - "蕎麦屋の娘"
 source_ids:
   vndb: "c94186"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c94186.webp"
 ---
 
-# 荞麦屋乃娘
+# 蕎麦屋の娘
 
 
 ## 角色画像

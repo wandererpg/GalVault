@@ -5,7 +5,10 @@ display_title: "神尾观铃"
 title_zh: "神尾观铃"
 title_ja: "神尾 観鈴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9995"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kamio Misuzu"
   - "神尾 観鈴"

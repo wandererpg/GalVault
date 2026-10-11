@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c124377"
 type: "character"
-display_title: "久蕾伊恩"
-title_zh: "久蕾伊恩"
+display_title: "クレイン"
+title_zh: ""
 title_ja: "クレイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124377"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Crane"
-  - "クレイン"
 source_ids:
   vndb: "c124377"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c124377.webp"
 ---
 
-# 久蕾伊恩
+# クレイン
 
 
 ## 角色画像

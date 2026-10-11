@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c35175"
 type: "character"
-display_title: "箒星光"
-title_zh: "箒星光"
+display_title: "箒星 ひかり"
+title_zh: ""
 title_ja: "箒星 ひかり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c35175"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Houkiboshi Hikari"
-  - "箒星 ひかり"
   - "ぴかりん"
   - "Pikarin"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c35175.webp"
 ---
 
-# 箒星光
+# 箒星 ひかり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

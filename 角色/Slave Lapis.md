@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c124759"
 type: "character"
-display_title: "寿蕾惠布拉皮寿"
-title_zh: "寿蕾惠布拉皮寿"
+display_title: "スレーブ・ラピス"
+title_zh: ""
 title_ja: "スレーブ・ラピス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124759"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Slave Lapis"
-  - "スレーブ・ラピス"
   - "Magical Girl Slave Lapis"
   - "3rd Mesudorei"
   - "Nina Wang Rockford"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c124759.webp"
 ---
 
-# 寿蕾惠布拉皮寿
+# スレーブ・ラピス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

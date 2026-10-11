@@ -5,7 +5,10 @@ display_title: "松永俊毅"
 title_zh: "松永俊毅"
 title_ja: "松永 俊毅"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43866"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Matsunaga Toshiki"
   - "松永 俊毅"

@@ -5,7 +5,10 @@ display_title: "土屋利男"
 title_zh: "土屋利男"
 title_ja: "土屋 利男"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c141258"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsuchiya Toshio"
   - "土屋 利男"

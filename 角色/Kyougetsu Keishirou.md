@@ -5,7 +5,10 @@ display_title: "凶月刑士郎"
 title_zh: "凶月刑士郎"
 title_ja: "凶月 刑士郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c34802"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kyougetsu Keishirou"
   - "凶月 刑士郎"

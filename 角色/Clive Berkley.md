@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c135518"
 type: "character"
-display_title: "久拉伊V乌巴阿久蕾伊"
-title_zh: "久拉伊V乌巴阿久蕾伊"
+display_title: "クライヴ・バークレイ"
+title_zh: ""
 title_ja: "クライヴ・バークレイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c135518"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Clive Berkley"
-  - "クライヴ・バークレイ"
 source_ids:
   vndb: "c135518"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c135518.webp"
 ---
 
-# 久拉伊V乌巴阿久蕾伊
+# クライヴ・バークレイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

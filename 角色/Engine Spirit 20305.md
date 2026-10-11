@@ -5,7 +5,10 @@ display_title: "机关精灵20305"
 title_zh: "机关精灵20305"
 title_ja: "機関精霊 20305"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c116758"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Engine Spirit 20305"
   - "機関精霊 20305"

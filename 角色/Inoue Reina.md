@@ -5,7 +5,10 @@ display_title: "井之上丽奈"
 title_zh: "井之上丽奈"
 title_ja: "井之上 麗奈"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c29533"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Inoue Reina"
   - "井之上 麗奈"

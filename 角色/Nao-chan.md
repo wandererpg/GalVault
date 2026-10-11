@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c141202"
 type: "character"
-display_title: "奈奥·恰恩"
-title_zh: "奈奥·恰恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Nao-chan"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141202"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Nao-chan"
 source_ids:
   vndb: "c141202"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c141202.webp"
 ---
 
-# 奈奥·恰恩
+# Nao-chan
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

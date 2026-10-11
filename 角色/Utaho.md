@@ -5,7 +5,10 @@ display_title: "呗穗"
 title_zh: "呗穗"
 title_ja: "唄穂"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c123272"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Utaho"
   - "唄穂"

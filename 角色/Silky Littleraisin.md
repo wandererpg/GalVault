@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c75992"
 type: "character"
-display_title: "诗露希伊·莉斗露蕾惠兹恩"
-title_zh: "诗露希伊·莉斗露蕾惠兹恩"
+display_title: "シルキィ リトルレーズン"
+title_zh: ""
 title_ja: "シルキィ リトルレーズン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c75992"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Silky Littleraisin"
-  - "シルキィ リトルレーズン"
 source_ids:
   vndb: "c75992"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c75992.webp"
 ---
 
-# 诗露希伊·莉斗露蕾惠兹恩
+# シルキィ リトルレーズン
 
 
 ## 角色画像

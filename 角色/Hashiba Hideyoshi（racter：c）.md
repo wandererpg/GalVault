@@ -5,7 +5,10 @@ display_title: "羽柴秀吉"
 title_zh: "羽柴秀吉"
 title_ja: "羽柴 秀吉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c49183"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hashiba Hideyoshi"
   - "羽柴 秀吉"

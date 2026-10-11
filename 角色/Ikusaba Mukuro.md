@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12346"
 type: "character"
-display_title: "战刃梦久洛"
-title_zh: "战刃梦久洛"
+display_title: "戦刃 むくろ"
+title_zh: ""
 title_ja: "戦刃 むくろ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12346"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ikusaba Mukuro"
-  - "戦刃 むくろ"
   - "Despair Sisters"
   - "Junko Enoshima"
   - "Ultimate Despair"
@@ -24,7 +26,7 @@ source_urls:
 portrait_image: "assets/characters/c12346.webp"
 ---
 
-# 战刃梦久洛
+# 戦刃 むくろ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

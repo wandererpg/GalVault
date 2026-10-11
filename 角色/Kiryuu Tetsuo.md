@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90232"
 type: "character"
-display_title: "希龙乌·特津奥"
-title_zh: "希龙乌·特津奥"
+display_title: "キリュウ テツオ"
+title_zh: ""
 title_ja: "キリュウ テツオ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90232"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kiryuu Tetsuo"
-  - "キリュウ テツオ"
 source_ids:
   vndb: "c90232"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c90232.webp"
 ---
 
-# 希龙乌·特津奥
+# キリュウ テツオ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

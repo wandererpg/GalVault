@@ -5,7 +5,10 @@ display_title: "成濑正人"
 title_zh: "成濑正人"
 title_ja: "成瀬 正人"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c39742"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Naruse Seito"
   - "成瀬 正人"

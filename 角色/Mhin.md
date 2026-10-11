@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c124602"
 type: "character"
-display_title: "M日恩"
-title_zh: "M日恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Mhin"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124602"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Mhin"
   - "The Cursed Outsider"
 source_ids:
   vndb: "c124602"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c124602.webp"
 ---
 
-# M日恩
+# Mhin
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

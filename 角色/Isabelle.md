@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c140511"
 type: "character"
-display_title: "伊扎贝露"
-title_zh: "伊扎贝露"
+display_title: "イザベル"
+title_zh: ""
 title_ja: "イザベル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c140511"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Isabelle"
-  - "イザベル"
 source_ids:
   vndb: "c140511"
 source_urls:
   vndb: "https://vndb.org/c140511"
 ---
 
-# 伊扎贝露
+# イザベル
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

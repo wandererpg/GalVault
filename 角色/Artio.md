@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34091"
 type: "character"
-display_title: "阿露特伊奥"
-title_zh: "阿露特伊奥"
+display_title: "アルティオ"
+title_zh: ""
 title_ja: "アルティオ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34091"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Artio"
-  - "アルティオ"
 source_ids:
   vndb: "c34091"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c34091.webp"
 ---
 
-# 阿露特伊奥
+# アルティオ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

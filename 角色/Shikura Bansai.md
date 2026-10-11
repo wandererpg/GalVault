@@ -5,7 +5,10 @@ display_title: "伏仓万斋"
 title_zh: "伏仓万斋"
 title_ja: "伏倉 万斎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c91572"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shikura Bansai"
   - "伏倉 万斎"

@@ -5,7 +5,10 @@ display_title: "伊藤野枝"
 title_zh: "伊藤野枝"
 title_ja: "伊藤 野枝"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43637"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Itou Noe"
   - "伊藤 野枝"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c122010"
 type: "character"
-display_title: "黛安娜·V惠尼C伊阿"
-title_zh: "黛安娜·V惠尼C伊阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Diana Venicia"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c122010"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Diana Venicia"
   - "Ultimate Cosmetologist"
 source_ids:
   vndb: "c122010"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c122010.webp"
 ---
 
-# 黛安娜·V惠尼C伊阿
+# Diana Venicia
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

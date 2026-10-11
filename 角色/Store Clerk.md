@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c103056"
 type: "character"
-display_title: "S斗蕾·CL惠RK"
-title_zh: "S斗蕾·CL惠RK"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Store Clerk"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103056"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Store Clerk"
 source_ids:
   vndb: "c103056"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c103056.webp"
 ---
 
-# S斗蕾·CL惠RK
+# Store Clerk
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

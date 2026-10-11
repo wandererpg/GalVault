@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c36801"
 type: "character"
-display_title: "美莉代奥久寿"
-title_zh: "美莉代奥久寿"
+display_title: "ミリ・ヨークス"
+title_zh: ""
 title_ja: "ミリ・ヨークス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c36801"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Milli Yorks"
-  - "ミリ・ヨークス"
   - "Queen Milli"
 source_ids:
   vndb: "c36801"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c36801.webp"
 ---
 
-# 美莉代奥久寿
+# ミリ・ヨークス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

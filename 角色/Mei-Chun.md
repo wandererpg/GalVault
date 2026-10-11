@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c172823"
 type: "character"
-display_title: "芽伊秋恩"
-title_zh: "芽伊秋恩"
+display_title: "めいちゅん"
+title_zh: ""
 title_ja: "めいちゅん"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c172823"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mei-Chun"
-  - "めいちゅん"
 source_ids:
   vndb: "c172823"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c172823.webp"
 ---
 
-# 芽伊秋恩
+# めいちゅん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

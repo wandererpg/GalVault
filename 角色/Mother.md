@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10342"
 type: "character"
-display_title: "母亲"
-title_zh: "母亲"
+display_title: "お母さん"
+title_zh: ""
 title_ja: "お母さん"
-title_zh_quality: "glossary"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10342"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mother"
-  - "お母さん"
   - "Okaa-san"
 source_ids:
   vndb: "c10342"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c10342.webp"
 ---
 
-# 母亲
+# お母さん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

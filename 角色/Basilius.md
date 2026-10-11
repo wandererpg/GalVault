@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c70869"
 type: "character"
-display_title: "巴诗莉乌寿"
-title_zh: "巴诗莉乌寿"
+display_title: "バシリウス"
+title_zh: ""
 title_ja: "バシリウス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c70869"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Basilius"
-  - "バシリウス"
 source_ids:
   vndb: "c70869"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c70869.webp"
 ---
 
-# 巴诗莉乌寿
+# バシリウス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c161553"
 type: "character"
-display_title: "帕莉S·L惠斗"
-title_zh: "帕莉S·L惠斗"
+display_title: "파리스 레토"
+title_zh: ""
 title_ja: "파리스 레토"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161553"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Paris Leto"
-  - "파리스 레토"
 source_ids:
   vndb: "c161553"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c161553.webp"
 ---
 
-# 帕莉S·L惠斗
+# 파리스 레토
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

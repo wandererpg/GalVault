@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c156220"
 type: "character"
-display_title: "筑宫美兹羽"
-title_zh: "筑宫美兹羽"
+display_title: "築宮 みづは"
+title_zh: ""
 title_ja: "築宮 みづは"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c156220"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tsukimiya Mizuha"
-  - "築宮 みづは"
 source_ids:
   vndb: "c156220"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c156220.webp"
 ---
 
-# 筑宫美兹羽
+# 築宮 みづは
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

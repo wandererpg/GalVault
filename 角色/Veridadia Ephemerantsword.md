@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13904"
 type: "character"
-display_title: "贝莉达D伊阿＝惠F惠芽拉恩斗索奥堂"
-title_zh: "贝莉达D伊阿＝惠F惠芽拉恩斗索奥堂"
+display_title: "ベリダディア＝エフェメラントソード"
+title_zh: ""
 title_ja: "ベリダディア＝エフェメラントソード"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13904"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Veridadia Ephemerantsword"
-  - "ベリダディア＝エフェメラントソード"
 source_ids:
   vndb: "c13904"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c13904.webp"
 ---
 
-# 贝莉达D伊阿＝惠F惠芽拉恩斗索奥堂
+# ベリダディア＝エフェメラントソード
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

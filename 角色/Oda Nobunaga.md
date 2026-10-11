@@ -5,7 +5,10 @@ display_title: "织田信长"
 title_zh: "织田信长"
 title_ja: "織田 信長"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14251"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Oda Nobunaga"
   - "織田 信長"

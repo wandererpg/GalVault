@@ -5,7 +5,10 @@ display_title: "鹫崎真弓"
 title_zh: "鹫崎真弓"
 title_ja: "鷲崎 真弓"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c129409"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Washizaki Mayumi"
   - "鷲崎 真弓"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c46879"
 type: "character"
-display_title: "美伊寿佳拉羽阿"
-title_zh: "美伊寿佳拉羽阿"
+display_title: "ミース・ギャラハー"
+title_zh: ""
 title_ja: "ミース・ギャラハー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c46879"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mies Gallaher"
-  - "ミース・ギャラハー"
 source_ids:
   vndb: "c46879"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c46879.webp"
 ---
 
-# 美伊寿佳拉羽阿
+# ミース・ギャラハー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

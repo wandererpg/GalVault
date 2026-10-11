@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c75999"
 type: "character"
-display_title: "和阿古"
-title_zh: "和阿古"
+display_title: "ワーグ"
+title_zh: ""
 title_ja: "ワーグ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c75999"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Warg"
-  - "ワーグ"
 source_ids:
   vndb: "c75999"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c75999.webp"
 ---
 
-# 和阿古
+# ワーグ
 
 
 ## 角色画像

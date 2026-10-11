@@ -5,7 +5,10 @@ display_title: "海老冢信乃"
 title_zh: "海老冢信乃"
 title_ja: "海老塚 信乃"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c26834"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ebizuka Shino"
   - "海老塚 信乃"

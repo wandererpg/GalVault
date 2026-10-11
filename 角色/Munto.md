@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8393"
 type: "character"
-display_title: "梦恩斗"
-title_zh: "梦恩斗"
+display_title: "ムント"
+title_zh: ""
 title_ja: "ムント"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8393"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Munto"
-  - "ムント"
 source_ids:
   vndb: "c8393"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c8393.webp"
 ---
 
-# 梦恩斗
+# ムント
 
 
 ## 角色画像

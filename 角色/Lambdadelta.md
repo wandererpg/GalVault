@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c4103"
 type: "character"
-display_title: "拉梦达德露太"
-title_zh: "拉梦达德露太"
+display_title: "ラムダデルタ"
+title_zh: ""
 title_ja: "ラムダデルタ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c4103"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lambdadelta"
-  - "ラムダデルタ"
   - "Lambda"
   - "The Witch of Certainty"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c4103.webp"
 ---
 
-# 拉梦达德露太
+# ラムダデルタ
 
 
 ## 角色画像

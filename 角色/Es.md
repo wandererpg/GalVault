@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c20281"
 type: "character"
-display_title: "惠寿"
-title_zh: "惠寿"
+display_title: "えす"
+title_zh: ""
 title_ja: "えす"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c20281"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Es"
-  - "えす"
   - "Mitsurugi Es"
 source_ids:
   vndb: "c20281"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c20281.webp"
 ---
 
-# 惠寿
+# えす
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

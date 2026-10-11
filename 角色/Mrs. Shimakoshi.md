@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c167274"
 type: "character"
-display_title: "嶌越沙恩"
-title_zh: "嶌越沙恩"
+display_title: "嶌越さん"
+title_zh: ""
 title_ja: "嶌越さん"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c167274"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mrs. Shimakoshi"
-  - "嶌越さん"
   - "月望の母"
   - "Tsukimi's Mother"
 source_ids:
@@ -17,7 +19,7 @@ source_urls:
   vndb: "https://vndb.org/c167274"
 ---
 
-# 嶌越沙恩
+# 嶌越さん
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

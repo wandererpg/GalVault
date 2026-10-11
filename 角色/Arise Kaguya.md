@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c101474"
 type: "character"
-display_title: "有濑加古雅"
-title_zh: "有濑加古雅"
+display_title: "有瀬 かぐや"
+title_zh: ""
 title_ja: "有瀬 かぐや"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c101474"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Arise Kaguya"
-  - "有瀬 かぐや"
   - "Phantom Thief of Moonlight"
 source_ids:
   vndb: "c101474"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c101474.webp"
 ---
 
-# 有濑加古雅
+# 有瀬 かぐや
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

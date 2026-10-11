@@ -5,7 +5,10 @@ display_title: "十二次憩"
 title_zh: "十二次憩"
 title_ja: "十二次 憩"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c31363"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Juuniji Ikoi"
   - "十二次 憩"

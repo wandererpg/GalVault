@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c139770"
 type: "character"
-display_title: "芽L阿尼惠"
-title_zh: "芽L阿尼惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Melanie"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c139770"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Melanie"
 source_ids:
   vndb: "c139770"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c139770.webp"
 ---
 
-# 芽L阿尼惠
+# Melanie
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

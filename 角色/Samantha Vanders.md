@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c155428"
 type: "character"
-display_title: "沙真恩T羽·V阿恩德RS"
-title_zh: "沙真恩T羽·V阿恩德RS"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Samantha Vanders"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155428"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Samantha Vanders"
   - "Sam"
 source_ids:
   vndb: "c155428"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c155428.webp"
 ---
 
-# 沙真恩T羽·V阿恩德RS
+# Samantha Vanders
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

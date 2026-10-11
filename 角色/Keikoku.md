@@ -5,7 +5,10 @@ display_title: "倾国"
 title_zh: "倾国"
 title_ja: "傾国"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c4784"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Keikoku"
   - "傾国"

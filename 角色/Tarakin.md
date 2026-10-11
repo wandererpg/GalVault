@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c149891"
 type: "character"
-display_title: "太拉希恩"
-title_zh: "太拉希恩"
+display_title: "タラキン"
+title_zh: ""
 title_ja: "タラキン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149891"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tarakin"
-  - "タラキン"
   - "Tamakin (タマキン)"
 source_ids:
   vndb: "c149891"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c149891.webp"
 ---
 
-# 太拉希恩
+# タラキン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

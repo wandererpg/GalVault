@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c137658"
 type: "character"
-display_title: "真CY"
-title_zh: "真CY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Macy"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c137658"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Macy"
 source_ids:
   vndb: "c137658"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c137658.webp"
 ---
 
-# 真CY
+# Macy
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

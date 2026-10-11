@@ -5,7 +5,10 @@ display_title: "九狸孝之助"
 title_zh: "九狸孝之助"
 title_ja: "九狸 孝之助"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1881"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kuri Kounosuke"
   - "九狸 孝之助"

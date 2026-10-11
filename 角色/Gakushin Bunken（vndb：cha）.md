@@ -5,7 +5,10 @@ display_title: "乐进文谦"
 title_zh: "乐进文谦"
 title_ja: "楽進 文謙"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c49994"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Gakushin Bunken"
   - "楽進 文謙"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c55455"
 type: "character"
-display_title: "莉扎布莉恩加阿"
-title_zh: "莉扎布莉恩加阿"
+display_title: "リザ・ブリンカー"
+title_zh: ""
 title_ja: "リザ・ブリンカー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c55455"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lisa Brinker"
-  - "リザ・ブリンカー"
 source_ids:
   vndb: "c55455"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c55455.webp"
 ---
 
-# 莉扎布莉恩加阿
+# リザ・ブリンカー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

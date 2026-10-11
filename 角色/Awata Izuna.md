@@ -5,7 +5,10 @@ display_title: "粟田泉那"
 title_zh: "粟田泉那"
 title_ja: "粟田 泉那"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c94128"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Awata Izuna"
   - "粟田 泉那"

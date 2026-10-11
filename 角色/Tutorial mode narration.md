@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c171155"
 type: "character"
-display_title: "T乌斗莉阿L·莫德·奈R拉T伊奥恩"
-title_zh: "T乌斗莉阿L·莫德·奈R拉T伊奥恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Tutorial mode narration"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c171155"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Tutorial mode narration"
 source_ids:
   vndb: "c171155"
 source_urls:
   vndb: "https://vndb.org/c171155"
 ---
 
-# T乌斗莉阿L·莫德·奈R拉T伊奥恩
+# Tutorial mode narration
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

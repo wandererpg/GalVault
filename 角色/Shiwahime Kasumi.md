@@ -5,7 +5,10 @@ display_title: "志波姫香澄"
 title_zh: "志波姫香澄"
 title_ja: "志波姫 香澄"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21367"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shiwahime Kasumi"
   - "志波姫 香澄"

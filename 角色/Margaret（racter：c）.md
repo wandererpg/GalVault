@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c170953"
 type: "character"
-display_title: "真阿雅蕾T斗"
-title_zh: "真阿雅蕾T斗"
+display_title: "マーガレット"
+title_zh: ""
 title_ja: "マーガレット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c170953"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Margaret"
-  - "マーガレット"
 source_ids:
   vndb: "c170953"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c170953.webp"
 ---
 
-# 真阿雅蕾T斗
+# マーガレット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

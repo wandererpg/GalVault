@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30555"
 type: "character"
-display_title: "莉太濑美芙"
-title_zh: "莉太濑美芙"
+display_title: "リタ・セミフ"
+title_zh: ""
 title_ja: "リタ・セミフ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30555"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rita Semif"
-  - "リタ・セミフ"
 source_ids:
   vndb: "c30555"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30555.webp"
 ---
 
-# 莉太濑美芙
+# リタ・セミフ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

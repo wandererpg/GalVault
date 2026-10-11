@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c51568"
 type: "character"
-display_title: "洛D·贝音D伊KT·W伊D德恩索V"
-title_zh: "洛D·贝音D伊KT·W伊D德恩索V"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Rod Benedikt Widdensov"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c51568"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Rod Benedikt Widdensov"
 source_ids:
   vndb: "c51568"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c51568.webp"
 ---
 
-# 洛D·贝音D伊KT·W伊D德恩索V
+# Rod Benedikt Widdensov
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

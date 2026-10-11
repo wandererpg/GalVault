@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c73789"
 type: "character"
-display_title: "V阿露太阿乃伊拉阿斗"
-title_zh: "V阿露太阿乃伊拉阿斗"
+display_title: "ヴァルター・ノイラート"
+title_zh: ""
 title_ja: "ヴァルター・ノイラート"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c73789"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Walther Neurath"
-  - "ヴァルター・ノイラート"
 source_ids:
   vndb: "c73789"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c73789.webp"
 ---
 
-# V阿露太阿乃伊拉阿斗
+# ヴァルター・ノイラート
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

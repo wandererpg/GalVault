@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c40410"
 type: "character"
-display_title: "明日原优乌希"
-title_zh: "明日原优乌希"
+display_title: "明日原 ユウキ"
+title_zh: ""
 title_ja: "明日原 ユウキ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c40410"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Asuhara Yuuki"
-  - "明日原 ユウキ"
 source_ids:
   vndb: "c40410"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c40410.webp"
 ---
 
-# 明日原优乌希
+# 明日原 ユウキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

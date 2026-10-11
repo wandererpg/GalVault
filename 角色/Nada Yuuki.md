@@ -5,7 +5,10 @@ display_title: "滩优姫"
 title_zh: "滩优姫"
 title_ja: "灘 優姫"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c39783"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nada Yuuki"
   - "灘 優姫"

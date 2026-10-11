@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c69275"
 type: "character"
-display_title: "奈奈"
-title_zh: "奈奈"
+display_title: "ナナ"
+title_zh: ""
 title_ja: "ナナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c69275"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nana"
-  - "ナナ"
 source_ids:
   vndb: "c69275"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c69275.webp"
 ---
 
-# 奈奈
+# ナナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

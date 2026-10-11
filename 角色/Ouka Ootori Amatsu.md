@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90046"
 type: "character"
-display_title: "奥乌加凤阿真津"
-title_zh: "奥乌加凤阿真津"
+display_title: "オウカ・鳳・アマツ"
+title_zh: ""
 title_ja: "オウカ・鳳・アマツ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90046"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ouka Ootori Amatsu"
-  - "オウカ・鳳・アマツ"
   - "聖座典礼秘蹟庁長官"
 source_ids:
   vndb: "c90046"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c90046.webp"
 ---
 
-# 奥乌加凤阿真津
+# オウカ・鳳・アマツ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

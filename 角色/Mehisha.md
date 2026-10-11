@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c20146"
 type: "character"
-display_title: "芽日伊夏"
-title_zh: "芽日伊夏"
+display_title: "メヒーシャ"
+title_zh: ""
 title_ja: "メヒーシャ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c20146"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mehisha"
-  - "メヒーシャ"
 source_ids:
   vndb: "c20146"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c20146.webp"
 ---
 
-# 芽日伊夏
+# メヒーシャ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

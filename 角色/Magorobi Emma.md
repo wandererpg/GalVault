@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c116923"
 type: "character"
-display_title: "真悟洛比·惠M真"
-title_zh: "真悟洛比·惠M真"
+display_title: "마고로비 엠마"
+title_zh: ""
 title_ja: "마고로비 엠마"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116923"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Magorobi Emma"
-  - "마고로비 엠마"
   - "Super High School Level Actress"
 source_ids:
   vndb: "c116923"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c116923.webp"
 ---
 
-# 真悟洛比·惠M真
+# 마고로비 엠마
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

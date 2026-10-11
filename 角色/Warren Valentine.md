@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c156046"
 type: "character"
-display_title: "乌奥奥蕾恩V阿蕾恩太伊恩"
-title_zh: "乌奥奥蕾恩V阿蕾恩太伊恩"
+display_title: "ウォーレン・ヴァレンタイン"
+title_zh: ""
 title_ja: "ウォーレン・ヴァレンタイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c156046"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Warren Valentine"
-  - "ウォーレン・ヴァレンタイン"
 source_ids:
   vndb: "c156046"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c156046.webp"
 ---
 
-# 乌奥奥蕾恩V阿蕾恩太伊恩
+# ウォーレン・ヴァレンタイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

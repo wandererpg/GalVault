@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c2440"
 type: "character"
-display_title: "支仓羽伊音"
-title_zh: "支仓羽伊音"
+display_title: "支倉 ハイネ"
+title_zh: ""
 title_ja: "支倉 ハイネ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c2440"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hasekura Haine"
-  - "支倉 ハイネ"
 source_ids:
   vndb: "c2440"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c2440.webp"
 ---
 
-# 支仓羽伊音
+# 支倉 ハイネ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

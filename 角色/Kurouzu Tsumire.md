@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c31364"
 type: "character"
-display_title: "黑涡津美蕾"
-title_zh: "黑涡津美蕾"
+display_title: "黒渦 つみれ"
+title_zh: ""
 title_ja: "黒渦 つみれ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c31364"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kurouzu Tsumire"
-  - "黒渦 つみれ"
 source_ids:
   vndb: "c31364"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c31364.webp"
 ---
 
-# 黑涡津美蕾
+# 黒渦 つみれ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

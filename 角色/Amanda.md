@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c81562"
 type: "character"
-display_title: "阿真恩达"
-title_zh: "阿真恩达"
+display_title: "アマンダ"
+title_zh: ""
 title_ja: "アマンダ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c81562"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Amanda"
-  - "アマンダ"
 source_ids:
   vndb: "c81562"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c81562.webp"
 ---
 
-# 阿真恩达
+# アマンダ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

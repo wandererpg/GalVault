@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c142525"
 type: "character"
-display_title: "SC阿RL惠TT·沙斗"
-title_zh: "SC阿RL惠TT·沙斗"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Scarlett Sato"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c142525"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Scarlett Sato"
 source_ids:
   vndb: "c142525"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c142525.webp"
 ---
 
-# SC阿RL惠TT·沙斗
+# Scarlett Sato
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

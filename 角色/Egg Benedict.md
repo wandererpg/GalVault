@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c111993"
 type: "character"
-display_title: "惠G古贝音D伊久斗"
-title_zh: "惠G古贝音D伊久斗"
+display_title: "エッグ・ベネディクト"
+title_zh: ""
 title_ja: "エッグ・ベネディクト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c111993"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Egg Benedict"
-  - "エッグ・ベネディクト"
   - "Ashley Graydon"
   - "Ashley Milverton"
   - "ルバート・クログレイ"
@@ -22,7 +24,7 @@ source_urls:
 portrait_image: "assets/characters/c111993.webp"
 ---
 
-# 惠G古贝音D伊久斗
+# エッグ・ベネディクト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

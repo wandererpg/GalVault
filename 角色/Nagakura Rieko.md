@@ -5,7 +5,10 @@ display_title: "永仓利惠子"
 title_zh: "永仓利惠子"
 title_ja: "永倉 利恵子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c66700"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nagakura Rieko"
   - "永倉 利恵子"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c119860"
 type: "character"
-display_title: "F拉恩C惠SC奥"
-title_zh: "F拉恩C惠SC奥"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Francesco"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c119860"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Francesco"
 source_ids:
   vndb: "c119860"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c119860.webp"
 ---
 
-# F拉恩C惠SC奥
+# Francesco
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

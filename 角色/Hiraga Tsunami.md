@@ -5,7 +5,10 @@ display_title: "平贺津波"
 title_zh: "平贺津波"
 title_ja: "平賀 津波"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c38201"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hiraga Tsunami"
   - "平賀 津波"

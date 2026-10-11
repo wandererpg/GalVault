@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14497"
 type: "character"
-display_title: "美镜日代莉"
-title_zh: "美镜日代莉"
+display_title: "美鏡 ひより"
+title_zh: ""
 title_ja: "美鏡 ひより"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14497"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mikagami Hiyori"
-  - "美鏡 ひより"
 source_ids:
   vndb: "c14497"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c14497.webp"
 ---
 
-# 美镜日代莉
+# 美鏡 ひより
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

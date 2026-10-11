@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c9497"
 type: "character"
-display_title: "芽恩真"
-title_zh: "芽恩真"
+display_title: "メンマ"
+title_zh: ""
 title_ja: "メンマ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c9497"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Menma"
-  - "メンマ"
 source_ids:
   vndb: "c9497"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c9497.webp"
 ---
 
-# 芽恩真
+# メンマ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

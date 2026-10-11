@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c134643"
 type: "character"
-display_title: "T惠·斗W惠R"
-title_zh: "T惠·斗W惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "The Tower"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c134643"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "The Tower"
 source_ids:
   vndb: "c134643"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c134643.webp"
 ---
 
-# T惠·斗W惠R
+# The Tower
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

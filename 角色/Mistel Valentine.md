@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c49301"
 type: "character"
-display_title: "美寿特露巴蕾恩太伊恩"
-title_zh: "美寿特露巴蕾恩太伊恩"
+display_title: "ミステル・バレンタイン"
+title_zh: ""
 title_ja: "ミステル・バレンタイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c49301"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mistel Valentine"
-  - "ミステル・バレンタイン"
   - "Brionac"
   - "Brunhild"
   - "ブリューナク"
@@ -21,7 +23,7 @@ source_urls:
 portrait_image: "assets/characters/c49301.webp"
 ---
 
-# 美寿特露巴蕾恩太伊恩
+# ミステル・バレンタイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

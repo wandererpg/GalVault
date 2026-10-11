@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c50945"
 type: "character"
-display_title: "优拉恩美拉阿吉优"
-title_zh: "优拉恩美拉阿吉优"
+display_title: "ユラン・ミラージユ"
+title_zh: ""
 title_ja: "ユラン・ミラージユ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c50945"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yulang Mirage"
-  - "ユラン・ミラージユ"
 source_ids:
   vndb: "c50945"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c50945.webp"
 ---
 
-# 优拉恩美拉阿吉优
+# ユラン・ミラージユ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

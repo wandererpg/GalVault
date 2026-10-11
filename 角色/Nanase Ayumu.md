@@ -5,7 +5,10 @@ display_title: "七濑步"
 title_zh: "七濑步"
 title_ja: "七瀬 歩"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c3093"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nanase Ayumu"
   - "七瀬 歩"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c59750"
 type: "character"
-display_title: "芙拉恩津羽伊梦"
-title_zh: "芙拉恩津羽伊梦"
+display_title: "フランツ・ハイム"
+title_zh: ""
 title_ja: "フランツ・ハイム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c59750"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Franz Heim"
-  - "フランツ・ハイム"
   - "Major General Heim"
 source_ids:
   vndb: "c59750"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c59750.webp"
 ---
 
-# 芙拉恩津羽伊梦
+# フランツ・ハイム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

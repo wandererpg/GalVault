@@ -5,7 +5,10 @@ display_title: "知惠留美子"
 title_zh: "知惠留美子"
 title_ja: "知恵 留美子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c3826"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Chie Rumiko"
   - "知恵 留美子"

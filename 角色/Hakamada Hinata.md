@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c32365"
 type: "character"
-display_title: "袴田日向"
-title_zh: "袴田日向"
+display_title: "袴田 ひなた"
+title_zh: ""
 title_ja: "袴田 ひなた"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c32365"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hakamada Hinata"
-  - "袴田 ひなた"
   - "Hina"
   - "Innocent Charm"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c32365.webp"
 ---
 
-# 袴田日向
+# 袴田 ひなた
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

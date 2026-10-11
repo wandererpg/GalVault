@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c124211"
 type: "character"
-display_title: "濑莉加诗露F伊露"
-title_zh: "濑莉加诗露F伊露"
+display_title: "セリカ・シルフィル"
+title_zh: ""
 title_ja: "セリカ・シルフィル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124211"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Celica Sylphil"
-  - "セリカ・シルフィル"
   - "Godslayer"
 source_ids:
   vndb: "c124211"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c124211.webp"
 ---
 
-# 濑莉加诗露F伊露
+# セリカ・シルフィル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

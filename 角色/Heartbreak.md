@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c113881"
 type: "character"
-display_title: "惠阿RTB蕾阿K"
-title_zh: "惠阿RTB蕾阿K"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Heartbreak"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c113881"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Heartbreak"
   - "The Heartbreak Killer"
   - "HK"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c113881.webp"
 ---
 
-# 惠阿RTB蕾阿K
+# Heartbreak
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

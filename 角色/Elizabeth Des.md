@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61613"
 type: "character"
-display_title: "惠莉扎贝惠斗德寿"
-title_zh: "惠莉扎贝惠斗德寿"
+display_title: "エリザベート・デス"
+title_zh: ""
 title_ja: "エリザベート・デス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61613"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Elizabeth Des"
-  - "エリザベート・デス"
   - "Elisabeth Des"
 source_ids:
   vndb: "c61613"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c61613.webp"
 ---
 
-# 惠莉扎贝惠斗德寿
+# エリザベート・デス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

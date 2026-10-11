@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c104002"
 type: "character"
-display_title: "伊扎代伊"
-title_zh: "伊扎代伊"
+display_title: "イザヨイ"
+title_zh: ""
 title_ja: "イザヨイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c104002"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Izayoi"
-  - "イザヨイ"
   - "Demon-Killing Kunoichi"
   - "討魔のくノ一"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c104002.webp"
 ---
 
-# 伊扎代伊
+# イザヨイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

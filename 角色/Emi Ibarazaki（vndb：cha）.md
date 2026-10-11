@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c757"
 type: "character"
-display_title: "惠美·伊巴拉扎希"
-title_zh: "惠美·伊巴拉扎希"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Emi Ibarazaki"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c757"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Emi Ibarazaki"
 source_ids:
   vndb: "c757"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c757.webp"
 ---
 
-# 惠美·伊巴拉扎希
+# Emi Ibarazaki
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

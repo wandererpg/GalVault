@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c93748"
 type: "character"
-display_title: "美惠·C奥XL奥恩G"
-title_zh: "美惠·C奥XL奥恩G"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Mike Coxlong"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c93748"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Mike Coxlong"
 source_ids:
   vndb: "c93748"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c93748.webp"
 ---
 
-# 美惠·C奥XL奥恩G
+# Mike Coxlong
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

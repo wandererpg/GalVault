@@ -5,7 +5,10 @@ display_title: "芹泽汤座卫门"
 title_zh: "芹泽汤座卫门"
 title_ja: "芹沢 湯座衛門"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c8501"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Serizawa Yuzaemon"
   - "芹沢 湯座衛門"

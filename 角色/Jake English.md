@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c138293"
 type: "character"
-display_title: "嘉惠·惠恩GL伊SH"
-title_zh: "嘉惠·惠恩GL伊SH"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jake English"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138293"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jake English"
   - "golgothasTerror"
   - "Page of Hope"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c138293.webp"
 ---
 
-# 嘉惠·惠恩GL伊SH
+# Jake English
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

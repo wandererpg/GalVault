@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c46878"
 type: "character"
-display_title: "被验体恩"
-title_zh: "被验体恩"
+display_title: "被験体N"
+title_zh: ""
 title_ja: "被験体N"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c46878"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Subject N"
-  - "被験体N"
   - "Nagisa Tachibana"
   - "橘 凪沙"
   - "Tachibana Nagisa"
@@ -21,7 +23,7 @@ source_urls:
 portrait_image: "assets/characters/c46878.webp"
 ---
 
-# 被验体恩
+# 被験体N
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

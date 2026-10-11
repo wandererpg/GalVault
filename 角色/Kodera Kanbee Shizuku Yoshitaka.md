@@ -5,7 +5,10 @@ display_title: "小寺官兵卫雫孝高"
 title_zh: "小寺官兵卫雫孝高"
 title_ja: "小寺 官兵衛 雫 孝高"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20608"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kodera Kanbee Shizuku Yoshitaka"
   - "小寺 官兵衛 雫 孝高"

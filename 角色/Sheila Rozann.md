@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16530"
 type: "character"
-display_title: "诗惠拉＝洛扎恩"
-title_zh: "诗惠拉＝洛扎恩"
+display_title: "シエラ＝ロザン"
+title_zh: ""
 title_ja: "シエラ＝ロザン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16530"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sheila Rozann"
-  - "シエラ＝ロザン"
   - "Shiera Rozan"
   - "Sierra Lushan"
   - "Shiera Lushan"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c16530.webp"
 ---
 
-# 诗惠拉＝洛扎恩
+# シエラ＝ロザン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

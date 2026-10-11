@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c47272"
 type: "character"
-display_title: "伊奥奈沙露久久露露普莉诗惠惠露"
-title_zh: "伊奥奈沙露久久露露普莉诗惠惠露"
+display_title: "イオナサル・ククルル・プリシェール"
+title_zh: ""
 title_ja: "イオナサル・ククルル・プリシェール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c47272"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ionasal.kkll.Preciell"
-  - "イオナサル・ククルル・プリシェール"
   - "Ion"
   - "イオン"
   - "Lighthouse Keeper"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c47272.webp"
 ---
 
-# 伊奥奈沙露久久露露普莉诗惠惠露
+# イオナサル・ククルル・プリシェール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

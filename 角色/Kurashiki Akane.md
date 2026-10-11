@@ -5,7 +5,10 @@ display_title: "仓式茜"
 title_zh: "仓式茜"
 title_ja: "倉式 茜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c17599"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kurashiki Akane"
   - "倉式 茜"

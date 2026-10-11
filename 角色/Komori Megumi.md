@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c593"
 type: "character"
-display_title: "古森芽古美"
-title_zh: "古森芽古美"
+display_title: "古森 めぐみ"
+title_zh: ""
 title_ja: "古森 めぐみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c593"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Komori Megumi"
-  - "古森 めぐみ"
 source_ids:
   vndb: "c593"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c593.webp"
 ---
 
-# 古森芽古美
+# 古森 めぐみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

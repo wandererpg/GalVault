@@ -5,7 +5,10 @@ display_title: "汤室世津子"
 title_zh: "汤室世津子"
 title_ja: "湯室 世津子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c8130"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yumuro Setsuko"
   - "湯室 世津子"

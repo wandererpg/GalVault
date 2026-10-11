@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c66044"
 type: "character"
-display_title: "藏恩巴露"
-title_zh: "藏恩巴露"
+display_title: "ゾンバル"
+title_zh: ""
 title_ja: "ゾンバル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c66044"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Zonbar"
-  - "ゾンバル"
 source_ids:
   vndb: "c66044"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c66044.webp"
 ---
 
-# 藏恩巴露
+# ゾンバル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

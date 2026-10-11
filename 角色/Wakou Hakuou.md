@@ -5,7 +5,10 @@ display_title: "若生白樱"
 title_zh: "若生白樱"
 title_ja: "若生 白桜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c79334"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Wakou Hakuou"
   - "若生 白桜"

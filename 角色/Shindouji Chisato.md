@@ -5,7 +5,10 @@ display_title: "神道寺千里"
 title_zh: "神道寺千里"
 title_ja: "神道寺 千里"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c22382"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shindouji Chisato"
   - "神道寺 千里"

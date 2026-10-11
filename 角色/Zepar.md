@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13721"
 type: "character"
-display_title: "泽帕露"
-title_zh: "泽帕露"
+display_title: "ゼパル"
+title_zh: ""
 title_ja: "ゼパル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13721"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Zepar"
-  - "ゼパル"
 source_ids:
   vndb: "c13721"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c13721.webp"
 ---
 
-# 泽帕露
+# ゼパル
 
 
 ## 角色画像

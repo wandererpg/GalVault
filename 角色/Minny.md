@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c141417"
 type: "character"
-display_title: "美恩恩Y"
-title_zh: "美恩恩Y"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Minny"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141417"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Minny"
 source_ids:
   vndb: "c141417"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c141417.webp"
 ---
 
-# 美恩恩Y
+# Minny
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

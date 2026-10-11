@@ -5,7 +5,10 @@ display_title: "尾崎弥子"
 title_zh: "尾崎弥子"
 title_ja: "尾崎 弥子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c73020"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ozaki Yako"
   - "尾崎 弥子"

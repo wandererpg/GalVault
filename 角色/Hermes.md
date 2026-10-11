@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c127583"
 type: "character"
-display_title: "惠R芽S"
-title_zh: "惠R芽S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Hermes"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127583"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Hermes"
 source_ids:
   vndb: "c127583"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c127583.webp"
 ---
 
-# 惠R芽S
+# Hermes
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

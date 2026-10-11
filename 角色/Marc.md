@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c107038"
 type: "character"
-display_title: "真露久"
-title_zh: "真露久"
+display_title: "マルク"
+title_zh: ""
 title_ja: "マルク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c107038"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Marc"
-  - "マルク"
 source_ids:
   vndb: "c107038"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c107038.webp"
 ---
 
-# 真露久
+# マルク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

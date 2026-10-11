@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c48145"
 type: "character"
-display_title: "奈比子"
-title_zh: "奈比子"
+display_title: "ナビ子"
+title_zh: ""
 title_ja: "ナビ子"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c48145"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Navico"
-  - "ナビ子"
 source_ids:
   vndb: "c48145"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c48145.webp"
 ---
 
-# 奈比子
+# ナビ子
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c134752"
 type: "character"
-display_title: "伊洛嘉"
-title_zh: "伊洛嘉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Iroja"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c134752"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Iroja"
 source_ids:
   vndb: "c134752"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c134752.webp"
 ---
 
-# 伊洛嘉
+# Iroja
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

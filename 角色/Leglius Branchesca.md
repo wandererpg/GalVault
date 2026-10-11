@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c64375"
 type: "character"
-display_title: "蕾古莉寿布拉恩诗惠寿加"
-title_zh: "蕾古莉寿布拉恩诗惠寿加"
+display_title: "レグリス・ブランシェスカ"
+title_zh: ""
 title_ja: "レグリス・ブランシェスカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c64375"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Leglius Branchesca"
-  - "レグリス・ブランシェスカ"
 source_ids:
   vndb: "c64375"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c64375.webp"
 ---
 
-# 蕾古莉寿布拉恩诗惠寿加
+# レグリス・ブランシェスカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

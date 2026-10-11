@@ -5,7 +5,10 @@ display_title: "猿岛龙城"
 title_zh: "猿岛龙城"
 title_ja: "猿島 龍城"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20643"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sarushima Tatsuki"
   - "猿島 龍城"

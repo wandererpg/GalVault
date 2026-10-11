@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125687"
 type: "character"
-display_title: "古拉恩堂乃阿女王"
-title_zh: "古拉恩堂乃阿女王"
+display_title: "グランドノア女王"
+title_zh: ""
 title_ja: "グランドノア女王"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125687"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Grand Noah Queen"
-  - "グランドノア女王"
 source_ids:
   vndb: "c125687"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c125687.webp"
 ---
 
-# 古拉恩堂乃阿女王
+# グランドノア女王
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

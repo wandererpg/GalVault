@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c154190"
 type: "character"
-display_title: "拉普拉"
-title_zh: "拉普拉"
+display_title: "ラプラ"
+title_zh: ""
 title_ja: "ラプラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c154190"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lapla"
-  - "ラプラ"
 source_ids:
   vndb: "c154190"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c154190.webp"
 ---
 
-# 拉普拉
+# ラプラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

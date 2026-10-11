@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43581"
 type: "character"
-display_title: "奈悟"
-title_zh: "奈悟"
+display_title: "ナゴ"
+title_zh: ""
 title_ja: "ナゴ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43581"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nago"
-  - "ナゴ"
 source_ids:
   vndb: "c43581"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43581.webp"
 ---
 
-# 奈悟
+# ナゴ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

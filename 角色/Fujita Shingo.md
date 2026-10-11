@@ -5,7 +5,10 @@ display_title: "藤田慎吾"
 title_zh: "藤田慎吾"
 title_ja: "藤田 慎吾"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c127763"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fujita Shingo"
   - "藤田 慎吾"

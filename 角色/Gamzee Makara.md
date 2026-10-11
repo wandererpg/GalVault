@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c138301"
 type: "character"
-display_title: "雅M泽惠·真加拉"
-title_zh: "雅M泽惠·真加拉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Gamzee Makara"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138301"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Gamzee Makara"
   - "terminallyCapricious"
   - "Bard of Rage"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c138301.webp"
 ---
 
-# 雅M泽惠·真加拉
+# Gamzee Makara
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

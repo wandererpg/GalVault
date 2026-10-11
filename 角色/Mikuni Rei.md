@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c53307"
 type: "character"
-display_title: "御国蕾伊"
-title_zh: "御国蕾伊"
+display_title: "御國 れい"
+title_zh: ""
 title_ja: "御國 れい"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c53307"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mikuni Rei"
-  - "御國 れい"
 source_ids:
   vndb: "c53307"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c53307.webp"
 ---
 
-# 御国蕾伊
+# 御國 れい
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

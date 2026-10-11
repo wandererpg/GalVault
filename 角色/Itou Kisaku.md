@@ -5,7 +5,10 @@ display_title: "伊头鬼作"
 title_zh: "伊头鬼作"
 title_ja: "伊頭 鬼作"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c53060"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Itou Kisaku"
   - "伊頭 鬼作"

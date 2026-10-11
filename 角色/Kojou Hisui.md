@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c116791"
 type: "character"
-display_title: "湖条日寿伊"
-title_zh: "湖条日寿伊"
+display_title: "湖條 ヒスイ"
+title_zh: ""
 title_ja: "湖條 ヒスイ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116791"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kojou Hisui"
-  - "湖條 ヒスイ"
 source_ids:
   vndb: "c116791"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c116791.webp"
 ---
 
-# 湖条日寿伊
+# 湖條 ヒスイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

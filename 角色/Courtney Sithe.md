@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c111991"
 type: "character"
-display_title: "子奥斗尼伊诗寿"
-title_zh: "子奥斗尼伊诗寿"
+display_title: "コートニー・シス"
+title_zh: ""
 title_ja: "コートニー・シス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c111991"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Courtney Sithe"
-  - "コートニー・シス"
   - "Courtney Stevens"
   - "Courtney Sythe (fanTL)"
   - "コートニー・サイモン"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c111991.webp"
 ---
 
-# 子奥斗尼伊诗寿
+# コートニー・シス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

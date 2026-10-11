@@ -5,7 +5,10 @@ display_title: "入间佐知美"
 title_zh: "入间佐知美"
 title_ja: "入間 佐知美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c585"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Irima Sachimi"
   - "入間 佐知美"

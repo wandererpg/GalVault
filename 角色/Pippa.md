@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c119097"
 type: "character"
-display_title: "皮P帕"
-title_zh: "皮P帕"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Pippa"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c119097"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Pippa"
 source_ids:
   vndb: "c119097"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c119097.webp"
 ---
 
-# 皮P帕
+# Pippa
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

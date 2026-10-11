@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c104163"
 type: "character"
-display_title: "博寿希阿莉伊奈寿"
-title_zh: "博寿希阿莉伊奈寿"
+display_title: "ボスキ・アリーナス"
+title_zh: ""
 title_ja: "ボスキ・アリーナス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c104163"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Boschi Arenas"
-  - "ボスキ・アリーナス"
 source_ids:
   vndb: "c104163"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c104163.webp"
 ---
 
-# 博寿希阿莉伊奈寿
+# ボスキ・アリーナス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "小池希美"
 title_zh: "小池希美"
 title_ja: "小池 希美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c3997"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Koike Nozomi"
   - "小池 希美"

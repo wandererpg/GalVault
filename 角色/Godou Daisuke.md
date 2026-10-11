@@ -5,7 +5,10 @@ display_title: "梧桐大辅"
 title_zh: "梧桐大辅"
 title_ja: "梧桐 大輔"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c28947"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Godou Daisuke"
   - "梧桐 大輔"

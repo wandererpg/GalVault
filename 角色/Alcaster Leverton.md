@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c51597"
 type: "character"
-display_title: "阿LC阿S特R·L惠V惠R斗恩"
-title_zh: "阿LC阿S特R·L惠V惠R斗恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Alcaster Leverton"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c51597"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Alcaster Leverton"
 source_ids:
   vndb: "c51597"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c51597.webp"
 ---
 
-# 阿LC阿S特R·L惠V惠R斗恩
+# Alcaster Leverton
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

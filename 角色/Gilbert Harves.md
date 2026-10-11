@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c57428"
 type: "character"
-display_title: "吉露贝露斗羽阿V惠寿"
-title_zh: "吉露贝露斗羽阿V惠寿"
+display_title: "ギルベルト・ハーヴェス"
+title_zh: ""
 title_ja: "ギルベルト・ハーヴェス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c57428"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gilbert Harves"
-  - "ギルベルト・ハーヴェス"
   - "Rhadamanthus"
   - "審判者"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c57428.webp"
 ---
 
-# 吉露贝露斗羽阿V惠寿
+# ギルベルト・ハーヴェス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17878"
 type: "character"
-display_title: "拉美阿乃惠露斗F阿阿"
-title_zh: "拉美阿乃惠露斗F阿阿"
+display_title: "ラミア・ノエルトファー"
+title_zh: ""
 title_ja: "ラミア・ノエルトファー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17878"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lamia Noeltphar"
-  - "ラミア・ノエルトファー"
 source_ids:
   vndb: "c17878"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c17878.webp"
 ---
 
-# 拉美阿乃惠露斗F阿阿
+# ラミア・ノエルトファー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

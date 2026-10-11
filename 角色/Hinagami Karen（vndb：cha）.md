@@ -5,7 +5,10 @@ display_title: "雏神花恋"
 title_zh: "雏神花恋"
 title_ja: "雛神 花恋"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c127100"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hinagami Karen"
   - "雛神 花恋"

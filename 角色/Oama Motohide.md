@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c167404"
 type: "character"
-display_title: "奥阿真莫斗日伊德"
-title_zh: "奥阿真莫斗日伊德"
+display_title: "オアマ・モトヒーデ"
+title_zh: ""
 title_ja: "オアマ・モトヒーデ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c167404"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Oama Motohide"
-  - "オアマ・モトヒーデ"
 source_ids:
   vndb: "c167404"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c167404.webp"
 ---
 
-# 奥阿真莫斗日伊德
+# オアマ・モトヒーデ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

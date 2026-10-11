@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c45458"
 type: "character"
-display_title: "美诗惠露博拉恩吉惠"
-title_zh: "美诗惠露博拉恩吉惠"
+display_title: "ミシェル・ボランジェ"
+title_zh: ""
 title_ja: "ミシェル・ボランジェ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c45458"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Michel Bollinger"
-  - "ミシェル・ボランジェ"
 source_ids:
   vndb: "c45458"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c45458.webp"
 ---
 
-# 美诗惠露博拉恩吉惠
+# ミシェル・ボランジェ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

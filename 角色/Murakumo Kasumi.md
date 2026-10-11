@@ -5,7 +5,10 @@ display_title: "村云春霞"
 title_zh: "村云春霞"
 title_ja: "村雲 春霞"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c22897"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Murakumo Kasumi"
   - "村雲 春霞"

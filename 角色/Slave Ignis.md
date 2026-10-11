@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c124742"
 type: "character"
-display_title: "寿蕾惠布·伊古尼寿"
-title_zh: "寿蕾惠布·伊古尼寿"
+display_title: "スレーブ イグニス"
+title_zh: ""
 title_ja: "スレーブ イグニス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124742"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Slave Ignis"
-  - "スレーブ イグニス"
   - "Magical Girl Slave Ignis"
   - "1st Mesudorei"
   - "Asamiya Minami"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c124742.webp"
 ---
 
-# 寿蕾惠布·伊古尼寿
+# スレーブ イグニス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

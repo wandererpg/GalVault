@@ -5,7 +5,10 @@ display_title: "櫂利飞太"
 title_zh: "櫂利飞太"
 title_ja: "櫂 利飛太"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c124599"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kai Rihita"
   - "櫂 利飛太"

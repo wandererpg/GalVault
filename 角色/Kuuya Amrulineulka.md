@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8399"
 type: "character"
-display_title: "阿梦露莉音乌露加久乌雅"
-title_zh: "阿梦露莉音乌露加久乌雅"
+display_title: "アムルリネウルカ・クーヤ"
+title_zh: ""
 title_ja: "アムルリネウルカ・クーヤ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8399"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kuuya Amrulineulka"
-  - "アムルリネウルカ・クーヤ"
   - "Kuuya"
 source_ids:
   vndb: "c8399"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c8399.webp"
 ---
 
-# 阿梦露莉音乌露加久乌雅
+# アムルリネウルカ・クーヤ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c2365"
 type: "character"
-display_title: "伊雅拉诗·子乌沙久"
-title_zh: "伊雅拉诗·子乌沙久"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Igarashi Kousaku"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c2365"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Igarashi Kousaku"
   - "Nergal"
   - "ネルガル"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c2365.webp"
 ---
 
-# 伊雅拉诗·子乌沙久
+# Igarashi Kousaku
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

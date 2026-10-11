@@ -5,7 +5,10 @@ display_title: "久留岛美智也"
 title_zh: "久留岛美智也"
 title_ja: "久留島 美智也"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c165800"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kurushima Michiya"
   - "久留島 美智也"

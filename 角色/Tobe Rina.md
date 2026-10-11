@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c21714"
 type: "character"
-display_title: "砥部莉奈"
-title_zh: "砥部莉奈"
+display_title: "砥部 りな"
+title_zh: ""
 title_ja: "砥部 りな"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c21714"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tobe Rina"
-  - "砥部 りな"
 source_ids:
   vndb: "c21714"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c21714.webp"
 ---
 
-# 砥部莉奈
+# 砥部 りな
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

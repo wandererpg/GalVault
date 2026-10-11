@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c94689"
 type: "character"
-display_title: "吉恩"
-title_zh: "吉恩"
+display_title: "ギン"
+title_zh: ""
 title_ja: "ギン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94689"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ginn"
-  - "ギン"
 source_ids:
   vndb: "c94689"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c94689.webp"
 ---
 
-# 吉恩
+# ギン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

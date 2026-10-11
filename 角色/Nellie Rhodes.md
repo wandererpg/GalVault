@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c45461"
 type: "character"
-display_title: "音莉伊洛奥兹"
-title_zh: "音莉伊洛奥兹"
+display_title: "ネリー・ローズ"
+title_zh: ""
 title_ja: "ネリー・ローズ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c45461"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nellie Rhodes"
-  - "ネリー・ローズ"
 source_ids:
   vndb: "c45461"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c45461.webp"
 ---
 
-# 音莉伊洛奥兹
+# ネリー・ローズ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c146681"
 type: "character"
-display_title: "帕C乌L阿"
-title_zh: "帕C乌L阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Pacula"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c146681"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Pacula"
 source_ids:
   vndb: "c146681"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c146681.webp"
 ---
 
-# 帕C乌L阿
+# Pacula
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

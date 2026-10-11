@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c80184"
 type: "character"
-display_title: "伊沙贝LL阿·洛贝RTS"
-title_zh: "伊沙贝LL阿·洛贝RTS"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Isabella Roberts"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c80184"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Isabella Roberts"
   - "Bella"
   - "The Ice Queen"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c80184.webp"
 ---
 
-# 伊沙贝LL阿·洛贝RTS
+# Isabella Roberts
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

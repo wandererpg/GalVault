@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c94346"
 type: "character"
-display_title: "香月莫斗子"
-title_zh: "香月莫斗子"
+display_title: "香月 モトコ"
+title_zh: ""
 title_ja: "香月 モトコ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94346"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kouzuki Motoko"
-  - "香月 モトコ"
 source_ids:
   vndb: "c94346"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c94346.webp"
 ---
 
-# 香月莫斗子
+# 香月 モトコ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

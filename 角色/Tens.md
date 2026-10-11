@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c167845"
 type: "character"
-display_title: "特恩S"
-title_zh: "特恩S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Tens"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c167845"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Tens"
 source_ids:
   vndb: "c167845"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c167845.webp"
 ---
 
-# 特恩S
+# Tens
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

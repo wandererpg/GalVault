@@ -5,7 +5,10 @@ display_title: "明日音"
 title_zh: "明日音"
 title_ja: "明日音"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c26195"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Asune"
 source_ids:

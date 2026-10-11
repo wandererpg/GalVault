@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c149376"
 type: "character"
-display_title: "L伊"
-title_zh: "L伊"
+display_title: "Ли"
+title_zh: ""
 title_ja: "Ли"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149376"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Li"
-  - "Ли"
 source_ids:
   vndb: "c149376"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c149376.webp"
 ---
 
-# L伊
+# Ли
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

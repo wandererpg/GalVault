@@ -5,7 +5,10 @@ display_title: "上林圣"
 title_zh: "上林圣"
 title_ja: "上林 聖"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c23306"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kanbayashi Mizuki"
   - "上林 聖"

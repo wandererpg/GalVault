@@ -5,7 +5,10 @@ display_title: "信乐盾之"
 title_zh: "信乐盾之"
 title_ja: "信楽 盾之"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c17906"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shigaraki Tateyuki"
   - "信楽 盾之"

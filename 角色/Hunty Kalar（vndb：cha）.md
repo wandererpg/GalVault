@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98000"
 type: "character"
-display_title: "羽恩特伊加拉阿"
-title_zh: "羽恩特伊加拉阿"
+display_title: "ハンティ・カラー"
+title_zh: ""
 title_ja: "ハンティ・カラー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98000"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hunty Kalar"
-  - "ハンティ・カラー"
 source_ids:
   vndb: "c98000"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98000.webp"
 ---
 
-# 羽恩特伊加拉阿
+# ハンティ・カラー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

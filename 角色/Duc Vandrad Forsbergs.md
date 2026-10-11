@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c173807"
 type: "character"
-display_title: "D乌C·V阿恩D拉D·F奥RS贝RGS"
-title_zh: "D乌C·V阿恩D拉D·F奥RS贝RGS"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Duc Vandrad Forsbergs"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c173807"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Duc Vandrad Forsbergs"
   - "Duke of Dulgate"
 source_ids:
   vndb: "c173807"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c173807.webp"
 ---
 
-# D乌C·V阿恩D拉D·F奥RS贝RGS
+# Duc Vandrad Forsbergs
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13595"
 type: "character"
-display_title: "巴露希莉伊"
-title_zh: "巴露希莉伊"
+display_title: "バルキリー"
+title_zh: ""
 title_ja: "バルキリー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13595"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Valkyrie"
-  - "バルキリー"
 source_ids:
   vndb: "c13595"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c13595.webp"
 ---
 
-# 巴露希莉伊
+# バルキリー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

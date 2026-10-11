@@ -5,7 +5,10 @@ display_title: "奇稻田抚子"
 title_zh: "奇稻田抚子"
 title_ja: "奇稲田 撫子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16034"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kushinada Nadeshiko"
   - "奇稲田 撫子"

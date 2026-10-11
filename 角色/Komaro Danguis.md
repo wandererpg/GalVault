@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c109795"
 type: "character"
-display_title: "子真洛达恩古伊寿"
-title_zh: "子真洛达恩古伊寿"
+display_title: "コマロ・ダングイス"
+title_zh: ""
 title_ja: "コマロ・ダングイス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c109795"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Komaro Danguis"
-  - "コマロ・ダングイス"
 source_ids:
   vndb: "c109795"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c109795.webp"
 ---
 
-# 子真洛达恩古伊寿
+# コマロ・ダングイス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

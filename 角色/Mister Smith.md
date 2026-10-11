@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c118539"
 type: "character"
-display_title: "美寿太阿·寿美寿"
-title_zh: "美寿太阿·寿美寿"
+display_title: "ミスター スミス"
+title_zh: ""
 title_ja: "ミスター スミス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c118539"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mister Smith"
-  - "ミスター スミス"
 source_ids:
   vndb: "c118539"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c118539.webp"
 ---
 
-# 美寿太阿·寿美寿
+# ミスター スミス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c105186"
 type: "character"
-display_title: "KYL阿"
-title_zh: "KYL阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Kyla"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c105186"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Kyla"
 source_ids:
   vndb: "c105186"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c105186.webp"
 ---
 
-# KYL阿
+# Kyla
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

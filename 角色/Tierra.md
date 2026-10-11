@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c4122"
 type: "character"
-display_title: "特伊惠拉"
-title_zh: "特伊惠拉"
+display_title: "ティエラ"
+title_zh: ""
 title_ja: "ティエラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c4122"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tierra"
-  - "ティエラ"
 source_ids:
   vndb: "c4122"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c4122.webp"
 ---
 
-# 特伊惠拉
+# ティエラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

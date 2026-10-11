@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159786"
 type: "character"
-display_title: "吉L贝RT"
-title_zh: "吉L贝RT"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Gilbert"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159786"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Gilbert"
 source_ids:
   vndb: "c159786"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c159786.webp"
 ---
 
-# 吉L贝RT
+# Gilbert
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c135411"
 type: "character"
-display_title: "S伊莉"
-title_zh: "S伊莉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Siri"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c135411"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Siri"
 source_ids:
   vndb: "c135411"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c135411.webp"
 ---
 
-# S伊莉
+# Siri
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

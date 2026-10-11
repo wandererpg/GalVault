@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c89285"
 type: "character"
-display_title: "芙太巴·芙久雅真"
-title_zh: "芙太巴·芙久雅真"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Futaba Fukuyama"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c89285"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Futaba Fukuyama"
   - "Sword-dancer of the Seven Suns"
 source_ids:
   vndb: "c89285"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c89285.webp"
 ---
 
-# 芙太巴·芙久雅真
+# Futaba Fukuyama
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

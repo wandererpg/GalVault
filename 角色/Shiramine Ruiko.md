@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c141276"
 type: "character"
-display_title: "白峰露伊子"
-title_zh: "白峰露伊子"
+display_title: "白峰 るい子"
+title_zh: ""
 title_ja: "白峰 るい子"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141276"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shiramine Ruiko"
-  - "白峰 るい子"
 source_ids:
   vndb: "c141276"
 source_urls:
   vndb: "https://vndb.org/c141276"
 ---
 
-# 白峰露伊子
+# 白峰 るい子
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

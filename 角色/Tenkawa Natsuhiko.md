@@ -5,7 +5,10 @@ display_title: "天川夏彦"
 title_zh: "天川夏彦"
 title_ja: "天川 夏彦"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14495"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tenkawa Natsuhiko"
   - "天川 夏彦"

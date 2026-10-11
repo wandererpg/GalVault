@@ -5,7 +5,10 @@ display_title: "橘结人"
 title_zh: "橘结人"
 title_ja: "橘 結人"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c47554"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tachibana Yuuto"
   - "橘 結人"

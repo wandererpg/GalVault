@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c25738"
 type: "character"
-display_title: "真子斗奈奈雅"
-title_zh: "真子斗奈奈雅"
+display_title: "マコト゠ナナヤ"
+title_zh: ""
 title_ja: "マコト゠ナナヤ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c25738"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Makoto Nanaya"
-  - "マコト゠ナナヤ"
   - "Furry girl"
   - "Puffy-Tailed Round Person"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c25738.webp"
 ---
 
-# 真子斗奈奈雅
+# マコト゠ナナヤ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

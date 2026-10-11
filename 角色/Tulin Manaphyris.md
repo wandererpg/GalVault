@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c104001"
 type: "character"
-display_title: "斗乌莉恩真奈F伊莉寿"
-title_zh: "斗乌莉恩真奈F伊莉寿"
+display_title: "トゥリン・マナフィリス"
+title_zh: ""
 title_ja: "トゥリン・マナフィリス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c104001"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tulin Manaphyris"
-  - "トゥリン・マナフィリス"
   - "Spirit Archer"
   - "精霊弓士"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c104001.webp"
 ---
 
-# 斗乌莉恩真奈F伊莉寿
+# トゥリン・マナフィリス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

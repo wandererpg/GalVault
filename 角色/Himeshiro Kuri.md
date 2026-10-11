@@ -5,7 +5,10 @@ display_title: "姫白九理"
 title_zh: "姫白九理"
 title_ja: "姫白 九理"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14097"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Himeshiro Kuri"
   - "姫白 九理"

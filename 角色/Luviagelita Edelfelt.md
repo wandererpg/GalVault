@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c41595"
 type: "character"
-display_title: "露V伊阿泽莉T太惠惠德露F惠露斗"
-title_zh: "露V伊阿泽莉T太惠惠德露F惠露斗"
+display_title: "ルヴィアゼリッタ・エーデルフェルト"
+title_zh: ""
 title_ja: "ルヴィアゼリッタ・エーデルフェルト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c41595"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Luviagelita Edelfelt"
-  - "ルヴィアゼリッタ・エーデルフェルト"
   - "ルヴィア"
   - "Luvia"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c41595.webp"
 ---
 
-# 露V伊阿泽莉T太惠惠德露F惠露斗
+# ルヴィアゼリッタ・エーデルフェルト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

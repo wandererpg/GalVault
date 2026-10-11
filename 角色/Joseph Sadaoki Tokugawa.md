@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c92239"
 type: "character"
-display_title: "乔泽芙沙达奥希斗久雅和"
-title_zh: "乔泽芙沙达奥希斗久雅和"
+display_title: "ジョゼフ・サダオキ・トクガワ"
+title_zh: ""
 title_ja: "ジョゼフ・サダオキ・トクガワ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92239"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Joseph Sadaoki Tokugawa"
-  - "ジョゼフ・サダオキ・トクガワ"
 source_ids:
   vndb: "c92239"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c92239.webp"
 ---
 
-# 乔泽芙沙达奥希斗久雅和
+# ジョゼフ・サダオキ・トクガワ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

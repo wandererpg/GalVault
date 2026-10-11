@@ -5,7 +5,10 @@ display_title: "向坂环"
 title_zh: "向坂环"
 title_ja: "向坂 環"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c5318"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kousaka Tamaki"
   - "向坂 環"

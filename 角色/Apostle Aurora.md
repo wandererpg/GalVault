@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c95553"
 type: "character"
-display_title: "使徒奥奥洛拉"
-title_zh: "使徒奥奥洛拉"
+display_title: "使徒 オーロラ"
+title_zh: ""
 title_ja: "使徒 オーロラ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c95553"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Apostle Aurora"
-  - "使徒 オーロラ"
   - "ポンパドール"
   - "Pompadour"
   - "等々力 亮子"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c95553.webp"
 ---
 
-# 使徒奥奥洛拉
+# 使徒 オーロラ
 
 
 ## 角色画像

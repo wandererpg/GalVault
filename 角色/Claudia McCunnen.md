@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c28940"
 type: "character"
-display_title: "久洛乌D伊阿·真K希惠音恩"
-title_zh: "久洛乌D伊阿·真K希惠音恩"
+display_title: "クロウディア マッキェネン"
+title_zh: ""
 title_ja: "クロウディア マッキェネン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c28940"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Claudia McCunnen"
-  - "クロウディア マッキェネン"
   - "Clau"
   - "クロウ"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c28940.webp"
 ---
 
-# 久洛乌D伊阿·真K希惠音恩
+# クロウディア マッキェネン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

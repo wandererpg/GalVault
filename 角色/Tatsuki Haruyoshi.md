@@ -5,7 +5,10 @@ display_title: "龙生春义"
 title_zh: "龙生春义"
 title_ja: "竜生 春義"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c46165"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tatsuki Haruyoshi"
   - "竜生 春義"

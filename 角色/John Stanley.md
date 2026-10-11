@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127207"
 type: "character"
-display_title: "乔恩寿太恩莉伊"
-title_zh: "乔恩寿太恩莉伊"
+display_title: "ジョン・スタンリー"
+title_zh: ""
 title_ja: "ジョン・スタンリー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127207"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "John Stanley"
-  - "ジョン・スタンリー"
   - "Jolly Roger 01"
   - "Jolly Roger Leader"
 source_ids:
@@ -17,7 +19,7 @@ source_urls:
   vndb: "https://vndb.org/c127207"
 ---
 
-# 乔恩寿太恩莉伊
+# ジョン・スタンリー
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

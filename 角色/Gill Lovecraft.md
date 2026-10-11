@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c89446"
 type: "character"
-display_title: "吉露拉V乌久拉芙斗"
-title_zh: "吉露拉V乌久拉芙斗"
+display_title: "ギル・ラヴクラフト"
+title_zh: ""
 title_ja: "ギル・ラヴクラフト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c89446"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gill Lovecraft"
-  - "ギル・ラヴクラフト"
   - "Heartbreak Parasite"
   - "Lovelorn Parasite"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c89446.webp"
 ---
 
-# 吉露拉V乌久拉芙斗
+# ギル・ラヴクラフト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

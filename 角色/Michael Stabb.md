@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c132457"
 type: "character"
-display_title: "迈克尔·S太BB"
-title_zh: "迈克尔·S太BB"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Michael Stabb"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132457"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Michael Stabb"
   - "Stabby Mike"
 source_ids:
   vndb: "c132457"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c132457.webp"
 ---
 
-# 迈克尔·S太BB
+# Michael Stabb
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

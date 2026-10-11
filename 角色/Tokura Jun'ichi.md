@@ -5,7 +5,10 @@ display_title: "都仓纯一"
 title_zh: "都仓纯一"
 title_ja: "都倉 純一"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c141260"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tokura Jun'ichi"
   - "都倉 純一"

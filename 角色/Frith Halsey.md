@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38235"
 type: "character"
-display_title: "芙莉寿羽露泽惠"
-title_zh: "芙莉寿羽露泽惠"
+display_title: "フリス・ハルゼー"
+title_zh: ""
 title_ja: "フリス・ハルゼー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38235"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Frith Halsey"
-  - "フリス・ハルゼー"
 source_ids:
   vndb: "c38235"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c38235.webp"
 ---
 
-# 芙莉寿羽露泽惠
+# フリス・ハルゼー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

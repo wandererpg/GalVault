@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c95144"
 type: "character"
-display_title: "C惠兹蕾伊"
-title_zh: "C惠兹蕾伊"
+display_title: "チェズレイ"
+title_zh: ""
 title_ja: "チェズレイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c95144"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chesley"
-  - "チェズレイ"
 source_ids:
   vndb: "c95144"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c95144.webp"
 ---
 
-# C惠兹蕾伊
+# チェズレイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

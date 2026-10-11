@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125625"
 type: "character"
-display_title: "和阿梦比蕾J嘉"
-title_zh: "和阿梦比蕾J嘉"
+display_title: "ワームビレッジャ"
+title_zh: ""
 title_ja: "ワームビレッジャ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125625"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Worm Villager"
-  - "ワームビレッジャ"
   - "Julia"
 source_ids:
   vndb: "c125625"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c125625.webp"
 ---
 
-# 和阿梦比蕾J嘉
+# ワームビレッジャ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

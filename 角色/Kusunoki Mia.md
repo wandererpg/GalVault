@@ -5,7 +5,10 @@ display_title: "楠美爱"
 title_zh: "楠美爱"
 title_ja: "楠 美愛"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c44241"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kusunoki Mia"
   - "楠 美愛"

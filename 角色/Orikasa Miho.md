@@ -5,7 +5,10 @@ display_title: "折笠未步"
 title_zh: "折笠未步"
 title_ja: "折笠 未歩"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c67361"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Orikasa Miho"
   - "折笠 未歩"

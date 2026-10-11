@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c53889"
 type: "character"
-display_title: "莫特惠露堂普拉特伊伊努"
-title_zh: "莫特惠露堂普拉特伊伊努"
+display_title: "モテール・ド・プラティーヌ"
+title_zh: ""
 title_ja: "モテール・ド・プラティーヌ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c53889"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Motaire De Platine"
-  - "モテール・ド・プラティーヌ"
 source_ids:
   vndb: "c53889"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c53889.webp"
 ---
 
-# 莫特惠露堂普拉特伊伊努
+# モテール・ド・プラティーヌ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

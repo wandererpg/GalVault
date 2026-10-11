@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c138295"
 type: "character"
-display_title: "洛XY·L阿L奥恩德"
-title_zh: "洛XY·L阿L奥恩德"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Roxy Lalonde"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138295"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Roxy Lalonde"
   - "tipsyGnostalgic"
   - "Rogue of Void"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c138295.webp"
 ---
 
-# 洛XY·L阿L奥恩德
+# Roxy Lalonde
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

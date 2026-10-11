@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c83912"
 type: "character"
-display_title: "诗露F伊惠T太露阿诗阿"
-title_zh: "诗露F伊惠T太露阿诗阿"
+display_title: "シルフィエッタ・ルアシア"
+title_zh: ""
 title_ja: "シルフィエッタ・ルアシア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c83912"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sylphietta Luashia"
-  - "シルフィエッタ・ルアシア"
   - "Silfietta Lasien"
 source_ids:
   vndb: "c83912"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c83912.webp"
 ---
 
-# 诗露F伊惠T太露阿诗阿
+# シルフィエッタ・ルアシア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

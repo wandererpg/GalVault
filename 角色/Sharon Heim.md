@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43392"
 type: "character"
-display_title: "夏洛音伊梦"
-title_zh: "夏洛音伊梦"
+display_title: "シャロン・エイム"
+title_zh: ""
 title_ja: "シャロン・エイム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43392"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sharon Heim"
-  - "シャロン・エイム"
 source_ids:
   vndb: "c43392"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43392.webp"
 ---
 
-# 夏洛音伊梦
+# シャロン・エイム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c141562"
 type: "character"
-display_title: "美莉阿芽惠蕾恩堂露芙"
-title_zh: "美莉阿芽惠蕾恩堂露芙"
+display_title: "ミリア・メーレンドルフ"
+title_zh: ""
 title_ja: "ミリア・メーレンドルフ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141562"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Milia Meulendolff"
-  - "ミリア・メーレンドルフ"
 source_ids:
   vndb: "c141562"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c141562.webp"
 ---
 
-# 美莉阿芽惠蕾恩堂露芙
+# ミリア・メーレンドルフ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

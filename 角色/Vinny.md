@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c138145"
 type: "character"
-display_title: "V伊恩恩Y"
-title_zh: "V伊恩恩Y"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Vinny"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138145"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Vinny"
 source_ids:
   vndb: "c138145"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c138145.webp"
 ---
 
-# V伊恩恩Y
+# Vinny
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

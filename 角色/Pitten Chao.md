@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c120966"
 type: "character"
-display_title: "皮T特恩恰奥"
-title_zh: "皮T特恩恰奥"
+display_title: "ピッテン・チャオ"
+title_zh: ""
 title_ja: "ピッテン・チャオ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c120966"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Pitten Chao"
-  - "ピッテン・チャオ"
   - "Sparkle"
 source_ids:
   vndb: "c120966"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c120966.webp"
 ---
 
-# 皮T特恩恰奥
+# ピッテン・チャオ
 
 
 ## 角色画像

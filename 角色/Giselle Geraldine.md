@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c25725"
 type: "character"
-display_title: "吉泽露＝吉惠拉露达伊恩"
-title_zh: "吉泽露＝吉惠拉露达伊恩"
+display_title: "ジゼル＝ジェラルダイン"
+title_zh: ""
 title_ja: "ジゼル＝ジェラルダイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c25725"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Giselle Geraldine"
-  - "ジゼル＝ジェラルダイン"
 source_ids:
   vndb: "c25725"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c25725.webp"
 ---
 
-# 吉泽露＝吉惠拉露达伊恩
+# ジゼル＝ジェラルダイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

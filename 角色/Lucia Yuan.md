@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c136920"
 type: "character"
-display_title: "露千阿优惠恩"
-title_zh: "露千阿优惠恩"
+display_title: "ルチア・ユエン"
+title_zh: ""
 title_ja: "ルチア・ユエン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136920"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lucia Yuan"
-  - "ルチア・ユエン"
 source_ids:
   vndb: "c136920"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c136920.webp"
 ---
 
-# 露千阿优惠恩
+# ルチア・ユエン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

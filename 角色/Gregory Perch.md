@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c161334"
 type: "character"
-display_title: "古蕾悟莉伊帕阿千"
-title_zh: "古蕾悟莉伊帕阿千"
+display_title: "グレゴリー・パーチ"
+title_zh: ""
 title_ja: "グレゴリー・パーチ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161334"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gregory Perch"
-  - "グレゴリー・パーチ"
 source_ids:
   vndb: "c161334"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c161334.webp"
 ---
 
-# 古蕾悟莉伊帕阿千
+# グレゴリー・パーチ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

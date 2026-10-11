@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c112185"
 type: "character"
-display_title: "惠DW伊恩·T乌R音R"
-title_zh: "惠DW伊恩·T乌R音R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Edwin Turner"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c112185"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Edwin Turner"
 source_ids:
   vndb: "c112185"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c112185.webp"
 ---
 
-# 惠DW伊恩·T乌R音R
+# Edwin Turner
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

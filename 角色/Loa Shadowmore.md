@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c165839"
 type: "character"
-display_title: "洛阿夏堂乌莫阿"
-title_zh: "洛阿夏堂乌莫阿"
+display_title: "ロア・シャドウモア"
+title_zh: ""
 title_ja: "ロア・シャドウモア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c165839"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Loa Shadowmore"
-  - "ロア・シャドウモア"
 source_ids:
   vndb: "c165839"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c165839.webp"
 ---
 
-# 洛阿夏堂乌莫阿
+# ロア・シャドウモア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

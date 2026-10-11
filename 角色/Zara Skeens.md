@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c7055"
 type: "character"
-display_title: "扎拉寿希伊恩兹"
-title_zh: "扎拉寿希伊恩兹"
+display_title: "ザラ・スキーンズ"
+title_zh: ""
 title_ja: "ザラ・スキーンズ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c7055"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Zara Skeens"
-  - "ザラ・スキーンズ"
 source_ids:
   vndb: "c7055"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c7055.webp"
 ---
 
-# 扎拉寿希伊恩兹
+# ザラ・スキーンズ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

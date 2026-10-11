@@ -5,7 +5,10 @@ display_title: "天摩优里亚"
 title_zh: "天摩优里亚"
 title_ja: "天摩 優里亜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c28137"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tenma Yuria"
   - "天摩 優里亜"

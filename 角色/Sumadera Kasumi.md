@@ -5,7 +5,10 @@ display_title: "须磨寺霞"
 title_zh: "须磨寺霞"
 title_ja: "須磨寺 霞"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16496"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sumadera Kasumi"
   - "須磨寺 霞"

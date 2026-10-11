@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c73214"
 type: "character"
-display_title: "皮阿沙＝阿露斗恩"
-title_zh: "皮阿沙＝阿露斗恩"
+display_title: "ピアサ＝アルトン"
+title_zh: ""
 title_ja: "ピアサ＝アルトン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c73214"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Piasa Alton"
-  - "ピアサ＝アルトン"
 source_ids:
   vndb: "c73214"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c73214.webp"
 ---
 
-# 皮阿沙＝阿露斗恩
+# ピアサ＝アルトン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

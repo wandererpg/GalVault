@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c106334"
 type: "character"
-display_title: "L阿YL阿·莫恩洛惠"
-title_zh: "L阿YL阿·莫恩洛惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Layla Monroe"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c106334"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Layla Monroe"
   - "Laylay"
   - "Lays"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c106334.webp"
 ---
 
-# L阿YL阿·莫恩洛惠
+# Layla Monroe
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

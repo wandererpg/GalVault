@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c161320"
 type: "character"
-display_title: "F伊雅洛·雅露诗阿"
-title_zh: "F伊雅洛·雅露诗阿"
+display_title: "フィガロ ガルシア"
+title_zh: ""
 title_ja: "フィガロ ガルシア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161320"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Figaro Garcia"
-  - "フィガロ ガルシア"
 source_ids:
   vndb: "c161320"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c161320.webp"
 ---
 
-# F伊雅洛·雅露诗阿
+# フィガロ ガルシア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

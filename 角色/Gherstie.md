@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c154052"
 type: "character"
-display_title: "G惠RST伊惠"
-title_zh: "G惠RST伊惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Gherstie"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c154052"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Gherstie"
 source_ids:
   vndb: "c154052"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c154052.webp"
 ---
 
-# G惠RST伊惠
+# Gherstie
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

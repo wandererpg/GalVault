@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c85124"
 type: "character"
-display_title: "美蕾伊优"
-title_zh: "美蕾伊优"
+display_title: "ミレイユ"
+title_zh: ""
 title_ja: "ミレイユ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85124"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mireille"
-  - "ミレイユ"
 source_ids:
   vndb: "c85124"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c85124.webp"
 ---
 
-# 美蕾伊优
+# ミレイユ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

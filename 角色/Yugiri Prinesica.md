@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87429"
 type: "character"
-display_title: "优吉莉普莉音诗加"
-title_zh: "优吉莉普莉音诗加"
+display_title: "ユギリ・プリネシカ"
+title_zh: ""
 title_ja: "ユギリ・プリネシカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87429"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yugiri Prinesica"
-  - "ユギリ・プリネシカ"
   - "プリネ"
   - "Purine"
   - "プロイナシェキア"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c87429.webp"
 ---
 
-# 优吉莉普莉音诗加
+# ユギリ・プリネシカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

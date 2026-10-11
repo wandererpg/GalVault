@@ -5,7 +5,10 @@ display_title: "十和田八重"
 title_zh: "十和田八重"
 title_ja: "十和田 八重"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c85345"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Towada Yae"
   - "十和田 八重"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c96713"
 type: "character"
-display_title: "美洛奥堂莉恩古"
-title_zh: "美洛奥堂莉恩古"
+display_title: "ミ・ロードリング"
+title_zh: ""
 title_ja: "ミ・ロードリング"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c96713"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mi Lordring"
-  - "ミ・ロードリング"
 source_ids:
   vndb: "c96713"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c96713.webp"
 ---
 
-# 美洛奥堂莉恩古
+# ミ・ロードリング
 
 
 ## 角色画像

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125483"
 type: "character"
-display_title: "美乃太乌洛寿娘"
-title_zh: "美乃太乌洛寿娘"
+display_title: "ミノタウロス娘"
+title_zh: ""
 title_ja: "ミノタウロス娘"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125483"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Minotauros"
-  - "ミノタウロス娘"
   - "Minotaur Girl"
   - "Mina"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c125483.webp"
 ---
 
-# 美乃太乌洛寿娘
+# ミノタウロス娘
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

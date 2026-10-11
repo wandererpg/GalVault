@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c72042"
 type: "character"
-display_title: "爱丽丝=F惠露=惠露拉恩朱"
-title_zh: "爱丽丝=F惠露=惠露拉恩朱"
+display_title: "アリス=フェル=エルランジュ"
+title_zh: ""
 title_ja: "アリス=フェル=エルランジュ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c72042"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alice Fel Elrange"
-  - "アリス=フェル=エルランジュ"
 source_ids:
   vndb: "c72042"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c72042.webp"
 ---
 
-# 爱丽丝=F惠露=惠露拉恩朱
+# アリス=フェル=エルランジュ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

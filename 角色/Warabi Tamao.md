@@ -5,7 +5,10 @@ display_title: "蕨珠緖"
 title_zh: "蕨珠緖"
 title_ja: "蕨 珠緒"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c41555"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Warabi Tamao"
   - "蕨 珠緒"

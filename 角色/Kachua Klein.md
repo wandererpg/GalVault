@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c124245"
 type: "character"
-display_title: "加秋阿久蕾伊恩"
-title_zh: "加秋阿久蕾伊恩"
+display_title: "カチュア・クレイン"
+title_zh: ""
 title_ja: "カチュア・クレイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124245"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kachua Klein"
-  - "カチュア・クレイン"
 source_ids:
   vndb: "c124245"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c124245.webp"
 ---
 
-# 加秋阿久蕾伊恩
+# カチュア・クレイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

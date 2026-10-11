@@ -5,7 +5,10 @@ display_title: "水乃宫志帆"
 title_zh: "水乃宫志帆"
 title_ja: "水乃宮 志帆"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c73695"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mizunomiya Shiho"
   - "水乃宮 志帆"

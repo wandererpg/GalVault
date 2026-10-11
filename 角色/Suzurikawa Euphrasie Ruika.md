@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c35682"
 type: "character"
-display_title: "砚川优乌芙拉吉伊泪香"
-title_zh: "砚川优乌芙拉吉伊泪香"
+display_title: "硯川・ユーフラジー・涙香"
+title_zh: ""
 title_ja: "硯川・ユーフラジー・涙香"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c35682"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Suzurikawa Euphrasie Ruika"
-  - "硯川・ユーフラジー・涙香"
   - "硯川・e・涙香"
   - "Suzurikawa E. Ruica"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c35682.webp"
 ---
 
-# 砚川优乌芙拉吉伊泪香
+# 硯川・ユーフラジー・涙香
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

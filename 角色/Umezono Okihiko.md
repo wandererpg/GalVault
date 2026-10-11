@@ -5,7 +5,10 @@ display_title: "梅园冲彦"
 title_zh: "梅园冲彦"
 title_ja: "梅園 沖彦"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c83063"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Umezono Okihiko"
   - "梅園 沖彦"

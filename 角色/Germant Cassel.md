@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17309"
 type: "character"
-display_title: "吉惠露真恩加S濑露"
-title_zh: "吉惠露真恩加S濑露"
+display_title: "ジェルマン・カッセル"
+title_zh: ""
 title_ja: "ジェルマン・カッセル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17309"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Germant Cassel"
-  - "ジェルマン・カッセル"
   - "St. Germant"
   - "Count St. Germant"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c17309.webp"
 ---
 
-# 吉惠露真恩加S濑露
+# ジェルマン・カッセル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

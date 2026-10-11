@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c117552"
 type: "character"
-display_title: "奥德T特·阿乌"
-title_zh: "奥德T特·阿乌"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Odette Au"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c117552"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Odette Au"
 source_ids:
   vndb: "c117552"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c117552.webp"
 ---
 
-# 奥德T特·阿乌
+# Odette Au
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

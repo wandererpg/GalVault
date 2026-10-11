@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c118549"
 type: "character"
-display_title: "壬生屋太加诗"
-title_zh: "壬生屋太加诗"
+display_title: "壬生屋 タカシ"
+title_zh: ""
 title_ja: "壬生屋 タカシ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c118549"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mibuya Takashi"
-  - "壬生屋 タカシ"
 source_ids:
   vndb: "c118549"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c118549.webp"
 ---
 
-# 壬生屋太加诗
+# 壬生屋 タカシ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

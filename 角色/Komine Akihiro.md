@@ -5,7 +5,10 @@ display_title: "小岭昭博"
 title_zh: "小岭昭博"
 title_ja: "小嶺 昭博"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c610"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Komine Akihiro"
   - "小嶺 昭博"

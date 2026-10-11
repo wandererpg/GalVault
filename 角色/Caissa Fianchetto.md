@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c99886"
 type: "character"
-display_title: "C阿伊S沙·F伊阿恩C惠T斗"
-title_zh: "C阿伊S沙·F伊阿恩C惠T斗"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Caissa Fianchetto"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c99886"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Caissa Fianchetto"
   - "Oberon"
   - "Chase"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c99886.webp"
 ---
 
-# C阿伊S沙·F伊阿恩C惠T斗
+# Caissa Fianchetto
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

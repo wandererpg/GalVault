@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c7690"
 type: "character"
-display_title: "希沙良芙莉伊堂"
-title_zh: "希沙良芙莉伊堂"
+display_title: "希沙良 フリード"
+title_zh: ""
 title_ja: "希沙良 フリード"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c7690"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kisara Furiido"
-  - "希沙良 フリード"
 source_ids:
   vndb: "c7690"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c7690.webp"
 ---
 
-# 希沙良芙莉伊堂
+# 希沙良 フリード
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

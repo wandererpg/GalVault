@@ -5,7 +5,10 @@ display_title: "静希草十郎"
 title_zh: "静希草十郎"
 title_ja: "静希 草十郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c3929"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shizuki Soujuurou"
   - "静希 草十郎"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c193"
 type: "character"
-display_title: "井乃原真人"
-title_zh: "井乃原真人"
+display_title: "井ノ原 真人"
+title_zh: ""
 title_ja: "井ノ原 真人"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c193"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Inohara Masato"
-  - "井ノ原 真人"
 source_ids:
   vndb: "c193"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c193.webp"
 ---
 
-# 井乃原真人
+# 井ノ原 真人
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

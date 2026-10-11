@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c120584"
 type: "character"
-display_title: "濑Y莫乌R"
-title_zh: "濑Y莫乌R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "SEYMOUR"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c120584"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "SEYMOUR"
   - "Carbon witch"
 source_ids:
   vndb: "c120584"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c120584.webp"
 ---
 
-# 濑Y莫乌R
+# SEYMOUR
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c154206"
 type: "character"
-display_title: "伊恩特RL奥佩R"
-title_zh: "伊恩特RL奥佩R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Interloper"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c154206"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Interloper"
 source_ids:
   vndb: "c154206"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c154206.webp"
 ---
 
-# 伊恩特RL奥佩R
+# Interloper
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

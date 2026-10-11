@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c4101"
 type: "character"
-display_title: "真莉寿寿特拉"
-title_zh: "真莉寿寿特拉"
+display_title: "マリス・ステラ"
+title_zh: ""
 title_ja: "マリス・ステラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c4101"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Maris Stella"
-  - "マリス・ステラ"
 source_ids:
   vndb: "c4101"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c4101.webp"
 ---
 
-# 真莉寿寿特拉
+# マリス・ステラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

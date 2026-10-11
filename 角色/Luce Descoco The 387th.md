@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c62904"
 type: "character"
-display_title: "露C惠德寿子子387世"
-title_zh: "露C惠德寿子子387世"
+display_title: "ルチェ・デスココ387世"
+title_zh: ""
 title_ja: "ルチェ・デスココ387世"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c62904"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Luce Descoco The 387th"
-  - "ルチェ・デスココ387世"
 source_ids:
   vndb: "c62904"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c62904.webp"
 ---
 
-# 露C惠德寿子子387世
+# ルチェ・デスココ387世
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

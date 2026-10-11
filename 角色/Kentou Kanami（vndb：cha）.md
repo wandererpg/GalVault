@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c124916"
 type: "character"
-display_title: "见当加奈美"
-title_zh: "见当加奈美"
+display_title: "見当 かなみ"
+title_zh: ""
 title_ja: "見当 かなみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124916"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kentou Kanami"
-  - "見当 かなみ"
 source_ids:
   vndb: "c124916"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c124916.webp"
 ---
 
-# 见当加奈美
+# 見当 かなみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

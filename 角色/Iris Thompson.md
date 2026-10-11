@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c61627"
 type: "character"
-display_title: "伊莉丝·T穗MP索恩"
-title_zh: "伊莉丝·T穗MP索恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Iris Thompson"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61627"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Iris Thompson"
 source_ids:
   vndb: "c61627"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c61627.webp"
 ---
 
-# 伊莉丝·T穗MP索恩
+# Iris Thompson
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

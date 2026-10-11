@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c159796"
 type: "character"
-display_title: "加乃阿F奥露特伊寿"
-title_zh: "加乃阿F奥露特伊寿"
+display_title: "カノア・フォルティス"
+title_zh: ""
 title_ja: "カノア・フォルティス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159796"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kanoa Fortis"
-  - "カノア・フォルティス"
 source_ids:
   vndb: "c159796"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c159796.webp"
 ---
 
-# 加乃阿F奥露特伊寿
+# カノア・フォルティス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

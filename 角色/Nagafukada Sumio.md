@@ -5,7 +5,10 @@ display_title: "长深田澄夫"
 title_zh: "长深田澄夫"
 title_ja: "長深田 澄夫"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c86164"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nagafukada Sumio"
   - "長深田 澄夫"

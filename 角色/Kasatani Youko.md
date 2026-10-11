@@ -5,7 +5,10 @@ display_title: "笠谷叶子"
 title_zh: "笠谷叶子"
 title_ja: "笠谷 葉子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c13267"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kasatani Youko"
   - "笠谷 葉子"

@@ -5,7 +5,10 @@ display_title: "十神白夜"
 title_zh: "十神白夜"
 title_ja: "十神 白夜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10191"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Togami Byakuya"
   - "十神 白夜"

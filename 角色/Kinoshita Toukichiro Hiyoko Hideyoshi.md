@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c20571"
 type: "character"
-display_title: "木下藤吉郎日代子秀吉"
-title_zh: "木下藤吉郎日代子秀吉"
+display_title: "木下 藤吉郎 ひよ子 秀吉"
+title_zh: ""
 title_ja: "木下 藤吉郎 ひよ子 秀吉"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c20571"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kinoshita Toukichiro Hiyoko Hideyoshi"
-  - "木下 藤吉郎 ひよ子 秀吉"
   - "Saru"
   - "ひよ子"
   - "Hiyoko"
@@ -21,7 +23,7 @@ source_urls:
 portrait_image: "assets/characters/c20571.webp"
 ---
 
-# 木下藤吉郎日代子秀吉
+# 木下 藤吉郎 ひよ子 秀吉
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

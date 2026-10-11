@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c641"
 type: "character"
-display_title: "惠特子乌"
-title_zh: "惠特子乌"
+display_title: "エテコウ"
+title_zh: ""
 title_ja: "エテコウ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c641"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Etekou"
-  - "エテコウ"
 source_ids:
   vndb: "c641"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c641.webp"
 ---
 
-# 惠特子乌
+# エテコウ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

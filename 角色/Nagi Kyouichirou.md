@@ -5,7 +5,10 @@ display_title: "凪镜一郎"
 title_zh: "凪镜一郎"
 title_ja: "凪 鏡一郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10023"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nagi Kyouichirou"
   - "凪 鏡一郎"

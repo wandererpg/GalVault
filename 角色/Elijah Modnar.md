@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c47155"
 type: "character"
-display_title: "惠莉阿真D堂奈阿"
-title_zh: "惠莉阿真D堂奈阿"
+display_title: "エリア・マッドナー"
+title_zh: ""
 title_ja: "エリア・マッドナー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c47155"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Elijah Modnar"
-  - "エリア・マッドナー"
   - "Elijah Madnar"
 source_ids:
   vndb: "c47155"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c47155.webp"
 ---
 
-# 惠莉阿真D堂奈阿
+# エリア・マッドナー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

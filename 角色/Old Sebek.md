@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c134181"
 type: "character"
-display_title: "濑贝久老"
-title_zh: "濑贝久老"
+display_title: "セベク老"
+title_zh: ""
 title_ja: "セベク老"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c134181"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Old Sebek"
-  - "セベク老"
 source_ids:
   vndb: "c134181"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c134181.webp"
 ---
 
-# 濑贝久老
+# セベク老
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

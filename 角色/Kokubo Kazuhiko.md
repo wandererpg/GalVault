@@ -5,7 +5,10 @@ display_title: "小久保一彦"
 title_zh: "小久保一彦"
 title_ja: "小久保 一彦"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c101215"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kokubo Kazuhiko"
   - "小久保 一彦"

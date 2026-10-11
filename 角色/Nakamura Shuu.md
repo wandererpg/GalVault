@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c81732"
 type: "character"
-display_title: "中村修乌"
-title_zh: "中村修乌"
+display_title: "中村 シュウ"
+title_zh: ""
 title_ja: "中村 シュウ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c81732"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nakamura Shuu"
-  - "中村 シュウ"
   - "シューベルト"
   - "Schubert"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c81732.webp"
 ---
 
-# 中村修乌
+# 中村 シュウ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

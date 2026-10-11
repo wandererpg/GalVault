@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c132425"
 type: "character"
-display_title: "C阿RL阿"
-title_zh: "C阿RL阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Carla"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132425"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Carla"
 source_ids:
   vndb: "c132425"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c132425.webp"
 ---
 
-# C阿RL阿
+# Carla
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

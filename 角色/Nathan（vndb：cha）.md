@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c136961"
 type: "character"
-display_title: "奈T羽恩"
-title_zh: "奈T羽恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Nathan"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136961"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Nathan"
   - "Nate"
 source_ids:
   vndb: "c136961"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c136961.webp"
 ---
 
-# 奈T羽恩
+# Nathan
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

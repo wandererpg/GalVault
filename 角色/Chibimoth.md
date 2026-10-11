@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c5444"
 type: "character"
-display_title: "千比莫寿"
-title_zh: "千比莫寿"
+display_title: "ちびもす"
+title_zh: ""
 title_ja: "ちびもす"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c5444"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chibimoth"
-  - "ちびもす"
   - "ちび"
   - "Chibi"
   - "ペロ"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c5444.webp"
 ---
 
-# 千比莫寿
+# ちびもす
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "罪门恭介"
 title_zh: "罪门恭介"
 title_ja: "罪門 恭介"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14170"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Zaimon Kyousuke"
   - "罪門 恭介"

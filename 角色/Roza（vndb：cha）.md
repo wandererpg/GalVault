@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c64391"
 type: "character"
-display_title: "洛奥扎"
-title_zh: "洛奥扎"
+display_title: "ローザ"
+title_zh: ""
 title_ja: "ローザ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c64391"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Roza"
-  - "ローザ"
 source_ids:
   vndb: "c64391"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c64391.webp"
 ---
 
-# 洛奥扎
+# ローザ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

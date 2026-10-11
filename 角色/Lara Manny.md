@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38237"
 type: "character"
-display_title: "拉拉阿真尼伊"
-title_zh: "拉拉阿真尼伊"
+display_title: "ララー・マニィ"
+title_zh: ""
 title_ja: "ララー・マニィ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38237"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lara Manny"
-  - "ララー・マニィ"
 source_ids:
   vndb: "c38237"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c38237.webp"
 ---
 
-# 拉拉阿真尼伊
+# ララー・マニィ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "鸟羽"
 title_zh: "鸟羽"
 title_ja: "鳥羽"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c31759"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Toba"
   - "鳥羽"

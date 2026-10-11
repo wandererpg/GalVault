@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c11557"
 type: "character"
-display_title: "柴咲真露奈"
-title_zh: "柴咲真露奈"
+display_title: "柴咲 まるな"
+title_zh: ""
 title_ja: "柴咲 まるな"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c11557"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shibasaki Maruna"
-  - "柴咲 まるな"
 source_ids:
   vndb: "c11557"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c11557.webp"
 ---
 
-# 柴咲真露奈
+# 柴咲 まるな
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

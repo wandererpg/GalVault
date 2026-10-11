@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c127690"
 type: "character"
-display_title: "露BY·TY莫拉"
-title_zh: "露BY·TY莫拉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ruby Tymora"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127690"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ruby Tymora"
 source_ids:
   vndb: "c127690"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c127690.webp"
 ---
 
-# 露BY·TY莫拉
+# Ruby Tymora
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

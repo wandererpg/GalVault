@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c138984"
 type: "character"
-display_title: "美阿"
-title_zh: "美阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Mia"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138984"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Mia"
 source_ids:
   vndb: "c138984"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c138984.webp"
 ---
 
-# 美阿
+# Mia
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

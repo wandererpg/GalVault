@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127179"
 type: "character"
-display_title: "奥D堂濑伊阿"
-title_zh: "奥D堂濑伊阿"
+display_title: "オッドセイア"
+title_zh: ""
 title_ja: "オッドセイア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127179"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Oddoseia"
-  - "オッドセイア"
 source_ids:
   vndb: "c127179"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c127179.webp"
 ---
 
-# 奥D堂濑伊阿
+# オッドセイア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

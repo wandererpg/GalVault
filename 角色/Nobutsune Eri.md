@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c49197"
 type: "character"
-display_title: "信常惠莉"
-title_zh: "信常惠莉"
+display_title: "信常 エリ"
+title_zh: ""
 title_ja: "信常 エリ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c49197"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nobutsune Eri"
-  - "信常 エリ"
 source_ids:
   vndb: "c49197"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c49197.webp"
 ---
 
-# 信常惠莉
+# 信常 エリ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

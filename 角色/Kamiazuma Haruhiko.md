@@ -5,7 +5,10 @@ display_title: "守东春彦"
 title_zh: "守东春彦"
 title_ja: "守東 春彦"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43853"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kamiazuma Haruhiko"
   - "守東 春彦"

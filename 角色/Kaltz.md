@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c15495"
 type: "character"
-display_title: "加露津"
-title_zh: "加露津"
+display_title: "カルツ"
+title_zh: ""
 title_ja: "カルツ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c15495"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kaltz"
-  - "カルツ"
   - "Devil of Grief"
 source_ids:
   vndb: "c15495"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c15495.webp"
 ---
 
-# 加露津
+# カルツ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

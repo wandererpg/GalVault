@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13051"
 type: "character"
-display_title: "F阿露寿司祭"
-title_zh: "F阿露寿司祭"
+display_title: "ファルス司祭"
+title_zh: ""
 title_ja: "ファルス司祭"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13051"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Bishop Falss"
-  - "ファルス司祭"
 source_ids:
   vndb: "c13051"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c13051.webp"
 ---
 
-# F阿露寿司祭
+# ファルス司祭
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

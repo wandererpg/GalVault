@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c57656"
 type: "character"
-display_title: "濑布恩"
-title_zh: "濑布恩"
+display_title: "セブン"
+title_zh: ""
 title_ja: "セブン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c57656"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sebun"
-  - "セブン"
   - "Mountain"
 source_ids:
   vndb: "c57656"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c57656.webp"
 ---
 
-# 濑布恩
+# セブン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

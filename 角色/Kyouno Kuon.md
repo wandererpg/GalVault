@@ -5,7 +5,10 @@ display_title: "乡野久梦"
 title_zh: "乡野久梦"
 title_ja: "郷野 久夢"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c169153"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kyouno Kuon"
   - "郷野 久夢"

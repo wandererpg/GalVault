@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127361"
 type: "character"
-display_title: "智天使和美惠露"
-title_zh: "智天使和美惠露"
+display_title: "智天使ワミエル"
+title_zh: ""
 title_ja: "智天使ワミエル"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127361"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cherub Wormiel"
-  - "智天使ワミエル"
 source_ids:
   vndb: "c127361"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c127361.webp"
 ---
 
-# 智天使和美惠露
+# 智天使ワミエル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

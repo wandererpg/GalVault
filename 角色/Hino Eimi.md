@@ -5,7 +5,10 @@ display_title: "日野瑛巳"
 title_zh: "日野瑛巳"
 title_ja: "日野 瑛巳"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c110155"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hino Eimi"
   - "日野 瑛巳"

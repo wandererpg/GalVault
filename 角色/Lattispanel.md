@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127185"
 type: "character"
-display_title: "拉千寿帕音露"
-title_zh: "拉千寿帕音露"
+display_title: "ラチスパネル"
+title_zh: ""
 title_ja: "ラチスパネル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127185"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lattispanel"
-  - "ラチスパネル"
 source_ids:
   vndb: "c127185"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c127185.webp"
 ---
 
-# 拉千寿帕音露
+# ラチスパネル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

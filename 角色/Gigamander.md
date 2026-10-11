@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c126635"
 type: "character"
-display_title: "吉雅真恩德R"
-title_zh: "吉雅真恩德R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Gigamander"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126635"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Gigamander"
 source_ids:
   vndb: "c126635"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c126635.webp"
 ---
 
-# 吉雅真恩德R
+# Gigamander
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

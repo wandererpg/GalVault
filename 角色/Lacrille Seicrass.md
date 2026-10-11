@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43023"
 type: "character"
-display_title: "拉久莉伊露濑伊久拉寿"
-title_zh: "拉久莉伊露濑伊久拉寿"
+display_title: "ラクリール・セイクラス"
+title_zh: ""
 title_ja: "ラクリール・セイクラス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43023"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lacrille Seicrass"
-  - "ラクリール・セイクラス"
 source_ids:
   vndb: "c43023"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43023.webp"
 ---
 
-# 拉久莉伊露濑伊久拉寿
+# ラクリール・セイクラス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

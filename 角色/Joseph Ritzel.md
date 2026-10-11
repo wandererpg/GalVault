@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c33681"
 type: "character"
-display_title: "乔濑PH·莉T泽L"
-title_zh: "乔濑PH·莉T泽L"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Joseph Ritzel"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33681"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Joseph Ritzel"
 source_ids:
   vndb: "c33681"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c33681.webp"
 ---
 
-# 乔濑PH·莉T泽L
+# Joseph Ritzel
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

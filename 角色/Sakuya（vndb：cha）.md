@@ -5,7 +5,10 @@ display_title: "朔夜"
 title_zh: "朔夜"
 title_ja: "朔夜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c35727"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakuya"
 source_ids:

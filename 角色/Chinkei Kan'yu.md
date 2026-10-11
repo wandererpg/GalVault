@@ -5,7 +5,10 @@ display_title: "陈珪汉瑜"
 title_zh: "陈珪汉瑜"
 title_ja: "陳珪 漢瑜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c61117"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Chinkei Kan'yu"
   - "陳珪 漢瑜"

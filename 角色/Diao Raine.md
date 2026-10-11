@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c157508"
 type: "character"
-display_title: "D伊奥蕾伊恩"
-title_zh: "D伊奥蕾伊恩"
+display_title: "ディオ・レイン"
+title_zh: ""
 title_ja: "ディオ・レイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c157508"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Diao Raine"
-  - "ディオ・レイン"
   - "Diao Chan"
 source_ids:
   vndb: "c157508"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c157508.webp"
 ---
 
-# D伊奥蕾伊恩
+# ディオ・レイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

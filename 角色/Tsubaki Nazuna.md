@@ -5,7 +5,10 @@ display_title: "椿捺菜"
 title_zh: "椿捺菜"
 title_ja: "椿 捺菜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c22853"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsubaki Nazuna"
   - "椿 捺菜"

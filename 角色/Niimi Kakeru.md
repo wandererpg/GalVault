@@ -5,7 +5,10 @@ display_title: "新海翔"
 title_zh: "新海翔"
 title_ja: "新海 翔"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c60020"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Niimi Kakeru"
   - "新海 翔"

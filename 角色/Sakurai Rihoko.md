@@ -5,7 +5,10 @@ display_title: "樱井梨穗子"
 title_zh: "樱井梨穗子"
 title_ja: "桜井 梨穂子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c8745"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakurai Rihoko"
   - "桜井 梨穂子"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c119027"
 type: "character"
-display_title: "阿R真恩D"
-title_zh: "阿R真恩D"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Armand"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c119027"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Armand"
 source_ids:
   vndb: "c119027"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c119027.webp"
 ---
 
-# 阿R真恩D
+# Armand
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

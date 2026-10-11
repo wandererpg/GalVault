@@ -5,7 +5,10 @@ display_title: "土桔由里彦"
 title_zh: "土桔由里彦"
 title_ja: "土桔 由里彦"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c22160"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tokitsu Yurihiko"
   - "土桔 由里彦"

@@ -5,7 +5,10 @@ display_title: "伊泽律子"
 title_zh: "伊泽律子"
 title_ja: "伊澤 律子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c30927"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Izawa Ritsuko"
   - "伊澤 律子"

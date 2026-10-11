@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c44136"
 type: "character"
-display_title: "波恩子津"
-title_zh: "波恩子津"
+display_title: "ポンコツ"
+title_zh: ""
 title_ja: "ポンコツ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c44136"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Junkheap"
-  - "ポンコツ"
 source_ids:
   vndb: "c44136"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c44136.webp"
 ---
 
-# 波恩子津
+# ポンコツ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

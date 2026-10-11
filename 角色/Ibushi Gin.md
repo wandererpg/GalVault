@@ -5,7 +5,10 @@ display_title: "饭伏银"
 title_zh: "饭伏银"
 title_ja: "飯伏 銀"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c83616"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ibushi Gin"
   - "飯伏 銀"

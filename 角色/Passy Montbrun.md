@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c54931"
 type: "character"
-display_title: "帕S诗伊莫恩布拉恩"
-title_zh: "帕S诗伊莫恩布拉恩"
+display_title: "パッシーモンブラン"
+title_zh: ""
 title_ja: "パッシーモンブラン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c54931"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Passy Montbrun"
-  - "パッシーモンブラン"
 source_ids:
   vndb: "c54931"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c54931.webp"
 ---
 
-# 帕S诗伊莫恩布拉恩
+# パッシーモンブラン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

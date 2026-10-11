@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61352"
 type: "character"
-display_title: "太奈斗寿诗寿特梦"
-title_zh: "太奈斗寿诗寿特梦"
+display_title: "タナトスシステム"
+title_zh: ""
 title_ja: "タナトスシステム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61352"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Thanatos System"
-  - "タナトスシステム"
 source_ids:
   vndb: "c61352"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61352.webp"
 ---
 
-# 太奈斗寿诗寿特梦
+# タナトスシステム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

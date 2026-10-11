@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c46265"
 type: "character"
-display_title: "桧崎玛丽亚"
-title_zh: "桧崎玛丽亚"
+display_title: "桧崎 まりあ"
+title_zh: ""
 title_ja: "桧崎 まりあ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c46265"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hizaki Maria"
-  - "桧崎 まりあ"
 source_ids:
   vndb: "c46265"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c46265.webp"
 ---
 
-# 桧崎玛丽亚
+# 桧崎 まりあ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

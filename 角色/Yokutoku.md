@@ -5,7 +5,10 @@ display_title: "翼德"
 title_zh: "翼德"
 title_ja: "翼徳"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c32186"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yokutoku"
   - "翼徳"

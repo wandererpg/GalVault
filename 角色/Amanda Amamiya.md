@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38366"
 type: "character"
-display_title: "阿真恩达雨宫"
-title_zh: "阿真恩达雨宫"
+display_title: "アマンダ 雨宮"
+title_zh: ""
 title_ja: "アマンダ 雨宮"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38366"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Amanda Amamiya"
-  - "アマンダ 雨宮"
   - "Ryouko Amamiya"
 source_ids:
   vndb: "c38366"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c38366.webp"
 ---
 
-# 阿真恩达雨宫
+# アマンダ 雨宮
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

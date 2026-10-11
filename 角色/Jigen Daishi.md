@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87442"
 type: "character"
-display_title: "慈眼大师(吉格恩达伊诗)"
-title_zh: "慈眼大师(吉格恩达伊诗)"
+display_title: "慈眼 大師 (ジゲン ダイシ)"
+title_zh: ""
 title_ja: "慈眼 大師 (ジゲン ダイシ)"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87442"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jigen Daishi"
-  - "慈眼 大師 (ジゲン ダイシ)"
   - "Grand Master Jigen"
 source_ids:
   vndb: "c87442"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c87442.webp"
 ---
 
-# 慈眼大师(吉格恩达伊诗)
+# 慈眼 大師 (ジゲン ダイシ)
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

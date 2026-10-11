@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c160094"
 type: "character"
-display_title: "进藤沙奈惠"
-title_zh: "进藤沙奈惠"
+display_title: "進藤 さなえ"
+title_zh: ""
 title_ja: "進藤 さなえ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c160094"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shindou Sanae"
-  - "進藤 さなえ"
 source_ids:
   vndb: "c160094"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c160094.webp"
 ---
 
-# 进藤沙奈惠
+# 進藤 さなえ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

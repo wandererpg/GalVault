@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17733"
 type: "character"
-display_title: "索音美"
-title_zh: "索音美"
+display_title: "ソネミ"
+title_zh: ""
 title_ja: "ソネミ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17733"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sonemi"
-  - "ソネミ"
 source_ids:
   vndb: "c17733"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c17733.webp"
 ---
 
-# 索音美
+# ソネミ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

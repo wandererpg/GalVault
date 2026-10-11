@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c48674"
 type: "character"
-display_title: "莉G古兹博乌惠恩"
-title_zh: "莉G古兹博乌惠恩"
+display_title: "リッグズ・ボウエン"
+title_zh: ""
 title_ja: "リッグズ・ボウエン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c48674"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Riggs Bauen"
-  - "リッグズ・ボウエン"
 source_ids:
   vndb: "c48674"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c48674.webp"
 ---
 
-# 莉G古兹博乌惠恩
+# リッグズ・ボウエン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

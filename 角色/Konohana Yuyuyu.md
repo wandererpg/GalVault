@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c7693"
 type: "character"
-display_title: "此花优优优"
-title_zh: "此花优优优"
+display_title: "此花 ゆゆゆ"
+title_zh: ""
 title_ja: "此花 ゆゆゆ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c7693"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Konohana Yuyuyu"
-  - "此花 ゆゆゆ"
 source_ids:
   vndb: "c7693"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c7693.webp"
 ---
 
-# 此花优优优
+# 此花 ゆゆゆ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

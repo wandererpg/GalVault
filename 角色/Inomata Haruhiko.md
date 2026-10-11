@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c163258"
 type: "character"
-display_title: "伊乃真太·羽露日子"
-title_zh: "伊乃真太·羽露日子"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Inomata Haruhiko"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c163258"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Inomata Haruhiko"
 source_ids:
   vndb: "c163258"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c163258.webp"
 ---
 
-# 伊乃真太·羽露日子
+# Inomata Haruhiko
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

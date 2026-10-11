@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c33721"
 type: "character"
-display_title: "S特P羽尼惠"
-title_zh: "S特P羽尼惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Stephanie"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33721"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Stephanie"
 source_ids:
   vndb: "c33721"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c33721.webp"
 ---
 
-# S特P羽尼惠
+# Stephanie
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

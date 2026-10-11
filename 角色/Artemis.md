@@ -4,7 +4,10 @@ type: "character"
 display_title: "阿尔忒弥斯"
 title_zh: "阿尔忒弥斯"
 title_zh_quality: "manual_override"
-title_status: "machine_generated"
+title_status: "reviewed"
+title_zh_source: "按 Artemis 的通行中文专名修正机翻残留；非官方角色译名"
+title_zh_confidence: "medium"
+title_zh_needs_review: false
 aliases:
   - "Artemis"
 source_ids:

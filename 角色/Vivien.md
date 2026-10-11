@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c33499"
 type: "character"
-display_title: "乌伊乌伊"
-title_zh: "乌伊乌伊"
+display_title: "ウィウィ"
+title_zh: ""
 title_ja: "ウィウィ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33499"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Vivien"
-  - "ウィウィ"
   - "Vivi"
 source_ids:
   vndb: "c33499"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c33499.webp"
 ---
 
-# 乌伊乌伊
+# ウィウィ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

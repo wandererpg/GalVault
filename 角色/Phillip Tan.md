@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c72124"
 type: "character"
-display_title: "P日LL伊P·太恩"
-title_zh: "P日LL伊P·太恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Phillip Tan"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c72124"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Phillip Tan"
 source_ids:
   vndb: "c72124"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c72124.webp"
 ---
 
-# P日LL伊P·太恩
+# Phillip Tan
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "真壁介六郎"
 title_zh: "真壁介六郎"
 title_ja: "真壁 介六郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c37903"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Makabe Sukerokurou"
   - "真壁 介六郎"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c80802"
 type: "character"
-display_title: "久洛雅奈吉·诗恩子"
-title_zh: "久洛雅奈吉·诗恩子"
+display_title: "クロヤナギ シンコ"
+title_zh: ""
 title_ja: "クロヤナギ シンコ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c80802"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kuroyanagi Shinko"
-  - "クロヤナギ シンコ"
   - "Japanese Dirty Harry"
   - "クロエ"
   - "Chloe"
@@ -21,7 +23,7 @@ source_urls:
 portrait_image: "assets/characters/c80802.webp"
 ---
 
-# 久洛雅奈吉·诗恩子
+# クロヤナギ シンコ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

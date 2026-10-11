@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61334"
 type: "character"
-display_title: "希恩古子阿"
-title_zh: "希恩古子阿"
+display_title: "キングコア"
+title_zh: ""
 title_ja: "キングコア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61334"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "KING-CORE"
-  - "キングコア"
   - "King Core"
   - "KING CORE"
   - "Lincoln"
@@ -21,7 +23,7 @@ source_urls:
 portrait_image: "assets/characters/c61334.webp"
 ---
 
-# 希恩古子阿
+# キングコア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

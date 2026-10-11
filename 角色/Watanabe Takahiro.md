@@ -5,7 +5,10 @@ display_title: "渡边鹰弘"
 title_zh: "渡边鹰弘"
 title_ja: "渡辺 鷹弘"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2150"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Watanabe Takahiro"
   - "渡辺 鷹弘"

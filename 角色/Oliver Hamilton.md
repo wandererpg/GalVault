@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c140348"
 type: "character"
-display_title: "奥莉V阿阿羽美露斗恩"
-title_zh: "奥莉V阿阿羽美露斗恩"
+display_title: "オリヴァー・ハミルトン"
+title_zh: ""
 title_ja: "オリヴァー・ハミルトン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c140348"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Oliver Hamilton"
-  - "オリヴァー・ハミルトン"
 source_ids:
   vndb: "c140348"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c140348.webp"
 ---
 
-# 奥莉V阿阿羽美露斗恩
+# オリヴァー・ハミルトン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

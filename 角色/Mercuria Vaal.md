@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c73218"
 type: "character"
-display_title: "真久莉阿＝V阿阿蕾"
-title_zh: "真久莉阿＝V阿阿蕾"
+display_title: "マキュリア＝ヴァーレ"
+title_zh: ""
 title_ja: "マキュリア＝ヴァーレ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c73218"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mercuria Vaal"
-  - "マキュリア＝ヴァーレ"
 source_ids:
   vndb: "c73218"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c73218.webp"
 ---
 
-# 真久莉阿＝V阿阿蕾
+# マキュリア＝ヴァーレ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c118532"
 type: "character"
-display_title: "尼MH"
-title_zh: "尼MH"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Nimh"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c118532"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Nimh"
 source_ids:
   vndb: "c118532"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c118532.webp"
 ---
 
-# 尼MH
+# Nimh
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c131399"
 type: "character"
-display_title: "PY拉美D·惠阿D"
-title_zh: "PY拉美D·惠阿D"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Pyramid Head"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c131399"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Pyramid Head"
   - "Pyri"
 source_ids:
   vndb: "c131399"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c131399.webp"
 ---
 
-# PY拉美D·惠阿D
+# Pyramid Head
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

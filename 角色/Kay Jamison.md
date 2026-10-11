@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c98905"
 type: "character"
-display_title: "加Y·嘉美索恩"
-title_zh: "加Y·嘉美索恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Kay Jamison"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98905"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Kay Jamison"
 source_ids:
   vndb: "c98905"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c98905.webp"
 ---
 
-# 加Y·嘉美索恩
+# Kay Jamison
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

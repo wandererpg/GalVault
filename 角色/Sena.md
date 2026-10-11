@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c172830"
 type: "character"
-display_title: "濑奈"
-title_zh: "濑奈"
+display_title: "セナ"
+title_zh: ""
 title_ja: "セナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c172830"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sena"
-  - "セナ"
 source_ids:
   vndb: "c172830"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c172830.webp"
 ---
 
-# 濑奈
+# セナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

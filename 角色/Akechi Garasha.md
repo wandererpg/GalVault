@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c86652"
 type: "character"
-display_title: "明智雅拉夏"
-title_zh: "明智雅拉夏"
+display_title: "明智 ガラシャ"
+title_zh: ""
 title_ja: "明智 ガラシャ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c86652"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Akechi Garasha"
-  - "明智 ガラシャ"
 source_ids:
   vndb: "c86652"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c86652.webp"
 ---
 
-# 明智雅拉夏
+# 明智 ガラシャ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

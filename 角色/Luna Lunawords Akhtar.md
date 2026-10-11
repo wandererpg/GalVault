@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c48181"
 type: "character"
-display_title: "露奈露奈和阿兹阿久太露"
-title_zh: "露奈露奈和阿兹阿久太露"
+display_title: "ルナ・ルナワーズ・アクタル"
+title_zh: ""
 title_ja: "ルナ・ルナワーズ・アクタル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c48181"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Luna Lunawords Akhtar"
-  - "ルナ・ルナワーズ・アクタル"
   - "ルナ"
   - "Luna"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c48181.webp"
 ---
 
-# 露奈露奈和阿兹阿久太露
+# ルナ・ルナワーズ・アクタル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

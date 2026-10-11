@@ -5,7 +5,10 @@ display_title: "御手洗晃"
 title_zh: "御手洗晃"
 title_ja: "御手洗 晃"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c133967"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mitarai Akira"
   - "御手洗 晃"

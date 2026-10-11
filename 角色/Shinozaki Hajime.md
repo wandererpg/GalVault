@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c117336"
 type: "character"
-display_title: "筿崎羽吉芽"
-title_zh: "筿崎羽吉芽"
+display_title: "篠崎 ハジメ"
+title_zh: ""
 title_ja: "篠崎 ハジメ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c117336"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shinozaki Hajime"
-  - "篠崎 ハジメ"
 source_ids:
   vndb: "c117336"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c117336.webp"
 ---
 
-# 筿崎羽吉芽
+# 篠崎 ハジメ
 
 
 ## 角色画像

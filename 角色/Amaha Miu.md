@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c5096"
 type: "character"
-display_title: "天羽美乌"
-title_zh: "天羽美乌"
+display_title: "天羽 みう"
+title_zh: ""
 title_ja: "天羽 みう"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c5096"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Amaha Miu"
-  - "天羽 みう"
 source_ids:
   vndb: "c5096"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c5096.webp"
 ---
 
-# 天羽美乌
+# 天羽 みう
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

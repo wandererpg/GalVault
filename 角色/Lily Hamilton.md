@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c165279"
 type: "character"
-display_title: "莉莉·羽美L斗恩"
-title_zh: "莉莉·羽美L斗恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Lily Hamilton"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c165279"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Lily Hamilton"
 source_ids:
   vndb: "c165279"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c165279.webp"
 ---
 
-# 莉莉·羽美L斗恩
+# Lily Hamilton
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

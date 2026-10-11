@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c116232"
 type: "character"
-display_title: "帕露特伊阿拉梦吉伊"
-title_zh: "帕露特伊阿拉梦吉伊"
+display_title: "パルティア・ラムジー"
+title_zh: ""
 title_ja: "パルティア・ラムジー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116232"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Parthia Ramsey"
-  - "パルティア・ラムジー"
 source_ids:
   vndb: "c116232"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c116232.webp"
 ---
 
-# 帕露特伊阿拉梦吉伊
+# パルティア・ラムジー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

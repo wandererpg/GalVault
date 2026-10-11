@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c111990"
 type: "character"
-display_title: "伊伊乃K久堂蕾B巴阿"
-title_zh: "伊伊乃K久堂蕾B巴阿"
+display_title: "イーノック・ドレッバー"
+title_zh: ""
 title_ja: "イーノック・ドレッバー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c111990"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Enoch Drebber"
-  - "イーノック・ドレッバー"
 source_ids:
   vndb: "c111990"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c111990.webp"
 ---
 
-# 伊伊乃K久堂蕾B巴阿
+# イーノック・ドレッバー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

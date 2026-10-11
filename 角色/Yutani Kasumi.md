@@ -5,7 +5,10 @@ display_title: "汤谷香澄"
 title_zh: "汤谷香澄"
 title_ja: "湯谷 香澄"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c87106"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yutani Kasumi"
   - "湯谷 香澄"

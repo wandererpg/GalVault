@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12259"
 type: "character"
-display_title: "希伊寿悟奥露堂"
-title_zh: "希伊寿悟奥露堂"
+display_title: "キース・ゴールド"
+title_zh: ""
 title_ja: "キース・ゴールド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12259"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Keith Gold"
-  - "キース・ゴールド"
 source_ids:
   vndb: "c12259"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c12259.webp"
 ---
 
-# 希伊寿悟奥露堂
+# キース・ゴールド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

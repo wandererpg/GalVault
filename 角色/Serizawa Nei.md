@@ -5,7 +5,10 @@ display_title: "芹泽宁"
 title_zh: "芹泽宁"
 title_ja: "芹沢 寧"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c8494"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Serizawa Nei"
   - "芹沢 寧"

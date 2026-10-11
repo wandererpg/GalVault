@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90162"
 type: "character"
-display_title: "茅惠崎至"
-title_zh: "茅惠崎至"
+display_title: "茅ヶ崎 至"
+title_zh: ""
 title_ja: "茅ヶ崎 至"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90162"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chigasaki Itaru"
-  - "茅ヶ崎 至"
   - "Itaroon"
   - "Elite Swindler"
   - "Taruchi"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c90162.webp"
 ---
 
-# 茅惠崎至
+# 茅ヶ崎 至
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

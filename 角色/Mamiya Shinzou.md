@@ -5,7 +5,10 @@ display_title: "间宫心像"
 title_zh: "间宫心像"
 title_ja: "間宮 心像"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c45304"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mamiya Shinzou"
   - "間宮 心像"

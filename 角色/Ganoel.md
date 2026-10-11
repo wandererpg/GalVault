@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c84392"
 type: "character"
-display_title: "雅乃惠露"
-title_zh: "雅乃惠露"
+display_title: "ガノエル"
+title_zh: ""
 title_ja: "ガノエル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c84392"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ganoel"
-  - "ガノエル"
 source_ids:
   vndb: "c84392"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c84392.webp"
 ---
 
-# 雅乃惠露
+# ガノエル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

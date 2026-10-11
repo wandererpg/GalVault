@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13596"
 type: "character"
-display_title: "巴斗露乃奥斗"
-title_zh: "巴斗露乃奥斗"
+display_title: "バトルノート"
+title_zh: ""
 title_ja: "バトルノート"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13596"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Battle Note"
-  - "バトルノート"
 source_ids:
   vndb: "c13596"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c13596.webp"
 ---
 
-# 巴斗露乃奥斗
+# バトルノート
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

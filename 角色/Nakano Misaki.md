@@ -5,7 +5,10 @@ display_title: "中野实咲"
 title_zh: "中野实咲"
 title_ja: "中野 実咲"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c128436"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nakano Misaki"
   - "中野 実咲"

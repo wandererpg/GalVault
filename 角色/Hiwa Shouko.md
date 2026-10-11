@@ -5,7 +5,10 @@ display_title: "日羽翔子"
 title_zh: "日羽翔子"
 title_ja: "日羽 翔子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c33282"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hiwa Shouko"
   - "日羽 翔子"

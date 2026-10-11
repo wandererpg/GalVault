@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43678"
 type: "character"
-display_title: "奥T斗奥修斗拉乌寿"
-title_zh: "奥T斗奥修斗拉乌寿"
+display_title: "オットー・シュトラウス"
+title_zh: ""
 title_ja: "オットー・シュトラウス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43678"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Otto Strauss"
-  - "オットー・シュトラウス"
 source_ids:
   vndb: "c43678"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43678.webp"
 ---
 
-# 奥T斗奥修斗拉乌寿
+# オットー・シュトラウス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

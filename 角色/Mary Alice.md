@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c24669"
 type: "character"
-display_title: "真莉伊阿莉寿"
-title_zh: "真莉伊阿莉寿"
+display_title: "マリーアリス"
+title_zh: ""
 title_ja: "マリーアリス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c24669"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mary Alice"
-  - "マリーアリス"
 source_ids:
   vndb: "c24669"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c24669.webp"
 ---
 
-# 真莉伊阿莉寿
+# マリーアリス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

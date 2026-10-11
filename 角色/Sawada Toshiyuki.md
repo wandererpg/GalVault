@@ -5,7 +5,10 @@ display_title: "泽田敏行"
 title_zh: "泽田敏行"
 title_ja: "澤田 敏行"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c86162"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sawada Toshiyuki"
   - "澤田 敏行"

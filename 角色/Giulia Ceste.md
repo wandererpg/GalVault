@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c67284"
 type: "character"
-display_title: "朱莉阿C惠寿特"
-title_zh: "朱莉阿C惠寿特"
+display_title: "ジュリア・チェステ"
+title_zh: ""
 title_ja: "ジュリア・チェステ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c67284"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Giulia Ceste"
-  - "ジュリア・チェステ"
 source_ids:
   vndb: "c67284"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c67284.webp"
 ---
 
-# 朱莉阿C惠寿特
+# ジュリア・チェステ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

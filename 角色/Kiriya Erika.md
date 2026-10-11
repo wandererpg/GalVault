@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c42551"
 type: "character"
-display_title: "雾夜艾莉卡"
-title_zh: "雾夜艾莉卡"
+display_title: "霧夜 エリカ"
+title_zh: ""
 title_ja: "霧夜 エリカ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c42551"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kiriya Erika"
-  - "霧夜 エリカ"
   - "Hime"
 source_ids:
   vndb: "c42551"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c42551.webp"
 ---
 
-# 雾夜艾莉卡
+# 霧夜 エリカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

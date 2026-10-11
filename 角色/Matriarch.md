@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c136465"
 type: "character"
-display_title: "芙久洛乌乃婆沙恩"
-title_zh: "芙久洛乌乃婆沙恩"
+display_title: "フクロウの婆さん"
+title_zh: ""
 title_ja: "フクロウの婆さん"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136465"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Matriarch"
-  - "フクロウの婆さん"
 source_ids:
   vndb: "c136465"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c136465.webp"
 ---
 
-# 芙久洛乌乃婆沙恩
+# フクロウの婆さん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

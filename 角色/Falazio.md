@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c131311"
 type: "character"
-display_title: "F阿L阿Z伊奥"
-title_zh: "F阿L阿Z伊奥"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Falazio"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c131311"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Falazio"
 source_ids:
   vndb: "c131311"
 source_urls:
   vndb: "https://vndb.org/c131311"
 ---
 
-# F阿L阿Z伊奥
+# Falazio
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

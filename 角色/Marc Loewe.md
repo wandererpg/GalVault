@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c89304"
 type: "character"
-display_title: "真RC·L奥惠W惠"
-title_zh: "真RC·L奥惠W惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Marc Loewe"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c89304"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Marc Loewe"
 source_ids:
   vndb: "c89304"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c89304.webp"
 ---
 
-# 真RC·L奥惠W惠
+# Marc Loewe
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

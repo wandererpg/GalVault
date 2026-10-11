@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12705"
 type: "character"
-display_title: "拉巴恩修龙兹贝莉伊"
-title_zh: "拉巴恩修龙兹贝莉伊"
+display_title: "ラバン・シュリュズベリイ"
+title_zh: ""
 title_ja: "ラバン・シュリュズベリイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12705"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Laban Shrewsbury"
-  - "ラバン・シュリュズベリイ"
 source_ids:
   vndb: "c12705"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c12705.webp"
 ---
 
-# 拉巴恩修龙兹贝莉伊
+# ラバン・シュリュズベリイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43339"
 type: "character"
-display_title: "斗奥妮娅乌佩恩寿子奈"
-title_zh: "斗奥妮娅乌佩恩寿子奈"
+display_title: "トーニャ・ウペンスコナ"
+title_zh: ""
 title_ja: "トーニャ・ウペンスコナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43339"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tonya Upenskona"
-  - "トーニャ・ウペンスコナ"
 source_ids:
   vndb: "c43339"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43339.webp"
 ---
 
-# 斗奥妮娅乌佩恩寿子奈
+# トーニャ・ウペンスコナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

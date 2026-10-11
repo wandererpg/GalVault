@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c166650"
 type: "character"
-display_title: "久洛梦"
-title_zh: "久洛梦"
+display_title: "クロム"
+title_zh: ""
 title_ja: "クロム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c166650"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chrome"
-  - "クロム"
   - "Witch of Cessation"
 source_ids:
   vndb: "c166650"
@@ -16,7 +18,7 @@ source_urls:
   vndb: "https://vndb.org/c166650"
 ---
 
-# 久洛梦
+# クロム
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

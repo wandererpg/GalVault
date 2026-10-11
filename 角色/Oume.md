@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c46353"
 type: "character"
-display_title: "奥梅"
-title_zh: "奥梅"
+display_title: "お梅"
+title_zh: ""
 title_ja: "お梅"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c46353"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Oume"
-  - "お梅"
 source_ids:
   vndb: "c46353"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c46353.webp"
 ---
 
-# 奥梅
+# お梅
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

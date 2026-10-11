@@ -5,7 +5,10 @@ display_title: "朱音凛"
 title_zh: "朱音凛"
 title_ja: "朱音 凜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c24978"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Akane Rin"
   - "朱音 凜"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c52760"
 type: "character"
-display_title: "加久太"
-title_zh: "加久太"
+display_title: "カクタ"
+title_zh: ""
 title_ja: "カクタ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c52760"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kakuta"
-  - "カクタ"
 source_ids:
   vndb: "c52760"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c52760.webp"
 ---
 
-# 加久太
+# カクタ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

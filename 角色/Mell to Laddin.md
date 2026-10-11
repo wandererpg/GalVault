@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38224"
 type: "character"
-display_title: "芽露斗拉D伊恩"
-title_zh: "芽露斗拉D伊恩"
+display_title: "メル・ト・ラディン"
+title_zh: ""
 title_ja: "メル・ト・ラディン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38224"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mell to Laddin"
-  - "メル・ト・ラディン"
 source_ids:
   vndb: "c38224"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c38224.webp"
 ---
 
-# 芽露斗拉D伊恩
+# メル・ト・ラディン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

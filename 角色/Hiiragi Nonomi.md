@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c55032"
 type: "character"
-display_title: "柊乃乃未"
-title_zh: "柊乃乃未"
+display_title: "柊 ノノ未"
+title_zh: ""
 title_ja: "柊 ノノ未"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c55032"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hiiragi Nonomi"
-  - "柊 ノノ未"
 source_ids:
   vndb: "c55032"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c55032.webp"
 ---
 
-# 柊乃乃未
+# 柊 ノノ未
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

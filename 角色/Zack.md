@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c48490"
 type: "character"
-display_title: "扎K久"
-title_zh: "扎K久"
+display_title: "ザック"
+title_zh: ""
 title_ja: "ザック"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c48490"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Zack"
-  - "ザック"
 source_ids:
   vndb: "c48490"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c48490.webp"
 ---
 
-# 扎K久
+# ザック
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

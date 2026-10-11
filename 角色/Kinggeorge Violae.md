@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c99002"
 type: "character"
-display_title: "希恩古乔奥吉阿巴蕾惠"
-title_zh: "希恩古乔奥吉阿巴蕾惠"
+display_title: "キングジョージ・アバレー"
+title_zh: ""
 title_ja: "キングジョージ・アバレー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c99002"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kinggeorge Violae"
-  - "キングジョージ・アバレー"
 source_ids:
   vndb: "c99002"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c99002.webp"
 ---
 
-# 希恩古乔奥吉阿巴蕾惠
+# キングジョージ・アバレー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

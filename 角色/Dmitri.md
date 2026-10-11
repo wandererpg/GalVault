@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c118534"
 type: "character"
-display_title: "D美T莉"
-title_zh: "D美T莉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Dmitri"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c118534"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Dmitri"
 source_ids:
   vndb: "c118534"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c118534.webp"
 ---
 
-# D美T莉
+# Dmitri
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

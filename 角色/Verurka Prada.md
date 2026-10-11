@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30213"
 type: "character"
-display_title: "V惠露洛加普拉达"
-title_zh: "V惠露洛加普拉达"
+display_title: "ヴェルロカ・プラダ"
+title_zh: ""
 title_ja: "ヴェルロカ・プラダ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30213"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Verurka Prada"
-  - "ヴェルロカ・プラダ"
 source_ids:
   vndb: "c30213"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30213.webp"
 ---
 
-# V惠露洛加普拉达
+# ヴェルロカ・プラダ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "奈々丸卷子"
 title_zh: "奈々丸卷子"
 title_ja: "奈々丸 巻子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c44924"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nanamaru Makiko"
   - "奈々丸 巻子"

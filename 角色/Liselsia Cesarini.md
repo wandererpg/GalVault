@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c20"
 type: "character"
-display_title: "莉濑露诗阿C惠扎莉伊尼"
-title_zh: "莉濑露诗阿C惠扎莉伊尼"
+display_title: "リセルシア・チェザリーニ"
+title_zh: ""
 title_ja: "リセルシア・チェザリーニ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c20"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Liselsia Cesarini"
-  - "リセルシア・チェザリーニ"
   - "リセ"
   - "Lise"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c20.webp"
 ---
 
-# 莉濑露诗阿C惠扎莉伊尼
+# リセルシア・チェザリーニ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

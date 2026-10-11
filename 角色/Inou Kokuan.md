@@ -5,7 +5,10 @@ display_title: "稻生国庵"
 title_zh: "稻生国庵"
 title_ja: "稲生 国庵"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c168549"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Inou Kokuan"
   - "稲生 国庵"

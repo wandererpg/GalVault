@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90187"
 type: "character"
-display_title: "雅伊"
-title_zh: "雅伊"
+display_title: "ガイ"
+title_zh: ""
 title_ja: "ガイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90187"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Guy"
-  - "ガイ"
   - "Mr. Android"
 source_ids:
   vndb: "c90187"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c90187.webp"
 ---
 
-# 雅伊
+# ガイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

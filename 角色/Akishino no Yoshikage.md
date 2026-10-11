@@ -5,7 +5,10 @@ display_title: "秋筿吉影"
 title_zh: "秋筿吉影"
 title_ja: "秋篠 吉影"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c36356"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Akishino no Yoshikage"
   - "秋篠 吉影"

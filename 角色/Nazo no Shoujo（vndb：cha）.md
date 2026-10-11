@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c94233"
 type: "character"
-display_title: "谜乃少女"
-title_zh: "谜乃少女"
+display_title: "謎の少女"
+title_zh: ""
 title_ja: "謎の少女"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94233"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nazo no Shoujo"
-  - "謎の少女"
   - "八坂 愛乃亜"
   - "Yasaka Menoa"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c94233.webp"
 ---
 
-# 谜乃少女
+# 謎の少女
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

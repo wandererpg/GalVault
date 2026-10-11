@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c25924"
 type: "character"
-display_title: "加乌拉古蕾伊吉伊"
-title_zh: "加乌拉古蕾伊吉伊"
+display_title: "カウラ・グレイジー"
+title_zh: ""
 title_ja: "カウラ・グレイジー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c25924"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Caula Gleji"
-  - "カウラ・グレイジー"
 source_ids:
   vndb: "c25924"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c25924.webp"
 ---
 
-# 加乌拉古蕾伊吉伊
+# カウラ・グレイジー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

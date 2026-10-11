@@ -5,7 +5,10 @@ display_title: "孙策伯符"
 title_zh: "孙策伯符"
 title_ja: "孫策 伯符"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c19276"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sonsaku Hakufu"
   - "孫策 伯符"

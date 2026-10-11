@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c844"
 type: "character"
-display_title: "惠恩吉·濑斗乌"
-title_zh: "惠恩吉·濑斗乌"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Kenji Setou"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c844"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Kenji Setou"
 source_ids:
   vndb: "c844"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c844.webp"
 ---
 
-# 惠恩吉·濑斗乌
+# Kenji Setou
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

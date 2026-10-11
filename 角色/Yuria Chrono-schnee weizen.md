@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c20714"
 type: "character"
-display_title: "优莉阿=久洛乃修音惠V阿伊诗惠恩"
-title_zh: "优莉阿=久洛乃修音惠V阿伊诗惠恩"
+display_title: "ユリア=クロノシュネーヴァイシェン"
+title_zh: ""
 title_ja: "ユリア=クロノシュネーヴァイシェン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c20714"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yuria Chrono-schnee weizen"
-  - "ユリア=クロノシュネーヴァイシェン"
   - "Yuri-nee"
   - "The Third Seat (第三席)"
   - "時空を駆ける蒼姫"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c20714.webp"
 ---
 
-# 优莉阿=久洛乃修音惠V阿伊诗惠恩
+# ユリア=クロノシュネーヴァイシェン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

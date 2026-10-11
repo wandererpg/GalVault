@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12824"
 type: "character"
-display_title: "夏露露真洛奥寿"
-title_zh: "夏露露真洛奥寿"
+display_title: "シャルル・マロース"
+title_zh: ""
 title_ja: "シャルル・マロース"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12824"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Charles Maroth"
-  - "シャルル・マロース"
 source_ids:
   vndb: "c12824"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c12824.webp"
 ---
 
-# 夏露露真洛奥寿
+# シャルル・マロース
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

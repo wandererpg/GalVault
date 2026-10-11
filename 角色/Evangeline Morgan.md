@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c113877"
 type: "character"
-display_title: "惠V阿恩格L伊音·莫R雅恩"
-title_zh: "惠V阿恩格L伊音·莫R雅恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Evangeline Morgan"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c113877"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Evangeline Morgan"
   - "Adonai"
   - "Counselor Morgan"
   - "Ev"
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c113877.webp"
 ---
 
-# 惠V阿恩格L伊音·莫R雅恩
+# Evangeline Morgan
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

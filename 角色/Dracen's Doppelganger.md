@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c171816"
 type: "character"
-display_title: "D拉C惠恩S·堂P佩L雅恩格R"
-title_zh: "D拉C惠恩S·堂P佩L雅恩格R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Dracen's Doppelganger"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c171816"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Dracen's Doppelganger"
 source_ids:
   vndb: "c171816"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c171816.webp"
 ---
 
-# D拉C惠恩S·堂P佩L雅恩格R
+# Dracen's Doppelganger
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

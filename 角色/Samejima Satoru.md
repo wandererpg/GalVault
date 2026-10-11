@@ -5,7 +5,10 @@ display_title: "鲛岛聪"
 title_zh: "鲛岛聪"
 title_ja: "鮫島 聡"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c98440"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Samejima Satoru"
   - "鮫島 聡"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c142523"
 type: "character"
-display_title: "堂美尼Q乌惠·德阿恩奈"
-title_zh: "堂美尼Q乌惠·德阿恩奈"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Dominique Deanna"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c142523"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Dominique Deanna"
 source_ids:
   vndb: "c142523"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c142523.webp"
 ---
 
-# 堂美尼Q乌惠·德阿恩奈
+# Dominique Deanna
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

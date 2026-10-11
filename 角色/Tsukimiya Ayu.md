@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c2927"
 type: "character"
-display_title: "月宫阿优"
-title_zh: "月宫阿优"
+display_title: "月宮 あゆ"
+title_zh: ""
 title_ja: "月宮 あゆ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c2927"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tsukimiya Ayu"
-  - "月宮 あゆ"
   - "あゆ あゆ"
   - "Ayu Ayu"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c2927.webp"
 ---
 
-# 月宫阿优
+# 月宮 あゆ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

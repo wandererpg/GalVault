@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c123094"
 type: "character"
-display_title: "阿V惠RY"
-title_zh: "阿V惠RY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Avery"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c123094"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Avery"
 source_ids:
   vndb: "c123094"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c123094.webp"
 ---
 
-# 阿V惠RY
+# Avery
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

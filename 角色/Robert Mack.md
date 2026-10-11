@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c89312"
 type: "character"
-display_title: "罗伯特·真CK"
-title_zh: "罗伯特·真CK"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Robert Mack"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c89312"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Robert Mack"
 source_ids:
   vndb: "c89312"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c89312.webp"
 ---
 
-# 罗伯特·真CK
+# Robert Mack
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

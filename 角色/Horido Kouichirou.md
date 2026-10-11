@@ -5,7 +5,10 @@ display_title: "堀度公一郎"
 title_zh: "堀度公一郎"
 title_ja: "堀度 公一郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c115779"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Horido Kouichirou"
   - "堀度 公一郎"

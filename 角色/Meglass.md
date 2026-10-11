@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c97990"
 type: "character"
-display_title: "芽雅拉寿"
-title_zh: "芽雅拉寿"
+display_title: "メガラス"
+title_zh: ""
 title_ja: "メガラス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97990"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Meglass"
-  - "メガラス"
 source_ids:
   vndb: "c97990"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c97990.webp"
 ---
 
-# 芽雅拉寿
+# メガラス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "野々村智美"
 title_zh: "野々村智美"
 title_ja: "野々村 智美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21356"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nonomura Tomomi"
   - "野々村 智美"

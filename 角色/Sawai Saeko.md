@@ -5,7 +5,10 @@ display_title: "泽井冴子"
 title_zh: "泽井冴子"
 title_ja: "沢井 冴子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9493"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sawai Saeko"
   - "沢井 冴子"

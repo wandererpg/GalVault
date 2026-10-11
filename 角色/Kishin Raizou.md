@@ -5,7 +5,10 @@ display_title: "贵神雷赠"
 title_zh: "贵神雷赠"
 title_ja: "貴神 雷贈"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2467"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kishin Raizou"
   - "貴神 雷贈"

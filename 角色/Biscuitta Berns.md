@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c96907"
 type: "character"
-display_title: "比寿惠T太贝露恩兹"
-title_zh: "比寿惠T太贝露恩兹"
+display_title: "ビスケッタ・ベルンズ"
+title_zh: ""
 title_ja: "ビスケッタ・ベルンズ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c96907"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Biscuitta Berns"
-  - "ビスケッタ・ベルンズ"
 source_ids:
   vndb: "c96907"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c96907.webp"
 ---
 
-# 比寿惠T太贝露恩兹
+# ビスケッタ・ベルンズ
 
 
 ## 角色画像

@@ -5,7 +5,10 @@ display_title: "森绚吾"
 title_zh: "森绚吾"
 title_ja: "森 絢吾"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c27381"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mori Kengo"
   - "森 絢吾"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c155418"
 type: "character"
-display_title: "阿莉阿恩奈·伊恩G日奥TT伊蕾"
-title_zh: "阿莉阿恩奈·伊恩G日奥TT伊蕾"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Arianna Inghiottire"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155418"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Arianna Inghiottire"
 source_ids:
   vndb: "c155418"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c155418.webp"
 ---
 
-# 阿莉阿恩奈·伊恩G日奥TT伊蕾
+# Arianna Inghiottire
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

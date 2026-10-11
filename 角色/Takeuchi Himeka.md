@@ -5,7 +5,10 @@ display_title: "竹内姫香"
 title_zh: "竹内姫香"
 title_ja: "竹内 姫香"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c30925"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takeuchi Himeka"
   - "竹内 姫香"

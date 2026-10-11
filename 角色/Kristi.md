@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c78905"
 type: "character"
-display_title: "久莉寿特伊伊"
-title_zh: "久莉寿特伊伊"
+display_title: "クリスティー"
+title_zh: ""
 title_ja: "クリスティー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c78905"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kristi"
-  - "クリスティー"
 source_ids:
   vndb: "c78905"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c78905.webp"
 ---
 
-# 久莉寿特伊伊
+# クリスティー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

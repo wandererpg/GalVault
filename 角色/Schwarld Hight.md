@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c94406"
 type: "character"
-display_title: "修巴露斗羽伊斗"
-title_zh: "修巴露斗羽伊斗"
+display_title: "シュバルト・ハイト"
+title_zh: ""
 title_ja: "シュバルト・ハイト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94406"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Schwarld Hight"
-  - "シュバルト・ハイト"
 source_ids:
   vndb: "c94406"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c94406.webp"
 ---
 
-# 修巴露斗羽伊斗
+# シュバルト・ハイト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

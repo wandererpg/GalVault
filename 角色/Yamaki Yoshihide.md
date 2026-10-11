@@ -5,7 +5,10 @@ display_title: "山木芳秀"
 title_zh: "山木芳秀"
 title_ja: "山木 芳秀"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c5566"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yamaki Yoshihide"
   - "山木 芳秀"

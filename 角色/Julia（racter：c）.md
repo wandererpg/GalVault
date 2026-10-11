@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c150142"
 type: "character"
-display_title: "茱莉亚"
-title_zh: "茱莉亚"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Julia"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c150142"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Julia"
 source_ids:
   vndb: "c150142"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c150142.webp"
 ---
 
-# 茱莉亚
+# Julia
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

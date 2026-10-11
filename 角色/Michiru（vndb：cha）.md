@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c9994"
 type: "character"
-display_title: "美千露"
-title_zh: "美千露"
+display_title: "みちる"
+title_zh: ""
 title_ja: "みちる"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c9994"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Michiru"
-  - "みちる"
 source_ids:
   vndb: "c9994"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c9994.webp"
 ---
 
-# 美千露
+# みちる
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

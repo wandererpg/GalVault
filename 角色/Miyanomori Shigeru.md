@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39280"
 type: "character"
-display_title: "宫乃杜茂"
-title_zh: "宫乃杜茂"
+display_title: "宮ノ杜 茂"
+title_zh: ""
 title_ja: "宮ノ杜 茂"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39280"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Miyanomori Shigeru"
-  - "宮ノ杜 茂"
 source_ids:
   vndb: "c39280"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c39280.webp"
 ---
 
-# 宫乃杜茂
+# 宮ノ杜 茂
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c155288"
 type: "character"
-display_title: "克里斯·奈加梦拉"
-title_zh: "克里斯·奈加梦拉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Chris Nakamura"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155288"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Chris Nakamura"
 source_ids:
   vndb: "c155288"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c155288.webp"
 ---
 
-# 克里斯·奈加梦拉
+# Chris Nakamura
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

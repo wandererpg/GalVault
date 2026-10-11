@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c36803"
 type: "character"
-display_title: "子莉恩子K子莉恩"
-title_zh: "子莉恩子K子莉恩"
+display_title: "コリン・コッコリン"
+title_zh: ""
 title_ja: "コリン・コッコリン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c36803"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Colin Coccolin"
-  - "コリン・コッコリン"
   - "Corin"
 source_ids:
   vndb: "c36803"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c36803.webp"
 ---
 
-# 子莉恩子K子莉恩
+# コリン・コッコリン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

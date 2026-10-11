@@ -5,7 +5,10 @@ display_title: "兼田真人"
 title_zh: "兼田真人"
 title_ja: "兼田 真人"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c61869"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kaneda Masato"
   - "兼田 真人"

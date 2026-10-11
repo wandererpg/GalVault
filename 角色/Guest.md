@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c128005"
 type: "character"
-display_title: "古惠ST"
-title_zh: "古惠ST"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Guest"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c128005"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Guest"
 source_ids:
   vndb: "c128005"
 source_urls:
   vndb: "https://vndb.org/c128005"
 ---
 
-# 古惠ST
+# Guest
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

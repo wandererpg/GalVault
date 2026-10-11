@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c132078"
 type: "character"
-display_title: "榊加伊"
-title_zh: "榊加伊"
+display_title: "榊 カイ"
+title_zh: ""
 title_ja: "榊 カイ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132078"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sakaki Kai"
-  - "榊 カイ"
 source_ids:
   vndb: "c132078"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c132078.webp"
 ---
 
-# 榊加伊
+# 榊 カイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

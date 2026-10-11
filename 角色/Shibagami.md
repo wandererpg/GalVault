@@ -5,7 +5,10 @@ display_title: "柴神"
 title_zh: "柴神"
 title_ja: "柴神"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c627"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shibagami"
 source_ids:

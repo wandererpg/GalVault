@@ -5,7 +5,10 @@ display_title: "百地尚光"
 title_zh: "百地尚光"
 title_ja: "百地 尚光"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c26749"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Momoji Naomitsu"
   - "百地 尚光"

@@ -5,7 +5,10 @@ display_title: "鹰代那美"
 title_zh: "鹰代那美"
 title_ja: "鷹代 那美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c49949"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takashiro Nami"
   - "鷹代 那美"

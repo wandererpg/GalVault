@@ -5,7 +5,10 @@ display_title: "成田芳美"
 title_zh: "成田芳美"
 title_ja: "成田 芳美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10325"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Narita Yoshimi"
   - "成田 芳美"

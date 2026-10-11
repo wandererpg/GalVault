@@ -5,7 +5,10 @@ display_title: "饭冢武也"
 title_zh: "饭冢武也"
 title_ja: "飯塚 武也"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c15112"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Iizuka Takeya"
   - "飯塚 武也"

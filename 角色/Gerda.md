@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39798"
 type: "character"
-display_title: "格露达"
-title_zh: "格露达"
+display_title: "ゲルダ"
+title_zh: ""
 title_ja: "ゲルダ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39798"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gerda"
-  - "ゲルダ"
 source_ids:
   vndb: "c39798"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c39798.webp"
 ---
 
-# 格露达
+# ゲルダ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

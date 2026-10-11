@@ -5,7 +5,10 @@ display_title: "寺内阳太"
 title_zh: "寺内阳太"
 title_ja: "寺内 陽太"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1422"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Terauchi Youta"
   - "寺内 陽太"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c124763"
 type: "character"
-display_title: "寿蕾惠布蕾伊恩"
-title_zh: "寿蕾惠布蕾伊恩"
+display_title: "スレーブ・レイン"
+title_zh: ""
 title_ja: "スレーブ・レイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124763"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Slave Rain"
-  - "スレーブ・レイン"
   - "Magical Girl Slave Rain"
   - "4th Mesudorei"
   - "Doumyouji Kotetsu"
@@ -22,7 +24,7 @@ source_urls:
 portrait_image: "assets/characters/c124763.webp"
 ---
 
-# 寿蕾惠布蕾伊恩
+# スレーブ・レイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

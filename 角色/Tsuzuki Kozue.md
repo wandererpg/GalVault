@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c20457"
 type: "character"
-display_title: "都筑子兹惠"
-title_zh: "都筑子兹惠"
+display_title: "都築 こずえ"
+title_zh: ""
 title_ja: "都築 こずえ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c20457"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tsuzuki Kozue"
-  - "都築 こずえ"
 source_ids:
   vndb: "c20457"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c20457.webp"
 ---
 
-# 都筑子兹惠
+# 都築 こずえ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

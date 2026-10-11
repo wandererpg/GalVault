@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c86553"
 type: "character"
-display_title: "音W·CYCL奥PS·濑莉阿L·希LL惠R"
-title_zh: "音W·CYCL奥PS·濑莉阿L·希LL惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "New Cyclops Serial Killer"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c86553"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "New Cyclops Serial Killer"
   - "Bloody Polar Bear"
 source_ids:
   vndb: "c86553"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c86553.webp"
 ---
 
-# 音W·CYCL奥PS·濑莉阿L·希LL惠R
+# New Cyclops Serial Killer
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c586"
 type: "character"
-display_title: "斗志枝"
-title_zh: "斗志枝"
+display_title: "と志枝"
+title_zh: ""
 title_ja: "と志枝"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c586"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Toshie"
-  - "と志枝"
 source_ids:
   vndb: "c586"
 source_urls:
   vndb: "https://vndb.org/c586"
 ---
 
-# 斗志枝
+# と志枝
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

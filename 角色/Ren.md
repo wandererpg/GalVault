@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c112316"
 type: "character"
-display_title: "蕾恩"
-title_zh: "蕾恩"
+display_title: "レン"
+title_zh: ""
 title_ja: "レン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c112316"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ren"
-  - "レン"
 source_ids:
   vndb: "c112316"
 source_urls:
   vndb: "https://vndb.org/c112316"
 ---
 
-# 蕾恩
+# レン
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

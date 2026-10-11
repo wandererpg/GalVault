@@ -5,7 +5,10 @@ display_title: "九鬼犀造"
 title_zh: "九鬼犀造"
 title_ja: "九鬼 犀造"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c95077"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kuki Saizou"
   - "九鬼 犀造"

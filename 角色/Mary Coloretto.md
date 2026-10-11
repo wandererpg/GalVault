@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71009"
 type: "character"
-display_title: "芽阿莉伊＝子洛蕾T斗"
-title_zh: "芽阿莉伊＝子洛蕾T斗"
+display_title: "メアリー＝コロレット"
+title_zh: ""
 title_ja: "メアリー＝コロレット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71009"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mary Coloretto"
-  - "メアリー＝コロレット"
 source_ids:
   vndb: "c71009"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71009.webp"
 ---
 
-# 芽阿莉伊＝子洛蕾T斗
+# メアリー＝コロレット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

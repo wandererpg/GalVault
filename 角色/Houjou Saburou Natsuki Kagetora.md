@@ -5,7 +5,10 @@ display_title: "北条三郎名月景虎"
 title_zh: "北条三郎名月景虎"
 title_ja: "北条 三郎 名月 景虎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c40722"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Houjou Saburou Natsuki Kagetora"
   - "北条 三郎 名月 景虎"

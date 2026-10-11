@@ -5,7 +5,10 @@ display_title: "乡田俊朗"
 title_zh: "乡田俊朗"
 title_ja: "郷田 俊朗"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c294"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Gouda Toshirou"
   - "郷田 俊朗"

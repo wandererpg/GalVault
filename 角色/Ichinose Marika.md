@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c54959"
 type: "character"
-display_title: "一乃濑真莉加"
-title_zh: "一乃濑真莉加"
+display_title: "一ノ瀬 まりか"
+title_zh: ""
 title_ja: "一ノ瀬 まりか"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c54959"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ichinose Marika"
-  - "一ノ瀬 まりか"
 source_ids:
   vndb: "c54959"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c54959.webp"
 ---
 
-# 一乃濑真莉加
+# 一ノ瀬 まりか
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

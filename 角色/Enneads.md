@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34090"
 type: "character"
-display_title: "惠音阿德寿"
-title_zh: "惠音阿德寿"
+display_title: "エネアデス"
+title_zh: ""
 title_ja: "エネアデス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34090"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Enneads"
-  - "エネアデス"
 source_ids:
   vndb: "c34090"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c34090.webp"
 ---
 
-# 惠音阿德寿
+# エネアデス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

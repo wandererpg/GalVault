@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c149531"
 type: "character"
-display_title: "阿古音诗阿F奥露沙阿露加"
-title_zh: "阿古音诗阿F奥露沙阿露加"
+display_title: "アグネシア・フォ・ルサールカ"
+title_zh: ""
 title_ja: "アグネシア・フォ・ルサールカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149531"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Agnesia Fo Rusalka"
-  - "アグネシア・フォ・ルサールカ"
 source_ids:
   vndb: "c149531"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c149531.webp"
 ---
 
-# 阿古音诗阿F奥露沙阿露加
+# アグネシア・フォ・ルサールカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

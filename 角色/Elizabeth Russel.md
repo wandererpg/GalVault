@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c165283"
 type: "character"
-display_title: "伊丽莎白·露S濑L"
-title_zh: "伊丽莎白·露S濑L"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Elizabeth Russel"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c165283"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Elizabeth Russel"
 source_ids:
   vndb: "c165283"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c165283.webp"
 ---
 
-# 伊丽莎白·露S濑L
+# Elizabeth Russel
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

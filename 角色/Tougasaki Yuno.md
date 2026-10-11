@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c106849"
 type: "character"
-display_title: "东惠崎结乃"
-title_zh: "东惠崎结乃"
+display_title: "東ヶ崎 結乃"
+title_zh: ""
 title_ja: "東ヶ崎 結乃"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c106849"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tougasaki Yuno"
-  - "東ヶ崎 結乃"
 source_ids:
   vndb: "c106849"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c106849.webp"
 ---
 
-# 东惠崎结乃
+# 東ヶ崎 結乃
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

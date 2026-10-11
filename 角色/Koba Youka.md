@@ -5,7 +5,10 @@ display_title: "古场阳香"
 title_zh: "古场阳香"
 title_ja: "古場 陽香"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10868"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Koba Youka"
   - "古場 陽香"

@@ -5,7 +5,10 @@ display_title: "烈火"
 title_zh: "烈火"
 title_ja: "烈火"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c53599"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Rekka"
 source_ids:

@@ -5,7 +5,10 @@ display_title: "冬马曜子"
 title_zh: "冬马曜子"
 title_ja: "冬馬 曜子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c71195"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Touma Youko"
   - "冬馬 曜子"

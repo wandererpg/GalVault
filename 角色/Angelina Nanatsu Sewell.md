@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c5094"
 type: "character"
-display_title: "阿恩吉惠莉伊奈菜夏诗伊乌惠露"
-title_zh: "阿恩吉惠莉伊奈菜夏诗伊乌惠露"
+display_title: "アンジェリーナ・菜夏・シーウェル"
+title_zh: ""
 title_ja: "アンジェリーナ・菜夏・シーウェル"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c5094"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Angelina Nanatsu Sewell"
-  - "アンジェリーナ・菜夏・シーウェル"
   - "アンジェ"
   - "Ange"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c5094.webp"
 ---
 
-# 阿恩吉惠莉伊奈菜夏诗伊乌惠露
+# アンジェリーナ・菜夏・シーウェル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

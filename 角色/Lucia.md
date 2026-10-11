@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125626"
 type: "character"
-display_title: "露诗阿"
-title_zh: "露诗阿"
+display_title: "ルシア"
+title_zh: ""
 title_ja: "ルシア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125626"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lucia"
-  - "ルシア"
   - "Worm Villager"
 source_ids:
   vndb: "c125626"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c125626.webp"
 ---
 
-# 露诗阿
+# ルシア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

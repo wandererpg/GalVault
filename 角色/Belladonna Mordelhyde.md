@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c23997"
 type: "character"
-display_title: "贝露堂奈·莫奥德露羽伊堂"
-title_zh: "贝露堂奈·莫奥德露羽伊堂"
+display_title: "ベルドナ モーデルハイド"
+title_zh: ""
 title_ja: "ベルドナ モーデルハイド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c23997"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Belladonna Mordelhyde"
-  - "ベルドナ モーデルハイド"
 source_ids:
   vndb: "c23997"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c23997.webp"
 ---
 
-# 贝露堂奈·莫奥德露羽伊堂
+# ベルドナ モーデルハイド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

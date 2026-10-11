@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c25739"
 type: "character"
-display_title: "太奥加加"
-title_zh: "太奥加加"
+display_title: "タオカカ"
+title_zh: ""
 title_ja: "タオカカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c25739"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Taokaka"
-  - "タオカカ"
   - "Tao"
   - "Tao-chan"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c25739.webp"
 ---
 
-# 太奥加加
+# タオカカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c170855"
 type: "character"
-display_title: "诗希拉"
-title_zh: "诗希拉"
+display_title: "シキラ"
+title_zh: ""
 title_ja: "シキラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c170855"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sikira"
-  - "シキラ"
 source_ids:
   vndb: "c170855"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c170855.webp"
 ---
 
-# 诗希拉
+# シキラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

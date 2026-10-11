@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c117548"
 type: "character"
-display_title: "洛RY·真RT伊恩"
-title_zh: "洛RY·真RT伊恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Rory Martin"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c117548"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Rory Martin"
 source_ids:
   vndb: "c117548"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c117548.webp"
 ---
 
-# 洛RY·真RT伊恩
+# Rory Martin
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

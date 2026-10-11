@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17611"
 type: "character"
-display_title: "加伊露久拉伊梦"
-title_zh: "加伊露久拉伊梦"
+display_title: "カイル・クライム"
+title_zh: ""
 title_ja: "カイル・クライム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17611"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kyle Klim"
-  - "カイル・クライム"
 source_ids:
   vndb: "c17611"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c17611.webp"
 ---
 
-# 加伊露久拉伊梦
+# カイル・クライム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

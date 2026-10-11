@@ -5,7 +5,10 @@ display_title: "不动"
 title_zh: "不动"
 title_ja: "不動"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c38740"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fudou"
   - "不動"

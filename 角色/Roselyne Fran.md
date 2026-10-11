@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61894"
 type: "character"
-display_title: "洛兹莉伊努芙拉恩"
-title_zh: "洛兹莉伊努芙拉恩"
+display_title: "ロズリーヌ・フラン"
+title_zh: ""
 title_ja: "ロズリーヌ・フラン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61894"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Roselyne Fran"
-  - "ロズリーヌ・フラン"
 source_ids:
   vndb: "c61894"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61894.webp"
 ---
 
-# 洛兹莉伊努芙拉恩
+# ロズリーヌ・フラン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

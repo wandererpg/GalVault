@@ -5,7 +5,10 @@ display_title: "周泰幼平"
 title_zh: "周泰幼平"
 title_ja: "周泰 幼平"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c25785"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shuutai Youhei"
   - "周泰 幼平"

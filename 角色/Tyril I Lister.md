@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c100669"
 type: "character"
-display_title: "特伊蕾露伊莉寿太阿"
-title_zh: "特伊蕾露伊莉寿太阿"
+display_title: "ティレル・I・リスター"
+title_zh: ""
 title_ja: "ティレル・I・リスター"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c100669"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tyril I Lister"
-  - "ティレル・I・リスター"
   - "Ninja"
   - "Tyr"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c100669.webp"
 ---
 
-# 特伊蕾露伊莉寿太阿
+# ティレル・I・リスター
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

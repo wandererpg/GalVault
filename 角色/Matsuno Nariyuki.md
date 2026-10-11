@@ -5,7 +5,10 @@ display_title: "松乃也行"
 title_zh: "松乃也行"
 title_ja: "松乃 也行"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c99321"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Matsuno Nariyuki"
   - "松乃 也行"

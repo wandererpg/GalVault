@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c62891"
 type: "character"
-display_title: "鹿目蕾伊奈"
-title_zh: "鹿目蕾伊奈"
+display_title: "鹿目 レイナ"
+title_zh: ""
 title_ja: "鹿目 レイナ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c62891"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kanome Reina"
-  - "鹿目 レイナ"
 source_ids:
   vndb: "c62891"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c62891.webp"
 ---
 
-# 鹿目蕾伊奈
+# 鹿目 レイナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c190"
 type: "character"
-display_title: "一乃濑子斗美"
-title_zh: "一乃濑子斗美"
+display_title: "一ノ瀬 ことみ"
+title_zh: ""
 title_ja: "一ノ瀬 ことみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c190"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ichinose Kotomi"
-  - "一ノ瀬 ことみ"
 source_ids:
   vndb: "c190"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c190.webp"
 ---
 
-# 一乃濑子斗美
+# 一ノ瀬 ことみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

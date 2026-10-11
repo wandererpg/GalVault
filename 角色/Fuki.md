@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c21207"
 type: "character"
-display_title: "芙希"
-title_zh: "芙希"
+display_title: "ふき"
+title_zh: ""
 title_ja: "ふき"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c21207"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Fuki"
-  - "ふき"
 source_ids:
   vndb: "c21207"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c21207.webp"
 ---
 
-# 芙希
+# ふき
 
 
 ## 角色画像

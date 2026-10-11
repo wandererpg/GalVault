@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c113558"
 type: "character"
-display_title: "阿达梦蕾D伊F阿寿斗"
-title_zh: "阿达梦蕾D伊F阿寿斗"
+display_title: "アダム・レディファスト"
+title_zh: ""
 title_ja: "アダム・レディファスト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c113558"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Adam Redifast"
-  - "アダム・レディファスト"
 source_ids:
   vndb: "c113558"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c113558.webp"
 ---
 
-# 阿达梦蕾D伊F阿寿斗
+# アダム・レディファスト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "早乙女八房"
 title_zh: "早乙女八房"
 title_ja: "早乙女 八房"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c122471"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Saotome Yatsufusa"
   - "早乙女 八房"

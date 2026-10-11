@@ -5,7 +5,10 @@ display_title: "细川幽斋"
 title_zh: "细川幽斋"
 title_ja: "細川 幽斎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c49190"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hosokawa Yuusai"
   - "細川 幽斎"

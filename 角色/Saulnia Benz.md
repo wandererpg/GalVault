@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98053"
 type: "character"
-display_title: "索露尼阿贝恩津"
-title_zh: "索露尼阿贝恩津"
+display_title: "ソルニア・ベンツ"
+title_zh: ""
 title_ja: "ソルニア・ベンツ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98053"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Saulnia Benz"
-  - "ソルニア・ベンツ"
 source_ids:
   vndb: "c98053"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98053.webp"
 ---
 
-# 索露尼阿贝恩津
+# ソルニア・ベンツ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

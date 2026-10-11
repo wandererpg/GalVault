@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8836"
 type: "character"
-display_title: "格露恩"
-title_zh: "格露恩"
+display_title: "ゲルン"
+title_zh: ""
 title_ja: "ゲルン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8836"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gern"
-  - "ゲルン"
   - "Gerun"
 source_ids:
   vndb: "c8836"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c8836.webp"
 ---
 
-# 格露恩
+# ゲルン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c21181"
 type: "character"
-display_title: "乌奥露芙拉梦F奥恩吉伊巴寿"
-title_zh: "乌奥露芙拉梦F奥恩吉伊巴寿"
+display_title: "ウォルフラム・フォン・ジーバス"
+title_zh: ""
 title_ja: "ウォルフラム・フォン・ジーバス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c21181"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Wolfram von Sievers"
-  - "ウォルフラム・フォン・ジーバス"
   - "パンツ博士"
 source_ids:
   vndb: "c21181"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c21181.webp"
 ---
 
-# 乌奥露芙拉梦F奥恩吉伊巴寿
+# ウォルフラム・フォン・ジーバス
 
 
 ## 角色画像

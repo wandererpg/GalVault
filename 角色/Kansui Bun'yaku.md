@@ -5,7 +5,10 @@ display_title: "韩遂文约"
 title_zh: "韩遂文约"
 title_ja: "韓遂 文約"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c50547"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kansui Bun'yaku"
   - "韓遂 文約"

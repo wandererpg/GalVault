@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c91587"
 type: "character"
-display_title: "S伊DD"
-title_zh: "S伊DD"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Sidd"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c91587"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Sidd"
 source_ids:
   vndb: "c91587"
 source_urls:
   vndb: "https://vndb.org/c91587"
 ---
 
-# S伊DD
+# Sidd
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

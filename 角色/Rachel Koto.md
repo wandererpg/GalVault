@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c133514"
 type: "character"
-display_title: "拉C惠L·子斗"
-title_zh: "拉C惠L·子斗"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Rachel Koto"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c133514"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Rachel Koto"
 source_ids:
   vndb: "c133514"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c133514.webp"
 ---
 
-# 拉C惠L·子斗
+# Rachel Koto
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

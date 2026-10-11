@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98383"
 type: "character"
-display_title: "F阿阿蕾恩"
-title_zh: "F阿阿蕾恩"
+display_title: "ファーレン"
+title_zh: ""
 title_ja: "ファーレン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98383"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Varen"
-  - "ファーレン"
 source_ids:
   vndb: "c98383"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98383.webp"
 ---
 
-# F阿阿蕾恩
+# ファーレン
 
 
 ## 角色画像

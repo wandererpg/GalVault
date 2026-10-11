@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c7440"
 type: "character"
-display_title: "惠寿特露·芙莉伊吉阿"
-title_zh: "惠寿特露·芙莉伊吉阿"
+display_title: "エステル·フリージア"
+title_zh: ""
 title_ja: "エステル·フリージア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c7440"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Estel Freesia"
-  - "エステル·フリージア"
 source_ids:
   vndb: "c7440"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c7440.webp"
 ---
 
-# 惠寿特露·芙莉伊吉阿
+# エステル·フリージア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

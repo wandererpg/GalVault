@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c66042"
 type: "character"
-display_title: "F阿洛奥恩"
-title_zh: "F阿洛奥恩"
+display_title: "ファローン"
+title_zh: ""
 title_ja: "ファローン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c66042"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Faron"
-  - "ファローン"
 source_ids:
   vndb: "c66042"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c66042.webp"
 ---
 
-# F阿洛奥恩
+# ファローン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "皇奏龙"
 title_zh: "皇奏龙"
 title_ja: "皇 奏龍"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14687"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sumeragi Souryuu"
   - "皇 奏龍"

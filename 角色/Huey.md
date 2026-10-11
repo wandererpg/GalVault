@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c153211"
 type: "character"
-display_title: "H乌惠Y"
-title_zh: "H乌惠Y"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Huey"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c153211"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Huey"
   - "the Grand Sorcerer"
 source_ids:
   vndb: "c153211"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c153211.webp"
 ---
 
-# H乌惠Y
+# Huey
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

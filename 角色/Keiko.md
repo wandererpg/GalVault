@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c115096"
 type: "character"
-display_title: "惠伊子"
-title_zh: "惠伊子"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Keiko"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c115096"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Keiko"
 source_ids:
   vndb: "c115096"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c115096.webp"
 ---
 
-# 惠伊子
+# Keiko
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

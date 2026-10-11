@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c28664"
 type: "character"
-display_title: "莉伊扎莉T斗恩"
-title_zh: "莉伊扎莉T斗恩"
+display_title: "リーザ・リットン"
+title_zh: ""
 title_ja: "リーザ・リットン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c28664"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lisa Lytton"
-  - "リーザ・リットン"
   - "Lisa Rytton"
   - "Risa Lytton"
   - "Лиза Литтон"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c28664.webp"
 ---
 
-# 莉伊扎莉T斗恩
+# リーザ・リットン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

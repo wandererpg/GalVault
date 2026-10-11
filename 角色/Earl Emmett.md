@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c40352"
 type: "character"
-display_title: "惠阿RL·惠M芽TT"
-title_zh: "惠阿RL·惠M芽TT"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Earl Emmett"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c40352"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Earl Emmett"
 source_ids:
   vndb: "c40352"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c40352.webp"
 ---
 
-# 惠阿RL·惠M芽TT
+# Earl Emmett
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

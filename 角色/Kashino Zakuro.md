@@ -5,7 +5,10 @@ display_title: "橿野柘榴"
 title_zh: "橿野柘榴"
 title_ja: "橿野 柘榴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c53686"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kashino Zakuro"
   - "橿野 柘榴"

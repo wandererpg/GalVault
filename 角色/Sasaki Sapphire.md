@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c91408"
 type: "character"
-display_title: "佐々木沙F阿伊阿"
-title_zh: "佐々木沙F阿伊阿"
+display_title: "佐々木サファイア"
+title_zh: ""
 title_ja: "佐々木サファイア"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c91408"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sasaki Sapphire"
-  - "佐々木サファイア"
   - "Sapphire-kun"
 source_ids:
   vndb: "c91408"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c91408.webp"
 ---
 
-# 佐々木沙F阿伊阿
+# 佐々木サファイア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

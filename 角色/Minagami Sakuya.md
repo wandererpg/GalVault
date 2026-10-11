@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8524"
 type: "character"
-display_title: "皆神沙久雅"
-title_zh: "皆神沙久雅"
+display_title: "皆神 さくや"
+title_zh: ""
 title_ja: "皆神 さくや"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8524"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Minagami Sakuya"
-  - "皆神 さくや"
   - "沙久耶"
 source_ids:
   vndb: "c8524"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c8524.webp"
 ---
 
-# 皆神沙久雅
+# 皆神 さくや
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

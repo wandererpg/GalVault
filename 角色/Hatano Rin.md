@@ -5,7 +5,10 @@ display_title: "波多野凛"
 title_zh: "波多野凛"
 title_ja: "波多野 凛"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c87051"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hatano Rin"
   - "波多野 凛"

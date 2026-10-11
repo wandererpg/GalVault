@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c36804"
 type: "character"
-display_title: "濑特伊奈F阿阿博"
-title_zh: "濑特伊奈F阿阿博"
+display_title: "セティナ・ファーボ"
+title_zh: ""
 title_ja: "セティナ・ファーボ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c36804"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cetina Favo"
-  - "セティナ・ファーボ"
   - "Setina Fab"
 source_ids:
   vndb: "c36804"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c36804.webp"
 ---
 
-# 濑特伊奈F阿阿博
+# セティナ・ファーボ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

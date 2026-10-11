@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c62088"
 type: "character"
-display_title: "魔神F奥露音乌寿"
-title_zh: "魔神F奥露音乌寿"
+display_title: "魔神フォルネウス"
+title_zh: ""
 title_ja: "魔神フォルネウス"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c62088"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Forneus"
-  - "魔神フォルネウス"
   - "水域侯爵"
 source_ids:
   vndb: "c62088"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c62088.webp"
 ---
 
-# 魔神F奥露音乌寿
+# 魔神フォルネウス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

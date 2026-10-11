@@ -5,7 +5,10 @@ display_title: "杂贺恭平"
 title_zh: "杂贺恭平"
 title_ja: "雑賀 恭平"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14566"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Saiga Kyouhei"
   - "雑賀 恭平"

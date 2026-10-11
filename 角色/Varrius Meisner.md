@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c548"
 type: "character"
-display_title: "V阿莉阿寿芽伊寿奈阿"
-title_zh: "V阿莉阿寿芽伊寿奈阿"
+display_title: "ヴァリアス・メイスナー"
+title_zh: ""
 title_ja: "ヴァリアス・メイスナー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c548"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Varrius Meisner"
-  - "ヴァリアス・メイスナー"
 source_ids:
   vndb: "c548"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c548.webp"
 ---
 
-# V阿莉阿寿芽伊寿奈阿
+# ヴァリアス・メイスナー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16981"
 type: "character"
-display_title: "伊势希莉子"
-title_zh: "伊势希莉子"
+display_title: "伊勢 きりこ"
+title_zh: ""
 title_ja: "伊勢 きりこ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16981"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ise Kiriko"
-  - "伊勢 きりこ"
 source_ids:
   vndb: "c16981"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c16981.webp"
 ---
 
-# 伊势希莉子
+# 伊勢 きりこ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

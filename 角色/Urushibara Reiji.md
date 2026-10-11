@@ -5,7 +5,10 @@ display_title: "漆原零二"
 title_zh: "漆原零二"
 title_ja: "漆原 零二"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c17101"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Urushibara Reiji"
   - "漆原 零二"

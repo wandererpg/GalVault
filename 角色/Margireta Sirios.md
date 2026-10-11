@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34044"
 type: "character"
-display_title: "真露吉蕾T太诗莉奥寿"
-title_zh: "真露吉蕾T太诗莉奥寿"
+display_title: "マルギレッタ・シリオス"
+title_zh: ""
 title_ja: "マルギレッタ・シリオス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34044"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Margireta Sirios"
-  - "マルギレッタ・シリオス"
   - "Margie"
 source_ids:
   vndb: "c34044"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c34044.webp"
 ---
 
-# 真露吉蕾T太诗莉奥寿
+# マルギレッタ・シリオス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

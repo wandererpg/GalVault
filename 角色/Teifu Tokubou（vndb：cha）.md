@@ -5,7 +5,10 @@ display_title: "程普德谋"
 title_zh: "程普德谋"
 title_ja: "程普 徳謀"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c50550"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Teifu Tokubou"
   - "程普 徳謀"

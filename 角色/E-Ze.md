@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c7691"
 type: "character"
-display_title: "惠惠泽"
-title_zh: "惠惠泽"
+display_title: "エーゼ"
+title_zh: ""
 title_ja: "エーゼ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c7691"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "E-Ze"
-  - "エーゼ"
   - "A-01"
 source_ids:
   vndb: "c7691"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c7691.webp"
 ---
 
-# 惠惠泽
+# エーゼ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

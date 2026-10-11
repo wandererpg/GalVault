@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c53652"
 type: "character"
-display_title: "新明加乃恩"
-title_zh: "新明加乃恩"
+display_title: "新明 カノン"
+title_zh: ""
 title_ja: "新明 カノン"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c53652"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shinmei Canon"
-  - "新明 カノン"
 source_ids:
   vndb: "c53652"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c53652.webp"
 ---
 
-# 新明加乃恩
+# 新明 カノン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

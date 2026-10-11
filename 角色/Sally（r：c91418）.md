@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c91418"
 type: "character"
-display_title: "沙莉伊"
-title_zh: "沙莉伊"
+display_title: "サリー"
+title_zh: ""
 title_ja: "サリー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c91418"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sally"
-  - "サリー"
   - "Sally-san"
 source_ids:
   vndb: "c91418"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c91418.webp"
 ---
 
-# 沙莉伊
+# サリー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "冢田博"
 title_zh: "冢田博"
 title_ja: "塚田 博"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c48383"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsukada Hiroshi"
   - "塚田 博"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c32477"
 type: "character"
-display_title: "优乌希特露美"
-title_zh: "优乌希特露美"
+display_title: "ユウキ゠テルミ"
+title_zh: ""
 title_ja: "ユウキ゠テルミ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c32477"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yuuki Terumi"
-  - "ユウキ゠テルミ"
 source_ids:
   vndb: "c32477"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c32477.webp"
 ---
 
-# 优乌希特露美
+# ユウキ゠テルミ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

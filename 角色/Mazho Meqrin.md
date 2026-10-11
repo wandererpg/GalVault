@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c157495"
 type: "character"
-display_title: "巴乔乌莫久蕾恩"
-title_zh: "巴乔乌莫久蕾恩"
+display_title: "バジョウ・モクレン"
+title_zh: ""
 title_ja: "バジョウ・モクレン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c157495"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mazho Meqrin"
-  - "バジョウ・モクレン"
   - "Ma Chao"
   - "Rin"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c157495.webp"
 ---
 
-# 巴乔乌莫久蕾恩
+# バジョウ・モクレン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

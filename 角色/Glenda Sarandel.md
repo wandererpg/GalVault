@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c169053"
 type: "character"
-display_title: "古蕾恩达沙拉恩德露"
-title_zh: "古蕾恩达沙拉恩德露"
+display_title: "グレンダ・サランデル"
+title_zh: ""
 title_ja: "グレンダ・サランデル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c169053"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Glenda Sarandel"
-  - "グレンダ・サランデル"
   - "ファング"
   - "Fang"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c169053.webp"
 ---
 
-# 古蕾恩达沙拉恩德露
+# グレンダ・サランデル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

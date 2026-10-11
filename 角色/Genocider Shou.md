@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c47550"
 type: "character"
-display_title: "吉惠乃沙伊达阿翔"
-title_zh: "吉惠乃沙伊达阿翔"
+display_title: "ジェノサイダー 翔"
+title_zh: ""
 title_ja: "ジェノサイダー 翔"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c47550"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Genocider Shou"
-  - "ジェノサイダー 翔"
   - "Genocide Jill"
   - "Genocide Syo"
   - "Ultimate Murderous Fiend"
@@ -21,7 +23,7 @@ source_urls:
 portrait_image: "assets/characters/c47550.webp"
 ---
 
-# 吉惠乃沙伊达阿翔
+# ジェノサイダー 翔
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

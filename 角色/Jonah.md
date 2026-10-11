@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c105185"
 type: "character"
-display_title: "乔奈H"
-title_zh: "乔奈H"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jonah"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c105185"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jonah"
   - "Crane"
   - "Grim Reaper"
   - "Jonathan Rodrigues"
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c105185.webp"
 ---
 
-# 乔奈H
+# Jonah
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

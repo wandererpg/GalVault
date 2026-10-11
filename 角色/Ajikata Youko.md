@@ -5,7 +5,10 @@ display_title: "味方洋子"
 title_zh: "味方洋子"
 title_ja: "味方 洋子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c83988"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ajikata Youko"
   - "味方 洋子"

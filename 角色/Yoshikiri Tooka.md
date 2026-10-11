@@ -5,7 +5,10 @@ display_title: "吉切远花"
 title_zh: "吉切远花"
 title_ja: "吉切 遠花"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c113578"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yoshikiri Tooka"
   - "吉切 遠花"

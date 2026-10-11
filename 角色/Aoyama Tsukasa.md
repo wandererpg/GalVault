@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c3095"
 type: "character"
-display_title: "青山津加沙"
-title_zh: "青山津加沙"
+display_title: "青山 つかさ"
+title_zh: ""
 title_ja: "青山 つかさ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c3095"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Aoyama Tsukasa"
-  - "青山 つかさ"
 source_ids:
   vndb: "c3095"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c3095.webp"
 ---
 
-# 青山津加沙
+# 青山 つかさ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

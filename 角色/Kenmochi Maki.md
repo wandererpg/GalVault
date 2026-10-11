@@ -5,7 +5,10 @@ display_title: "剑持真希"
 title_zh: "剑持真希"
 title_ja: "剣持 真希"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c99455"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kenmochi Maki"
   - "剣持 真希"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c69588"
 type: "character"
-display_title: "濑伊拉＝阿＝仙贺"
-title_zh: "濑伊拉＝阿＝仙贺"
+display_title: "セイラ＝A＝仙賀"
+title_zh: ""
 title_ja: "セイラ＝A＝仙賀"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c69588"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Seira A. Senga"
-  - "セイラ＝A＝仙賀"
   - "Sayla Adoraigu Senga"
 source_ids:
   vndb: "c69588"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c69588.webp"
 ---
 
-# 濑伊拉＝阿＝仙贺
+# セイラ＝A＝仙賀
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c100442"
 type: "character"
-display_title: "T伊M"
-title_zh: "T伊M"
+display_title: "Тим"
+title_zh: ""
 title_ja: "Тим"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c100442"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tim"
-  - "Тим"
 source_ids:
   vndb: "c100442"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c100442.webp"
 ---
 
-# T伊M
+# Тим
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

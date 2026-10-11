@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c132218"
 type: "character"
-display_title: "嘉索恩"
-title_zh: "嘉索恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jason"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132218"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jason"
 source_ids:
   vndb: "c132218"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c132218.webp"
 ---
 
-# 嘉索恩
+# Jason
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

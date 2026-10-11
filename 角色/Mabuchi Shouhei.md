@@ -5,7 +5,10 @@ display_title: "马渕升平"
 title_zh: "马渕升平"
 title_ja: "馬渕 昇平"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c36254"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mabuchi Shouhei"
   - "馬渕 昇平"

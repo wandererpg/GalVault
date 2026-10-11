@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8129"
 type: "character"
-display_title: "佐藤太音"
-title_zh: "佐藤太音"
+display_title: "佐藤 たね"
+title_zh: ""
 title_ja: "佐藤 たね"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8129"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Satou Tane"
-  - "佐藤 たね"
 source_ids:
   vndb: "c8129"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c8129.webp"
 ---
 
-# 佐藤太音
+# 佐藤 たね
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

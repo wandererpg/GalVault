@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c147157"
 type: "character"
-display_title: "雅奈雅和·C阿F·真奈格R"
-title_zh: "雅奈雅和·C阿F·真奈格R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Yanagawa Café Manager"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c147157"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Yanagawa Café Manager"
 source_ids:
   vndb: "c147157"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c147157.webp"
 ---
 
-# 雅奈雅和·C阿F·真奈格R
+# Yanagawa Café Manager
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

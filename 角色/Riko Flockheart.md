@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c56994"
 type: "character"
-display_title: "莉子芙洛K久羽阿斗"
-title_zh: "莉子芙洛K久羽阿斗"
+display_title: "リコ・フロックハート"
+title_zh: ""
 title_ja: "リコ・フロックハート"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56994"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Riko Flockheart"
-  - "リコ・フロックハート"
 source_ids:
   vndb: "c56994"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c56994.webp"
 ---
 
-# 莉子芙洛K久羽阿斗
+# リコ・フロックハート
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

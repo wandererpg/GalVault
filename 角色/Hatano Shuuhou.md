@@ -5,7 +5,10 @@ display_title: "波多野秋房"
 title_zh: "波多野秋房"
 title_ja: "波多野 秋房"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c103759"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hatano Shuuhou"
   - "波多野 秋房"

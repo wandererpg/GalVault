@@ -5,7 +5,10 @@ display_title: "有岛祥子"
 title_zh: "有岛祥子"
 title_ja: "有島 祥子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c87052"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Arishima Shouko"
   - "有島 祥子"

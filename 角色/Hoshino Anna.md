@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c105942"
 type: "character"
-display_title: "星乃安娜"
-title_zh: "星乃安娜"
+display_title: "星乃 アンナ"
+title_zh: ""
 title_ja: "星乃 アンナ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c105942"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hoshino Anna"
-  - "星乃 アンナ"
 source_ids:
   vndb: "c105942"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c105942.webp"
 ---
 
-# 星乃安娜
+# 星乃 アンナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

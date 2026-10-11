@@ -5,7 +5,10 @@ display_title: "山县粉雪昌景"
 title_zh: "山县粉雪昌景"
 title_ja: "山県 粉雪 昌景"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20747"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yamagata Konayuki Masakage"
   - "山県 粉雪 昌景"

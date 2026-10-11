@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c15491"
 type: "character"
-display_title: "拉伊"
-title_zh: "拉伊"
+display_title: "ライ"
+title_zh: ""
 title_ja: "ライ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c15491"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rai"
-  - "ライ"
 source_ids:
   vndb: "c15491"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c15491.webp"
 ---
 
-# 拉伊
+# ライ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

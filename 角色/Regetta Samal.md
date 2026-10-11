@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c32644"
 type: "character"
-display_title: "蕾吉惠T太沙真露"
-title_zh: "蕾吉惠T太沙真露"
+display_title: "レジェッタ・サマル"
+title_zh: ""
 title_ja: "レジェッタ・サマル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c32644"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Regetta Samal"
-  - "レジェッタ・サマル"
   - "Legetta"
 source_ids:
   vndb: "c32644"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c32644.webp"
 ---
 
-# 蕾吉惠T太沙真露
+# レジェッタ・サマル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

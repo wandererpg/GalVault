@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71222"
 type: "character"
-display_title: "国夏沙代莉"
-title_zh: "国夏沙代莉"
+display_title: "国夏 さより"
+title_zh: ""
 title_ja: "国夏 さより"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71222"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kuninatsu Sayori"
-  - "国夏 さより"
 source_ids:
   vndb: "c71222"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71222.webp"
 ---
 
-# 国夏沙代莉
+# 国夏 さより
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

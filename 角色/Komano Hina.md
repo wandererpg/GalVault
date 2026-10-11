@@ -5,7 +5,10 @@ display_title: "狛野比奈"
 title_zh: "狛野比奈"
 title_ja: "狛野 比奈"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10862"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Komano Hina"
   - "狛野 比奈"

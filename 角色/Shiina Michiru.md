@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c141268"
 type: "character"
-display_title: "椎名美千露"
-title_zh: "椎名美千露"
+display_title: "椎名 みちる"
+title_zh: ""
 title_ja: "椎名 みちる"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141268"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shiina Michiru"
-  - "椎名 みちる"
 source_ids:
   vndb: "c141268"
 source_urls:
   vndb: "https://vndb.org/c141268"
 ---
 
-# 椎名美千露
+# 椎名 みちる
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

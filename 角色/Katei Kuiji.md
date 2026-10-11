@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c92787"
 type: "character"
-display_title: "加特伊·久伊吉"
-title_zh: "加特伊·久伊吉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Katei Kuiji"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92787"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Katei Kuiji"
   - "Kyuuka Ashiya"
 source_ids:
   vndb: "c92787"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c92787.webp"
 ---
 
-# 加特伊·久伊吉
+# Katei Kuiji
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

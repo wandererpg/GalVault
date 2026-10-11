@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c122263"
 type: "character"
-display_title: "惠露巴阿斗古莉伊特伊阿"
-title_zh: "惠露巴阿斗古莉伊特伊阿"
+display_title: "エルバート・グリーティア"
+title_zh: ""
 title_ja: "エルバート・グリーティア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c122263"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Elbert Greetia"
-  - "エルバート・グリーティア"
 source_ids:
   vndb: "c122263"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c122263.webp"
 ---
 
-# 惠露巴阿斗古莉伊特伊阿
+# エルバート・グリーティア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

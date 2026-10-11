@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16869"
 type: "character"
-display_title: "八重垣惠莉加"
-title_zh: "八重垣惠莉加"
+display_title: "八重垣 えりか"
+title_zh: ""
 title_ja: "八重垣 えりか"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16869"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yaegaki Erika"
-  - "八重垣 えりか"
   - "Girl in the Wheelchair"
   - "車椅子の少女"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c16869.webp"
 ---
 
-# 八重垣惠莉加
+# 八重垣 えりか
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

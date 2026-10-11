@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c51743"
 type: "character"
-display_title: "巴莉阿莉伊芙＝久莉伊斗"
-title_zh: "巴莉阿莉伊芙＝久莉伊斗"
+display_title: "バリアリーフ＝クリート"
+title_zh: ""
 title_ja: "バリアリーフ＝クリート"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c51743"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Varialeaf Cleat"
-  - "バリアリーフ＝クリート"
 source_ids:
   vndb: "c51743"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c51743.webp"
 ---
 
-# 巴莉阿莉伊芙＝久莉伊斗
+# バリアリーフ＝クリート
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

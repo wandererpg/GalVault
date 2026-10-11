@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c72068"
 type: "character"
-display_title: "优兹莉羽沙阿巴露"
-title_zh: "优兹莉羽沙阿巴露"
+display_title: "ユズリハ・サーバル"
+title_zh: ""
 title_ja: "ユズリハ・サーバル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c72068"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yuzuriha Serval"
-  - "ユズリハ・サーバル"
 source_ids:
   vndb: "c72068"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c72068.webp"
 ---
 
-# 优兹莉羽沙阿巴露
+# ユズリハ・サーバル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

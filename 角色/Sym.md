@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c128681"
 type: "character"
-display_title: "SYM"
-title_zh: "SYM"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Sym"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c128681"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Sym"
   - "Symbiosis"
 source_ids:
   vndb: "c128681"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c128681.webp"
 ---
 
-# SYM
+# Sym
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

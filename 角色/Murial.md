@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12701"
 type: "character"
-display_title: "缪莉阿露"
-title_zh: "缪莉阿露"
+display_title: "ミュリアル"
+title_zh: ""
 title_ja: "ミュリアル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12701"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Murial"
-  - "ミュリアル"
 source_ids:
   vndb: "c12701"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c12701.webp"
 ---
 
-# 缪莉阿露
+# ミュリアル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

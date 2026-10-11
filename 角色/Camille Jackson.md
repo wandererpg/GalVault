@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c147651"
 type: "character"
-display_title: "C阿美LL惠·嘉CK索恩"
-title_zh: "C阿美LL惠·嘉CK索恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Camille Jackson"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c147651"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Camille Jackson"
 source_ids:
   vndb: "c147651"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c147651.webp"
 ---
 
-# C阿美LL惠·嘉CK索恩
+# Camille Jackson
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

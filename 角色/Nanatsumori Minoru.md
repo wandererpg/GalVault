@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c83849"
 type: "character"
-display_title: "七津森实"
-title_zh: "七津森实"
+display_title: "七ツ森 実"
+title_zh: ""
 title_ja: "七ツ森 実"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c83849"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nanatsumori Minoru"
-  - "七ツ森 実"
 source_ids:
   vndb: "c83849"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c83849.webp"
 ---
 
-# 七津森实
+# 七ツ森 実
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

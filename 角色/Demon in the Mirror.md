@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c135029"
 type: "character"
-display_title: "镜乃恶魔"
-title_zh: "镜乃恶魔"
+display_title: "鏡の悪魔"
+title_zh: ""
 title_ja: "鏡の悪魔"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c135029"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Demon in the Mirror"
-  - "鏡の悪魔"
 source_ids:
   vndb: "c135029"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c135029.webp"
 ---
 
-# 镜乃恶魔
+# 鏡の悪魔
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

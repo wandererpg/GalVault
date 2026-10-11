@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c102530"
 type: "character"
-display_title: "子伊恩"
-title_zh: "子伊恩"
+display_title: "コイン"
+title_zh: ""
 title_ja: "コイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c102530"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Coin"
-  - "コイン"
 source_ids:
   vndb: "c102530"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c102530.webp"
 ---
 
-# 子伊恩
+# コイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

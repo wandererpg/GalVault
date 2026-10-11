@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90192"
 type: "character"
-display_title: "迫田惠恩"
-title_zh: "迫田惠恩"
+display_title: "迫田 ケン"
+title_zh: ""
 title_ja: "迫田 ケン"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90192"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sakoda Ken"
-  - "迫田 ケン"
   - "Sack-o-dumb"
 source_ids:
   vndb: "c90192"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c90192.webp"
 ---
 
-# 迫田惠恩
+# 迫田 ケン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

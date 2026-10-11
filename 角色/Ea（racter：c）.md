@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159769"
 type: "character"
-display_title: "惠阿"
-title_zh: "惠阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ea"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159769"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ea"
   - "Goddess of the Oceans, Life, Wisdom, and Balance"
 source_ids:
   vndb: "c159769"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c159769.webp"
 ---
 
-# 惠阿
+# Ea
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

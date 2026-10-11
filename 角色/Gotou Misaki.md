@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38181"
 type: "character"
-display_title: "五藤美沙希"
-title_zh: "五藤美沙希"
+display_title: "五藤 ミサキ"
+title_zh: ""
 title_ja: "五藤 ミサキ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38181"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gotou Misaki"
-  - "五藤 ミサキ"
 source_ids:
   vndb: "c38181"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c38181.webp"
 ---
 
-# 五藤美沙希
+# 五藤 ミサキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

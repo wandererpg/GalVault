@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c89810"
 type: "character"
-display_title: "诗伊莉寿·伊寿真莉阿"
-title_zh: "诗伊莉寿·伊寿真莉阿"
+display_title: "シーリス イスマリア"
+title_zh: ""
 title_ja: "シーリス イスマリア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c89810"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Siris Ismalia"
-  - "シーリス イスマリア"
 source_ids:
   vndb: "c89810"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c89810.webp"
 ---
 
-# 诗伊莉寿·伊寿真莉阿
+# シーリス イスマリア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

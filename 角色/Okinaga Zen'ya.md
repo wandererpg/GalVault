@@ -5,7 +5,10 @@ display_title: "翁长善弥"
 title_zh: "翁长善弥"
 title_ja: "翁長 善弥"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c18367"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Okinaga Zen'ya"
   - "翁長 善弥"

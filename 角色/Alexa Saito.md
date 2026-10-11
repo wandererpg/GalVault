@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c117509"
 type: "character"
-display_title: "阿L惠X阿·沙伊斗"
-title_zh: "阿L惠X阿·沙伊斗"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Alexa Saito"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c117509"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Alexa Saito"
 source_ids:
   vndb: "c117509"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c117509.webp"
 ---
 
-# 阿L惠X阿·沙伊斗
+# Alexa Saito
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

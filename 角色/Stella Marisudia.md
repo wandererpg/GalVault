@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c57572"
 type: "character"
-display_title: "寿特拉真莉寿D伊阿"
-title_zh: "寿特拉真莉寿D伊阿"
+display_title: "ステラ・マリスディア"
+title_zh: ""
 title_ja: "ステラ・マリスディア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c57572"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Stella Marisudia"
-  - "ステラ・マリスディア"
 source_ids:
   vndb: "c57572"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c57572.webp"
 ---
 
-# 寿特拉真莉寿D伊阿
+# ステラ・マリスディア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c35166"
 type: "character"
-display_title: "惠蕾奈阿阿V伊恩古"
-title_zh: "惠蕾奈阿阿V伊恩古"
+display_title: "エレナ・アーヴィング"
+title_zh: ""
 title_ja: "エレナ・アーヴィング"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c35166"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Elena Irving"
-  - "エレナ・アーヴィング"
 source_ids:
   vndb: "c35166"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c35166.webp"
 ---
 
-# 惠蕾奈阿阿V伊恩古
+# エレナ・アーヴィング
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

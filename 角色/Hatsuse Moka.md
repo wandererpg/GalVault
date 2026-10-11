@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c52849"
 type: "character"
-display_title: "初濑莫加"
-title_zh: "初濑莫加"
+display_title: "初瀬 もか"
+title_zh: ""
 title_ja: "初瀬 もか"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c52849"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hatsuse Moka"
-  - "初瀬 もか"
 source_ids:
   vndb: "c52849"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c52849.webp"
 ---
 
-# 初濑莫加
+# 初瀬 もか
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

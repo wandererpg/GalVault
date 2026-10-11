@@ -5,7 +5,10 @@ display_title: "谷口康介"
 title_zh: "谷口康介"
 title_ja: "谷口 康介"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c47033"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Taniguchi Kousuke"
   - "谷口 康介"

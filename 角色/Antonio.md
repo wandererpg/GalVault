@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c140505"
 type: "character"
-display_title: "阿恩斗奥尼奥"
-title_zh: "阿恩斗奥尼奥"
+display_title: "アントーニオ"
+title_zh: ""
 title_ja: "アントーニオ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c140505"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Antonio"
-  - "アントーニオ"
 source_ids:
   vndb: "c140505"
 source_urls:
   vndb: "https://vndb.org/c140505"
 ---
 
-# 阿恩斗奥尼奥
+# アントーニオ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

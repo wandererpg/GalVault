@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c24677"
 type: "character"
-display_title: "帕尼巴阿奈"
-title_zh: "帕尼巴阿奈"
+display_title: "パニバーナ"
+title_zh: ""
 title_ja: "パニバーナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c24677"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Panibana"
-  - "パニバーナ"
 source_ids:
   vndb: "c24677"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c24677.webp"
 ---
 
-# 帕尼巴阿奈
+# パニバーナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

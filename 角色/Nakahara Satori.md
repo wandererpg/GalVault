@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c113890"
 type: "character"
-display_title: "中原沙斗莉"
-title_zh: "中原沙斗莉"
+display_title: "中原 サトリ"
+title_zh: ""
 title_ja: "中原 サトリ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c113890"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nakahara Satori"
-  - "中原 サトリ"
 source_ids:
   vndb: "c113890"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c113890.webp"
 ---
 
-# 中原沙斗莉
+# 中原 サトリ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

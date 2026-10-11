@@ -5,7 +5,10 @@ display_title: "大木久巡"
 title_zh: "大木久巡"
 title_ja: "大木久 巡"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c80117"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Oogiku Jun"
   - "大木久 巡"

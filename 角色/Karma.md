@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c51564"
 type: "character"
-display_title: "加R真"
-title_zh: "加R真"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Karma"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c51564"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Karma"
 source_ids:
   vndb: "c51564"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c51564.webp"
 ---
 
-# 加R真
+# Karma
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

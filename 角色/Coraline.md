@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c139758"
 type: "character"
-display_title: "C奥拉L伊音"
-title_zh: "C奥拉L伊音"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Coraline"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c139758"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Coraline"
 source_ids:
   vndb: "c139758"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c139758.webp"
 ---
 
-# C奥拉L伊音
+# Coraline
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

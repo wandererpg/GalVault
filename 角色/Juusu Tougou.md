@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c130162"
 type: "character"
-display_title: "朱乌寿东乡"
-title_zh: "朱乌寿东乡"
+display_title: "ジュース東郷"
+title_zh: ""
 title_ja: "ジュース東郷"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c130162"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Juusu Tougou"
-  - "ジュース東郷"
 source_ids:
   vndb: "c130162"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c130162.webp"
 ---
 
-# 朱乌寿东乡
+# ジュース東郷
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

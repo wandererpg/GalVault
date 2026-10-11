@@ -5,7 +5,10 @@ display_title: "南部信直"
 title_zh: "南部信直"
 title_ja: "南部 信直"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c76332"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nanbu Nobunao"
   - "南部 信直"

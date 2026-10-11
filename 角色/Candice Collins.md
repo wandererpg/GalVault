@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c155420"
 type: "character"
-display_title: "C阿恩D伊C惠·C奥LL伊恩S"
-title_zh: "C阿恩D伊C惠·C奥LL伊恩S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Candice Collins"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155420"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Candice Collins"
   - "Candy"
 source_ids:
   vndb: "c155420"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c155420.webp"
 ---
 
-# C阿恩D伊C惠·C奥LL伊恩S
+# Candice Collins
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

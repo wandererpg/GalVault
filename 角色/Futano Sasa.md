@@ -5,7 +5,10 @@ display_title: "双野沙纱"
 title_zh: "双野沙纱"
 title_ja: "双野 沙紗"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10871"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Futano Sasa"
   - "双野 沙紗"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30222"
 type: "character"
-display_title: "达露乃寿阿S濑"
-title_zh: "达露乃寿阿S濑"
+display_title: "ダルノス・アッセ"
+title_zh: ""
 title_ja: "ダルノス・アッセ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30222"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Dalnos Asse"
-  - "ダルノス・アッセ"
 source_ids:
   vndb: "c30222"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30222.webp"
 ---
 
-# 达露乃寿阿S濑
+# ダルノス・アッセ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

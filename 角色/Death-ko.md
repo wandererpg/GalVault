@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c74412"
 type: "character"
-display_title: "德寿子"
-title_zh: "德寿子"
+display_title: "デス子"
+title_zh: ""
 title_ja: "デス子"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c74412"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Death-ko"
-  - "デス子"
   - "Death Girl"
 source_ids:
   vndb: "c74412"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c74412.webp"
 ---
 
-# 德寿子
+# デス子
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

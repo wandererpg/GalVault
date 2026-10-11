@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c149400"
 type: "character"
-display_title: "怒莉野博津子"
-title_zh: "怒莉野博津子"
+display_title: "怒り野 ボツ子"
+title_zh: ""
 title_ja: "怒り野 ボツ子"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149400"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ikarino Botsuko"
-  - "怒り野 ボツ子"
 source_ids:
   vndb: "c149400"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c149400.webp"
 ---
 
-# 怒莉野博津子
+# 怒り野 ボツ子
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

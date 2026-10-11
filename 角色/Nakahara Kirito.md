@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c124580"
 type: "character"
-display_title: "中原希莉斗"
-title_zh: "中原希莉斗"
+display_title: "中原 キリト"
+title_zh: ""
 title_ja: "中原 キリト"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124580"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nakahara Kirito"
-  - "中原 キリト"
 source_ids:
   vndb: "c124580"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c124580.webp"
 ---
 
-# 中原希莉斗
+# 中原 キリト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

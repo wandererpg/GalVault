@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c109714"
 type: "character"
-display_title: "索P日惠·阿LL阿RD"
-title_zh: "索P日惠·阿LL阿RD"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Sophie Allard"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c109714"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Sophie Allard"
   - "Dr. Allard"
 source_ids:
   vndb: "c109714"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c109714.webp"
 ---
 
-# 索P日惠·阿LL阿RD
+# Sophie Allard
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

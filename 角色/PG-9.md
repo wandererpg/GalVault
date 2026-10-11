@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c98465"
 type: "character"
-display_title: "PG·9"
-title_zh: "PG·9"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "PG-9"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98465"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "PG-9"
   - "Perfect Girl 9"
 source_ids:
   vndb: "c98465"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c98465.webp"
 ---
 
-# PG·9
+# PG-9
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

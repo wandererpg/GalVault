@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c155406"
 type: "character"
-display_title: "真惠·W莉GHT"
-title_zh: "真惠·W莉GHT"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Mae Wright"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155406"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Mae Wright"
 source_ids:
   vndb: "c155406"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c155406.webp"
 ---
 
-# 真惠·W莉GHT
+# Mae Wright
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

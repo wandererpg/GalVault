@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43367"
 type: "character"
-display_title: "乌拉努寿-乃.ζ"
-title_zh: "乌拉努寿-乃.ζ"
+display_title: "ウラヌス-No.ζ"
+title_zh: ""
 title_ja: "ウラヌス-No.ζ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43367"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Uranus No.ζ"
-  - "ウラヌス-No.ζ"
   - "Period"
   - "ペリオド"
   - "氷河姫"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c43367.webp"
 ---
 
-# 乌拉努寿-乃.ζ
+# ウラヌス-No.ζ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c72126"
 type: "character"
-display_title: "S伊S濑L"
-title_zh: "S伊S濑L"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Sissel"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c72126"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Sissel"
   - "Sis"
   - "Sissy"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c72126.webp"
 ---
 
-# S伊S濑L
+# Sissel
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

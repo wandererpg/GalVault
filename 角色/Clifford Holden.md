@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c94320"
 type: "character"
-display_title: "CL伊FF奥RD·穗L德恩"
-title_zh: "CL伊FF奥RD·穗L德恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Clifford Holden"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94320"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Clifford Holden"
   - "Cliff"
   - "Dad"
   - "The snore"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c94320.webp"
 ---
 
-# CL伊FF奥RD·穗L德恩
+# Clifford Holden
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

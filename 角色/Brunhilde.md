@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c35971"
 type: "character"
-display_title: "布龙恩日露德"
-title_zh: "布龙恩日露德"
+display_title: "ブリュンヒルデ"
+title_zh: ""
 title_ja: "ブリュンヒルデ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c35971"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Brunhilde"
-  - "ブリュンヒルデ"
 source_ids:
   vndb: "c35971"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c35971.webp"
 ---
 
-# 布龙恩日露德
+# ブリュンヒルデ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

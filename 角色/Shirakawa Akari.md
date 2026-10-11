@@ -5,7 +5,10 @@ display_title: "白河灯莉"
 title_zh: "白河灯莉"
 title_ja: "白河 灯莉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c113837"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shirakawa Akari"
   - "白河 灯莉"

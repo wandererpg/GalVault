@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c3395"
 type: "character"
-display_title: "夕雾奈奈加"
-title_zh: "夕雾奈奈加"
+display_title: "夕霧 ナナカ"
+title_zh: ""
 title_ja: "夕霧 ナナカ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c3395"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yuugiri Nanaka"
-  - "夕霧 ナナカ"
   - "ソバ"
   - "Soba"
   - "Kaikei-san"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c3395.webp"
 ---
 
-# 夕雾奈奈加
+# 夕霧 ナナカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

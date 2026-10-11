@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c116929"
 type: "character"
-display_title: "尼吉乌惠·伊洛羽"
-title_zh: "尼吉乌惠·伊洛羽"
+display_title: "니지우에 이로하"
+title_zh: ""
 title_ja: "니지우에 이로하"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116929"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nijiue Iroha"
-  - "니지우에 이로하"
   - "Super High School Level Painter"
 source_ids:
   vndb: "c116929"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c116929.webp"
 ---
 
-# 尼吉乌惠·伊洛羽
+# 니지우에 이로하
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

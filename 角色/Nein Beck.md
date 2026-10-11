@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c153127"
 type: "character"
-display_title: "音伊恩·贝CK"
-title_zh: "音伊恩·贝CK"
+display_title: "나인 벡"
+title_zh: ""
 title_ja: "나인 벡"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c153127"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nein Beck"
-  - "나인 벡"
 source_ids:
   vndb: "c153127"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c153127.webp"
 ---
 
-# 音伊恩·贝CK
+# 나인 벡
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

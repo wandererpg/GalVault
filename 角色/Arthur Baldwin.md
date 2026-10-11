@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c83760"
 type: "character"
-display_title: "阿阿沙阿博奥露堂乌伊恩"
-title_zh: "阿阿沙阿博奥露堂乌伊恩"
+display_title: "アーサー・ボールドウィン"
+title_zh: ""
 title_ja: "アーサー・ボールドウィン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c83760"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Arthur Baldwin"
-  - "アーサー・ボールドウィン"
   - "Arthur Boldwin"
 source_ids:
   vndb: "c83760"
@@ -16,7 +18,7 @@ source_urls:
   vndb: "https://vndb.org/c83760"
 ---
 
-# 阿阿沙阿博奥露堂乌伊恩
+# アーサー・ボールドウィン
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

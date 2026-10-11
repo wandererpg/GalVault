@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c24003"
 type: "character"
-display_title: "惠洛奥拉姫"
-title_zh: "惠洛奥拉姫"
+display_title: "エローラ姫"
+title_zh: ""
 title_ja: "エローラ姫"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c24003"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Princess Ellora"
-  - "エローラ姫"
 source_ids:
   vndb: "c24003"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c24003.webp"
 ---
 
-# 惠洛奥拉姫
+# エローラ姫
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

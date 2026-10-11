@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c35970"
 type: "character"
-display_title: "波恩太"
-title_zh: "波恩太"
+display_title: "ポン太"
+title_zh: ""
 title_ja: "ポン太"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c35970"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ponta"
-  - "ポン太"
   - "オラクル"
   - "Oracle"
   - "凛"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c35970.webp"
 ---
 
-# 波恩太
+# ポン太
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

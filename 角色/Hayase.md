@@ -5,7 +5,10 @@ display_title: "湍"
 title_zh: "湍"
 title_ja: "湍"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c164768"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hayase"
   - "The Curse of the Forsaken Fish"

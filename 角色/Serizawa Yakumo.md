@@ -5,7 +5,10 @@ display_title: "芹泽夜云"
 title_zh: "芹泽夜云"
 title_ja: "芹沢 夜雲"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c155014"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Serizawa Yakumo"
   - "芹沢 夜雲"

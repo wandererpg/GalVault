@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61283"
 type: "character"
-display_title: "寿帕伊怪人"
-title_zh: "寿帕伊怪人"
+display_title: "スパイ怪人"
+title_zh: ""
 title_ja: "スパイ怪人"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61283"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Spy Kaijin"
-  - "スパイ怪人"
 source_ids:
   vndb: "c61283"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61283.webp"
 ---
 
-# 寿帕伊怪人
+# スパイ怪人
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

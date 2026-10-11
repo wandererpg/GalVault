@@ -5,7 +5,10 @@ display_title: "四条瑠璃"
 title_zh: "四条瑠璃"
 title_ja: "四條 瑠璃"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c26006"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shijou Ruri"
   - "四條 瑠璃"

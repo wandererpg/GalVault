@@ -5,7 +5,10 @@ display_title: "仓桥圣衣良"
 title_zh: "仓桥圣衣良"
 title_ja: "倉橋 聖衣良"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c77880"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kurahashi Seira"
   - "倉橋 聖衣良"

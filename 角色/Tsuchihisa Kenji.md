@@ -5,7 +5,10 @@ display_title: "土久宪治"
 title_zh: "土久宪治"
 title_ja: "土久 憲治"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c79916"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsuchihisa Kenji"
   - "土久 憲治"

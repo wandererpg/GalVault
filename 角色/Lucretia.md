@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c70871"
 type: "character"
-display_title: "露久蕾千阿"
-title_zh: "露久蕾千阿"
+display_title: "ルクレチア"
+title_zh: ""
 title_ja: "ルクレチア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c70871"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lucretia"
-  - "ルクレチア"
 source_ids:
   vndb: "c70871"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c70871.webp"
 ---
 
-# 露久蕾千阿
+# ルクレチア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

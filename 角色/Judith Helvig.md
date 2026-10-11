@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c106575"
 type: "character"
-display_title: "朱D伊TH·惠LV伊G"
-title_zh: "朱D伊TH·惠LV伊G"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Judith Helvig"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c106575"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Judith Helvig"
   - "Judy"
 source_ids:
   vndb: "c106575"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c106575.webp"
 ---
 
-# 朱D伊TH·惠LV伊G
+# Judith Helvig
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

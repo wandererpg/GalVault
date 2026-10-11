@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c173308"
 type: "character"
-display_title: "奈伊斗芽阿"
-title_zh: "奈伊斗芽阿"
+display_title: "ナイトメア"
+title_zh: ""
 title_ja: "ナイトメア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c173308"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nightmare"
-  - "ナイトメア"
   - "The Ebon Witch"
 source_ids:
   vndb: "c173308"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c173308.webp"
 ---
 
-# 奈伊斗芽阿
+# ナイトメア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

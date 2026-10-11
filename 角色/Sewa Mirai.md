@@ -5,7 +5,10 @@ display_title: "濑和未来"
 title_zh: "濑和未来"
 title_ja: "瀬和 未来"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c93402"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sewa Mirai"
   - "瀬和 未来"

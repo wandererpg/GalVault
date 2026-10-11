@@ -5,7 +5,10 @@ display_title: "伊吹公子"
 title_zh: "伊吹公子"
 title_ja: "伊吹 公子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c15853"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ibuki Kouko"
   - "伊吹 公子"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16140"
 type: "character"
-display_title: "黑木诗奥恩"
-title_zh: "黑木诗奥恩"
+display_title: "黒木 シオン"
+title_zh: ""
 title_ja: "黒木 シオン"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16140"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kuroki Shion"
-  - "黒木 シオン"
 source_ids:
   vndb: "c16140"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c16140.webp"
 ---
 
-# 黑木诗奥恩
+# 黒木 シオン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c50304"
 type: "character"
-display_title: "龙恩"
-title_zh: "龙恩"
+display_title: "リュン"
+title_zh: ""
 title_ja: "リュン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c50304"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ryun"
-  - "リュン"
 source_ids:
   vndb: "c50304"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c50304.webp"
 ---
 
-# 龙恩
+# リュン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

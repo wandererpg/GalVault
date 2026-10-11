@@ -5,7 +5,10 @@ display_title: "眼深真瑠璃"
 title_zh: "眼深真瑠璃"
 title_ja: "眼深 真瑠璃"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c113579"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nemuribuka Maruri"
   - "眼深 真瑠璃"

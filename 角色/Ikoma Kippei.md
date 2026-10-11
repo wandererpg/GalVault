@@ -5,7 +5,10 @@ display_title: "生驹桔平"
 title_zh: "生驹桔平"
 title_ja: "生駒 桔平"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c164206"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ikoma Kippei"
   - "生駒 桔平"

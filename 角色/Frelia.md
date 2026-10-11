@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c64371"
 type: "character"
-display_title: "芙蕾莉阿"
-title_zh: "芙蕾莉阿"
+display_title: "フレリア"
+title_zh: ""
 title_ja: "フレリア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c64371"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Frelia"
-  - "フレリア"
   - "FRELIA_ANSUL_SOL=MARTA"
 source_ids:
   vndb: "c64371"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c64371.webp"
 ---
 
-# 芙蕾莉阿
+# フレリア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

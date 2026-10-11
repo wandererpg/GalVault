@@ -5,7 +5,10 @@ display_title: "夏目依瑠"
 title_zh: "夏目依瑠"
 title_ja: "夏目 依瑠"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c124507"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Natsume Eru"
   - "夏目 依瑠"

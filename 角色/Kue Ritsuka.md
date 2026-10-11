@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43820"
 type: "character"
-display_title: "久延莉津加"
-title_zh: "久延莉津加"
+display_title: "久延 りつか"
+title_zh: ""
 title_ja: "久延 りつか"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43820"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kue Ritsuka"
-  - "久延 りつか"
 source_ids:
   vndb: "c43820"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43820.webp"
 ---
 
-# 久延莉津加
+# 久延 りつか
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c127714"
 type: "character"
-display_title: "惠莉S·伊LL真特R"
-title_zh: "惠莉S·伊LL真特R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Eris Illmater"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127714"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Eris Illmater"
 source_ids:
   vndb: "c127714"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c127714.webp"
 ---
 
-# 惠莉S·伊LL真特R
+# Eris Illmater
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

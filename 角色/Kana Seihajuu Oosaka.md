@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c96891"
 type: "character"
-display_title: "加阿奈濑伊羽朱乌奥奥沙加"
-title_zh: "加阿奈濑伊羽朱乌奥奥沙加"
+display_title: "カーナ・セイハジュウ・オオサカ"
+title_zh: ""
 title_ja: "カーナ・セイハジュウ・オオサカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c96891"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kana Seihajuu Oosaka"
-  - "カーナ・セイハジュウ・オオサカ"
 source_ids:
   vndb: "c96891"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c96891.webp"
 ---
 
-# 加阿奈濑伊羽朱乌奥奥沙加
+# カーナ・セイハジュウ・オオサカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c44577"
 type: "character"
-display_title: "莉莉惠梦"
-title_zh: "莉莉惠梦"
+display_title: "リリエム"
+title_zh: ""
 title_ja: "リリエム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c44577"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Liliem"
-  - "リリエム"
 source_ids:
   vndb: "c44577"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c44577.webp"
 ---
 
-# 莉莉惠梦
+# リリエム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

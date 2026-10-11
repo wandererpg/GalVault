@@ -5,7 +5,10 @@ display_title: "浅川光一"
 title_zh: "浅川光一"
 title_ja: "浅川 光一"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c63338"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Asakawa Kouichi"
   - "浅川 光一"

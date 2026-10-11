@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c103994"
 type: "character"
-display_title: "阿露加阿拉"
-title_zh: "阿露加阿拉"
+display_title: "アルカーラ"
+title_zh: ""
 title_ja: "アルカーラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103994"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alcara"
-  - "アルカーラ"
   - "Archangel of Judgement"
   - "審判の天使長"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c103994.webp"
 ---
 
-# 阿露加阿拉
+# アルカーラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

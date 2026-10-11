@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c99469"
 type: "character"
-display_title: "贝久太阿"
-title_zh: "贝久太阿"
+display_title: "ベクター"
+title_zh: ""
 title_ja: "ベクター"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c99469"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Vector"
-  - "ベクター"
 source_ids:
   vndb: "c99469"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c99469.webp"
 ---
 
-# 贝久太阿
+# ベクター
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

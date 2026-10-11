@@ -5,7 +5,10 @@ display_title: "上远野梨惠"
 title_zh: "上远野梨惠"
 title_ja: "上遠野 梨恵"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43861"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Katoono Rie"
   - "上遠野 梨恵"

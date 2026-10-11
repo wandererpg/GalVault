@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c167413"
 type: "character"
-display_title: "惠蕾奈芙拉和阿"
-title_zh: "惠蕾奈芙拉和阿"
+display_title: "エレナ・フラワー"
+title_zh: ""
 title_ja: "エレナ・フラワー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c167413"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Elena Flower"
-  - "エレナ・フラワー"
 source_ids:
   vndb: "c167413"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c167413.webp"
 ---
 
-# 惠蕾奈芙拉和阿
+# エレナ・フラワー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

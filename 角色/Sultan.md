@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14728"
 type: "character"
-display_title: "寿露太恩"
-title_zh: "寿露太恩"
+display_title: "スルタン"
+title_zh: ""
 title_ja: "スルタン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14728"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sultan"
-  - "スルタン"
 source_ids:
   vndb: "c14728"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c14728.webp"
 ---
 
-# 寿露太恩
+# スルタン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

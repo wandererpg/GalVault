@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c56462"
 type: "character"
-display_title: "斗真斗P优乌蕾"
-title_zh: "斗真斗P优乌蕾"
+display_title: "トマト・ピューレ"
+title_zh: ""
 title_ja: "トマト・ピューレ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56462"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tomato Purée"
-  - "トマト・ピューレ"
 source_ids:
   vndb: "c56462"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c56462.webp"
 ---
 
-# 斗真斗P优乌蕾
+# トマト・ピューレ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

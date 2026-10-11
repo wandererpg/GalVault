@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159502"
 type: "character"
-display_title: "C伊LL伊阿恩·真RSH真恩"
-title_zh: "C伊LL伊阿恩·真RSH真恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Cillian Marshman"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159502"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Cillian Marshman"
 source_ids:
   vndb: "c159502"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c159502.webp"
 ---
 
-# C伊LL伊阿恩·真RSH真恩
+# Cillian Marshman
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

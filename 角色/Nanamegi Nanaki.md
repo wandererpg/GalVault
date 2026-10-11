@@ -5,7 +5,10 @@ display_title: "斜木七基"
 title_zh: "斜木七基"
 title_ja: "斜木 七基"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c144394"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nanamegi Nanaki"
   - "斜木 七基"

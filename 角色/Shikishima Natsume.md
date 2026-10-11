@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c18313"
 type: "character"
-display_title: "敷岛奈津芽"
-title_zh: "敷岛奈津芽"
+display_title: "敷島 なつめ"
+title_zh: ""
 title_ja: "敷島 なつめ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c18313"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shikishima Natsume"
-  - "敷島 なつめ"
 source_ids:
   vndb: "c18313"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c18313.webp"
 ---
 
-# 敷岛奈津芽
+# 敷島 なつめ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

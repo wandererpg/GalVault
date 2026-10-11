@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c116134"
 type: "character"
-display_title: "阿奈寿太阿夏美寿特拉恩特"
-title_zh: "阿奈寿太阿夏美寿特拉恩特"
+display_title: "アナスターシャ・ミステランテ"
+title_zh: ""
 title_ja: "アナスターシャ・ミステランテ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116134"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Anastasia Mysterante"
-  - "アナスターシャ・ミステランテ"
   - "アナ"
   - "Ana"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c116134.webp"
 ---
 
-# 阿奈寿太阿夏美寿特拉恩特
+# アナスターシャ・ミステランテ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

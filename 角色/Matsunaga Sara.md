@@ -5,7 +5,10 @@ display_title: "松永沙罗"
 title_zh: "松永沙罗"
 title_ja: "松永 沙羅"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c31"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Matsunaga Sara"
   - "松永 沙羅"

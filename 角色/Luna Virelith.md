@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c153961"
 type: "character"
-display_title: "L乌奈·V伊蕾L伊TH"
-title_zh: "L乌奈·V伊蕾L伊TH"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Luna Virelith"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c153961"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Luna Virelith"
   - "Lulu"
   - "Nova"
   - "SILENCER"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c153961.webp"
 ---
 
-# L乌奈·V伊蕾L伊TH
+# Luna Virelith
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

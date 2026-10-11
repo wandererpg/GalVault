@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c137210"
 type: "character"
-display_title: "帕T·MC梦R拉Y"
-title_zh: "帕T·MC梦R拉Y"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Pat McMurray"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c137210"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Pat McMurray"
   - "Senator McMurray"
 source_ids:
   vndb: "c137210"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c137210.webp"
 ---
 
-# 帕T·MC梦R拉Y
+# Pat McMurray
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34084"
 type: "character"
-display_title: "惠莉S沙"
-title_zh: "惠莉S沙"
+display_title: "エリッサ"
+title_zh: ""
 title_ja: "エリッサ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34084"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Elissa"
-  - "エリッサ"
 source_ids:
   vndb: "c34084"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c34084.webp"
 ---
 
-# 惠莉S沙
+# エリッサ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

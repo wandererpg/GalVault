@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c107604"
 type: "character"
-display_title: "莉伊特巴伊露伊惠音恩斗乌惠恩太阿芙莉加阿子莫努惠露寿蕾露梦"
-title_zh: "莉伊特巴伊露伊惠音恩斗乌惠恩太阿芙莉加阿子莫努惠露寿蕾露梦"
+display_title: "リーテバイル・イエネントウェンタ・アフリカーコモンウェルスレルム"
+title_zh: ""
 title_ja: "リーテバイル・イエネントウェンタ・アフリカーコモンウェルスレルム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c107604"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rethabile Eenentwintig Africacommonwealthrealm"
-  - "リーテバイル・イエネントウェンタ・アフリカーコモンウェルスレルム"
 source_ids:
   vndb: "c107604"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c107604.webp"
 ---
 
-# 莉伊特巴伊露伊惠音恩斗乌惠恩太阿芙莉加阿子莫努惠露寿蕾露梦
+# リーテバイル・イエネントウェンタ・アフリカーコモンウェルスレルム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "结衣"
 title_zh: "结衣"
 title_ja: "結衣"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c17100"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yui"
   - "結衣"

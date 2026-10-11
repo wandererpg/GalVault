@@ -5,7 +5,10 @@ display_title: "司徒阳神"
 title_zh: "司徒阳神"
 title_ja: "司徒阳神"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c151078"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Situ Yangshen"
   - "Amun Thomas"

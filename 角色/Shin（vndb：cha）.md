@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127800"
 type: "character"
-display_title: "诗恩"
-title_zh: "诗恩"
+display_title: "シン"
+title_zh: ""
 title_ja: "シン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127800"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shin"
-  - "シン"
 source_ids:
   vndb: "c127800"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c127800.webp"
 ---
 
-# 诗恩
+# シン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

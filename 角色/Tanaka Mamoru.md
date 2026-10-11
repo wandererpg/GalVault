@@ -5,7 +5,10 @@ display_title: "田中护"
 title_zh: "田中护"
 title_ja: "田中 護"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c74696"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tanaka Mamoru"
   - "田中 護"

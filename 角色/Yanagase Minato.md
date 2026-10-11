@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c9483"
 type: "character"
-display_title: "柳惠濑凑"
-title_zh: "柳惠濑凑"
+display_title: "柳ヶ瀬 湊"
+title_zh: ""
 title_ja: "柳ヶ瀬 湊"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c9483"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yanagase Minato"
-  - "柳ヶ瀬 湊"
   - "ミナトン"
   - "Minaton"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c9483.webp"
 ---
 
-# 柳惠濑凑
+# 柳ヶ瀬 湊
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

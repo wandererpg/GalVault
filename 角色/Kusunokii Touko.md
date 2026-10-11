@@ -5,7 +5,10 @@ display_title: "楠塔子"
 title_zh: "楠塔子"
 title_ja: "楠 塔子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20231"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kusunokii Touko"
   - "楠 塔子"

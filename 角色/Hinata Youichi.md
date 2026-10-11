@@ -5,7 +5,10 @@ display_title: "日向阳一"
 title_zh: "日向阳一"
 title_ja: "日向 陽一"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c38502"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hinata Youichi"
   - "日向 陽一"

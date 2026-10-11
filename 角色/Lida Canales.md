@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43330"
 type: "character"
-display_title: "莉达加奈蕾寿"
-title_zh: "莉达加奈蕾寿"
+display_title: "リダ・カナレス"
+title_zh: ""
 title_ja: "リダ・カナレス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43330"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lida Canales"
-  - "リダ・カナレス"
 source_ids:
   vndb: "c43330"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43330.webp"
 ---
 
-# 莉达加奈蕾寿
+# リダ・カナレス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

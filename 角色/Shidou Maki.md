@@ -5,7 +5,10 @@ display_title: "狮堂真希"
 title_zh: "狮堂真希"
 title_ja: "獅堂 真希"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c22435"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shidou Maki"
   - "獅堂 真希"

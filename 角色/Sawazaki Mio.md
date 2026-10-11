@@ -5,7 +5,10 @@ display_title: "泽崎美緖"
 title_zh: "泽崎美緖"
 title_ja: "沢崎 美緒"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10323"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sawazaki Mio"
   - "沢崎 美緒"

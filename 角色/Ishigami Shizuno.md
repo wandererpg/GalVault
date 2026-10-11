@@ -5,7 +5,10 @@ display_title: "石神静乃"
 title_zh: "石神静乃"
 title_ja: "石神 静乃"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c31934"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ishigami Shizuno"
   - "石神 静乃"

@@ -5,7 +5,10 @@ display_title: "榎本武扬"
 title_zh: "榎本武扬"
 title_ja: "榎本 武揚"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c65640"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Enomoto Takeaki"
   - "榎本 武揚"

@@ -5,7 +5,10 @@ display_title: "黄锦龙"
 title_zh: "黄锦龙"
 title_ja: "黄 錦龍"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c33042"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Huang Jinlong"
   - "黄 錦龍"

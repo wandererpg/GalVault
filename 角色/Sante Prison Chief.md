@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126995"
 type: "character"
-display_title: "沙恩特刑务所所长"
-title_zh: "沙恩特刑务所所长"
+display_title: "サンテ刑務所所長"
+title_zh: ""
 title_ja: "サンテ刑務所所長"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126995"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sante Prison Chief"
-  - "サンテ刑務所所長"
 source_ids:
   vndb: "c126995"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c126995.webp"
 ---
 
-# 沙恩特刑务所所长
+# サンテ刑務所所長
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

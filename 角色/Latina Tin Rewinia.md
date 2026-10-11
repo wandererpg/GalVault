@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c49864"
 type: "character"
-display_title: "拉特伊奈特伊恩蕾乌伊尼阿"
-title_zh: "拉特伊奈特伊恩蕾乌伊尼阿"
+display_title: "ラティナ・ティン・レウィニア"
+title_zh: ""
 title_ja: "ラティナ・ティン・レウィニア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c49864"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Latina Tin Rewinia"
-  - "ラティナ・ティン・レウィニア"
 source_ids:
   vndb: "c49864"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c49864.webp"
 ---
 
-# 拉特伊奈特伊恩蕾乌伊尼阿
+# ラティナ・ティン・レウィニア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61221"
 type: "character"
-display_title: "芙拉恩久露乌兹"
-title_zh: "芙拉恩久露乌兹"
+display_title: "フランク・ルーズ"
+title_zh: ""
 title_ja: "フランク・ルーズ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61221"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Frank Rews"
-  - "フランク・ルーズ"
 source_ids:
   vndb: "c61221"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61221.webp"
 ---
 
-# 芙拉恩久露乌兹
+# フランク・ルーズ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "加纳凉子"
 title_zh: "加纳凉子"
 title_ja: "加納 涼子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c249"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kanou Ryouko"
   - "加納 涼子"

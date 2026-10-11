@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c100078"
 type: "character"
-display_title: "朱皮太阿"
-title_zh: "朱皮太阿"
+display_title: "ジュピター"
+title_zh: ""
 title_ja: "ジュピター"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c100078"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jupiter"
-  - "ジュピター"
   - "Lord Jupiter"
 source_ids:
   vndb: "c100078"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c100078.webp"
 ---
 
-# 朱皮太阿
+# ジュピター
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

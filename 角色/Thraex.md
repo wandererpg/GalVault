@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c97416"
 type: "character"
-display_title: "TH拉惠X"
-title_zh: "TH拉惠X"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Thraex"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97416"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Thraex"
   - "Gladiator B"
 source_ids:
   vndb: "c97416"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c97416.webp"
 ---
 
-# TH拉惠X
+# Thraex
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c44132"
 type: "character"
-display_title: "美莉扎"
-title_zh: "美莉扎"
+display_title: "ミリザ"
+title_zh: ""
 title_ja: "ミリザ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c44132"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Miriza"
-  - "ミリザ"
 source_ids:
   vndb: "c44132"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c44132.webp"
 ---
 
-# 美莉扎
+# ミリザ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

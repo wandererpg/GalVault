@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c104263"
 type: "character"
-display_title: "阿莉寿阿恩芙拉芽"
-title_zh: "阿莉寿阿恩芙拉芽"
+display_title: "アリス・アンフラメ"
+title_zh: ""
 title_ja: "アリス・アンフラメ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c104263"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alice Enflamme"
-  - "アリス・アンフラメ"
   - "コミュニケーターA"
   - "Communicator A"
   - "被験体A"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c104263.webp"
 ---
 
-# 阿莉寿阿恩芙拉芽
+# アリス・アンフラメ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

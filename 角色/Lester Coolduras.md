@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c836"
 type: "character"
-display_title: "蕾寿太阿久乌露达拉寿"
-title_zh: "蕾寿太阿久乌露达拉寿"
+display_title: "レスター・クールダラス"
+title_zh: ""
 title_ja: "レスター・クールダラス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c836"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lester Coolduras"
-  - "レスター・クールダラス"
   - "Rester Cooldaras"
 source_ids:
   vndb: "c836"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c836.webp"
 ---
 
-# 蕾寿太阿久乌露达拉寿
+# レスター・クールダラス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

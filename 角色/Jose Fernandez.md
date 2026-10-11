@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c118548"
 type: "character"
-display_title: "乔泽·F惠露奈恩德寿"
-title_zh: "乔泽·F惠露奈恩德寿"
+display_title: "ジョゼ フェルナンデス"
+title_zh: ""
 title_ja: "ジョゼ フェルナンデス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c118548"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jose Fernandez"
-  - "ジョゼ フェルナンデス"
 source_ids:
   vndb: "c118548"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c118548.webp"
 ---
 
-# 乔泽·F惠露奈恩德寿
+# ジョゼ フェルナンデス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "大道寺小松"
 title_zh: "大道寺小松"
 title_ja: "大道寺 小松"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2877"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Daidouji Komatsu"
   - "大道寺 小松"

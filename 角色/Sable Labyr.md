@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c74678"
 type: "character"
-display_title: "沙BL惠·L阿BYR"
-title_zh: "沙BL惠·L阿BYR"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Sable Labyr"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c74678"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Sable Labyr"
 source_ids:
   vndb: "c74678"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c74678.webp"
 ---
 
-# 沙BL惠·L阿BYR
+# Sable Labyr
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

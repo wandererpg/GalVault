@@ -5,7 +5,10 @@ display_title: "速濑庆司"
 title_zh: "速濑庆司"
 title_ja: "速瀬 慶司"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c31817"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hayase Keiji"
   - "速瀬 慶司"

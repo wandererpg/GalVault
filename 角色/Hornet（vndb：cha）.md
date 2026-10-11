@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98011"
 type: "character"
-display_title: "穗奥音T斗"
-title_zh: "穗奥音T斗"
+display_title: "ホーネット"
+title_zh: ""
 title_ja: "ホーネット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98011"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hornet"
-  - "ホーネット"
 source_ids:
   vndb: "c98011"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98011.webp"
 ---
 
-# 穗奥音T斗
+# ホーネット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

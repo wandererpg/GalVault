@@ -5,7 +5,10 @@ display_title: "崩月槐"
 title_zh: "崩月槐"
 title_ja: "崩月 槐"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c161706"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Houzuki Enju"
   - "崩月 槐"

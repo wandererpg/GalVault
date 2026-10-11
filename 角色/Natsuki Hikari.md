@@ -5,7 +5,10 @@ display_title: "夏木洸"
 title_zh: "夏木洸"
 title_ja: "夏木 洸"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c42354"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Natsuki Hikari"
   - "夏木 洸"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c35446"
 type: "character"
-display_title: "藤堂子斗音"
-title_zh: "藤堂子斗音"
+display_title: "藤堂 ことね"
+title_zh: ""
 title_ja: "藤堂 ことね"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c35446"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Toudou Kotone"
-  - "藤堂 ことね"
 source_ids:
   vndb: "c35446"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c35446.webp"
 ---
 
-# 藤堂子斗音
+# 藤堂 ことね
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

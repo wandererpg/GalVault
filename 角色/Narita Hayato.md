@@ -5,7 +5,10 @@ display_title: "成田隼人"
 title_zh: "成田隼人"
 title_ja: "成田 隼人"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9510"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Narita Hayato"
   - "成田 隼人"

@@ -5,7 +5,10 @@ display_title: "宫丘一比虎"
 title_zh: "宫丘一比虎"
 title_ja: "宮丘 一比虎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c90811"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Miyaoka Kazuhiko"
   - "宮丘 一比虎"

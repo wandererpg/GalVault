@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c116945"
 type: "character"
-display_title: "千惠布久洛·濑津加"
-title_zh: "千惠布久洛·濑津加"
+display_title: "치에부쿠로 세츠카"
+title_zh: ""
 title_ja: "치에부쿠로 세츠카"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116945"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chiebukuro Setsuka"
-  - "치에부쿠로 세츠카"
   - "Super High School Level Billiard Player"
   - "Chiebukuro Secheuka"
   - "Big Sis"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c116945.webp"
 ---
 
-# 千惠布久洛·濑津加
+# 치에부쿠로 세츠카
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

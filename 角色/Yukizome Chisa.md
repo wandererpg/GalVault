@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c56557"
 type: "character"
-display_title: "雪染千沙"
-title_zh: "雪染千沙"
+display_title: "雪染 ちさ"
+title_zh: ""
 title_ja: "雪染 ちさ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56557"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yukizome Chisa"
-  - "雪染 ちさ"
   - "(元)・超高校級の「家政婦」"
   - "(Former) Super High School Level Housekeeper"
   - "Former Ultimate Housekeeper"
@@ -22,7 +24,7 @@ source_urls:
 portrait_image: "assets/characters/c56557.webp"
 ---
 
-# 雪染千沙
+# 雪染 ちさ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

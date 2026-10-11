@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c94645"
 type: "character"
-display_title: "MVDY"
-title_zh: "MVDY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "mvdy"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94645"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "mvdy"
 source_ids:
   vndb: "c94645"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c94645.webp"
 ---
 
-# MVDY
+# mvdy
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

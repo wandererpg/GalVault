@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c170372"
 type: "character"
-display_title: "夏伊L"
-title_zh: "夏伊L"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Shail"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c170372"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Shail"
 source_ids:
   vndb: "c170372"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c170372.webp"
 ---
 
-# 夏伊L
+# Shail
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

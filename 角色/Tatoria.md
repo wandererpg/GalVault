@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c56807"
 type: "character"
-display_title: "太T斗莉阿"
-title_zh: "太T斗莉阿"
+display_title: "タットリア"
+title_zh: ""
 title_ja: "タットリア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56807"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tatoria"
-  - "タットリア"
 source_ids:
   vndb: "c56807"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c56807.webp"
 ---
 
-# 太T斗莉阿
+# タットリア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

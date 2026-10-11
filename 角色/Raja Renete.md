@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c28091"
 type: "character"
-display_title: "拉阿嘉蕾音惠特"
-title_zh: "拉阿嘉蕾音惠特"
+display_title: "ラージャ・レネーテ"
+title_zh: ""
 title_ja: "ラージャ・レネーテ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c28091"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Raja Renete"
-  - "ラージャ・レネーテ"
 source_ids:
   vndb: "c28091"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c28091.webp"
 ---
 
-# 拉阿嘉蕾音惠特
+# ラージャ・レネーテ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

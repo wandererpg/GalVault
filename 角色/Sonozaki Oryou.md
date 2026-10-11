@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c3816"
 type: "character"
-display_title: "园崎奥魉"
-title_zh: "园崎奥魉"
+display_title: "園崎 お魎"
+title_zh: ""
 title_ja: "園崎 お魎"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c3816"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sonozaki Oryou"
-  - "園崎 お魎"
   - "鬼婆"
   - "Onibaba"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c3816.webp"
 ---
 
-# 园崎奥魉
+# 園崎 お魎
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

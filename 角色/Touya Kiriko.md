@@ -5,7 +5,10 @@ display_title: "东谷雾子"
 title_zh: "东谷雾子"
 title_ja: "東谷 霧子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c44237"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Touya Kiriko"
   - "東谷 霧子"

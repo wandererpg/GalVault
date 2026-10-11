@@ -5,7 +5,10 @@ display_title: "雷贝莎·洛莱斯"
 title_zh: "雷贝莎·洛莱斯"
 title_ja: "雷贝莎·洛莱斯"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c127935"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Lebsa Lorace"
   - "Rebessa"

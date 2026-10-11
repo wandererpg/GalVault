@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c111997"
 type: "character"
-display_title: "德加阿悟美太阿真恩"
-title_zh: "德加阿悟美太阿真恩"
+display_title: "デカーゴ・ミターマン"
+title_zh: ""
 title_ja: "デカーゴ・ミターマン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c111997"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Decargo Mieterman"
-  - "デカーゴ・ミターマン"
   - "Horatio"
   - "Mysterious Man B"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c111997.webp"
 ---
 
-# 德加阿悟美太阿真恩
+# デカーゴ・ミターマン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

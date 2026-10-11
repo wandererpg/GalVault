@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c149997"
 type: "character"
-display_title: "F惠L伊C伊惠·F阿蕾T"
-title_zh: "F惠L伊C伊惠·F阿蕾T"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Felicie Faret"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149997"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Felicie Faret"
   - "Fel"
   - "The Penitent"
 source_ids:
@@ -15,7 +17,7 @@ source_urls:
   vndb: "https://vndb.org/c149997"
 ---
 
-# F惠L伊C伊惠·F阿蕾T
+# Felicie Faret
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

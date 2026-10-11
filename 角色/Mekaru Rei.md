@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c116896"
 type: "character"
-display_title: "芽加露·蕾伊"
-title_zh: "芽加露·蕾伊"
+display_title: "메카루 레이"
+title_zh: ""
 title_ja: "메카루 레이"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116896"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mekaru Rei"
-  - "메카루 레이"
   - "Super High School Level Professor"
 source_ids:
   vndb: "c116896"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c116896.webp"
 ---
 
-# 芽加露·蕾伊
+# 메카루 레이
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "覆面选手"
 title_zh: "覆面选手"
 title_ja: "覆面選手"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c61161"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fukumen"
   - "覆面選手"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c141684"
 type: "character"
-display_title: "F拉恩KL伊恩"
-title_zh: "F拉恩KL伊恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Franklin"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141684"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Franklin"
 source_ids:
   vndb: "c141684"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c141684.webp"
 ---
 
-# F拉恩KL伊恩
+# Franklin
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

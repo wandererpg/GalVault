@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71158"
 type: "character"
-display_title: "悟G古"
-title_zh: "悟G古"
+display_title: "ゴッグ"
+title_zh: ""
 title_ja: "ゴッグ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71158"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gogg"
-  - "ゴッグ"
 source_ids:
   vndb: "c71158"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71158.webp"
 ---
 
-# 悟G古
+# ゴッグ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

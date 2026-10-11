@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13604"
 type: "character"
-display_title: "伊加男爵"
-title_zh: "伊加男爵"
+display_title: "イカ男爵"
+title_zh: ""
 title_ja: "イカ男爵"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13604"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Baron Squid"
-  - "イカ男爵"
 source_ids:
   vndb: "c13604"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c13604.webp"
 ---
 
-# 伊加男爵
+# イカ男爵
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

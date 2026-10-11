@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c149529"
 type: "character"
-display_title: "拉V惠惠泽拉奈久拉寿"
-title_zh: "拉V惠惠泽拉奈久拉寿"
+display_title: "ラヴェーゼ・ラ・ナキュラス"
+title_zh: ""
 title_ja: "ラヴェーゼ・ラ・ナキュラス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149529"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Laveze La Nacuras"
-  - "ラヴェーゼ・ラ・ナキュラス"
 source_ids:
   vndb: "c149529"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c149529.webp"
 ---
 
-# 拉V惠惠泽拉奈久拉寿
+# ラヴェーゼ・ラ・ナキュラス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

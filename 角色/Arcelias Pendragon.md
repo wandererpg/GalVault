@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c41552"
 type: "character"
-display_title: "阿阿诗惠莉阿寿佩恩堂拉悟恩"
-title_zh: "阿阿诗惠莉阿寿佩恩堂拉悟恩"
+display_title: "アーシェリアス・ペンドラゴン"
+title_zh: ""
 title_ja: "アーシェリアス・ペンドラゴン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c41552"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Arcelias Pendragon"
-  - "アーシェリアス・ペンドラゴン"
 source_ids:
   vndb: "c41552"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c41552.webp"
 ---
 
-# 阿阿诗惠莉阿寿佩恩堂拉悟恩
+# アーシェリアス・ペンドラゴン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

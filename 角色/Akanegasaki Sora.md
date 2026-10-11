@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c32"
 type: "character"
-display_title: "茜惠崎空"
-title_zh: "茜惠崎空"
+display_title: "茜ヶ崎 空"
+title_zh: ""
 title_ja: "茜ヶ崎 空"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c32"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Akanegasaki Sora"
-  - "茜ヶ崎 空"
   - "LM-QS16 (Remake)"
   - "LM-RSDS-4913A (Original)"
   - "空ピー"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c32.webp"
 ---
 
-# 茜惠崎空
+# 茜ヶ崎 空
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "姫崎藤吾"
 title_zh: "姫崎藤吾"
 title_ja: "姫崎 藤吾"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c42609"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kisaki Tougo"
   - "姫崎 藤吾"

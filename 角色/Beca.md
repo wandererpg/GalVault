@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c116529"
 type: "character"
-display_title: "贝C阿"
-title_zh: "贝C阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Beca"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116529"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Beca"
 source_ids:
   vndb: "c116529"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c116529.webp"
 ---
 
-# 贝C阿
+# Beca
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

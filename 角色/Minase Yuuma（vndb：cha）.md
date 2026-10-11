@@ -5,7 +5,10 @@ display_title: "水无濑悠真"
 title_zh: "水无濑悠真"
 title_ja: "水無瀬 悠真"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c94301"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Minase Yuuma"
   - "水無瀬 悠真"

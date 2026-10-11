@@ -5,7 +5,10 @@ display_title: "辰宫百合香"
 title_zh: "辰宫百合香"
 title_ja: "辰宮 百合香"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c31937"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tatsumiya Yurika"
   - "辰宮 百合香"

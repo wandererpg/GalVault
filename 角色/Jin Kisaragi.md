@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c25639"
 type: "character"
-display_title: "吉恩希沙拉吉"
-title_zh: "吉恩希沙拉吉"
+display_title: "ジン゠キサラギ"
+title_zh: ""
 title_ja: "ジン゠キサラギ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c25639"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jin Kisaragi"
-  - "ジン゠キサラギ"
   - "Hero of Ikaruga"
   - "Jinny"
   - "Jinnie"
@@ -21,7 +23,7 @@ source_urls:
 portrait_image: "assets/characters/c25639.webp"
 ---
 
-# 吉恩希沙拉吉
+# ジン゠キサラギ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

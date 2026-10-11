@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c144516"
 type: "character"
-display_title: "赤伊伞乃男"
-title_zh: "赤伊伞乃男"
+display_title: "赤い傘の男"
+title_zh: ""
 title_ja: "赤い傘の男"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c144516"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mr. Scarletella"
-  - "赤い傘の男"
   - "The Man with a Red Umbrella"
 source_ids:
   vndb: "c144516"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c144516.webp"
 ---
 
-# 赤伊伞乃男
+# 赤い傘の男
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

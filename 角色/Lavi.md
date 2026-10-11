@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c135516"
 type: "character"
-display_title: "拉V伊"
-title_zh: "拉V伊"
+display_title: "ラヴィ"
+title_zh: ""
 title_ja: "ラヴィ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c135516"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lavi"
-  - "ラヴィ"
 source_ids:
   vndb: "c135516"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c135516.webp"
 ---
 
-# 拉V伊
+# ラヴィ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

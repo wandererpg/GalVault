@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c94279"
 type: "character"
-display_title: "见当乌兹芽"
-title_zh: "见当乌兹芽"
+display_title: "見当 ウズメ"
+title_zh: ""
 title_ja: "見当 ウズメ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94279"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kentou Uzume"
-  - "見当 ウズメ"
 source_ids:
   vndb: "c94279"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c94279.webp"
 ---
 
-# 见当乌兹芽
+# 見当 ウズメ
 
 
 ## 角色画像

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125884"
 type: "character"
-display_title: "阿露拉博阿"
-title_zh: "阿露拉博阿"
+display_title: "アルラ・ボア"
+title_zh: ""
 title_ja: "アルラ・ボア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125884"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alra Vore"
-  - "アルラ・ボア"
 source_ids:
   vndb: "c125884"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c125884.webp"
 ---
 
-# 阿露拉博阿
+# アルラ・ボア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

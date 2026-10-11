@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c18249"
 type: "character"
-display_title: "布露K久寿"
-title_zh: "布露K久寿"
+display_title: "ブルックス"
+title_zh: ""
 title_ja: "ブルックス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c18249"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Brooks"
-  - "ブルックス"
 source_ids:
   vndb: "c18249"
 source_urls:
   vndb: "https://vndb.org/c18249"
 ---
 
-# 布露K久寿
+# ブルックス
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

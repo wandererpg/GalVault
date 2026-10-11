@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c85436"
 type: "character"
-display_title: "千露D伊夏阿普"
-title_zh: "千露D伊夏阿普"
+display_title: "チルディ・シャープ"
+title_zh: ""
 title_ja: "チルディ・シャープ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85436"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tilde Sharp"
-  - "チルディ・シャープ"
   - "Tildy Sharp"
 source_ids:
   vndb: "c85436"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c85436.webp"
 ---
 
-# 千露D伊夏阿普
+# チルディ・シャープ
 
 
 ## 角色画像

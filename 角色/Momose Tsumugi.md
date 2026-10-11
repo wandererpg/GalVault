@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c47618"
 type: "character"
-display_title: "百濑津梦吉"
-title_zh: "百濑津梦吉"
+display_title: "百瀬 つむぎ"
+title_zh: ""
 title_ja: "百瀬 つむぎ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c47618"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Momose Tsumugi"
-  - "百瀬 つむぎ"
   - "Bishop"
 source_ids:
   vndb: "c47618"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c47618.webp"
 ---
 
-# 百濑津梦吉
+# 百瀬 つむぎ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

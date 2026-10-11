@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c173561"
 type: "character"
-display_title: "寿帕洛乌"
-title_zh: "寿帕洛乌"
+display_title: "スパロウ"
+title_zh: ""
 title_ja: "スパロウ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c173561"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sparrow"
-  - "スパロウ"
 source_ids:
   vndb: "c173561"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c173561.webp"
 ---
 
-# 寿帕洛乌
+# スパロウ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

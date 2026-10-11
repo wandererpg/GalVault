@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c138698"
 type: "character"
-display_title: "帕T莉CK·巴伊L惠Y"
-title_zh: "帕T莉CK·巴伊L惠Y"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Patrick Bailey"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138698"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Patrick Bailey"
 source_ids:
   vndb: "c138698"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c138698.webp"
 ---
 
-# 帕T莉CK·巴伊L惠Y
+# Patrick Bailey
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

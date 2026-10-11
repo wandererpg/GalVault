@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c153207"
 type: "character"
-display_title: "有堂院穗洛比"
-title_zh: "有堂院穗洛比"
+display_title: "有堂院 ほろび"
+title_zh: ""
 title_ja: "有堂院 ほろび"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c153207"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alduin Horobi"
-  - "有堂院 ほろび"
 source_ids:
   vndb: "c153207"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c153207.webp"
 ---
 
-# 有堂院穗洛比
+# 有堂院 ほろび
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

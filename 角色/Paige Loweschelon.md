@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c48675"
 type: "character"
-display_title: "佩伊朱洛奥诗惠洛恩"
-title_zh: "佩伊朱洛奥诗惠洛恩"
+display_title: "ペイジュ・ローシェロン"
+title_zh: ""
 title_ja: "ペイジュ・ローシェロン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c48675"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Paige Loweschelon"
-  - "ペイジュ・ローシェロン"
 source_ids:
   vndb: "c48675"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c48675.webp"
 ---
 
-# 佩伊朱洛奥诗惠洛恩
+# ペイジュ・ローシェロン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

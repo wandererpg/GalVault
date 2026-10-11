@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c6176"
 type: "character"
-display_title: "露乌·贝奥乌露芙"
-title_zh: "露乌·贝奥乌露芙"
+display_title: "ルゥ ベオウルフ"
+title_zh: ""
 title_ja: "ルゥ ベオウルフ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c6176"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lugh Beowulf"
-  - "ルゥ ベオウルフ"
 source_ids:
   vndb: "c6176"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c6176.webp"
 ---
 
-# 露乌·贝奥乌露芙
+# ルゥ ベオウルフ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

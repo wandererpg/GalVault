@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c56447"
 type: "character"
-display_title: "优乌莉阿阿蕾久濑惠V乌奈贝拉阿雅"
-title_zh: "优乌莉阿阿蕾久濑惠V乌奈贝拉阿雅"
+display_title: "ユーリア・アレクセエヴナ・ベラーヤ"
+title_zh: ""
 title_ja: "ユーリア・アレクセエヴナ・ベラーヤ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56447"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yulia Alexeevna Belaya"
-  - "ユーリア・アレクセエヴナ・ベラーヤ"
 source_ids:
   vndb: "c56447"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c56447.webp"
 ---
 
-# 优乌莉阿阿蕾久濑惠V乌奈贝拉阿雅
+# ユーリア・アレクセエヴナ・ベラーヤ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

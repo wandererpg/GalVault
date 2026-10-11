@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c37736"
 type: "character"
-display_title: "P莉恩C惠SS·C奥R德L伊阿"
-title_zh: "P莉恩C惠SS·C奥R德L伊阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Princess Cordelia"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37736"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Princess Cordelia"
 source_ids:
   vndb: "c37736"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c37736.webp"
 ---
 
-# P莉恩C惠SS·C奥R德L伊阿
+# Princess Cordelia
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

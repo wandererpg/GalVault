@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c89449"
 type: "character"
-display_title: "萤彩院・F・琉辉"
-title_zh: "萤彩院・F・琉辉"
+display_title: "螢彩院・F・琉輝"
+title_zh: ""
 title_ja: "螢彩院・F・琉輝"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c89449"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Keisaiin F Ryuki"
-  - "螢彩院・F・琉輝"
   - "Appearance Parasite"
   - "Glamor Parasite"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c89449.webp"
 ---
 
-# 萤彩院・F・琉辉
+# 螢彩院・F・琉輝
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

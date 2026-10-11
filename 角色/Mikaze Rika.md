@@ -5,7 +5,10 @@ display_title: "御风里佳"
 title_zh: "御风里佳"
 title_ja: "御風 里佳"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c499"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mikaze Rika"
   - "御風 里佳"

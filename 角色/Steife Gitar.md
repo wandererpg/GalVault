@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30227"
 type: "character"
-display_title: "魔人修太伊F惠吉太露"
-title_zh: "魔人修太伊F惠吉太露"
+display_title: "魔人シュタイフェ・ギタル"
+title_zh: ""
 title_ja: "魔人シュタイフェ・ギタル"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30227"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Steife Gitar"
-  - "魔人シュタイフェ・ギタル"
 source_ids:
   vndb: "c30227"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30227.webp"
 ---
 
-# 魔人修太伊F惠吉太露
+# 魔人シュタイフェ・ギタル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

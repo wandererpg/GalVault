@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c111998"
 type: "character"
-display_title: "惠布莉D伊美特露莫恩"
-title_zh: "惠布莉D伊美特露莫恩"
+display_title: "エブリディ・ミテルモン"
+title_zh: ""
 title_ja: "エブリディ・ミテルモン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c111998"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Everydae Mittermont"
-  - "エブリディ・ミテルモン"
   - "ゴシップ"
   - "Gossip"
   - "トビアス・グレグソン"
@@ -22,7 +24,7 @@ source_urls:
 portrait_image: "assets/characters/c111998.webp"
 ---
 
-# 惠布莉D伊美特露莫恩
+# エブリディ・ミテルモン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

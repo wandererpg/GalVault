@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c126898"
 type: "character"
-display_title: "G拉恩D伊音"
-title_zh: "G拉恩D伊音"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Grandine"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126898"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Grandine"
 source_ids:
   vndb: "c126898"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c126898.webp"
 ---
 
-# G拉恩D伊音
+# Grandine
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

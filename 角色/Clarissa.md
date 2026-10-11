@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c173813"
 type: "character"
-display_title: "CL阿莉S沙"
-title_zh: "CL阿莉S沙"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Clarissa"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c173813"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Clarissa"
 source_ids:
   vndb: "c173813"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c173813.webp"
 ---
 
-# CL阿莉S沙
+# Clarissa
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

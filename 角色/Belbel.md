@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c146627"
 type: "character"
-display_title: "贝露贝露"
-title_zh: "贝露贝露"
+display_title: "ベルベル"
+title_zh: ""
 title_ja: "ベルベル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c146627"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Belbel"
-  - "ベルベル"
 source_ids:
   vndb: "c146627"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c146627.webp"
 ---
 
-# 贝露贝露
+# ベルベル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c136285"
 type: "character"
-display_title: "Q乌伊恩恩·惠LLY"
-title_zh: "Q乌伊恩恩·惠LLY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Quinn Kelly"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136285"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Quinn Kelly"
   - "Ariel"
   - "Pippi Longstocking"
   - "Red"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c136285.webp"
 ---
 
-# Q乌伊恩恩·惠LLY
+# Quinn Kelly
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

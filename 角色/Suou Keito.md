@@ -5,7 +5,10 @@ display_title: "周防景人"
 title_zh: "周防景人"
 title_ja: "周防 景人"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c98435"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Suou Keito"
   - "周防 景人"

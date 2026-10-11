@@ -5,7 +5,10 @@ display_title: "芳野祐介"
 title_zh: "芳野祐介"
 title_ja: "芳野 祐介"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c15852"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yoshino Yuusuke"
   - "芳野 祐介"

@@ -5,7 +5,10 @@ display_title: "大黑可不可"
 title_zh: "大黑可不可"
 title_ja: "大黒 可不可"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c144387"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Oguro Kafka"
   - "大黒 可不可"

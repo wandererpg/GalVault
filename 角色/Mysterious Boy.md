@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c65861"
 type: "character"
-display_title: "谜乃少年"
-title_zh: "谜乃少年"
+display_title: "謎の少年"
+title_zh: ""
 title_ja: "謎の少年"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c65861"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mysterious Boy"
-  - "謎の少年"
   - "Yoshino's Master"
   - "吉野の御方"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c65861.webp"
 ---
 
-# 谜乃少年
+# 謎の少年
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

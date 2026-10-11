@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c92519"
 type: "character"
-display_title: "F惠伊布莉寿"
-title_zh: "F惠伊布莉寿"
+display_title: "フェイブリス"
+title_zh: ""
 title_ja: "フェイブリス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92519"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Faybris"
-  - "フェイブリス"
 source_ids:
   vndb: "c92519"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c92519.webp"
 ---
 
-# F惠伊布莉寿
+# フェイブリス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

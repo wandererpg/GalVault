@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c130159"
 type: "character"
-display_title: "特津男"
-title_zh: "特津男"
+display_title: "テツ男"
+title_zh: ""
 title_ja: "テツ男"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c130159"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tetsu Otoko"
-  - "テツ男"
 source_ids:
   vndb: "c130159"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c130159.webp"
 ---
 
-# 特津男
+# テツ男
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

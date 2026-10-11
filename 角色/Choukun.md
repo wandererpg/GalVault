@@ -5,7 +5,10 @@ display_title: "张勋"
 title_zh: "张勋"
 title_ja: "張勲"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c25788"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Choukun"
   - "張勲"

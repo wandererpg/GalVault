@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c123060"
 type: "character"
-display_title: "T羽奈斗S"
-title_zh: "T羽奈斗S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Thanatos"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c123060"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Thanatos"
   - "Thanny"
 source_ids:
   vndb: "c123060"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c123060.webp"
 ---
 
-# T羽奈斗S
+# Thanatos
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

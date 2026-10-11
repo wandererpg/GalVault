@@ -5,7 +5,10 @@ display_title: "敦泽豪"
 title_zh: "敦泽豪"
 title_ja: "敦澤 豪"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c170362"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Atsuzawa Gou"
   - "敦澤 豪"

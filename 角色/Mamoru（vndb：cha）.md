@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c76980"
 type: "character"
-display_title: "真莫露"
-title_zh: "真莫露"
+display_title: "マモル"
+title_zh: ""
 title_ja: "マモル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c76980"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mamoru"
-  - "マモル"
 source_ids:
   vndb: "c76980"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c76980.webp"
 ---
 
-# 真莫露
+# マモル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

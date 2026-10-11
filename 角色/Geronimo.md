@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c141259"
 type: "character"
-display_title: "吉惠洛尼莫"
-title_zh: "吉惠洛尼莫"
+display_title: "ジェロニモ"
+title_zh: ""
 title_ja: "ジェロニモ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141259"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Geronimo"
-  - "ジェロニモ"
 source_ids:
   vndb: "c141259"
 source_urls:
   vndb: "https://vndb.org/c141259"
 ---
 
-# 吉惠洛尼莫
+# ジェロニモ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

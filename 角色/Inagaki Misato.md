@@ -5,7 +5,10 @@ display_title: "稻垣美里"
 title_zh: "稻垣美里"
 title_ja: "稲垣 美里"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c8531"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Inagaki Misato"
   - "稲垣 美里"

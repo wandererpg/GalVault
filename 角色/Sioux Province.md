@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c96913"
 type: "character"
-display_title: "寿乌普洛V阿恩寿"
-title_zh: "寿乌普洛V阿恩寿"
+display_title: "スー・プロヴァンス"
+title_zh: ""
 title_ja: "スー・プロヴァンス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c96913"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sioux Province"
-  - "スー・プロヴァンス"
 source_ids:
   vndb: "c96913"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c96913.webp"
 ---
 
-# 寿乌普洛V阿恩寿
+# スー・プロヴァンス
 
 
 ## 角色画像

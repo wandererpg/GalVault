@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30827"
 type: "character"
-display_title: "扎加莉惠露"
-title_zh: "扎加莉惠露"
+display_title: "ザカリエル"
+title_zh: ""
 title_ja: "ザカリエル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30827"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Zachariel"
-  - "ザカリエル"
 source_ids:
   vndb: "c30827"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30827.webp"
 ---
 
-# 扎加莉惠露
+# ザカリエル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

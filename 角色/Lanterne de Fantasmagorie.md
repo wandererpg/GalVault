@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c144530"
 type: "character"
-display_title: "L阿恩特R音·德·F阿恩太S真悟莉惠"
-title_zh: "L阿恩特R音·德·F阿恩太S真悟莉惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Lanterne de Fantasmagorie"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c144530"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Lanterne de Fantasmagorie"
   - "Fantie"
 source_ids:
   vndb: "c144530"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c144530.webp"
 ---
 
-# L阿恩特R音·德·F阿恩太S真悟莉惠
+# Lanterne de Fantasmagorie
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

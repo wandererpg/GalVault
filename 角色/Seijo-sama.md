@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c170853"
 type: "character"
-display_title: "圣女沙真"
-title_zh: "圣女沙真"
+display_title: "聖女さま"
+title_zh: ""
 title_ja: "聖女さま"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c170853"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Seijo-sama"
-  - "聖女さま"
 source_ids:
   vndb: "c170853"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c170853.webp"
 ---
 
-# 圣女沙真
+# 聖女さま
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "裕木野枝实"
 title_zh: "裕木野枝实"
 title_ja: "裕木 野枝実"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2419"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yuuki Noemi"
   - "裕木 野枝実"

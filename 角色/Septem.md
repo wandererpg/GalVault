@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c168321"
 type: "character"
-display_title: "濑普特梦"
-title_zh: "濑普特梦"
+display_title: "セプテム"
+title_zh: ""
 title_ja: "セプテム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c168321"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Septem"
-  - "セプテム"
   - "007"
   - "ナナちゃん"
   - "Nana-Chan"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c168321.webp"
 ---
 
-# 濑普特梦
+# セプテム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

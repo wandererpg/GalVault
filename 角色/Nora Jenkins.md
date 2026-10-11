@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c141008"
 type: "character"
-display_title: "乃拉·J惠恩希恩S"
-title_zh: "乃拉·J惠恩希恩S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Nora Jenkins"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141008"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Nora Jenkins"
   - "Dr. Jenkins"
 source_ids:
   vndb: "c141008"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c141008.webp"
 ---
 
-# 乃拉·J惠恩希恩S
+# Nora Jenkins
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

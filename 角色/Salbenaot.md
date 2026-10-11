@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61614"
 type: "character"
-display_title: "沙露贝奈奥T斗"
-title_zh: "沙露贝奈奥T斗"
+display_title: "サルベナオット"
+title_zh: ""
 title_ja: "サルベナオット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61614"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Salbenaot"
-  - "サルベナオット"
   - "The Voice of God"
 source_ids:
   vndb: "c61614"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c61614.webp"
 ---
 
-# 沙露贝奈奥T斗
+# サルベナオット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

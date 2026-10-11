@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c46352"
 type: "character"
-display_title: "奥希恩"
-title_zh: "奥希恩"
+display_title: "おきん"
+title_zh: ""
 title_ja: "おきん"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c46352"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Okin"
-  - "おきん"
 source_ids:
   vndb: "c46352"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c46352.webp"
 ---
 
-# 奥希恩
+# おきん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

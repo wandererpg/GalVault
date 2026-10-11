@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c153280"
 type: "character"
-display_title: "MYTH莉L·露D格R"
-title_zh: "MYTH莉L·露D格R"
+display_title: "미스릴 루드거"
+title_zh: ""
 title_ja: "미스릴 루드거"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c153280"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mythril Rudger"
-  - "미스릴 루드거"
 source_ids:
   vndb: "c153280"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c153280.webp"
 ---
 
-# MYTH莉L·露D格R
+# 미스릴 루드거
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

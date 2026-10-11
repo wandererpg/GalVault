@@ -5,7 +5,10 @@ display_title: "矶岛龙哉"
 title_zh: "矶岛龙哉"
 title_ja: "磯島 龍哉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c63393"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Isojima Tatsuya"
   - "磯島 龍哉"

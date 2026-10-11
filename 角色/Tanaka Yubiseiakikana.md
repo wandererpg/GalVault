@@ -5,7 +5,10 @@ display_title: "田中优美清秋香菜"
 title_zh: "田中优美清秋香菜"
 title_ja: "田中 優美清秋香菜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c29"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tanaka Yubiseiakikana"
   - "田中 優美清秋香菜"
@@ -13,6 +16,7 @@ aliases:
   - "Yu"
   - "Nakkyu"
   - "You'aki'"
+  - "You'aki"
 source_ids:
   vndb: "c29"
 source_urls:

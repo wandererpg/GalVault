@@ -5,7 +5,10 @@ display_title: "上岛视子"
 title_zh: "上岛视子"
 title_ja: "上島 視子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c58954"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ueshima Miko"
   - "上島 視子"

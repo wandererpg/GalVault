@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c5313"
 type: "character"
-display_title: "瑠川莎拉"
-title_zh: "瑠川莎拉"
+display_title: "瑠川 さら"
+title_zh: ""
 title_ja: "瑠川 さら"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c5313"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rukawa Sara"
-  - "瑠川 さら"
 source_ids:
   vndb: "c5313"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c5313.webp"
 ---
 
-# 瑠川莎拉
+# 瑠川 さら
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "路地邦昭"
 title_zh: "路地邦昭"
 title_ja: "路地 邦昭"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c118589"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Roji Kuniaki"
   - "路地 邦昭"

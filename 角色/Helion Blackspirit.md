@@ -1,15 +1,18 @@
 ---
 entity_id: "vndb:character:c22372"
 type: "character"
-display_title: "惠莉奥恩布拉K久寿皮莉T斗"
-title_zh: "惠莉奥恩布拉K久寿皮莉T斗"
+display_title: "ヘリオン・ブラックスピリット"
+title_zh: ""
 title_ja: "ヘリオン・ブラックスピリット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c22372"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Helion Blackspirit"
-  - "ヘリオン・ブラックスピリット"
   - "Helion of 'Despair'"
+  - "Helion of 'Despair"
 source_ids:
   vndb: "c22372"
 source_urls:
@@ -17,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c22372.webp"
 ---
 
-# 惠莉奥恩布拉K久寿皮莉T斗
+# ヘリオン・ブラックスピリット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

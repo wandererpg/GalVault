@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c95925"
 type: "character"
-display_title: "贝露D伊阿"
-title_zh: "贝露D伊阿"
+display_title: "ベルディア"
+title_zh: ""
 title_ja: "ベルディア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c95925"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Beldia"
-  - "ベルディア"
 source_ids:
   vndb: "c95925"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c95925.webp"
 ---
 
-# 贝露D伊阿
+# ベルディア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c109546"
 type: "character"
-display_title: "真津莉"
-title_zh: "真津莉"
+display_title: "まつり"
+title_zh: ""
 title_ja: "まつり"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c109546"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Matsuri"
-  - "まつり"
 source_ids:
   vndb: "c109546"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c109546.webp"
 ---
 
-# 真津莉
+# まつり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

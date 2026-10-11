@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c97952"
 type: "character"
-display_title: "巴乌恩堂蕾寿"
-title_zh: "巴乌恩堂蕾寿"
+display_title: "バウンド・レス"
+title_zh: ""
 title_ja: "バウンド・レス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97952"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Bound Less"
-  - "バウンド・レス"
 source_ids:
   vndb: "c97952"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c97952.webp"
 ---
 
-# 巴乌恩堂蕾寿
+# バウンド・レス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

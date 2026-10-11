@@ -5,7 +5,10 @@ display_title: "针生藏人"
 title_zh: "针生藏人"
 title_ja: "針生 蔵人"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9505"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hariu Kuroudo"
   - "針生 蔵人"

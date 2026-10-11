@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c24989"
 type: "character"
-display_title: "朱音寿美"
-title_zh: "朱音寿美"
+display_title: "朱音 スミ"
+title_zh: ""
 title_ja: "朱音 スミ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c24989"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Akane Sumi"
-  - "朱音 スミ"
 source_ids:
   vndb: "c24989"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c24989.webp"
 ---
 
-# 朱音寿美
+# 朱音 スミ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

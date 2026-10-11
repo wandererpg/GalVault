@@ -5,7 +5,10 @@ display_title: "桧乃森朱夏"
 title_zh: "桧乃森朱夏"
 title_ja: "檜乃森 朱夏"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c156627"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hinomori Shuka"
   - "檜乃森 朱夏"

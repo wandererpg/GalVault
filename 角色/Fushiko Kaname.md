@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c86119"
 type: "character"
-display_title: "伏古加奈芽"
-title_zh: "伏古加奈芽"
+display_title: "伏古 かなめ"
+title_zh: ""
 title_ja: "伏古 かなめ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c86119"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Fushiko Kaname"
-  - "伏古 かなめ"
 source_ids:
   vndb: "c86119"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c86119.webp"
 ---
 
-# 伏古加奈芽
+# 伏古 かなめ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

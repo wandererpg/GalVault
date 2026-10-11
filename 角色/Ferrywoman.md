@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c28041"
 type: "character"
-display_title: "渡诗守"
-title_zh: "渡诗守"
+display_title: "渡し守"
+title_zh: ""
 title_ja: "渡し守"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c28041"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ferrywoman"
-  - "渡し守"
 source_ids:
   vndb: "c28041"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c28041.webp"
 ---
 
-# 渡诗守
+# 渡し守
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

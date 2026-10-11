@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c131781"
 type: "character"
-display_title: "帕特露"
-title_zh: "帕特露"
+display_title: "パテル"
+title_zh: ""
 title_ja: "パテル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c131781"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Patel"
-  - "パテル"
 source_ids:
   vndb: "c131781"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c131781.webp"
 ---
 
-# 帕特露
+# パテル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

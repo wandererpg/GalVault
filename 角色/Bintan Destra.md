@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98331"
 type: "character"
-display_title: "比恩太恩德寿斗拉阿"
-title_zh: "比恩太恩德寿斗拉阿"
+display_title: "ビンタン・デストラー"
+title_zh: ""
 title_ja: "ビンタン・デストラー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98331"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Bintan Destra"
-  - "ビンタン・デストラー"
 source_ids:
   vndb: "c98331"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98331.webp"
 ---
 
-# 比恩太恩德寿斗拉阿
+# ビンタン・デストラー
 
 
 ## 角色画像

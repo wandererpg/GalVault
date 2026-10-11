@@ -5,7 +5,10 @@ display_title: "柳濑小春"
 title_zh: "柳濑小春"
 title_ja: "柳瀬 小春"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c38743"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yanase Koharu"
   - "柳瀬 小春"

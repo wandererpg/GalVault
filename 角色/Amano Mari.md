@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c55907"
 type: "character"
-display_title: "天野真莉"
-title_zh: "天野真莉"
+display_title: "天野 まり"
+title_zh: ""
 title_ja: "天野 まり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c55907"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Amano Mari"
-  - "天野 まり"
 source_ids:
   vndb: "c55907"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c55907.webp"
 ---
 
-# 天野真莉
+# 天野 まり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

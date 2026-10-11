@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c57592"
 type: "character"
-display_title: "美千露"
-title_zh: "美千露"
+display_title: "ミチル"
+title_zh: ""
 title_ja: "ミチル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c57592"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Michiru"
-  - "ミチル"
   - "Oohime"
 source_ids:
   vndb: "c57592"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c57592.webp"
 ---
 
-# 美千露
+# ミチル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

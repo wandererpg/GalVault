@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c156587"
 type: "character"
-display_title: "夏露洛T斗"
-title_zh: "夏露洛T斗"
+display_title: "シャルロット"
+title_zh: ""
 title_ja: "シャルロット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c156587"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Charlotte"
-  - "シャルロット"
 source_ids:
   vndb: "c156587"
 source_urls:
   vndb: "https://vndb.org/c156587"
 ---
 
-# 夏露洛T斗
+# シャルロット
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

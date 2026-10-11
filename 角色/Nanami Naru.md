@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17095"
 type: "character"
-display_title: "菜々实奈露"
-title_zh: "菜々实奈露"
+display_title: "菜々実 なる"
+title_zh: ""
 title_ja: "菜々実 なる"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17095"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nanami Naru"
-  - "菜々実 なる"
   - "消閑の綴り師"
   - "虹色の占い師"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c17095.webp"
 ---
 
-# 菜々实奈露
+# 菜々実 なる
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

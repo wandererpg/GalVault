@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c15878"
 type: "character"
-display_title: "雅阿斗露乌堂"
-title_zh: "雅阿斗露乌堂"
+display_title: "ガートルード"
+title_zh: ""
 title_ja: "ガートルード"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c15878"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gertrude"
-  - "ガートルード"
 source_ids:
   vndb: "c15878"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c15878.webp"
 ---
 
-# 雅阿斗露乌堂
+# ガートルード
 
 
 ## 角色画像

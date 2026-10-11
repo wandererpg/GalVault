@@ -5,7 +5,10 @@ display_title: "十龙之介"
 title_zh: "十龙之介"
 title_ja: "十龍之介"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c164107"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsunashi Ryunosuke"
   - "十龍之介"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c155424"
 type: "character"
-display_title: "嘉S美音·朱GGS"
-title_zh: "嘉S美音·朱GGS"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jasmine Juggs"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155424"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jasmine Juggs"
 source_ids:
   vndb: "c155424"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c155424.webp"
 ---
 
-# 嘉S美音·朱GGS
+# Jasmine Juggs
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

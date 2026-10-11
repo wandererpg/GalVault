@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c6223"
 type: "character"
-display_title: "惠蕾阿乃奥露惠寿斗洛奥斗诗露斗"
-title_zh: "惠蕾阿乃奥露惠寿斗洛奥斗诗露斗"
+display_title: "エレアノール・エスト・ロートシルト"
+title_zh: ""
 title_ja: "エレアノール・エスト・ロートシルト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c6223"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Eleanor Est Rothschild"
-  - "エレアノール・エスト・ロートシルト"
   - "Bael"
   - "Elea"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c6223.webp"
 ---
 
-# 惠蕾阿乃奥露惠寿斗洛奥斗诗露斗
+# エレアノール・エスト・ロートシルト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61277"
 type: "character"
-display_title: "乌久拉伊奈"
-title_zh: "乌久拉伊奈"
+display_title: "ウクライナ"
+title_zh: ""
 title_ja: "ウクライナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61277"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ukraina"
-  - "ウクライナ"
 source_ids:
   vndb: "c61277"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61277.webp"
 ---
 
-# 乌久拉伊奈
+# ウクライナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

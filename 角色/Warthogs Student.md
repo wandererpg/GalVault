@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c126290"
 type: "character"
-display_title: "和RT穗GS·ST乌德恩T"
-title_zh: "和RT穗GS·ST乌德恩T"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Warthogs Student"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126290"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Warthogs Student"
 source_ids:
   vndb: "c126290"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c126290.webp"
 ---
 
-# 和RT穗GS·ST乌德恩T
+# Warthogs Student
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

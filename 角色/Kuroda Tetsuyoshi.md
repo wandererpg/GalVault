@@ -5,7 +5,10 @@ display_title: "黑田彻义"
 title_zh: "黑田彻义"
 title_ja: "黒田 徹義"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c104264"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kuroda Tetsuyoshi"
   - "黒田 徹義"

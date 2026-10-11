@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c110002"
 type: "character"
-display_title: "阿恩堂龙乌沙扎恩F奥奥堂"
-title_zh: "阿恩堂龙乌沙扎恩F奥奥堂"
+display_title: "アンドリュー・サザンフォード"
+title_zh: ""
 title_ja: "アンドリュー・サザンフォード"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c110002"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Andrew Southernford"
-  - "アンドリュー・サザンフォード"
   - "Andi"
   - "アンディ"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c110002.webp"
 ---
 
-# 阿恩堂龙乌沙扎恩F奥奥堂
+# アンドリュー・サザンフォード
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

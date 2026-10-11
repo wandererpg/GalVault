@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c103051"
 type: "character"
-display_title: "莉L惠Y"
-title_zh: "莉L惠Y"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Riley"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103051"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Riley"
 source_ids:
   vndb: "c103051"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c103051.webp"
 ---
 
-# 莉L惠Y
+# Riley
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

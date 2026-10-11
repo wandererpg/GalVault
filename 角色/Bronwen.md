@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c132264"
 type: "character"
-display_title: "B洛恩W惠恩"
-title_zh: "B洛恩W惠恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Bronwen"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132264"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Bronwen"
 source_ids:
   vndb: "c132264"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c132264.webp"
 ---
 
-# B洛恩W惠恩
+# Bronwen
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

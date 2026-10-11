@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c129243"
 type: "character"
-display_title: "格拉尼乌M"
-title_zh: "格拉尼乌M"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Geranium"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c129243"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Geranium"
 source_ids:
   vndb: "c129243"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c129243.webp"
 ---
 
-# 格拉尼乌M
+# Geranium
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

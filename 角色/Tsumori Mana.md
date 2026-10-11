@@ -5,7 +5,10 @@ display_title: "津森真鱼"
 title_zh: "津森真鱼"
 title_ja: "津森 真魚"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c70921"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsumori Mana"
   - "津森 真魚"

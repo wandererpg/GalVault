@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c95152"
 type: "character"
-display_title: "阿K加露堂"
-title_zh: "阿K加露堂"
+display_title: "アッカルド"
+title_zh: ""
 title_ja: "アッカルド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c95152"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Accardo"
-  - "アッカルド"
 source_ids:
   vndb: "c95152"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c95152.webp"
 ---
 
-# 阿K加露堂
+# アッカルド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

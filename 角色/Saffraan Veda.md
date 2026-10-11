@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38219"
 type: "character"
-display_title: "沙芙拉恩V惠惠达"
-title_zh: "沙芙拉恩V惠惠达"
+display_title: "サフラン・ヴェーダ"
+title_zh: ""
 title_ja: "サフラン・ヴェーダ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38219"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Saffraan Veda"
-  - "サフラン・ヴェーダ"
 source_ids:
   vndb: "c38219"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c38219.webp"
 ---
 
-# 沙芙拉恩V惠惠达
+# サフラン・ヴェーダ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

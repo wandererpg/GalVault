@@ -5,7 +5,10 @@ display_title: "右睡真咲也"
 title_zh: "右睡真咲也"
 title_ja: "右睡 真咲也"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c90414"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Usui Masaya"
   - "右睡 真咲也"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c27126"
 type: "character"
-display_title: "斗和伊寿Ｈ皮伊寿真恩"
-title_zh: "斗和伊寿Ｈ皮伊寿真恩"
+display_title: "トワイス・Ｈ・ピースマン"
+title_zh: ""
 title_ja: "トワイス・Ｈ・ピースマン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c27126"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Twice H Pieceman"
-  - "トワイス・Ｈ・ピースマン"
 source_ids:
   vndb: "c27126"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c27126.webp"
 ---
 
-# 斗和伊寿Ｈ皮伊寿真恩
+# トワイス・Ｈ・ピースマン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

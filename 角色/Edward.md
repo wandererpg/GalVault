@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c15837"
 type: "character"
-display_title: "惠堂和阿堂"
-title_zh: "惠堂和阿堂"
+display_title: "エドワード"
+title_zh: ""
 title_ja: "エドワード"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c15837"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Edward"
-  - "エドワード"
   - "Ed"
   - "エド"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c15837.webp"
 ---
 
-# 惠堂和阿堂
+# エドワード
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

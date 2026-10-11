@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c935"
 type: "character"
-display_title: "奈伊阿"
-title_zh: "奈伊阿"
+display_title: "ナイア"
+title_zh: ""
 title_ja: "ナイア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c935"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nya"
-  - "ナイア"
   - "Naia"
   - "ゲームキーパー"
   - "Game Keeper"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c935.webp"
 ---
 
-# 奈伊阿
+# ナイア
 
 
 ## 角色画像

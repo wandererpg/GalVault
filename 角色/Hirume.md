@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c76294"
 type: "character"
-display_title: "日露芽"
-title_zh: "日露芽"
+display_title: "ヒルメ"
+title_zh: ""
 title_ja: "ヒルメ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c76294"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hirume"
-  - "ヒルメ"
   - "曙光"
 source_ids:
   vndb: "c76294"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c76294.webp"
 ---
 
-# 日露芽
+# ヒルメ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

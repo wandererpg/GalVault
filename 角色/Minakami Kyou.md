@@ -5,7 +5,10 @@ display_title: "水上镜"
 title_zh: "水上镜"
 title_ja: "水上 鏡"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c56847"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Minakami Kyou"
   - "水上 鏡"

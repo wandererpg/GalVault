@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34522"
 type: "character"
-display_title: "萤冢优乃"
-title_zh: "萤冢优乃"
+display_title: "蛍塚 ユノ"
+title_zh: ""
 title_ja: "蛍塚 ユノ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34522"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hotaruzuka Yuno"
-  - "蛍塚 ユノ"
 source_ids:
   vndb: "c34522"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c34522.webp"
 ---
 
-# 萤冢优乃
+# 蛍塚 ユノ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

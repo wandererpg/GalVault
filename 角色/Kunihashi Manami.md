@@ -5,7 +5,10 @@ display_title: "国桥爱海"
 title_zh: "国桥爱海"
 title_ja: "国橋 愛海"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c167036"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kunihashi Manami"
   - "国橋 愛海"

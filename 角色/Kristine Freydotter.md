@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c155405"
 type: "character"
-display_title: "K莉ST伊音·F蕾Y堂T特R"
-title_zh: "K莉ST伊音·F蕾Y堂T特R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Kristine Freydotter"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155405"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Kristine Freydotter"
 source_ids:
   vndb: "c155405"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c155405.webp"
 ---
 
-# K莉ST伊音·F蕾Y堂T特R
+# Kristine Freydotter
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c43686"
 type: "character"
-display_title: "真蕾惠音穗奥惠恩修太伊恩"
-title_zh: "真蕾惠音穗奥惠恩修太伊恩"
+display_title: "マレーネ・ホーエンシュタイン"
+title_zh: ""
 title_ja: "マレーネ・ホーエンシュタイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43686"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Marlene Hohenstein"
-  - "マレーネ・ホーエンシュタイン"
 source_ids:
   vndb: "c43686"
 source_urls:
   vndb: "https://vndb.org/c43686"
 ---
 
-# 真蕾惠音穗奥惠恩修太伊恩
+# マレーネ・ホーエンシュタイン
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

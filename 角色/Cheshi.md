@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c77955"
 type: "character"
-display_title: "C惠诗"
-title_zh: "C惠诗"
+display_title: "ちぇし"
+title_zh: ""
 title_ja: "ちぇし"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c77955"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cheshi"
-  - "ちぇし"
 source_ids:
   vndb: "c77955"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c77955.webp"
 ---
 
-# C惠诗
+# ちぇし
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

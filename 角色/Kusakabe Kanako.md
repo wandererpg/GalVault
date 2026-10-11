@@ -5,7 +5,10 @@ display_title: "日下部加奈子"
 title_zh: "日下部加奈子"
 title_ja: "日下部 加奈子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c8603"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kusakabe Kanako"
   - "日下部 加奈子"

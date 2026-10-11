@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c67955"
 type: "character"
-display_title: "来未沙奈惠"
-title_zh: "来未沙奈惠"
+display_title: "来未 さなえ"
+title_zh: ""
 title_ja: "来未 さなえ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c67955"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kurumi Sanae"
-  - "来未 さなえ"
 source_ids:
   vndb: "c67955"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c67955.webp"
 ---
 
-# 来未沙奈惠
+# 来未 さなえ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

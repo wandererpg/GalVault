@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c143493"
 type: "character"
-display_title: "J惠SS伊C阿·和特R索恩"
-title_zh: "J惠SS伊C阿·和特R索恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jessica Waterson"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c143493"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jessica Waterson"
   - "Jess"
 source_ids:
   vndb: "c143493"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c143493.webp"
 ---
 
-# J惠SS伊C阿·和特R索恩
+# Jessica Waterson
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "江波紫音"
 title_zh: "江波紫音"
 title_ja: "江波 紫音"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c48129"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Enami Shion"
   - "江波 紫音"

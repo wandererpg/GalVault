@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c123000"
 type: "character"
-display_title: "P洛F惠S索R·惠阿T伊恩G"
-title_zh: "P洛F惠S索R·惠阿T伊恩G"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Professor Keating"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c123000"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Professor Keating"
 source_ids:
   vndb: "c123000"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c123000.webp"
 ---
 
-# P洛F惠S索R·惠阿T伊恩G
+# Professor Keating
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

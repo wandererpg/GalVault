@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16535"
 type: "character"
-display_title: "拉恩B优乌露＝达努恩津伊奥"
-title_zh: "拉恩B优乌露＝达努恩津伊奥"
+display_title: "ランビュール＝ダヌンツィオ"
+title_zh: ""
 title_ja: "ランビュール＝ダヌンツィオ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16535"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rambures Dannunzio"
-  - "ランビュール＝ダヌンツィオ"
   - "Rambures D'Annunzio"
 source_ids:
   vndb: "c16535"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c16535.webp"
 ---
 
-# 拉恩B优乌露＝达努恩津伊奥
+# ランビュール＝ダヌンツィオ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

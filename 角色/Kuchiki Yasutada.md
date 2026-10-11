@@ -5,7 +5,10 @@ display_title: "朽木靖匡"
 title_zh: "朽木靖匡"
 title_ja: "朽木 靖匡"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c4098"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kuchiki Yasutada"
   - "朽木 靖匡"

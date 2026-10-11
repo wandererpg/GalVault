@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26219"
 type: "character"
-display_title: "诗惠寿太45"
-title_zh: "诗惠寿太45"
+display_title: "シエスタ45"
+title_zh: ""
 title_ja: "シエスタ45"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26219"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chiester 45"
-  - "シエスタ45"
   - "Siesta 45"
 source_ids:
   vndb: "c26219"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c26219.webp"
 ---
 
-# 诗惠寿太45
+# シエスタ45
 
 
 ## 角色画像

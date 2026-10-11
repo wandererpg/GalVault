@@ -5,7 +5,10 @@ display_title: "稻丛莉音"
 title_zh: "稻丛莉音"
 title_ja: "稲叢 莉音"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c5027"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Inamura Rio"
   - "稲叢 莉音"

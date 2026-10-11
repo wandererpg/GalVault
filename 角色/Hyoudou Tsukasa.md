@@ -5,7 +5,10 @@ display_title: "氷堂司"
 title_zh: "氷堂司"
 title_ja: "氷堂 司"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c37220"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hyoudou Tsukasa"
   - "氷堂 司"

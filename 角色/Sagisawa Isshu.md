@@ -5,7 +5,10 @@ display_title: "鹭泽一蹴"
 title_zh: "鹭泽一蹴"
 title_ja: "鷺沢 一蹴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c11657"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sagisawa Isshu"
   - "鷺沢 一蹴"

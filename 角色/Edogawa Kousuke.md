@@ -5,7 +5,10 @@ display_title: "江户川耕助"
 title_zh: "江户川耕助"
 title_ja: "江戸川 耕助"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10681"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Edogawa Kousuke"
   - "江戸川 耕助"

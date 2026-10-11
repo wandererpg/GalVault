@@ -5,7 +5,10 @@ display_title: "日和川旭"
 title_zh: "日和川旭"
 title_ja: "日和川 旭"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10471"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hiyorigawa Asahi"
   - "日和川 旭"

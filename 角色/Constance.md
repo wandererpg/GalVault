@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c48492"
 type: "character"
-display_title: "子恩寿太恩寿"
-title_zh: "子恩寿太恩寿"
+display_title: "コンスタンス"
+title_zh: ""
 title_ja: "コンスタンス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c48492"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Constance"
-  - "コンスタンス"
 source_ids:
   vndb: "c48492"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c48492.webp"
 ---
 
-# 子恩寿太恩寿
+# コンスタンス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c117193"
 type: "character"
-display_title: "波露诗奥恩"
-title_zh: "波露诗奥恩"
+display_title: "ポルシオン"
+title_zh: ""
 title_ja: "ポルシオン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c117193"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Porshion"
-  - "ポルシオン"
 source_ids:
   vndb: "c117193"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c117193.webp"
 ---
 
-# 波露诗奥恩
+# ポルシオン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

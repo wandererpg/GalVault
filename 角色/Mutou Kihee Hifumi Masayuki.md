@@ -5,7 +5,10 @@ display_title: "武藤喜兵卫一二三昌幸"
 title_zh: "武藤喜兵卫一二三昌幸"
 title_ja: "武藤 喜兵衛 一二三 昌幸"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20750"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mutou Kihee Hifumi Masayuki"
   - "武藤 喜兵衛 一二三 昌幸"

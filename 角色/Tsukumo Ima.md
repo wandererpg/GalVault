@@ -5,7 +5,10 @@ display_title: "九十九今马"
 title_zh: "九十九今马"
 title_ja: "九十九 今馬"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c150823"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsukumo Ima"
   - "九十九 今馬"

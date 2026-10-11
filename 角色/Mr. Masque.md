@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c145221"
 type: "character"
-display_title: "假面乃男"
-title_zh: "假面乃男"
+display_title: "仮面の男"
+title_zh: ""
 title_ja: "仮面の男"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c145221"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mr. Masque"
-  - "仮面の男"
 source_ids:
   vndb: "c145221"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c145221.webp"
 ---
 
-# 假面乃男
+# 仮面の男
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71013"
 type: "character"
-display_title: "乌奥露索恩＝格伊津"
-title_zh: "乌奥露索恩＝格伊津"
+display_title: "ウォルソン＝ゲイツ"
+title_zh: ""
 title_ja: "ウォルソン＝ゲイツ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71013"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Worson Gates"
-  - "ウォルソン＝ゲイツ"
 source_ids:
   vndb: "c71013"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71013.webp"
 ---
 
-# 乌奥露索恩＝格伊津
+# ウォルソン＝ゲイツ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

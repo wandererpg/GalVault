@@ -5,7 +5,10 @@ display_title: "大泉明朗"
 title_zh: "大泉明朗"
 title_ja: "大泉 明朗"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c31753"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ooizumi Akino"
   - "大泉 明朗"

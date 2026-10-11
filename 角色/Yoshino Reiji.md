@@ -5,7 +5,10 @@ display_title: "芳乃零二"
 title_zh: "芳乃零二"
 title_ja: "芳乃 零二"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c6288"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yoshino Reiji"
   - "芳乃 零二"

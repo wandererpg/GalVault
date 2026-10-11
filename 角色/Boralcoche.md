@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c103886"
 type: "character"
-display_title: "博拉露子奥千伊"
-title_zh: "博拉露子奥千伊"
+display_title: "ボラルコーチイ"
+title_zh: ""
 title_ja: "ボラルコーチイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103886"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Boralcoche"
-  - "ボラルコーチイ"
 source_ids:
   vndb: "c103886"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c103886.webp"
 ---
 
-# 博拉露子奥千伊
+# ボラルコーチイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

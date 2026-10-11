@@ -5,7 +5,10 @@ display_title: "大泷九太"
 title_zh: "大泷九太"
 title_ja: "大滝 九太"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14279"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ootaki Kyuuta"
   - "大滝 九太"

@@ -5,7 +5,10 @@ display_title: "鹰白一夜"
 title_zh: "鹰白一夜"
 title_ja: "鷹白 一夜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c85687"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takashiro Maya"
   - "鷹白 一夜"

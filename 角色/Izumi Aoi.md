@@ -5,7 +5,10 @@ display_title: "和泉葵"
 title_zh: "和泉葵"
 title_ja: "和泉 葵"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c36323"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Izumi Aoi"
   - "和泉 葵"

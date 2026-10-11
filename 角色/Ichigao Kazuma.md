@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c145920"
 type: "character"
-display_title: "一惠尾一磨"
-title_zh: "一惠尾一磨"
+display_title: "一ヶ尾 一磨"
+title_zh: ""
 title_ja: "一ヶ尾 一磨"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c145920"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ichigao Kazuma"
-  - "一ヶ尾 一磨"
 source_ids:
   vndb: "c145920"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c145920.webp"
 ---
 
-# 一惠尾一磨
+# 一ヶ尾 一磨
 
 
 ## 角色画像

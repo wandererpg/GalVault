@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c25923"
 type: "character"
-display_title: "蕾V伊阿洛奥古拉伊阿"
-title_zh: "蕾V伊阿洛奥古拉伊阿"
+display_title: "レヴィア・ローグライア"
+title_zh: ""
 title_ja: "レヴィア・ローグライア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c25923"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Levia Lograia"
-  - "レヴィア・ローグライア"
 source_ids:
   vndb: "c25923"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c25923.webp"
 ---
 
-# 蕾V伊阿洛奥古拉伊阿
+# レヴィア・ローグライア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c78097"
 type: "character"
-display_title: "芙拉恩·MK-69"
-title_zh: "芙拉恩·MK-69"
+display_title: "フラン Mk-69"
+title_zh: ""
 title_ja: "フラン Mk-69"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c78097"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Fran Mk-69"
-  - "フラン Mk-69"
   - "Fran"
 source_ids:
   vndb: "c78097"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c78097.webp"
 ---
 
-# 芙拉恩·MK-69
+# フラン Mk-69
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

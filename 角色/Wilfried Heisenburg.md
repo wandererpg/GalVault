@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17790"
 type: "character"
-display_title: "V伊露芙莉伊斗羽伊泽恩贝露久"
-title_zh: "V伊露芙莉伊斗羽伊泽恩贝露久"
+display_title: "ヴィルフリート・ハイゼンベルク"
+title_zh: ""
 title_ja: "ヴィルフリート・ハイゼンベルク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17790"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Wilfried Heisenburg"
-  - "ヴィルフリート・ハイゼンベルク"
   - "Wilfried Heisenberg"
 source_ids:
   vndb: "c17790"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c17790.webp"
 ---
 
-# V伊露芙莉伊斗羽伊泽恩贝露久
+# ヴィルフリート・ハイゼンベルク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

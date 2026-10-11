@@ -5,7 +5,10 @@ display_title: "浅仓和树"
 title_zh: "浅仓和树"
 title_ja: "浅倉 和樹"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c94667"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Asakura Kazuki"
   - "浅倉 和樹"

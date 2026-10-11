@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c159969"
 type: "character"
-display_title: "祖母"
-title_zh: "祖母"
+display_title: "奶奶"
+title_zh: "奶奶"
 title_ja: "奶奶"
-title_zh_quality: "glossary"
-title_status: "machine_generated"
+title_zh_quality: "converted_original"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c159969"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "grandmother"
-  - "奶奶"
 source_ids:
   vndb: "c159969"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c159969.webp"
 ---
 
-# 祖母
+# 奶奶
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

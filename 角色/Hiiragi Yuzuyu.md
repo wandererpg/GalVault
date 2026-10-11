@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16556"
 type: "character"
-display_title: "柊优兹优"
-title_zh: "柊优兹优"
+display_title: "柊 ゆずゆ"
+title_zh: ""
 title_ja: "柊 ゆずゆ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16556"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hiiragi Yuzuyu"
-  - "柊 ゆずゆ"
 source_ids:
   vndb: "c16556"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c16556.webp"
 ---
 
-# 柊优兹优
+# 柊 ゆずゆ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

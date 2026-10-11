@@ -5,7 +5,10 @@ display_title: "仲手川盛近"
 title_zh: "仲手川盛近"
 title_ja: "仲手川 盛近"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c163251"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nakategawa Morichika"
   - "仲手川 盛近"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c94482"
 type: "character"
-display_title: "千贝T太巴乌"
-title_zh: "千贝T太巴乌"
+display_title: "チベッタ・バウ"
+title_zh: ""
 title_ja: "チベッタ・バウ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94482"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Civetta Vow"
-  - "チベッタ・バウ"
 source_ids:
   vndb: "c94482"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c94482.webp"
 ---
 
-# 千贝T太巴乌
+# チベッタ・バウ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

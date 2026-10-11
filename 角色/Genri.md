@@ -5,7 +5,10 @@ display_title: "言里"
 title_zh: "言里"
 title_ja: "言裏"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2880"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Genri"
   - "言裏"

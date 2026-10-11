@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c76008"
 type: "character"
-display_title: "阿恩德露濑恩"
-title_zh: "阿恩德露濑恩"
+display_title: "アンデルセン"
+title_zh: ""
 title_ja: "アンデルセン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c76008"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Andersen"
-  - "アンデルセン"
   - "Hans Christian Andersen"
   - "ハンス・クリスチャン・アンデルセン"
   - "アン（ちゃん）[Eito, Tale]"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c76008.webp"
 ---
 
-# 阿恩德露濑恩
+# アンデルセン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

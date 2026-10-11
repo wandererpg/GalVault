@@ -5,7 +5,10 @@ display_title: "樱内樱姫"
 title_zh: "樱内樱姫"
 title_ja: "桜内 桜姫"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c30254"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakurai Yuuki"
   - "桜内 桜姫"

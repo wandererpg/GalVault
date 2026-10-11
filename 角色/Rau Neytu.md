@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c149999"
 type: "character"
-display_title: "拉乌·音YT乌"
-title_zh: "拉乌·音YT乌"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Rau Neytu"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149999"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Rau Neytu"
   - "The Awakened"
   - "Tutu"
 source_ids:
@@ -15,7 +17,7 @@ source_urls:
   vndb: "https://vndb.org/c149999"
 ---
 
-# 拉乌·音YT乌
+# Rau Neytu
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

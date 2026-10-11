@@ -5,7 +5,10 @@ display_title: "保安队中尉"
 title_zh: "保安队中尉"
 title_ja: "保安隊中尉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43688"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Stasi Lieutenant"
   - "保安隊中尉"

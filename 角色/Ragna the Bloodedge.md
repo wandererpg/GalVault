@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c25638"
 type: "character"
-display_title: "拉古奈扎布拉D堂惠J吉"
-title_zh: "拉古奈扎布拉D堂惠J吉"
+display_title: "ラグナ゠ザ゠ブラッドエッジ"
+title_zh: ""
 title_ja: "ラグナ゠ザ゠ブラッドエッジ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c25638"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ragna the Bloodedge"
-  - "ラグナ゠ザ゠ブラッドエッジ"
   - "Good Guy"
   - "Shinigami"
   - "SS-Class Criminal"
@@ -22,7 +24,7 @@ source_urls:
 portrait_image: "assets/characters/c25638.webp"
 ---
 
-# 拉古奈扎布拉D堂惠J吉
+# ラグナ゠ザ゠ブラッドエッジ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

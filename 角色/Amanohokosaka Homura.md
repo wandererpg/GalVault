@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c44458"
 type: "character"
-display_title: "天乃矛坂焰"
-title_zh: "天乃矛坂焰"
+display_title: "天ノ矛坂 焔"
+title_zh: ""
 title_ja: "天ノ矛坂 焔"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c44458"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Amanohokosaka Homura"
-  - "天ノ矛坂 焔"
 source_ids:
   vndb: "c44458"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c44458.webp"
 ---
 
-# 天乃矛坂焰
+# 天ノ矛坂 焔
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

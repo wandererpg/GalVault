@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c155430"
 type: "character"
-display_title: "V阿L惠莉惠·D拉V惠恩"
-title_zh: "V阿L惠莉惠·D拉V惠恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Valerie Draven"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155430"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Valerie Draven"
   - "Val"
 source_ids:
   vndb: "c155430"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c155430.webp"
 ---
 
-# V阿L惠莉惠·D拉V惠恩
+# Valerie Draven
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

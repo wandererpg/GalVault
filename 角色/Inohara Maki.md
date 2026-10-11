@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c59707"
 type: "character"
-display_title: "井乃原真纪"
-title_zh: "井乃原真纪"
+display_title: "井ノ原 真紀"
+title_zh: ""
 title_ja: "井ノ原 真紀"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c59707"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Inohara Maki"
-  - "井ノ原 真紀"
   - "Bucks"
   - "Makster"
   - "Overkill"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c59707.webp"
 ---
 
-# 井乃原真纪
+# 井ノ原 真紀
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

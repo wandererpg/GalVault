@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c85398"
 type: "character"
-display_title: "沙乌莉"
-title_zh: "沙乌莉"
+display_title: "サウリ"
+title_zh: ""
 title_ja: "サウリ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85398"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sauli"
-  - "サウリ"
 source_ids:
   vndb: "c85398"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c85398.webp"
 ---
 
-# 沙乌莉
+# サウリ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

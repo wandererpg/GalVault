@@ -5,7 +5,10 @@ display_title: "云轮院凛"
 title_zh: "云轮院凛"
 title_ja: "雲輪院 凛"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c127184"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Unrin'in Rin"
   - "雲輪院 凛"

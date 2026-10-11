@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c127450"
 type: "character"
-display_title: "蕾PL伊C阿恩T"
-title_zh: "蕾PL伊C阿恩T"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Replicant"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127450"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Replicant"
 source_ids:
   vndb: "c127450"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c127450.webp"
 ---
 
-# 蕾PL伊C阿恩T
+# Replicant
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

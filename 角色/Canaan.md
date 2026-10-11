@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c74792"
 type: "character"
-display_title: "加奈恩"
-title_zh: "加奈恩"
+display_title: "カナン"
+title_zh: ""
 title_ja: "カナン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c74792"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Canaan"
-  - "カナン"
 source_ids:
   vndb: "c74792"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c74792.webp"
 ---
 
-# 加奈恩
+# カナン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

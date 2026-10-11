@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13045"
 type: "character"
-display_title: "拉阿堂露芙修奈伊泽恩"
-title_zh: "拉阿堂露芙修奈伊泽恩"
+display_title: "ラードルフ・シュナイゼン"
+title_zh: ""
 title_ja: "ラードルフ・シュナイゼン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13045"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Radolf Schneizen"
-  - "ラードルフ・シュナイゼン"
   - "Radolf Schnaizen"
 source_ids:
   vndb: "c13045"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c13045.webp"
 ---
 
-# 拉阿堂露芙修奈伊泽恩
+# ラードルフ・シュナイゼン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

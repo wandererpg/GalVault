@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c141364"
 type: "character"
-display_title: "H乌奈R"
-title_zh: "H乌奈R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Hunar"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141364"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Hunar"
 source_ids:
   vndb: "c141364"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c141364.webp"
 ---
 
-# H乌奈R
+# Hunar
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

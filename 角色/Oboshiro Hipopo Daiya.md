@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17717"
 type: "character"
-display_title: "胧白日波波金刚石"
-title_zh: "胧白日波波金刚石"
+display_title: "朧白・ヒポポ・金剛石"
+title_zh: ""
 title_ja: "朧白・ヒポポ・金剛石"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17717"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Oboshiro Hipopo Daiya"
-  - "朧白・ヒポポ・金剛石"
 source_ids:
   vndb: "c17717"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c17717.webp"
 ---
 
-# 胧白日波波金刚石
+# 朧白・ヒポポ・金剛石
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

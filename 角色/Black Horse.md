@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61229"
 type: "character"
-display_title: "布拉K久穗奥寿"
-title_zh: "布拉K久穗奥寿"
+display_title: "ブラックホース"
+title_zh: ""
 title_ja: "ブラックホース"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61229"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Black Horse"
-  - "ブラックホース"
 source_ids:
   vndb: "c61229"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61229.webp"
 ---
 
-# 布拉K久穗奥寿
+# ブラックホース
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c136585"
 type: "character"
-display_title: "拉比阿H"
-title_zh: "拉比阿H"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Rabiah"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136585"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Rabiah"
 source_ids:
   vndb: "c136585"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c136585.webp"
 ---
 
-# 拉比阿H
+# Rabiah
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

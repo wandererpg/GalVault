@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c122015"
 type: "character"
-display_title: "加伊·莫恩特阿悟"
-title_zh: "加伊·莫恩特阿悟"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Kai Monteago"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c122015"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Kai Monteago"
   - "Ultimate Influencer"
 source_ids:
   vndb: "c122015"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c122015.webp"
 ---
 
-# 加伊·莫恩特阿悟
+# Kai Monteago
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

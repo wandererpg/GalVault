@@ -5,7 +5,10 @@ display_title: "今川雷蝶"
 title_zh: "今川雷蝶"
 title_ja: "今川 雷蝶"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21165"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Imagawa Raichou"
   - "今川 雷蝶"

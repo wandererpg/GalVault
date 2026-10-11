@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c167311"
 type: "character"
-display_title: "莉恩修和露津"
-title_zh: "莉恩修和露津"
+display_title: "リン・シュワルツ"
+title_zh: ""
 title_ja: "リン・シュワルツ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c167311"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ring Schwartz"
-  - "リン・シュワルツ"
 source_ids:
   vndb: "c167311"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c167311.webp"
 ---
 
-# 莉恩修和露津
+# リン・シュワルツ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

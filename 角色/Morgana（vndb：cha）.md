@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c48420"
 type: "character"
-display_title: "莫露雅阿奈"
-title_zh: "莫露雅阿奈"
+display_title: "モルガーナ"
+title_zh: ""
 title_ja: "モルガーナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c48420"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Morgana"
-  - "モルガーナ"
 source_ids:
   vndb: "c48420"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c48420.webp"
 ---
 
-# 莫露雅阿奈
+# モルガーナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

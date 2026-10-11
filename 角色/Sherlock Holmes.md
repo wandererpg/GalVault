@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c21488"
 type: "character"
-display_title: "夏阿洛K久穗奥梦兹"
-title_zh: "夏阿洛K久穗奥梦兹"
+display_title: "シャーロック・ホームズ"
+title_zh: ""
 title_ja: "シャーロック・ホームズ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c21488"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sherlock Holmes"
-  - "シャーロック・ホームズ"
   - "Daddy"
   - "Hurley"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c21488.webp"
 ---
 
-# 夏阿洛K久穗奥梦兹
+# シャーロック・ホームズ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

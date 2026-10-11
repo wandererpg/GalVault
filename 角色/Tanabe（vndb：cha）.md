@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c140679"
 type: "character"
-display_title: "太奈贝"
-title_zh: "太奈贝"
+display_title: "タナベ"
+title_zh: ""
 title_ja: "タナベ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c140679"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tanabe"
-  - "タナベ"
 source_ids:
   vndb: "c140679"
 source_urls:
   vndb: "https://vndb.org/c140679"
 ---
 
-# 太奈贝
+# タナベ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

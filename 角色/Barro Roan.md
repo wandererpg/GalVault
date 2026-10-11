@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c72121"
 type: "character"
-display_title: "巴阿洛洛奥恩"
-title_zh: "巴阿洛洛奥恩"
+display_title: "バーロ・ローン"
+title_zh: ""
 title_ja: "バーロ・ローン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c72121"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Barro Roan"
-  - "バーロ・ローン"
 source_ids:
   vndb: "c72121"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c72121.webp"
 ---
 
-# 巴阿洛洛奥恩
+# バーロ・ローン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

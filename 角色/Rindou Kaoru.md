@@ -5,7 +5,10 @@ display_title: "凛堂香"
 title_zh: "凛堂香"
 title_ja: "凛堂 香"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c83406"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Rindou Kaoru"
   - "凛堂 香"

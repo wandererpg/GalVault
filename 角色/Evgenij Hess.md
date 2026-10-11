@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c118631"
 type: "character"
-display_title: "惠芙格尼·惠寿"
-title_zh: "惠芙格尼·惠寿"
+display_title: "エフゲニ ヘス"
+title_zh: ""
 title_ja: "エフゲニ ヘス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c118631"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Evgenij Hess"
-  - "エフゲニ ヘス"
 source_ids:
   vndb: "c118631"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c118631.webp"
 ---
 
-# 惠芙格尼·惠寿
+# エフゲニ ヘス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

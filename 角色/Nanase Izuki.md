@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c41639"
 type: "character"
-display_title: "奈奈濑伊兹希"
-title_zh: "奈奈濑伊兹希"
+display_title: "ナナセ・イヅキ"
+title_zh: ""
 title_ja: "ナナセ・イヅキ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c41639"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nanase Izuki"
-  - "ナナセ・イヅキ"
   - "Nana, Izu"
 source_ids:
   vndb: "c41639"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c41639.webp"
 ---
 
-# 奈奈濑伊兹希
+# ナナセ・イヅキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

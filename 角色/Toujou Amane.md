@@ -5,7 +5,10 @@ display_title: "刀条天音"
 title_zh: "刀条天音"
 title_ja: "刀條 天音"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c23385"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Toujou Amane"
   - "刀條 天音"

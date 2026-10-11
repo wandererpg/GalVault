@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127166"
 type: "character"
-display_title: "牧场野芽古"
-title_zh: "牧场野芽古"
+display_title: "牧場野 メグ"
+title_zh: ""
 title_ja: "牧場野 メグ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127166"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Makibano Meg"
-  - "牧場野 メグ"
 source_ids:
   vndb: "c127166"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c127166.webp"
 ---
 
-# 牧场野芽古
+# 牧場野 メグ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

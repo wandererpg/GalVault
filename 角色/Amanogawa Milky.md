@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c121767"
 type: "character"
-display_title: "天乃川美露希伊"
-title_zh: "天乃川美露希伊"
+display_title: "天ノ川 ミルキィ"
+title_zh: ""
 title_ja: "天ノ川 ミルキィ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c121767"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Amanogawa Milky"
-  - "天ノ川 ミルキィ"
 source_ids:
   vndb: "c121767"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c121767.webp"
 ---
 
-# 天乃川美露希伊
+# 天ノ川 ミルキィ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

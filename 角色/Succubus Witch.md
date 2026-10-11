@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126173"
 type: "character"
-display_title: "乌伊T千沙久巴寿"
-title_zh: "乌伊T千沙久巴寿"
+display_title: "ウィッチサキュバス"
+title_zh: ""
 title_ja: "ウィッチサキュバス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126173"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Succubus Witch"
-  - "ウィッチサキュバス"
   - "Soothsayer"
   - "Witch"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c126173.webp"
 ---
 
-# 乌伊T千沙久巴寿
+# ウィッチサキュバス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

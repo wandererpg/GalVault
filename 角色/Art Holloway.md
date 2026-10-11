@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159496"
 type: "character"
-display_title: "阿RT·穗LL奥和Y"
-title_zh: "阿RT·穗LL奥和Y"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Art Holloway"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159496"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Art Holloway"
 source_ids:
   vndb: "c159496"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c159496.webp"
 ---
 
-# 阿RT·穗LL奥和Y
+# Art Holloway
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

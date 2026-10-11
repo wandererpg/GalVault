@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43511"
 type: "character"
-display_title: "雅乌露格伊拉"
-title_zh: "雅乌露格伊拉"
+display_title: "ガウ・ルゲイラ"
+title_zh: ""
 title_ja: "ガウ・ルゲイラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43511"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gau Rugeila"
-  - "ガウ・ルゲイラ"
   - "Balstein's Mad Dog"
 source_ids:
   vndb: "c43511"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c43511.webp"
 ---
 
-# 雅乌露格伊拉
+# ガウ・ルゲイラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "风砚"
 title_zh: "风砚"
 title_ja: "风砚"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c137014"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yan Feng"
   - "O' Connor"

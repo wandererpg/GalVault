@@ -5,7 +5,10 @@ display_title: "琴寄文乃"
 title_zh: "琴寄文乃"
 title_ja: "琴寄 文乃"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c81733"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kotoyose Fumino"
   - "琴寄 文乃"

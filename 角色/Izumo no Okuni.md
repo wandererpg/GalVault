@@ -5,7 +5,10 @@ display_title: "出云阿国"
 title_zh: "出云阿国"
 title_ja: "出雲 阿国"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c41025"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Izumo no Okuni"
   - "出雲 阿国"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87049"
 type: "character"
-display_title: "羽洛露堂寿佩恩沙阿"
-title_zh: "羽洛露堂寿佩恩沙阿"
+display_title: "ハロルド・スペンサー"
+title_zh: ""
 title_ja: "ハロルド・スペンサー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87049"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Harold Spencer"
-  - "ハロルド・スペンサー"
 source_ids:
   vndb: "c87049"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c87049.webp"
 ---
 
-# 羽洛露堂寿佩恩沙阿
+# ハロルド・スペンサー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

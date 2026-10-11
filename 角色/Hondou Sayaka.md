@@ -5,7 +5,10 @@ display_title: "本堂沙也加"
 title_zh: "本堂沙也加"
 title_ja: "本堂 沙也加"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c42506"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hondou Sayaka"
   - "本堂 沙也加"

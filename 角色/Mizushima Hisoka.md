@@ -5,7 +5,10 @@ display_title: "水岛密"
 title_zh: "水岛密"
 title_ja: "水島 密"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1288"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mizushima Hisoka"
   - "水島 密"

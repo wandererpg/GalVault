@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c113555"
 type: "character"
-display_title: "莫露太阿美露巴阿斗恩"
-title_zh: "莫露太阿美露巴阿斗恩"
+display_title: "モルター・ミルバートン"
+title_zh: ""
 title_ja: "モルター・ミルバートン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c113555"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Molter Milverton"
-  - "モルター・ミルバートン"
   - "\"Thrice-Fired\" Mason"
   - "Mortar Milverton (EN fanTL)"
   - "三度焼きのモルター"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c113555.webp"
 ---
 
-# 莫露太阿美露巴阿斗恩
+# モルター・ミルバートン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

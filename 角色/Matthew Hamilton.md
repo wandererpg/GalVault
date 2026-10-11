@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c829"
 type: "character"
-display_title: "真修乌羽美露斗恩"
-title_zh: "真修乌羽美露斗恩"
+display_title: "マシュー・ハミルトン"
+title_zh: ""
 title_ja: "マシュー・ハミルトン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c829"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Matthew Hamilton"
-  - "マシュー・ハミルトン"
 source_ids:
   vndb: "c829"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c829.webp"
 ---
 
-# 真修乌羽美露斗恩
+# マシュー・ハミルトン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

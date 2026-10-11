@@ -5,7 +5,10 @@ display_title: "七濑俊之"
 title_zh: "七濑俊之"
 title_ja: "七瀬 俊之"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c105853"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nanase Toshiyuki"
   - "七瀬 俊之"

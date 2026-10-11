@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c112190"
 type: "character"
-display_title: "露西·L奥恩G"
-title_zh: "露西·L奥恩G"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Lucy Long"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c112190"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Lucy Long"
 source_ids:
   vndb: "c112190"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c112190.webp"
 ---
 
-# 露西·L奥恩G
+# Lucy Long
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

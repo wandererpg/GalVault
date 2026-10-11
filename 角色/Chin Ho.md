@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c149900"
 type: "character"
-display_title: "千恩穗奥"
-title_zh: "千恩穗奥"
+display_title: "チン・ホー"
+title_zh: ""
 title_ja: "チン・ホー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149900"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chin Ho"
-  - "チン・ホー"
   - "Chin Po (チン・ポ)"
 source_ids:
   vndb: "c149900"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c149900.webp"
 ---
 
-# 千恩穗奥
+# チン・ホー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

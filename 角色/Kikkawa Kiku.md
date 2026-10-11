@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c2875"
 type: "character"
-display_title: "吉川希久"
-title_zh: "吉川希久"
+display_title: "吉川 きく"
+title_zh: ""
 title_ja: "吉川 きく"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c2875"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kikkawa Kiku"
-  - "吉川 きく"
 source_ids:
   vndb: "c2875"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c2875.webp"
 ---
 
-# 吉川希久
+# 吉川 きく
 
 
 ## 角色画像

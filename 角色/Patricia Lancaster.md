@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10118"
 type: "character"
-display_title: "帕斗莉诗阿拉恩加寿太阿"
-title_zh: "帕斗莉诗阿拉恩加寿太阿"
+display_title: "パトリシア・ランカスター"
+title_zh: ""
 title_ja: "パトリシア・ランカスター"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10118"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Patricia Lancaster"
-  - "パトリシア・ランカスター"
 source_ids:
   vndb: "c10118"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c10118.webp"
 ---
 
-# 帕斗莉诗阿拉恩加寿太阿
+# パトリシア・ランカスター
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

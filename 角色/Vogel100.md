@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c95769"
 type: "character"
-display_title: "V奥格L"
-title_zh: "V奥格L"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Vogel100"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c95769"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Vogel100"
 source_ids:
   vndb: "c95769"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c95769.webp"
 ---
 
-# V奥格L
+# Vogel100
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

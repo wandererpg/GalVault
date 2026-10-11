@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c155029"
 type: "character"
-display_title: "伊诗寿"
-title_zh: "伊诗寿"
+display_title: "イシス"
+title_zh: ""
 title_ja: "イシス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155029"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Isis"
-  - "イシス"
 source_ids:
   vndb: "c155029"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c155029.webp"
 ---
 
-# 伊诗寿
+# イシス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

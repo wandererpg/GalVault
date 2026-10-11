@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c138183"
 type: "character"
-display_title: "帕伊格·F阿WKS"
-title_zh: "帕伊格·F阿WKS"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Paige Fawks"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138183"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Paige Fawks"
   - "Drunk Paige"
 source_ids:
   vndb: "c138183"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c138183.webp"
 ---
 
-# 帕伊格·F阿WKS
+# Paige Fawks
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

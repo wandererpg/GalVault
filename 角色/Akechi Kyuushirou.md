@@ -5,7 +5,10 @@ display_title: "明智久司朗"
 title_zh: "明智久司朗"
 title_ja: "明智 久司朗"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10120"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Akechi Kyuushirou"
   - "明智 久司朗"

@@ -5,7 +5,10 @@ display_title: "山田阳南"
 title_zh: "山田阳南"
 title_ja: "山田 陽南"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c40128"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yamada Hinami"
   - "山田 陽南"

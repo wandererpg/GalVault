@@ -5,7 +5,10 @@ display_title: "榊原由里"
 title_zh: "榊原由里"
 title_ja: "榊原 由里"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c123612"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakakibara Yuri"
   - "榊原 由里"

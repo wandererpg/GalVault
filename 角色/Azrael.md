@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c31491"
 type: "character"
-display_title: "阿兹拉惠露"
-title_zh: "阿兹拉惠露"
+display_title: "アズラエル"
+title_zh: ""
 title_ja: "アズラエル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c31491"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Azrael"
-  - "アズラエル"
   - "Mad Dog"
   - "He Who Carries Death"
   - "Deathbringer from Sector Seven"
@@ -22,7 +24,7 @@ source_urls:
 portrait_image: "assets/characters/c31491.webp"
 ---
 
-# 阿兹拉惠露
+# アズラエル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

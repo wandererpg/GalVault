@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c41972"
 type: "character"
-display_title: "狭间惠莉"
-title_zh: "狭间惠莉"
+display_title: "狭間 エリ"
+title_zh: ""
 title_ja: "狭間 エリ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c41972"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hazama Eri"
-  - "狭間 エリ"
 source_ids:
   vndb: "c41972"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c41972.webp"
 ---
 
-# 狭间惠莉
+# 狭間 エリ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

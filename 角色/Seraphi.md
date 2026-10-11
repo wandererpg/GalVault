@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c158875"
 type: "character"
-display_title: "濑拉F伊伊"
-title_zh: "濑拉F伊伊"
+display_title: "セラフィー"
+title_zh: ""
 title_ja: "セラフィー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c158875"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Seraphi"
-  - "セラフィー"
 source_ids:
   vndb: "c158875"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c158875.webp"
 ---
 
-# 濑拉F伊伊
+# セラフィー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

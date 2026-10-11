@@ -5,7 +5,10 @@ display_title: "野村朝"
 title_zh: "野村朝"
 title_ja: "野村 朝"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c131946"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nomura Asa"
   - "野村 朝"

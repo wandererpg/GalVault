@@ -5,7 +5,10 @@ display_title: "鹰峰葵"
 title_zh: "鹰峰葵"
 title_ja: "鷹峰 葵"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c84015"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takamine Aoi"
   - "鷹峰 葵"

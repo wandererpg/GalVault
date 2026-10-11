@@ -5,7 +5,10 @@ display_title: "沙耶"
 title_zh: "沙耶"
 title_ja: "沙耶"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c66"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Saya"
 source_ids:

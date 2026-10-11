@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c31752"
 type: "character"
-display_title: "堂美尼奥恩乃巫女"
-title_zh: "堂美尼奥恩乃巫女"
+display_title: "ドミニオンの巫女"
+title_zh: ""
 title_ja: "ドミニオンの巫女"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c31752"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Dominion's Miko"
-  - "ドミニオンの巫女"
 source_ids:
   vndb: "c31752"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c31752.webp"
 ---
 
-# 堂美尼奥恩乃巫女
+# ドミニオンの巫女
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

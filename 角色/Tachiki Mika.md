@@ -5,7 +5,10 @@ display_title: "立木三日"
 title_zh: "立木三日"
 title_ja: "立木 三日"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c100258"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tachiki Mika"
   - "立木 三日"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126262"
 type: "character"
-display_title: "濑伊蕾惠恩"
-title_zh: "濑伊蕾惠恩"
+display_title: "セイレーン"
+title_zh: ""
 title_ja: "セイレーン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126262"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Siren"
-  - "セイレーン"
   - "Leene"
 source_ids:
   vndb: "c126262"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c126262.webp"
 ---
 
-# 濑伊蕾惠恩
+# セイレーン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

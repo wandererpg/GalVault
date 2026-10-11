@@ -5,7 +5,10 @@ display_title: "喜纳和子"
 title_zh: "喜纳和子"
 title_ja: "喜納 和子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c154185"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kinou Kazuko"
   - "喜納 和子"

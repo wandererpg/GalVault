@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c97693"
 type: "character"
-display_title: "加D伊阿·乃TT伊K"
-title_zh: "加D伊阿·乃TT伊K"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Kadia Nottik"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97693"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Kadia Nottik"
 source_ids:
   vndb: "c97693"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c97693.webp"
 ---
 
-# 加D伊阿·乃TT伊K
+# Kadia Nottik
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

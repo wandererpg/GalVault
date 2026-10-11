@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c121989"
 type: "character"
-display_title: "伊娃·津奈加"
-title_zh: "伊娃·津奈加"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Eva Tsunaka"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c121989"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Eva Tsunaka"
   - "Ultimate Liar"
   - "Ultimate Mathlete"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c121989.webp"
 ---
 
-# 伊娃·津奈加
+# Eva Tsunaka
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

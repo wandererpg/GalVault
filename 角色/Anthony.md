@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c139762"
 type: "character"
-display_title: "阿恩T穗恩Y"
-title_zh: "阿恩T穗恩Y"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Anthony"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c139762"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Anthony"
   - "Ant, Big A"
 source_ids:
   vndb: "c139762"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c139762.webp"
 ---
 
-# 阿恩T穗恩Y
+# Anthony
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

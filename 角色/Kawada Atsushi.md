@@ -5,7 +5,10 @@ display_title: "川田笃志"
 title_zh: "川田笃志"
 title_ja: "川田 篤志"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43864"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kawada Atsushi"
   - "川田 篤志"

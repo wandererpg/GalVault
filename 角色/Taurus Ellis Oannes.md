@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c117168"
 type: "character"
-display_title: "濑恩斗奥露惠莉寿奥阿恩音寿"
-title_zh: "濑恩斗奥露惠莉寿奥阿恩音寿"
+display_title: "セントール・エリス・オアンネス"
+title_zh: ""
 title_ja: "セントール・エリス・オアンネス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c117168"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Taurus Ellis Oannes"
-  - "セントール・エリス・オアンネス"
   - "都市職員"
   - "City Officer"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c117168.webp"
 ---
 
-# 濑恩斗奥露惠莉寿奥阿恩音寿
+# セントール・エリス・オアンネス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

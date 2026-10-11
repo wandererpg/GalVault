@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c44770"
 type: "character"
-display_title: "梦拉沙芽"
-title_zh: "梦拉沙芽"
+display_title: "ムラサメ"
+title_zh: ""
 title_ja: "ムラサメ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c44770"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Murasame"
-  - "ムラサメ"
   - "綾"
   - "Aya"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c44770.webp"
 ---
 
-# 梦拉沙芽
+# ムラサメ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

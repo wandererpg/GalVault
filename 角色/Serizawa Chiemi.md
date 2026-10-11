@@ -5,7 +5,10 @@ display_title: "芹泽千枝实"
 title_zh: "芹泽千枝实"
 title_ja: "芹沢 千枝実"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c87367"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Serizawa Chiemi"
   - "芹沢 千枝実"

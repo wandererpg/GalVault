@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c145663"
 type: "character"
-display_title: "大希伊颜"
-title_zh: "大希伊颜"
+display_title: "大きい顔"
+title_zh: ""
 title_ja: "大きい顔"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c145663"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mr. Hugeface"
-  - "大きい顔"
 source_ids:
   vndb: "c145663"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c145663.webp"
 ---
 
-# 大希伊颜
+# 大きい顔
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

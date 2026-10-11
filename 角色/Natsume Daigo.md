@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c163256"
 type: "character"
-display_title: "奈津芽·达伊悟"
-title_zh: "奈津芽·达伊悟"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Natsume Daigo"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c163256"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Natsume Daigo"
 source_ids:
   vndb: "c163256"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c163256.webp"
 ---
 
-# 奈津芽·达伊悟
+# Natsume Daigo
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

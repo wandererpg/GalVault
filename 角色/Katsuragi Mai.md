@@ -5,7 +5,10 @@ display_title: "葛城舞"
 title_zh: "葛城舞"
 title_ja: "葛城 舞"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c31056"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Katsuragi Mai"
   - "葛城 舞"

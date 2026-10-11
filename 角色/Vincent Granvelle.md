@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c161330"
 type: "character"
-display_title: "V伊恩濑恩斗·古拉恩V惠露"
-title_zh: "V伊恩濑恩斗·古拉恩V惠露"
+display_title: "ヴィンセント グランヴェル"
+title_zh: ""
 title_ja: "ヴィンセント グランヴェル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161330"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Vincent Granvelle"
-  - "ヴィンセント グランヴェル"
 source_ids:
   vndb: "c161330"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c161330.webp"
 ---
 
-# V伊恩濑恩斗·古拉恩V惠露
+# ヴィンセント グランヴェル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

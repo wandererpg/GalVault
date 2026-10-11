@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c97244"
 type: "character"
-display_title: "子恩真露雅莉恩"
-title_zh: "子恩真露雅莉恩"
+display_title: "コン・マルガリン"
+title_zh: ""
 title_ja: "コン・マルガリン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97244"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kon Margarin"
-  - "コン・マルガリン"
 source_ids:
   vndb: "c97244"
 source_urls:
   vndb: "https://vndb.org/c97244"
 ---
 
-# 子恩真露雅莉恩
+# コン・マルガリン
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

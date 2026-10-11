@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c11830"
 type: "character"
-display_title: "音奥恩寿加拉寿美莉雅"
-title_zh: "音奥恩寿加拉寿美莉雅"
+display_title: "ネオン・スカラ・スミリヤ"
+title_zh: ""
 title_ja: "ネオン・スカラ・スミリヤ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c11830"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Neon Scalar Smilja"
-  - "ネオン・スカラ・スミリヤ"
 source_ids:
   vndb: "c11830"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c11830.webp"
 ---
 
-# 音奥恩寿加拉寿美莉雅
+# ネオン・スカラ・スミリヤ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

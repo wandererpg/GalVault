@@ -5,7 +5,10 @@ display_title: "山吹九千代"
 title_zh: "山吹九千代"
 title_ja: "山吹 九千代"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c24527"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yamabuki Konochiyo"
   - "山吹 九千代"

@@ -5,7 +5,10 @@ display_title: "藤堂五月"
 title_zh: "藤堂五月"
 title_ja: "藤堂 五月"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43891"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Todou Satsuki"
   - "藤堂 五月"

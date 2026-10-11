@@ -5,7 +5,10 @@ display_title: "小笠原千花"
 title_zh: "小笠原千花"
 title_ja: "小笠原 千花"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9784"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ogasawara Chika"
   - "小笠原 千花"

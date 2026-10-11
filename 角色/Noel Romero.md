@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c149052"
 type: "character"
-display_title: "诺艾尔·洛芽洛"
-title_zh: "诺艾尔·洛芽洛"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Noel Romero"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149052"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Noel Romero"
 source_ids:
   vndb: "c149052"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c149052.webp"
 ---
 
-# 诺艾尔·洛芽洛
+# Noel Romero
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

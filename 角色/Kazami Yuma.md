@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c13524"
 type: "character"
-display_title: "加扎美·优真"
-title_zh: "加扎美·优真"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Kazami Yuma"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13524"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Kazami Yuma"
 source_ids:
   vndb: "c13524"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c13524.webp"
 ---
 
-# 加扎美·优真
+# Kazami Yuma
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

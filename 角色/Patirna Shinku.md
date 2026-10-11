@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c33472"
 type: "character"
-display_title: "帕特伊露奈诗恩久"
-title_zh: "帕特伊露奈诗恩久"
+display_title: "パティルナ・シンク"
+title_zh: ""
 title_ja: "パティルナ・シンク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33472"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Patirna Shinku"
-  - "パティルナ・シンク"
   - "パティ"
   - "Patty"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c33472.webp"
 ---
 
-# 帕特伊露奈诗恩久
+# パティルナ・シンク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

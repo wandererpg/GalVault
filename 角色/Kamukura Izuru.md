@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c52766"
 type: "character"
-display_title: "加梦久拉·伊兹露"
-title_zh: "加梦久拉·伊兹露"
+display_title: "カムクラ イズル"
+title_zh: ""
 title_ja: "カムクラ イズル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c52766"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kamukura Izuru"
-  - "カムクラ イズル"
   - "Ultimate Hope"
   - "超高校級の「希望」"
   - "Super High School Level Hope"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c52766.webp"
 ---
 
-# 加梦久拉·伊兹露
+# カムクラ イズル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

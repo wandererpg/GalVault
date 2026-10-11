@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c48679"
 type: "character"
-display_title: "P羽R真C伊ST"
-title_zh: "P羽R真C伊ST"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Pharmacist"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c48679"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Pharmacist"
 source_ids:
   vndb: "c48679"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c48679.webp"
 ---
 
-# P羽R真C伊ST
+# Pharmacist
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c56357"
 type: "character"
-display_title: "奥露雅"
-title_zh: "奥露雅"
+display_title: "オルガ"
+title_zh: ""
 title_ja: "オルガ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56357"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Olgar"
-  - "オルガ"
   - "Olga"
 source_ids:
   vndb: "c56357"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c56357.webp"
 ---
 
-# 奥露雅
+# オルガ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

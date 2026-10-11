@@ -5,7 +5,10 @@ display_title: "二孤崎璃恋"
 title_zh: "二孤崎璃恋"
 title_ja: "二孤崎 璃恋"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c48549"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nikozaki Riko"
   - "二孤崎 璃恋"

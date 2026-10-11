@@ -5,7 +5,10 @@ display_title: "凰火朱鹭"
 title_zh: "凰火朱鹭"
 title_ja: "凰火 朱鷺"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c12240"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ouka Toki"
   - "凰火 朱鷺"

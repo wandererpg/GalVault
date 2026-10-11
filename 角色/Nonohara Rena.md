@@ -5,7 +5,10 @@ display_title: "野乃原丽奈"
 title_zh: "野乃原丽奈"
 title_ja: "野乃原 麗奈"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c24387"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nonohara Rena"
   - "野乃原 麗奈"

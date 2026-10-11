@@ -5,7 +5,10 @@ display_title: "芦名盛隆"
 title_zh: "芦名盛隆"
 title_ja: "蘆名 盛隆"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c31610"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ashina Moritaka"
   - "蘆名 盛隆"

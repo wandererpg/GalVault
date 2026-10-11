@@ -5,7 +5,10 @@ display_title: "出水和琴"
 title_zh: "出水和琴"
 title_ja: "出水 和琴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c12592"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Izumi Wakoto"
   - "出水 和琴"

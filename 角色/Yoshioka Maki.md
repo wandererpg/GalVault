@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c22315"
 type: "character"
-display_title: "吉冈真希"
-title_zh: "吉冈真希"
+display_title: "吉岡 マキ"
+title_zh: ""
 title_ja: "吉岡 マキ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c22315"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yoshioka Maki"
-  - "吉岡 マキ"
 source_ids:
   vndb: "c22315"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c22315.webp"
 ---
 
-# 吉冈真希
+# 吉岡 マキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

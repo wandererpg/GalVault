@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c124614"
 type: "character"
-display_title: "灯野阿雅芽"
-title_zh: "灯野阿雅芽"
+display_title: "灯野 あやめ"
+title_zh: ""
 title_ja: "灯野 あやめ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124614"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Touno Ayame"
-  - "灯野 あやめ"
   - "Ayame Tsutsumi (formerly)"
   - "津詰 あやめ"
   - "Tsutsumi Ayame (formerly)"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c124614.webp"
 ---
 
-# 灯野阿雅芽
+# 灯野 あやめ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

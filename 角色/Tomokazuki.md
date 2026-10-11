@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c164773"
 type: "character"
-display_title: "斗莫加兹希"
-title_zh: "斗莫加兹希"
+display_title: "トモカヅキ"
+title_zh: ""
 title_ja: "トモカヅキ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c164773"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tomokazuki"
-  - "トモカヅキ"
   - "Yuza Minakuchi"
   - "水口 勇佐"
   - "Minakuchi Yuza"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c164773.webp"
 ---
 
-# 斗莫加兹希
+# トモカヅキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "向果纯"
 title_zh: "向果纯"
 title_ja: "向 果純"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c106851"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mukai Kasumi"
   - "向 果純"

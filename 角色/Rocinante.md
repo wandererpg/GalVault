@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c72166"
 type: "character"
-display_title: "洛诗奈恩特"
-title_zh: "洛诗奈恩特"
+display_title: "ロシナンテ"
+title_zh: ""
 title_ja: "ロシナンテ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c72166"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rocinante"
-  - "ロシナンテ"
 source_ids:
   vndb: "c72166"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c72166.webp"
 ---
 
-# 洛诗奈恩特
+# ロシナンテ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c24459"
 type: "character"
-display_title: "津巴希"
-title_zh: "津巴希"
+display_title: "ツバキ"
+title_zh: ""
 title_ja: "ツバキ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c24459"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tsubaki"
-  - "ツバキ"
   - "Blue Lightning's Silver Yasha"
   - "Bluebolt Yakshini"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c24459.webp"
 ---
 
-# 津巴希
+# ツバキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

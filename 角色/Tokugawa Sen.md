@@ -5,7 +5,10 @@ display_title: "德川千"
 title_zh: "德川千"
 title_ja: "徳川 千"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2868"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tokugawa Sen"
   - "徳川 千"

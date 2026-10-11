@@ -5,7 +5,10 @@ display_title: "中濑克美"
 title_zh: "中濑克美"
 title_ja: "中瀬 克美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c38157"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nakase Katsumi"
   - "中瀬 克美"

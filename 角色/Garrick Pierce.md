@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c127696"
 type: "character"
-display_title: "雅R莉CK·皮惠RC惠"
-title_zh: "雅R莉CK·皮惠RC惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Garrick Pierce"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127696"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Garrick Pierce"
 source_ids:
   vndb: "c127696"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c127696.webp"
 ---
 
-# 雅R莉CK·皮惠RC惠
+# Garrick Pierce
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

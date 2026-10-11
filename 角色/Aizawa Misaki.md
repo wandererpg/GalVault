@@ -5,7 +5,10 @@ display_title: "相泽美绮"
 title_zh: "相泽美绮"
 title_ja: "相沢 美綺"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c772"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Aizawa Misaki"
   - "相沢 美綺"

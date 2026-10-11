@@ -5,7 +5,10 @@ display_title: "藤井莲"
 title_zh: "藤井莲"
 title_ja: "藤井 蓮"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c22060"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fujii Ren"
   - "藤井 蓮"

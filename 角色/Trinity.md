@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126897"
 type: "character"
-display_title: "斗莉尼特伊"
-title_zh: "斗莉尼特伊"
+display_title: "トリニティ"
+title_zh: ""
 title_ja: "トリニティ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126897"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Trinity"
-  - "トリニティ"
 source_ids:
   vndb: "c126897"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c126897.webp"
 ---
 
-# 斗莉尼特伊
+# トリニティ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

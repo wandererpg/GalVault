@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c56352"
 type: "character"
-display_title: "拉V阿恩"
-title_zh: "拉V阿恩"
+display_title: "ラヴァン"
+title_zh: ""
 title_ja: "ラヴァン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56352"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lavan"
-  - "ラヴァン"
 source_ids:
   vndb: "c56352"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c56352.webp"
 ---
 
-# 拉V阿恩
+# ラヴァン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

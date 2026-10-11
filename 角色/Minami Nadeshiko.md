@@ -5,7 +5,10 @@ display_title: "三波抚子"
 title_zh: "三波抚子"
 title_ja: "三波 撫子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c53001"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Minami Nadeshiko"
   - "三波 撫子"

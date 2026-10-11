@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c50947"
 type: "character"
-display_title: "伊惠莉子子洛恩"
-title_zh: "伊惠莉子子洛恩"
+display_title: "イェリコ・コロン"
+title_zh: ""
 title_ja: "イェリコ・コロン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c50947"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jericho Colon"
-  - "イェリコ・コロン"
   - "Jericho Choron"
 source_ids:
   vndb: "c50947"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c50947.webp"
 ---
 
-# 伊惠莉子子洛恩
+# イェリコ・コロン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c9490"
 type: "character"
-display_title: "大藏莉索奈"
-title_zh: "大藏莉索奈"
+display_title: "大蔵 りそな"
+title_zh: ""
 title_ja: "大蔵 りそな"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c9490"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ookura Resona"
-  - "大蔵 りそな"
   - "Ookura Risona"
   - "リソナ"
   - "大蔵 里想奈"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c9490.webp"
 ---
 
-# 大藏莉索奈
+# 大蔵 りそな
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

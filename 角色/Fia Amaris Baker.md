@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c164132"
 type: "character"
-display_title: "F伊阿·阿真莉S·巴惠R"
-title_zh: "F伊阿·阿真莉S·巴惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Fia Amaris Baker"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c164132"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Fia Amaris Baker"
 source_ids:
   vndb: "c164132"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c164132.webp"
 ---
 
-# F伊阿·阿真莉S·巴惠R
+# Fia Amaris Baker
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

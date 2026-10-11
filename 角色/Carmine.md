@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c52404"
 type: "character"
-display_title: "加阿真伊恩"
-title_zh: "加阿真伊恩"
+display_title: "カーマイン"
+title_zh: ""
 title_ja: "カーマイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c52404"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Carmine"
-  - "カーマイン"
 source_ids:
   vndb: "c52404"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c52404.webp"
 ---
 
-# 加阿真伊恩
+# カーマイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

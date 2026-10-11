@@ -5,7 +5,10 @@ display_title: "片冈源五右卫门"
 title_zh: "片冈源五右卫门"
 title_ja: "片岡 源五右衛門"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16545"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kataoka Gengoemon"
   - "片岡 源五右衛門"

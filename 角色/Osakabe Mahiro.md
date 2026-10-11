@@ -5,7 +5,10 @@ display_title: "刑部真寻"
 title_zh: "刑部真寻"
 title_ja: "刑部 真尋"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20685"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Osakabe Mahiro"
   - "刑部 真尋"

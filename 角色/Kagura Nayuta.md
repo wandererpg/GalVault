@@ -5,7 +5,10 @@ display_title: "神乐那由他"
 title_zh: "神乐那由他"
 title_ja: "神楽 那由他"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c13891"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kagura Nayuta"
   - "神楽 那由他"

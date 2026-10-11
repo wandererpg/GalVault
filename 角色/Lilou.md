@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c134178"
 type: "character"
-display_title: "莉露乌"
-title_zh: "莉露乌"
+display_title: "リルー"
+title_zh: ""
 title_ja: "リルー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c134178"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lilou"
-  - "リルー"
 source_ids:
   vndb: "c134178"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c134178.webp"
 ---
 
-# 莉露乌
+# リルー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

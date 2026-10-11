@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c3685"
 type: "character"
-display_title: "久洛阿巴阿特露"
-title_zh: "久洛阿巴阿特露"
+display_title: "クロア・バーテル"
+title_zh: ""
 title_ja: "クロア・バーテル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c3685"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Croix Bartel"
-  - "クロア・バーテル"
   - "Chroah Vatel"
 source_ids:
   vndb: "c3685"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c3685.webp"
 ---
 
-# 久洛阿巴阿特露
+# クロア・バーテル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

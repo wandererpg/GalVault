@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c52569"
 type: "character"
-display_title: "斗莉子莉"
-title_zh: "斗莉子莉"
+display_title: "トリコリ"
+title_zh: ""
 title_ja: "トリコリ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c52569"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Torikori"
-  - "トリコリ"
 source_ids:
   vndb: "c52569"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c52569.webp"
 ---
 
-# 斗莉子莉
+# トリコリ
 
 
 ## 角色画像

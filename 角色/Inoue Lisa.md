@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c147137"
 type: "character"
-display_title: "井上莉沙"
-title_zh: "井上莉沙"
+display_title: "井上 リサ"
+title_zh: ""
 title_ja: "井上 リサ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c147137"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Inoue Lisa"
-  - "井上 リサ"
 source_ids:
   vndb: "c147137"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c147137.webp"
 ---
 
-# 井上莉沙
+# 井上 リサ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

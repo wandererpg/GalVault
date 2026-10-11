@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c130103"
 type: "character"
-display_title: "凉子S·莫T惠R"
-title_zh: "凉子S·莫T惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ryoko's Mother"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c130103"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ryoko's Mother"
 source_ids:
   vndb: "c130103"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c130103.webp"
 ---
 
-# 凉子S·莫T惠R
+# Ryoko's Mother
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

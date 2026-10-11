@@ -5,7 +5,10 @@ display_title: "米田一基"
 title_zh: "米田一基"
 title_ja: "米田 一基"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c123609"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yoneda Ikki"
   - "米田 一基"

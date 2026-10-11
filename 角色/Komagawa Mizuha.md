@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c57810"
 type: "character"
-display_title: "驹川美兹羽"
-title_zh: "驹川美兹羽"
+display_title: "駒川 みづは"
+title_zh: ""
 title_ja: "駒川 みづは"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c57810"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Komagawa Mizuha"
-  - "駒川 みづは"
 source_ids:
   vndb: "c57810"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c57810.webp"
 ---
 
-# 驹川美兹羽
+# 駒川 みづは
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

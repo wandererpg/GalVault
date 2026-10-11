@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c66037"
 type: "character"
-display_title: "羽德寿"
-title_zh: "羽德寿"
+display_title: "ハデス"
+title_zh: ""
 title_ja: "ハデス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c66037"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hades"
-  - "ハデス"
 source_ids:
   vndb: "c66037"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c66037.webp"
 ---
 
-# 羽德寿
+# ハデス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "樋口庄司"
 title_zh: "樋口庄司"
 title_ja: "樋口 庄司"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c104999"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Higuchi Shouji"
   - "樋口 庄司"

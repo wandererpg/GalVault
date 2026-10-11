@@ -4,7 +4,10 @@ type: "character"
 display_title: "父亲"
 title_zh: "父亲"
 title_zh_quality: "glossary"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c170374"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Father"
 source_ids:

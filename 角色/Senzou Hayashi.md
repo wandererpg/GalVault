@@ -5,7 +5,10 @@ display_title: "林千藏"
 title_zh: "林千藏"
 title_ja: "林 千蔵"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c123945"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Senzou Hayashi"
   - "林 千蔵"

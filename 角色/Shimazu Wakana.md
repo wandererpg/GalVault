@@ -5,7 +5,10 @@ display_title: "岛津若菜"
 title_zh: "岛津若菜"
 title_ja: "島津 若菜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c26838"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shimazu Wakana"
   - "島津 若菜"

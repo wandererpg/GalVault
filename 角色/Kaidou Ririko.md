@@ -5,7 +5,10 @@ display_title: "海棠璃々子"
 title_zh: "海棠璃々子"
 title_ja: "海棠 璃々子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c18315"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kaidou Ririko"
   - "海棠 璃々子"

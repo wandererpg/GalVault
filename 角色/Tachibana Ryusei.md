@@ -5,7 +5,10 @@ display_title: "橘隆苍"
 title_zh: "橘隆苍"
 title_ja: "橘 隆蒼"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c27352"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tachibana Ryusei"
   - "橘 隆蒼"

@@ -5,7 +5,10 @@ display_title: "户隐憧子"
 title_zh: "户隐憧子"
 title_ja: "戸隠 憧子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c26600"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Togakushi Touko"
   - "戸隠 憧子"

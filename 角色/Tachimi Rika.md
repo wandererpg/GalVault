@@ -5,7 +5,10 @@ display_title: "立见里香"
 title_zh: "立见里香"
 title_ja: "立見 里香"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14351"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tachimi Rika"
   - "立見 里香"

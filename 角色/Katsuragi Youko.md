@@ -5,7 +5,10 @@ display_title: "葛城叶子"
 title_zh: "葛城叶子"
 title_ja: "葛城 葉子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c40539"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Katsuragi Youko"
   - "葛城 葉子"

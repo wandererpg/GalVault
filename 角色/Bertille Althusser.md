@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16826"
 type: "character"
-display_title: "贝露特伊伊优阿露秋濑惠露"
-title_zh: "贝露特伊伊优阿露秋濑惠露"
+display_title: "ベルティーユ・アルチュセール"
+title_zh: ""
 title_ja: "ベルティーユ・アルチュセール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16826"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Bertille Althusser"
-  - "ベルティーユ・アルチュセール"
 source_ids:
   vndb: "c16826"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c16826.webp"
 ---
 
-# 贝露特伊伊优阿露秋濑惠露
+# ベルティーユ・アルチュセール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

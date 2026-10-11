@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c163257"
 type: "character"
-display_title: "沙加莫斗·惠尼千"
-title_zh: "沙加莫斗·惠尼千"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Sakamoto Kenichi"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c163257"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Sakamoto Kenichi"
 source_ids:
   vndb: "c163257"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c163257.webp"
 ---
 
-# 沙加莫斗·惠尼千
+# Sakamoto Kenichi
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

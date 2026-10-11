@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12986"
 type: "character"
-display_title: "阿芽莉阿乌伊伊久寿"
-title_zh: "阿芽莉阿乌伊伊久寿"
+display_title: "アメリア・ウィークス"
+title_zh: ""
 title_ja: "アメリア・ウィークス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12986"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Amelia Weeksite"
-  - "アメリア・ウィークス"
 source_ids:
   vndb: "c12986"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c12986.webp"
 ---
 
-# 阿芽莉阿乌伊伊久寿
+# アメリア・ウィークス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

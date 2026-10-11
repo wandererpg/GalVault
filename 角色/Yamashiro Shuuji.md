@@ -5,7 +5,10 @@ display_title: "山代修司"
 title_zh: "山代修司"
 title_ja: "山代 修司"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c102756"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yamashiro Shuuji"
   - "山代 修司"

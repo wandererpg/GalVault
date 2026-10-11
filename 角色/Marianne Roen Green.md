@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c24189"
 type: "character"
-display_title: "真莉阿阿努洛奥惠恩古莉恩"
-title_zh: "真莉阿阿努洛奥惠恩古莉恩"
+display_title: "マリアーヌ・ローエン・グリン"
+title_zh: ""
 title_ja: "マリアーヌ・ローエン・グリン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c24189"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Marianne Roen Green"
-  - "マリアーヌ・ローエン・グリン"
   - "Marianu Roen Gurin"
 source_ids:
   vndb: "c24189"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c24189.webp"
 ---
 
-# 真莉阿阿努洛奥惠恩古莉恩
+# マリアーヌ・ローエン・グリン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

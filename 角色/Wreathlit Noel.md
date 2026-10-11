@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c1368"
 type: "character"
-display_title: "莉伊寿莉T斗·乃惠露"
-title_zh: "莉伊寿莉T斗·乃惠露"
+display_title: "リースリット·ノエル"
+title_zh: ""
 title_ja: "リースリット·ノエル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c1368"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Wreathlit Noel"
-  - "リースリット·ノエル"
   - "Riisuritto Noeru"
 source_ids:
   vndb: "c1368"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c1368.webp"
 ---
 
-# 莉伊寿莉T斗·乃惠露
+# リースリット·ノエル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

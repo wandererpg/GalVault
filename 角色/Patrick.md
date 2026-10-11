@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c173659"
 type: "character"
-display_title: "帕T莉CK"
-title_zh: "帕T莉CK"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Patrick"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c173659"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Patrick"
 source_ids:
   vndb: "c173659"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c173659.webp"
 ---
 
-# 帕T莉CK
+# Patrick
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

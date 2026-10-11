@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90525"
 type: "character"
-display_title: "日洛奥加"
-title_zh: "日洛奥加"
+display_title: "ヒロオカ"
+title_zh: ""
 title_ja: "ヒロオカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90525"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hirooka"
-  - "ヒロオカ"
 source_ids:
   vndb: "c90525"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c90525.webp"
 ---
 
-# 日洛奥加
+# ヒロオカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

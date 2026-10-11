@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c41600"
 type: "character"
-display_title: "寿特恩乃"
-title_zh: "寿特恩乃"
+display_title: "ステンノ"
+title_zh: ""
 title_ja: "ステンノ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c41600"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Stheno"
-  - "ステンノ"
 source_ids:
   vndb: "c41600"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c41600.webp"
 ---
 
-# 寿特恩乃
+# ステンノ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

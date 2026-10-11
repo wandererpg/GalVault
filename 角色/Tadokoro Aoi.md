@@ -5,7 +5,10 @@ display_title: "田所葵"
 title_zh: "田所葵"
 title_ja: "田所 葵"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c41968"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tadokoro Aoi"
   - "田所 葵"

@@ -5,7 +5,10 @@ display_title: "如月佳织"
 title_zh: "如月佳织"
 title_ja: "如月 佳織"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c42851"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kisaragi Kaori"
   - "如月 佳織"

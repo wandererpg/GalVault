@@ -5,7 +5,10 @@ display_title: "滩海硝子"
 title_zh: "滩海硝子"
 title_ja: "灘海 硝子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c86032"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nadami Shouko"
   - "灘海 硝子"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c654"
 type: "character"
-display_title: "透舞乃恩"
-title_zh: "透舞乃恩"
+display_title: "透舞 のん"
+title_zh: ""
 title_ja: "透舞 のん"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c654"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Toorimai Non"
-  - "透舞 のん"
   - "トリマキ"
   - "Torimaki"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c654.webp"
 ---
 
-# 透舞乃恩
+# 透舞 のん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

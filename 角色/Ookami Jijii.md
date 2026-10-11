@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87567"
 type: "character"
-display_title: "狼吉吉伊"
-title_zh: "狼吉吉伊"
+display_title: "狼じじい"
+title_zh: ""
 title_ja: "狼じじい"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87567"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ookami Jijii"
-  - "狼じじい"
   - "The Old Wolf Guy"
   - "Tokuji Kida"
   - "木田 徳治"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c87567.webp"
 ---
 
-# 狼吉吉伊
+# 狼じじい
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

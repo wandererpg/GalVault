@@ -16,6 +16,8 @@ import sys
 import time
 import urllib.error
 import urllib.request
+from datetime import datetime, timezone
+import zipfile
 from pathlib import Path
 
 
@@ -35,7 +37,7 @@ from pykakasi import kakasi  # type: ignore  # noqa: E402
 
 HAN_RE = re.compile(r"[\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff]")
 KANA_RE = re.compile(r"[\u3040-\u30ffー]")
-SOURCE_ID_RE = re.compile(r'^\s*vndb:\s*"(c\d+)"\s*$', re.MULTILINE)
+SOURCE_ID_RE = re.compile(r'^\s*vndb:\s*["\']?(c\d+)["\']?\s*$', re.MULTILINE)
 FRONTMATTER_RE = re.compile(r"\A---\r?\n(.*?)\r?\n---\r?\n", re.DOTALL)
 
 ROLE_GLOSSARY = {
@@ -270,7 +272,7 @@ def mixed_japanese_to_zh(text: str) -> str:
     return re.sub(r"·+", "·", "".join(output)).strip("· ")
 
 
-def generated_title(item: dict) -> tuple[str, str]:
+def legacy_generated_title(item: dict) -> tuple[str, str]:
     original = (item.get("original") or "").strip()
     roman = (item.get("name") or "").strip()
     role = ROLE_GLOSSARY.get(roman.casefold())
@@ -286,6 +288,40 @@ def generated_title(item: dict) -> tuple[str, str]:
     return title or roman, "phonetic_transliteration"
 
 
+def generated_title(item: dict) -> tuple[str, str]:
+    original = (item.get("original") or "").strip()
+    roman = (item.get("name") or "").strip()
+    if original and HAN_RE.search(original) and not KANA_RE.search(original) and not re.search(r"[A-Za-z]", original):
+        return re.sub(r"\s+", "", simplify_japanese(original)), "converted_original"
+    if not original and roman.casefold() in ROLE_GLOSSARY:
+        return ROLE_GLOSSARY[roman.casefold()], "glossary"
+    return original or roman, "original_pending_review"
+
+
+def property_value(text: str, name: str) -> str:
+    front = FRONTMATTER_RE.match(text)
+    match = re.search(rf"(?m)^{re.escape(name)}:[ \t]*(.*)$", front[1]) if front else None
+    if not match:
+        return ""
+    value = match[1].strip()
+    if value.startswith('"'):
+        return json.loads(value)
+    return value.strip("'")
+
+
+def select_title(text: str, item: dict, override: str | None) -> tuple[str, str]:
+    if override:
+        return override, "manual_override"
+    quality = property_value(text, "title_zh_quality")
+    current = property_value(text, "display_title")
+    # Preserve edits to older machine-generated names and explicit manual titles.
+    if current and (quality in {"manual_override", "manual_local"} or
+                    (quality in {"converted_original", "glossary", "phonetic_transliteration"}
+                     and current != legacy_generated_title(item)[0])):
+        return current, "manual_local"
+    return generated_title(item)
+
+
 def unique_aliases(*groups) -> list[str]:
     seen: set[str] = set()
     result: list[str] = []
@@ -299,7 +335,7 @@ def unique_aliases(*groups) -> list[str]:
     return result
 
 
-def replace_frontmatter(text: str, cid: str, item: dict, title: str, quality: str) -> str:
+def replace_frontmatter(text: str, cid: str, item: dict, title: str, quality: str, source: str = "") -> str:
     match = FRONTMATTER_RE.match(text)
     if not match:
         raise RuntimeError(f"Invalid frontmatter for {cid}")
@@ -307,6 +343,13 @@ def replace_frontmatter(text: str, cid: str, item: dict, title: str, quality: st
     roman = (item.get("name") or "").strip()
     original = (item.get("original") or "").strip()
     aliases = unique_aliases(roman, original, item.get("aliases") or [])
+    existing_aliases = re.search(r'(?m)^aliases:\s*\n((?:[ \t]+-[^\n]*\n?)*)', front)
+    if existing_aliases:
+        for line in existing_aliases[1].splitlines():
+            value = re.sub(r'^\s*-\s*', '', line).strip()
+            if value.startswith('"'):
+                value = json.loads(value)
+            aliases = unique_aliases(aliases, value.strip("'"))
 
     front = re.sub(r'^display_title:\s*.*$', f"display_title: {q(title)}", front, flags=re.MULTILINE)
     # Idempotently remove fields managed by this script.
@@ -314,13 +357,20 @@ def replace_frontmatter(text: str, cid: str, item: dict, title: str, quality: st
     front = re.sub(r'^title_ja:\s*.*\n?', "", front, flags=re.MULTILINE)
     front = re.sub(r'^title_zh_quality:\s*.*\n?', "", front, flags=re.MULTILINE)
     front = re.sub(r'^title_status:\s*.*\n?', "", front, flags=re.MULTILINE)
+    for field in ("title_zh_source", "title_zh_confidence", "title_zh_needs_review"):
+        front = re.sub(rf'^{field}:\s*.*\n?', "", front, flags=re.MULTILINE)
     front = re.sub(r'^aliases:\s*\n(?:\s+-\s+.*\n?)*', "", front, flags=re.MULTILINE)
 
-    insertion = [f"title_zh: {q(title)}"]
+    pending = quality == "original_pending_review"
+    manual = quality in {"manual_override", "manual_local"}
+    insertion = [f"title_zh: {q('' if pending else title)}"]
     if original:
         insertion.append(f"title_ja: {q(original)}")
     insertion.append(f"title_zh_quality: {q(quality)}")
-    insertion.append('title_status: "machine_generated"')
+    insertion.append(f"title_status: {q('needs_review' if pending else 'reviewed' if manual else 'converted_unverified')}")
+    insertion.append(f"title_zh_source: {q(source or ('本页人工修订（来源待核实）' if manual else 'https://vndb.org/' + cid))}")
+    insertion.append(f"title_zh_confidence: {q('low' if pending else 'medium')}")
+    insertion.append(f"title_zh_needs_review: {'false' if manual else 'true'}")
     insertion.append("aliases:")
     insertion.extend(f"  - {q(alias)}" for alias in aliases if alias != title)
     block = "\n".join(insertion)
@@ -343,38 +393,75 @@ def write_report(stats: dict[str, int], total: int) -> None:
         "# 角色中文名生成报告", "",
         f"- 处理角色：{total:,}",
         f"- 人工修订：{stats.get('manual_override', 0):,}",
+        f"- 保留本页人工修订：{stats.get('manual_local', 0):,}",
         f"- 常用称谓词典：{stats.get('glossary', 0):,}",
         f"- 日文汉字转简体：{stats.get('converted_original', 0):,}",
-        f"- 假名或罗马音音译：{stats.get('phonetic_transliteration', 0):,}",
+        f"- 保留原名、待校对：{stats.get('original_pending_review', 0):,}",
         "- 文件名与内部链接：未改动", "",
         "> [!warning] 自动生成内容", "",
-        "> 中文名是机器生成的候选标题，不等同于官方中文译名。发现不准确时，请在 `中文名修订.csv` 中添加修订后重新运行脚本。", "",
+        "> 不再猜写假名或罗马音。汉字转换只是候选，非官方译名；人工修订也不自动视为官方名称。待校对条目见 `待校对.csv`，修订请按角色 ID 填入 `中文名修订.csv` 并记录来源。", "",
     ]
     REPORT_PATH.write_text("\n".join(lines), encoding="utf-8")
 
 
-def apply_titles(records: list[tuple[Path, str]], cache: dict[str, dict]) -> None:
+def apply_titles(records: list[tuple[Path, str]], cache: dict[str, dict], dry_run: bool = False) -> None:
     overrides = load_overrides()
     stats: dict[str, int] = {}
     missing: list[str] = []
+    updates = []
+    review = []
+    notes = {}
+    if OVERRIDE_PATH.exists():
+        with OVERRIDE_PATH.open(encoding="utf-8-sig", newline="") as handle:
+            notes = {row['entity_id'].rsplit(':', 1)[-1]: row.get('notes', '') for row in csv.DictReader(handle)}
     for index, (path, cid) in enumerate(records, 1):
         item = cache.get(cid)
         if not item:
             missing.append(cid)
             continue
-        if cid in overrides:
-            title, quality = overrides[cid], "manual_override"
-        else:
-            title, quality = generated_title(item)
+        raw = path.read_bytes()
+        old = raw.decode("utf-8")
+        title, quality = select_title(old, item, overrides.get(cid))
         stats[quality] = stats.get(quality, 0) + 1
-        old = path.read_text(encoding="utf-8")
-        new = replace_frontmatter(old, cid, item, title, quality)
+        source = notes.get(cid, '') if quality == 'manual_override' else ''
+        new = replace_frontmatter(old, cid, item, title, quality, source)
         if new != old:
-            path.write_text(new, encoding="utf-8", newline="\n")
-        if index % 1000 == 0:
-            print(f"Updated {index}/{len(records)}")
+            updates.append((path, raw, new))
+        if quality not in {'manual_override', 'manual_local'}:
+            review.append({'entity_id': 'vndb:character:' + cid, 'path': str(path.relative_to(ROOT)),
+                           'name': item.get('name', ''), 'original': item.get('original', ''),
+                           'previous_title': property_value(old, 'display_title'), 'display_title': title,
+                           'quality': quality, 'source': 'https://vndb.org/' + cid,
+                           'title_zh': '', 'notes': ''})
     if missing:
         raise RuntimeError(f"Missing {len(missing)} cached characters: {', '.join(missing[:10])}")
+    print(json.dumps({'changed_pages': len(updates), 'dry_run': dry_run, **stats}, ensure_ascii=False, indent=2))
+    if dry_run:
+        return
+    if updates:
+        folder = ROOT.parent / 'GalVault-maintenance-backups'
+        folder.mkdir(exist_ok=True)
+        backup = folder / ('character-names-' + datetime.now(timezone.utc).strftime('%Y%m%dT%H%M%S%fZ') + '.zip')
+        with zipfile.ZipFile(backup, 'x', compression=zipfile.ZIP_DEFLATED) as archive:
+            for path, raw, _ in updates:
+                archive.writestr(path.relative_to(ROOT).as_posix(), raw)
+        with zipfile.ZipFile(backup) as archive:
+            if archive.testzip() is not None:
+                raise RuntimeError('Backup verification failed; pages retained')
+        print(f'Backup: {backup}')
+        for path, raw, _ in updates:
+            if path.read_bytes() != raw:
+                raise RuntimeError(f'Concurrent edit detected: {path}')
+        for path, raw, new in updates:
+            if path.read_bytes() != raw:
+                raise RuntimeError(f'Concurrent edit detected: {path}')
+            path.write_bytes(new.encode('utf-8'))
+    WORK_DIR.mkdir(parents=True, exist_ok=True)
+    with (WORK_DIR / '待校对.csv').open('w', encoding='utf-8-sig', newline='') as handle:
+        fields = ['entity_id', 'path', 'name', 'original', 'previous_title', 'display_title', 'quality', 'source', 'title_zh', 'notes']
+        writer = csv.DictWriter(handle, fieldnames=fields)
+        writer.writeheader()
+        writer.writerows(review)
     write_report(stats, len(records))
     print(json.dumps(stats, ensure_ascii=False, indent=2))
 
@@ -383,12 +470,19 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--fetch-only", action="store_true", help="fetch/cache source names without editing pages")
     parser.add_argument("--refresh", action="store_true", help="ignore the existing VNDB name cache")
+    parser.add_argument("--offline", action="store_true", help="use local cache only, never access VNDB")
+    parser.add_argument("--dry-run", action="store_true", help="preview title changes without changing pages or reports")
     args = parser.parse_args()
     records = character_files()
     print(f"Found {len(records)} character pages")
-    cache = fetch_names(records, args.refresh)
+    if args.offline:
+        if args.refresh:
+            parser.error('--offline cannot be combined with --refresh')
+        cache = json.loads(CACHE_PATH.read_text(encoding='utf-8'))
+    else:
+        cache = fetch_names(records, args.refresh)
     if not args.fetch_only:
-        apply_titles(records, cache)
+        apply_titles(records, cache, args.dry_run)
 
 
 if __name__ == "__main__":

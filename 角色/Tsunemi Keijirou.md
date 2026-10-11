@@ -5,7 +5,10 @@ display_title: "常见敬次郎"
 title_zh: "常见敬次郎"
 title_ja: "常見 敬次郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c131944"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsunemi Keijirou"
   - "常見 敬次郎"

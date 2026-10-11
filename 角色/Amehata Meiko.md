@@ -5,7 +5,10 @@ display_title: "雨畑芽依子"
 title_zh: "雨畑芽依子"
 title_ja: "雨畑 芽依子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c12136"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Amehata Meiko"
   - "雨畑 芽依子"

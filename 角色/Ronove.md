@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13722"
 type: "character"
-display_title: "洛乃乌惠"
-title_zh: "洛乃乌惠"
+display_title: "ロノウェ"
+title_zh: ""
 title_ja: "ロノウェ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13722"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ronove"
-  - "ロノウェ"
 source_ids:
   vndb: "c13722"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c13722.webp"
 ---
 
-# 洛乃乌惠
+# ロノウェ
 
 
 ## 角色画像

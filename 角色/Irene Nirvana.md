@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34621"
 type: "character"
-display_title: "阿伊莉伊恩尼露V阿阿奈"
-title_zh: "阿伊莉伊恩尼露V阿阿奈"
+display_title: "アイリーン・ニルヴァーナ"
+title_zh: ""
 title_ja: "アイリーン・ニルヴァーナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34621"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Irene Nirvana"
-  - "アイリーン・ニルヴァーナ"
 source_ids:
   vndb: "c34621"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c34621.webp"
 ---
 
-# 阿伊莉伊恩尼露V阿阿奈
+# アイリーン・ニルヴァーナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

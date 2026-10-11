@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c37472"
 type: "character"
-display_title: "惠露雅洛奥泽F奥恩F阿露惠恩真伊雅阿"
-title_zh: "惠露雅洛奥泽F奥恩F阿露惠恩真伊雅阿"
+display_title: "ヘルガローゼ・フォン・ファルケンマイヤー"
+title_zh: ""
 title_ja: "ヘルガローゼ・フォン・ファルケンマイヤー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37472"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Helgarose von Falkenmayer"
-  - "ヘルガローゼ・フォン・ファルケンマイヤー"
 source_ids:
   vndb: "c37472"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c37472.webp"
 ---
 
-# 惠露雅洛奥泽F奥恩F阿露惠恩真伊雅阿
+# ヘルガローゼ・フォン・ファルケンマイヤー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

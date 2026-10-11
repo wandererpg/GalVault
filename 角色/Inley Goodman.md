@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c165838"
 type: "character"
-display_title: "伊恩蕾伊古D堂真恩"
-title_zh: "伊恩蕾伊古D堂真恩"
+display_title: "インレイ・グッドマン"
+title_zh: ""
 title_ja: "インレイ・グッドマン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c165838"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Inley Goodman"
-  - "インレイ・グッドマン"
 source_ids:
   vndb: "c165838"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c165838.webp"
 ---
 
-# 伊恩蕾伊古D堂真恩
+# インレイ・グッドマン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

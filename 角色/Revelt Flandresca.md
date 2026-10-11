@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c86369"
 type: "character"
-display_title: "蕾V惠LT·FL阿恩D蕾SC阿"
-title_zh: "蕾V惠LT·FL阿恩D蕾SC阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Revelt Flandresca"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c86369"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Revelt Flandresca"
 source_ids:
   vndb: "c86369"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c86369.webp"
 ---
 
-# 蕾V惠LT·FL阿恩D蕾SC阿
+# Revelt Flandresca
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

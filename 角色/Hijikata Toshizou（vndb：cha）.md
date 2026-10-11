@@ -5,7 +5,10 @@ display_title: "土方岁三"
 title_zh: "土方岁三"
 title_ja: "土方 歳三"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c6947"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hijikata Toshizou"
   - "土方 歳三"

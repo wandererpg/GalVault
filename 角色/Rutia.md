@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c85123"
 type: "character"
-display_title: "露乌特伊阿"
-title_zh: "露乌特伊阿"
+display_title: "ルーティア"
+title_zh: ""
 title_ja: "ルーティア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85123"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rutia"
-  - "ルーティア"
 source_ids:
   vndb: "c85123"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c85123.webp"
 ---
 
-# 露乌特伊阿
+# ルーティア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

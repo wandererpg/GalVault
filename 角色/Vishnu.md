@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c19633"
 type: "character"
-display_title: "V伊修努"
-title_zh: "V伊修努"
+display_title: "ヴィシュヌ"
+title_zh: ""
 title_ja: "ヴィシュヌ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c19633"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Vishnu"
-  - "ヴィシュヌ"
 source_ids:
   vndb: "c19633"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c19633.webp"
 ---
 
-# V伊修努
+# ヴィシュヌ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

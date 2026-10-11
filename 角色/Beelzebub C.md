@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126294"
 type: "character"
-display_title: "贝露泽巴布Ｃ"
-title_zh: "贝露泽巴布Ｃ"
+display_title: "ベルゼバブＣ"
+title_zh: ""
 title_ja: "ベルゼバブＣ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126294"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Beelzebub C"
-  - "ベルゼバブＣ"
   - "Media"
 source_ids:
   vndb: "c126294"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c126294.webp"
 ---
 
-# 贝露泽巴布Ｃ
+# ベルゼバブＣ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

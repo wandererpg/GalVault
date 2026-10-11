@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c7191"
 type: "character"
-display_title: "佩斗露乌修加"
-title_zh: "佩斗露乌修加"
+display_title: "ペトルーシュカ"
+title_zh: ""
 title_ja: "ペトルーシュカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c7191"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Petrushka"
-  - "ペトルーシュカ"
 source_ids:
   vndb: "c7191"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c7191.webp"
 ---
 
-# 佩斗露乌修加
+# ペトルーシュカ
 
 
 ## 角色画像

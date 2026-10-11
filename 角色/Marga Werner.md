@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c127208"
 type: "character"
-display_title: "真露雅V惠露奈阿"
-title_zh: "真露雅V惠露奈阿"
+display_title: "マルガ・ヴェルナー"
+title_zh: ""
 title_ja: "マルガ・ヴェルナー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127208"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Marga Werner"
-  - "マルガ・ヴェルナー"
 source_ids:
   vndb: "c127208"
 source_urls:
   vndb: "https://vndb.org/c127208"
 ---
 
-# 真露雅V惠露奈阿
+# マルガ・ヴェルナー
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

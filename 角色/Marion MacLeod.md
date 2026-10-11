@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c123931"
 type: "character"
-display_title: "真莉奥恩·真CL惠奥D"
-title_zh: "真莉奥恩·真CL惠奥D"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Marion MacLeod"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c123931"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Marion MacLeod"
 source_ids:
   vndb: "c123931"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c123931.webp"
 ---
 
-# 真莉奥恩·真CL惠奥D
+# Marion MacLeod
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

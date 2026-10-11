@@ -5,7 +5,10 @@ display_title: "斑鸠夏生"
 title_zh: "斑鸠夏生"
 title_ja: "斑鳩 夏生"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c87816"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ikaruga Natsuki"
   - "斑鳩 夏生"

@@ -5,7 +5,10 @@ display_title: "赤服"
 title_zh: "赤服"
 title_ja: "赤服"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c140252"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Aka-fuku"
 source_ids:

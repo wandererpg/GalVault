@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c150300"
 type: "character"
-display_title: "伊和恩寿斗露雅津希伊"
-title_zh: "伊和恩寿斗露雅津希伊"
+display_title: "イワン・ストルガツキー"
+title_zh: ""
 title_ja: "イワン・ストルガツキー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c150300"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ivan Strugatsky"
-  - "イワン・ストルガツキー"
   - "Ivan Sergeevich Strugatsky"
 source_ids:
   vndb: "c150300"
@@ -16,7 +18,7 @@ source_urls:
   vndb: "https://vndb.org/c150300"
 ---
 
-# 伊和恩寿斗露雅津希伊
+# イワン・ストルガツキー
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

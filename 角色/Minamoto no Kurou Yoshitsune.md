@@ -5,7 +5,10 @@ display_title: "源九郎义经"
 title_zh: "源九郎义经"
 title_ja: "源九郎 義経"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c26910"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Minamoto no Kurou Yoshitsune"
   - "源九郎 義経"

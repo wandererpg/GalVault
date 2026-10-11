@@ -1,11 +1,14 @@
 ---
 entity_id: "vndb:character:c132552"
 type: "character"
-display_title: "校长"
-title_zh: "校长"
+display_title: "校长先生"
+title_zh: "校长先生"
 title_ja: "校長先生"
-title_zh_quality: "glossary"
-title_status: "machine_generated"
+title_zh_quality: "converted_original"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c132552"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Principal"
   - "校長先生"
@@ -15,7 +18,7 @@ source_urls:
   vndb: "https://vndb.org/c132552"
 ---
 
-# 校长
+# 校长先生
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

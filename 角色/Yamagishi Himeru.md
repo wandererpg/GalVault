@@ -5,7 +5,10 @@ display_title: "山岸姫瑠"
 title_zh: "山岸姫瑠"
 title_ja: "山岸 姫瑠"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c99590"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yamagishi Himeru"
   - "山岸 姫瑠"

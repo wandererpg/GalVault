@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c167344"
 type: "character"
-display_title: "皮恩久真特莉阿露乃博奥加露"
-title_zh: "皮恩久真特莉阿露乃博奥加露"
+display_title: "ピンクマテリアルのボーカル"
+title_zh: ""
 title_ja: "ピンクマテリアルのボーカル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c167344"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Pink Material's Vocalist"
-  - "ピンクマテリアルのボーカル"
   - "ピンクマＶ"
   - "Pinkuma V"
 source_ids:
@@ -17,7 +19,7 @@ source_urls:
   vndb: "https://vndb.org/c167344"
 ---
 
-# 皮恩久真特莉阿露乃博奥加露
+# ピンクマテリアルのボーカル
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

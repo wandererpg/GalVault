@@ -5,7 +5,10 @@ display_title: "敦泽诚"
 title_zh: "敦泽诚"
 title_ja: "敦澤 誠"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c159261"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Atsuzawa Makoto"
   - "敦澤 誠"

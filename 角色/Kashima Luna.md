@@ -5,7 +5,10 @@ display_title: "鹿岛月菜"
 title_zh: "鹿岛月菜"
 title_ja: "鹿島 月菜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c83573"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kashima Luna"
   - "鹿島 月菜"

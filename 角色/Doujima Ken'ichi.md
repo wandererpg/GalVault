@@ -5,7 +5,10 @@ display_title: "堂岛谦一"
 title_zh: "堂岛谦一"
 title_ja: "堂島 謙一"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c118588"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Doujima Ken'ichi"
   - "堂島 謙一"

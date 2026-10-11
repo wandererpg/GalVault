@@ -5,7 +5,10 @@ display_title: "八户荚贵"
 title_zh: "八户荚贵"
 title_ja: "八戸 莢貴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c71616"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yato Sayataka"
   - "八戸 莢貴"

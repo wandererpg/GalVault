@@ -5,7 +5,10 @@ display_title: "城沼哲雄"
 title_zh: "城沼哲雄"
 title_ja: "城沼 哲雄"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c18366"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shironuma Tetsuo"
   - "城沼 哲雄"

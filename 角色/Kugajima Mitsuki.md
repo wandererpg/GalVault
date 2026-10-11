@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90415"
 type: "character"
-display_title: "喰惠岛蜜木"
-title_zh: "喰惠岛蜜木"
+display_title: "喰ヶ島 蜜木"
+title_zh: ""
 title_ja: "喰ヶ島 蜜木"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90415"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kugajima Mitsuki"
-  - "喰ヶ島 蜜木"
 source_ids:
   vndb: "c90415"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c90415.webp"
 ---
 
-# 喰惠岛蜜木
+# 喰ヶ島 蜜木
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

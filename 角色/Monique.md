@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c137027"
 type: "character"
-display_title: "莫尼Q乌惠"
-title_zh: "莫尼Q乌惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Monique"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c137027"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Monique"
 source_ids:
   vndb: "c137027"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c137027.webp"
 ---
 
-# 莫尼Q乌惠
+# Monique
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

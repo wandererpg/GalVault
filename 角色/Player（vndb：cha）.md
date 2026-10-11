@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c87973"
 type: "character"
-display_title: "PL阿Y惠R"
-title_zh: "PL阿Y惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Player"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87973"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Player"
 source_ids:
   vndb: "c87973"
 source_urls:
   vndb: "https://vndb.org/c87973"
 ---
 
-# PL阿Y惠R
+# Player
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

@@ -5,7 +5,10 @@ display_title: "小粥圣良"
 title_zh: "小粥圣良"
 title_ja: "小粥 聖良"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c96448"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Okayu Seira"
   - "小粥 聖良"

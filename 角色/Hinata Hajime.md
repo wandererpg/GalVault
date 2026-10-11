@@ -5,7 +5,10 @@ display_title: "日向创"
 title_zh: "日向创"
 title_ja: "日向 創"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c6610"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hinata Hajime"
   - "日向 創"

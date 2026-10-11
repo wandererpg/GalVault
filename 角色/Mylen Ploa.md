@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13902"
 type: "character"
-display_title: "美蕾惠努普洛阿"
-title_zh: "美蕾惠努普洛阿"
+display_title: "ミレーヌ・プロア"
+title_zh: ""
 title_ja: "ミレーヌ・プロア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13902"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mylen Ploa"
-  - "ミレーヌ・プロア"
   - "Fiend Princess"
 source_ids:
   vndb: "c13902"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c13902.webp"
 ---
 
-# 美蕾惠努普洛阿
+# ミレーヌ・プロア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

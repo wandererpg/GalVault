@@ -5,7 +5,10 @@ display_title: "九头龙冬彦"
 title_zh: "九头龙冬彦"
 title_ja: "九頭龍 冬彦"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c6617"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kuzuryuu Fuyuhiko"
   - "九頭龍 冬彦"

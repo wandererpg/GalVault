@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125095"
 type: "character"
-display_title: "真恩堂拉悟拉娘"
-title_zh: "真恩堂拉悟拉娘"
+display_title: "マンドラゴラ娘"
+title_zh: ""
 title_ja: "マンドラゴラ娘"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125095"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mandragora"
-  - "マンドラゴラ娘"
   - "Ragora"
 source_ids:
   vndb: "c125095"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c125095.webp"
 ---
 
-# 真恩堂拉悟拉娘
+# マンドラゴラ娘
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

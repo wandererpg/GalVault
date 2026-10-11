@@ -5,7 +5,10 @@ display_title: "和歌村忍"
 title_zh: "和歌村忍"
 title_ja: "和歌村 忍"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c164208"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Wakamura Shinobu"
   - "和歌村 忍"

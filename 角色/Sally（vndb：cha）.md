@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c138153"
 type: "character"
-display_title: "沙LLY"
-title_zh: "沙LLY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Sally"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138153"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Sally"
 source_ids:
   vndb: "c138153"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c138153.webp"
 ---
 
-# 沙LLY
+# Sally
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

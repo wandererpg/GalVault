@@ -5,7 +5,10 @@ display_title: "相乐美佐枝"
 title_zh: "相乐美佐枝"
 title_ja: "相楽 美佐枝"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c15851"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sagara Misae"
   - "相楽 美佐枝"

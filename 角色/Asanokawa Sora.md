@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c65039"
 type: "character"
-display_title: "浅野川索拉"
-title_zh: "浅野川索拉"
+display_title: "浅野川 そら"
+title_zh: ""
 title_ja: "浅野川 そら"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c65039"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Asanokawa Sora"
-  - "浅野川 そら"
 source_ids:
   vndb: "c65039"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c65039.webp"
 ---
 
-# 浅野川索拉
+# 浅野川 そら
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

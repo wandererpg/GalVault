@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c22339"
 type: "character"
-display_title: "拉希阿"
-title_zh: "拉希阿"
+display_title: "ラキア"
+title_zh: ""
 title_ja: "ラキア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c22339"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rakia"
-  - "ラキア"
 source_ids:
   vndb: "c22339"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c22339.webp"
 ---
 
-# 拉希阿
+# ラキア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

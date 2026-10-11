@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38358"
 type: "character"
-display_title: "希伊寿如月"
-title_zh: "希伊寿如月"
+display_title: "キース 如月"
+title_zh: ""
 title_ja: "キース 如月"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38358"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Keith Kisaragi"
-  - "キース 如月"
   - "Yuri Kisaragi"
 source_ids:
   vndb: "c38358"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c38358.webp"
 ---
 
-# 希伊寿如月
+# キース 如月
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

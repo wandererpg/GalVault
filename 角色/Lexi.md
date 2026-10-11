@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c135353"
 type: "character"
-display_title: "L惠X伊"
-title_zh: "L惠X伊"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Lexi"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c135353"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Lexi"
 source_ids:
   vndb: "c135353"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c135353.webp"
 ---
 
-# L惠X伊
+# Lexi
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

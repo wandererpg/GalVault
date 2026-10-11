@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c134646"
 type: "character"
-display_title: "T惠·W拉伊TH"
-title_zh: "T惠·W拉伊TH"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "The Wraith"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c134646"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "The Wraith"
 source_ids:
   vndb: "c134646"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c134646.webp"
 ---
 
-# T惠·W拉伊TH
+# The Wraith
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

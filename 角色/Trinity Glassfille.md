@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30636"
 type: "character"
-display_title: "斗莉尼特伊＝古拉寿F伊伊露"
-title_zh: "斗莉尼特伊＝古拉寿F伊伊露"
+display_title: "トリニティ＝グラスフィール"
+title_zh: ""
 title_ja: "トリニティ＝グラスフィール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30636"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Trinity Glassfille"
-  - "トリニティ＝グラスフィール"
   - "Platinum the Trinity"
   - "Platinum Alchemist"
   - "Shitty Four-eyes"
@@ -21,7 +23,7 @@ source_urls:
 portrait_image: "assets/characters/c30636.webp"
 ---
 
-# 斗莉尼特伊＝古拉寿F伊伊露
+# トリニティ＝グラスフィール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

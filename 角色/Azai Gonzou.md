@@ -5,7 +5,10 @@ display_title: "浅井权三"
 title_zh: "浅井权三"
 title_ja: "浅井 権三"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c435"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Azai Gonzou"
   - "浅井 権三"

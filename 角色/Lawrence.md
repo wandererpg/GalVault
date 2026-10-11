@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c56360"
 type: "character"
-display_title: "洛蕾恩寿"
-title_zh: "洛蕾恩寿"
+display_title: "ロレンス"
+title_zh: ""
 title_ja: "ロレンス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56360"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lawrence"
-  - "ロレンス"
 source_ids:
   vndb: "c56360"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c56360.webp"
 ---
 
-# 洛蕾恩寿
+# ロレンス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

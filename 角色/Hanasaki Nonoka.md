@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c24597"
 type: "character"
-display_title: "花咲乃乃加"
-title_zh: "花咲乃乃加"
+display_title: "花咲 ののか"
+title_zh: ""
 title_ja: "花咲 ののか"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c24597"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hanasaki Nonoka"
-  - "花咲 ののか"
 source_ids:
   vndb: "c24597"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c24597.webp"
 ---
 
-# 花咲乃乃加
+# 花咲 ののか
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

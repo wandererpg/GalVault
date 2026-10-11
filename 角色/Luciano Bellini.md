@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c101246"
 type: "character"
-display_title: "露千阿阿乃贝莉伊尼"
-title_zh: "露千阿阿乃贝莉伊尼"
+display_title: "ルチアーノ・ベリーニ"
+title_zh: ""
 title_ja: "ルチアーノ・ベリーニ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c101246"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Luciano Bellini"
-  - "ルチアーノ・ベリーニ"
 source_ids:
   vndb: "c101246"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c101246.webp"
 ---
 
-# 露千阿阿乃贝莉伊尼
+# ルチアーノ・ベリーニ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

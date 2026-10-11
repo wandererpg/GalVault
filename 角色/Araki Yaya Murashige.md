@@ -5,7 +5,10 @@ display_title: "荒木弥耶村重"
 title_zh: "荒木弥耶村重"
 title_ja: "荒木 弥耶 村重"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c100075"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Araki Yaya Murashige"
   - "荒木 弥耶 村重"

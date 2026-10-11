@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10201"
 type: "character"
-display_title: "濑蕾寿特伊阿露乌德恩贝露久"
-title_zh: "濑蕾寿特伊阿露乌德恩贝露久"
+display_title: "セレスティア・ルーデンベルク"
+title_zh: ""
 title_ja: "セレスティア・ルーデンベルク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10201"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Celestia Ludenberg"
-  - "セレスティア・ルーデンベルク"
   - "Celes-chan"
   - "Celeste"
   - "Queen of Liars"
@@ -24,7 +26,7 @@ source_urls:
 portrait_image: "assets/characters/c10201.webp"
 ---
 
-# 濑蕾寿特伊阿露乌德恩贝露久
+# セレスティア・ルーデンベルク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

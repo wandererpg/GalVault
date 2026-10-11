@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c73597"
 type: "character"
-display_title: "阿真德乌寿"
-title_zh: "阿真德乌寿"
+display_title: "アマデウス"
+title_zh: ""
 title_ja: "アマデウス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c73597"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Amadeus"
-  - "アマデウス"
   - "@-Channer Chris"
   - "Assistant"
   - "Chris"
@@ -26,7 +28,7 @@ source_urls:
 portrait_image: "assets/characters/c73597.webp"
 ---
 
-# 阿真德乌寿
+# アマデウス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

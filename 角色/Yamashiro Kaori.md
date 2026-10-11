@@ -5,7 +5,10 @@ display_title: "山城香"
 title_zh: "山城香"
 title_ja: "山城 香"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c83576"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yamashiro Kaori"
   - "山城 香"

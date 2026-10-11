@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c9902"
 type: "character"
-display_title: "凉波加寿莉"
-title_zh: "凉波加寿莉"
+display_title: "涼波 かすり"
+title_zh: ""
 title_ja: "涼波 かすり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c9902"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Suzunami Kasuri"
-  - "涼波 かすり"
 source_ids:
   vndb: "c9902"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c9902.webp"
 ---
 
-# 凉波加寿莉
+# 涼波 かすり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

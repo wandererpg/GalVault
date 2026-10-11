@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c165377"
 type: "character"
-display_title: "MR·太加梦拉"
-title_zh: "MR·太加梦拉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Mr Takamura"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c165377"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Mr Takamura"
 source_ids:
   vndb: "c165377"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c165377.webp"
 ---
 
-# MR·太加梦拉
+# Mr Takamura
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

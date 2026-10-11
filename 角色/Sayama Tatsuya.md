@@ -5,7 +5,10 @@ display_title: "佐山达哉"
 title_zh: "佐山达哉"
 title_ja: "佐山 達哉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c17898"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sayama Tatsuya"
   - "佐山 達哉"

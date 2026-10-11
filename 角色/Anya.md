@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c129823"
 type: "character"
-display_title: "阿阿妮娅"
-title_zh: "阿阿妮娅"
+display_title: "アーニャ"
+title_zh: ""
 title_ja: "アーニャ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c129823"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Anya"
-  - "アーニャ"
 source_ids:
   vndb: "c129823"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c129823.webp"
 ---
 
-# 阿阿妮娅
+# アーニャ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

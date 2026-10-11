@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c95161"
 type: "character"
-display_title: "W伊TCHH乌恩特R三神"
-title_zh: "W伊TCHH乌恩特R三神"
+display_title: "Witch Hunter 三神"
+title_zh: ""
 title_ja: "Witch Hunter 三神"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c95161"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Witch Hunter Mikami"
-  - "Witch Hunter 三神"
 source_ids:
   vndb: "c95161"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c95161.webp"
 ---
 
-# W伊TCHH乌恩特R三神
+# Witch Hunter 三神
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

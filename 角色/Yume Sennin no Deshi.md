@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c149404"
 type: "character"
-display_title: "梦仙人乃弟子"
-title_zh: "梦仙人乃弟子"
+display_title: "夢仙人の弟子"
+title_zh: ""
 title_ja: "夢仙人の弟子"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149404"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yume Sennin no Deshi"
-  - "夢仙人の弟子"
 source_ids:
   vndb: "c149404"
 source_urls:
   vndb: "https://vndb.org/c149404"
 ---
 
-# 梦仙人乃弟子
+# 夢仙人の弟子
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

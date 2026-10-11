@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c124303"
 type: "character"
-display_title: "穗音Y·帕恩C阿惠·阿奈S太S伊阿·寿KK穗伊·萝丝·德·真莉音"
-title_zh: "穗音Y·帕恩C阿惠·阿奈S太S伊阿·寿KK穗伊·萝丝·德·真莉音"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Honey Pancake Anastasia Sukkhoi Rose de Marine"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124303"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Honey Pancake Anastasia Sukkhoi Rose de Marine"
   - "Honey Rose"
   - "Lady Honey Rose"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c124303.webp"
 ---
 
-# 穗音Y·帕恩C阿惠·阿奈S太S伊阿·寿KK穗伊·萝丝·德·真莉音
+# Honey Pancake Anastasia Sukkhoi Rose de Marine
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

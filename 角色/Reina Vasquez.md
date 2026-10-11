@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c138181"
 type: "character"
-display_title: "蕾伊奈·V阿SQ乌惠Z"
-title_zh: "蕾伊奈·V阿SQ乌惠Z"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Reina Vasquez"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138181"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Reina Vasquez"
 source_ids:
   vndb: "c138181"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c138181.webp"
 ---
 
-# 蕾伊奈·V阿SQ乌惠Z
+# Reina Vasquez
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

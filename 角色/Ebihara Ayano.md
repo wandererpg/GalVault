@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c100542"
 type: "character"
-display_title: "虾原阿雅乃"
-title_zh: "虾原阿雅乃"
+display_title: "蝦原 アヤノ"
+title_zh: ""
 title_ja: "蝦原 アヤノ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c100542"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ebihara Ayano"
-  - "蝦原 アヤノ"
 source_ids:
   vndb: "c100542"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c100542.webp"
 ---
 
-# 虾原阿雅乃
+# 蝦原 アヤノ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c138175"
 type: "character"
-display_title: "特恩真"
-title_zh: "特恩真"
+display_title: "テンマ"
+title_zh: ""
 title_ja: "テンマ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138175"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tenma"
-  - "テンマ"
 source_ids:
   vndb: "c138175"
 source_urls:
   vndb: "https://vndb.org/c138175"
 ---
 
-# 特恩真
+# テンマ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

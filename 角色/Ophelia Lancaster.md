@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16052"
 type: "character"
-display_title: "奥F伊伊莉阿拉恩加寿太阿"
-title_zh: "奥F伊伊莉阿拉恩加寿太阿"
+display_title: "オフィーリア・ランカスター"
+title_zh: ""
 title_ja: "オフィーリア・ランカスター"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16052"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ophelia Lancaster"
-  - "オフィーリア・ランカスター"
 source_ids:
   vndb: "c16052"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c16052.webp"
 ---
 
-# 奥F伊伊莉阿拉恩加寿太阿
+# オフィーリア・ランカスター
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

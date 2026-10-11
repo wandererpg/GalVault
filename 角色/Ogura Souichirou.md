@@ -5,7 +5,10 @@ display_title: "小仓宗一郎"
 title_zh: "小仓宗一郎"
 title_ja: "小倉 宗一郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c48140"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ogura Souichirou"
   - "小倉 宗一郎"

@@ -5,7 +5,10 @@ display_title: "荒神小夜"
 title_zh: "荒神小夜"
 title_ja: "荒神 小夜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21616"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Aragami Sayo"
   - "荒神 小夜"

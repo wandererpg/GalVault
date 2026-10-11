@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c73219"
 type: "character"
-display_title: "V阿吉惠斗＝音芙特伊寿"
-title_zh: "V阿吉惠斗＝音芙特伊寿"
+display_title: "ヴァジェト＝ネフティス"
+title_zh: ""
 title_ja: "ヴァジェト＝ネフティス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c73219"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Wadjet Neftis"
-  - "ヴァジェト＝ネフティス"
 source_ids:
   vndb: "c73219"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c73219.webp"
 ---
 
-# V阿吉惠斗＝音芙特伊寿
+# ヴァジェト＝ネフティス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

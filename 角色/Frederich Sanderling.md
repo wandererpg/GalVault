@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c127211"
 type: "character"
-display_title: "芙莉伊堂莉日扎恩德露莉恩古"
-title_zh: "芙莉伊堂莉日扎恩德露莉恩古"
+display_title: "フリードリヒ・ザンデルリング"
+title_zh: ""
 title_ja: "フリードリヒ・ザンデルリング"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127211"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Frederich Sanderling"
-  - "フリードリヒ・ザンデルリング"
 source_ids:
   vndb: "c127211"
 source_urls:
   vndb: "https://vndb.org/c127211"
 ---
 
-# 芙莉伊堂莉日扎恩德露莉恩古
+# フリードリヒ・ザンデルリング
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

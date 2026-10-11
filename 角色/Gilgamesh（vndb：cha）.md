@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c47"
 type: "character"
-display_title: "吉露雅芽S修"
-title_zh: "吉露雅芽S修"
+display_title: "ギルガメッシュ"
+title_zh: ""
 title_ja: "ギルガメッシュ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c47"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gilgamesh"
-  - "ギルガメッシュ"
   - "アーチャー"
   - "Archer"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c47.webp"
 ---
 
-# 吉露雅芽S修
+# ギルガメッシュ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

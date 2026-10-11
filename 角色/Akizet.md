@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c154207"
 type: "character"
-display_title: "阿希泽T"
-title_zh: "阿希泽T"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Akizet"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c154207"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Akizet"
   - "Akizetesche Qou Jokzi"
   - "Aki"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c154207.webp"
 ---
 
-# 阿希泽T
+# Akizet
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "诸星哲"
 title_zh: "诸星哲"
 title_ja: "諸星 哲"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c25589"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Moroboshi Tetsu"
   - "諸星 哲"

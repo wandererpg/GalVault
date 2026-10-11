@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c37364"
 type: "character"
-display_title: "鹿苑寺加奥露子"
-title_zh: "鹿苑寺加奥露子"
+display_title: "鹿苑寺 かおるこ"
+title_zh: ""
 title_ja: "鹿苑寺 かおるこ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37364"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rokuonji Kaoruko"
-  - "鹿苑寺 かおるこ"
   - "Deer"
   - "Mr. Deer"
   - "Pres."
@@ -21,7 +23,7 @@ source_urls:
 portrait_image: "assets/characters/c37364.webp"
 ---
 
-# 鹿苑寺加奥露子
+# 鹿苑寺 かおるこ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

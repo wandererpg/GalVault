@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c94620"
 type: "character"
-display_title: "梦惠崎魔恋"
-title_zh: "梦惠崎魔恋"
+display_title: "夢ヶ崎 魔恋"
+title_zh: ""
 title_ja: "夢ヶ崎 魔恋"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94620"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yumegasaki Mako"
-  - "夢ヶ崎 魔恋"
 source_ids:
   vndb: "c94620"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c94620.webp"
 ---
 
-# 梦惠崎魔恋
+# 夢ヶ崎 魔恋
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

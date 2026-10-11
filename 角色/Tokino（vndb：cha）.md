@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c15499"
 type: "character"
-display_title: "斗希乃"
-title_zh: "斗希乃"
+display_title: "トキノ"
+title_zh: ""
 title_ja: "トキノ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c15499"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tokino"
-  - "トキノ"
 source_ids:
   vndb: "c15499"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c15499.webp"
 ---
 
-# 斗希乃
+# トキノ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

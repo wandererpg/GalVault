@@ -5,7 +5,10 @@ display_title: "天野太壹"
 title_zh: "天野太壹"
 title_ja: "天野 太壱"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c69591"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Amano Taichi"
   - "天野 太壱"

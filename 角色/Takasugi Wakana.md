@@ -5,7 +5,10 @@ display_title: "高杉若菜"
 title_zh: "高杉若菜"
 title_ja: "高杉 若菜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c36978"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takasugi Wakana"
   - "高杉 若菜"

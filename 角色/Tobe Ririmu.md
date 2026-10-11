@@ -5,7 +5,10 @@ display_title: "十部梨々梦"
 title_zh: "十部梨々梦"
 title_ja: "十部 梨々夢"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c91891"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tobe Ririmu"
   - "十部 梨々夢"

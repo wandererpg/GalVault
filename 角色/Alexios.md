@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c97008"
 type: "character"
-display_title: "阿L惠X伊奥S"
-title_zh: "阿L惠X伊奥S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Alexios"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97008"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Alexios"
 source_ids:
   vndb: "c97008"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c97008.webp"
 ---
 
-# 阿L惠X伊奥S
+# Alexios
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

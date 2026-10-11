@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c18381"
 type: "character"
-display_title: "蕾奥尼伊堂奥奥乌惠恩"
-title_zh: "蕾奥尼伊堂奥奥乌惠恩"
+display_title: "レオニード・オーウェン"
+title_zh: ""
 title_ja: "レオニード・オーウェン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c18381"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Leonid Owen"
-  - "レオニード・オーウェン"
   - "レオ"
   - "Leo"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c18381.webp"
 ---
 
-# 蕾奥尼伊堂奥奥乌惠恩
+# レオニード・オーウェン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

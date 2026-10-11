@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c46168"
 type: "character"
-display_title: "大菊朱恩"
-title_zh: "大菊朱恩"
+display_title: "大菊 ジュン"
+title_zh: ""
 title_ja: "大菊 ジュン"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c46168"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Oogiku Jun"
-  - "大菊 ジュン"
 source_ids:
   vndb: "c46168"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c46168.webp"
 ---
 
-# 大菊朱恩
+# 大菊 ジュン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

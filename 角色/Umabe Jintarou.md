@@ -5,7 +5,10 @@ display_title: "马部甚太郎"
 title_zh: "马部甚太郎"
 title_ja: "馬部 甚太郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c140336"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Umabe Jintarou"
   - "馬部 甚太郎"

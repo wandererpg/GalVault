@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c123580"
 type: "character"
-display_title: "高山羽美"
-title_zh: "高山羽美"
+display_title: "高山 はみ"
+title_zh: ""
 title_ja: "高山 はみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c123580"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Takayama Hami"
-  - "高山 はみ"
 source_ids:
   vndb: "c123580"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c123580.webp"
 ---
 
-# 高山羽美
+# 高山 はみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c37242"
 type: "character"
-display_title: "露伊寿"
-title_zh: "露伊寿"
+display_title: "ルイス"
+title_zh: ""
 title_ja: "ルイス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37242"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Louis"
-  - "ルイス"
 source_ids:
   vndb: "c37242"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c37242.webp"
 ---
 
-# 露伊寿
+# ルイス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

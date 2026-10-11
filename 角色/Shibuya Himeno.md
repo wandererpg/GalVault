@@ -5,7 +5,10 @@ display_title: "涩谷姫乃"
 title_zh: "涩谷姫乃"
 title_ja: "渋谷 姫乃"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16041"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shibuya Himeno"
   - "渋谷 姫乃"

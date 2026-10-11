@@ -5,7 +5,10 @@ display_title: "鸣濑咲"
 title_zh: "鸣濑咲"
 title_ja: "鳴瀬 咲"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c62889"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Naruse Saki"
   - "鳴瀬 咲"

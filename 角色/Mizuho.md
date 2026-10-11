@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c140514"
 type: "character"
-display_title: "美兹穗"
-title_zh: "美兹穗"
+display_title: "ミズホ"
+title_zh: ""
 title_ja: "ミズホ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c140514"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mizuho"
-  - "ミズホ"
   - "泣き虫ミズホ"
   - "Crybaby Mizuho"
 source_ids:
@@ -17,7 +19,7 @@ source_urls:
   vndb: "https://vndb.org/c140514"
 ---
 
-# 美兹穗
+# ミズホ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

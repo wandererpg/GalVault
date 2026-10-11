@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c136924"
 type: "character"
-display_title: "阿蕾久濑伊惠露D伊伊露"
-title_zh: "阿蕾久濑伊惠露D伊伊露"
+display_title: "アレクセイ・エルディール"
+title_zh: ""
 title_ja: "アレクセイ・エルディール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136924"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alexei Eldiel"
-  - "アレクセイ・エルディール"
   - "Alex"
 source_ids:
   vndb: "c136924"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c136924.webp"
 ---
 
-# 阿蕾久濑伊惠露D伊伊露
+# アレクセイ・エルディール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

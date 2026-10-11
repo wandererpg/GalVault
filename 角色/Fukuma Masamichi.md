@@ -5,7 +5,10 @@ display_title: "福间正道"
 title_zh: "福间正道"
 title_ja: "福間 正道"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c129742"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fukuma Masamichi"
   - "福間 正道"

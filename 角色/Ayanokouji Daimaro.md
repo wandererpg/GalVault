@@ -5,7 +5,10 @@ display_title: "绫小路大麻吕"
 title_zh: "绫小路大麻吕"
 title_ja: "綾小路 大麻呂"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c57317"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ayanokouji Daimaro"
   - "綾小路 大麻呂"

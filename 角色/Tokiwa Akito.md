@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c74674"
 type: "character"
-display_title: "常盘阿希斗"
-title_zh: "常盘阿希斗"
+display_title: "常盤 アキト"
+title_zh: ""
 title_ja: "常盤 アキト"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c74674"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tokiwa Akito"
-  - "常盤 アキト"
 source_ids:
   vndb: "c74674"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c74674.webp"
 ---
 
-# 常盘阿希斗
+# 常盤 アキト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

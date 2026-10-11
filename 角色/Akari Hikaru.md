@@ -5,7 +5,10 @@ display_title: "明里光"
 title_zh: "明里光"
 title_ja: "明里 光"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21332"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Akari Hikaru"
   - "明里 光"

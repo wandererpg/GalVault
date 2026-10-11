@@ -5,7 +5,10 @@ display_title: "翠屋辰平"
 title_zh: "翠屋辰平"
 title_ja: "翠屋 辰平"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c19928"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Midoriya Tappei"
   - "翠屋 辰平"

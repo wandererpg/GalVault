@@ -5,7 +5,10 @@ display_title: "福住结季"
 title_zh: "福住结季"
 title_ja: "福住 結季"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c49772"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fukuzumi Yuki"
   - "福住 結季"

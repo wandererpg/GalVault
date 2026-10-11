@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c136864"
 type: "character"
-display_title: "诺艾尔"
-title_zh: "诺艾尔"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Noel"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136864"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Noel"
 source_ids:
   vndb: "c136864"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c136864.webp"
 ---
 
-# 诺艾尔
+# Noel
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

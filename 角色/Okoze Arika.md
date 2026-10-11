@@ -5,7 +5,10 @@ display_title: "虎鱼有梨华"
 title_zh: "虎鱼有梨华"
 title_ja: "虎魚 有梨華"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c22808"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Okoze Arika"
   - "虎魚 有梨華"

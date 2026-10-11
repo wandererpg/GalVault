@@ -5,7 +5,10 @@ display_title: "狛茧子"
 title_zh: "狛茧子"
 title_ja: "狛 繭子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c65745"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Koma Mayuko"
   - "狛 繭子"

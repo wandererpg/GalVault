@@ -5,7 +5,10 @@ display_title: "八剑桔平"
 title_zh: "八剑桔平"
 title_ja: "八剣 桔平"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c129212"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yatsurugi Kippei"
   - "八剣 桔平"

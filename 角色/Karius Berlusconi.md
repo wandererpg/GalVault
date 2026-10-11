@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c103230"
 type: "character"
-display_title: "加莉乌寿贝露露寿子奥尼"
-title_zh: "加莉乌寿贝露露寿子奥尼"
+display_title: "カリウス・ベルルスコーニ"
+title_zh: ""
 title_ja: "カリウス・ベルルスコーニ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103230"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Karius Berlusconi"
-  - "カリウス・ベルルスコーニ"
 source_ids:
   vndb: "c103230"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c103230.webp"
 ---
 
-# 加莉乌寿贝露露寿子奥尼
+# カリウス・ベルルスコーニ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

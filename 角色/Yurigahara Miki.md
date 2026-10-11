@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c49966"
 type: "character"
-display_title: "百合惠原美树"
-title_zh: "百合惠原美树"
+display_title: "百合ヶ原 美樹"
+title_zh: ""
 title_ja: "百合ヶ原 美樹"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c49966"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yurigahara Miki"
-  - "百合ヶ原 美樹"
 source_ids:
   vndb: "c49966"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c49966.webp"
 ---
 
-# 百合惠原美树
+# 百合ヶ原 美樹
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

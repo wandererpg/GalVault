@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c2148"
 type: "character"
-display_title: "渡边津古美"
-title_zh: "渡边津古美"
+display_title: "渡辺 つぐみ"
+title_zh: ""
 title_ja: "渡辺 つぐみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c2148"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Watanabe Tsugumi"
-  - "渡辺 つぐみ"
 source_ids:
   vndb: "c2148"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c2148.webp"
 ---
 
-# 渡边津古美
+# 渡辺 つぐみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

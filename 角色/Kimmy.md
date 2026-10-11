@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c135355"
 type: "character"
-display_title: "希MMY"
-title_zh: "希MMY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Kimmy"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c135355"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Kimmy"
 source_ids:
   vndb: "c135355"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c135355.webp"
 ---
 
-# 希MMY
+# Kimmy
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

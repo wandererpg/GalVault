@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c115775"
 type: "character"
-display_title: "阿乌拉"
-title_zh: "阿乌拉"
+display_title: "アウラ"
+title_zh: ""
 title_ja: "アウラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c115775"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Aura"
-  - "アウラ"
 source_ids:
   vndb: "c115775"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c115775.webp"
 ---
 
-# 阿乌拉
+# アウラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

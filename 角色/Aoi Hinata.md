@@ -5,7 +5,10 @@ display_title: "葵日向"
 title_zh: "葵日向"
 title_ja: "葵 日向"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1156"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Aoi Hinata"
   - "葵 日向"

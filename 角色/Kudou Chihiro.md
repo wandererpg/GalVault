@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10316"
 type: "character"
-display_title: "久藤千日洛"
-title_zh: "久藤千日洛"
+display_title: "久藤 ちひろ"
+title_zh: ""
 title_ja: "久藤 ちひろ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10316"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kudou Chihiro"
-  - "久藤 ちひろ"
 source_ids:
   vndb: "c10316"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c10316.webp"
 ---
 
-# 久藤千日洛
+# 久藤 ちひろ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

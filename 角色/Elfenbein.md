@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87376"
 type: "character"
-display_title: "惠露F惠恩巴伊恩"
-title_zh: "惠露F惠恩巴伊恩"
+display_title: "エルフェンバイン"
+title_zh: ""
 title_ja: "エルフェンバイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87376"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Elfenbein"
-  - "エルフェンバイン"
   - "Prime Minister"
 source_ids:
   vndb: "c87376"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c87376.webp"
 ---
 
-# 惠露F惠恩巴伊恩
+# エルフェンバイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

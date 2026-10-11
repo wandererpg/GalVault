@@ -5,7 +5,10 @@ display_title: "斋野尚哉"
 title_zh: "斋野尚哉"
 title_ja: "斎野 尚哉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c71606"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Itsukino Naoya"
   - "斎野 尚哉"

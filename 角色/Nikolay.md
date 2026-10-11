@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c123069"
 type: "character"
-display_title: "尼子L阿Y"
-title_zh: "尼子L阿Y"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Nikolay"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c123069"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Nikolay"
 source_ids:
   vndb: "c123069"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c123069.webp"
 ---
 
-# 尼子L阿Y
+# Nikolay
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

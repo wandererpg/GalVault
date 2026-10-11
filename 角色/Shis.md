@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c52066"
 type: "character"
-display_title: "诗寿"
-title_zh: "诗寿"
+display_title: "シス"
+title_zh: ""
 title_ja: "シス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c52066"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shis"
-  - "シス"
   - "Shisu"
 source_ids:
   vndb: "c52066"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c52066.webp"
 ---
 
-# 诗寿
+# シス
 
 
 ## 角色画像

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c154860"
 type: "character"
-display_title: "加RL惠莉阿"
-title_zh: "加RL惠莉阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Karleria"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c154860"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Karleria"
 source_ids:
   vndb: "c154860"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c154860.webp"
 ---
 
-# 加RL惠莉阿
+# Karleria
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

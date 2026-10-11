@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c116947"
 type: "character"
-display_title: "羽诗莫斗·翔巴伊"
-title_zh: "羽诗莫斗·翔巴伊"
+display_title: "하시모토 쇼바이"
+title_zh: ""
 title_ja: "하시모토 쇼바이"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116947"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hashimoto Shobai"
-  - "하시모토 쇼바이"
   - "Super High School Level Broker"
   - "Hashimoto Syobai"
   - "Trashimoto Syobai"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c116947.webp"
 ---
 
-# 羽诗莫斗·翔巴伊
+# 하시모토 쇼바이
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

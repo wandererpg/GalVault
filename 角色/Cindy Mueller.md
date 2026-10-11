@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c173633"
 type: "character"
-display_title: "C伊恩DY·梦惠LL惠R"
-title_zh: "C伊恩DY·梦惠LL惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Cindy Mueller"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c173633"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Cindy Mueller"
 source_ids:
   vndb: "c173633"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c173633.webp"
 ---
 
-# C伊恩DY·梦惠LL惠R
+# Cindy Mueller
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

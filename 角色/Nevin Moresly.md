@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c160932"
 type: "character"
-display_title: "音V伊恩·莫蕾SLY"
-title_zh: "音V伊恩·莫蕾SLY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Nevin Moresly"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c160932"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Nevin Moresly"
   - "Fred"
 source_ids:
   vndb: "c160932"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c160932.webp"
 ---
 
-# 音V伊恩·莫蕾SLY
+# Nevin Moresly
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61608"
 type: "character"
-display_title: "梦乌拉拉露乌"
-title_zh: "梦乌拉拉露乌"
+display_title: "ムーララルー"
+title_zh: ""
 title_ja: "ムーララルー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61608"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mulalaloux"
-  - "ムーララルー"
   - "Pope Mulalaloux"
 source_ids:
   vndb: "c61608"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c61608.webp"
 ---
 
-# 梦乌拉拉露乌
+# ムーララルー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

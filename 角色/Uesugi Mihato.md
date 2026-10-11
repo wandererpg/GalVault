@@ -5,7 +5,10 @@ display_title: "上杉美鸠"
 title_zh: "上杉美鸠"
 title_ja: "上杉 美鳩"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c3796"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Uesugi Mihato"
   - "上杉 美鳩"

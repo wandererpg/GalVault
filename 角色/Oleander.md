@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c141901"
 type: "character"
-display_title: "奥L惠阿恩德R"
-title_zh: "奥L惠阿恩德R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Oleander"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141901"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Oleander"
 source_ids:
   vndb: "c141901"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c141901.webp"
 ---
 
-# 奥L惠阿恩德R
+# Oleander
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

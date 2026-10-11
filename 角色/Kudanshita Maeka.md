@@ -5,7 +5,10 @@ display_title: "九段下舞佳"
 title_zh: "九段下舞佳"
 title_ja: "九段下 舞佳"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2135"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kudanshita Maeka"
   - "九段下 舞佳"

@@ -5,7 +5,10 @@ display_title: "芹泽睦"
 title_zh: "芹泽睦"
 title_ja: "芹沢 睦"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c48119"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Serizawa Mutsumi"
   - "芹沢 睦"

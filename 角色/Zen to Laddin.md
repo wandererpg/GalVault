@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61302"
 type: "character"
-display_title: "泽恩斗拉D伊恩"
-title_zh: "泽恩斗拉D伊恩"
+display_title: "ゼン・ト・ラディン"
+title_zh: ""
 title_ja: "ゼン・ト・ラディン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61302"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Zen to Laddin"
-  - "ゼン・ト・ラディン"
 source_ids:
   vndb: "c61302"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61302.webp"
 ---
 
-# 泽恩斗拉D伊恩
+# ゼン・ト・ラディン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

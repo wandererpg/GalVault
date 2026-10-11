@@ -5,7 +5,10 @@ display_title: "菱井户芙由子"
 title_zh: "菱井户芙由子"
 title_ja: "菱井戸 芙由子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c44369"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hishiido Fuyuko"
   - "菱井戸 芙由子"

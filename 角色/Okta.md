@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c36262"
 type: "character"
-display_title: "奥久太"
-title_zh: "奥久太"
+display_title: "オクタ"
+title_zh: ""
 title_ja: "オクタ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c36262"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Okta"
-  - "オクタ"
 source_ids:
   vndb: "c36262"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c36262.webp"
 ---
 
-# 奥久太
+# オクタ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

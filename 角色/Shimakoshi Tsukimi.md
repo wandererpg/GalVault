@@ -5,7 +5,10 @@ display_title: "嶌越月望"
 title_zh: "嶌越月望"
 title_ja: "嶌越 月望"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c153625"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shimakoshi Tsukimi"
   - "嶌越 月望"

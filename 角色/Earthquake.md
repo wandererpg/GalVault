@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c1063"
 type: "character"
-display_title: "阿阿寿久惠伊久"
-title_zh: "阿阿寿久惠伊久"
+display_title: "アースクェイク"
+title_zh: ""
 title_ja: "アースクェイク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c1063"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Earthquake"
-  - "アースクェイク"
   - "地震"
 source_ids:
   vndb: "c1063"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c1063.webp"
 ---
 
-# 阿阿寿久惠伊久
+# アースクェイク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

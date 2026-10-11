@@ -5,7 +5,10 @@ display_title: "八重野萤"
 title_zh: "八重野萤"
 title_ja: "八重野 蛍"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14688"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yaeno Kei"
   - "八重野 蛍"

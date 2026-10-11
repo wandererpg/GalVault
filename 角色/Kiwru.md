@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c37804"
 type: "character"
-display_title: "希乌露"
-title_zh: "希乌露"
+display_title: "キウル"
+title_zh: ""
 title_ja: "キウル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37804"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kiwru"
-  - "キウル"
   - "Kiuru"
 source_ids:
   vndb: "c37804"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c37804.webp"
 ---
 
-# 希乌露
+# キウル
 
 
 ## 角色画像

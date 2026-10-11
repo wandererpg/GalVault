@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c138719"
 type: "character"
-display_title: "C阿LL伊奥佩"
-title_zh: "C阿LL伊奥佩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Calliope"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138719"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Calliope"
   - "uranianUmbra"
   - "Muse of Space"
   - "Callie Ohpee"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c138719.webp"
 ---
 
-# C阿LL伊奥佩
+# Calliope
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

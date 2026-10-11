@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c3392"
 type: "character"
-display_title: "咲良诗恩"
-title_zh: "咲良诗恩"
+display_title: "咲良 シン"
+title_zh: ""
 title_ja: "咲良 シン"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c3392"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sakura Synn"
-  - "咲良 シン"
   - "Shin"
   - "魔王様"
   - "Maou-sama"
@@ -21,7 +23,7 @@ source_urls:
 portrait_image: "assets/characters/c3392.webp"
 ---
 
-# 咲良诗恩
+# 咲良 シン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "山田妙子"
 title_zh: "山田妙子"
 title_ja: "山田 妙子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c5608"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yamada Taeko"
   - "山田 妙子"

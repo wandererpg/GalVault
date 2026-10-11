@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c167312"
 type: "character"
-display_title: "尼加修和露津"
-title_zh: "尼加修和露津"
+display_title: "ニカ・シュワルツ"
+title_zh: ""
 title_ja: "ニカ・シュワルツ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c167312"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nica Schwartz"
-  - "ニカ・シュワルツ"
 source_ids:
   vndb: "c167312"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c167312.webp"
 ---
 
-# 尼加修和露津
+# ニカ・シュワルツ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

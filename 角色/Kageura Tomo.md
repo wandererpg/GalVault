@@ -5,7 +5,10 @@ display_title: "景浦智"
 title_zh: "景浦智"
 title_ja: "景浦 智"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c31819"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kageura Tomo"
   - "景浦 智"

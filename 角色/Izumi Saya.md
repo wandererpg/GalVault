@@ -5,7 +5,10 @@ display_title: "泉水小夜"
 title_zh: "泉水小夜"
 title_ja: "泉水 小夜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c497"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Izumi Saya"
   - "泉水 小夜"

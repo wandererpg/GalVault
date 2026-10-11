@@ -5,7 +5,10 @@ display_title: "飞羽爱歌"
 title_zh: "飞羽爱歌"
 title_ja: "飛羽 愛歌"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c140567"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hiba Manaka"
   - "飛羽 愛歌"

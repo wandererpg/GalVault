@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c75723"
 type: "character"
-display_title: "诗寿太阿莉莉伊"
-title_zh: "诗寿太阿莉莉伊"
+display_title: "シスター・リリィ"
+title_zh: ""
 title_ja: "シスター・リリィ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c75723"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sister Lili"
-  - "シスター・リリィ"
 source_ids:
   vndb: "c75723"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c75723.webp"
 ---
 
-# 诗寿太阿莉莉伊
+# シスター・リリィ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

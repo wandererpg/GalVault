@@ -5,7 +5,10 @@ display_title: "朱藤松实"
 title_zh: "朱藤松实"
 title_ja: "朱藤 松実"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c40070"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Akefuji Matsumi"
   - "朱藤 松実"

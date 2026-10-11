@@ -5,7 +5,10 @@ display_title: "神林永远子"
 title_zh: "神林永远子"
 title_ja: "神林永 遠子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c137504"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kanbayashi Towako"
   - "神林永 遠子"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c166146"
 type: "character"
-display_title: "七咲尼子露"
-title_zh: "七咲尼子露"
+display_title: "七咲ニコル"
+title_zh: ""
 title_ja: "七咲ニコル"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c166146"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nanasaki Nicole"
-  - "七咲ニコル"
 source_ids:
   vndb: "c166146"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c166146.webp"
 ---
 
-# 七咲尼子露
+# 七咲ニコル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

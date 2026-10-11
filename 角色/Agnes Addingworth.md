@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c94310"
 type: "character"
-display_title: "阿G音S·阿DD伊恩G奥RTH"
-title_zh: "阿G音S·阿DD伊恩G奥RTH"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Agnes Addingworth"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94310"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Agnes Addingworth"
 source_ids:
   vndb: "c94310"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c94310.webp"
 ---
 
-# 阿G音S·阿DD伊恩G奥RTH
+# Agnes Addingworth
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

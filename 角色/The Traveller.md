@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c99988"
 type: "character"
-display_title: "T惠·T拉V惠LL惠R"
-title_zh: "T惠·T拉V惠LL惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "The Traveller"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c99988"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "The Traveller"
   - "Jeong-in"
 source_ids:
   vndb: "c99988"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c99988.webp"
 ---
 
-# T惠·T拉V惠LL惠R
+# The Traveller
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

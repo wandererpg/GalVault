@@ -5,7 +5,10 @@ display_title: "锅岛直茂"
 title_zh: "锅岛直茂"
 title_ja: "鍋島 直茂"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c41007"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nabeshima Naoshige"
   - "鍋島 直茂"

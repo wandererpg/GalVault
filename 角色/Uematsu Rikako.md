@@ -5,7 +5,10 @@ display_title: "回末李花子"
 title_zh: "回末李花子"
 title_ja: "回末 李花子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c87369"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Uematsu Rikako"
   - "回末 李花子"

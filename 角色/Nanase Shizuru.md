@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12659"
 type: "character"
-display_title: "七濑诗兹露"
-title_zh: "七濑诗兹露"
+display_title: "七瀬 しずる"
+title_zh: ""
 title_ja: "七瀬 しずる"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12659"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nanase Shizuru"
-  - "七瀬 しずる"
 source_ids:
   vndb: "c12659"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c12659.webp"
 ---
 
-# 七濑诗兹露
+# 七瀬 しずる
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

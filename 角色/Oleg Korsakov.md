@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c132446"
 type: "character"
-display_title: "奥蕾古子露沙子芙"
-title_zh: "奥蕾古子露沙子芙"
+display_title: "オレグ・コルサコフ"
+title_zh: ""
 title_ja: "オレグ・コルサコフ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132446"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Oleg Korsakov"
-  - "オレグ・コルサコフ"
 source_ids:
   vndb: "c132446"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c132446.webp"
 ---
 
-# 奥蕾古子露沙子芙
+# オレグ・コルサコフ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

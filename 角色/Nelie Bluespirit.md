@@ -1,15 +1,18 @@
 ---
 entity_id: "vndb:character:c22362"
 type: "character"
-display_title: "音莉伊布露乌寿皮莉T斗"
-title_zh: "音莉伊布露乌寿皮莉T斗"
+display_title: "ネリー・ブルースピリット"
+title_zh: ""
 title_ja: "ネリー・ブルースピリット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c22362"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nelie Bluespirit"
-  - "ネリー・ブルースピリット"
   - "Nelie of 'Silence'"
+  - "Nelie of 'Silence"
 source_ids:
   vndb: "c22362"
 source_urls:
@@ -17,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c22362.webp"
 ---
 
-# 音莉伊布露乌寿皮莉T斗
+# ネリー・ブルースピリット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

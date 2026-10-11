@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c142054"
 type: "character"
-display_title: "久蕾莉阿"
-title_zh: "久蕾莉阿"
+display_title: "クレリア"
+title_zh: ""
 title_ja: "クレリア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c142054"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Crelia"
-  - "クレリア"
   - "Cleria"
 source_ids:
   vndb: "c142054"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c142054.webp"
 ---
 
-# 久蕾莉阿
+# クレリア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

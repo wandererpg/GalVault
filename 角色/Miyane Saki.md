@@ -5,7 +5,10 @@ display_title: "宫音沙希"
 title_zh: "宫音沙希"
 title_ja: "宮音 沙希"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c67954"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Miyane Saki"
   - "宮音 沙希"

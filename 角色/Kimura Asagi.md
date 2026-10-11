@@ -5,7 +5,10 @@ display_title: "木邑浅葱"
 title_zh: "木邑浅葱"
 title_ja: "木邑 浅葱"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c24986"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kimura Asagi"
   - "木邑 浅葱"

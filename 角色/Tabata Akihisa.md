@@ -5,7 +5,10 @@ display_title: "田端明久"
 title_zh: "田端明久"
 title_ja: "田端 明久"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c65723"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tabata Akihisa"
   - "田端 明久"

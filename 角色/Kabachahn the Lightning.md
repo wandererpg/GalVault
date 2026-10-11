@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98210"
 type: "character"
-display_title: "加巴H羽阿恩扎拉伊斗尼恩古"
-title_zh: "加巴H羽阿恩扎拉伊斗尼恩古"
+display_title: "カバッハーン・ザ・ライトニング"
+title_zh: ""
 title_ja: "カバッハーン・ザ・ライトニング"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98210"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kabachahn the Lightning"
-  - "カバッハーン・ザ・ライトニング"
 source_ids:
   vndb: "c98210"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98210.webp"
 ---
 
-# 加巴H羽阿恩扎拉伊斗尼恩古
+# カバッハーン・ザ・ライトニング
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

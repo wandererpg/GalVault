@@ -5,7 +5,10 @@ display_title: "鸦济燎子"
 title_zh: "鸦济燎子"
 title_ja: "鴉済 燎子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c34603"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Karasuzumi Ryouko"
   - "鴉済 燎子"

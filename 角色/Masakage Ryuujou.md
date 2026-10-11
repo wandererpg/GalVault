@@ -5,7 +5,10 @@ display_title: "柳城正景"
 title_zh: "柳城正景"
 title_ja: "柳城正景"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c161456"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Masakage Ryuujou"
 source_ids:

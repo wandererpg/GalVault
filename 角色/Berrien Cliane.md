@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c104161"
 type: "character"
-display_title: "贝莉阿恩久拉伊阿恩"
-title_zh: "贝莉阿恩久拉伊阿恩"
+display_title: "ベリアン・クライアン"
+title_zh: ""
 title_ja: "ベリアン・クライアン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c104161"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Berrien Cliane"
-  - "ベリアン・クライアン"
 source_ids:
   vndb: "c104161"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c104161.webp"
 ---
 
-# 贝莉阿恩久拉伊阿恩
+# ベリアン・クライアン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

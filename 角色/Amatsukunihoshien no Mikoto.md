@@ -5,7 +5,10 @@ display_title: "天津国星缘尊"
 title_zh: "天津国星缘尊"
 title_ja: "天津国星縁尊"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c30430"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Amatsukunihoshien no Mikoto"
   - "天津国星縁尊"

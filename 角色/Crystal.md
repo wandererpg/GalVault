@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159825"
 type: "character"
-display_title: "CRYS太L"
-title_zh: "CRYS太L"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Crystal"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159825"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Crystal"
 source_ids:
   vndb: "c159825"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c159825.webp"
 ---
 
-# CRYS太L
+# Crystal
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

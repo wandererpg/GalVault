@@ -5,7 +5,10 @@ display_title: "本田真鹤"
 title_zh: "本田真鹤"
 title_ja: "本田 真鶴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c33328"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Honda Matsuru"
   - "本田 真鶴"

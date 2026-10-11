@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c2435"
 type: "character"
-display_title: "德加奥"
-title_zh: "德加奥"
+display_title: "デカオ"
+title_zh: ""
 title_ja: "デカオ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c2435"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Dekao"
-  - "デカオ"
 source_ids:
   vndb: "c2435"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c2435.webp"
 ---
 
-# 德加奥
+# デカオ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

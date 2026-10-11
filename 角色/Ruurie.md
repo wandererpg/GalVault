@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c100149"
 type: "character"
-display_title: "露乌莉惠"
-title_zh: "露乌莉惠"
+display_title: "ルーリエ"
+title_zh: ""
 title_ja: "ルーリエ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c100149"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ruurie"
-  - "ルーリエ"
   - "Demon King's Head Maid"
   - "魔王のメイド長"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c100149.webp"
 ---
 
-# 露乌莉惠
+# ルーリエ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

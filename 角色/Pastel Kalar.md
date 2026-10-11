@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71011"
 type: "character"
-display_title: "帕寿特露加拉阿"
-title_zh: "帕寿特露加拉阿"
+display_title: "パステル・カラー"
+title_zh: ""
 title_ja: "パステル・カラー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71011"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Pastel Kalar"
-  - "パステル・カラー"
 source_ids:
   vndb: "c71011"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71011.webp"
 ---
 
-# 帕寿特露加拉阿
+# パステル・カラー
 
 
 ## 角色画像

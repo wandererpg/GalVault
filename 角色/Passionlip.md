@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14132"
 type: "character"
-display_title: "帕S翔恩莉P普"
-title_zh: "帕S翔恩莉P普"
+display_title: "パッションリップ"
+title_zh: ""
 title_ja: "パッションリップ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14132"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Passionlip"
-  - "パッションリップ"
   - "Alter Ego"
   - "High-Servant"
   - "OPM"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c14132.webp"
 ---
 
-# 帕S翔恩莉P普
+# パッションリップ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

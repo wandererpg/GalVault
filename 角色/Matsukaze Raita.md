@@ -5,7 +5,10 @@ display_title: "松风雷太"
 title_zh: "松风雷太"
 title_ja: "松風 雷太"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c73412"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Matsukaze Raita"
   - "松風 雷太"

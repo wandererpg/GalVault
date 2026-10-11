@@ -5,7 +5,10 @@ display_title: "河合铃"
 title_zh: "河合铃"
 title_ja: "河合 鈴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c37224"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kawai Rin"
   - "河合 鈴"

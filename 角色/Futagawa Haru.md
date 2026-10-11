@@ -5,7 +5,10 @@ display_title: "二川晴"
 title_zh: "二川晴"
 title_ja: "二川 晴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c88389"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Futagawa Haru"
   - "二川 晴"

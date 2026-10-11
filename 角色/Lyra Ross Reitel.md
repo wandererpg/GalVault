@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13041"
 type: "character"
-display_title: "莉露拉洛寿蕾惠特露"
-title_zh: "莉露拉洛寿蕾惠特露"
+display_title: "リルラ・ロス・レーテル"
+title_zh: ""
 title_ja: "リルラ・ロス・レーテル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13041"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lyra Ross Reitel"
-  - "リルラ・ロス・レーテル"
   - "Rirura Los Retel"
   - "Rirla Los Latel"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c13041.webp"
 ---
 
-# 莉露拉洛寿蕾惠特露
+# リルラ・ロス・レーテル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

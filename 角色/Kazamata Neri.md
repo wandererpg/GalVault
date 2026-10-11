@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c91361"
 type: "character"
-display_title: "风又音莉"
-title_zh: "风又音莉"
+display_title: "風又 ねり"
+title_zh: ""
 title_ja: "風又 ねり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c91361"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kazamata Neri"
-  - "風又 ねり"
 source_ids:
   vndb: "c91361"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c91361.webp"
 ---
 
-# 风又音莉
+# 風又 ねり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

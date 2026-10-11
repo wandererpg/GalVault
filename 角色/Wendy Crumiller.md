@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c55396"
 type: "character"
-display_title: "乌惠恩D伊久露美拉阿"
-title_zh: "乌惠恩D伊久露美拉阿"
+display_title: "ウェンディ・クルミラー"
+title_zh: ""
 title_ja: "ウェンディ・クルミラー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c55396"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Wendy Crumiller"
-  - "ウェンディ・クルミラー"
 source_ids:
   vndb: "c55396"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c55396.webp"
 ---
 
-# 乌惠恩D伊久露美拉阿
+# ウェンディ・クルミラー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

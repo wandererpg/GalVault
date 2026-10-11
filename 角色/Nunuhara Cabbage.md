@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c81118"
 type: "character"
-display_title: "努努羽拉佳贝津"
-title_zh: "努努羽拉佳贝津"
+display_title: "ヌヌハラ・キャベツ"
+title_zh: ""
 title_ja: "ヌヌハラ・キャベツ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c81118"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nunuhara Cabbage"
-  - "ヌヌハラ・キャベツ"
 source_ids:
   vndb: "c81118"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c81118.webp"
 ---
 
-# 努努羽拉佳贝津
+# ヌヌハラ・キャベツ
 
 
 ## 角色画像

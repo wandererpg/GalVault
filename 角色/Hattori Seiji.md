@@ -5,7 +5,10 @@ display_title: "服部清司"
 title_zh: "服部清司"
 title_ja: "服部 清司"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c113182"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hattori Seiji"
   - "服部 清司"

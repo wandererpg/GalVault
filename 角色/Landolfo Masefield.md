@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c73791"
 type: "character"
-display_title: "拉恩堂露F奥芽伊寿F伊伊露堂"
-title_zh: "拉恩堂露F奥芽伊寿F伊伊露堂"
+display_title: "ランドルフォ・メイスフィールド"
+title_zh: ""
 title_ja: "ランドルフォ・メイスフィールド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c73791"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Landolfo Masefield"
-  - "ランドルフォ・メイスフィールド"
 source_ids:
   vndb: "c73791"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c73791.webp"
 ---
 
-# 拉恩堂露F奥芽伊寿F伊伊露堂
+# ランドルフォ・メイスフィールド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

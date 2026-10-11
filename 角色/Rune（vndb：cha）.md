@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c27797"
 type: "character"
-display_title: "露乌恩"
-title_zh: "露乌恩"
+display_title: "ルーン"
+title_zh: ""
 title_ja: "ルーン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c27797"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rune"
-  - "ルーン"
   - "サラ"
   - "Sara"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c27797.webp"
 ---
 
-# 露乌恩
+# ルーン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

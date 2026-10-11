@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87181"
 type: "character"
-display_title: "露伊恩D伊美D伊乌梦"
-title_zh: "露伊恩D伊美D伊乌梦"
+display_title: "ルイン・ディミディウム"
+title_zh: ""
 title_ja: "ルイン・ディミディウム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87181"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ruin Dimidium"
-  - "ルイン・ディミディウム"
   - "Ruin Demedium"
 source_ids:
   vndb: "c87181"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c87181.webp"
 ---
 
-# 露伊恩D伊美D伊乌梦
+# ルイン・ディミディウム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

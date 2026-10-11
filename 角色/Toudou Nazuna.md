@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c67957"
 type: "character"
-display_title: "藤堂奈兹奈"
-title_zh: "藤堂奈兹奈"
+display_title: "藤堂 なずな"
+title_zh: ""
 title_ja: "藤堂 なずな"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c67957"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Toudou Nazuna"
-  - "藤堂 なずな"
 source_ids:
   vndb: "c67957"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c67957.webp"
 ---
 
-# 藤堂奈兹奈
+# 藤堂 なずな
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

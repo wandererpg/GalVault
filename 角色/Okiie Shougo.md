@@ -5,7 +5,10 @@ display_title: "兴家彰吾"
 title_zh: "兴家彰吾"
 title_ja: "興家 彰吾"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c124596"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Okiie Shougo"
   - "興家 彰吾"

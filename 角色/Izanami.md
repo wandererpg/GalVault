@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c156795"
 type: "character"
-display_title: "伊扎奈美"
-title_zh: "伊扎奈美"
+display_title: "イザナミ"
+title_zh: ""
 title_ja: "イザナミ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c156795"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Izanami"
-  - "イザナミ"
 source_ids:
   vndb: "c156795"
 source_urls:
   vndb: "https://vndb.org/c156795"
 ---
 
-# 伊扎奈美
+# イザナミ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

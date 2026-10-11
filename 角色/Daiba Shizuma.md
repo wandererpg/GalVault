@@ -5,7 +5,10 @@ display_title: "台场静马"
 title_zh: "台场静马"
 title_ja: "台場 静馬"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c99747"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Daiba Shizuma"
   - "台場 静馬"

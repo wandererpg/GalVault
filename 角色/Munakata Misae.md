@@ -5,7 +5,10 @@ display_title: "宗像美冴"
 title_zh: "宗像美冴"
 title_ja: "宗像 美冴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c164"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Munakata Misae"
   - "宗像 美冴"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16877"
 type: "character"
-display_title: "诗露F伊伊努"
-title_zh: "诗露F伊伊努"
+display_title: "シルフィーヌ"
+title_zh: ""
 title_ja: "シルフィーヌ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16877"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sylphine"
-  - "シルフィーヌ"
 source_ids:
   vndb: "c16877"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c16877.webp"
 ---
 
-# 诗露F伊伊努
+# シルフィーヌ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

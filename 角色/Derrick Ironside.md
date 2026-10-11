@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38183"
 type: "character"
-display_title: "德莉K久阿伊阿恩沙伊堂"
-title_zh: "德莉K久阿伊阿恩沙伊堂"
+display_title: "デリック・アイアンサイド"
+title_zh: ""
 title_ja: "デリック・アイアンサイド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38183"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Derrick Ironside"
-  - "デリック・アイアンサイド"
 source_ids:
   vndb: "c38183"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c38183.webp"
 ---
 
-# 德莉K久阿伊阿恩沙伊堂
+# デリック・アイアンサイド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

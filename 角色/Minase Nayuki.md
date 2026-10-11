@@ -5,7 +5,10 @@ display_title: "水濑名雪"
 title_zh: "水濑名雪"
 title_ja: "水瀬 名雪"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2928"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Minase Nayuki"
   - "水瀬 名雪"

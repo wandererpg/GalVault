@@ -5,7 +5,10 @@ display_title: "大村大悟"
 title_zh: "大村大悟"
 title_ja: "大村 大悟"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c48347"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Oomura Daigo"
   - "大村 大悟"

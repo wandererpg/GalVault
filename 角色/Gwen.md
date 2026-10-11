@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c99987"
 type: "character"
-display_title: "GW惠恩"
-title_zh: "GW惠恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Gwen"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c99987"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Gwen"
 source_ids:
   vndb: "c99987"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c99987.webp"
 ---
 
-# GW惠恩
+# Gwen
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

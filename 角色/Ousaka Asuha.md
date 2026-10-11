@@ -5,7 +5,10 @@ display_title: "逢坂明日叶"
 title_zh: "逢坂明日叶"
 title_ja: "逢坂 明日葉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c17438"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ousaka Asuha"
   - "逢坂 明日葉"

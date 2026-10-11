@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c20453"
 type: "character"
-display_title: "龙乌乃寿惠"
-title_zh: "龙乌乃寿惠"
+display_title: "りゅうのすけ"
+title_zh: ""
 title_ja: "りゅうのすけ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c20453"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ryuunosuke"
-  - "りゅうのすけ"
   - "竜之介"
 source_ids:
   vndb: "c20453"
@@ -16,7 +18,7 @@ source_urls:
   vndb: "https://vndb.org/c20453"
 ---
 
-# 龙乌乃寿惠
+# りゅうのすけ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

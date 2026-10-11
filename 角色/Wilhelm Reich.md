@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c11835"
 type: "character"
-display_title: "乌伊露惠露梦拉伊日"
-title_zh: "乌伊露惠露梦拉伊日"
+display_title: "ウィルヘルム・ライヒ"
+title_zh: ""
 title_ja: "ウィルヘルム・ライヒ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c11835"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Wilhelm Reich"
-  - "ウィルヘルム・ライヒ"
 source_ids:
   vndb: "c11835"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c11835.webp"
 ---
 
-# 乌伊露惠露梦拉伊日
+# ウィルヘルム・ライヒ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

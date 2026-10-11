@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98207"
 type: "character"
-display_title: "阿蕾芙雅露堂"
-title_zh: "阿蕾芙雅露堂"
+display_title: "アレフガルド"
+title_zh: ""
 title_ja: "アレフガルド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98207"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alefgard"
-  - "アレフガルド"
 source_ids:
   vndb: "c98207"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98207.webp"
 ---
 
-# 阿蕾芙雅露堂
+# アレフガルド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

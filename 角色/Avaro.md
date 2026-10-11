@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c55448"
 type: "character"
-display_title: "阿V阿洛"
-title_zh: "阿V阿洛"
+display_title: "アヴァロ"
+title_zh: ""
 title_ja: "アヴァロ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c55448"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Avaro"
-  - "アヴァロ"
   - "隊長（さん） (Mikeyu, Iol, Katlit)"
   - "アヴァロ隊長 (Roseline)"
   - "半分エルフ (Iol)"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c55448.webp"
 ---
 
-# 阿V阿洛
+# アヴァロ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

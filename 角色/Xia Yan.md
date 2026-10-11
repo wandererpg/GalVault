@@ -5,7 +5,10 @@ display_title: "夏彦"
 title_zh: "夏彦"
 title_ja: "夏彦"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c96084"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Xia Yan"
   - "Hạ Ngạn"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43025"
 type: "character"
-display_title: "吉露久濑久莉奥恩"
-title_zh: "吉露久濑久莉奥恩"
+display_title: "ギルク・セクリオン"
+title_zh: ""
 title_ja: "ギルク・セクリオン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43025"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gilk Securion"
-  - "ギルク・セクリオン"
 source_ids:
   vndb: "c43025"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43025.webp"
 ---
 
-# 吉露久濑久莉奥恩
+# ギルク・セクリオン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

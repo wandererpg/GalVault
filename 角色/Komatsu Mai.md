@@ -5,7 +5,10 @@ display_title: "小松舞"
 title_zh: "小松舞"
 title_ja: "小松 舞"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c8140"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Komatsu Mai"
   - "小松 舞"

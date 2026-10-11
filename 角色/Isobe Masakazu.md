@@ -5,7 +5,10 @@ display_title: "矶部雅和"
 title_zh: "矶部雅和"
 title_ja: "磯部 雅和"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16795"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Isobe Masakazu"
   - "磯部 雅和"

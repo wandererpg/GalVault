@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12987"
 type: "character"
-display_title: "别当・和泉八郎寿加阿蕾T斗"
-title_zh: "别当・和泉八郎寿加阿蕾T斗"
+display_title: "別当・和泉八郎・スカーレット"
+title_zh: ""
 title_ja: "別当・和泉八郎・スカーレット"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12987"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Bettou Izumi Hachirou Scarlett"
-  - "別当・和泉八郎・スカーレット"
 source_ids:
   vndb: "c12987"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c12987.webp"
 ---
 
-# 别当・和泉八郎寿加阿蕾T斗
+# 別当・和泉八郎・スカーレット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

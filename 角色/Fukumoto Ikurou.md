@@ -5,7 +5,10 @@ display_title: "福本育郎"
 title_zh: "福本育郎"
 title_ja: "福本 育郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9786"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fukumoto Ikurou"
   - "福本 育郎"

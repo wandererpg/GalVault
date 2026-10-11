@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c72202"
 type: "character"
-display_title: "久伊恩贝露"
-title_zh: "久伊恩贝露"
+display_title: "クインベル"
+title_zh: ""
 title_ja: "クインベル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c72202"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Queenbelle"
-  - "クインベル"
 source_ids:
   vndb: "c72202"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c72202.webp"
 ---
 
-# 久伊恩贝露
+# クインベル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

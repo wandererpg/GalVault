@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c127326"
 type: "character"
-display_title: "蕾美"
-title_zh: "蕾美"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Remi"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127326"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Remi"
 source_ids:
   vndb: "c127326"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c127326.webp"
 ---
 
-# 蕾美
+# Remi
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

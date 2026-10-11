@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38158"
 type: "character"
-display_title: "来嶋加惠德"
-title_zh: "来嶋加惠德"
+display_title: "来嶋 かえで"
+title_zh: ""
 title_ja: "来嶋 かえで"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38158"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kurushima Kaede"
-  - "来嶋 かえで"
   - "Kaede"
   - "カエデ"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c38158.webp"
 ---
 
-# 来嶋加惠德
+# 来嶋 かえで
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

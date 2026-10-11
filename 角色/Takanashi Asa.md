@@ -5,7 +5,10 @@ display_title: "小鸟游亚沙"
 title_zh: "小鸟游亚沙"
 title_ja: "小鳥遊 亜沙"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c7080"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takanashi Asa"
   - "小鳥遊 亜沙"

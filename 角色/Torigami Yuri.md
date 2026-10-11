@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30435"
 type: "character"
-display_title: "鸟神优乌莉伊"
-title_zh: "鸟神优乌莉伊"
+display_title: "鳥神 ユーリー"
+title_zh: ""
 title_ja: "鳥神 ユーリー"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30435"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Torigami Yuri"
-  - "鳥神 ユーリー"
 source_ids:
   vndb: "c30435"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30435.webp"
 ---
 
-# 鸟神优乌莉伊
+# 鳥神 ユーリー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

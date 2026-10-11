@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c116755"
 type: "character"
-display_title: "惠露真沙贝恩特伊拉"
-title_zh: "惠露真沙贝恩特伊拉"
+display_title: "エルマ・サベンティラ"
+title_zh: ""
 title_ja: "エルマ・サベンティラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116755"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Elma Saventilla"
-  - "エルマ・サベンティラ"
 source_ids:
   vndb: "c116755"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c116755.webp"
 ---
 
-# 惠露真沙贝恩特伊拉
+# エルマ・サベンティラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

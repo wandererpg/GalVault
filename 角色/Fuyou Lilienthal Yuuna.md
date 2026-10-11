@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c147087"
 type: "character"
-display_title: "芙蓉莉莉惠恩索奥露友奈"
-title_zh: "芙蓉莉莉惠恩索奥露友奈"
+display_title: "芙蓉・リリエンソール・友奈"
+title_zh: ""
 title_ja: "芙蓉・リリエンソール・友奈"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c147087"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Fuyou Lilienthal Yuuna"
-  - "芙蓉・リリエンソール・友奈"
 source_ids:
   vndb: "c147087"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c147087.webp"
 ---
 
-# 芙蓉莉莉惠恩索奥露友奈
+# 芙蓉・リリエンソール・友奈
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

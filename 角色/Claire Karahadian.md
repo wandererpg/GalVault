@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c138184"
 type: "character"
-display_title: "克莱尔·加拉羽D伊阿恩"
-title_zh: "克莱尔·加拉羽D伊阿恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Claire Karahadian"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138184"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Claire Karahadian"
   - "Dr.Karahadian, DK"
 source_ids:
   vndb: "c138184"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c138184.webp"
 ---
 
-# 克莱尔·加拉羽D伊阿恩
+# Claire Karahadian
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

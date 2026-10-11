@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c114517"
 type: "character"
-display_title: "煤惠谷宗名"
-title_zh: "煤惠谷宗名"
+display_title: "煤ヶ谷 宗名"
+title_zh: ""
 title_ja: "煤ヶ谷 宗名"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c114517"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Suzugaya Soumei"
-  - "煤ヶ谷 宗名"
 source_ids:
   vndb: "c114517"
 source_urls:
   vndb: "https://vndb.org/c114517"
 ---
 
-# 煤惠谷宗名
+# 煤ヶ谷 宗名
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

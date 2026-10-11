@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39"
 type: "character"
-display_title: "拉伊达阿"
-title_zh: "拉伊达阿"
+display_title: "ライダー"
+title_zh: ""
 title_ja: "ライダー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rider"
-  - "ライダー"
   - "メドゥーサ"
   - "Medusa"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c39.webp"
 ---
 
-# 拉伊达阿
+# ライダー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

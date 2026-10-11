@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c116511"
 type: "character"
-display_title: "濑蕾恩"
-title_zh: "濑蕾恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Seren"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116511"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Seren"
 source_ids:
   vndb: "c116511"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c116511.webp"
 ---
 
-# 濑蕾恩
+# Seren
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

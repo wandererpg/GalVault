@@ -5,7 +5,10 @@ display_title: "九真城惠"
 title_zh: "九真城惠"
 title_ja: "九真城 恵"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c62418"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kumashiro Megumi"
   - "九真城 恵"

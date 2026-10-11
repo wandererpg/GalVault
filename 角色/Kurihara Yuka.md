@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c36936"
 type: "character"
-display_title: "栗原优加"
-title_zh: "栗原优加"
+display_title: "栗原 ゆか"
+title_zh: ""
 title_ja: "栗原 ゆか"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c36936"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kurihara Yuka"
-  - "栗原 ゆか"
 source_ids:
   vndb: "c36936"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c36936.webp"
 ---
 
-# 栗原优加
+# 栗原 ゆか
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

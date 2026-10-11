@@ -5,7 +5,10 @@ display_title: "鸦丸罗喉"
 title_zh: "鸦丸罗喉"
 title_ja: "鴉丸 羅喉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2429"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Karasuma Ragou"
   - "鴉丸 羅喉"

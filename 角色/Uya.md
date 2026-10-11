@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17156"
 type: "character"
-display_title: "狐炎兽沙惠拉布"
-title_zh: "狐炎兽沙惠拉布"
+display_title: "狐炎獣サエラブ"
+title_zh: ""
 title_ja: "狐炎獣サエラブ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17156"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Uya"
-  - "狐炎獣サエラブ"
 source_ids:
   vndb: "c17156"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c17156.webp"
 ---
 
-# 狐炎兽沙惠拉布
+# 狐炎獣サエラブ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

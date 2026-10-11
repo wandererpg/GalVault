@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c36543"
 type: "character"
-display_title: "濑乃宫阿希穗"
-title_zh: "濑乃宫阿希穗"
+display_title: "瀬乃宮 あき穂"
+title_zh: ""
 title_ja: "瀬乃宮 あき穂"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c36543"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Senomiya Akiho"
-  - "瀬乃宮 あき穂"
   - "AKIPOPOPOPOOON"
   - "Little Senomiya"
   - "Aki"
@@ -21,7 +23,7 @@ source_urls:
 portrait_image: "assets/characters/c36543.webp"
 ---
 
-# 濑乃宫阿希穗
+# 瀬乃宮 あき穂
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

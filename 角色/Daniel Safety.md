@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98812"
 type: "character"
-display_title: "达尼惠露濑芙特伊"
-title_zh: "达尼惠露濑芙特伊"
+display_title: "ダニエル・セフティ"
+title_zh: ""
 title_ja: "ダニエル・セフティ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98812"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Daniel Safety"
-  - "ダニエル・セフティ"
 source_ids:
   vndb: "c98812"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98812.webp"
 ---
 
-# 达尼惠露濑芙特伊
+# ダニエル・セフティ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

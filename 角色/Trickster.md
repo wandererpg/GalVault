@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c47205"
 type: "character"
-display_title: "斗莉K久寿太阿"
-title_zh: "斗莉K久寿太阿"
+display_title: "トリックスター"
+title_zh: ""
 title_ja: "トリックスター"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c47205"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Trickster"
-  - "トリックスター"
 source_ids:
   vndb: "c47205"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c47205.webp"
 ---
 
-# 斗莉K久寿太阿
+# トリックスター
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

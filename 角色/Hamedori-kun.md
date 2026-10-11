@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71537"
 type: "character"
-display_title: "羽芽堂莉久恩"
-title_zh: "羽芽堂莉久恩"
+display_title: "ハメドリくん"
+title_zh: ""
 title_ja: "ハメドリくん"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71537"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hamedori-kun"
-  - "ハメドリくん"
 source_ids:
   vndb: "c71537"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71537.webp"
 ---
 
-# 羽芽堂莉久恩
+# ハメドリくん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "堀田美由纪"
 title_zh: "堀田美由纪"
 title_ja: "堀田美由紀"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c100450"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hotta Miyuki"
   - "堀田美由紀"

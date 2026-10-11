@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c63465"
 type: "character"
-display_title: "羽奈"
-title_zh: "羽奈"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "HANA"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c63465"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "HANA"
   - "Kobayashi Hanako"
   - "小林 花子"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c63465.webp"
 ---
 
-# 羽奈
+# HANA
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

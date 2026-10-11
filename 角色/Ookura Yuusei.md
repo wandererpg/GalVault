@@ -5,7 +5,10 @@ display_title: "大藏游星"
 title_zh: "大藏游星"
 title_ja: "大蔵 遊星"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9481"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ookura Yuusei"
   - "大蔵 遊星"

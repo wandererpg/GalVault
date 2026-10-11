@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c28997"
 type: "character"
-display_title: "乌奥露芙雅恩古修拉伊巴阿"
-title_zh: "乌奥露芙雅恩古修拉伊巴阿"
+display_title: "ウォルフガング・シュライバー"
+title_zh: ""
 title_ja: "ウォルフガング・シュライバー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c28997"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Wolfgang Schreiber"
-  - "ウォルフガング・シュライバー"
   - "アンナ・シュライバー"
   - "Anna Schreiber"
   - "惡名高き狼"
@@ -23,7 +25,7 @@ source_urls:
 portrait_image: "assets/characters/c28997.webp"
 ---
 
-# 乌奥露芙雅恩古修拉伊巴阿
+# ウォルフガング・シュライバー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

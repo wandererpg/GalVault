@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c19277"
 type: "character"
-display_title: "速水美希子"
-title_zh: "速水美希子"
+display_title: "速水 ミキコ"
+title_zh: ""
 title_ja: "速水 ミキコ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c19277"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hayami Mikiko"
-  - "速水 ミキコ"
   - "Nicole Swift (fanTL)"
 source_ids:
   vndb: "c19277"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c19277.webp"
 ---
 
-# 速水美希子
+# 速水 ミキコ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

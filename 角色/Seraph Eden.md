@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127582"
 type: "character"
-display_title: "惠德恩"
-title_zh: "惠德恩"
+display_title: "エデン"
+title_zh: ""
 title_ja: "エデン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127582"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Seraph Eden"
-  - "エデン"
   - "The Third Great Seraph"
   - "Third"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c127582.webp"
 ---
 
-# 惠德恩
+# エデン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

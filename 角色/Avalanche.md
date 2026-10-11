@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c1176"
 type: "character"
-display_title: "阿巴拉恩千"
-title_zh: "阿巴拉恩千"
+display_title: "アバランチ"
+title_zh: ""
 title_ja: "アバランチ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c1176"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Avalanche"
-  - "アバランチ"
   - "雪崩"
 source_ids:
   vndb: "c1176"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c1176.webp"
 ---
 
-# 阿巴拉恩千
+# アバランチ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

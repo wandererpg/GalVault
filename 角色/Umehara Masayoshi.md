@@ -5,7 +5,10 @@ display_title: "梅原正吉"
 title_zh: "梅原正吉"
 title_ja: "梅原 正吉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c8752"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Umehara Masayoshi"
   - "梅原 正吉"

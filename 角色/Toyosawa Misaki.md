@@ -5,7 +5,10 @@ display_title: "丰泽美咲"
 title_zh: "丰泽美咲"
 title_ja: "豊沢 美咲"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c97027"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Toyosawa Misaki"
   - "豊沢 美咲"

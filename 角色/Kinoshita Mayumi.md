@@ -5,7 +5,10 @@ display_title: "木下真弓"
 title_zh: "木下真弓"
 title_ja: "木下 真弓"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21379"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kinoshita Mayumi"
   - "木下 真弓"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c32434"
 type: "character"
-display_title: "惠久寿特伊阿"
-title_zh: "惠久寿特伊阿"
+display_title: "エクスティア"
+title_zh: ""
 title_ja: "エクスティア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c32434"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "ExS-TIA"
-  - "エクスティア"
   - "Exstia"
 source_ids:
   vndb: "c32434"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c32434.webp"
 ---
 
-# 惠久寿特伊阿
+# エクスティア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

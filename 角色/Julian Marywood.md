@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8295"
 type: "character"
-display_title: "朱莉阿恩芽莉伊乌D堂"
-title_zh: "朱莉阿恩芽莉伊乌D堂"
+display_title: "ジュリアン・メリーウッド"
+title_zh: ""
 title_ja: "ジュリアン・メリーウッド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8295"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Julian Marywood"
-  - "ジュリアン・メリーウッド"
 source_ids:
   vndb: "c8295"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c8295.webp"
 ---
 
-# 朱莉阿恩芽莉伊乌D堂
+# ジュリアン・メリーウッド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

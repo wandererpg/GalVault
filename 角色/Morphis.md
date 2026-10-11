@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c104869"
 type: "character"
-display_title: "莫露F伊寿"
-title_zh: "莫露F伊寿"
+display_title: "モルフィス"
+title_zh: ""
 title_ja: "モルフィス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c104869"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Morphis"
-  - "モルフィス"
   - "Morvay"
 source_ids:
   vndb: "c104869"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c104869.webp"
 ---
 
-# 莫露F伊寿
+# モルフィス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

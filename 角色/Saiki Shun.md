@@ -5,7 +5,10 @@ display_title: "斋木旬"
 title_zh: "斋木旬"
 title_ja: "斎木 旬"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16492"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Saiki Shun"
   - "斎木 旬"

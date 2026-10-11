@@ -5,7 +5,10 @@ display_title: "南井巴"
 title_zh: "南井巴"
 title_ja: "南井 巴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c71708"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Minai Tomoe"
   - "南井 巴"

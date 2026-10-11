@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c24225"
 type: "character"
-display_title: "惠寿斗莉阿"
-title_zh: "惠寿斗莉阿"
+display_title: "エストリア"
+title_zh: ""
 title_ja: "エストリア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c24225"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Estoria"
-  - "エストリア"
 source_ids:
   vndb: "c24225"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c24225.webp"
 ---
 
-# 惠寿斗莉阿
+# エストリア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

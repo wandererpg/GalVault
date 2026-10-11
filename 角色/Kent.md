@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c143507"
 type: "character"
-display_title: "惠恩T"
-title_zh: "惠恩T"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Kent"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c143507"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Kent"
 source_ids:
   vndb: "c143507"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c143507.webp"
 ---
 
-# 惠恩T
+# Kent
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c126884"
 type: "character"
-display_title: "千芽拉·芽D乌LL阿羽恩"
-title_zh: "千芽拉·芽D乌LL阿羽恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Chimera Medullahan"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126884"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Chimera Medullahan"
 source_ids:
   vndb: "c126884"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c126884.webp"
 ---
 
-# 千芽拉·芽D乌LL阿羽恩
+# Chimera Medullahan
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

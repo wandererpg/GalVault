@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c18248"
 type: "character"
-display_title: "洛伊堂洛恩布洛奥藏"
-title_zh: "洛伊堂洛恩布洛奥藏"
+display_title: "ロイド・ロンブローゾ"
+title_zh: ""
 title_ja: "ロイド・ロンブローゾ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c18248"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lloyd Lombroso"
-  - "ロイド・ロンブローゾ"
 source_ids:
   vndb: "c18248"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c18248.webp"
 ---
 
-# 洛伊堂洛恩布洛奥藏
+# ロイド・ロンブローゾ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

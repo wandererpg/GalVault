@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c60818"
 type: "character"
-display_title: "奥露洛吉恩＝布蕾伊久"
-title_zh: "奥露洛吉恩＝布蕾伊久"
+display_title: "オルロギン＝ブレイク"
+title_zh: ""
 title_ja: "オルロギン＝ブレイク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c60818"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Orurogin"
-  - "オルロギン＝ブレイク"
   - "Orurogin Break"
 source_ids:
   vndb: "c60818"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c60818.webp"
 ---
 
-# 奥露洛吉恩＝布蕾伊久
+# オルロギン＝ブレイク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

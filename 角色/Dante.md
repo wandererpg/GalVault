@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c107461"
 type: "character"
-display_title: "惠恩特恩"
-title_zh: "惠恩特恩"
+display_title: "エンテン"
+title_zh: ""
 title_ja: "エンテン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c107461"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Dante"
-  - "エンテン"
   - "Sun Lord"
   - "Enten"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c107461.webp"
 ---
 
-# 惠恩特恩
+# エンテン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

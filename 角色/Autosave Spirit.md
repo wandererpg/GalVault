@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c150647"
 type: "character"
-display_title: "阿乌斗沙V惠·S皮莉T"
-title_zh: "阿乌斗沙V惠·S皮莉T"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Autosave Spirit"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c150647"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Autosave Spirit"
 source_ids:
   vndb: "c150647"
 source_urls:
   vndb: "https://vndb.org/c150647"
 ---
 
-# 阿乌斗沙V惠·S皮莉T
+# Autosave Spirit
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

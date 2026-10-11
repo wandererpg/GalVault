@@ -5,7 +5,10 @@ display_title: "姉小路冬华"
 title_zh: "姉小路冬华"
 title_ja: "姉小路 冬華"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c78784"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Anenokouji Fuyuka"
   - "姉小路 冬華"

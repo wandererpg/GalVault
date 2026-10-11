@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c50768"
 type: "character"
-display_title: "真莉伊阿恩斗和音T斗"
-title_zh: "真莉伊阿恩斗和音T斗"
+display_title: "マリー・アントワネット"
+title_zh: ""
 title_ja: "マリー・アントワネット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c50768"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Marie Antoinette"
-  - "マリー・アントワネット"
 source_ids:
   vndb: "c50768"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c50768.webp"
 ---
 
-# 真莉伊阿恩斗和音T斗
+# マリー・アントワネット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

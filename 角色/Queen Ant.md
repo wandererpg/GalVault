@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126068"
 type: "character"
-display_title: "久伊伊奈恩斗"
-title_zh: "久伊伊奈恩斗"
+display_title: "クィーンアント"
+title_zh: ""
 title_ja: "クィーンアント"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126068"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Queen Ant"
-  - "クィーンアント"
   - "Antine Ann"
 source_ids:
   vndb: "c126068"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c126068.webp"
 ---
 
-# 久伊伊奈恩斗
+# クィーンアント
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

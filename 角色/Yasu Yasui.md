@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c97532"
 type: "character"
-display_title: "雅寿·雅寿伊"
-title_zh: "雅寿·雅寿伊"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Yasu Yasui"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97532"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Yasu Yasui"
 source_ids:
   vndb: "c97532"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c97532.webp"
 ---
 
-# 雅寿·雅寿伊
+# Yasu Yasui
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

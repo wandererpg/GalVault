@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17054"
 type: "character"
-display_title: "十五夜津希美"
-title_zh: "十五夜津希美"
+display_title: "十五夜 つきみ"
+title_zh: ""
 title_ja: "十五夜 つきみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17054"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Juugoya Tsukimi"
-  - "十五夜 つきみ"
   - "Silva Star"
   - "シルバスター"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c17054.webp"
 ---
 
-# 十五夜津希美
+# 十五夜 つきみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

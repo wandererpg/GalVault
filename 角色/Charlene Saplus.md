@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c28221"
 type: "character"
-display_title: "夏露乌努沙普拉寿"
-title_zh: "夏露乌努沙普拉寿"
+display_title: "シャルーヌ・サプラス"
+title_zh: ""
 title_ja: "シャルーヌ・サプラス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c28221"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Charlene Saplus"
-  - "シャルーヌ・サプラス"
 source_ids:
   vndb: "c28221"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c28221.webp"
 ---
 
-# 夏露乌努沙普拉寿
+# シャルーヌ・サプラス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

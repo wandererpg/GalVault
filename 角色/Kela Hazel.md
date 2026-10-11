@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8879"
 type: "character"
-display_title: "惠惠拉惠惠泽露"
-title_zh: "惠惠拉惠惠泽露"
+display_title: "ケーラ・ヘーゼル"
+title_zh: ""
 title_ja: "ケーラ・ヘーゼル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8879"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kela Hazel"
-  - "ケーラ・ヘーゼル"
   - "Dr. Kala"
   - "Cera"
   - "Kera"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c8879.webp"
 ---
 
-# 惠惠拉惠惠泽露
+# ケーラ・ヘーゼル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

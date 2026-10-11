@@ -5,7 +5,10 @@ display_title: "绀野铁平"
 title_zh: "绀野铁平"
 title_ja: "紺野 鉄平"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16482"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Konno Teppei"
   - "紺野 鉄平"

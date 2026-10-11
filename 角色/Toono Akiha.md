@@ -5,7 +5,10 @@ display_title: "远野秋叶"
 title_zh: "远野秋叶"
 title_ja: "遠野 秋葉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c78"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Toono Akiha"
   - "遠野 秋葉"

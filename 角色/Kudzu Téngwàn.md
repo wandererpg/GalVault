@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c95210"
 type: "character"
-display_title: "久D兹·T恩GW恩"
-title_zh: "久D兹·T恩GW恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Kudzu Téngwàn"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c95210"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Kudzu Téngwàn"
   - "Kud"
 source_ids:
   vndb: "c95210"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c95210.webp"
 ---
 
-# 久D兹·T恩GW恩
+# Kudzu Téngwàn
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61220"
 type: "character"
-display_title: "乔尼伊阿音久寿恩"
-title_zh: "乔尼伊阿音久寿恩"
+display_title: "ジョニー・A・ネクスン"
+title_zh: ""
 title_ja: "ジョニー・A・ネクスン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61220"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Johnny A. Nexon"
-  - "ジョニー・A・ネクスン"
 source_ids:
   vndb: "c61220"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61220.webp"
 ---
 
-# 乔尼伊阿音久寿恩
+# ジョニー・A・ネクスン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

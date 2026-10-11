@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c149533"
 type: "character"
-display_title: "真吉奈贝惠吉惠布露乌芽"
-title_zh: "真吉奈贝惠吉惠布露乌芽"
+display_title: "マギナベージェ・ブルーメ"
+title_zh: ""
 title_ja: "マギナベージェ・ブルーメ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149533"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Maginabeige Blume"
-  - "マギナベージェ・ブルーメ"
 source_ids:
   vndb: "c149533"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c149533.webp"
 ---
 
-# 真吉奈贝惠吉惠布露乌芽
+# マギナベージェ・ブルーメ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

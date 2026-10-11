@@ -5,7 +5,10 @@ display_title: "羽山海己"
 title_zh: "羽山海己"
 title_ja: "羽山 海己"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9952"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hayama Umi"
   - "羽山 海己"

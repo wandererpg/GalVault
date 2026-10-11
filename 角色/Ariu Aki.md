@@ -5,7 +5,10 @@ display_title: "有游爱来"
 title_zh: "有游爱来"
 title_ja: "有遊 愛来"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10872"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ariu Aki"
   - "有遊 愛来"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c149568"
 type: "character"
-display_title: "真阿特伊恩沙真阿"
-title_zh: "真阿特伊恩沙真阿"
+display_title: "マーティン・サマー"
+title_zh: ""
 title_ja: "マーティン・サマー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149568"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Martin Summer"
-  - "マーティン・サマー"
 source_ids:
   vndb: "c149568"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c149568.webp"
 ---
 
-# 真阿特伊恩沙真阿
+# マーティン・サマー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

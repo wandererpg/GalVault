@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c33475"
 type: "character"
-display_title: "嘉雅阿真恩"
-title_zh: "嘉雅阿真恩"
+display_title: "ジャガーマン"
+title_zh: ""
 title_ja: "ジャガーマン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33475"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jaguar Man"
-  - "ジャガーマン"
 source_ids:
   vndb: "c33475"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c33475.webp"
 ---
 
-# 嘉雅阿真恩
+# ジャガーマン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

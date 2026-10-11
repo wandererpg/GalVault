@@ -5,7 +5,10 @@ display_title: "小金原"
 title_zh: "小金原"
 title_ja: "小金原"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c167343"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Koganehara"
 source_ids:

@@ -5,7 +5,10 @@ display_title: "朱岛步武"
 title_zh: "朱岛步武"
 title_ja: "朱島 歩武"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c13882"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Akashima Ayumu"
   - "朱島 歩武"

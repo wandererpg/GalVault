@@ -5,7 +5,10 @@ display_title: "青柳窓果"
 title_zh: "青柳窓果"
 title_ja: "青柳 窓果"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c22775"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Aoyagi Madoka"
   - "青柳 窓果"

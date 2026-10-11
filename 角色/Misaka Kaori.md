@@ -5,7 +5,10 @@ display_title: "美坂香里"
 title_zh: "美坂香里"
 title_ja: "美坂 香里"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2941"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Misaka Kaori"
   - "美坂 香里"

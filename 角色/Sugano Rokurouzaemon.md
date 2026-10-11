@@ -5,7 +5,10 @@ display_title: "菅野六郎左卫门"
 title_zh: "菅野六郎左卫门"
 title_ja: "菅野 六郎左衛門"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c22600"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sugano Rokurouzaemon"
   - "菅野 六郎左衛門"

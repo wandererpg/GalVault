@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c74675"
 type: "character"
-display_title: "绀之美沙希"
-title_zh: "绀之美沙希"
+display_title: "紺之ミサキ"
+title_zh: ""
 title_ja: "紺之ミサキ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c74675"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Konno Misaki"
-  - "紺之ミサキ"
 source_ids:
   vndb: "c74675"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c74675.webp"
 ---
 
-# 绀之美沙希
+# 紺之ミサキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

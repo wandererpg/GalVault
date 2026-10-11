@@ -5,7 +5,10 @@ display_title: "古泉一树"
 title_zh: "古泉一树"
 title_ja: "古泉一樹"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c85139"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Koizumi Itsuki"
   - "古泉一樹"

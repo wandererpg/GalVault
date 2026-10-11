@@ -5,7 +5,10 @@ display_title: "射场久美子"
 title_zh: "射场久美子"
 title_ja: "射場 久美子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c46886"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Iba Kumiko"
   - "射場 久美子"

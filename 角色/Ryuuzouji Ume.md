@@ -5,7 +5,10 @@ display_title: "龙藏寺梅"
 title_zh: "龙藏寺梅"
 title_ja: "龍蔵寺 梅"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c3850"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ryuuzouji Ume"
   - "龍蔵寺 梅"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38211"
 type: "character"
-display_title: "堂拉久洛和二世"
-title_zh: "堂拉久洛和二世"
+display_title: "ドラクロワ二世"
+title_zh: ""
 title_ja: "ドラクロワ二世"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38211"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Delacroix II"
-  - "ドラクロワ二世"
   - "Delacroix"
   - "Dora-chan"
   - "Delly"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c38211.webp"
 ---
 
-# 堂拉久洛和二世
+# ドラクロワ二世
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

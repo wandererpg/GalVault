@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c96268"
 type: "character"
-display_title: "奈伊神父"
-title_zh: "奈伊神父"
+display_title: "ナイ神父"
+title_zh: ""
 title_ja: "ナイ神父"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c96268"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Reverend Nye"
-  - "ナイ神父"
   - "Nyarlathotep"
   - "ナイアルラトホテップ"
   - "Crawling Chaos"
@@ -24,7 +26,7 @@ source_urls:
 portrait_image: "assets/characters/c96268.webp"
 ---
 
-# 奈伊神父
+# ナイ神父
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

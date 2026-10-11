@@ -5,7 +5,10 @@ display_title: "姫川风花"
 title_zh: "姫川风花"
 title_ja: "姫川 風花"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c12466"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Himekawa Fuuka"
   - "姫川 風花"

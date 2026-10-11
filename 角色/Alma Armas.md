@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c69153"
 type: "character"
-display_title: "阿L真·阿R真S"
-title_zh: "阿L真·阿R真S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Alma Armas"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c69153"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Alma Armas"
   - "Anchorage"
   - "Armitage"
   - "Boobtender"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c69153.webp"
 ---
 
-# 阿L真·阿R真S
+# Alma Armas
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

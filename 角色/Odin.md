@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14476"
 type: "character"
-display_title: "奥奥D伊恩"
-title_zh: "奥奥D伊恩"
+display_title: "オーディン"
+title_zh: ""
 title_ja: "オーディン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14476"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Odin"
-  - "オーディン"
   - "Sou"
   - "Sousei Yoshino"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c14476.webp"
 ---
 
-# 奥奥D伊恩
+# オーディン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

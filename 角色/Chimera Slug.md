@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c126867"
 type: "character"
-display_title: "千芽拉·SL乌G"
-title_zh: "千芽拉·SL乌G"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Chimera Slug"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126867"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Chimera Slug"
 source_ids:
   vndb: "c126867"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c126867.webp"
 ---
 
-# 千芽拉·SL乌G
+# Chimera Slug
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

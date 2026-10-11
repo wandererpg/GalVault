@@ -5,7 +5,10 @@ display_title: "天城夏夜"
 title_zh: "天城夏夜"
 title_ja: "天城 夏夜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c6239"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Amagi Kaya"
   - "天城 夏夜"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c775"
 type: "character"
-display_title: "爱丽丝＝莉德露"
-title_zh: "爱丽丝＝莉德露"
+display_title: "アリス＝リデル"
+title_zh: ""
 title_ja: "アリス＝リデル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c775"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alice Liddell"
-  - "アリス＝リデル"
 source_ids:
   vndb: "c775"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c775.webp"
 ---
 
-# 爱丽丝＝莉德露
+# アリス＝リデル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

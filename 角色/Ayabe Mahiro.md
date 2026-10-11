@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c21373"
 type: "character"
-display_title: "绫部真日洛"
-title_zh: "绫部真日洛"
+display_title: "綾部 まひろ"
+title_zh: ""
 title_ja: "綾部 まひろ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c21373"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ayabe Mahiro"
-  - "綾部 まひろ"
   - "Mahiron"
 source_ids:
   vndb: "c21373"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c21373.webp"
 ---
 
-# 绫部真日洛
+# 綾部 まひろ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

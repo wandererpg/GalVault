@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c127034"
 type: "character"
-display_title: "千芽拉·恰莉奥T"
-title_zh: "千芽拉·恰莉奥T"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Chimera Chariot"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127034"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Chimera Chariot"
 source_ids:
   vndb: "c127034"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c127034.webp"
 ---
 
-# 千芽拉·恰莉奥T
+# Chimera Chariot
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

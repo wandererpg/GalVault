@@ -5,7 +5,10 @@ display_title: "北条步"
 title_zh: "北条步"
 title_ja: "北条 歩"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c5404"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Houjou Ayumi"
   - "北条 歩"

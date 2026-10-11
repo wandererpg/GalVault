@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c94362"
 type: "character"
-display_title: "帕芽L阿·L阿ST"
-title_zh: "帕芽L阿·L阿ST"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Pamela Last"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94362"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Pamela Last"
   - "Pam"
   - "Mom"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c94362.webp"
 ---
 
-# 帕芽L阿·L阿ST
+# Pamela Last
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

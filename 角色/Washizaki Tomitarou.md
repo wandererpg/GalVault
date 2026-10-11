@@ -5,7 +5,10 @@ display_title: "鹫崎富太郎"
 title_zh: "鹫崎富太郎"
 title_ja: "鷲崎 富太郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c129568"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Washizaki Tomitarou"
   - "鷲崎 富太郎"

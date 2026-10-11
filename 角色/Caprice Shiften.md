@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c113521"
 type: "character"
-display_title: "C阿P莉C惠·诗F特恩"
-title_zh: "C阿P莉C惠·诗F特恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Caprice Shiften"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c113521"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Caprice Shiften"
 source_ids:
   vndb: "c113521"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c113521.webp"
 ---
 
-# C阿P莉C惠·诗F特恩
+# Caprice Shiften
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

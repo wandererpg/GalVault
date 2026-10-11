@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c45459"
 type: "character"
-display_title: "白伊发乃娘"
-title_zh: "白伊发乃娘"
+display_title: "白い髪の娘"
+title_zh: ""
 title_ja: "白い髪の娘"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c45459"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "The White-Haired Girl"
-  - "白い髪の娘"
   - "Michelle"
   - "The girl with white hair"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c45459.webp"
 ---
 
-# 白伊发乃娘
+# 白い髪の娘
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

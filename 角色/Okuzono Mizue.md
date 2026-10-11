@@ -5,7 +5,10 @@ display_title: "奥园瑞江"
 title_zh: "奥园瑞江"
 title_ja: "奥園 瑞江"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c59748"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Okuzono Mizue"
   - "奥園 瑞江"

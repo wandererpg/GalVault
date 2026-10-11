@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c85771"
 type: "character"
-display_title: "久洛惠阿伊阿恩沙伊堂"
-title_zh: "久洛惠阿伊阿恩沙伊堂"
+display_title: "クロエ・アイアンサイド"
+title_zh: ""
 title_ja: "クロエ・アイアンサイド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85771"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chloe Ironside"
-  - "クロエ・アイアンサイド"
 source_ids:
   vndb: "c85771"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c85771.webp"
 ---
 
-# 久洛惠阿伊阿恩沙伊堂
+# クロエ・アイアンサイド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

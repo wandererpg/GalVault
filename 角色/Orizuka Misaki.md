@@ -5,7 +5,10 @@ display_title: "织冢美咲"
 title_zh: "织冢美咲"
 title_ja: "織塚 美咲"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c23543"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Orizuka Misaki"
   - "織塚 美咲"

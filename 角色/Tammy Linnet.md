@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c155416"
 type: "character"
-display_title: "太MMY·L伊恩音T"
-title_zh: "太MMY·L伊恩音T"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Tammy Linnet"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155416"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Tammy Linnet"
 source_ids:
   vndb: "c155416"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c155416.webp"
 ---
 
-# 太MMY·L伊恩音T
+# Tammy Linnet
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

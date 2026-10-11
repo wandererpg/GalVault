@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c153273"
 type: "character"
-display_title: "扎D·V惠莉恩G"
-title_zh: "扎D·V惠莉恩G"
+display_title: "쟈드 베링"
+title_zh: ""
 title_ja: "쟈드 베링"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c153273"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Zad Vering"
-  - "쟈드 베링"
 source_ids:
   vndb: "c153273"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c153273.webp"
 ---
 
-# 扎D·V惠莉恩G
+# 쟈드 베링
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c5294"
 type: "character"
-display_title: "露露诗惠"
-title_zh: "露露诗惠"
+display_title: "ルルシェ"
+title_zh: ""
 title_ja: "ルルシェ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c5294"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lullshare"
-  - "ルルシェ"
   - "Sister-san"
 source_ids:
   vndb: "c5294"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c5294.webp"
 ---
 
-# 露露诗惠
+# ルルシェ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c95203"
 type: "character"
-display_title: "达X斗恩"
-title_zh: "达X斗恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Daxton"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c95203"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Daxton"
 source_ids:
   vndb: "c95203"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c95203.webp"
 ---
 
-# 达X斗恩
+# Daxton
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

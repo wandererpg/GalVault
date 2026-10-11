@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c24962"
 type: "character"
-display_title: "莉恩堂乌"
-title_zh: "莉恩堂乌"
+display_title: "リンドウ"
+title_zh: ""
 title_ja: "リンドウ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c24962"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rindou"
-  - "リンドウ"
 source_ids:
   vndb: "c24962"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c24962.webp"
 ---
 
-# 莉恩堂乌
+# リンドウ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "山口亚弓"
 title_zh: "山口亚弓"
 title_ja: "山口 亜弓"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c141193"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yamaguchi Ayumi"
   - "山口 亜弓"

@@ -5,7 +5,10 @@ display_title: "院长"
 title_zh: "院长"
 title_ja: "院長"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c116363"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hospital Director"
   - "院長"

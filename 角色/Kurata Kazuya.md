@@ -5,7 +5,10 @@ display_title: "仓田一弥"
 title_zh: "仓田一弥"
 title_ja: "倉田 一弥"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c150358"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kurata Kazuya"
   - "倉田 一弥"

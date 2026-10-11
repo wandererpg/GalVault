@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c18482"
 type: "character"
-display_title: "露莉子"
-title_zh: "露莉子"
+display_title: "るりこ"
+title_zh: ""
 title_ja: "るりこ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c18482"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ruriko"
-  - "るりこ"
 source_ids:
   vndb: "c18482"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c18482.webp"
 ---
 
-# 露莉子
+# るりこ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

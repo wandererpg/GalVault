@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c29704"
 type: "character"
-display_title: "美奥久拉伊寿"
-title_zh: "美奥久拉伊寿"
+display_title: "ミオ・クライス"
+title_zh: ""
 title_ja: "ミオ・クライス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c29704"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mio Kreis"
-  - "ミオ・クライス"
 source_ids:
   vndb: "c29704"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c29704.webp"
 ---
 
-# 美奥久拉伊寿
+# ミオ・クライス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

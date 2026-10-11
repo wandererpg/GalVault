@@ -5,7 +5,10 @@ display_title: "甘宁兴霸"
 title_zh: "甘宁兴霸"
 title_ja: "甘寧 興覇"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c326"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kannei Kouha"
   - "甘寧 興覇"

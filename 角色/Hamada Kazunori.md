@@ -5,7 +5,10 @@ display_title: "滨田和纪"
 title_zh: "滨田和纪"
 title_ja: "浜田 和紀"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c71199"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hamada Kazunori"
   - "浜田 和紀"

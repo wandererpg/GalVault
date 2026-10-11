@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c100541"
 type: "character"
-display_title: "美堂真伊"
-title_zh: "美堂真伊"
+display_title: "美堂 マイ"
+title_zh: ""
 title_ja: "美堂 マイ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c100541"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Midou Mai"
-  - "美堂 マイ"
 source_ids:
   vndb: "c100541"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c100541.webp"
 ---
 
-# 美堂真伊
+# 美堂 マイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

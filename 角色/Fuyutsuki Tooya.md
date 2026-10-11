@@ -5,7 +5,10 @@ display_title: "冬月十夜"
 title_zh: "冬月十夜"
 title_ja: "冬月 十夜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c69273"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fuyutsuki Tooya"
   - "冬月 十夜"

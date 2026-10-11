@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c125710"
 type: "character"
-display_title: "S努GGL惠S·T惠·羽PPY·贝阿R"
-title_zh: "S努GGL惠S·T惠·羽PPY·贝阿R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Snuggles the Happy Bear"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125710"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Snuggles the Happy Bear"
 source_ids:
   vndb: "c125710"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c125710.webp"
 ---
 
-# S努GGL惠S·T惠·羽PPY·贝阿R
+# Snuggles the Happy Bear
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "筿冢拓哉"
 title_zh: "筿冢拓哉"
 title_ja: "篠塚 拓哉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c83424"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shinozuka Takuya"
   - "篠塚 拓哉"

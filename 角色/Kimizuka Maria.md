@@ -5,7 +5,10 @@ display_title: "君冢真里杏"
 title_zh: "君冢真里杏"
 title_ja: "君塚 真里杏"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c46125"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kimizuka Maria"
   - "君塚 真里杏"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c779"
 type: "character"
-display_title: "斗乌伊伊堂露＝达梦"
-title_zh: "斗乌伊伊堂露＝达梦"
+display_title: "トゥイードル＝ダム"
+title_zh: ""
 title_ja: "トゥイードル＝ダム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c779"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tweedle Dum"
-  - "トゥイードル＝ダム"
   - "Bloody Twin"
 source_ids:
   vndb: "c779"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c779.webp"
 ---
 
-# 斗乌伊伊堂露＝达梦
+# トゥイードル＝ダム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

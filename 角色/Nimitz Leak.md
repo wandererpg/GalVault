@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c76002"
 type: "character"
-display_title: "尼美T津·莉伊久"
-title_zh: "尼美T津·莉伊久"
+display_title: "ニミッツ リーク"
+title_zh: ""
 title_ja: "ニミッツ リーク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c76002"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nimitz Leak"
-  - "ニミッツ リーク"
 source_ids:
   vndb: "c76002"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c76002.webp"
 ---
 
-# 尼美T津·莉伊久
+# ニミッツ リーク
 
 
 ## 角色画像

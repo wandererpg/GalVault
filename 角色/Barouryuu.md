@@ -5,7 +5,10 @@ display_title: "马珑琉"
 title_zh: "马珑琉"
 title_ja: "馬瓏琉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10792"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Barouryuu"
   - "馬瓏琉"

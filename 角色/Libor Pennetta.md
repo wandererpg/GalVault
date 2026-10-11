@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c92973"
 type: "character"
-display_title: "莉博露佩恩音T太"
-title_zh: "莉博露佩恩音T太"
+display_title: "リボル・ペンネッタ"
+title_zh: ""
 title_ja: "リボル・ペンネッタ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92973"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Libor Pennetta"
-  - "リボル・ペンネッタ"
 source_ids:
   vndb: "c92973"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c92973.webp"
 ---
 
-# 莉博露佩恩音T太
+# リボル・ペンネッタ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

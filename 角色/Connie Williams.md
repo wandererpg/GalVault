@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c174084"
 type: "character"
-display_title: "C奥恩尼惠·W伊LL伊阿MS"
-title_zh: "C奥恩尼惠·W伊LL伊阿MS"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Connie Williams"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c174084"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Connie Williams"
 source_ids:
   vndb: "c174084"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c174084.webp"
 ---
 
-# C奥恩尼惠·W伊LL伊阿MS
+# Connie Williams
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

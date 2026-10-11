@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c86080"
 type: "character"
-display_title: "阿阿露子奥斗真莉乌寿"
-title_zh: "阿阿露子奥斗真莉乌寿"
+display_title: "アールコート・マリウス"
+title_zh: ""
 title_ja: "アールコート・マリウス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c86080"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Arlcoate Marius"
-  - "アールコート・マリウス"
 source_ids:
   vndb: "c86080"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c86080.webp"
 ---
 
-# 阿阿露子奥斗真莉乌寿
+# アールコート・マリウス
 
 
 ## 角色画像

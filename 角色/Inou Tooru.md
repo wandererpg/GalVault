@@ -5,7 +5,10 @@ display_title: "稻生透"
 title_zh: "稻生透"
 title_ja: "稲生 透"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c168550"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Inou Tooru"
   - "稲生 透"

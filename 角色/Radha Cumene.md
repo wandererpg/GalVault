@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c92811"
 type: "character"
-display_title: "拉达久芽恩"
-title_zh: "拉达久芽恩"
+display_title: "ラダ・クメン"
+title_zh: ""
 title_ja: "ラダ・クメン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92811"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Radha Cumene"
-  - "ラダ・クメン"
 source_ids:
   vndb: "c92811"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c92811.webp"
 ---
 
-# 拉达久芽恩
+# ラダ・クメン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

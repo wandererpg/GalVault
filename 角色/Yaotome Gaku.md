@@ -5,7 +5,10 @@ display_title: "八乙女乐"
 title_zh: "八乙女乐"
 title_ja: "八乙女楽"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c164104"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yaotome Gaku"
   - "八乙女楽"

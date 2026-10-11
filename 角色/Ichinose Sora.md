@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c28147"
 type: "character"
-display_title: "一乃濑空"
-title_zh: "一乃濑空"
+display_title: "一ノ瀬 空"
+title_zh: ""
 title_ja: "一ノ瀬 空"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c28147"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ichinose Sora"
-  - "一ノ瀬 空"
 source_ids:
   vndb: "c28147"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c28147.webp"
 ---
 
-# 一乃濑空
+# 一ノ瀬 空
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

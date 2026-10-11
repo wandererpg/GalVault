@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c20674"
 type: "character"
-display_title: "露堂拉＝阿恩达露F阿伊斗"
-title_zh: "露堂拉＝阿恩达露F阿伊斗"
+display_title: "ルドラ＝アンダルファイト"
+title_zh: ""
 title_ja: "ルドラ＝アンダルファイト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c20674"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rudra Andalfite"
-  - "ルドラ＝アンダルファイト"
   - "The Fourth Seat (第四席)"
   - "雷紅の帝釈天"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c20674.webp"
 ---
 
-# 露堂拉＝阿恩达露F阿伊斗
+# ルドラ＝アンダルファイト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

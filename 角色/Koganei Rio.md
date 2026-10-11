@@ -5,7 +5,10 @@ display_title: "黄金井莉央"
 title_zh: "黄金井莉央"
 title_ja: "黄金井 莉央"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c18187"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Koganei Rio"
   - "黄金井 莉央"

@@ -5,7 +5,10 @@ display_title: "炎条寺炎辉"
 title_zh: "炎条寺炎辉"
 title_ja: "炎条寺 炎輝"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c146743"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Enjouji Homura"
   - "炎条寺 炎輝"

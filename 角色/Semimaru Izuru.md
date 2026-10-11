@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8800"
 type: "character"
-display_title: "蝉丸伊兹露"
-title_zh: "蝉丸伊兹露"
+display_title: "蝉丸 いずる"
+title_zh: ""
 title_ja: "蝉丸 いずる"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8800"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Semimaru Izuru"
-  - "蝉丸 いずる"
 source_ids:
   vndb: "c8800"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c8800.webp"
 ---
 
-# 蝉丸伊兹露
+# 蝉丸 いずる
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

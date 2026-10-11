@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c140503"
 type: "character"
-display_title: "真莉奥"
-title_zh: "真莉奥"
+display_title: "マリオ"
+title_zh: ""
 title_ja: "マリオ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c140503"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mario"
-  - "マリオ"
 source_ids:
   vndb: "c140503"
 source_urls:
   vndb: "https://vndb.org/c140503"
 ---
 
-# 真莉奥
+# マリオ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

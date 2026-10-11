@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c20689"
 type: "character"
-display_title: "子子乃惠"
-title_zh: "子子乃惠"
+display_title: "ココノエ"
+title_zh: ""
 title_ja: "ココノエ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c20689"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kokonoe Mercury"
-  - "ココノエ"
 source_ids:
   vndb: "c20689"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c20689.webp"
 ---
 
-# 子子乃惠
+# ココノエ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

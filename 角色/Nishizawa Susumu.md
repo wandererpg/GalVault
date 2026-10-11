@@ -5,7 +5,10 @@ display_title: "西泽进"
 title_zh: "西泽进"
 title_ja: "西沢 進"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c93379"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nishizawa Susumu"
   - "西沢 進"

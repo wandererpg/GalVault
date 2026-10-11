@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c20588"
 type: "character"
-display_title: "露伊寿惠惠莉加芙洛伊寿"
-title_zh: "露伊寿惠惠莉加芙洛伊寿"
+display_title: "ルイス・エーリカ・フロイス"
+title_zh: ""
 title_ja: "ルイス・エーリカ・フロイス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c20588"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Luís Érica Fróis"
-  - "ルイス・エーリカ・フロイス"
   - "Kinkan"
   - "Luís Fróis"
   - "エーリカ"
@@ -22,7 +24,7 @@ source_urls:
 portrait_image: "assets/characters/c20588.webp"
 ---
 
-# 露伊寿惠惠莉加芙洛伊寿
+# ルイス・エーリカ・フロイス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

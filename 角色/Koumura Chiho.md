@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c55906"
 type: "character"
-display_title: "幸村千穗"
-title_zh: "幸村千穗"
+display_title: "幸村 ちほ"
+title_zh: ""
 title_ja: "幸村 ちほ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c55906"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Koumura Chiho"
-  - "幸村 ちほ"
 source_ids:
   vndb: "c55906"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c55906.webp"
 ---
 
-# 幸村千穗
+# 幸村 ちほ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

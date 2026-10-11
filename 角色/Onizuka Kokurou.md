@@ -5,7 +5,10 @@ display_title: "鬼冢国朗"
 title_zh: "鬼冢国朗"
 title_ja: "鬼塚 國朗"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c46015"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Onizuka Kokurou"
   - "鬼塚 國朗"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c72535"
 type: "character"
-display_title: "子子"
-title_zh: "子子"
+display_title: "ココ"
+title_zh: ""
 title_ja: "ココ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c72535"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Koko"
-  - "ココ"
 source_ids:
   vndb: "c72535"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c72535.webp"
 ---
 
-# 子子
+# ココ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

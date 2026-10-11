@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c55808"
 type: "character"
-display_title: "惠子"
-title_zh: "惠子"
+display_title: "E子"
+title_zh: ""
 title_ja: "E子"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c55808"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Girl E"
-  - "E子"
   - "Sato"
   - "サトウ"
   - "Satou"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c55808.webp"
 ---
 
-# 惠子
+# E子
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

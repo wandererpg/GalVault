@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8136"
 type: "character"
-display_title: "夏洛恩露乌寿"
-title_zh: "夏洛恩露乌寿"
+display_title: "シャロン・ルース"
+title_zh: ""
 title_ja: "シャロン・ルース"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8136"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sharon Luth"
-  - "シャロン・ルース"
 source_ids:
   vndb: "c8136"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c8136.webp"
 ---
 
-# 夏洛恩露乌寿
+# シャロン・ルース
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

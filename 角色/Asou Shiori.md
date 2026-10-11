@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c141255"
 type: "character"
-display_title: "麻生栞"
-title_zh: "麻生栞"
+display_title: "麻生 しおり"
+title_zh: ""
 title_ja: "麻生 しおり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141255"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Asou Shiori"
-  - "麻生 しおり"
 source_ids:
   vndb: "c141255"
 source_urls:
   vndb: "https://vndb.org/c141255"
 ---
 
-# 麻生栞
+# 麻生 しおり
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

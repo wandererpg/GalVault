@@ -5,7 +5,10 @@ display_title: "丛云添"
 title_zh: "丛云添"
 title_ja: "叢雲 添"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c144388"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Murakumo Ten"
   - "叢雲 添"

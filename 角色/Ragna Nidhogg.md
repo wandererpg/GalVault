@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90037"
 type: "character"
-display_title: "拉古奈尼伊兹穗G古"
-title_zh: "拉古奈尼伊兹穗G古"
+display_title: "ラグナ・ニーズホッグ"
+title_zh: ""
 title_ja: "ラグナ・ニーズホッグ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90037"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ragna Nidhogg"
-  - "ラグナ・ニーズホッグ"
   - "ラグナ・スカイフィールド"
   - "神殺し"
   - "終焉吼竜"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c90037.webp"
 ---
 
-# 拉古奈尼伊兹穗G古
+# ラグナ・ニーズホッグ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

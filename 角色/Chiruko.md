@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90518"
 type: "character"
-display_title: "太加羽诗·千露子"
-title_zh: "太加羽诗·千露子"
+display_title: "タカハシ チルコ"
+title_zh: ""
 title_ja: "タカハシ チルコ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90518"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Takahashi Chiruko"
-  - "タカハシ チルコ"
 source_ids:
   vndb: "c90518"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c90518.webp"
 ---
 
-# 太加羽诗·千露子
+# タカハシ チルコ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

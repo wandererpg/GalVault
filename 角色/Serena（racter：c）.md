@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17050"
 type: "character"
-display_title: "濑蕾惠奈"
-title_zh: "濑蕾惠奈"
+display_title: "セレーナ"
+title_zh: ""
 title_ja: "セレーナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17050"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Serena"
-  - "セレーナ"
   - "セレイン・チャン"
   - "Serein Chan"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c17050.webp"
 ---
 
-# 濑蕾惠奈
+# セレーナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

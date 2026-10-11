@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30"
 type: "character"
-display_title: "小町津古美"
-title_zh: "小町津古美"
+display_title: "小町 つぐみ"
+title_zh: ""
 title_ja: "小町 つぐみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Komachi Tsugumi"
-  - "小町 つぐみ"
   - "つぐみん"
   - "Tsugumin"
   - "小町 月海"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c30.webp"
 ---
 
-# 小町津古美
+# 小町 つぐみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10728"
 type: "character"
-display_title: "特伊阿奈吉露莉莉寿特伊阿"
-title_zh: "特伊阿奈吉露莉莉寿特伊阿"
+display_title: "ティアナ・ジル・リリスティア"
+title_zh: ""
 title_ja: "ティアナ・ジル・リリスティア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10728"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tiana Gill Lilistia"
-  - "ティアナ・ジル・リリスティア"
   - "Tia"
 source_ids:
   vndb: "c10728"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c10728.webp"
 ---
 
-# 特伊阿奈吉露莉莉寿特伊阿
+# ティアナ・ジル・リリスティア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

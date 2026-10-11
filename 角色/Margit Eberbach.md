@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c9795"
 type: "character"
-display_title: "真露吉T特惠惠贝露巴H羽"
-title_zh: "真露吉T特惠惠贝露巴H羽"
+display_title: "マルギッテ・エーベルバッハ"
+title_zh: ""
 title_ja: "マルギッテ・エーベルバッハ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c9795"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Margit Eberbach"
-  - "マルギッテ・エーベルバッハ"
   - "The Hound"
   - "マルさん"
   - "Maru-san"
@@ -21,7 +23,7 @@ source_urls:
 portrait_image: "assets/characters/c9795.webp"
 ---
 
-# 真露吉T特惠惠贝露巴H羽
+# マルギッテ・エーベルバッハ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

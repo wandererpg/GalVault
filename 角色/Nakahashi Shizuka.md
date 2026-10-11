@@ -5,7 +5,10 @@ display_title: "中桥静佳"
 title_zh: "中桥静佳"
 title_ja: "中橋 静佳"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43130"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nakahashi Shizuka"
   - "中橋 静佳"

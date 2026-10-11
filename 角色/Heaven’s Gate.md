@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127581"
 type: "character"
-display_title: "惠布恩兹格惠斗"
-title_zh: "惠布恩兹格惠斗"
+display_title: "ヘブンズゲート"
+title_zh: ""
 title_ja: "ヘブンズゲート"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127581"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Heaven’s Gate"
-  - "ヘブンズゲート"
 source_ids:
   vndb: "c127581"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c127581.webp"
 ---
 
-# 惠布恩兹格惠斗
+# ヘブンズゲート
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "久藤宗二"
 title_zh: "久藤宗二"
 title_ja: "久藤 宗二"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c122153"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kudou Souji"
   - "久藤 宗二"

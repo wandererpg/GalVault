@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30381"
 type: "character"
-display_title: "修莉蕾伊津惠恩"
-title_zh: "修莉蕾伊津惠恩"
+display_title: "シュリ・レイツェン"
+title_zh: ""
 title_ja: "シュリ・レイツェン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30381"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shuri Leyssen"
-  - "シュリ・レイツェン"
 source_ids:
   vndb: "c30381"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30381.webp"
 ---
 
-# 修莉蕾伊津惠恩
+# シュリ・レイツェン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

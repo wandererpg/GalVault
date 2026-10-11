@@ -5,7 +5,10 @@ display_title: "观月直人"
 title_zh: "观月直人"
 title_ja: "観月 直人"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c13898"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mizuki Naoto"
   - "観月 直人"

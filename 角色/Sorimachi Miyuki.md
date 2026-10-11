@@ -5,7 +5,10 @@ display_title: "反町美雪"
 title_zh: "反町美雪"
 title_ja: "反町 美雪"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c127766"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sorimachi Miyuki"
   - "反町 美雪"

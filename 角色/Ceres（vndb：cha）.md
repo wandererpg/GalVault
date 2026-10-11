@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c94434"
 type: "character"
-display_title: "濑蕾寿"
-title_zh: "濑蕾寿"
+display_title: "セレス"
+title_zh: ""
 title_ja: "セレス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94434"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ceres"
-  - "セレス"
   - "Death"
   - "Maiden of Death"
   - "Princess"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c94434.webp"
 ---
 
-# 濑蕾寿
+# セレス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

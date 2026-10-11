@@ -5,7 +5,10 @@ display_title: "鹫宫鹰美"
 title_zh: "鹫宫鹰美"
 title_ja: "鷲宮 鷹美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c94622"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Washimiya Takami"
   - "鷲宮 鷹美"

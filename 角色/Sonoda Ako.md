@@ -5,7 +5,10 @@ display_title: "园田亚子"
 title_zh: "园田亚子"
 title_ja: "園田 亜子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c15118"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sonoda Ako"
   - "園田 亜子"

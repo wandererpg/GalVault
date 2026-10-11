@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c136586"
 type: "character"
-display_title: "蕾V惠蕾D·莫T惠R"
-title_zh: "蕾V惠蕾D·莫T惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Revered mother"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136586"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Revered mother"
 source_ids:
   vndb: "c136586"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c136586.webp"
 ---
 
-# 蕾V惠蕾D·莫T惠R
+# Revered mother
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

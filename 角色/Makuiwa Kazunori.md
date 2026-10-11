@@ -5,7 +5,10 @@ display_title: "幕岩一范"
 title_zh: "幕岩一范"
 title_ja: "幕岩 一範"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c161007"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Makuiwa Kazunori"
   - "幕岩 一範"

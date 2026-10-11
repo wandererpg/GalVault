@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c116527"
 type: "character"
-display_title: "奥奥LY"
-title_zh: "奥奥LY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Wooly"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116527"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Wooly"
 source_ids:
   vndb: "c116527"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c116527.webp"
 ---
 
-# 奥奥LY
+# Wooly
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

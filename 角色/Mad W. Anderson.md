@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c166251"
 type: "character"
-display_title: "真D堂=Ｗ=阿恩达阿索恩"
-title_zh: "真D堂=Ｗ=阿恩达阿索恩"
+display_title: "マッド=Ｗ=アンダーソン"
+title_zh: ""
 title_ja: "マッド=Ｗ=アンダーソン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c166251"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mad W. Anderson"
-  - "マッド=Ｗ=アンダーソン"
 source_ids:
   vndb: "c166251"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c166251.webp"
 ---
 
-# 真D堂=Ｗ=阿恩达阿索恩
+# マッド=Ｗ=アンダーソン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c124904"
 type: "character"
-display_title: "惠露V伊拉"
-title_zh: "惠露V伊拉"
+display_title: "エルヴィラ"
+title_zh: ""
 title_ja: "エルヴィラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124904"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Elvira"
-  - "エルヴィラ"
 source_ids:
   vndb: "c124904"
 source_urls:
   vndb: "https://vndb.org/c124904"
 ---
 
-# 惠露V伊拉
+# エルヴィラ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

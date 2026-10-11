@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c64838"
 type: "character"
-display_title: "亚瑟·B洛W恩"
-title_zh: "亚瑟·B洛W恩"
+display_title: "아서 브라운"
+title_zh: ""
 title_ja: "아서 브라운"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c64838"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Arthur Brown"
-  - "아서 브라운"
 source_ids:
   vndb: "c64838"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c64838.webp"
 ---
 
-# 亚瑟·B洛W恩
+# 아서 브라운
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

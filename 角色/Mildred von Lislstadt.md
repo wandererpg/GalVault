@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c23992"
 type: "character"
-display_title: "美露堂蕾D堂·F奥恩·莉泽露修太T斗"
-title_zh: "美露堂蕾D堂·F奥恩·莉泽露修太T斗"
+display_title: "ミルドレッド フォン リゼルシュタット"
+title_zh: ""
 title_ja: "ミルドレッド フォン リゼルシュタット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c23992"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mildred von Lislstadt"
-  - "ミルドレッド フォン リゼルシュタット"
 source_ids:
   vndb: "c23992"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c23992.webp"
 ---
 
-# 美露堂蕾D堂·F奥恩·莉泽露修太T斗
+# ミルドレッド フォン リゼルシュタット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

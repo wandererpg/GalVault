@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c18126"
 type: "character"
-display_title: "大藏露美音"
-title_zh: "大藏露美音"
+display_title: "大蔵 ルミネ"
+title_zh: ""
 title_ja: "大蔵 ルミネ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c18126"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ookura Lumine"
-  - "大蔵 ルミネ"
   - "Great Mother"
 source_ids:
   vndb: "c18126"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c18126.webp"
 ---
 
-# 大藏露美音
+# 大蔵 ルミネ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

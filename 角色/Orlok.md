@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c64023"
 type: "character"
-display_title: "奥露洛K久"
-title_zh: "奥露洛K久"
+display_title: "オルロック"
+title_zh: ""
 title_ja: "オルロック"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c64023"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Orlok"
-  - "オルロック"
 source_ids:
   vndb: "c64023"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c64023.webp"
 ---
 
-# 奥露洛K久
+# オルロック
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

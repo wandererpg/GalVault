@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43888"
 type: "character"
-display_title: "濑伊"
-title_zh: "濑伊"
+display_title: "セイ"
+title_zh: ""
 title_ja: "セイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43888"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sei"
-  - "セイ"
 source_ids:
   vndb: "c43888"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43888.webp"
 ---
 
-# 濑伊
+# セイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c74767"
 type: "character"
-display_title: "莉伊拉恩堂帕阿真阿"
-title_zh: "莉伊拉恩堂帕阿真阿"
+display_title: "リーランド・パーマー"
+title_zh: ""
 title_ja: "リーランド・パーマー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c74767"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Leland Palmer"
-  - "リーランド・パーマー"
 source_ids:
   vndb: "c74767"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c74767.webp"
 ---
 
-# 莉伊拉恩堂帕阿真阿
+# リーランド・パーマー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43017"
 type: "character"
-display_title: "芽伊芽伊阿恩达寿特惠久"
-title_zh: "芽伊芽伊阿恩达寿特惠久"
+display_title: "メイメイ・アンダステーク"
+title_zh: ""
 title_ja: "メイメイ・アンダステーク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43017"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "MayMay Anderstake"
-  - "メイメイ・アンダステーク"
 source_ids:
   vndb: "c43017"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43017.webp"
 ---
 
-# 芽伊芽伊阿恩达寿特惠久
+# メイメイ・アンダステーク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

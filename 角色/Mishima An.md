@@ -5,7 +5,10 @@ display_title: "三嶋杏"
 title_zh: "三嶋杏"
 title_ja: "三嶋 杏"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c74673"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mishima An"
   - "三嶋 杏"

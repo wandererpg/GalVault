@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c123001"
 type: "character"
-display_title: "维克托·惠R奈恩德Z"
-title_zh: "维克托·惠R奈恩德Z"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Victor Hernandez"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c123001"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Victor Hernandez"
   - "Mr. Hernandez"
 source_ids:
   vndb: "c123001"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c123001.webp"
 ---
 
-# 维克托·惠R奈恩德Z
+# Victor Hernandez
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

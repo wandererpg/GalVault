@@ -5,7 +5,10 @@ display_title: "若杉葛"
 title_zh: "若杉葛"
 title_ja: "若杉 葛"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10498"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Wakasugi Tsuzura"
   - "若杉 葛"

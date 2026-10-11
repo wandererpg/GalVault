@@ -5,7 +5,10 @@ display_title: "吉原大嗣"
 title_zh: "吉原大嗣"
 title_ja: "吉原 大嗣"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c100583"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yoshihara Taishi"
   - "吉原 大嗣"

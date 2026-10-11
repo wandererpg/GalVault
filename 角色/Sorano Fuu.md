@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c21314"
 type: "character"
-display_title: "索拉乃芙乌"
-title_zh: "索拉乃芙乌"
+display_title: "ソラノ・フウ"
+title_zh: ""
 title_ja: "ソラノ・フウ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c21314"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sorano Fuu"
-  - "ソラノ・フウ"
   - "Rin"
 source_ids:
   vndb: "c21314"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c21314.webp"
 ---
 
-# 索拉乃芙乌
+# ソラノ・フウ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

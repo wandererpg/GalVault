@@ -5,7 +5,10 @@ display_title: "高远丞"
 title_zh: "高远丞"
 title_ja: "高遠 丞"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c90183"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takatoo Tasuku"
   - "高遠 丞"

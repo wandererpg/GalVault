@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c22950"
 type: "character"
-display_title: "中津国女乃咲耶媛"
-title_zh: "中津国女乃咲耶媛"
+display_title: "中津国女ノ咲耶媛"
+title_zh: ""
 title_ja: "中津国女ノ咲耶媛"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c22950"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nakatsukunime no Sakuyahime"
-  - "中津国女ノ咲耶媛"
   - "Sakuya Hime"
 source_ids:
   vndb: "c22950"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c22950.webp"
 ---
 
-# 中津国女乃咲耶媛
+# 中津国女ノ咲耶媛
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

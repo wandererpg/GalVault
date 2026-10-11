@@ -5,7 +5,10 @@ display_title: "二见原莉々子"
 title_zh: "二见原莉々子"
 title_ja: "二見原 莉々子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c153626"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Futamihara Ririko"
   - "二見原 莉々子"

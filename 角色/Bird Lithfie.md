@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c56509"
 type: "character"
-display_title: "巴阿堂莉寿F伊"
-title_zh: "巴阿堂莉寿F伊"
+display_title: "バード・リスフィ"
+title_zh: ""
 title_ja: "バード・リスフィ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56509"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Bird Lithfie"
-  - "バード・リスフィ"
 source_ids:
   vndb: "c56509"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c56509.webp"
 ---
 
-# 巴阿堂莉寿F伊
+# バード・リスフィ
 
 
 ## 角色画像

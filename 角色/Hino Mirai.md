@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c82468"
 type: "character"
-display_title: "日野未来"
-title_zh: "日野未来"
+display_title: "日野 みらい"
+title_zh: ""
 title_ja: "日野 みらい"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c82468"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hino Mirai"
-  - "日野 みらい"
 source_ids:
   vndb: "c82468"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c82468.webp"
 ---
 
-# 日野未来
+# 日野 みらい
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

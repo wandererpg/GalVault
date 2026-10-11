@@ -5,7 +5,10 @@ display_title: "立花继希"
 title_zh: "立花继希"
 title_ja: "立花 継希"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c113241"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tachibana Tsuki"
   - "立花 継希"

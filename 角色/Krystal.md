@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c103048"
 type: "character"
-display_title: "KRYS太L"
-title_zh: "KRYS太L"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Krystal"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103048"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Krystal"
 source_ids:
   vndb: "c103048"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c103048.webp"
 ---
 
-# KRYS太L
+# Krystal
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

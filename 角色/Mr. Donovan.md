@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c172949"
 type: "character"
-display_title: "MR·堂乃V阿恩"
-title_zh: "MR·堂乃V阿恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Mr. Donovan"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c172949"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Mr. Donovan"
 source_ids:
   vndb: "c172949"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c172949.webp"
 ---
 
-# MR·堂乃V阿恩
+# Mr. Donovan
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "妃宫千早"
 title_zh: "妃宫千早"
 title_ja: "妃宮 千早"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10764"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kisakinomiya Chihaya"
   - "妃宮 千早"

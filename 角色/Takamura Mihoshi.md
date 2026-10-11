@@ -5,7 +5,10 @@ display_title: "篁美星"
 title_zh: "篁美星"
 title_ja: "篁 美星"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c98126"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takamura Mihoshi"
   - "篁 美星"

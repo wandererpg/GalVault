@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c5463"
 type: "character"
-display_title: "北河明里"
-title_zh: "北河明里"
+display_title: "北河 アカリ"
+title_zh: ""
 title_ja: "北河 アカリ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c5463"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kitagawa Akari"
-  - "北河 アカリ"
 source_ids:
   vndb: "c5463"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c5463.webp"
 ---
 
-# 北河明里
+# 北河 アカリ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

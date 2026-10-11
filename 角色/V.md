@@ -2,9 +2,12 @@
 entity_id: "vndb:character:c35142"
 type: "character"
 display_title: "V"
-title_zh: "V"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c35142"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "김지현"
   - "Kim Jihyun"

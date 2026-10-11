@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c159560"
 type: "character"
-display_title: "2悟乌"
-title_zh: "2悟乌"
+display_title: "2ゴウ"
+title_zh: ""
 title_ja: "2ゴウ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159560"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "2 Gou"
-  - "2ゴウ"
 source_ids:
   vndb: "c159560"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c159560.webp"
 ---
 
-# 2悟乌
+# 2ゴウ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

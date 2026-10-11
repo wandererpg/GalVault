@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c11558"
 type: "character"
-display_title: "索F伊伊雅阿蕾久濑惠惠V乌奈F惠奥F阿乃和"
-title_zh: "索F伊伊雅阿蕾久濑惠惠V乌奈F惠奥F阿乃和"
+display_title: "ソフィーヤ・アレクセーエヴナ・フェオファノワ"
+title_zh: ""
 title_ja: "ソフィーヤ・アレクセーエヴナ・フェオファノワ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c11558"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sofiya Alekseevna Feofanova"
-  - "ソフィーヤ・アレクセーエヴナ・フェオファノワ"
   - "Sonya"
 source_ids:
   vndb: "c11558"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c11558.webp"
 ---
 
-# 索F伊伊雅阿蕾久濑惠惠V乌奈F惠奥F阿乃和
+# ソフィーヤ・アレクセーエヴナ・フェオファノワ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

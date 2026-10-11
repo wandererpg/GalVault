@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c48350"
 type: "character"
-display_title: "德博拉"
-title_zh: "德博拉"
+display_title: "デボラ"
+title_zh: ""
 title_ja: "デボラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c48350"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Debora"
-  - "デボラ"
 source_ids:
   vndb: "c48350"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c48350.webp"
 ---
 
-# 德博拉
+# デボラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

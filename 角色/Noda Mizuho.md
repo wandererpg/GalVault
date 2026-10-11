@@ -5,7 +5,10 @@ display_title: "野田瑞穗"
 title_zh: "野田瑞穗"
 title_ja: "野田瑞穂"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c662"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Noda Mizuho"
   - "野田瑞穂"

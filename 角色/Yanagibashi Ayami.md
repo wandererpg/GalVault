@@ -5,7 +5,10 @@ display_title: "柳桥绚未"
 title_zh: "柳桥绚未"
 title_ja: "柳橋 絢未"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c93066"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yanagibashi Ayami"
   - "柳橋 絢未"

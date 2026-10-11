@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c127430"
 type: "character"
-display_title: "惠X佩莉芽恩太L·奥R雅尼SM·阿D·5"
-title_zh: "惠X佩莉芽恩太L·奥R雅尼SM·阿D·5"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Experimental Organism AD-5"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127430"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Experimental Organism AD-5"
   - "Wrappy"
 source_ids:
   vndb: "c127430"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c127430.webp"
 ---
 
-# 惠X佩莉芽恩太L·奥R雅尼SM·阿D·5
+# Experimental Organism AD-5
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

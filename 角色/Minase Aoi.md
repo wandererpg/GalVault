@@ -5,7 +5,10 @@ display_title: "水濑碧"
 title_zh: "水濑碧"
 title_ja: "水瀬 碧"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9338"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Minase Aoi"
   - "水瀬 碧"

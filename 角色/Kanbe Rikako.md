@@ -5,7 +5,10 @@ display_title: "神户理香子"
 title_zh: "神户理香子"
 title_ja: "神戸 理香子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c138173"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kanbe Rikako"
   - "神戸 理香子"

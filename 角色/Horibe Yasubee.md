@@ -5,7 +5,10 @@ display_title: "堀部安兵卫"
 title_zh: "堀部安兵卫"
 title_ja: "堀部 安兵衛"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c15721"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Horibe Yasubee"
   - "堀部 安兵衛"

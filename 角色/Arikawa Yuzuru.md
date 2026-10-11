@@ -5,7 +5,10 @@ display_title: "有川让"
 title_zh: "有川让"
 title_ja: "有川 譲"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c26953"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Arikawa Yuzuru"
   - "有川 譲"

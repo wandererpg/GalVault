@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c101475"
 type: "character"
-display_title: "夏露洛T斗D伊加阿布穗奥尼惠惠兹"
-title_zh: "夏露洛T斗D伊加阿布穗奥尼惠惠兹"
+display_title: "シャルロット・ディ・カーブホーン・イェーズ"
+title_zh: ""
 title_ja: "シャルロット・ディ・カーブホーン・イェーズ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c101475"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Charlotte Di Curvehorn Yeatz"
-  - "シャルロット・ディ・カーブホーン・イェーズ"
 source_ids:
   vndb: "c101475"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c101475.webp"
 ---
 
-# 夏露洛T斗D伊加阿布穗奥尼惠惠兹
+# シャルロット・ディ・カーブホーン・イェーズ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

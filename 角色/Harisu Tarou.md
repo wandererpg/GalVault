@@ -5,7 +5,10 @@ display_title: "播守太郎"
 title_zh: "播守太郎"
 title_ja: "播守 太郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c42662"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Harisu Tarou"
   - "播守 太郎"

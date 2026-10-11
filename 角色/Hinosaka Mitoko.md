@@ -5,7 +5,10 @@ display_title: "阳坂美都子"
 title_zh: "阳坂美都子"
 title_ja: "陽坂 美都子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c6237"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hinosaka Mitoko"
   - "陽坂 美都子"

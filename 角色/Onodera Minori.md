@@ -5,7 +5,10 @@ display_title: "小野寺美望"
 title_zh: "小野寺美望"
 title_ja: "小野寺 美望"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c84014"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Onodera Minori"
   - "小野寺 美望"

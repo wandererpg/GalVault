@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c5278"
 type: "character"
-display_title: "乃奥梦"
-title_zh: "乃奥梦"
+display_title: "ノーム"
+title_zh: ""
 title_ja: "ノーム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c5278"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gnome"
-  - "ノーム"
   - "Gnomey"
 source_ids:
   vndb: "c5278"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c5278.webp"
 ---
 
-# 乃奥梦
+# ノーム
 
 
 ## 角色画像

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c155546"
 type: "character"
-display_title: "莎拉"
-title_zh: "莎拉"
+display_title: "サラ"
+title_zh: ""
 title_ja: "サラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155546"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sala"
-  - "サラ"
 source_ids:
   vndb: "c155546"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c155546.webp"
 ---
 
-# 莎拉
+# サラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

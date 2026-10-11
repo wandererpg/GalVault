@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c159702"
 type: "character"
-display_title: "悟诗P普"
-title_zh: "悟诗P普"
+display_title: "ゴシップ"
+title_zh: ""
 title_ja: "ゴシップ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159702"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gossip"
-  - "ゴシップ"
   - "ヒュー・ブーン"
   - "Hugh Boone"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c159702.webp"
 ---
 
-# 悟诗P普
+# ゴシップ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127491"
 type: "character"
-display_title: "古拉奈惠露"
-title_zh: "古拉奈惠露"
+display_title: "グラナエル"
+title_zh: ""
 title_ja: "グラナエル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127491"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Granael"
-  - "グラナエル"
 source_ids:
   vndb: "c127491"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c127491.webp"
 ---
 
-# 古拉奈惠露
+# グラナエル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

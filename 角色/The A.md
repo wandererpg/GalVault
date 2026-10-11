@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c33464"
 type: "character"
-display_title: "T惠·阿"
-title_zh: "T惠·阿"
+display_title: "A"
+title_zh: ""
 title_ja: "A"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33464"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "The A"
-  - "A"
   - "Airhead"
 source_ids:
   vndb: "c33464"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c33464.webp"
 ---
 
-# T惠·阿
+# A
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

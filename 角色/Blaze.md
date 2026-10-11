@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71155"
 type: "character"
-display_title: "布蕾伊兹"
-title_zh: "布蕾伊兹"
+display_title: "ブレイズ"
+title_zh: ""
 title_ja: "ブレイズ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71155"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Blaze"
-  - "ブレイズ"
   - "Red Reaper"
 source_ids:
   vndb: "c71155"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c71155.webp"
 ---
 
-# 布蕾伊兹
+# ブレイズ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

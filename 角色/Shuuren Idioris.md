@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71185"
 type: "character"
-display_title: "修乌蕾恩＝伊德奥莉寿"
-title_zh: "修乌蕾恩＝伊德奥莉寿"
+display_title: "シュウレン＝イデオリス"
+title_zh: ""
 title_ja: "シュウレン＝イデオリス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71185"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shuuren Idioris"
-  - "シュウレン＝イデオリス"
 source_ids:
   vndb: "c71185"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71185.webp"
 ---
 
-# 修乌蕾恩＝伊德奥莉寿
+# シュウレン＝イデオリス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c59182"
 type: "character"
-display_title: "蕾乌"
-title_zh: "蕾乌"
+display_title: "レゥ"
+title_zh: ""
 title_ja: "レゥ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c59182"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Reu"
-  - "レゥ"
   - "Pmfh-00001"
 source_ids:
   vndb: "c59182"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c59182.webp"
 ---
 
-# 蕾乌
+# レゥ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

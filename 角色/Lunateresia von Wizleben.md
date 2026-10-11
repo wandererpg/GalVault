@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c37473"
 type: "character"
-display_title: "露奈特蕾吉阿F奥恩V伊T津蕾惠贝恩"
-title_zh: "露奈特蕾吉阿F奥恩V伊T津蕾惠贝恩"
+display_title: "ルナテレジア・フォン・ヴィッツレーベン"
+title_zh: ""
 title_ja: "ルナテレジア・フォン・ヴィッツレーベン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37473"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lunateresia von Wizleben"
-  - "ルナテレジア・フォン・ヴィッツレーベン"
 source_ids:
   vndb: "c37473"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c37473.webp"
 ---
 
-# 露奈特蕾吉阿F奥恩V伊T津蕾惠贝恩
+# ルナテレジア・フォン・ヴィッツレーベン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

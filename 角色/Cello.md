@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c118975"
 type: "character"
-display_title: "C惠LL奥"
-title_zh: "C惠LL奥"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Cello"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c118975"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Cello"
 source_ids:
   vndb: "c118975"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c118975.webp"
 ---
 
-# C惠LL奥
+# Cello
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

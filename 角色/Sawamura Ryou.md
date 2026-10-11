@@ -5,7 +5,10 @@ display_title: "泽村凉"
 title_zh: "泽村凉"
 title_ja: "沢村 涼"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c33793"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sawamura Ryou"
   - "沢村 涼"

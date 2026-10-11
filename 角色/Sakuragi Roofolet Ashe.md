@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c37365"
 type: "character"
-display_title: "樱木露乌F奥蕾T斗阿阿诗惠"
-title_zh: "樱木露乌F奥蕾T斗阿阿诗惠"
+display_title: "桜木・ルーフォレット・アーシェ"
+title_zh: ""
 title_ja: "桜木・ルーフォレット・アーシェ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37365"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sakuragi Roofolet Ashe"
-  - "桜木・ルーフォレット・アーシェ"
 source_ids:
   vndb: "c37365"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c37365.webp"
 ---
 
-# 樱木露乌F奥蕾T斗阿阿诗惠
+# 桜木・ルーフォレット・アーシェ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

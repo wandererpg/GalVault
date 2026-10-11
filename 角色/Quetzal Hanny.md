@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61304"
 type: "character"
-display_title: "惠津阿露羽尼伊"
-title_zh: "惠津阿露羽尼伊"
+display_title: "ケツアルハニー"
+title_zh: ""
 title_ja: "ケツアルハニー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61304"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Quetzal Hanny"
-  - "ケツアルハニー"
 source_ids:
   vndb: "c61304"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61304.webp"
 ---
 
-# 惠津阿露羽尼伊
+# ケツアルハニー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "新藤丽子"
 title_zh: "新藤丽子"
 title_ja: "新藤 麗子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c238"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shindou Reiko"
   - "新藤 麗子"

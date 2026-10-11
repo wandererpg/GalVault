@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c20322"
 type: "character"
-display_title: "惠伊布拉羽梦V阿恩惠露诗恩古"
-title_zh: "惠伊布拉羽梦V阿恩惠露诗恩古"
+display_title: "エイブラハム・ヴァン・ヘルシング"
+title_zh: ""
 title_ja: "エイブラハム・ヴァン・ヘルシング"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c20322"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Abraham Van Helsing"
-  - "エイブラハム・ヴァン・ヘルシング"
   - "Van"
 source_ids:
   vndb: "c20322"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c20322.webp"
 ---
 
-# 惠伊布拉羽梦V阿恩惠露诗恩古
+# エイブラハム・ヴァン・ヘルシング
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38931"
 type: "character"
-display_title: "莫乃真久"
-title_zh: "莫乃真久"
+display_title: "モノマク"
+title_zh: ""
 title_ja: "モノマク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38931"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Monomachus"
-  - "モノマク"
 source_ids:
   vndb: "c38931"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c38931.webp"
 ---
 
-# 莫乃真久
+# モノマク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

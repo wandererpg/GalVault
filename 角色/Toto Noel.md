@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c83621"
 type: "character"
-display_title: "斗斗乃惠露"
-title_zh: "斗斗乃惠露"
+display_title: "トト・ノエル"
+title_zh: ""
 title_ja: "トト・ノエル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c83621"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Toto Noel"
-  - "トト・ノエル"
   - "Rio Laizer"
   - "The Dressup Doll"
   - "ココ・ロエル"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c83621.webp"
 ---
 
-# 斗斗乃惠露
+# トト・ノエル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c2422"
 type: "character"
-display_title: "阿恩莉佩洛莉"
-title_zh: "阿恩莉佩洛莉"
+display_title: "アンリ・ペロリ"
+title_zh: ""
 title_ja: "アンリ・ペロリ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c2422"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ahnri Pelori"
-  - "アンリ・ペロリ"
   - "Henri Pelori"
 source_ids:
   vndb: "c2422"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c2422.webp"
 ---
 
-# 阿恩莉佩洛莉
+# アンリ・ペロリ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

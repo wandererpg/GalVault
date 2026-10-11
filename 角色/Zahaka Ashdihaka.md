@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c134147"
 type: "character"
-display_title: "扎羽加阿修D伊羽加"
-title_zh: "扎羽加阿修D伊羽加"
+display_title: "ザハカ・アシュディハカ"
+title_zh: ""
 title_ja: "ザハカ・アシュディハカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c134147"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Zahaka Ashdihaka"
-  - "ザハカ・アシュディハカ"
   - "白き死"
   - "White Death"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c134147.webp"
 ---
 
-# 扎羽加阿修D伊羽加
+# ザハカ・アシュディハカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

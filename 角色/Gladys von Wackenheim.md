@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8828"
 type: "character"
-display_title: "古拉D伊寿F奥恩和K惠恩羽伊梦"
-title_zh: "古拉D伊寿F奥恩和K惠恩羽伊梦"
+display_title: "グラディス・フォン・ワッケンハイム"
+title_zh: ""
 title_ja: "グラディス・フォン・ワッケンハイム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8828"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gladys von Wackenheim"
-  - "グラディス・フォン・ワッケンハイム"
 source_ids:
   vndb: "c8828"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c8828.webp"
 ---
 
-# 古拉D伊寿F奥恩和K惠恩羽伊梦
+# グラディス・フォン・ワッケンハイム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

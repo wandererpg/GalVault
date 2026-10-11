@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c99979"
 type: "character"
-display_title: "V乌洛奥V乌阿露羽恩格露"
-title_zh: "V乌洛奥V乌阿露羽恩格露"
+display_title: "ヴローヴ・アルハンゲル"
+title_zh: ""
 title_ja: "ヴローヴ・アルハンゲル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c99979"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Vlov Arkhangel"
-  - "ヴローヴ・アルハンゲル"
 source_ids:
   vndb: "c99979"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c99979.webp"
 ---
 
-# V乌洛奥V乌阿露羽恩格露
+# ヴローヴ・アルハンゲル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

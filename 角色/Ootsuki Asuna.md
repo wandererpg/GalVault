@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c112799"
 type: "character"
-display_title: "大槻阿寿奈"
-title_zh: "大槻阿寿奈"
+display_title: "大槻 アスナ"
+title_zh: ""
 title_ja: "大槻 アスナ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c112799"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ootsuki Asuna"
-  - "大槻 アスナ"
 source_ids:
   vndb: "c112799"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c112799.webp"
 ---
 
-# 大槻阿寿奈
+# 大槻 アスナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

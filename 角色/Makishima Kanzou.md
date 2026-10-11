@@ -5,7 +5,10 @@ display_title: "卷岛宽造"
 title_zh: "卷岛宽造"
 title_ja: "巻島 寛造"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c87425"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Makishima Kanzou"
   - "巻島 寛造"

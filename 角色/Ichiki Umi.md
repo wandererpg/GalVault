@@ -5,7 +5,10 @@ display_title: "一木羽美"
 title_zh: "一木羽美"
 title_ja: "一木 羽美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10870"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ichiki Umi"
   - "一木 羽美"

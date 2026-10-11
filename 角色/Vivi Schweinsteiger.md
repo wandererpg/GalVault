@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43684"
 type: "character"
-display_title: "V伊V伊修巴伊恩修太伊雅阿"
-title_zh: "V伊V伊修巴伊恩修太伊雅阿"
+display_title: "ヴィヴィ・シュバインシュタイガー"
+title_zh: ""
 title_ja: "ヴィヴィ・シュバインシュタイガー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43684"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Vivi Schweinsteiger"
-  - "ヴィヴィ・シュバインシュタイガー"
 source_ids:
   vndb: "c43684"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43684.webp"
 ---
 
-# V伊V伊修巴伊恩修太伊雅阿
+# ヴィヴィ・シュバインシュタイガー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c29304"
 type: "character"
-display_title: "大女乃门龙院澄香"
-title_zh: "大女乃门龙院澄香"
+display_title: "大女ノ門龍院 澄香"
+title_zh: ""
 title_ja: "大女ノ門龍院 澄香"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c29304"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Oomenomonryuuin Sumika"
-  - "大女ノ門龍院 澄香"
 source_ids:
   vndb: "c29304"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c29304.webp"
 ---
 
-# 大女乃门龙院澄香
+# 大女ノ門龍院 澄香
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

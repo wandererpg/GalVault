@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17048"
 type: "character"
-display_title: "加古雅"
-title_zh: "加古雅"
+display_title: "カグヤ"
+title_zh: ""
 title_ja: "カグヤ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17048"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kaguya"
-  - "カグヤ"
   - "Tsukikage Kaguya"
   - "月影 輝夜"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c17048.webp"
 ---
 
-# 加古雅
+# カグヤ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

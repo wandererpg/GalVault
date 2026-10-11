@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c153201"
 type: "character"
-display_title: "甘夜日优莉"
-title_zh: "甘夜日优莉"
+display_title: "甘夜ひゆり"
+title_zh: ""
 title_ja: "甘夜ひゆり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c153201"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kanya Hiyuri"
-  - "甘夜ひゆり"
 source_ids:
   vndb: "c153201"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c153201.webp"
 ---
 
-# 甘夜日优莉
+# 甘夜ひゆり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

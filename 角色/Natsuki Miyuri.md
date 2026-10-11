@@ -5,7 +5,10 @@ display_title: "夏树海夕里"
 title_zh: "夏树海夕里"
 title_ja: "夏樹 海夕里"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43230"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Natsuki Miyuri"
   - "夏樹 海夕里"

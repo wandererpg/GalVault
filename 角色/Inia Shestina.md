@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c148"
 type: "character"
-display_title: "伊伊尼阿诗惠寿千奈"
-title_zh: "伊伊尼阿诗惠寿千奈"
+display_title: "イーニァ・シェスチナ"
+title_zh: ""
 title_ja: "イーニァ・シェスチナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c148"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Inia Shestina"
-  - "イーニァ・シェスチナ"
   - "Scarlet Twin"
   - "Иния Шестина"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c148.webp"
 ---
 
-# 伊伊尼阿诗惠寿千奈
+# イーニァ・シェスチナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

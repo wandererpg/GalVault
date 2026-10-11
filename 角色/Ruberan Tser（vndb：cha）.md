@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98329"
 type: "character"
-display_title: "露乌贝拉恩津惠惠露"
-title_zh: "露乌贝拉恩津惠惠露"
+display_title: "ルーベラン・ツェール"
+title_zh: ""
 title_ja: "ルーベラン・ツェール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98329"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ruberan Tser"
-  - "ルーベラン・ツェール"
 source_ids:
   vndb: "c98329"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98329.webp"
 ---
 
-# 露乌贝拉恩津惠惠露
+# ルーベラン・ツェール
 
 
 ## 角色画像

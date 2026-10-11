@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39728"
 type: "character"
-display_title: "乌沙吉"
-title_zh: "乌沙吉"
+display_title: "ウサギ"
+title_zh: ""
 title_ja: "ウサギ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39728"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Usagi"
-  - "ウサギ"
 source_ids:
   vndb: "c39728"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c39728.webp"
 ---
 
-# 乌沙吉
+# ウサギ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

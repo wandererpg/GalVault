@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c123244"
 type: "character"
-display_title: "博B比惠·B莉GGS"
-title_zh: "博B比惠·B莉GGS"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Bobbie Briggs"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c123244"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Bobbie Briggs"
 source_ids:
   vndb: "c123244"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c123244.webp"
 ---
 
-# 博B比惠·B莉GGS
+# Bobbie Briggs
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

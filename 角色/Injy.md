@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c122647"
 type: "character"
-display_title: "伊恩JY"
-title_zh: "伊恩JY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Injy"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c122647"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Injy"
 source_ids:
   vndb: "c122647"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c122647.webp"
 ---
 
-# 伊恩JY
+# Injy
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c42525"
 type: "character"
-display_title: "D伊伊蕾＝古梦拉＝太莉梦"
-title_zh: "D伊伊蕾＝古梦拉＝太莉梦"
+display_title: "ディーレ＝グムラ＝タリム"
+title_zh: ""
 title_ja: "ディーレ＝グムラ＝タリム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c42525"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Deele Gumura Tarim"
-  - "ディーレ＝グムラ＝タリム"
 source_ids:
   vndb: "c42525"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c42525.webp"
 ---
 
-# D伊伊蕾＝古梦拉＝太莉梦
+# ディーレ＝グムラ＝タリム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

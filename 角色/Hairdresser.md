@@ -5,7 +5,10 @@ display_title: "美容师"
 title_zh: "美容师"
 title_ja: "美容師"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c145831"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hairdresser"
   - "美容師"

@@ -5,7 +5,10 @@ display_title: "池田真之介"
 title_zh: "池田真之介"
 title_ja: "池田 真之介"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c165322"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ikeda Shinnosuke"
   - "池田 真之介"

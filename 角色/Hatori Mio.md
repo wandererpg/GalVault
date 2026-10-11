@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c164969"
 type: "character"
-display_title: "羽鸟美奥"
-title_zh: "羽鸟美奥"
+display_title: "羽鳥 ミオ"
+title_zh: ""
 title_ja: "羽鳥 ミオ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c164969"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hatori Mio"
-  - "羽鳥 ミオ"
 source_ids:
   vndb: "c164969"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c164969.webp"
 ---
 
-# 羽鸟美奥
+# 羽鳥 ミオ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

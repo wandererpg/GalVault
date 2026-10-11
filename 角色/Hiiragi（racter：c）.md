@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90261"
 type: "character"
-display_title: "日伊拉吉"
-title_zh: "日伊拉吉"
+display_title: "ヒイラギ"
+title_zh: ""
 title_ja: "ヒイラギ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90261"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hiiragi"
-  - "ヒイラギ"
 source_ids:
   vndb: "c90261"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c90261.webp"
 ---
 
-# 日伊拉吉
+# ヒイラギ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

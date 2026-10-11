@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c85073"
 type: "character"
-display_title: "濑诗莉阿缪乌兹莉伊"
-title_zh: "濑诗莉阿缪乌兹莉伊"
+display_title: "セシリア・ミューズリー"
+title_zh: ""
 title_ja: "セシリア・ミューズリー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85073"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cecilia Muesli"
-  - "セシリア・ミューズリー"
 source_ids:
   vndb: "c85073"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c85073.webp"
 ---
 
-# 濑诗莉阿缪乌兹莉伊
+# セシリア・ミューズリー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

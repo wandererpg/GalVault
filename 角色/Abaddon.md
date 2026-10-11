@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c131134"
 type: "character"
-display_title: "阿巴堂奥恩"
-title_zh: "阿巴堂奥恩"
+display_title: "アバドーン"
+title_zh: ""
 title_ja: "アバドーン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c131134"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Abaddon"
-  - "アバドーン"
   - "Goddess"
   - "女神様"
   - "Necro"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c131134.webp"
 ---
 
-# 阿巴堂奥恩
+# アバドーン
 
 
 ## 角色画像

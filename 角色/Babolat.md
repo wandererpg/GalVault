@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c121187"
 type: "character"
-display_title: "巴博拉"
-title_zh: "巴博拉"
+display_title: "バボラ"
+title_zh: ""
 title_ja: "バボラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c121187"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Babolat"
-  - "バボラ"
 source_ids:
   vndb: "c121187"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c121187.webp"
 ---
 
-# 巴博拉
+# バボラ
 
 
 ## 角色画像

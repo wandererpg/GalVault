@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c72226"
 type: "character"
-display_title: "博洛奥尼阿寿"
-title_zh: "博洛奥尼阿寿"
+display_title: "ボローニアス"
+title_zh: ""
 title_ja: "ボローニアス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c72226"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Bolonious"
-  - "ボローニアス"
 source_ids:
   vndb: "c72226"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c72226.webp"
 ---
 
-# 博洛奥尼阿寿
+# ボローニアス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

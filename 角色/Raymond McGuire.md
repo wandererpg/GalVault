@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c28945"
 type: "character"
-display_title: "蕾伊莫恩堂·真古和伊雅"
-title_zh: "蕾伊莫恩堂·真古和伊雅"
+display_title: "レイモンド マグワイヤ"
+title_zh: ""
 title_ja: "レイモンド マグワイヤ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c28945"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Raymond McGuire"
-  - "レイモンド マグワイヤ"
   - "Raymond McGwire"
 source_ids:
   vndb: "c28945"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c28945.webp"
 ---
 
-# 蕾伊莫恩堂·真古和伊雅
+# レイモンド マグワイヤ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

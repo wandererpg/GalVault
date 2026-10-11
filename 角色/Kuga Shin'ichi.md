@@ -5,7 +5,10 @@ display_title: "玖珂真一"
 title_zh: "玖珂真一"
 title_ja: "玖珂 真一"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c32606"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kuga Shin'ichi"
   - "玖珂 真一"

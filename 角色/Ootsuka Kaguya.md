@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c24531"
 type: "character"
-display_title: "大津贺加古雅"
-title_zh: "大津贺加古雅"
+display_title: "大津賀 かぐや"
+title_zh: ""
 title_ja: "大津賀 かぐや"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c24531"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ootsuka Kaguya"
-  - "大津賀 かぐや"
 source_ids:
   vndb: "c24531"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c24531.webp"
 ---
 
-# 大津贺加古雅
+# 大津賀 かぐや
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

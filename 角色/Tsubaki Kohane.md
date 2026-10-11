@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c45017"
 type: "character"
-display_title: "椿姫子羽音"
-title_zh: "椿姫子羽音"
+display_title: "椿姫 こはね"
+title_zh: ""
 title_ja: "椿姫 こはね"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c45017"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tsubaki Kohane"
-  - "椿姫 こはね"
 source_ids:
   vndb: "c45017"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c45017.webp"
 ---
 
-# 椿姫子羽音
+# 椿姫 こはね
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

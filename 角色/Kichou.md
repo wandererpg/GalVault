@@ -5,7 +5,10 @@ display_title: "喜蝶"
 title_zh: "喜蝶"
 title_ja: "喜蝶"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c37930"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kichou"
 source_ids:

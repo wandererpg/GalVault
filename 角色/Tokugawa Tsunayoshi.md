@@ -5,7 +5,10 @@ display_title: "德川纲吉"
 title_zh: "德川纲吉"
 title_ja: "徳川 綱吉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16625"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tokugawa Tsunayoshi"
   - "徳川 綱吉"

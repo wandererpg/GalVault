@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c70138"
 type: "character"
-display_title: "诗乃布"
-title_zh: "诗乃布"
+display_title: "しのぶ"
+title_zh: ""
 title_ja: "しのぶ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c70138"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shinobu"
-  - "しのぶ"
 source_ids:
   vndb: "c70138"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c70138.webp"
 ---
 
-# 诗乃布
+# しのぶ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

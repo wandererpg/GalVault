@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c124014"
 type: "character"
-display_title: "影山沙希"
-title_zh: "影山沙希"
+display_title: "影山 サキ"
+title_zh: ""
 title_ja: "影山 サキ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124014"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kageyama Saki"
-  - "影山 サキ"
 source_ids:
   vndb: "c124014"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c124014.webp"
 ---
 
-# 影山沙希
+# 影山 サキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

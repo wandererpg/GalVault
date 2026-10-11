@@ -5,7 +5,10 @@ display_title: "有村歌子"
 title_zh: "有村歌子"
 title_ja: "有村 歌子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c84846"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Arimura Utako"
   - "有村 歌子"

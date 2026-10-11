@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14000"
 type: "character"
-display_title: "F阿伊"
-title_zh: "F阿伊"
+display_title: "ファイ"
+title_zh: ""
 title_ja: "ファイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14000"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Phi"
-  - "ファイ"
   - "Phido"
 source_ids:
   vndb: "c14000"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c14000.webp"
 ---
 
-# F阿伊
+# ファイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

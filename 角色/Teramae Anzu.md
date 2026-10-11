@@ -5,7 +5,10 @@ display_title: "寺前杏"
 title_zh: "寺前杏"
 title_ja: "寺前 杏"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c12090"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Teramae Anzu"
   - "寺前 杏"

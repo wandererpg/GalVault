@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c167035"
 type: "character"
-display_title: "梅泽沙恩"
-title_zh: "梅泽沙恩"
+display_title: "梅沢さん"
+title_zh: ""
 title_ja: "梅沢さん"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c167035"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ms Umezawa"
-  - "梅沢さん"
 source_ids:
   vndb: "c167035"
 source_urls:
   vndb: "https://vndb.org/c167035"
 ---
 
-# 梅泽沙恩
+# 梅沢さん
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

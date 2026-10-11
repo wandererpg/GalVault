@@ -5,7 +5,10 @@ display_title: "中森翔太"
 title_zh: "中森翔太"
 title_ja: "中森 翔太"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c11634"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nakamori Shouta"
   - "中森 翔太"

@@ -5,7 +5,10 @@ display_title: "本条亮真"
 title_zh: "本条亮真"
 title_ja: "本条 亮眞"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c99457"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Honjou Ryouma"
   - "本条 亮眞"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c56412"
 type: "character"
-display_title: "诗惠伊拉子洛恩博"
-title_zh: "诗惠伊拉子洛恩博"
+display_title: "シェイラ・コロンボ"
+title_zh: ""
 title_ja: "シェイラ・コロンボ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56412"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sheila Colombo"
-  - "シェイラ・コロンボ"
   - "Poisonous Spider"
 source_ids:
   vndb: "c56412"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c56412.webp"
 ---
 
-# 诗惠伊拉子洛恩博
+# シェイラ・コロンボ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

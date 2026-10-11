@@ -5,7 +5,10 @@ display_title: "松田南"
 title_zh: "松田南"
 title_ja: "松田 南"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c11616"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Matsuda Minami"
   - "松田 南"

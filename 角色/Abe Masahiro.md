@@ -5,7 +5,10 @@ display_title: "阿部正弘"
 title_zh: "阿部正弘"
 title_ja: "阿部 正弘"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c63518"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Abe Masahiro"
   - "阿部 正弘"

@@ -5,7 +5,10 @@ display_title: "荀攸公达"
 title_zh: "荀攸公达"
 title_ja: "荀攸 公達"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c63343"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Jun'yuu Koutatsu"
   - "荀攸 公達"

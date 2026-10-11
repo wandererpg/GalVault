@@ -5,7 +5,10 @@ display_title: "逸色绚芽"
 title_zh: "逸色绚芽"
 title_ja: "逸色 絢芽"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c125232"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Isshiki Ayame"
   - "逸色 絢芽"

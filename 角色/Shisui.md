@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61166"
 type: "character"
-display_title: "诗寿伊"
-title_zh: "诗寿伊"
+display_title: "シスイ"
+title_zh: ""
 title_ja: "シスイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61166"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shisui"
-  - "シスイ"
 source_ids:
   vndb: "c61166"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61166.webp"
 ---
 
-# 诗寿伊
+# シスイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

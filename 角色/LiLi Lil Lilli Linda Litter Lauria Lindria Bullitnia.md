@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c72073"
 type: "character"
-display_title: "莉莉莉露莉伊莉莉恩达莉T特露洛奥莉阿莉恩堂莉阿布莉T斗阿尼阿"
-title_zh: "莉莉莉露莉伊莉莉恩达莉T特露洛奥莉阿莉恩堂莉阿布莉T斗阿尼阿"
+display_title: "リリ・リル・リーリ・リンダ・リッテル・ローリア・リンドリア・ブリットアニア"
+title_zh: ""
 title_ja: "リリ・リル・リーリ・リンダ・リッテル・ローリア・リンドリア・ブリットアニア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c72073"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "LiLi Lil Lilli Linda Litter Lauria Lindria Bullitnia"
-  - "リリ・リル・リーリ・リンダ・リッテル・ローリア・リンドリア・ブリットアニア"
   - "リリリ"
   - "Lilili"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c72073.webp"
 ---
 
-# 莉莉莉露莉伊莉莉恩达莉T特露洛奥莉阿莉恩堂莉阿布莉T斗阿尼阿
+# リリ・リル・リーリ・リンダ・リッテル・ローリア・リンドリア・ブリットアニア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

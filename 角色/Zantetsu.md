@@ -5,7 +5,10 @@ display_title: "斩铁"
 title_zh: "斩铁"
 title_ja: "斬鉄"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c55663"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Zantetsu"
   - "斬鉄"

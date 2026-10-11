@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c135602"
 type: "character"
-display_title: "金子子乃美"
-title_zh: "金子子乃美"
+display_title: "金子このみ"
+title_zh: ""
 title_ja: "金子このみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c135602"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kaneko Konomi"
-  - "金子このみ"
   - "Kanekono"
 source_ids:
   vndb: "c135602"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c135602.webp"
 ---
 
-# 金子子乃美
+# 金子このみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

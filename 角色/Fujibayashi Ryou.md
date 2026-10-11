@@ -5,7 +5,10 @@ display_title: "藤林椋"
 title_zh: "藤林椋"
 title_ja: "藤林 椋"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c6089"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fujibayashi Ryou"
   - "藤林 椋"

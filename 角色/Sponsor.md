@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c162505"
 type: "character"
-display_title: "S波恩索R"
-title_zh: "S波恩索R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Sponsor"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c162505"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Sponsor"
 source_ids:
   vndb: "c162505"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c162505.webp"
 ---
 
-# S波恩索R
+# Sponsor
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

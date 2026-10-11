@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c99978"
 type: "character"
-display_title: "乔H恩S·达D"
-title_zh: "乔H恩S·达D"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "John's Dad"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c99978"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "John's Dad"
   - "Dad Egbert"
   - "pipefan413"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c99978.webp"
 ---
 
-# 乔H恩S·达D
+# John's Dad
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

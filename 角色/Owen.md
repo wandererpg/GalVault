@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c161309"
 type: "character"
-display_title: "奥奥惠恩"
-title_zh: "奥奥惠恩"
+display_title: "オーエン"
+title_zh: ""
 title_ja: "オーエン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161309"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Owen"
-  - "オーエン"
 source_ids:
   vndb: "c161309"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c161309.webp"
 ---
 
-# 奥奥惠恩
+# オーエン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

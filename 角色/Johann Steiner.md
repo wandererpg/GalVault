@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c91057"
 type: "character"
-display_title: "代羽恩修太伊奈阿"
-title_zh: "代羽恩修太伊奈阿"
+display_title: "ヨハン・シュタイナー"
+title_zh: ""
 title_ja: "ヨハン・シュタイナー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c91057"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Johann Steiner"
-  - "ヨハン・シュタイナー"
 source_ids:
   vndb: "c91057"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c91057.webp"
 ---
 
-# 代羽恩修太伊奈阿
+# ヨハン・シュタイナー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c590"
 type: "character"
-display_title: "佐久间美乃莉"
-title_zh: "佐久间美乃莉"
+display_title: "佐久間 みのり"
+title_zh: ""
 title_ja: "佐久間 みのり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c590"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sakuma Minori"
-  - "佐久間 みのり"
 source_ids:
   vndb: "c590"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c590.webp"
 ---
 
-# 佐久间美乃莉
+# 佐久間 みのり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c126865"
 type: "character"
-display_title: "惠LF·阿RC惠R"
-title_zh: "惠LF·阿RC惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Elf Archer"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126865"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Elf Archer"
 source_ids:
   vndb: "c126865"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c126865.webp"
 ---
 
-# 惠LF·阿RC惠R
+# Elf Archer
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

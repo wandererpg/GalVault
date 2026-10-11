@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c153181"
 type: "character"
-display_title: "津阿阿莉恩·子露尼惠恩子"
-title_zh: "津阿阿莉恩·子露尼惠恩子"
+display_title: "ツァーリン コルニエンコ"
+title_zh: ""
 title_ja: "ツァーリン コルニエンコ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c153181"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tsarin Korniyenko"
-  - "ツァーリン コルニエンコ"
 source_ids:
   vndb: "c153181"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c153181.webp"
 ---
 
-# 津阿阿莉恩·子露尼惠恩子
+# ツァーリン コルニエンコ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

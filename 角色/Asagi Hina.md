@@ -5,7 +5,10 @@ display_title: "朝木阳菜"
 title_zh: "朝木阳菜"
 title_ja: "朝木 陽菜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c84013"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Asagi Hina"
   - "朝木 陽菜"

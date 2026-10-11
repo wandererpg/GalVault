@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c129822"
 type: "character"
-display_title: "帕诗F伊加"
-title_zh: "帕诗F伊加"
+display_title: "パシフィカ"
+title_zh: ""
 title_ja: "パシフィカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c129822"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Pacifica"
-  - "パシフィカ"
 source_ids:
   vndb: "c129822"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c129822.webp"
 ---
 
-# 帕诗F伊加
+# パシフィカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

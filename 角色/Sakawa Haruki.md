@@ -5,7 +5,10 @@ display_title: "酒匂晴辉"
 title_zh: "酒匂晴辉"
 title_ja: "酒匂 晴輝"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c97501"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakawa Haruki"
   - "酒匂 晴輝"

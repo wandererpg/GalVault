@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c122261"
 type: "character"
-display_title: "莉阿梦惠V阿恩寿"
-title_zh: "莉阿梦惠V阿恩寿"
+display_title: "リアム・エヴァンス"
+title_zh: ""
 title_ja: "リアム・エヴァンス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c122261"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Liam Evans"
-  - "リアム・エヴァンス"
 source_ids:
   vndb: "c122261"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c122261.webp"
 ---
 
-# 莉阿梦惠V阿恩寿
+# リアム・エヴァンス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

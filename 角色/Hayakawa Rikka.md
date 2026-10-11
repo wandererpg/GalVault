@@ -5,7 +5,10 @@ display_title: "速川六花"
 title_zh: "速川六花"
 title_ja: "速川 六花"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c133790"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hayakawa Rikka"
   - "速川 六花"

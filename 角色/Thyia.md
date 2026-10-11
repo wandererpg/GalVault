@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c87944"
 type: "character"
-display_title: "THY伊阿"
-title_zh: "THY伊阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Thyia"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87944"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Thyia"
   - "Court Mage"
 source_ids:
   vndb: "c87944"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c87944.webp"
 ---
 
-# THY伊阿
+# Thyia
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

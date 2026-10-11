@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c147640"
 type: "character"
-display_title: "V惠洛尼C阿·阿乌洛拉·V阿L惠恩T伊奈·德S伊LV阿·莫蕾乃"
-title_zh: "V惠洛尼C阿·阿乌洛拉·V阿L惠恩T伊奈·德S伊LV阿·莫蕾乃"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Veronica Aurora Valentina DeSilva-Moreno"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c147640"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Veronica Aurora Valentina DeSilva-Moreno"
   - "V, Professor Moreno"
 source_ids:
   vndb: "c147640"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c147640.webp"
 ---
 
-# V惠洛尼C阿·阿乌洛拉·V阿L惠恩T伊奈·德S伊LV阿·莫蕾乃
+# Veronica Aurora Valentina DeSilva-Moreno
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

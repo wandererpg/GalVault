@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c27893"
 type: "character"
-display_title: "诗伊真加露音惠乃"
-title_zh: "诗伊真加露音惠乃"
+display_title: "シーマ・カルネーノ"
+title_zh: ""
 title_ja: "シーマ・カルネーノ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c27893"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cima Karneno"
-  - "シーマ・カルネーノ"
 source_ids:
   vndb: "c27893"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c27893.webp"
 ---
 
-# 诗伊真加露音惠乃
+# シーマ・カルネーノ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

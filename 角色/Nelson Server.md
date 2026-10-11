@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c99001"
 type: "character"
-display_title: "音露索恩沙阿巴阿"
-title_zh: "音露索恩沙阿巴阿"
+display_title: "ネルソン・サーバー"
+title_zh: ""
 title_ja: "ネルソン・サーバー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c99001"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nelson Server"
-  - "ネルソン・サーバー"
 source_ids:
   vndb: "c99001"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c99001.webp"
 ---
 
-# 音露索恩沙阿巴阿
+# ネルソン・サーバー
 
 
 ## 角色画像

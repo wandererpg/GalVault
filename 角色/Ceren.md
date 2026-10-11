@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c69685"
 type: "character"
-display_title: "吉惠蕾恩"
-title_zh: "吉惠蕾恩"
+display_title: "ジェレン"
+title_zh: ""
 title_ja: "ジェレン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c69685"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ceren"
-  - "ジェレン"
 source_ids:
   vndb: "c69685"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c69685.webp"
 ---
 
-# 吉惠蕾恩
+# ジェレン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

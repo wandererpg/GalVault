@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c22948"
 type: "character"
-display_title: "岩长乃银杏媛"
-title_zh: "岩长乃银杏媛"
+display_title: "岩長ノ銀杏媛"
+title_zh: ""
 title_ja: "岩長ノ銀杏媛"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c22948"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Iwanaga no Ichouhime"
-  - "岩長ノ銀杏媛"
   - "Ichiyou Hime"
 source_ids:
   vndb: "c22948"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c22948.webp"
 ---
 
-# 岩长乃银杏媛
+# 岩長ノ銀杏媛
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

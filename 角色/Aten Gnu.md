@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c37334"
 type: "character"
-display_title: "阿特恩努乌"
-title_zh: "阿特恩努乌"
+display_title: "アテン・ヌー"
+title_zh: ""
 title_ja: "アテン・ヌー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37334"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Aten Gnu"
-  - "アテン・ヌー"
 source_ids:
   vndb: "c37334"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c37334.webp"
 ---
 
-# 阿特恩努乌
+# アテン・ヌー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

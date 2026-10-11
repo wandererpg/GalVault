@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c112174"
 type: "character"
-display_title: "羽奈·R穗德S"
-title_zh: "羽奈·R穗德S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Hana Rhodes"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c112174"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Hana Rhodes"
 source_ids:
   vndb: "c112174"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c112174.webp"
 ---
 
-# 羽奈·R穗德S
+# Hana Rhodes
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

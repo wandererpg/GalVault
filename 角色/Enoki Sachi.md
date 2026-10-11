@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10863"
 type: "character"
-display_title: "榎木沙千"
-title_zh: "榎木沙千"
+display_title: "榎木 サチ"
+title_zh: ""
 title_ja: "榎木 サチ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10863"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Enoki Sachi"
-  - "榎木 サチ"
 source_ids:
   vndb: "c10863"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c10863.webp"
 ---
 
-# 榎木沙千
+# 榎木 サチ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

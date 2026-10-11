@@ -5,7 +5,10 @@ display_title: "蝶番史郎"
 title_zh: "蝶番史郎"
 title_ja: "蝶番 史郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c85107"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Choutsugai Shirou"
   - "蝶番 史郎"

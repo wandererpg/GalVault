@@ -5,7 +5,10 @@ display_title: "坂崎奈乃香"
 title_zh: "坂崎奈乃香"
 title_ja: "坂崎 奈乃香"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c29287"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakazaki Nanoka"
   - "坂崎 奈乃香"

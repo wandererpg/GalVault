@@ -5,7 +5,10 @@ display_title: "村井耕介"
 title_zh: "村井耕介"
 title_ja: "村井 耕介"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c38359"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Murai Kousuke"
   - "村井 耕介"

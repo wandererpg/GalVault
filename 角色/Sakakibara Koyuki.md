@@ -5,7 +5,10 @@ display_title: "榊原小雪"
 title_zh: "榊原小雪"
 title_ja: "榊原 小雪"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9792"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakakibara Koyuki"
   - "榊原 小雪"

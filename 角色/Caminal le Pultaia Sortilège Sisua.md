@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c64308"
 type: "character"
-display_title: "加美奈露露普露特阿索露特伊蕾惠朱诗寿阿"
-title_zh: "加美奈露露普露特阿索露特伊蕾惠朱诗寿阿"
+display_title: "カミナル・ル・プルテア・ソルティレージュ・シスア"
+title_zh: ""
 title_ja: "カミナル・ル・プルテア・ソルティレージュ・シスア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c64308"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Caminal le Pultaia Sortilège Sisua"
-  - "カミナル・ル・プルテア・ソルティレージュ・シスア"
   - "Cami-meow"
   - "カミにゃん"
   - "Kaminyan"
@@ -21,7 +23,7 @@ source_urls:
 portrait_image: "assets/characters/c64308.webp"
 ---
 
-# 加美奈露露普露特阿索露特伊蕾惠朱诗寿阿
+# カミナル・ル・プルテア・ソルティレージュ・シスア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

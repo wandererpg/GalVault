@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c173899"
 type: "character"
-display_title: "V惠Z藏恩"
-title_zh: "V惠Z藏恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Vezzon"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c173899"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Vezzon"
 source_ids:
   vndb: "c173899"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c173899.webp"
 ---
 
-# V惠Z藏恩
+# Vezzon
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

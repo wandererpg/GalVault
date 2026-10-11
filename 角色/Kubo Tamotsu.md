@@ -5,7 +5,10 @@ display_title: "久保完"
 title_zh: "久保完"
 title_ja: "久保 完"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c12532"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kubo Tamotsu"
   - "久保 完"

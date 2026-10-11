@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c85077"
 type: "character"
-display_title: "奥露"
-title_zh: "奥露"
+display_title: "オル"
+title_zh: ""
 title_ja: "オル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85077"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Oru"
-  - "オル"
   - "闇の女王"
   - "Yami no Joou"
   - "Queen of Darkness"
@@ -18,7 +20,7 @@ source_urls:
   vndb: "https://vndb.org/c85077"
 ---
 
-# 奥露
+# オル
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

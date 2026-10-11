@@ -5,7 +5,10 @@ display_title: "狐森吟"
 title_zh: "狐森吟"
 title_ja: "狐森 吟"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c24987"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Komori Gin"
   - "狐森 吟"

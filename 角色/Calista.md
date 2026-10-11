@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c167842"
 type: "character"
-display_title: "C阿L伊S太"
-title_zh: "C阿L伊S太"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Calista"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c167842"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Calista"
 source_ids:
   vndb: "c167842"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c167842.webp"
 ---
 
-# C阿L伊S太
+# Calista
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

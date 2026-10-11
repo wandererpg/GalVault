@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c74143"
 type: "character"
-display_title: "新岛伊兹美"
-title_zh: "新岛伊兹美"
+display_title: "新島 いずみ"
+title_zh: ""
 title_ja: "新島 いずみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c74143"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Niijima Izumi"
-  - "新島 いずみ"
 source_ids:
   vndb: "c74143"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c74143.webp"
 ---
 
-# 新岛伊兹美
+# 新島 いずみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

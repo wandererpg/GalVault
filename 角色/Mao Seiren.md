@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c75571"
 type: "character"
-display_title: "真奥濑伊蕾恩"
-title_zh: "真奥濑伊蕾恩"
+display_title: "マオ・セイレン"
+title_zh: ""
 title_ja: "マオ・セイレン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c75571"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mao Seiren"
-  - "マオ・セイレン"
 source_ids:
   vndb: "c75571"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c75571.webp"
 ---
 
-# 真奥濑伊蕾恩
+# マオ・セイレン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

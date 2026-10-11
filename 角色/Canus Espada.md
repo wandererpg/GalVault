@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c83403"
 type: "character"
-display_title: "加努寿惠寿帕阿达"
-title_zh: "加努寿惠寿帕阿达"
+display_title: "カヌス・エスパーダ"
+title_zh: ""
 title_ja: "カヌス・エスパーダ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c83403"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Canus Espada"
-  - "カヌス・エスパーダ"
 source_ids:
   vndb: "c83403"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c83403.webp"
 ---
 
-# 加努寿惠寿帕阿达
+# カヌス・エスパーダ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

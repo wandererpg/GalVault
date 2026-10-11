@@ -5,7 +5,10 @@ display_title: "羽柴宗助"
 title_zh: "羽柴宗助"
 title_ja: "羽柴 宗助"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c81094"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hashiba Sousuke"
   - "羽柴 宗助"

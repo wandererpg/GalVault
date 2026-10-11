@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c91044"
 type: "character"
-display_title: "F惠伊"
-title_zh: "F惠伊"
+display_title: "フェイ"
+title_zh: ""
 title_ja: "フェイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c91044"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Fei"
-  - "フェイ"
 source_ids:
   vndb: "c91044"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c91044.webp"
 ---
 
-# F惠伊
+# フェイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

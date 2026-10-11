@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c114214"
 type: "character"
-display_title: "拉恩DY·V阿L惠恩T伊音·嘉德"
-title_zh: "拉恩DY·V阿L惠恩T伊音·嘉德"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Randy Valentine Jade"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c114214"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Randy Valentine Jade"
   - "Randal"
 source_ids:
   vndb: "c114214"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c114214.webp"
 ---
 
-# 拉恩DY·V阿L惠恩T伊音·嘉德
+# Randy Valentine Jade
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

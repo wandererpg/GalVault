@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c63490"
 type: "character"
-display_title: "近卫家・家臣"
-title_zh: "近卫家・家臣"
+display_title: "近衛家・家臣"
+title_zh: ""
 title_ja: "近衛家・家臣"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c63490"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Konoe Family's Vassal"
-  - "近衛家・家臣"
 source_ids:
   vndb: "c63490"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c63490.webp"
 ---
 
-# 近卫家・家臣
+# 近衛家・家臣
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

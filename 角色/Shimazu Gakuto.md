@@ -5,7 +5,10 @@ display_title: "岛津岳人"
 title_zh: "岛津岳人"
 title_ja: "島津 岳人"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c3888"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shimazu Gakuto"
   - "島津 岳人"

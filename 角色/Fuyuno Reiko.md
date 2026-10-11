@@ -5,7 +5,10 @@ display_title: "冬野玲子"
 title_zh: "冬野玲子"
 title_ja: "冬野 玲子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c6848"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fuyuno Reiko"
   - "冬野 玲子"

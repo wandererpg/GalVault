@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61139"
 type: "character"
-display_title: "莫R莉S·贝LL"
-title_zh: "莫R莉S·贝LL"
+display_title: "모리스 벨"
+title_zh: ""
 title_ja: "모리스 벨"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61139"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Morris Bell"
-  - "모리스 벨"
 source_ids:
   vndb: "c61139"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61139.webp"
 ---
 
-# 莫R莉S·贝LL
+# 모리스 벨
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

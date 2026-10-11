@@ -5,7 +5,10 @@ display_title: "山条圭介"
 title_zh: "山条圭介"
 title_ja: "山条 圭介"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c53308"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sanjou Keisuke"
   - "山条 圭介"

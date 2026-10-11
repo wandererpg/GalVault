@@ -5,7 +5,10 @@ display_title: "荻野目晴史"
 title_zh: "荻野目晴史"
 title_ja: "荻野目 晴史"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c99192"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Oginome Harufumi"
   - "荻野目 晴史"

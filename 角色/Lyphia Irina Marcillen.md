@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17160"
 type: "character"
-display_title: "莉F伊阿伊莉伊奈真阿诗露恩"
-title_zh: "莉F伊阿伊莉伊奈真阿诗露恩"
+display_title: "リフィア・イリーナ・マーシルン"
+title_zh: ""
 title_ja: "リフィア・イリーナ・マーシルン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17160"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lyphia Irina Marcillen"
-  - "リフィア・イリーナ・マーシルン"
   - "Rifia"
   - "Lyphia"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c17160.webp"
 ---
 
-# 莉F伊阿伊莉伊奈真阿诗露恩
+# リフィア・イリーナ・マーシルン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

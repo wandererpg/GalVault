@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c66983"
 type: "character"
-display_title: "惠露达阿濑蕾寿太伊斗＝阿露V惠雅"
-title_zh: "惠露达阿濑蕾寿太伊斗＝阿露V惠雅"
+display_title: "エルダー・セレスタイト＝アルヴェガ"
+title_zh: ""
 title_ja: "エルダー・セレスタイト＝アルヴェガ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c66983"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Elder Celestite Alvega"
-  - "エルダー・セレスタイト＝アルヴェガ"
 source_ids:
   vndb: "c66983"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c66983.webp"
 ---
 
-# 惠露达阿濑蕾寿太伊斗＝阿露V惠雅
+# エルダー・セレスタイト＝アルヴェガ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

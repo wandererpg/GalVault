@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c59371"
 type: "character"
-display_title: "安藤吉惠伊"
-title_zh: "安藤吉惠伊"
+display_title: "安藤 ジェイ"
+title_zh: ""
 title_ja: "安藤 ジェイ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c59371"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Andou Jay"
-  - "安藤 ジェイ"
 source_ids:
   vndb: "c59371"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c59371.webp"
 ---
 
-# 安藤吉惠伊
+# 安藤 ジェイ
 
 
 ## 角色画像

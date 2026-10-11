@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c92043"
 type: "character"
-display_title: "J惠恩奈·贝雅Y"
-title_zh: "J惠恩奈·贝雅Y"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jenna Begay"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92043"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jenna Begay"
   - "Jasmynn"
 source_ids:
   vndb: "c92043"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c92043.webp"
 ---
 
-# J惠恩奈·贝雅Y
+# Jenna Begay
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

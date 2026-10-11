@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c94337"
 type: "character"
-display_title: "伊隅雅代伊"
-title_zh: "伊隅雅代伊"
+display_title: "伊隅 やよい"
+title_zh: ""
 title_ja: "伊隅 やよい"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94337"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Isumi Yayoi"
-  - "伊隅 やよい"
 source_ids:
   vndb: "c94337"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c94337.webp"
 ---
 
-# 伊隅雅代伊
+# 伊隅 やよい
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

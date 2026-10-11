@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c97892"
 type: "character"
-display_title: "诗寿特梦神"
-title_zh: "诗寿特梦神"
+display_title: "システム神"
+title_zh: ""
 title_ja: "システム神"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97892"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "System Goddess"
-  - "システム神"
 source_ids:
   vndb: "c97892"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c97892.webp"
 ---
 
-# 诗寿特梦神
+# システム神
 
 
 ## 角色画像

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c55399"
 type: "character"
-display_title: "芙露露巴阿恩"
-title_zh: "芙露露巴阿恩"
+display_title: "フルル・バーン"
+title_zh: ""
 title_ja: "フルル・バーン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c55399"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Fururu Burn"
-  - "フルル・バーン"
 source_ids:
   vndb: "c55399"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c55399.webp"
 ---
 
-# 芙露露巴阿恩
+# フルル・バーン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

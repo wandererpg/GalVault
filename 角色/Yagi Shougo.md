@@ -5,7 +5,10 @@ display_title: "八木正吾"
 title_zh: "八木正吾"
 title_ja: "八木 正吾"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c59385"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yagi Shougo"
   - "八木 正吾"

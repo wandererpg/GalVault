@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c147897"
 type: "character"
-display_title: "夏洛特·诗F特恩"
-title_zh: "夏洛特·诗F特恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Charlotte Shiften"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c147897"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Charlotte Shiften"
   - "Charlie"
 source_ids:
   vndb: "c147897"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c147897.webp"
 ---
 
-# 夏洛特·诗F特恩
+# Charlotte Shiften
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

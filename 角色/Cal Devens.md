@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c28939"
 type: "character"
-display_title: "佳露·D伊V惠恩寿"
-title_zh: "佳露·D伊V惠恩寿"
+display_title: "キャル ディヴェンス"
+title_zh: ""
 title_ja: "キャル ディヴェンス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c28939"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cal Devens"
-  - "キャル ディヴェンス"
 source_ids:
   vndb: "c28939"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c28939.webp"
 ---
 
-# 佳露·D伊V惠恩寿
+# キャル ディヴェンス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

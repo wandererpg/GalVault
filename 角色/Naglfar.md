@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61307"
 type: "character"
-display_title: "奈古露F阿莉"
-title_zh: "奈古露F阿莉"
+display_title: "ナグルファリ"
+title_zh: ""
 title_ja: "ナグルファリ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61307"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Naglfar"
-  - "ナグルファリ"
   - "Naglfari"
   - "Нагльфар"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c61307.webp"
 ---
 
-# 奈古露F阿莉
+# ナグルファリ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

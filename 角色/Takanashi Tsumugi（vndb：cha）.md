@@ -5,7 +5,10 @@ display_title: "小鸟游䌷"
 title_zh: "小鸟游䌷"
 title_ja: "小鳥遊 紬"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c76321"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takanashi Tsumugi"
   - "小鳥遊 紬"

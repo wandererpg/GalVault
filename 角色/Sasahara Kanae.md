@@ -5,7 +5,10 @@ display_title: "笹原叶爱"
 title_zh: "笹原叶爱"
 title_ja: "笹原 叶愛"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c29459"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sasahara Kanae"
   - "笹原 叶愛"

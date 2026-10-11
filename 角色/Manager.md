@@ -1,11 +1,14 @@
 ---
 entity_id: "vndb:character:c9806"
 type: "character"
-display_title: "经理"
-title_zh: "经理"
+display_title: "店长"
+title_zh: "店长"
 title_ja: "店長"
-title_zh_quality: "glossary"
-title_status: "machine_generated"
+title_zh_quality: "converted_original"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9806"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Manager"
   - "店長"
@@ -17,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c9806.webp"
 ---
 
-# 经理
+# 店长
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

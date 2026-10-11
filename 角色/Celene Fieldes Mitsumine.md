@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c23391"
 type: "character"
-display_title: "濑蕾惠音F伊惠露德寿三峰"
-title_zh: "濑蕾惠音F伊惠露德寿三峰"
+display_title: "セレーネ・フィエルデス・三峰"
+title_zh: ""
 title_ja: "セレーネ・フィエルデス・三峰"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c23391"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Celene Fieldes Mitsumine"
-  - "セレーネ・フィエルデス・三峰"
 source_ids:
   vndb: "c23391"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c23391.webp"
 ---
 
-# 濑蕾惠音F伊惠露德寿三峰
+# セレーネ・フィエルデス・三峰
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

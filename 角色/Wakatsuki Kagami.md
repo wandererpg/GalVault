@@ -5,7 +5,10 @@ display_title: "若槻镜"
 title_zh: "若槻镜"
 title_ja: "若槻 鏡"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c3567"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Wakatsuki Kagami"
   - "若槻 鏡"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38249"
 type: "character"
-display_title: "美伊露格惠佩"
-title_zh: "美伊露格惠佩"
+display_title: "ミール・ゲーペ"
+title_zh: ""
 title_ja: "ミール・ゲーペ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38249"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mira Goepe"
-  - "ミール・ゲーペ"
   - "Mir Goepe"
   - "Mir Gepe"
   - "Мира Гёпе"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c38249.webp"
 ---
 
-# 美伊露格惠佩
+# ミール・ゲーペ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c78192"
 type: "character"
-display_title: "羽阿斗"
-title_zh: "羽阿斗"
+display_title: "ハート"
+title_zh: ""
 title_ja: "ハート"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c78192"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Heart"
-  - "ハート"
 source_ids:
   vndb: "c78192"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c78192.webp"
 ---
 
-# 羽阿斗
+# ハート
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

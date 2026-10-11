@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c56351"
 type: "character"
-display_title: "塔乃主"
-title_zh: "塔乃主"
+display_title: "塔の主"
+title_zh: ""
 title_ja: "塔の主"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c56351"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tower Overlord"
-  - "塔の主"
   - "Tou no Nushi"
   - "Ashen Hawk"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c56351.webp"
 ---
 
-# 塔乃主
+# 塔の主
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

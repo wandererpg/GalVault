@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c37796"
 type: "character"
-display_title: "乃寿莉"
-title_zh: "乃寿莉"
+display_title: "ノスリ"
+title_zh: ""
 title_ja: "ノスリ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37796"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nosuri"
-  - "ノスリ"
 source_ids:
   vndb: "c37796"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c37796.webp"
 ---
 
-# 乃寿莉
+# ノスリ
 
 
 ## 角色画像

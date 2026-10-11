@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c37026"
 type: "character"
-display_title: "使徒斗帕阿兹"
-title_zh: "使徒斗帕阿兹"
+display_title: "使徒 トパーズ"
+title_zh: ""
 title_ja: "使徒 トパーズ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37026"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Apostle Topaz"
-  - "使徒 トパーズ"
   - "Opal"
 source_ids:
   vndb: "c37026"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c37026.webp"
 ---
 
-# 使徒斗帕阿兹
+# 使徒 トパーズ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13728"
 type: "character"
-display_title: "蕾V伊阿太恩"
-title_zh: "蕾V伊阿太恩"
+display_title: "レヴィアタン"
+title_zh: ""
 title_ja: "レヴィアタン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13728"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Leviathan"
-  - "レヴィアタン"
 source_ids:
   vndb: "c13728"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c13728.webp"
 ---
 
-# 蕾V伊阿太恩
+# レヴィアタン
 
 
 ## 角色画像

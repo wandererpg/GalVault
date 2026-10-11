@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c54928"
 type: "character"
-display_title: "达莉乌寿悟奥堂恩"
-title_zh: "达莉乌寿悟奥堂恩"
+display_title: "ダリウス・ゴードン"
+title_zh: ""
 title_ja: "ダリウス・ゴードン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c54928"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Darius Gordon"
-  - "ダリウス・ゴードン"
 source_ids:
   vndb: "c54928"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c54928.webp"
 ---
 
-# 达莉乌寿悟奥堂恩
+# ダリウス・ゴードン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c123989"
 type: "character"
-display_title: "藤枝加惠德"
-title_zh: "藤枝加惠德"
+display_title: "藤枝 かえで"
+title_zh: ""
 title_ja: "藤枝 かえで"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c123989"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Fujieda Kaede"
-  - "藤枝 かえで"
 source_ids:
   vndb: "c123989"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c123989.webp"
 ---
 
-# 藤枝加惠德
+# 藤枝 かえで
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

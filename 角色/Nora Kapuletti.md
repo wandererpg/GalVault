@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c142577"
 type: "character"
-display_title: "乃拉·加普L惠TT伊"
-title_zh: "乃拉·加普L惠TT伊"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Nora Kapuletti"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c142577"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Nora Kapuletti"
 source_ids:
   vndb: "c142577"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c142577.webp"
 ---
 
-# 乃拉·加普L惠TT伊
+# Nora Kapuletti
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

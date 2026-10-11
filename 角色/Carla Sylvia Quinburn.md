@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c104916"
 type: "character"
-display_title: "加阿拉S久伊恩巴阿恩"
-title_zh: "加阿拉S久伊恩巴阿恩"
+display_title: "カーラ・S・クィンバーン"
+title_zh: ""
 title_ja: "カーラ・S・クィンバーン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c104916"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Carla Sylvia Quinburn"
-  - "カーラ・S・クィンバーン"
 source_ids:
   vndb: "c104916"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c104916.webp"
 ---
 
-# 加阿拉S久伊恩巴阿恩
+# カーラ・S・クィンバーン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c32423"
 type: "character"
-display_title: "朔日伊乃莉"
-title_zh: "朔日伊乃莉"
+display_title: "朔日 いのり"
+title_zh: ""
 title_ja: "朔日 いのり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c32423"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sakujitsu Inori"
-  - "朔日 いのり"
 source_ids:
   vndb: "c32423"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c32423.webp"
 ---
 
-# 朔日伊乃莉
+# 朔日 いのり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

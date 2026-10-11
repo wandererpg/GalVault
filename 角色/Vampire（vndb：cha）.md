@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c144913"
 type: "character"
-display_title: "V阿M皮蕾"
-title_zh: "V阿M皮蕾"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Vampire"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c144913"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Vampire"
 source_ids:
   vndb: "c144913"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c144913.webp"
 ---
 
-# V阿M皮蕾
+# Vampire
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

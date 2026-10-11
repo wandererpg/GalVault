@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c173309"
 type: "character"
-display_title: "阿兹真夕日"
-title_zh: "阿兹真夕日"
+display_title: "あずま夕日"
+title_zh: ""
 title_ja: "あずま夕日"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c173309"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Azuma Yuuhi"
-  - "あずま夕日"
 source_ids:
   vndb: "c173309"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c173309.webp"
 ---
 
-# 阿兹真夕日
+# あずま夕日
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

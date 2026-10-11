@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c6047"
 type: "character"
-display_title: "乌露露＝加朱太"
-title_zh: "乌露露＝加朱太"
+display_title: "ウルル＝カジュタ"
+title_zh: ""
 title_ja: "ウルル＝カジュタ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c6047"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Uluru Kajuta"
-  - "ウルル＝カジュタ"
   - "Dorakko"
   - "The Golden-Scales of the Dragon-world"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c6047.webp"
 ---
 
-# 乌露露＝加朱太
+# ウルル＝カジュタ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

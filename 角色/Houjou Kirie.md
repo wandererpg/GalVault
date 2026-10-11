@@ -5,7 +5,10 @@ display_title: "北城雾江"
 title_zh: "北城雾江"
 title_ja: "北城 霧江"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c663"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Houjou Kirie"
   - "北城 霧江"

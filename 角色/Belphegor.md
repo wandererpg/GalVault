@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13730"
 type: "character"
-display_title: "贝露F惠悟奥露"
-title_zh: "贝露F惠悟奥露"
+display_title: "ベルフェゴール"
+title_zh: ""
 title_ja: "ベルフェゴール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13730"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Belphegor"
-  - "ベルフェゴール"
 source_ids:
   vndb: "c13730"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c13730.webp"
 ---
 
-# 贝露F惠悟奥露
+# ベルフェゴール
 
 
 ## 角色画像

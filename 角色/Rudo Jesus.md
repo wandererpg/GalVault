@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c25588"
 type: "character"
-display_title: "琉堂伊惠寿"
-title_zh: "琉堂伊惠寿"
+display_title: "琉堂 イエス"
+title_zh: ""
 title_ja: "琉堂 イエス"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c25588"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rudo Jesus"
-  - "琉堂 イエス"
   - "Super Cool na Boukun"
   - "Super Cool Tyrant"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c25588.webp"
 ---
 
-# 琉堂伊惠寿
+# 琉堂 イエス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

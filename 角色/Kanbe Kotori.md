@@ -5,7 +5,10 @@ display_title: "神户小鸟"
 title_zh: "神户小鸟"
 title_ja: "神戸 小鳥"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c241"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kanbe Kotori"
   - "神戸 小鳥"

@@ -5,7 +5,10 @@ display_title: "神尾晴子"
 title_zh: "神尾晴子"
 title_ja: "神尾 晴子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9996"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kamio Haruko"
   - "神尾 晴子"

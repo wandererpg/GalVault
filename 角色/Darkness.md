@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30818"
 type: "character"
-display_title: "达阿久音寿"
-title_zh: "达阿久音寿"
+display_title: "ダークネス"
+title_zh: ""
 title_ja: "ダークネス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30818"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Darkness"
-  - "ダークネス"
 source_ids:
   vndb: "c30818"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30818.webp"
 ---
 
-# 达阿久音寿
+# ダークネス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

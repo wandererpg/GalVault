@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c153122"
 type: "character"
-display_title: "J惠阿恩·亨利·穗乌D伊恩"
-title_zh: "J惠阿恩·亨利·穗乌D伊恩"
+display_title: "장 헨리 후딘"
+title_zh: ""
 title_ja: "장 헨리 후딘"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c153122"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jean Henry Houdin"
-  - "장 헨리 후딘"
 source_ids:
   vndb: "c153122"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c153122.webp"
 ---
 
-# J惠阿恩·亨利·穗乌D伊恩
+# 장 헨리 후딘
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

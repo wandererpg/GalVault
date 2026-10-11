@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c19636"
 type: "character"
-display_title: "阿寿太洛T特"
-title_zh: "阿寿太洛T特"
+display_title: "アスタロッテ"
+title_zh: ""
 title_ja: "アスタロッテ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c19636"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Astarotte"
-  - "アスタロッテ"
   - "Lotte"
   - "Queen of the Night"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c19636.webp"
 ---
 
-# 阿寿太洛T特
+# アスタロッテ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

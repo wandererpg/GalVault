@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c79759"
 type: "character"
-display_title: "羽尼伊"
-title_zh: "羽尼伊"
+display_title: "ハニー"
+title_zh: ""
 title_ja: "ハニー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c79759"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hanny"
-  - "ハニー"
   - "Hunny"
 source_ids:
   vndb: "c79759"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c79759.webp"
 ---
 
-# 羽尼伊
+# ハニー
 
 
 ## 角色画像

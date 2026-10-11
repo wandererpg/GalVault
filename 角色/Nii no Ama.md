@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c59578"
 type: "character"
-display_title: "二位乃尼"
-title_zh: "二位乃尼"
+display_title: "二位ノ尼"
+title_zh: ""
 title_ja: "二位ノ尼"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c59578"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nii no Ama"
-  - "二位ノ尼"
   - "Taira no Tokiko"
 source_ids:
   vndb: "c59578"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c59578.webp"
 ---
 
-# 二位乃尼
+# 二位ノ尼
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

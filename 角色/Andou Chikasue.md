@@ -5,7 +5,10 @@ display_title: "安东爱季"
 title_zh: "安东爱季"
 title_ja: "安東 愛季"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c31601"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Andou Chikasue"
   - "安東 愛季"

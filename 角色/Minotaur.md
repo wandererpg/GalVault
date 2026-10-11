@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c97440"
 type: "character"
-display_title: "美乃太乌R"
-title_zh: "美乃太乌R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Minotaur"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97440"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Minotaur"
 source_ids:
   vndb: "c97440"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c97440.webp"
 ---
 
-# 美乃太乌R
+# Minotaur
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

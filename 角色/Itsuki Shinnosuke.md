@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c86244"
 type: "character"
-display_title: "伊津希真之助"
-title_zh: "伊津希真之助"
+display_title: "イツキ 真之助"
+title_zh: ""
 title_ja: "イツキ 真之助"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c86244"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Itsuki Shinnosuke"
-  - "イツキ 真之助"
 source_ids:
   vndb: "c86244"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c86244.webp"
 ---
 
-# 伊津希真之助
+# イツキ 真之助
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

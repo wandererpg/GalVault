@@ -5,7 +5,10 @@ display_title: "天童云母"
 title_zh: "天童云母"
 title_ja: "天童 雲母"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c41461"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tendou Kira"
   - "天童 雲母"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98175"
 type: "character"
-display_title: "帕帕伊阿沙阿巴阿"
-title_zh: "帕帕伊阿沙阿巴阿"
+display_title: "パパイア・サーバー"
+title_zh: ""
 title_ja: "パパイア・サーバー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98175"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Papaya Server"
-  - "パパイア・サーバー"
 source_ids:
   vndb: "c98175"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98175.webp"
 ---
 
-# 帕帕伊阿沙阿巴阿
+# パパイア・サーバー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

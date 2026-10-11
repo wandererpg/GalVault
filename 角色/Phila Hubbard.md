@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c174174"
 type: "character"
-display_title: "P日L阿·H乌B巴RD"
-title_zh: "P日L阿·H乌B巴RD"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Phila Hubbard"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c174174"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Phila Hubbard"
 source_ids:
   vndb: "c174174"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c174174.webp"
 ---
 
-# P日L阿·H乌B巴RD
+# Phila Hubbard
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

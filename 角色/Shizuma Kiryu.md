@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c141566"
 type: "character"
-display_title: "诗兹真希龙乌"
-title_zh: "诗兹真希龙乌"
+display_title: "シズマ・キリュー"
+title_zh: ""
 title_ja: "シズマ・キリュー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141566"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shizuma Kiryu"
-  - "シズマ・キリュー"
 source_ids:
   vndb: "c141566"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c141566.webp"
 ---
 
-# 诗兹真希龙乌
+# シズマ・キリュー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

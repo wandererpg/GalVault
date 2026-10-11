@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17879"
 type: "character"
-display_title: "惠莉寿惠洛特伊寿"
-title_zh: "惠莉寿惠洛特伊寿"
+display_title: "エリス・エロティス"
+title_zh: ""
 title_ja: "エリス・エロティス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17879"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Eris Erotis"
-  - "エリス・エロティス"
 source_ids:
   vndb: "c17879"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c17879.webp"
 ---
 
-# 惠莉寿惠洛特伊寿
+# エリス・エロティス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

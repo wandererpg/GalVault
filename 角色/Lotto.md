@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30219"
 type: "character"
-display_title: "四守护洛T斗"
-title_zh: "四守护洛T斗"
+display_title: "四守護ロット"
+title_zh: ""
 title_ja: "四守護ロット"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30219"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lotto"
-  - "四守護ロット"
 source_ids:
   vndb: "c30219"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30219.webp"
 ---
 
-# 四守护洛T斗
+# 四守護ロット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

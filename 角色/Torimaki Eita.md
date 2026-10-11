@@ -5,7 +5,10 @@ display_title: "鸟牧英太"
 title_zh: "鸟牧英太"
 title_ja: "鳥牧 英太"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c102673"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Torimaki Eita"
   - "鳥牧 英太"

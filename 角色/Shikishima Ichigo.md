@@ -5,7 +5,10 @@ display_title: "敷岛苺"
 title_zh: "敷岛苺"
 title_ja: "敷島 苺"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c34791"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shikishima Ichigo"
   - "敷島 苺"

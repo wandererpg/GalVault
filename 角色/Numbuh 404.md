@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c96570"
 type: "character"
-display_title: "努M布H·404"
-title_zh: "努M布H·404"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Numbuh 404"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c96570"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Numbuh 404"
   - "Annabelle"
 source_ids:
   vndb: "c96570"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c96570.webp"
 ---
 
-# 努M布H·404
+# Numbuh 404
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

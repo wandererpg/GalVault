@@ -5,7 +5,10 @@ display_title: "白羽空也"
 title_zh: "白羽空也"
 title_ja: "白羽 空也"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c109862"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shirahane Kuuya"
   - "白羽 空也"

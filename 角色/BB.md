@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14131"
 type: "character"
-display_title: "比伊比伊"
-title_zh: "比伊比伊"
+display_title: "ビィビィ"
+title_zh: ""
 title_ja: "ビィビィ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14131"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "BB"
-  - "ビィビィ"
   - "Mysterious Black Magus"
   - "Black-coat Girl"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c14131.webp"
 ---
 
-# 比伊比伊
+# ビィビィ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

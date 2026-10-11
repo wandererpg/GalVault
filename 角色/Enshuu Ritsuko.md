@@ -5,7 +5,10 @@ display_title: "远州律子"
 title_zh: "远州律子"
 title_ja: "遠州 律子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c86547"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Enshuu Ritsuko"
   - "遠州 律子"

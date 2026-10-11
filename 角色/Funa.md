@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c21208"
 type: "character"
-display_title: "芙奈"
-title_zh: "芙奈"
+display_title: "ふな"
+title_zh: ""
 title_ja: "ふな"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c21208"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Funa"
-  - "ふな"
 source_ids:
   vndb: "c21208"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c21208.webp"
 ---
 
-# 芙奈
+# ふな
 
 
 ## 角色画像

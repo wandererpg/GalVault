@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c48488"
 type: "character"
-display_title: "阿伊拉"
-title_zh: "阿伊拉"
+display_title: "アイラ"
+title_zh: ""
 title_ja: "アイラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c48488"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Isla"
-  - "アイラ"
 source_ids:
   vndb: "c48488"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c48488.webp"
 ---
 
-# 阿伊拉
+# アイラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

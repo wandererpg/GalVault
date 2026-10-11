@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30372"
 type: "character"
-display_title: "室星洛恩"
-title_zh: "室星洛恩"
+display_title: "室星 ロン"
+title_zh: ""
 title_ja: "室星 ロン"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30372"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Muroboshi Ron"
-  - "室星 ロン"
 source_ids:
   vndb: "c30372"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30372.webp"
 ---
 
-# 室星洛恩
+# 室星 ロン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

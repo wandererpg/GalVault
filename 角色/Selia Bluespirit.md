@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c22363"
 type: "character"
-display_title: "濑莉阿布露乌寿皮莉T斗"
-title_zh: "濑莉阿布露乌寿皮莉T斗"
+display_title: "セリア・ブルースピリット"
+title_zh: ""
 title_ja: "セリア・ブルースピリット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c22363"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Selia Bluespirit"
-  - "セリア・ブルースピリット"
   - "Selia of Fever"
 source_ids:
   vndb: "c22363"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c22363.webp"
 ---
 
-# 濑莉阿布露乌寿皮莉T斗
+# セリア・ブルースピリット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

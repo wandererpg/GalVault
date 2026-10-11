@@ -5,7 +5,10 @@ display_title: "荣手枫"
 title_zh: "荣手枫"
 title_ja: "栄手 楓"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c127192"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakaede Kaede"
   - "栄手 楓"

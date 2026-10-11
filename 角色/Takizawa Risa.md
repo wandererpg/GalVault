@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c86695"
 type: "character"
-display_title: "泷泽莉沙"
-title_zh: "泷泽莉沙"
+display_title: "滝沢 リサ"
+title_zh: ""
 title_ja: "滝沢 リサ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c86695"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Takizawa Risa"
-  - "滝沢 リサ"
   - "Rindere"
   - "凛デレ"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c86695.webp"
 ---
 
-# 泷泽莉沙
+# 滝沢 リサ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

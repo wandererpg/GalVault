@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98462"
 type: "character"
-display_title: "穗拉雅"
-title_zh: "穗拉雅"
+display_title: "ホ・ラガ"
+title_zh: ""
 title_ja: "ホ・ラガ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98462"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ho-Raga"
-  - "ホ・ラガ"
 source_ids:
   vndb: "c98462"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98462.webp"
 ---
 
-# 穗拉雅
+# ホ・ラガ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

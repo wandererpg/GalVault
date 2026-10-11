@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c49385"
 type: "character"
-display_title: "吉露"
-title_zh: "吉露"
+display_title: "ギル"
+title_zh: ""
 title_ja: "ギル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c49385"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gill"
-  - "ギル"
 source_ids:
   vndb: "c49385"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c49385.webp"
 ---
 
-# 吉露
+# ギル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "奥本雷太"
 title_zh: "奥本雷太"
 title_ja: "奥本 雷太"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c38692"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Okumoto Raita"
   - "奥本 雷太"

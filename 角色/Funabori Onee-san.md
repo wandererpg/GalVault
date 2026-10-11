@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c113580"
 type: "character"
-display_title: "船堀奥姉沙恩"
-title_zh: "船堀奥姉沙恩"
+display_title: "船堀お姉さん"
+title_zh: ""
 title_ja: "船堀お姉さん"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c113580"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Funabori Onee-san"
-  - "船堀お姉さん"
 source_ids:
   vndb: "c113580"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c113580.webp"
 ---
 
-# 船堀奥姉沙恩
+# 船堀お姉さん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

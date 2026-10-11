@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c50780"
 type: "character"
-display_title: "蕾奥奈阿露"
-title_zh: "蕾奥奈阿露"
+display_title: "レオナール"
+title_zh: ""
 title_ja: "レオナール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c50780"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Leonard"
-  - "レオナール"
 source_ids:
   vndb: "c50780"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c50780.webp"
 ---
 
-# 蕾奥奈阿露
+# レオナール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

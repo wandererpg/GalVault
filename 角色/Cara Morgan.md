@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c107533"
 type: "character"
-display_title: "C阿拉·莫R雅恩"
-title_zh: "C阿拉·莫R雅恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Cara Morgan"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c107533"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Cara Morgan"
   - "Car"
 source_ids:
   vndb: "c107533"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c107533.webp"
 ---
 
-# C阿拉·莫R雅恩
+# Cara Morgan
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

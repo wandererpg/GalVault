@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c169032"
 type: "character"
-display_title: "吉乌L伊阿"
-title_zh: "吉乌L伊阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Giulia"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c169032"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Giulia"
 source_ids:
   vndb: "c169032"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c169032.webp"
 ---
 
-# 吉乌L伊阿
+# Giulia
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

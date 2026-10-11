@@ -5,7 +5,10 @@ display_title: "风间翔一"
 title_zh: "风间翔一"
 title_ja: "風間 翔一"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c3886"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kazama Shouichi"
   - "風間 翔一"

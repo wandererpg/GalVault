@@ -5,7 +5,10 @@ display_title: "宫濑正男"
 title_zh: "宫濑正男"
 title_ja: "宮瀬 正男"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c17592"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Miyase Masao"
   - "宮瀬 正男"

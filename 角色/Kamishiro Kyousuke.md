@@ -5,7 +5,10 @@ display_title: "神代恭介"
 title_zh: "神代恭介"
 title_ja: "神代 恭介"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c141261"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kamishiro Kyousuke"
   - "神代 恭介"

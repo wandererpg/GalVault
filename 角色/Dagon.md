@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126260"
 type: "character"
-display_title: "达悟恩娘"
-title_zh: "达悟恩娘"
+display_title: "ダゴン娘"
+title_zh: ""
 title_ja: "ダゴン娘"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126260"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Dagon"
-  - "ダゴン娘"
   - "Seraphy"
 source_ids:
   vndb: "c126260"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c126260.webp"
 ---
 
-# 达悟恩娘
+# ダゴン娘
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

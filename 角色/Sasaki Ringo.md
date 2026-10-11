@@ -5,7 +5,10 @@ display_title: "沙沙贵林檎"
 title_zh: "沙沙贵林檎"
 title_ja: "沙沙貴 林檎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16865"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sasaki Ringo"
   - "沙沙貴 林檎"

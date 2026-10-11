@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c119575"
 type: "character"
-display_title: "惠L沙·D乌CL阿乌X·德·L阿·V阿L惠T特"
-title_zh: "惠L沙·D乌CL阿乌X·德·L阿·V阿L惠T特"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Elsa D'Uclaux de La Valette"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c119575"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Elsa D'Uclaux de La Valette"
 source_ids:
   vndb: "c119575"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c119575.webp"
 ---
 
-# 惠L沙·D乌CL阿乌X·德·L阿·V阿L惠T特
+# Elsa D'Uclaux de La Valette
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

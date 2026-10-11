@@ -5,7 +5,10 @@ display_title: "土御门晴景"
 title_zh: "土御门晴景"
 title_ja: "土御門 晴景"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c166363"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsuchimikado Harukage"
   - "土御門 晴景"

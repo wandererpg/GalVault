@@ -5,7 +5,10 @@ display_title: "见田鞘"
 title_zh: "见田鞘"
 title_ja: "見田 鞘"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c63233"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mita Saya"
   - "見田 鞘"

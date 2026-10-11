@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c5280"
 type: "character"
-display_title: "沙拉真恩达阿"
-title_zh: "沙拉真恩达阿"
+display_title: "サラマンダー"
+title_zh: ""
 title_ja: "サラマンダー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c5280"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Salamander"
-  - "サラマンダー"
   - "Mandy"
 source_ids:
   vndb: "c5280"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c5280.webp"
 ---
 
-# 沙拉真恩达阿
+# サラマンダー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

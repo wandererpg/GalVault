@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c94323"
 type: "character"
-display_title: "L惠阿恩D拉·L阿ST"
-title_zh: "L惠阿恩D拉·L阿ST"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Leandra Last"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94323"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Leandra Last"
   - "Lee"
 source_ids:
   vndb: "c94323"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c94323.webp"
 ---
 
-# L惠阿恩D拉·L阿ST
+# Leandra Last
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

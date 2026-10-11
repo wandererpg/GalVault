@@ -5,7 +5,10 @@ display_title: "谕吉"
 title_zh: "谕吉"
 title_ja: "諭吉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c80101"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yukichi"
   - "諭吉"

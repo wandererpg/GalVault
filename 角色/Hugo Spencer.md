@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c101349"
 type: "character"
-display_title: "休乌悟寿佩恩沙阿"
-title_zh: "休乌悟寿佩恩沙阿"
+display_title: "ヒューゴ・スペンサー"
+title_zh: ""
 title_ja: "ヒューゴ・スペンサー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c101349"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hugo Spencer"
-  - "ヒューゴ・スペンサー"
 source_ids:
   vndb: "c101349"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c101349.webp"
 ---
 
-# 休乌悟寿佩恩沙阿
+# ヒューゴ・スペンサー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

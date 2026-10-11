@@ -5,7 +5,10 @@ display_title: "七番雏"
 title_zh: "七番雏"
 title_ja: "七番 雛"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c29975"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shichiban Hina"
   - "七番 雛"

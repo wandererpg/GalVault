@@ -5,7 +5,10 @@ display_title: "山泽麻美"
 title_zh: "山泽麻美"
 title_ja: "山沢 麻美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c2423"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yamazawa Asami"
   - "山沢 麻美"

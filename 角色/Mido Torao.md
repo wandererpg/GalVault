@@ -5,7 +5,10 @@ display_title: "御堂虎于"
 title_zh: "御堂虎于"
 title_ja: "御堂虎於"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c164116"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mido Torao"
   - "御堂虎於"

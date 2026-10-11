@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c132557"
 type: "character"
-display_title: "F阿T·嘉CK"
-title_zh: "F阿T·嘉CK"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Fat Jack"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132557"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Fat Jack"
 source_ids:
   vndb: "c132557"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c132557.webp"
 ---
 
-# F阿T·嘉CK
+# Fat Jack
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

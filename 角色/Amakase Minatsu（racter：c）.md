@@ -5,7 +5,10 @@ display_title: "天枷美夏"
 title_zh: "天枷美夏"
 title_ja: "天枷 美夏"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c54690"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Amakase Minatsu"
   - "天枷 美夏"

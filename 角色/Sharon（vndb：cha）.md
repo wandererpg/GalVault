@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c154386"
 type: "character"
-display_title: "夏洛恩"
-title_zh: "夏洛恩"
+display_title: "シャロン"
+title_zh: ""
 title_ja: "シャロン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c154386"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sharon"
-  - "シャロン"
 source_ids:
   vndb: "c154386"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c154386.webp"
 ---
 
-# 夏洛恩
+# シャロン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

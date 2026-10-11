@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c108939"
 type: "character"
-display_title: "莫奥恩·千"
-title_zh: "莫奥恩·千"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Moon Chi"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c108939"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Moon Chi"
   - "Fang"
   - "Lee Ha-Jeong"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c108939.webp"
 ---
 
-# 莫奥恩·千
+# Moon Chi
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c27716"
 type: "character"
-display_title: "佩特蕾惠音濑拉"
-title_zh: "佩特蕾惠音濑拉"
+display_title: "ペテレーネ・セラ"
+title_zh: ""
 title_ja: "ペテレーネ・セラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c27716"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Petelene Sera"
-  - "ペテレーネ・セラ"
 source_ids:
   vndb: "c27716"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c27716.webp"
 ---
 
-# 佩特蕾惠音濑拉
+# ペテレーネ・セラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "榛名望"
 title_zh: "榛名望"
 title_ja: "榛名 望"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43167"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Haruna Nozomu"
   - "榛名 望"

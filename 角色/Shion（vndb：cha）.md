@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c92321"
 type: "character"
-display_title: "诗奥恩"
-title_zh: "诗奥恩"
+display_title: "シオン"
+title_zh: ""
 title_ja: "シオン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92321"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shion"
-  - "シオン"
   - "紫苑"
 source_ids:
   vndb: "c92321"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c92321.webp"
 ---
 
-# 诗奥恩
+# シオン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26959"
 type: "character"
-display_title: "星河真希"
-title_zh: "星河真希"
+display_title: "星河 マキ"
+title_zh: ""
 title_ja: "星河 マキ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26959"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hoshikawa Maki"
-  - "星河 マキ"
 source_ids:
   vndb: "c26959"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c26959.webp"
 ---
 
-# 星河真希
+# 星河 マキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

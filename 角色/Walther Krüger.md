@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c42281"
 type: "character"
-display_title: "V阿露太阿久龙乌雅阿"
-title_zh: "V阿露太阿久龙乌雅阿"
+display_title: "ヴァルター・クリューガー"
+title_zh: ""
 title_ja: "ヴァルター・クリューガー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c42281"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Walther Krüger"
-  - "ヴァルター・クリューガー"
 source_ids:
   vndb: "c42281"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c42281.webp"
 ---
 
-# V阿露太阿久龙乌雅阿
+# ヴァルター・クリューガー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

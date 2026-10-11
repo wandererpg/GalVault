@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126432"
 type: "character"
-display_title: "V阿恩帕伊阿"
-title_zh: "V阿恩帕伊阿"
+display_title: "ヴァンパイア"
+title_zh: ""
 title_ja: "ヴァンパイア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126432"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Vampire"
-  - "ヴァンパイア"
   - "Wilhemina"
 source_ids:
   vndb: "c126432"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c126432.webp"
 ---
 
-# V阿恩帕伊阿
+# ヴァンパイア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

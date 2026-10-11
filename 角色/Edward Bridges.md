@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43506"
 type: "character"
-display_title: "惠堂和阿堂布莉J吉寿"
-title_zh: "惠堂和阿堂布莉J吉寿"
+display_title: "エドワード・ブリッジス"
+title_zh: ""
 title_ja: "エドワード・ブリッジス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43506"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Edward Bridges"
-  - "エドワード・ブリッジス"
 source_ids:
   vndb: "c43506"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43506.webp"
 ---
 
-# 惠堂和阿堂布莉J吉寿
+# エドワード・ブリッジス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

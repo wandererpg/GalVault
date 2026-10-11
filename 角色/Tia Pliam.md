@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71144"
 type: "character"
-display_title: "特伊伊阿＝普蕾伊阿梦"
-title_zh: "特伊伊阿＝普蕾伊阿梦"
+display_title: "ティーア＝プレイアム"
+title_zh: ""
 title_ja: "ティーア＝プレイアム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71144"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tia Pliam"
-  - "ティーア＝プレイアム"
 source_ids:
   vndb: "c71144"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71144.webp"
 ---
 
-# 特伊伊阿＝普蕾伊阿梦
+# ティーア＝プレイアム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

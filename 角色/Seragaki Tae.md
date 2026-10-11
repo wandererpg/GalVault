@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16600"
 type: "character"
-display_title: "濑良垣太惠"
-title_zh: "濑良垣太惠"
+display_title: "瀬良垣 タエ"
+title_zh: ""
 title_ja: "瀬良垣 タエ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16600"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Seragaki Tae"
-  - "瀬良垣 タエ"
 source_ids:
   vndb: "c16600"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c16600.webp"
 ---
 
-# 濑良垣太惠
+# 瀬良垣 タエ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

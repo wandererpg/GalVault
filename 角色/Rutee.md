@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c52758"
 type: "character"
-display_title: "露乌特伊"
-title_zh: "露乌特伊"
+display_title: "ルーティ"
+title_zh: ""
 title_ja: "ルーティ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c52758"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rutee"
-  - "ルーティ"
 source_ids:
   vndb: "c52758"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c52758.webp"
 ---
 
-# 露乌特伊
+# ルーティ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

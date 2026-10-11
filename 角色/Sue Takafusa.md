@@ -5,7 +5,10 @@ display_title: "陶隆房"
 title_zh: "陶隆房"
 title_ja: "陶 隆房"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c49217"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sue Takafusa"
   - "陶 隆房"

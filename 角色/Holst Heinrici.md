@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c127206"
 type: "character"
-display_title: "穗露寿斗羽伊恩莉津伊"
-title_zh: "穗露寿斗羽伊恩莉津伊"
+display_title: "ホルスト・ハインリツィ"
+title_zh: ""
 title_ja: "ホルスト・ハインリツィ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127206"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Holst Heinrici"
-  - "ホルスト・ハインリツィ"
 source_ids:
   vndb: "c127206"
 source_urls:
   vndb: "https://vndb.org/c127206"
 ---
 
-# 穗露寿斗羽伊恩莉津伊
+# ホルスト・ハインリツィ
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

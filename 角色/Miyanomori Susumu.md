@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39281"
 type: "character"
-display_title: "宫乃杜进"
-title_zh: "宫乃杜进"
+display_title: "宮ノ杜 進"
+title_zh: ""
 title_ja: "宮ノ杜 進"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39281"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Miyanomori Susumu"
-  - "宮ノ杜 進"
 source_ids:
   vndb: "c39281"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c39281.webp"
 ---
 
-# 宫乃杜进
+# 宮ノ杜 進
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125569"
 type: "character"
-display_title: "寿F伊恩久寿"
-title_zh: "寿F伊恩久寿"
+display_title: "スフィンクス"
+title_zh: ""
 title_ja: "スフィンクス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125569"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sphinx"
-  - "スフィンクス"
 source_ids:
   vndb: "c125569"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c125569.webp"
 ---
 
-# 寿F伊恩久寿
+# スフィンクス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

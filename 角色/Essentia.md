@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c80890"
 type: "character"
-display_title: "惠S濑恩T伊阿"
-title_zh: "惠S濑恩T伊阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Essentia"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c80890"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Essentia"
 source_ids:
   vndb: "c80890"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c80890.webp"
 ---
 
-# 惠S濑恩T伊阿
+# Essentia
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

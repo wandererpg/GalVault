@@ -5,7 +5,10 @@ display_title: "久乐间潮"
 title_zh: "久乐间潮"
 title_ja: "久楽間 潮"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c144396"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kurama Ushio"
   - "久楽間 潮"

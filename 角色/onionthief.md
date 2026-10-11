@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c105803"
 type: "character"
-display_title: "奥尼奥恩T日惠F"
-title_zh: "奥尼奥恩T日惠F"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "onionthief"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c105803"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "onionthief"
 source_ids:
   vndb: "c105803"
 source_urls:
   vndb: "https://vndb.org/c105803"
 ---
 
-# 奥尼奥恩T日惠F
+# onionthief
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

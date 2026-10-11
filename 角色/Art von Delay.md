@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c69154"
 type: "character"
-display_title: "阿RT·V奥恩·德L阿Y"
-title_zh: "阿RT·V奥恩·德L阿Y"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Art von Delay"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c69154"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Art von Delay"
   - "Mister Detective"
 source_ids:
   vndb: "c69154"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c69154.webp"
 ---
 
-# 阿RT·V奥恩·德L阿Y
+# Art von Delay
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

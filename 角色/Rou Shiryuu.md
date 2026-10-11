@@ -5,7 +5,10 @@ display_title: "狼士龙"
 title_zh: "狼士龙"
 title_ja: "狼 士龍"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c19736"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Rou Shiryuu"
   - "狼 士龍"

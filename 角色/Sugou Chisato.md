@@ -5,7 +5,10 @@ display_title: "州乡千圣"
 title_zh: "州乡千圣"
 title_ja: "州郷 千聖"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c97497"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sugou Chisato"
   - "州郷 千聖"

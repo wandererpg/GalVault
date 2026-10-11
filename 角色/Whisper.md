@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c146672"
 type: "character"
-display_title: "W日S佩R"
-title_zh: "W日S佩R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Whisper"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c146672"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Whisper"
   - "Beatingheart"
 source_ids:
   vndb: "c146672"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c146672.webp"
 ---
 
-# W日S佩R
+# Whisper
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

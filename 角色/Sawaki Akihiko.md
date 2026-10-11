@@ -5,7 +5,10 @@ display_title: "泽木昭彦"
 title_zh: "泽木昭彦"
 title_ja: "沢木 昭彦"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c68302"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sawaki Akihiko"
   - "沢木 昭彦"

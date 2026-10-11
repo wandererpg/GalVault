@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98815"
 type: "character"
-display_title: "吉M·乌·濑奥恩G"
-title_zh: "吉M·乌·濑奥恩G"
+display_title: "김 우성"
+title_zh: ""
 title_ja: "김 우성"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98815"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gim U-seong"
-  - "김 우성"
 source_ids:
   vndb: "c98815"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98815.webp"
 ---
 
-# 吉M·乌·濑奥恩G
+# 김 우성
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

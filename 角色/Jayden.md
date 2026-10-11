@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c85769"
 type: "character"
-display_title: "吉惠伊德恩"
-title_zh: "吉惠伊德恩"
+display_title: "ジェイデン"
+title_zh: ""
 title_ja: "ジェイデン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c85769"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jayden"
-  - "ジェイデン"
 source_ids:
   vndb: "c85769"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c85769.webp"
 ---
 
-# 吉惠伊德恩
+# ジェイデン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

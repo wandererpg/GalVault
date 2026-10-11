@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c44143"
 type: "character"
-display_title: "芙拉T斗"
-title_zh: "芙拉T斗"
+display_title: "フラット"
+title_zh: ""
 title_ja: "フラット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c44143"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Flat"
-  - "フラット"
 source_ids:
   vndb: "c44143"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c44143.webp"
 ---
 
-# 芙拉T斗
+# フラット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

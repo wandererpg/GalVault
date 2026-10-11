@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c97123"
 type: "character"
-display_title: "佩露惠蕾加蕾T斗"
-title_zh: "佩露惠蕾加蕾T斗"
+display_title: "ペルエレ・カレット"
+title_zh: ""
 title_ja: "ペルエレ・カレット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97123"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Peruelé Kalette"
-  - "ペルエレ・カレット"
 source_ids:
   vndb: "c97123"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c97123.webp"
 ---
 
-# 佩露惠蕾加蕾T斗
+# ペルエレ・カレット
 
 
 ## 角色画像

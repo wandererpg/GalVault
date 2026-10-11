@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c92812"
 type: "character"
-display_title: "莫尼久·莫恩特寿久乌"
-title_zh: "莫尼久·莫恩特寿久乌"
+display_title: "モニク・ モンテスキュー"
+title_zh: ""
 title_ja: "モニク・ モンテスキュー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92812"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Monique Montesquieu"
-  - "モニク・ モンテスキュー"
 source_ids:
   vndb: "c92812"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c92812.webp"
 ---
 
-# 莫尼久·莫恩特寿久乌
+# モニク・ モンテスキュー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

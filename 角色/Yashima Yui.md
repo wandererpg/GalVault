@@ -5,7 +5,10 @@ display_title: "八岛唯"
 title_zh: "八岛唯"
 title_ja: "八島 唯"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c83579"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yashima Yui"
   - "八島 唯"

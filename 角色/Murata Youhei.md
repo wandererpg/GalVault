@@ -5,7 +5,10 @@ display_title: "村田洋平"
 title_zh: "村田洋平"
 title_ja: "村田 洋平"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c82945"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Murata Youhei"
   - "村田 洋平"

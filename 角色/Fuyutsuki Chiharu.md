@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c129117"
 type: "character"
-display_title: "冬月千羽露"
-title_zh: "冬月千羽露"
+display_title: "冬月チハル"
+title_zh: ""
 title_ja: "冬月チハル"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c129117"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Fuyutsuki Chiharu"
-  - "冬月チハル"
 source_ids:
   vndb: "c129117"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c129117.webp"
 ---
 
-# 冬月千羽露
+# 冬月チハル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

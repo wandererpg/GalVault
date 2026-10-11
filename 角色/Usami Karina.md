@@ -5,7 +5,10 @@ display_title: "宇佐见香里奈"
 title_zh: "宇佐见香里奈"
 title_ja: "宇佐見 香里奈"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c33283"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Usami Karina"
   - "宇佐見 香里奈"

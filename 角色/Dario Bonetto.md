@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c118536"
 type: "character"
-display_title: "达莉奥·博音T斗"
-title_zh: "达莉奥·博音T斗"
+display_title: "ダリオ ボネット"
+title_zh: ""
 title_ja: "ダリオ ボネット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c118536"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Dario Bonetto"
-  - "ダリオ ボネット"
 source_ids:
   vndb: "c118536"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c118536.webp"
 ---
 
-# 达莉奥·博音T斗
+# ダリオ ボネット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

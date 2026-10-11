@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c134192"
 type: "character"
-display_title: "真尼伊朱"
-title_zh: "真尼伊朱"
+display_title: "マニージュ"
+title_zh: ""
 title_ja: "マニージュ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c134192"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Manige"
-  - "マニージュ"
 source_ids:
   vndb: "c134192"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c134192.webp"
 ---
 
-# 真尼伊朱
+# マニージュ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

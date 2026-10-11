@@ -5,7 +5,10 @@ display_title: "风冈麻理"
 title_zh: "风冈麻理"
 title_ja: "風岡 麻理"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c12976"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kazaoka Mari"
   - "風岡 麻理"

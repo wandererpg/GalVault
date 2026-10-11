@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16832"
 type: "character"
-display_title: "阿莉寿V阿伊恩贝露久"
-title_zh: "阿莉寿V阿伊恩贝露久"
+display_title: "アリス・ヴァインベルク"
+title_zh: ""
 title_ja: "アリス・ヴァインベルク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16832"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alice Weinberg"
-  - "アリス・ヴァインベルク"
 source_ids:
   vndb: "c16832"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c16832.webp"
 ---
 
-# 阿莉寿V阿伊恩贝露久
+# アリス・ヴァインベルク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c166247"
 type: "character"
-display_title: "莉S沙乌伊伊巴阿"
-title_zh: "莉S沙乌伊伊巴阿"
+display_title: "リッサ・ウィーバー"
+title_zh: ""
 title_ja: "リッサ・ウィーバー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c166247"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lissa Weaver"
-  - "リッサ・ウィーバー"
 source_ids:
   vndb: "c166247"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c166247.webp"
 ---
 
-# 莉S沙乌伊伊巴阿
+# リッサ・ウィーバー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

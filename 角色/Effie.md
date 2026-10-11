@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c135568"
 type: "character"
-display_title: "惠FF伊惠"
-title_zh: "惠FF伊惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Effie"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c135568"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Effie"
 source_ids:
   vndb: "c135568"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c135568.webp"
 ---
 
-# 惠FF伊惠
+# Effie
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

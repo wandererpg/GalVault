@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c93070"
 type: "character"
-display_title: "街宫翼"
-title_zh: "街宫翼"
+display_title: "街宮 ツバサ"
+title_zh: ""
 title_ja: "街宮 ツバサ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c93070"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Machimiya Tsubasa"
-  - "街宮 ツバサ"
 source_ids:
   vndb: "c93070"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c93070.webp"
 ---
 
-# 街宫翼
+# 街宮 ツバサ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98816"
 type: "character"
-display_title: "普莉真穗乃乃真恩"
-title_zh: "普莉真穗乃乃真恩"
+display_title: "プリマ・ホノノマン"
+title_zh: ""
 title_ja: "プリマ・ホノノマン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98816"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Prima Hononoman"
-  - "プリマ・ホノノマン"
 source_ids:
   vndb: "c98816"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98816.webp"
 ---
 
-# 普莉真穗乃乃真恩
+# プリマ・ホノノマン
 
 
 ## 角色画像

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c38370"
 type: "character"
-display_title: "J惠阿恩音·阿真加和·代乌恩G"
-title_zh: "J惠阿恩音·阿真加和·代乌恩G"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jeanne Amakawa (Young)"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38370"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jeanne Amakawa (Young)"
   - "Jun Amakawa"
 source_ids:
   vndb: "c38370"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c38370.webp"
 ---
 
-# J惠阿恩音·阿真加和·代乌恩G
+# Jeanne Amakawa (Young)
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

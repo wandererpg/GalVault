@@ -5,7 +5,10 @@ display_title: "赵云"
 title_zh: "赵云"
 title_ja: "趙雲"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c33333"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Chou'un"
   - "趙雲"

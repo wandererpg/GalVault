@@ -5,7 +5,10 @@ display_title: "佐伯克哉"
 title_zh: "佐伯克哉"
 title_ja: "佐伯 克哉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c17696"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Saeki Katsuya"
   - "佐伯 克哉"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c42205"
 type: "character"
-display_title: "加特伊阿V阿露斗羽伊梦"
-title_zh: "加特伊阿V阿露斗羽伊梦"
+display_title: "カティア・ヴァルトハイム"
+title_zh: ""
 title_ja: "カティア・ヴァルトハイム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c42205"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Katia Waldheim"
-  - "カティア・ヴァルトハイム"
   - "Schwarz 07"
   - "Morashi Musume"
   - "Communist-san"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c42205.webp"
 ---
 
-# 加特伊阿V阿露斗羽伊梦
+# カティア・ヴァルトハイム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

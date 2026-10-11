@@ -5,7 +5,10 @@ display_title: "生首"
 title_zh: "生首"
 title_ja: "生首"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c144533"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mr. Chopped"
 source_ids:

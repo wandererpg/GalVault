@@ -5,7 +5,10 @@ display_title: "和久津智"
 title_zh: "和久津智"
 title_ja: "和久津 智"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1789"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Wakutsu Tomo"
   - "和久津 智"

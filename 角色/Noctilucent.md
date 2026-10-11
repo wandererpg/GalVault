@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c129273"
 type: "character"
-display_title: "乃CT伊L乌C惠恩T"
-title_zh: "乃CT伊L乌C惠恩T"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Noctilucent"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c129273"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Noctilucent"
 source_ids:
   vndb: "c129273"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c129273.webp"
 ---
 
-# 乃CT伊L乌C惠恩T
+# Noctilucent
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

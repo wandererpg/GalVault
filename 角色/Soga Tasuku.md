@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c161960"
 type: "character"
-display_title: "曾我太寿久"
-title_zh: "曾我太寿久"
+display_title: "曽我 たすく"
+title_zh: ""
 title_ja: "曽我 たすく"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161960"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Soga Tasuku"
-  - "曽我 たすく"
 source_ids:
   vndb: "c161960"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c161960.webp"
 ---
 
-# 曾我太寿久
+# 曽我 たすく
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

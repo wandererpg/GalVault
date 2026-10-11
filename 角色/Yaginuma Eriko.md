@@ -5,7 +5,10 @@ display_title: "八木沼英理子"
 title_zh: "八木沼英理子"
 title_ja: "八木沼 英理子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c92960"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yaginuma Eriko"
   - "八木沼 英理子"

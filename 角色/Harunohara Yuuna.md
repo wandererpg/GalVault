@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c97499"
 type: "character"
-display_title: "春乃原优菜"
-title_zh: "春乃原优菜"
+display_title: "春ノ原 優菜"
+title_zh: ""
 title_ja: "春ノ原 優菜"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97499"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Harunohara Yuuna"
-  - "春ノ原 優菜"
 source_ids:
   vndb: "c97499"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c97499.webp"
 ---
 
-# 春乃原优菜
+# 春ノ原 優菜
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

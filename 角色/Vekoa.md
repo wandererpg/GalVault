@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c154631"
 type: "character"
-display_title: "V惠子阿"
-title_zh: "V惠子阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Vekoa"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c154631"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Vekoa"
 source_ids:
   vndb: "c154631"
 source_urls:
   vndb: "https://vndb.org/c154631"
 ---
 
-# V惠子阿
+# Vekoa
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

@@ -5,7 +5,10 @@ display_title: "袁术公路"
 title_zh: "袁术公路"
 title_ja: "袁術 公路"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c25787"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Enjutsu Kouro"
   - "袁術 公路"

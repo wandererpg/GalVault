@@ -5,7 +5,10 @@ display_title: "神乐屋彰人"
 title_zh: "神乐屋彰人"
 title_ja: "神楽屋 彰人"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c35729"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kaguraya Akito"
   - "神楽屋 彰人"

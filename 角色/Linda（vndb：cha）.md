@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c141415"
 type: "character"
-display_title: "L伊恩达"
-title_zh: "L伊恩达"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Linda"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141415"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Linda"
 source_ids:
   vndb: "c141415"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c141415.webp"
 ---
 
-# L伊恩达
+# Linda
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

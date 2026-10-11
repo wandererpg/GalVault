@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c131620"
 type: "character"
-display_title: "J惠恩奈·W伊LL索恩"
-title_zh: "J惠恩奈·W伊LL索恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jenna Willson"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c131620"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jenna Willson"
 source_ids:
   vndb: "c131620"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c131620.webp"
 ---
 
-# J惠恩奈·W伊LL索恩
+# Jenna Willson
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

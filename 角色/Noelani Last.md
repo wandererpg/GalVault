@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c94363"
 type: "character"
-display_title: "乃惠L阿尼·L阿ST"
-title_zh: "乃惠L阿尼·L阿ST"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Noelani Last"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94363"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Noelani Last"
   - "Lani"
   - "Hon"
   - "Ma"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c94363.webp"
 ---
 
-# 乃惠L阿尼·L阿ST
+# Noelani Last
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

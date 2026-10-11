@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c41641"
 type: "character"
-display_title: "沙久拉伊奈千"
-title_zh: "沙久拉伊奈千"
+display_title: "サクライ・ナチ"
+title_zh: ""
 title_ja: "サクライ・ナチ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c41641"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sakurai Nachi"
-  - "サクライ・ナチ"
   - "Nacchin"
 source_ids:
   vndb: "c41641"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c41641.webp"
 ---
 
-# 沙久拉伊奈千
+# サクライ・ナチ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

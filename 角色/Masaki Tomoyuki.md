@@ -5,7 +5,10 @@ display_title: "真崎智之"
 title_zh: "真崎智之"
 title_ja: "真崎 智之"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c6397"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Masaki Tomoyuki"
   - "真崎 智之"

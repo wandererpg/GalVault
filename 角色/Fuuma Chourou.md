@@ -5,7 +5,10 @@ display_title: "风魔长老"
 title_zh: "风魔长老"
 title_ja: "風魔長老"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10731"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Fuuma Chourou"
   - "風魔長老"

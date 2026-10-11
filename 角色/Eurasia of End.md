@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c40414"
 type: "character"
-display_title: "优乌拉诗阿奥布惠恩堂"
-title_zh: "优乌拉诗阿奥布惠恩堂"
+display_title: "ユウラシア・オブ・エンド"
+title_zh: ""
 title_ja: "ユウラシア・オブ・エンド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c40414"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Eurasia of End"
-  - "ユウラシア・オブ・エンド"
   - "Euracia of the Netherworld"
   - "Yuu"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c40414.webp"
 ---
 
-# 优乌拉诗阿奥布惠恩堂
+# ユウラシア・オブ・エンド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

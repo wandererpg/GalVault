@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c62576"
 type: "character"
-display_title: "蓝原诗奥恩"
-title_zh: "蓝原诗奥恩"
+display_title: "藍原 しおん"
+title_zh: ""
 title_ja: "藍原 しおん"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c62576"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Aihara Shion"
-  - "藍原 しおん"
 source_ids:
   vndb: "c62576"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c62576.webp"
 ---
 
-# 蓝原诗奥恩
+# 藍原 しおん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

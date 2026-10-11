@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c2452"
 type: "character"
-display_title: "巴阿巴拉真莉伊悟奥露堂"
-title_zh: "巴阿巴拉真莉伊悟奥露堂"
+display_title: "バーバラ・マリーゴールド"
+title_zh: ""
 title_ja: "バーバラ・マリーゴールド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c2452"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Barbara Marigold"
-  - "バーバラ・マリーゴールド"
 source_ids:
   vndb: "c2452"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c2452.webp"
 ---
 
-# 巴阿巴拉真莉伊悟奥露堂
+# バーバラ・マリーゴールド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

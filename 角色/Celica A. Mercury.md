@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26480"
 type: "character"
-display_title: "濑莉加阿雅津希真阿久莉伊"
-title_zh: "濑莉加阿雅津希真阿久莉伊"
+display_title: "セリカ゠アヤツキ゠マーキュリー"
+title_zh: ""
 title_ja: "セリカ゠アヤツキ゠マーキュリー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26480"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Celica A. Mercury"
-  - "セリカ゠アヤツキ゠マーキュリー"
   - "Antenna Girl"
   - "Celica Ayatsuki Mercury"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c26480.webp"
 ---
 
-# 濑莉加阿雅津希真阿久莉伊
+# セリカ゠アヤツキ゠マーキュリー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

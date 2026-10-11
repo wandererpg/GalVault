@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c149916"
 type: "character"
-display_title: "C伊M"
-title_zh: "C伊M"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Cim"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149916"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Cim"
 source_ids:
   vndb: "c149916"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c149916.webp"
 ---
 
-# C伊M
+# Cim
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

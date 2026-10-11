@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c132436"
 type: "character"
-display_title: "阿莉伊夏寿露津希伊"
-title_zh: "阿莉伊夏寿露津希伊"
+display_title: "アリーシャ・スルツキー"
+title_zh: ""
 title_ja: "アリーシャ・スルツキー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132436"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alisha Slutsky"
-  - "アリーシャ・スルツキー"
 source_ids:
   vndb: "c132436"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c132436.webp"
 ---
 
-# 阿莉伊夏寿露津希伊
+# アリーシャ・スルツキー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

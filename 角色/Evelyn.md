@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17161"
 type: "character"
-display_title: "惠V乌莉伊努"
-title_zh: "惠V乌莉伊努"
+display_title: "エヴリーヌ"
+title_zh: ""
 title_ja: "エヴリーヌ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17161"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Evelyn"
-  - "エヴリーヌ"
 source_ids:
   vndb: "c17161"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c17161.webp"
 ---
 
-# 惠V乌莉伊努
+# エヴリーヌ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

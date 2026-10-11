@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c25531"
 type: "character"
-display_title: "嘉恩＝皮惠惠露寿太恩蕾惠"
-title_zh: "嘉恩＝皮惠惠露寿太恩蕾惠"
+display_title: "ジャン＝ピエール・スタンレー"
+title_zh: ""
 title_ja: "ジャン＝ピエール・スタンレー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c25531"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jean-Pierre Stanley"
-  - "ジャン＝ピエール・スタンレー"
   - "J.P. Stanley"
   - "J＝P・スタンレー"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c25531.webp"
 ---
 
-# 嘉恩＝皮惠惠露寿太恩蕾惠
+# ジャン＝ピエール・スタンレー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

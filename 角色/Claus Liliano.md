@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c92235"
 type: "character"
-display_title: "久拉乌寿莉莉阿阿乃"
-title_zh: "久拉乌寿莉莉阿阿乃"
+display_title: "クラウス・リリアーノ"
+title_zh: ""
 title_ja: "クラウス・リリアーノ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92235"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Claus Liliano"
-  - "クラウス・リリアーノ"
 source_ids:
   vndb: "c92235"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c92235.webp"
 ---
 
-# 久拉乌寿莉莉阿阿乃
+# クラウス・リリアーノ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

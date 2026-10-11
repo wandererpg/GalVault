@@ -5,7 +5,10 @@ display_title: "小幡夏美"
 title_zh: "小幡夏美"
 title_ja: "小幡 夏美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c146583"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Obata Natsumi"
   - "小幡 夏美"

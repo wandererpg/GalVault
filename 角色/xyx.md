@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c102360"
 type: "character"
-display_title: "XYX"
-title_zh: "XYX"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "xyx"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c102360"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "xyx"
 source_ids:
   vndb: "c102360"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c102360.webp"
 ---
 
-# XYX
+# xyx
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

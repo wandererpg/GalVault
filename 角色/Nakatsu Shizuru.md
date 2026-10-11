@@ -5,7 +5,10 @@ display_title: "中津静流"
 title_zh: "中津静流"
 title_ja: "中津 静流"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c270"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nakatsu Shizuru"
   - "中津 静流"

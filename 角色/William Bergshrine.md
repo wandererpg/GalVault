@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90049"
 type: "character"
-display_title: "乌伊莉阿梦贝露古修拉伊恩"
-title_zh: "乌伊莉阿梦贝露古修拉伊恩"
+display_title: "ウィリアム・ベルグシュライン"
+title_zh: ""
 title_ja: "ウィリアム・ベルグシュライン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90049"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "William Bergshrine"
-  - "ウィリアム・ベルグシュライン"
   - "Tyrfing"
   - "斬空真剣"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c90049.webp"
 ---
 
-# 乌伊莉阿梦贝露古修拉伊恩
+# ウィリアム・ベルグシュライン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

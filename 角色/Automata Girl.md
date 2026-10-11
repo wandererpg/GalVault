@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126066"
 type: "character"
-display_title: "奥奥斗真阿太娘"
-title_zh: "奥奥斗真阿太娘"
+display_title: "オートマータ娘"
+title_zh: ""
 title_ja: "オートマータ娘"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126066"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Automata Girl"
-  - "オートマータ娘"
   - "Coppelia"
 source_ids:
   vndb: "c126066"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c126066.webp"
 ---
 
-# 奥奥斗真阿太娘
+# オートマータ娘
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

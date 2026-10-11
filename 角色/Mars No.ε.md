@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43366"
 type: "character"
-display_title: "真露寿-乃.ε"
-title_zh: "真露寿-乃.ε"
+display_title: "マルス-No.ε"
+title_zh: ""
 title_ja: "マルス-No.ε"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43366"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mars No.ε"
-  - "マルス-No.ε"
   - "Carnage"
   - "カーネイジ"
   - "殺塵鬼"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c43366.webp"
 ---
 
-# 真露寿-乃.ε
+# マルス-No.ε
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

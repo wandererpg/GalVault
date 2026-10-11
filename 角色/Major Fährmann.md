@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c127215"
 type: "character"
-display_title: "F惠惠露真恩少佐"
-title_zh: "F惠惠露真恩少佐"
+display_title: "フェールマン少佐"
+title_zh: ""
 title_ja: "フェールマン少佐"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127215"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Major Fährmann"
-  - "フェールマン少佐"
 source_ids:
   vndb: "c127215"
 source_urls:
   vndb: "https://vndb.org/c127215"
 ---
 
-# F惠惠露真恩少佐
+# フェールマン少佐
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

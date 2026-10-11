@@ -5,7 +5,10 @@ display_title: "城崎嗣夫"
 title_zh: "城崎嗣夫"
 title_ja: "城崎 嗣夫"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c80063"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kinosaki Tsuguo"
   - "城崎 嗣夫"

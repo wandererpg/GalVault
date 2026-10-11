@@ -5,7 +5,10 @@ display_title: "酒井忠次"
 title_zh: "酒井忠次"
 title_ja: "酒井 忠次"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c31691"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakai Tadatsugu"
   - "酒井 忠次"

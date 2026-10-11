@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c89158"
 type: "character"
-display_title: "穗LLY·和T索恩"
-title_zh: "穗LLY·和T索恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Holly Watson"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c89158"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Holly Watson"
 source_ids:
   vndb: "c89158"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c89158.webp"
 ---
 
-# 穗LLY·和T索恩
+# Holly Watson
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

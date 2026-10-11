@@ -5,7 +5,10 @@ display_title: "佐枝色羽"
 title_zh: "佐枝色羽"
 title_ja: "佐枝 色羽"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c98836"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Saegusa Iroha"
   - "佐枝 色羽"

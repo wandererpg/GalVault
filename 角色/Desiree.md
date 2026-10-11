@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c173635"
 type: "character"
-display_title: "德S伊蕾惠"
-title_zh: "德S伊蕾惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Desiree"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c173635"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Desiree"
 source_ids:
   vndb: "c173635"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c173635.webp"
 ---
 
-# 德S伊蕾惠
+# Desiree
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

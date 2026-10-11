@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c59970"
 type: "character"
-display_title: "羽阿露乌斗芙拉和乌露斗拉伊太乌奈"
-title_zh: "羽阿露乌斗芙拉和乌露斗拉伊太乌奈"
+display_title: "ハールート・フラワウル・トライタウナ"
+title_zh: ""
 title_ja: "ハールート・フラワウル・トライタウナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c59970"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Harut Flower Traitaun"
-  - "ハールート・フラワウル・トライタウナ"
 source_ids:
   vndb: "c59970"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c59970.webp"
 ---
 
-# 羽阿露乌斗芙拉和乌露斗拉伊太乌奈
+# ハールート・フラワウル・トライタウナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

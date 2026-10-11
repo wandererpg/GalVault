@@ -5,7 +5,10 @@ display_title: "雪村透子"
 title_zh: "雪村透子"
 title_ja: "雪村 透子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c19054"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yukimura Touko"
   - "雪村 透子"

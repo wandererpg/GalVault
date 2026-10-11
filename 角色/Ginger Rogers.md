@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c33489"
 type: "character"
-display_title: "吉恩嘉阿洛嘉阿寿"
-title_zh: "吉恩嘉阿洛嘉阿寿"
+display_title: "ジンジャー・ロジャース"
+title_zh: ""
 title_ja: "ジンジャー・ロジャース"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33489"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ginger Rogers"
-  - "ジンジャー・ロジャース"
 source_ids:
   vndb: "c33489"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c33489.webp"
 ---
 
-# 吉恩嘉阿洛嘉阿寿
+# ジンジャー・ロジャース
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

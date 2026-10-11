@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c169628"
 type: "character"
-display_title: "乌伊寿太莉阿沙恩"
-title_zh: "乌伊寿太莉阿沙恩"
+display_title: "ウィスタリアさん"
+title_zh: ""
 title_ja: "ウィスタリアさん"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c169628"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mrs. Wisteria"
-  - "ウィスタリアさん"
   - "レティ母"
   - "Letty's Mother"
 source_ids:
@@ -17,7 +19,7 @@ source_urls:
   vndb: "https://vndb.org/c169628"
 ---
 
-# 乌伊寿太莉阿沙恩
+# ウィスタリアさん
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

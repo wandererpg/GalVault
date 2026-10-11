@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26282"
 type: "character"
-display_title: "冥王伊扎奈美"
-title_zh: "冥王伊扎奈美"
+display_title: "冥王イザナミ"
+title_zh: ""
 title_ja: "冥王イザナミ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26282"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hades Izanami"
-  - "冥王イザナミ"
   - "Imperator"
   - "Mikado"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c26282.webp"
 ---
 
-# 冥王伊扎奈美
+# 冥王イザナミ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

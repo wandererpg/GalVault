@@ -5,7 +5,10 @@ display_title: "尾形俊太郎"
 title_zh: "尾形俊太郎"
 title_ja: "尾形 俊太郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c63368"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ogata Shuntarou"
   - "尾形 俊太郎"

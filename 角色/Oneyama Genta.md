@@ -5,7 +5,10 @@ display_title: "尾根山严太"
 title_zh: "尾根山严太"
 title_ja: "尾根山 厳太"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9229"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Oneyama Genta"
   - "尾根山 厳太"

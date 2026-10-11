@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c29707"
 type: "character"
-display_title: "吉露特伊恩诗伊布拉伊阿"
-title_zh: "吉露特伊恩诗伊布拉伊阿"
+display_title: "ギルティン・シーブライア"
+title_zh: ""
 title_ja: "ギルティン・シーブライア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c29707"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gilutin Siburaia"
-  - "ギルティン・シーブライア"
 source_ids:
   vndb: "c29707"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c29707.webp"
 ---
 
-# 吉露特伊恩诗伊布拉伊阿
+# ギルティン・シーブライア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

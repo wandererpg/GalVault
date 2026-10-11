@@ -5,7 +5,10 @@ display_title: "梨木莉爱"
 title_zh: "梨木莉爱"
 title_ja: "梨木 莉愛"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c110157"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nashiki Ria"
   - "梨木 莉愛"

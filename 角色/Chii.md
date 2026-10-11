@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c124584"
 type: "character"
-display_title: "千伊恰恩"
-title_zh: "千伊恰恩"
+display_title: "ちーちゃん"
+title_zh: ""
 title_ja: "ちーちゃん"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124584"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chii"
-  - "ちーちゃん"
   - "Chii-chan"
 source_ids:
   vndb: "c124584"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c124584.webp"
 ---
 
-# 千伊恰恩
+# ちーちゃん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

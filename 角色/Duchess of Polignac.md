@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c54539"
 type: "character"
-display_title: "波莉妮娅K久夫人"
-title_zh: "波莉妮娅K久夫人"
+display_title: "ポリニャック夫人"
+title_zh: ""
 title_ja: "ポリニャック夫人"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c54539"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Duchess of Polignac"
-  - "ポリニャック夫人"
 source_ids:
   vndb: "c54539"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c54539.webp"
 ---
 
-# 波莉妮娅K久夫人
+# ポリニャック夫人
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

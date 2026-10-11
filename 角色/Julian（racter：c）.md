@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c95209"
 type: "character"
-display_title: "朱L伊阿恩"
-title_zh: "朱L伊阿恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Julian"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c95209"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Julian"
 source_ids:
   vndb: "c95209"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c95209.webp"
 ---
 
-# 朱L伊阿恩
+# Julian
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

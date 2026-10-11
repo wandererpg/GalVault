@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c54393"
 type: "character"
-display_title: "达奈·扎音"
-title_zh: "达奈·扎音"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Dana Zane"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c54393"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Dana Zane"
   - "Boss"
   - "Dana"
   - "Red Comet"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c54393.webp"
 ---
 
-# 达奈·扎音
+# Dana Zane
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "茶山光咲姫"
 title_zh: "茶山光咲姫"
 title_ja: "茶山 光咲姫"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c48388"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sayama Misaki"
   - "茶山 光咲姫"

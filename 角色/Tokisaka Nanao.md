@@ -5,7 +5,10 @@ display_title: "朱鹭坂七緖"
 title_zh: "朱鹭坂七緖"
 title_ja: "朱鷺坂 七緒"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c45016"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tokisaka Nanao"
   - "朱鷺坂 七緒"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c116532"
 type: "character"
-display_title: "C阿T莉恩"
-title_zh: "C阿T莉恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Catrin"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116532"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Catrin"
 source_ids:
   vndb: "c116532"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c116532.webp"
 ---
 
-# C阿T莉恩
+# Catrin
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "久我山若佳菜"
 title_zh: "久我山若佳菜"
 title_ja: "久我山 若佳菜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c551"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kugayama Wakana"
   - "久我山 若佳菜"

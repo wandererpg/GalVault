@@ -5,7 +5,10 @@ display_title: "四十宫缀子"
 title_zh: "四十宫缀子"
 title_ja: "四十宮 綴子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c4083"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yosomiya Tsuzuriko"
   - "四十宮 綴子"

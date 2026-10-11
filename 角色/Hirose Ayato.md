@@ -5,7 +5,10 @@ display_title: "广濑彩人"
 title_zh: "广濑彩人"
 title_ja: "広瀬 彩人"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c122748"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hirose Ayato"
   - "広瀬 彩人"

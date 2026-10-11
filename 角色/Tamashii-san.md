@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c99894"
 type: "character"
-display_title: "魂沙恩"
-title_zh: "魂沙恩"
+display_title: "魂さん"
+title_zh: ""
 title_ja: "魂さん"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c99894"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tamashii-san"
-  - "魂さん"
 source_ids:
   vndb: "c99894"
 source_urls:
   vndb: "https://vndb.org/c99894"
 ---
 
-# 魂沙恩
+# 魂さん
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

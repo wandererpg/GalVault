@@ -5,7 +5,10 @@ display_title: "泽见祈里"
 title_zh: "泽见祈里"
 title_ja: "沢見 祈里"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c93060"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sawami Inori"
   - "沢見 祈里"

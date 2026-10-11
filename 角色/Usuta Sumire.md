@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c166145"
 type: "character"
-display_title: "臼田寿美蕾"
-title_zh: "臼田寿美蕾"
+display_title: "臼田スミレ"
+title_zh: ""
 title_ja: "臼田スミレ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c166145"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Usuta Sumire"
-  - "臼田スミレ"
 source_ids:
   vndb: "c166145"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c166145.webp"
 ---
 
-# 臼田寿美蕾
+# 臼田スミレ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

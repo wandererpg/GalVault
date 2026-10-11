@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c96845"
 type: "character"
-display_title: "岩井和雅"
-title_zh: "岩井和雅"
+display_title: "岩井わや"
+title_zh: ""
 title_ja: "岩井わや"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c96845"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Iwai Waya"
-  - "岩井わや"
 source_ids:
   vndb: "c96845"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c96845.webp"
 ---
 
-# 岩井和雅
+# 岩井わや
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "高堂宗近"
 title_zh: "高堂宗近"
 title_ja: "高堂 宗近"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c95669"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takadou Munechika"
   - "高堂 宗近"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c164554"
 type: "character"
-display_title: "莉阿梦乃T斗"
-title_zh: "莉阿梦乃T斗"
+display_title: "リアム・ノット"
+title_zh: ""
 title_ja: "リアム・ノット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c164554"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Liam Knott"
-  - "リアム・ノット"
   - "リアム・ユールウッド"
   - "Liam Yulewood"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c164554.webp"
 ---
 
-# 莉阿梦乃T斗
+# リアム・ノット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

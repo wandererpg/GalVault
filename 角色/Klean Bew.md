@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c96709"
 type: "character"
-display_title: "久莉恩比乌"
-title_zh: "久莉恩比乌"
+display_title: "クリン・ビゥ"
+title_zh: ""
 title_ja: "クリン・ビゥ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c96709"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Klean Bew"
-  - "クリン・ビゥ"
   - "Klin Biw"
 source_ids:
   vndb: "c96709"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c96709.webp"
 ---
 
-# 久莉恩比乌
+# クリン・ビゥ
 
 
 ## 角色画像

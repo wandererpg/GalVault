@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c137511"
 type: "character"
-display_title: "达莉阿"
-title_zh: "达莉阿"
+display_title: "ダリア"
+title_zh: ""
 title_ja: "ダリア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c137511"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Daria"
-  - "ダリア"
 source_ids:
   vndb: "c137511"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c137511.webp"
 ---
 
-# 达莉阿
+# ダリア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

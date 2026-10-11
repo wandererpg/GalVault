@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c169033"
 type: "character"
-display_title: "贝阿T莉Z·L奥佩Z"
-title_zh: "贝阿T莉Z·L奥佩Z"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Beatriz Lopez"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c169033"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Beatriz Lopez"
 source_ids:
   vndb: "c169033"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c169033.webp"
 ---
 
-# 贝阿T莉Z·L奥佩Z
+# Beatriz Lopez
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

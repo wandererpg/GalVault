@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c149532"
 type: "character"
-display_title: "惠蕾寿芙拉恩贝露朱拉比阿"
-title_zh: "惠蕾寿芙拉恩贝露朱拉比阿"
+display_title: "ヘレス・フランベルジュ・ラビア"
+title_zh: ""
 title_ja: "ヘレス・フランベルジュ・ラビア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149532"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Heles Flamberge Rabia"
-  - "ヘレス・フランベルジュ・ラビア"
 source_ids:
   vndb: "c149532"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c149532.webp"
 ---
 
-# 惠蕾寿芙拉恩贝露朱拉比阿
+# ヘレス・フランベルジュ・ラビア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

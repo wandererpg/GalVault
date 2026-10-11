@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12717"
 type: "character"
-display_title: "拉伊加久露濑伊堂"
-title_zh: "拉伊加久露濑伊堂"
+display_title: "ライカ・クルセイド"
+title_zh: ""
 title_ja: "ライカ・クルセイド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12717"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Leica Crusade"
-  - "ライカ・クルセイド"
   - "Raika"
 source_ids:
   vndb: "c12717"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c12717.webp"
 ---
 
-# 拉伊加久露濑伊堂
+# ライカ・クルセイド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

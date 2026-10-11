@@ -5,7 +5,10 @@ display_title: "多门传八郎"
 title_zh: "多门传八郎"
 title_ja: "多門 伝八郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c63553"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Okado Denpachirou"
   - "多門 伝八郎"

@@ -5,7 +5,10 @@ display_title: "罗夏"
 title_zh: "罗夏"
 title_ja: "罗夏"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c98140"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Luo Xia"
   - "Lars Rorschach"

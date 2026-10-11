@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c165287"
 type: "character"
-display_title: "阿恩奈贝LL惠"
-title_zh: "阿恩奈贝LL惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Annabelle"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c165287"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Annabelle"
 source_ids:
   vndb: "c165287"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c165287.webp"
 ---
 
-# 阿恩奈贝LL惠
+# Annabelle
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

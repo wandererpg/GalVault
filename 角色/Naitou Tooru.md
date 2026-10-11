@@ -5,7 +5,10 @@ display_title: "内藤透"
 title_zh: "内藤透"
 title_ja: "内藤 透"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c11601"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Naitou Tooru"
   - "内藤 透"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c66032"
 type: "character"
-display_title: "佩露濑波音惠"
-title_zh: "佩露濑波音惠"
+display_title: "ペルセポネー"
+title_zh: ""
 title_ja: "ペルセポネー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c66032"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Persephone"
-  - "ペルセポネー"
 source_ids:
   vndb: "c66032"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c66032.webp"
 ---
 
-# 佩露濑波音惠
+# ペルセポネー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

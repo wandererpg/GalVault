@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c25333"
 type: "character"
-display_title: "入江美优希"
-title_zh: "入江美优希"
+display_title: "入江 みゆき"
+title_zh: ""
 title_ja: "入江 みゆき"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c25333"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Irie Miyuki"
-  - "入江 みゆき"
   - "Miyukichi"
 source_ids:
   vndb: "c25333"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c25333.webp"
 ---
 
-# 入江美优希
+# 入江 みゆき
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

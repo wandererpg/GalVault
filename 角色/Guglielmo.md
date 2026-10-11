@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12375"
 type: "character"
-display_title: "古莉惠露莫"
-title_zh: "古莉惠露莫"
+display_title: "グリエルモ"
+title_zh: ""
 title_ja: "グリエルモ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12375"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Guglielmo"
-  - "グリエルモ"
 source_ids:
   vndb: "c12375"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c12375.webp"
 ---
 
-# 古莉惠露莫
+# グリエルモ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

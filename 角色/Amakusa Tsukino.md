@@ -5,7 +5,10 @@ display_title: "天草月乃"
 title_zh: "天草月乃"
 title_ja: "天草 月乃"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c94409"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Amakusa Tsukino"
   - "天草 月乃"

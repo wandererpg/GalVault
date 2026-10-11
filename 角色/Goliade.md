@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c111179"
 type: "character"
-display_title: "悟莉阿阿德"
-title_zh: "悟莉阿阿德"
+display_title: "ゴリアーデ"
+title_zh: ""
 title_ja: "ゴリアーデ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c111179"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Goliade"
-  - "ゴリアーデ"
 source_ids:
   vndb: "c111179"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c111179.webp"
 ---
 
-# 悟莉阿阿德
+# ゴリアーデ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

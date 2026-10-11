@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c33493"
 type: "character"
-display_title: "希音斗洛奥普"
-title_zh: "希音斗洛奥普"
+display_title: "キネトロープ"
+title_zh: ""
 title_ja: "キネトロープ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33493"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kinetoscope"
-  - "キネトロープ"
 source_ids:
   vndb: "c33493"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c33493.webp"
 ---
 
-# 希音斗洛奥普
+# キネトロープ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

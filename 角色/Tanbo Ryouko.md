@@ -5,7 +5,10 @@ display_title: "丹保凉子"
 title_zh: "丹保凉子"
 title_ja: "丹保 凉子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c71"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tanbo Ryouko"
   - "丹保 凉子"

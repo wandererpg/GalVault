@@ -5,7 +5,10 @@ display_title: "羽々音小鸟"
 title_zh: "羽々音小鸟"
 title_ja: "羽々音 小鳥"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9333"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Habane Kotori"
   - "羽々音 小鳥"

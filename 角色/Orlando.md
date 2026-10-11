@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c83762"
 type: "character"
-display_title: "奥RL阿恩堂"
-title_zh: "奥RL阿恩堂"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Orlando"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c83762"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Orlando"
 source_ids:
   vndb: "c83762"
 source_urls:
   vndb: "https://vndb.org/c83762"
 ---
 
-# 奥RL阿恩堂
+# Orlando
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

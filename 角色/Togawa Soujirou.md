@@ -5,7 +5,10 @@ display_title: "十河宗次郎"
 title_zh: "十河宗次郎"
 title_ja: "十河 宗次郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c11303"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Togawa Soujirou"
   - "十河 宗次郎"

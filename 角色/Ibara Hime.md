@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34945"
 type: "character"
-display_title: "伊巴拉姫"
-title_zh: "伊巴拉姫"
+display_title: "いばら姫"
+title_zh: ""
 title_ja: "いばら姫"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34945"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ibara Hime"
-  - "いばら姫"
   - "Thorn Princess"
 source_ids:
   vndb: "c34945"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c34945.webp"
 ---
 
-# 伊巴拉姫
+# いばら姫
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

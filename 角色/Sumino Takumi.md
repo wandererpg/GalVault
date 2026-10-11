@@ -5,7 +5,10 @@ display_title: "澄野拓海"
 title_zh: "澄野拓海"
 title_ja: "澄野 拓海"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c150696"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sumino Takumi"
   - "澄野 拓海"

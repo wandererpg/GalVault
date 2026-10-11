@@ -5,7 +5,10 @@ display_title: "姫嶋恭介"
 title_zh: "姫嶋恭介"
 title_ja: "姫嶋 恭介"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c149355"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Himejima Kyousuke"
   - "姫嶋 恭介"

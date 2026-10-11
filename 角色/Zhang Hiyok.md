@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c155198"
 type: "character"
-display_title: "绪乌日代久"
-title_zh: "绪乌日代久"
+display_title: "チョウ・ヒヨク"
+title_zh: ""
 title_ja: "チョウ・ヒヨク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155198"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Zhang Hiyok"
-  - "チョウ・ヒヨク"
   - "Zhang Fei"
   - "張·飛翼"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c155198.webp"
 ---
 
-# 绪乌日代久
+# チョウ・ヒヨク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

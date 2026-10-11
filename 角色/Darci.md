@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c103039"
 type: "character"
-display_title: "达RC伊"
-title_zh: "达RC伊"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Darci"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103039"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Darci"
 source_ids:
   vndb: "c103039"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c103039.webp"
 ---
 
-# 达RC伊
+# Darci
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

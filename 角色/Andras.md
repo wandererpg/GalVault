@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c2369"
 type: "character"
-display_title: "阿恩堂拉寿"
-title_zh: "阿恩堂拉寿"
+display_title: "アンドラス"
+title_zh: ""
 title_ja: "アンドラス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c2369"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Andras"
-  - "アンドラス"
 source_ids:
   vndb: "c2369"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c2369.webp"
 ---
 
-# 阿恩堂拉寿
+# アンドラス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

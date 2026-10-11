@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c103089"
 type: "character"
-display_title: "阿恩尼惠·W伊恩特RS"
-title_zh: "阿恩尼惠·W伊恩特RS"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Annie Winters"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103089"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Annie Winters"
 source_ids:
   vndb: "c103089"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c103089.webp"
 ---
 
-# 阿恩尼惠·W伊恩特RS
+# Annie Winters
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

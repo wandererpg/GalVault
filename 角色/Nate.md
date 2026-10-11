@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c96487"
 type: "character"
-display_title: "奈特"
-title_zh: "奈特"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Nate"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c96487"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Nate"
 source_ids:
   vndb: "c96487"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c96487.webp"
 ---
 
-# 奈特
+# Nate
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "那贺伊波"
 title_zh: "那贺伊波"
 title_ja: "那賀 伊波"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c81731"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Naga Inami"
   - "那賀 伊波"

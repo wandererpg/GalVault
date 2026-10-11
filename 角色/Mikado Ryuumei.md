@@ -5,7 +5,10 @@ display_title: "御门龙明"
 title_zh: "御门龙明"
 title_ja: "御門 龍明"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c34804"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mikado Ryuumei"
   - "御門 龍明"

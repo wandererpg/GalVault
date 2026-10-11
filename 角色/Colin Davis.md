@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c157333"
 type: "character"
-display_title: "C奥L伊恩·达V伊S"
-title_zh: "C奥L伊恩·达V伊S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Colin Davis"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c157333"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Colin Davis"
 source_ids:
   vndb: "c157333"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c157333.webp"
 ---
 
-# C奥L伊恩·达V伊S
+# Colin Davis
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

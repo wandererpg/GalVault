@@ -5,7 +5,10 @@ display_title: "六条红虫"
 title_zh: "六条红虫"
 title_ja: "六条 紅虫"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c34836"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Rokujou Akamushi"
   - "六条 紅虫"

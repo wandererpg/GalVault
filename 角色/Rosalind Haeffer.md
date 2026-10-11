@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c75572"
 type: "character"
-display_title: "洛扎莉恩堂惠芙音露"
-title_zh: "洛扎莉恩堂惠芙音露"
+display_title: "ロザリンド・ヘフネル"
+title_zh: ""
 title_ja: "ロザリンド・ヘフネル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c75572"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rosalind Haeffer"
-  - "ロザリンド・ヘフネル"
 source_ids:
   vndb: "c75572"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c75572.webp"
 ---
 
-# 洛扎莉恩堂惠芙音露
+# ロザリンド・ヘフネル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

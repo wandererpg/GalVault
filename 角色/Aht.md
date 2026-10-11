@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c4615"
 type: "character"
-display_title: "阿斗"
-title_zh: "阿斗"
+display_title: "アト"
+title_zh: ""
 title_ja: "アト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c4615"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Aht"
-  - "アト"
   - "Ato"
 source_ids:
   vndb: "c4615"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c4615.webp"
 ---
 
-# 阿斗
+# アト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

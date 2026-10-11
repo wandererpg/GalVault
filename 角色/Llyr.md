@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12931"
 type: "character"
-display_title: "寿伊伊露"
-title_zh: "寿伊伊露"
+display_title: "スィール"
+title_zh: ""
 title_ja: "スィール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12931"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Llyr"
-  - "スィール"
   - "Suiru"
 source_ids:
   vndb: "c12931"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c12931.webp"
 ---
 
-# 寿伊伊露
+# スィール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

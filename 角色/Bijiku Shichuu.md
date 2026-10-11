@@ -5,7 +5,10 @@ display_title: "糜竺子仲"
 title_zh: "糜竺子仲"
 title_ja: "糜竺 子仲"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c62463"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Bijiku Shichuu"
   - "糜竺 子仲"

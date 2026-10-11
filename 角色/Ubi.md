@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c118578"
 type: "character"
-display_title: "乌比"
-title_zh: "乌比"
+display_title: "우비"
+title_zh: ""
 title_ja: "우비"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c118578"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ubi"
-  - "우비"
   - "雨備"
   - "Woobi"
   - "Rainwear"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c118578.webp"
 ---
 
-# 乌比
+# 우비
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

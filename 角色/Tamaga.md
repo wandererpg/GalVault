@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c24679"
 type: "character"
-display_title: "太真雅"
-title_zh: "太真雅"
+display_title: "タマガ"
+title_zh: ""
 title_ja: "タマガ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c24679"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tamaga"
-  - "タマガ"
 source_ids:
   vndb: "c24679"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c24679.webp"
 ---
 
-# 太真雅
+# タマガ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

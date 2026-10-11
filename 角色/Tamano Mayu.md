@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c37396"
 type: "character"
-display_title: "玉野真优"
-title_zh: "玉野真优"
+display_title: "玉野 まゆ"
+title_zh: ""
 title_ja: "玉野 まゆ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37396"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tamano Mayu"
-  - "玉野 まゆ"
   - "まゆまゆ"
   - "Mayu-Mayu"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c37396.webp"
 ---
 
-# 玉野真优
+# 玉野 まゆ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

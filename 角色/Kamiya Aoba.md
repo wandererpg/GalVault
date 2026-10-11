@@ -5,7 +5,10 @@ display_title: "神谷青叶"
 title_zh: "神谷青叶"
 title_ja: "神谷 青葉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c78315"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kamiya Aoba"
   - "神谷 青葉"

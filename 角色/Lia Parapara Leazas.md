@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c11980"
 type: "character"
-display_title: "莉阿帕拉帕拉莉伊扎寿"
-title_zh: "莉阿帕拉帕拉莉伊扎寿"
+display_title: "リア・パラパラ・リーザス"
+title_zh: ""
 title_ja: "リア・パラパラ・リーザス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c11980"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lia Parapara Leazas"
-  - "リア・パラパラ・リーザス"
 source_ids:
   vndb: "c11980"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c11980.webp"
 ---
 
-# 莉阿帕拉帕拉莉伊扎寿
+# リア・パラパラ・リーザス
 
 
 ## 角色画像

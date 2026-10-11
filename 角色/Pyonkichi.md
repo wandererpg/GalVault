@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c35983"
 type: "character"
-display_title: "P代恩吉"
-title_zh: "P代恩吉"
+display_title: "ぴょん吉"
+title_zh: ""
 title_ja: "ぴょん吉"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c35983"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Pyonkichi"
-  - "ぴょん吉"
 source_ids:
   vndb: "c35983"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c35983.webp"
 ---
 
-# P代恩吉
+# ぴょん吉
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

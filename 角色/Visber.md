@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38240"
 type: "character"
-display_title: "V伊寿贝露"
-title_zh: "V伊寿贝露"
+display_title: "ヴィスべル"
+title_zh: ""
 title_ja: "ヴィスべル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38240"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Visber"
-  - "ヴィスべル"
   - "Висбер"
 source_ids:
   vndb: "c38240"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c38240.webp"
 ---
 
-# V伊寿贝露
+# ヴィスべル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

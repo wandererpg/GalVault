@@ -5,7 +5,10 @@ display_title: "早坂亲志"
 title_zh: "早坂亲志"
 title_ja: "早坂 親志"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c71191"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hayasaka Chikashi"
   - "早坂 親志"

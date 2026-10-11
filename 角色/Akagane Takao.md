@@ -5,7 +5,10 @@ display_title: "阿嘉金孝男"
 title_zh: "阿嘉金孝男"
 title_ja: "阿嘉金 孝男"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c90817"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Akagane Takao"
   - "阿嘉金 孝男"

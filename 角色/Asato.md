@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c15492"
 type: "character"
-display_title: "阿沙斗"
-title_zh: "阿沙斗"
+display_title: "アサト"
+title_zh: ""
 title_ja: "アサト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c15492"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Asato"
-  - "アサト"
 source_ids:
   vndb: "c15492"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c15492.webp"
 ---
 
-# 阿沙斗
+# アサト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

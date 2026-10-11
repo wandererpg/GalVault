@@ -5,7 +5,10 @@ display_title: "菖蒲春千代"
 title_zh: "菖蒲春千代"
 title_ja: "菖蒲 春千代"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c114464"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ayame Haruchiyo"
   - "菖蒲 春千代"

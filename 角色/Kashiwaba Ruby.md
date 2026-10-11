@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c70430"
 type: "character"
-display_title: "柏庭露比"
-title_zh: "柏庭露比"
+display_title: "柏庭 ルビ"
+title_zh: ""
 title_ja: "柏庭 ルビ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c70430"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kashiwaba Ruby"
-  - "柏庭 ルビ"
 source_ids:
   vndb: "c70430"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c70430.webp"
 ---
 
-# 柏庭露比
+# 柏庭 ルビ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

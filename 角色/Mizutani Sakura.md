@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c20681"
 type: "character"
-display_title: "水谷樱"
-title_zh: "水谷樱"
+display_title: "水谷 さくら"
+title_zh: ""
 title_ja: "水谷 さくら"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c20681"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mizutani Sakura"
-  - "水谷 さくら"
 source_ids:
   vndb: "c20681"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c20681.webp"
 ---
 
-# 水谷樱
+# 水谷 さくら
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c92238"
 type: "character"
-display_title: "卡莲北条"
-title_zh: "卡莲北条"
+display_title: "カレン・北条"
+title_zh: ""
 title_ja: "カレン・北条"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92238"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Karen Houjou"
-  - "カレン・北条"
 source_ids:
   vndb: "c92238"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c92238.webp"
 ---
 
-# 卡莲北条
+# カレン・北条
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

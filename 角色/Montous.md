@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c169823"
 type: "character"
-display_title: "莫恩斗乌S"
-title_zh: "莫恩斗乌S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Montous"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c169823"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Montous"
 source_ids:
   vndb: "c169823"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c169823.webp"
 ---
 
-# 莫恩斗乌S
+# Montous
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

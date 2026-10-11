@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c84428"
 type: "character"
-display_title: "阿伊"
-title_zh: "阿伊"
+display_title: "アイ"
+title_zh: ""
 title_ja: "アイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c84428"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ai"
-  - "アイ"
 source_ids:
   vndb: "c84428"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c84428.webp"
 ---
 
-# 阿伊
+# アイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

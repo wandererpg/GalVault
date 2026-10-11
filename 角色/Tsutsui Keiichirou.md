@@ -5,7 +5,10 @@ display_title: "筒井敬一郎"
 title_zh: "筒井敬一郎"
 title_ja: "筒井 敬一郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c143816"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsutsui Keiichirou"
   - "筒井 敬一郎"

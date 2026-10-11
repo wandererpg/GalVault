@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c110150"
 type: "character"
-display_title: "车井美久露"
-title_zh: "车井美久露"
+display_title: "車井 みくる"
+title_zh: ""
 title_ja: "車井 みくる"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c110150"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kurumai Mikuru"
-  - "車井 みくる"
 source_ids:
   vndb: "c110150"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c110150.webp"
 ---
 
-# 车井美久露
+# 車井 みくる
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

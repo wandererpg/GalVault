@@ -5,7 +5,10 @@ display_title: "上杉庆一"
 title_zh: "上杉庆一"
 title_ja: "上杉 慶一"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1423"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Uesugi Keiichi"
   - "上杉 慶一"

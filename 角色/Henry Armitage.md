@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12716"
 type: "character"
-display_title: "惠恩莉伊阿阿美特伊J吉"
-title_zh: "惠恩莉伊阿阿美特伊J吉"
+display_title: "ヘンリー・アーミティッジ"
+title_zh: ""
 title_ja: "ヘンリー・アーミティッジ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12716"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Henry Armitage"
-  - "ヘンリー・アーミティッジ"
 source_ids:
   vndb: "c12716"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c12716.webp"
 ---
 
-# 惠恩莉伊阿阿美特伊J吉
+# ヘンリー・アーミティッジ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

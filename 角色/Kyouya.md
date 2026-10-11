@@ -5,7 +5,10 @@ display_title: "狂夜"
 title_zh: "狂夜"
 title_ja: "狂夜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9492"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kyouya"
   - "Shimoto Kyouko"

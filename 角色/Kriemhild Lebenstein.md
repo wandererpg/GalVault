@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c33043"
 type: "character"
-display_title: "久莉伊梦日露斗蕾惠贝恩修太伊恩"
-title_zh: "久莉伊梦日露斗蕾惠贝恩修太伊恩"
+display_title: "クリームヒルト・レーベンシュタイン"
+title_zh: ""
 title_ja: "クリームヒルト・レーベンシュタイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33043"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kriemhild Lebenstein"
-  - "クリームヒルト・レーベンシュタイン"
 source_ids:
   vndb: "c33043"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c33043.webp"
 ---
 
-# 久莉伊梦日露斗蕾惠贝恩修太伊恩
+# クリームヒルト・レーベンシュタイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

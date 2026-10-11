@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c138177"
 type: "character"
-display_title: "希恩D拉·加普L惠TT伊"
-title_zh: "希恩D拉·加普L惠TT伊"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Kindra Kapuletti"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138177"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Kindra Kapuletti"
   - "DJ KinK, K.K, Kinder Kindra"
 source_ids:
   vndb: "c138177"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c138177.webp"
 ---
 
-# 希恩D拉·加普L惠TT伊
+# Kindra Kapuletti
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

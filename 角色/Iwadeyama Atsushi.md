@@ -5,7 +5,10 @@ display_title: "岩出山笃史"
 title_zh: "岩出山笃史"
 title_ja: "岩出山 篤史"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21737"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Iwadeyama Atsushi"
   - "岩出山 篤史"

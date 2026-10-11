@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c94414"
 type: "character"
-display_title: "达兹"
-title_zh: "达兹"
+display_title: "ダズ"
+title_zh: ""
 title_ja: "ダズ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94414"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Daz"
-  - "ダズ"
 source_ids:
   vndb: "c94414"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c94414.webp"
 ---
 
-# 达兹
+# ダズ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

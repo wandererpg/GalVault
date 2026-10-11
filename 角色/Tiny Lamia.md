@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125104"
 type: "character"
-display_title: "普千拉美阿"
-title_zh: "普千拉美阿"
+display_title: "プチラミア"
+title_zh: ""
 title_ja: "プチラミア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125104"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tiny Lamia"
-  - "プチラミア"
   - "Lam"
   - "Lammy"
   - "Teeny"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c125104.webp"
 ---
 
-# 普千拉美阿
+# プチラミア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c106574"
 type: "character"
-display_title: "奥L伊V惠R"
-title_zh: "奥L伊V惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Oliver"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c106574"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Oliver"
   - "Olive Oil"
 source_ids:
   vndb: "c106574"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c106574.webp"
 ---
 
-# 奥L伊V惠R
+# Oliver
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

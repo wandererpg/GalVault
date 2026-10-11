@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c161312"
 type: "character"
-display_title: "诗乃·夏阿乌D堂"
-title_zh: "诗乃·夏阿乌D堂"
+display_title: "シノ シャーウッド"
+title_zh: ""
 title_ja: "シノ シャーウッド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161312"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shino Shadow"
-  - "シノ シャーウッド"
 source_ids:
   vndb: "c161312"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c161312.webp"
 ---
 
-# 诗乃·夏阿乌D堂
+# シノ シャーウッド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

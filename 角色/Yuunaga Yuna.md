@@ -5,7 +5,10 @@ display_title: "夕永优那"
 title_zh: "夕永优那"
 title_ja: "夕永 優那"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c127178"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yuunaga Yuna"
   - "夕永 優那"

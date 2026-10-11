@@ -5,7 +5,10 @@ display_title: "鹭洲彩"
 title_zh: "鹭洲彩"
 title_ja: "鷺洲 彩"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c137506"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sagisu Aya"
   - "鷺洲 彩"

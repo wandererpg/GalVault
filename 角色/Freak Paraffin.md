@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c57070"
 type: "character"
-display_title: "芙莉伊久帕拉F伊恩"
-title_zh: "芙莉伊久帕拉F伊恩"
+display_title: "フリーク・パラフィン"
+title_zh: ""
 title_ja: "フリーク・パラフィン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c57070"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Freak Paraffin"
-  - "フリーク・パラフィン"
 source_ids:
   vndb: "c57070"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c57070.webp"
 ---
 
-# 芙莉伊久帕拉F伊恩
+# フリーク・パラフィン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

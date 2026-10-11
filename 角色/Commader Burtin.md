@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c60775"
 type: "character"
-display_title: "布露千恩神圣队队长"
-title_zh: "布露千恩神圣队队长"
+display_title: "ブルチン神聖隊隊長"
+title_zh: ""
 title_ja: "ブルチン神聖隊隊長"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c60775"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Commader Burtin"
-  - "ブルチン神聖隊隊長"
 source_ids:
   vndb: "c60775"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c60775.webp"
 ---
 
-# 布露千恩神圣队队长
+# ブルチン神聖隊隊長
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

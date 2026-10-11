@@ -5,7 +5,10 @@ display_title: "沈星回"
 title_zh: "沈星回"
 title_ja: "沈星回"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c134674"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shen Xinghui"
   - "Lumiere"

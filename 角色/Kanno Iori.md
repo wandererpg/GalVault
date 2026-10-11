@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c134974"
 type: "character"
-display_title: "神野伊奥莉"
-title_zh: "神野伊奥莉"
+display_title: "神野 いおり"
+title_zh: ""
 title_ja: "神野 いおり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c134974"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kanno Iori"
-  - "神野 いおり"
 source_ids:
   vndb: "c134974"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c134974.webp"
 ---
 
-# 神野伊奥莉
+# 神野 いおり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98321"
 type: "character"
-display_title: "洛蕾K久寿雅堂拉寿"
-title_zh: "洛蕾K久寿雅堂拉寿"
+display_title: "ロレックス・ガドラス"
+title_zh: ""
 title_ja: "ロレックス・ガドラス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98321"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rolex Gadras"
-  - "ロレックス・ガドラス"
   - "人斬り鬼"
   - "Man-Slaying Ogre"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c98321.webp"
 ---
 
-# 洛蕾K久寿雅堂拉寿
+# ロレックス・ガドラス
 
 
 ## 角色画像

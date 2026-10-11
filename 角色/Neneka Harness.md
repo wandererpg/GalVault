@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c13805"
 type: "character"
-display_title: "音音加羽阿音寿"
-title_zh: "音音加羽阿音寿"
+display_title: "ネネカ・ハーネス"
+title_zh: ""
 title_ja: "ネネカ・ハーネス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c13805"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Neneka Harness"
-  - "ネネカ・ハーネス"
 source_ids:
   vndb: "c13805"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c13805.webp"
 ---
 
-# 音音加羽阿音寿
+# ネネカ・ハーネス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

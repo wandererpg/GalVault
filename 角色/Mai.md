@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c96293"
 type: "character"
-display_title: "真伊"
-title_zh: "真伊"
+display_title: "まい"
+title_zh: ""
 title_ja: "まい"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c96293"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mai"
-  - "まい"
 source_ids:
   vndb: "c96293"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c96293.webp"
 ---
 
-# 真伊
+# まい
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

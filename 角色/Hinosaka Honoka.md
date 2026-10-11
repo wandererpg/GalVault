@@ -5,7 +5,10 @@ display_title: "阳坂穗香"
 title_zh: "阳坂穗香"
 title_ja: "陽坂 穂香"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c36509"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hinosaka Honoka"
   - "陽坂 穂香"

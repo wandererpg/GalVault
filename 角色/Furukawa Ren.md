@@ -5,7 +5,10 @@ display_title: "古川涟"
 title_zh: "古川涟"
 title_ja: "古川 漣"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21366"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Furukawa Ren"
   - "古川 漣"

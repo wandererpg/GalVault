@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c417"
 type: "character"
-display_title: "乌伊津阿露音美特阿"
-title_zh: "乌伊津阿露音美特阿"
+display_title: "ウィツァルネミテア"
+title_zh: ""
 title_ja: "ウィツァルネミテア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c417"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Uitsualnemetia"
-  - "ウィツァルネミテア"
   - "Witsarunemitea"
 source_ids:
   vndb: "c417"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c417.webp"
 ---
 
-# 乌伊津阿露音美特阿
+# ウィツァルネミテア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

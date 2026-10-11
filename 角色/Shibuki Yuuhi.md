@@ -5,7 +5,10 @@ display_title: "紫吹悠飞"
 title_zh: "紫吹悠飞"
 title_ja: "紫吹 悠飛"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c100533"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shibuki Yuuhi"
   - "紫吹 悠飛"

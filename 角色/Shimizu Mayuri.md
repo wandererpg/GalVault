@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c93065"
 type: "character"
-display_title: "清水真优莉"
-title_zh: "清水真优莉"
+display_title: "清水 まゆり"
+title_zh: ""
 title_ja: "清水 まゆり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c93065"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shimizu Mayuri"
-  - "清水 まゆり"
 source_ids:
   vndb: "c93065"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c93065.webp"
 ---
 
-# 清水真优莉
+# 清水 まゆり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

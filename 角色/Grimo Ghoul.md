@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71014"
 type: "character"
-display_title: "古莉莫古乌露"
-title_zh: "古莉莫古乌露"
+display_title: "グリモ・グール"
+title_zh: ""
 title_ja: "グリモ・グール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71014"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Grimo Ghoul"
-  - "グリモ・グール"
 source_ids:
   vndb: "c71014"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71014.webp"
 ---
 
-# 古莉莫古乌露
+# グリモ・グール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

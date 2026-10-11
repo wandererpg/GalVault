@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90043"
 type: "character"
-display_title: "古蕾恩F阿露斗F奥恩V惠拉秋乌露"
-title_zh: "古蕾恩F阿露斗F奥恩V惠拉秋乌露"
+display_title: "グレンファルト・フォン・ヴェラチュール"
+title_zh: ""
 title_ja: "グレンファルト・フォン・ヴェラチュール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90043"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Glenfarth Von Veratyr"
-  - "グレンファルト・フォン・ヴェラチュール"
   - "総代聖騎士"
   - "絶対神"
   - "大神素戔王"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c90043.webp"
 ---
 
-# 古蕾恩F阿露斗F奥恩V惠拉秋乌露
+# グレンファルト・フォン・ヴェラチュール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "巴征道"
 title_zh: "巴征道"
 title_ja: "巴 征道"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c109860"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tomoe Yukimichi"
   - "巴 征道"

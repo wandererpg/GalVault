@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c15782"
 type: "character"
-display_title: "蕾奥奈K巴阿恩兹"
-title_zh: "蕾奥奈K巴阿恩兹"
+display_title: "レオナ・K・バーンズ"
+title_zh: ""
 title_ja: "レオナ・K・バーンズ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c15782"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Leona Kaname Burns"
-  - "レオナ・K・バーンズ"
 source_ids:
   vndb: "c15782"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c15782.webp"
 ---
 
-# 蕾奥奈K巴阿恩兹
+# レオナ・K・バーンズ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

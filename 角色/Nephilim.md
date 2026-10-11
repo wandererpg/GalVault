@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30940"
 type: "character"
-display_title: "音皮莉梦"
-title_zh: "音皮莉梦"
+display_title: "ネピリム"
+title_zh: ""
 title_ja: "ネピリム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30940"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nephilim"
-  - "ネピリム"
 source_ids:
   vndb: "c30940"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30940.webp"
 ---
 
-# 音皮莉梦
+# ネピリム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c29357"
 type: "character"
-display_title: "能面乃男"
-title_zh: "能面乃男"
+display_title: "能面の男"
+title_zh: ""
 title_ja: "能面の男"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c29357"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Man in a Noh Mask"
-  - "能面の男"
 source_ids:
   vndb: "c29357"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c29357.webp"
 ---
 
-# 能面乃男
+# 能面の男
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

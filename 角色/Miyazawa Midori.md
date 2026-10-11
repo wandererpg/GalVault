@@ -5,7 +5,10 @@ display_title: "宫泽翠"
 title_zh: "宫泽翠"
 title_ja: "宮沢 翠"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c5948"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Miyazawa Midori"
   - "宮沢 翠"

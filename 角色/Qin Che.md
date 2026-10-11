@@ -5,7 +5,10 @@ display_title: "秦彻"
 title_zh: "秦彻"
 title_ja: "秦徹"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c139555"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Qin Che"
   - "秦徹"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c149257"
 type: "character"
-display_title: "奈奥美·伊乃乌惠"
-title_zh: "奈奥美·伊乃乌惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Naomi Inoue"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c149257"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Naomi Inoue"
   - "井上 直美"
   - "Inoue Naomi"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c149257.webp"
 ---
 
-# 奈奥美·伊乃乌惠
+# Naomi Inoue
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

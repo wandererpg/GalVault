@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c45358"
 type: "character"
-display_title: "水无月萤"
-title_zh: "水无月萤"
+display_title: "水無月 ほたる"
+title_zh: ""
 title_ja: "水無月 ほたる"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c45358"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Minazuki Hotaru"
-  - "水無月 ほたる"
   - "Hotarun"
 source_ids:
   vndb: "c45358"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c45358.webp"
 ---
 
-# 水无月萤
+# 水無月 ほたる
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

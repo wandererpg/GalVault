@@ -5,7 +5,10 @@ display_title: "矢凪晓人"
 title_zh: "矢凪晓人"
 title_ja: "矢凪 暁人"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c149156"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yanagi Akito​"
   - "矢凪 暁人"

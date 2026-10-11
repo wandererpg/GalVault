@@ -5,7 +5,10 @@ display_title: "东金千秋"
 title_zh: "东金千秋"
 title_ja: "東金 千秋"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c48107"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tougane Chiaki"
   - "東金 千秋"

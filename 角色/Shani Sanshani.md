@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c168308"
 type: "character"
-display_title: "夏尼沙恩夏阿尼"
-title_zh: "夏尼沙恩夏阿尼"
+display_title: "シャニ・サンシャーニ"
+title_zh: ""
 title_ja: "シャニ・サンシャーニ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c168308"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shani Sanshani"
-  - "シャニ・サンシャーニ"
   - "スタンド"
   - "Stand"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c168308.webp"
 ---
 
-# 夏尼沙恩夏阿尼
+# シャニ・サンシャーニ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

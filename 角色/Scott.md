@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c89769"
 type: "character"
-display_title: "SC奥TT"
-title_zh: "SC奥TT"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Scott"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c89769"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Scott"
 source_ids:
   vndb: "c89769"
 source_urls:
   vndb: "https://vndb.org/c89769"
 ---
 
-# SC奥TT
+# Scott
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

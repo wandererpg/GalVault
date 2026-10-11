@@ -5,7 +5,10 @@ display_title: "周濑唯架"
 title_zh: "周濑唯架"
 title_ja: "周瀬 唯架"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c6179"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Suse Yuika"
   - "周瀬 唯架"

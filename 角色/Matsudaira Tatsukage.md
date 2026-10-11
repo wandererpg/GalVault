@@ -5,7 +5,10 @@ display_title: "松平辰影"
 title_zh: "松平辰影"
 title_ja: "松平 辰影"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c55673"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Matsudaira Tatsukage"
   - "松平 辰影"

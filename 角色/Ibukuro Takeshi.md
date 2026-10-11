@@ -5,7 +5,10 @@ display_title: "衣袋武志"
 title_zh: "衣袋武志"
 title_ja: "衣袋 武志"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14281"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ibukuro Takeshi"
   - "衣袋 武志"

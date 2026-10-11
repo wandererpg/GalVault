@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c84003"
 type: "character"
-display_title: "奈々宫阿加音"
-title_zh: "奈々宫阿加音"
+display_title: "奈々宮 あかね"
+title_zh: ""
 title_ja: "奈々宮 あかね"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c84003"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nanamiya Akane"
-  - "奈々宮 あかね"
 source_ids:
   vndb: "c84003"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c84003.webp"
 ---
 
-# 奈々宫阿加音
+# 奈々宮 あかね
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39038"
 type: "character"
-display_title: "惠露扎V阿蕾恩太伊恩"
-title_zh: "惠露扎V阿蕾恩太伊恩"
+display_title: "エルザ・ヴァレンタイン"
+title_zh: ""
 title_ja: "エルザ・ヴァレンタイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39038"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Elsa Valentine"
-  - "エルザ・ヴァレンタイン"
 source_ids:
   vndb: "c39038"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c39038.webp"
 ---
 
-# 惠露扎V阿蕾恩太伊恩
+# エルザ・ヴァレンタイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

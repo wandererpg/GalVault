@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c169054"
 type: "character"
-display_title: "普莉诗拉惠V阿阿D伊伊恩"
-title_zh: "普莉诗拉惠V阿阿D伊伊恩"
+display_title: "プリシラ・エヴァーディーン"
+title_zh: ""
 title_ja: "プリシラ・エヴァーディーン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c169054"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Priscilla Everdeen"
-  - "プリシラ・エヴァーディーン"
   - "ライトニング"
   - "Lightning"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c169054.webp"
 ---
 
-# 普莉诗拉惠V阿阿D伊伊恩
+# プリシラ・エヴァーディーン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c6491"
 type: "character"
-display_title: "椎名真优莉"
-title_zh: "椎名真优莉"
+display_title: "椎名 まゆり"
+title_zh: ""
 title_ja: "椎名 まゆり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c6491"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shiina Mayuri"
-  - "椎名 まゆり"
   - "Mayushii NyanNyan"
   - "まゆしぃ"
   - "Mayushii"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c6491.webp"
 ---
 
-# 椎名真优莉
+# 椎名 まゆり
 
 
 ## 角色画像

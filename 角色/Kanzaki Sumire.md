@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c5740"
 type: "character"
-display_title: "神崎寿美蕾"
-title_zh: "神崎寿美蕾"
+display_title: "神崎 すみれ"
+title_zh: ""
 title_ja: "神崎 すみれ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c5740"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kanzaki Sumire"
-  - "神崎 すみれ"
 source_ids:
   vndb: "c5740"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c5740.webp"
 ---
 
-# 神崎寿美蕾
+# 神崎 すみれ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

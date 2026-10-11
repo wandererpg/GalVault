@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c138164"
 type: "character"
-display_title: "沙D伊惠·和G音R"
-title_zh: "沙D伊惠·和G音R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Sadie Wagner"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138164"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Sadie Wagner"
 source_ids:
   vndb: "c138164"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c138164.webp"
 ---
 
-# 沙D伊惠·和G音R
+# Sadie Wagner
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

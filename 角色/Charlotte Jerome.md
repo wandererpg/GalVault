@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c104913"
 type: "character"
-display_title: "夏阿洛T斗吉惠洛奥梦"
-title_zh: "夏阿洛T斗吉惠洛奥梦"
+display_title: "シャーロット・ジェローム"
+title_zh: ""
 title_ja: "シャーロット・ジェローム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c104913"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Charlotte Jerome"
-  - "シャーロット・ジェローム"
   - "シャーロット先生 (Charlotte-sensei)"
 source_ids:
   vndb: "c104913"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c104913.webp"
 ---
 
-# 夏阿洛T斗吉惠洛奥梦
+# シャーロット・ジェローム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c137423"
 type: "character"
-display_title: "城惠崎乃阿"
-title_zh: "城惠崎乃阿"
+display_title: "城ケ崎 ノア"
+title_zh: ""
 title_ja: "城ケ崎 ノア"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c137423"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jougasaki Noah"
-  - "城ケ崎 ノア"
   - "Jogasaki Noah"
   - "バルーン"
   - "BALLOON"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c137423.webp"
 ---
 
-# 城惠崎乃阿
+# 城ケ崎 ノア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

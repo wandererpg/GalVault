@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c58021"
 type: "character"
-display_title: "莉兹奈拉恩芙比T斗"
-title_zh: "莉兹奈拉恩芙比T斗"
+display_title: "リズナ・ランフビット"
+title_zh: ""
 title_ja: "リズナ・ランフビット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c58021"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rizna Lanfbitt"
-  - "リズナ・ランフビット"
 source_ids:
   vndb: "c58021"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c58021.webp"
 ---
 
-# 莉兹奈拉恩芙比T斗
+# リズナ・ランフビット
 
 
 ## 角色画像

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c95160"
 type: "character"
-display_title: "乌惠露吉莉阿寿"
-title_zh: "乌惠露吉莉阿寿"
+display_title: "ウェルギリアス"
+title_zh: ""
 title_ja: "ウェルギリアス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c95160"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Virgilius"
-  - "ウェルギリアス"
 source_ids:
   vndb: "c95160"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c95160.webp"
 ---
 
-# 乌惠露吉莉阿寿
+# ウェルギリアス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

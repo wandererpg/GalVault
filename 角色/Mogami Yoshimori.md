@@ -5,7 +5,10 @@ display_title: "最上义守"
 title_zh: "最上义守"
 title_ja: "最上 義守"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c49201"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mogami Yoshimori"
   - "最上 義守"

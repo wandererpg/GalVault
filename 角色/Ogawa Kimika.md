@@ -5,7 +5,10 @@ display_title: "緖川希美香"
 title_zh: "緖川希美香"
 title_ja: "緒川 希美香"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c71700"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ogawa Kimika"
   - "緒川 希美香"

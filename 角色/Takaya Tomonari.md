@@ -5,7 +5,10 @@ display_title: "高屋友成"
 title_zh: "高屋友成"
 title_ja: "高屋 友成"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c129995"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takaya Tomonari"
   - "高屋 友成"

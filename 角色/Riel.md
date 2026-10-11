@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c24002"
 type: "character"
-display_title: "莉惠露"
-title_zh: "莉惠露"
+display_title: "リエル"
+title_zh: ""
 title_ja: "リエル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c24002"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Riel"
-  - "リエル"
 source_ids:
   vndb: "c24002"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c24002.webp"
 ---
 
-# 莉惠露
+# リエル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

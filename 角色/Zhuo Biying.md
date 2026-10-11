@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c157501"
 type: "character"
-display_title: "斗久比惠伊"
-title_zh: "斗久比惠伊"
+display_title: "トク・ビエイ"
+title_zh: ""
 title_ja: "トク・ビエイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c157501"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Zhuo Biying"
-  - "トク・ビエイ"
   - "Dong Zhuo"
 source_ids:
   vndb: "c157501"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c157501.webp"
 ---
 
-# 斗久比惠伊
+# トク・ビエイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

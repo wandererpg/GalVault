@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c113523"
 type: "character"
-display_title: "羽YL惠Y·C乌拉H"
-title_zh: "羽YL惠Y·C乌拉H"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Hayley Curah"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c113523"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Hayley Curah"
 source_ids:
   vndb: "c113523"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c113523.webp"
 ---
 
-# 羽YL惠Y·C乌拉H
+# Hayley Curah
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

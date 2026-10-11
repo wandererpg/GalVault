@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c98860"
 type: "character"
-display_title: "乔H恩·惠G贝RT"
-title_zh: "乔H恩·惠G贝RT"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "John Egbert"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98860"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "John Egbert"
   - "ectoBiologist"
   - "ghostyTrickster"
   - "Heir of Breath"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c98860.webp"
 ---
 
-# 乔H恩·惠G贝RT
+# John Egbert
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

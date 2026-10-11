@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c142060"
 type: "character"
-display_title: "加阿津乌惠露堂乌莉梦古蕾伊"
-title_zh: "加阿津乌惠露堂乌莉梦古蕾伊"
+display_title: "カーツウェル・ドゥリムグレイ"
+title_zh: ""
 title_ja: "カーツウェル・ドゥリムグレイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c142060"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kurzweil Durimgray"
-  - "カーツウェル・ドゥリムグレイ"
 source_ids:
   vndb: "c142060"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c142060.webp"
 ---
 
-# 加阿津乌惠露堂乌莉梦古蕾伊
+# カーツウェル・ドゥリムグレイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

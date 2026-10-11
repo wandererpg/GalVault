@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c51565"
 type: "character"
-display_title: "F莉TZ格拉LD·阿伊德恩·L惠V惠R斗恩"
-title_zh: "F莉TZ格拉LD·阿伊德恩·L惠V惠R斗恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Fritzgerald Aiden Leverton"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c51565"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Fritzgerald Aiden Leverton"
   - "Fritz"
 source_ids:
   vndb: "c51565"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c51565.webp"
 ---
 
-# F莉TZ格拉LD·阿伊德恩·L惠V惠R斗恩
+# Fritzgerald Aiden Leverton
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

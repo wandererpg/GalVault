@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c141419"
 type: "character"
-display_title: "萝丝"
-title_zh: "萝丝"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Rose"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141419"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Rose"
 source_ids:
   vndb: "c141419"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c141419.webp"
 ---
 
-# 萝丝
+# Rose
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

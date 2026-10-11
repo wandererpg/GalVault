@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c8626"
 type: "character"
-display_title: "羽山美兹希"
-title_zh: "羽山美兹希"
+display_title: "羽山 ミズキ"
+title_zh: ""
 title_ja: "羽山 ミズキ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c8626"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hayama Mizuki"
-  - "羽山 ミズキ"
   - "未来"
   - "Miki"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c8626.webp"
 ---
 
-# 羽山美兹希
+# 羽山 ミズキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

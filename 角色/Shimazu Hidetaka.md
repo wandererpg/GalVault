@@ -5,7 +5,10 @@ display_title: "岛津秀隆"
 title_zh: "岛津秀隆"
 title_ja: "島津 秀隆"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c12817"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shimazu Hidetaka"
   - "島津 秀隆"

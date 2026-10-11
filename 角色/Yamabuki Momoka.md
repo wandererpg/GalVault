@@ -5,7 +5,10 @@ display_title: "山吹桃香"
 title_zh: "山吹桃香"
 title_ja: "山吹 桃香"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c42658"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yamabuki Momoka"
   - "山吹 桃香"

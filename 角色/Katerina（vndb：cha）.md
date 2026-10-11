@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38247"
 type: "character"
-display_title: "加特惠莉恩"
-title_zh: "加特惠莉恩"
+display_title: "カテーリン"
+title_zh: ""
 title_ja: "カテーリン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38247"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Katerina"
-  - "カテーリン"
   - "Katerin"
   - "Katherine"
   - "Катерина"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c38247.webp"
 ---
 
-# 加特惠莉恩
+# カテーリン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

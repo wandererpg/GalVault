@@ -5,7 +5,10 @@ display_title: "青叶恭介"
 title_zh: "青叶恭介"
 title_ja: "青葉 恭介"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21354"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Aoba Kyousuke"
   - "青葉 恭介"

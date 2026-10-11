@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c59387"
 type: "character"
-display_title: "春日井莫莫美"
-title_zh: "春日井莫莫美"
+display_title: "春日井 モモ美"
+title_zh: ""
 title_ja: "春日井 モモ美"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c59387"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kasugai Momomi"
-  - "春日井 モモ美"
 source_ids:
   vndb: "c59387"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c59387.webp"
 ---
 
-# 春日井莫莫美
+# 春日井 モモ美
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

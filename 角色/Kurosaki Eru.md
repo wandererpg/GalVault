@@ -5,7 +5,10 @@ display_title: "黑崎依琉"
 title_zh: "黑崎依琉"
 title_ja: "黒崎 依琉"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10337"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kurosaki Eru"
   - "黒崎 依琉"

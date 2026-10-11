@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14191"
 type: "character"
-display_title: "翔乌"
-title_zh: "翔乌"
+display_title: "ショウ"
+title_zh: ""
 title_ja: "ショウ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14191"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Shou"
-  - "ショウ"
   - "Delinquent Killer Shou"
 source_ids:
   vndb: "c14191"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c14191.webp"
 ---
 
-# 翔乌
+# ショウ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

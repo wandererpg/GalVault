@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c59758"
 type: "character"
-display_title: "美希雅惠露藏奥音"
-title_zh: "美希雅惠露藏奥音"
+display_title: "ミヒャエル・ゾーネ"
+title_zh: ""
 title_ja: "ミヒャエル・ゾーネ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c59758"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Michael Söhne"
-  - "ミヒャエル・ゾーネ"
 source_ids:
   vndb: "c59758"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c59758.webp"
 ---
 
-# 美希雅惠露藏奥音
+# ミヒャエル・ゾーネ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

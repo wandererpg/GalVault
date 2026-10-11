@@ -5,7 +5,10 @@ display_title: "上山奈津子"
 title_zh: "上山奈津子"
 title_ja: "上山 奈津子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c293"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kamiyama Natsuko"
   - "上山 奈津子"

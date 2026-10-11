@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c137429"
 type: "character"
-display_title: "橘诗惠莉伊"
-title_zh: "橘诗惠莉伊"
+display_title: "橘 シェリー"
+title_zh: ""
 title_ja: "橘 シェリー"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c137429"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tachibana Sherry"
-  - "橘 シェリー"
   - "Gorilla Woman"
   - "ゴリラ女"
   - "怪力女"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c137429.webp"
 ---
 
-# 橘诗惠莉伊
+# 橘 シェリー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

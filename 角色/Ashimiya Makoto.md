@@ -5,7 +5,10 @@ display_title: "苇宫诚"
 title_zh: "苇宫诚"
 title_ja: "葦宮 誠"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c124648"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ashimiya Makoto"
   - "葦宮 誠"

@@ -5,7 +5,10 @@ display_title: "珠木正五"
 title_zh: "珠木正五"
 title_ja: "珠木 正五"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c78931"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tamaki Shougo"
   - "珠木 正五"

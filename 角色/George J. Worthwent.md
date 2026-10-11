@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c109711"
 type: "character"
-display_title: "乔治·J·奥RTHW惠恩T"
-title_zh: "乔治·J·奥RTHW惠恩T"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "George J. Worthwent"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c109711"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "George J. Worthwent"
 source_ids:
   vndb: "c109711"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c109711.webp"
 ---
 
-# 乔治·J·奥RTHW惠恩T
+# George J. Worthwent
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

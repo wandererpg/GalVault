@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c105045"
 type: "character"
-display_title: "帕T莉CK·惠芽R索恩"
-title_zh: "帕T莉CK·惠芽R索恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Patrick Emerson"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c105045"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Patrick Emerson"
 source_ids:
   vndb: "c105045"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c105045.webp"
 ---
 
-# 帕T莉CK·惠芽R索恩
+# Patrick Emerson
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

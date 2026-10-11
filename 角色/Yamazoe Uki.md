@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c26312"
 type: "character"
-display_title: "山添乌希"
-title_zh: "山添乌希"
+display_title: "山添 うき"
+title_zh: ""
 title_ja: "山添 うき"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c26312"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yamazoe Uki"
-  - "山添 うき"
 source_ids:
   vndb: "c26312"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c26312.webp"
 ---
 
-# 山添乌希
+# 山添 うき
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

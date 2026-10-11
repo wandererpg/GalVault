@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c47148"
 type: "character"
-display_title: "拉恩达梦羽吉露"
-title_zh: "拉恩达梦羽吉露"
+display_title: "ランダム・ハジル"
+title_zh: ""
 title_ja: "ランダム・ハジル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c47148"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Random Hajile"
-  - "ランダム・ハジル"
   - "Elijah Modnar"
   - "Randam Hajile"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c47148.webp"
 ---
 
-# 拉恩达梦羽吉露
+# ランダム・ハジル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

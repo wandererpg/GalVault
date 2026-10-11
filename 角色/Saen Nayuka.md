@@ -5,7 +5,10 @@ display_title: "茶园那优花"
 title_zh: "茶园那优花"
 title_ja: "茶園 那優花"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c153628"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Saen Nayuka"
   - "茶園 那優花"

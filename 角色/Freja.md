@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c47210"
 type: "character"
-display_title: "芙蕾伊阿"
-title_zh: "芙蕾伊阿"
+display_title: "フレイア"
+title_zh: ""
 title_ja: "フレイア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c47210"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Freja"
-  - "フレイア"
 source_ids:
   vndb: "c47210"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c47210.webp"
 ---
 
-# 芙蕾伊阿
+# フレイア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

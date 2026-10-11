@@ -5,7 +5,10 @@ display_title: "园宫优华理"
 title_zh: "园宫优华理"
 title_ja: "園宮 優華理"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c84172"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sonomiya Yukari"
   - "園宮 優華理"

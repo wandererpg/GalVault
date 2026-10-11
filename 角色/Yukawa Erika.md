@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c99714"
 type: "character"
-display_title: "优加和·艾莉卡"
-title_zh: "优加和·艾莉卡"
+display_title: "ユカワ エリカ"
+title_zh: ""
 title_ja: "ユカワ エリカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c99714"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yukawa Erika"
-  - "ユカワ エリカ"
 source_ids:
   vndb: "c99714"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c99714.webp"
 ---
 
-# 优加和·艾莉卡
+# ユカワ エリカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

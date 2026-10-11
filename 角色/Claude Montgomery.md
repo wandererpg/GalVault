@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61235"
 type: "character"
-display_title: "久露乌堂莫恩斗悟芽莉伊"
-title_zh: "久露乌堂莫恩斗悟芽莉伊"
+display_title: "クルード・モントゴメリー"
+title_zh: ""
 title_ja: "クルード・モントゴメリー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61235"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Claude Montgomery"
-  - "クルード・モントゴメリー"
 source_ids:
   vndb: "c61235"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61235.webp"
 ---
 
-# 久露乌堂莫恩斗悟芽莉伊
+# クルード・モントゴメリー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

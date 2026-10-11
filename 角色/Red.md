@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c136635"
 type: "character"
-display_title: "蕾D"
-title_zh: "蕾D"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Red"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136635"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Red"
 source_ids:
   vndb: "c136635"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c136635.webp"
 ---
 
-# 蕾D
+# Red
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

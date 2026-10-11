@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c25632"
 type: "character"
-display_title: "阿特奈2号"
-title_zh: "阿特奈2号"
+display_title: "あてな2号"
+title_zh: ""
 title_ja: "あてな2号"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c25632"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Athena 2.0"
-  - "あてな2号"
 source_ids:
   vndb: "c25632"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c25632.webp"
 ---
 
-# 阿特奈2号
+# あてな2号
 
 
 ## 角色画像

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c89315"
 type: "character"
-display_title: "伊VY·F惠Y恩真恩"
-title_zh: "伊VY·F惠Y恩真恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ivy Feynman"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c89315"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ivy Feynman"
 source_ids:
   vndb: "c89315"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c89315.webp"
 ---
 
-# 伊VY·F惠Y恩真恩
+# Ivy Feynman
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

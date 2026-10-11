@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159773"
 type: "character"
-display_title: "T洛Y·BL阿泽"
-title_zh: "T洛Y·BL阿泽"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Troy Blaze"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159773"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Troy Blaze"
 source_ids:
   vndb: "c159773"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c159773.webp"
 ---
 
-# T洛Y·BL阿泽
+# Troy Blaze
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "岛津丰久"
 title_zh: "岛津丰久"
 title_ja: "島津 豊久"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c40960"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shimazu Toyohisa"
   - "島津 豊久"

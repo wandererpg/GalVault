@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c21364"
 type: "character"
-display_title: "栗原优芽"
-title_zh: "栗原优芽"
+display_title: "栗原 ゆめ"
+title_zh: ""
 title_ja: "栗原 ゆめ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c21364"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kurihara Yume"
-  - "栗原 ゆめ"
 source_ids:
   vndb: "c21364"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c21364.webp"
 ---
 
-# 栗原优芽
+# 栗原 ゆめ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43393"
 type: "character"
-display_title: "蕾奥恩久泽"
-title_zh: "蕾奥恩久泽"
+display_title: "レオン・クゼ"
+title_zh: ""
 title_ja: "レオン・クゼ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43393"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Leon Kuze"
-  - "レオン・クゼ"
 source_ids:
   vndb: "c43393"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43393.webp"
 ---
 
-# 蕾奥恩久泽
+# レオン・クゼ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

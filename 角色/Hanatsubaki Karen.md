@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c1317"
 type: "character"
-display_title: "花椿卡莲"
-title_zh: "花椿卡莲"
+display_title: "花椿 カレン"
+title_zh: ""
 title_ja: "花椿 カレン"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c1317"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Hanatsubaki Karen"
-  - "花椿 カレン"
 source_ids:
   vndb: "c1317"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c1317.webp"
 ---
 
-# 花椿卡莲
+# 花椿 カレン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

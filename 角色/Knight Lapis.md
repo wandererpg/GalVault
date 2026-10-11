@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c83254"
 type: "character"
-display_title: "奈伊斗拉皮寿"
-title_zh: "奈伊斗拉皮寿"
+display_title: "ナイト・ラピス"
+title_zh: ""
 title_ja: "ナイト・ラピス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c83254"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Knight Lapis"
-  - "ナイト・ラピス"
   - "Magical Girl Knight Lapis"
   - "Nina Wang Rockford"
   - "ニナ・王・ロックフォード"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c83254.webp"
 ---
 
-# 奈伊斗拉皮寿
+# ナイト・ラピス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

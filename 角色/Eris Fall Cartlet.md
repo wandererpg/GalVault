@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c36324"
 type: "character"
-display_title: "惠莉寿F奥奥露加阿斗蕾T斗"
-title_zh: "惠莉寿F奥奥露加阿斗蕾T斗"
+display_title: "エリス・フォール・カートレット"
+title_zh: ""
 title_ja: "エリス・フォール・カートレット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c36324"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Eris Fall Cartlet"
-  - "エリス・フォール・カートレット"
   - "Eris F Renford"
   - "エリス・F・レンフォード"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c36324.webp"
 ---
 
-# 惠莉寿F奥奥露加阿斗蕾T斗
+# エリス・フォール・カートレット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

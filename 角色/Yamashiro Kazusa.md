@@ -5,7 +5,10 @@ display_title: "山城上总"
 title_zh: "山城上总"
 title_ja: "山城 上総"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c42845"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yamashiro Kazusa"
   - "山城 上総"

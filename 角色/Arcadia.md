@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c52406"
 type: "character"
-display_title: "阿露加D伊阿"
-title_zh: "阿露加D伊阿"
+display_title: "アルカディア"
+title_zh: ""
 title_ja: "アルカディア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c52406"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Arcadia"
-  - "アルカディア"
 source_ids:
   vndb: "c52406"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c52406.webp"
 ---
 
-# 阿露加D伊阿
+# アルカディア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

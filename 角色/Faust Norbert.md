@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c20673"
 type: "character"
-display_title: "F阿乌寿斗=乃露贝露斗"
-title_zh: "F阿乌寿斗=乃露贝露斗"
+display_title: "ファウスト=ノルベルト"
+title_zh: ""
 title_ja: "ファウスト=ノルベルト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c20673"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Faust Norbert"
-  - "ファウスト=ノルベルト"
   - "Sensei"
   - "The Second Seat"
   - "第二席"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c20673.webp"
 ---
 
-# F阿乌寿斗=乃露贝露斗
+# ファウスト=ノルベルト
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c132272"
 type: "character"
-display_title: "奥音"
-title_zh: "奥音"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "One"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132272"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "One"
 source_ids:
   vndb: "c132272"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c132272.webp"
 ---
 
-# 奥音
+# One
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

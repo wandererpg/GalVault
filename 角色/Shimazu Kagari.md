@@ -5,7 +5,10 @@ display_title: "岛津篝理"
 title_zh: "岛津篝理"
 title_ja: "島津 篝理"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c63003"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shimazu Kagari"
   - "島津 篝理"

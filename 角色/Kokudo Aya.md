@@ -5,7 +5,10 @@ display_title: "国土亚耶"
 title_zh: "国土亚耶"
 title_ja: "國土 亞耶"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c147081"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kokudo Aya"
   - "國土 亞耶"

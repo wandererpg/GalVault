@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c89308"
 type: "character"
-display_title: "C奥RV伊恩·贝LT拉恩"
-title_zh: "C奥RV伊恩·贝LT拉恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Corvin Beltran"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c89308"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Corvin Beltran"
   - "Cor, Cory"
 source_ids:
   vndb: "c89308"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c89308.webp"
 ---
 
-# C奥RV伊恩·贝LT拉恩
+# Corvin Beltran
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

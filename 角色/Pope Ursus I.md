@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c60773"
 type: "character"
-display_title: "教皇乌露寿寿1世"
-title_zh: "教皇乌露寿寿1世"
+display_title: "教皇ウルスス1世"
+title_zh: ""
 title_ja: "教皇ウルスス1世"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c60773"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Pope Ursus I"
-  - "教皇ウルスス1世"
 source_ids:
   vndb: "c60773"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c60773.webp"
 ---
 
-# 教皇乌露寿寿1世
+# 教皇ウルスス1世
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

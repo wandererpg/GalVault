@@ -1,15 +1,18 @@
 ---
 entity_id: "vndb:character:c78622"
 type: "character"
-display_title: "日美加蕾D堂寿皮莉T斗"
-title_zh: "日美加蕾D堂寿皮莉T斗"
+display_title: "ヒミカ・レッドスピリット"
+title_zh: ""
 title_ja: "ヒミカ・レッドスピリット"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c78622"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Himika Redspirit"
-  - "ヒミカ・レッドスピリット"
   - "Himika of 'Crimson'"
+  - "Himika of 'Crimson"
 source_ids:
   vndb: "c78622"
 source_urls:
@@ -17,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c78622.webp"
 ---
 
-# 日美加蕾D堂寿皮莉T斗
+# ヒミカ・レッドスピリット
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

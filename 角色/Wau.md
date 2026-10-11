@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14398"
 type: "character"
-display_title: "和乌"
-title_zh: "和乌"
+display_title: "ワウ"
+title_zh: ""
 title_ja: "ワウ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14398"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Wau"
-  - "ワウ"
   - "かものはし"
   - "Kamohashi"
   - "Platypus"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c14398.webp"
 ---
 
-# 和乌
+# ワウ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

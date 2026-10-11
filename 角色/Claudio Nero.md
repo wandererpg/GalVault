@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c9889"
 type: "character"
-display_title: "久拉乌D伊奥音惠洛"
-title_zh: "久拉乌D伊奥音惠洛"
+display_title: "クラウディオ・ネエロ"
+title_zh: ""
 title_ja: "クラウディオ・ネエロ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c9889"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Claudio Nero"
-  - "クラウディオ・ネエロ"
   - "Mr. Perfect"
   - "ミスターパーフェクト"
   - "Clau-jii"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c9889.webp"
 ---
 
-# 久拉乌D伊奥音惠洛
+# クラウディオ・ネエロ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

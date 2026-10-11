@@ -5,7 +5,10 @@ display_title: "久世华纯"
 title_zh: "久世华纯"
 title_ja: "久世 華純"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c42612"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kuze Kasumi"
   - "久世 華純"

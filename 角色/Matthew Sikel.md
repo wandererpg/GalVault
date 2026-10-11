@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c132207"
 type: "character"
-display_title: "真TT惠W·S伊惠L"
-title_zh: "真TT惠W·S伊惠L"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Matthew Sikel"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132207"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Matthew Sikel"
   - "Matt"
   - "Az"
 source_ids:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c132207.webp"
 ---
 
-# 真TT惠W·S伊惠L
+# Matthew Sikel
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

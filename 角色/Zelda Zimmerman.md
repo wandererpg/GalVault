@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c138182"
 type: "character"
-display_title: "泽L达·Z伊M芽R真恩"
-title_zh: "泽L达·Z伊M芽R真恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Zelda Zimmerman"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c138182"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Zelda Zimmerman"
   - "Zel"
 source_ids:
   vndb: "c138182"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c138182.webp"
 ---
 
-# 泽L达·Z伊M芽R真恩
+# Zelda Zimmerman
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

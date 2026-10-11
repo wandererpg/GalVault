@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98212"
 type: "character"
-display_title: "C惠音扎莉堂拉雅阿露"
-title_zh: "C惠音扎莉堂拉雅阿露"
+display_title: "チェネザリ・ド・ラガール"
+title_zh: ""
 title_ja: "チェネザリ・ド・ラガール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98212"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Chenezale do Ragarl"
-  - "チェネザリ・ド・ラガール"
 source_ids:
   vndb: "c98212"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98212.webp"
 ---
 
-# C惠音扎莉堂拉雅阿露
+# チェネザリ・ド・ラガール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

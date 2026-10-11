@@ -5,7 +5,10 @@ display_title: "角谷冬美"
 title_zh: "角谷冬美"
 title_ja: "角谷 冬美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c94318"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kadoya Fuyumi"
   - "角谷 冬美"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c89309"
 type: "character"
-display_title: "达恩恩Y·太S伊奈"
-title_zh: "达恩恩Y·太S伊奈"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Danny Tasina"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c89309"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Danny Tasina"
   - "Dan"
 source_ids:
   vndb: "c89309"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c89309.webp"
 ---
 
-# 达恩恩Y·太S伊奈
+# Danny Tasina
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

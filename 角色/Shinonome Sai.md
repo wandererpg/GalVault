@@ -5,7 +5,10 @@ display_title: "东云妻"
 title_zh: "东云妻"
 title_ja: "東雲 妻"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c12539"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shinonome Sai"
   - "東雲 妻"

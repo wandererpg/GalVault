@@ -5,7 +5,10 @@ display_title: "涩川葵"
 title_zh: "涩川葵"
 title_ja: "渋川 葵"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c88495"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shibukawa Aoi"
   - "渋川 葵"

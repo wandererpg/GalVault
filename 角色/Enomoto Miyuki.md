@@ -5,7 +5,10 @@ display_title: "榎本美夕纪"
 title_zh: "榎本美夕纪"
 title_ja: "榎本 美夕紀"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c85149"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Enomoto Miyuki"
   - "榎本 美夕紀"

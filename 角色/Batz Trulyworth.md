@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c133441"
 type: "character"
-display_title: "巴TZ·T露LY奥RTH"
-title_zh: "巴TZ·T露LY奥RTH"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Batz Trulyworth"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c133441"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Batz Trulyworth"
   - "Batz Trulywaath"
   - "Batz Truelywaath"
 source_ids:
@@ -15,7 +17,7 @@ source_urls:
   vndb: "https://vndb.org/c133441"
 ---
 
-# 巴TZ·T露LY奥RTH
+# Batz Trulyworth
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

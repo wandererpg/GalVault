@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c15788"
 type: "character"
-display_title: "泷泽沙津希"
-title_zh: "泷泽沙津希"
+display_title: "滝沢 さつき"
+title_zh: ""
 title_ja: "滝沢 さつき"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c15788"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Takizawa Satsuki"
-  - "滝沢 さつき"
 source_ids:
   vndb: "c15788"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c15788.webp"
 ---
 
-# 泷泽沙津希
+# 滝沢 さつき
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

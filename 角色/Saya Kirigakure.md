@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43521"
 type: "character"
-display_title: "沙雅希莉雅久蕾"
-title_zh: "沙雅希莉雅久蕾"
+display_title: "サヤ・キリガクレ"
+title_zh: ""
 title_ja: "サヤ・キリガクレ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43521"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Saya Kirigakure"
-  - "サヤ・キリガクレ"
 source_ids:
   vndb: "c43521"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43521.webp"
 ---
 
-# 沙雅希莉雅久蕾
+# サヤ・キリガクレ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "夏杞文实"
 title_zh: "夏杞文实"
 title_ja: "夏杞 文実"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c89047"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Natsuki Fumi"
   - "夏杞 文実"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c11977"
 type: "character"
-display_title: "真莉寿阿真莉莉寿"
-title_zh: "真莉寿阿真莉莉寿"
+display_title: "マリス・アマリリス"
+title_zh: ""
 title_ja: "マリス・アマリリス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c11977"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Maris Amaryllis"
-  - "マリス・アマリリス"
 source_ids:
   vndb: "c11977"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c11977.webp"
 ---
 
-# 真莉寿阿真莉莉寿
+# マリス・アマリリス
 
 
 ## 角色画像

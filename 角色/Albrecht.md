@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c170859"
 type: "character"
-display_title: "阿露布蕾日斗"
-title_zh: "阿露布蕾日斗"
+display_title: "アルブレヒト"
+title_zh: ""
 title_ja: "アルブレヒト"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c170859"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Albrecht"
-  - "アルブレヒト"
 source_ids:
   vndb: "c170859"
 source_urls:
   vndb: "https://vndb.org/c170859"
 ---
 
-# 阿露布蕾日斗
+# アルブレヒト
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

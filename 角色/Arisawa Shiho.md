@@ -5,7 +5,10 @@ display_title: "有泽志穗"
 title_zh: "有泽志穗"
 title_ja: "有沢 志穂"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1335"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Arisawa Shiho"
   - "有沢 志穂"

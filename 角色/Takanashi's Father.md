@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c98138"
 type: "character"
-display_title: "小鸟游乃父"
-title_zh: "小鸟游乃父"
+display_title: "小鳥遊の父"
+title_zh: ""
 title_ja: "小鳥遊の父"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98138"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Takanashi's Father"
-  - "小鳥遊の父"
 source_ids:
   vndb: "c98138"
 source_urls:
   vndb: "https://vndb.org/c98138"
 ---
 
-# 小鸟游乃父
+# 小鳥遊の父
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

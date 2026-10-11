@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c103058"
 type: "character"
-display_title: "V阿L惠莉惠"
-title_zh: "V阿L惠莉惠"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Valerie"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103058"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Valerie"
 source_ids:
   vndb: "c103058"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c103058.webp"
 ---
 
-# V阿L惠莉惠
+# Valerie
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

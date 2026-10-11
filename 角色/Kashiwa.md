@@ -5,7 +5,10 @@ display_title: "柏"
 title_zh: "柏"
 title_ja: "柏"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c150455"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kashiwa"
 source_ids:

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c69156"
 type: "character"
-display_title: "德阿L"
-title_zh: "德阿L"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Deal"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c69156"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Deal"
   - "Piece o' Scrap"
 source_ids:
   vndb: "c69156"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c69156.webp"
 ---
 
-# 德阿L
+# Deal
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

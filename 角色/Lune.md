@@ -5,7 +5,10 @@ display_title: "琉恩"
 title_zh: "琉恩"
 title_ja: "リューン"
 title_zh_quality: "manual_override"
-title_status: "machine_generated"
+title_status: "reviewed"
+title_zh_source: "按《魔导巧壳》中文资料中的译名修正；参考 https://moegirl.icu/%E7%90%89%E6%81%A9"
+title_zh_confidence: "medium"
+title_zh_needs_review: false
 aliases:
   - "Lune"
   - "リューン"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c77788"
 type: "character"
-display_title: "惠F伊露D伊寿＝阿古拉莉惠露"
-title_zh: "惠F伊露D伊寿＝阿古拉莉惠露"
+display_title: "エフィルディス＝アグラリエル"
+title_zh: ""
 title_ja: "エフィルディス＝アグラリエル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c77788"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ephildis Agraliel"
-  - "エフィルディス＝アグラリエル"
 source_ids:
   vndb: "c77788"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c77788.webp"
 ---
 
-# 惠F伊露D伊寿＝阿古拉莉惠露
+# エフィルディス＝アグラリエル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

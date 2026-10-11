@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c140342"
 type: "character"
-display_title: "惠露吉拉F阿露子尼阿"
-title_zh: "惠露吉拉F阿露子尼阿"
+display_title: "エルギラ・ファルコニア"
+title_zh: ""
 title_ja: "エルギラ・ファルコニア"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c140342"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ellegira Falconia"
-  - "エルギラ・ファルコニア"
 source_ids:
   vndb: "c140342"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c140342.webp"
 ---
 
-# 惠露吉拉F阿露子尼阿
+# エルギラ・ファルコニア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

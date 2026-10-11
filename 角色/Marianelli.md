@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c73529"
 type: "character"
-display_title: "真莉阿音莉"
-title_zh: "真莉阿音莉"
+display_title: "マリアネリ"
+title_zh: ""
 title_ja: "マリアネリ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c73529"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Marianelli"
-  - "マリアネリ"
   - "Maria"
   - "マリア"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c73529.webp"
 ---
 
-# 真莉阿音莉
+# マリアネリ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

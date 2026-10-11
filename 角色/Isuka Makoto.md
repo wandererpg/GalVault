@@ -5,7 +5,10 @@ display_title: "伊砂真"
 title_zh: "伊砂真"
 title_ja: "伊砂 真"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c50430"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Isuka Makoto"
   - "伊砂 真"

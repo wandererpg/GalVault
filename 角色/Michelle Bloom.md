@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c174109"
 type: "character"
-display_title: "美C惠LL惠·BL奥奥M"
-title_zh: "美C惠LL惠·BL奥奥M"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Michelle Bloom"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c174109"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Michelle Bloom"
 source_ids:
   vndb: "c174109"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c174109.webp"
 ---
 
-# 美C惠LL惠·BL奥奥M
+# Michelle Bloom
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

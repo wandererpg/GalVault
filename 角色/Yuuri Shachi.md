@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c40409"
 type: "character"
-display_title: "夕莉夏千"
-title_zh: "夕莉夏千"
+display_title: "夕莉 シャチ"
+title_zh: ""
 title_ja: "夕莉 シャチ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c40409"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yuuri Shachi"
-  - "夕莉 シャチ"
   - "Orcinus 0001"
 source_ids:
   vndb: "c40409"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c40409.webp"
 ---
 
-# 夕莉夏千
+# 夕莉 シャチ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

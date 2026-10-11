@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c49922"
 type: "character"
-display_title: "九十九诗兹久"
-title_zh: "九十九诗兹久"
+display_title: "九十九 シズク"
+title_zh: ""
 title_ja: "九十九 シズク"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c49922"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tsukumo Shizuku"
-  - "九十九 シズク"
 source_ids:
   vndb: "c49922"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c49922.webp"
 ---
 
-# 九十九诗兹久
+# 九十九 シズク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

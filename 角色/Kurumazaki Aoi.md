@@ -5,7 +5,10 @@ display_title: "车折葵"
 title_zh: "车折葵"
 title_ja: "車折 葵"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c12139"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kurumazaki Aoi"
   - "車折 葵"

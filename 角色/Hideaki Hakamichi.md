@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c11011"
 type: "character"
-display_title: "日德阿希·羽加美千"
-title_zh: "日德阿希·羽加美千"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Hideaki Hakamichi"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c11011"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Hideaki Hakamichi"
 source_ids:
   vndb: "c11011"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c11011.webp"
 ---
 
-# 日德阿希·羽加美千
+# Hideaki Hakamichi
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

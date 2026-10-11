@@ -5,7 +5,10 @@ display_title: "尽"
 title_zh: "尽"
 title_ja: "尽"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c1333"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsukushi"
 source_ids:

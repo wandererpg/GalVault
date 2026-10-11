@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c96970"
 type: "character"
-display_title: "嘉洛嘉寿拉K久"
-title_zh: "嘉洛嘉寿拉K久"
+display_title: "ジャロ・ジャスラック"
+title_zh: ""
 title_ja: "ジャロ・ジャスラック"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c96970"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jaro Jasrack"
-  - "ジャロ・ジャスラック"
 source_ids:
   vndb: "c96970"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c96970.webp"
 ---
 
-# 嘉洛嘉寿拉K久
+# ジャロ・ジャスラック
 
 
 ## 角色画像

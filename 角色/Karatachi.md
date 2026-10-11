@@ -5,7 +5,10 @@ display_title: "枸橘"
 title_zh: "枸橘"
 title_ja: "枸橘"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c155358"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Karatachi"
 source_ids:

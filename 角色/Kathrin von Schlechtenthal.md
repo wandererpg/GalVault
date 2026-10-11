@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c33714"
 type: "character"
-display_title: "加TH莉恩·V奥恩·SCHL惠CH特恩T羽L"
-title_zh: "加TH莉恩·V奥恩·SCHL惠CH特恩T羽L"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Kathrin von Schlechtenthal"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c33714"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Kathrin von Schlechtenthal"
   - "Katti"
 source_ids:
   vndb: "c33714"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c33714.webp"
 ---
 
-# 加TH莉恩·V奥恩·SCHL惠CH特恩T羽L
+# Kathrin von Schlechtenthal
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c172946"
 type: "character"
-display_title: "美古惠L"
-title_zh: "美古惠L"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Miguel"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c172946"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Miguel"
 source_ids:
   vndb: "c172946"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c172946.webp"
 ---
 
-# 美古惠L
+# Miguel
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

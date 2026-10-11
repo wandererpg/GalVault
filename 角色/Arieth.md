@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c139764"
 type: "character"
-display_title: "阿莉惠TH"
-title_zh: "阿莉惠TH"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Arieth"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c139764"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Arieth"
   - "Ari"
 source_ids:
   vndb: "c139764"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c139764.webp"
 ---
 
-# 阿莉惠TH
+# Arieth
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

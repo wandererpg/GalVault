@@ -5,7 +5,10 @@ display_title: "野々原雏樱"
 title_zh: "野々原雏樱"
 title_ja: "野々原 雛桜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c17715"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nonohara Hinazakura"
   - "野々原 雛桜"

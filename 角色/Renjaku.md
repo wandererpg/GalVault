@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17867"
 type: "character"
-display_title: "蕾恩嘉久"
-title_zh: "蕾恩嘉久"
+display_title: "レンジャク"
+title_zh: ""
 title_ja: "レンジャク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17867"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Renjaku"
-  - "レンジャク"
 source_ids:
   vndb: "c17867"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c17867.webp"
 ---
 
-# 蕾恩嘉久
+# レンジャク
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

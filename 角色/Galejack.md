@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71166"
 type: "character"
-display_title: "格惠露嘉K久"
-title_zh: "格惠露嘉K久"
+display_title: "ゲールジャック"
+title_zh: ""
 title_ja: "ゲールジャック"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71166"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Galejack"
-  - "ゲールジャック"
 source_ids:
   vndb: "c71166"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71166.webp"
 ---
 
-# 格惠露嘉K久
+# ゲールジャック
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

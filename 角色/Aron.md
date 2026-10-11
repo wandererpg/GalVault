@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c172817"
 type: "character"
-display_title: "阿洛恩"
-title_zh: "阿洛恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Aron"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c172817"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Aron"
 source_ids:
   vndb: "c172817"
 source_urls:
   vndb: "https://vndb.org/c172817"
 ---
 
-# 阿洛恩
+# Aron
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

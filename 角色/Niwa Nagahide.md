@@ -5,7 +5,10 @@ display_title: "丹羽长秀"
 title_zh: "丹羽长秀"
 title_ja: "丹羽 長秀"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c60879"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Niwa Nagahide"
   - "丹羽 長秀"

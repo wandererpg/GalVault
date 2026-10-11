@@ -5,7 +5,10 @@ display_title: "刘备玄德"
 title_zh: "刘备玄德"
 title_ja: "劉備 玄徳"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c25791"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Ryuubi Gentoku"
   - "劉備 玄徳"

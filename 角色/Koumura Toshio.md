@@ -5,7 +5,10 @@ display_title: "幸村俊夫"
 title_zh: "幸村俊夫"
 title_ja: "幸村 俊夫"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c22633"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Koumura Toshio"
   - "幸村 俊夫"

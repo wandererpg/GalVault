@@ -1,19 +1,21 @@
 ---
 entity_id: "vndb:character:c172815"
 type: "character"
-display_title: "V惠C斗R"
-title_zh: "V惠C斗R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Vector"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c172815"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Vector"
 source_ids:
   vndb: "c172815"
 source_urls:
   vndb: "https://vndb.org/c172815"
 ---
 
-# V惠C斗R
+# Vector
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

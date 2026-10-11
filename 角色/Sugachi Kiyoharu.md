@@ -5,7 +5,10 @@ display_title: "菅知圣治"
 title_zh: "菅知圣治"
 title_ja: "菅知 聖治"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c102666"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sugachi Kiyoharu"
   - "菅知 聖治"

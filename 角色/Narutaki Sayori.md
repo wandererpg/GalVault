@@ -5,7 +5,10 @@ display_title: "鸣泷小夜里"
 title_zh: "鸣泷小夜里"
 title_ja: "鳴滝 小夜里"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c8799"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Narutaki Sayori"
   - "鳴滝 小夜里"

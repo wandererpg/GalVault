@@ -5,7 +5,10 @@ display_title: "金久保绫子"
 title_zh: "金久保绫子"
 title_ja: "金久保綾子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c125751"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kanakubo Ayako"
   - "金久保綾子"

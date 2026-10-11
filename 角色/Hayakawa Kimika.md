@@ -5,7 +5,10 @@ display_title: "早川希实华"
 title_zh: "早川希实华"
 title_ja: "早川 希実華"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c61699"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hayakawa Kimika"
   - "早川 希実華"

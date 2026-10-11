@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c1673"
 type: "character"
-display_title: "川北蕾伊"
-title_zh: "川北蕾伊"
+display_title: "川北 レイ"
+title_zh: ""
 title_ja: "川北 レイ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c1673"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kawakita Rei"
-  - "川北 レイ"
 source_ids:
   vndb: "c1673"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c1673.webp"
 ---
 
-# 川北蕾伊
+# 川北 レイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

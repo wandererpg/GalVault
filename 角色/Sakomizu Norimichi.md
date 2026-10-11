@@ -5,7 +5,10 @@ display_title: "迫水典通"
 title_zh: "迫水典通"
 title_ja: "迫水 典通"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c107030"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakomizu Norimichi"
   - "迫水 典通"

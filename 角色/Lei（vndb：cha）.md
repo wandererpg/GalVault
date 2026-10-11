@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c75993"
 type: "character"
-display_title: "蕾伊"
-title_zh: "蕾伊"
+display_title: "レイ"
+title_zh: ""
 title_ja: "レイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c75993"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lei"
-  - "レイ"
 source_ids:
   vndb: "c75993"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c75993.webp"
 ---
 
-# 蕾伊
+# レイ
 
 
 ## 角色画像

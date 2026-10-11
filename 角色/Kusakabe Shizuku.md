@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c94133"
 type: "character"
-display_title: "草壁诗兹久"
-title_zh: "草壁诗兹久"
+display_title: "草壁 しずく"
+title_zh: ""
 title_ja: "草壁 しずく"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94133"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kusakabe Shizuku"
-  - "草壁 しずく"
 source_ids:
   vndb: "c94133"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c94133.webp"
 ---
 
-# 草壁诗兹久
+# 草壁 しずく
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

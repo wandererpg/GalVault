@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c127240"
 type: "character"
-display_title: "斗尼津伊K久拉阿"
-title_zh: "斗尼津伊K久拉阿"
+display_title: "トニ・ツィックラー"
+title_zh: ""
 title_ja: "トニ・ツィックラー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127240"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tony Zickler"
-  - "トニ・ツィックラー"
 source_ids:
   vndb: "c127240"
 source_urls:
   vndb: "https://vndb.org/c127240"
 ---
 
-# 斗尼津伊K久拉阿
+# トニ・ツィックラー
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c174138"
 type: "character"
-display_title: "惠恩F阿恩T"
-title_zh: "惠恩F阿恩T"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Enfant"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c174138"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Enfant"
 source_ids:
   vndb: "c174138"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c174138.webp"
 ---
 
-# 惠恩F阿恩T
+# Enfant
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

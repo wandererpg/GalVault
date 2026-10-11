@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c87109"
 type: "character"
-display_title: "娘惠崎天舞音"
-title_zh: "娘惠崎天舞音"
+display_title: "嬢ヶ崎 天舞音"
+title_zh: ""
 title_ja: "嬢ヶ崎 天舞音"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c87109"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jougasaki Amane"
-  - "嬢ヶ崎 天舞音"
 source_ids:
   vndb: "c87109"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c87109.webp"
 ---
 
-# 娘惠崎天舞音
+# 嬢ヶ崎 天舞音
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

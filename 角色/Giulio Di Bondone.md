@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c10826"
 type: "character"
-display_title: "朱莉奥D伊博恩堂奥音"
-title_zh: "朱莉奥D伊博恩堂奥音"
+display_title: "ジュリオ・ディ・ボンドーネ"
+title_zh: ""
 title_ja: "ジュリオ・ディ・ボンドーネ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c10826"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Giulio Di Bondone"
-  - "ジュリオ・ディ・ボンドーネ"
   - "Mad Dog"
 source_ids:
   vndb: "c10826"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c10826.webp"
 ---
 
-# 朱莉奥D伊博恩堂奥音
+# ジュリオ・ディ・ボンドーネ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

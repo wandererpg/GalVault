@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c94659"
 type: "character"
-display_title: "阿露V伊音拉"
-title_zh: "阿露V伊音拉"
+display_title: "アルヴィネラ"
+title_zh: ""
 title_ja: "アルヴィネラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94659"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alvinera"
-  - "アルヴィネラ"
 source_ids:
   vndb: "c94659"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c94659.webp"
 ---
 
-# 阿露V伊音拉
+# アルヴィネラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

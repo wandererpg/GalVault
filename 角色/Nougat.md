@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c129261"
 type: "character"
-display_title: "乃乌雅T"
-title_zh: "乃乌雅T"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Nougat"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c129261"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Nougat"
 source_ids:
   vndb: "c129261"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c129261.webp"
 ---
 
-# 乃乌雅T
+# Nougat
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

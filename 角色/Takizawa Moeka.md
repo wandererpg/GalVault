@@ -5,7 +5,10 @@ display_title: "泷泽萌果"
 title_zh: "泷泽萌果"
 title_ja: "滝沢 萌果"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c69683"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takizawa Moeka"
   - "滝沢 萌果"

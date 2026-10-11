@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c97876"
 type: "character"
-display_title: "诗露巴蕾露诗露巴蕾拉"
-title_zh: "诗露巴蕾露诗露巴蕾拉"
+display_title: "シルバレル・シルバレラ"
+title_zh: ""
 title_ja: "シルバレル・シルバレラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97876"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Silbarrel Silbarella"
-  - "シルバレル・シルバレラ"
 source_ids:
   vndb: "c97876"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c97876.webp"
 ---
 
-# 诗露巴蕾露诗露巴蕾拉
+# シルバレル・シルバレラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "屋蓑独太"
 title_zh: "屋蓑独太"
 title_ja: "屋蓑 独太"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c86544"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yamino Dokuta"
   - "屋蓑 独太"

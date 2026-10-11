@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c409"
 type: "character"
-display_title: "时田雪"
-title_zh: "时田雪"
+display_title: "時田 ユキ"
+title_zh: ""
 title_ja: "時田 ユキ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c409"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tokita Yuki"
-  - "時田 ユキ"
 source_ids:
   vndb: "c409"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c409.webp"
 ---
 
-# 时田雪
+# 時田 ユキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

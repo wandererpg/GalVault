@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c142064"
 type: "character"
-display_title: "帕千加露"
-title_zh: "帕千加露"
+display_title: "パチカル"
+title_zh: ""
 title_ja: "パチカル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c142064"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Pachikar"
-  - "パチカル"
 source_ids:
   vndb: "c142064"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c142064.webp"
 ---
 
-# 帕千加露
+# パチカル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

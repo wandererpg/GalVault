@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98287"
 type: "character"
-display_title: "莉濑T斗加拉阿"
-title_zh: "莉濑T斗加拉阿"
+display_title: "リセット・カラー"
+title_zh: ""
 title_ja: "リセット・カラー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98287"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Reset Kalar"
-  - "リセット・カラー"
 source_ids:
   vndb: "c98287"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98287.webp"
 ---
 
-# 莉濑T斗加拉阿
+# リセット・カラー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

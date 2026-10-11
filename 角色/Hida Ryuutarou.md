@@ -5,7 +5,10 @@ display_title: "飞騨隆太郎"
 title_zh: "飞騨隆太郎"
 title_ja: "飛騨 隆太郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c3998"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hida Ryuutarou"
   - "飛騨 隆太郎"

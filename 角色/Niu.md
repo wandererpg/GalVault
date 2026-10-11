@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c49072"
 type: "character"
-display_title: "尼乌"
-title_zh: "尼乌"
+display_title: "ニウ"
+title_zh: ""
 title_ja: "ニウ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c49072"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Niu"
-  - "ニウ"
 source_ids:
   vndb: "c49072"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c49072.webp"
 ---
 
-# 尼乌
+# ニウ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

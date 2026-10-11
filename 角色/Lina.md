@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17901"
 type: "character"
-display_title: "莉伊奈"
-title_zh: "莉伊奈"
+display_title: "リーナ"
+title_zh: ""
 title_ja: "リーナ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17901"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Lina"
-  - "リーナ"
   - "Saeki Liana (佐伯 里亜奈)"
 source_ids:
   vndb: "c17901"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c17901.webp"
 ---
 
-# 莉伊奈
+# リーナ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

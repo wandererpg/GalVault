@@ -5,7 +5,10 @@ display_title: "义城蜜魅"
 title_zh: "义城蜜魅"
 title_ja: "義城 蜜魅"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c34600"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Gijou Mitsumi"
   - "義城 蜜魅"

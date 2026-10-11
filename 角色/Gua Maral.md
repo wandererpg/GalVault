@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38225"
 type: "character"
-display_title: "子阿伊真拉露"
-title_zh: "子阿伊真拉露"
+display_title: "コアイ・マラル"
+title_zh: ""
 title_ja: "コアイ・マラル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38225"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gua Maral"
-  - "コアイ・マラル"
 source_ids:
   vndb: "c38225"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c38225.webp"
 ---
 
-# 子阿伊真拉露
+# コアイ・マラル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

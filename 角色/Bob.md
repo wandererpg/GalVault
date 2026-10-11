@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c103034"
 type: "character"
-display_title: "博B"
-title_zh: "博B"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Bob"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103034"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Bob"
 source_ids:
   vndb: "c103034"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c103034.webp"
 ---
 
-# 博B
+# Bob
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

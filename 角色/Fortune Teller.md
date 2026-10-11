@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43867"
 type: "character"
-display_title: "占伊师"
-title_zh: "占伊师"
+display_title: "占い師"
+title_zh: ""
 title_ja: "占い師"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43867"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Fortune Teller"
-  - "占い師"
 source_ids:
   vndb: "c43867"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43867.webp"
 ---
 
-# 占伊师
+# 占い師
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

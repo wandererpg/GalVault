@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c39809"
 type: "character"
-display_title: "阿露巴洛·雅蕾伊"
-title_zh: "阿露巴洛·雅蕾伊"
+display_title: "アルバロ ガレイ"
+title_zh: ""
 title_ja: "アルバロ ガレイ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c39809"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alvaro Garay"
-  - "アルバロ ガレイ"
 source_ids:
   vndb: "c39809"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c39809.webp"
 ---
 
-# 阿露巴洛·雅蕾伊
+# アルバロ ガレイ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

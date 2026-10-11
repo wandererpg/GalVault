@@ -5,7 +5,10 @@ display_title: "牧野贵子"
 title_zh: "牧野贵子"
 title_ja: "牧野 貴子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c17189"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Makino Takako"
   - "牧野 貴子"

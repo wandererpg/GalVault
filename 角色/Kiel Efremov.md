@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c43337"
 type: "character"
-display_title: "希伊露惠芙蕾惠莫芙"
-title_zh: "希伊露惠芙蕾惠莫芙"
+display_title: "キール・エフレーモフ"
+title_zh: ""
 title_ja: "キール・エフレーモフ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c43337"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kiel Efremov"
-  - "キール・エフレーモフ"
 source_ids:
   vndb: "c43337"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c43337.webp"
 ---
 
-# 希伊露惠芙蕾惠莫芙
+# キール・エフレーモフ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

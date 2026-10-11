@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127524"
 type: "character"
-display_title: "斗拉P普特美寿"
-title_zh: "斗拉P普特美寿"
+display_title: "トラップテミス"
+title_zh: ""
 title_ja: "トラップテミス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127524"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Themis Trap"
-  - "トラップテミス"
 source_ids:
   vndb: "c127524"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c127524.webp"
 ---
 
-# 斗拉P普特美寿
+# トラップテミス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

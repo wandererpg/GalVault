@@ -5,7 +5,10 @@ display_title: "周防秋良"
 title_zh: "周防秋良"
 title_ja: "周防 秋良"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c64032"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Suou Akira"
   - "周防 秋良"

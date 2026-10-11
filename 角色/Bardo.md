@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c15493"
 type: "character"
-display_title: "巴露堂"
-title_zh: "巴露堂"
+display_title: "バルド"
+title_zh: ""
 title_ja: "バルド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c15493"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Bardo"
-  - "バルド"
 source_ids:
   vndb: "c15493"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c15493.webp"
 ---
 
-# 巴露堂
+# バルド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

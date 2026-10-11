@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98283"
 type: "character"
-display_title: "洛T特恩真伊雅阿悟露千"
-title_zh: "洛T特恩真伊雅阿悟露千"
+display_title: "ロッテンマイヤー・ゴルチ"
+title_zh: ""
 title_ja: "ロッテンマイヤー・ゴルチ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98283"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rottenmeier Golch"
-  - "ロッテンマイヤー・ゴルチ"
 source_ids:
   vndb: "c98283"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98283.webp"
 ---
 
-# 洛T特恩真伊雅阿悟露千
+# ロッテンマイヤー・ゴルチ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

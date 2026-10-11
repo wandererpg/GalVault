@@ -5,7 +5,10 @@ display_title: "逆藏十三"
 title_zh: "逆藏十三"
 title_ja: "逆蔵 十三"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c56561"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakakura Juuzou"
   - "逆蔵 十三"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c83137"
 type: "character"
-display_title: "天惠濑守重"
-title_zh: "天惠濑守重"
+display_title: "天ヶ瀬 守重"
+title_zh: ""
 title_ja: "天ヶ瀬 守重"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c83137"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Amagase Morishige"
-  - "天ヶ瀬 守重"
 source_ids:
   vndb: "c83137"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c83137.webp"
 ---
 
-# 天惠濑守重
+# 天ヶ瀬 守重
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

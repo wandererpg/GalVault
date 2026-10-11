@@ -5,7 +5,10 @@ display_title: "金时花"
 title_zh: "金时花"
 title_ja: "金時花"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c124582"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kintokihana"
   - "金時花"

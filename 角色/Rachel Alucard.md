@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c25640"
 type: "character"
-display_title: "蕾伊C惠露阿露加阿堂"
-title_zh: "蕾伊C惠露阿露加阿堂"
+display_title: "レイチェル゠アルカード"
+title_zh: ""
 title_ja: "レイチェル゠アルカード"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c25640"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rachel Alucard"
-  - "レイチェル゠アルカード"
   - "Observer"
   - "Rabbit"
   - "Shitty Vampire"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c25640.webp"
 ---
 
-# 蕾伊C惠露阿露加阿堂
+# レイチェル゠アルカード
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c136636"
 type: "character"
-display_title: "真恩T伊S"
-title_zh: "真恩T伊S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Mantis"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136636"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Mantis"
 source_ids:
   vndb: "c136636"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c136636.webp"
 ---
 
-# 真恩T伊S
+# Mantis
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "白川公康"
 title_zh: "白川公康"
 title_ja: "白川 公康"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c65727"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shirakawa Kimiyasu"
   - "白川 公康"

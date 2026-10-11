@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c98330"
 type: "character"
-display_title: "沙梦索恩真希诗莫芙"
-title_zh: "沙梦索恩真希诗莫芙"
+display_title: "サムソン・マキシモフ"
+title_zh: ""
 title_ja: "サムソン・マキシモフ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c98330"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Samson Maximov"
-  - "サムソン・マキシモフ"
 source_ids:
   vndb: "c98330"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c98330.webp"
 ---
 
-# 沙梦索恩真希诗莫芙
+# サムソン・マキシモフ
 
 
 ## 角色画像

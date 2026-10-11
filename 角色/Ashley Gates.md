@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c155397"
 type: "character"
-display_title: "阿SHL惠Y·雅特S"
-title_zh: "阿SHL惠Y·雅特S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ashley Gates"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155397"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ashley Gates"
   - "Ash"
 source_ids:
   vndb: "c155397"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c155397.webp"
 ---
 
-# 阿SHL惠Y·雅特S
+# Ashley Gates
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

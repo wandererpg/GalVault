@@ -5,7 +5,10 @@ display_title: "酒井绢代"
 title_zh: "酒井绢代"
 title_ja: "酒井 絹代"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c63256"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sakai Kinuyo"
   - "酒井 絹代"

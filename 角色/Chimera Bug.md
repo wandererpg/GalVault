@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c126905"
 type: "character"
-display_title: "千芽拉·布G"
-title_zh: "千芽拉·布G"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Chimera Bug"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126905"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Chimera Bug"
 source_ids:
   vndb: "c126905"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c126905.webp"
 ---
 
-# 千芽拉·布G
+# Chimera Bug
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

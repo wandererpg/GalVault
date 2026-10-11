@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c20323"
 type: "character"
-display_title: "V伊久太阿芙拉恩惠恩修太伊恩"
-title_zh: "V伊久太阿芙拉恩惠恩修太伊恩"
+display_title: "ヴィクター・フランケンシュタイン"
+title_zh: ""
 title_ja: "ヴィクター・フランケンシュタイン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c20323"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Victor Frankenstein"
-  - "ヴィクター・フランケンシュタイン"
   - "Fran"
 source_ids:
   vndb: "c20323"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c20323.webp"
 ---
 
-# V伊久太阿芙拉恩惠恩修太伊恩
+# ヴィクター・フランケンシュタイン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

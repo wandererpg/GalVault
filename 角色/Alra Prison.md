@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125886"
 type: "character"
-display_title: "阿露拉普莉兹恩"
-title_zh: "阿露拉普莉兹恩"
+display_title: "アルラ・プリズン"
+title_zh: ""
 title_ja: "アルラ・プリズン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125886"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alra Prison"
-  - "アルラ・プリズン"
 source_ids:
   vndb: "c125886"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c125886.webp"
 ---
 
-# 阿露拉普莉兹恩
+# アルラ・プリズン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

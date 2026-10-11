@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17796"
 type: "character"
-display_title: "久露斗布露久缪拉阿"
-title_zh: "久露斗布露久缪拉阿"
+display_title: "クルト・ブルクミュラー"
+title_zh: ""
 title_ja: "クルト・ブルクミュラー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17796"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kurt Burgmuller"
-  - "クルト・ブルクミュラー"
 source_ids:
   vndb: "c17796"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c17796.webp"
 ---
 
-# 久露斗布露久缪拉阿
+# クルト・ブルクミュラー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

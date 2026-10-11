@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c74508"
 type: "character"
-display_title: "Q乌伊LL·普R音LL"
-title_zh: "Q乌伊LL·普R音LL"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Quill Purnell"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c74508"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Quill Purnell"
 source_ids:
   vndb: "c74508"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c74508.webp"
 ---
 
-# Q乌伊LL·普R音LL
+# Quill Purnell
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

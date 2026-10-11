@@ -5,7 +5,10 @@ display_title: "琴蕗江梨衣"
 title_zh: "琴蕗江梨衣"
 title_ja: "琴蕗 江梨衣"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c54961"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kotofuki Erii"
   - "琴蕗 江梨衣"

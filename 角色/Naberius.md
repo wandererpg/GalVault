@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30209"
 type: "character"
-display_title: "魔神奈贝莉乌寿"
-title_zh: "魔神奈贝莉乌寿"
+display_title: "魔神ナベリウス"
+title_zh: ""
 title_ja: "魔神ナベリウス"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30209"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Naberius"
-  - "魔神ナベリウス"
 source_ids:
   vndb: "c30209"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30209.webp"
 ---
 
-# 魔神奈贝莉乌寿
+# 魔神ナベリウス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

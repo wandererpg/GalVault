@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c103801"
 type: "character"
-display_title: "阿沙日"
-title_zh: "阿沙日"
+display_title: "あさひ"
+title_zh: ""
 title_ja: "あさひ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103801"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Asahi"
-  - "あさひ"
 source_ids:
   vndb: "c103801"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c103801.webp"
 ---
 
-# 阿沙日
+# あさひ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

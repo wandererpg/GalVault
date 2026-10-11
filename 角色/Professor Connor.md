@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c131371"
 type: "character"
-display_title: "P洛F惠S索R·C奥恩乃R"
-title_zh: "P洛F惠S索R·C奥恩乃R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Professor Connor"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c131371"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Professor Connor"
 source_ids:
   vndb: "c131371"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c131371.webp"
 ---
 
-# P洛F惠S索R·C奥恩乃R
+# Professor Connor
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

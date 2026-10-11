@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c155045"
 type: "character"
-display_title: "ST拉德"
-title_zh: "ST拉德"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Strade"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c155045"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Strade"
 source_ids:
   vndb: "c155045"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c155045.webp"
 ---
 
-# ST拉德
+# Strade
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

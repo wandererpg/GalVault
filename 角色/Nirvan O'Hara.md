@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c136897"
 type: "character"
-display_title: "音羽乃羽拉"
-title_zh: "音羽乃羽拉"
+display_title: "ネハン・オハラ"
+title_zh: ""
 title_ja: "ネハン・オハラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c136897"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nirvan O'Hara"
-  - "ネハン・オハラ"
 source_ids:
   vndb: "c136897"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c136897.webp"
 ---
 
-# 音羽乃羽拉
+# ネハン・オハラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

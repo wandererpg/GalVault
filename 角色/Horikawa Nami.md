@@ -5,7 +5,10 @@ display_title: "堀川奈美"
 title_zh: "堀川奈美"
 title_ja: "堀川 奈美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c50943"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Horikawa Nami"
   - "堀川 奈美"

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c113690"
 type: "character"
-display_title: "阿恩D蕾W·蕾惠V惠S"
-title_zh: "阿恩D蕾W·蕾惠V惠S"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Andrew Reeves"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c113690"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Andrew Reeves"
 source_ids:
   vndb: "c113690"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c113690.webp"
 ---
 
-# 阿恩D蕾W·蕾惠V惠S
+# Andrew Reeves
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

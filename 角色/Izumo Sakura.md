@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c103800"
 type: "character"
-display_title: "出云樱"
-title_zh: "出云樱"
+display_title: "出雲 さくら"
+title_zh: ""
 title_ja: "出雲 さくら"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103800"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Izumo Sakura"
-  - "出雲 さくら"
 source_ids:
   vndb: "c103800"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c103800.webp"
 ---
 
-# 出云樱
+# 出雲 さくら
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

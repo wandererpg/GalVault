@@ -5,7 +5,10 @@ display_title: "沓野奏"
 title_zh: "沓野奏"
 title_ja: "沓野 奏"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c35680"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kutsuno Kanade"
   - "沓野 奏"

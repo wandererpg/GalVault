@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71150"
 type: "character"
-display_title: "V阿伊寿＝沙恩古惠露"
-title_zh: "V阿伊寿＝沙恩古惠露"
+display_title: "ヴァイス＝サングエル"
+title_zh: ""
 title_ja: "ヴァイス＝サングエル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71150"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Weiss Sanguel"
-  - "ヴァイス＝サングエル"
 source_ids:
   vndb: "c71150"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71150.webp"
 ---
 
-# V阿伊寿＝沙恩古惠露
+# ヴァイス＝サングエル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

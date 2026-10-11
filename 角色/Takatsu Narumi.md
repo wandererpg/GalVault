@@ -5,7 +5,10 @@ display_title: "高津成美"
 title_zh: "高津成美"
 title_ja: "高津 成美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c17171"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takatsu Narumi"
   - "高津 成美"

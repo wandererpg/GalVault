@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c37"
 type: "character"
-display_title: "伊莉雅寿F伊伊露F奥奈伊恩津贝露恩"
-title_zh: "伊莉雅寿F伊伊露F奥奈伊恩津贝露恩"
+display_title: "イリヤスフィール・フォン・アインツベルン"
+title_zh: ""
 title_ja: "イリヤスフィール・フォン・アインツベルン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Illyasviel von Einzbern"
-  - "イリヤスフィール・フォン・アインツベルン"
   - "Ilya"
   - "Iriya"
   - "イリヤ"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c37.webp"
 ---
 
-# 伊莉雅寿F伊伊露F奥奈伊恩津贝露恩
+# イリヤスフィール・フォン・アインツベルン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

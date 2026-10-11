@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c124696"
 type: "character"
-display_title: "片叶乃苇"
-title_zh: "片叶乃苇"
+display_title: "片葉の葦"
+title_zh: ""
 title_ja: "片葉の葦"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124696"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kataba no Ashi"
-  - "片葉の葦"
   - "お駒"
   - "Okoma"
   - "駒"
@@ -20,7 +22,7 @@ source_urls:
 portrait_image: "assets/characters/c124696.webp"
 ---
 
-# 片叶乃苇
+# 片葉の葦
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

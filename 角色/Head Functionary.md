@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c165389"
 type: "character"
-display_title: "惠阿D·芙恩CT伊奥奈RY"
-title_zh: "惠阿D·芙恩CT伊奥奈RY"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Head Functionary"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c165389"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Head Functionary"
 source_ids:
   vndb: "c165389"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c165389.webp"
 ---
 
-# 惠阿D·芙恩CT伊奥奈RY
+# Head Functionary
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

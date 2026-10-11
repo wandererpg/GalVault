@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c80803"
 type: "character"
-display_title: "奥奥沙斗·代乌太洛乌"
-title_zh: "奥奥沙斗·代乌太洛乌"
+display_title: "オオサト ヨウタロウ"
+title_zh: ""
 title_ja: "オオサト ヨウタロウ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c80803"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Oosato Youtaro"
-  - "オオサト ヨウタロウ"
   - "Yotaro Osato"
 source_ids:
   vndb: "c80803"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c80803.webp"
 ---
 
-# 奥奥沙斗·代乌太洛乌
+# オオサト ヨウタロウ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

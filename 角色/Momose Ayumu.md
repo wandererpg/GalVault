@@ -5,7 +5,10 @@ display_title: "百濑步梦"
 title_zh: "百濑步梦"
 title_ja: "百瀬 歩夢"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c25584"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Momose Ayumu"
   - "百瀬 歩夢"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c37020"
 type: "character"
-display_title: "濑露加阿千悟露芙"
-title_zh: "濑露加阿千悟露芙"
+display_title: "セル・カーチゴルフ"
+title_zh: ""
 title_ja: "セル・カーチゴルフ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c37020"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sel Catchgolf"
-  - "セル・カーチゴルフ"
   - "Sel Curchgolf"
 source_ids:
   vndb: "c37020"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c37020.webp"
 ---
 
-# 濑露加阿千悟露芙
+# セル・カーチゴルフ
 
 
 ## 角色画像

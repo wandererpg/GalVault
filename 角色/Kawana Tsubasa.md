@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c150816"
 type: "character"
-display_title: "川奈翼"
-title_zh: "川奈翼"
+display_title: "川奈 つばさ"
+title_zh: ""
 title_ja: "川奈 つばさ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c150816"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kawana Tsubasa"
-  - "川奈 つばさ"
   - "Pukette"
   - "Star Mechanic"
   - "伍 (Five)"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c150816.webp"
 ---
 
-# 川奈翼
+# 川奈 つばさ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

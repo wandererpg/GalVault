@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c2430"
 type: "character"
-display_title: "今川久露寿"
-title_zh: "今川久露寿"
+display_title: "今川 クルス"
+title_zh: ""
 title_ja: "今川 クルス"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c2430"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Imagawa Kurusu"
-  - "今川 クルス"
 source_ids:
   vndb: "c2430"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c2430.webp"
 ---
 
-# 今川久露寿
+# 今川 クルス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

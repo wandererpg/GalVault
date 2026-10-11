@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30214"
 type: "character"
-display_title: "水乃巫女"
-title_zh: "水乃巫女"
+display_title: "水の巫女"
+title_zh: ""
 title_ja: "水の巫女"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30214"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Water Miko"
-  - "水の巫女"
 source_ids:
   vndb: "c30214"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30214.webp"
 ---
 
-# 水乃巫女
+# 水の巫女
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

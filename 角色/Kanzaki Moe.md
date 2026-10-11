@@ -5,7 +5,10 @@ display_title: "神崎萌"
 title_zh: "神崎萌"
 title_ja: "神崎 萌"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c9707"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kanzaki Moe"
   - "神崎 萌"

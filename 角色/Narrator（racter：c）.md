@@ -4,7 +4,10 @@ type: "character"
 display_title: "旁白"
 title_zh: "旁白"
 title_zh_quality: "glossary"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c28952"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Narrator"
 source_ids:

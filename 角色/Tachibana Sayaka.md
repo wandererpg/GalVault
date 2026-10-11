@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c9864"
 type: "character"
-display_title: "橘沙雅加"
-title_zh: "橘沙雅加"
+display_title: "橘 さやか"
+title_zh: ""
 title_ja: "橘 さやか"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c9864"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tachibana Sayaka"
-  - "橘 さやか"
 source_ids:
   vndb: "c9864"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c9864.webp"
 ---
 
-# 橘沙雅加
+# 橘 さやか
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -5,7 +5,10 @@ display_title: "笠木哲也"
 title_zh: "笠木哲也"
 title_ja: "笠木 哲也"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c43857"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kasagi Tetsuya"
   - "笠木 哲也"

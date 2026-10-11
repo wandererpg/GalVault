@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c129114"
 type: "character"
-display_title: "濑拉"
-title_zh: "濑拉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Sera"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c129114"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Sera"
 source_ids:
   vndb: "c129114"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c129114.webp"
 ---
 
-# 濑拉
+# Sera
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

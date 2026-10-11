@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c16534"
 type: "character"
-display_title: "布拉伊阿恩＝加佩拉"
-title_zh: "布拉伊阿恩＝加佩拉"
+display_title: "ブライアン＝カペラ"
+title_zh: ""
 title_ja: "ブライアン＝カペラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c16534"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Bryon Capella"
-  - "ブライアン＝カペラ"
   - "Brian Capella"
 source_ids:
   vndb: "c16534"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c16534.webp"
 ---
 
-# 布拉伊阿恩＝加佩拉
+# ブライアン＝カペラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

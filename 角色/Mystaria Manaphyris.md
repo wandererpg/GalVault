@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c103970"
 type: "character"
-display_title: "美寿太莉阿真奈F伊莉寿"
-title_zh: "美寿太莉阿真奈F伊莉寿"
+display_title: "ミスタリア・マナフィリス"
+title_zh: ""
 title_ja: "ミスタリア・マナフィリス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103970"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mystaria Manaphyris"
-  - "ミスタリア・マナフィリス"
   - "Hero of the Divine Staff"
   - "神杖の勇者"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c103970.webp"
 ---
 
-# 美寿太莉阿真奈F伊莉寿
+# ミスタリア・マナフィリス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

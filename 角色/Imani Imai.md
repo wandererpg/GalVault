@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c141200"
 type: "character"
-display_title: "伊真尼·伊真伊"
-title_zh: "伊真尼·伊真伊"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Imani Imai"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141200"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Imani Imai"
 source_ids:
   vndb: "c141200"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c141200.webp"
 ---
 
-# 伊真尼·伊真伊
+# Imani Imai
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

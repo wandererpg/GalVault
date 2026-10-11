@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c141301"
 type: "character"
-display_title: "沙吉山勇"
-title_zh: "沙吉山勇"
+display_title: "サギ山 勇"
+title_zh: ""
 title_ja: "サギ山 勇"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141301"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sagiyama Isamu"
-  - "サギ山 勇"
 source_ids:
   vndb: "c141301"
 source_urls:
   vndb: "https://vndb.org/c141301"
 ---
 
-# 沙吉山勇
+# サギ山 勇
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

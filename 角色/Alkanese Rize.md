@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c119288"
 type: "character"
-display_title: "阿露加音惠泽拉伊兹"
-title_zh: "阿露加音惠泽拉伊兹"
+display_title: "アルカネーゼ・ライズ"
+title_zh: ""
 title_ja: "アルカネーゼ・ライズ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c119288"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Alkanese Rize"
-  - "アルカネーゼ・ライズ"
 source_ids:
   vndb: "c119288"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c119288.webp"
 ---
 
-# 阿露加音惠泽拉伊兹
+# アルカネーゼ・ライズ
 
 
 ## 角色画像

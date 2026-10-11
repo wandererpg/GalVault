@@ -5,7 +5,10 @@ display_title: "仙石绫芽"
 title_zh: "仙石绫芽"
 title_ja: "仙石 綾芽"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c91917"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sengoku Ayame"
   - "仙石 綾芽"

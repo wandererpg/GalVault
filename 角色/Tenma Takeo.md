@@ -5,7 +5,10 @@ display_title: "天间武雄"
 title_zh: "天间武雄"
 title_ja: "天間 武雄"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c131941"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tenma Takeo"
   - "天間 武雄"

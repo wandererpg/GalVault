@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34043"
 type: "character"
-display_title: "F惠露阿乃莉露拉奈羽伊梦"
-title_zh: "F惠露阿乃莉露拉奈羽伊梦"
+display_title: "フェルアノ・リル・ラナハイム"
+title_zh: ""
 title_ja: "フェルアノ・リル・ラナハイム"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34043"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Feruano Lir Lanahime"
-  - "フェルアノ・リル・ラナハイム"
 source_ids:
   vndb: "c34043"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c34043.webp"
 ---
 
-# F惠露阿乃莉露拉奈羽伊梦
+# フェルアノ・リル・ラナハイム
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

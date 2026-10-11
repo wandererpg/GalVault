@@ -5,7 +5,10 @@ display_title: "御影海人"
 title_zh: "御影海人"
 title_ja: "御影 海人"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c39795"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mikage Kaito"
   - "御影 海人"

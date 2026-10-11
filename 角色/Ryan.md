@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c122649"
 type: "character"
-display_title: "莉娅恩"
-title_zh: "莉娅恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ryan"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c122649"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ryan"
 source_ids:
   vndb: "c122649"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c122649.webp"
 ---
 
-# 莉娅恩
+# Ryan
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

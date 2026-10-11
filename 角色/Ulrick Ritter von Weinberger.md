@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c27929"
 type: "character"
-display_title: "阿阿莉K久莉T太阿F奥恩V阿伊恩贝露雅阿"
-title_zh: "阿阿莉K久莉T太阿F奥恩V阿伊恩贝露雅阿"
+display_title: "アーリック・リッター・フォン・ヴァインベルガー"
+title_zh: ""
 title_ja: "アーリック・リッター・フォン・ヴァインベルガー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c27929"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ulrick Ritter von Weinberger"
-  - "アーリック・リッター・フォン・ヴァインベルガー"
 source_ids:
   vndb: "c27929"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c27929.webp"
 ---
 
-# 阿阿莉K久莉T太阿F奥恩V阿伊恩贝露雅阿
+# アーリック・リッター・フォン・ヴァインベルガー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

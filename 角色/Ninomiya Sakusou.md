@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c137501"
 type: "character"
-display_title: "尼乃宫作藏"
-title_zh: "尼乃宫作藏"
+display_title: "ニノ宮作蔵"
+title_zh: ""
 title_ja: "ニノ宮作蔵"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c137501"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ninomiya Sakusou"
-  - "ニノ宮作蔵"
 source_ids:
   vndb: "c137501"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c137501.webp"
 ---
 
-# 尼乃宫作藏
+# ニノ宮作蔵
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

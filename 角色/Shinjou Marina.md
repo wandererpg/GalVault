@@ -5,7 +5,10 @@ display_title: "新城鞠奈"
 title_zh: "新城鞠奈"
 title_ja: "新城 鞠奈"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c5607"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shinjou Marina"
   - "新城 鞠奈"

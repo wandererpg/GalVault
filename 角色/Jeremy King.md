@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c94446"
 type: "character"
-display_title: "J惠蕾MY·希恩G"
-title_zh: "J惠蕾MY·希恩G"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jeremy King"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c94446"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jeremy King"
 source_ids:
   vndb: "c94446"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c94446.webp"
 ---
 
-# J惠蕾MY·希恩G
+# Jeremy King
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

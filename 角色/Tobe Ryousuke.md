@@ -5,7 +5,10 @@ display_title: "砥部亮辅"
 title_zh: "砥部亮辅"
 title_ja: "砥部 亮輔"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c21712"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tobe Ryousuke"
   - "砥部 亮輔"

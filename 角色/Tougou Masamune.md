@@ -5,7 +5,10 @@ display_title: "东乡正宗"
 title_zh: "东乡正宗"
 title_ja: "東郷 正宗"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c90815"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tougou Masamune"
   - "東郷 正宗"

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c7214"
 type: "character"
-display_title: "夏露特伊"
-title_zh: "夏露特伊"
+display_title: "シャルティ"
+title_zh: ""
 title_ja: "シャルティ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c7214"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sharty"
-  - "シャルティ"
 source_ids:
   vndb: "c7214"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c7214.webp"
 ---
 
-# 夏露特伊
+# シャルティ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

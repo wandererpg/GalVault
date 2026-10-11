@@ -5,7 +5,10 @@ display_title: "仙石大雅"
 title_zh: "仙石大雅"
 title_ja: "仙石 大雅"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c66510"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sengoku Taiga"
   - "仙石 大雅"

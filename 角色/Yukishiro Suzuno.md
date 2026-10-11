@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c814"
 type: "character"
-display_title: "雪代寿兹乃"
-title_zh: "雪代寿兹乃"
+display_title: "雪代 すずの"
+title_zh: ""
 title_ja: "雪代 すずの"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c814"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yukishiro Suzuno"
-  - "雪代 すずの"
 source_ids:
   vndb: "c814"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c814.webp"
 ---
 
-# 雪代寿兹乃
+# 雪代 すずの
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

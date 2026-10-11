@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c166249"
 type: "character"
-display_title: "美奈真久特伊阿奈恩"
-title_zh: "美奈真久特伊阿奈恩"
+display_title: "ミナ・マクティアナン"
+title_zh: ""
 title_ja: "ミナ・マクティアナン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c166249"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mina McTianan"
-  - "ミナ・マクティアナン"
 source_ids:
   vndb: "c166249"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c166249.webp"
 ---
 
-# 美奈真久特伊阿奈恩
+# ミナ・マクティアナン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

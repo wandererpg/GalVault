@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c38087"
 type: "character"
-display_title: "久洛乌"
-title_zh: "久洛乌"
+display_title: "クロウ"
+title_zh: ""
 title_ja: "クロウ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c38087"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kurou"
-  - "クロウ"
 source_ids:
   vndb: "c38087"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c38087.webp"
 ---
 
-# 久洛乌
+# クロウ
 
 
 ## 角色画像

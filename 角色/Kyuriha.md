@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c24674"
 type: "character"
-display_title: "久莉羽"
-title_zh: "久莉羽"
+display_title: "キュリハ"
+title_zh: ""
 title_ja: "キュリハ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c24674"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kyuriha"
-  - "キュリハ"
   - "Curiha"
 source_ids:
   vndb: "c24674"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c24674.webp"
 ---
 
-# 久莉羽
+# キュリハ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

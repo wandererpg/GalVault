@@ -5,7 +5,10 @@ display_title: "武坂宗高"
 title_zh: "武坂宗高"
 title_ja: "武坂 宗高"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c60074"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takesaka Munetaka"
   - "武坂 宗高"

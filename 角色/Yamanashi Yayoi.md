@@ -5,7 +5,10 @@ display_title: "月见里弥生"
 title_zh: "月见里弥生"
 title_ja: "月見里 弥生"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c12135"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yamanashi Yayoi"
   - "月見里 弥生"

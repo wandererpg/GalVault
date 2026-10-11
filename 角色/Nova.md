@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c161332"
 type: "character"
-display_title: "乃奥V阿"
-title_zh: "乃奥V阿"
+display_title: "ノーヴァ"
+title_zh: ""
 title_ja: "ノーヴァ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c161332"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Nova"
-  - "ノーヴァ"
 source_ids:
   vndb: "c161332"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c161332.webp"
 ---
 
-# 乃奥V阿
+# ノーヴァ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

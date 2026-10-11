@@ -5,7 +5,10 @@ display_title: "春奈"
 title_zh: "春奈"
 title_ja: "春奈"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c12755"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Haruna"
 source_ids:

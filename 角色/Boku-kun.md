@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c92592"
 type: "character"
-display_title: "博久君"
-title_zh: "博久君"
+display_title: "ボク君"
+title_zh: ""
 title_ja: "ボク君"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92592"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Boku-kun"
-  - "ボク君"
 source_ids:
   vndb: "c92592"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c92592.webp"
 ---
 
-# 博久君
+# ボク君
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

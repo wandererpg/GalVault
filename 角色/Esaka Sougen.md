@@ -5,7 +5,10 @@ display_title: "江坂宗源"
 title_zh: "江坂宗源"
 title_ja: "江坂 宗源"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c624"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Esaka Sougen"
   - "江坂 宗源"

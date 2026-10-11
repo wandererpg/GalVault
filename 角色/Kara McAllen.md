@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c171809"
 type: "character"
-display_title: "加拉·MC阿LL惠恩"
-title_zh: "加拉·MC阿LL惠恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Kara McAllen"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c171809"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Kara McAllen"
 source_ids:
   vndb: "c171809"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c171809.webp"
 ---
 
-# 加拉·MC阿LL惠恩
+# Kara McAllen
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

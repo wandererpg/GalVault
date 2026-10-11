@@ -5,7 +5,10 @@ display_title: "根津水脉子"
 title_zh: "根津水脉子"
 title_ja: "根津 水脈子"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c80398"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nezu Mioko"
   - "根津 水脈子"

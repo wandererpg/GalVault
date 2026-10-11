@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c54536"
 type: "character"
-display_title: "洛奥阿恩枢机卿"
-title_zh: "洛奥阿恩枢机卿"
+display_title: "ローアン枢機卿"
+title_zh: ""
 title_ja: "ローアン枢機卿"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c54536"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cardinal Rohan"
-  - "ローアン枢機卿"
   - "Rohan Suukikyou"
 source_ids:
   vndb: "c54536"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c54536.webp"
 ---
 
-# 洛奥阿恩枢机卿
+# ローアン枢機卿
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

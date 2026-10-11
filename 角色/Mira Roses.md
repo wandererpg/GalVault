@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c135513"
 type: "character"
-display_title: "美拉洛奥泽寿"
-title_zh: "美拉洛奥泽寿"
+display_title: "ミラ・ローゼス"
+title_zh: ""
 title_ja: "ミラ・ローゼス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c135513"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mira Roses"
-  - "ミラ・ローゼス"
 source_ids:
   vndb: "c135513"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c135513.webp"
 ---
 
-# 美拉洛奥泽寿
+# ミラ・ローゼス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

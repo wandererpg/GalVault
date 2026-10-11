@@ -5,7 +5,10 @@ display_title: "色川铃音"
 title_zh: "色川铃音"
 title_ja: "色川 鈴音"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c84121"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Irokawa Suzune"
   - "色川 鈴音"

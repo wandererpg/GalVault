@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126872"
 type: "character"
-display_title: "权天使奈雅惠露"
-title_zh: "权天使奈雅惠露"
+display_title: "権天使ナガエル"
+title_zh: ""
 title_ja: "権天使ナガエル"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126872"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Principality Nagael"
-  - "権天使ナガエル"
 source_ids:
   vndb: "c126872"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c126872.webp"
 ---
 
-# 权天使奈雅惠露
+# 権天使ナガエル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

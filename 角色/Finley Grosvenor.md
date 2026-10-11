@@ -1,21 +1,23 @@
 ---
 entity_id: "vndb:character:c124907"
 type: "character"
-display_title: "F伊恩蕾伊古洛巴奈阿"
-title_zh: "F伊恩蕾伊古洛巴奈阿"
+display_title: "フィンレイ・グロバナー"
+title_zh: ""
 title_ja: "フィンレイ・グロバナー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c124907"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Finley Grosvenor"
-  - "フィンレイ・グロバナー"
 source_ids:
   vndb: "c124907"
 source_urls:
   vndb: "https://vndb.org/c124907"
 ---
 
-# F伊恩蕾伊古洛巴奈阿
+# フィンレイ・グロバナー
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty --><!-- AUTO:END duty -->

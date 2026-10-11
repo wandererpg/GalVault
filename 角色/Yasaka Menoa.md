@@ -5,7 +5,10 @@ display_title: "八坂爱乃亚"
 title_zh: "八坂爱乃亚"
 title_ja: "八坂 愛乃亜"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c113836"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yasaka Menoa"
   - "八坂 愛乃亜"

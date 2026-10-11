@@ -5,7 +5,10 @@ display_title: "来栖恭平"
 title_zh: "来栖恭平"
 title_ja: "来栖 恭平"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c25591"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kurusu Kyohei"
   - "来栖 恭平"

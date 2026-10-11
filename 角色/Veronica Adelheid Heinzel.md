@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c12085"
 type: "character"
-display_title: "V惠洛尼加阿阿德露羽伊斗羽伊恩津惠露"
-title_zh: "V惠洛尼加阿阿德露羽伊斗羽伊恩津惠露"
+display_title: "ヴェロニカ・アーデルハイト・ハインツェル"
+title_zh: ""
 title_ja: "ヴェロニカ・アーデルハイト・ハインツェル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c12085"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Veronica Adelheid Heinzel"
-  - "ヴェロニカ・アーデルハイト・ハインツェル"
   - "ハイジ"
   - "Heidi"
   - "あーちゃん"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c12085.webp"
 ---
 
-# V惠洛尼加阿阿德露羽伊斗羽伊恩津惠露
+# ヴェロニカ・アーデルハイト・ハインツェル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

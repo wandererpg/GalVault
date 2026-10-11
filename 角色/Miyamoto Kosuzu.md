@@ -5,7 +5,10 @@ display_title: "宫本小铃"
 title_zh: "宫本小铃"
 title_ja: "宮本　小鈴"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c97933"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Miyamoto Kosuzu"
   - "宮本　小鈴"

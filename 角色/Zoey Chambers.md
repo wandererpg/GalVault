@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c174108"
 type: "character"
-display_title: "藏惠Y·恰M贝RS"
-title_zh: "藏惠Y·恰M贝RS"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Zoey Chambers"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c174108"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Zoey Chambers"
 source_ids:
   vndb: "c174108"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c174108.webp"
 ---
 
-# 藏惠Y·恰M贝RS
+# Zoey Chambers
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

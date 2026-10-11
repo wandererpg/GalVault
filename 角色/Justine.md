@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c36241"
 type: "character"
-display_title: "朱寿特伊伊努"
-title_zh: "朱寿特伊伊努"
+display_title: "ジュスティーヌ"
+title_zh: ""
 title_ja: "ジュスティーヌ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c36241"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Justine"
-  - "ジュスティーヌ"
   - "Justine Emma Genevieve Delacroix"
 source_ids:
   vndb: "c36241"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c36241.webp"
 ---
 
-# 朱寿特伊伊努
+# ジュスティーヌ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

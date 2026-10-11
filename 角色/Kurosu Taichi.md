@@ -5,7 +5,10 @@ display_title: "黑须太一"
 title_zh: "黑须太一"
 title_ja: "黒須 太一"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c3658"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kurosu Taichi"
   - "黒須 太一"

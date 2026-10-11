@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c122559"
 type: "character"
-display_title: "阿阿梦兹阿阿久"
-title_zh: "阿阿梦兹阿阿久"
+display_title: "アームズ・アーク"
+title_zh: ""
 title_ja: "アームズ・アーク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c122559"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Arms Arc"
-  - "アームズ・アーク"
 source_ids:
   vndb: "c122559"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c122559.webp"
 ---
 
-# 阿阿梦兹阿阿久
+# アームズ・アーク
 
 
 ## 角色画像

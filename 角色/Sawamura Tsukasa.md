@@ -5,7 +5,10 @@ display_title: "泽村司"
 title_zh: "泽村司"
 title_ja: "沢村 司"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c3476"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sawamura Tsukasa"
   - "沢村 司"

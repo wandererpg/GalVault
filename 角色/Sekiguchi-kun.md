@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c106370"
 type: "character"
-display_title: "关口久恩"
-title_zh: "关口久恩"
+display_title: "関口くん"
+title_zh: ""
 title_ja: "関口くん"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c106370"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sekiguchi-kun"
-  - "関口くん"
 source_ids:
   vndb: "c106370"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c106370.webp"
 ---
 
-# 关口久恩
+# 関口くん
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

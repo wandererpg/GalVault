@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c936"
 type: "character"
-display_title: "真寿太阿特莉奥恩"
-title_zh: "真寿太阿特莉奥恩"
+display_title: "マスターテリオン"
+title_zh: ""
 title_ja: "マスターテリオン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c936"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Master Therion"
-  - "マスターテリオン"
   - "The Great Beast"
   - "大いなる獣"
   - "The Beast of Scripture"
@@ -28,7 +30,7 @@ source_urls:
 portrait_image: "assets/characters/c936.webp"
 ---
 
-# 真寿太阿特莉奥恩
+# マスターテリオン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

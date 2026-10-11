@@ -5,7 +5,10 @@ display_title: "光山纱希"
 title_zh: "光山纱希"
 title_ja: "光山 紗希"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c79433"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kouyama Saki"
   - "光山 紗希"

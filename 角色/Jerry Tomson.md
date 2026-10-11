@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c153126"
 type: "character"
-display_title: "J惠RRY·斗M索恩"
-title_zh: "J惠RRY·斗M索恩"
+display_title: "제리 톰슨"
+title_zh: ""
 title_ja: "제리 톰슨"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c153126"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Jerry Tomson"
-  - "제리 톰슨"
 source_ids:
   vndb: "c153126"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c153126.webp"
 ---
 
-# J惠RRY·斗M索恩
+# 제리 톰슨
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

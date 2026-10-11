@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c31117"
 type: "character"
-display_title: "津惠尼堂露比伊寿"
-title_zh: "津惠尼堂露比伊寿"
+display_title: "ツェニド・ルビース"
+title_zh: ""
 title_ja: "ツェニド・ルビース"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c31117"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tsenido Rubis"
-  - "ツェニド・ルビース"
 source_ids:
   vndb: "c31117"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c31117.webp"
 ---
 
-# 津惠尼堂露比伊寿
+# ツェニド・ルビース
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

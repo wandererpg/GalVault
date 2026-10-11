@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c988"
 type: "character"
-display_title: "周防奈奈乃"
-title_zh: "周防奈奈乃"
+display_title: "周防 ななの"
+title_zh: ""
 title_ja: "周防 ななの"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c988"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Suou Nanano"
-  - "周防 ななの"
   - "ののの"
   - "Nonono"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c988.webp"
 ---
 
-# 周防奈奈乃
+# 周防 ななの
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

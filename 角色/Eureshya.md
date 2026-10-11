@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c75567"
 type: "character"
-display_title: "优莉伊夏"
-title_zh: "优莉伊夏"
+display_title: "ユリーシャ"
+title_zh: ""
 title_ja: "ユリーシャ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c75567"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Eureshya"
-  - "ユリーシャ"
 source_ids:
   vndb: "c75567"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c75567.webp"
 ---
 
-# 优莉伊夏
+# ユリーシャ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

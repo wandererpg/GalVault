@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c141416"
 type: "character"
-display_title: "美恰"
-title_zh: "美恰"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Micha"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c141416"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Micha"
 source_ids:
   vndb: "c141416"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c141416.webp"
 ---
 
-# 美恰
+# Micha
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

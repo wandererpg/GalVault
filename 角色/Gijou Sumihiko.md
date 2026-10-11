@@ -5,7 +5,10 @@ display_title: "义城纯彦"
 title_zh: "义城纯彦"
 title_ja: "義城 純彦"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c163329"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Gijou Sumihiko"
   - "義城 純彦"

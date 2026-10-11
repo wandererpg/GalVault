@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c17598"
 type: "character"
-display_title: "泽洛"
-title_zh: "泽洛"
+display_title: "ゼロ"
+title_zh: ""
 title_ja: "ゼロ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c17598"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Zero"
-  - "ゼロ"
 source_ids:
   vndb: "c17598"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c17598.webp"
 ---
 
-# 泽洛
+# ゼロ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c100088"
 type: "character"
-display_title: "德蕾K·莉奥·寿蕾Z"
-title_zh: "德蕾K·莉奥·寿蕾Z"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Derek Rio Suárez"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c100088"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Derek Rio Suárez"
 source_ids:
   vndb: "c100088"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c100088.webp"
 ---
 
-# 德蕾K·莉奥·寿蕾Z
+# Derek Rio Suárez
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

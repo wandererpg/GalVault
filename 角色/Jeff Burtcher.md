@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c137142"
 type: "character"
-display_title: "J惠FF·布RTC惠R"
-title_zh: "J惠FF·布RTC惠R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jeff Burtcher"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c137142"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jeff Burtcher"
 source_ids:
   vndb: "c137142"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c137142.webp"
 ---
 
-# J惠FF·布RTC惠R
+# Jeff Burtcher
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c118639"
 type: "character"
-display_title: "洛嘉阿·阿达梦寿"
-title_zh: "洛嘉阿·阿达梦寿"
+display_title: "ロジャー アダムス"
+title_zh: ""
 title_ja: "ロジャー アダムス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c118639"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Roger Adams"
-  - "ロジャー アダムス"
 source_ids:
   vndb: "c118639"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c118639.webp"
 ---
 
-# 洛嘉阿·阿达梦寿
+# ロジャー アダムス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

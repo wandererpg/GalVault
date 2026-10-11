@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c129272"
 type: "character"
-display_title: "L乌M"
-title_zh: "L乌M"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Lum"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c129272"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Lum"
   - "Baculum"
 source_ids:
   vndb: "c129272"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c129272.webp"
 ---
 
-# L乌M
+# Lum
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c97419"
 type: "character"
-display_title: "贝L伊惠V惠R·奥F·T惠·秋RCH·奥F·穗LY·洛奥D"
-title_zh: "贝L伊惠V惠R·奥F·T惠·秋RCH·奥F·穗LY·洛奥D"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Believer of the Church of Holy Rood"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c97419"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Believer of the Church of Holy Rood"
 source_ids:
   vndb: "c97419"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c97419.webp"
 ---
 
-# 贝L伊惠V惠R·奥F·T惠·秋RCH·奥F·穗LY·洛奥D
+# Believer of the Church of Holy Rood
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

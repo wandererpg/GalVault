@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c71005"
 type: "character"
-display_title: "奥T斗奥＝露乌普"
-title_zh: "奥T斗奥＝露乌普"
+display_title: "オットー＝ループ"
+title_zh: ""
 title_ja: "オットー＝ループ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c71005"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Otto Loop"
-  - "オットー＝ループ"
 source_ids:
   vndb: "c71005"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c71005.webp"
 ---
 
-# 奥T斗奥＝露乌普
+# オットー＝ループ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

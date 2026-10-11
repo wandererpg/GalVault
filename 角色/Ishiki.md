@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c90233"
 type: "character"
-display_title: "伊诗希"
-title_zh: "伊诗希"
+display_title: "イシキ"
+title_zh: ""
 title_ja: "イシキ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c90233"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Ishiki"
-  - "イシキ"
 source_ids:
   vndb: "c90233"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c90233.webp"
 ---
 
-# 伊诗希
+# イシキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

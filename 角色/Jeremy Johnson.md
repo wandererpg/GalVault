@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c89209"
 type: "character"
-display_title: "J惠蕾MY·乔H恩索恩"
-title_zh: "J惠蕾MY·乔H恩索恩"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Jeremy Johnson"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c89209"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Jeremy Johnson"
 source_ids:
   vndb: "c89209"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c89209.webp"
 ---
 
-# J惠蕾MY·乔H恩索恩
+# Jeremy Johnson
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c134721"
 type: "character"
-display_title: "C奥恩嘉"
-title_zh: "C奥恩嘉"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Conja"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c134721"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Conja"
 source_ids:
   vndb: "c134721"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c134721.webp"
 ---
 
-# C奥恩嘉
+# Conja
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

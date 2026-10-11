@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c116930"
 type: "character"
-display_title: "子子洛·美津芽"
-title_zh: "子子洛·美津芽"
+display_title: "미츠메 코코로"
+title_zh: ""
 title_ja: "미츠메 코코로"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c116930"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kokoro Mitsume"
-  - "미츠메 코코로"
   - "Micheume Kokoro"
   - "Super High School Level Psychologist"
   - "초고교급 심리학자"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c116930.webp"
 ---
 
-# 子子洛·美津芽
+# 미츠메 코코로
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

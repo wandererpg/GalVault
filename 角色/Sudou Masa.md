@@ -5,7 +5,10 @@ display_title: "须藤雅"
 title_zh: "须藤雅"
 title_ja: "須藤 雅"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c20525"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sudou Masa"
   - "須藤 雅"

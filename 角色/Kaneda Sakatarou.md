@@ -5,7 +5,10 @@ display_title: "金田酒太郎"
 title_zh: "金田酒太郎"
 title_ja: "金田 酒太郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c8134"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Kaneda Sakatarou"
   - "金田 酒太郎"

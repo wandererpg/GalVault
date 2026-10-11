@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c92431"
 type: "character"
-display_title: "MR·奥恩G"
-title_zh: "MR·奥恩G"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Mr. Wong"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92431"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Mr. Wong"
   - "黃先生"
 source_ids:
   vndb: "c92431"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c92431.webp"
 ---
 
-# MR·奥恩G
+# Mr. Wong
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

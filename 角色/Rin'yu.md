@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c30445"
 type: "character"
-display_title: "莉纽"
-title_zh: "莉纽"
+display_title: "リンユ"
+title_zh: ""
 title_ja: "リンユ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c30445"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rin'yu"
-  - "リンユ"
 source_ids:
   vndb: "c30445"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c30445.webp"
 ---
 
-# 莉纽
+# リンユ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

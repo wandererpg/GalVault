@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c9340"
 type: "character"
-display_title: "姫城萤"
-title_zh: "姫城萤"
+display_title: "姫城 ほたる"
+title_zh: ""
 title_ja: "姫城 ほたる"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c9340"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Himegi Hotaru"
-  - "姫城 ほたる"
 source_ids:
   vndb: "c9340"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c9340.webp"
 ---
 
-# 姫城萤
+# 姫城 ほたる
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

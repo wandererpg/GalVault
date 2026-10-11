@@ -5,7 +5,10 @@ display_title: "新桥"
 title_zh: "新桥"
 title_ja: "新橋"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c98653"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shimbashi"
   - "新橋"

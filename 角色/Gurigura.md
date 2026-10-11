@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c31031"
 type: "character"
-display_title: "古莉古拉"
-title_zh: "古莉古拉"
+display_title: "グリグラ"
+title_zh: ""
 title_ja: "グリグラ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c31031"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Gurigura"
-  - "グリグラ"
   - "Chibiko"
   - "Tiny"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c31031.webp"
 ---
 
-# 古莉古拉
+# グリグラ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c171813"
 type: "character"
-display_title: "阿LLYS·堂P佩L雅恩格R"
-title_zh: "阿LLYS·堂P佩L雅恩格R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Ally's Doppelganger"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c171813"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Ally's Doppelganger"
 source_ids:
   vndb: "c171813"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c171813.webp"
 ---
 
-# 阿LLYS·堂P佩L雅恩格R
+# Ally's Doppelganger
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

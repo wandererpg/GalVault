@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c45904"
 type: "character"
-display_title: "芙美露伊露"
-title_zh: "芙美露伊露"
+display_title: "フミルィル"
+title_zh: ""
 title_ja: "フミルィル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c45904"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Fumirul"
-  - "フミルィル"
   - "Fumiriru"
 source_ids:
   vndb: "c45904"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c45904.webp"
 ---
 
-# 芙美露伊露
+# フミルィル
 
 
 ## 角色画像

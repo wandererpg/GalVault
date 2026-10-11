@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c93744"
 type: "character"
-display_title: "L奥L阿"
-title_zh: "L奥L阿"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Lola"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c93744"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Lola"
 source_ids:
   vndb: "c93744"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c93744.webp"
 ---
 
-# L奥L阿
+# Lola
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

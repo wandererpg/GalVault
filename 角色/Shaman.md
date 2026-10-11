@@ -5,7 +5,10 @@ display_title: "咒术师"
 title_zh: "咒术师"
 title_ja: "呪術師"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c130407"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Shaman"
   - "呪術師"

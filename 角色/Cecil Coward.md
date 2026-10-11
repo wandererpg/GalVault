@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c18379"
 type: "character"
-display_title: "濑诗露加和阿堂"
-title_zh: "濑诗露加和阿堂"
+display_title: "セシル・カワード"
+title_zh: ""
 title_ja: "セシル・カワード"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c18379"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cecil Coward"
-  - "セシル・カワード"
   - "マッチ棒"
   - "Matchstick"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c18379.webp"
 ---
 
-# 濑诗露加和阿堂
+# セシル・カワード
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

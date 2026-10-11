@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c25340"
 type: "character"
-display_title: "关根栞"
-title_zh: "关根栞"
+display_title: "関根 しおり"
+title_zh: ""
 title_ja: "関根 しおり"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c25340"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sekine Shiori"
-  - "関根 しおり"
   - "Shiorin"
 source_ids:
   vndb: "c25340"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c25340.webp"
 ---
 
-# 关根栞
+# 関根 しおり
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

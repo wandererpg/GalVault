@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c14747"
 type: "character"
-display_title: "乙音尼子露"
-title_zh: "乙音尼子露"
+display_title: "乙音 ニコル"
+title_zh: ""
 title_ja: "乙音 ニコル"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c14747"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Otone Nicole"
-  - "乙音 ニコル"
 source_ids:
   vndb: "c14747"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c14747.webp"
 ---
 
-# 乙音尼子露
+# 乙音 ニコル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

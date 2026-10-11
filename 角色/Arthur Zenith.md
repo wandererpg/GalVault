@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159767"
 type: "character"
-display_title: "亚瑟·泽尼TH"
-title_zh: "亚瑟·泽尼TH"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Arthur Zenith"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159767"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Arthur Zenith"
 source_ids:
   vndb: "c159767"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c159767.webp"
 ---
 
-# 亚瑟·泽尼TH
+# Arthur Zenith
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

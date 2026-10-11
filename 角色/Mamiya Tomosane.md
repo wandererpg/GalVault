@@ -5,7 +5,10 @@ display_title: "间宫皆守"
 title_zh: "间宫皆守"
 title_ja: "間宮 皆守"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c62386"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Mamiya Tomosane"
   - "間宮 皆守"

@@ -5,7 +5,10 @@ display_title: "那须与一"
 title_zh: "那须与一"
 title_ja: "那須 与一"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c5869"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nasu no Yoichi"
   - "那須 与一"

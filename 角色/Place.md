@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c61577"
 type: "character"
-display_title: "普蕾惠寿"
-title_zh: "普蕾惠寿"
+display_title: "プレース"
+title_zh: ""
 title_ja: "プレース"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c61577"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Place"
-  - "プレース"
 source_ids:
   vndb: "c61577"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c61577.webp"
 ---
 
-# 普蕾惠寿
+# プレース
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

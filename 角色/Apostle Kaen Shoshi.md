@@ -5,7 +5,10 @@ display_title: "使徒火炎书士"
 title_zh: "使徒火炎书士"
 title_ja: "使徒 火炎書士"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c95524"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Apostle Kaen Shoshi"
   - "使徒 火炎書士"

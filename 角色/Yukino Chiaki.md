@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c41646"
 type: "character"
-display_title: "优希乃千阿希"
-title_zh: "优希乃千阿希"
+display_title: "ユキノ・チアキ"
+title_zh: ""
 title_ja: "ユキノ・チアキ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c41646"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Yukino Chiaki"
-  - "ユキノ・チアキ"
 source_ids:
   vndb: "c41646"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c41646.webp"
 ---
 
-# 优希乃千阿希
+# ユキノ・チアキ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

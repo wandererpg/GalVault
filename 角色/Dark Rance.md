@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c121224"
 type: "character"
-display_title: "达阿久拉恩寿"
-title_zh: "达阿久拉恩寿"
+display_title: "ダークランス"
+title_zh: ""
 title_ja: "ダークランス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c121224"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Dark Rance"
-  - "ダークランス"
   - "Turtle"
   - "Vorrücken Krepp"
   - "Obsidian Prince"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c121224.webp"
 ---
 
-# 达阿久拉恩寿
+# ダークランス
 
 
 ## 角色画像

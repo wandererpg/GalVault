@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c163545"
 type: "character"
-display_title: "阿恩吉惠莉加"
-title_zh: "阿恩吉惠莉加"
+display_title: "アンジェリカ"
+title_zh: ""
 title_ja: "アンジェリカ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c163545"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Angelica"
-  - "アンジェリカ"
 source_ids:
   vndb: "c163545"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c163545.webp"
 ---
 
-# 阿恩吉惠莉加
+# アンジェリカ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

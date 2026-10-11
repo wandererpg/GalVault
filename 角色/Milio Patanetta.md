@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c142063"
 type: "character"
-display_title: "美莉奥帕太音T太"
-title_zh: "美莉奥帕太音T太"
+display_title: "ミリオ・パタネッタ"
+title_zh: ""
 title_ja: "ミリオ・パタネッタ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c142063"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Milio Patanetta"
-  - "ミリオ・パタネッタ"
 source_ids:
   vndb: "c142063"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c142063.webp"
 ---
 
-# 美莉奥帕太音T太
+# ミリオ・パタネッタ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

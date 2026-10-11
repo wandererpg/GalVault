@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125187"
 type: "character"
-display_title: "羽阿皮伊津伊恩兹"
-title_zh: "羽阿皮伊津伊恩兹"
+display_title: "ハーピーツインズ"
+title_zh: ""
 title_ja: "ハーピーツインズ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125187"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Harpy Twins"
-  - "ハーピーツインズ"
   - "Older Harpy"
   - "Pina & Pii"
   - "Younger Harpy"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c125187.webp"
 ---
 
-# 羽阿皮伊津伊恩兹
+# ハーピーツインズ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

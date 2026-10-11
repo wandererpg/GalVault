@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c366"
 type: "character"
-display_title: "熊泽千代"
-title_zh: "熊泽千代"
+display_title: "熊沢 チヨ"
+title_zh: ""
 title_ja: "熊沢 チヨ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c366"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kumasawa Chiyo"
-  - "熊沢 チヨ"
 source_ids:
   vndb: "c366"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c366.webp"
 ---
 
-# 熊泽千代
+# 熊沢 チヨ
 
 
 ## 角色画像

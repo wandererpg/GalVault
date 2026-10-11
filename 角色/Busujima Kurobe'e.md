@@ -5,7 +5,10 @@ display_title: "毒岛黑兵卫"
 title_zh: "毒岛黑兵卫"
 title_ja: "毒島 黒兵衛"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c14389"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Busujima Kurobe'e"
   - "毒島 黒兵衛"

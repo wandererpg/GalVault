@@ -5,7 +5,10 @@ display_title: "仲原大梦"
 title_zh: "仲原大梦"
 title_ja: "仲原 大夢"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c153708"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Nakahara Hiromu"
   - "仲原 大夢"

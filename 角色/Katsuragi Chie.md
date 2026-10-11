@@ -5,7 +5,10 @@ display_title: "桂木千惠"
 title_zh: "桂木千惠"
 title_ja: "桂木 千恵"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c38361"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Katsuragi Chie"
   - "桂木 千恵"

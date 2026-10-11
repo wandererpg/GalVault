@@ -5,7 +5,10 @@ display_title: "大宫育美"
 title_zh: "大宫育美"
 title_ja: "大宮 育美"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c129740"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Omiya Ikumi"
   - "大宮 育美"

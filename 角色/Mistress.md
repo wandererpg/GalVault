@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c92326"
 type: "character"
-display_title: "美寿斗蕾寿"
-title_zh: "美寿斗蕾寿"
+display_title: "ミストレス"
+title_zh: ""
 title_ja: "ミストレス"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c92326"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Mistress"
-  - "ミストレス"
   - "Miss-san"
 source_ids:
   vndb: "c92326"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c92326.webp"
 ---
 
-# 美寿斗蕾寿
+# ミストレス
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

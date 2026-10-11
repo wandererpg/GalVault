@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c121752"
 type: "character"
-display_title: "樱庭真优"
-title_zh: "樱庭真优"
+display_title: "桜庭 まゆ"
+title_zh: ""
 title_ja: "桜庭 まゆ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c121752"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Sakuraba Mayu"
-  - "桜庭 まゆ"
 source_ids:
   vndb: "c121752"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c121752.webp"
 ---
 
-# 樱庭真优
+# 桜庭 まゆ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

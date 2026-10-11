@@ -5,7 +5,10 @@ display_title: "高梨恭伸"
 title_zh: "高梨恭伸"
 title_ja: "高梨 恭伸"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c130748"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Takanashi Yasunobu"
   - "高梨 恭伸"

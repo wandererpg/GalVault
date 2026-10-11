@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c137004"
 type: "character"
-display_title: "MRS·拉美蕾Z"
-title_zh: "MRS·拉美蕾Z"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Mrs. Ramirez"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c137004"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Mrs. Ramirez"
   - "Gabi"
   - "Gabriela"
   - "Gabs"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c137004.webp"
 ---
 
-# MRS·拉美蕾Z
+# Mrs. Ramirez
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

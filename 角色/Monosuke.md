@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c54482"
 type: "character"
-display_title: "莫乃寿惠"
-title_zh: "莫乃寿惠"
+display_title: "モノスケ"
+title_zh: ""
 title_ja: "モノスケ"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c54482"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Monosuke"
-  - "モノスケ"
 source_ids:
   vndb: "c54482"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c54482.webp"
 ---
 
-# 莫乃寿惠
+# モノスケ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

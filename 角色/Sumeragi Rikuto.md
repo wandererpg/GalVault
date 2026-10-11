@@ -5,7 +5,10 @@ display_title: "皇陆斗"
 title_zh: "皇陆斗"
 title_ja: "皇 陸斗"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c10335"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sumeragi Rikuto"
   - "皇 陸斗"

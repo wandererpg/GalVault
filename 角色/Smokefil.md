@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c127180"
 type: "character"
-display_title: "寿莫奥久F伊露"
-title_zh: "寿莫奥久F伊露"
+display_title: "スモークフィル"
+title_zh: ""
 title_ja: "スモークフィル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c127180"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Smokefil"
-  - "スモークフィル"
 source_ids:
   vndb: "c127180"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c127180.webp"
 ---
 
-# 寿莫奥久F伊露
+# スモークフィル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

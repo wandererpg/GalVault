@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c7415"
 type: "character"
-display_title: "洛巴阿斗乌奥露索恩"
-title_zh: "洛巴阿斗乌奥露索恩"
+display_title: "ロバート・ウォルソン"
+title_zh: ""
 title_ja: "ロバート・ウォルソン"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c7415"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Robert Wallson"
-  - "ロバート・ウォルソン"
   - "Robbie"
   - "ロビー"
   - "James Okada"
@@ -21,7 +23,7 @@ source_urls:
 portrait_image: "assets/characters/c7415.webp"
 ---
 
-# 洛巴阿斗乌奥露索恩
+# ロバート・ウォルソン
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

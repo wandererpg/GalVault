@@ -5,7 +5,10 @@ display_title: "千石葵"
 title_zh: "千石葵"
 title_ja: "千石 葵"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c64319"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sengoku Aoi"
   - "千石 葵"

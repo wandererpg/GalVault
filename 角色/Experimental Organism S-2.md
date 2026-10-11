@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c126795"
 type: "character"
-display_title: "实验体S-2"
-title_zh: "实验体S-2"
+display_title: "実験体S-2"
+title_zh: ""
 title_ja: "実験体S-2"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c126795"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Experimental Organism S-2"
-  - "実験体S-2"
   - "S-2"
   - "Awawa"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c126795.webp"
 ---
 
-# 实验体S-2
+# 実験体S-2
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

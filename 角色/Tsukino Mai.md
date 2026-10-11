@@ -5,7 +5,10 @@ display_title: "月野舞"
 title_zh: "月野舞"
 title_ja: "月野 舞"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c496"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tsukino Mai"
   - "月野 舞"

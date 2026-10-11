@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c34941"
 type: "character"
-display_title: "蛙乃王子"
-title_zh: "蛙乃王子"
+display_title: "蛙の王子"
+title_zh: ""
 title_ja: "蛙の王子"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c34941"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kaeru no Ouji"
-  - "蛙の王子"
   - "The Frog Prince"
   - "フロッシュケーニヒ・フォン・メーヒェン"
   - "Frosskeni Von Mehein"
@@ -19,7 +21,7 @@ source_urls:
 portrait_image: "assets/characters/c34941.webp"
 ---
 
-# 蛙乃王子
+# 蛙の王子
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

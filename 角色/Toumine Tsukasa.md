@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c1794"
 type: "character"
-display_title: "东峰津加沙"
-title_zh: "东峰津加沙"
+display_title: "東峰 つかさ"
+title_zh: ""
 title_ja: "東峰 つかさ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c1794"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Toumine Tsukasa"
-  - "東峰 つかさ"
 source_ids:
   vndb: "c1794"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c1794.webp"
 ---
 
-# 东峰津加沙
+# 東峰 つかさ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

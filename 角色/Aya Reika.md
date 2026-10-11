@@ -5,7 +5,10 @@ display_title: "绫丽华"
 title_zh: "绫丽华"
 title_ja: "綾 麗華"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c44925"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Aya Reika"
   - "綾 麗華"

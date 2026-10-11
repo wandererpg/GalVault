@@ -5,7 +5,10 @@ display_title: "千石唯华"
 title_zh: "千石唯华"
 title_ja: "千石 唯華"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c29510"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Sengoku Ichika"
   - "千石 唯華"

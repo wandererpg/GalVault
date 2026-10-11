@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c159499"
 type: "character"
-display_title: "贝阿R奈RD·阿达伊R"
-title_zh: "贝阿R奈RD·阿达伊R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Bearnard Adair"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c159499"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Bearnard Adair"
 source_ids:
   vndb: "c159499"
 source_urls:
@@ -14,7 +16,7 @@ source_urls:
 portrait_image: "assets/characters/c159499.webp"
 ---
 
-# 贝阿R奈RD·阿达伊R
+# Bearnard Adair
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

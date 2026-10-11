@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c103997"
 type: "character"
-display_title: "特莉奥恩巴拉恩久乌露"
-title_zh: "特莉奥恩巴拉恩久乌露"
+display_title: "テリオン・バランクール"
+title_zh: ""
 title_ja: "テリオン・バランクール"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c103997"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Terion Ballancourt"
-  - "テリオン・バランクール"
   - "Hero's Little Brother"
   - "勇者の弟"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c103997.webp"
 ---
 
-# 特莉奥恩巴拉恩久乌露
+# テリオン・バランクール
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

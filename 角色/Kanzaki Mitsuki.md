@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c49925"
 type: "character"
-display_title: "神崎美津希"
-title_zh: "神崎美津希"
+display_title: "神崎 みつき"
+title_zh: ""
 title_ja: "神崎 みつき"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c49925"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kanzaki Mitsuki"
-  - "神崎 みつき"
 source_ids:
   vndb: "c49925"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c49925.webp"
 ---
 
-# 神崎美津希
+# 神崎 みつき
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

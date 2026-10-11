@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c49955"
 type: "character"
-display_title: "莉久阿露乌"
-title_zh: "莉久阿露乌"
+display_title: "リ・クアルー"
+title_zh: ""
 title_ja: "リ・クアルー"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c49955"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Li Qual"
-  - "リ・クアルー"
 source_ids:
   vndb: "c49955"
 source_urls:
@@ -16,7 +18,7 @@ source_urls:
 portrait_image: "assets/characters/c49955.webp"
 ---
 
-# 莉久阿露乌
+# リ・クアルー
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

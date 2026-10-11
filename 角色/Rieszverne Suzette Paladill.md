@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c60235"
 type: "character"
-display_title: "莉伊寿V惠露努＝修泽T斗＝帕拉D伊露"
-title_zh: "莉伊寿V惠露努＝修泽T斗＝帕拉D伊露"
+display_title: "リースヴェルヌ＝シュゼット＝パラディル"
+title_zh: ""
 title_ja: "リースヴェルヌ＝シュゼット＝パラディル"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c60235"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Rieszverne Suzette Paladill"
-  - "リースヴェルヌ＝シュゼット＝パラディル"
   - "Riesz"
 source_ids:
   vndb: "c60235"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c60235.webp"
 ---
 
-# 莉伊寿V惠露努＝修泽T斗＝帕拉D伊露
+# リースヴェルヌ＝シュゼット＝パラディル
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

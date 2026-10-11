@@ -1,12 +1,14 @@
 ---
 entity_id: "vndb:character:c132238"
 type: "character"
-display_title: "BL阿伊蕾·SP莉恩格R"
-title_zh: "BL阿伊蕾·SP莉恩格R"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+display_title: "Blaire Springer"
+title_zh: ""
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c132238"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
-  - "Blaire Springer"
   - "Blake"
 source_ids:
   vndb: "c132238"
@@ -15,7 +17,7 @@ source_urls:
 portrait_image: "assets/characters/c132238.webp"
 ---
 
-# BL阿伊蕾·SP莉恩格R
+# Blaire Springer
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

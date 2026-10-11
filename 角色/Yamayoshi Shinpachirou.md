@@ -5,7 +5,10 @@ display_title: "山吉新八郎"
 title_zh: "山吉新八郎"
 title_ja: "山吉 新八郎"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c16504"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Yamayoshi Shinpachirou"
   - "山吉 新八郎"

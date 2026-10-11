@@ -5,7 +5,10 @@ display_title: "萩野社"
 title_zh: "萩野社"
 title_ja: "萩野 社"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c8598"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Hagino Yashiro"
   - "萩野 社"

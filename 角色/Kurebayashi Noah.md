@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c99564"
 type: "character"
-display_title: "红林乃阿"
-title_zh: "红林乃阿"
+display_title: "紅林 ノア"
+title_zh: ""
 title_ja: "紅林 ノア"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c99564"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Kurebayashi Noah"
-  - "紅林 ノア"
   - "Drone Girl"
 source_ids:
   vndb: "c99564"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c99564.webp"
 ---
 
-# 红林乃阿
+# 紅林 ノア
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

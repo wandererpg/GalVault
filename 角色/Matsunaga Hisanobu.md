@@ -5,7 +5,10 @@ display_title: "松永久信"
 title_zh: "松永久信"
 title_ja: "松永 久信"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c5870"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Matsunaga Hisanobu"
   - "松永 久信"

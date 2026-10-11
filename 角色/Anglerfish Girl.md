@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c125344"
 type: "character"
-display_title: "阿恩子乌娘"
-title_zh: "阿恩子乌娘"
+display_title: "アンコウ娘"
+title_zh: ""
 title_ja: "アンコウ娘"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c125344"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Anglerfish Girl"
-  - "アンコウ娘"
   - "Anko"
 source_ids:
   vndb: "c125344"
@@ -17,7 +19,7 @@ source_urls:
 portrait_image: "assets/characters/c125344.webp"
 ---
 
-# 阿恩子乌娘
+# アンコウ娘
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

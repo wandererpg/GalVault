@@ -5,7 +5,10 @@ display_title: "珠濑壬姫"
 title_zh: "珠濑壬姫"
 title_ja: "珠瀬 壬姫"
 title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_status: "converted_unverified"
+title_zh_source: "https://vndb.org/c130"
+title_zh_confidence: "medium"
+title_zh_needs_review: true
 aliases:
   - "Tamase Miki"
   - "珠瀬 壬姫"

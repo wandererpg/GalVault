@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c59203"
 type: "character"
-display_title: "濑诗莉伊惠露阿拉堂"
-title_zh: "濑诗莉伊惠露阿拉堂"
+display_title: "セシリィ・エルアラド"
+title_zh: ""
 title_ja: "セシリィ・エルアラド"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c59203"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Cecily Ellerald"
-  - "セシリィ・エルアラド"
   - "Eden's Ritter Lucifer"
   - "エデンズリッター・ルシフェル"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c59203.webp"
 ---
 
-# 濑诗莉伊惠露阿拉堂
+# セシリィ・エルアラド
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->
