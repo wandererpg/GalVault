@@ -28,6 +28,20 @@ cover_image: "assets/covers/v1399.webp"
 ![[assets/covers/v1399.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+After yet another long stay in the hospital, Sakiyama Youji hoped that things would finally get back to normal. But shortly after returning to school, his world begins to change — and no one seems to notice.
+
+Bizarre symptoms plague his body, and vivid hallucinations of blood and flesh stalk his every waking moment. At the same time, two fellow students — the stoic Tetsuo and the notorious troublemaker Zenya — begin to take an intense and inexplicable interest in him.
+
+What are Tetsuo and Zenya after? Are his hallucinations really nothing more? Everyone seems to know more than they’re letting on — but by trying to put the pieces together, Youji may be sowing the seeds of his doom.
+
+[From [Jlist](https://www.jlist.com/catalog/product/view/id/30435/s/blue001le/)]
+
+来源：[VNDB v1399](https://vndb.org/v1399)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[NITRO CHiRAL]]（developer）<!-- AUTO:END duty -->
 

@@ -27,6 +27,18 @@ cover_image: "assets/covers/v37296.webp"
 ![[assets/covers/v37296.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Fighting was always in Valentine's blood. From petty street fights, to Ranger school and finally to the 5th Special Forces Group he had thought he had found his way.
+Years later, he finds himself living in the heart of London, carving a path for himself in the competitive world of Mixed Martial Arts. Not the life he had envisioned himself all those years ago, but comfortable nonetheless. When a sudden tragedy leaves him the only link a young woman has to the rest of the world he finds himself thrust into a role he had long thought left behind. Can he navigate the dangerous world of professional sports, while managing to keep himself and those around him safe and sane? Or will he finally succumb to the pressure around him and break?
+The choices you make will not only impact yourself, but everybody around you, choose wisely.
+
+[From [Patreon](https://www.patreon.com/STWAdev)]
+
+来源：[VNDB v37296](https://vndb.org/v37296)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[STWAdev]]（developer）<!-- AUTO:END duty -->
 

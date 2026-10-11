@@ -28,6 +28,18 @@ cover_image: "assets/covers/v19012.webp"
 ![[assets/covers/v19012.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+3000 years in the future, after a terrible war has polluted the worlds atmosphere.
+
+A young girl named Eve has lived in an underground shelter for a long time with only a robot AI for companionship.
+
+When one day a guy finds her and her world starts to move again.
+
+来源：[VNDB v19012](https://vndb.org/v19012)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Design Factory Co., Ltd]]（developer）
 - [[Idea Factory Co., Ltd]]（developer）

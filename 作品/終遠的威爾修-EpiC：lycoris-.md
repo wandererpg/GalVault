@@ -29,6 +29,14 @@ cover_image: "assets/covers/v38067.webp"
 ![[assets/covers/v38067.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+—This is a story headed towards eternal salvation.
+
+来源：[VNDB v38067](https://vndb.org/v38067)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Otomate]]（developer）<!-- AUTO:END duty -->
 

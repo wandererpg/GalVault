@@ -30,6 +30,16 @@ cover_image: "assets/covers/v17651.webp"
 ![[assets/covers/v17651.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This is the fandisc for Kimi no Tonari de Koi Shiteru!, featuring after stories for each of the three heroines, Nagisa, Rina and Ryouka. It also includes several side stories.
+
+[From [Hau~ Omochikaeri!](https://omochikaeri.wordpress.com/2015/11/26/november-2015-eroge-releases/)]
+
+来源：[VNDB v17651](https://vndb.org/v17651)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[ALcot Honey Comb]]（developer）<!-- AUTO:END duty -->
 

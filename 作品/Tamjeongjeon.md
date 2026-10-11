@@ -27,6 +27,25 @@ cover_image: "assets/covers/v15575.webp"
 ![[assets/covers/v15575.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+**Lady in Mystery** is a *Yuri* mystery visual novel set in **18th-century Korea**,
+where disguise, love, and truth intertwine beneath the strict Confucian order.
+
+Once an ordinary noble girl, **[Heesoo](/c19864)** lost everything when her family was executed under false charges.
+Disguised as a man, she escapes to the capital and opens an information shop called Jeonghuso,
+gathering whispers and solving cases to survive.
+
+Five years later, just as she begins to rebuild her life,
+a runaway noblewoman named **[Juhee](/c19866)** appears—
+and Heesoo’s carefully constructed world begins to crack.
+
+[From [Steam](https://store.steampowered.com/app/1578950/)]
+
+来源：[VNDB v15575](https://vndb.org/v15575)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[nolsoft]]（developer）<!-- AUTO:END duty -->
 

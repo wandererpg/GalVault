@@ -30,6 +30,18 @@ cover_image: "assets/covers/v37.webp"
 ![[assets/covers/v37.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+After the mysterious death of his father and his younger sister Juri, Itsuki, now suffering from amnesia, moves back to his hometown with his stepmother. There he meets an enigmatic young girl dressed in a crimson red kimono named Kurame, and the two soon become friends. The strange thing is, Kurame looks exactly like his younger sister Juri...
+
+On the surface, Itsuki's family and friends all appear to be rooting for his full recovery. However, deep inside, they also seem to be  burdened with secrets and guilt about the past. In the span of four days, Itsuki's memories will slowly return as he struggles between his loss and his fear of the truth, until the fourth night, when the whole world becomes blanketed under a red sheet of snow and wrapped up in the silence of death....
+
+[Translated from the official website]
+
+来源：[VNDB v37](https://vndb.org/v37)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Liar-soft]]（developer）<!-- AUTO:END duty -->
 

@@ -28,6 +28,26 @@ cover_image: "assets/covers/v19786.webp"
 ![[assets/covers/v19786.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+[Remake of [v11029](https://vndb.org/v11029/)]
+
+A girl who can capture the memory of whoever she's in front of by just looking into their eyes.
+A childhood friend who lives with two red-smeared eeirie dolls, convinced they are her parents.
+A sickly little sister who manipulates persons by just smiling.
+
+
+The protagonist meets these girls who lack something, and gets involved in strange events.
+This slowly gnaws at his heart, like tracing with a fingertip the reminiscences of a distant day.
+
+A sad, and somewhat nostalgic, story about memories.
+
+[Translated from [the official description](http://www.freem.ne.jp/win/game/3488)]
+
+来源：[VNDB v19786](https://vndb.org/v19786)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[cutlass]]（developer）<!-- AUTO:END duty -->
 

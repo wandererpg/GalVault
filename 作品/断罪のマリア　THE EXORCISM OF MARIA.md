@@ -28,6 +28,20 @@ cover_image: "assets/covers/v992.webp"
 ![[assets/covers/v992.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The story takes place in Japan, in the society where no one believes in the presence of God. However, the evil still stays deep inside the society and it is active behind the scenes connected to some people.
+
+One day, a girl is sent to Japan. She is an official exorcist called Maria. As a matter of fact, she is cursed and will lose her life if she doesn't remove the curse and save humans by the 1st of November. She just hunts devils in front of her to get rid of the curse.
+
+What will happen to Maria and boys around her...?
+
+[From HimeyaShop]
+
+来源：[VNDB v992](https://vndb.org/v992)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Karin Entertainment]]（developer）<!-- AUTO:END duty -->
 

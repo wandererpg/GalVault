@@ -28,6 +28,24 @@ cover_image: "assets/covers/v47769.webp"
 ![[assets/covers/v47769.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Kumyo: The land of neon lights and fleeting pleasures.
+
+A land where if you don't step on others to get to the top, you'll only sink to the bottom. Effort means nothing. Charity? Forget about it.
+
+Kroa is an underground courier at the bottom of the barrel. In order to survive life in Kumyo, the youth have turned to the mafia life to fight for power. The mafia is a violent criminal organization shunned by the public. However, there was one family both respected by fellow mafioso, and adored by the general public.
+
+Their name was the Liu family. 11 years ago, the Liu family was exterminated.
+
+But once the sole surviving member, Gante Lowd, crosses paths with the rightful heir, Liu Kroa, the wheel of fate begins to turn once more.
+
+[From [AmuLit](https://products.voltage.co.jp/neonclash/english/#story)]
+
+来源：[VNDB v47769](https://vndb.org/v47769)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[AmuLit]]（developer）
 - [[Voltage Inc]]（developer）<!-- AUTO:END duty -->

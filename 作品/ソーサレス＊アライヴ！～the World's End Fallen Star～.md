@@ -28,6 +28,16 @@ cover_image: "assets/covers/v23288.webp"
 ![[assets/covers/v23288.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+One day, a very ordinary boy named Kouki was enveloped by a bright light and found himself in a new world. It was an unfamiliar place with a school that floated in the sky. Yes, this was not the normal world that he knew, but rather a magical world where magic ability determines one’s place in society. He met Akina, who looked very much like a girl he admired, and she took him in as a servant at the school where the elite magicians attended. He wondered how he would survive in this world without any magic ability. However, the general magic competition known as ‘Rave’, would be the fateful event that would enable him to forge bonds.
+
+[From [Hau~ Omochikaeri~!](https://omochikaeri.wordpress.com/2019/01/01/january-2019-eroge-releases/)]
+
+来源：[VNDB v23288](https://vndb.org/v23288)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Fluorite]]（developer）<!-- AUTO:END duty -->
 

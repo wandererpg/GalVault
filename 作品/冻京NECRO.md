@@ -28,6 +28,26 @@ cover_image: "assets/covers/v13666.webp"
 ![[assets/covers/v13666.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Nemo ante mortem beatus.
+"Nobody can be called happy before their death."
+(Herodotus, "Histories")
+- The era of "Necromancers" has come.
+
+In the future, the world has been engulfed in the bitter cold of an ice age. And yet, Tokyo is surviving with its use of geothermal heat pipes to keep the city habitable.
+
+The protagonists, Kibanohara Ethica and Nagaoka Souun, are young "Private Special Living Dead Stalkers", contract killers who spend their working days executing necromancers and their undead minions. By practicing a special kind of martial art called "Close Quarter Armed Martial Arts", both of them have achieved great heights in their career.
+Out on a mission one day, Souun becomes involved in a fierce battle and meets a mysterious young girl who had been kidnapped for unknown reasons. Remembering nothing but her name, "Hougyou Ilia", she has become the target of a mysterious group of necromancers.
+
+The ice-cold and snow-covered wasteland Tokyo of gunpowder smoke, living dead, crime and cybernetics. But in this frozen hellscape people have survived, protected by the guns and cybernetics enhancements of the Living Dead Stalkers. Now begins the battle of the living dead stalkers and the heroine with their lives at stake.
+
+[From [Steam](https://store.steampowered.com/app/2183070/Tokyo_Necro/?utm_source=vndb) and the [official website](https://www.nitroplus.co.jp/game/tokyonecro/)]
+
+来源：[VNDB v13666](https://vndb.org/v13666)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[NITRO PLUS]]（developer）<!-- AUTO:END duty -->
 

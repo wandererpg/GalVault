@@ -28,6 +28,30 @@ cover_image: "assets/covers/v12392.webp"
 ![[assets/covers/v12392.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+After six years, [Tooru](/c5502) returned with his younger sister [Natsuha](/c5499) to the remote village of Monobeno deep in the mountains of Kochi prefecture. They reunited with the Akashaguma (child-like Yamori Youkai) [Sumi](/c5500), the Kasayou [Hishakaku](/c5567), and his childhood friend and self-proclaimed fiancée [Alice](/c5501). They played in the mountains, visited the shrine, and were visited by the Ushi Oni Tooko just like in the past.
+
+Just as they were getting used to living in Monobeno, it was time for the Shichi Seisai summer festival dedicated to the local deity [Himemiya](/c5560)-sama. The festival was lively, concluding with the masked dance. While watching the dancing, Natsuha suddenly started shaking, complaining that her body felt cold. Tooru quickly took her to [Naotake](/c5563) — the doctor and Alice's father, but nothing seemed wrong with her. They went to play in the nearby stream the next day. Hearing the waterfall caused Natsuha to panic and run in fear, but they couldn't find a reason for her peculiar actions. That night, she appeared in front of them very much an adult, and she bled in her nether regions for the first time. Unable to figure out what caused these inexplicable changes, they could only calm her down and watch over her. Another shock awaited them in the morning when they found Natsuha had returned to her normal size but without any memories of the day before.
+
+They decided to head back to the city for a proper examination. Unfortunately, a major landslide blocked off the only entrance to the village. Natsuha wished to leave badly, saying something scary was approaching her. What was causing Natsuha's changes? Was it a disease or a curse? Tooru was determined to find the cause and a way to save Natsuha.
+
+[Edited from [Hau~ Omochikaeri!](https://omochikaeri.wordpress.com/2012/04/01/april-2012-eroge-releases/)]
+
+[Monobeno -Happy End-](/v12392) is the remake of [Monobeno](/v8435), with after stories for Sumi, Alice, Natsuha, and a pre-story for Hishakaku. It also rewrites parts of Sumi and Alice's route, which seem to be bad ends for Natsuha, and adds a toggle for certain CGs. Upon players' requests, the H-scenes are more numerous and intense. All in all, it's a happy ending for everyone.
+
+In Sumi's after story, Tooru trains hard to turn back the clock for Natsuha while supported by Sumi and their daughter [Emi](/c19059), who has a unique ability to see ''holes'' which link the youkai world.
+
+In Alice's after story, Tooru's happy life with Alice after fleeing the clutches of Himemiya-sama is disrupted by the appearance of a young girl [Seishin Himemiya](/c22631), who reverted Alice to a little girl and took her memories.
+
+In Natsuha's after story, Natsuha remains in her small form, and Tooru aims to cure her completely.
+
+[Edited from [Hau~ Omochikaeri!](http://omochikaeri.wordpress.com/2013/10/21/october-2013-eroge-releases/)]
+
+来源：[VNDB v12392](https://vndb.org/v12392)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Lose]]（developer）<!-- AUTO:END duty -->
 

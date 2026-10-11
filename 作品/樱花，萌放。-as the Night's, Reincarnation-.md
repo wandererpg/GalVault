@@ -28,6 +28,66 @@ cover_image: "assets/covers/v22313.webp"
 ![[assets/covers/v22313.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This is a story of *magical girls*.
+
+Once upon a time,
+a handful of *magical girls* are said to have saved the world.
+
+In a tale that's all too common, war was waged.
+Blood and tears were shed,
+and all prayed for salvation.
+
+And yet, when all was said and done—
+when blood and tears were wrung dry,
+and all prayers gone—
+not a soul offered them any thanks.
+None even knew it had happened at all.
+
+Nonetheless, the *war* was won.
+
+These girls made their tale's end a happy one.
+
+Ten years later. Present day...
+
+Spring.
+
+A season of meetings and partings, awash with blossom's vows.
+
+The girls who once saved the world now lead peaceful lives,
+having forgotten how to use *magic* entirely.
+
+One day,
+beneath the petals scattering in the sky.
+
+"**Please...**"
+
+A boy named Taiga finds himself reunited with a girl,
+and face to face with spring once more.
+
+"**Turn me back into a magical girl.**"
+
+This is a story of *magical girls*.
+
+Nay, it is a tale of seeking happiness; of prayer.
+
+A story of something to live for.
+
+A story of a trigger pulled,
+so that you never need feel sorrow again,
+on the night the blossoms bloom.
+
+If it's to save you and you alone...
+
+I'll scatter and fall as many times as it takes...
+
+[From official [english website](https://kagamied.com/sakumoyu-en/)]
+
+来源：[VNDB v22313](https://vndb.org/v22313)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[FAVORITE]]（developer）<!-- AUTO:END duty -->
 

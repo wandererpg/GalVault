@@ -29,6 +29,18 @@ cover_image: "assets/covers/v12246.webp"
 ![[assets/covers/v12246.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This is the sequel to Tsuki ni Yorisou Otome no Sahou, taking place in Paris with imouto Resona as the main heroine. It continues from the bad ending in the original game, with Resona and Yuusei moving to Paris to attend École de Philia girl’s school after he could not longer attend the one in Japan. Once again he dresses up as the maid Asahi, although this time serving Resona. He gradually meets other girls there: the pure Meryl with promising talent, the welcoming ojousama Bluette, classmate Liliane, and fellow foreign student Dietlinde. Yuusei/Asahi chases after his dream, while Resona wishes for the courage to be independent. But can they achieve those goals in a difficult new world and their older brother possibly after them?
+
+In addition to the new story, the limited edition version includes after story of the 4 main heroines. Luna, Minato, Ursule, and Mizuho also appear as subcharacters.
+
+[From [Hau~ Omochikaeri!](https://omochikaeri.wordpress.com/2013/07/19/july-2013-eroge-releases/)]
+
+来源：[VNDB v12246](https://vndb.org/v12246)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Navel]]（developer）<!-- AUTO:END duty -->
 

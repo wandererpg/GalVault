@@ -28,6 +28,18 @@ cover_image: "assets/covers/v38324.webp"
 ![[assets/covers/v38324.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Butterfly Soup 2 is a sequel to [Butterfly Soup](/v21875), a romantic sports visual novel about four LGBT+ Asian-American teens playing baseball and falling in love.
+
+Set a few months after the events of the original story, the game switches between the perspectives of Diya, Noelle, Akarsha, and Min-seo as they navigate high school life in the San Francisco Bay Area.
+
+[From [Press Kit](https://fluorescent-jay-d9e.notion.site/Butterfly-Soup-2-b09c63b06e1f46e1a04dd639fb1ecf31)]
+
+来源：[VNDB v38324](https://vndb.org/v38324)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Brianna Lei]]（developer）<!-- AUTO:END duty -->
 

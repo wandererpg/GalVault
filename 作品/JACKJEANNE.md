@@ -28,6 +28,16 @@ cover_image: "assets/covers/v26154.webp"
 ![[assets/covers/v26154.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The game's story centers around protagonist Kisa Tachibana, a girl who had given up a career in theater, but receives an invitation to attend the Univeil Drama School, an elite drama school for male actors, where students play female roles (referred to as "Jeanne" roles) in addition to male roles ("Jack" roles). However, to maintain her enrollment, she must land a starring role in the school's play at the end of the year, and also hide that she is a girl.
+
+[From [ANN](https://www.animenewsnetwork.com/news/2019-04-23/tokyo-ghoul-creator-sui-ishida-broccoli-jack-jeanne-project-is-2020-switch-game/.146022)]
+
+来源：[VNDB v26154](https://vndb.org/v26154)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[BROCCOLI Co., Ltd]]（developer）<!-- AUTO:END duty -->
 

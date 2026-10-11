@@ -28,6 +28,16 @@ cover_image: "assets/covers/v25197.webp"
 ![[assets/covers/v25197.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Arrive in New Sieg, a beautiful fictional town. Step into the shoes of a strong, smart and gifted journalist in this romantic adventure. You play the part of a young woman with the ability to leap in the past for a very short period in the bodies of others, which you use for data collection and helping people. After witnessing the murder of a crooked lawyer – she goes back in time in an attempt to save him. Thus, the journey begins as our protagonist goes back in time in the body of another person and tries to warn Limbo. It's up to you to figure out how to save him!
+
+[From the [official English website](https://pqube.co.uk/bustafellows/)]
+
+来源：[VNDB v25197](https://vndb.org/v25197)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Extend]]（developer）<!-- AUTO:END duty -->
 

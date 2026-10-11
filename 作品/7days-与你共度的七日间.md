@@ -29,6 +29,18 @@ cover_image: "assets/covers/v19654.webp"
 ![[assets/covers/v19654.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+One day close to the beginning of summer vacation, Shuuichi was watching a ‘cursed Blu-ray’ given to him by his buddy when a spirit came out from the disc and possessed him. His childhood friend Murasaki belonged to a family that managed an ancient temple, so she tried an exorcism to rid him of the spirit. While the ritual was successful and quelled the vindictive spirit, the spirit girl’s form remained due to her inexperience. Her name was Chiyako, the name of the girl who was killed on screen, and she revealed that the spirits of six other girls dwelled within her.
+
+According to Murasaki, spirits can only remain in this world for 49 days, which meant that there would only be seven days allotted for each of the seven girls. Shuuichi was tasked with helping them achieve happiness so they can leave this world with no regrets. However, it is a very short time to accomplish this task. Also he did not realize at this time that it meant that he would be getting to know each girl well only to bid a painful farewell seven times over.
+
+[From [Hau~ Omochikaeri!](https://omochikaeri.wordpress.com/2017/09/28/september-2017-eroge-releases/)]
+
+来源：[VNDB v19654](https://vndb.org/v19654)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[LIFE0]]（developer）<!-- AUTO:END duty -->
 

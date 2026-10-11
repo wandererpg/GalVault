@@ -28,6 +28,22 @@ cover_image: "assets/covers/v889.webp"
 ![[assets/covers/v889.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+You've been in love with your old childhood friend Hazuki ever since you can remember. You've become a couple and all seems perfect...except that she is the daughter of the person you've been studying swordsmanship under. And the fact that you have been stuck at Level 4 for the longest time makes winning her hand a bit out of your reach...
+
+Then comes the Toushin tournament. A fighting tourney that happens every year, the best of fighters enter to win the coveted Toushin title (Toushin literally means God of Battle). Each contestant must come in with a female partner and if the contestant loses the battle, their partner becomes the property of the winner for the rest of the day, free to do whatever he or she wishes to do to them.
+
+Hazuki, after getting the promise from her father to allow her marriage to you if she goes as the partner of the strongest warrior of all his pupils, she heads out to the Tournament...but she in fact agreed to a promise waiting to the broken. Hazuki's father, determined to have a strong warrior carry on the dojo, wants only the winner of the tournament to marry her daughter...leaving you with only one option: To win the tournament.
+
+As you fight, a number of mysteries arise. What is the reason the Toushin Tournament is held every year? Why did a person tell you to not win the tournament? Why is it that none of the previous winners ever leave the city?
+
+[From [RPGFan Reviews](http://www.rpgfan.com/reviews/toushintoshi2/Toushin_Toshi_2.html)]
+
+来源：[VNDB v889](https://vndb.org/v889)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Alice Soft]]（developer）<!-- AUTO:END duty -->
 

@@ -27,6 +27,20 @@ cover_image: "assets/covers/v35777.webp"
 ![[assets/covers/v35777.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The evil demon hordes have risen once again led by the Demon King and so the Hero and his allies are trying to thwart their advances.
+
+You play as such ally, but you have a big secret. You've been sent by the Demon King as a spy in order to destroy the Hero's party from within.
+
+Will you be able to pull it off? Or will you fail in your mission?
+
+[From [Itch.io](https://nitrolith.itch.io/hero-party-must-fall)]
+
+来源：[VNDB v35777](https://vndb.org/v35777)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[nitrolith]]（developer）<!-- AUTO:END duty -->
 

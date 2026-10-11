@@ -30,6 +30,16 @@ cover_image: "assets/covers/v802.webp"
 ![[assets/covers/v802.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+A sequel to Heart no Kuni no Alice ~Wonderful Wonder World~. Alice didn't fall in love with anyone, and remained in the wonder world. All the characters that appeared in the previous title are already her friends. She knows them well, so it's kinda hard to fall in love with them. There are more exciting battle elements and more fantastic elements included. Will she be able to fall in love with someone in this world full of wonders...?
+
+[Edited from Himeya Shop]
+
+来源：[VNDB v802](https://vndb.org/v802)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[QuinRose]]（developer）<!-- AUTO:END duty -->
 

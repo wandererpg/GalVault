@@ -27,6 +27,24 @@ cover_image: "assets/covers/v30813.webp"
 ![[assets/covers/v30813.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Numbuh 62's (Anon) assignment should've been a simple one; Testing experimental weaponry, keeping the armory up to standard, and provide security detail to Sector-G, one of the most technologically advanced R&D facilities within the organization .
+
+SHOULD'VE, being the keyword.
+
+It would have been, if not for the fact that his teammates, while nice enough girls, were either manic, secretive, and/or morally-ambiguous at the *best* of times (and outright bonkers at the *worst* of times).  Keeping up with them is enough to drive the poor guy crazy, almost as crazy as they are.
+
+ALMOST, being the keyword.
+
+Living with the day-to-day insanity of spontaneous explosions, secret cameras, and scientific-monstrosities has taken its mental toll on the young operative. However, knowing that he is the only thing standing between his teammates and who knows WHAT they might do to the rest of...well...the world, he does his best to try and keep things normal (Or rather, as normal things can get at Sector-G).
+
+TRY, being the keyword.
+
+来源：[VNDB v30813](https://vndb.org/v30813)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Homeschool Studios]]（developer）<!-- AUTO:END duty -->
 

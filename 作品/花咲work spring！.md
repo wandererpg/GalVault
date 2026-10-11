@@ -29,6 +29,18 @@ cover_image: "assets/covers/v16070.webp"
 ![[assets/covers/v16070.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+In the midst of spring, the season of first encounters and love, Yuuma was content to waste his time away. However, these dog days began to change with his chance meeting with the mysterious Inori, the Yuki-onna of Suzugaoka Gakuen. Soon after, he was invited by Ayano to the ‘ghost club’, which is actually not related to the occult, but rather a gathering place for people with regrets. He was made the new leader of the club despite his reluctance.
+
+Before long, he was surrounded by peculiar girls left and right: cool lone wolf Inori, carefree repeater Ayano, smitten kouhai Hikari, and pushy ‘bro’ Wakaba. Who will he end up in this irreplaceable youth story?
+
+[From [Hau~ Omochikaeri!](https://omochikaeri.wordpress.com/2015/03/09/march-2015-eroge-releases/)]
+
+来源：[VNDB v16070](https://vndb.org/v16070)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[SAGA PLANETS]]（developer）<!-- AUTO:END duty -->
 

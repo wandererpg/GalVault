@@ -27,6 +27,20 @@ cover_image: "assets/covers/v32724.webp"
 ![[assets/covers/v32724.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Our protagonist, an ordinary young man, is deceived by Lilith, the Sin of Lust, into signing an infernal contract. In exchange, he gains magical abilities, including an enhanced member and the power to subtly influence those around him. However, as with all demon deals, it comes at a steep price—if he fails to bed thirty human women, his soul is forfeit.
+
+Fate takes an unexpected turn when an angel bestows a blessing upon him, causing demonic and divine energies to merge within him. This fusion sets into motion an ancient prophecy, one that could shake the very foundations of heaven and hell.
+
+Follow his journey as he struggles to balance temptation, morality, and the weight of his new destiny—all while attempting to seduce the women around him!
+
+[from [official site](https://demondeals.org/about)]
+
+来源：[VNDB v32724](https://vndb.org/v32724)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[BreadMan]]（developer）<!-- AUTO:END duty -->
 

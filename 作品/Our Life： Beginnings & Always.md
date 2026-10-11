@@ -27,6 +27,18 @@ cover_image: "assets/covers/v26391.webp"
 ![[assets/covers/v26391.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Jamie Last (name can be changed) has spent the last couple weeks on a summertime high. At eight-years-old nothing is better than what feels like endless days of school-less adventures, especially when you live walking distance from the beach. While coming home under a scorching sunset one fine evening, Jamie is approached by a stranger. The man is looking for a kid who can do him a favor, and he’s even offering to pay for it. He wants Jamie to please be friends with his only child. The person is Mr. Holden, Jamie’s new neighbor as well as the father of the odd, and oddly named, boy Cove. Whether Jamie wants to play along or not, Cove isn’t going anywhere. He's present in Jamie's life for far longer than they ever would've guessed.
+
+And somehow the long days of vacation finally come to an end. Summer may not be able to last forever, but Jamie can take comfort in knowing it will come back again someday…
+
+[From [itch.io](https://gbpatch.itch.io/our-life)]
+
+来源：[VNDB v26391](https://vndb.org/v26391)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[GB Patch Games]]（developer）<!-- AUTO:END duty -->
 

@@ -28,6 +28,20 @@ cover_image: "assets/covers/v28157.webp"
 ![[assets/covers/v28157.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Adastra is a romance visual novel with a whole bunch of sci-fi and political intrigue mixed in. You'll experience the perils of navigating an empire in turmoil while deciding who you should and who you definitely shouldn't trust.
+
+It all starts while you're having the time of your life in Rome on a study abroad program. Just as you're settling in, you're suddenly abducted by an alien. What does he want from you? Well, he doesn't seem to want to tell you, and before you know it, you're millions of miles away from Earth on your way to an empire you know nothing about.
+
+It's a climate of turncoats and backstabbers, and you start to wonder if the alien that abducted you is the one person you can trust the most.
+
+[From [itch.io](https://echoproject.itch.io/adastra)]
+
+来源：[VNDB v28157](https://vndb.org/v28157)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Echo Project]]（developer）<!-- AUTO:END duty -->
 

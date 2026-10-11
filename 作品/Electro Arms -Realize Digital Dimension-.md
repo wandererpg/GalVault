@@ -28,6 +28,18 @@ cover_image: "assets/covers/v12487.webp"
 ![[assets/covers/v12487.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The 3rd project from the team that brought us [Vermilion -Bind of Blood-](http://vndb.org/v5843) and [Zero Infinity -Devil of Maxwell-](http://vndb.org/v9981). Unlike the previous titles, this one utilizes the E-mote sprite animation system.
+
+There’s an urban legend that one can attain superpowers if they start up an app under moonlight while facing Roppongi Hills. While it’s an unfounded rumour, there indeed exists an application called “Electro Carrier”, distributed by the huge company Igel, which accesses the life-changing MMORPG “Electro Arms” upon proper start-up. The world transforms into a virtual one using the new system ‘Realize’, with floating monolith dungeons to explore, and an arena for players to battle, and each player is bestowed various ‘arms’. Reiji was delighted in this unrealistic scene and wished to make his shitty life into an interesting one. But is there a hidden motive behind Electro Arms?
+
+[Edited from [Hau~ Omochikaeri!](http://omochikaeri.wordpress.com/2013/11/01/november-2013-eroge-releases/)]
+
+来源：[VNDB v12487](https://vndb.org/v12487)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[light]]（developer）<!-- AUTO:END duty -->
 

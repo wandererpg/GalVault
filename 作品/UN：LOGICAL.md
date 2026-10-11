@@ -28,6 +28,20 @@ cover_image: "assets/covers/v51912.webp"
 ![[assets/covers/v51912.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+"UN:LOGICAL" is a virtual reality game that can only be played by invitation.
+
+In this virtual world—where touch, taste, and pain feel real—adorable "apprentice angels" are said to welcome players as NPCs.
+
+However, those who join for the reward money soon find themselves threatened by the "side effects" caused by the game.
+
+[From [Gematsu](https://www.gematsu.com/2024/10/licobits-announces-otome-visual-novel-unlogical-for-switch%5D)]
+
+来源：[VNDB v51912](https://vndb.org/v51912)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[LicoBiTs]]（developer）<!-- AUTO:END duty -->
 

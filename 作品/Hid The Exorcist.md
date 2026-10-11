@@ -27,6 +27,16 @@ cover_image: "assets/covers/v63518.webp"
 ![[assets/covers/v63518.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Ceres... Hid...
+
+[From [itch.io](https://banakinrequiem.itch.io/hte)]
+
+来源：[VNDB v63518](https://vndb.org/v63518)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Banakin]]（developer）<!-- AUTO:END duty -->
 

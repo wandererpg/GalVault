@@ -27,6 +27,26 @@ cover_image: "assets/covers/v38326.webp"
 ![[assets/covers/v38326.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+***Race of Life*** is a college/street racing Adult Visual Novel. You play **Jake Miller**, a divorced Professor who has taken up teaching after his past mistakes cost him his lucrative job and his marriage.
+
+Jake is smart, attractive, and not shy about using those attributes to get what he wants - which almost always involves fast cars or fast women.
+
+The only thing Jake loves more than spending time working on his car with his best friend Cooper, a mechanic with his own garage is meeting new women for a good time, not a long time. Recently, he’s started a casual dating relationship with another teacher, but is it just so she can help him with his research grants or is he starting to get tired of all the random hookups?
+
+Most important of all to Jake is his six-year-old daughter Lily. Jake loves spending time with her, as long as his vicious and possessive ex-wife Allison isn’t trying to make his life harder.
+
+When tragedy strikes, Jake must use every ounce of skill, smarts and ruthlessness to keep his life together and become the man he always wanted to be.
+
+**Life in the underground racing scene is all about suck, squeeze, bang, blow. The more rubber you burn the more money you earn.**
+
+[From [Official Site](https://raceoflifegame.com)]
+
+来源：[VNDB v38326](https://vndb.org/v38326)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Underground Studio]]（developer）<!-- AUTO:END duty -->
 

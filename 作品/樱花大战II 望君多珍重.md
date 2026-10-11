@@ -29,6 +29,14 @@ cover_image: "assets/covers/v1358.webp"
 ![[assets/covers/v1358.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+One year have passed since final battle of first game. During this year Ichiro Oogami was abroad and he returns to Kagekidan in the beginning of the game. Soon new enemies are showed themselves. Kokkikaigogyoushuu (lit. - meeting of five demons) and ther leader - Oniou (lit. - demon king) trying to destroy a peacefull life of Imperial Capital. At the same time two new members joined Kagekidan - ladylike half-Japanese/half-Italian Orihime Soletta and quiet and serious german Reni Milchstrasse. While game progresses it is appeared that Oniou is not a real leader of new enemies but he has his own mystery...
+
+来源：[VNDB v1358](https://vndb.org/v1358)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[SEGA]]（developer）<!-- AUTO:END duty -->
 

@@ -28,6 +28,24 @@ cover_image: "assets/covers/v18953.webp"
 ![[assets/covers/v18953.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+It is the Bakumatsu era.
+
+There has long existed a mysterious sort of power... The legends say that this power awakens within a chosen person when the nation is on the cusp of fate. A person with this power can read an enemy's weaknesses like an open book, and can cut them down with a single stroke.
+
+Supposedly, the enemy's weak points are designated by tiny lights... and sometimes, bright flames of crimson. The lights often manifest as what can be called "orbs"...
+
+In the decade since the arrival of Commodore Perry's black ships, Japan has been in the throes of unprecedented turmoil. The political heart of the nation has transitioned from Edo to Kyoto, and within Kyoto lies a lawless zone known as Tenchu. In order to keep the law within this area, a special police force comprised of ronin, known as the Wolves of Mibu, or Miburo (later to be known as the Shinsengumi), was formed, with Kondou Isami as the leader.
+
+One day, they happen to save the life of a certain man by the name of Mita Ken.
+
+Within the dying days of the shogunate, his chance encounter with these keepers of the peace, all of whom have their own idiosyncracies, is where our story begins...
+
+来源：[VNDB v18953](https://vndb.org/v18953)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[inre]]（developer）<!-- AUTO:END duty -->
 

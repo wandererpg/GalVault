@@ -29,6 +29,18 @@ cover_image: "assets/covers/v1910.webp"
 ![[assets/covers/v1910.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+A collection of 4 short side stories.
+The first one tells about the events of a decade ago, when Yoshiyuki was adopted by Asakura family.
+From the second story we'll learn how Yoshiyuki became friends with Wataru and Suginami, and how the Setsugekka trio was formed.
+The third story is about a close friendship of Miki and Mahiru, when she was still alive.
+The fourth story is an alternate reality, which tells how in one rainy day Sakurai picked up a broken "μ", who was thrown out by heartless owner, and how strongly he became attached to her.
+
+来源：[VNDB v1910](https://vndb.org/v1910)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[CIRCUS]]（developer）<!-- AUTO:END duty -->
 

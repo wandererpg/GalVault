@@ -28,6 +28,23 @@ cover_image: "assets/covers/v47036.webp"
 ![[assets/covers/v47036.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+How do you think a person feels who once lost the ability to move? Who just yesterday could run and jump, but today can hardly even eat on his own?
+
+Sonya could tell you a lot about the difficulties of her existence. It could, if not for the reinforced concrete shell that surrounds it. The daughter of a prominent academician, raised in Russia, she suffered a terrible injury at age 16, under circumstances that are not fully understood, and since then has barely been able to move one arm.
+
+After such a sharp change in her life, Sonya hardly talks to anyone and doesn’t even try to make friends. She has surrounded herself with a poisonous shell through which no one can get through to her.
+She moves through the corridors of Yamaku like a ghost. There is steel in her voice when she does answer someone. Pale skin, gray hair, empty lifeless eyes, always directed somewhere into the distance...
+
+And yet, you, Hisao Nakai, may well try to fix this by melting the ice in her heart...
+
+[Translated from [VK.com](https://vk.com/letters_to_venus?w=club199563558)]
+
+来源：[VNDB v47036](https://vndb.org/v47036)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Chainsaw Team]]（developer）<!-- AUTO:END duty -->
 

@@ -28,6 +28,20 @@ cover_image: "assets/covers/v54791.webp"
 ![[assets/covers/v54791.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+When you wake up...you find yourself in a strange room.
+
+...and a "unfamiliar JK" sleeping next to you.
+
+A "cheeky girl" who calls herself a kidnapper appears before them.
+
+--The girl tells them that they will be held captive for seven days.
+
+来源：[VNDB v54791](https://vndb.org/v54791)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Pome-ya]]（developer）<!-- AUTO:END duty -->
 

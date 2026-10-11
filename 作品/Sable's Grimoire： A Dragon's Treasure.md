@@ -28,6 +28,22 @@ cover_image: "assets/covers/v28173.webp"
 ![[assets/covers/v28173.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+With Sable's first year at Amadronia coming to an end, he wants nothing more than to spend the upcoming break at the academy, studying in peace while his friends and classmates head home for the holidays.
+
+However, his half-dragon best friend and roommate, Drakan, has other plans in store for him. She has been trying to get him to visit her home for months now, and with a sizeable break right before around the corner, that time has finally come.
+
+Before the duo can set off, a surprise visit from Drakan's mother, Nidhogg, gives them reason to pause. Holding an ominous necklace in her hand, she forces the seemingly cursed artifact onto Sable, then sets him up with one trial after another.
+
+Dragged to either extreme by these two frightfully powerful beings, will Sable manage to survive the holidays in one piece?
+
+[From [Itch.io](https://zetsuboushita.itch.io/sables-grimoire-a-dragons-treasure)]
+
+来源：[VNDB v28173](https://vndb.org/v28173)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Zetsubou Games]]（developer）<!-- AUTO:END duty -->
 

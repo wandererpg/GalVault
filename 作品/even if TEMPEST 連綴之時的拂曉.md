@@ -29,6 +29,24 @@ cover_image: "assets/covers/v44096.webp"
 ![[assets/covers/v44096.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+“Fate‘s final verdict, illuminated by love.”
+
+At the edge of despair, the flower of hope begins to bloom…
+
+When death stole her last breath, the girl reached for the witch’s hand.
+
+She did it to change herself after being deceived and despised. To get revenge on the detestable people that scorned her.
+
+But in the end, what she wished for was neither power nor honor… but love.
+
+[From [Gematsu](https://www.gematsu.com/2023/04/even-if-tempest-dawning-connections-launches-this-summer)]
+
+来源：[VNDB v44096](https://vndb.org/v44096)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Voltage Inc]]（developer）<!-- AUTO:END duty -->
 

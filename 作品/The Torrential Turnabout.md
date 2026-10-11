@@ -27,6 +27,24 @@ cover_image: "assets/covers/v46593.webp"
 ![[assets/covers/v46593.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+In the confines of a luxurious and enigmatic manor, nine people are forced to play an insidious "game". You don't know who brought you here or how much time you have left.
+
+Your name is Roland.
+
+In the wake of a natural disaster, an incomprehensible incident unfolds. You resolve to uncover the truth, but the situation continues to spiral further and further out of control.
+
+Your name is Mia Fey.
+
+*The Torrential Turnabout* is an *Ace Attorney*-style fangame originally made for the Never Trust the Narrator competition which ran in 2016. The game takes heavy inspiration from various mystery visual novels from the late 2000s and early 2010s such as *Zero Escape*, *Danganronpa*, and *Umineko* and celebrates what it was like to grow up with these stories.
+
+[From [AAOnline](http://aaonline.fr/forum/viewtopic.php?t=13387)]
+
+来源：[VNDB v46593](https://vndb.org/v46593)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[¿Acid Rain？]]（developer）<!-- AUTO:END duty -->
 

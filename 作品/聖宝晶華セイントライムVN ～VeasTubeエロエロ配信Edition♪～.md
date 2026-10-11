@@ -29,6 +29,20 @@ cover_image: "assets/covers/v47417.webp"
 ![[assets/covers/v47417.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The base story follows the same plot as the CG collection: The main heroine, Saint Lime, fights to save her older sister (or brother?), Cherry, a magical girl who has fallen to the dark side. However, in her attempt to save Cherry, Lime ends up subjected to brainwashing and corruption, eventually succumbing to the allure of the monsters herself…
+
+So, yes—sisterly corruption, intense brainwashing, and body modifications are all here! On top of that, the game includes new scenes and additional content sprinkled throughout the main story, ensuring even returning fans will find plenty to enjoy.
+
+Witness the process of transforming heroines into lewd, submissive servants through brainwashing, body modifications, and even pole dancing in skintight outfits. There’s a wide variety of steamy content to savor!
+
+[Translated from [dlsite](https://www.dlsite.com/maniax/work/=/product_id/RJ01098750.html/)]
+
+来源：[VNDB v47417](https://vndb.org/v47417)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Tori no Oishii Tokoro]]（developer）<!-- AUTO:END duty -->
 

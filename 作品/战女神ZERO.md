@@ -29,6 +29,20 @@ cover_image: "assets/covers/v768.webp"
 ![[assets/covers/v768.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+After fierce battles between gods, two different worlds joined to become a new one. Celica was born there and to protect innocents, he battles against monsters as a paladin of Barouhart, god of storms.
+
+With a clear sense of justice and great skill with the blade, some call him a Hero. However after he meets a wandering seeker of knowledge and is tasked with purifying an ancient evil artifact, he begins to question his beliefs as he is drawn and more into events involving ancient prophecies, ancient gods and demon gods.
+
+This is the prequel to the Ikusa Megami Series and covers the events that led Celica to be known as a God Slayer.
+
+An append disc, sold together with the Ikusa Megami Zero: Complete Guidebook (ISBN: 9784903491868), adds extra special items and a supplementary realm, "Mugen Kairō" (夢幻回廊, or Corridor of Dreams). It also bumps up the game version to 2.0.
+
+来源：[VNDB v768](https://vndb.org/v768)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Eushully]]（developer）<!-- AUTO:END duty -->
 

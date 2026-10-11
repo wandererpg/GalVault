@@ -27,6 +27,21 @@ cover_image: "assets/covers/v27919.webp"
 ![[assets/covers/v27919.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Can you collect all of the fragments, solve the mysteries, and find your way to a happy ending?
+
+In this mysterious otome game, play as a protagonist (name customizable but "Xani" by default) struggling to cope with the hand life as dealt you. Your mother's death was a tragedy, and left you cynical and numb to the world. Now, though, greater challenges are piling up fast - and it all begins when you find out you are not entirely human.
+The disappearance of a friend. A sudden attack that leaves you wounded. Mysterious characters entering and leaving your life. Growing bonds. Coming to terms with what exactly "humanity" is...
+
+Please. Find a happy ending. Don't let tragedy be the only option.
+
+[From [itch.io](https://heartfragment.itch.io/heartfragment)]
+
+来源：[VNDB v27919](https://vndb.org/v27919)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Starfield Gaming]]（developer）<!-- AUTO:END duty -->
 

@@ -27,6 +27,20 @@ cover_image: "assets/covers/v30546.webp"
 ![[assets/covers/v30546.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Dialtown is a dating sim where most people have phones for heads. Women have typewriters. Also, dogs have gramophones for heads. Aaaand, cats have keyboards. The list goes on. Yeah, I'm being serious right now. No, put that straitjacket away.
+
+The game's a visual novel where you wander around the town of Dialtown, seeking romance, all because you want someone to pay you into a funfair, all so you can find a dank pit in which to lay your eggs. Yeah.
+
+There's several dateable protagonists, from Karen, a bored bank-teller printer who's extremely dissatisfied with her life and just wants to feel things again, to Randy, who juggles working as an operator for a local phone sex hotline and working as a bird-wrangler for animal-control.
+
+[From [Steam](https://store.steampowered.com/app/1035990/)]
+
+来源：[VNDB v30546](https://vndb.org/v30546)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[DirectDoggo]]（developer）<!-- AUTO:END duty -->
 

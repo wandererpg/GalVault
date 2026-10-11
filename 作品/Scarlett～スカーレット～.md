@@ -28,6 +28,18 @@ cover_image: "assets/covers/v1023.webp"
 ![[assets/covers/v1023.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Ohno Akito is a military otaku. Akito dropped out of school a year ago and is now camping on a small island off Okinawa, where he went in the forlorn hope that the American military presence would give him a chance to play with real guns. He's unexpectedly approached by a foreigner girl, Shizuka, who tells him he's in a restricted area. That night, Akito sees a B-2 stealth bomber flying overhead, and realizes something is happening that shouldn't be. The next day, as he's trying to break into Kadena Air Base to get a closer look at the B-2, he runs into Shizuka again...
+
+The story is told from 2 perspectives: Kurou, a super-spy from the prestigious Bettou-Izumi-Scarlett family, and Akito. The former wields knowledge, strength, and great political power, while the latter was just a normal high school guy. But their differing views on the world and how they themselves change is one of the main reasons that the story’s interesting. Scarlett is just a simple little story about 2 people, their different worlds, and the people they love.
+
+[Edited from a combination of [Haeleth's post](http://forums.megatokyo.com/index.php?showtopic=1698790) and [Choux's review](http://calamitousintents.wordpress.com/2009/12/31/review-scarlett/)]
+
+来源：[VNDB v1023](https://vndb.org/v1023)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[NekoNeko Soft]]（developer）<!-- AUTO:END duty -->
 

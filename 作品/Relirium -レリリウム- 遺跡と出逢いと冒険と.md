@@ -28,6 +28,28 @@ cover_image: "assets/covers/v61834.webp"
 ![[assets/covers/v61834.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Thirty years ago, as storms split the heavens and massive earthquakes hit one after another - cataclysms that seemed to herald the end of the world - a mysterious landmass suddenly appeared off the coast of Japan.
+
+**The Ancient City of Amatsuchi**
+
+A sprawling island of towering, mysterious ruins. Beneath it lies an endless underground labyrinth. Impossible spaces and grotesque beings - things beyond human understanding. The island that plunged the world into chaos has been under investigation at the cost of countless lives, yet even now, it refuses to reveal even the faintest outline of its true nature...
+
+In time, the island gained independence as the Republic of Yozuha under United Nations leadership. With safe zones opened even to civilians, it has since become one of the world's leading tourist locations. There stands the Republic of Yozuha's sole institution of higher education: Amatsuchi Academy. While investigations of the underground labyrinth were initially led by the United Nations, much of that work is now carried out by a select group of specially trained students.
+
+If Amatsuchi's full secrets are still out of reach, we can take our time. For now, let's shelve it and leave it to the next generation! Or hey - why not turn the adventures in the ruins into entertainment? Works for me!
+
+Seekers of fame, adventurers drawn by the unknown, fortune hunters... people with all manner of motives are converging on Amatsuchi Academy from around the world. And here too is a boy drawn to Yozuha - not by the mysteries of Amatsuchi, mind you, but by a certain purpose. His name is Ayase Riku.
+
+Glory? Or secret treasures? Ahead lie danger and romance - a grand adventure teeming with unknown traps and monsters. And what awaits Riku as he is swept into the life of an adventurer...?
+
+[Translated from the [official website](https://whirlpool.co.jp/relirium/story/)]
+
+来源：[VNDB v61834](https://vndb.org/v61834)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Whirlpool]]（developer）<!-- AUTO:END duty -->
 

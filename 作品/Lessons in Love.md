@@ -27,6 +27,20 @@ cover_image: "assets/covers/v28118.webp"
 ![[assets/covers/v28118.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Welcome to Lessons in Love, an ongoing adult dating sim about a class of 20 students trying to make their way through life. Take over as their teacher and build relationships with each of them as you attempt to find your own place in their world.
+
+Please note, some things in this game may be meant to confuse or disturb you. Please don't worry, though. ~~Everything will be okay.~~
+
+Manage your time after school and on weekends to best suit the path you want to take! Whether it be visiting the girls at their part time jobs, trying to convince them to let you into their dorm rooms, or just hanging out ~~in the room with clocks~~ at the local bar, there is always something to do in Kumon-mi!
+
+[From [Itch.io](https://djnostyle.itch.io/lessons-in-love)]
+
+来源：[VNDB v28118](https://vndb.org/v28118)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Selebus]]（developer）<!-- AUTO:END duty -->
 

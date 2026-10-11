@@ -27,6 +27,23 @@ cover_image: "assets/covers/v34788.webp"
 ![[assets/covers/v34788.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+As President Anton Rayne, lead Sordland during your first term of this text-based narrative RPG. Navigate a political drama, driven by conversations with your cabinet members and other significant figures in a country with its own complicated history. With looming border conflicts, entrenched corruption, economic crisis and people desperate for reform, as leader the difficult choices fall on your shoulders as you strive to uphold your election promises.
+
+In 1954, the country of Sordland is emerging from a 20-year dictatorship, following a bloody civil war. You play as a charismatic young man, Anton Rayne, who has surprised everyone by rising to the top of the party in power and getting elected as the new President of Sordland.
+
+The people are hungry for democratic reforms after decades under a traditionalist power. The economy is in shambles and the political landscape is shifting. Neighboring superpowers are watching closely, and there are military threats on the horizon.
+
+As President, you have the final say but every choice you make has an impact. Your colleagues, the opposition, corporations; everyone has a point of view. Think and act carefully: once enacted your choices can not be reversed.
+Good luck, Mr. President.
+
+[From [Steam](https://store.steampowered.com/app/1207650/)]
+
+来源：[VNDB v34788](https://vndb.org/v34788)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Torpor Games]]（developer）<!-- AUTO:END duty -->
 

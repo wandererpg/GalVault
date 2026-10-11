@@ -30,6 +30,19 @@ cover_image: "assets/covers/v7809.webp"
 ![[assets/covers/v7809.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Virtue’s Last Reward follows the trials and tribulations of Sigma, who is drugged and kidnapped from his university. He wakes up in an elevator with a girl named Phi.  After discovering they are unable to escape the elevator, a strange rabbit appears, introducing itself as “Zero III.” Zero III explains that they are about to play the “Nonary Game: Ambidex Edition,” a deadly game of life and death.
+What’s in store for Sigma, Phi, and the seven others they eventually meet? Why have these nine been chosen, and most importantly, who will they ally with and who will they betray?
+
+[From [Aksys Games](http://www.aksysgames.com/products/psvita-virtues-last/)]
+
+The game also has an adventure game sequel, "Zero Time Dilemma".
+
+来源：[VNDB v7809](https://vndb.org/v7809)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Chunsoft]]（developer）
 - [[Spike Chunsoft]]（developer）<!-- AUTO:END duty -->

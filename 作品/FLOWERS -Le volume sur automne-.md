@@ -29,6 +29,21 @@ cover_image: "assets/covers/v18152.webp"
 ![[assets/covers/v18152.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+[Yatsushiro Yuzuriha](https://vndb.org/c16866), president of the school's Council of Nicaea, knows the truth hidden within the school. The silver-haired beauty seeks to prevent [Suou](https://vndb.org/c16861) from reaching it by giving her what seems like an impossible task—take over the role of president and she'll hand over the key to what she desires.
+However, Yuzuriha is harboring her own secret, buried deep within herself...
+
+As the leaves turn and strange incidents continue to plague the isolated Saint Angraecum Academy, interweaving threads of emotion tangle together in an intricate story of love and truth.
+
+This is the third game in the Flowers visual novel series from Innocent Grey, renowned for its beautiful artwork, engaging stories, and complex characters.
+
+[Taken from [Steam](https://store.steampowered.com/app/1238730/Flowers_Le_volume_sur_automne/)]
+
+来源：[VNDB v18152](https://vndb.org/v18152)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Innocent Grey]]（developer）<!-- AUTO:END duty -->
 

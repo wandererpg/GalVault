@@ -29,6 +29,27 @@ cover_image: "assets/covers/v27653.webp"
 ![[assets/covers/v27653.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Dreams and dreams.
+
+People dream of their ideals by sleeping.
+In it, fragments of wishes twinkle like jewels.
+
+If so-
+
+One of the overflowing feelings.
+It is the girl's somnium that continues endlessly.
+
+And be born.
+A cradle canary for prayer.
+
+[From [ the VN's official page synopsis](https://whirlpool.co.jp/canary/introduction/) ]
+
+来源：[VNDB v27653](https://vndb.org/v27653)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Whirlpool]]（developer）<!-- AUTO:END duty -->
 

@@ -28,6 +28,22 @@ cover_image: "assets/covers/v15802.webp"
 ![[assets/covers/v15802.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This is the second volume of the LOVEMILF series, which depicts an intense and debaucherous physical relationship with a “MILF”.
+
+This time, the MILF is “my aunt (mother's sister), whom I have known since I was a little boy. The aunt is strict in her manners and scary when she gets angry, but she is a kind and gentle relative. I remember the summer 13 years ago when I spent a happy time with my uncle and my cousin Teru-chan....
+
+These memories are rewritten in this intense, age gap fuck! The big tits, chubby hips, and ripe, mature, and erotic body are painted by her nephew's young body!
+
+A warm meal with her aunt who has become an “erotic pussy wife” and is absolutely a secret from each other's family, They have sex all day and night, and live together in an extremely erotic, sweet, and forbidden close family life!
+
+[from [url=http://autobahn69.jp/Autobahn/lovemilf2.html] official site]
+
+来源：[VNDB v15802](https://vndb.org/v15802)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Autobahn]]（developer）<!-- AUTO:END duty -->
 

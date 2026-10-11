@@ -28,6 +28,22 @@ cover_image: "assets/covers/v15641.webp"
 ![[assets/covers/v15641.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Back in ancient times, the Holy Land of Helvetia flourished as the throne of the goddess Elnath. However, the land is now ruled by the demons who had conspired against and successfully defeated the goddess.
+
+The 4 queens who rule over their respective domains have long maintained a pact of non-intervention. However, one day, after receiving reports that the Dark Empress Karvia was engaging in suspicious activity, the other 3 queens simultaneously declared war on her.
+
+Despite being surrounded on all sides by enemies, the Demon Empress Karvia was confident that she would prevail. After all, she had under her command a secret task force unit, one that served her well during the battle for Helvetia against the goddess, and is also the unit that she considers to have been the deciding factor in the war...The 'Black Arme Vapula'.
+
+The unit shrouded in darkness and stricken from history, led by the war hero and our protagonist, Leonhardt...Setting foot onto the stage known as the battlefield once again, the flames of ambition burn brightly within him.
+
+[From [Official site](http://www.ninetail.tk/tde12/VenusBloodHOLLOW_en18.html)]
+
+来源：[VNDB v15641](https://vndb.org/v15641)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[dualtail]]（developer）<!-- AUTO:END duty -->
 

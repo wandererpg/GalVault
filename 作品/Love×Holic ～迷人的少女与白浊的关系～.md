@@ -28,6 +28,19 @@ cover_image: "assets/covers/v22713.webp"
 ![[assets/covers/v22713.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+In a world where humans and demi-humans coexist, Amano Taichi has by accident drank some blood of Aoe Kuon, the most popular girl in the school. Drinking her blood changed his body to have a special constitution which awakens demi-humans.
+In exchange for protecting Taichi from whoever would target him, the Aoe house made him cooperate with awakening Kuon...
+
+AND TO DO THAT, HE HAS TO POUR HIS SEMEN INSIDE HER!
+
+Starting with Suzuka of the oni tribe, whom the protagonist is in love with, and Seira from the dragon tribe, there are other demi-humans who join the competition to squeeze him dry...
+
+来源：[VNDB v22713](https://vndb.org/v22713)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Atelier Kaguya BARE & BUNNY]]（developer）<!-- AUTO:END duty -->
 

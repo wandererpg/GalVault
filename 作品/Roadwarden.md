@@ -27,6 +27,19 @@ cover_image: "assets/covers/v36551.webp"
 ![[assets/covers/v36551.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+You are a Roadwarden, a brave stranger putting their life in danger to make a difference in a grim fantasy world. While most people would never risk a solitary journey through the wilder parts of the land, you willingly accept the struggle. You guard travellers, connect isolated villages, support merchants, and repel attacking creatures, bandits, or even undead.
+
+A powerful merchant guild has called on your services, sending you on a journey into the unknown planes of a mysterious peninsula in the hopes to expand the guild’s influence even further. You are meant to explore this place and gather as much information as possible to reveal the secrets surrounding the area. It’s a dangerous task, but an equally respectable one.
+Other then that, your character will pursue a unique goal selected by you, such as wealth or fame. But do you have the courage to meet all the requirements that define a roadwarden?
+
+[From [Steam](https://store.steampowered.com/app/1155970/Roadwarden/)]
+
+来源：[VNDB v36551](https://vndb.org/v36551)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Moral Anxiety Studio]]（developer）<!-- AUTO:END duty -->
 

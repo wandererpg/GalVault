@@ -29,6 +29,18 @@ cover_image: "assets/covers/v858.webp"
 ![[assets/covers/v858.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The main stage is Hanegasaki High School, same as the previous game. While communicating with unique characters, players can find their surprising sides and experience more realistic love romance.
+
+Also, new systems are introduced for this time, "Second Kiss System" that players can enjoy the story born by an accidental kiss and "Approach System" that players can approach their favourite boys. Enjoy "Tokimeki" moment!
+
+[From Himeya Shop]
+
+来源：[VNDB v858](https://vndb.org/v858)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[KONAMI]]（developer）<!-- AUTO:END duty -->
 

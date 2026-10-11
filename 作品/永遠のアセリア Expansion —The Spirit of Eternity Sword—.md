@@ -29,6 +29,18 @@ cover_image: "assets/covers/v76.webp"
 ![[assets/covers/v76.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Eien no Aselia Expansion re-tells the last chapter of the original game with the choice of two new routes, providing endings for Tokimi and Kyouko that didn't have one in Eien no Aselia.
+
+The game starts right away from the beginning of the chapter five and instead of the world strategy map stages there is a maze stage to be played.
+
+The original game is not needed to play this fandisc.
+
+来源：[VNDB v76](https://vndb.org/v76)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Xuse ［Honjouzou］]]（developer）
 - [[Xuse]]（developer）<!-- AUTO:END duty -->

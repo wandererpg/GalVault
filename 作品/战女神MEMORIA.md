@@ -30,6 +30,18 @@ cover_image: "assets/covers/v13999.webp"
 ![[assets/covers/v13999.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This title is the continuation of the Ikusa Megami series and is a remake of the original title from 1999. Celica Sylphil obtained the body of a goddess by slaying her. As a result, he was chased by gods and nations, and hunted by assassins until the ‘water miko’, the guardian saint of the holy nation of Rewinia. During the Battle of Dounel, he lost almost all of his divine power while defeating the evil dragon Aracale. Rewinia was saved, but he had become a soul-less female body.
+
+Before he had time to recover his wounds, the ‘water miko’ requested that he head to the Rerun area to investigate the disappearance of the princess of Rewinia 18 years ago. Following the Rewinian order of knights who had left before him, he arrived to find a giant labyrinth. Will he be able to uncover the truth and regain his lost power?
+
+[From [Hau~ Omochikaeri!](http://omochikaeri.wordpress.com/2014/04/01/april-2014-eroge-releases/)]
+
+来源：[VNDB v13999](https://vndb.org/v13999)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Eushully]]（developer）<!-- AUTO:END duty -->
 

@@ -28,6 +28,34 @@ cover_image: "assets/covers/v300.webp"
 ![[assets/covers/v300.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Humans, and the mysterious enemy who resembles them--collectively termed "Non-Humans".
+In the midst of this racial dispute, this is a story of various people who pursue their own objectives--writhing in agony, opposing fate.
+
+A heavy collar fixed to her neck, a robotic shackle that counts down to her freedom.
+Himena, released from countless days of prison to be reborn as a murderer.
+These were the words that were burned into her consciousness at the prison "Hate Breed":
+
+"These are the Non-Humans. Your enemy, the enemy of humanity. Kill, kill, and kill some more. That's your sole path to freedom."
+
+Slaves allowed to live only as long as they continue killing: the FR Slayers.
+A robotic counter on the collar increased with each enemy terminated.
+To survive, their only choice was to put their lives on the line, again and again.
+
+In the midst of this, a new mission was given to FR Slayer Himena.
+Long neglected, a no man's land that no one dared approach: the abandoned island Rumon. There hid an influential Non-Human.
+To score kills and raise her counter, Himena enthusiastically set out to Rumon Island. Yet this turned out to be a strategically vital region, so important that the elite squad "Saints" had been dispatched.
+
+Just who are the Non-Humans? And which side will prevail in the end?
+Humans and those who defy them--a survival game staking the fate of their species begins.
+
+[From a [post](http://forums.mangagamer.org/viewtopic.php?f=2&t=694&p=16138#p16138) on the MangaGamer forums]
+
+来源：[VNDB v300](https://vndb.org/v300)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Black Cyc]]（developer）<!-- AUTO:END duty -->
 

@@ -27,6 +27,22 @@ cover_image: "assets/covers/v18322.webp"
 ![[assets/covers/v18322.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Every seven years the seven kingdoms send their best and brightest young people to be their delegates at the Vail Isle Summit. A tradition where seven weeks are spent together to form friendships, alliances and marriages. This year, however, things are different. Since the Great Peace, never have alliances been so close to collapse, the seven nations on the razor's edge of war. What happens at this summit could very well determine the fate of the known world.
+
+You are one of the delegates.
+
+In this world of politics, intrigue and danger will you find love? Make friends? Alliances? Or will you fail and be forced to watch as the world once again crumbles into destruction and despair?
+
+It is your story and it is not yet written.
+
+[From [Lemma Soft thread](http://lemmasoft.renai.us/forums/viewtopic.php?f=43&t=29494)]
+
+来源：[VNDB v18322](https://vndb.org/v18322)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Azalyne Studios]]（developer）<!-- AUTO:END duty -->
 

@@ -27,6 +27,22 @@ cover_image: "assets/covers/v13652.webp"
 ![[assets/covers/v13652.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The Dust Bowl: ground zero for the event that wiped civilization from the face of the earth. Plagued by toxic gas clouds and once-human monsters, only one man survives to call this wasteland his home.
+
+Trash takes his name from his lifeblood, scavenging and restoring what he can from the rubble in order to live another day. He lives alone in his self-made shack, surrounded by the machinery he loves and hidden from the world that wants him dead...
+
+Until the day he finds you, a young woman somehow untouched by the harsh reality of the Dust Bowl.
+
+As he teaches you how to take care of yourself in this new and brutal world, you might just end up teaching him something in return.
+
+[From [Lemma Soft Forums](http://lemmasoft.renai.us/forums/viewtopic.php?f=43&t=19194)]
+
+来源：[VNDB v13652](https://vndb.org/v13652)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[sonnet009]]（developer）<!-- AUTO:END duty -->
 

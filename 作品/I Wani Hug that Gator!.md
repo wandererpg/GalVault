@@ -27,6 +27,19 @@ cover_image: "assets/covers/v36845.webp"
 ![[assets/covers/v36845.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Just great; just when Inco was getting ready to move on into his Senior year, his parents decide to uproot his life and move half-way across the country!
+Guess it’s time to start all over. Sure, Inco didn’t have many friends (or any) back at his old school, and sure, he was so low on the social ladder that he had to get a deep-sea diving lesson…. Wait, why was he complaining about moving again?
+
+I Wani Hug that Gator is a multi-ended, choices-matter visual novel about second chances and the power of accepting who you are. Shape how Inco makes the most of his final year, and how the relationships he makes along the way will develop. One relationship in particular has him feeling all fuzzy inside…
+
+[From [Steam](https://store.steampowered.com/app/1895350/I_Wani_Hug_that_Gator/)]
+
+来源：[VNDB v36845](https://vndb.org/v36845)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Cavemanon]]（developer）<!-- AUTO:END duty -->
 

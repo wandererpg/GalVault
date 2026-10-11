@@ -28,6 +28,16 @@ cover_image: "assets/covers/v18924.webp"
 ![[assets/covers/v18924.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+You are a college student who doesn't have experience with women but due to reasons you are now in the company of three beautiful women and they are more than willing to help you with your women problems by giving your some ecchi love training.
+
+[From [J-List](https://jlist.com/category/adult-corner/eroge/pcg1537)]
+
+来源：[VNDB v18924](https://vndb.org/v18924)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Atelier Kaguya HonkyTonk Pumpkin]]（developer）<!-- AUTO:END duty -->
 

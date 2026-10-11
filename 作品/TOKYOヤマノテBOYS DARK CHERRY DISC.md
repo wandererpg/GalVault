@@ -28,6 +28,18 @@ cover_image: "assets/covers/v7675.webp"
 ![[assets/covers/v7675.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Every year, just one girl from all high schools in Japan is chosen to be a “Princess”. Top high school boys from all around Tokyo are then selected to be the participants in a confession tournament that is Tokyo Yamanote Boys. It’s a love royale where the boys will confess to the Princess with various kinds of appeal. The one she picks will be crowned “Prince”, and there’s a legend that the Prince and Princess are guaranteed to have an eternally happy future together through this event.
+
+Dark cherry disc focus on the three main guys for entry no.7-9: Rudo Jesus (Entry no.7), Moroboshi Tetsu (Entry no.8), and Hamada Shinnosuke (Entry no.9)
+
+[from [Love-colored sky](http://koiiro.wordpress.com/2011/01/30/tokyo-yamanote-boys-zenyasai-disc)]
+
+来源：[VNDB v7675](https://vndb.org/v7675)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Rejet Co., Ltd]]（developer）<!-- AUTO:END duty -->
 

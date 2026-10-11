@@ -27,6 +27,18 @@ cover_image: "assets/covers/v30919.webp"
 ![[assets/covers/v30919.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+After a crazy run in with two supernatural monsters, you, an 18 year old dude, have ended up a superhuman freak with the ability to shapeshift!!! You must come to terms with your new powers and use them for good or for evil.
+
+Don't get too comfortable though, the monsters that you thought were a once in a lifetime occurrence are showing up all over the world, even on the news. It's only a matter of time until someone else gets their own set of superhuman powers! Keep your identity safe and don't neglect strengthening your powers!
+
+[From [TF Games Site](https://tfgames.site/index.php?module=viewgame&id=2446)]
+
+来源：[VNDB v30919](https://vndb.org/v30919)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Weird World]]（developer）<!-- AUTO:END duty -->
 

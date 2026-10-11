@@ -29,6 +29,16 @@ cover_image: "assets/covers/v5.webp"
 ![[assets/covers/v5.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Riki was a child when his parents died, leaving him hopeless and depressed. What saved him was a group of four kids calling themselves the Little Busters. They took Riki out and played with him during his time of need. He really enjoyed being together with them, and his grief gradually faded away. Now in his second year of high school they still hang out, fight and live together, and enjoy their school life.
+
+Little Busters! contains several mini-games, including a baseball practice game and a duel battle system.
+
+来源：[VNDB v5](https://vndb.org/v5)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Key]]（developer）<!-- AUTO:END duty -->
 

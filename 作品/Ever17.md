@@ -28,6 +28,25 @@ cover_image: "assets/covers/v19373.webp"
 ![[assets/covers/v19373.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Takeshi Kuranari, an ordinary college student, visits the underwater theme park LeMU. An accident occurs, trapping Takeshi and 6 other individuals inside LeMU, 51 meters below the surface. With no hope of rescue, Takeshi explores LeMU along with the mysterious girl Tsugumi and part-time employee You, searching for a way to escape to the surface. A theme park of dreams and hopes sunk in the depths of the mysterious blue ocean. Can dreams and hopes still be found there? Or is there some other mystery lurking? Overcoming one crisis after another, they search for a way to escape!
+
+[From [Spike Chunsoft](https://www.spike-chunsoft.com/games/ever-17-never-7-double-pack/)]
+
+A remake of [Ever17 -the out of infinity-](https://vndb.org/v17) featuring:
+* Entirely rewritten scenario with altered/swapped scenes and major story changes
+* Completely revoiced dialogue
+* Remixed OST with some extra tracks (and new opening and ending songs)
+* 3D models instead of character sprites (exclusive to the Xbox 360 version only)
+* Cropped 16:9 CGs instead of the original 4:3 with addition of several new CGs
+* Redesigned room/LeMU layout (new Control Center room, no more Sandwich stand, etc.)
+* Completely remade backgrounds
+
+来源：[VNDB v19373](https://vndb.org/v19373)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[CYBERFRONT]]（developer）
 - [[KID]]（developer）

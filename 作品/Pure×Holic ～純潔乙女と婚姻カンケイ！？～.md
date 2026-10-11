@@ -28,6 +28,21 @@ cover_image: "assets/covers/v49143.webp"
 ![[assets/covers/v49143.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Amano Taichi, the main character with the "Awakening Essence," had sex with many demi-humans, and as a result, his power evolved. He has been chosen to marry and have children with the pinnacle of the demi-humans, "Hathor of the Divine Cows," "Astraea of the Fairy Clan," and "Aruru of the Holy Unicorns."
+
+What's more, as a trait of their races, they apparently lose romantic feelings to anyone other than their marriage partners!?
+
+Naturally, there was no way Kuon, Mai, and the others would stay silent and not try to stop the marriage somehow even as the three of them keep getting closer and closer to having sex...
+
+An intense, steamy conflict over the protagonist begins.
+-[Getchu](https://www.getchu.com/soft.phtml?id=1270500) (edited MTL)
+
+来源：[VNDB v49143](https://vndb.org/v49143)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Atelier Kaguya BARE & BUNNY]]（developer）<!-- AUTO:END duty -->
 

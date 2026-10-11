@@ -28,6 +28,22 @@ cover_image: "assets/covers/v25055.webp"
 ![[assets/covers/v25055.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Each country aspired to unify the world, but they fell out with each other due to lack of compromising, to the extent that they required military forces. The ‘Edited’ are genetically-modified children designed to be superior, but with fleeting lives, who are considered cursed. There was a quantum computer that was built to create a better future, but its ability to think for itself was taken away, making it just a repository of knowledge.
+
+Shougo lost his beloved older sister Yuuhi to a military satellite that was supposed to maintain peace. One day, a sentient female robot, the third generation automata Himefuro, appeared before Shougo.
+
+“I will love you, unconditionally and forever.”
+
+Then she kissed him on the lips, triggering the ‘Cross Link’ ability that allows humans and automata to share their hearts and minds and thereby restarting his frozen time.
+
+[Edited from [Hau~ Omochikaeri~!](https://omochikaeri.wordpress.com/2019/04/28/april-2019-eroge-releases/)]
+
+来源：[VNDB v25055](https://vndb.org/v25055)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Fluorite]]（developer）<!-- AUTO:END duty -->
 

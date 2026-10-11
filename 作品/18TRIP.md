@@ -28,6 +28,16 @@ cover_image: "assets/covers/v53425.webp"
 ![[assets/covers/v53425.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Taking place in future Yokohama, the HAMA 18 district, once a dominating "Independent Special Tourism Zone", finds itself in decline. The protagonist, along with their childhood friend and newly appointed mayor of HAMA 0, Kafka Oguro, embarks on the journey to return the tourism sector to its former glory.
+
+[From [18TRIP Wiki](https://wiki.18t.rip/wiki/Main_Page)]
+
+来源：[VNDB v53425](https://vndb.org/v53425)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Liber Entertainment Inc]]（developer）<!-- AUTO:END duty -->
 

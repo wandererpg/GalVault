@@ -27,6 +27,20 @@ cover_image: "assets/covers/v43944.webp"
 ![[assets/covers/v43944.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+In When Stars Collide, the player joins the crew of The Ophelia, a deep space exploration vessel as they uncover a trove of technology from a nearly forgotten species. Unaware that, among the items they unearth is an inhabited stasis pod, the crew recovers the found items but inadvertently awakens the occupant of the pod in the process.
+
+Upon awaking, Wil Nymera, a young interstellar wanderer, discovers they've been asleep for nearly 500 years. With nowhere else to go, Wil temporarily joins the crew after revealing they are Veleian, an ancient species known for their telepathy, incredible technology, and tendency to either guide younger races toward betterment - or else obliterate them.
+
+Wil quickly becomes the target of people seeking the near mythical home world of their father. The crew of The Ophelia find themselves caught in a struggle between ancient powers and newer factions eager to get their hands on Veleia's tech.
+
+[From [Itch.io](https://steamberry.itch.io/wsc-p)]
+
+来源：[VNDB v43944](https://vndb.org/v43944)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Steamberry Studio]]（developer）<!-- AUTO:END duty -->
 

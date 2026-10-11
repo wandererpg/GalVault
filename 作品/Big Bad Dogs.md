@@ -27,6 +27,20 @@ cover_image: "assets/covers/v59896.webp"
 ![[assets/covers/v59896.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+ONCE IT BITES, IT WON'T LET GO.
+
+You're a woman working the night shift at the 24/24 Mad Dog Convenience store in the U.S, in the year 2009. You're trying to survive. Pay rent. Stay awake. Pretend your life hasn't stalled.
+
+But one day, a man in a helmet - painfully shy - begins showing up night after night. He never says much. Never takes off his helmet.
+
+You don’t remember everything. But there’s something about the blood you can’t forget.
+
+来源：[VNDB v59896](https://vndb.org/v59896)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[spar0w]]（developer）<!-- AUTO:END duty -->
 

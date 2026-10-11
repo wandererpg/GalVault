@@ -84,8 +84,12 @@ vndb_devstatus: 0
 
 ## 简介（VNDB 原文）
 
+
+<!-- AUTO:BEGIN synopsis -->
 -
 
+来源：[VNDB v5558](https://vndb.org/v5558)；简介保留原文。
+<!-- AUTO:END synopsis -->
 
 ## VNDB 资料来源
 

@@ -29,6 +29,40 @@ cover_image: "assets/covers/v36175.webp"
 ![[assets/covers/v36175.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+One day, I lost something precious.
+
+I went to several cosplay events, and took some pictures to satisfy my lust. However, the camera that contained all the pictures was destroyed in an unfortunate accident.
+
+Perhaps they didn't want to see my cry anymore, the Yamakake sisters, Sana and Yua, who were involved in the accident, said to me;
+
+"Would you like us to cosplay for you instead?"
+
+I accepted their offer.
+
+Their bodies look lewder than anything that I have ever seen in any erotic manga, and they were willing to be my very own cosplayers!!
+
+I put the skills I learned as a fashion student and my hobby of making costumes for dolls to good use, creating costumes for the sisters, and as luck would have it, I was given tickets to the cosplay resort "Costaria", located on a remote island.
+
+This was an opportunity for me to get the best portraits in Costaria. However, what awaited me on that island was so much more than I could imagine!
+
+"Let's have a different kind of cosplay today."
+
+"Erotic role-playing. You'd like that, wouldn't you?"
+
+The sisters whispered those words to me.
+
+With my very own cosplayers, I'm going to make extreme and intimate portraits that cannot be shown to anyone.
+
+I wonder if it's okay to make them──
+
+[Translated and edited from [Melonbooks](https://www.melonbooks.co.jp/detail/detail.php?product_id=1521375&adult_view=1)]
+
+来源：[VNDB v36175](https://vndb.org/v36175)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[AKABEiSOFT2]]（developer）<!-- AUTO:END duty -->
 

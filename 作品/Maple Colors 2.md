@@ -29,6 +29,16 @@ cover_image: "assets/covers/v1285.webp"
 ![[assets/covers/v1285.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Soujiro gets involved in an accident on his first day at school and he is transferred to a class full of problem students. Also, all students in his class will get suspension from school due to him... However, if they win the school sports festival, the penalty will be cancelled. Like this, Soujiro and his classmates decide to unite... No, no. The story doesn't go that easy.... There are a lot of problem students in his class... No one likes the words, "cooperation", "team spirit", and "friendship". However, they need to stick together to win the festival!? Soujiro works hard to achieve their goal...
+
+[From ErogeShop]
+
+来源：[VNDB v1285](https://vndb.org/v1285)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[ApRicoT]]（developer）<!-- AUTO:END duty -->
 

@@ -54,7 +54,8 @@ def intro_section(text: str):
     for index, heading in enumerate(headings):
         if INTRO_TITLE.fullmatch(heading[2].strip()):
             stop = next((h.start() for h in headings[index + 1:] if len(h[1]) <= len(heading[1])), len(text))
-            return heading.end(), stop, text[heading.end():stop]
+            start = heading.end() - int(heading[0].endswith("\r"))
+            return start, stop, text[start:stop]
     return None
 
 

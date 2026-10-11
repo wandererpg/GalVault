@@ -29,6 +29,18 @@ cover_image: "assets/covers/v26002.webp"
 ![[assets/covers/v26002.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+In the beautiful Habataki City which is surrounded by the sea and mountains, a new life begins at Habataki Academy, a prestigious school whose philosophy is celebrating youth. Experience a new crush in this place where unique students and teachers meet.
+
+[Translated and edited from the [official website](https://www.konami.com/games/girls_side/4th_teaser/index.html)]
+
+The newest installment in the Girl's Side franchise, which supposes a return to Habataki Academy.
+
+来源：[VNDB v26002](https://vndb.org/v26002)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[KONAMI]]（developer）<!-- AUTO:END duty -->
 

@@ -27,6 +27,16 @@ cover_image: "assets/covers/v30755.webp"
 ![[assets/covers/v30755.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+You were on your way to living the lush life as a gifted software engineer, working for the most prestigious tech giant, until the last person you thought would betray you takes it all away. After three years of recovering from the emotional trauma, you are ready to stand back on your feet and re-enter the world in pursuit of a functional life. Your newfound resilience is put to the test as you are hit with several unfortunate events. But not all is unfortunate as you rekindle an old friendship who has a proposition that leaves you hesitant.
+
+[From [Patreon](https://www.patreon.com/digiB)]
+
+来源：[VNDB v30755](https://vndb.org/v30755)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[digi.B]]（developer）<!-- AUTO:END duty -->
 

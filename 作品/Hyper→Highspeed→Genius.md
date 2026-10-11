@@ -28,6 +28,16 @@ cover_image: "assets/covers/v5909.webp"
 ![[assets/covers/v5909.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+There are some people called ‘genius’ in this world who possess special abilities (Gift) and are responsible for protecting the world. There are three schools specially-designed to train them: Satsuki Gakuen, Saint July Academy and Minazuki Gakuen. One day, a hidden treasure ‘Noah’ which amplifies the abilities of its holder was discovered. Since whoever gained control of Noah would be able to rule the world, it was decided that the three schools merge together as Hazuki Gakuen and an election held to decide on who will become the world council leader. Kyuushirou wishes to gain control in order to change the world to his liking and makes a contract with the demon Mephisto. With his powers he would be able to persuade, cajole and control the election candidates, but what he actually wants is… love!
+
+[From [Hau~ Omochikaeri!](http://omochikaeri.wordpress.com/2011/06/01/june-2011-eroge-releases//)]
+
+来源：[VNDB v5909](https://vndb.org/v5909)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Windmill]]（developer）<!-- AUTO:END duty -->
 

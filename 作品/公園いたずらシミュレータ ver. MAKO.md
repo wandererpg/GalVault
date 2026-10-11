@@ -28,6 +28,32 @@ cover_image: "assets/covers/v17284.webp"
 ![[assets/covers/v17284.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+My name is (customizable).
+That day, for a change of pace, I watched people come and go in the park.
+(From here, there are subtle variations in "closet lolicon" style.)
+...I wasn't looking for "that". Really, I'm only into 2D.
+...I enjoyed a peek now and then, but I also respect boundaries. The law's the law.
+...It's not that I'm a lolicon per se. My fantasies were pretty vanilla.
+(Later)
+She was extremely young, innocent in a way that even teens quickly forget. So, imagine my shock when she started masturbating in full view...!
+It was like an anchor dropped inside me. It was disorienting. A girl so young shouldn't have any sort of sexuality, but she was overflowing with it.
+Almost like an out-of-body experience, I took out my penis. What was I doing? I was jacking off to this little girl.
+Disgraceful. No, disgraceful at first, as I struggled to grasp the situation.
+This was the garden of Eden. She was Eve, doing the forbidden thing, but Eden wasn't a garden of sin until Eve ate the apple. Nothing was disgraceful.
+I was probably the snake. Or the apple. But even so...
+
+That just meant this young girl and I were fated to be together. A bond between us... two people enjoying their bodies.
+
+Where else would this relationship go?
+
+[From [DLsite English](http://www.dlsite.com/ecchi-eng/work/=/product_id/RE157224.html)]
+
+来源：[VNDB v17284](https://vndb.org/v17284)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Shiritsu Sakuranbo Shougakkou]]（developer）<!-- AUTO:END duty -->
 

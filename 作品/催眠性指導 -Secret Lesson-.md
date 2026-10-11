@@ -28,6 +28,18 @@ cover_image: "assets/covers/v41351.webp"
 ![[assets/covers/v41351.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The protagonist, Tanaka Hajime, hypnotizes the students and teachers at the school and becomes their "Sex Counsellor," under the guise of sex guidance, he gets to devour girls everyday. Taking their virginities in front of their boyfriends, he finds pleasure in having sex without the need to worry about any responsibility, spreading his lust all over the school.
+
+And, many more of his schemes are yet to come......
+
+[Translated and edited from the [official website](https://nexton-net.jp/ms-toybox/darkone/saiminseishidou/story.html)]
+
+来源：[VNDB v41351](https://vndb.org/v41351)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Dark One!]]（developer）<!-- AUTO:END duty -->
 

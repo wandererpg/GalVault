@@ -28,6 +28,18 @@ cover_image: "assets/covers/v16493.webp"
 ![[assets/covers/v16493.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+White Album 2 fandisk featuring after-stories for the Kazusa and Setsuna routes of the original game:
+
+- The Way Back to Happiness: Follows Kazusa's true ending.
+
+- The Way Towards Happiness: Follows Setsuna’s true ending.
+
+来源：[VNDB v16493](https://vndb.org/v16493)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[AQUAPLUS]]（developer）
 - [[Leaf]]（developer）

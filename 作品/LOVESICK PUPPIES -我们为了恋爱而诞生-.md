@@ -29,6 +29,20 @@ cover_image: "assets/covers/v11194.webp"
 ![[assets/covers/v11194.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Kotarou is a normal student at Hatao Gakuen who is a member of the ‘counselling room’. The ‘counselling room’ was viewed by many as a place for complaints and random requests. Even though he was pitied by them for being part of some a troublesome place, he didn’t mind it since he naturally liked helping out with other people’s problems.
+
+One day, he was entrusted with a girl named Orie, who had committed a crime which almost got her expelled from the school. Even though her attitude was difficult to deal with, she earnestly completed all the tasks which he assigned to her. When she found out that he was living in an apartment, she implored him to let her stay there. After finding out the reason why she was so insistent, he agreed to take her in.
+
+But not soon thereafter, his uncle informed him that the apartment will be demolished. He didn’t want to lose his home filled with memories, while she didn’t want to lose her newly found place where she could restart her life. With the mascot-like Maruna and transfer student Sonya moving in, and classmate Isami and trusted osananajimi Yuuki’s also showing up often, the apartment became more lively. Even if only for a limited time, their ‘family’ bonds strengthen.
+
+[From [Hau~ Omochikaeri!](http://omochikaeri.wordpress.com/2013/02/01/february-2013-eroge-releases/)]
+
+来源：[VNDB v11194](https://vndb.org/v11194)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[COSMIC CUTE]]（developer）<!-- AUTO:END duty -->
 

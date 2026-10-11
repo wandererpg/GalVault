@@ -27,6 +27,18 @@ cover_image: "assets/covers/v29709.webp"
 ![[assets/covers/v29709.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+In a warm subtropical shallow, a newborn whale opens its eyes for the first time.
+
+Our research team is present to record the moment, and everything that will follow after. South Scrimshaw is the story of this animal’s entire natural life, his struggles and successes in a vast alien ocean.
+
+[From [Itch.io](https://nomarsh.itch.io/scrimshaw)]
+
+来源：[VNDB v29709](https://vndb.org/v29709)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Nathan O. Marsh]]（developer）<!-- AUTO:END duty -->
 

@@ -28,6 +28,16 @@ cover_image: "assets/covers/v18723.webp"
 ![[assets/covers/v18723.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Spring is in full bloom in Asahama, a town reminiscent of old Japan. Hibiki found himself moving here due to his parents’ transfer for work. While it was his first time living alone, he was able to make friends and get familiar with his surroundings pretty quickly. Everything was smooth sailing, but he felt like there was something missing in his life. In the middle of his youth which only comes once in a lifetime, his first love may be just around the corner.
+
+[From [Hau~ Omochikaeri!](https://omochikaeri.wordpress.com/2016/04/01/april-2016-eroge-releases/)]
+
+来源：[VNDB v18723](https://vndb.org/v18723)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[hibiki works]]（developer）<!-- AUTO:END duty -->
 

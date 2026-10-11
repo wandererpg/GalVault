@@ -29,6 +29,16 @@ cover_image: "assets/covers/v1465.webp"
 ![[assets/covers/v1465.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Katsuya chose to live a new life which accidentally started by meeting Mr. R who gave him glasses. He now lives a peaceful life with his partners. But one day, Mr. R suddenly appears in front of him again.... This fan disc also includes a typing game and desktop accessories.
+
+[From ErogeShop]
+
+来源：[VNDB v1465](https://vndb.org/v1465)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Spray]]（developer）<!-- AUTO:END duty -->
 

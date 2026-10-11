@@ -28,6 +28,16 @@ cover_image: "assets/covers/v5633.webp"
 ![[assets/covers/v5633.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+For nearly a month after the events of Trials and Tribulations, Phoenix Wright hasn't had a single case. Suddenly he is thrust into a string of them, starting with the murder of Marvin Grossberg. Over time Phoenix discovers something more secretive and sinister underlying this string of seemingly random murders. With the addition of an intimidating new prosecutor and a sarcastic slacker of a detective, Phoenix unwittingly stumbles upon a series of killings that somebody doesn't want solved, secrets that somebody doesn't want uncovered, people that somebody doesn't want to talk -- somebody who is pulling all the strings of an elaborate behind-the-scenes conspiracy for vengeance, power and control...
+
+[From [Official thread](http://www.forums.court-records.net/viewtopic.php?t=16734)]
+
+来源：[VNDB v5633](https://vndb.org/v5633)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Cardiovore]]（developer）<!-- AUTO:END duty -->
 

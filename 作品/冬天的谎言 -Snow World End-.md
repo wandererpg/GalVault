@@ -30,6 +30,32 @@ cover_image: "assets/covers/v21161.webp"
 ![[assets/covers/v21161.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This is the fourth game in Campus’ Uso series, focusing on Setsuka. It follows the scenario of what happens at Mahoshi Gakuen if the magic contract didn’t end up in Satsuki’s hands, Souichirou had protected Aoi from being taken over by the succubus, and Eris didn’t find what she was looking for with Shizuku.
+
+Everyone lies, whether it be to protect, to deny, to misrepresent, or to keep things unchanged.
+
+In spring, Souichirou met Satsuki for the first time and she shortly thereafter was welcomed as a new club member.
+In summer, he was busy preparing for the Mahoshi festival with Aoi and the student council.
+In autumn, he was caught up in some trouble involving his longtime friend Eris.
+Then came today, the first day of snow. He didn’t know the reason, but he could tell that it was a lie.
+
+Even though he always found it hard to deal with her…
+Even though he thought that their paths would never cross…
+Even though it seemed that he must not reach for her…
+— he could not betray his true feelings.
+
+“I love you, Teidou-senpai. Please go out with me.”
+
+It was the beginning of a story about the snow world end.
+
+[From [Hau~ Omochikaeri!](https://omochikaeri.wordpress.com/2017/07/19/july-2017-eroge-releases/)]
+
+来源：[VNDB v21161](https://vndb.org/v21161)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Campus]]（developer）<!-- AUTO:END duty -->
 

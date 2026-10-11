@@ -27,6 +27,27 @@ cover_image: "assets/covers/v27557.webp"
 ![[assets/covers/v27557.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Summer's Gone is a game about a guy (you) who's still plagued by nightmares about his lost friend.
+That friends name was Summer.
+The MC is still kind of traumatized. Has a very dark view on everything.
+Especially towards other people.
+Only your adoptive mother Nojiko and your sister Nami are an exception.
+One morning after speaking to your mother about your nightmare, you're going to head outside to witness an accident.
+And then there is college.
+
+How will events progress?
+How will the spirit of the main character develop?
+Will he find his way back into the light? Or be trapped forever in a web of bitterness and darkness?
+And what about Summer?
+
+[From [SubscribeStar](https://subscribestar.adult/ocean)]
+
+来源：[VNDB v27557](https://vndb.org/v27557)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Ocean]]（developer）
 - [[Regium]]（developer）<!-- AUTO:END duty -->

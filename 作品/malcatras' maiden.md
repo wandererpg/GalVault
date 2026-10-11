@@ -27,6 +27,20 @@ cover_image: "assets/covers/v50981.webp"
 ![[assets/covers/v50981.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+On a particularly isolated estate lies a grand mansion that serves as a haven for poor lost girls taken in as daughters by the benevolent Lady Francesca Malcatras to serve as her esteemed maids in a life of privilege.
+
+Yet, as the high expectations and frequent disciplining weigh heavily on the loyalty of the girls, the long-held commandment of the manor is questioned; Are these walls surrounding the paradise truly there to keep her daughters safe from the world?
+
+Accept the tender beauty of despair, pain, and love. This is MALMAID.
+
+[From [Steam](https://store.steampowered.com/app/3089450/Malcatras_Maiden/)]
+
+来源：[VNDB v50981](https://vndb.org/v50981)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Nadia Nova]]（developer）<!-- AUTO:END duty -->
 

@@ -28,6 +28,21 @@ cover_image: "assets/covers/v23125.webp"
 ![[assets/covers/v23125.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+A long time ago, the world was destroyed by the great war between dragons and demons known as the "War of the Demon God". In the end, the only remaining landmass was the continent of Rodinia.
+Now, this land is a place of conflict between divine and dark dragons who compete for hegemony.
+
+Princess Tia from the Divine Dragon Kingdom Elysis was framed by High Priest Gashel and as a result, lost her family and home.
+In this desperate situation, a lone man appears to save her.
+The man's name is Zahak. He is the demon god that was supposed to have been sealed in the past war.
+
+A dragon princess who lost everything, swearing revenge, and a demon god who revels in destruction and desire. Will their fate be salvation or destruction?
+
+来源：[VNDB v23125](https://vndb.org/v23125)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[dualtail]]（developer）<!-- AUTO:END duty -->
 

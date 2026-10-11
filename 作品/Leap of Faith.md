@@ -27,6 +27,18 @@ cover_image: "assets/covers/v28200.webp"
 ![[assets/covers/v28200.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+You awake one day, realizing there's much more to life than it currently offers. Having spent 2 years sulking over lost love, you finally move forward to pursue a different life. Which, through choices and opportunities, will lead you down a path you never could have imagined.
+
+Leap of Faith is a story about bonding through friendship and romance, and the journey through life in early adulthood. It keeps a comedic tone, while still at times addressing serious issues that arise along the way.
+
+[From [Patreon](https://www.patreon.com/DriftyGames)]
+
+来源：[VNDB v28200](https://vndb.org/v28200)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[DriftyGames]]（developer）<!-- AUTO:END duty -->
 

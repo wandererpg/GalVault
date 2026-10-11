@@ -28,6 +28,20 @@ cover_image: "assets/covers/v5154.webp"
 ![[assets/covers/v5154.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Mihama Academy - on the surface, a closed learning environment established to nurture students who find themselves at odds with the world around them; in actuality, an orchard-cum-prison built to preserve fruit that has fallen too far from its tree.
+
+Whatever the circumstances behind its establishment, Mihama Academy is at present home to five female students, all with their own reasons for "enrollment." For better or worse, each girl has established a routine obliging of her current situation; life moves at an idle, yet accommodating pace within the walls of Mihama.
+
+Yet with the arrival of the institute's first male student, the nearly preposterously opaque Kazami Yuuji, the students at Mihama begin to fall out of step with their predetermined rhythms. Will Yuuji prove to be the element the girls around him needed to take hold of their lives once more, or will the weight of their pasts prove too steep a wall to overcome?
+
+And in the first place, just who is Kazami Yuuji? While the true nature of the "job" he is wont to alight to at the most haphazard of moments remains shrouded in secrecy, one thing is for certain - his encroachment upon the quiet orchard known as Mihama Academy will prove itself momentous in one way or another. And of course, one cannot discount the possibility that perhaps Yuuji himself carries the weightiest past of any of the students...
+
+来源：[VNDB v5154](https://vndb.org/v5154)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Frontwing]]（developer）<!-- AUTO:END duty -->
 

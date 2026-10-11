@@ -30,6 +30,16 @@ cover_image: "assets/covers/v16212.webp"
 ![[assets/covers/v16212.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This is the third game and finale of UnisonShift Blossom’s magic mystery Ley-Line series. The ‘night world’ crumbled and their students vanished. Mitsuyoshi thought that the cause might have been a fire that happened at the school 20 years ago, and began to investigate this incident in order to reunite with his friend Kotarou who had disappeared as a ‘night school student’. Meanwhile, the school principal who had also vanished secretly planned to bring back the night world from the other side. All of the remaining mysteries of the school will finally be brought to light.
+
+[From [Hau~ Omochikaeri!](https://omochikaeri.wordpress.com/2015/01/09/january-2015-eroge-releases/)]
+
+来源：[VNDB v16212](https://vndb.org/v16212)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Unison Shift： Blossom]]（developer）<!-- AUTO:END duty -->
 

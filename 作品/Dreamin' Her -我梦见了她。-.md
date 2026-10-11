@@ -29,6 +29,51 @@ cover_image: "assets/covers/v28915.webp"
 ![[assets/covers/v28915.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+From the white sky, the snow fall and running down her cheeks.
+
+We were holding hands, lying on the snow.
+When our eyes met, she smiles at me――
+
+――That was the dream I saw when I was a child.
+On the day when the town turned white by the snow, me and my childhood friend Mirai lying on the snow.
+
+I wanna stay as it is.
+
+That was what I thought when I was young.
+I grew up with a faint love.
+
+I was certain that our feelings were the same.
+
+Until that day.
+
+"Sorry. I'm sorry, Aoi. But... I'm sorry."
+
+It wasn't supposed to be like that. It wasn't supposed to be that way.
+
+She was the only one who support my heart, of me who doesn't dream of a great one.
+I thought she would be with me no matter what.
+
+But she went away.
+
+Feeling despair of everything, getting up from bed becoming troublesome.
+I started to having doubt on "reason for living in this meaningless world"――
+
+Then I, had this particular dream.
+
+Beautiful coast.
+
+White sand beach, calming pale pink sea, a lighthouse that can bee seen in the distance――
+
+――"She" was there.
+
+Mirai's look alike, an ideal girlfriend who will never betray.
+
+来源：[VNDB v28915](https://vndb.org/v28915)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[LIFE0]]（developer）<!-- AUTO:END duty -->
 

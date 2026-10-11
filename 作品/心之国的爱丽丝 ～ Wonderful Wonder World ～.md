@@ -30,6 +30,18 @@ cover_image: "assets/covers/v801.webp"
 ![[assets/covers/v801.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Alice is realistic; especially about love. One day, she is taken to the world of heart, which is full of danger. For example, an owner of a hat shop is a gangster, and every theme park worker carries a gun; almost all of the people are dangerous.
+
+She somehow starts to enjoy her life there, after she is forced to take a drug which prevents her from returning to her original world. Will she find a way back? Will she fall in love?
+
+[From [Himeya Shop](http://www.himeyashop.com/product_info.php/products_id/6149)]
+
+来源：[VNDB v801](https://vndb.org/v801)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[QuinRose]]（developer）<!-- AUTO:END duty -->
 

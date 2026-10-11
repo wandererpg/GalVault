@@ -29,6 +29,17 @@ cover_image: "assets/covers/v2956.webp"
 ![[assets/covers/v2956.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The game takes place at Habataki High School seven years after Tokimeki Girl's Side 1. There are a total of six new bachelors plus three secret characters.
+TMGS 3 implements a totally new system; the Love Triangle. Instead of rival girls liking your man, all six bachelors are paired with another, making it so that you can 'date' two of them at a time. TMGS 3 also introduces a revamped clothing system with a few new clothing styles and the ability to 'level up' your fashion.
+
+[From [Tokimeki Memorial Girl's Side Wiki](http://tokimekimemorialgs.wikia.com/wiki/Category:Tokimeki_Memorial_Girl%27s_Side_3rd_Story)]
+
+来源：[VNDB v2956](https://vndb.org/v2956)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[KONAMI]]（developer）<!-- AUTO:END duty -->
 

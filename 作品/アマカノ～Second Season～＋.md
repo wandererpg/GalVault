@@ -29,6 +29,16 @@ cover_image: "assets/covers/v21675.webp"
 ![[assets/covers/v21675.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This is the fandisc for Amakano ~Second Season~, with two episodes for each of the four heroines: a summer episode and a future episode culminating in marriage. Plus 4 append scenarios (per heroine) on top of all that.
+
+It also includes other bonuses like minigames, unlockable voicelines, wallpapers, and a sprite viewer.
+
+来源：[VNDB v21675](https://vndb.org/v21675)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Azarashi Soft]]（developer）<!-- AUTO:END duty -->
 

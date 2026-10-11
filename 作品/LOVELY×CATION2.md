@@ -28,6 +28,16 @@ cover_image: "assets/covers/v10288.webp"
 ![[assets/covers/v10288.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Spring has come again and the protagonist has moved into a new home by himself after his parents transfered elsewhere for their jobs. Everyone went smoothly until he received a prediction at a shrine which he had come upon: “Go find the one who will become your partner for life. Otherwise, you will live a cruel life”. However, a non-assertive man like him didn’t know anything about love. At such an critical juncture in his life, will he be able to summon up the courage to find himself a girl?
+
+[From [Hau~ Omochikaeri!](http://omochikaeri.wordpress.com/2013/04/01/april-2013-eroge-releases/)]
+
+来源：[VNDB v10288](https://vndb.org/v10288)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[hibiki works]]（developer）<!-- AUTO:END duty -->
 

@@ -27,6 +27,14 @@ cover_image: "assets/covers/v58484.webp"
 ![[assets/covers/v58484.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Nath's tough growing-up adventures in the slums.
+
+来源：[VNDB v58484](https://vndb.org/v58484)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Rem99]]（developer）<!-- AUTO:END duty -->
 

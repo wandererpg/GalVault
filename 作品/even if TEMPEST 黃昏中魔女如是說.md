@@ -28,6 +28,30 @@ cover_image: "assets/covers/v32555.webp"
 ![[assets/covers/v32555.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+“Trapped by time, by fate, and by love.”
+
+Raging flames sear her flesh. Scolding laughter weighs her down as lead. Her last moments are as she lived: bereft of love, void of hope, and overflowing with despair.
+
+And then, she dies.
+
+A witch whispers to the girl steeped in regret. “Don’t you want a second chance?”
+
+The witch bestows upon her the power of the “Fatal Rewind,” and her charred life is returned to a pure white. A blank slate.
+
+“This time, I will transform into the ideal version of myself.”
+
+With this oath branded into her heart, she returns to life… Yet this resolve will only lead to further misfortune.
+
+The curtain rises on the Carnival, and this witch trial shall herald the end.
+
+[from [Gematsu](https://www.gematsu.com/2021/10/otome-visual-novel-even-if-tempest-announced-for-switch)]
+
+来源：[VNDB v32555](https://vndb.org/v32555)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[AmuLit]]（developer）
 - [[Voltage Inc]]（developer）<!-- AUTO:END duty -->

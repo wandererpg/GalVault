@@ -28,6 +28,24 @@ cover_image: "assets/covers/v18498.webp"
 ![[assets/covers/v18498.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Urashima is a small island, far from mainland Japan. It’s a true utopia, blessed with rich natural beauty. But the island harbors a difficult past, and it’s about to be erased, silently, from history.
+
+Soot blight syndrome, an endemic disease, has brought about a rift between the island and the mainland. An offshore platform intended for marine research has long been left abandoned; five years ago, three separate incidents brought the once influential Three Families of Urashima to near ruin. Rumors about children being spirited away have become part of the local folklore, alongside another legend, one that has been repeated on the island since time immemorial...
+
+“Let me tell you the legend of this island: it’s a story of tragic love...”
+
+The key to saving the island lies with three girls, each of whom belongs to one of the Three Families. These girls aren’t able to change the fate of the island by themselves, but might they succeed with the help of the young man who’s just washed ashore? Claiming that he’s traveled back in time, the man immediately sets out on a lonely path, challenging the longstanding traditions of the island, and seeking to change the future. But those aren’t his only goals...
+
+How will his presence transform the lives of these three girls, the future of the island, and the fate of the world...?
+
+[From [official website](http://en.frontwing.jp/games/island.html)]
+
+来源：[VNDB v18498](https://vndb.org/v18498)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Frontwing]]（developer）<!-- AUTO:END duty -->
 

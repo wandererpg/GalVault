@@ -27,6 +27,16 @@ cover_image: "assets/covers/v31567.webp"
 ![[assets/covers/v31567.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Depressed day-in and day-out from a draining corporate job, you become invested in a fantasy webnovel and find a mysterious link to a fan server. Everyone is warm and welcoming, but four members take a special interest in you!
+
+[From [Itch.io](https://robobarbie.itch.io/blooming-panic)]
+
+来源：[VNDB v31567](https://vndb.org/v31567)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Robobarbie]]（developer）<!-- AUTO:END duty -->
 

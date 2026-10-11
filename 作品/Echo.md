@@ -28,6 +28,20 @@ cover_image: "assets/covers/v18157.webp"
 ![[assets/covers/v18157.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Echo is a small, isolated desert town located in the Southwest. It's seen better days; its businesses are closing, and its population is dwindling.
+
+During spring break, Chase, a young otter who grew up in Echo, is back for a school project aimed at documenting an event in the 1920's that may have led to the town's current state. He's joined by five friends, who grew up with him in Echo, taking the chance to have a little reunion. Unfortunately, Chase begins to realize that their memories of Echo may have been a bit rose-tinted. Being back in the town digs up old and painful memories; secrets that lead to rifts in the group that have been boiling under the surface for years. On top of that, Chase begins to realize that Echo itself may have its own secrets. Odd and unexplainable memories that he always blamed on an overactive childhood imagination may not have been imagined at all.
+
+Finally, an event is triggered that turns these fears into something much more tangible and dangerous. Chase is now forced into a situation in which he must help his friends either face or escape their demons. Either way, Echo is not keen on letting them go...
+
+[From [Patreon](https://www.patreon.com/EchoGame?ty=h)]
+
+来源：[VNDB v18157](https://vndb.org/v18157)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Echo Project]]（developer）<!-- AUTO:END duty -->
 

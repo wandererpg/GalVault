@@ -28,6 +28,23 @@ cover_image: "assets/covers/v31262.webp"
 ![[assets/covers/v31262.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The protagonist Saruyoshi, a delinquent attending an all-boys school, will attend a ladies' all-girls school as Julia to save his alma mater from being closed down.
+
+In the neighboring town from his current school lies the tall and proud Garasunomiya Girls' School. Ever since the Taishou Era, even now are distinguished daughters of noble families currently enrolled there. In other words, it is an ultra-prestigious ladies' all-girls school.
+
+And transforming this ultra-prestigious school into a coeducational institution is the sole means to save the all-boys school. So to protect his school filled with memories with his mates, Saruyoshi, with the aid of a refined young lady of a noble family Tsukishima Karasu, enrolled alone in the ladies' all-girls school to improve the optics surrounding males.
+
+With the extensive use of the boons of delinquency to solve the young ladies' problems, the protagonist slowly becomes the heartthrob of his new school! On the other hand, since Saruyoshi is also refining his feminine grace and dignity, the guys also developed the hots for him?! With the goal of a symbiotic integration between men and women, this is a slapstick love comedy set in the ladies' all-girls school!
+
+
+[From [ official summary](https://harukaze-soft.com/monkeys/)]
+
+来源：[VNDB v31262](https://vndb.org/v31262)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[HARUKAZE]]（developer）<!-- AUTO:END duty -->
 

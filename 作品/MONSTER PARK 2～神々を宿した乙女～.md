@@ -29,6 +29,28 @@ cover_image: "assets/covers/v10889.webp"
 ![[assets/covers/v10889.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Madrad, the holy city located in the center of the continent.
+
+This town, which is governed by the church serves to tie various countries under the holy emperor, it's literally the center of the world where various races and cultures meet.
+
+As the succession of the new holy emperor grows close, there is conflict arising between the church and the council of elders, an administrative organization.
+
+Scarlett, the swordsman known as the crimson knight is appointed as a paladin under the direct control of the holy emperor.
+
+For the sake of the next holy emperor Marie, with whom she became friends, Scarlett leads a delegation toward the holy grounds to bring back the sacred treasure, but fearsome monsters are waiting for her in a trap prepared by the council of elders!
+
+Meanwhile, in the depths of the church, some who oppose the holy emperor prepare a suspicious ritual using monsters.
+
+What is their true goal?!
+
+[Translated from [DLsite](https://www.dlsite.com/pro/work/=/product_id/VJ008970.html/)]
+
+来源：[VNDB v10889](https://vndb.org/v10889)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Trois]]（developer）<!-- AUTO:END duty -->
 

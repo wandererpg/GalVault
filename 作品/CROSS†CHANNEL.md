@@ -29,6 +29,18 @@ cover_image: "assets/covers/v66.webp"
 ![[assets/covers/v66.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Gunjo Academy is a facility designed to gather and isolate those students who got a high score on an adaptation exam (scoring high on this exam indicates that the student is less likely to be able to be adapted to the society) mandated by the government.
+
+After a failed summer vacation with other members of the school's broadcasting club, Kurosu Taichi and some of the other club members return to the city, only to find that the world had completely changed.
+
+[Edited from [Wikipedia](https://en.wikipedia.org/wiki/Cross_Channel_%28visual_novel%29)]
+
+来源：[VNDB v66](https://vndb.org/v66)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[FlyingShine]]（developer）<!-- AUTO:END duty -->
 

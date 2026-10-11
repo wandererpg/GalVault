@@ -28,6 +28,16 @@ cover_image: "assets/covers/v1060.webp"
 ![[assets/covers/v1060.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Just off the coast of mainland Japan is the island of Chisakura, home to a city of the same name, where the heralds of darkness are slowly gathering. Host to a prosperous economy, with a nationally renowned academic institution for young women and an equally upstanding medical research facility, the community has unwittingly attracted the attentions of dreaded supernatural creatures with few equals: vampires. Yet even these immortal predators have daring individuals who hunt them, and a secret war between the two powers is quickly racing to an apocalyptic conclusion. At the center of this nightmarish struggle is a man who has the potential to tip the scales in favor of one side or the other. His choice of allies - the hunters, the vampires, or none at all - may very well determine the fate of humanity and the undead.
+
+[From [Eroge Review](http://www.erogereview.com/2011/06/07/mindead-blood-complete-edition/)]
+
+来源：[VNDB v1060](https://vndb.org/v1060)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Black Cyc]]（developer）<!-- AUTO:END duty -->
 

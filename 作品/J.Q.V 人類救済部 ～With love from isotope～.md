@@ -28,6 +28,20 @@ cover_image: "assets/covers/v10575.webp"
 ![[assets/covers/v10575.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Mankind has vanished.
+Uninhabited town, uninhabited school, uninhabited  classroom.
+In this world where no other humans exist Shimaji meets a young girl.
+And from this girl flows words that don't fit this world
+"I will make a club"
+A club to save mankind.
+But in this world where humanity doesn't exist anymore, who can be saved?
+
+来源：[VNDB v10575](https://vndb.org/v10575)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Studio Beast]]（developer）<!-- AUTO:END duty -->
 

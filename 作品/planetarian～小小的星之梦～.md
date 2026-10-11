@@ -29,6 +29,28 @@ cover_image: "assets/covers/v34.webp"
 ![[assets/covers/v34.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+*Why don't you come to the planetarium?
+The beautiful twinkling of eternity that will never fade, no matter what.
+All the stars in the sky are waiting for you.*
+
+It is thirty years after the failure of the Space Colonization Program.
+Humanity is nearly extinct. A perpetual and deadly Rain falls on the Earth.
+Men known as "Junkers" plunder goods and artifacts from the ruins of civilization.
+One such Junker sneaks alone into the most dangerous of all ruins -- a "Sarcophagus City".
+In the center of this dead city, he discovers a pre-War planetarium.
+And as he enters he is greeted by Hoshino Yumemi, a companion robot.
+Without a single shred of doubt, she assumes he is the first customer she's had in 30 years.
+She attempts to show him the stars at once, but the planetarium projector is broken.
+Unable to make heads or tails of her conversation, he ends up agreeing to try and repair the projector...
+
+[Edited from [Steam](https://store.steampowered.com/app/316720/)]
+
+来源：[VNDB v34](https://vndb.org/v34)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Key]]（developer）<!-- AUTO:END duty -->
 

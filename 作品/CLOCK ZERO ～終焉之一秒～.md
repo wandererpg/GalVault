@@ -28,6 +28,16 @@ cover_image: "assets/covers/v6723.webp"
 ![[assets/covers/v6723.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Kurou Nadeshiko is the twelve year old daughter of some wealthy high class members. She goes to a wealthy school with her childhood friend and hopes become a doctor one day. However, every night she has a dream about being in another world. That world is full of ruins and she is ten years older. One day, a transfer student named Kaido Takato comes to her class and she gets involved in an after school extra-curricular club which they call “Clock Zero”.
+
+(Edited from [Hinano's Game Babbles](http://breadmasterlee.wordpress.com/2010/12/27/otome-game-review-clock-zero-shuuen-no-ichibyou/))
+
+来源：[VNDB v6723](https://vndb.org/v6723)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Design Factory Co., Ltd]]（developer）
 - [[Otomate]]（developer）<!-- AUTO:END duty -->

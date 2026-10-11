@@ -29,6 +29,18 @@ cover_image: "assets/covers/v18005.webp"
 ![[assets/covers/v18005.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This is the latest in CandySoft’s Tsuyokiss series, as part of its 10th anniversary. It features new heroines Kachiki and Kitsune, along with side stories for the Tsuyokiss NEXT heroines and subcharacters.
+
+After the graduation of the ‘legendary era’, the fighting between the student council and the public morals committee at Ryuumeikan Gakuen had simmered down. Sanagi was loved by the student council leader Hakari and also friends with the public morals committee chief Neko. He thought he could spend his days at the school quietly, but that all changed one day when a mysterious intruder was chased by the public morals committee member Kitsune. Her name was Kachiki, bearing the famous surname Kiriya of the former student council leader during the ‘legendary era’, which still carries influence at the school to this day. Thanks to her appearance, the original strong girls showed up at the school once more.
+
+[From [Hau~ Omochikaeri!](https://omochikaeri.wordpress.com/2015/12/18/december-2015-eroge-releases/)]
+
+来源：[VNDB v18005](https://vndb.org/v18005)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[CandySoft]]（developer）<!-- AUTO:END duty -->
 

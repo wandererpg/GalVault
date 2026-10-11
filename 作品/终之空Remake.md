@@ -29,6 +29,14 @@ cover_image: "assets/covers/v28806.webp"
 ![[assets/covers/v28806.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+A remake of Tsui no Sora included in the 10th anniversary Subarashiki Hibi package, including a fully rewritten script that is 1.5 times the size of the original and a "whole new work of its own".
+
+来源：[VNDB v28806](https://vndb.org/v28806)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[KeroQ]]（developer）<!-- AUTO:END duty -->
 

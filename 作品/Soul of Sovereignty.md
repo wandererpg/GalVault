@@ -27,6 +27,24 @@ cover_image: "assets/covers/v48624.webp"
 ![[assets/covers/v48624.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The old world lies dead. When calamity came pouring from the skies centuries ago, mankind abandoned all that they knew and took shelter within a great tower raised by the hand of god. A new, singular nation was born: the Mosaic.
+
+When the storm eased at last, a new generation opened the gates to reclaim the world their ancestors had left behind. A fleeting age of exploration began. Bright-eyed adventurers flocked to the ruins in droves, and found nothing. Defeated, they again turned their backs on the old, dead world and carried on in the new.
+
+But outside those towering walls, power beyond imagining still waits to be found...
+
+In a desolate town forgotten by the Mosaic, fate brings two strangers together: a frail woman in need of aid and a gentleman happy to offer it. The two set out into the icy wilderness seeking a miracle, and what the gentleman finds is proof that no good deed goes unpunished.
+
+Soul of Sovereignty is a tale of deadly kindness and selfish virtue in a world of magic and ruin.
+
+[From [itch.io](https://gigidigi.itch.io/soulsov)]
+
+来源：[VNDB v48624](https://vndb.org/v48624)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[gigidigi]]（developer）<!-- AUTO:END duty -->
 

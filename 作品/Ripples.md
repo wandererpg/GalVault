@@ -27,6 +27,16 @@ cover_image: "assets/covers/v33448.webp"
 ![[assets/covers/v33448.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Ripples is a sci-fi visual novel that centers around an 18-year-old in his last year of high school. He reunites with his good friend Darci and sets off to school like any other day, but as the day goes on, he learns new information about his deceased father that has him questioning the truth about his death.
+
+[from [itch.io](https://jestur.itch.io/ripples)]
+
+来源：[VNDB v33448](https://vndb.org/v33448)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Jestur]]（developer）<!-- AUTO:END duty -->
 

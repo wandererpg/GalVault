@@ -27,6 +27,20 @@ cover_image: "assets/covers/v57944.webp"
 ![[assets/covers/v57944.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+A complete reimagining of Strade's path from the 2016 visual novel 'Boyfriend to Death' from the developer that created the original path. They recreated the story with a new script, new gameplay, and all new art. This game is just as, if not more, violent and sexual than the original.
+
+This is a 'get kidnapped and murdered' simulator with explicit sexual content. It is an entirely non consensual fantasy where the player is the victim and the perpetrator is a man.
+
+Your captor and central antagonist is Strade. He's obsessive, curious, and evil. If you get to know him as well as he'll get to know you, you might find a way out. Or maybe you'll prefer to stay?
+
+In this choose-your-own-adventure, every choice matters. Strade will get to know you and your personality through your actions, and it may affect your outcome. There are 21 endings, but even a single ending may play out a bit differently depending on your choices. You will die, of course. But dying isn't the end- earn death tokens to unlock hints, walkthroughs, or bonus content. Maybe you'll even find a way to survive.
+
+来源：[VNDB v57944](https://vndb.org/v57944)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Gatobob]]（developer）<!-- AUTO:END duty -->
 

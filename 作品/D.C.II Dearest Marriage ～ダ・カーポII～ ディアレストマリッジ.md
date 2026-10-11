@@ -29,6 +29,18 @@ cover_image: "assets/covers/v16261.webp"
 ![[assets/covers/v16261.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+A story of Otome and Yoshiyuki's married life. Features 3 chapters continuing Otome's Route.
+
+“Graduation days” takes place during Yoshiyuki’s final year at Kazami Academy and shows the last fun-filled days for their close circle of friends, culminating with the graduation party. “Married life” details Yoshiyuki and Otome’s daily lovey-dovey lives after his proposal on his graduation day.
+
+[Edited from [Hau~ Omochikaeri!](https://omochikaeri.wordpress.com/2015/04/01/april-2015-eroge-releases/)]
+
+来源：[VNDB v16261](https://vndb.org/v16261)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[CIRCUS]]（developer）<!-- AUTO:END duty -->
 

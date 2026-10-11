@@ -29,6 +29,34 @@ cover_image: "assets/covers/v14019.webp"
 ![[assets/covers/v14019.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Collaboration game between La'cryma and 5pb.
+
+Synopsis:
+
+It is not the end (fermata) to this story of battles.
+
+In order to bring upon “justice”, a special force under the direct command of an organization was formed across the border. Its name was the “Seventh Chord”. Having excelled in manipulating magic (rune) in combat using her life force and living in secret from society, Freya was the only girl who has shown excellent results as a knight.
+
+Freya was summoned to the island of eternal summer, where she was born and raised, by Julius, Seventh Chord's commander and her elder brother who she reunited with after being separated for a long time, for her first mission. And that mission, was said to have never been accomplished in history; it was to “defeat a mythical god”. Although it was handed down as a legend before, the "God" that was subdued was revived in this present day and age once again.
+
+After analyzing the "abilities" of these mythical gods, the organization created the “strategic creation technology weapon” to fight against them. This ultimate scientific weapon, known as “Miracle”, was handed down to Freya, to challenge these mythical existences to a fight.
+
+The enemies have transcended human intelligence, and their immortal existence has the ability to recreate the "powers" of a mythical god. The seven “Mahoutsukai”.
+The seven people who gathered in the name of justice. The "Kisekitsukai" of the “Seventh Chord”.
+
+Ultimate Science (justice) vs. Mythical Magic (another justice)
+A fight that no one had expected. Before long, the truth will begin to lead one to a sad fate.
+Mission Rank: SSS-Class.
+The seven knights were gathered to cut open the impossible fate, and set foot into the unexplored stage of humanity that will slowly become a holy war.
+
+[Translated from [Getchu](http://www.getchu.com/soft.phtml?id=853984)]
+
+来源：[VNDB v14019](https://vndb.org/v14019)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[La'cryma]]（developer）
 - [[MAGES]]（developer）<!-- AUTO:END duty -->

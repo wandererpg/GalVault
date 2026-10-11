@@ -29,6 +29,28 @@ cover_image: "assets/covers/v19545.webp"
 ![[assets/covers/v19545.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Suou/Mayuri:  "Is there someone in your life whom you want to be with, forevermore?"
+
+"Tell me the key necessary to arrive at the Goddess of Truth,"
+
+challenged Suou after becoming the president of Council of Nicaea and overcoming the trials from Yatsushiro Yuzuriha.  As promised, the name given was "The Seven Wonders of the Beginning of the End," directly linking Kousaka Mayuri, her amity who disappeared in Spring.
+
+A number of even more bizarre events arise in Saint Angraecum Academy during the season of Winter.
+
+With the help of her friends, Shirahane Suou will stand up against many obstacles, but…  the words she prayed to God, "Please forget about me," still overwhelms her.
+
+The reemergence of her step-mom's shadow, passing thoughts, unexpected continuations…  Just what will it all bring about to Suou?
+
+The final wintry season will melt everything away…
+
+[Translated from [Official Site](http://www.gungnir.co.jp/lily/flowers4/flowers4_story.html)]
+
+来源：[VNDB v19545](https://vndb.org/v19545)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Innocent Grey]]（developer）<!-- AUTO:END duty -->
 

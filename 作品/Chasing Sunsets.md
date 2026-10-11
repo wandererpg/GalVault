@@ -27,6 +27,20 @@ cover_image: "assets/covers/v29267.webp"
 ![[assets/covers/v29267.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Follow the story of a young man returning home after years abroad, suddenly faced with the prospect of shouldering life-changing responsibility and stirring the embers of a repressed childhood love.
+
+This sprawling tale will take you from the Boston suburbs to Russia, Sicily, Tunisia, and the fictional island nation of Tonalu, where you will cooperate (or compete) with your estranged sister to fulfill your parents' final wishes.
+
+Against the backdrop of a looming lawsuit, a landmark medical breakthrough, and the sudden appearance of a beautiful and quirky investigative reporter with a keen interest in your family, you will make the choices and cultivate the relationships that will determine what kind of man you become...And what kind of woman you want by your side.
+
+[From [Steam](https://store.steampowered.com/app/1783110/)]
+
+来源：[VNDB v29267](https://vndb.org/v29267)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Stone Fox Studios]]（developer）<!-- AUTO:END duty -->
 

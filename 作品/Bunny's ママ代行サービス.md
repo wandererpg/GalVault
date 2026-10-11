@@ -28,6 +28,26 @@ cover_image: "assets/covers/v41944.webp"
 ![[assets/covers/v41944.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+[Hirose Ayato](https://vndb.org/c122748), the main character who lost his mother several years ago and now lives with his father.
+One day, his father decided to go on a long business trip overseas for two months including the summer break. This meant that Ayato would be spending the entire period by himself.
+
+Ayato's father was worried about the situation and consulted with a friend he knew in the neighborhood, a married woman by the name of [Ninomiya Rinko](https://vndb.org/c122749). She recommended that he contact a "housekeeping agency" she knew of and he decided to request it for his son.
+However, this wasn't your average housekeeping service - it was a "mama" agency where a registered woman would come as a "mama" and take care of housework and daily life for an agreed-upon period of time.
+
+Starting with Rinko, who actually works for the company and openly comes as Ayato's "mama".
+She is joined by [Kiyoko](https://vndb.org/c122751), a married woman who has known Ayato for a long time and also wants to be Ayato's "mama".
+Additionally, [Kana](https://vndb.org/c122750)—the president of the mama agency service and newly married staff member [Tsumugi](https://vndb.org/c122752) join the fight as well.
+
+A rich and strange mother-child life begins.
+
+[Translated from [getchu](https://www.getchu.com/soft.phtml?id=1213893&gc=gc)]
+
+来源：[VNDB v41944](https://vndb.org/v41944)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Atelier Kaguya BARE & BUNNY]]（developer）<!-- AUTO:END duty -->
 

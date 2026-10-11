@@ -27,6 +27,16 @@ cover_image: "assets/covers/v30778.webp"
 ![[assets/covers/v30778.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Coquette Dragoon is a girls love/alternative mecha visual novel series, following the lives and relationships of mech pilots entangled in a long and bitter war through space.
+
+Life aboard starships and space colonies, the feeling of gravity under your feet for the first time, and hand feeding eachother chips. Coquette Dragoon is a work about the small moments between terrifying conflict, and the love shared in desperate circumstances.
+
+来源：[VNDB v30778](https://vndb.org/v30778)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Ivy May]]（developer）<!-- AUTO:END duty -->
 

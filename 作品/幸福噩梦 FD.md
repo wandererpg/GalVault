@@ -30,6 +30,18 @@ cover_image: "assets/covers/v13108.webp"
 ![[assets/covers/v13108.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This is the fandisk to HapyMaher. After a certain accident, all of Tooru’s dreams became lucid dreams. However, after that winter incident, his happy nightmares came to an end. Yuuko was finally starting to recover from her illness and could attend school again with him. With the help of his osananajimi Saki, Yuuko’s friend Keiko and the somewhat helpful Yayoi, they gradually became accustomed to the school life.
+
+However, he could not forget about ‘her’, even though he knew that he would never meet ‘her’ again. He noticed his dearest nightmare Maia appear by his side. “It’s true that there is no dream that one doesn’t wake up from. However, it doesn’t mean that one will stop dreaming.” She whispered into his ear: “This is the story of a dream leading towards a sweet happy end”.
+
+[From [Hau~ Omochikaeri!](http://omochikaeri.wordpress.com/2014/02/01/february-2014-eroge-releases/)]
+
+来源：[VNDB v13108](https://vndb.org/v13108)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Purple software]]（developer）<!-- AUTO:END duty -->
 

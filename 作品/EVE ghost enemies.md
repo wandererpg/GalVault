@@ -29,6 +29,44 @@ cover_image: "assets/covers/v32893.webp"
 ![[assets/covers/v32893.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Kojiroh Amagi’s Story
+
+A mysterious incident occurs at a countryside mansion involving the death of a influential man from the village. There were rumors that his death was brought by a curse passed on as a village legend…
+
+Bored and bored and bored… All Kojiroh had to do was to brew coffee everyday, until his rival Yayoi Katsuragi brought in a job. It was a request specifically placed for Genzaburo Katsuragi.
+
+Kojiroh heads to Sawakidou Village as a substitute for Yayoi. Awaiting him there was Kougen Sawashiro, a powerful man in the economic world and Genzaburo’s old friend, nearly 100 years-old and unable to leave his bed.
+
+“I want you to investigate the cause of my son’s death.”
+
+There were rumors that his death was brought by a curse passed on as a village legend.
+
+“He was killed by ‘Gururi.'”
+
+The incident occurred at a mansion overlooking the water known as “Dioteti Mansion.” The strange death of the village’s influential man.
+
+Will Kojiroh be able to reach the truth?
+
+Marina Houjou’s Story
+
+A super-technology weapon that was smuggled to Japan. A joint investigation with the CIA unveils surprising truths…
+
+Marina Houjou is a first-class investigator who has returned to Japan after a long time overseas. Although the Japanese Cabinet Information Research Office (CIRO) is currently seeking intelligence sharing cooperation with the Central Intelligence Agency (CIA), she is being kept far out of focus due to her being a troublemaker.
+
+During that time, she encounters an runaway car explosion in the city. The explosion was caused by “Ever3,” an unknown inhumane weapon that was brought into Japan to stop the cooperation between the CIRO and CIA.
+
+This incident caused Marina to investigate “Ever3” with the CIA, and reunited her with Shelley Mare, an old friend who has become a CIA investigator.
+
+Surprising truths come to surface as the investigation of the super-technology carries on. Will Marina be able to find the true enemy and realize the future she desires?
+
+[from [Gematsu](https://www.gematsu.com/2021/12/eve-ghost-enemies-first-details-screenshots)]
+
+来源：[VNDB v32893](https://vndb.org/v32893)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[El Dia]]（developer）<!-- AUTO:END duty -->
 

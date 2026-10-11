@@ -29,6 +29,19 @@ cover_image: "assets/covers/v11858.webp"
 ![[assets/covers/v11858.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+To recover his normal life, the main character will go back to the past.
+He deserves a good life in a restructed world but the reality is too cruel to be true.
+A spirit trapped in the mirror, a girl restrained by her elder sister, a younger sister suffering from serious illness.
+The second wave of NOeSIS and a story of troubled girls and boys.
+
+[From [Steam](https://store.steampowered.com/app/1423370/)]
+
+来源：[VNDB v11858](https://vndb.org/v11858)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Classic Chocolat]]（developer）
 - [[cutlass]]（developer）<!-- AUTO:END duty -->

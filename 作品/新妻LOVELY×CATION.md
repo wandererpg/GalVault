@@ -28,6 +28,16 @@ cover_image: "assets/covers/v20406.webp"
 ![[assets/covers/v20406.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+It’s been a year since Hibiki started working in beautiful Sakuragi, a city of four seasons. He’s gotten used to his new life and everything is smooth sailing, but he started to think about his future when his close friend got married. He realized that marriage was something that doesn’t just happen one day, but it is the culmination of ‘everyday’ actions over a long period. Having made up his mind, before long he fell in love with a girl. It was the first step towards a happy marriage.
+
+[From [Hau~ Omochikaeri!](https://omochikaeri.wordpress.com/2017/04/01/april-2017-eroge-releases/)]
+
+来源：[VNDB v20406](https://vndb.org/v20406)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[hibiki works]]（developer）<!-- AUTO:END duty -->
 

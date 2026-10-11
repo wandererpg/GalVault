@@ -28,6 +28,24 @@ cover_image: "assets/covers/v50735.webp"
 ![[assets/covers/v50735.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Staffer Case is a new sort of mystery game, asking players to find clues, arrange them into documents, and point out the contradictions between them to solve a series of murders.
+
+The game is set in a fictional version of London in the 1960s where 10% of all residents have some sort of supernatural ability. In this city, incidents involving staffers, the people who have these abilities, are constantly occurring.
+
+Players take the role of the Mana Affairs Division's newest detective, Notrick, in order to make sense of these incidents. Since the tricks buried within these staffer cases, at their core, revolve around the supernatural abilities of these criminals, conventional investigative methods won't be enough to solve them. Instead, players will have to rely on the documents that explain what their suspects' abilities entail in order to make sense of everything.
+
+Fortunately, it's not only the criminals who have these supernatural abilities. All of Notrick's fellow detectives at the Mana Affairs Division are also staffers (Excepting gumshoe Notrick himself, of course!) The senior detectives use their supernatural abilities to investigate the crime scenes and organize their findings into documents. Testimonies that account for emotional distress, invisible trace that tells when evidence was left, even memories that remain in objects—find contradictions using the various clues at your disposal!
+
+Each mystery unraveled leads you closer to the truth lying at the heart of each case!
+
+[From [Steam](https://store.steampowered.com/app/2128480/)]
+
+来源：[VNDB v50735](https://vndb.org/v50735)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Team Tetrapod]]（developer）<!-- AUTO:END duty -->
 

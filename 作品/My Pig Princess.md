@@ -27,6 +27,18 @@ cover_image: "assets/covers/v36681.webp"
 ![[assets/covers/v36681.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+An 18+ Visual Novel taking place in a kingdom where the pig girl Emelie is the princess!
+
+You play as a human farmer in this lighthearted comedy adventure featuring plenty of adult content!
+
+[From [Itch.io](https://cyancapsule.itch.io/my-pig-princess)]
+
+来源：[VNDB v36681](https://vndb.org/v36681)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[CyanCapsule]]（developer）<!-- AUTO:END duty -->
 

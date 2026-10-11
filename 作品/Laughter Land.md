@@ -28,6 +28,16 @@ cover_image: "assets/covers/v1076.webp"
 ![[assets/covers/v1076.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Dick is a young boy living in a village who is bored with schoolwork and his everyday life. One day, he attends the village fair and meets a mysterious boy dressed like a court jester called Guillered who offers to bring him to a world called Laughter Land where one’s every wish is granted and there is no work, only play and no one ever grows up. Dick agrees and is brought to Laughter Land.
+
+[From Aarinfantasy]
+
+来源：[VNDB v1076](https://vndb.org/v1076)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Langmaor]]（developer）<!-- AUTO:END duty -->
 

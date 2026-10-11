@@ -29,6 +29,27 @@ cover_image: "assets/covers/v31819.webp"
 ![[assets/covers/v31819.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+After putting an end to the Northern Rebellion with the Oshu Battle, the Hinomoto Alliance finally sets out to pacify Echizen.
+They cross Kanagasaki, where they had once suffered a major defeat, and head back to Echizen.
+Waiting for them is Asakura Yoshikage!
+Demons, demons, and more demons blocking the path...
+
+Is the journey to Echizen, which has become a land of demons, a journey to the underworld?
+
+Keijiro Maeda, Murashige Araki, and Sen Soeki.
+
+New warlords join the fray one after another!
+
+A war history of fierce battles unfolds.
+
+The power, will, and determination of the heroes of the turbulent Sengoku period will now be put to the test!
+
+来源：[VNDB v31819](https://vndb.org/v31819)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[BaseSon]]（developer）<!-- AUTO:END duty -->
 

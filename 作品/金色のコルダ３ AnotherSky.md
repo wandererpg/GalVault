@@ -28,6 +28,30 @@ cover_image: "assets/covers/v13072.webp"
 ![[assets/covers/v13072.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+AnotherSky allows players to view the narrative from one of the three main rival schools introduced in the third title. The protagonist's introduction changes with each entry.
+
+- feat. Jinnan
+After one of her lessons, the protagonist's violin instructor breaks the hard truth to her: she feels her student will never improve in her current state. The protagonist remembers Ritsu's promise three years prior to meet in the national tournament and feels vexed by the news. Wishing to help foster her student's progress, the instructor hands the protagonist a magazine article regarding one of Tougane's concerts and helps her student enroll at Jinnan High School in Kobe.
+
+- feat. Shiseikan
+The protagonist has finished playing at a concert with a lackluster performance. Her grandfather notices her artistic slump and consoles her to reconsider her love for music. He advises the protagonist to live with her mother for a change of pace. As she broods in Sendai's streets, the protagonist spontaneously overhears Arata's trombone and joins him for a live duo. He leaves after their performance, casually stating his club name and high school before disappearing. Feeling invigorated by the experience, the protagonist decides to enroll at Shiseikan High School.
+
+- feat. Yokohama Amane Gakuen
+One day, the protagonist and her childhood friend, Kyouya, receive a mysterious letter with admission papers for Amane Gakuen. The protagonist faintly recalls the boy who gave her the golden violin string seven years prior upon seeing the invitation and has a hunch that she may meet the boy at the school. After transferring to Amane Gakuen with Kyouya in tow, the pair are soon challenged by Myouga to improve themselves as worthy additions to the school.
+
+- feat. Hakodate Amane Gakuen
+Without any warning, the protagonist is mysteriously amnesic and finds herself on a bus in Hakodate. She is greeted by a listless female student who escorts her to their destination.
+
+Regardless of the school, her goal is to work with her ensemble members to win the national tournament. She hopes to reclaim her lost artistic talent along the way.
+
+[From [Koei Wikia](http://koei.wikia.com/wiki/Kiniro_no_Corda_3_AnotherSky)]
+
+来源：[VNDB v13072](https://vndb.org/v13072)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Koei Tecmo Holdings Co., Ltd]]（developer）<!-- AUTO:END duty -->
 

@@ -59,6 +59,8 @@ class SynopsisTests(unittest.TestCase):
         result = s.add_synopsis(note, RECORD)
         self.assertTrue(result.startswith('\ufeff---\r\n'))
         self.assertNotIn('\n', result.replace('\r\n', ''))
+        placeholder = note.replace('## 关系', '## 简介\r\n\r\n待补充\r\n\r\n## 关系')
+        self.assertNotIn('\r\r\n', s.add_synopsis(placeholder, RECORD))
 
     def test_bbcode(self):
         result = s.markdown_description('[b]Bold[/b]  \r\n[url=https://example.com]Link[/url]\n' + s.END)

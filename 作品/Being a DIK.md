@@ -27,6 +27,16 @@ cover_image: "assets/covers/v25288.webp"
 ![[assets/covers/v25288.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+A young man, from a low-income family, moves away from his widowed father and his summer love to attend college at Burgmeister & Royce. As he is cast into freshman life and persuaded to join the up-and-coming fraternity Delta Iota Kappa, he'll be exposed to a new world filled with conflicts, alcohol, drugs and sex.
+
+[From [Patreon](https://www.patreon.com/DrPinkCake)]
+
+来源：[VNDB v25288](https://vndb.org/v25288)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[DrPinkCake]]（developer）<!-- AUTO:END duty -->
 

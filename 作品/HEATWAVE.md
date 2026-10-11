@@ -27,6 +27,20 @@ cover_image: "assets/covers/v53689.webp"
 ![[assets/covers/v53689.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Catgirl Suffers in Capitalist Hellscape.
+
+In some Christian belief systems, an antinomian is one who takes the principle of salvation by faith and divine grace to the point of asserting that the saved are not bound to follow the moral law contained in the Ten Commandments. Antinomians believe that faith alone guarantees eternal security in heaven, regardless of one's actions.
+
+Capitalism is a belief system that segregates individuals based on a variety of factors some of which include race, physical and mental ability,  sexuality, and luck. Individuals found to be missing desired characteristics are rendered persona non grata and denied even the release of suicide, as according to capitalist catechism, the loss of profit caused by an individual ceasing operations is of greater concern than personal autonomy.
+
+[From [itch.io](https://deaddeaddeath.itch.io/heatwave)]
+
+来源：[VNDB v53689](https://vndb.org/v53689)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[deaddeaddeath]]（developer）<!-- AUTO:END duty -->
 

@@ -29,6 +29,18 @@ cover_image: "assets/covers/v20854.webp"
 ![[assets/covers/v20854.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This is the third and final episode in Escu:de’s Re;Lord series. Following the liberation of Herford and Cologne, Iris was captured by Adler’s Jäger unit. Since she possessed too much sensitive information to fall into enemy hands, including the concealment of his own magic and plans for a rebellion, Wilfried pursued them into Greiz instead of going after the third witch.
+
+Greiz is a middle-sized city in the center of Groesen, and it is home to the capitol. However, there were no trains entering the castle town, and the hustle and bustle of the past was eerily missing. Surprisingly, it was also under the territory of the third witch. He was forced to fight on two fronts, as fate also seemed to conspire against him. Wilfried’s final battle has begun.
+
+[From [Hau~ Omochikaeri!](https://omochikaeri.wordpress.com/2017/07/19/july-2017-eroge-releases/)]
+
+来源：[VNDB v20854](https://vndb.org/v20854)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Escu：de]]（developer）<!-- AUTO:END duty -->
 

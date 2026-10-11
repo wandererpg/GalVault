@@ -30,6 +30,18 @@ cover_image: "assets/covers/v1347.webp"
 ![[assets/covers/v1347.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This is the 3rd game in the ~Wonderful Wonder World~ series.
+
+This time the game is set in the Country of Joker. In this country each of the four usual areas have a different season and there is now a circus with a new character called Joker. Since the circus is here, Wonderland enters "April Season" which is when the residents are allowed to lie.
+
+As the protagonist is already acquainted with all of the characters, what will happen to their relationship in April Season?
+
+来源：[VNDB v1347](https://vndb.org/v1347)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[QuinRose]]（developer）<!-- AUTO:END duty -->
 

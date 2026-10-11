@@ -27,6 +27,16 @@ cover_image: "assets/covers/v11854.webp"
 ![[assets/covers/v11854.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+After a certain incident that left him traumatized, Erik Wilhelm transfers to Privatgymnasium St. Dymphna, a special Viennese school for teenagers living with psychological disorders, where he meets a colorful cast of characters that will turn his formerly uneventful life upside down.
+
+[From [Official site](http://missing-stars.net/)]
+
+来源：[VNDB v11854](https://vndb.org/v11854)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Somnova Studios]]（developer）<!-- AUTO:END duty -->
 

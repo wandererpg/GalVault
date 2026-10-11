@@ -27,6 +27,28 @@ cover_image: "assets/covers/v57487.webp"
 ![[assets/covers/v57487.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Recent Google Searches:
+
+Mom doesn't love me anymore.
+How to make mom love me.
+Normal to want Mom to love you.
+What is Oedipus Complex.
+Who was Oedipus.
+Oedipus Complex for girls name.
+Who was Electra.
+Can daughters have Oedipus Complex.
+How much blood can you lose before you die.
+Blood loss fatal amount.
+How to clear search history.
+
+[From [the official site](https://www.deaddeaddeath.red/wishbleed.html)]
+
+来源：[VNDB v57487](https://vndb.org/v57487)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[deaddeaddeath]]（developer）<!-- AUTO:END duty -->
 

@@ -28,6 +28,17 @@ cover_image: "assets/covers/v14908.webp"
 ![[assets/covers/v14908.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Restricted to an abandoned mansion on the outskirts of London in fulfillment of a promise to her father, lonely Cardia lives day to day isolated from the world. Her body carries a deadly poison that rots or melts anything her skin touches, prompting the locals to call her a “monster.” Her last conversation with her father two years ago, telling her to stay out of sight and never fall in love, is the furthest back she can remember.
+One day, her quiet solitude is interrupted as the Royal Guards break in to capture her. It is then that Cardia meets Arsène Lupin, a chivalrous thief, who helps her escape the soldiers’ clutches. She soon finds herself on a journey with Lupin to locate her father, who holds the answers to her mysterious condition. The two are soon joined by four more interesting and handsome gentlemen…
+
+[From the [official English website](http://aksysgames.com/code-realize/story/).]
+
+来源：[VNDB v14908](https://vndb.org/v14908)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Design Factory Co., Ltd]]（developer）
 - [[Otomate]]（developer）<!-- AUTO:END duty -->

@@ -27,6 +27,18 @@ cover_image: "assets/covers/v30994.webp"
 ![[assets/covers/v30994.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+16 talented participants enter the game. Only 2 will walk out alive. Don't let history repeat itself. Break the cycle.
+
+Project: Eden's Garden will be a Free-To-Play video game inspired by the popular visual novel series known as Danganronpa. While this game will be heavily influenced by the property, it will be an original story with diverse characters and gameplay experiences.
+
+[From https://www.youtube.com/watch?v=GVpepDKH9kk]
+
+来源：[VNDB v30994](https://vndb.org/v30994)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Team Eden's Garden]]（developer）<!-- AUTO:END duty -->
 

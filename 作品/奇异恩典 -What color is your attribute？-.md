@@ -28,6 +28,33 @@ cover_image: "assets/covers/v23448.webp"
 ![[assets/covers/v23448.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+"A holy night with no dawn, my dear..."
+
+Shuu awakens, memoryless, in a town blanketed in snow that feels truly bizarre to him.
+
+In this town filled with Europeanized architecture enveloped and closed off by a humongous wall called the aurora, there is nothing more treasured than the arts.
+
+It is here in this mysterious town that Shuu is saved by its residents and allowed to live a fulfilling life with the students of St. Aria Academy.
+
+However, this blissful life is eventually taken away from him in the blink of an eye. On December 25th, an unexplained conflagration brings the town to almost complete destruction.
+
+Loving this town more than anyone, Yune decides to take destiny into her own hands and rewinds time back to December 2nd—the first day of Advent.
+
+Why did all this destruction happen?
+Why is it that no matter what they do differently in the past, it all still leads to the same future?
+Why is it even possible to repeat these days in the first place?
+And what is this miraculous blessing, this “Amazing Grace" that is said to come on Christmas?
+
+The truth that awaits at the end of this endlessly-repeating loop will be written on this canvas of a town by their own hands.
+
+[From [Steam](https://store.steampowered.com/app/2553910/Amazing_Grace_What_color_is_your_attribute/)]
+
+来源：[VNDB v23448](https://vndb.org/v23448)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Cabbage Soft]]（developer）<!-- AUTO:END duty -->
 

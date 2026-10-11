@@ -27,6 +27,14 @@ cover_image: "assets/covers/v54602.webp"
 ![[assets/covers/v54602.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Corru.Observer is a hard sci-fi visual novel, point-and-click adventure about a contractor hired by an intelligence agency to hack into an alien biological computing device dredged up from the bottom of the ocean.
+
+来源：[VNDB v54602](https://vndb.org/v54602)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[corru.works]]（developer）<!-- AUTO:END duty -->
 

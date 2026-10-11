@@ -28,6 +28,16 @@ cover_image: "assets/covers/v17909.webp"
 ![[assets/covers/v17909.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The first half of the remake of Type-Moon's classic doujin game Tsukihime, featuring a rewritten scenario with major differences in its setting and plot, as well as several new characters.
+
+This release includes the Near Side routes (45 hours with voicelines, double their original length).
+
+来源：[VNDB v17909](https://vndb.org/v17909)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[TYPE-MOON]]（developer）<!-- AUTO:END duty -->
 

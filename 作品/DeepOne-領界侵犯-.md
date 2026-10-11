@@ -29,6 +29,39 @@ cover_image: "assets/covers/v32797.webp"
 ![[assets/covers/v32797.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+"Is that feeling a curse or love?"
+
+A strange calamity known as the "Fallen Child" has appeared in Kamimizu-ryu.
+There are those who resist the unprecedented crises that have repeatedly befallen them, among those there are Itsukino Naoya, Hinamori Saya, Itsukino Ichika and Fujinomiya Atsushi.
+
+They perform a "Purification Ritual" to subdue the Fallen Child, however,
+the "Purification Ritual" comes with a cursed "price".
+
+"We have confirmed the Seahorse invasion. We will now subdue the breach of our territory."
+
+With the Fallen Child looming before his very eyes, Naoya wields his "immortal power."
+With each battle and each defense, more losses follow.
+Yet, his resolve to protect his town and his comrades remains unwavering, even if it means losing something more precious than his own life.
+
+"I won't let that happen."
+
+A strange girl appears before Naoya, who is giving everything he's got and pushing forward towards his destiny.
+But the girl knows something... she has come all the way here to meet him.
+
+"This time, I will save you."
+"Even if you hate me..."
+
+The Blue Witch, Kasumi Yuuki.
+Meeting her will change Naoya's destiny.
+
+[Translated and edited from [DMM](https://dlsoft.dmm.co.jp/detail/next_0449/)]
+
+来源：[VNDB v32797](https://vndb.org/v32797)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Nameless]]（developer）<!-- AUTO:END duty -->
 

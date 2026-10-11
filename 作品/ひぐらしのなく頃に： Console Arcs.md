@@ -29,6 +29,31 @@ cover_image: "assets/covers/v31157.webp"
 ![[assets/covers/v31157.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This entry is only concerned with the original content featured in the console exclusive releases of the Higurashi series, known as 'Matsuri', 'Kizuna' and 'Sui':
+
+Matsuri:
+• Taraimawashi-hen
+• Tsukiotoshi-hen
+• Miotsukushi-hen (only what mostly corresponds to the content later labeled in Sui and on as "Miotsukushi Omote")
+
+Kizuna:
+• Someutsushi-hen (Kizuna 1)
+• Kageboushi-hen (Kizuna 2)
+• Hirukowashi-hen (Kizuna 2; was rewritten for this version, namely the addition and removal of certain characters and removal of references to plot details not yet revealed in the Kizuna series.)
+• Yoigoshi-hen (Kizuna 3)
+• Tokihogushi-hen (Kizuna 3)
+• Kotohogushi-hen (Kizuna 4)
+• Miotsukushi-hen (Kizuna 4; for the most part, only the content later labeled in Sui and on as "Miotsukushi Ura" is new to this release, but it also includes "Omote" content, albeit with some changes)
+
+Sui:
+• Hajisarashi-hen
+
+来源：[VNDB v31157](https://vndb.org/v31157)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[07th Expansion]]（developer）<!-- AUTO:END duty -->
 

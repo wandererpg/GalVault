@@ -29,6 +29,25 @@ cover_image: "assets/covers/v4918.webp"
 ![[assets/covers/v4918.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Will it be possible for all the CR:5 execs to escape from the now-ruthless and lawless Madison Penitentiary?
+Even if they were to all escape, all that awaited is the darkest of betrayals.
+In all this loathing, Gian's super-good luck goes wild following the loss of his golden ring.
+With his tremendously good luck that reshapes even destiny itself, the power dynamics of both the mafia and gangs too, become reshaped...
+When Gian absorbs all these changes alongside the "human lethal weapon" Bakshii, what will still remain?
+
+※This story is broken up into three parts; the "Prison Escape Part", the "Rockwell Part" and the "Daivan Part".
+
+[URL=http://tennenouji.net/badegg/#story]Translated from official website[/URL]
+
+
+Luckydog1+bad egg is both an "alternate reality" focusing on Gian x Bakshii and a fandisc of the original Luckydog1. The main game of Bad Egg focuses on Gian x Bakshii, whilst players can also read the after stories of Bernardo, Giulio, Ivan and Luchino that are set after their respective good endings from the first game.
+
+来源：[VNDB v4918](https://vndb.org/v4918)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Tennenouji]]（developer）<!-- AUTO:END duty -->
 

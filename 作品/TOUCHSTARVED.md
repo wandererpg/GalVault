@@ -26,6 +26,19 @@ cover_image: "assets/covers/v43288.webp"
 ![[assets/covers/v43288.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+You were born cursed, with hands that twist the mind of any human you touch.
+Desperation leads you to the shadowy city of Eridia, where your fate intertwines with 5 monstrous strangers. Each can offer you salvation…or damnation.
+
+How far will you go to cure yourself?
+
+[From [Itch.io](https://redspringstudio.itch.io/touchstarved)]
+
+来源：[VNDB v43288](https://vndb.org/v43288)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Red Spring Studio]]（developer）<!-- AUTO:END duty -->
 

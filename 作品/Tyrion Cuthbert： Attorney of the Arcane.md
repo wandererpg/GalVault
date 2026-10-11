@@ -27,6 +27,16 @@ cover_image: "assets/covers/v45489.webp"
 ![[assets/covers/v45489.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+You play as a defense attorney who practices law in a world of fantasy and wizards. You must defend clients accused of various crimes committed using magic and use the rules of magic to prove them innocent. However, the system is corrupt to its core and manipulated by the aristocracy. Will you acquit your innocent clients in light of that? Or will you fall before a corrupt judicial system?
+
+[From [Steam](https://store.steampowered.com/app/1590230/)]
+
+来源：[VNDB v45489](https://vndb.org/v45489)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Diamondhenge Entertainment]]（developer）<!-- AUTO:END duty -->
 

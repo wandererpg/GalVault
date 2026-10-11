@@ -29,6 +29,16 @@ cover_image: "assets/covers/v30992.webp"
 ![[assets/covers/v30992.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+A couple visit Echo to do some paranormal investigating, the town now abandoned five years after the mass hysteria. Despite this, something evil still lurks in the town, evil enough that it's kept the horrors alive.
+
+[From [URL=https://echoproject.itch.io/arches]itch.io[/URL]]
+
+来源：[VNDB v30992](https://vndb.org/v30992)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Echo Project]]（developer）<!-- AUTO:END duty -->
 

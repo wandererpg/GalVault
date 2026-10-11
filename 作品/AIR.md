@@ -29,6 +29,26 @@ cover_image: "assets/covers/v36.webp"
 ![[assets/covers/v36.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Summer had come to that town.
+
+A young man is performing with a puppet in front of a seaside bus stop. Only two children are watching his show. However, they soon lose interest and run off.
+
+The young man is a traveler. He has two companions on his travels. A decrepit doll that moves without strings, and a powerful oath made a long time ago.
+
+Just when he began to feel despair, a young girl comes to talk to him. She has a friendly, innocent smile. Following this meeting with her, the young man begins to live in that town.
+
+Spending gentle days enveloped in the scenes of summer. Encounters with girls in the sunlight.
+
+Summer stretches on endlessly. Beneath the vast blue sky. Beneath the air in which she awaits.
+
+[From [Steam](https://store.steampowered.com/app/2983250/AIR/)]
+
+来源：[VNDB v36](https://vndb.org/v36)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Key]]（developer）<!-- AUTO:END duty -->
 

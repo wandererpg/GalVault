@@ -27,6 +27,16 @@ cover_image: "assets/covers/v29689.webp"
 ![[assets/covers/v29689.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Meeting in the Flesh is a free horror/romance visual novel. You play as Vil, the resident of a strange but friendly little city, encountering various people and getting the chance to court one of three different monstrous suitors. Though the game will include some body horror imagery, the game is a romance at its core, with a focus on getting to know and growing closer to your partner. It features romantic scenes that can be toggled between a PG-13 and R rating.
+
+[From [itch.io](https://inkethic.itch.io/meetingintheflesh)]
+
+来源：[VNDB v29689](https://vndb.org/v29689)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[inkEthic]]（developer）<!-- AUTO:END duty -->
 

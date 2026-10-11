@@ -28,6 +28,38 @@ cover_image: "assets/covers/v33036.webp"
 ![[assets/covers/v33036.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+In Sahoro City—
+
+A legend persists. It's believed that whoever collects all 12 stars named "Ambitious" can achieve any desired dream...
+
+And tonight, someone continues to chase this fable within the streets of Sahoro.
+
+"Calling Card: Tonight, I'll be taking the beautiful starry sky of this city. Signed, Phantom Thief Miss Arte."
+
+By pure coincidence, our protagonist, Nezu Mikage, happens to be at the scene of Miss Arte's latest stunt. Surprisingly, he deduces that the true identity of Miss Arte is his classmate, the * ojou-sama*  (young lady) Arise Kaguya.
+
+"We can't risk the slightest chance of someone finding out. Hence, I'll show you... I'll ensnare your heart and all the feelings it contains."
+
+Not wanting her secret unveiled, Kaguya attempts to recruit Mikage into the phantom thief group she formed to realize her ambitions, but it doesn't quite go as planned.
+
+At one point, the "orphanage" where Mikage grew up is jeopardized. Making her appearance, Miss Arte swiftly and elegantly protects the institution, revealing a hidden "truth" in the process.
+
+"So, you're not like the typical thief?"
+
+"Exactly. I steal the hearts of those who witness me and leave an indelible impression on them. That's the essence of a *kaitou* (phantom thief)."
+
+"I get it. I'll lend my hand. To your *yabou*  (ambition) or whatever you call it."
+
+When "Phantom Thief Miss Arte" and "Phantom Thief Midnight" join forces, the curtain rises on a tale revolving around the "truth" shrouded in Sahoro's night.
+
+[Translated from [official site](http://sagaplanets.product.co.jp/works/ambitious/)]
+
+来源：[VNDB v33036](https://vndb.org/v33036)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[SAGA PLANETS]]（developer）<!-- AUTO:END duty -->
 

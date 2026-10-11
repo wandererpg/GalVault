@@ -28,6 +28,14 @@ cover_image: "assets/covers/v7754.webp"
 ![[assets/covers/v7754.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Learn the programming language Lisp with Arisa and Suzuka. The premise is that LISP (actually it's Scheme they're teaching you in the game) is the language used to program the AI's of the intelligent Devices used by the mages in the Lyrical Nanoha world.
+
+来源：[VNDB v7754](https://vndb.org/v7754)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Mahou Gengo Lyrical ☆ Lisp Team]]（developer）<!-- AUTO:END duty -->
 

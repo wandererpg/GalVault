@@ -27,6 +27,16 @@ cover_image: "assets/covers/v28737.webp"
 ![[assets/covers/v28737.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Temptation's Ballad is a fairly linear visual novel in a D&D style medieval fantasy setting. Three idiots from vastly different backgrounds band together in an adventuring party to unravel the magical secrets within the city of Axia. Together, they battle demons, seduce locals, and learn a little about themselves along the way. And probably cause massive property damage.
+
+[From [Itch.io](https://shirokoi.itch.io/temptations-ballad)]
+
+来源：[VNDB v28737](https://vndb.org/v28737)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Shirokoi]]（developer）<!-- AUTO:END duty -->
 

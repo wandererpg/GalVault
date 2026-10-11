@@ -29,6 +29,14 @@ cover_image: "assets/covers/v21521.webp"
 ![[assets/covers/v21521.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Second fandisc in the Code: Realize series, containing after stories for the new routes from Shukufuku no Mirai. It also contains stories about the first Christmas Cardia spends with the bachelors, as well as a new story featuring the new character Cantarella.
+
+来源：[VNDB v21521](https://vndb.org/v21521)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Design Factory Co., Ltd]]（developer）
 - [[Otomate]]（developer）<!-- AUTO:END duty -->

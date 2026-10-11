@@ -29,6 +29,22 @@ cover_image: "assets/covers/v415.webp"
 ![[assets/covers/v415.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+At 28, Yoshimura Osamu faces despair: love lost, job gone, hope diminished, and youth fading. After spending his last money on a drink, he meets Honoka, a captivating woman from the pub, who offers him encouragement and her address, suggesting he visit if in trouble. She apparently manages an apartment complex, which Osamu, intrigued, decides to explore.
+
+Arriving at 'Terrace House Hinosaka,' he discovers a dilapidated place, not the luxury he expected. He's greeted by Hinosaka Mitoko, a small but spirited girl revealed to be Honoka's daughter. With Honoka having eloped, Mitoko now runs the boarding house with its odd tenants.
+
+Osamu, describing himself as tall and educated but jobless, starts living with Mitoko, challenging his view of himself and his circumstances. He navigates life with peculiar neighbors, rebuffs advances from a coworker, thwarts a rich neighbor's plots, and seeks the truth about Mitoko's enigmatic teacher.
+
+Entwined with misfortune, Osamu's future is uncertain, leading to an unpredictable journey of growth and discovery.
+
+[Based on [ MangaGamer](http://mangagamer.org/damekoi/) and the official site]
+
+来源：[VNDB v415](https://vndb.org/v415)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[HERMIT]]（developer）<!-- AUTO:END duty -->
 

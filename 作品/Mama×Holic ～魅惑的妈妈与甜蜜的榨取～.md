@@ -28,6 +28,21 @@ cover_image: "assets/covers/v28731.webp"
 ![[assets/covers/v28731.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+By a strange turn of events, Amano Taichi has become the one that possesses the "magic element of awakening" that all demi-humans seek.
+
+Taichi is to use this power to awaken the demi-humans Kuon, Suzuka, and Seira to their latent abilities by having sex with them every day, but an accident puts the entire school in a coma!
+
+To solve the situation, he needs the super-rare "Universal Sacred Milk" treasure.
+In order to obtain this, the three mothers of the comatose girls -- Mai, Yasha, and Sarii -- Taichi will have to have sex with them, and milk them?!
+
+The days of naughty breast milking the super erotic married demi-mamas begin.
+
+来源：[VNDB v28731](https://vndb.org/v28731)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Atelier Kaguya BARE & BUNNY]]（developer）<!-- AUTO:END duty -->
 

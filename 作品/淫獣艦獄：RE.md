@@ -28,6 +28,25 @@ cover_image: "assets/covers/v60525.webp"
 ![[assets/covers/v60525.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+A remake of the original survival horror nukige by Butcha-U.
+
+In the near future, humanity ventured into space in search of depleted resources.
+Having completed its long-term mission to exploit new energy sources, the space exploration Vessel Settler was poised to return to Earth.
+However, just before its return, a sudden fuel malfunction forced the crew toward an ‘unknown drifting vessel’.
+None could have known this marked the beginning of a nightmare where flesh and mind were consumed, and reason drowned in pleasure—.
+Crawling through the ship are monstrous lifeforms driven by the instincts of reproduction and assimilation.
+Infected crewmates are reshaped, mutating into lust-driven beasts.
+The fading reason of comrades, the encroaching waves of pleasure and domination.
+
+The newly added routes unfolds ‘another form of corruption’ and ‘new choices of despair’ never before depicted.
+Can you ≪REclaim≫ a future of survival from the transforming prison ship alongside the heroine—!?
+
+来源：[VNDB v60525](https://vndb.org/v60525)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[CLOCKUP]]（developer）<!-- AUTO:END duty -->
 

@@ -27,6 +27,21 @@ cover_image: "assets/covers/v36776.webp"
 ![[assets/covers/v36776.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+I once heard a story...
+There's a marketplace under the mountain where anything can be bought and sold. Visitors wear masks to become faceless strangers. It's home to the unscrupulous, the outcast, and the desperate.
+
+You're one of the desperate.
+
+Strangers with their own secrets and ambitions can show you ways through the market. They'll guide you to your goal, but don't trust them to have your best interests at heart.
+
+[From [itch.io](https://rottenraccoons.itch.io/obscura)]
+
+来源：[VNDB v36776](https://vndb.org/v36776)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Rotten Raccoons]]（developer）<!-- AUTO:END duty -->
 

@@ -29,6 +29,15 @@ cover_image: "assets/covers/v266.webp"
 ![[assets/covers/v266.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Takes place approximately 50 years after the original D.C. ~Da Capo~ game.
+The story revolves around Sakurai Yoshiyuki and Otome & Yume, sibling granddaughters of the original D.C. ~Da Capo~ protagonists Jun'ichi and Nemu.
+
+来源：[VNDB v266](https://vndb.org/v266)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[CIRCUS]]（developer）
 - [[k-ten]]（developer）<!-- AUTO:END duty -->

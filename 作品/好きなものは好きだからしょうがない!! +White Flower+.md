@@ -29,6 +29,16 @@ cover_image: "assets/covers/v7544.webp"
 ![[assets/covers/v7544.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Taking place a couple of years after "Rain", many changes have been made to the school. Not only is it no longer an all boys school, several of the former students are now working as teachers while others move onto other jobs. Sora, as one of the teachers, has been living a fairly normal life as he takes Minato's place as teacher. However, he realizes that it won't stay normal for long when he sees that Sunao, who he has not seen since the events in "Rain", reappears in one of the halls. This game finally wraps up the story between Sora and Sunao and ends their conflict with Professor Aizawa.
+
+[taken from [Wikipedia](http://en.wikipedia.org/wiki/Suki_na_Mono_wa_Suki_Dakara_Sh%C5%8Dganai!)]
+
+来源：[VNDB v7544](https://vndb.org/v7544)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Platinum Label]]（developer）<!-- AUTO:END duty -->
 

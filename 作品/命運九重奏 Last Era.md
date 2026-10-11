@@ -29,6 +29,43 @@ cover_image: "assets/covers/v14415.webp"
 ![[assets/covers/v14415.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+A fandisc of [Norn9 ~Norn + Nonette~](/v11179) which contains three different story parts:
+
+1) Concerto –Kyousoukyoku–
+
+Sun Concerto
+Even though it’s not a special day, the morning that welcomes you and your boyfriend is filled with the greatest happiness. Nothing could possibly change this specialness. This is a story written about you and your beloved boyfriend’s day-to-day life.
+
+Moonlight Concerto
+A problem that arises between you and your sweetheart after becoming a couple… This has something to do with his past. This is a story about fastening the traces of the past, present and future together.
+
+
+2) Fuga –Tonsoukyoku–
+
+The meaning of that kiss and embrace on that day… The feelings he had hidden in the innermost depths of his heart had unveiled. This is the original story told from his perspective.
+
+
+3) Fantasia –Gensoukyoku–
+
+What if the girls’ love had never blossomed?
+This is a “what if?” story written about a single scene from a certain trip…
+
+A certain incident that had occurred in the real world and the dream world causes chaos aboard Norn.
+The Norn members had all become small in the dream world.
+They thought Itsuki was behind this, but apparently, this wasn’t the case.
+
+“Even though we’ve become small… If it’s only in the dream world, it shouldn’t be an issue.”
+
+That’s what everybody thought… However, problems also gradually arose in the real world. Finally not being able to endure this situation, they all use Heishi and Itsuki’s abilities to gather together.
+
+[Translation of the [URL=http://www.otomate.jp/norn9/last-era/world/]official website's story summary[/URL].]
+
+来源：[VNDB v14415](https://vndb.org/v14415)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Otomate]]（developer）<!-- AUTO:END duty -->
 

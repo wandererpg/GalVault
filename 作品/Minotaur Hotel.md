@@ -27,6 +27,20 @@ cover_image: "assets/covers/v26488.webp"
 ![[assets/covers/v26488.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Minotaur Hotel is a romance visual novel about Asterion -- the minotaur from the old greek myth -- and what he's been through over the centuries.
+
+During a trip you acquire the deed for a magical, dilapidated hotel sitting atop a cliff overlooking a valley. There you meet the caretaker -- Asterion. As the new owner you will try to restore the hotel to its former glory and bring in guests. Meanwhile you will learn about Asterion, his crime and the sentence the gods imposed on him.
+
+The valley below contains many secrets which will reveal more about the past and the gods -- but it also houses many threats.
+
+[From [itch.io](https://minoh.itch.io/minotaur-hotel)]
+
+来源：[VNDB v26488](https://vndb.org/v26488)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Minoh Workshop]]（developer）
 - [[Nanoff]]（developer）<!-- AUTO:END duty -->

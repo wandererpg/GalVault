@@ -28,6 +28,16 @@ cover_image: "assets/covers/v35919.webp"
 ![[assets/covers/v35919.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+You are a hero; the Hero, in fact, who has just put an end to the Villain terrorising the island, ending your long quest. But you remember nothing of it; not the quest, not the woman claiming to be your fiancée, not your amazing deeds and immense riches. Five years have been wiped clean from your mind. When the Villain’s minions continue to cause trouble, you must travel once more, this time in search of your forgotten memories. But the more you remember, the less the stories ring true.
+
+[From [itch.io](https://maneki-mushi.itch.io/theherosjourney)]
+
+来源：[VNDB v35919](https://vndb.org/v35919)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[maneki_mushi]]（developer）<!-- AUTO:END duty -->
 

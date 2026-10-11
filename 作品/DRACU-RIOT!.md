@@ -28,6 +28,20 @@ cover_image: "assets/covers/v8213.webp"
 ![[assets/covers/v8213.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The story begins with Mutsura Yuuto accompanying his friend on a holiday to Aqua Eden, an artificial island city where gambling and the sex industry are legal.
+
+However, his holiday plans are laid to waste after he gets involved in a kidnapping; to make matters worse, he ends up getting turned into a vampire.
+
+As a vampire, he can no longer leave Aqua Eden; so with nowhere else to go, he decides to enroll in a special school for vampires on the island — and thus, his new night life begins!
+
+[Edited from [Staircase Subs](https://web.archive.org/web/20170619214438/http://staircasesubs.com/dracu-riot) and [Hau~ Omochikaeri!](http://omochikaeri.wordpress.com/2012/03/01/march-2012-eroge-releases/)]
+
+来源：[VNDB v8213](https://vndb.org/v8213)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Yuzusoft]]（developer）<!-- AUTO:END duty -->
 

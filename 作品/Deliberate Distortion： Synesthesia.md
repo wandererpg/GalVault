@@ -28,6 +28,16 @@ cover_image: "assets/covers/v5194.webp"
 ![[assets/covers/v5194.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Once again waking up in a hospital room, Shinji tries to understand what happened, and in this, he is helped by Katsuragi Misato, who has come to check on his health. Everything turns out to be quite simple - the pilot of Eva-01 was unlucky enough to fall into the shadow of a strange Angel and Shinji was simply undergoing rehabilitation. But upon returning home, in small details and random movements, the pilot understands that something is wrong. On top of everything else, he is also accused of murder, and even the optimistic Misato-san is unable to save the situation. However, help comes from an unexpected side.
+
+[Translated from [HD-team](https://hd-team.info/home/deliberate-distortion-synesthesia.html)]
+
+来源：[VNDB v5194](https://vndb.org/v5194)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Hedgehog's Dilemma team]]（developer）<!-- AUTO:END duty -->
 

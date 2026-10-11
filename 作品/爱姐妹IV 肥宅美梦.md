@@ -29,6 +29,16 @@ cover_image: "assets/covers/v14826.webp"
 ![[assets/covers/v14826.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Kenji Nishiyama is a fat ugly man that wastes all his money with prostitutes. After losing his job, he decided to blackmail a married woman, Eriko, to start a secret sex life with him under the threat of showing her daughters a picture of her husband leaving love hotel with unknown girl.
+
+Later on he tries to use pictures of Eriko to get her daughters too, but though it worked, relationships with them and the reasons they keep staying with him are very different from what he had expected.
+
+来源：[VNDB v14826](https://vndb.org/v14826)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[SILKY'S]]（developer）<!-- AUTO:END duty -->
 

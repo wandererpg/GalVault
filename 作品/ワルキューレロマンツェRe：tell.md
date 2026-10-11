@@ -29,6 +29,14 @@ cover_image: "assets/covers/v15105.webp"
 ![[assets/covers/v15105.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Announced as a series of append stories. The first installment focuses on Noel and Ayako. The second installment focuses on Celia and Akane.
+
+来源：[VNDB v15105](https://vndb.org/v15105)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Ricotta]]（developer）<!-- AUTO:END duty -->
 

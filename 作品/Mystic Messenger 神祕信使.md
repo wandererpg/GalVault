@@ -27,6 +27,22 @@ cover_image: "assets/covers/v17915.webp"
 ![[assets/covers/v17915.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+You were looking for a game app just to kill some time and stumbled upon an app called "Mystic Messenger".
+
+It sounded interesting so you downloaded it. Once you opened it up, you found yourself chatting with someone nicknamed "Unknown".
+
+"Unknown" persuaded you to go to some studio apartment. As soon as you walked in the apartment, your app suddenly connected to a mystic group chat with attractive guys!?
+
+After a long chat, they ask you to join their secret party planning association called R.F.A...
+
+[From [Official Site](http://msg.cheritz.com/info)]
+
+来源：[VNDB v17915](https://vndb.org/v17915)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Cheritz Co., Ltd]]（developer）<!-- AUTO:END duty -->
 

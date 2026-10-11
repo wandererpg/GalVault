@@ -27,6 +27,18 @@ cover_image: "assets/covers/v21616.webp"
 ![[assets/covers/v21616.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Scotland, 1919. The MacLeod sisters have felt the toll of war and are struggling to make ends meet. When their neighbor and childhood friend returns home, his support might just be the blessing they need. But little do they know, he will reveal a secret that will change their lives - literally!
+
+Play as Malcolm, the young Scottish veteran struggling to find peace on the ranch where he grew up. As the lives of Malcolm and those closest to him are turned upside down, your actions dictate how the story will end!
+
+[From [Patreon](https://www.patreon.com/LittleNapoleon)]
+
+来源：[VNDB v21616](https://vndb.org/v21616)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Helmet Fox Productions]]（developer）<!-- AUTO:END duty -->
 

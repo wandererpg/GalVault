@@ -28,6 +28,14 @@ cover_image: "assets/covers/v25635.webp"
 ![[assets/covers/v25635.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+A revamped version of the original Maitetsu, including content from both the original game and the consumer ports as well as sequels to all the routes, doubling the content of the original game and counting more than 2 million words in the text.
+
+来源：[VNDB v25635](https://vndb.org/v25635)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Lose]]（developer）
 - [[RaRo]]（developer）<!-- AUTO:END duty -->

@@ -29,6 +29,20 @@ cover_image: "assets/covers/v26532.webp"
 ![[assets/covers/v26532.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+One rainy night in November, a woman’s body is found at an abandoned theme park, mounted on a merry-go-round horse. She had been stabbed repeatedly, and her left eye was gouged out.
+Kaname Date of the Metropolitan Police Department arrives on the scene. He recognizes the woman. Suddenly, he hears a noise from inside the merry-go-round.
+He breaks into the merry-go-round’s central column to find a young girl. And in her hands, she grips a bloody ice pick...
+
+AI: The Somnium Files takes place in a technologically advanced Tokyo in the near future, and follows Kaname Date and his top-secret team within the Tokyo Metropolitan Police Department, known as the Advanced Brain Investigation Squad (ABIS). ABIS is responsible for investigating crimes through the process of Psyncing, exploring the subconcious dreams of persons of interest via a machine connecting the two together in a dream state known as Somnium. ABIS agents doing such are known as Psyncers, and act as observers in subjects' dreams who are able to retrieve secrets and clues the subject may be hiding or may not be aware of. To ensure psyncers are not subject to adverse effects, their time in a subject's somnium is limited to a maximum of six minutes. Also featured in the universe is the topic of advanced Artificial Intelligence, based around a global cloud-based system known as the Wadjet System that acts as the core of AI.
+
+[From [Wikipedia](https://en.wikipedia.org/wiki/AI:_The_Somnium_Files) and [Official Site](https://www.spike-chunsoft.com/ai/top.html)]
+
+来源：[VNDB v26532](https://vndb.org/v26532)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Spike Chunsoft]]（developer）<!-- AUTO:END duty -->
 

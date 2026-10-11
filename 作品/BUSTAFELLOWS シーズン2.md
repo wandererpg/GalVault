@@ -29,6 +29,20 @@ cover_image: "assets/covers/v29871.webp"
 ![[assets/covers/v29871.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Everyone wants answers. Who is to blame? What went wrong? And what must the punishment be? To preserve the state of the world, everything is either black or white. Those who focus on the in-between will only continue to suffer.
+
+Everyone must know it in their hearts—that all things come as a pair. Black or white. Front or back. Light or dark. Good news, or bad news.
+
+And things either change, or come to an end.
+
+[From [Gematsu](https://www.gematsu.com/2022/12/bustafellows-season-2-launches-may-25-2023-in-japan)]
+
+来源：[VNDB v29871](https://vndb.org/v29871)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Extend]]（developer）<!-- AUTO:END duty -->
 

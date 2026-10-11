@@ -28,6 +28,14 @@ cover_image: "assets/covers/v31662.webp"
 ![[assets/covers/v31662.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Super Danganronpa Another 2 ~The Sun of Despair and the Moon of Hope~ is a Danganronpa fangame developed by Korean game-developer LINUJ. It is the sequel to LINUJ's first fangame; Danganronpa Another.
+
+来源：[VNDB v31662](https://vndb.org/v31662)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Linuj]]（developer）<!-- AUTO:END duty -->
 

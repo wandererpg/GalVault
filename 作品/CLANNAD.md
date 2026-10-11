@@ -29,6 +29,31 @@ cover_image: "assets/covers/v4.webp"
 ![[assets/covers/v4.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Just 200 meters from the school gate, I find myself standing still, sighing as I gaze up at the sky.
+
+Beyond lies the school gate, and I can't help but wonder who in their right mind would choose to place it in such a location. The slope in front of it stretches out like an unending ordeal.
+
+Another sigh, quieter and shorter than mine, pulls me from my thoughts. I glance over and see a girl standing just as motionless. She's in her third year too, but I don't recognize her. Her short hair catches the breeze, fluttering just above her shoulders.
+
+"Do you like this school?" she suddenly asks, not really to me, more like to herself.
+"I really, really like it. But nothing can stay the same forever. Everything has to change," she murmurs, her voice trailing off. "Can you still like this place, even then?"
+
+"You just need to find what you love about it, right?" I chime in, catching her off guard. "You haven't really thought about what makes you happy here, have you?"
+
+Back when we were younger, everything seemed simpler—everyone felt that way at some point.
+
+"Come on, let's go," I say.
+
+And together, we begin to climb the long, winding slope.
+
+[Based on [the official site](https://key.visualarts.gr.jp/product/clannad/story/)]
+
+来源：[VNDB v4](https://vndb.org/v4)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Key]]（developer）<!-- AUTO:END duty -->
 

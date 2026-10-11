@@ -29,6 +29,24 @@ cover_image: "assets/covers/v60604.webp"
 ![[assets/covers/v60604.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Alfhelm is a world of elves where only females exist.
+
+With their Holy Tree withering away, the elves faced the threat of extinction. Guided by divine revelation, they summoned a savior from another world - the protagonist.
+
+Even while the elves and the dark elves were at war, the protagonist continued having babymaking sex with everyone. But Evelyn, feeling uncertainty about their babymaking activities, turned to the elder Nol for advice.
+
+In response, Nol deviced a brilliant plan to make it an utter certainty that the two continued making love. Her plan was to lock the two into a "babymaking room" that they were forbidden to leave until she got pregnant.
+
+Misery, who overheard the plan by coincidence, immediately joined in. With Evelyn wanting to serve her master, and Misery getting excited by the competition itself, the curtain rises on a circumstance where intense babymaking is mandatory.
+
+[Translated from the [official website](https://www.lune-soft.jp/game/30261)]
+
+来源：[VNDB v60604](https://vndb.org/v60604)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Lune]]（developer）<!-- AUTO:END duty -->
 

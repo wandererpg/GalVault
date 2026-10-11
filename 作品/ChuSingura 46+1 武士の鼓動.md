@@ -29,6 +29,18 @@ cover_image: "assets/covers/v15493.webp"
 ![[assets/covers/v15493.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This is the fandisk for ChuSinGura46+1. Suguha and the 47 ronin were able to thwart the massive plot. However, now he was faced with a new problem: due to a certain event, they all began vying for his love! What will become of him when he’s tempted by all the brave and beautiful ladies across the land?
+
+In addition, there’ll be a shocking revelation about the unexplained ‘empty time’ from the original game. Waiting for them was the Shinsengumi ‘Mibu no Ookami’ (wolves of Mibu)! It seems that they have time-slipped to the late Tokugawa period!
+
+[From [Hau~ Omochikaeri!](http://omochikaeri.wordpress.com/2014/11/09/november-2014-eroge-releases/)]
+
+来源：[VNDB v15493](https://vndb.org/v15493)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[inre]]（developer）<!-- AUTO:END duty -->
 

@@ -27,6 +27,20 @@ cover_image: "assets/covers/v46087.webp"
 ![[assets/covers/v46087.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The next successor war dawns on Earth. A seat at the high table, once governed by a powerful demon, went vacant for unknown reasons. With a chance at a position of control, other lesser demons roused from their respective places, each with an aspiration of reaching the apex of power.
+
+But you, an outsider, knew nothing about it. A rude awakening haunted your place in the form of an armed assailant, and you'd be dead if it wasn't due to a man who called himself your father.
+
+Thrown into a different life, you must gather power from gaining loyal followers; (mainly)women beguiled by your irresistible demonic charm. Seduce and corrupt your way into a stable life. And then... maybe, just maybe, you might rise to the top.​
+
+[From F95Zone]
+
+来源：[VNDB v46087](https://vndb.org/v46087)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[SparkHG]]（developer）<!-- AUTO:END duty -->
 

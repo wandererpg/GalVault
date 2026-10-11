@@ -30,6 +30,16 @@ cover_image: "assets/covers/v18907.webp"
 ![[assets/covers/v18907.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This is the fandisc for "Miagete Goran, Yozora no Hoshi o" with after stories for each of the four heroines. There are also new routes for sub-heroines Honoka and Miharu, and a downloadable route for Hinami in late June.
+
+[From [Hau~ Omochikaeri!](https://omochikaeri.wordpress.com/2016/05/01/may-2016-eroge-releases/)]
+
+来源：[VNDB v18907](https://vndb.org/v18907)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[PULLTOP]]（developer）<!-- AUTO:END duty -->
 

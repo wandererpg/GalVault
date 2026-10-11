@@ -28,6 +28,16 @@ cover_image: "assets/covers/v17843.webp"
 ![[assets/covers/v17843.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This is the second season of Amakano, with a new group of heroines in a similar winter setting. The protagonist came to the snowy town of Yomase to start a new life at the quiet inn Enki. Meeting the kind and cute, yet mischievous wheelchair-bound Kanade, the timid and earnest library committee member Yuzuka, and the cheerful and reliable student council leader Ruika helped him feel at ease in his new surroundings. However, there was another girl Honami who transferred on the same day, and she did not feel comfortable like he did. He wished to help her enjoy it, and that feeling would be the beginning of his love life.
+
+[From [Hau~ Omochikaeri!](https://omochikaeri.wordpress.com/2015/12/18/december-2015-eroge-releases/)]
+
+来源：[VNDB v17843](https://vndb.org/v17843)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Azarashi Soft]]（developer）<!-- AUTO:END duty -->
 

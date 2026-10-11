@@ -28,6 +28,25 @@ cover_image: "assets/covers/v4209.webp"
 ![[assets/covers/v4209.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The future.
+There are living things that cannot be seen as human.
+They come from test tubes.
+Subhumans.
+They laugh and walk and play.
+
+Day after day after day.
+
+An adventure game about the pursuit of humanity.
+Let it begin.
+
+[from [DLsite English](http://eng.dlsite.com/work/=/product_id/RE062606.html)]
+
+来源：[VNDB v4209](https://vndb.org/v4209)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[non color]]（developer）<!-- AUTO:END duty -->
 

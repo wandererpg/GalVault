@@ -27,6 +27,21 @@ cover_image: "assets/covers/v28323.webp"
 ![[assets/covers/v28323.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+How can you end up caught in the crossfire between two best friends, just by trying to return a lost item?
+As it turns out, quite easily!
+To resolve their tangled dispute, they need someone with an unbiased perspective, someone to look at the situation from the outside.
+Decide which of them to help, but keep in mind that this choice will not be easy.
+
+Who should you listen to? Which path should you choose?
+Keep the Flame from fading, or try to catch the elusive Wind?
+It might seem like there are only two obvious paths, but perhaps everything is not as it seems at first glance.
+
+来源：[VNDB v28323](https://vndb.org/v28323)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[RedGryph]]（developer）<!-- AUTO:END duty -->
 

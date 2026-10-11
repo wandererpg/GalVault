@@ -28,6 +28,16 @@ cover_image: "assets/covers/v7067.webp"
 ![[assets/covers/v7067.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+A fantasy battle SLG that is very loosely based on Japanese mythology game. The fictional city of Kyouto-shi in Kansai is a traditional city full with history. There are many tales of first-hand encounters with gods and strange things. Wakahiko sets out to find the truth behind these rumours and three goddess appeared before him. He ends up being dragged into their affairs and is given powers to fight alongside the do-S queen of the heavens Amaterasu, ultra-sensitive god of war Takemikazuchi and natural exhibitionist Amanouzume.
+
+[From [Hau~ Omochikaeri!](http://omochikaeri.wordpress.com/2011/11/01/november-2011-eroge-releases/)]
+
+来源：[VNDB v7067](https://vndb.org/v7067)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Escu：de]]（developer）<!-- AUTO:END duty -->
 

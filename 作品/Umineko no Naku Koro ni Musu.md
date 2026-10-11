@@ -25,6 +25,15 @@ cover_image: "assets/covers/v24610.webp"
 ![[assets/covers/v24610.webp|300]]
 <!-- AUTO:END image -->
 
+
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Umineko no Naku Koro ni Musu takes place in the year 1996 during a short period of time on April 14th in Skinner's home within a residential neighborhood. The principal of Springfield Elementary School named Seymour Skinner, who lives on and owns his own home in the aforementioned peaceful neighbourhood, has invited Superintendent Chalmers to his home, to enjoy a home-cooked meal of his making. After Superintendent Chalmers arrives, something goes amiss, and things don't go according to plan. Will Seymour be able to salvage this meal as well as Chalmers's perception of him?
+
+来源：[VNDB v24610](https://vndb.org/v24610)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Chamango0]]（developer）<!-- AUTO:END duty -->
 

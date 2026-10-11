@@ -29,6 +29,18 @@ cover_image: "assets/covers/v16483.webp"
 ![[assets/covers/v16483.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This is the sequel to Alia's Carnival!. Spring turned to summer at Sakumodai Gakuen, which is home to the future science curriculum and self-governed by students who possess ‘arcane’ abilities. As usual, Ren is giving it his all in his quest for ALIA, enjoying his school life with his group of friends.
+
+One day, a strange girl Inori appeared, proclaiming that she is a messenger from the student council. After that, his surroundings began to gradually change. What kind of story awaits him?
+
+[From [Hau~ Omochikaeri!](https://omochikaeri.wordpress.com/2015/05/17/may-2015-eroge-releases/)]
+
+来源：[VNDB v16483](https://vndb.org/v16483)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[NanaWind]]（developer）<!-- AUTO:END duty -->
 

@@ -27,6 +27,19 @@ cover_image: "assets/covers/v20486.webp"
 ![[assets/covers/v20486.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+An ordinary high school student named John comes across an object of immense power on an otherwise ordinary day. Will he use it to pursue his own deepest desires? Or will he and his friends be caught between forces they don't understand?
+
+[From [TF Games Site](https://www.tfgames.site/?module=viewgame&id=790)]
+
+A collaborative effort of multiple members on "TF Games Site".
+All game's art assets are borrowed from various Japanese visual novels.
+
+来源：[VNDB v20486](https://vndb.org/v20486)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[TF Games Site]]（developer）<!-- AUTO:END duty -->
 

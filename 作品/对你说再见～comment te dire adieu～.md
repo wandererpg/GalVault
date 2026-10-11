@@ -29,6 +29,27 @@ cover_image: "assets/covers/v1200.webp"
 ![[assets/covers/v1200.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The protagonist is a trainee teacher who commutes to a certain girls' school.
+Safely finishing the daily practice period, and becoming a regular teacher is his goal.
+However, his mind begins to tire.
+
+Uneasiness and nightmares come in sudden attacks, causing a strain, a social phobia, begins to grow more and more every day.
+Slowly a fear of the girls he meets with after school begins to emerge, yet at the same time, a desire and passion.
+Disgust, a kind of taboo, such a feeling is directed to the adult women who are his colleagues.
+
+"Am I really fit to be a teacher?"
+
+Day by day, the pressure builds.
+
+Even when the lessons are over, the lights are off, and the school is closed for another night.
+He cannot help but wander.
+
+来源：[VNDB v1200](https://vndb.org/v1200)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[CRAFTWORK]]（developer）<!-- AUTO:END duty -->
 

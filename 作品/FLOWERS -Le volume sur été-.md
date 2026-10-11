@@ -29,6 +29,20 @@ cover_image: "assets/covers/v15395.webp"
 ![[assets/covers/v15395.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Erika/Chidori: "Have you ever thought of wanting to do something for the one you love?"
+
+This is the all-age sequel to FLOWERS -Le volume sur printemps-. In the season of first meetings, a girl with a wounded heart, Suou, found a friend and lover who would accept her. However, this friend and lover left the school without telling her the reason at the end of spring. Suou was in denial about her loss, and fellow bookworm Erika was gravely worried and looked for a way to heal Suou’s broken heart.
+
+With the early arrival of summer, a girl named Chidori transferred into the school. She met Erika by accident when Erika was coming back to the dorm and told Erika that she was a coward for stalking her. It was the worst first meeting for the two who would end up becoming each other's "Amitié."
+
+[From [Hau~ Omochikaeri!](https://omochikaeri.wordpress.com/2015/04/01/april-2015-eroge-releases/)]
+
+来源：[VNDB v15395](https://vndb.org/v15395)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Innocent Grey]]（developer）<!-- AUTO:END duty -->
 

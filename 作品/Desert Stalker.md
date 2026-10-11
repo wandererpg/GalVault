@@ -27,6 +27,16 @@ cover_image: "assets/covers/v31675.webp"
 ![[assets/covers/v31675.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The game takes place in post-apocalyptic Egypt. You will play the role of a Desert Stalker; a free warrior and adventurer who scours the violent remnants of a civilisation scattered through sand dunes and destroyed cities. A family man at heart, you will explore the world around you, find treasures, fight enemies, forge alliances and have a blast along the way, all to provide for your loved ones who dutifully wait for you at home.
+
+[From [Patreon](https://www.patreon.com/desertstalker)]
+
+来源：[VNDB v31675](https://vndb.org/v31675)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[ZetanDS]]（developer）<!-- AUTO:END duty -->
 

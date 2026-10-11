@@ -28,6 +28,16 @@ cover_image: "assets/covers/v3660.webp"
 ![[assets/covers/v3660.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Michael and Gabriel Levi are twins who are enrolled in a seminary. On the eve of their Christmas holidays, the twins return home eager to see their family after the absence, only to find them dead and their home in flames. As if things couldn't get any more strange, there's a bizarre mark on the wall painted in their father's blood, of an inverted cross with a snake wrapped around it. It's the mark of a secret society in their very own school - a secret society which worships the devil.
+
+Furious that God could let something so callous occur on a holy day, Michael turns his back on the figure he so dearly worshiped beforehand and vows to get his revenge while investigating the cult that had something to do with the destruction of his family.
+
+来源：[VNDB v3660](https://vndb.org/v3660)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[PIL／SLASH]]（developer）<!-- AUTO:END duty -->
 

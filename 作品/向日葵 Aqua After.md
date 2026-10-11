@@ -30,6 +30,22 @@ cover_image: "assets/covers/v4876.webp"
 ![[assets/covers/v4876.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Fandisc of "Himawari" (Sunflower), the sci-fi visual novel game.
+The afterstory of Aqua's route and two mini games are included.
+
+The year is 2051. The season is summer.
+Aqua and Yoichi continue to live together,
+and everything is happy and bountiful for them and their friends.
+However, six months after graduation, a decision Yoichi has been putting off must be made...
+
+[Edited from [DLsite English](https://www.dlsite.com/home/work/=/product_id/RJ083612.html)]
+
+来源：[VNDB v4876](https://vndb.org/v4876)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Blank Note]]（developer）<!-- AUTO:END duty -->
 

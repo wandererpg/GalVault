@@ -27,6 +27,18 @@ cover_image: "assets/covers/v19471.webp"
 ![[assets/covers/v19471.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Torn from her home, an unfortunate soul finds herself caught in an old and buried secret. The virulent elves who claim the poison within her have imprisoned her on their stormy island, some eager to see what will become of her, others eager to keep their secrets safe.
+
+She finds an array of allies, even as she's hunted, and she will perhaps even find a lover. Her whole life she had been hidden. Now, unfurled before her, as the harbinger of something terrible and great, she finds Gha'alia.
+
+[From [itch.io](https://underbliss.itch.io/ebon-light)]
+
+来源：[VNDB v19471](https://vndb.org/v19471)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Underbliss]]（developer）<!-- AUTO:END duty -->
 

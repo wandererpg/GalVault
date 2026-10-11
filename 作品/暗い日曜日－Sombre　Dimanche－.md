@@ -28,6 +28,36 @@ cover_image: "assets/covers/v2567.webp"
 ![[assets/covers/v2567.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+It's the sixth day of incessant rain in the city.
+The entire country had been shaken by a series of bizarre murders, occuring late at night on a deserted street.
+Because slashing throats and tearing open stomachs were his modus operandi, the criminal was rumored to be a "Modern-day Jack the Ripper."
+
+But the fourth victim was the last- the crimes just stopped.
+Did he fear that the police would find him, or is he preparing for his next crime?
+Eventually, the existence of "Jack the Ripper" began to fade from everyone's minds, though the mystery and terror remained.
+
+...and now, in October.
+The rainy season has come again.
+
+The protagonist, though he lives a boring, mundane life, is antisocial and rejects others. One night, he encounters a stuffed rabbit wielding an enormous axe in a nightmare.
+
+What awaits the protagonist is a new world, cloaked in a semblance of reality but slowly eroded by madness: the stuff of nightmares.
+
+Drowning herself in the song Gloomy Sunday, his mother commits suicide in the bathtub.
+The twin brother who only exist at school on Sunday.
+The junior from the track-and-field club who can't run anymore because of the death of his family member.
+
+The protagonist continues to roam the "world with no way out" in the ceaseless rain.
+He has no idea of the "truth" that awaits him there...
+
+[Edited from [Deja Vu](http://www.mangasos.com/dejavu/vn/projects-sombretrial.html)]
+
+来源：[VNDB v2567](https://vndb.org/v2567)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[ZIGZAG]]（developer）<!-- AUTO:END duty -->
 

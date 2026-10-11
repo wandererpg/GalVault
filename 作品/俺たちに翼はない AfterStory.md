@@ -29,6 +29,16 @@ cover_image: "assets/covers/v3194.webp"
 ![[assets/covers/v3194.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This Oretsuba fandisk has after stories for each of the 4 heroines, plus over 20 short-stories, a new OP and ED, as well as character songs and a tachi-e and scenery viewer. Also, the protagonists will be voiced except during H scenes!
+
+[From [Hau~ Omochikaeri!](https://omochikaeri.wordpress.com/2010/07/01/july-2010-eroge-releases/)]
+
+来源：[VNDB v3194](https://vndb.org/v3194)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Navel]]（developer）<!-- AUTO:END duty -->
 

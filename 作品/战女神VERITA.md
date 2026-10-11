@@ -30,6 +30,14 @@ cover_image: "assets/covers/v2836.webp"
 ![[assets/covers/v2836.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The wandering God-Slayer Serika, who's still searching for his purpose. The half-demon king of Menfill, Loui, who just won the war, but lost his wife in it. This is the story of two infamous heroes and how their paths in life inevitably cross each other, and the conflict that it brings. While on the backdrop of the setting, various ancient forces rear their head and the temple of Marsterrie starts moving.
+
+来源：[VNDB v2836](https://vndb.org/v2836)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Eushully]]（developer）<!-- AUTO:END duty -->
 

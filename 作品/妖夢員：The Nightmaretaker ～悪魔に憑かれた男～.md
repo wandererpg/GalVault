@@ -28,6 +28,40 @@ cover_image: "assets/covers/v44239.webp"
 ![[assets/covers/v44239.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This is a story of your near future.
+
+After a certain incident, you suddenly find yourself working in facility management.
+Once a decent person, you’ve now fallen into the depths of depravity, sneaking into girls’ schools during breaks to engage in lewd acts with sleeping students.
+
+It was all the demon’s fault.
+Ever since the demon possessed you, you’ve been driven by an abnormal desire to ejaculate using high school girls.
+
+If you keep this up, it’ll only lead to ruin.
+But the demon whispers to you: Collect more of this light. In other words, Ejaculate using more high school girls.
+
+The demon’s true intentions are unclear, but your desires push you further into criminal behavior.
+When you ejaculate using fresh, teenage high school girls, the semen is thick, sticky, and abundant—a special, fertile kind meant for impregnation. Your body recognizes these young girls as ideal for bearing healthy babies, and the intense pleasure that comes with it feels like a reward for your conquest.
+There’s no way you could stop.
+
+Eventually, various dream demons—nightmares, lust demons, and succubi—begin appearing before you, offering contracts.
+With the items they provide, your actions escalate.
+
+Peeking at them naked. Breast jobs. Face-fucking. Breast-fed blowjobs. Sixty-nine. Sleep-fuck.
+
+And finally, vaginal ejaculation inside a high school girl.
+When that dream comes true, the demon reveals its true purpose.
+What is that purpose? And what is the true identity of the demon possessing you?
+
+This is a story for those who are pathologically obsessed with teenage high school girls, who want to ejaculate using only high school girls, who want to live their lives thinking only of high school girls.
+
+[Translated from [dlsite](https://www.dlsite.com/maniax/work/=/product_id/RJ01048672.html/)]
+
+来源：[VNDB v44239](https://vndb.org/v44239)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Shiritsu Sakuranbo Nyuugakkou]]（developer）<!-- AUTO:END duty -->
 

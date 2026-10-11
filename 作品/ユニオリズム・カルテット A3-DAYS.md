@@ -29,6 +29,20 @@ cover_image: "assets/covers/v18882.webp"
 ![[assets/covers/v18882.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Fehde, a ceremonial duel with its origins in the Middle Ages, has morphed into the wildly popular sport ‘fehda’, with the combatants being called ‘knights’. Akita trained every day with the goal of becoming a knight, and he joined the school’s grand tournament Vartok Fehda with Yurina, Remilia, Amane and Milly. They faced many strong enemies and fought through tough battles, and ultimately won the tournament in spectacular fashion.
+
+Two months later, things have returned to normal. However, even though the intense battles of the Vartok Fehda were long over, the girls all began to show affection to Akito, sparking a new battle: the battle for Akito’s heart!
+
+The changing of the seasons meant that it was time for the advancement exams. Akito planned to participate in the solo tournament to determine the extent of his power. One day, the school’s headmistress called them for a meeting, and they were greeted with two knights-in-training who they have not met before...
+
+[From [Hau~ Omochikaeri!](https://omochikaeri.wordpress.com/2016/10/29/october-2016-eroge-releases/)]
+
+来源：[VNDB v18882](https://vndb.org/v18882)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Clip☆Craft]]（developer）<!-- AUTO:END duty -->
 

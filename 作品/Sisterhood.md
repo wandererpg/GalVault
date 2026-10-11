@@ -28,6 +28,20 @@ cover_image: "assets/covers/v54861.webp"
 ![[assets/covers/v54861.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+[Sisterhood](https://sisterhood.whizvox.me) is an ambitious project to expand the narrative of the cult classic visual novel, [Katawa Shoujo](https://vndb.org/v945), by adapting the [eponym epic-length work of fanfiction](https://ks.fhs.sh/viewtopic.php?t=9907) into a full-fledged visual novel. This is an epilogue story to Hanako's route, starting a few days after her good ending. It's highly recommended you (re)read Katawa Shoujo before experiencing Sisterhood.
+
+The story picks up after [Hisao](https://vndb.org/c149228) and [Hanako](https://vndb.org/c149229)'s intimate moment in the park—a moment to cement their newfound status as boyfriend and girlfriend. [Lilly](https://vndb.org/c149230) and [Akira](https://vndb.org/c149231), who had previously been summoned to Scotland, must now answer their parents' request to move back in with their estranged family.
+While Hanako is, for the most part, the central character of Sisterhood, the perspective will shift between different people throughout the story. [Hisao](https://vndb.org/c149228), carefully treading the waters of his newfound condition and relationship; [Hanako](https://vndb.org/c149229), learning to open up to people and find her own path in life; [Lilly](https://vndb.org/c149230), balancing her family by blood and her family by bond; and [Akira](https://vndb.org/c149231), navigating family politics and climbing the corporate ladder.
+
+Sisterhood is a mod for [Katawa Shoujo - Re-Engineered](https://vndb.org/r97944), a fan-made HD remaster that includes modding support.
+Sisterhood is a work in progress. Act 1 is complete and covers chapters 1 through 17 of the original fanfiction. Act 2 will cover chapters 17 alt through 34. Chapters 35 to 60+ will be covered in subsequent releases.
+
+来源：[VNDB v54861](https://vndb.org/v54861)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[The Sisterhood Project]]（developer）<!-- AUTO:END duty -->
 

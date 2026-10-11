@@ -29,6 +29,23 @@ cover_image: "assets/covers/v15252.webp"
 ![[assets/covers/v15252.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Selphine, the princess somehow spirited away halfway around the globe, continues her travels with her party.
+They have managed to safely find their way out of the Outer-Pole region, arriving at Viscanta’s Port Sasary.
+
+In this town bustling with travelers, Selphine and company come across a boy named Sol, who works as a guide around the city for travelers. With her guidance, the girls tour the more attractive areas in town in their search for a place to stay.
+However, there is another aspect to Port Sasary hidden beneath the waves…
+
+Meanwhile, Rughzenhaide is in a state of chaos following the attack on the castle.Several days have passed since the assault, during which Ritona and Selphine disappeared…
+Ritona’s best friends and the royal court are split as to whether to devote manpower to search for the girls or to focus on defense of the country.
+
+[From [Sekai Project Official Website](https://sekaiproject.com/products/fault-series/#milestone-two-above)]
+
+来源：[VNDB v15252](https://vndb.org/v15252)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[ALICE IN DISSONANCE]]（developer）<!-- AUTO:END duty -->
 

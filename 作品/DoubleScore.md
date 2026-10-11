@@ -28,6 +28,24 @@ cover_image: "assets/covers/v10632.webp"
 ![[assets/covers/v10632.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The Kamizono Shrine, famous for its fulfilment of one’s wishes in love.
+
+In the area of the shrine in which only those permitted can step foot in, the birthday flower of the month blossoms beautifully in full bloom. It is said that if one takes one of these flowers, their love wishes will definitely come true.
+
+The protagonist, Shinozawa Mai, works part time at this very shrine. “I want to have a destined meeting of my own as well.” She is a normal high school girl who spends her days being “in love with love”.
+
+One day, she is requested by the freewheeling chief priest of the shrine to deliver a flower of love to the man the God of Love has chosen. The chief priest not being one to take no for an answer, Mai goes on to the deliver the flower…
+
+…Without even realising that she will meet her destined partner.
+
+[Translation of the official website's story summary.]
+
+来源：[VNDB v10632](https://vndb.org/v10632)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[BlueMoon]]（developer）<!-- AUTO:END duty -->
 

@@ -28,6 +28,14 @@ cover_image: "assets/covers/v89.webp"
 ![[assets/covers/v89.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Takumi Kaizu is a normal high school student enjoying his school life with his friends. Over the years, he has made good memories with these friends of his, most of whom are girls, though apparently still have no overt feelings of attraction towards any of them. When asked by his best male friend Osamu Funada if he likes anyone, Takumi starts to think about it though is still confused on what to do next. Takumi decides to find someone to like while summer vacation enters.
+
+来源：[VNDB v89](https://vndb.org/v89)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[HOOKSOFT]]（developer）<!-- AUTO:END duty -->
 

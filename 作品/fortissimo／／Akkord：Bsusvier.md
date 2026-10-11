@@ -28,6 +28,16 @@ cover_image: "assets/covers/v4021.webp"
 ![[assets/covers/v4021.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Reiji is a typical student on the remote southwest island of Tsukuyomi-jima. However, due to an unexpected event where his life was in danger, he awakened as the 13th magical summoner.  After summoning the spirit and magical superweapon Sakura, she gifts him with the special ability ‘Da Capo,’ which allows him to summon anyone who he met in the past 24 hours or reverts items back to its previous state (up to 24 hours ago). Now they must participate in a battle they cannot avoid.
+
+[From [Hau~ Omochikaeri!](http://omochikaeri.wordpress.com/2010/09/01/september-2010-eroge-releases/)]
+
+来源：[VNDB v4021](https://vndb.org/v4021)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[CIRCUS]]（developer）
 - [[La'cryma]]（developer）<!-- AUTO:END duty -->

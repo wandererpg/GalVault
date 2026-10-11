@@ -29,6 +29,16 @@ cover_image: "assets/covers/v5854.webp"
 ![[assets/covers/v5854.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The game opens four years after Yahisa Tsukiko’s graduation from Seigatsu Gakuen. The archery club members went drinking together since Azusa’s currently in Japan. They talked about their unforgettable summer, which was the summer of Tsukiko’s third year. It was their last Inter High and they had a two-weeks training camp before then. The captain, Miyaji Ryuunosuke, announced that he already called a special trainer to help them train: Kanakubo Homare, their ex-captain. The bond between them grows stronger during this two weeks.
+
+[From [Love-Coloured Sky](http://koiiro.wordpress.com/2011/04/11/starry-sky-after-summer-summary/)]
+
+来源：[VNDB v5854](https://vndb.org/v5854)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[honeybee]]（developer）<!-- AUTO:END duty -->
 

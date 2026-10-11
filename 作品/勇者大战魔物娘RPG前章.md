@@ -29,6 +29,31 @@ cover_image: "assets/covers/v17046.webp"
 ![[assets/covers/v17046.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Lose and be ravished by the vamps!
+Battles sexy enchantresses, where failure ends in reverse rape!
+Party members are also monster girls who wildly fuck the hero!
+There's never a scene where the hero's in charge...
+
+This! Is! Monmusu Quest!
+
+An adventuring role-playing game in a fantasy world!
+The protagonist is a beginner hero.
+Following in the footsteps of his hero father, he sets off for glory!
+Where will the adventure take him? When at last his journey ends,
+will he have achieved his dream?
+
+Over 150 enemy monsters in Part One alone! All reverse-rape youjo (vixens)!
+Battle all kinds of reverse-rape youjo (vixens) and recruit them to your party!
+And, all it takes is a little pestering to get their libidos thrumming---
+
+[Based of [English DLsite](http://www.dlsite.com/ecchi-eng/work/=/product_id/RE150726.html)]
+
+来源：[VNDB v17046](https://vndb.org/v17046)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Torotoro Resistance]]（developer）<!-- AUTO:END duty -->
 

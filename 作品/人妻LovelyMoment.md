@@ -28,6 +28,14 @@ cover_image: "assets/covers/v30856.webp"
 ![[assets/covers/v30856.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Housewife Miyuki is a friendly and affable middle-aged woman who is often seen in the neighborhood. On closer inspection, she appears to have a dynamite body and is overflowing with sexual desire... Please enjoy the satisfying and all-encompassing sex with Miyuki! Be sure not to let her husband find out...
+
+来源：[VNDB v30856](https://vndb.org/v30856)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[stick]]（developer）<!-- AUTO:END duty -->
 

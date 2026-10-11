@@ -27,6 +27,24 @@ cover_image: "assets/covers/v55361.webp"
 ![[assets/covers/v55361.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+New Elysia is in chaos. Corruption and crime run rampant. Its citizens suffer, struggling every day to make ends meet with less and less.
+
+They need a hero… and they have one.
+
+Luna Virelith, Agent of AEGIS, has dedicated her life to putting a stop to Nox and the rest of the crime syndicates. She’ll defeat and capture every last one of those scumbags if it's the last thing she does.
+
+So, when a tragic turn of events reveals a once in a lifetime opportunity to go undercover and take the Nox Syndicate down from the inside, she doesn’t back down. Together with the love of her life, Aiden, they venture into the darkness.
+
+But when she emerges from that darkness, will she be the same person?
+
+[From [Patreon](https://www.patreon.com/posts/presenting-novel-123252721)]
+
+来源：[VNDB v55361](https://vndb.org/v55361)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Azienda]]（developer）<!-- AUTO:END duty -->
 

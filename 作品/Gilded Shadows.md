@@ -27,6 +27,24 @@ cover_image: "assets/covers/v26578.webp"
 ![[assets/covers/v26578.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Altair is a planet with a complex history.
+
+Centuries ago, when humans arrived, they found it abandoned. The only remnants of its previous society were massive bio-domes dotted on the surface and designed as protection from the hostile climate.
+
+With one side of the world bathed in eternal day and the other cloaked in frigid night, the bio-domes are oases where people live sheltered from the scorching winds and storms. But whether in the bright, clean cities of the day side of the planet, or the poor and crime-ridden cities of the night side, life is never simple nor peace easy to come by.
+
+When a fateful encounter exposes Morgan Leone, a young woman who has long hid her ESP, as a queen ranked Esper, she finds herself on the run from multiple factions eager to attain her abilities. Endgame, the planetary defence organisation; Crimson, a notorious crime syndicate from Delphine; and even the shadowy group only known as "the Host" - each group sends operatives to retrieve her.
+
+Now, with several paths open to her, she must choose her allies carefully. Between light and shadow lies grey twilight where the lines between good and evil are blurred. And in a world where the only constants are the endless day and night that divide the planet, Morgan learns those who can't adapt...also can't survive.
+
+[From [itch.io](https://steamberry.itch.io/gilded-shadows)]
+
+来源：[VNDB v26578](https://vndb.org/v26578)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Steamberry Studio]]（developer）<!-- AUTO:END duty -->
 

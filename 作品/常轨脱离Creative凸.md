@@ -29,6 +29,26 @@ cover_image: "assets/covers/v33205.webp"
 ![[assets/covers/v33205.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+A fandisc that includes after stories for the four main heroines and a new route for sub-heroine Ameri.
+
+[Ameri](/c91566): Entering summer holiday, Tomohiro remembers a promise he made with Ameri. Thinking back on it, he planned a castle tour plan with the student council, but on the tour, things began to roll in an unexpected direction.
+
+[Hiyori](/c87837): It's been a year since Tomohiro dated his little sister, it's a new life that's filled with affection and... jealousy?
+
+[Kano](/c87838): Finally the two of them begin to rent their love nest. There's a lot in this new life that could not be shown to kids.
+
+[Asumi](/c87839): While Asumi is unexpectedly assertive in their harmonious love life, she is preparing to jump into a big live stage...!
+
+[Shio](/c87840): Big shock as the former all-in-one former student council president repeats a year. She's plotting a revenge in the next school festival...!?
+
+[Translated from the [official website](https://madosoft.net/totsu/story)]
+
+来源：[VNDB v33205](https://vndb.org/v33205)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Madosoft]]（developer）<!-- AUTO:END duty -->
 

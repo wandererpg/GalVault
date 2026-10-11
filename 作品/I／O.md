@@ -28,6 +28,29 @@ cover_image: "assets/covers/v96.webp"
 ![[assets/covers/v96.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+April 26th, 2032 A.D. - Megalopolis Tokyo - 00:12 in the morning
+
+A total lunar eclipse occurs for the first time in 3 years. Even though it's supposed to be a simple astronomical phenomenon, it soon sets off a series of unexpected events. Unexplainable mysteries, terrorist incidents, and network crime surge as if in unison. The truth mixes with lies, as if the world is awake but still sleeping.
+
+Something has begun. Somewhere no one can see. Something no one knows about.
+
+This is a story of the chance meeting and tragic parting of the young men and women living in this world. Players get to play the game from 4 different points of view:
+
+Route A - Hinata, a youth who has lost his sister and himself.
+Route B - Ishtar, a freelance programmer and leader of a hacker team.
+Route C - Ishtar, but seems a bit different from the Ishtar in Route B....
+Route D - He, a man completely shrouded in mystery.
+
+And thus..
+
+"The beginning is the end, and the end is the beginning"
+
+来源：[VNDB v96](https://vndb.org/v96)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Regista Co.,Ltd]]（developer）<!-- AUTO:END duty -->
 

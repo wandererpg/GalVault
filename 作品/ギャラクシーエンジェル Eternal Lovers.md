@@ -29,6 +29,16 @@ cover_image: "assets/covers/v862.webp"
 ![[assets/covers/v862.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The war with the Val-Fasq begins in earnest while a couple of refugees from the legendary EDEN (the place origin of both the White Moon and Black Moon) arrive to beg the Transbaal Empire (and the legendary hero Takuto Meyers) for help. Takuto and his Angel's relationship is also put into serious jeopardy as his duties preparing for the war with the Val-Fasq keep them apart with increasing frequency.
+
+[From [Wikipedia](http://en.wikipedia.org/wiki/Galaxy_Angel#Galaxy_Angel_Eternal_Lovers)]
+
+来源：[VNDB v862](https://vndb.org/v862)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[BROCCOLI Co., Ltd]]（developer）<!-- AUTO:END duty -->
 

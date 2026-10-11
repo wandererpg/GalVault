@@ -27,6 +27,22 @@ cover_image: "assets/covers/v49724.webp"
 ![[assets/covers/v49724.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Tsurine is a PsySpec wrapped up in the intensity of her job, and the delirium that comes with dissociative amnesia. One night, a mysterious woman offers to help recover her lost memories. All Tsurine must do in exchange is hunt down the missing fragments to an unusual key.
+
+Ad Nauseam is an intricate choice-heavy psychological thriller about an amnesiac facing both real and mental horrors within a world akin to an endless, liminal hospital. The game itself is an RCN (Roleplay & Click Novel) - a fusion genre of Visual Novel, RPG, and Point-&-Click games that centers around distressing content and how people choose to cope with trauma. Uncover the secrets of this strange world, and the ones lying within your own forgotten memories. Will you accept your limitations, or will you dive deep into delusion for a chance at hope?
+
+Can you face the world? Can you face yourself?
+
+Are you sure?
+
+[From [Itch.io](https://throwpup.itch.io/throwup-club)]
+
+来源：[VNDB v49724](https://vndb.org/v49724)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[lolratz]]（developer）
 - [[throwpup]]（developer）<!-- AUTO:END duty -->

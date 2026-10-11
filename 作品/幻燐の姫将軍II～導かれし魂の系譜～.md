@@ -29,6 +29,20 @@ cover_image: "assets/covers/v507.webp"
 ![[assets/covers/v507.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Born as a "half-demon" with the blood of demon god, Louie Marcillen lost his parents due to human's violence and human's Heroes. Four years have passed since he finished his revenge...
+The Kingdom of Menfil, now led by King Louie, still despised as a "demon", was in blockade by adjoining countries starting with the Kingdom of Karssha. By the efforts of Louie's aides blockade was lifted, but he was accused of murdering of Master Teneira right in the peace conference.
+
+Being struggling between Light and Darkness in his heart, Louie is forced to make a decision as a king. The future depends upon it. The future of his beloved Queen Irina, and future of warriors and princesses who choose the side and fight for Louie or against...
+
+The Phantom War...
+The battle, later so called, will lead to the unrevealed truth of Ekria Teshuos, the Princess General of the Kingdom of Karssha.
+
+来源：[VNDB v507](https://vndb.org/v507)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Eushully]]（developer）<!-- AUTO:END duty -->
 

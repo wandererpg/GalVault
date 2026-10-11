@@ -30,6 +30,20 @@ cover_image: "assets/covers/v26523.webp"
 ![[assets/covers/v26523.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This is the fourth game in Palette’s 9-nine- series. 9-nine- takes place in the run-of-the-mill college town of Shiromitsugawa where an earthquake breaks a sacred artifact from the Shrine of the White Serpent, unleashing jewelry-like items that bestow their holder's special powers called "Artifacts" from a parallel world. [SPOILER]When an incident involving a power that transcends human comprehension, Kakeru Niimi, our protagonist, investigates several branches (parallel worlds) in order to settle the matter.[/SPOILER]
+
+[SPOILER]With the mastermind finally revealed, Sophitia, otherworldly entity set to reclaim the Artifacts, tells him to defeat this person pulling the strings. The first day, the day that the festival was cancelled due to the earthquake back at the shrine—Kakeru is now equipped with memories from every branch and is on the move to solve this conflict.[/SPOILER]
+
+Amidst this, a girl with a strong sense of justice from Kuho Girls Academy, Noa Yuuki, has an ability that seems to be the key to defeating the mastermind. [SPOILER]Knowing this, Kakeru divulges about the events in other branches to her.[/SPOILER] All the while uncovering the secrets behind why the Artifacts come to this world, [SPOILER]settling the scores with the Evil Eye's User[/SPOILER], what will be the fate of these young men and women with otherworldly power at the fingertips?
+
+[Taken from [URL=https://store.steampowered.com/app/1424660/]Steam[/URL]]
+
+来源：[VNDB v26523](https://vndb.org/v26523)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Palette]]（developer）<!-- AUTO:END duty -->
 

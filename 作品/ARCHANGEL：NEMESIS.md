@@ -27,6 +27,16 @@ cover_image: "assets/covers/v31533.webp"
 ![[assets/covers/v31533.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+These horror style games are focused on Twigs life as she is subjected to the Church by her Mom and is exposed to the Love Corp.
+
+[From [Itch.io](https://lovecorp.itch.io/archangelnemesis-ep12)]
+
+来源：[VNDB v31533](https://vndb.org/v31533)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[team★CPU]]（developer）<!-- AUTO:END duty -->
 

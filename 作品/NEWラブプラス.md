@@ -28,6 +28,32 @@ cover_image: "assets/covers/v4006.webp"
 ![[assets/covers/v4006.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+You’re a high school sophomore.
+After transferring to the private Towano High School in Towano City, you have a fateful encounter with one of the girls.
+As you share various experiences together, you naturally grow closer.
+
+Then comes the day of confession.
+
+But the story doesn’t end there.
+That’s when your life as a couple truly begins.
+
+------------
+
+NEW Love Plus is a communication game where you grow close to one of three girls and experience a romantic life filled with dates, seasonal events, and more.
+Thanks to its RTC (Real-Time Clock) system, which syncs the in-game time with real-world time, you can enjoy interactions with your virtual girlfriend in real-time.
+Depending on how you play, the girl’s hairstyle, outfits, and even personality can change, making each player’s experience unique.
+
+What’s more, NEW Love Plus makes full use of the Nintendo 3DS’s features.
+It supports 3D visuals, uses the gyro sensor for perspective controls, lets you take photos, and even allows online data sharing—packed with fun features to enhance your experience.
+
+[Translated from [the official website](https://www.konami.com/games/jp/ja/products/site/newloveplus/info.html)]
+
+来源：[VNDB v4006](https://vndb.org/v4006)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[KONAMI]]（developer）<!-- AUTO:END duty -->
 

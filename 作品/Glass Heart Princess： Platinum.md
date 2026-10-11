@@ -29,6 +29,14 @@ cover_image: "assets/covers/v12571.webp"
 ![[assets/covers/v12571.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+A fandisc for Glass Heart Princess, featuring afterstories for each character, seacoast scenario, main characters' POVs and special chapter dedicated to troll maid Satsuki.
+
+来源：[VNDB v12571](https://vndb.org/v12571)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Design Factory Co., Ltd]]（developer）
 - [[Otomate]]（developer）<!-- AUTO:END duty -->

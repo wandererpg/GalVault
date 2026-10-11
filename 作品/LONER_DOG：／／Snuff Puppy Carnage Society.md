@@ -27,6 +27,16 @@ cover_image: "assets/covers/v57848.webp"
 ![[assets/covers/v57848.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Argo works gas station night shifts. Maya humps a corpse. Haley is too high to care, she thinks. Roaches just vomited up blood. Can life just slow down? No? Okay, fuck me then.
+
+[From [itch.io](https://snekofspice.itch.io/loner-dog)]
+
+来源：[VNDB v57848](https://vndb.org/v57848)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Snek RK]]（developer）<!-- AUTO:END duty -->
 

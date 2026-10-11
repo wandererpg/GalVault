@@ -29,6 +29,18 @@ cover_image: "assets/covers/v14000.webp"
 ![[assets/covers/v14000.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This is the sequel to BALDR SKY Zero. Edward had waken up in the middle of a virtual battlefield with no memories. He was assigned to the Squall squad under the notorious mercenary corps Fenrir. One time while on a mission, he met and protected Marelle, who was being chased by government forces. A few days after she joined Squall, she volunteered to partner up with him on missions. Their squad leader Goodman approved of it just because he thought it was amusing for two people who didn’t have any memories of their past to pair up. Ed also thought it would be a good opportunity for a ‘wired ghost’ like Marelle, who didn’t have a body in reality, to be in more touch with other people.
+
+One day while they were on a mission to support Kei who had gotten into a bind, they came across a being that looked like a monster, but moved like a robot: the third most wanted Rasayana. He was soundly defeated and thought he was going to be eaten, but nothing happened. It appeared like Rasayana knew them. Who exactly is Rasayana and how are Ed and Marelle related?
+
+[From [Hau~ Omochikaeri!](http://omochikaeri.wordpress.com/2014/03/01/march-2014-eroge-releases/)]
+
+来源：[VNDB v14000](https://vndb.org/v14000)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[GIGA]]（developer）
 - [[Team Baldrhead]]（developer）<!-- AUTO:END duty -->

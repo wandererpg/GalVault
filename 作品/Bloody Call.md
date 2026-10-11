@@ -28,6 +28,31 @@ cover_image: "assets/covers/v1873.webp"
 ![[assets/covers/v1873.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The town of coexistence "Grazheim" is a town where humans and a nonhuman species called "Hanki" coexist. However, hidden in the shadows of their ordinary daily life, a silent war is unfolding between the humans and Hanki.
+
+The protagonist Futaba is an extremely normal girl who lives in that land. However, her father is a very influential figure there, and the leader of an organization called "Fly Call". Futaba spends her days normally completely unaware of that truth.
+
+One day, after coming home from school as usual, her house has been turned upside down and her mother is nowhere to be seen. In a daze, Futaba was about to be kidnapped by those same men.
+
+In the nick of time, two beautiful twins called Reimei and Shirou, suddenly appeared to save her. These twins seemed to have worked as bodyguards for Futaba's father. The two of them received a last request from Futaba's father, "After I die, I want you to protect my daughter.", so they came to find her.
+
+Reimei requests that Futaba becomes the next head of Fly Call. Futaba had heard that her father died in a traffic accident when she was young. She couldn't accept this sudden turn of events as being the truth.
+
+Of course she refused to become Fly Call's next head. However, the source of her mothers attack was from a fellow resistance "organization". In order to get her mother back, Futaba decides to live at her fathers mansion.
+
+Will she be able to rescue her kidnapped mother?
+What are the goals of the kidnappers enemy organization "NEDE"?
+
+Also, what is the true meaning behind her being targeted...
+
+[Translated from the official site]
+
+来源：[VNDB v1873](https://vndb.org/v1873)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Icing Candy]]（developer）<!-- AUTO:END duty -->
 

@@ -27,6 +27,18 @@ cover_image: "assets/covers/v41700.webp"
 ![[assets/covers/v41700.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+One day you're wallowing in self-pity in your apartment, and the next thing you know you're being summoned to a land full of witches trying to kill you, along with your doppelganger's unconscious body lying on the wooden floor.  Can you find your way back home?
+
+Follow along Palmier as she/he has an identity crisis while exploring a whole new world filled with killer witches, magic, and four lonely twinks begging for your attention!
+
+[From [Itch.io](https://ceylonentertainment.itch.io/bewitching-sinners-visual-novel)]
+
+来源：[VNDB v41700](https://vndb.org/v41700)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Ceylon Entertainment]]（developer）
 - [[Miss Xero]]（developer）<!-- AUTO:END duty -->

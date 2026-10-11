@@ -27,6 +27,20 @@ cover_image: "assets/covers/v30194.webp"
 ![[assets/covers/v30194.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Awakening to a stranger. An arcane laboratory. A ritual went awry.
+
+The Remainder is a story of mystery and romance, where you, a magus who’s lost your memory, are trying to find a spell to save your life by connecting bits and pieces from your past.
+
+This is an intimate tale about two characters, about the journey they were on, the differences they had, and the fate they must now face. It is also a story about love, acceptance, forgiveness, and sacrifice.
+
+[From [itch.io](https://nimphradora.itch.io/the-remainder)]
+
+来源：[VNDB v30194](https://vndb.org/v30194)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Square Weasel Studio]]（developer）<!-- AUTO:END duty -->
 

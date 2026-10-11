@@ -29,6 +29,16 @@ cover_image: "assets/covers/v2886.webp"
 ![[assets/covers/v2886.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+At school, there is now an exciting competition for the next school captain. The students who go to the final are two girls, Yumina and Nayuta. The main character is Ayumu, a close friend of Yumina. He supports and fights with Yumina. But the final ends in a draw. Though they promise to fight again in several days, Nayuta tells Yumina to give Ayumu to Nayuta as her personal secretary until next battle. Ayumu is depressed at first, but he gradually understands Nayuta's concerns as he spends time with her...
+
+[From ErogeShop]
+
+来源：[VNDB v2886](https://vndb.org/v2886)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[ETERNAL]]（developer）<!-- AUTO:END duty -->
 

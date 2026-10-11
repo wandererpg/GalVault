@@ -28,6 +28,15 @@ cover_image: "assets/covers/v30591.webp"
 ![[assets/covers/v30591.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Your Divine gave you one last chance to repent for your crimes.
+Will you obey her command and break her free, or will you defy her wishes for the last time?
+
+来源：[VNDB v30591](https://vndb.org/v30591)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[LarkyLabs]]（developer）<!-- AUTO:END duty -->
 

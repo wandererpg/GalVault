@@ -29,6 +29,20 @@ cover_image: "assets/covers/v10050.webp"
 ![[assets/covers/v10050.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Bell, the fairy of time, gives Lulu the fragment of time. With it she can choose to go back to the past where challenges have overcome her. With her new insight, she might be able to conquer her old troubles.
+
+She can also visit the future where she has chosen her magic and the boy who'd be her partner. She can also choose go to the distant past where she was only a child, when every little trip looks like a huge adventure.
+
+This fandisk gives gamers the epilogue, the final happy ending to Wand of Fortune 2 as well as the episodes that you have yet to experience.
+
+[From [Play-Asia](http://www.play-asia.com/Wand_of_Fortune_2_FD_Kimi_ni_Sasageru_Epilogue_Limited_Edition/paOS-13-71-9f-49-en-70-5du7.html)]
+
+来源：[VNDB v10050](https://vndb.org/v10050)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Design Factory Co., Ltd]]（developer）
 - [[Otomate]]（developer）<!-- AUTO:END duty -->

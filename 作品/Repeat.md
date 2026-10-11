@@ -27,6 +27,16 @@ cover_image: "assets/covers/v20147.webp"
 ![[assets/covers/v20147.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Repeat will be a nonlinear visual novel about what seems like your average city and a fairly normal school. However, supernatural forces and odd individuals lurk at every corner. Will you be able to uncover their secrets? Or will their inevitable tragedies strike you down first?
+
+[From [Patreon](https://www.patreon.com/shirokoi)]
+
+来源：[VNDB v20147](https://vndb.org/v20147)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Shirokoi]]（developer）<!-- AUTO:END duty -->
 

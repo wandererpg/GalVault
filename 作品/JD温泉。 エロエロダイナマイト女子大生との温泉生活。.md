@@ -28,6 +28,14 @@ cover_image: "assets/covers/v19662.webp"
 ![[assets/covers/v19662.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Suddenly, during one summer, university student Yunoyama Ren was entrusted with his relative's hot spring inn. Although his uncle's illness was the cause, he felt completely unprepared as a novice. At such a time, the guests who arrived were plump female university students! In such a situation, there's no way naughty happenings wouldn't occur, leading to an explosive erotic development. In the end, even doing things like masturbating while being watched by an older woman... Such incidents became traumatic memories of the trip. The return of those girls was supposed to put an end to everything... or so it was supposed to be. 'Alright, we'll help you. We're familiar with the hot spring club, after all.' With that single remark, the continuation is decided! And so, a thrilling summer arrives under one roof!
+
+来源：[VNDB v19662](https://vndb.org/v19662)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Atelier Kaguya HonkyTonk Pumpkin]]（developer）<!-- AUTO:END duty -->
 

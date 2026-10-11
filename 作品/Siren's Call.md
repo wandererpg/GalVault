@@ -28,6 +28,22 @@ cover_image: "assets/covers/v34778.webp"
 ![[assets/covers/v34778.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Having solved the strange and terrifying mysteries of this quiet beach town, you have finally found the time to relax with your friends. In the two weeks since your adventure ended, the six of you have mostly cherished your time together—your spirits wafting beautifully on the precipice of adulthood.
+
+Even so, all good things must end.
+
+With only one day left in Siren’s Call, all that’s remains is for you to pack your bags and say goodbye to them.
+
+Don’t leave without making sure they know how you really feel. Only then can you finally be satisfied with what’s to come.
+
+[From [Steam](https://store.steampowered.com/app/1915740/Sirens_Call/)]
+
+来源：[VNDB v34778](https://vndb.org/v34778)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[ThePenSword]]（developer）<!-- AUTO:END duty -->
 

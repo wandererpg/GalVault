@@ -28,6 +28,20 @@ cover_image: "assets/covers/v13774.webp"
 ![[assets/covers/v13774.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Angel Beats! is a collaboration project of Key, Dengeki G's, and Aniplex.
+
+The story of the visual novel is to be based on the Angel Beats! anime series. The player takes on the role of Otonashi, a newcomer to the Afterlife who finds himself in the middle of a struggle between a group of students who call themselves the Shinda Sekai Sensen ("Afterlife Battlefront"), or SSS for short, and a mysterious girl who is known under the alias of Tenshi (Angel). The story will undergo changes from the original anime and will include story routes with each of the characters. It also stated that Otonashi will be very different than his original personality in the anime, and will change according to the choices made by the player.
+
+[Edited from [Angel Beats! wiki](http://angelbeats.wikia.com/wiki/Angel_Beats!_(visual_novel))]
+
+Rumors of a game release existed since 2010, but a formal game announcement was made in 2013. The first volume was released on June 26, 2015. Only the first volume had been released while the other five planned volumes have been abandoned with no announcement. The Angel Beats! collaborations in Key x Wright Flyer Studios gacha game [HEAVEN BURNS RED](/v33924) contain content that would've been in 2nd beat and beyond.
+
+来源：[VNDB v13774](https://vndb.org/v13774)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Key]]（developer）<!-- AUTO:END duty -->
 

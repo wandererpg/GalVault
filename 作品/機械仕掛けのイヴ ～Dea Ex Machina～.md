@@ -29,6 +29,16 @@ cover_image: "assets/covers/v568.webp"
 ![[assets/covers/v568.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Masaya Ibuka is Chief Researcher at the Software Development division of "SHE" (Soichiro Honma Electronics). Because the corporation wants the futuristic technology created by the male protagonist for military uses, he plans to desert to the competition with his AI assistant Tierra, the research data and the first prototype developed so far. But Masaya is discovered and pursued by "SHE" because he knows too much of their secrets.  Are Masaya and friends going to win the battles against "SHE"?
+
+[Edited from ErogeShop and a [forum post](http://www.jastusa.com/forums/viewtopic.php?f=16&t=4891) by Baldo]
+
+来源：[VNDB v568](https://vndb.org/v568)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[ninetail]]（developer）<!-- AUTO:END duty -->
 

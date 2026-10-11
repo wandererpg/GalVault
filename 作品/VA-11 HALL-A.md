@@ -27,6 +27,20 @@ cover_image: "assets/covers/v18872.webp"
 ![[assets/covers/v18872.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+In this world, corporations reign supreme, all human life is infected with nanomachines designed to oppress them, and the terrifying White Knights ensure that everyone obeys the laws.
+
+But, this is not about those people.
+
+You are a bartender at VA-11 HALL-A, affectionately nicknamed "Valhalla." Although it is just a small bar downtown, it attracts the most fascinating people this side of dystopia. Keep your clients lubricated and you will be made privy to the most interesting stories.
+
+[From [Official website](http://waifubartending.com/)]
+
+来源：[VNDB v18872](https://vndb.org/v18872)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Sukeban Games]]（developer）<!-- AUTO:END duty -->
 

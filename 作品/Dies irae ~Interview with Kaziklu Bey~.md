@@ -29,6 +29,35 @@ cover_image: "assets/covers/v18685.webp"
 ![[assets/covers/v18685.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+"My mother was my sister."
+
+Brooklyn, New York - The man who sat across the interviewer at the vampire bar known as the "Borges House" began his story with those odd words.
+Following the end World War II, the pallid SS officer traversed the globe to many a raging battlefield, leaving carnage unforeseen in his wake.
+The vampire of the battlefield. The wandering Hakenkreuz.
+Though his saga was passed down as naught but a stale ghost story, it was no mere urban legend.
+For he was Wilhelm Ehrenburg - hunted in absolute secrecy by the UN as a remnant of the Third Reich, enemy of the world, and one of the infamous members of the demonic Longinus Dreizehn Orden.
+
+And after over half a century, the time had finally come for him to depart for Japan in order to fulfill his most ardent desire.
+Humoring this interviewer he would have ignored or slain any other day was merely a whim birthed from the exaltation of the promised time drawing ever closer.
+
+That was the only reason our intrepid interviewer found him in a talkative mood.
+
+Thus, as he reflected on his life, Wilhelm grew nostalgic - sentimental, even - for the path he had walked.
+And when asked, he unveiled his past piece by piece.
+
+From the accursed blood that poisoned his very soul, to the blight wrought by the works of Mercury.
+He spun a tale of the day he awakened to the truth of his being, and of the woman who had the nature of Wilhelm's existence engraved upon her very being.
+
+"Don't you worry, I'm gonna tell you everything. From the first moment I met her, to the very end of our story."
+
+[From [Steam](https://store.steampowered.com/app/1011990/Dies_irae_Interview_with_Kaziklu_Bey/)]
+
+来源：[VNDB v18685](https://vndb.org/v18685)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[light]]（developer）<!-- AUTO:END duty -->
 

@@ -29,6 +29,16 @@ cover_image: "assets/covers/v11713.webp"
 ![[assets/covers/v11713.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+After being pushed off of a building, prodigy prosecutor Yoshikawa Itsuki wakes up in Hell. Where the judge of human souls, Yama, asks Yoshikawa for his help with some unsolved cases. Yama usually reads a record of human deeds, the Akasha, to pass judgement on human souls, but in some cases he can't figure out whodunnit just by reading the Akasha. Hence the need for Yoshikawa's mind. He is to read the Akasha and figure out the culprit. If he cooperates, Yama promises to return him to the land of the living.
+
+[from [Boku no Jikenbo](https://ho-lingnojikenbo.blogspot.com/2010/09/blog-post.html)]
+
+来源：[VNDB v11713](https://vndb.org/v11713)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Chunsoft]]（developer）<!-- AUTO:END duty -->
 

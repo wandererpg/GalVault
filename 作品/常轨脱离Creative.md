@@ -28,6 +28,30 @@ cover_image: "assets/covers/v27449.webp"
 ![[assets/covers/v27449.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+At the end of June, the seasons come to a standstill.
+
+Widely known to be of asocial character, Izumi Tomohiro is quietly spending his day in the corner of their classroom... or so it should have been.
+
+"Congrats on being elected! It has been decided that you are now the next student council president!"
+
+By the school's initiative, an election via lottery took place. And Tomohiro is the lucky bastard who won the prize!
+
+Suddenly placed underneath the spotlight, he unanimously became the talk of the school. Unable to back down, he started hunting for fellow members with the help from his advisor.
+
+However, the candidates his advisor nominated are his classmate Kano, his junior Asumi, even his own little sister Hiyori, and the lot of them doesn't even come to school!? And in the midst of the chaos, even the former council president Shio who came from whereabouts unknown suddenly appeared!
+
+Is this fate? Is this inevitable?
+Unprecedented. Unparalleled.
+The battle of our new (un)lucky student council president starts now!
+
+[From the [official website](https://madosoft.net/hamidashi/story)]
+
+来源：[VNDB v27449](https://vndb.org/v27449)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Madosoft]]（developer）<!-- AUTO:END duty -->
 

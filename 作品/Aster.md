@@ -28,6 +28,22 @@ cover_image: "assets/covers/v1445.webp"
 ![[assets/covers/v1445.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Aster tells the story of four young men, whose lives are connected by one incident.
+
+It all begins with Hiro Sakaki. He is a high school student, and enjoys his life with his old friends, Saki and Saya, twin sisters.
+Under the summer sun, their relationships change little by little...
+
+"No miracles will occur there——
+But even so, hope remains"
+
+[Slightly edited from ErogeShop]
+
+来源：[VNDB v1445](https://vndb.org/v1445)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[RusK]]（developer）<!-- AUTO:END duty -->
 

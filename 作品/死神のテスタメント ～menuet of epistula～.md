@@ -28,6 +28,16 @@ cover_image: "assets/covers/v7650.webp"
 ![[assets/covers/v7650.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+A long time ago, there was a magic book called the ‘epistula’ which was able to grant any wish, whether it be great wealth or eternal life. However, a sudden mysterious death befell all who had their wishes granted. It was believed that a shinigami came to take their lives. Over time, this tale gradually disappeared from people’s memories. Now, there are reports of a mysterious serial hunter and whispers of an urban legend around town. Rui watched as a student from his school disappeared in a back alley. Standing there illuminated by the moonlight was a shinigami.
+
+[From [Hau~ Omochikaeri!](http://omochikaeri.wordpress.com/2012/02/05/february-2012-eroge-releases/)]
+
+来源：[VNDB v7650](https://vndb.org/v7650)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[3rdEye]]（developer）<!-- AUTO:END duty -->
 

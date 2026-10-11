@@ -29,6 +29,18 @@ cover_image: "assets/covers/v20471.webp"
 ![[assets/covers/v20471.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The “City of Water”, Amemadoi, was built on a man-made island and boasts a beautiful and gorgeous cityscape. The lone wolf Eishi and his bizarre imouto Yuura and polite and kind childhood friend Sayo each have their own problems, as is the case with the hero-admiring kouhai Yurugi and cool Kukuri, who he found stuffed in a trash can in an alleyway. Various events and expectations were waiting ahead for these individuals with wounded hearts, such as playing concentration with the club room on the line, playing old maid with a girl who had been cast off, making up for what has been lost while watching the fireworks with fascination.
+
+Despite his disposition, Eishi vowed to bring a happy end for everyone. One where everyone would be able to smile. He would do it in his own way, working hard to attain an uncertain goal. This is the beginning of a story about growing up in a city where tears have been lost.
+
+[From [Hau~ Omochiakeri!](https://omochikaeri.wordpress.com/2017/03/01/march-2017-eroge-releases/)]
+
+来源：[VNDB v20471](https://vndb.org/v20471)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Uguisu Kagura]]（developer）<!-- AUTO:END duty -->
 

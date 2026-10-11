@@ -30,6 +30,16 @@ cover_image: "assets/covers/v20444.webp"
 ![[assets/covers/v20444.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Come, and let's go to the other side of happy endings.
+
+[Slogan translated from [Official Site](http://baseson.nexton-net.jp/baseson-light/kimihane-couples/)]
+
+来源：[VNDB v20444](https://vndb.org/v20444)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[BaseSon Light]]（developer）<!-- AUTO:END duty -->
 

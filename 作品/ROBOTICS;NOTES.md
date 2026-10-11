@@ -26,6 +26,26 @@ cover_image: "assets/covers/v5883.webp"
 ![[assets/covers/v5883.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+"The Science itself may prove cynical. However, one mustn't forget that there is a scientific element in all things. The important truth is this: I am the master of my fate, I am the captain of my soul."
+
+Science Adventure Series #3     "Robotics;Notes Elite"    Divergence: 1.048596.
+
+In the near future, the PhoneDroid--a device which features augmented reality--has risen in popularity in Tanegashima.
+On that island, Central Tanegashima High's "Robot Research Club" is about to have their club disbanded.
+Despite their predicament, Kaito Yashio, one of only two members in the Robot Club, couldn't care less and would rather play a robot fighting game.
+His counterpart, the reckless club leader Akiho Senomiya, ignores Kaito as she strives to keep the club from being disbanded by completing their giant robot.
+
+One day, for some odd reason, Kaito finds an A.R. (augmented reality) annotation titled "Kimijima Report."
+It contains details about a plot involving the entire world written by a man named Ko Kimijima.
+
+[From [Spike Chunsoft](http://spike-chunsoft.com/ROBOTICSNOTESELITE/)]
+
+来源：[VNDB v5883](https://vndb.org/v5883)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[MAGES]]（developer）
 - [[NITRO PLUS]]（developer）<!-- AUTO:END duty -->

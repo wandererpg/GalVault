@@ -27,6 +27,20 @@ cover_image: "assets/covers/v13802.webp"
 ![[assets/covers/v13802.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Once the most powerful and expansive nation on the continent, the Helman Empire is now a shadow of its former glory. With a military history stretching further back than any other, it has been brought to ruin by years of corrupt governance. Amidst the decay—and with whispers of civil unrest and potential invasions from neighboring nations growing louder by the day—a once-exiled man has risen to the challenge.
+
+The crown prince, Patton Misnarge, who vanished years ago after a failed invasion meant to prove his worth, has returned. Now hardened by rigorous training, he is determined to reclaim his homeland. His audacious plan? To rally the peerless fighters he met during his travels and lead a small but elite force to revolutionize Helman. To perfect this daring strategy, Patton turns to an unlikely ally: **Rance**, the most formidable—and brutal—warrior of them all.
+
+**Note from the developer**: This standalone story can be enjoyed without playing the previous series, though familiarity with the Rance games will deepen the experience. For greater insight into the world and characters, consider playing [Rance VI - Zeth Houkai -](/v2047), [Sengoku Rance](/v487), [Rance Quest](/v6985), and [Rance 01 - Hikari o Motomete -](/v14022).
+
+[Based on [MangaGamer](http://mangagamer.org/rance/9/) and [url=https://www.alicesoft.com/rance9/story/index.html]official site]
+
+来源：[VNDB v13802](https://vndb.org/v13802)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Alice Soft]]（developer）<!-- AUTO:END duty -->
 

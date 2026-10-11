@@ -28,6 +28,20 @@ cover_image: "assets/covers/v1306.webp"
 ![[assets/covers/v1306.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+While Kou is asleep in his bed, the scream of a girl wakes him up. He rises to see in front of him a battle full of gunshots and flashing bombs exploding. He realizes that he is wearing an iron armor. "What's this?" He doesn't know what's going on.
+
+He leaves the virtual world with Rain, who says she is his junior partner. They arrive in a ruined city, and Kou learns that he is a special Simulacrum user who graduated from school several years ago. He has forgotten his memories that may have had a significant impact on his life. The name of the case that slowly materializes from his lost memory, "Gray Christmas."
+
+"What is Gray Christmas? Why was I investigating the case?" He comes to remember the whole story of the case and its meaning. A peaceful life that was meant to last forever, which however, suddenly comes to an end...
+
+[Edited from ErogeShop]
+
+来源：[VNDB v1306](https://vndb.org/v1306)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Team Baldrhead]]（developer）<!-- AUTO:END duty -->
 

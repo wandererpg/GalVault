@@ -27,6 +27,16 @@ cover_image: "assets/covers/v31659.webp"
 ![[assets/covers/v31659.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Homestuck is a webcomic written, illustrated, and animated by American author and artist Andrew Hussie. The comic centers on a group of teens who play a beta version of an upcoming computer game.
+
+[From [Wikipedia](https://en.wikipedia.org/wiki/Homestuck)].
+
+来源：[VNDB v31659](https://vndb.org/v31659)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Andrew Hussie]]（developer）
 - [[Viz Media]]（developer）<!-- AUTO:END duty -->

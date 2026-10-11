@@ -28,6 +28,16 @@ cover_image: "assets/covers/v7595.webp"
 ![[assets/covers/v7595.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+New phase of La'cryma's fortissimo//Akkord:Bsusvier. Contains three new routes for fortissimo's heroines: Sakura, Kurobane Sayuki, and Satomura Momiji with H-scenes.
+
+Moreover, there are three new characters: Loki, Schwarzritter, and Himeshiro Kuri.
+
+来源：[VNDB v7595](https://vndb.org/v7595)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[La'cryma]]（developer）<!-- AUTO:END duty -->
 

@@ -29,6 +29,27 @@ cover_image: "assets/covers/v57718.webp"
 ![[assets/covers/v57718.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+“Would you be so kind as to kill me?”
+
+The saint speaks while smiling.
+
+Is cutting down the girl a crime—or a mercy?
+Inside Bakuya Cathedral, where pure love tangles with jealousy, the young gem artisan once again faces the ultimate question: to spare or to slay.
+
+As gemstones glitter and warp fate, his decision steps across the border of life and death, guiding the tale toward an ending where hatred and affection resonate as one.
+
+A kindness as sharp as a blade will pierce your heart.
+
+—Witness the most cruel, and the most beautiful, story.
+
+[From [Steam](https://store.steampowered.com/app/3818900/)]
+
+来源：[VNDB v57718](https://vndb.org/v57718)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Totometori]]（developer）<!-- AUTO:END duty -->
 

@@ -28,6 +28,18 @@ cover_image: "assets/covers/v74.webp"
 ![[assets/covers/v74.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Yuuto has been taking care of his step-sister Kaori since the passing of both of their parents. Their life is hard, but they are happy together - at least until the day they are transported to a parallel world that they will later come to call Phantasmagoria...
+
+In this world where he can't even understand a single spoken word, his sister is taken prisoner and her captors, calling him an 'Etranger', force him to fight wielding a sword that tries to control his mind instead...
+
+Although he first accepts this fate only to protect Kaori, with passing time Yuuto starts to care for the fate of the 'spirits', the girls that fight alongside him, and other inhabitants of this world as well...
+
+来源：[VNDB v74](https://vndb.org/v74)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Xuse ［Honjouzou］]]（developer）
 - [[Xuse]]（developer）<!-- AUTO:END duty -->

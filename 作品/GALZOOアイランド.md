@@ -28,6 +28,20 @@ cover_image: "assets/covers/v334.webp"
 ![[assets/covers/v334.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Leopold, aka Leo, is a young man studying the art of monster husbandry under the legendary tamer, Vestal Batch. While he's gotten the fundamentals down, he's still unable to tame even the wimpiest of monsters. But one day while Leo was engrossed in his studies, a Gal Monster known as Captain Vanilla appeared before him with a plea for help, but before Leo could get a word in edgewise, she had already whisked him away.
+
+On the other side of the Teleport Gate, Leo finds the mysterious Squid Paradise: an island utopia created by the limitless power of the fearsome Baron Squid, along with a bevy of Gal Monsters who had been transported there from across the globe as potential marriage candidates for the baron. The imprisoned Gal Monsters are subjected to all manner of humiliations at his hand, and are understandably pretty peeved about the whole situation, but so long as the baron retains command of the Lady Killer——a nigh invulnerable monster——they're powerless to fight back.
+
+Although soliciting help from humans goes against their instincts, the Gal Monsters decided go to the legendary Vestal Batch for assistance in taking down Baron Squid once and for all, but unfortunately for them, they wasted their once-a-week opportunity to use the Teleport Gate not on Vestal Batch, but on his greenhorn apprentice...
+
+[From [MangaGamer](https://mangagamer.org/galzoo/)]
+
+来源：[VNDB v334](https://vndb.org/v334)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Alice Soft]]（developer）<!-- AUTO:END duty -->
 

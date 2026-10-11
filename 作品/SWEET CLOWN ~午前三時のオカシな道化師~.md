@@ -28,6 +28,33 @@ cover_image: "assets/covers/v16460.webp"
 ![[assets/covers/v16460.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+One day, a single letter arrived addressed to me.
+
+It was an invitation to the "3 AM Tea Party" that was to be held at Sweet Clown Castle.
+
+I have a secret I can't tell anybody.
+That "secret" is a very sad memory, but it's one that I can't forget.
+
+I've spent my days ensuring nobody becomes aware of or can discern my scars.
+That's because I don't want anybody to interfere, nor do I want anybody feeling sorry for me.
+
+In the end, people are all alone.
+
+Even if they approach you with a gentle expression or with kind words... I think that they don't really care about me from the bottom of their hearts. That's because they've realized that it's a joke made in the moment. When tomorrow comes, they can easily forget all about it.
+
+The sender of the letter is named "Sweet Clown".
+
+Will this person really grant my wish?
+Or will this person leave me with new scars?
+
+[Translation of official website story summary.]
+
+来源：[VNDB v16460](https://vndb.org/v16460)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Takuyo Co., Ltd]]（developer）<!-- AUTO:END duty -->
 

@@ -28,6 +28,17 @@ cover_image: "assets/covers/v572.webp"
 ![[assets/covers/v572.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Tokyo, year 2008.
+There is a mysterious group that experts from various fields gather. And Souji is the most outstanding researcher in the group, who researches about combat androids. He has produced three androids, Ema, Sayu and Toka. They adore Souji, and live a peaceful life. But one day, combat robots invade into his laboratory, and the battle to the end starts....
+
+[From ErogeShop]
+
+来源：[VNDB v572](https://vndb.org/v572)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Littlewitch]]（developer）<!-- AUTO:END duty -->
 

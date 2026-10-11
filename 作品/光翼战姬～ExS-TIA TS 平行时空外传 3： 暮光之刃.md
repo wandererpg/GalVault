@@ -28,6 +28,18 @@ cover_image: "assets/covers/v36782.webp"
 ![[assets/covers/v36782.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+When ExS-TIAs was in the verge of defeated by Naiolo, Shihou Souma activate ExS-TIA System and defeat Naiolo. However, due to the system feedback, Souma's body become a woman. And now, while Marina and the others can't fight, Souma has to fight the remaining monsters left in their place.
+
+This will become an alternate story of the second half ExS-Tia 3. After everyone's defeat, what if Souma turn into woman and fight... That kind of situation now can be enjoyed.
+
+[Translated from [official site](http://lusterise.nexton-net.jp/product/exs-tia_para/ep03/)]
+
+来源：[VNDB v36782](https://vndb.org/v36782)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Lusterise]]（developer）<!-- AUTO:END duty -->
 

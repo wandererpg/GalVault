@@ -27,6 +27,18 @@ cover_image: "assets/covers/v29536.webp"
 ![[assets/covers/v29536.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Five years have passed since the infamous G4 Cyborg Incident plagued Myers Corporation. With the corporation now being bankrupted, the once busy G4 district is slowly decaying. You awake inside a mysterious mansion with only a Myers employee card in your pocket. Who are you? How did you end up here? And what does Myers Corporation have to do with any of it?
+
+Investigate Myers Corporation and dig up dark truths that were probably better left forgotten. Solve puzzles, explore, and survive as you learn about the dark secrets held inside the decommissioned facility. Will you be clever enough to make sense out of your situation, or will you disappear just like the rest?
+
+[From [itch.io](https://dino999z.itch.io/vincent-the-secret-of-myers)]
+
+来源：[VNDB v29536](https://vndb.org/v29536)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[dino999z]]（developer）<!-- AUTO:END duty -->
 

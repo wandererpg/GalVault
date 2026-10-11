@@ -27,6 +27,22 @@ cover_image: "assets/covers/v49181.webp"
 ![[assets/covers/v49181.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+A promise is the greatest, most significant thing anyone can make, in a reality where nothing is permanent. They are guarantees we make to one another, knowing that guarantees are fruitless; their existence contradicts the fleeting, temporary nature of our universe. Yet, they live on in the face of this futility.
+
+So, what happens when the promises you make to yourself go cold? When your promises to others are left empty?
+
+"Promises to Keep" follows the journey of a post-college snow leopard after returning to his childhood home. After a year of wishful thinking, living in the footsteps of his past and the childhood promises he has yet to fulfill, he's convinced there's nothing more for him here. Then, disaster strikes.
+
+Join him in a story of deep self-discovery, reunion, and light-hearted romance as he grows with a vibrant group of individuals brought together by unlikely circumstances.
+
+[Edited from [itch.io](https://promises-to-keep-vn.itch.io/promises-to-keep)]
+
+来源：[VNDB v49181](https://vndb.org/v49181)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Promises To Keep VN]]（developer）<!-- AUTO:END duty -->
 

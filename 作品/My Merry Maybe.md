@@ -29,6 +29,16 @@ cover_image: "assets/covers/v3697.webp"
 ![[assets/covers/v3697.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+A university student, Kishimori Hiroto enrolls in an education internship as a teacher in a middle school of a countryside harbor town, Seitenchou. On the way to his temporary residence, a replis - an artificial being constructed to help humans -with the name of "Reu" appears lying in the middle of the road. After a variety of circumstances, Reu is put under the care of Kishimori until her master is found. That is, until a mysterious organization appears...
+
+[Translated From My Merry May With Be's cover synopsis]
+
+来源：[VNDB v3697](https://vndb.org/v3697)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[KID]]（developer）<!-- AUTO:END duty -->
 

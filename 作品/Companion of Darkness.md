@@ -27,6 +27,20 @@ cover_image: "assets/covers/v45742.webp"
 ![[assets/covers/v45742.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+3 years after a tragic incident, you return to your hometown. Just before you reach your destination, you watch as two supernatural forces pit their strength against each other in a fight to the death.
+
+It seems that you have been discovered and effortlessly overpowered, but instead of dying you wake up in your bed as if nothing had happened.
+Was it all a dream?
+Everyday life goes on whether you like it to or not. Not only do you feel like a stranger in your hometown, more and more unexplainable events are happening around you.
+
+When the ones you care for are threatened, you must decide which boundaries you are willing to cross. And, if it is worth to give up humanity.
+
+来源：[VNDB v45742](https://vndb.org/v45742)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Berkili4]]（developer）<!-- AUTO:END duty -->
 

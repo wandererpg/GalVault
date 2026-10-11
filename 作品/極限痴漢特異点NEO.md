@@ -29,6 +29,32 @@ cover_image: "assets/covers/v55175.webp"
 ![[assets/covers/v55175.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+A hammer of justice strikes the holy city of chikan!
+
+Ikagawa City is a big city located next to Kurabe. It is one of the top tourist destinations in Japan, and is also a holy city for chikan from all over the country. Full of charm and lust, it has been selected as one of the "Top 10 Cities for Chikan in Japan" for five consecutive years. However, an ominous shadow falls over the chikan's paradise. The newly appointed mayor has made a grand declaration to eradicate molestation in order to clear the city's reputation as a chikan city.
+
+The "Zero Chikan Plan" is a death countdown for chikan. The crackdown on chikan is getting stricter every day, and innocent chikan are being arrested one after another. In the blink of an eye, the lustful paradise turns into hell.
+
+"I can smell the scent of desire from this city. It's the scent of hungry beasts and females in heat."
+
+A man arrives in Ikagawa City, which is in a state of extreme chaos. His name is Kusakabe Kiichi. He is a seasoned chikan with the "eyes" to see women's hidden desires to be molested, and the skill to use the "Kusakabe Style: 72 Finger Techniques of Molestation" to bring climax with a single touch.
+
+Vulgarity, obscenity, adultery, orgies. The city of desires turns into a lascivious pit of vipers!
+
+A group of suspicious people, the "Ikagawa Molester Five," stand in the way of Kiichi, who's an outsider! Is the revival of "Vatican" a reality!? The evil hands of the cruel and ruthless chikan execution squad "Cypher" are closing in on Kiichi! The long-awaited "Chikan Championship" national tournament is about to be held! What is the terrifying "Chikan Eradication Plan" that is being carried out in secret!? And what is the secret that lies dormant on the isolated "Chikan Island"?
+
+"My hands are telling me to touch it. That ripe body of yours."
+
+A new chapter begins in this sensual mystery romance where lewd acts invite more lewd acts!
+
+[Translated from the [official website](http://www.astronauts.co.jp/sirius/emtneo/story.html)]
+
+来源：[VNDB v55175](https://vndb.org/v55175)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Astronauts： Sirius]]（developer）<!-- AUTO:END duty -->
 

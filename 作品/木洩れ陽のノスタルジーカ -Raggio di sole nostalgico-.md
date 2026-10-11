@@ -28,6 +28,16 @@ cover_image: "assets/covers/v10958.webp"
 ![[assets/covers/v10958.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+In the distant future, humans live together with AI and history had been forgotten. Youta enjoyed his quiet life even though he was often manipulated by his genius programmer (but also extreme troublemaker) imouto Akira. One day while accompanying Akira, he came upon a hidden room. With the help of some old friends, they managed to open the door. Inside they found a pretty android girl in a deep sleep. Her body and her heart was broken. Akira decided right there that she wanted to fix her and her words fired up everyone’s curiosity, just like when they were kids. Thus begins their heart-warming days with the android girl Cinema.
+
+[From [Hau~ Omochikaeri!](http://omochikaeri.wordpress.com/2013/02/01/february-2013-eroge-releases/)]
+
+来源：[VNDB v10958](https://vndb.org/v10958)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[STREGA]]（developer）<!-- AUTO:END duty -->
 

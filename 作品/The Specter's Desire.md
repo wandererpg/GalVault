@@ -27,6 +27,18 @@ cover_image: "assets/covers/v50695.webp"
 ![[assets/covers/v50695.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Every year, Aurea pits its most dazzling stars against one another to see who will make it to the very top. The annual Desire Hierarchy is a fight for the position of Actualized, a title that can make your every dream come true. For decades, the Hierarchy has loomed over the city, and the Maslovs who host it have enjoyed their place at the top. But this year, things are different. It has been 12 months since Anna Maslov tragically passed away, there is a new head of the Fulfillment Foundation, and the ghosts are out to play.
+
+You play as Colton, an editor with dreams of making it big in Aurea. When he lucks into being a Rising Star, a program that lets ordinary people compete in the Hierarchy, it seems to be a dream come true. However, that dream quickly transforms into a nightmare after he's contacted by Spectra, and given an ultimatum by a ghost who has kidnapped his parents. Now, without any connections or preparation, Colton must fight to win this year's Desire Hierarchy, all the while attempting to solve the mystery of Spectra, and perhaps the mystery that lies at the heart of this city. Along the way, he will have to work with and against a cast of Aurea's most famous, most eccentric, and most dangerous individuals.
+
+[From [Steam](https://store.steampowered.com/app/2560870/)]
+
+来源：[VNDB v50695](https://vndb.org/v50695)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Themisian]]（developer）<!-- AUTO:END duty -->
 

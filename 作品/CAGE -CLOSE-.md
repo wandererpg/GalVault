@@ -28,6 +28,16 @@ cover_image: "assets/covers/v10730.webp"
 ![[assets/covers/v10730.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Konno Teppei suddenly loses consciousness on his way home from work in the evening. He wakes up surrounded by ruins and old buildings. He, along with several other men, are in an abandoned amusement park.
+
+An announcement suddenly informs them that the game is about to begin. The rules are very simple. For 8 days, the participants will continue their normal lives during the daytime. But once night falls, they will be forced into the old amusement park as the setting for their struggle to obtain a coin that will win them fifty million yen.
+
+来源：[VNDB v10730](https://vndb.org/v10730)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[LOVE&DESTROY]]（developer）<!-- AUTO:END duty -->
 

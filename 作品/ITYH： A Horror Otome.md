@@ -27,6 +27,20 @@ cover_image: "assets/covers/v32984.webp"
 ![[assets/covers/v32984.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+All Camille wants is for the mysterious transfer student Osgoode to notice her.
+
+Then Osgoode notices her and she ends up in his basement in chains.
+
+A horror otome about first love in the midst of gore and trauma.
+
+[From [Itch.io](https://amiralo.itch.io/ityh-a-horror-otome)]
+
+来源：[VNDB v32984](https://vndb.org/v32984)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Amiralo]]（developer）<!-- AUTO:END duty -->
 

@@ -28,6 +28,17 @@ cover_image: "assets/covers/v54472.webp"
 ![[assets/covers/v54472.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Six months after Kento’s second release from a juvenile detention center, he collides with a car and suffers severe injuries. The car’s owner takes pity on him, offering a place to stay until he heals.
+Kento, who grew up in a harsh environment, gradually changes alongside a man with his own emotional scars.
+
+[From [Visual Novel News](https://x.com/ErogeAreAlive/status/1890064098907599242)]
+
+来源：[VNDB v54472](https://vndb.org/v54472)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[parade]]（developer）<!-- AUTO:END duty -->
 

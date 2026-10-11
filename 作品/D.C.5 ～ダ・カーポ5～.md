@@ -29,6 +29,38 @@ cover_image: "assets/covers/v36687.webp"
 ![[assets/covers/v36687.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Kagamijima, an island closest to the sky.
+
+Along with the Lake Mikagami waters that reflects the sky like mirror on it's waters, lies a soaring sakura tree in Kagami Gakuen.
+
+Kujou Souma, who attends Kagami Gakuen.
+Yasaka Menoa, his queen-like undesired unseparable childhood friend.
+Tokisaka Yukina, big sister figure who is the student council president.
+Shirawaka Akari, far-beyond-reach ojousama.
+Yasaka Kako, Menoa's younger sister who calls Souma big brother.
+Suginami, mysterious well-informed friend.
+Together, they live a merry fun school life.
+
+On Kagami Gakuen, stands a curious sakura tree called "Hakari no Sakura". It has the ability to help collect student's consensus on choices. Students choose to wear white or black cape on their uniforms, then Hakari no Sakura aggregates the amount of wearer to choose the majority. The latest choose event (called Hakarigoto), student has to decide whether the next school festival would be a cultural festival or sports festival. They get to promote and win sides on whichever festival they feel is the best to enjoy. It's a natural occurence whenever Hakarigoto happens.
+
+Then one day.
+Souma visited Lake Mikagami, there's "another sakura tree" whom has never bloom in so many years, blooms dazzlingly.
+Looking up to the sky, along with the blooming petals, a young girl decends.
+
+"Yes, you are....", whispers the mystery girl, Sakuragi Mizuha.
+
+Meetings of the boys and girls, the fate begins to move.
+
+While out-of-season sakura blooms, curtain to young boys and girls story opens.
+
+[Translated from the [official website](https://circus-co.jp/product/dc5/)]
+
+来源：[VNDB v36687](https://vndb.org/v36687)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[CIRCUS]]（developer）<!-- AUTO:END duty -->
 

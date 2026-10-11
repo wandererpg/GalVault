@@ -27,6 +27,18 @@ cover_image: "assets/covers/v29254.webp"
 ![[assets/covers/v29254.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+You jolt awake as the bus hits a particularly nasty bump. You feel like you’d only just managed to start drifting off, and now here you are, awake again and still exhausted.
+
+For a moment, you’re hazy on the details of where exactly 'here' is, confusing this bus with the many others that came before it. But as your mind continues to reassert its existence in the waking world, the past few days come back into focus. The long-lost cousin, the bad news, the twenty-six hours of bus rides with countless late-night stops in seedy depots that felt unsafe even in the middle of the day. You wouldn’t normally find yourself traveling like this, but your cousin bought the tickets. The funeral of her mother, your aunt, seemed like something you shouldn't ignore, even considering your own late mother’s rocky relationship with this side of the family.
+
+Fortunately, the end of your long journey is in sight. You're almost in Scarlet Hollow.
+
+来源：[VNDB v29254](https://vndb.org/v29254)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Black Tabby Games]]（developer）<!-- AUTO:END duty -->
 

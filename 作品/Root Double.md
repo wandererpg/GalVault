@@ -29,6 +29,31 @@ cover_image: "assets/covers/v5000.webp"
 ![[assets/covers/v5000.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+September 16, 2030 - 6:19 AM.
+
+At "LABO", a giant scientific research facility built by a lake on the outskirts of "Rokumei City", an "incident" occurs...!
+And thus, nine souls are trapped in LABO's basement.
+
+A world where death eats away at every passing moment.
+The way out, shut. Frequent inexplicable phenomena. Countless mysteries.
+And... a bizarre murder that occurred right in that closed space.
+There are two routes out of this extreme situation:
+
+An amnesiac rescue squad captain in LABO- Watase Kasasagi.
+A nine hour escape drama unfolds from his viewpoint.
+
+A high school student trapped in LABO- Natsuhiko Tenkawa.
+A journey into his memories of the six days leading up to the incident starts from his viewpoint.
+
+When two intentions and two sets of memories overlap... all will be revealed.
+In the end, is there a route for all nine to escape with their lives?
+
+来源：[VNDB v5000](https://vndb.org/v5000)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Regista Co.,Ltd]]（developer）<!-- AUTO:END duty -->
 

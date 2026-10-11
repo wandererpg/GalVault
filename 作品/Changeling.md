@@ -27,6 +27,22 @@ cover_image: "assets/covers/v20861.webp"
 ![[assets/covers/v20861.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The human world accepted as reality is only a thin veneer under which lies a world of supernatural creatures, entities, and people. They live beside humans hiding their nature or walking among them unseen. And most people go about their lives entirely unaware of the dangers around them. Mysterious situations are written off as fake, or they're glossed over with some sort of mundane explanation.
+
+The same was true for Nora, a normal girl struggling with the usual litany of everyday problems - including her crumbling relationship with an angry, resentful twin brother with whom she's nearly given up on reconciling.
+
+But her family's return to the town in which she'd grown up set in motion a chain of events that would shatter every illusion she had about a world she thought she knew. Her eyes newly opened to the truth around her, Nora begins a journey to uncover the secrets of her own mysterious past and the reason for her brother's bitter hatred toward her. Alongside her best friend, and a group of unusual guys she met after her return, Nora begins to chip away at the lies shrouding her life. Lies that have been haunting her since childhood.
+
+But in a world where Vampires, Werewolves, and Faeries are real, learning the truth may come at a high cost.
+
+[From [itch.io](https://steamberry.itch.io/changelingdemo)]
+
+来源：[VNDB v20861](https://vndb.org/v20861)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Steamberry Studio]]（developer）<!-- AUTO:END duty -->
 

@@ -30,6 +30,16 @@ cover_image: "assets/covers/v1398.webp"
 ![[assets/covers/v1398.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Called the last part of the Yoake Mae yori Ruri Iro na story; -Moonlight Cradle- follows the ending of the expanded storyline of the PS2 version Yoake Mae yori Ruri Iro na -Brighter than dawning blue-.
+
+It tells of a new story involving all the heroines from the original as well as Estel Freesia and Tooyama Midori who made their first appearance on the PS2 version. Also included is a brand new heroine Cynthia Marguerite.
+
+来源：[VNDB v1398](https://vndb.org/v1398)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[AUGUST]]（developer）<!-- AUTO:END duty -->
 

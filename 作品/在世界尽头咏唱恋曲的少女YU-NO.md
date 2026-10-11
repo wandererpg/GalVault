@@ -29,6 +29,16 @@ cover_image: "assets/covers/v1377.webp"
 ![[assets/covers/v1377.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Takuya Arima is a young student whose father, a historian who has conducted various researches, disappeared recently. During a summer vacation Takuya receives a peculiar package from his missing father, along with a letter containing information about the existence of various parallel worlds. At first Takuya doesn't take it seriously, but soon he realizes that he possesses a device that allows him to travel to alternate dimensions. Is his father alive, after all? If so, where is he?
+
+[From [TLWiki](http://tlwiki.org/index.php?title=Kono_Yo_no_Hate_de_Koi_wo_Utau_Shoujo_YU-NO)]
+
+来源：[VNDB v1377](https://vndb.org/v1377)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[elf]]（developer）<!-- AUTO:END duty -->
 

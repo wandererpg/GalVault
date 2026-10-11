@@ -29,6 +29,16 @@ cover_image: "assets/covers/v12481.webp"
 ![[assets/covers/v12481.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+It’s been several years since the ‘legendary era’ at Ryuumeikan. The powers of student council and the public morals committee have increased to encompass not only clubs, but also over all classes. Now the two committees which had become friendly with each other were led by two aggressive girls, Hakari and Neko. Respecting the traditions imposed by the principal Heizou, they fight each other, dragging Hakari’s follower Sanagi along in the process.
+
+[From [Hau~ Omochikaeri!](http://omochikaeri.wordpress.com/2013/12/01/december-2013-eroge-releases/)]
+
+来源：[VNDB v12481](https://vndb.org/v12481)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[CandySoft]]（developer）<!-- AUTO:END duty -->
 

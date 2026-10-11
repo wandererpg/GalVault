@@ -28,6 +28,18 @@ cover_image: "assets/covers/v18783.webp"
 ![[assets/covers/v18783.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Due to a certain incident, the Simulacrum-piloting mercenary Sou lost his fighting ability and as a result, his job as well. He returned to his foster father’s home on the island of Wadatsumi, followed by his former partner Yuuri for some reason. Soon after his arrival, he saved a girl who had lost her memories, Tsukuyomi, and she ended up staying at his home.
+
+Although there were no decent jobs on the depopulated island, he readily received a work request from a mysterious individual. It was to transfer into the island’s only school Kouka Academy and investigate if its students were involved in the terrorism that has besieged the island. Standing in his way as he set forth to infiltrate the school was the student council president Mao and her Simulacrum. At that moment, a girl who called herself a fairy appeared before him and began to assimilate with his Simulacrum...
+
+[From [Hau~ Omochikaeri!](https://omochikaeri.wordpress.com/2016/08/24/august-2016-eroge-releases/)]
+
+来源：[VNDB v18783](https://vndb.org/v18783)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Team Baldrhead]]（developer）<!-- AUTO:END duty -->
 

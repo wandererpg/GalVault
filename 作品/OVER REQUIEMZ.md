@@ -28,6 +28,20 @@ cover_image: "assets/covers/v47013.webp"
 ![[assets/covers/v47013.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+*Whisked away by a tornado to a faraway land, Yuhiru finds herself alongside a group of murderers on a perilous quest.*
+
+After being caught up in a terrifying tornado, you have wandered into a faraway kingdom ruled by four witches and a king. But you are not welcome. Sentenced to death upon arrival, you are ordered to investigate mysterious, monster infested ruins, along with four murderers on death row and their secretive supervisor. Your only choice is to escape your death sentence and discover a way home.
+
+In this dark reimagining of the classic tale, high school student Yuhiru finds herself lost in Oz. Unjustly sentenced to death she must now travel with four convicts and their supervisor. At the mercy of her fellow travelers, Yuhiru will face many hard decisions along the way, but there’s one thing she must bear in mind: No one is lost forever, no matter how far they’ve strayed.
+
+[From [Aksys Games](https://www.aksysgames.com/overrequiemz/)]
+
+来源：[VNDB v47013](https://vndb.org/v47013)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Idea Factory Co., Ltd]]（developer）
 - [[Kogado Girls Project]]（developer）

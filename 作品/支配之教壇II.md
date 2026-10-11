@@ -28,6 +28,19 @@ cover_image: "assets/covers/v27492.webp"
 ![[assets/covers/v27492.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The main character is a student who has transferred to a certain school.
+He always had a strong desire for woman, and when he witnessed the school nurse, Yumezomo Hasumi, masturbating, he took her virginity and raped her.
+Ever since then, he took great pleasure in ravishing, training, and dominating his female teachers.
+His next target is the school's music teacher, Kawamura Yoshino, who happens to be a childhood friend of his, where she used to babysit him.
+He has to desire fire his seed into any teacher who catches his eyes and dominate her womb...
+To realize his ambition, a scandalous teacher training session begins.
+
+来源：[VNDB v27492](https://vndb.org/v27492)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[BISHOP]]（developer）<!-- AUTO:END duty -->
 

@@ -28,6 +28,16 @@ cover_image: "assets/covers/v5746.webp"
 ![[assets/covers/v5746.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This is the debut title by Shangrila Smart. There are two protagonists: Norifumi is a guy who has been taking pictures since he was small, and Yumi has been working as a model. Instead of a cast of heroines, this game rather follows a story told from both of their perspectives. Even though the title suggests that it isn’t about love, it tells a drama of adolescence set on the solitary island of Toshima. Their childhood friend Tasuku had wished that they can film a movie of their lives up to their graduation. Spending Christmas with everyone, a fateful Valentine’s Day, love and friendship… everything is captured by their pictures. But not much time remains until their graduation when they will go their separate ways.
+
+[From [Hau~ Omochikaeri!](http://omochikaeri.wordpress.com/2011/05/18/may-2011-eroge-releases/)]
+
+来源：[VNDB v5746](https://vndb.org/v5746)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Syangrila Smart]]（developer）<!-- AUTO:END duty -->
 

@@ -28,6 +28,16 @@ cover_image: "assets/covers/v914.webp"
 ![[assets/covers/v914.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+It is a snowing Christmas Eve… Everything seems so peaceful when a huge earthquake occurs. The earthquake causes the city to be in ruin, and the surviving people need to find ways to stay alive. Some go crazy and rob others, some cling onto God, some gather to live together. The six main characters meet at a church while they were trying to find shelter from the snow. What will they see and experience in this extreme situation…?
+
+[From [Yandere Translations](https://web.archive.org/web/20111231210305/http://yandere.gray7.com/?page_id=701)]
+
+来源：[VNDB v914](https://vndb.org/v914)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[FlyingShine]]（developer）<!-- AUTO:END duty -->
 

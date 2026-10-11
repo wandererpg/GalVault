@@ -28,6 +28,26 @@ cover_image: "assets/covers/v32669.webp"
 ![[assets/covers/v32669.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+One hour.
+
+The woman and her team of investigators had one hour to infiltrate a prison and cause a breakout. Her dearest hope was that, among the prisoners, there would be her brother who disappeared nearly twenty years ago.
+
+She couldn't shake the feeling that something sinister was waiting for her team.
+
+One hour.
+
+The man had been up for one hour, contemplating his past. Everything changed when breakfast was delivered and a box with clothing was slid through the opening in the door. He was told to put it on if he wanted to escape.
+
+Something felt wrong but the prisoner obeyed. Someone was breaking him out... but why?
+
+It is for the future when none may tread.
+
+来源：[VNDB v32669](https://vndb.org/v32669)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Miracle Moon]]（developer）<!-- AUTO:END duty -->
 

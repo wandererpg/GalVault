@@ -28,6 +28,16 @@ cover_image: "assets/covers/v26008.webp"
 ![[assets/covers/v26008.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Entering the local prep school Hoshimi Gakuen, Koyomi met Hikaru, who has the top grades in the school and is liked by everyone in the class thanks to her bright personality. He found it difficult to approach her, but that all changed one day when he saw her admiring the sunset while taking pictures with her camera. Seeing her so absorbed in her hobby made him even more attracted to her. This chapter of their youth will be full of ‘like’ and ‘love’.
+
+[From [Hau~ Omochikaeri~!](https://omochikaeri.wordpress.com/2019/08/01/august-2019-eroge-releases/)]
+
+来源：[VNDB v26008](https://vndb.org/v26008)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[rootnuko]]（developer）<!-- AUTO:END duty -->
 

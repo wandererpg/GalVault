@@ -29,6 +29,33 @@ cover_image: "assets/covers/v16266.webp"
 ![[assets/covers/v16266.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+A rumor was circulating about an after-school devil.
+
+Its true identity was students whose forbidden impulse is awaken.
+""From a best friend to a best friend"". The desire was infectious.
+
+There is only one way to be free from it.
+That is to have a sexual intercourse and inject the seed of desire into the vagina.
+
+The want that comes from deep in the body. The ""new instinct"" arises.
+That is something that erects under the skirt.
+Its need for pleasure targets her close friends...!!
+
+Senior and junior students and best friends... all of the girls are captured and penetrated.
+And they wander in the school as the next after-school devil.
+The curse is all over the school. Most of the students experienced it by then.
+
+The order of the school was maintained only by their feeling of shame.
+Their sin was regarded as a rumor and their daily life continued as if nothing has happened...
+
+[From [DLsite English](http://www.dlsite.com/ecchi-eng/work/=/product_id/RE143025.html)]
+
+来源：[VNDB v16266](https://vndb.org/v16266)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[TinkleBell]]（developer）<!-- AUTO:END duty -->
 

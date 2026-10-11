@@ -28,6 +28,25 @@ cover_image: "assets/covers/v37651.webp"
 ![[assets/covers/v37651.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Inui Sana is a young lady who can’t admit her feelings.
+
+Luckily, she doesn’t have to at Yuihime Girls Private Academy, the place where she spends fun-filled days with her precious friends and the senior she loves.
+Or at least, that’s how things have always been...
+
+Now, her comfy and prestigious school is being merged with the boys’ school from the upstart side of town! Shoved into a combined class to trial the new system, she finds her world changing faster than she can keep up—and one of her new classmates makes her heart beat faster too. Quicker and quicker, the changes pile up, altering the landscape of her life like a sudden snowfall...
+
+A new love story is about to begin.
+
+[From [Steam](https://store.steampowered.com/app/2737980/Mashiroiro_Symphony_HD_Sana_Edition/)]
+
+The standalone game of [Inui Sana](/c5103)'s route that was first included in the [console edition](/r11601) of the Mashiro-iro Symphony. In addition, newly written scenes, new CGs, as well as H scenes are also added.
+
+来源：[VNDB v37651](https://vndb.org/v37651)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Palette]]（developer）<!-- AUTO:END duty -->
 

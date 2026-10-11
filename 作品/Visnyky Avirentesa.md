@@ -27,6 +27,18 @@ cover_image: "assets/covers/v38367.webp"
 ![[assets/covers/v38367.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Heralds of the Avirentes is a visual novel, which brings you into the “Crystal punk” fantasy setting, where the world of Nanraas in which the dragon race lives. Dive into the grim atmosphere of upcoming natural disaster that can wipe out the entire life on the planet! However, the majority of ignorant fools believes it only being a fairy tale that scares young hatchlings, Avirentes is closer and closer with each step our heroine makes!
+Young cheerful and ever-curious om’verai Azaries is preparing for her pilgrimage to the new mysterious adult life – together with her loyal friends, they are going to visit the scientific and cultural capital of the om’veri to choose their future careers. Everything was going according to the plan until the vortex of mysterious events has forged another destiny for Azaries and her companions – now the fate of the entire worlds depends on her!
+Mysterious stranger Akhellis inspires Azaries to investigate the deep changes of the surrounding world in order to find answers. Moreover, she keeps countless secrets, including the mystery of Azaries’ violet eyes. Why can she control ancient powerful mechanisms? Will she be able to stop the future catastrophe? Why does every single animal become aggressive and extremely dangerous?
+
+[Edited from [Steam](https://store.steampowered.com/app/2360560/)]
+
+来源：[VNDB v38367](https://vndb.org/v38367)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[TellerySpyro_GTX]]（developer）<!-- AUTO:END duty -->
 

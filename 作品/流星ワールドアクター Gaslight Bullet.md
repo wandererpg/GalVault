@@ -29,6 +29,22 @@ cover_image: "assets/covers/v60196.webp"
 ![[assets/covers/v60196.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The Seventh Republic—the city despised by the sun.
+A nation which has not seen the sunlight since the last great war, teeming with hidden and vicious criminals.
+
+The protagonist Hiryuu Ruka is a detective affiliated with the 13th Division, nicknamed the "Sideliners," a place where misfits of the force gathered. Aside from his regular duties, Ruka has been pursuing the "Cult Massacre" case on his own, but due to his constant problematic behaviors, he is reassigned to the Traffic Division. A situation that he would not have face before, in order to return to the front line as a detective, Ruka takes on the challenges that were imposed on him.
+
+Meanwhile, a fire breaks out at the building belonging to a certain conglomerate.
+With this, marked the tumultuous beginning that would shake the Seventh Republic――
+
+[Translated and edited from the [official website](https://www.fanzagames-digination.com/heliodor/world-actor-gb/#story)]
+
+来源：[VNDB v60196](https://vndb.org/v60196)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Heliodor]]（developer）<!-- AUTO:END duty -->
 

@@ -29,6 +29,14 @@ cover_image: "assets/covers/v30771.webp"
 ![[assets/covers/v30771.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This is story about a manga artist who is dissatisfied with his work and draws adult manga under a different name. He finds himself at a resort called "Costaria," where he encounters a pair of sisters who want to act out the scenarios from his adult manga.
+
+来源：[VNDB v30771](https://vndb.org/v30771)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[AKABEiSOFT2]]（developer）<!-- AUTO:END duty -->
 

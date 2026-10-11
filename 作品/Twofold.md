@@ -28,6 +28,18 @@ cover_image: "assets/covers/v15469.webp"
 ![[assets/covers/v15469.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Olive’s situation is dire. They're on the verge of being thrown out of college unless they can salvage their GPA, and their only chance rests on classes they know next to nothing about.
+
+Their lifeline: two club leaders who are more than willing to help them succeed. However, no solution is that easy. Olive soon finds themself in the middle of a conflict between these two friends that threatens to undo their long-standing love for each other.
+
+[From the [official website](https://twofold.salty-salty-studios.com/)]
+
+来源：[VNDB v15469](https://vndb.org/v15469)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Salty Salty Studios]]（developer）
 - [[Studio Coattails]]（developer）<!-- AUTO:END duty -->

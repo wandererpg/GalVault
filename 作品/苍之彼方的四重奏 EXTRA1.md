@@ -29,6 +29,37 @@ cover_image: "assets/covers/v20228.webp"
 ![[assets/covers/v20228.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+I have a role model that I idolize...
+A boyfriend that I love...
+And many wonderful friends who will always be there for me.
+All it took was a bit of courage and hard work, and I found what I’d always yearned for. Now it’s finally time for our Happily Ever After!
+
+...Or so I thought.
+
+I’m still struggling to pass my classes at school.
+I was utterly humiliated in a cooking contest by Rika and Arika.
+And worst of all, Misaki-senpai and Asuka-senpai are trying to challenge my position as Masaya-senpai’s girlfriend!
+
+At this rate, I’ll lose my boyfriend, flunk my classes, and Mashiro Udon will go under!
+
+One day, as I was stressing about everything, my mom suggested that Masaya-senpai and I go on an overnight trip together.
+
+“I’ll whip us up a delicious lunch!”
+
+"And I’ll impress him with a cute outfit, too!”
+
+Because I went and blabbed to Masaya-senpai, I’m now stuck spending all of my free time doing some intense training to improve my skills in certain areas that I’m sorely lacking! Will things really work out?
+
+This is the story of a girl and her Senpai, their hectic romance, and all the friends that help them out along the way.
+
+[From [Steam](https://store.steampowered.com/app/1340130/Aokana__Four_Rhythms_Across_the_Blue__EXTRA1/)]
+
+来源：[VNDB v20228](https://vndb.org/v20228)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[sprite]]（developer）<!-- AUTO:END duty -->
 

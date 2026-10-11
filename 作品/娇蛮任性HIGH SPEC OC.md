@@ -29,6 +29,16 @@ cover_image: "assets/covers/v20524.webp"
 ![[assets/covers/v20524.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This is the fandisc for Wagamama High Spec, with after stories for all four heroines and new routes for sub-heroines Karen, Chitose and Yukari.
+
+[From [Hau~ Omochikaeri!](https://omochikaeri.wordpress.com/2017/08/01/august-2017-eroge-releases/)]
+
+来源：[VNDB v20524](https://vndb.org/v20524)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Madosoft]]（developer）<!-- AUTO:END duty -->
 

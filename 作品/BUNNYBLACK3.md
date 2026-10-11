@@ -29,6 +29,16 @@ cover_image: "assets/covers/v12186.webp"
 ![[assets/covers/v12186.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+After marrying the maou, the adventurer Darks became a maou himself. One day, while he was doing his job as a maou, an observer Macdo came from the demon world. She deemed his abilities to be insufficient and ordered him to build a town to prove himself. It was an arduous task, but with the help of his numerous wives, daughters and other girls, and his deep desire to do it for them, he was determined to get the job done. But with attacks from resistance forces and scheming from the heavens, will he be able to succeed?
+
+[From [ Hau~ Omochikaeri!](http://omochikaeri.wordpress.com/2013/06/20/june-2013-eroge-releases/)]
+
+来源：[VNDB v12186](https://vndb.org/v12186)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[SofthouseChara]]（developer）<!-- AUTO:END duty -->
 

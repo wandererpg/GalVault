@@ -28,6 +28,18 @@ cover_image: "assets/covers/v62152.webp"
 ![[assets/covers/v62152.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The remote island of Kameshima sits nestled in Ise bay.
+Yuza Minakuchi is a young pearl diver who lives on the island and spends his days underwater gathering, together with his best friend Azami Kumoi. After he has a bewildering supernatural experience encountering another version of himself on the ocean floor, a series of curses start to befall the island...
+A girl of unknown origins, a treasure hunter from a foreign land and a mysterious housewife investigating a drowning. Paths cross and destinies collide as they come closer to the secret of the Mermaids of Ise, a legend that has been obscured by the fog of history for so long.
+
+[From [Steam](https://store.steampowered.com/app/2701440/PARANORMASIGHT_The_Mermaids_Curse/)]
+
+来源：[VNDB v62152](https://vndb.org/v62152)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[SQUARE ENIX]]（developer）<!-- AUTO:END duty -->
 

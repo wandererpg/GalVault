@@ -28,6 +28,18 @@ cover_image: "assets/covers/v11881.webp"
 ![[assets/covers/v11881.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Seven years ago during the great disaster Naglfar Night, a shift in the Earth’s crust caused the land to be inundated by the sea, washing away the soil and drastically altering the world. A great tear in the crust known as the ‘parallel out’ emitted noxious gases which hardened the skin of humans, causing them to crumble into dust. This spelled the end of tens of thousands of people.
+
+Those that were not affected moved away from the capital, which was ravaged by the disaster, to rebuild. After some time, they created a cure known as AS9 for those who were affected by the noxious gases. This allowed people to move back to the capital. Yuuma is one of those who now live within in the capital, while Akashi is a mysterious boy who lived in an area abandoned after the disaster. Their fated meeting would bring forth many unfortunate events.
+
+[From [Hau~ Omochikaeri!](https://omochikaeri.wordpress.com/2013/06/20/june-2013-eroge-releases/)]
+
+来源：[VNDB v11881](https://vndb.org/v11881)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[3rdEye]]（developer）<!-- AUTO:END duty -->
 

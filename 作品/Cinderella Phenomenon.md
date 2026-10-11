@@ -27,6 +27,18 @@ cover_image: "assets/covers/v19912.webp"
 ![[assets/covers/v19912.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Four years after the end of the Great War and the loss of her mother, Crown Princess Lucette of Angielle is still struggling to come to terms with her new life and step-family. Cold-hearted and bitter, Lucette fails to recognize the suffering of those around her as she is consumed by grief and resentment. But Lucette's life is once again turned upside down when she becomes a victim of the Fairytale Curse.
+
+Join Lucette as she goes from riches to rags and journeys to regain her life and break her curse.
+
+[From [itch.io](https://dicesuki.itch.io/cinderella-phenomenon)]
+
+来源：[VNDB v19912](https://vndb.org/v19912)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Dicesuki]]（developer）<!-- AUTO:END duty -->
 

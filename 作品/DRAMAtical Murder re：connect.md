@@ -29,6 +29,28 @@ cover_image: "assets/covers/v10895.webp"
 ![[assets/covers/v10895.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This is the fandisc of DRAMAtical Murder. It offers ending afterstories of the endings of the original game. There are also Featured Contents.
+
+Featured Contents:
+
+- THE CHIRAL NIGHT -Dive into DMMd-: Read the special ADV scenes that were presented on Nitro+CHiRAL's 2012 Concert, as well as Web Voices!
+
+- DRAMAtical Mother (DRAMAtical Moder in English Translation Patch): Nitro+CHiRAL's 2012 April Fools 'title' made its way to this game! Watch the special 8-bit 'RPG' movies that took place in the DMMd world.
+
+- Character Matching Game: This is a minigame where you match cards. Play as Aoba and strike through as you play a match with the DMMd cast!
+
+- Special Gallery: See the official art that was made when DMMd was developed. Includes magazine-exclusives art (from Cool-B and B's LOG) and Limited Edition wallpapers.
+
+- 2012 April Fools -Aoba's Twitter Log-: See Aoba's twitter log.
+
+- Countdown Voices: Listen to the 8-day countdown voices that were used for the release countdown of DRAMAtical Murder (12.03.15-12.03.23) and DRAMAtical Murder re:connect (13.04.18-13.04.26)!
+
+来源：[VNDB v10895](https://vndb.org/v10895)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[NITRO CHiRAL]]（developer）<!-- AUTO:END duty -->
 

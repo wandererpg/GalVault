@@ -29,6 +29,22 @@ cover_image: "assets/covers/v12795.webp"
 ![[assets/covers/v12795.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This is another telling of Hyper→Highspeed→Genius with a new set of heroines aside from returning protagonist Kyuushirou and heroine Mephisto.
+
+When Kyuushirou woke up, he had lost his memories and didn’t even know his own name until his younger sister Hikari told him. They attend Hazuki Academy, a public school for training geniuses to become the ‘saintess’. His head hurt just from hearing the word ‘saintess’. It’s as if it carried an important meaning to him in the past, but he cannot remember it.
+
+He met three girls at the school: the most saintly Nadeshiko from Yayoi Academy, the leader-in-waiting for the saintess’ knightage at Saint April Academy, Fiana, and the genius Sally who attends the magic and ‘gift’-researching Kisaragi Magic Academy and who is the only one in the world with three ‘gifts’. He had a premonition that if one of them became the saintess, then the world will be destroyed.
+
+Furthermore, there was someone after his life. The mysterious assailant Reigetsu told him that his presence in this world will cause its collapse. However, at that moment, his hidden ‘gift’ awakened – ‘hyper highspeed’, the ability to have infinitely many parallel thoughts. Then, he came upon a giant library where he had a sense of déjà vu. A girl who looked just like Hikari greeted him: “Long time no see, or should it be nice to meet you? I am Mephisto and I am on your side to destroy this world”.
+
+[From [Hau~ Omochikaeri!](http://omochikaeri.wordpress.com/2013/11/01/november-2013-eroge-releases/)]
+
+来源：[VNDB v12795](https://vndb.org/v12795)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Windmill]]（developer）<!-- AUTO:END duty -->
 

@@ -28,6 +28,25 @@ cover_image: "assets/covers/v21528.webp"
 ![[assets/covers/v21528.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Ancient Rome, but not the same Roman Empire we know. These events took place in the city of Doronium that was located in Gernia province, which bordered the territories of the minotaur tribes near the norther part of the empire.
+The man named Canecone, a member of the city council, had recently acquired a new slave, Paia. On her first work day, while the girl was looking for mushrooms, she stepped on Medusa's sacred grounds and was cursed by the goddess. Paia's hair and legs turned to snakes, which brought calamity upon Doronium. When the girl entered the city's amphitheater, the gladiators and the guards were petrified, causing panic among the spectators.
+
+The top officials of the city: the duumviri and the city council members called an augur to divine how to defeat the monster, but ultimately could not come up with a good plan. In the meantime, the trees around the amphitheater began turning to stone. And while the petrifying wave was slowly consuming the city, believers of the Church of Holy Rood preached that it was divine punishment for the Romans' self-indulgence.
+
+Finally, the members of the city council turned to the famous sibyl Zoe for help. The plan proposed by Zoe was to summon a close friend of Medusa, Julinas, who was the lowest and most obscure god in the Underworld.
+
+To conduct the ritual, the council members called the most gorgeous women in Doronium: Destra and Escelda. Perhaps because of their help, the obscure god Julinas descended to the human world. And when he found out that it was a senior slave who told Paia to trespass on Medusa's sacred grounds, he lifted the curse.
+
+Later, Destra and Escelda offered Julinas the gift of Venus for the first time in his 500 years of divine life. But his delight was not going to last. Due to divine laws, gods could only spend a few days in the human world. Julinas was going to return to the Underworld, but...
+
+[Taken from [Steam](https://store.steampowered.com/app/1506260/Funbag_Fantasy_3if/)]
+
+来源：[VNDB v21528](https://vndb.org/v21528)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Waffle]]（developer）<!-- AUTO:END duty -->
 

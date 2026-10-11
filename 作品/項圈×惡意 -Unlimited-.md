@@ -29,6 +29,20 @@ cover_image: "assets/covers/v21789.webp"
 ![[assets/covers/v21789.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The danger has only begun!
+
+Return to the thrilling, deadly world of Collar X Malice with exclusive Interlude, After Story, and Adonis play modes. Revisit the characters and events of the original game, as you build new relationships while picking up the pieces in the aftermath of the first X-Day Incident.
+
+Then buckle up for an entirely new investigatory experience as you search for traitors hidden deep within the shadowy Adonis organization. Embark on a desperate race against time before the next cataclysmic X-Day arrives!
+
+[From [Nintendo](https://www.nintendo.com/store/products/collar-x-malice-unlimited-switch/)]
+
+来源：[VNDB v21789](https://vndb.org/v21789)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Design Factory Co., Ltd]]（developer）
 - [[Otomate]]（developer）<!-- AUTO:END duty -->

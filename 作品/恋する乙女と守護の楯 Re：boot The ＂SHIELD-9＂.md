@@ -28,6 +28,16 @@ cover_image: "assets/covers/v26960.webp"
 ![[assets/covers/v26960.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This is a remake of AXL’s 2007 title Koisuru Otome to Shugo no Tate, with new routes added for Yuuri and Setsuko. Senomoto Hisashi’s art has changed a bit over the years, while the cast has stayed pretty much the same aside from Yuuri (Nekoyashiki Mai). Of course, the graphics are now in widescreen full HD and compatible with Windows 10.
+
+[From [Hau~ Omochikaeri~!](https://omochikaeri.wordpress.com/2020/03/26/march-2020-eroge-releases/)]
+
+来源：[VNDB v26960](https://vndb.org/v26960)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Team AIGIS]]（developer）<!-- AUTO:END duty -->
 

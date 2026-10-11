@@ -28,6 +28,18 @@ cover_image: "assets/covers/v34509.webp"
 ![[assets/covers/v34509.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The kidnapped protagonist, Maya Higuchi, lives a strange communal life with Satori Nakahara, a hitman.
+Satori is a hitman who undertakes a special killing that "kills the subject after sexually teasing", and Maya was helped to clean up (digging holes, etc.) afterwards.
+Maya, who was rejected by his parents and others because of his "talent" and wanted to die, finds salvation in the "violence that destroys all of his opponents" that Satori is trying to kill.
+
+[Taken from [Freem!](https://www.freem.ne.jp/win/game/24077)]
+
+来源：[VNDB v34509](https://vndb.org/v34509)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Marutoku Kichi]]（developer）<!-- AUTO:END duty -->
 

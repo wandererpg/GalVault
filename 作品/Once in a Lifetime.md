@@ -27,6 +27,23 @@ cover_image: "assets/covers/v31448.webp"
 ![[assets/covers/v31448.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+You live in Mistbury, an apparently normal town where you live an apparently normal life with your family. However, you'll soon discover that this place hides some deep dark secrets and things can heat up very fast...
+
+From infiltrating into a prison to exploring mysterious mansions and traveling to the other side of the world: embark on an adventure of conspiracies, meeting bizarre characters, living unique experiences, seducing gorgeous girls and, if there's time, saving the world.
+
+If Astaroth seizes power, it will be the end for all of us.
+Only you can stop him.
+
+*Esse est deus.*
+
+[From [Itch.io](https://caribdis.itch.io/once-in-a-lifetime)]
+
+来源：[VNDB v31448](https://vndb.org/v31448)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Caribdis]]（developer）<!-- AUTO:END duty -->
 

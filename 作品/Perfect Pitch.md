@@ -27,6 +27,24 @@ cover_image: "assets/covers/v54872.webp"
 ![[assets/covers/v54872.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+A game about music, romance, and the covid-19 pandemic as a convenient plot device.
+
+Perfect Pitch is set in the American Midwest in late summer 2020. Just before the crescendo of covid cases later that year which would mark one of the deadliest winters on record.
+
+You are an up-and-coming multi-instrumentalist (named Miles by default) who is presented with a rather unique opportunity: a full-ride scholarship to the internationally renowned,  all-girls music conservatory named Géante Endormie.
+
+But this scholarship is no simple charity... you have a job to do. The future of your classmates, and the future of the Conservatoire, depends on it.
+
+Enjoy your stay at Géante Endormie~
+
+[From [itch.io](https://soundsommelier.itch.io/perfect-pitch)]
+
+来源：[VNDB v54872](https://vndb.org/v54872)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[soundsommelier]]（developer）<!-- AUTO:END duty -->
 

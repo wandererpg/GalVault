@@ -27,6 +27,20 @@ cover_image: "assets/covers/v31360.webp"
 ![[assets/covers/v31360.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Begin your life anew in this second installment to the lovingly nostalgic “Our Life” series.
+
+Fall has settled over a quaint town high on a mountain as the story begins. But it isn’t only the leaves that are changing. You and your mother were leaving behind everything you knew before, having just moved into that well-worn house in the middle of a tight knit cul-de-sac. It’s there where a delicate paper airplane lands at your feet and leads you to unanticipated crossroads…
+
+Make your own path through life as you grow from childhood to adulthood with your two closest neighbors. Even in the chilly autumn weather, it’ll be a truly heartwarming time.
+
+[From [Itch.io](https://gbpatch.itch.io/our-life-nf)]
+
+来源：[VNDB v31360](https://vndb.org/v31360)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[GB Patch Games]]（developer）<!-- AUTO:END duty -->
 

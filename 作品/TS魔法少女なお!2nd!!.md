@@ -29,6 +29,22 @@ cover_image: "assets/covers/v25820.webp"
 ![[assets/covers/v25820.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The long-awaited continuation of "TS Magical Girl Nao!"
+
+Nao-chan (a.k.a. Arty Flare) had grown through our previous battles,
+but a new enemy and a new magic girl appear...
+The absurd transgender comedy is set at a summer beach, and things are getting hot!
+Of course, we are bringing even more lewd content to the table!
+Enjoy the new adventures of these magic girls!!
+
+(from dlsite)
+
+来源：[VNDB v25820](https://vndb.org/v25820)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Crooked Navel]]（developer）<!-- AUTO:END duty -->
 

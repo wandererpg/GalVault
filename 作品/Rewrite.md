@@ -28,6 +28,18 @@ cover_image: "assets/covers/v751.webp"
 ![[assets/covers/v751.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Rewrite is set in the fictional city Kazamatsuri where treeplanting and afforestation have caused the city to become overgrown with trees and flowers in much the same way that other cities are filled by buildings. However, while most of the city appears to be rural, there are many traditional city elements as well. While set in a modern setting, the city also gives off a strange sense of nostalgia.
+
+Tennouji Kotarou lives here. He's a high school student who has the ability to rewrite his own body; he can become stronger and faster at any time he chooses. He investigates supernatural mysteries with five girls from his school.
+
+[Partially taken from [Wikipedia](http://en.wikipedia.org/wiki/Rewrite_(visual_novel))]
+
+来源：[VNDB v751](https://vndb.org/v751)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Key]]（developer）<!-- AUTO:END duty -->
 

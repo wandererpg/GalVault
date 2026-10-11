@@ -29,6 +29,26 @@ cover_image: "assets/covers/v11856.webp"
 ![[assets/covers/v11856.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Springtime.
+
+The season of cherry blossoms, and a time of new beginnings, new encounters, and new people. For Aoba Kyousuke, this new season marks the start of his second year in high school, and after taking a moment to reflect and looking at the friends around him...All he can find is a dumbass too horny for his own good, and can't get over his strange fetish for lizard-humanoid creatures.
+
+Sure enough, he enjoys hanging out with them, and he wouldn't even think of giving it up, but something feels missing. A precious, valuable part of everyone's adolescence, and something he might  just miss out on at this rate...
+
+What is that something? Why, love of course. So upon realizing this, he shouts to the world-
+
+"I WANT A GIRLFRIEND!"
+
+He'll need to give it his all, of course, because he knows that love does not just come to those who wait.
+
+[From [ NekoNyan](https://fureraba.nekonyansoft.com/)]
+
+来源：[VNDB v11856](https://vndb.org/v11856)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[SMEE]]（developer）<!-- AUTO:END duty -->
 

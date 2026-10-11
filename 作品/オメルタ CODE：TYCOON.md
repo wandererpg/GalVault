@@ -29,6 +29,18 @@ cover_image: "assets/covers/v10279.webp"
 ![[assets/covers/v10279.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Fandisc for Omertà ~Chinmoku no Okite~.
+
+JJ wakes up to find himself locked in a prison cell with no memory of why or how he got there. Unbeknownst to JJ, while he's lying in his cell trying to remember what happened, his friends back in Tokyo Bay are dealing with a terrorist threat. Someone has planted a pulse bomb somewhere near the DH headquarters and, if it goes off, anything electronic will cease to work putting Tokyo Bay in utter chaos.
+
+[From The Yaoi Treasure Trove]
+
+来源：[VNDB v10279](https://vndb.org/v10279)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Karin Chatnoir Ω]]（developer）<!-- AUTO:END duty -->
 

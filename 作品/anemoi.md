@@ -28,6 +28,19 @@ cover_image: "assets/covers/v47937.webp"
 ![[assets/covers/v47937.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+"The golden sea sways,
+enveloped by the gentle passing of time
+and shrouded in nostalgic whispers.
+The promise lies within the wind..."
+
+Ten years after it was buried, the day to open the time capsule was approaching. The protagonist, Hayakawa Mugi, along with his younger sister, Rikka, decided to visit the northern town of Masumi. The town, which makes you forget the hustle and bustle of the city, had a slow pace of life amidst the strong winds. Benefiting from the large windmills, life was built on experience, wisdom, and human connections. Until the promised time, Mugi decided to spend his time living a slow life in the town while interacting with the people there.
+
+来源：[VNDB v47937](https://vndb.org/v47937)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Key]]（developer）<!-- AUTO:END duty -->
 

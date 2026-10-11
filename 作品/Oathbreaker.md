@@ -27,6 +27,15 @@ cover_image: "assets/covers/v27521.webp"
 ![[assets/covers/v27521.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+A veteran Warlock finds herself in a political conspiracy when she is summoned by the Sovereignty as the new Court Mage.
+Is the real danger truly one of political intrigue, or is there a darker secret hiding underneath?
+
+来源：[VNDB v27521](https://vndb.org/v27521)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[LarkyLabs]]（developer）<!-- AUTO:END duty -->
 

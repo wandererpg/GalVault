@@ -27,6 +27,16 @@ cover_image: "assets/covers/v64313.webp"
 ![[assets/covers/v64313.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Roxy would be an alcoholic deadbeat if she weren't a somewhat capable graphic designer with a penchant for mommying new girls. Odessa can see the future. Mia and Fabiane are shooting up together and then they make out. Roxy remains a barely-functional alcoholic. This life is all too visible.
+
+[From [itch.io](https://snekofspice.itch.io/dog-days-dog-daze)]
+
+来源：[VNDB v64313](https://vndb.org/v64313)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Snek RK]]（developer）<!-- AUTO:END duty -->
 

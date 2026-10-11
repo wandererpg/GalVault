@@ -28,6 +28,16 @@ cover_image: "assets/covers/v12606.webp"
 ![[assets/covers/v12606.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This is a full remake of Aneimo Neo with 8 total heroines. New heroines Asuka and Reiko join Mai and Nana, while subheroines Takami, Hazuki, Sakura and Sawako are all elevated to heroine status.
+
+[From [Hau~ Omochikaeri!](http://omochikaeri.wordpress.com/2013/11/01/november-2013-eroge-releases/)]
+
+来源：[VNDB v12606](https://vndb.org/v12606)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[bootUP!]]（developer）<!-- AUTO:END duty -->
 

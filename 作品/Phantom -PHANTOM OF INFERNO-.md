@@ -28,6 +28,16 @@ cover_image: "assets/covers/v45.webp"
 ![[assets/covers/v45.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Phantom of Inferno is a story detailing the life of a 15-year-old Japanese boy who is kidnapped after witnessing the killing of a reporter. After being kidnapped his memories of his past life are erased and is given the choice to join Inferno or die. He makes the only choice he can to join and is given the name Zwei and will study under Ein. She is also known as Phantom since this is the title given to the organization's top assassin.
+
+[From [Wikipedia](http://en.wikipedia.org/wiki/Phantom_of_Inferno)]
+
+来源：[VNDB v45](https://vndb.org/v45)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[NITRO PLUS]]（developer）<!-- AUTO:END duty -->
 

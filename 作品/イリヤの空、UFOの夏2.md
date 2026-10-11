@@ -29,6 +29,14 @@ cover_image: "assets/covers/v4696.webp"
 ![[assets/covers/v4696.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Contains volumes 3 and 4 of the original light novel.
+
+来源：[VNDB v4696](https://vndb.org/v4696)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Netchubiyori Ltd]]（developer）<!-- AUTO:END duty -->
 

@@ -30,6 +30,18 @@ cover_image: "assets/covers/v21668.webp"
 ![[assets/covers/v21668.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This is the second episode of 9-nine. When a large earthquake struck the university town of Shiromitsugawa, the sacred treasure in the Hakuda Tsukumo Shrine was damaged, and mysterious objects called "artifacts" began to appear from a parallel world. These artifacts granted special abilities to those who possessed them.
+
+There was an incident where someone abused these powers and turned people into stone. Kakeru, who has a strong sense of responsibility, assisted Miyako in seeking the culprit. His innocent little sister, Sora, also joins them in investigating the serial petrification incidents as they unveil a mysterious group and hidden feelings.
+
+[Edited from [Hau~ Omochikaeri~!](https://omochikaeri.wordpress.com/2018/04/01/april-2018-eroge-releases/)]
+
+来源：[VNDB v21668](https://vndb.org/v21668)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Palette]]（developer）<!-- AUTO:END duty -->
 

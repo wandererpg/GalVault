@@ -28,6 +28,31 @@ cover_image: "assets/covers/v28576.webp"
 ![[assets/covers/v28576.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+MAMIYA - A Shared Illusion of the World's End - is a captivating, dark visual novel in which a group of young men struggle against existential dread before the end of the world.
+
+**Story**
+
+Tokyo, during the year in which the world was prophesied to end.
+
+As we clung to reality, too spineless to throw our lives away together, we met Mamiya.
+
+At a friend's funeral, the entire crowd was weeping and mourning, while we thought to ourselves that the death of a single person had no meaningful impact on the world at large.
+We slept, woke up, and went through the same daily grind as ever. At least, that's how it was supposed to be.
+
+Then Mamiya appeared...
+
+Before we even knew it, the mysterious child named Mamiya had wormed their way into our daily lives. They slowly, but surely, became something of an emotional support. They'd brought us down a new path.
+
+A path that would surely lead us to our deaths...
+
+[From [Fruitbat Factory](https://fruitbatfactory.com/mamiya/)]
+
+来源：[VNDB v28576](https://vndb.org/v28576)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Kenkou Land]]（developer）<!-- AUTO:END duty -->
 

@@ -28,6 +28,22 @@ cover_image: "assets/covers/v51178.webp"
 ![[assets/covers/v51178.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+An Arbiter is a superhuman soldier, women with the ability to manifest their soul and transform into angels with boundless strength. They are the most powerful weapons the world has to offer, and the most reliable defense against Aberrations, tyrannical demons that descend to from the moon and leave nothing but destruction in their wake.
+
+Adelle Krouve —self-proclaimed “hero”— is an Arbiter with an indomitable sense of purpose. She's given the task of destroying the last Aberration standing: a ruthless steel hydra named ‘Edge Ixia Atlas SeigaRozen.’
+
+Five years later, she wakes up in a body that is not her own: A shabby mechanical replica with only bits of her human self remaining—just enough to consider herself back from the dead.
+
+What's worse, the scientist who claims to have rebuilt her refuses to give her a reason why.
+
+[From [itch.io](https://kolulu.itch.io/operation-eventide)]
+
+来源：[VNDB v51178](https://vndb.org/v51178)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[kolulu]]（developer）<!-- AUTO:END duty -->
 

@@ -27,6 +27,18 @@ cover_image: "assets/covers/v29144.webp"
 ![[assets/covers/v29144.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The discovery of a rare gemstone draws people to an exhibit held in Ashiya Tower. Just as the event begins, the tower is flooded with smoke and the emergency shutters activate, trapping 8 people in the tower for the next 12 hours.
+
+With no clear facts about the events occurring inside the building, the public and police can only speculate. Why can't the shutters be opened? Is anyone behind this, and if so, who? Are the people inside even still alive?
+
+These questions can't be answered until the time is up. Even then, describing the events that transpired might prove to be a challenge. Prepare for twists and questions that will keep you theorizing, second-guessing, and searching for the ultimate truth.
+
+来源：[VNDB v29144](https://vndb.org/v29144)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Trinitite Team]]（developer）<!-- AUTO:END duty -->
 

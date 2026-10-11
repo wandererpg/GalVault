@@ -28,6 +28,22 @@ cover_image: "assets/covers/v15605.webp"
 ![[assets/covers/v15605.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This is a completely different story, another "Big Tits Fantasy 2".
+It takes place 150 years before Big Tits Fantasy. It was a time when demons and humans still coexisted.
+In the Kingdom of Hillsland, an island country across the sea from the continent of Eurodia, after money came into circulation, the number of demons struggling with money increased,
+Demons who had lost their families and possessions began to attack moneylenders, and the gap between humans and demons began to widen.
+The government officials were asked to do something about this rift.
+
+Luin Dimidium is from the rural province of Dobrand. His nickname at the royal monastery was "The Ruin Man".
+He ranks last in writing, poetry, and magic, but tops in eloquence. He is the only man to have prevented the gifted seminarians from graduating first in all their subjects.
+However, he is transferred to the remote town of Boimbala as a military officer (captain of the garrison) instead of a civilian officer, incurring the wrath of Archbishop Alhieff.
+
+来源：[VNDB v15605](https://vndb.org/v15605)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Waffle]]（developer）<!-- AUTO:END duty -->
 

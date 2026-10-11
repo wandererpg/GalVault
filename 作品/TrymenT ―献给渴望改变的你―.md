@@ -29,6 +29,37 @@ cover_image: "assets/covers/v25040.webp"
 ![[assets/covers/v25040.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+A new season, a new place, and a new school life.
+From the deck of a large passenger ship, people gaze at Mikumo, the island where their new lives will begin. Among them, a girl in a wheelchair peers out from inside the ship.
+
+The island is a closed-off place, divided by mountains. There are no convenience stores, family restaurants, or entertainment facilities to speak of. In this isolated, network-restricted environment, people are forced to live together in shared rooms with strangers they’ve just met.
+
+“Wow, there’s really nothing here, huh?”
+Kimishima Kakeru, who looks more like a boy than a girl, mutters as she stares out the window.
+The staff member driving the car glances at her through the rearview mirror, then shifts his gaze to the two girls sitting in the backseat.
+
+Both girls are staring out the window, lost in thought.
+
+The staff member asks each of them why they decided to join this program.
+
+“I wanted to… relearn a lot of things and broaden my horizons, I guess,” Kimishima Kakeru replies vaguely, giving a safe answer. She then sneaks a glance at the girl sitting next to her, who refuses to make eye contact.
+
+Hoshino Ayame clutches her legs tightly.
+
+“I… just wanted to change who I am now.”
+
+The Tryment Program, with over 600 participants.
+What kind of “graduation” awaits them?
+This is a story of second chances—for those who wish to change their present.
+
+[Translated from [dlsite](https://www.dlsite.com/soft/work/=/product_id/VJ013407.html/)]
+
+来源：[VNDB v25040](https://vndb.org/v25040)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[RASK]]（developer）<!-- AUTO:END duty -->
 

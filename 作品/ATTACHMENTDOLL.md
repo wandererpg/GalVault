@@ -27,6 +27,16 @@ cover_image: "assets/covers/v61395.webp"
 ![[assets/covers/v61395.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+According to Volks lore, Mother Super Dollfie gave birth to all Super Dollfies. In reality, she’s a statue of the Virgin Mary that sits in the atrium at Sato and selectively neglects chosen children to make those loved feel all the more special.
+
+[From [the official site](https://deaddeaddeath.neocities.org/attachmentdoll)]
+
+来源：[VNDB v61395](https://vndb.org/v61395)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[deaddeaddeath]]（developer）<!-- AUTO:END duty -->
 

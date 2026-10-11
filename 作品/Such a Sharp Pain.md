@@ -27,6 +27,18 @@ cover_image: "assets/covers/v34968.webp"
 ![[assets/covers/v34968.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Once again, you have screwed up.
+Why did you do it? You have everything you need! A loving wife who will do anything for you. Two beautiful daughters idolize their father. A successful business, and no money problems.
+This time, your wife has had enough. Finally, she could not stand to catch you in the arms of another woman and has simply driven you out of the house.
+Unable to stay alone, you seek refuge at your sister's house, whom you haven't seen for five years.
+Will you be able to reconnect with your sister and niece, or will you try to reunite with your wife and daughters?
+
+来源：[VNDB v34968](https://vndb.org/v34968)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[ketzal]]（developer）<!-- AUTO:END duty -->
 

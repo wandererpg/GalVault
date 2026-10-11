@@ -27,6 +27,16 @@ cover_image: "assets/covers/v24239.webp"
 ![[assets/covers/v24239.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+A multipath management sim VN where you must improve skills, charm girls & discover dangerous secrets... by any means necessary.
+
+[From [ Kickstarter](https://www.kickstarter.com/projects/sadpandastudios/hush-hush-only-your-love-can-save-them/description)]
+
+来源：[VNDB v24239](https://vndb.org/v24239)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Sad Panda Studios]]（developer）<!-- AUTO:END duty -->
 

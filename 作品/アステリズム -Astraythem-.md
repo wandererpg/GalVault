@@ -28,6 +28,27 @@ cover_image: "assets/covers/v7423.webp"
 ![[assets/covers/v7423.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+I love my elder sister..
+ My love belongs to my elder sister...
+ I'm in love with my elder sister...
+
+ Sakurazuka Tsukumo has fallen in love.
+ His beloved one is his elder sister, Sakurazuka Natsuki.
+ When he was a child, she risked her life to save him in front of Death's scythe.
+ Her face on that rainy day has carved into his heart and he swore to protect her forever, to ensure that she would never have to suffer again.
+ Time went by, while he got stronger and stronger, she became more and more beautiful.
+ Will Tsukumo be able to confess his feelings to her? Will they ever be able to become a pair of lovers?
+
+ "My answer had already been decided on that day."
+
+[Translated from [Getchu](http://www.getchu.com/soft.phtml?id=701550)]
+
+来源：[VNDB v7423](https://vndb.org/v7423)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Chuablesoft]]（developer）<!-- AUTO:END duty -->
 

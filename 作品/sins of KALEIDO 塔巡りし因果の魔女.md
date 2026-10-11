@@ -28,6 +28,28 @@ cover_image: "assets/covers/v47770.webp"
 ![[assets/covers/v47770.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+"This is my will. No one else's."
+
+She was once the beloved child of a wealthy family. But those bright days were swallowed by the darkness of a tragic scheme.
+
+Having lost everything, the girl returns to her homeland with ambition burning in her heart. There, she meets a group of heretical men who harbor the power of witches.
+
+Bonds forged by wounded souls warmth flickering in frozen hearts. The miracle of love, now known by the lonesome.
+
+But in the end...
+
+Death is a turning point. Hope is the prelude to despair.
+
+This is the story of saving those vanishing fates.
+
+[From [Voltage Inc.](https://products.voltage.co.jp/kaleido/english/#story)]
+
+来源：[VNDB v47770](https://vndb.org/v47770)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[AmuLit]]（developer）<!-- AUTO:END duty -->
 

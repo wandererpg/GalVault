@@ -29,6 +29,18 @@ cover_image: "assets/covers/v50.webp"
 ![[assets/covers/v50.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Bazett Fraga McRemitz, a member of the Mages' Association and a master in the 5th Holy Grail War, wakes on the fourth day of the 5th Holy Grail war with a new servant, Avenger, and no memory of what happened to her beforehand. She and Avenger set off to fight and win the Holy Grail War.
+
+Meanwhile, Shirou Emiya lives peacefully with all his friends from the 5th Holy Grail War. After her experiment alters the event horizon and changes time and space, Rin Tohsaka leaves for the Mages' Association in England to fix things. The Servants sense a new danger, and dark creatures appear soon afterward. Shirou, as a precaution, sets off to ensure nobody is in danger and instead finds himself frequently meeting a mysterious girl, Caren Hortensia.
+
+[Edited from [Wikipedia](http://en.wikipedia.org/wiki/Fate/hollow_ataraxia)]
+
+来源：[VNDB v50](https://vndb.org/v50)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[TYPE-MOON]]（developer）<!-- AUTO:END duty -->
 

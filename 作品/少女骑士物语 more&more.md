@@ -30,6 +30,18 @@ cover_image: "assets/covers/v10983.webp"
 ![[assets/covers/v10983.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Fan disc of Walkure Romanze ~Shoujo Kishi Monogatari~ containing after stories for the 4 heroines of the original title, plus full routes for Bertille, Ayako, and Akane.
+
+The world’s best knights gather at Winford Academy and it’s gotten quite lively with the jousting tournament nearing. Due to a misunderstanding, Takahiro’s osananajimi Mio was challenged by the proud Bertille to a match at the tournament. Since she hadn’t even rode on a horse before, he ended up guiding her to victory as a begleiter (knight’s assistant). With many watching the wonderful match, his skills as a begleiter were noticed by many students and they took quite an interest in him! However, he was unsure if he wanted to continue on as a begleiter or to return to being a knight. How will he fare in the both the arenas of jousting and love?
+
+[From [Hau~ Omochikaeri!](http://omochikaeri.wordpress.com/2013/10/21/october-2013-eroge-releases/)]
+
+来源：[VNDB v10983](https://vndb.org/v10983)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Ricotta]]（developer）<!-- AUTO:END duty -->
 

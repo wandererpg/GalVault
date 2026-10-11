@@ -27,6 +27,18 @@ cover_image: "assets/covers/v30804.webp"
 ![[assets/covers/v30804.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Amnea 28 is a story about a group of young people who go to listen to a course of lectures by a respected professor of psychology. The purpose of the trip is the old hotel "Amnea", which ceased to fulfill its main functions ten years ago, and now serves as a secluded corner for the professor. During the week of studying, each new day the atmosphere is inexorably changing.
+
+Why did the students suddenly start acting strangely? What are they hiding? The main character will have to figure out the secrets of "Amnea", otherwise the walls of the old hotel will not let her leave alive.
+
+[Translated from [Itch.io](https://anankekeirin.itch.io/amnea28)]
+
+来源：[VNDB v30804](https://vndb.org/v30804)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[TomoToro]]（developer）<!-- AUTO:END duty -->
 

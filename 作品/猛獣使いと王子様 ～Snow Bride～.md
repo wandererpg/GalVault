@@ -29,6 +29,19 @@ cover_image: "assets/covers/v7815.webp"
 ![[assets/covers/v7815.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The game contains three sections for each character.
+The first is another story where Tiana picks who she will go to the ball at Kurt’s castle with.
+The second is the after story, which is the main dish of the game that continues after the first game’s ending for each guy (but before the epilogues).
+Lastly there are bonus extras for each character called “diaries” where you get to see cute scenes that happened “during the last game” and you also get to pet (and now tickle) your favorite furry friends.
+
+[Edited from [Hinano's Game Babbles](http://breadmasterlee.wordpress.com/2011/03/05/otome-game-review-moujuutsukai-to-oujisama-snow-bride/)]
+
+来源：[VNDB v7815](https://vndb.org/v7815)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Design Factory Co., Ltd]]（developer）
 - [[Otomate]]（developer）<!-- AUTO:END duty -->

@@ -27,6 +27,16 @@ cover_image: "assets/covers/v22837.webp"
 ![[assets/covers/v22837.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The story takes place in Japan, revolving around Yuuichi Michimiya (whose name can be altered in-game), an 18-year-old star in Japan's Junior Tennis division who has been in a very long slump. Now, on his last year as a high school student, he sets his sights towards becoming Japan's #1 Junior player before finally fulfilling his dream of going pro.
+
+[From [Patreon](https://www.patreon.com/tennisace)]
+
+来源：[VNDB v22837](https://vndb.org/v22837)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Worst of The Basket]]（developer）<!-- AUTO:END duty -->
 

@@ -28,6 +28,26 @@ cover_image: "assets/covers/v17853.webp"
 ![[assets/covers/v17853.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+TALENT x LOOKS x INDIVIDUALITY ÷ PERSONALITY = FAILURE
+
+Those with individuality, good looks which help to bring this out, as well as talent — however, despite having all these things, none of them think about the other people around them, and are all ‘blackish’ personalities.
+
+The agency they work for, SeiGetsu Production, notices this; gathering all these talents, they present them with a single condition.
+
+Which is... for all of them to live together, cooperate with one another, and successfully produce a musical performance within half a year. If they fail, the agency will end all of their contracts, and make sure they can never be a part of the showbiz again.
+
+Where they are forced to live is a run-down mansion that hardly suits these talented stars. The amount of time given to them is half a year. Gathered are all different kinds people — a mix of actors, dancers, seiyuu, singers, models. Furthermore, all of them possess rather ‘extreme’ quirks in their personalities.
+
+Forced into the midst of this mess is the heroine, an actress who does not possess a ‘self.’ After half a year, what is it that the heroine and these other members, will see———?
+
+[From [Rie's otoge blog](https://riebakkari.wordpress.com/2016/01/17/blackish-house-introduction-2/)]
+
+来源：[VNDB v17853](https://vndb.org/v17853)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[honeybee black]]（developer）<!-- AUTO:END duty -->
 

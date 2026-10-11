@@ -27,6 +27,20 @@ cover_image: "assets/covers/v22865.webp"
 ![[assets/covers/v22865.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Samantha Smith in Sovyonok. Welcome to an alternative story of [Beskonechnoe leto](/v3126)!
+
+No, the camp hasn't been overrun by zombies, a cruise liner hasn't crashed into the dining hall, and Viola hasn't stopped being a vampire. It seems everyone is in their place: Semyon, Olga Dmitrievna, Samantha...
+Samantha?!
+And it's true: the first American pioneer girl is here, right next to Semyon, sometimes even closer than he would like. All that is left to do is to become friends with her, because even the most famous girl in the world sometimes needs help and care.
+
+[Translated from [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=354397869)]
+
+来源：[VNDB v22865](https://vndb.org/v22865)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Moving on]]（developer）<!-- AUTO:END duty -->
 

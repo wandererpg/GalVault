@@ -27,6 +27,16 @@ cover_image: "assets/covers/v34148.webp"
 ![[assets/covers/v34148.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+You play the role of a proud father. You have 3 beautiful daughters you have raised on your own since the passing of your wife. You have also looked after your younger sister and niece and have a close relationship with them. You will have opportunities to further the relationships with the girls you desire. How far these relationships go is up to you. Good Luck!
+
+Development halted due to the arrest of the developer by Australian Police.
+
+来源：[VNDB v34148](https://vndb.org/v34148)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Westy]]（developer）<!-- AUTO:END duty -->
 

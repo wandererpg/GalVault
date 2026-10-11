@@ -29,6 +29,16 @@ cover_image: "assets/covers/v211.webp"
 ![[assets/covers/v211.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+You play the role of Azai Kyousuke, the son of a legendary gangster infamous in the underworld. You spend your time listening to Bach, playing God at school and covertly working for your stepfather, a ruthless financial heavyweight. This idyllic existence is broken when two individuals appear in the city - a beautiful girl named Usami Haru with hair you could get lost in for days, and a powerful international gangster known only as "Maou". Almost without delay, the two begin a deadly cat-and-mouse game, bringing you and your friends into the crossfire. Plotting, political intrigue and layer upon layer of interlocking traps are the weapons in this epic battle of wits.
+
+[Edited from the description by [Asceai](http://forums.novelnews.net/showpost.php?p=57492&postcount=1)]
+
+来源：[VNDB v211](https://vndb.org/v211)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[AKABEiSOFT2]]（developer）<!-- AUTO:END duty -->
 

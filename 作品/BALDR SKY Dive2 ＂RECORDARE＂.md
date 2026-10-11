@@ -29,6 +29,20 @@ cover_image: "assets/covers/v1913.webp"
 ![[assets/covers/v1913.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+One day, Kadokura Kou awakes in a virtual battlefield. He, who is a skilled Simulacrum user, soon remembers that he was pursuing someone with Rain, his partner.
+
+Kou and Rain investigate the incident that ruined his peaceful school life known as "Gray Christmas", but various mysteries stand in the way of the truth. As time passes, he gradually regains his lost memories and re-unites with his friends.
+
+When all of the mysteries congregate, the door of truth opens...
+
+[Edited from ErogeShop]
+
+来源：[VNDB v1913](https://vndb.org/v1913)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Team Baldrhead]]（developer）<!-- AUTO:END duty -->
 

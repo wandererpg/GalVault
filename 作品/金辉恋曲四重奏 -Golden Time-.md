@@ -29,6 +29,14 @@ cover_image: "assets/covers/v24717.webp"
 ![[assets/covers/v24717.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This is the fandisc for "Kin'iro Loveriche" with after stories for each of the five heroines. There are also new routes for Ayaka and Caminal.
+
+来源：[VNDB v24717](https://vndb.org/v24717)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[SAGA PLANETS]]（developer）<!-- AUTO:END duty -->
 

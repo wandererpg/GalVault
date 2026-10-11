@@ -28,6 +28,31 @@ cover_image: "assets/covers/v22899.webp"
 ![[assets/covers/v22899.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Seiran Island is a tropical eden where wanton sex acts are encouraged under local "pervert law." But even in this paradise, some prefer to remain celibate.
+
+There's the lesbian younger sister who would secretly bone her brother...
+The classmate everyone has labeled as a wild slut...
+The tiny upperclasswoman, so petite that guys think she's off limits...
+The shy girl who's a bit self-conscious about baring some skin...
+And here I am, a guy with a "huge" complex about his "little guy."
+
+Despite this, we form the anti-copulation front: No Love, No Sex! As its founder and head honcho, I, Junnosuke Tachibana, will not stop until we have abolished this ridiculous sex law for good!
+
+I've even stumbled upon a generous soul in this mysterious, wealthy gentleman whose name remains a mystery... He's already set us up with a secret hideout and a tonne of money. In exchange, he asks us to find someone and "protect her at all costs."
+So, she has the key to our mission's success...?
+
+In this case, there's only one thing to do: find the mystery girl. And all while keeping the SHO off our trail,... Oh, and we also have to keep our virginity intact.
+
+Make no mistake! Just wait and see! I'll repeal that perverse law!
+
+[Edited from [MangaGamer](https://www.mangagamer.com/r18/detail.php?product_code=1385)]
+
+来源：[VNDB v22899](https://vndb.org/v22899)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Qruppo]]（developer）<!-- AUTO:END duty -->
 

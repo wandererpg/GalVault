@@ -28,6 +28,14 @@ cover_image: "assets/covers/v10419.webp"
 ![[assets/covers/v10419.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The protagonist is beautiful, smart, and good at sports.  She is the perfect daughter of a respected family. However, she is suddenly stricken with a bizarre disease called "Glass Heart Syndrome".  If her heart rate rises above normal, she will die. The only cure is to train her heart by experiencing heart-pounding situations through dating!
+
+来源：[VNDB v10419](https://vndb.org/v10419)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Design Factory Co., Ltd]]（developer）
 - [[Otomate]]（developer）<!-- AUTO:END duty -->

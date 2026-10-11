@@ -30,6 +30,31 @@ cover_image: "assets/covers/v19294.webp"
 ![[assets/covers/v19294.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The town of Tsukigasaki has entered its third year of winter.
+
+Showing the seasons no mind, the snow only continues to fall.
+Gently, swaying in the air, as it descends downwards.
+That snow, which never had reached the ground, now does.
+The cityscape, once bleak, is now a blanket of glistening white.
+
+Just as no single snowflake is identical to another,
+each and every set of footprints on this snow-laden path are different from one another.
+
+No path can ever be retraced, for by the time you've looked to your back, those footprints will but all have melted away.
+As though a beckoning light, signalling that the road we know of as time is one that goes only forward.
+
+Yet, even from the base of Yggdrasil each branch is visible,
+so maybe too, it might be possible to pave new roads, new realities.
+Countless snow-laden paths lay stretched out before both human and faerie alike, and among those many happy endings they must choose one which they truly desire.
+
+Now, let us journey forth, in search of those white crystals that bear testament to eternity––––
+
+来源：[VNDB v19294](https://vndb.org/v19294)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[FAVORITE]]（developer）<!-- AUTO:END duty -->
 

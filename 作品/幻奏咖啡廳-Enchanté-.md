@@ -28,6 +28,16 @@ cover_image: "assets/covers/v24240.webp"
 ![[assets/covers/v24240.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+When Kotone inherits her grandfather’s Tokyo café, she discovers the shop holds more secrets than anyone could imagine. The café is a meeting spot for beings from multiple, mystical worlds. You’ll meet the king of demons, a humanoid beast, a fallen angel, and more. And when government agents monitoring non-human activities show up at your door, your new café is about to become a lot more colorful.
+
+[From [Aksys Games](http://www.aksysgames.com/cafe)]
+
+来源：[VNDB v24240](https://vndb.org/v24240)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Design Factory Co., Ltd]]（developer）
 - [[Otomate]]（developer）<!-- AUTO:END duty -->

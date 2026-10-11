@@ -29,6 +29,21 @@ cover_image: "assets/covers/v21438.webp"
 ![[assets/covers/v21438.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+It's been a few months since Misaki won the fall Flying Circus tournament, and summer is coming to a close.
+Those feelings of triumph are fading, with new questions rising in their place.
+How far does Misaki want to take FC, and how will she deal with her new-found fame?
+Her relationship with Masaya is going from strength to strength, but how will she make good on her promise to help him make it?
+
+Join this power couple as they face off challengers from all directions while trying to make the ultimate decision: just what future do they want for themselves?
+
+[From [Steam](https://store.steampowered.com/app/2206340/Aokana__Four_Rhythms_Across_the_Blue__EXTRA2/)]
+
+来源：[VNDB v21438](https://vndb.org/v21438)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[sprite]]（developer）<!-- AUTO:END duty -->
 

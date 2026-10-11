@@ -28,6 +28,47 @@ cover_image: "assets/covers/v25964.webp"
 ![[assets/covers/v25964.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Shimojo Kazuma has extraordinary circumstances that led him to become the first male pupil at Toaru Academy, a special kind of all-girls academy. After his mother moved jobs, Kazuma was interviewing at Tsurugi Art Academy when he demonstrated an ability only girls were supposed to have; he excited the female interviewer without ever touching her! (It appears that his sister, Emiri, used her wish-fulfillment skill, causing Kazuma's Ero Skills to awaken.)
+
+"Since when did I have these powers!? All I did was fantasize after seeing the interviewer's black panties and thick thighs when she adjusted her mini skirt!?"
+
+Because of his abilities, Kazuma is forced to enroll in Toaru Academy, a special, elite academy whose pupils can use Paiokinesis!
+After he is enrolled, his sister, jealous of a cute waifu character Kazuma has in his smartphone gacha game, destroys his phone. Wanting to get his phone fixed promptly, Kazuma enters a certain phone store when he spots someone that appears quite familiar...
+
+"Welcome... I'm surprised you found this store. It's set to only be found by the most pure-hearted and red-blooded of men…"
+"What does that mean... Wait a second, I know you!"
+"Are you... Master? Thank you for always giving me the skimpiest armor in the game!"
+
+Shimojo meets Riria, a character from the erotic phone game he always plays! Shimojo, skeptical if it's the real Riria, talks to the booby girl about all of their adventures, and he realizes that she is the actual Riria from his mobile game.
+
+"That's a weird looking phone..."
+"Ignore the phones from last year. I'll show you the latest and greatest phone developed in the world I'm from, Master!"
+
+Last year's model is all he can afford! However, Riria keeps insisting.
+
+"I want to reward you for playing so much even though your old phone was a terrible, old, low-spec model, Master..."
+
+Riria begs to show Kazuma the smartphone from her world.
+
+"I can use it like normal, right? It won't blow up or anything? All the otherworldly items I've read about in light novels seem like more trouble than they're worth."
+"Y-Yeah! You'll be just fine, Master! There are types of phones that won't blow up!"
+"All right, fine, show me. Although I'm still somewhat suspicious of how you worded that..."
+
+Not knowing if he'd suddenly be thrust into another world, Kazuma decides to try the new phone! He decides to try one of the Ero Apps that catches his eye, "Sudden Mixed Bath!"
+He touches the app icon. Suddenly, it appears like he just faded into a white loading screen. Then, he sees his childhood friends Rio and Konoka, along with other booby girls, all naked in a communal bath!
+
+"So this is the power of the phone from another world and the Ero App! With this phone, I'll be able to become the most powerful student at the academy!"
+
+Within him, Kazuma knows he has the potential to conquer the world with the use of this new Ero App! And so begins his adventure.
+
+[Edited from [Steam](https://store.steampowered.com/app/2313140/)]
+
+来源：[VNDB v25964](https://vndb.org/v25964)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Milk Factory]]（developer）<!-- AUTO:END duty -->
 

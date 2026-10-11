@@ -27,6 +27,20 @@ cover_image: "assets/covers/v27505.webp"
 ![[assets/covers/v27505.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+An erotic visual novel about heartbreak, self-discovery, and curious turns of fate- **Lena** and **Ian** are two very different people who find themselves in a very similar moment in their lives. Both are **struggling to achieve their dreams** and are **dealing with the aftermath of a heavy breakup.** Their lives will become intertwined, with each other and with several characters that will impact who they are and who they will become.
+
+They will be able to experience the **heights of love or the depths of lust…** And your choices will impact how their story plays out. However, even choices made with the best of intentions can lead to an unexpected mess, so be mindful as you weave the thread of their Red String.
+
+Navigate the story of **Our Red String** by leveling four main stats: **Wits, Charisma, Athleticism,** and **LUST!** Each unlocks their own set of dialogue options to choose from. Along the way, you must acquire **Money** and **Will** to spend on the things your heart truly desires.
+
+[From [itch.io](https://eva-kiss.itch.io/our-red-string) and [Steam](https://store.steampowered.com/app/3669040/Our_Red_String/)]
+
+来源：[VNDB v27505](https://vndb.org/v27505)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Eva Kiss]]（developer）<!-- AUTO:END duty -->
 

@@ -28,6 +28,14 @@ cover_image: "assets/covers/v12260.webp"
 ![[assets/covers/v12260.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The protagonist Fukami Suguha visits the historic graves of the forty-seven Akou rounin on New Year's Day, but suddenly blacks out while observing the solar eclipse. He wakes up in the body of an Edo period samurai with the same name and face. Suguha is forced to adjust to life in the year 1701 as history unfolds, while getting to know the forty-seven rounin, whose personal details closely match history--except that many of them are women.
+
+来源：[VNDB v12260](https://vndb.org/v12260)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[inre]]（developer）<!-- AUTO:END duty -->
 

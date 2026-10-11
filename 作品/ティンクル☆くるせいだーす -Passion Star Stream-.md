@@ -29,6 +29,24 @@ cover_image: "assets/covers/v5937.webp"
 ![[assets/covers/v5937.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This is a fandisc to Twinkle ☆ Crusaders, comprising several scenarios.
+
+Venus Embryo is a sequel to the original story and adds two new heroines: Lullshare and Illear.
+
+The Queen of Witches is a crossover with [Princess Witches](/v1072).
+
+Ku RUKU-ru! is about a new character, Shel, trying to get Synn to hook up with the heroines.
+
+After Stories include after stories for Melilot and Amyrina, a scenario with the Seven Great Demon Generals, and the scenarios from [Twinkle ☆ Crusaders - Miracle Disc](/v1478).
+
+Lastly, Naze Nani KuruKuru briefly presents the characters and story of the original game.
+
+来源：[VNDB v5937](https://vndb.org/v5937)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Lillian]]（developer）<!-- AUTO:END duty -->
 

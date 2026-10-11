@@ -29,6 +29,16 @@ cover_image: "assets/covers/v8192.webp"
 ![[assets/covers/v8192.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The adventurer Darks had been bestowed great magical power and eternal life by the maou, and in return he serves as her underling. However, he was dragged into a revolt by the maou’s army and ended up becoming the new maou. He made the previous maou his wife and brought peace to the labyrinth known as the ‘maou’s forest’… but it was soon shattered by some unknown troops who quickly took over half of the forest. After he found out through captured warriors that they were under the command of a group of three women from the heavens, he gathers his troops to launch a counterattack at the angels’ base.
+
+[From [Hau~ Omochikaeri!](https://omochikaeri.wordpress.com/2012/01/01/january-2012-eroge-releases/)]
+
+来源：[VNDB v8192](https://vndb.org/v8192)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[SofthouseChara]]（developer）<!-- AUTO:END duty -->
 

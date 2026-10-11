@@ -28,6 +28,20 @@ cover_image: "assets/covers/v27456.webp"
 ![[assets/covers/v27456.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Spring -- the season of new beginnings
+
+You've barely been a fully fledged working adult for two years when your life is shaken-up by a sudden job transfer to a branch office in a new town. Despite the unexpectedness of it all, you manage to find an apartment and get settled in.
+
+You make your introductions to the office and meet your quirky boss and new co-workers. Hot-off introductions, you are shoved into a leadership role of a new major company initiative. Feelings of anxiety, excitement, and optimism roil within you as you begin to adjust to your new life and responsibilities.
+
+As fate would have it, the encounters do not stop at your new coworkers - the Spring of your love is finally set in motion...
+
+来源：[VNDB v27456](https://vndb.org/v27456)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[hibiki works]]（developer）<!-- AUTO:END duty -->
 

@@ -28,6 +28,19 @@ cover_image: "assets/covers/v42561.webp"
 ![[assets/covers/v42561.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Shogo Okiie, an ordinary office worker, visits Kinshibori Park in the dead of night with his friend, Yoko Fukunaga, to investigate a well-known local ghost story: The Seven Mysteries of Honjo. Shogo doesn’t quite believe Yoko when she talks about how the Mysteries are connected to the Rite of Resurrection and doesn't pay it much mind - that is, until strange events begin to unfold before his very eyes.
+Meanwhile, several others are making their own investigations into The Seven Mysteries...
+Detectives investigating a series of strange deaths, a high-school girl seeking the truth behind her classmate’s suicide, and a mother who has sworn revenge for her lost son.
+Their desires and motives intertwine and interplay, with the Seven Mysteries of Honjo at the core, leading the story towards a battle of wits and curses.
+
+[From [Steam](https://store.steampowered.com/app/2106840/PARANORMASIGHT_The_Seven_Mysteries_of_Honjo/?curator_clanid=4777282)]
+
+来源：[VNDB v42561](https://vndb.org/v42561)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[SQUARE ENIX]]（developer）<!-- AUTO:END duty -->
 

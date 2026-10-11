@@ -29,6 +29,15 @@ cover_image: "assets/covers/v18314.webp"
 ![[assets/covers/v18314.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The fandisc for Code: Realize, featuring after stories for the main cast
+and new routes for Herlock Sholmes and Finis.
+
+来源：[VNDB v18314](https://vndb.org/v18314)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Design Factory Co., Ltd]]（developer）
 - [[Otomate]]（developer）<!-- AUTO:END duty -->

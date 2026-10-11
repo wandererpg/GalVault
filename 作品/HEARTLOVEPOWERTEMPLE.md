@@ -27,6 +27,20 @@ cover_image: "assets/covers/v34454.webp"
 ![[assets/covers/v34454.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+planet VENUS has a giant BEATINGHEART in the sky that gives birth to rabbits every few years ..
+
+for every generation, 4 rabbitgirls are chosen to inhabit the temple of the BEATINGHEART & dedicate their lives to what created them
+
+follow the newest generation of LOVEMAIDENS as they discover & navigate their lives as psychic priestesses
+
+[From [official website](https://yogurt200.com/rabbitmaidensoft/heartlovepowertemplestory.html)]
+
+来源：[VNDB v34454](https://vndb.org/v34454)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[RABBITMAIDENSOFTWORKS]]（developer）<!-- AUTO:END duty -->
 

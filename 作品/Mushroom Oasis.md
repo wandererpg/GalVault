@@ -27,6 +27,20 @@ cover_image: "assets/covers/v42870.webp"
 ![[assets/covers/v42870.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Your beloved cat has been missing for a few days. You suspect she's run off into the woods across the street, a bad habit she does whenever she manages to get a paw out the door behind your back. The forest wasn't known to be dangerous, quite peaceful in fact, but her being an indoor pet has you worried regardless.
+
+Though being an indoor person yourself, you wound up wandering far deeper than you intended. Lucky for you a kind (but odd-looking) stranger stumbled upon you before anything bad happened.
+
+...Let's hope he only has good intentions in bringing you home.
+
+[From [Itch.io](https://deerspherestudios.itch.io/mushroom-oasis)]
+
+来源：[VNDB v42870](https://vndb.org/v42870)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Deersphere Studios]]（developer）<!-- AUTO:END duty -->
 

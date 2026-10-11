@@ -27,6 +27,16 @@ cover_image: "assets/covers/v57568.webp"
 ![[assets/covers/v57568.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Three years have passed since the end of the Game of Death, the person who has survived at last might be able to live in peace and without fear of death.... But not for long.
+
+[From [Itch.io](https://an-alternative-team.itch.io/your-turn-to-die-redemption-given-by-fate)]
+
+来源：[VNDB v57568](https://vndb.org/v57568)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[R10bon]]（developer）<!-- AUTO:END duty -->
 

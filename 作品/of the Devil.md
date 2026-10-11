@@ -27,6 +27,28 @@ cover_image: "assets/covers/v37866.webp"
 ![[assets/covers/v37866.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+THE YEAR IS 2086.
+
+There's a camera in every device and a half dozen devices on every citizen. There are tracking implants in every cybernetic and location tags on every bullet. No stone goes unturned- and every stone is accounted for.
+
+Violent crimes are cleared in 97% of cases.
+
+The few cases that make it to trial result in a guilty verdict 98% of the time.
+
+People are safer now than at any other time in history, and getting away with murder is nearly impossible.
+
+So if you find yourself wrongly accused...
+
+*Better have the right lawyer.*
+
+[From [Itch.io](https://nthcircle.itch.io/of-the-devil)]
+
+来源：[VNDB v37866](https://vndb.org/v37866)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[nth Circle Studios]]（developer）<!-- AUTO:END duty -->
 

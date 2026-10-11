@@ -28,6 +28,16 @@ cover_image: "assets/covers/v57358.webp"
 ![[assets/covers/v57358.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+A "cohabitation life simulation" where you live under the same roof as the heroine and interact freely. Lily serves as your maid and spends day and night with you. Manage a tavern together, deepen your bond, and enjoy life in the city.
+
+[From [DLsite](https://www.dlsite.com/maniax/work/=/product_id/RJ01348926.html/)]
+
+来源：[VNDB v57358](https://vndb.org/v57358)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Parthia Kyoudan]]（developer）<!-- AUTO:END duty -->
 

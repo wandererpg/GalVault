@@ -28,6 +28,16 @@ cover_image: "assets/covers/v2611.webp"
 ![[assets/covers/v2611.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Urara starts working at a girls' school. She is now happy because she will get married in a few months. But one day, her fiance suddenly goes missing since his business didn't go well. Months later, Yuji, a debt collector, comes to her house, but she doesn't have enough money to pay. Yuji offers her work at a boys' school his friend works at. He also says if she works there for a month, she won't need to pay back the money. She finally decides to accept his offer without knowing the fact that the school is full of evil teachers and students....
+
+[From ErogeShop]
+
+来源：[VNDB v2611](https://vndb.org/v2611)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Guilty+]]（developer）<!-- AUTO:END duty -->
 

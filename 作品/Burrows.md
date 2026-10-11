@@ -27,6 +27,20 @@ cover_image: "assets/covers/v32670.webp"
 ![[assets/covers/v32670.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+After leaving behind his former life in 1920's New Orleans, a jaded possum named Grey finds himself thrown into an unending nightmare by the enigmatic bartender, Virgil.
+
+Lost in a churning sea of souls, Grey comes across a group of men somehow connected to his former home, a plantation replete with it's own dark history.
+Just as quickly as they find each other they're suddenly taken away, leaving Grey only one option:
+Dive into their memories and find out what caused this in the first place.
+
+[From [Itch.io](https://nikkonator5000.itch.io/burrows)]
+
+来源：[VNDB v32670](https://vndb.org/v32670)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Burrows VN]]（developer）<!-- AUTO:END duty -->
 

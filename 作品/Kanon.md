@@ -29,6 +29,21 @@ cover_image: "assets/covers/v33.webp"
 ![[assets/covers/v33.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+It's a winter's day, and snow is fluttering down…
+On a bench in front of the train station, I reunite with my cousin, Nayuki Minase, for the first time in seven years.
+
+Nayuki and my aunt welcomed me back to this town after I suddenly had to move.
+It's also home to some hazy childhood memories of mine.
+In this town, covered in deep snow, five girls and I will come to experience small miracles…
+
+[From [Steam](https://store.steampowered.com/app/2850310/Kanon/)]
+
+来源：[VNDB v33](https://vndb.org/v33)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Key]]（developer）<!-- AUTO:END duty -->
 

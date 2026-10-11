@@ -28,6 +28,19 @@ cover_image: "assets/covers/v431.webp"
 ![[assets/covers/v431.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Set in Akihabara in the near future, "Hello, world." is a hearty, feature-length, cyber battle-action/campus-life story about a robot boy and the girls that surround him.
+Tremendous progress has been made in technical advances. Various networks have taken strongholds with each new generation. Though not nearly advanced as humans, two-legged robots are utilized in many practical areas throughout the world. Amid worldwide peace, the human race remains unchanged.
+
+Kazuki Tomonaga is a robot made by an entity called "HIKARI" for the purpose of "GLOBAL ILLUMINATION". He's created with ingenuity as precise as that of a human being. Kazuki is commanded to research the concepts of "human emotion". Along the way he meets various girls and has exchanges with them. In their "exchanges" his "curiosity" gradually turns into "affection" and his mission becomes more intense. He gradually starts to build his own philosophy, not knowing he will be forced to make crucially important decisions in the near future.
+
+[Combined from [UVList](http://www.uvlist.net/fr/game-165627-Hello+World.) and [JapanFiles](http://www.japanfiles.com/helloworld)]
+
+来源：[VNDB v431](https://vndb.org/v431)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[NITRO PLUS]]（developer）<!-- AUTO:END duty -->
 

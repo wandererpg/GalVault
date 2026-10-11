@@ -28,6 +28,18 @@ cover_image: "assets/covers/v30547.webp"
 ![[assets/covers/v30547.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The game is set 35 years after the second game, in the year 2023. Jack has recently purchased a Start Your Own Freddy Fazbender's Pizza Kit (1993 Edition), and has full control over its improvement and financial success. He is aided by a Phone Guy, model 14_01, black color, real name Harry.
+
+You, the player, have free option to customize the pizzeria in any way you choose! Remember! You are now the face of the newly rebranded Freddy Fazbender's Pepperonerie! Wear that smile with pride and let's make some money.
+
+[From [Dayshift at Freddy's Wiki](https://dayshift-at-freddys.fandom.com/wiki/Dayshift_at_Freddy%27s_3)]
+
+来源：[VNDB v30547](https://vndb.org/v30547)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[DirectDoggo]]（developer）<!-- AUTO:END duty -->
 

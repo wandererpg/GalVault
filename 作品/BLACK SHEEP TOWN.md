@@ -28,6 +28,20 @@ cover_image: "assets/covers/v21069.webp"
 ![[assets/covers/v21069.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+BLACK SHEEP TOWN is a digital novel set in a fictional city.
+The setting of this work is "District Y".
+It is a cosmopolitan downtown area where immigrants from all over the world live, and it is full of energy with visitors who enjoy its unique atmosphere, but the other side of the city is a dangerous area where gangs rule and the police have no power.
+This title features a wide variety of characters with different standpoints and perspectives, including a glittering clan of gangsters who rule the city, a psychic who lives in a corner of the slums, and a person who works for the discriminated mutants.
+Users will experience the world of the story from the perspective of several of them.
+
+[From [Steam](https://store.steampowered.com/app/2101350/BLACK_SHEEP_TOWN/)]
+
+来源：[VNDB v21069](https://vndb.org/v21069)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[BA-KU]]（developer）<!-- AUTO:END duty -->
 

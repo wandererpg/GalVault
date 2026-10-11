@@ -29,6 +29,18 @@ cover_image: "assets/covers/v21192.webp"
 ![[assets/covers/v21192.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+A Fandisc of [Platinum Partner](https://vndb.org/v13105) and [With You](https://vndb.org/v17743). Featuring the stories told on the modern day Hatsunejima alongside with stories of the Heroines on the Kazami Academy episode of the D.C.III series.
+
+It is composed of seven episodes, which features the five heroines plus Mikoto and Sumomo, and the return of most of the [D.C.II](https://vndb.org/v266/chars) cast, including Otome, Yume, Nanaka, Koko, Anzu, Akane, and Aisia.
+
+[Edited from [Hau~ Omochikaeri!](https://omochikaeri.wordpress.com/2017/09/28/september-2017-eroge-releases/)]
+
+来源：[VNDB v21192](https://vndb.org/v21192)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[CIRCUS]]（developer）<!-- AUTO:END duty -->
 

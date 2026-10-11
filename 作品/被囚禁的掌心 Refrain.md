@@ -28,6 +28,32 @@ cover_image: "assets/covers/v24644.webp"
 ![[assets/covers/v24644.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+A trial of hidden memories and true love
+
+A dramatic, romance suspense story
+
+The stage is 5 years before the original game—–
+One night, you happen upon a book on the road which led you to a fallen youth, Chiaki, in an alleyway whom you helped out.
+
+However, upon doing so, your everyday life gets turned upside down.
+In order to visit the young man you helped out,
+you visit the detention centre on a solitary island,
+where you learn about the unwarranted suspicion over there.
+
+Chiaki seems to hold the key to a certain incident.
+In order to clear up any doubt, you are asked to cooperate by helping bring back his memories…..
+As you become his councillor you must confront the truth of his memories—–.
+
+Chiaki: “I… don’t love you.”
+
+[from [Yankee Banchou](https://yankeebanchou.wordpress.com/2018/09/20/otome-watch-special-announcement-toraware-no-palm-refrain/)]
+
+来源：[VNDB v24644](https://vndb.org/v24644)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[CAPCOM Co., Ltd]]（developer）<!-- AUTO:END duty -->
 

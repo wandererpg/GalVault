@@ -27,6 +27,17 @@ cover_image: "assets/covers/v29353.webp"
 ![[assets/covers/v29353.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The story centers around you, a 18-year-old man who returns to his hometown after living with his dad for the past 5 years.
+Discover what you left behind. Rekindle old friendships, start new relationships. Find out how all of them are "Intertwined"!
+
+[From [Patreon](https://www.patreon.com/NyxVN)]
+
+来源：[VNDB v29353](https://vndb.org/v29353)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Nyx]]（developer）<!-- AUTO:END duty -->
 

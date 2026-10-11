@@ -29,6 +29,16 @@ cover_image: "assets/covers/v6245.webp"
 ![[assets/covers/v6245.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Majikoi is back and better than ever in this sequel to the hit 2009 visual novel. Majikoi S takes place after the events of Majikoi and lets you choose which of Majikoi's many endings to proceed from. Choose your favorite heroine and enjoy new romantic events with her, or choose to start with no commitment and romance one of 5 new heroines.
+
+[From [J-List](http://www.jlist.com/product/PCG3054)]
+
+来源：[VNDB v6245](https://vndb.org/v6245)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Minato Soft]]（developer）<!-- AUTO:END duty -->
 

@@ -28,6 +28,18 @@ cover_image: "assets/covers/v2024.webp"
 ![[assets/covers/v2024.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The fourth of the four Starry Sky games starring the characters from the drama CD's of the same name.
+
+Starry Sky takes place at Seigatsu Gakuen, a school which specializes in horoscopes, astronomy and other related topics. The main characters are all based on horoscopes.
+
+Starry Sky Winter features Kazuki Shiranui (Aries), Hayato Aozora (Virgo) and Tsubasa Amaha (Aquarius).
+
+来源：[VNDB v2024](https://vndb.org/v2024)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[honeybee]]（developer）<!-- AUTO:END duty -->
 

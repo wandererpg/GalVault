@@ -27,6 +27,16 @@ cover_image: "assets/covers/v46657.webp"
 ![[assets/covers/v46657.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The story circles around Ashe and her struggles with past trauma, her insecurities, secrets and her ever-growing sexual urges. Follow her and get to know friends, lovers and enemies, fall into tricky situations and predicaments, come out on top (or bottom), grow as a person and save the world. (Well... maybe not that last part.)
+
+[From [SubscribeStar](https://subscribestar.adult/morrigan-rae)]
+
+来源：[VNDB v46657](https://vndb.org/v46657)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Morrigan Rae]]（developer）<!-- AUTO:END duty -->
 

@@ -29,6 +29,16 @@ cover_image: "assets/covers/v7543.webp"
 ![[assets/covers/v7543.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Possibly the turning point in the series. Sora and Sunao continue their life in school. All seems normal until Sora notices a child who looks very similar to him. Also, some of his schoolmates are beginning to act a little strange. Even Sora begins to notice something odd about his connection to Sunao and the relationship between their alternate personalities, Yoru and Ran.
+
+[taken from [Wikipedia](http://en.wikipedia.org/wiki/Suki_na_Mono_wa_Suki_Dakara_Sh%C5%8Dganai!)]
+
+来源：[VNDB v7543](https://vndb.org/v7543)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Platinum Label]]（developer）
 - [[compass]]（developer）<!-- AUTO:END duty -->

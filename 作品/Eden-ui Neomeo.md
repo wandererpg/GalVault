@@ -27,6 +27,22 @@ cover_image: "assets/covers/v19726.webp"
 ![[assets/covers/v19726.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+It is the late Victorian era, a time of drastic social upheaval and shifting values.
+Yet everything seemingly remains routine and unchanged in 'Ashgrove Park,' a stately mansion surrounded by a vast forest.
+But then a man arrives to disturb its tranquility—a man who spent his boyhood at the estate has now returned after 10 years.
+The Baron Edenic—the master of the house—and his four sons, the doctor, and the servants greet him with wariness, joy, or unfamiliarity.
+A story of discord and destruction between and the people of the mansion and a man who hides his thirst for revenge beneath a calm demeanor.
+Does the fall await beyond Eden?
+Or—
+
+[From [Steam Greenlight](http://steamcommunity.com/sharedfiles/filedetails/?id=725789351)]
+
+来源：[VNDB v19726](https://vndb.org/v19726)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Studio Pieplus]]（developer）<!-- AUTO:END duty -->
 

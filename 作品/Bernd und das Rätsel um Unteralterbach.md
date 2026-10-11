@@ -27,6 +27,17 @@ cover_image: "assets/covers/v13871.webp"
 ![[assets/covers/v13871.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The story takes place in present-day Bavaria.
+Socially awkward 24-year-old NEET Bernd Lauert starts a new life in the small mountain town of Unteralterbach. He is forced to take a job at a local police station to help with the investigation of a gang of sex offenders. But of course nothing is as it seems, and Bernd soon finds himself in a deep, supernatural mess.
+
+[From [Ren'Py](https://games.renpy.org/game/uab)]
+
+来源：[VNDB v13871](https://vndb.org/v13871)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[BerndSoft]]（developer）<!-- AUTO:END duty -->
 

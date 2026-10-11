@@ -27,6 +27,16 @@ cover_image: "assets/covers/v28362.webp"
 ![[assets/covers/v28362.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+In Pale Carnations, step into the shoes of a tightly wound pre-med student who, while intent on living on the straight and narrow, is irresistibly pulled into a world of debauchery thanks to the influence of a waning childhood friend. As the newest employee at the Carnation Club, navigate your part in a series of cruel erotic games. Will you forgo your scruples and be enticed by the club's wealth and sex-filled evenings? Or perhaps at the end of it all, a flower of romance will bud, pushing you to leave it all behind.
+
+[From [Patreon](https://www.patreon.com/GIL3D)]
+
+来源：[VNDB v28362](https://vndb.org/v28362)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Mutt & Jeff]]（developer）<!-- AUTO:END duty -->
 

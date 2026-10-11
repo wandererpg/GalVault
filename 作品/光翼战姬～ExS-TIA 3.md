@@ -29,6 +29,18 @@ cover_image: "assets/covers/v27170.webp"
 ![[assets/covers/v27170.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Peace has returned once again after resurrected Jinevra was defeated. Riesz goes to visit to her hometown in the other world to check it out after returning from her trip. Meanwhile, Marina and Souma enjoy their lives as lovers as peaceful days return.
+
+However, the monsters appear once again. Then, Katsuragi Marina transforms into ExS-TIA once more and defeats the monsters. Marina and Souma continue fighting to protect everyone. Suddenly, another of the Four General, Naiolo, appears before them. Despite countless battles and accumulated growth, ExS-TIA is at mercy of Naiolo's overwhelming power. With the power from her bond with Souma, Marina somehow manages to hold out. How will ExS-TIA fight against the new formidable enemy? The curtain of another battle has risen yet again.
+
+[Translated from [DLsite](https://www.dlsite.com/pro/work/=/product_id/VJ013862.html/?locale=ja_JP)]
+
+来源：[VNDB v27170](https://vndb.org/v27170)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Lusterise]]（developer）<!-- AUTO:END duty -->
 

@@ -28,6 +28,18 @@ cover_image: "assets/covers/v1305.webp"
 ![[assets/covers/v1305.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+On June 6, 1996 , a chemical weapon known as Lucifer-Alpha under development in Chernoton, Russia, is released into the atmosphere, resulting in the death of 80% of the Eurasian and Eastern European population which in turn results in the death of half of the world's population. The contaminated area becomes uninhabitable for a decade, when Lucifer-Alpha mutates into a non-lethal form. This tragic event later becomes known as "the Catastrophe".
+
+Fifty years later, a breed of artificial life-forms or bioroids known as "snatchers" began appearing in the artificial island of Neo Kobe City, killing their victims and taking their place in society. Nobody knows exactly what they are or where they come from. As Gillian Seed, an amnesiac working for an Anti-Snatcher task force called J.U.N.K.E.R., the player's goal is to track down the source of the snatchers and discover Gillian's mysterious connections with them.
+
+[From [Wikipedia](http://en.wikipedia.org/wiki/Snatcher)]
+
+来源：[VNDB v1305](https://vndb.org/v1305)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[KCET]]（developer）
 - [[KONAMI]]（developer）<!-- AUTO:END duty -->

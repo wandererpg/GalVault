@@ -28,6 +28,22 @@ cover_image: "assets/covers/v58547.webp"
 ![[assets/covers/v58547.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Invited by his college classmate, Haibara Ao, the protagonist, Hasebe Masaaki, takes a part-time job at the Hinomori mansion during his summer vacation. However, while working there, he accidentally breaks an expensive item and ends up owing a huge amount of money.
+
+The head of the household, Hinomori Kohaku, proposes a game where the reward is the cancellation of the protagonist's debt. However, if he loses, he must surrender his life to her.
+
+If he wins, he'll be free. If he loses, his life will be forfeit.
+
+But that's not where things end, as things move into an unexpected direction. Kohaku, Ao, the head maid Towa, Kohaku's daughter Hinomori Shuka, and other servants of the household get drawn in, as days of indecency begin in the lust-filled walled garden.
+
+[Translated from [Getchu](https://www.getchu.com/soft.phtml?id=1343034)]
+
+来源：[VNDB v58547](https://vndb.org/v58547)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Atelier Kaguya BARE & BUNNY]]（developer）<!-- AUTO:END duty -->
 

@@ -27,6 +27,20 @@ cover_image: "assets/covers/v39613.webp"
 ![[assets/covers/v39613.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+On the fateful day I tried to escape this harsh reality, I fell into a mysterious world.
+
+I began to explore my surroundings with the girl I met there, only to stumble upon others of the female persuasion.
+
+And as I did, the secrets of this world came to light.
+
+[From [Steam](https://store.steampowered.com/app/2119940)]
+
+来源：[VNDB v39613](https://vndb.org/v39613)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[TALESSHOP]]（developer）<!-- AUTO:END duty -->
 

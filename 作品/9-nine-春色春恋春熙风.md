@@ -29,6 +29,18 @@ cover_image: "assets/covers/v23740.webp"
 ![[assets/covers/v23740.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This is the third game in Palette’s 9-nine- series. Shiromitsugawa was a nondescript university town until a large earthquake damaged the sacred treasure of the local shrine and mysterious objects called 'artifacts' started appearing from a parallel world, granting special powers to those who possessed them.
+
+Kakeru, his classmate Miyako, and imouto Sora investigated the petrification incidents and discovered that the culprit was the owner of the 'Evil Eye' artifact. Along the way, they came across a rival group of artifact users who called themselves Rig Veda, and one of its members was his senpai that he sees every morning, Haruka.
+
+[Edited from [Hau~ Omochikaeri!](https://omochikaeri.wordpress.com/2019/04/28/april-2019-eroge-releases/)]
+
+来源：[VNDB v23740](https://vndb.org/v23740)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Palette]]（developer）<!-- AUTO:END duty -->
 

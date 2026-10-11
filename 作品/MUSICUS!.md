@@ -28,6 +28,24 @@ cover_image: "assets/covers/v22783.webp"
 ![[assets/covers/v22783.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Overdrive's final project.
+
+Kei used to attend a famous high school with aspirations of one day becoming a doctor like his parents, but he stopped for a term due to certain reasons and is now studying part-time. While his journey had become more difficult, it was still possible to get back on track. However, after meeting many different types of people that he had not previously encountered and realizing that there was so much in the world that he did not know, he began to question what future he truly desired.
+
+After receiving a prize from a city-wide competition for a short story that he wrote, he was asked by Yagihara, the president of a music production, to accompany their band on their upcoming tour and write a report about the event. The band was Kachoufuugetsu, which once performed on the big stage. Its leader Korekiyo is quite a peculiar fellow and talked at length about how music was pointless and good for nothing. Even though Kei was perplexed about Korekiyo, he was taken away by the band’s music when he heard it for the first time.
+
+A few days later after that memorable first live, Kei found out that they were disbanding. Unable to accept the sudden news, he approached Korekiyo many times to convince him to change his mind, but no argument could sway him. Instead, Korekiyo asked him:
+
+“How about you play rock in my place?”
+
+[From [Hau~ Omochikaeri~!](https://omochikaeri.wordpress.com/2019/12/24/december-2019-eroge-releases/)]
+
+来源：[VNDB v22783](https://vndb.org/v22783)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[OVERDRIVE]]（developer）<!-- AUTO:END duty -->
 

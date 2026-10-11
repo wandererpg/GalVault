@@ -27,6 +27,22 @@ cover_image: "assets/covers/v53153.webp"
 ![[assets/covers/v53153.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+You are a highly anticipated up and coming volleyball star. Or rather, you were up until you destroyed your shoulder and your prospects along with it by overworking yourself. Now you're just a nobody who drowned your sorrows away with a series of poor life choices.
+
+This story takes place after a wake up call following a year of wallowing in despair with a life that spiraled downhill under the shadow of the star volleyball prospect you once were. You have just received a vague invitation for a meeting from the Dean of Baskerville State University, a highly prestigious university, regarding a potential scholarship when no other universities would give the current you a second glance.
+
+The condition of this scholarship however would turn out to be facing your demons as you return to the sport you turned your back on in a new role, becoming the coach of the school's women's volleyball team.
+
+But little did you know that facing your demons would be the easiest part of this task as the team is riddled with fatal problems, each threatening to end your scholarship left, right, and centre!  Yet by earnestly facing these girls and their issues with your eyes wide open, you might just end up growing in a way you never thought you would. Are you ready to coach the BSU Wild Cats and lead them to victory?
+
+[From [itch](https://lopaphi.itch.io/wild-cats)]
+
+来源：[VNDB v53153](https://vndb.org/v53153)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[LopaPhi]]（developer）<!-- AUTO:END duty -->
 

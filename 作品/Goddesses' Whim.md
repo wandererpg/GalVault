@@ -27,6 +27,24 @@ cover_image: "assets/covers/v38287.webp"
 ![[assets/covers/v38287.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+You, the protagonist of all this, with a big heart (and somenthing else..)
+Because of your past, you are someone with a boring and lonely life who does nothing but study and train.
+But one day, given your personality to help others no matter what, you decide to give your life to save another, which attracts the attention of a certain Goddess.
+
+Now, with the opportunity to return to live in another world, you will not let everything be as it was before.
+
+All goddesses seek not to be bored, and you will soon discover that some can be more capricious than others.
+
+What awaits you? What kind of people will you meet? And obviously, how many girls will be madly in love with you?
+
+[From [Itch.io](https://ncrow.itch.io/goddessess-whim)]
+
+来源：[VNDB v38287](https://vndb.org/v38287)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[NCrow]]（developer）<!-- AUTO:END duty -->
 

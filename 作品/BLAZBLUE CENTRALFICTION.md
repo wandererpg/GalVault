@@ -29,6 +29,26 @@ cover_image: "assets/covers/v17959.webp"
 ![[assets/covers/v17959.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Ragna and the others were in the Union of Hierarchical Cities, called "Ikaruga". They were rebelling against the ruler "Imperator" by their own reason.
+
+As an answer for the consequences, the mankind all over the world were decomposed into "Seithr". While the power inside Ragna was forcibly provoked to be out of control by the Imperator.
+
+Thereafter, the Imperator has vanished somewhere, leaving the huge black sphere called the "Embryo". And Ragna was lost, after he transformed into his internal existence, the "Black Beast".
+
+However... Ragna is still alive. When he gained consciousness at the 13th Hierarchical City "Kagutsuchi", the power of the Black Beast was sedated. Moreover, he was still himself though, he lost all of his memory.
+
+"Now time to rebel against the end."
+
+[From [Blazblue Wiki](http://blazblue.wikia.com/wiki/BlazBlue:_Centralfiction)]
+
+The most notable update in the game is that the Arcade has now three Acts instead of just featuring 8 battles. The first Act is named "Phantom of Labyrinth", while the second one is "Nightmare Memory", and the last and third one is called "The Replacement Blue".
+
+来源：[VNDB v17959](https://vndb.org/v17959)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Arc System Works Co., Ltd]]（developer）<!-- AUTO:END duty -->
 

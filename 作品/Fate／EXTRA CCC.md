@@ -28,6 +28,19 @@ cover_image: "assets/covers/v12369.webp"
 ![[assets/covers/v12369.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Head to the other side of the Fate Extra, the secret place where only the privileged few are allowed to enter. Because of a bug in the system, the Holy Grail wars is mutated. A new game starts, its lure and power draw magicians from across cyberspace.
+
+Players are exposed to new dangers and the girls reveal a side of themselves that they have kept hidden in the first game. The person who knows the truth is Sakura, and the servant waiting to be claimed is Saber. Full of tension and seduction, this is an adventure that simply could not be missed.
+
+
+ [From [Play Asia](http://www.play-asia.com/FateExtra_CCC/paOS-13-71-ch-49-fr-70-4eeo.html)]
+
+来源：[VNDB v12369](https://vndb.org/v12369)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[TYPE-MOON]]（developer）
 - [[imageepoch]]（developer）<!-- AUTO:END duty -->

@@ -29,6 +29,16 @@ cover_image: "assets/covers/v46116.webp"
 ![[assets/covers/v46116.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Fandisk of Da Capo 5.
+
+As spring blooms, continuation of the heroine stories unfolds, linking past into the yearned future.
+
+来源：[VNDB v46116](https://vndb.org/v46116)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[CIRCUS]]（developer）<!-- AUTO:END duty -->
 

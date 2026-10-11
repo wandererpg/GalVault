@@ -30,6 +30,16 @@ cover_image: "assets/covers/v12480.webp"
 ![[assets/covers/v12480.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This is the fandisk to Daitoshokan no Hitsujikai. “The book club is eternal!!” Everyone ignored Kana; it’s another normal day at the book club. They still joke around and do random tasks. The only difference is that Kyoutarou has a girlfriend and at least to him, they have a pure relationship even if the rest of the members call them a lovey-dovey couple. It’s become much more fun than before.
+
+[From [Hau~ Omochikaeri!](http://omochikaeri.wordpress.com/2014/03/01/march-2014-eroge-releases/)]
+
+来源：[VNDB v12480](https://vndb.org/v12480)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[AUGUST]]（developer）<!-- AUTO:END duty -->
 

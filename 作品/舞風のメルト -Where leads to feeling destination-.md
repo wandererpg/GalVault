@@ -29,6 +29,16 @@ cover_image: "assets/covers/v6678.webp"
 ![[assets/covers/v6678.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This is the fandisk for Suzukaze no Melt. In addition to after stories for the 5 main heroines, a new heroine is introduced (the goddess Kureha) and there will be a harem route as well. Of course subcharacters also have their time in the spotlight with Yui, Fuu, Haruna, Reona and Mina all getting mini stories.
+
+[From [Hau~ Omochikaeri!](http://omochikaeri.wordpress.com/2011/06/01/june-2011-eroge-releases//)]
+
+来源：[VNDB v6678](https://vndb.org/v6678)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Whirlpool]]（developer）<!-- AUTO:END duty -->
 

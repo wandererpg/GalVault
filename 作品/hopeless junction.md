@@ -27,6 +27,24 @@ cover_image: "assets/covers/v45918.webp"
 ![[assets/covers/v45918.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The story follows a bunch of tgirls on a week-long journey on the world famous transcontinental train, 'The Starline Junction Express'.
+
+During these seven days on board, when meeting a girl with a mysterious air to her, Kalinda takes the opportunity to try and be bold for the first time in her life.
+
+When the mysterious girl, Zarina, ends up being a mean sadist, what ensures is drunken bullying and sexual chaos that even pulls in Kalinda's closest friend and sister, Chandra, into this confusing whirlpool of conflicting emotions.
+
+Weird gay sex, utter confusion, heart wrenching panic and life altering trauma.
+
+Please enjoy it.
+
+[From [Steam](https://store.steampowered.com/app/3571820/HOPELESS_JUNCTION_cuppy_dog_barf_girl_and_co/)]
+
+来源：[VNDB v45918](https://vndb.org/v45918)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Nadia Nova]]（developer）<!-- AUTO:END duty -->
 

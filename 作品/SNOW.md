@@ -28,6 +28,16 @@ cover_image: "assets/covers/v893.webp"
 ![[assets/covers/v893.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The story of Snow starts when the main protagonist Izumo Kanata visits a small village called Ryujinmura (village of the dragon god) to help his cousin Tsugumi manage a local hotel with hot springs. In the village there is an old legend: In ancient times, the village is protected by the dragon goddess. However, one day the dragon goddesses fell in love with a human, which is strictly forbidden, and this incident finally caused the village to be always covered by snow after that. The game then tells the daily life of the protagonist in the village, and finally links the story to the legend of dragon goddess.
+
+[From [Wikipedia](http://en.wikipedia.org/wiki/Snow_(video_game))]
+
+来源：[VNDB v893](https://vndb.org/v893)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Studio Mebius]]（developer）<!-- AUTO:END duty -->
 

@@ -27,6 +27,20 @@ cover_image: "assets/covers/v51048.webp"
 ![[assets/covers/v51048.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Your rough childhood is over, and you stand on the precipice of adulthood with only one goal in mind: To become an exceptional restaurateur like your grandfather. But for now, you'll settle for building a modest cafe.
+
+Money is tight, and challenges abound balancing your dream with your final year of school, but with hard work and determination you know that you can build a life for yourself and the girls you meet along the way.
+
+In Cosy Cafe you will develop romantic and increasingly sexual relationships with a number of girls, culminating in a harem that eventually becomes a family. There will be a particular focus on wholesome maledom, **and of course, there will be a lot of loving and kinky sex!**
+
+[From [itch](https://cosy-creator.itch.io/cosy-cafe)]
+
+来源：[VNDB v51048](https://vndb.org/v51048)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Cosy Creator]]（developer）<!-- AUTO:END duty -->
 

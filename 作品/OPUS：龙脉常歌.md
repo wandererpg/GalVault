@@ -28,6 +28,16 @@ cover_image: "assets/covers/v36728.webp"
 ![[assets/covers/v36728.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Taking place in a lawless solar system at the height of a gold rush in space, players play as the exiled noble Jun, who is accompanied by Eda, a witch orphaned by war. Together, they embark on a journey of self-discovery, as they search for treasure-filled asteroids of legend and lore. However, what appears to be a blessed encounter will turn into a lifelong burden... Will Jun, now a withered old man, be able to see his lover one last time?
+
+[From the [official website](https://www.sigono.com/presskit-opus-echo-of-starsong)]
+
+来源：[VNDB v36728](https://vndb.org/v36728)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Sigono]]（developer）<!-- AUTO:END duty -->
 

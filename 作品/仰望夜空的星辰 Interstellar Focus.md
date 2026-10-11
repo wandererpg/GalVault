@@ -30,6 +30,14 @@ cover_image: "assets/covers/v22303.webp"
 ![[assets/covers/v22303.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The FD to the events of the original Miagete Goran, Yozora Hoshi o involving two heroines: Hikari and Saya.
+
+来源：[VNDB v22303](https://vndb.org/v22303)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[PULLTOP]]（developer）<!-- AUTO:END duty -->
 

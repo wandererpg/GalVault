@@ -27,6 +27,16 @@ cover_image: "assets/covers/v33368.webp"
 ![[assets/covers/v33368.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Our Wonderland is a horror-fantasy visual novel focusing on the struggles, issues, and deteriorating relationships between five childhood friends (amplified to horrific effect). It contains five different arcs, each with its own ending, and your choices affect the amount of peril the protagonist experiences (hint: how many times Iggy violently dies), as well as the final ending (hint: who Iggy ends up with at the very end, because apparently in some messed-up way, this is also the world's worst dating sim).
+
+As an extra note, this game also touches on a lot of LGBTQIA+ themes.
+
+来源：[VNDB v33368](https://vndb.org/v33368)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Carrot Patch Games]]（developer）<!-- AUTO:END duty -->
 

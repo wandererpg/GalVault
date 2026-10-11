@@ -30,6 +30,16 @@ cover_image: "assets/covers/v11093.webp"
 ![[assets/covers/v11093.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Michiru and Ushio continue to spend their days solving problems at Tenbinruri Academy as part of the special investigation office, otherwise known as ‘Tokusa’. One day, a foreign girl named Adelheid came to seek their help in looking for her grandmother’s memento. Along the way, will they find out more about the link between the day and night worlds?
+
+[From [Hau~ Omochikaeri!](http://omochikaeri.wordpress.com/2013/01/01/january-2013-eroge-releases/)]
+
+来源：[VNDB v11093](https://vndb.org/v11093)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Unison Shift： Blossom]]（developer）<!-- AUTO:END duty -->
 

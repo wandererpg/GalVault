@@ -29,6 +29,16 @@ cover_image: "assets/covers/v13105.webp"
 ![[assets/covers/v13105.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This is the new story for D.C. III, focused on the Kazami Gakuen side. Kiyotaka enjoys his third-year school life at Kazami Gakuen with the other official news club members, Ricca, Charles, Himeno, Sara and Aoi. After Golden Week, they are excited for the various seasonal events, such as the athletic meet, summer camp, culture festival and of course, the Christmas party. Will he end up in a special relationship with one of the girls after a year that passes like a dream?
+
+[From [Micchi's blog](http://omochikaeri.wordpress.com/2014/04/01/april-2014-eroge-releases/)]
+
+来源：[VNDB v13105](https://vndb.org/v13105)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[CIRCUS]]（developer）<!-- AUTO:END duty -->
 

@@ -28,6 +28,18 @@ cover_image: "assets/covers/v52711.webp"
 ![[assets/covers/v52711.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Tokyo 7th Sisters is a Japanese idol raising simulation and rhythm game released for iOS and Android in February 2014, developed and published by Donuts Co. Ltd. with music produced and published under record label Victor Entertainment. The game has a story mode (called Scout in-game) in which players search for idol cards while progressing through the story and a battle mode in which players battle other players or certain in-game characters using their idol cards.
+
+The story centers on "new generation" idols from the studio "777 (Three Seven)", referred to as Nanastar, in the year 2034, in a future where idols are considered a thing of the past. The player acts as the manager of Nanastar, whose job is to recruit and train a number of different girls by collecting and leveling collectible cards. The cast of characters includes more than 50 fully-voiced, unique idols from different backgrounds.
+
+(from [Wikipedia](https://en.wikipedia.org/wiki/Tokyo_7th_Sisters))
+
+来源：[VNDB v52711](https://vndb.org/v52711)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[DONUTS Co. Ltd]]（developer）<!-- AUTO:END duty -->
 

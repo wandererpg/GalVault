@@ -27,6 +27,16 @@ cover_image: "assets/covers/v55850.webp"
 ![[assets/covers/v55850.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The young prince has been in exile since childhood. Unexpectedly, he gets the opportunity to return to his home. But there will be many dangers on his way, because the closer you are to the crown, the more rivals and enemies you have.​
+
+[From [Patreon](https://www.patreon.com/lazy_monkey)]
+
+来源：[VNDB v55850](https://vndb.org/v55850)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Lazy Monkey]]（developer）<!-- AUTO:END duty -->
 

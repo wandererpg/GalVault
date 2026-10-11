@@ -29,6 +29,18 @@ cover_image: "assets/covers/v29066.webp"
 ![[assets/covers/v29066.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+A direct sequel to DC4 that tells after stories with the heroines.
+
+The player will once again assume the role of Ichito Tokisaka, a student at Kagami Academy who will enjoy the Kagasai autumn festival with the girlfriend he fell in love with last Spring. The available heroines in this visual novel are Arisu Sagisawa, Nino Tokisaka (Ichito’s stepsister), Sorane Oumi, Hiyori Shirakawa, Shiina Hojo, Miu Mishima, and Chiyoko Hinohara.
+
+[from [Siliconera](https://www.siliconera.com/da-capo-4-fortunate-departures-coming-to-pcs-in-early-2021/)]
+
+来源：[VNDB v29066](https://vndb.org/v29066)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[CIRCUS]]（developer）<!-- AUTO:END duty -->
 

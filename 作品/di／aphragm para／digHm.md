@@ -27,6 +27,20 @@ cover_image: "assets/covers/v57861.webp"
 ![[assets/covers/v57861.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Hic amavit puerum Cyparissum nomine, qui habebat mansuetissimam cervam. hanc cum Silvanus nescius occidisset, puer est extinctus dolore: quem amator deus in cupressum arborem nominis eius vertit, quam pro solacio portare dicitur.
+
+Meet Cyparisse, a photographer who wants to ****** every little dirty ****** of the flawless Silvania.
+
+A story of hate, truth, love, and eternity.
+
+[From [itch.io](https://azalinworks.itch.io/dipara)]
+
+来源：[VNDB v57861](https://vndb.org/v57861)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Azalinworks]]（developer）<!-- AUTO:END duty -->
 

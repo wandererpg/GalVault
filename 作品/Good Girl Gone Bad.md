@@ -27,6 +27,16 @@ cover_image: "assets/covers/v21177.webp"
 ![[assets/covers/v21177.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+You play as Ashley and make choices that will affect her story in a meaningful way. Are you a good girl or a bad one? Will you stay in the right path or deviate and fall prey to the temptations you'll find in your way? Whatever you choose, it will lead to interesting, exciting and vastly different outcomes.
+
+[From [Patreon](https://www.patreon.com/Evakiss)]
+
+来源：[VNDB v21177](https://vndb.org/v21177)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Eva Kiss]]（developer）<!-- AUTO:END duty -->
 

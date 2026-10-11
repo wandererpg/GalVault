@@ -27,6 +27,16 @@ cover_image: "assets/covers/v60468.webp"
 ![[assets/covers/v60468.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+In Inanna Revenge, you play as Arthur (customizable name), a 21-year-old man living a dull and uneventful life with his stepsister—until one fateful day, that life comes to an abrupt end. But death doesn’t mark the end of your journey. A goddess named Ea offers you a chance to be reincarnated into a new world, one brimming with magic and adventure. What seems like the beginning of a fairy tale quickly reveals a harsher reality. To carve out your place in this new world, you’ll need to fight, face countless challenges, make tough decisions, and build meaningful relationships. Will you rise to the occasion, or be consumed by the trials ahead?
+
+[From [URL=https://atemx-games.itch.io/inanna-revenge]itch.io[/URL]]
+
+来源：[VNDB v60468](https://vndb.org/v60468)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[AtemX Games]]（developer）<!-- AUTO:END duty -->
 

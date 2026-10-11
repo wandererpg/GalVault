@@ -27,6 +27,16 @@ cover_image: "assets/covers/v58641.webp"
 ![[assets/covers/v58641.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+**USSR, 1986.** When Ira Grachevskaya goes missing in the closed city of Vorkuta-5, not a soul seems to be concerned – except for the quiet outcast Asya Shubina, that is. Uncover the mystery behind Ira’s disappearance, transmit your radio signal to the universe and learn why a bird flies past the window.
+
+[From [Steam](https://store.steampowered.com/app/4122860/)]
+
+来源：[VNDB v58641](https://vndb.org/v58641)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Ferry]]（developer）<!-- AUTO:END duty -->
 

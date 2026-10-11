@@ -28,6 +28,20 @@ cover_image: "assets/covers/v7719.webp"
 ![[assets/covers/v7719.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+Hamilcal, nicknamed Hamil, is the successor of the Hispania’s throne, but his country was conquered by the ever growing Holy Empire. He and his people are treated as slaves and Hamil has to pretend to be a fool (acting almost like a retard) just to discourage his people from doing a counter attack that would surely fail.
+
+On a fateful night, he meets a strange girl who claims to be the main goddess of his religion, the Goddess of War, Ashtart (Tart). She treated Hamil’s wounds and sang a lullaby to help him sleep. This was certainly the happiest day of Hamil's life, but everything crumbled when messages from the empire interrupted their sacred festival to officially announce the slavery of the Hispania’s people, and as a symbolic act, they decided to sacrifice Tart for heresy against their supreme god Watos.
+
+This made Hamil go into a rampage, summoning the forces of the God of Conquest, Melqart and releasing all the magic he had been building up for 7 years to assassinate a whole army by himself. However, Hamil failed to notice that Tart was set on fire by one of the empire’s guards, and he desperately jumped into the flames to rescue her. Deeply moved by Hamil’s bravery, every Hispanian in the festival started to root for him and their savior goddess, their restored faith revitalizing Tart’s power, saving her from the flames. Rejoining with Hamil while still inside the flames, they performed the sacred ritual of marriage between a goddess and a mortal to use the power from their magical resonance to summon an army of giant elephants and machines from the Heavens and, with it, they smashed many other Imperial troops. Taking advantage of the situation, Hamil ordered every Hispanian troop to attack. This was how he came to be known as the Conqueror King and how he retrieved his whole country in a single night.
+
+[From [Otaku Overdrive](http://otakuoverdrive.com/2013/11/17/game-review-tears-to-tiara-2ps3/)]
+
+来源：[VNDB v7719](https://vndb.org/v7719)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[AQUAPLUS]]（developer）
 - [[STING]]（developer）<!-- AUTO:END duty -->

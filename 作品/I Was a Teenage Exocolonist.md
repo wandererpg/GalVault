@@ -27,6 +27,26 @@ cover_image: "assets/covers/v37868.webp"
 ![[assets/covers/v37868.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The Choices You Make, Make You.
+Growing up in humanity’s first extrasolar space colony means navigating a new world full of wonder, danger, and beauty. Explore the wilderness, study, fall in love, discover strange creatures, and deal with the consequences of your actions. Your choices will directly affect the lives of your friends and the fate of the colony. What kind of world will you help make? Will you survive to enjoy it? Why do you remember doing this before?
+
+Growing Up on an Alien Planet
+You have your whole life ahead of you. Will you spend it studying in school, or diving into the intriguing flora and fauna of this new world? Will you introduce space-age technology, or live in harmony with nature? Will you battle massive beasts, or nurture future generations? Realized in brilliant watercolor, the world of Vertumna is yours to explore.
+
+Your Pasts and Your Futures Matter
+Everything you learn and experience will make you and your colony stronger. You will thrive and you will make mistakes. These formative moments - your memories, decisions, and friendships - become collectible cards you carry with you. Each season brings new obstacles on Vertumna. The battle cards you earn from your experiences give you new options for overcoming these challenges, whether that is navigating relationships, learning new skills, exploring the planet, or staying alive. Every decision counts, during this life and the next.
+
+How Many Lives Will YOU Live?
+The cosmos is full of incredible mysteries, and your ability to remember your past lives is one of them. There are dozens of different endings to your story. How many lives will it take to save both your colony and the planet? Are you ready to wake up again?
+
+[From [itch.io](https://finji.itch.io/exocolonist)]
+
+来源：[VNDB v37868](https://vndb.org/v37868)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Northway Games]]（developer）<!-- AUTO:END duty -->
 

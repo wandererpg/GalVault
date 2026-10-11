@@ -28,6 +28,25 @@ cover_image: "assets/covers/v20072.webp"
 ![[assets/covers/v20072.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+The main character - Hiiragi Miu, which is actively involved in the entertainment industry as a singer (※ name can be changed).
+Miu still nurtures feelings for his first love, because this man had taught her the joy of singing.
+
+She continues to work diligently in the music industry.
+
+Once, Senpai of musical group from agencies Miu tell her that a live round to be invited guests.
+
+He had to go to the first day of the tour as the support.
+The guest turned out to Shinobu Kurosawa from apple-polisher.
+After the live concert, in the locker room were collected members of the band Shinobu - Otoishi Yuusei, Aoi Yuki and first love Miu - Amagi Narumi.
+
+What is the way of love with a band members who love music just as you are ...?
+
+来源：[VNDB v20072](https://vndb.org/v20072)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[honeybee black]]（developer）<!-- AUTO:END duty -->
 

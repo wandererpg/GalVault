@@ -27,6 +27,16 @@ cover_image: "assets/covers/v51576.webp"
 ![[assets/covers/v51576.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+This game is about angels. This game is about trying to kill your sister. This game is about trying to kiss your sister. This game is about the weight of the world.
+
+[From ingame description]
+
+来源：[VNDB v51576](https://vndb.org/v51576)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Nadia Nova]]（developer）<!-- AUTO:END duty -->
 

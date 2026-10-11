@@ -28,6 +28,19 @@ cover_image: "assets/covers/v13962.webp"
 ![[assets/covers/v13962.webp|300]]
 <!-- AUTO:END image -->
 
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+At Gingira Academy, a prestigious school known for producing top-tier idols, students compete in cutthroat battles for the spotlight, akin to idol elections and center position wars. This is where the stars of the entertainment industry gather to aim for the top.
+The protagonist, Hoshizaki Hokuto, is forced into the school’s Producer Course by his parents’ behind-the-scenes maneuvering. With no interest in the role, he plans to coast through the next three years. But there’s a catch: to graduate, he must debut every single member of his class as an idol! (For some reason, this part is oddly practical.)
+When Hokuto is suddenly thrust into a bizarre reality—like a variety show challenge where he’s given a monthly budget of just 10,000 yen—he hesitates. But after a certain incident, he vows to debut (and impregnate) every member of his class. With the blood of a mythical-level producer father and a legendary idol mother running through his veins, Hokuto’s passion burns hot and wild!
+Can Hoshizaki Hokuto conquer his entire class, debut every idol with a “creampie debut,” and achieve his “impregnation producer” goals before graduation?!
+
+[Translated from [dlsite](https://www.dlsite.com/pro/work/=/product_id/VJ009515.html/)]
+
+来源：[VNDB v13962](https://vndb.org/v13962)；简介保留原文。
+<!-- AUTO:END synopsis -->
+
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[SQUEEZ]]（developer）<!-- AUTO:END duty -->
 
