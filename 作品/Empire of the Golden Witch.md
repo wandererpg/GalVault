@@ -25,6 +25,7 @@ vndb_devstatus: 0
 
 # Empire of the Golden Witch
 
+
 ## 封面
 <!-- AUTO:BEGIN image -->
 ![[assets/covers/v55324.webp|300]]

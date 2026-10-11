@@ -24,6 +24,7 @@ vndb_devstatus: 0
 
 # Repercussion of the Golden Witch
 
+
 ## 封面
 <!-- AUTO:BEGIN image -->
 ![[assets/covers/v18412.webp|300]]

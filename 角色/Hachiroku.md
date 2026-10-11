@@ -1,24 +1,27 @@
 ---
-entity_id: "vndb:character:c39202"
-type: "character"
-display_title: "羽千洛久"
-title_zh: "羽千洛久"
+entity_id: vndb:character:c39202
+type: character
+display_title: "八六"
+title_zh: "八六"
 title_ja: "ハチロク"
-title_zh_quality: "phonetic_transliteration"
-title_status: "machine_generated"
+title_zh_quality: "manual_local"
+title_status: "reviewed"
+title_zh_source: "本页人工修订（来源待核实）"
+title_zh_confidence: "medium"
+title_zh_needs_review: false
 aliases:
   - "Hachiroku"
   - "ハチロク"
   - "鈴"
   - "Suzu"
 source_ids:
-  vndb: "c39202"
+  vndb: c39202
 source_urls:
-  vndb: "https://vndb.org/c39202"
-portrait_image: "assets/characters/c39202.webp"
+  vndb: https://vndb.org/c39202
+portrait_image: assets/characters/c39202.webp
 ---
 
-# 羽千洛久
+# 八六
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

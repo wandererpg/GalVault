@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c55094"
 type: "character"
-display_title: "䌷V惠恩达阿寿"
-title_zh: "䌷V惠恩达阿寿"
+display_title: "紬 ヴェンダース"
+title_zh: ""
 title_ja: "紬 ヴェンダース"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c55094"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Tsumugi Wenders"
-  - "紬 ヴェンダース"
   - "Cotton Candy-san"
   - "ツムツム"
   - "Tsumu-Tsumu"
@@ -21,7 +23,7 @@ source_urls:
 portrait_image: "assets/characters/c55094.webp"
 ---
 
-# 䌷V惠恩达阿寿
+# 紬 ヴェンダース
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

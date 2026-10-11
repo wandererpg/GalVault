@@ -19,10 +19,21 @@ cover_image: "assets/covers/v5055.webp"
 
 # Witches & Woodlands
 
+
 ## 封面
 <!-- AUTO:BEGIN image -->
 ![[assets/covers/v5055.webp|300]]
 <!-- AUTO:END image -->
+
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+On the first twilight... we shall play an RPG. In this Umineko fanfic, we'll be able to see all the cousins playing a role playing game, with Beatrice as the game master. What kind of a cruel and challenging story will she weave? Will the adventurers manage to pass the seven trials? And finally - will they be able to defeat the final boss and save the day?
+
+From the creator of USO DA!! yonkoma, a fanfic taking place in the Umineko universe.
+
+来源：[VNDB v5055](https://vndb.org/v5055)；简介保留原文。
+<!-- AUTO:END synopsis -->
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Jan-Poo]]（developer）<!-- AUTO:END duty -->

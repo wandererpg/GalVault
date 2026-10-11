@@ -1,14 +1,16 @@
 ---
 entity_id: "vndb:character:c68283"
 type: "character"
-display_title: "加藤乌美"
-title_zh: "加藤乌美"
+display_title: "加藤 うみ"
+title_zh: ""
 title_ja: "加藤 うみ"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "original_pending_review"
+title_status: "needs_review"
+title_zh_source: "https://vndb.org/c68283"
+title_zh_confidence: "low"
+title_zh_needs_review: true
 aliases:
   - "Katou Umi"
-  - "加藤 うみ"
   - "鷹原 羽未"
   - "Takahara Umi"
 source_ids:
@@ -18,7 +20,7 @@ source_urls:
 portrait_image: "assets/characters/c68283.webp"
 ---
 
-# 加藤乌美
+# 加藤 うみ
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

@@ -1,22 +1,25 @@
 ---
-entity_id: "vndb:character:c156288"
-type: "character"
-display_title: "鸣濑诗洛羽"
-title_zh: "鸣濑诗洛羽"
+entity_id: vndb:character:c156288
+type: character
+display_title: "鸣濑白羽"
+title_zh: "鸣濑白羽"
 title_ja: "鳴瀬 しろは"
-title_zh_quality: "converted_original"
-title_status: "machine_generated"
+title_zh_quality: "manual_local"
+title_status: "reviewed"
+title_zh_source: "本页人工修订（来源待核实）"
+title_zh_confidence: "medium"
+title_zh_needs_review: false
 aliases:
   - "Naruse Shiroha"
   - "鳴瀬 しろは"
 source_ids:
-  vndb: "c156288"
+  vndb: c156288
 source_urls:
-  vndb: "https://vndb.org/c156288"
-portrait_image: "assets/characters/c156288.webp"
+  vndb: https://vndb.org/c156288
+portrait_image: assets/characters/c156288.webp
 ---
 
-# 鸣濑诗洛羽
+# 鸣濑白羽
 
 ## 角色画像
 <!-- AUTO:BEGIN image -->

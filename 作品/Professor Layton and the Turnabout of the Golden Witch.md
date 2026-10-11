@@ -22,6 +22,7 @@ vndb_devstatus: 2
 
 # Professor Layton and the Turnabout of the Golden Witch
 
+
 ## 封面
 <!-- AUTO:BEGIN image -->
 ![[assets/covers/v49614.webp|300]]

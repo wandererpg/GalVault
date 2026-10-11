@@ -27,6 +27,7 @@ vndb_devstatus: 0
 
 # Umineko: Letter to the Golden Witch
 
+
 ## 封面
 <!-- AUTO:BEGIN image -->
 ![[assets/covers/v33017.webp|300]]

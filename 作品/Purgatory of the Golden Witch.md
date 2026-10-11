@@ -19,10 +19,23 @@ cover_image: "assets/covers/v33020.webp"
 
 # Purgatory of the Golden Witch
 
+
 ## 封面
 <!-- AUTO:BEGIN image -->
 ![[assets/covers/v33020.webp|300]]
 <!-- AUTO:END image -->
+
+## 简介（VNDB 原文）
+
+<!-- AUTO:BEGIN synopsis -->
+In the world after the Rokkenjima incident on October 4th, 1986, the concept of forgeries is no longer unknown - different stories and variations claiming to tell the truth behind the events of that day are published and explored by those who seek the truth, or by those who search for a mere escape from boredom.
+
+While most forgeries aren't worth a skim, one forgery gained the attention of Hachijo Ikuko, and she offers her partner, Hachijo Tohya, to read it along with her.
+
+[From [itch.io](https://uminetta.itch.io/purgatory-of-the-golden-witch)]
+
+来源：[VNDB v33020](https://vndb.org/v33020)；简介保留原文。
+<!-- AUTO:END synopsis -->
 
 ## 会社与职责
 <!-- AUTO:BEGIN duty -->- [[Uminetta]]（developer）<!-- AUTO:END duty -->
