@@ -317,6 +317,7 @@ def select_title(text: str, item: dict, override: str | None) -> tuple[str, str]
     # Preserve edits to older machine-generated names and explicit manual titles.
     if current and (quality in {"manual_override", "manual_local"} or
                     (quality in {"converted_original", "glossary", "phonetic_transliteration"}
+                     and current != generated_title(item)[0]
                      and current != legacy_generated_title(item)[0])):
         return current, "manual_local"
     return generated_title(item)

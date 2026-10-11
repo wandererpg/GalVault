@@ -24,6 +24,15 @@ class NameQualityTests(unittest.TestCase):
         self.assertEqual(n.generated_title({'original': '古河 渚', 'name': 'Furukawa Nagisa'}), ('古河渚', 'converted_original'))
         self.assertEqual(n.generated_title({'name': 'Teacher'}), ('老师', 'glossary'))
 
+    def test_new_han_conversion_not_mistaken_for_manual_edit(self):
+        item = {'original': '李・王', 'name': 'Li Wang'}
+        title, quality = n.generated_title(item)
+        note = f'---\ndisplay_title: {title}\ntitle_zh_quality: {quality}\n---\n# {title}\n'
+        self.assertEqual(n.select_title(note, item, None), (title, quality))
+        item = {'original': '博士', 'name': 'Doctor'}
+        note = '---\ndisplay_title: 博士\ntitle_zh_quality: converted_original\n---\n# 博士\n'
+        self.assertEqual(n.select_title(note, item, None), ('博士', 'converted_original'))
+
     def test_manual_title_preserved(self):
         item = {'original': '鳴瀬 しろは', 'name': 'Naruse Shiroha'}
         note = '---\ndisplay_title: 鸣濑白羽\ntitle_zh_quality: converted_original\n---\n# 鸣濑白羽\n'
